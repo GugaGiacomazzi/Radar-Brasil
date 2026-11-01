@@ -1,0 +1,34 @@
+name: Atualizar dados
+
+on:
+  schedule:
+    - cron: '*/20 * * * *'   # a cada 20 minutos (o GitHub pode atrasar alguns minutos)
+  workflow_dispatch:          # botão "Run workflow" para rodar na hora
+
+permissions:
+  contents: write
+
+concurrency:
+  group: atualizar-dados
+  cancel-in-progress: false
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Buscar dados
+        env:
+          BRAPI_TOKEN: ${{ secrets.BRAPI_TOKEN }}
+        run: node scripts/update.mjs
+      - name: Salvar se mudou
+        run: |
+          git config user.name  "radar-bot"
+          git config user.email "radar-bot@users.noreply.github.com"
+          git add data/data.json
+          git diff --cached --quiet || git commit -m "Atualiza dados $(date -u +'%Y-%m-%d %H:%M') UTC"
+          git push

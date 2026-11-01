@@ -1,0 +1,34 @@
+{
+  "updated": "2026-10-30T21:00:00.000Z",
+  "market": {
+    "ibov": {
+      "price": 167921.8,
+      "pct": -0.75,
+      "time": "2026-10-30T21:00:00.000Z",
+      "history": [
+        { "d": "2026-09-30", "c": 186330 },
+        { "d": "2026-10-23", "c": 205083 },
+        { "d": "2026-10-29", "c": 169186 },
+        { "d": "2026-10-30", "c": 167922 }
+      ]
+    },
+    "fx": {
+      "USD": { "bid": 5.446, "pct": 1.09, "time": "2026-10-30 17:00:00" },
+      "EUR": { "bid": 6.0522, "pct": 0.87, "time": "2026-10-30 17:00:00" },
+      "GBP": { "bid": 7.22, "pct": 0, "time": "2026-10-30 17:00:00" }
+    }
+  },
+  "indicators": {
+    "selic": { "date": "2026-10-30", "value": 13.75 },
+    "ipca12m": { "date": "2026-10-23", "value": 4.62 },
+    "debtPct": { "date": "2026-09-01", "value": 82.9 },
+    "debt": { "value": 11100000000000, "refMonth": "2026-09", "from": "2026-10-01T03:00:00.000Z", "perSec": 38184 }
+  },
+  "tax": { "year": 2026, "marks": [ { "date": "2026-03-27", "value": 1000000000000 }, { "date": "2026-09-28", "value": 3000000000000 } ] },
+  "news": [
+    { "title": "Presidente do TSE anuncia reeleição de Lula e faz balanço do 2º turno das Eleições 2026", "link": "https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/presidente-do-tse-anuncia-reeleicao-de-lula-e-faz-balanco-do-2o-turno-das-eleicoes-2026", "date": "2026-10-25T23:00:00.000Z", "summary": "Lula (PT) teve 51,79% dos votos válidos e Flávio Bolsonaro (PL), 48,21%.", "source": "TSE", "cat": "politica" },
+    { "title": "CCJ conclui votação da PEC da Segurança; texto vai ao Plenário", "link": "https://www12.senado.leg.br/noticias/materias/2026/10/14/ccj-conclui-votacao-da-pec-da-seguranca-texto-vai-ao-plenario", "date": "2026-10-14T18:00:00.000Z", "summary": "", "source": "Agência Senado", "cat": "politica" },
+    { "title": "O IPCA-15 é de 0,32% em outubro", "link": "https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/48349-o-ipca-15-e-de-0-32-em-outubro", "date": "2026-10-23T12:00:00.000Z", "summary": "", "source": "IBGE", "cat": "economia" }
+  ],
+  "errors": ["Dados iniciais de exemplo: o robô ainda não rodou."]
+}
