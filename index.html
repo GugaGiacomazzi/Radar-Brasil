@@ -82,6 +82,7 @@ header h1 span{color:var(--accent)}
 .item .meta{display:flex;flex-direction:column;gap:4px}
 .tag{font-family:var(--f-display);font-size:11px;letter-spacing:.1em;text-transform:uppercase;font-weight:700;color:var(--accent)}
 .tag.economia{color:var(--gold)}
+.tag.internacional{color:var(--muted)}
 .item .date,.item .srcname{font-family:var(--f-mono);font-size:12px;color:var(--muted)}
 .item h3{font-size:19px;margin-bottom:4px}
 .item h3 a{color:var(--ink);text-decoration:none}
@@ -167,9 +168,10 @@ footer details{margin-top:8px}
         <button data-f="all" aria-pressed="true">Todas</button>
         <button data-f="politica" aria-pressed="false">Política</button>
         <button data-f="economia" aria-pressed="false">Economia</button>
+        <button data-f="internacional" aria-pressed="false">Internacional</button>
       </div>
     </div>
-    <div class="criteria">Manchetes copiadas direto dos canais oficiais (Senado, Câmara, TSE, IBGE, Banco Central e, marcados como "governo", Planalto e Fazenda), sem reescrita e sem sites de opinião. Clique para ler na fonte.</div>
+    <div class="criteria">Manchetes copiadas direto dos canais oficiais (Senado, Câmara, Banco Central e, marcados como "governo", Planalto e gov.br), sem reescrita e sem sites de opinião. Internacional: ONU News e as emissoras públicas BBC News Brasil e DW Brasil. Clique para ler na fonte.</div>
     <div id="newsList"></div>
   </section>
 
@@ -286,7 +288,7 @@ function renderNews(f){
   if(!items.length){list.innerHTML='<p class="note">Nenhuma notícia carregada ainda.</p>';return;}
   items.forEach(n=>{
     const el=document.createElement('article'); el.className='item';
-    el.innerHTML=`<div class="meta"><span class="tag ${n.cat}">${n.cat==='politica'?'Política':'Economia'}</span><span class="date"></span><span class="srcname"></span></div><div><h3><a target="_blank" rel="noopener"></a></h3><p></p></div>`;
+    el.innerHTML=`<div class="meta"><span class="tag ${n.cat}">${({politica:'Política',economia:'Economia',internacional:'Internacional'})[n.cat]||n.cat}</span><span class="date"></span><span class="srcname"></span></div><div><h3><a target="_blank" rel="noopener"></a></h3><p></p></div>`;
     el.querySelector('.date').textContent=n.date?new Date(n.date).toLocaleString('pt-BR',{day:'2-digit',month:'2-digit',hour:'2-digit',minute:'2-digit',timeZone:'America/Sao_Paulo'}):'';
     el.querySelector('.srcname').textContent=n.source;
     const a=el.querySelector('a'); a.href=n.link; a.textContent=n.title;
