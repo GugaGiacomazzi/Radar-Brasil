@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-01T23:30:23.132Z",
+  "updated": "2026-11-01T23:35:07.125Z",
   "market": {
     "ibov": {
       "price": 167921.8,
       "pct": -0.75,
-      "time": "2026-11-01T23:30:17.786Z",
+      "time": "2026-11-01T23:34:59.974Z",
       "history": [
         {
           "d": "2026-10-02",
@@ -321,7 +321,6 @@
   ],
   "errors": [
     "câmbio (AwesomeAPI): HTTP 429",
-    "IPCA 12m (SGS 13522): j.map is not a function",
     "Dívida/PIB (SGS 13762): SGS 13762: último dado é de 2025-09-01 (desatualizado)",
     "feed TSE: HTTP 403",
     "feed IBGE: HTTP 403",
