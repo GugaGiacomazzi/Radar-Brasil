@@ -1,18 +1,82 @@
 {
-  "updated": "2026-11-01T23:20:24.949Z",
+  "updated": "2026-11-01T23:30:23.132Z",
   "market": {
     "ibov": {
       "price": 167921.8,
       "pct": -0.75,
-      "time": "2026-10-30T21:00:00.000Z",
+      "time": "2026-11-01T23:30:17.786Z",
       "history": [
         {
-          "d": "2026-09-30",
-          "c": 186330
+          "d": "2026-10-02",
+          "c": 192115
+        },
+        {
+          "d": "2026-10-05",
+          "c": 206912
+        },
+        {
+          "d": "2026-10-06",
+          "c": 205835
+        },
+        {
+          "d": "2026-10-07",
+          "c": 204302
+        },
+        {
+          "d": "2026-10-08",
+          "c": 206220
+        },
+        {
+          "d": "2026-10-09",
+          "c": 209067
+        },
+        {
+          "d": "2026-10-13",
+          "c": 206888
+        },
+        {
+          "d": "2026-10-14",
+          "c": 206506
+        },
+        {
+          "d": "2026-10-15",
+          "c": 204324
+        },
+        {
+          "d": "2026-10-16",
+          "c": 205430
+        },
+        {
+          "d": "2026-10-19",
+          "c": 205079
+        },
+        {
+          "d": "2026-10-20",
+          "c": 208296
+        },
+        {
+          "d": "2026-10-21",
+          "c": 206495
+        },
+        {
+          "d": "2026-10-22",
+          "c": 204120
         },
         {
           "d": "2026-10-23",
           "c": 205083
+        },
+        {
+          "d": "2026-10-26",
+          "c": 176608
+        },
+        {
+          "d": "2026-10-27",
+          "c": 175710
+        },
+        {
+          "d": "2026-10-28",
+          "c": 171006
         },
         {
           "d": "2026-10-29",
@@ -54,12 +118,6 @@
     "debtPct": {
       "date": "2026-09-01",
       "value": 82.93
-    },
-    "debt": {
-      "value": 9748473480000,
-      "refMonth": "2025-09",
-      "from": "2025-10-01T03:00:00.000Z",
-      "perSec": 0
     }
   },
   "tax": {
@@ -77,6 +135,30 @@
   },
   "news": [
     {
+      "title": "Davi marca para terça votação da PEC da Segurança",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/30/davi-marca-para-terca-votacao-da-pec-da-seguranca",
+      "date": "2026-10-30T23:10:23.000Z",
+      "summary": "O presidente do Senado, Davi Alcolumbre, marcou para terça-feira (3) a votação da Proposta de Emenda à Constituição (PEC) 18/2025, que amplia a integração entre os órgãos de segurança pública para o combate ao crime organizado. A ordem do dia está agendada par",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Davi celebra terceira descoberta de petróleo em poço no litoral do Amapá",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/29/davi-celebra-terceira-descoberta-de-petroleo-em-poco-no-litoral-do-amapa",
+      "date": "2026-10-29T23:53:08.000Z",
+      "summary": "O presidente do Senado, Davi Alcolumbre, celebrou nesta quinta-feria (29) a terceira descoberta de petróleo em um mesmo poço localizado na bacia da Foz do Amazonas, no litoral do Amapá. O anúncio foi feito pela Petrobras. De acordo com a empresa, o novo achado",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Como o tamanho das bancadas dá o ritmo do Senado",
+      "link": "https://www12.senado.leg.br/noticias/infomaterias/2026/10/como-o-tamanho-das-bancadas-da-o-ritmo-do-senado",
+      "date": "2026-10-29T21:02:23.000Z",
+      "summary": "",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
       "title": "Comissão debate implementação da Política Nacional de Minerais Críticos e Estratégicos",
       "link": "https://www.camara.leg.br/noticias/1314763-comissao-debate-implementacao-da-politica-nacional-de-minerais-criticos-e-estrategicos",
       "date": "2026-10-29T20:59:00.000Z",
@@ -93,11 +175,35 @@
       "cat": "politica"
     },
     {
+      "title": "Áudio: Senador propõe dedução no IR de parte dos gastos com saúde de pets",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/senador-propoe-deducao-no-ir-de-parte-dos-gastos-com-saude-de-pets",
+      "date": "2026-10-29T20:39:38.000Z",
+      "summary": "Parte das despesas com saúde de cães e gatos de estimação poderá ser deduzida da base de cálculo do Imposto de Renda de pessoas físicas. Isso é o que estabelece um projeto de lei apresentado pelo senador Plínio Valério (PSDB-AM). A proposta (PL 5.668/2026) seg",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Áudio: Em Manaus, Subcomissão dos Povos Yanomami avalia crise na saúde indígena",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/em-manaus-subcomissao-dos-povos-yanomami-avalia-crise-na-saude-indigena",
+      "date": "2026-10-29T20:34:06.000Z",
+      "summary": "A Subcomissão Permanente dos Povos Indígenas Yanomami está nesta quinta-feira (29) em Manaus, onde estão previstas visitas a unidades de saúde e reuniões com as Forças Armadas e a Fundação Nacional dos Povos Indígenas (Funai). Presidente do colegiado, a senado",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
       "title": "Comissão aprova política nacional de inclusão e letramento digital para pessoas idosas",
       "link": "https://www.camara.leg.br/noticias/1314934-comissao-aprova-politica-nacional-de-inclusao-e-letramento-digital-para-pessoas-idosas",
       "date": "2026-10-29T20:31:00.000Z",
       "summary": "Para virar lei, o projeto terá de ser aprovado pela Câmara e pelo Senado",
       "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Projeto cria regras para reaproveitar plataformas de petróleo para outros usos",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/29/projeto-cria-regras-para-reaproveitar-plataformas-de-petroleo-para-outros-usos",
+      "date": "2026-10-29T20:27:15.000Z",
+      "summary": "O Senado vai analisar um projeto de lei que estabelece regras para a desativação e o reaproveitamento de plataformas e instalações marítimas usadas na exploração de petróleo e gás natural. O objetivo é permitir o uso das estruturas para novas atividades e redu",
+      "source": "Agência Senado",
       "cat": "politica"
     },
     {
@@ -173,60 +279,52 @@
       "cat": "economia"
     },
     {
-      "title": "Em São Paulo, Presidente da República apresenta novas medidas de proteção às famílias e à economia popular",
-      "link": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/noticias/em-sao-paulo-presidente-da-republica-apresenta-novas-medidas-de-protecao-as-familias-e-a-economia-popular",
-      "date": "2026-09-24T22:01:00.000Z",
-      "summary": "Agenda será às 18h desta sexta-feira, 25, no Edifício Matarazzo, na capital paulista",
-      "source": "Planalto (governo)",
-      "cat": "politica"
-    },
-    {
-      "title": "Presidente da República acompanha as Ações Integradas para o Enfrentamento ao Crime Organizado no Rio de Janeiro",
-      "link": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/noticias/presidente-da-republica-acompanha-as-acoes-integradas-para-o-enfrentamento-ao-crime-organizado-no-rio-de-janeiro",
-      "date": "2026-09-16T16:29:00.000Z",
-      "summary": "Agenda será às 10h de sexta-feira, 18, no Complexo da Polícia Rodoviária Federal",
-      "source": "Planalto (governo)",
-      "cat": "politica"
-    },
-    {
-      "title": "Presidente da República visita o Centro Estadual de Tempo Integral Profaª Júlia Nunes Alves, em Teresina (PI)",
-      "link": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/noticias/presidente-da-republica-visita-o-centro-estadual-julia-nunes-alves-em-teresina-pi",
-      "date": "2026-09-08T17:22:00.000Z",
-      "summary": "Agenda será às 14h30 de quarta-feira, 9",
-      "source": "Planalto (governo)",
-      "cat": "politica"
-    },
-    {
-      "title": "Presidente visita o Diretório de Reabilitação Moderna (DREAM) do Hospital de Amor, em Barretos (SP)",
-      "link": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/noticias/presidente-visita-o-diretorio-de-reabilitacao-moderna-dream-do-hospital-de-amor-em-barretos-sp",
-      "date": "2026-09-04T13:52:00.000Z",
-      "summary": "Agenda será às 9h deste sábado, 5 de setembro",
-      "source": "Planalto (governo)",
-      "cat": "politica"
-    },
-    {
-      "title": "Presidente da República visita a frente de obras do Cinturão das Águas do Ceará, no Crato",
-      "link": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/noticias/presidente-da-republica-visita-a-frente-de-obras-do-cinturao-das-aguas-do-ceara-no-crato",
-      "date": "2026-09-02T18:34:00.000Z",
-      "summary": "Agenda será às 14h30 de sexta-feira, 4, e o acesso ao local será pelo estacionamento do Santuário Nossa Senhora do Rosário de Fátima",
-      "source": "Planalto (governo)",
-      "cat": "politica"
-    },
-    {
       "title": "2023",
-      "link": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/noticias/2023",
-      "date": "2023-01-02T14:36:00.000Z",
+      "link": "https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2023",
+      "date": "2023-01-02T14:44:00.000Z",
       "summary": "",
-      "source": "Planalto (governo)",
-      "cat": "politica"
+      "source": "Gov.br · Economia (governo)",
+      "cat": "economia"
+    },
+    {
+      "title": "2022",
+      "link": "https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2022",
+      "date": "2021-12-31T13:36:00.000Z",
+      "summary": "",
+      "source": "Gov.br · Economia (governo)",
+      "cat": "economia"
+    },
+    {
+      "title": "2021",
+      "link": "https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2021",
+      "date": "2020-12-31T13:31:00.000Z",
+      "summary": "",
+      "source": "Gov.br · Economia (governo)",
+      "cat": "economia"
+    },
+    {
+      "title": "2020",
+      "link": "https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020",
+      "date": "2019-12-30T12:46:01.000Z",
+      "summary": "",
+      "source": "Gov.br · Economia (governo)",
+      "cat": "economia"
+    },
+    {
+      "title": "Últimas Notícias",
+      "link": "https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/ultimas-noticias",
+      "date": "2018-05-23T13:24:00.000Z",
+      "summary": "",
+      "source": "Gov.br · Economia (governo)",
+      "cat": "economia"
     }
   ],
   "errors": [
     "câmbio (AwesomeAPI): HTTP 429",
-    "Ibovespa (brapi): preço não encontrado na resposta",
+    "IPCA 12m (SGS 13522): j.map is not a function",
+    "Dívida/PIB (SGS 13762): SGS 13762: último dado é de 2025-09-01 (desatualizado)",
     "feed TSE: HTTP 403",
     "feed IBGE: HTTP 403",
-    "feed Ministério da Fazenda (governo): HTTP 404",
-    "feed Agência Senado: HTTP 404"
+    "feed Planalto (governo): nenhum item no feed (endereço mudou?)"
   ]
 }
