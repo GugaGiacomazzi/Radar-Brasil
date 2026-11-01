@@ -19,14 +19,18 @@ const FEEDS = [
   // urls: o robô tenta na ordem e usa o primeiro endereço que responder.
   { source: 'Agência Senado',     cat: 'politica', urls: ['https://www12.senado.leg.br/noticias/feed/ultimasnoticias/RSS', 'https://www12.senado.leg.br/noticias/rss', 'https://www12.senado.leg.br/noticias/ultimas/RSS'] },
   { source: 'Agência Câmara',     cat: 'politica', url: 'https://www.camara.leg.br/noticias/rss/ultimas-noticias' },
-  { source: 'TSE',                cat: 'politica', url: 'https://www.tse.jus.br/comunicacao/noticias/RSS' },
   { source: 'Planalto (governo)', cat: 'politica', url: 'https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/noticias/RSS' },
   { source: 'Gov.br · Economia (governo)', cat: 'economia', url: 'https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/RSS' },
-  { source: 'IBGE',               cat: 'economia', url: 'https://agenciadenoticias.ibge.gov.br/agencia-noticias.rss' },
   { source: 'Banco Central',      cat: 'economia', url: 'https://www.bcb.gov.br/api/feed/sitebcb/sitefeeds/notasImprensa' },
+  // Internacional: ONU (organismo multilateral), Itamaraty (versão oficial do governo) e duas emissoras públicas
+  // com redação própria em português e financiamento público, sem ligação com partidos brasileiros.
+  { source: 'ONU News',           cat: 'internacional', url: 'https://news.un.org/feed/subscribe/pt/news/all/rss.xml' },
+  { source: 'Itamaraty (governo)', cat: 'internacional', urls: ['https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/RSS', 'https://www.gov.br/mre/pt-br/assuntos/noticias/RSS'] },
+  { source: 'BBC News Brasil',    cat: 'internacional', urls: ['https://feeds.bbci.co.uk/portuguese/internacional/rss.xml', 'https://feeds.bbci.co.uk/portuguese/rss.xml'] },
+  { source: 'DW Brasil',          cat: 'internacional', url: 'https://rss.dw.com/xml/rss-br-all' },
 ];
 const NEWS_PER_FEED = 6;
-const NEWS_TOTAL = 24;
+const NEWS_PER_CAT = 12; // máximo por categoria (política, economia, internacional)
 
 // Impostômetro (ACSP) não tem API pública. Estes são os dois últimos marcos
 // divulgados; a página extrapola em linha reta. Atualize quando sair marca nova.
@@ -187,7 +191,8 @@ async function feed(f) {
 // ---------------------------------------------------------------------------
 const prev = await readFile(OUT, 'utf8').then(JSON.parse).catch(() => ({}));
 
-const fxData = await attempt('câmbio (AwesomeAPI)', fx);
+// O câmbio é buscado ao vivo no navegador de quem abre a página (a AwesomeAPI limita acessos vindos do GitHub).
+const fxData = undefined;
 const ibData = await attempt('Ibovespa (brapi)', ibov);
 const indData = await indicators(prev.indicators);
 
@@ -195,8 +200,9 @@ const lists = await Promise.all(FEEDS.map(f => attempt('feed ' + f.source, () =>
 let news = lists.flat().filter(Boolean);
 const seen = new Set();
 news = news.filter(n => !seen.has(n.link) && seen.add(n.link))
-  .sort((a, b) => (b.date || '').localeCompare(a.date || ''))
-  .slice(0, NEWS_TOTAL);
+  .sort((a, b) => (b.date || '').localeCompare(a.date || ''));
+const perCat = {};
+news = news.filter(n => (perCat[n.cat] = (perCat[n.cat] || 0) + 1) <= NEWS_PER_CAT);
 
 const ibovOut = ibData ? { ...ibData, history: ibData.history.length ? ibData.history : (prev.market?.ibov?.history || []) } : prev.market?.ibov;
 
