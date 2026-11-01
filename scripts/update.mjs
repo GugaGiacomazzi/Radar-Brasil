@@ -31,7 +31,10 @@ const NEWS_TOTAL = 24;
 const TAX = { year: 2026, marks: [ { date: '2026-03-27', value: 1e12 }, { date: '2026-09-28', value: 3e12 } ] };
 
 // Séries do SGS (Banco Central). Se alguma mudar de número, ajuste aqui.
-const SGS = { selic: 432, ipca12m: 13522, debtBRL: 13761, debtPct: 13762 };
+// debtPct = dívida bruta do governo geral (% do PIB); gdp12m = PIB acumulado em 12 meses (R$ milhões).
+// O valor em reais é calculado como % × PIB, o mesmo critério do Banco Central.
+const SGS = { selic: 432, ipca12m: 13522, debtPct: 13762, gdp12m: 4382 };
+const MAX_AGE_DAYS = 150; // série mensal mais velha que isso é tratada como desatualizada
 
 // ---------------------------------------------------------------------------
 const errors = [];
@@ -102,17 +105,26 @@ async function indicators(prev) {
   if (s) ind.selic = s.at(-1);
   const i = await attempt('IPCA 12m (SGS 13522)', () => sgs(SGS.ipca12m));
   if (i) ind.ipca12m = i.at(-1);
-  const p = await attempt('Dívida/PIB (SGS 13762)', () => sgs(SGS.debtPct));
+  const fresh = (rows, name) => {
+    const age = (Date.now() - Date.parse(rows.at(-1).date)) / 864e5;
+    if (age > MAX_AGE_DAYS) throw new Error(`${name}: último dado é de ${rows.at(-1).date} (desatualizado)`);
+    return rows;
+  };
+  const p = await attempt('Dívida/PIB (SGS 13762)', async () => fresh(await sgs(SGS.debtPct, 13), 'SGS 13762'));
+  const g = await attempt('PIB 12 meses (SGS 4382)', async () => fresh(await sgs(SGS.gdp12m, 14), 'SGS 4382'));
   if (p) ind.debtPct = p.at(-1);
-  const b = await attempt('Dívida R$ (SGS 13761)', () => sgs(SGS.debtBRL, 13));
-  if (b && b.length >= 2) {
-    const scale = v => (v < 1e9 ? v * 1e6 : v); // série vem em R$ milhões
-    const last = b.at(-1), first = b[0];
-    const secs = (Date.parse(last.date) - Date.parse(first.date)) / 1000;
-    // Âncora no fim do mês de referência (o SGS data a observação no dia 1º do mês).
-    const ref = new Date(last.date + 'T03:00:00Z'); ref.setUTCMonth(ref.getUTCMonth() + 1);
-    ind.debt = { value: scale(last.value), refMonth: last.date.slice(0, 7), from: ref.toISOString(),
-                 perSec: secs > 0 ? (scale(last.value) - scale(first.value)) / secs : 0 };
+  if (p && g) {
+    const gdp = new Map(g.map(r => [r.date, r.value * 1e6]));
+    const rows = p.filter(r => gdp.has(r.date)).map(r => ({ date: r.date, brl: r.value / 100 * gdp.get(r.date) }));
+    if (rows.length >= 2) {
+      const last = rows.at(-1), first = rows[0];
+      const secs = (Date.parse(last.date) - Date.parse(first.date)) / 1000;
+      const perSec = secs > 0 ? (last.brl - first.brl) / secs : 0;
+      // Âncora no fim do mês de referência (o SGS data a observação no dia 1º do mês).
+      const ref = new Date(last.date + 'T03:00:00Z'); ref.setUTCMonth(ref.getUTCMonth() + 1);
+      ind.debt = { value: last.brl, refMonth: last.date.slice(0, 7), from: ref.toISOString(),
+                   perSec: perSec > 0 ? perSec : (prev?.debt?.perSec || 0) };
+    } else errors.push('Dívida R$: datas das séries 13762 e 4382 não batem');
   }
   return ind;
 }
