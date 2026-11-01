@@ -8,7 +8,8 @@ import { readFile, writeFile } from 'node:fs/promises';
 
 const OUT = new URL('../data/data.json', import.meta.url);
 const BRAPI_TOKEN = process.env.BRAPI_TOKEN || '';
-const UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36';
+const UA = 'Mozilla/5.0 (compatible; RadarBrasil/1.0; +https://github.com)';
+const UA_BROWSER = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36';
 
 // ---------------------------------------------------------------------------
 // FONTES DE NOTÍCIAS — só órgãos oficiais. Para trocar ou adicionar, edite aqui.
@@ -32,9 +33,8 @@ const NEWS_TOTAL = 24;
 const TAX = { year: 2026, marks: [ { date: '2026-03-27', value: 1e12 }, { date: '2026-09-28', value: 3e12 } ] };
 
 // Séries do SGS (Banco Central). Se alguma mudar de número, ajuste aqui.
-// debtPct = dívida bruta do governo geral (% do PIB); gdp12m = PIB acumulado em 12 meses (R$ milhões).
-// O valor em reais é calculado como % × PIB, o mesmo critério do Banco Central.
-const SGS = { selic: 432, ipca12m: 13522, debtPct: 13762, gdp12m: 4382 };
+// debtPct = dívida bruta do governo geral (% do PIB); debtBRL = a mesma dívida em R$ milhões.
+const SGS = { selic: 432, ipca12m: 13522, debtPct: 13762, debtBRL: 13761 };
 const MAX_AGE_DAYS = 150; // série mensal mais velha que isso é tratada como desatualizada
 
 // ---------------------------------------------------------------------------
@@ -103,8 +103,16 @@ async function ibov() {
 
 // ---- Indicadores oficiais (SGS / Banco Central) ------------------------------
 async function sgs(code, n = 1) {
-  const j = await get(`https://api.bcb.gov.br/dados/serie/bcdata.sgs.${code}/dados/ultimos/${n}?formato=json`);
-  return j.map(x => { const [d, m, y] = x.data.split('/'); return { date: `${y}-${m}-${d}`, value: num(x.valor) }; });
+  let j;
+  for (let i = 0; i < 2; i++) {
+    j = await get(`https://api.bcb.gov.br/dados/serie/bcdata.sgs.${code}/dados/ultimos/${n}?formato=json`);
+    if (Array.isArray(j)) break;
+    await new Promise(r => setTimeout(r, 3000));
+  }
+  if (!Array.isArray(j)) throw new Error('resposta inesperada: ' + JSON.stringify(j).slice(0, 120));
+  // A API nem sempre devolve em ordem cronológica: ordena do mais antigo para o mais recente.
+  return j.map(x => { const [d, m, y] = x.data.split('/'); return { date: `${y}-${m}-${d}`, value: num(x.valor) }; })
+          .sort((a, b) => a.date.localeCompare(b.date));
 }
 async function indicators(prev) {
   const ind = { ...(prev || {}) };
@@ -121,21 +129,18 @@ async function indicators(prev) {
     if (age > MAX_AGE_DAYS) throw new Error(`${name}: último dado é de ${rows.at(-1).date} (desatualizado)`);
     return rows;
   };
-  const p = await attempt('Dívida/PIB (SGS 13762)', async () => fresh(await sgs(SGS.debtPct, 13), 'SGS 13762'));
-  const g = await attempt('PIB 12 meses (SGS 4382)', async () => fresh(await sgs(SGS.gdp12m, 14), 'SGS 4382'));
+  const p = await attempt('Dívida/PIB (SGS 13762)', async () => fresh(await sgs(SGS.debtPct), 'SGS 13762'));
   if (p) ind.debtPct = p.at(-1);
-  if (p && g) {
-    const gdp = new Map(g.map(r => [r.date, r.value * 1e6]));
-    const rows = p.filter(r => gdp.has(r.date)).map(r => ({ date: r.date, brl: r.value / 100 * gdp.get(r.date) }));
-    if (rows.length >= 2) {
-      const last = rows.at(-1), first = rows[0];
-      const secs = (Date.parse(last.date) - Date.parse(first.date)) / 1000;
-      const perSec = secs > 0 ? (last.brl - first.brl) / secs : 0;
-      // Âncora no fim do mês de referência (o SGS data a observação no dia 1º do mês).
-      const ref = new Date(last.date + 'T03:00:00Z'); ref.setUTCMonth(ref.getUTCMonth() + 1);
-      ind.debt = { value: last.brl, refMonth: last.date.slice(0, 7), from: ref.toISOString(),
-                   perSec: perSec > 0 ? perSec : (prev?.debt?.perSec || 0) };
-    } else errors.push('Dívida R$: datas das séries 13762 e 4382 não batem');
+  const b = await attempt('Dívida R$ (SGS 13761)', async () => fresh(await sgs(SGS.debtBRL, 13), 'SGS 13761'));
+  if (b && b.length >= 2) {
+    const brl = v => v * 1e6; // série em R$ milhões
+    const last = b.at(-1), first = b[0];
+    const secs = (Date.parse(last.date) - Date.parse(first.date)) / 1000;
+    const perSec = secs > 0 ? (brl(last.value) - brl(first.value)) / secs : 0;
+    // Âncora no fim do mês de referência (o SGS data a observação no dia 1º do mês).
+    const ref = new Date(last.date + 'T03:00:00Z'); ref.setUTCMonth(ref.getUTCMonth() + 1);
+    ind.debt = { value: brl(last.value), refMonth: last.date.slice(0, 7), from: ref.toISOString(),
+                 perSec: perSec > 0 ? perSec : (prev?.debt?.perSec || 0) };
   }
   return ind;
 }
@@ -159,13 +164,18 @@ const tag = (block, names) => {
   return '';
 };
 async function feed(f) {
-  let xml, lastErr;
-  for (const u of f.urls || [f.url]) {
-    try { xml = await get(u, { json: false }); break; } catch (e) { lastErr = e; }
+  let blocks = [], lastErr = new Error('nenhum item no feed (endereço mudou?)');
+  outer: for (const u of f.urls || [f.url]) {
+    for (const ua of [UA, UA_BROWSER]) {
+      try {
+        const xml = await get(u, { json: false, headers: { 'User-Agent': ua } });
+        blocks = xml.match(/<item[\s>][\s\S]*?<\/item>/gi) || xml.match(/<entry[\s>][\s\S]*?<\/entry>/gi) || [];
+        if (blocks.length) break outer;
+        lastErr = new Error('nenhum item no feed (endereço mudou?)');
+      } catch (e) { lastErr = e; }
+    }
   }
-  if (xml === undefined) throw lastErr;
-  const blocks = xml.match(/<item[\s>][\s\S]*?<\/item>/gi) || xml.match(/<entry[\s>][\s\S]*?<\/entry>/gi) || [];
-  if (!blocks.length) throw new Error('nenhum item no feed (endereço mudou?)');
+  if (!blocks.length) throw lastErr;
   return blocks.slice(0, NEWS_PER_FEED).map(b => {
     const d = tag(b, ['pubDate', 'dc:date', 'updated', 'published']);
     const t = Date.parse(d);
