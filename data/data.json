@@ -1,34 +1,232 @@
 {
-  "updated": "2026-10-30T21:00:00.000Z",
+  "updated": "2026-11-01T23:13:27.662Z",
   "market": {
     "ibov": {
       "price": 167921.8,
       "pct": -0.75,
       "time": "2026-10-30T21:00:00.000Z",
       "history": [
-        { "d": "2026-09-30", "c": 186330 },
-        { "d": "2026-10-23", "c": 205083 },
-        { "d": "2026-10-29", "c": 169186 },
-        { "d": "2026-10-30", "c": 167922 }
+        {
+          "d": "2026-09-30",
+          "c": 186330
+        },
+        {
+          "d": "2026-10-23",
+          "c": 205083
+        },
+        {
+          "d": "2026-10-29",
+          "c": 169186
+        },
+        {
+          "d": "2026-10-30",
+          "c": 167922
+        }
       ]
     },
     "fx": {
-      "USD": { "bid": 5.446, "pct": 1.09, "time": "2026-10-30 17:00:00" },
-      "EUR": { "bid": 6.0522, "pct": 0.87, "time": "2026-10-30 17:00:00" },
-      "GBP": { "bid": 7.22, "pct": 0, "time": "2026-10-30 17:00:00" }
+      "USD": {
+        "bid": 5.446,
+        "pct": 1.09,
+        "time": "2026-10-30 17:00:00"
+      },
+      "EUR": {
+        "bid": 6.0522,
+        "pct": 0.87,
+        "time": "2026-10-30 17:00:00"
+      },
+      "GBP": {
+        "bid": 7.22,
+        "pct": 0,
+        "time": "2026-10-30 17:00:00"
+      }
     }
   },
   "indicators": {
-    "selic": { "date": "2026-10-30", "value": 13.75 },
-    "ipca12m": { "date": "2026-10-23", "value": 4.62 },
-    "debtPct": { "date": "2026-09-01", "value": 82.9 },
-    "debt": { "value": 11100000000000, "refMonth": "2026-09", "from": "2026-10-01T03:00:00.000Z", "perSec": 38184 }
+    "selic": {
+      "date": "2026-11-04",
+      "value": 13.75
+    },
+    "ipca12m": {
+      "date": "2026-09-01",
+      "value": 4.58
+    },
+    "debtPct": {
+      "date": "2026-09-01",
+      "value": 82.93
+    },
+    "debt": {
+      "value": 9748473480000,
+      "refMonth": "2025-09",
+      "from": "2025-10-01T03:00:00.000Z",
+      "perSec": 0
+    }
   },
-  "tax": { "year": 2026, "marks": [ { "date": "2026-03-27", "value": 1000000000000 }, { "date": "2026-09-28", "value": 3000000000000 } ] },
+  "tax": {
+    "year": 2026,
+    "marks": [
+      {
+        "date": "2026-03-27",
+        "value": 1000000000000
+      },
+      {
+        "date": "2026-09-28",
+        "value": 3000000000000
+      }
+    ]
+  },
   "news": [
-    { "title": "Presidente do TSE anuncia reeleição de Lula e faz balanço do 2º turno das Eleições 2026", "link": "https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/presidente-do-tse-anuncia-reeleicao-de-lula-e-faz-balanco-do-2o-turno-das-eleicoes-2026", "date": "2026-10-25T23:00:00.000Z", "summary": "Lula (PT) teve 51,79% dos votos válidos e Flávio Bolsonaro (PL), 48,21%.", "source": "TSE", "cat": "politica" },
-    { "title": "CCJ conclui votação da PEC da Segurança; texto vai ao Plenário", "link": "https://www12.senado.leg.br/noticias/materias/2026/10/14/ccj-conclui-votacao-da-pec-da-seguranca-texto-vai-ao-plenario", "date": "2026-10-14T18:00:00.000Z", "summary": "", "source": "Agência Senado", "cat": "politica" },
-    { "title": "O IPCA-15 é de 0,32% em outubro", "link": "https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/48349-o-ipca-15-e-de-0-32-em-outubro", "date": "2026-10-23T12:00:00.000Z", "summary": "", "source": "IBGE", "cat": "economia" }
+    {
+      "title": "Comissão debate implementação da Política Nacional de Minerais Críticos e Estratégicos",
+      "link": "https://www.camara.leg.br/noticias/1314763-comissao-debate-implementacao-da-politica-nacional-de-minerais-criticos-e-estrategicos",
+      "date": "2026-10-29T20:59:00.000Z",
+      "summary": "",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Comissão aprova medidas para fortalecer combate ao câncer de próstata",
+      "link": "https://www.camara.leg.br/noticias/1314937-comissao-aprova-medidas-para-fortalecer-combate-ao-cancer-de-prostata",
+      "date": "2026-10-29T20:51:00.000Z",
+      "summary": "Proposta segue em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Comissão aprova política nacional de inclusão e letramento digital para pessoas idosas",
+      "link": "https://www.camara.leg.br/noticias/1314934-comissao-aprova-politica-nacional-de-inclusao-e-letramento-digital-para-pessoas-idosas",
+      "date": "2026-10-29T20:31:00.000Z",
+      "summary": "Para virar lei, o projeto terá de ser aprovado pela Câmara e pelo Senado",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Comissão aprova acessibilidade para exames de prevenção ao câncer em mulheres com deficiência",
+      "link": "https://www.camara.leg.br/noticias/1314742-comissao-aprova-acessibilidade-para-exames-de-prevencao-ao-cancer-em-mulheres-com-deficiencia",
+      "date": "2026-10-29T20:17:00.000Z",
+      "summary": "Para virar lei, o texto precisará da aprovação da Câmara e do Senado",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Comissão aprova acessibilidade em páginas de escolas na internet",
+      "link": "https://www.camara.leg.br/noticias/1314930-comissao-aprova-acessibilidade-em-paginas-de-escolas-na-internet",
+      "date": "2026-10-29T20:00:00.000Z",
+      "summary": "Proposta segue em análise na Câmara",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Comissão aprova proposta que tipifica lesbocídio no Código Penal",
+      "link": "https://www.camara.leg.br/noticias/1314858-comissao-aprova-proposta-que-tipifica-lesbocidio-no-codigo-penal",
+      "date": "2026-10-29T19:20:00.000Z",
+      "summary": "Texto também inclui estupro corretivo lesbofóbico como causa de aumento de pena; projeto de lei segue em análise na Câmara",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "BC divulga Estatísticas Fiscais à imprensa",
+      "link": "https://www.bcb.gov.br/detalhenoticia/21306/nota",
+      "date": "2026-10-29T17:03:09.000Z",
+      "summary": "",
+      "source": "Banco Central",
+      "cat": "economia"
+    },
+    {
+      "title": "BC divulga Estatísticas Monetárias e de Crédito à imprensa",
+      "link": "https://www.bcb.gov.br/detalhenoticia/21304/nota",
+      "date": "2026-10-29T11:32:01.000Z",
+      "summary": "",
+      "source": "Banco Central",
+      "cat": "economia"
+    },
+    {
+      "title": "Banco Central decreta Liquidação Extrajudicial da MW Instituição de Pagamento Ltda.",
+      "link": "https://www.bcb.gov.br/detalhenoticia/21305/nota",
+      "date": "2026-10-29T10:39:39.000Z",
+      "summary": "",
+      "source": "Banco Central",
+      "cat": "economia"
+    },
+    {
+      "title": "Em caráter excepcional, a divulgação das Estatísticas Fiscais de setembro será antecipada para quinta-feira (29/10)",
+      "link": "https://www.bcb.gov.br/detalhenoticia/21302/nota",
+      "date": "2026-10-28T12:00:22.000Z",
+      "summary": "",
+      "source": "Banco Central",
+      "cat": "economia"
+    },
+    {
+      "title": "BC anuncia leilões de swap cambial tradicional para fins de rolagem dos contratos vincendos em 1º de dezembro de 2026",
+      "link": "https://www.bcb.gov.br/detalhenoticia/21301/nota",
+      "date": "2026-10-27T21:30:16.000Z",
+      "summary": "",
+      "source": "Banco Central",
+      "cat": "economia"
+    },
+    {
+      "title": "BC divulga Estatísticas de Pagamentos de Varejo e de Cartões do primeiro semestre de 2026",
+      "link": "https://www.bcb.gov.br/detalhenoticia/21300/nota",
+      "date": "2026-10-27T19:25:27.000Z",
+      "summary": "",
+      "source": "Banco Central",
+      "cat": "economia"
+    },
+    {
+      "title": "Em São Paulo, Presidente da República apresenta novas medidas de proteção às famílias e à economia popular",
+      "link": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/noticias/em-sao-paulo-presidente-da-republica-apresenta-novas-medidas-de-protecao-as-familias-e-a-economia-popular",
+      "date": "2026-09-24T22:01:00.000Z",
+      "summary": "Agenda será às 18h desta sexta-feira, 25, no Edifício Matarazzo, na capital paulista",
+      "source": "Planalto (governo)",
+      "cat": "politica"
+    },
+    {
+      "title": "Presidente da República acompanha as Ações Integradas para o Enfrentamento ao Crime Organizado no Rio de Janeiro",
+      "link": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/noticias/presidente-da-republica-acompanha-as-acoes-integradas-para-o-enfrentamento-ao-crime-organizado-no-rio-de-janeiro",
+      "date": "2026-09-16T16:29:00.000Z",
+      "summary": "Agenda será às 10h de sexta-feira, 18, no Complexo da Polícia Rodoviária Federal",
+      "source": "Planalto (governo)",
+      "cat": "politica"
+    },
+    {
+      "title": "Presidente da República visita o Centro Estadual de Tempo Integral Profaª Júlia Nunes Alves, em Teresina (PI)",
+      "link": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/noticias/presidente-da-republica-visita-o-centro-estadual-julia-nunes-alves-em-teresina-pi",
+      "date": "2026-09-08T17:22:00.000Z",
+      "summary": "Agenda será às 14h30 de quarta-feira, 9",
+      "source": "Planalto (governo)",
+      "cat": "politica"
+    },
+    {
+      "title": "Presidente visita o Diretório de Reabilitação Moderna (DREAM) do Hospital de Amor, em Barretos (SP)",
+      "link": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/noticias/presidente-visita-o-diretorio-de-reabilitacao-moderna-dream-do-hospital-de-amor-em-barretos-sp",
+      "date": "2026-09-04T13:52:00.000Z",
+      "summary": "Agenda será às 9h deste sábado, 5 de setembro",
+      "source": "Planalto (governo)",
+      "cat": "politica"
+    },
+    {
+      "title": "Presidente da República visita a frente de obras do Cinturão das Águas do Ceará, no Crato",
+      "link": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/noticias/presidente-da-republica-visita-a-frente-de-obras-do-cinturao-das-aguas-do-ceara-no-crato",
+      "date": "2026-09-02T18:34:00.000Z",
+      "summary": "Agenda será às 14h30 de sexta-feira, 4, e o acesso ao local será pelo estacionamento do Santuário Nossa Senhora do Rosário de Fátima",
+      "source": "Planalto (governo)",
+      "cat": "politica"
+    },
+    {
+      "title": "2023",
+      "link": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/noticias/2023",
+      "date": "2023-01-02T14:36:00.000Z",
+      "summary": "",
+      "source": "Planalto (governo)",
+      "cat": "politica"
+    }
   ],
-  "errors": ["Dados iniciais de exemplo: o robô ainda não rodou."]
+  "errors": [
+    "câmbio (AwesomeAPI): HTTP 429",
+    "Ibovespa (brapi): preço não encontrado na resposta",
+    "feed TSE: HTTP 403",
+    "feed IBGE: HTTP 403",
+    "feed Ministério da Fazenda (governo): HTTP 404",
+    "feed Agência Senado: HTTP 404"
+  ]
 }
