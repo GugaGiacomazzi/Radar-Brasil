@@ -8,18 +8,19 @@ import { readFile, writeFile } from 'node:fs/promises';
 
 const OUT = new URL('../data/data.json', import.meta.url);
 const BRAPI_TOKEN = process.env.BRAPI_TOKEN || '';
-const UA = 'Mozilla/5.0 (RadarBrasil; +https://github.com)';
+const UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36';
 
 // ---------------------------------------------------------------------------
 // FONTES DE NOTÍCIAS — só órgãos oficiais. Para trocar ou adicionar, edite aqui.
 // cat: "politica" ou "economia". Se um feed falhar, ele aparece no log da Action.
 // ---------------------------------------------------------------------------
 const FEEDS = [
-  { source: 'Agência Senado',     cat: 'politica', url: 'https://www12.senado.leg.br/noticias/feed/todasasnoticias/RSS' },
+  // urls: o robô tenta na ordem e usa o primeiro endereço que responder.
+  { source: 'Agência Senado',     cat: 'politica', urls: ['https://www12.senado.leg.br/noticias/feed/ultimasnoticias/RSS', 'https://www12.senado.leg.br/noticias/rss', 'https://www12.senado.leg.br/noticias/ultimas/RSS'] },
   { source: 'Agência Câmara',     cat: 'politica', url: 'https://www.camara.leg.br/noticias/rss/ultimas-noticias' },
   { source: 'TSE',                cat: 'politica', url: 'https://www.tse.jus.br/comunicacao/noticias/RSS' },
   { source: 'Planalto (governo)', cat: 'politica', url: 'https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/noticias/RSS' },
-  { source: 'Ministério da Fazenda (governo)', cat: 'economia', url: 'https://www.gov.br/fazenda/pt-br/assuntos/noticias/RSS' },
+  { source: 'Gov.br · Economia (governo)', cat: 'economia', url: 'https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/RSS' },
   { source: 'IBGE',               cat: 'economia', url: 'https://agenciadenoticias.ibge.gov.br/agencia-noticias.rss' },
   { source: 'Banco Central',      cat: 'economia', url: 'https://www.bcb.gov.br/api/feed/sitebcb/sitefeeds/notasImprensa' },
 ];
@@ -41,7 +42,7 @@ const errors = [];
 const log = (...a) => console.log('[radar]', ...a);
 
 async function get(url, { json = true, headers = {} } = {}) {
-  const r = await fetch(url, { headers: { 'User-Agent': UA, ...headers }, signal: AbortSignal.timeout(20000) });
+  const r = await fetch(url, { headers: { 'User-Agent': UA, 'Accept': json ? 'application/json' : 'application/rss+xml, application/xml, text/xml, */*', 'Accept-Language': 'pt-BR,pt;q=0.9', ...headers }, signal: AbortSignal.timeout(20000) });
   if (!r.ok) throw new Error(`HTTP ${r.status}`);
   return json ? r.json() : r.text();
 }
@@ -65,32 +66,38 @@ async function fx() {
 }
 
 // ---- Ibovespa (brapi) --------------------------------------------------------
+// Procura um campo pelo nome em qualquer nível da resposta (a brapi já mudou o formato antes).
+function deep(o, names, depth = 0) {
+  if (!o || typeof o !== 'object' || depth > 5) return undefined;
+  for (const n of names) if (o[n] !== undefined && o[n] !== null) return o[n];
+  for (const v of Object.values(o)) { const r = deep(v, names, depth + 1); if (r !== undefined) return r; }
+}
+const shape = o => JSON.stringify(o).replace(/"token"\s*:\s*"[^"]*"/g, '').slice(0, 300);
 async function ibov() {
   if (!BRAPI_TOKEN) throw new Error('segredo BRAPI_TOKEN não configurado');
   const h = { Authorization: 'Bearer ' + BRAPI_TOKEN };
   const enc = encodeURIComponent('^BVSP');
-  let quote;
-  try { quote = await get(`https://brapi.dev/api/v2/stocks/quote?symbols=${enc}`, { headers: h }); }
-  catch { quote = await get(`https://brapi.dev/api/quote/${enc}?token=${BRAPI_TOKEN}`); }
-  const r = (pick(quote, 'results', 'data', 'stocks') || [])[0] || {};
-  const price = num(pick(r, 'regularMarketPrice', 'price', 'close'));
-  const pct = num(pick(r, 'regularMarketChangePercent', 'changePercent', 'change_percent'));
-  if (!isFinite(price)) throw new Error('preço não encontrado na resposta');
-
-  let history = [];
-  await attempt('ibovespa histórico', async () => {
-    let hj;
-    try { hj = await get(`https://brapi.dev/api/v2/stocks/historical?symbols=${enc}&range=1mo&interval=1d`, { headers: h }); }
-    catch { hj = await get(`https://brapi.dev/api/quote/${enc}?range=1mo&interval=1d&token=${BRAPI_TOKEN}`); }
-    const hr = (pick(hj, 'results', 'data') || [])[0] || {};
-    const rows = pick(hr, 'historicalDataPrice', 'historical', 'prices') || [];
-    history = rows.map(x => {
-      const d = pick(x, 'date', 'datetime', 'timestamp');
-      const t = typeof d === 'number' ? new Date(d < 1e12 ? d * 1000 : d) : new Date(d);
-      return { d: t.toISOString().slice(0, 10), c: num(pick(x, 'close', 'adjustedClose')) };
-    }).filter(x => isFinite(x.c)).slice(-22);
-    if (!history.length) throw new Error('sem pontos');
-  });
+  const tries = [
+    `https://brapi.dev/api/quote/${enc}?range=1mo&interval=1d`,
+    `https://brapi.dev/api/quote/${enc}`,
+    `https://brapi.dev/api/v2/stocks/quote?symbols=${enc}`,
+  ];
+  let j, price, last = '';
+  for (const u of tries) {
+    try { j = await get(u, { headers: h }); } catch (e) { last = e.message; continue; }
+    price = num(deep(j, ['regularMarketPrice', 'price', 'close', 'last']));
+    if (isFinite(price)) break;
+    last = 'resposta sem preço: ' + shape(j);
+  }
+  if (!isFinite(price)) throw new Error(last);
+  const pct = num(deep(j, ['regularMarketChangePercent', 'changePercent', 'change_percent']));
+  const rows = deep(j, ['historicalDataPrice', 'historical', 'prices']) || [];
+  const history = (Array.isArray(rows) ? rows : []).map(x => {
+    const d = pick(x, 'date', 'datetime', 'timestamp');
+    const t = typeof d === 'number' ? new Date(d < 1e12 ? d * 1000 : d) : new Date(d);
+    return isNaN(t) ? null : { d: t.toISOString().slice(0, 10), c: num(pick(x, 'close', 'adjustedClose')) };
+  }).filter(x => x && isFinite(x.c)).slice(-22);
+  if (!history.length) errors.push('Ibovespa histórico: resposta sem historicalDataPrice');
   return { price, pct, time: new Date().toISOString(), history };
 }
 
@@ -101,6 +108,10 @@ async function sgs(code, n = 1) {
 }
 async function indicators(prev) {
   const ind = { ...(prev || {}) };
+  // Descarta valores antigos que ficaram salvos de uma execução com série desatualizada.
+  const oldDate = d => !d || (Date.now() - Date.parse(d)) / 864e5 > MAX_AGE_DAYS;
+  if (ind.debt && oldDate(ind.debt.refMonth + '-01')) delete ind.debt;
+  if (ind.debtPct && oldDate(ind.debtPct.date)) delete ind.debtPct;
   const s = await attempt('Selic (SGS 432)', () => sgs(SGS.selic));
   if (s) ind.selic = s.at(-1);
   const i = await attempt('IPCA 12m (SGS 13522)', () => sgs(SGS.ipca12m));
@@ -148,7 +159,11 @@ const tag = (block, names) => {
   return '';
 };
 async function feed(f) {
-  const xml = await get(f.url, { json: false });
+  let xml, lastErr;
+  for (const u of f.urls || [f.url]) {
+    try { xml = await get(u, { json: false }); break; } catch (e) { lastErr = e; }
+  }
+  if (xml === undefined) throw lastErr;
   const blocks = xml.match(/<item[\s>][\s\S]*?<\/item>/gi) || xml.match(/<entry[\s>][\s\S]*?<\/entry>/gi) || [];
   if (!blocks.length) throw new Error('nenhum item no feed (endereço mudou?)');
   return blocks.slice(0, NEWS_PER_FEED).map(b => {
