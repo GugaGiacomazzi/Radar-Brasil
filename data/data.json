@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-02T10:37:42.622Z",
+  "updated": "2026-11-02T11:32:21.571Z",
   "market": {
     "ibov": {
       "price": 167921.8,
       "pct": -0.75,
-      "time": "2026-11-02T10:37:36.831Z",
+      "time": "2026-11-02T11:32:15.851Z",
       "history": [
         {
           "d": "2026-10-05",
@@ -153,6 +153,22 @@
       "cat": "internacional"
     },
     {
+      "title": "Os ataques cibernéticos a aplicativos de alertas de emergência na Rússia e Ucrânia",
+      "link": "https://www.bbc.com/portuguese/articles/cwrky5dm77dxo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-02T11:21:18.000Z",
+      "summary": "Alertas falsos avisavam moradores sobre iminentes ataques aéreos, incluindo ataques nucleares e químicos.",
+      "source": "BBC News Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "Como eleições nos EUA devem selar destino de Trump e futuro da relação com o Brasil em 4º mandato de Lula",
+      "link": "https://www.bbc.com/portuguese/articles/cw80z10renkzo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-02T10:36:42.000Z",
+      "summary": "Nas eleições de meio de mandato desta terça, oposição democrata pode conquistar controle do Congresso americano e promover maior escrutínio sobre a agenda de Trump para a América Latina.",
+      "source": "BBC News Brasil",
+      "cat": "internacional"
+    },
+    {
       "title": "Apps de alerta na Rússia e na Ucrânia são hackeados",
       "link": "https://www.dw.com/pt-br/apps-de-alerta-na-rússia-e-na-ucrânia-são-hackeados/a-79828000?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-02T10:32:00.000Z",
@@ -209,27 +225,11 @@
       "cat": "internacional"
     },
     {
-      "title": "'Deixei uma pasta com segredos de Estado em um trem: sou a prova de que é possível se recuperar do maior erro da sua vida'",
-      "link": "https://www.bbc.com/portuguese/articles/cm9dz6wz244wo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-01T19:54:39.000Z",
-      "summary": "O ex-alto funcionário britânico Richard Jackson relata o dia fatídico em que esqueceu documentos importantes e ultrassecretos em uma viagem de trem e como se recuperou depois do ocorrido.",
-      "source": "BBC News Brasil",
-      "cat": "internacional"
-    },
-    {
       "title": "Temor em Seul cresce com sinais de aproximação entre EUA e Coreia do Norte",
       "link": "https://www.dw.com/pt-br/temor-em-seul-cresce-com-sinais-de-aproximação-entre-eua-e-coreia-do-norte/a-79823948?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-01T19:17:00.000Z",
       "summary": "Especialistas alertam que a combinação de provocações norte-coreanas e da política externa imprevisível de Donald Trump está abalando a confiança de Seul em um de seus principais parceiros de segurança.",
       "source": "DW Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "Como a falta de perspectiva de futuro alimenta protestos de jovens na Europa",
-      "link": "https://www.bbc.com/portuguese/articles/ckpqgxp29vlxo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-01T18:09:35.000Z",
-      "summary": "No último mês, jovens lideraram protestos por toda a Europa. O que essas manifestações têm em comum?",
-      "source": "BBC News Brasil",
       "cat": "internacional"
     },
     {
