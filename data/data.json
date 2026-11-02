@@ -1,15 +1,11 @@
 {
-  "updated": "2026-11-01T23:51:58.935Z",
+  "updated": "2026-11-02T00:52:41.150Z",
   "market": {
     "ibov": {
       "price": 167921.8,
       "pct": -0.75,
-      "time": "2026-11-01T23:51:54.401Z",
+      "time": "2026-11-02T00:52:35.908Z",
       "history": [
-        {
-          "d": "2026-10-02",
-          "c": 192115
-        },
         {
           "d": "2026-10-05",
           "c": 206912
@@ -143,9 +139,17 @@
     {
       "title": "Nove pessoas morrem em acidente de avião na Flórida; veja o que se sabe",
       "link": "https://www.bbc.com/portuguese/articles/cm9qz2289dvyo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-01T22:18:48.000Z",
+      "date": "2026-11-02T00:30:27.000Z",
       "summary": "O secretário de Transportes dos Estados Unidos, Sean Duffy, classifica como uma \"tragédia horrível\" o acidente ocorrido a cerca de 14 km do resort Mar-a-Lago, do presidente Donald Trump",
       "source": "BBC News Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "Cão salsichinha: um símbolo alemão que virou ícone cultural",
+      "link": "https://www.dw.com/pt-br/cão-salsichinha-um-símbolo-alemão-que-virou-ícone-cultural/a-79824817?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-01T22:34:00.000Z",
+      "summary": "Da caça aos texugos às galerias de arte, passando pelas guerras mundiais e pelos Jogos Olímpicos, o dachshund construiu uma trajetória singular e agora é tema de exposição em Bremen.",
+      "source": "DW Brasil",
       "cat": "internacional"
     },
     {
@@ -218,14 +222,6 @@
       "date": "2026-11-01T16:02:28.000Z",
       "summary": "O Panamá transferiu 29 prisioneiros para uma ilha que outrora fora uma notória colônia penal, marcada por abusos e trabalhos forçados. A decisão levanta preocupações sobre o futuro desse território, hoje Patrimônio Mundial da Unesco",
       "source": "BBC News Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "FBI acusa Coreia do Norte do maior roubo da história em criptomoedas",
-      "link": "https://www.dw.com/pt-br/fbi-acusa-coreia-do-norte-do-maior-roubo-da-história-em-criptomoedas/a-79822996?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-01T14:42:00.000Z",
-      "summary": "Investigadores afirmam que grupo TraderTraitor, parceiro de Pyongyang, foi o autor do ataque que drenou US$ 6,3 bilhões da maior corretora de criptoativos do mundo. Binance diz ter coberto 95% dos prejuízos.",
-      "source": "DW Brasil",
       "cat": "internacional"
     },
     {
