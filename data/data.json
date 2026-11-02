@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-02T18:52:08.860Z",
+  "updated": "2026-11-02T19:48:39.310Z",
   "market": {
     "ibov": {
       "price": 167921.8,
       "pct": -0.75,
-      "time": "2026-11-02T18:52:03.269Z",
+      "time": "2026-11-02T19:48:34.222Z",
       "history": [
         {
           "d": "2026-10-05",
@@ -137,18 +137,26 @@
   },
   "news": [
     {
-      "title": "No centro do capitalismo mundial, movimento socialista cresce e cria dilema para os democratas",
-      "link": "https://www.bbc.com/portuguese/articles/cm87zn0xz155o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-02T17:53:22.000Z",
-      "summary": "Nas eleições de meio de mandato dos Estados Unidos, a crescente popularidade dos candidatos dos Socialistas Democráticos dos Estados Unidos (DSA) representa um desafio para o Partido Democrata.",
+      "title": "Filha de brasileiros era copilota do avião que caiu na Flórida e deixou 9 mortos; o que se sabe",
+      "link": "https://www.bbc.com/portuguese/articles/cqe8rl260ep2o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-02T19:31:15.000Z",
+      "summary": "Nathalia Gadelha Filgueiras tinha 20 anos e tirou licença para pilotar avião aos 17.",
       "source": "BBC News Brasil",
       "cat": "internacional"
     },
     {
-      "title": "Como um piloto de 20 anos, em sua segunda temporada na F1, fez história como o mais jovem campeão do esporte",
-      "link": "https://www.bbc.com/portuguese/articles/cr78pgwy7weno?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-02T17:27:18.000Z",
-      "summary": "Italiano conquista seu primeiro título mundial após elevar a média de pontos por corrida de 6,25 para 20 em apenas uma temporada.",
+      "title": "Os detalhes do acidente com um avião particular na Flórida",
+      "link": "https://www.bbc.com/portuguese/articles/cm9qz2289dvyo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-02T19:20:29.000Z",
+      "summary": "O secretário de Transportes dos Estados Unidos, Sean Duffy, classifica como uma \"tragédia horrível\" o acidente ocorrido a cerca de 14 km do resort Mar-a-Lago, do presidente Donald Trump",
+      "source": "BBC News Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "No centro do capitalismo mundial, movimento socialista cresce e cria dilema para os democratas",
+      "link": "https://www.bbc.com/portuguese/articles/cm87zn0xz155o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-02T17:53:22.000Z",
+      "summary": "Nas eleições de meio de mandato dos Estados Unidos, a crescente popularidade dos candidatos dos Socialistas Democráticos dos Estados Unidos (DSA) representa um desafio para o Partido Democrata.",
       "source": "BBC News Brasil",
       "cat": "internacional"
     },
@@ -174,14 +182,6 @@
       "date": "2026-11-02T16:02:00.000Z",
       "summary": "Karl Bushby cruzou as Américas e passou por Rússia e partes da Ásia Central antes de chegar à Europa. Jornada, percorrida quase toda a pé, vai virar documentário de Werner Herzog.",
       "source": "DW Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "Em áudio | 'Não reconheci meu namorado quando o encontrei no supermercado': como descobri que tinha cegueira facial",
-      "link": "https://www.bbc.com/portuguese/listen/cr1ex1z4x2y0o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-02T15:12:15.000Z",
-      "summary": "Após receber diagnóstico de prosopagnosia, jornalista investigou ciência por trás dessa condição.",
-      "source": "BBC News Brasil",
       "cat": "internacional"
     },
     {
