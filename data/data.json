@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-02T12:33:30.374Z",
+  "updated": "2026-11-02T13:49:38.760Z",
   "market": {
     "ibov": {
       "price": 167921.8,
       "pct": -0.75,
-      "time": "2026-11-02T12:33:25.284Z",
+      "time": "2026-11-02T13:49:35.739Z",
       "history": [
         {
           "d": "2026-10-05",
@@ -137,6 +137,14 @@
   },
   "news": [
     {
+      "title": "Sem remédios e sob ataques: a realidade das crianças em Gaza que tentam sobreviver após cessar-fogo",
+      "link": "https://www.bbc.com/portuguese/watch/cmd6dp3v5362o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-02T13:47:24.000Z",
+      "summary": "Documentário da BBC mostra a rotina de crianças em Gaza, onde a falta de água, alimentos e medicamentos agravam as condições de vida em meio aos bombardeios israelenses.",
+      "source": "BBC News Brasil",
+      "cat": "internacional"
+    },
+    {
       "title": "Eleições nos EUA: pesquisas indicam vantagem dos democratas, mas estão corretas?",
       "link": "https://www.bbc.com/portuguese/articles/c8zxledvzd3qo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-02T12:12:20.000Z",
@@ -165,14 +173,6 @@
       "link": "https://www.bbc.com/portuguese/articles/cm3el11nv1z9o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-02T11:47:02.000Z",
       "summary": "Palestinos relatam à BBC as dificuldades que enfrentam em Gaza após a destruição de quase toda a infraestrutura da qual dependem.",
-      "source": "BBC News Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "Os ataques cibernéticos a aplicativos de alertas de emergência na Rússia e Ucrânia",
-      "link": "https://www.bbc.com/portuguese/articles/cwrky5dm77dxo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-02T11:21:18.000Z",
-      "summary": "Alertas falsos avisavam moradores sobre iminentes ataques aéreos, incluindo ataques nucleares e químicos.",
       "source": "BBC News Brasil",
       "cat": "internacional"
     },
