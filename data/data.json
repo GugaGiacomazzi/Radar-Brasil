@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-02T21:25:35.689Z",
+  "updated": "2026-11-02T22:22:53.149Z",
   "market": {
     "ibov": {
       "price": 167921.8,
       "pct": -0.75,
-      "time": "2026-11-02T21:25:32.110Z",
+      "time": "2026-11-02T22:22:46.723Z",
       "history": [
         {
           "d": "2026-10-05",
@@ -137,6 +137,22 @@
   },
   "news": [
     {
+      "title": "Ursos se proliferam na Rússia e já mataram 30 em 2026",
+      "link": "https://www.dw.com/pt-br/ursos-se-proliferam-na-rússia-e-já-mataram-30-em-2026/a-79834503?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-02T21:24:00.000Z",
+      "summary": "População do animal mais que dobrou em três décadas na Rússia. Invernos mais amenos, incêndios florestais, escassez de alimentos silvestres e a busca por comida em áreas habitadas agravam a crise.",
+      "source": "DW Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "A explosiva combinação de protestos e alta dívida pública na França",
+      "link": "https://www.dw.com/pt-br/a-explosiva-combinação-de-protestos-e-alta-dívida-pública-na-frança/a-79830816?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-02T20:43:00.000Z",
+      "summary": "Pressionado, governo francês promete bilhões de euros extras para o ensino apesar de o país já enfrentar dificuldades com uma dívida pública que chega a 120% do PIB.",
+      "source": "DW Brasil",
+      "cat": "internacional"
+    },
+    {
       "title": "Netflix recria experimento controverso de Stanford: estudo abusivo pode virar reality show?",
       "link": "https://www.bbc.com/portuguese/articles/c60rldq2j9p8o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-02T20:36:55.000Z",
@@ -145,10 +161,26 @@
       "cat": "internacional"
     },
     {
+      "title": "EUA aprovam genérico de lenacapavir para prevenção do HIV",
+      "link": "https://www.dw.com/pt-br/eua-aprovam-genérico-de-lenacapavir-para-prevenção-do-hiv/a-79833988?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-02T20:27:00.000Z",
+      "summary": "Decisão abre caminho para ampliar o acesso em países de baixa e média renda. No Brasil, alto custo segue como principal obstáculo para a incorporação da terapia ao SUS.",
+      "source": "DW Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "O papel dos influenciadores na onda do consumo de carne crua",
+      "link": "https://www.dw.com/pt-br/o-papel-dos-influenciadores-na-onda-do-consumo-de-carne-crua/a-79832878?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-02T20:01:00.000Z",
+      "summary": "Quando a saúde vira questão de fé, influenciadores podem acabar ganhando mais atenção do que os médicos. Entender como dietas excêntricas viram febre pode ser o primeiro passo para recuperar a confiança na ciência.",
+      "source": "DW Brasil",
+      "cat": "internacional"
+    },
+    {
       "title": "Filha de brasileiros era copilota do avião que caiu na Flórida e deixou 9 mortos; o que se sabe",
       "link": "https://www.bbc.com/portuguese/articles/cqe8rl260ep2o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-02T19:55:15.000Z",
-      "summary": "Nathalia Gadelha Filgueiras tinha 20 anos e tirou licença para pilotar avião aos 17.",
+      "summary": "Nathalia Gadelha Filgueiras tinha 20 anos e tirou licença para pilotar avião aos 17. Ela acumulava 1,3 mil horas de voo quando o jato particular caiu no domingo depois que ela pediu socorro pelo rádio.",
       "source": "BBC News Brasil",
       "cat": "internacional"
     },
@@ -161,35 +193,27 @@
       "cat": "internacional"
     },
     {
+      "title": "Alemanha pena para achar um depósito definitivo para seu lixo nuclear",
+      "link": "https://www.dw.com/pt-br/alemanha-pena-para-achar-um-depósito-definitivo-para-seu-lixo-nuclear/a-79832894?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-02T19:09:00.000Z",
+      "summary": "Finlândia é o primeiro país a ter um depósito definitivo para resíduos nucleares. Maioria dos países, como a Alemanha, continua procurando.",
+      "source": "DW Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "Sem dedicação exclusiva, prefeitos voluntários administram milhares de cidades e vilarejos na Alemanha",
+      "link": "https://www.dw.com/pt-br/sem-dedicação-exclusiva-prefeitos-voluntários-administram-milhares-de-cidades-e-vilarejos-na-alemanha/a-79806521?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-02T19:01:00.000Z",
+      "summary": "Em milhares de municípios alemães, moradores assumem a prefeitura em modelo de trabalho voluntário. Mas burocracia e ameaças têm afastado pretendentes.",
+      "source": "DW Brasil",
+      "cat": "internacional"
+    },
+    {
       "title": "No centro do capitalismo mundial, movimento socialista cresce e cria dilema para os democratas",
       "link": "https://www.bbc.com/portuguese/articles/cm87zn0xz155o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-02T17:53:22.000Z",
       "summary": "Nas eleições de meio de mandato dos Estados Unidos, a crescente popularidade dos candidatos dos Socialistas Democráticos dos Estados Unidos (DSA) representa um desafio para o Partido Democrata.",
       "source": "BBC News Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "Missão da Nasa para simular Marte termina após equipe ficar 378 dias isolada nos EUA",
-      "link": "https://www.dw.com/pt-br/missão-da-nasa-para-simular-marte-termina-após-equipe-ficar-378-dias-isolada-nos-eua/a-79832967?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-02T17:11:00.000Z",
-      "summary": "Quatro participantes ficaram confinados em preparação para futura viagem ao planeta vermelho. Comunicação com autoridades e família era deliberadamente limitada, e eles não viram a luz do sol.",
-      "source": "DW Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "Reduzir emissões da aviação evitaria prejuízos bilionários ao clima",
-      "link": "https://www.dw.com/pt-br/reduzir-emissões-da-aviação-evitaria-prejuízos-bilionários-ao-clima/a-79831627?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-02T16:58:00.000Z",
-      "summary": "Altas emissões de CO2 fazem da aviação um dos meios de transporte mais prejudiciais ao clima. Mudanças nas rotas de voo e combustíveis sustentáveis podem reduzir drasticamente esses danos.",
-      "source": "DW Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "Andarilho britânico volta para casa após caminhar por 28 anos pelo mundo",
-      "link": "https://www.dw.com/pt-br/andarilho-britânico-volta-para-casa-após-caminhar-por-28-anos-pelo-mundo/a-79832483?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-02T16:02:00.000Z",
-      "summary": "Karl Bushby cruzou as Américas e passou por Rússia e partes da Ásia Central antes de chegar à Europa. Jornada, percorrida quase toda a pé, vai virar documentário de Werner Herzog.",
-      "source": "DW Brasil",
       "cat": "internacional"
     },
     {
@@ -201,34 +225,10 @@
       "cat": "internacional"
     },
     {
-      "title": "IA consegue criar vírus que se espalha por conta própria em eletrodomésticos",
-      "link": "https://www.dw.com/pt-br/ia-consegue-criar-vírus-que-se-espalha-por-conta-própria-em-eletrodomésticos/a-79828161?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-02T14:25:00.000Z",
-      "summary": "Anthropic testa como \"vermes\" de IA se comportam em smart TVs. Esse tipo de vírus se propaga por conta própria para outros aparelhos explorando falhas de segurança e se adapta a diferentes tipos de dispositivos.",
-      "source": "DW Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "Quem são as mulheres que atuarão no Congresso no ano que vem",
-      "link": "https://www.dw.com/pt-br/quem-são-as-mulheres-que-atuarão-no-congresso-no-ano-que-vem/a-79830444?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-02T12:32:00.000Z",
-      "summary": "Congresso terá recorde de mulheres em 2027. Apesar de aumento, puxado pela direita, bancada não é homogênea e defende diferentes interesses.",
-      "source": "DW Brasil",
-      "cat": "internacional"
-    },
-    {
       "title": "Comitê da ONU alerta para casamento e gravidez precoces em Angola e Cabo Verde",
       "link": "https://news.un.org/feed/view/pt/story/2026/11/1854817",
       "date": "2026-11-02T12:00:00.000Z",
       "summary": "Grupo de especialistas independentes avaliou medidas de combate à discriminação contra mulheres; taxa de gravidez entre angolanas de 15 a 19 anos chega a 42,5% nas zonas rurais; em Cabo Verde, preocupação é com reconhecimento retroativo de uniões iniciadas qua",
-      "source": "ONU News",
-      "cat": "internacional"
-    },
-    {
-      "title": "ONU reforça apoio a processo de paz após encerrar missão no Saara Ocidental",
-      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854814",
-      "date": "2026-11-02T12:00:00.000Z",
-      "summary": "Operação terminou após impasse no Conselho de Segurança sobre renovação do mandato; secretário-geral António Guterres garante que organização segue intermediando diálogo diplomático; nota reforça que fim da missão não anula direito à autodeterminação.",
       "source": "ONU News",
       "cat": "internacional"
     },
