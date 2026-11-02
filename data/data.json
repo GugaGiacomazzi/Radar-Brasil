@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-02T13:49:38.760Z",
+  "updated": "2026-11-02T14:55:32.699Z",
   "market": {
     "ibov": {
       "price": 167921.8,
       "pct": -0.75,
-      "time": "2026-11-02T13:49:35.739Z",
+      "time": "2026-11-02T14:55:29.007Z",
       "history": [
         {
           "d": "2026-10-05",
@@ -137,10 +137,10 @@
   },
   "news": [
     {
-      "title": "Sem remédios e sob ataques: a realidade das crianças em Gaza que tentam sobreviver após cessar-fogo",
-      "link": "https://www.bbc.com/portuguese/watch/cmd6dp3v5362o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-02T13:47:24.000Z",
-      "summary": "Documentário da BBC mostra a rotina de crianças em Gaza, onde a falta de água, alimentos e medicamentos agravam as condições de vida em meio aos bombardeios israelenses.",
+      "title": "Por que os EUA têm tantos políticos idosos e poucos jovens disputando eleições",
+      "link": "https://www.bbc.com/portuguese/articles/c6ly39vk8kvmo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-02T14:53:03.000Z",
+      "summary": "De Trump a congressistas nonagenários, ascensão da idade média dos líderes americanos reacende debate sobre por que tão poucos jovens chegam aos cargos eletivos.",
       "source": "BBC News Brasil",
       "cat": "internacional"
     },
@@ -196,7 +196,7 @@
       "title": "Rússia constrói radar em Kaliningrado com capacidade para espionar grande parte da Europa",
       "link": "https://www.dw.com/pt-br/rússia-constrói-radar-em-kaliningrado-com-capacidade-para-espionar-grande-parte-da-europa/a-79828152?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-02T10:21:00.000Z",
-      "summary": "Moscou está construído novo radar OTH em seu exclave situado entre a Polônia e a Lituânia. Com estrutura, país pode vigiar movimentos militares em quase todo continente europeu.",
+      "summary": "Moscou está construindo novo radar OTH em seu exclave situado entre a Polônia e a Lituânia. Com estrutura, país pode vigiar movimentos militares em quase todo continente europeu.",
       "source": "DW Brasil",
       "cat": "internacional"
     },
