@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-02T11:32:21.571Z",
+  "updated": "2026-11-02T12:33:30.374Z",
   "market": {
     "ibov": {
       "price": 167921.8,
       "pct": -0.75,
-      "time": "2026-11-02T11:32:15.851Z",
+      "time": "2026-11-02T12:33:25.284Z",
       "history": [
         {
           "d": "2026-10-05",
@@ -137,6 +137,14 @@
   },
   "news": [
     {
+      "title": "Eleições nos EUA: pesquisas indicam vantagem dos democratas, mas estão corretas?",
+      "link": "https://www.bbc.com/portuguese/articles/c8zxledvzd3qo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-02T12:12:20.000Z",
+      "summary": "Pesquisas apontam para avanço dos democratas, mas indecisos e dificuldades para selecionar amostras representativas tornam o resultado incerto.",
+      "source": "BBC News Brasil",
+      "cat": "internacional"
+    },
+    {
       "title": "Em Dia Internacional, Guterres ressalta que jornalismo não pode ser silenciado",
       "link": "https://news.un.org/feed/view/pt/story/2026/11/1854809",
       "date": "2026-11-02T12:00:00.000Z",
@@ -150,6 +158,14 @@
       "date": "2026-11-02T12:00:00.000Z",
       "summary": "Alerta da Organização Internacional do Trabalho coloca agricultura e construção entre os setores mais vulneráveis; especialistas defendem mudanças nas jornadas laborais e medidas de proteção para reduzir os impactos do calor.&nbsp;",
       "source": "ONU News",
+      "cat": "internacional"
+    },
+    {
+      "title": "BBC entra na Faixa de Gaza: campos infestados de ratos e feridas que não cicatrizam",
+      "link": "https://www.bbc.com/portuguese/articles/cm3el11nv1z9o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-02T11:47:02.000Z",
+      "summary": "Palestinos relatam à BBC as dificuldades que enfrentam em Gaza após a destruição de quase toda a infraestrutura da qual dependem.",
+      "source": "BBC News Brasil",
       "cat": "internacional"
     },
     {
@@ -209,26 +225,10 @@
       "cat": "internacional"
     },
     {
-      "title": "Os eleitores hispânicos ajudaram a eleger Trump. Isso pode estar mudando agora no Texas?",
-      "link": "https://www.bbc.com/portuguese/articles/crz65819g97po?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-01T21:14:51.000Z",
-      "summary": "Pesquisas recentes sugerem que o presidente está enfrentando dificuldades significativas no estado às vésperas das eleições de meio de mandato.",
-      "source": "BBC News Brasil",
-      "cat": "internacional"
-    },
-    {
       "title": "Agulhas em doces de Halloween deixam polícia alemã em alerta",
       "link": "https://www.dw.com/pt-br/agulhas-em-doces-de-halloween-deixam-polícia-alemã-em-alerta/a-79824762?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-01T20:50:00.000Z",
       "summary": "Em diferentes regiões do país, crianças encontraram, além de agulhas, objetos metálicos e parafusos nos doces recolhidos durante a comemoração. Polícia acredita que os doces foram manipulados intencionalmente.",
-      "source": "DW Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "Temor em Seul cresce com sinais de aproximação entre EUA e Coreia do Norte",
-      "link": "https://www.dw.com/pt-br/temor-em-seul-cresce-com-sinais-de-aproximação-entre-eua-e-coreia-do-norte/a-79823948?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-01T19:17:00.000Z",
-      "summary": "Especialistas alertam que a combinação de provocações norte-coreanas e da política externa imprevisível de Donald Trump está abalando a confiança de Seul em um de seus principais parceiros de segurança.",
       "source": "DW Brasil",
       "cat": "internacional"
     },
