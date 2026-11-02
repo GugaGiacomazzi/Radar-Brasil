@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-02T15:55:53.181Z",
+  "updated": "2026-11-02T16:58:08.039Z",
   "market": {
     "ibov": {
       "price": 167921.8,
       "pct": -0.75,
-      "time": "2026-11-02T15:55:47.929Z",
+      "time": "2026-11-02T16:58:02.722Z",
       "history": [
         {
           "d": "2026-10-05",
@@ -137,6 +137,14 @@
   },
   "news": [
     {
+      "title": "Andarilho britânico volta para casa após caminhar por 28 anos pelo mundo",
+      "link": "https://www.dw.com/pt-br/andarilho-britânico-volta-para-casa-após-caminhar-por-28-anos-pelo-mundo/a-79832483?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-02T16:02:00.000Z",
+      "summary": "Karl Bushby cruzou as Américas e passou por Rússia e partes da Ásia Central antes de chegar à Europa. Jornada, percorrida quase toda a pé, vai virar documentário de Werner Herzog.",
+      "source": "DW Brasil",
+      "cat": "internacional"
+    },
+    {
       "title": "Em áudio | 'Não reconheci meu namorado quando o encontrei no supermercado': como descobri que tinha cegueira facial",
       "link": "https://www.bbc.com/portuguese/listen/cr1ex1z4x2y0o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-02T15:12:15.000Z",
@@ -222,14 +230,6 @@
       "date": "2026-11-02T10:21:00.000Z",
       "summary": "Moscou está construindo novo radar OTH em seu exclave situado entre a Polônia e a Lituânia. Com estrutura, país pode vigiar movimentos militares em quase todo continente europeu.",
       "source": "DW Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "O que documentos inéditos podem revelar sobre a morte de Tancredo Neves",
-      "link": "https://www.bbc.com/portuguese/articles/clyl1njl3vxo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-02T10:11:36.000Z",
-      "summary": "Justiça reconheceu direito da família de ter acesso aos documentos e procedimentos relacionados aos tratamentos médicos que antecederam a morte do presidente eleito que jamais foi empossado.",
-      "source": "BBC News Brasil",
       "cat": "internacional"
     },
     {
