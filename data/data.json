@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-02T09:38:48.095Z",
+  "updated": "2026-11-02T10:37:42.622Z",
   "market": {
     "ibov": {
       "price": 167921.8,
       "pct": -0.75,
-      "time": "2026-11-02T09:38:38.614Z",
+      "time": "2026-11-02T10:37:36.831Z",
       "history": [
         {
           "d": "2026-10-05",
@@ -137,6 +137,46 @@
   },
   "news": [
     {
+      "title": "Em Dia Internacional, Guterres ressalta que jornalismo não pode ser silenciado",
+      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854809",
+      "date": "2026-11-02T12:00:00.000Z",
+      "summary": "Em 2025, pelo menos 34 jornalistas foram assassinados; casos são marcados por alta taxa de impunidade; líder das Nações Unidas ressaltou que a profissão é “fundamental para os direitos humanos e a democracia”.&nbsp;",
+      "source": "ONU News",
+      "cat": "internacional"
+    },
+    {
+      "title": "Calor extremo pode eliminar 2,4 milhões de empregos na África até 2040",
+      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854810",
+      "date": "2026-11-02T12:00:00.000Z",
+      "summary": "Alerta da Organização Internacional do Trabalho coloca agricultura e construção entre os setores mais vulneráveis; especialistas defendem mudanças nas jornadas laborais e medidas de proteção para reduzir os impactos do calor.&nbsp;",
+      "source": "ONU News",
+      "cat": "internacional"
+    },
+    {
+      "title": "Apps de alerta na Rússia e na Ucrânia são hackeados",
+      "link": "https://www.dw.com/pt-br/apps-de-alerta-na-rússia-e-na-ucrânia-são-hackeados/a-79828000?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-02T10:32:00.000Z",
+      "summary": "Nos dois países, aplicativos transmitiram informações falsas à população, dizem autoridades. Não está claro se incidentes estão relacionados.",
+      "source": "DW Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "Rússia constrói radar em Kaliningrado com capacidade para espionar grande parte da Europa",
+      "link": "https://www.dw.com/pt-br/rússia-constrói-radar-em-kaliningrado-com-capacidade-para-espionar-grande-parte-da-europa/a-79828152?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-02T10:21:00.000Z",
+      "summary": "Moscou está construído novo radar OTH em seu exclave situado entre a Polônia e a Lituânia. Com estrutura, país pode vigiar movimentos militares em quase todo continente europeu.",
+      "source": "DW Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "O que quebra de sigilo de documentos sobre morte do 1º presidente eleito pós-ditadura pode revelar",
+      "link": "https://www.bbc.com/portuguese/articles/clyl1njl3vxo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-02T10:11:36.000Z",
+      "summary": "Justiça reconheceu direito da família de ter acesso aos documentos e procedimentos relacionados aos tratamentos médicos que antecederam a morte do presidente eleito que jamais foi empossado.",
+      "source": "BBC News Brasil",
+      "cat": "internacional"
+    },
+    {
       "title": "Nove pessoas morrem em acidente de avião na Flórida; veja o que se sabe",
       "link": "https://www.bbc.com/portuguese/articles/cm9qz2289dvyo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-02T08:37:44.000Z",
@@ -169,7 +209,7 @@
       "cat": "internacional"
     },
     {
-      "title": "'Esqueci segredos de Estado em um trem: sou a prova de que é possível se recuperar do maior erro da sua vida'",
+      "title": "'Deixei uma pasta com segredos de Estado em um trem: sou a prova de que é possível se recuperar do maior erro da sua vida'",
       "link": "https://www.bbc.com/portuguese/articles/cm9dz6wz244wo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-01T19:54:39.000Z",
       "summary": "O ex-alto funcionário britânico Richard Jackson relata o dia fatídico em que esqueceu documentos importantes e ultrassecretos em uma viagem de trem e como se recuperou depois do ocorrido.",
@@ -190,46 +230,6 @@
       "date": "2026-11-01T18:09:35.000Z",
       "summary": "No último mês, jovens lideraram protestos por toda a Europa. O que essas manifestações têm em comum?",
       "source": "BBC News Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "França registra quase 800 prisões em novo fim de semana de protestos",
-      "link": "https://www.dw.com/pt-br/frança-registra-quase-800-prisões-em-novo-fim-de-semana-de-protestos/a-79823505?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-01T17:36:00.000Z",
-      "summary": "Autoridades contabilizaram 779 detenções em todo o país, número inferior ao registrado nas últimas semanas. Governo atribui redução da violência a forte esquema de segurança.",
-      "source": "DW Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "Manifestação da Geração Z agita a Alemanha: “Só queremos que nos ouçam”",
-      "link": "https://www.dw.com/pt-br/manifestação-da-geração-z-agita-a-alemanha-só-queremos-que-nos-ouçam/a-79823403?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-01T16:30:00.000Z",
-      "summary": "Ministro do Interior da Alemanha condenou a violência nas manifestações e responsabilizou \"extremistas de esquerda\". Manifestantes acusam a imprensa e políticos de forçar debate sobre violência mesmo antes dos atos.",
-      "source": "DW Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "Ataques israelenses matam ao menos oito pessoas na Faixa de Gaza",
-      "link": "https://www.dw.com/pt-br/ataques-israelenses-matam-ao-menos-oito-pessoas-na-faixa-de-gaza/a-79823391?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-01T16:26:00.000Z",
-      "summary": "Uma criança de três anos está entre os mortos. Bombardeios ocorreram apesar da trégua em vigor desde outubro de 2025 e atingiram áreas no norte e no sul do território.",
-      "source": "DW Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "A Ilha de Coiba, a brutal prisão a céu aberto que se tornou um paraíso natural e para onde o Panamá está enviando prisioneiros novamente",
-      "link": "https://www.bbc.com/portuguese/articles/cwm247vgdnkro?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-01T16:02:28.000Z",
-      "summary": "O Panamá transferiu 29 prisioneiros para uma ilha que outrora fora uma notória colônia penal, marcada por abusos e trabalhos forçados. A decisão levanta preocupações sobre o futuro desse território, hoje Patrimônio Mundial da Unesco",
-      "source": "BBC News Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "Líder de agência da ONU propõe dar nome a mais de mil espécies marinhas",
-      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854487",
-      "date": "2026-11-01T12:00:00.000Z",
-      "summary": "Milhares de metros abaixo da superfície, mundo intacto é tido como pertença dos humanos e guarda o futuro da Terra; neste Dia Internacional dos Fundos Marinhos, a ciência faz um chamado às novas gerações para descobrir o legado que protege os oceanos profundos",
-      "source": "ONU News",
       "cat": "internacional"
     },
     {
