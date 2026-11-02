@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-02T16:58:08.039Z",
+  "updated": "2026-11-02T17:55:33.030Z",
   "market": {
     "ibov": {
       "price": 167921.8,
       "pct": -0.75,
-      "time": "2026-11-02T16:58:02.722Z",
+      "time": "2026-11-02T17:55:27.091Z",
       "history": [
         {
           "d": "2026-10-05",
@@ -137,6 +137,30 @@
   },
   "news": [
     {
+      "title": "Como um piloto de 20 anos, em sua segunda temporada na F1, fez história como o mais jovem campeão do esporte",
+      "link": "https://www.bbc.com/portuguese/articles/cr78pgwy7weno?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-02T17:27:18.000Z",
+      "summary": "Italiano conquista seu primeiro título mundial após elevar a média de pontos por corrida de 6,25 para 20 em apenas uma temporada.",
+      "source": "BBC News Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "Missão da Nasa para simular Marte termina após equipe ficar 378 dias isolada nos EUA",
+      "link": "https://www.dw.com/pt-br/missão-da-nasa-para-simular-marte-termina-após-equipe-ficar-378-dias-isolada-nos-eua/a-79832967?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-02T17:11:00.000Z",
+      "summary": "Quatro participantes ficaram confinados em preparação para futura viagem ao planeta vermelho. Comunicação com autoridades e família era deliberadamente limitada, e eles não viram a luz do sol.",
+      "source": "DW Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "Reduzir emissões da aviação evitaria prejuízos bilionários ao clima",
+      "link": "https://www.dw.com/pt-br/reduzir-emissões-da-aviação-evitaria-prejuízos-bilionários-ao-clima/a-79831627?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-02T16:58:00.000Z",
+      "summary": "Altas emissões de CO2 fazem da aviação um dos meios de transporte mais prejudiciais ao clima. Mudanças nas rotas de voo e combustíveis sustentáveis podem reduzir drasticamente esses danos.",
+      "source": "DW Brasil",
+      "cat": "internacional"
+    },
+    {
       "title": "Andarilho britânico volta para casa após caminhar por 28 anos pelo mundo",
       "link": "https://www.dw.com/pt-br/andarilho-britânico-volta-para-casa-após-caminhar-por-28-anos-pelo-mundo/a-79832483?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-02T16:02:00.000Z",
@@ -193,43 +217,19 @@
       "cat": "internacional"
     },
     {
-      "title": "Em Dia Internacional, Guterres ressalta que jornalismo não pode ser silenciado",
-      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854809",
+      "title": "Comitê da ONU alerta para casamento e gravidez precoces em Angola e Cabo Verde",
+      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854817",
       "date": "2026-11-02T12:00:00.000Z",
-      "summary": "Em 2025, pelo menos 34 jornalistas foram assassinados; casos são marcados por alta taxa de impunidade; líder das Nações Unidas ressaltou que a profissão é “fundamental para os direitos humanos e a democracia”.&nbsp;",
+      "summary": "Grupo de especialistas independentes avaliou medidas de combate à discriminação contra mulheres; taxa de gravidez entre angolanas de 15 a 19 anos chega a 42,5% nas zonas rurais; em Cabo Verde, preocupação é com reconhecimento retroativo de uniões iniciadas qua",
       "source": "ONU News",
       "cat": "internacional"
     },
     {
-      "title": "Calor extremo pode eliminar 2,4 milhões de empregos na África até 2040",
-      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854810",
+      "title": "ONU reforça apoio a processo de paz após encerrar missão no Saara Ocidental",
+      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854814",
       "date": "2026-11-02T12:00:00.000Z",
-      "summary": "Alerta da Organização Internacional do Trabalho coloca agricultura e construção entre os setores mais vulneráveis; especialistas defendem mudanças nas jornadas laborais e medidas de proteção para reduzir os impactos do calor.&nbsp;",
+      "summary": "Operação terminou após impasse no Conselho de Segurança sobre renovação do mandato; secretário-geral António Guterres garante que organização segue intermediando diálogo diplomático; nota reforça que fim da missão não anula direito à autodeterminação.",
       "source": "ONU News",
-      "cat": "internacional"
-    },
-    {
-      "title": "Como eleições nos EUA devem selar destino de Trump e futuro da relação com o Brasil em 4º mandato de Lula",
-      "link": "https://www.bbc.com/portuguese/articles/cw80z10renkzo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-02T10:36:42.000Z",
-      "summary": "Nas eleições de meio de mandato desta terça, oposição democrata pode conquistar controle do Congresso americano e promover maior escrutínio sobre a agenda de Trump para a América Latina.",
-      "source": "BBC News Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "Apps de alerta na Rússia e na Ucrânia são hackeados",
-      "link": "https://www.dw.com/pt-br/apps-de-alerta-na-rússia-e-na-ucrânia-são-hackeados/a-79828000?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-02T10:32:00.000Z",
-      "summary": "Nos dois países, aplicativos transmitiram informações falsas à população, dizem autoridades. Não está claro se incidentes estão relacionados.",
-      "source": "DW Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "Rússia constrói radar em Kaliningrado com capacidade para espionar grande parte da Europa",
-      "link": "https://www.dw.com/pt-br/rússia-constrói-radar-em-kaliningrado-com-capacidade-para-espionar-grande-parte-da-europa/a-79828152?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-02T10:21:00.000Z",
-      "summary": "Moscou está construindo novo radar OTH em seu exclave situado entre a Polônia e a Lituânia. Com estrutura, país pode vigiar movimentos militares em quase todo continente europeu.",
-      "source": "DW Brasil",
       "cat": "internacional"
     },
     {
