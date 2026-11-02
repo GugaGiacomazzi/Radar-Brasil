@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-02T19:48:39.310Z",
+  "updated": "2026-11-02T20:40:15.635Z",
   "market": {
     "ibov": {
       "price": 167921.8,
       "pct": -0.75,
-      "time": "2026-11-02T19:48:34.222Z",
+      "time": "2026-11-02T20:40:08.826Z",
       "history": [
         {
           "d": "2026-10-05",
@@ -137,9 +137,17 @@
   },
   "news": [
     {
+      "title": "Netflix recria experimento controverso de Stanford: estudo abusivo pode virar reality show?",
+      "link": "https://www.bbc.com/portuguese/articles/c60rldq2j9p8o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-02T20:36:55.000Z",
+      "summary": "O serviço de streaming transformou o Experimento de Aprisionamento de Stanford, controverso estudo de 1971 do psicólogo americano Philip Zimbardo, em uma série de reality show de seis episódios, reacendendo um antigo debate.",
+      "source": "BBC News Brasil",
+      "cat": "internacional"
+    },
+    {
       "title": "Filha de brasileiros era copilota do avião que caiu na Flórida e deixou 9 mortos; o que se sabe",
       "link": "https://www.bbc.com/portuguese/articles/cqe8rl260ep2o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-02T19:31:15.000Z",
+      "date": "2026-11-02T19:55:15.000Z",
       "summary": "Nathalia Gadelha Filgueiras tinha 20 anos e tirou licença para pilotar avião aos 17.",
       "source": "BBC News Brasil",
       "cat": "internacional"
@@ -189,14 +197,6 @@
       "link": "https://www.bbc.com/portuguese/articles/cwg7xpyd1jrgo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-02T14:53:58.000Z",
       "summary": "Os eleitores dos EUA irão às urnas na terça-feira em uma votação que poderá ter grande impacto na presidência de Donald Trump.",
-      "source": "BBC News Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "Por que os EUA têm tantos políticos idosos e poucos jovens disputando eleições",
-      "link": "https://www.bbc.com/portuguese/articles/c6ly39vk8kvmo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-02T14:53:03.000Z",
-      "summary": "De Trump a congressistas nonagenários, ascensão da idade média dos líderes americanos reacende debate sobre por que tão poucos jovens chegam aos cargos eletivos.",
       "source": "BBC News Brasil",
       "cat": "internacional"
     },
