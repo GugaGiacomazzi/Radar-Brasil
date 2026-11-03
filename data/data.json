@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-03T21:23:15.344Z",
+  "updated": "2026-11-03T22:22:38.731Z",
   "market": {
     "ibov": {
-      "price": 165536.56,
+      "price": 165528.92,
       "pct": -1.42,
-      "time": "2026-11-03T21:23:09.642Z",
+      "time": "2026-11-03T22:22:33.520Z",
       "history": [
         {
           "d": "2026-10-05",
@@ -84,7 +84,7 @@
         },
         {
           "d": "2026-11-03",
-          "c": 165536.5625
+          "c": 165528.9219
         }
       ]
     },
@@ -140,6 +140,30 @@
     ]
   },
   "news": [
+    {
+      "title": "Comissão debate dispensa de laudo médico para atendimento de alunos da educação especial",
+      "link": "https://www.camara.leg.br/noticias/1315372-comissao-debate-dispensa-de-laudo-medico-para-atendimento-de-alunos-da-educacao-especial",
+      "date": "2026-11-03T22:18:00.000Z",
+      "summary": "Audiência será promovida pela subcomissão que analisa projeto sobre o assunto",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Comissão debate denúncia sobre existência de plataforma digital com conteúdo de abuso sexual infantil",
+      "link": "https://www.camara.leg.br/noticias/1315314-comissao-debate-denuncia-sobre-existencia-de-plataforma-digital-com-conteudo-de-abuso-sexual-infantil",
+      "date": "2026-11-03T21:26:00.000Z",
+      "summary": "",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Projeto que permite convênios para reduzir o prazo de concessão de patentes segue para análise do Senado",
+      "link": "https://www.camara.leg.br/noticias/1315402-projeto-que-permite-convenios-para-reduzir-o-prazo-de-concessao-de-patentes-segue-para-analise-do-senado",
+      "date": "2026-11-03T21:23:00.000Z",
+      "summary": "A Câmara rejeitou recurso para votação da proposta pelo Plenário",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
     {
       "title": "Acordo de cooperação militar entre Brasil e Guiana vai à promulgação",
       "link": "https://www12.senado.leg.br/noticias/materias/2026/11/03/acordo-de-cooperacao-militar-entre-brasil-e-guiana-vai-a-promulgacao",
@@ -213,14 +237,6 @@
       "cat": "politica"
     },
     {
-      "title": "Projeto que prevê campanhas sobre parentalidade positiva segue para sanção",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/03/projeto-que-preve-campanhas-sobre-parentalidade-positiva-segue-para-sancao",
-      "date": "2026-11-03T20:32:24.000Z",
-      "summary": "O Senado aprovou nesta terça-feira (3) um projeto de lei que inclui a realização de cursos, palestras e campanhas — todos sobre os benefícios da parentalidade positiva — entre os deveres do Estado, da família e da sociedade. O projeto (PL 186/2025), que determ",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
       "title": "Em encontro com Zelenski, Merz promete ampliar apoio à Ucrânia",
       "link": "https://www.dw.com/pt-br/em-encontro-com-zelenski-merz-promete-ampliar-apoio-à-ucrânia/a-79847760?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-03T20:25:00.000Z",
@@ -229,36 +245,12 @@
       "cat": "internacional"
     },
     {
-      "title": "Câmara aprova inclusão de ultrassonografias morfológicas no pré-natal do SUS",
-      "link": "https://www.camara.leg.br/noticias/1315411-camara-aprova-inclusao-de-ultrassonografias-morfologicas-no-pre-natal-do-sus",
-      "date": "2026-11-03T20:19:00.000Z",
-      "summary": "A proposta segue para análise do Senado",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Projeto que limita penhora de recursos de empresas para pagamentos de débitos trabalhistas segue para o Senado",
-      "link": "https://www.camara.leg.br/noticias/1315392-projeto-que-limita-penhora-de-recursos-de-empresas-para-pagamentos-de-debitos-trabalhistas-segue-para-o-senado",
-      "date": "2026-11-03T20:13:00.000Z",
-      "summary": "A Cãmara rejeitou recurso para que a proposta fosse analisada pelo Plenário",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
       "title": "Quando sairão os resultados das eleições de meio de mandato nos EUA?",
       "link": "https://www.bbc.com/portuguese/articles/cwm26g6x0r72o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-03T20:11:24.000Z",
       "summary": "Após o fechamento das urnas, é possível que os resultados demorem horas, dias ou até mesmo semanas. Entenda como funciona a apuração.",
       "source": "BBC News Brasil",
       "cat": "internacional"
-    },
-    {
-      "title": "Câmara aprova requerimentos de urgência para dois projetos de lei",
-      "link": "https://www.camara.leg.br/noticias/1315385-camara-aprova-requerimentos-de-urgencia-para-dois-projetos-de-lei",
-      "date": "2026-11-03T19:59:00.000Z",
-      "summary": "",
-      "source": "Agência Câmara",
-      "cat": "politica"
     },
     {
       "title": "3 cenários possíveis para os resultados das eleições de meio de mandato nos EUA",
