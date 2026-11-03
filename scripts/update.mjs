@@ -22,14 +22,20 @@ const FEEDS = [
   { source: 'Planalto (governo)', cat: 'politica', url: 'https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/noticias/RSS' },
   { source: 'Gov.br · Economia (governo)', cat: 'economia', url: 'https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/RSS' },
   { source: 'Banco Central',      cat: 'economia', url: 'https://www.bcb.gov.br/api/feed/sitebcb/sitefeeds/notasImprensa' },
-  // Internacional: ONU (organismo multilateral), Itamaraty (versão oficial do governo) e duas emissoras públicas
+  // Internacional: ONU (organismo multilateral) e duas emissoras públicas
   // com redação própria em português e financiamento público, sem ligação com partidos brasileiros.
-  { source: 'ONU News',           cat: 'internacional', url: 'https://news.un.org/feed/subscribe/pt/news/all/rss.xml' },
-  { source: 'Itamaraty (governo)', cat: 'internacional', urls: ['https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/RSS', 'https://www.gov.br/mre/pt-br/assuntos/noticias/RSS'] },
-  { source: 'BBC News Brasil',    cat: 'internacional', urls: ['https://feeds.bbci.co.uk/portuguese/internacional/rss.xml', 'https://feeds.bbci.co.uk/portuguese/rss.xml'] },
-  { source: 'DW Brasil',          cat: 'internacional', url: 'https://rss.dw.com/xml/rss-br-all' },
+  { source: 'ONU News',           cat: 'internacional', url: 'https://news.un.org/feed/subscribe/pt/news/all/rss.xml' , topics: 'politica-economia', scan: 40 },
+  { source: 'BBC News Brasil',    cat: 'internacional', urls: ['https://feeds.bbci.co.uk/portuguese/internacional/rss.xml', 'https://feeds.bbci.co.uk/portuguese/rss.xml'] , topics: 'politica-economia', scan: 40 },
+  { source: 'DW Brasil',          cat: 'internacional', url: 'https://rss.dw.com/xml/rss-br-all' , topics: 'politica-economia', scan: 40 },
 ];
 const NEWS_PER_FEED = 6;
+
+// Filtro de tema para os feeds marcados com topics: 'politica-economia' (internacional).
+// Entra só manchete que fala de política ou economia e não cai na lista de exclusão.
+// Para ajustar, acrescente ou tire palavras destas listas.
+const TOPIC_INCLUDE = /elei[çc][ãa]o|elei[çc][õo]es|eleitor|vota[çc][ãa]o|presiden|primeir[oa]-ministr|premi[êe]|governo|parlament|congresso|senado|deputad|ministr|chanceler|diplom|embaixad|c[úu]pula|tratado|acordo|san[çc][õo]es|guerra|cessar-fogo|conflito|otan|nato\b|conselho de seguran[çc]a|uni[ãa]o europeia|\bue\b|\bg7\b|\bg20\b|brics|mercosul|partido|oposi[çc][ãa]o|coaliz[ãa]o|democrata|republican|protesto|golpe|referendo|economi|infla[çc][ãa]o|juros|banco central|\bfed\b|\bbce\b|\bpib\b|recess[ãa]o|mercado|bolsas?\b|petr[óo]leo|d[íi]vida|or[çc]amento|impost|tarifa|com[ée]rcio|exporta|importa|\bfmi\b|banco mundial|desemprego|moeda|d[óo]lar|\beuro\b|yuan|investiment|fiscal|capitalis|socialis/i;
+const TOPIC_EXCLUDE = /acidente|avi[ãa]o (cai|caiu)|futebol|copa do mundo|ol[íi]mpi|esporte|\bfilme|cinema|m[úu]sica|celebridade|novela|terremoto|furac[ãa]o|inc[êe]ndio|ursos?\b|carne crua|influenciador/i;
+const onTopic = n => { const t = n.title + ' ' + n.summary; return TOPIC_INCLUDE.test(t) && !TOPIC_EXCLUDE.test(t); };
 const NEWS_PER_CAT = 12; // máximo por categoria (política, economia, internacional)
 
 // Impostômetro (ACSP) não tem API pública. Estes são os dois últimos marcos
@@ -180,12 +186,13 @@ async function feed(f) {
     }
   }
   if (!blocks.length) throw lastErr;
-  return blocks.slice(0, NEWS_PER_FEED).map(b => {
+  const items = blocks.slice(0, f.scan || NEWS_PER_FEED).map(b => {
     const d = tag(b, ['pubDate', 'dc:date', 'updated', 'published']);
     const t = Date.parse(d);
     return { title: tag(b, ['title']), link: tag(b, ['link', 'guid']), date: isFinite(t) ? new Date(t).toISOString() : null,
              summary: tag(b, ['description', 'summary']).slice(0, 260), source: f.source, cat: f.cat };
   }).filter(n => n.title && n.link);
+  return (f.topics === 'politica-economia' ? items.filter(onTopic) : items).slice(0, NEWS_PER_FEED);
 }
 
 // ---------------------------------------------------------------------------
