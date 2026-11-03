@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-03T14:33:21.639Z",
+  "updated": "2026-11-03T15:24:33.873Z",
   "market": {
     "ibov": {
-      "price": 165138.08,
-      "pct": -1.66,
-      "time": "2026-11-03T14:33:15.554Z",
+      "price": 164750.56,
+      "pct": -1.89,
+      "time": "2026-11-03T15:24:29.168Z",
       "history": [
         {
           "d": "2026-10-05",
@@ -84,7 +84,7 @@
         },
         {
           "d": "2026-11-03",
-          "c": 165028.5938
+          "c": 165137.7969
         }
       ]
     },
@@ -141,11 +141,35 @@
   },
   "news": [
     {
+      "title": "Comissão aprova desconto na compra de livros para professores e alunos de cursos de licenciatura",
+      "link": "https://www.camara.leg.br/noticias/1315102-comissao-aprova-desconto-na-compra-de-livros-para-professores-e-alunos-de-cursos-de-licenciatura",
+      "date": "2026-11-03T15:49:00.000Z",
+      "summary": "O projeto segue em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Comissão aprova projeto que prevê carteira de docente para professores aposentados",
+      "link": "https://www.camara.leg.br/noticias/1315095-comissao-aprova-projeto-que-preve-carteira-de-docente-para-professores-aposentados",
+      "date": "2026-11-03T15:42:00.000Z",
+      "summary": "Proposta continua em análise na Câmara",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
       "title": "Comissão aprova diretrizes para atender pacientes com condições pós-Covid no SUS",
       "link": "https://www.camara.leg.br/noticias/1315082-comissao-aprova-diretrizes-para-atender-pacientes-com-condicoes-pos-covid-no-sus",
       "date": "2026-11-03T15:15:00.000Z",
       "summary": "Proposta define parâmetros para diagnóstico precoce, tratamento e acompanhamento contínuo; o texto continua em análise na Câmara dos Deputados",
       "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Romaria do Divino Pai Eterno como manifestação cultural vai à Câmara",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/03/romaria-do-divino-pai-eterno-como-manifestacao-cultural-vai-a-camara",
+      "date": "2026-11-03T15:08:14.000Z",
+      "summary": "A Romaria do Divino Pai Eterno, realizada em Trindade (GO), poderá ser reconhecida como manifestação da cultura nacional, de acordo com projeto aprovado em decisão terminativa na Comissão de Educação e Cultura (CE) nesta terça-feira (3). De autoria do senador ",
+      "source": "Agência Senado",
       "cat": "politica"
     },
     {
@@ -189,14 +213,6 @@
       "cat": "politica"
     },
     {
-      "title": "Comissão aprova divulgação de notas fiscais de compras feitas por órgãos públicos",
-      "link": "https://www.camara.leg.br/noticias/1314944-comissao-aprova-divulgacao-de-notas-fiscais-de-compras-feitas-por-orgaos-publicos",
-      "date": "2026-11-03T12:34:00.000Z",
-      "summary": "Projeto segue em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
       "title": "Midterms podem trazer vitórias históricas para mulheres nos EUA",
       "link": "https://www.dw.com/pt-br/midterms-podem-trazer-vitórias-históricas-para-mulheres-nos-eua/a-79837957?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-03T12:28:00.000Z",
@@ -211,14 +227,6 @@
       "summary": "Autoridades americanas descreveram os ataques à ilha de Qeshm como de natureza limitada e defensiva. Guerra impopular contra o Irã e o impacto dela nos preços são problema para Trump e republicanos.",
       "source": "DW Brasil",
       "cat": "internacional"
-    },
-    {
-      "title": "Comissão debate implementação da Política Nacional de Minerais Críticos e Estratégicos",
-      "link": "https://www.camara.leg.br/noticias/1314763-comissao-debate-implementacao-da-politica-nacional-de-minerais-criticos-e-estrategicos",
-      "date": "2026-11-03T11:20:00.000Z",
-      "summary": "",
-      "source": "Agência Câmara",
-      "cat": "politica"
     },
     {
       "title": "Quem vai ganhar as midterms? Os gráficos que mostram como a eleição dos EUA será decidida",
