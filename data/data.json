@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-03T16:30:07.226Z",
+  "updated": "2026-11-03T17:30:03.728Z",
   "market": {
     "ibov": {
-      "price": 165111.6,
-      "pct": -1.67,
-      "time": "2026-11-03T16:29:54.818Z",
+      "price": 165358.23,
+      "pct": -1.53,
+      "time": "2026-11-03T17:29:58.073Z",
       "history": [
         {
           "d": "2026-10-05",
@@ -84,7 +84,7 @@
         },
         {
           "d": "2026-11-03",
-          "c": 165111.5938
+          "c": 165358.2344
         }
       ]
     },
@@ -141,6 +141,30 @@
   },
   "news": [
     {
+      "title": "Comissões debatem projeto para ampliar a concorrência no mercado de gás natural",
+      "link": "https://www.camara.leg.br/noticias/1314776-comissoes-debatem-projeto-para-ampliar-a-concorrencia-no-mercado-de-gas-natural",
+      "date": "2026-11-03T18:13:00.000Z",
+      "summary": "",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Comissão aprova mecanismo de segurança de dois fatores para transações financeiras de idosos",
+      "link": "https://www.camara.leg.br/noticias/1315216-comissao-aprova-mecanismo-de-seguranca-de-dois-fatores-para-transacoes-financeiras-de-idosos",
+      "date": "2026-11-03T18:05:00.000Z",
+      "summary": "A Câmara dos Deputados continua analisando o projeto",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Comissão aprova proposta de compartilhamento de dados de óbitos entre cartórios e SUS",
+      "link": "https://www.camara.leg.br/noticias/1315157-comissao-aprova-proposta-de-compartilhamento-de-dados-de-obitos-entre-cartorios-e-sus",
+      "date": "2026-11-03T17:40:00.000Z",
+      "summary": "Texto aprovado aproveita sistema nacional já existente para evitar custos e garantir rapidez no repasse de informações de mortalidade",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
       "title": "Câmara analisa projetos sobre sobre proteção às mulheres, saúde e maus-tratos a animais",
       "link": "https://www.camara.leg.br/noticias/1315214-camara-analisa-projetos-sobre-sobre-protecao-as-mulheres-saude-e-maus-tratos-a-animais",
       "date": "2026-11-03T17:23:00.000Z",
@@ -165,6 +189,30 @@
       "cat": "politica"
     },
     {
+      "title": "Alemanha enfrenta pressão para reconhecer genocídio colonial e reparar descendentes na Namíbia",
+      "link": "https://www.dw.com/pt-br/alemanha-enfrenta-pressão-para-reconhecer-genocídio-colonial-e-reparar-descendentes-na-namíbia/a-79844930?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-03T16:48:00.000Z",
+      "summary": "Partidos da oposição puxam debate sobre o genocídio perpetrado pelo Império Alemão no país africano no início do século 20. Movimento finalmente impulsionará avanços no enfrentamento dos crimes coloniais?",
+      "source": "DW Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "Senado deve receber cálculo da CBS na próxima terça para definir alíquota",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/03/senado-deve-receber-calculo-da-cbs-na-proxima-terca-para-definir-aliquota",
+      "date": "2026-11-03T16:40:58.000Z",
+      "summary": "O Tribunal de Contas da União (TCU) deve encaminhar à Presidência do Senado, na terça-feira (10), o estudo que definiu em 11,3% a alíquota de referência da Contribuição sobre Bens e Serviços (CBS) para 2027. A informação foi apresentada nesta terça-feira (3) p",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Nova regra para dívidas de estados e municípios tem votação suspensa",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/03/nova-regra-para-dividas-de-estados-e-municipios-tem-votacao-suspensa",
+      "date": "2026-11-03T16:39:05.000Z",
+      "summary": "A contração de crédito para reestruturar dívidas de estados e municípios ao fim dos mandatos de governadores e prefeitos continuará em discussão na Comissão de Assuntos Econômicos (CAE). Após amplo debate, a senador Esperidião Amin (PP-SC), que presidiu a reun",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
       "title": "O que são as eleições de meio de mandato dos EUA e por que elas podem selar o futuro de Trump?",
       "link": "https://www.bbc.com/portuguese/articles/cwg7xpyd1jrgo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-03T16:20:58.000Z",
@@ -177,62 +225,6 @@
       "link": "https://www12.senado.leg.br/noticias/materias/2026/11/03/dia-nacional-da-heranca-cultural-dos-poloneses-vai-a-sancao-presidencial",
       "date": "2026-11-03T15:54:43.000Z",
       "summary": "Dia Nacional da Herança Cultural dos Poloneses no Brasil poderá ser comemorado anualmente em 11 de novembro. É o que projeto prevê aprovado nesta terça-feira (3) na Comissão de Educação e Cultura (CE). A data coincide com o dia da independência da Polônia e te",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão aprova desconto na compra de livros para professores e alunos de cursos de licenciatura",
-      "link": "https://www.camara.leg.br/noticias/1315102-comissao-aprova-desconto-na-compra-de-livros-para-professores-e-alunos-de-cursos-de-licenciatura",
-      "date": "2026-11-03T15:49:00.000Z",
-      "summary": "O projeto segue em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão aprova projeto que prevê carteira de docente para professores aposentados",
-      "link": "https://www.camara.leg.br/noticias/1315095-comissao-aprova-projeto-que-preve-carteira-de-docente-para-professores-aposentados",
-      "date": "2026-11-03T15:42:00.000Z",
-      "summary": "Proposta continua em análise na Câmara",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "CE aprova Prêmio Nacional da Educação Brasileira",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/03/ce-aprova-premio-nacional-da-educacao-brasileira",
-      "date": "2026-11-03T15:40:40.000Z",
-      "summary": "A Comissão de Educação e Cultura (CE) aprovou nesta terça-feira (3) a criação do Prêmio Nacional da Educação Brasileira (PNEB). A premiação visa reconhecer estratégias e iniciativas para a melhoria da qualidade da aprendizagem na educação básica e será concedi",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
-      "title": "Plenário analisa Estatuto do Aprendiz na quarta-feira",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/03/plenario-analisa-estatuto-do-aprendiz-na-quarta-feira",
-      "date": "2026-11-03T15:23:28.000Z",
-      "summary": "O Plenário analisa na sessão desta quarta-feira (4) cinco projetos. Entre eles o chamado Estatuto do Aprendiz, que estabelece novas regras para a aprendizagem profissional e agrega em uma só lei as normas hoje dispersas em diferentes decretos. O relator do PL ",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
-      "title": "Semana Nacional do Pequeno Investidor em outubro vai à Câmara",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/03/semana-nacional-do-pequeno-investidor-em-outubro-vai-a-camara",
-      "date": "2026-11-03T15:20:45.000Z",
-      "summary": "A segunda semana de outubro poderá se tornar a Semana Nacional do Pequeno Investidor, com ações para ampliar o acesso da população aos investimentos e promover a educação financeira. A criação da data está prevista em projeto de lei aprovado nesta terça-feira ",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão aprova diretrizes para atender pacientes com condições pós-Covid no SUS",
-      "link": "https://www.camara.leg.br/noticias/1315082-comissao-aprova-diretrizes-para-atender-pacientes-com-condicoes-pos-covid-no-sus",
-      "date": "2026-11-03T15:15:00.000Z",
-      "summary": "Proposta define parâmetros para diagnóstico precoce, tratamento e acompanhamento contínuo; o texto continua em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Romaria do Divino Pai Eterno como manifestação cultural vai à Câmara",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/03/romaria-do-divino-pai-eterno-como-manifestacao-cultural-vai-a-camara",
-      "date": "2026-11-03T15:08:14.000Z",
-      "summary": "A Romaria do Divino Pai Eterno, realizada em Trindade (GO), poderá ser reconhecida como manifestação da cultura nacional, de acordo com projeto aprovado em decisão terminativa na Comissão de Educação e Cultura (CE) nesta terça-feira (3). De autoria do senador ",
       "source": "Agência Senado",
       "cat": "politica"
     },
@@ -305,14 +297,6 @@
       "link": "https://www.dw.com/pt-br/a-explosiva-combinação-de-protestos-e-alta-dívida-pública-na-frança/a-79830816?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-02T20:43:00.000Z",
       "summary": "Pressionado, governo francês promete bilhões de euros extras para o ensino apesar de o país já enfrentar dificuldades com uma dívida pública que chega a 120% do PIB.",
-      "source": "DW Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "Sem dedicação exclusiva, prefeitos voluntários administram milhares de cidades e vilarejos na Alemanha",
-      "link": "https://www.dw.com/pt-br/sem-dedicação-exclusiva-prefeitos-voluntários-administram-milhares-de-cidades-e-vilarejos-na-alemanha/a-79806521?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-02T19:01:00.000Z",
-      "summary": "Em milhares de municípios alemães, moradores assumem a prefeitura em modelo de trabalho voluntário. Mas burocracia e ameaças têm afastado pretendentes.",
       "source": "DW Brasil",
       "cat": "internacional"
     },
