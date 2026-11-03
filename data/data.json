@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-03T19:33:48.109Z",
+  "updated": "2026-11-03T20:27:18.641Z",
   "market": {
     "ibov": {
-      "price": 165433.62,
-      "pct": -1.48,
-      "time": "2026-11-03T19:32:59.086Z",
+      "price": 165627.45,
+      "pct": -1.37,
+      "time": "2026-11-03T20:27:09.749Z",
       "history": [
         {
           "d": "2026-10-05",
@@ -84,7 +84,7 @@
         },
         {
           "d": "2026-11-03",
-          "c": 165433.625
+          "c": 165627.4531
         }
       ]
     },
@@ -141,6 +141,94 @@
   },
   "news": [
     {
+      "title": "Câmara aprova inclusão de ultrassonografias morfológicas no pré-natal do SUS",
+      "link": "https://www.camara.leg.br/noticias/1315411-camara-aprova-inclusao-de-ultrassonografias-morfologicas-no-pre-natal-do-sus",
+      "date": "2026-11-03T20:19:00.000Z",
+      "summary": "A proposta segue para análise do Senado",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Projeto que limita penhora de recursos de empresas para pagamentos de débitos trabalhistas segue para o Senado",
+      "link": "https://www.camara.leg.br/noticias/1315392-projeto-que-limita-penhora-de-recursos-de-empresas-para-pagamentos-de-debitos-trabalhistas-segue-para-o-senado",
+      "date": "2026-11-03T20:13:00.000Z",
+      "summary": "A Cãmara rejeitou recurso para que a proposta fosse analisada pelo Plenário",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Quando sairão os resultados das eleições de meio de mandato nos EUA?",
+      "link": "https://www.bbc.com/portuguese/articles/cwm26g6x0r72o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-03T20:11:24.000Z",
+      "summary": "Após o fechamento das urnas, é possível que os resultados demorem horas, dias ou até mesmo semanas. Entenda como funciona a apuração.",
+      "source": "BBC News Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "Humberto: mobilização popular nas ruas e nas redes foi decisiva na eleição de Lula",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/03/humberto-mobilizacao-popular-nas-ruas-e-nas-redes-foi-decisiva-na-eleicao-de-lula",
+      "date": "2026-11-03T20:04:18.000Z",
+      "summary": "Ao discursar em Plenário nesta terça-feira (3), o senador Humberto Costa (PT-PE) destacou a importância da mobilização popular — nas ruas e nas redes sociais — para a reeleição de Luiz Inácio Lula da Silva. Ele também citou a criação do canal de mensagens no W",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Câmara aprova requerimentos de urgência para dois projetos de lei",
+      "link": "https://www.camara.leg.br/noticias/1315385-camara-aprova-requerimentos-de-urgencia-para-dois-projetos-de-lei",
+      "date": "2026-11-03T19:59:00.000Z",
+      "summary": "",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "3 cenários possíveis para os resultados das eleições de meio de mandato nos EUA",
+      "link": "https://www.bbc.com/portuguese/articles/cwj346dy3kplo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-03T19:57:46.000Z",
+      "summary": "Haverá uma onda democrata ou testemunharemos uma resiliência republicana apesar da impopularidade de Trump neste momento?",
+      "source": "BBC News Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "Zenaide: municípios precisam de recursos permanente para implementar PEC da Segurança",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/03/zenaide-municipios-precisam-de-recursos-permanente-para-implementar-pec-da-seguranca",
+      "date": "2026-11-03T19:50:29.000Z",
+      "summary": "Durante pronunciamento em Plenário nesta terça-feira (3), a senadora Zenaide Maia (PSD-RN) defendeu a aprovação da Proposta de Emenda à Constituição (PEC) 18/2021, mais conhecida como PEC da Segurança Pública. Ela ressaltou, no entanto, que a ampliação das atr",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Eleição nos EUA pode aliviar pressão de Trump sobre o Brasil",
+      "link": "https://www.dw.com/pt-br/eleição-nos-eua-pode-aliviar-pressão-de-trump-sobre-o-brasil/a-79845890?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-03T19:47:00.000Z",
+      "summary": "Eventual maioria democrata no Congresso deverá fiscalizar política externa do presidente, com possíveis investigações sobre fuga de Flávio Bolsonaro, Meta e tarifaço.",
+      "source": "DW Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "Ianomâmis relatam problemas com saúde e garimpo; Damares quer plano decenal",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/03/ianomamis-relatam-problemas-com-saude-e-garimpo-damares-quer-plano-decenal",
+      "date": "2026-11-03T19:34:20.000Z",
+      "summary": "A subcomissão do Senado que acompanha a crise humanitária dos ianomâmis promoveu na sexta-feira (30) uma audiência pública no município de São Gabriel da Cachoeira (AM). Na reunião, os indígenas relataram dificuldades no acesso à saúde, falta de segurança e pe",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Para Jayme Campos, Brasil não pode continuar 'refém de uma disputa eleitoral'",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/03/para-jayme-campos-brasil-nao-pode-continuar-refem-de-uma-disputa-eleitoral",
+      "date": "2026-11-03T19:32:20.000Z",
+      "summary": "O senador Jayme Campos (União-MT) defendeu, nesta terça-feira (3), a redução das disputas políticas e a construção de uma agenda nacional voltada ao desenvolvimento econômico e à justiça social. Em pronunciamento no Plenário, afirmou que, encerradas as eleiçõe",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "População do Pará sofre com concessões de serviços públicos, denuncia Beto Faro",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/03/populacao-do-para-sofre-com-concessoes-de-servicos-publicos-denuncia-beto-faro",
+      "date": "2026-11-03T19:28:21.000Z",
+      "summary": "O senador Beto Faro (PT-PA), em pronunciamento no Plenário nesta terça-feira (3), criticou a concessão à iniciativa privada de serviços de abastecimento de água, rodovias e gestão hospitalar no Pará. O parlamentar defendeu a revisão dos modelos adotados e afir",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
       "title": "Comissão sobre redução da maioridade civil e penal vota nesta quarta pedidos para realizar debates",
       "link": "https://www.camara.leg.br/noticias/1315354-comissao-sobre-reducao-da-maioridade-civil-e-penal-vota-nesta-quarta-pedidos-para-realizar-debates",
       "date": "2026-11-03T19:24:00.000Z",
@@ -157,34 +245,18 @@
       "cat": "politica"
     },
     {
+      "title": "Em reunião no Senado com lideranças, governo apresenta prioridades legislativas",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/03/em-reuniao-no-senado-com-liderancas-governo-apresenta-prioridades-legislativas",
+      "date": "2026-11-03T19:13:36.000Z",
+      "summary": "Em reunião na manhã desta terça-feira (3) no Senado, comandada pelo presidente da Casa, Davi Alcolumbre, lideranças do governo e da oposição discutiram as prioridades legislativas até o final do ano. Segundo a senadora Teresa Leitão (PT-PE), líder do governo, ",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
       "title": "Comissão aprova projeto que retoma isenção de imposto para energia solar",
       "link": "https://www.camara.leg.br/noticias/1315256-comissao-aprova-projeto-que-retoma-isencao-de-imposto-para-energia-solar",
       "date": "2026-11-03T19:08:00.000Z",
       "summary": "A proposta segue em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão da Câmara aprova regras para parceria entre academias e personal trainers",
-      "link": "https://www.camara.leg.br/noticias/1315115-comissao-da-camara-aprova-regras-para-parceria-entre-academias-e-personal-trainers",
-      "date": "2026-11-03T18:42:00.000Z",
-      "summary": "O projeto de lei segue em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão aprova aumento de pena para estelionato contra entidades públicas e sociais",
-      "link": "https://www.camara.leg.br/noticias/1315167-comissao-aprova-aumento-de-pena-para-estelionato-contra-entidades-publicas-e-sociais",
-      "date": "2026-11-03T18:29:00.000Z",
-      "summary": "O projeto segue em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão de Finanças aprova regras para repasse de recursos públicos a entidades privadas",
-      "link": "https://www.camara.leg.br/noticias/1315150-comissao-de-financas-aprova-regras-para-repasse-de-recursos-publicos-a-entidades-privadas",
-      "date": "2026-11-03T18:29:00.000Z",
-      "summary": "A Câmara dos Deputados continua discutindo o assunto",
       "source": "Agência Câmara",
       "cat": "politica"
     },
@@ -253,34 +325,10 @@
       "cat": "internacional"
     },
     {
-      "title": "Por que a disputa pelo Senado no Texas pode ser decisiva nas eleições dos EUA",
-      "link": "https://www.bbc.com/portuguese/articles/ckg5jlz270g8o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-03T10:04:52.000Z",
-      "summary": "A disputa de mais de US$ 500 milhões por uma vaga no Senado do Texas está entre as mais acompanhadas das eleições de meio de mandato dos EUA — e seu impacto vai além do controle do Congresso.",
-      "source": "BBC News Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "EUA vão às urnas para renovar Congresso em \"plebiscito\" sobre Trump",
-      "link": "https://www.dw.com/pt-br/eua-vão-às-urnas-para-renovar-congresso-em-plebiscito-sobre-trump/a-79837128?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-03T10:02:00.000Z",
-      "summary": "Pesquisas indicam que democratas podem conquistar maioria nas duas casas do Congresso, o que dificultaria para Trump governar nos dois últimos anos de seu mandato.",
-      "source": "DW Brasil",
-      "cat": "internacional"
-    },
-    {
       "title": "Eleições nos EUA: como apoio a Israel e guerra em Gaza afetam disputa ao Senado",
       "link": "https://www.bbc.com/portuguese/articles/cqx29rkmp87ro?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-03T09:35:49.000Z",
       "summary": "As preocupações com o apoio dos Estados Unidos a Israel estão motivando eleitores de ambos os lados da questão em uma das campanhas mais disputadas das eleições americanas de meio de mandato.",
-      "source": "BBC News Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "Eleições nos EUA: como fortalecimento do socialismo criou dilema para os democratas",
-      "link": "https://www.bbc.com/portuguese/articles/cm87zn0xz155o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-02T17:53:22.000Z",
-      "summary": "Nas eleições de meio de mandato dos Estados Unidos, a crescente popularidade dos candidatos dos Socialistas Democráticos dos Estados Unidos (DSA) representa um desafio para o Partido Democrata.",
       "source": "BBC News Brasil",
       "cat": "internacional"
     },
@@ -333,7 +381,5 @@
       "cat": "economia"
     }
   ],
-  "errors": [
-    "feed Agência Senado: fetch failed"
-  ]
+  "errors": []
 }
