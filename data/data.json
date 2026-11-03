@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-03T12:04:43.955Z",
+  "updated": "2026-11-03T13:30:07.849Z",
   "market": {
     "ibov": {
-      "price": 167921.8,
-      "pct": -0.75,
-      "time": "2026-11-03T12:04:39.171Z",
+      "price": 165663.19,
+      "pct": -1.35,
+      "time": "2026-11-03T13:29:46.554Z",
       "history": [
         {
           "d": "2026-10-05",
@@ -81,6 +81,10 @@
         {
           "d": "2026-10-30",
           "c": 167922
+        },
+        {
+          "d": "2026-11-03",
+          "c": 165663.1875
         }
       ]
     },
@@ -137,12 +141,36 @@
   },
   "news": [
     {
+      "title": "Proposta assegura exame periódico no SUS para pessoas com diabetes",
+      "link": "https://www.camara.leg.br/noticias/1315076-proposta-assegura-exame-periodico-no-sus-para-pessoas-com-diabetes",
+      "date": "2026-11-03T14:09:00.000Z",
+      "summary": "Para virar lei, proposta precisa ser aprovada pela Câmara e pelo Senado",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Comissão debate projeto que cria Marco de Fomento à Economia Digital no Brasil",
+      "link": "https://www.camara.leg.br/noticias/1314773-comissao-debate-projeto-que-cria-marco-de-fomento-a-economia-digital-no-brasil",
+      "date": "2026-11-03T13:28:00.000Z",
+      "summary": "",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
       "title": "Comissão aprova divulgação de notas fiscais de compras feitas por órgãos públicos",
       "link": "https://www.camara.leg.br/noticias/1314944-comissao-aprova-divulgacao-de-notas-fiscais-de-compras-feitas-por-orgaos-publicos",
       "date": "2026-11-03T12:34:00.000Z",
       "summary": "Projeto segue em análise na Câmara dos Deputados",
       "source": "Agência Câmara",
       "cat": "politica"
+    },
+    {
+      "title": "Midterms podem trazer vitórias históricas para mulheres nos EUA",
+      "link": "https://www.dw.com/pt-br/midterms-podem-trazer-vitórias-históricas-para-mulheres-nos-eua/a-79837957?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-03T12:28:00.000Z",
+      "summary": "Mulheres são sub-representadas em todos os níveis da política dos EUA. Mas, nas atuais eleições de meio de mandato, elas podem conquistar alguns feitos históricos.",
+      "source": "DW Brasil",
+      "cat": "internacional"
     },
     {
       "title": "EUA atingem alvos no Irã horas antes das eleições de meio de mandato",
@@ -233,14 +261,6 @@
       "cat": "internacional"
     },
     {
-      "title": "Quem são as mulheres que atuarão no Congresso no ano que vem",
-      "link": "https://www.dw.com/pt-br/quem-são-as-mulheres-que-atuarão-no-congresso-no-ano-que-vem/a-79830444?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-02T12:32:00.000Z",
-      "summary": "Congresso terá recorde de mulheres em 2027. Apesar de aumento, puxado pela direita, bancada não é homogênea e defende diferentes interesses.",
-      "source": "DW Brasil",
-      "cat": "internacional"
-    },
-    {
       "title": "ONU reforça apoio a processo de paz após encerrar missão no Saara Ocidental",
       "link": "https://news.un.org/feed/view/pt/story/2026/11/1854814",
       "date": "2026-11-02T12:00:00.000Z",
@@ -265,14 +285,6 @@
       "cat": "politica"
     },
     {
-      "title": "Como o tamanho das bancadas dá o ritmo do Senado",
-      "link": "https://www12.senado.leg.br/noticias/infomaterias/2026/10/como-o-tamanho-das-bancadas-da-o-ritmo-do-senado",
-      "date": "2026-10-29T21:02:23.000Z",
-      "summary": "",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
       "title": "Comissão aprova medidas para fortalecer combate ao câncer de próstata",
       "link": "https://www.camara.leg.br/noticias/1314937-comissao-aprova-medidas-para-fortalecer-combate-ao-cancer-de-prostata",
       "date": "2026-10-29T20:51:00.000Z",
@@ -285,22 +297,6 @@
       "link": "https://www.camara.leg.br/noticias/1314934-comissao-aprova-politica-nacional-de-inclusao-e-letramento-digital-para-pessoas-idosas",
       "date": "2026-10-29T20:31:00.000Z",
       "summary": "Para virar lei, o projeto terá de ser aprovado pela Câmara e pelo Senado",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão aprova acessibilidade para exames de prevenção ao câncer em mulheres com deficiência",
-      "link": "https://www.camara.leg.br/noticias/1314742-comissao-aprova-acessibilidade-para-exames-de-prevencao-ao-cancer-em-mulheres-com-deficiencia",
-      "date": "2026-10-29T20:17:00.000Z",
-      "summary": "Para virar lei, o texto precisará da aprovação da Câmara e do Senado",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão aprova acessibilidade em páginas de escolas na internet",
-      "link": "https://www.camara.leg.br/noticias/1314930-comissao-aprova-acessibilidade-em-paginas-de-escolas-na-internet",
-      "date": "2026-10-29T20:00:00.000Z",
-      "summary": "Proposta segue em análise na Câmara",
       "source": "Agência Câmara",
       "cat": "politica"
     },
@@ -353,5 +349,8 @@
       "cat": "economia"
     }
   ],
-  "errors": []
+  "errors": [
+    "IPCA 12m (SGS 13522): HTTP 502",
+    "feed Planalto (governo): nenhum item no feed (endereço mudou?)"
+  ]
 }
