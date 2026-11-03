@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-03T09:15:48.743Z",
+  "updated": "2026-11-03T10:14:54.220Z",
   "market": {
     "ibov": {
       "price": 167921.8,
       "pct": -0.75,
-      "time": "2026-11-03T09:15:44.056Z",
+      "time": "2026-11-03T10:14:48.714Z",
       "history": [
         {
           "d": "2026-10-05",
@@ -137,6 +137,38 @@
   },
   "news": [
     {
+      "title": "EUA lançam ataque contra ilha no Irã na véspera de eleições",
+      "link": "https://www.bbc.com/portuguese/articles/cwnv0n61q72vo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-03T10:06:31.000Z",
+      "summary": "Autoridades americanas descreveram os ataques à ilha de Qeshm como limitados e defensivos, segundo a CBS, parceira da BBC nos EUA.",
+      "source": "BBC News Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "Por que a disputa pelo Senado no Texas pode ser decisiva nas eleições dos EUA",
+      "link": "https://www.bbc.com/portuguese/articles/ckg5jlz270g8o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-03T10:04:52.000Z",
+      "summary": "A disputa de mais de US$ 500 milhões por uma vaga no Senado do Texas está entre as mais acompanhadas das eleições de meio de mandato dos EUA — e seu impacto vai além do controle do Congresso.",
+      "source": "BBC News Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "EUA vão às urnas para renovar Congresso em \"plebiscito\" sobre Trump",
+      "link": "https://www.dw.com/pt-br/eua-vão-às-urnas-para-renovar-congresso-em-plebiscito-sobre-trump/a-79837128?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-03T10:02:00.000Z",
+      "summary": "Pesquisas indicam que democratas podem conquistar maioria nas duas casas do Congresso, o que dificultaria para Trump governar nos dois últimos anos de seu mandato.",
+      "source": "DW Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "Eleições nos EUA: como apoio a Israel e guerra em Gaza afetam disputa ao Senado",
+      "link": "https://www.bbc.com/portuguese/articles/cqx29rkmp87ro?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-03T09:35:49.000Z",
+      "summary": "As preocupações com o apoio dos Estados Unidos a Israel estão motivando eleitores de ambos os lados da questão em uma das campanhas mais disputadas das eleições americanas de meio de mandato.",
+      "source": "BBC News Brasil",
+      "cat": "internacional"
+    },
+    {
       "title": "Merz defende que Alemanha tenha primeira presidente mulher",
       "link": "https://www.dw.com/pt-br/merz-defende-que-alemanha-tenha-primeira-presidente-mulher/a-79834919?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-02T22:23:00.000Z",
@@ -161,7 +193,7 @@
       "cat": "internacional"
     },
     {
-      "title": "No centro do capitalismo mundial, movimento socialista cresce e cria dilema para os democratas",
+      "title": "Eleições nos EUA: como fortalecimento do socialismo criou dilema para os democratas",
       "link": "https://www.bbc.com/portuguese/articles/cm87zn0xz155o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-02T17:53:22.000Z",
       "summary": "Nas eleições de meio de mandato dos Estados Unidos, a crescente popularidade dos candidatos dos Socialistas Democráticos dos Estados Unidos (DSA) representa um desafio para o Partido Democrata.",
@@ -177,19 +209,19 @@
       "cat": "internacional"
     },
     {
+      "title": "Por que os EUA têm tantos políticos idosos e poucos jovens disputando eleições",
+      "link": "https://www.bbc.com/portuguese/articles/c6ly39vk8kvmo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-02T14:53:03.000Z",
+      "summary": "De Trump a congressistas nonagenários, ascensão da idade média dos líderes americanos reacende debate sobre por que tão poucos jovens chegam aos cargos eletivos.",
+      "source": "BBC News Brasil",
+      "cat": "internacional"
+    },
+    {
       "title": "Quem são as mulheres que atuarão no Congresso no ano que vem",
       "link": "https://www.dw.com/pt-br/quem-são-as-mulheres-que-atuarão-no-congresso-no-ano-que-vem/a-79830444?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-02T12:32:00.000Z",
       "summary": "Congresso terá recorde de mulheres em 2027. Apesar de aumento, puxado pela direita, bancada não é homogênea e defende diferentes interesses.",
       "source": "DW Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "Pesquisas indicam vantagem dos democratas nas eleições americanas, mas estão corretas?",
-      "link": "https://www.bbc.com/portuguese/articles/c8zxledvzd3qo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-02T12:12:20.000Z",
-      "summary": "Pesquisas apontam para avanço dos democratas, mas indecisos e dificuldades para selecionar amostras representativas tornam o resultado incerto.",
-      "source": "BBC News Brasil",
       "cat": "internacional"
     },
     {
@@ -201,44 +233,12 @@
       "cat": "internacional"
     },
     {
-      "title": "Como eleições nos EUA devem selar destino de Trump e futuro da relação com o Brasil em 4º mandato de Lula",
-      "link": "https://www.bbc.com/portuguese/articles/cw80z10renkzo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-02T10:36:42.000Z",
-      "summary": "Nas eleições de meio de mandato desta terça, oposição democrata pode conquistar controle do Congresso americano e promover maior escrutínio sobre a agenda de Trump para a América Latina.",
-      "source": "BBC News Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "França registra quase 800 prisões em novo fim de semana de protestos",
-      "link": "https://www.dw.com/pt-br/frança-registra-quase-800-prisões-em-novo-fim-de-semana-de-protestos/a-79823505?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-01T17:36:00.000Z",
-      "summary": "Autoridades contabilizaram 779 detenções em todo o país, número inferior ao registrado nas últimas semanas. Governo atribui redução da violência a forte esquema de segurança.",
-      "source": "DW Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "Manifestação da Geração Z agita a Alemanha: “Só queremos que nos ouçam”",
-      "link": "https://www.dw.com/pt-br/manifestação-da-geração-z-agita-a-alemanha-só-queremos-que-nos-ouçam/a-79823403?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-01T16:30:00.000Z",
-      "summary": "Ministro do Interior da Alemanha condenou a violência nas manifestações e responsabilizou \"extremistas de esquerda\". Manifestantes acusam a imprensa e políticos de forçar debate sobre violência mesmo antes dos atos.",
-      "source": "DW Brasil",
-      "cat": "internacional"
-    },
-    {
       "title": "Davi marca para terça votação da PEC da Segurança",
       "link": "https://www12.senado.leg.br/noticias/materias/2026/10/30/davi-marca-para-terca-votacao-da-pec-da-seguranca",
       "date": "2026-10-30T23:10:23.000Z",
       "summary": "O presidente do Senado, Davi Alcolumbre, marcou para terça-feira (3) a votação da Proposta de Emenda à Constituição (PEC) 18/2025, que amplia a integração entre os órgãos de segurança pública para o combate ao crime organizado. A ordem do dia está agendada par",
       "source": "Agência Senado",
       "cat": "politica"
-    },
-    {
-      "title": "Ucrânia: Drones russos causam mortes em estação de trem e usina nuclear",
-      "link": "https://news.un.org/feed/view/pt/story/2026/10/1854802",
-      "date": "2026-10-30T12:00:00.000Z",
-      "summary": "Ataque a estação ferroviária em Dnipro deixou pelo menos 14 mortos; em outro episódio, soldador da Central Nuclear de Zaporizhzhia foi vítima de explosão mortal; na cidade de Oleshky, cessar-fogo negociado com poio dos Estados Unidos acaba em 1 de novembro e c",
-      "source": "ONU News",
-      "cat": "internacional"
     },
     {
       "title": "Davi celebra terceira descoberta de petróleo em poço no litoral do Amapá",
