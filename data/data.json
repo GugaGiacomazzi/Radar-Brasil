@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-03T22:22:38.731Z",
+  "updated": "2026-11-03T23:21:48.526Z",
   "market": {
     "ibov": {
       "price": 165528.92,
       "pct": -1.42,
-      "time": "2026-11-03T22:22:33.520Z",
+      "time": "2026-11-03T23:21:43.068Z",
       "history": [
         {
           "d": "2026-10-05",
@@ -141,6 +141,38 @@
   },
   "news": [
     {
+      "title": "Senado aprova PEC da Segurança Pública sem redução da maioridade penal",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/03/senado-aprova-pec-da-seguranca-publica-sem-reducao-da-maioridade-penal",
+      "date": "2026-11-03T22:59:24.000Z",
+      "summary": "O Senado aprovou nesta terça-feira (3) a PEC 18/2025, conhecida como PEC da Segurança Pública, que amplia a integração entre os órgãos de segurança e fortalece o combate ao crime organizado. A PEC foi aprovada por unanimidade, com 73 votos favoráveis em primei",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Eduardo Braga será o relator-geral do Orçamento 2027",
+      "link": "https://www.camara.leg.br/noticias/1315522-eduardo-braga-sera-o-relator-geral-do-orcamento-2027",
+      "date": "2026-11-03T22:53:00.000Z",
+      "summary": "",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Ministro garante “absoluta prioridade” na implementação da Política de Minerais Críticos e Estratégicos",
+      "link": "https://www.camara.leg.br/noticias/1315488-ministro-garante-absoluta-prioridade-na-implementacao-da-politica-de-minerais-criticos-e-estrategicos",
+      "date": "2026-11-03T22:49:00.000Z",
+      "summary": "Uma lei que entrou em vigor em setembro traz regras para exploração desses minerais considerados fundamentais na produção de tecnologias como smartphones e carros elétricos",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Senado aprova Setembro em Flor, campanha contra o câncer ginecológico",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/03/senado-aprova-setembro-em-flor-campanha-contra-o-cancer-ginecologico",
+      "date": "2026-11-03T22:21:51.000Z",
+      "summary": "O Senado aprovou nesta terça-feira (3) um projeto (PL 5.782/2023) que oficializa a campanha Setembro em Flor, destinada a conscientizar a população sobre a prevenção e o diagnóstico precoce dos cânceres ginecológicos. A proposta segue para sanção presidencial.",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
       "title": "Comissão debate dispensa de laudo médico para atendimento de alunos da educação especial",
       "link": "https://www.camara.leg.br/noticias/1315372-comissao-debate-dispensa-de-laudo-medico-para-atendimento-de-alunos-da-educacao-especial",
       "date": "2026-11-03T22:18:00.000Z",
@@ -165,74 +197,10 @@
       "cat": "politica"
     },
     {
-      "title": "Acordo de cooperação militar entre Brasil e Guiana vai à promulgação",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/03/acordo-de-cooperacao-militar-entre-brasil-e-guiana-vai-a-promulgacao",
-      "date": "2026-11-03T21:20:33.000Z",
-      "summary": "O Plenário aprovou nesta terça-feira (3), em votação simbólica, o texto do acordo de cooperação militar entre Brasil e Guiana assinado em Bonfim (RR) em 2009. O acordo facilita ações na fronteira entre os dois países e no combate a crimes transnacionais. O Pro",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
-      "title": "Governo Lula impõe sigilo a documentos do 'pacote de bondades' lançado nas eleições",
-      "link": "https://www.bbc.com/portuguese/articles/cmz654z66gplo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-03T21:09:23.000Z",
-      "summary": "Casa Civil alegou sigilo 'advogado-cliente' para negar acesso da BBC News Brasil a estudos que embasaram Desenrola 3.0 e proibição das bets. Especialistas contestam justificativa e dizem que decisão dá margem a 'sigilo eterno' sobre material que embasou medida",
-      "source": "BBC News Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "CMO aprova recursos para ações de atendimento à imigração em Roraima",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/03/cmo-aprova-recursos-para-acoes-de-atendimento-a-imigracao-em-roraima",
-      "date": "2026-11-03T21:04:46.000Z",
-      "summary": "A Comissão Mista de Orçamento (CMO) aprovou, nesta terça-feira (3), um projeto que destina crédito especial de R$ 115 milhões no Orçamento de 2026 para que o governo federal possa atender ao aumento do fluxo migratório de venezuelanos em Roraima (PLN 27/2026).",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
-      "title": "Eduardo Braga será o relator-geral do projeto de lei do Orçamento 2027",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/03/eduardo-braga-sera-o-relator-geral-do-projeto-de-lei-do-orcamento-2027",
-      "date": "2026-11-03T21:00:49.000Z",
-      "summary": "O senador Eduardo Braga (MDB-AM) foi escolhido para ser o relator-geral do projeto de lei do Orçamento para 2027. O anúncio ocorreu nesta terça-feira (3) após reunião de líderes com o presidente do Senado, Davi Alcolumbre. O projeto da Lei Orçamentária Anual (",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
       "title": "Comissão aprova regras mais duras para crimes contra o patrimônio praticados com violência",
       "link": "https://www.camara.leg.br/noticias/1315389-comissao-aprova-regras-mais-duras-para-crimes-contra-o-patrimonio-praticados-com-violencia",
       "date": "2026-11-03T20:59:00.000Z",
       "summary": "Proposta condiciona a progressão de regime de reincidentes à reparação do dano; texto ainda será analisado pelo Plenário",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Vai à promulgação acordo de cooperação espacial entre Brasil e Venezuela",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/03/vai-a-promulgacao-acordo-de-cooperacao-espacial-entre-brasil-e-venezuela",
-      "date": "2026-11-03T20:56:39.000Z",
-      "summary": "O Plenário do Senado aprovou nesta terça-feira (3), em votação simbólica, o texto do acordo de cooperação em ciência e tecnologia espacial entre Brasil e Venezuela. O acordo prevê a exploração e utilização pacífica do espaço, com prioridade para a observação v",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
-      "title": "Confúcio Moura alerta para dificuldades no aprendizado de matemática",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/03/confucio-moura-alerta-para-dificuldades-no-aprendizado-de-matematica",
-      "date": "2026-11-03T20:51:21.000Z",
-      "summary": "O senador Confúcio Moura (MDB-RO) ressaltou que os alunos brasileiros enfrentam dificuldades no aprendizado de matemática. Por isso, durante pronunciamento no Plenário nesta terça-feira (3), ele afirmou que o interesse pela matemática deve ser estimulado desde",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão aprova projeto que cria política de bibliotecas digitais sociais",
-      "link": "https://www.camara.leg.br/noticias/1315218-comissao-aprova-projeto-que-cria-politica-de-bibliotecas-digitais-sociais",
-      "date": "2026-11-03T20:37:00.000Z",
-      "summary": "Texto aprovado prevê integração com o Sistema Nacional de Bibliotecas Públicas; proposta continua em análise na Câmara",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão Mista de Orçamento aprova crédito de R$ 115 milhões para atender venezuelanos em Roraima",
-      "link": "https://www.camara.leg.br/noticias/1315391-comissao-mista-de-orcamento-aprova-credito-de-r-115-milhoes-para-atender-venezuelanos-em-roraima",
-      "date": "2026-11-03T20:34:00.000Z",
-      "summary": "Votação de crédito suplementar de R$ 185,5 bilhões para pagar benefícios previdenciários e sociais foi adiada para a próxima semana",
       "source": "Agência Câmara",
       "cat": "politica"
     },
@@ -306,6 +274,14 @@
       "date": "2026-11-03T12:28:00.000Z",
       "summary": "Mulheres são sub-representadas em todos os níveis da política dos EUA. Mas, nas atuais eleições de meio de mandato, elas podem conquistar alguns feitos históricos.",
       "source": "DW Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "Mundo tem cerca de 2 bilhões de pessoas fora da internet, diz relatório da ONU",
+      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854826",
+      "date": "2026-11-03T12:00:00.000Z",
+      "summary": "Apesar de 76% dos cidadãos globais estarem online, desigualdade digital persiste; UIT realça que 93% das populações mais ricas acessam a rede, enquanto apenas 32% o fazem em economias de baixa renda; no espaço lusófono, são urgentes investimentos em infraestru",
+      "source": "ONU News",
       "cat": "internacional"
     },
     {
