@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-03T17:30:03.728Z",
+  "updated": "2026-11-03T18:24:56.400Z",
   "market": {
     "ibov": {
-      "price": 165358.23,
-      "pct": -1.53,
-      "time": "2026-11-03T17:29:58.073Z",
+      "price": 165533.12,
+      "pct": -1.42,
+      "time": "2026-11-03T18:24:51.882Z",
       "history": [
         {
           "d": "2026-10-05",
@@ -84,7 +84,7 @@
         },
         {
           "d": "2026-11-03",
-          "c": 165358.2344
+          "c": 165445.3906
         }
       ]
     },
@@ -141,6 +141,30 @@
   },
   "news": [
     {
+      "title": "Comissão da Câmara aprova regras para parceria entre academias e personal trainers",
+      "link": "https://www.camara.leg.br/noticias/1315115-comissao-da-camara-aprova-regras-para-parceria-entre-academias-e-personal-trainers",
+      "date": "2026-11-03T18:53:00.000Z",
+      "summary": "O projeto de lei segue em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Comissão aprova aumento de pena para estelionato contra entidades públicas e sociais",
+      "link": "https://www.camara.leg.br/noticias/1315167-comissao-aprova-aumento-de-pena-para-estelionato-contra-entidades-publicas-e-sociais",
+      "date": "2026-11-03T18:29:00.000Z",
+      "summary": "O projeto segue em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Comissão de Finanças aprova regras para repasse de recursos públicos a entidades privadas",
+      "link": "https://www.camara.leg.br/noticias/1315150-comissao-de-financas-aprova-regras-para-repasse-de-recursos-publicos-a-entidades-privadas",
+      "date": "2026-11-03T18:22:00.000Z",
+      "summary": "A Câmara dos Deputados continua discutindo o assunto",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
       "title": "Comissões debatem projeto para ampliar a concorrência no mercado de gás natural",
       "link": "https://www.camara.leg.br/noticias/1314776-comissoes-debatem-projeto-para-ampliar-a-concorrencia-no-mercado-de-gas-natural",
       "date": "2026-11-03T18:13:00.000Z",
@@ -165,28 +189,20 @@
       "cat": "politica"
     },
     {
-      "title": "Câmara analisa projetos sobre sobre proteção às mulheres, saúde e maus-tratos a animais",
-      "link": "https://www.camara.leg.br/noticias/1315214-camara-analisa-projetos-sobre-sobre-protecao-as-mulheres-saude-e-maus-tratos-a-animais",
-      "date": "2026-11-03T17:23:00.000Z",
-      "summary": "",
-      "source": "Agência Câmara",
-      "cat": "politica"
+      "title": "Trump anuncia fim de ajuda anual de US$ 4 bilhões a Israel",
+      "link": "https://www.dw.com/pt-br/trump-anuncia-fim-de-ajuda-anual-de-us-4-bilhões-a-israel/a-79846151?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-03T17:35:00.000Z",
+      "summary": "No dia das eleições de meio de mandato, presidente dos EUA afirmou que os repasses de caráter militar e econômico serão encerrados. Comercialização de armamentos seguirá em vigor.",
+      "source": "DW Brasil",
+      "cat": "internacional"
     },
     {
-      "title": "Comissão aprova projeto com diretrizes para formação continuada de professores em educação inclusiva",
-      "link": "https://www.camara.leg.br/noticias/1315111-comissao-aprova-projeto-com-diretrizes-para-formacao-continuada-de-professores-em-educacao-inclusiva",
-      "date": "2026-11-03T17:09:00.000Z",
-      "summary": "Texto continua em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão aprova projeto que assegura exame periódico no SUS para pessoas com diabetes",
-      "link": "https://www.camara.leg.br/noticias/1315078-comissao-aprova-projeto-que-assegura-exame-periodico-no-sus-para-pessoas-com-diabetes",
-      "date": "2026-11-03T16:50:00.000Z",
-      "summary": "A proposta continua em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica"
+      "title": "Brasil lança plano de ação global para transição energética",
+      "link": "https://www.dw.com/pt-br/brasil-lança-plano-de-ação-global-para-transição-energética/a-79845717?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-03T17:27:00.000Z",
+      "summary": "País encerra presidência do processo climático da ONU anunciando roteiro para conter desmatamento e acelerar a fim dos combustíveis fósseis, com base em acordos já existentes em vez da formulação de novas promessas.",
+      "source": "DW Brasil",
+      "cat": "internacional"
     },
     {
       "title": "Alemanha enfrenta pressão para reconhecer genocídio colonial e reparar descendentes na Namíbia",
@@ -219,14 +235,6 @@
       "summary": "Os eleitores dos EUA irão às urnas na terça-feira em uma votação que poderá ter grande impacto na presidência de Donald Trump.",
       "source": "BBC News Brasil",
       "cat": "internacional"
-    },
-    {
-      "title": "Dia Nacional da Herança Cultural dos Poloneses vai à sanção presidencial",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/03/dia-nacional-da-heranca-cultural-dos-poloneses-vai-a-sancao-presidencial",
-      "date": "2026-11-03T15:54:43.000Z",
-      "summary": "Dia Nacional da Herança Cultural dos Poloneses no Brasil poderá ser comemorado anualmente em 11 de novembro. É o que projeto prevê aprovado nesta terça-feira (3) na Comissão de Educação e Cultura (CE). A data coincide com o dia da independência da Polônia e te",
-      "source": "Agência Senado",
-      "cat": "politica"
     },
     {
       "title": "Midterms podem trazer vitórias históricas para mulheres nos EUA",
@@ -282,22 +290,6 @@
       "date": "2026-11-03T09:35:49.000Z",
       "summary": "As preocupações com o apoio dos Estados Unidos a Israel estão motivando eleitores de ambos os lados da questão em uma das campanhas mais disputadas das eleições americanas de meio de mandato.",
       "source": "BBC News Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "Merz defende que Alemanha tenha primeira presidente mulher",
-      "link": "https://www.dw.com/pt-br/merz-defende-que-alemanha-tenha-primeira-presidente-mulher/a-79834919?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-02T22:23:00.000Z",
-      "summary": "Chanceler federal alemão diz que possível sucessora de Frank-Walter Steinmeier deve vir de seu partido. Se eleita, candidata seria a primeira a ocupar a presidência em 77 anos de República Federal.",
-      "source": "DW Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "A explosiva combinação de protestos e alta dívida pública na França",
-      "link": "https://www.dw.com/pt-br/a-explosiva-combinação-de-protestos-e-alta-dívida-pública-na-frança/a-79830816?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-02T20:43:00.000Z",
-      "summary": "Pressionado, governo francês promete bilhões de euros extras para o ensino apesar de o país já enfrentar dificuldades com uma dívida pública que chega a 120% do PIB.",
-      "source": "DW Brasil",
       "cat": "internacional"
     },
     {
