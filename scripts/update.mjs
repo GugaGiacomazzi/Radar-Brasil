@@ -20,7 +20,8 @@ const FEEDS = [
   { source: 'Agência Senado',     cat: 'politica', urls: ['https://www12.senado.leg.br/noticias/feed/ultimasnoticias/RSS', 'https://www12.senado.leg.br/noticias/rss', 'https://www12.senado.leg.br/noticias/ultimas/RSS'] },
   { source: 'Agência Câmara',     cat: 'politica', url: 'https://www.camara.leg.br/noticias/rss/ultimas-noticias' },
   { source: 'Planalto (governo)', cat: 'politica', url: 'https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/noticias/RSS' },
-  { source: 'Gov.br · Economia (governo)', cat: 'economia', url: 'https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/RSS' },
+  // O feed da pasta lista subpastas (2020, 2021...); o de "ultimas-noticias" lista as notícias.
+  { source: 'Gov.br · Economia (governo)', cat: 'economia', urls: ['https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/ultimas-noticias/RSS', `https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/${new Date().getFullYear()}/RSS`] },
   { source: 'Banco Central',      cat: 'economia', url: 'https://www.bcb.gov.br/api/feed/sitebcb/sitefeeds/notasImprensa' },
   // Internacional: ONU (organismo multilateral) e duas emissoras públicas
   // com redação própria em português e financiamento público, sem ligação com partidos brasileiros.
@@ -29,12 +30,15 @@ const FEEDS = [
   { source: 'DW Brasil',          cat: 'internacional', url: 'https://rss.dw.com/xml/rss-br-all' , topics: 'politica-economia', scan: 40 },
 ];
 const NEWS_PER_FEED = 6;
+const NEWS_MAX_AGE_DAYS = 21; // notícia mais velha que isso não entra
+// Itens que não são notícia: pastas de ano, páginas de índice, áudios e vídeos.
+const NOT_NEWS = n => /^\s*(\d{4}|últimas notícias|notícias|arquivo)\s*$/i.test(n.title) || /\/(listen|watch|videos?|audios?)\//i.test(n.link) || /^(em )?(áudio|vídeo)\b/i.test(n.title);
 
 // Filtro de tema para os feeds marcados com topics: 'politica-economia' (internacional).
 // Entra só manchete que fala de política ou economia e não cai na lista de exclusão.
 // Para ajustar, acrescente ou tire palavras destas listas.
 const TOPIC_INCLUDE = /elei[çc][ãa]o|elei[çc][õo]es|eleitor|vota[çc][ãa]o|presiden|primeir[oa]-ministr|premi[êe]|governo|parlament|congresso|senado|deputad|ministr|chanceler|diplom|embaixad|c[úu]pula|tratado|acordo|san[çc][õo]es|guerra|cessar-fogo|conflito|otan|nato\b|conselho de seguran[çc]a|uni[ãa]o europeia|\bue\b|\bg7\b|\bg20\b|brics|mercosul|partido|oposi[çc][ãa]o|coaliz[ãa]o|democrata|republican|protesto|golpe|referendo|economi|infla[çc][ãa]o|juros|banco central|\bfed\b|\bbce\b|\bpib\b|recess[ãa]o|mercado|bolsas?\b|petr[óo]leo|d[íi]vida|or[çc]amento|impost|tarifa|com[ée]rcio|exporta|importa|\bfmi\b|banco mundial|desemprego|moeda|d[óo]lar|\beuro\b|yuan|investiment|fiscal|capitalis|socialis/i;
-const TOPIC_EXCLUDE = /acidente|avi[ãa]o (cai|caiu)|futebol|copa do mundo|ol[íi]mpi|esporte|\bfilme|cinema|m[úu]sica|celebridade|novela|terremoto|furac[ãa]o|inc[êe]ndio|ursos?\b|carne crua|influenciador/i;
+const TOPIC_EXCLUDE = /acidente|avi[ãa]o (cai|caiu)|queda de avi|supermercado|hacker|namorad|futebol|copa do mundo|ol[íi]mpi|esporte|\bfilme|cinema|m[úu]sica|celebridade|novela|terremoto|furac[ãa]o|inc[êe]ndio|ursos?\b|carne crua|influenciador/i;
 const onTopic = n => { const t = n.title + ' ' + n.summary; return TOPIC_INCLUDE.test(t) && !TOPIC_EXCLUDE.test(t); };
 const NEWS_PER_CAT = 12; // máximo por categoria (política, economia, internacional)
 
@@ -191,7 +195,8 @@ async function feed(f) {
     const t = Date.parse(d);
     return { title: tag(b, ['title']), link: tag(b, ['link', 'guid']), date: isFinite(t) ? new Date(t).toISOString() : null,
              summary: tag(b, ['description', 'summary']).slice(0, 260), source: f.source, cat: f.cat };
-  }).filter(n => n.title && n.link);
+  }).filter(n => n.title && n.link && !NOT_NEWS(n))
+    .filter(n => !n.date || (Date.now() - Date.parse(n.date)) / 864e5 <= NEWS_MAX_AGE_DAYS);
   return (f.topics === 'politica-economia' ? items.filter(onTopic) : items).slice(0, NEWS_PER_FEED);
 }
 
