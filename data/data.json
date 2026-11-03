@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-03T18:24:56.400Z",
+  "updated": "2026-11-03T19:33:48.109Z",
   "market": {
     "ibov": {
-      "price": 165533.12,
-      "pct": -1.42,
-      "time": "2026-11-03T18:24:51.882Z",
+      "price": 165433.62,
+      "pct": -1.48,
+      "time": "2026-11-03T19:32:59.086Z",
       "history": [
         {
           "d": "2026-10-05",
@@ -84,7 +84,7 @@
         },
         {
           "d": "2026-11-03",
-          "c": 165445.3906
+          "c": 165433.625
         }
       ]
     },
@@ -141,9 +141,33 @@
   },
   "news": [
     {
+      "title": "Comissão sobre redução da maioridade civil e penal vota nesta quarta pedidos para realizar debates",
+      "link": "https://www.camara.leg.br/noticias/1315354-comissao-sobre-reducao-da-maioridade-civil-e-penal-vota-nesta-quarta-pedidos-para-realizar-debates",
+      "date": "2026-11-03T19:24:00.000Z",
+      "summary": "",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Comissão debate contribuições do Brasil para a COP-31 nesta quarta-feira; participe",
+      "link": "https://www.camara.leg.br/noticias/1315308-comissao-debate-contribuicoes-do-brasil-para-a-cop-31-nesta-quarta-feira-participe",
+      "date": "2026-11-03T19:16:00.000Z",
+      "summary": "Conferência sobre Mudança do Clima será realizada de 9 a 20 de novembro, em Antalya, na Turquia",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Comissão aprova projeto que retoma isenção de imposto para energia solar",
+      "link": "https://www.camara.leg.br/noticias/1315256-comissao-aprova-projeto-que-retoma-isencao-de-imposto-para-energia-solar",
+      "date": "2026-11-03T19:08:00.000Z",
+      "summary": "A proposta segue em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
       "title": "Comissão da Câmara aprova regras para parceria entre academias e personal trainers",
       "link": "https://www.camara.leg.br/noticias/1315115-comissao-da-camara-aprova-regras-para-parceria-entre-academias-e-personal-trainers",
-      "date": "2026-11-03T18:53:00.000Z",
+      "date": "2026-11-03T18:42:00.000Z",
       "summary": "O projeto de lei segue em análise na Câmara dos Deputados",
       "source": "Agência Câmara",
       "cat": "politica"
@@ -159,32 +183,8 @@
     {
       "title": "Comissão de Finanças aprova regras para repasse de recursos públicos a entidades privadas",
       "link": "https://www.camara.leg.br/noticias/1315150-comissao-de-financas-aprova-regras-para-repasse-de-recursos-publicos-a-entidades-privadas",
-      "date": "2026-11-03T18:22:00.000Z",
+      "date": "2026-11-03T18:29:00.000Z",
       "summary": "A Câmara dos Deputados continua discutindo o assunto",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissões debatem projeto para ampliar a concorrência no mercado de gás natural",
-      "link": "https://www.camara.leg.br/noticias/1314776-comissoes-debatem-projeto-para-ampliar-a-concorrencia-no-mercado-de-gas-natural",
-      "date": "2026-11-03T18:13:00.000Z",
-      "summary": "",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão aprova mecanismo de segurança de dois fatores para transações financeiras de idosos",
-      "link": "https://www.camara.leg.br/noticias/1315216-comissao-aprova-mecanismo-de-seguranca-de-dois-fatores-para-transacoes-financeiras-de-idosos",
-      "date": "2026-11-03T18:05:00.000Z",
-      "summary": "A Câmara dos Deputados continua analisando o projeto",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão aprova proposta de compartilhamento de dados de óbitos entre cartórios e SUS",
-      "link": "https://www.camara.leg.br/noticias/1315157-comissao-aprova-proposta-de-compartilhamento-de-dados-de-obitos-entre-cartorios-e-sus",
-      "date": "2026-11-03T17:40:00.000Z",
-      "summary": "Texto aprovado aproveita sistema nacional já existente para evitar custos e garantir rapidez no repasse de informações de mortalidade",
       "source": "Agência Câmara",
       "cat": "politica"
     },
@@ -211,22 +211,6 @@
       "summary": "Partidos da oposição puxam debate sobre o genocídio perpetrado pelo Império Alemão no país africano no início do século 20. Movimento finalmente impulsionará avanços no enfrentamento dos crimes coloniais?",
       "source": "DW Brasil",
       "cat": "internacional"
-    },
-    {
-      "title": "Senado deve receber cálculo da CBS na próxima terça para definir alíquota",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/03/senado-deve-receber-calculo-da-cbs-na-proxima-terca-para-definir-aliquota",
-      "date": "2026-11-03T16:40:58.000Z",
-      "summary": "O Tribunal de Contas da União (TCU) deve encaminhar à Presidência do Senado, na terça-feira (10), o estudo que definiu em 11,3% a alíquota de referência da Contribuição sobre Bens e Serviços (CBS) para 2027. A informação foi apresentada nesta terça-feira (3) p",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
-      "title": "Nova regra para dívidas de estados e municípios tem votação suspensa",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/03/nova-regra-para-dividas-de-estados-e-municipios-tem-votacao-suspensa",
-      "date": "2026-11-03T16:39:05.000Z",
-      "summary": "A contração de crédito para reestruturar dívidas de estados e municípios ao fim dos mandatos de governadores e prefeitos continuará em discussão na Comissão de Assuntos Econômicos (CAE). Após amplo debate, a senador Esperidião Amin (PP-SC), que presidiu a reun",
-      "source": "Agência Senado",
-      "cat": "politica"
     },
     {
       "title": "O que são as eleições de meio de mandato dos EUA e por que elas podem selar o futuro de Trump?",
@@ -264,7 +248,7 @@
       "title": "Quem vai ganhar as midterms? Os gráficos que mostram como a eleição dos EUA será decidida",
       "link": "https://www.bbc.com/portuguese/articles/crlyklw8xxnyo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-03T10:51:38.000Z",
-      "summary": "Uma análise aprofundada das principais pesquisas, disputas eleitorais e questões que antecedem a eleição nesta terça-feira que definirá os dois últimos anos de Trump como presidente.",
+      "summary": "Confira uma análise das principais pesquisas, disputas eleitorais e questões que antecedem a eleição desta terça-feira que definirá os dois últimos anos de Trump como presidente.",
       "source": "BBC News Brasil",
       "cat": "internacional"
     },
@@ -349,5 +333,7 @@
       "cat": "economia"
     }
   ],
-  "errors": []
+  "errors": [
+    "feed Agência Senado: fetch failed"
+  ]
 }
