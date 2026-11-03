@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-03T10:14:54.220Z",
+  "updated": "2026-11-03T11:15:15.786Z",
   "market": {
     "ibov": {
       "price": 167921.8,
       "pct": -0.75,
-      "time": "2026-11-03T10:14:48.714Z",
+      "time": "2026-11-03T11:15:10.416Z",
       "history": [
         {
           "d": "2026-10-05",
@@ -137,6 +137,14 @@
   },
   "news": [
     {
+      "title": "Quem vai ganhar as midterms? Os gráficos que mostram como a eleição dos EUA será decidida",
+      "link": "https://www.bbc.com/portuguese/articles/crlyklw8xxnyo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-03T10:51:38.000Z",
+      "summary": "Uma análise aprofundada das principais pesquisas, disputas eleitorais e questões que antecedem a eleição nesta terça-feira que definirá os dois últimos anos de Trump como presidente.",
+      "source": "BBC News Brasil",
+      "cat": "internacional"
+    },
+    {
       "title": "EUA lançam ataque contra ilha no Irã na véspera de eleições",
       "link": "https://www.bbc.com/portuguese/articles/cwnv0n61q72vo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-03T10:06:31.000Z",
@@ -193,26 +201,10 @@
       "cat": "internacional"
     },
     {
-      "title": "Eleições nos EUA: como fortalecimento do socialismo criou dilema para os democratas",
-      "link": "https://www.bbc.com/portuguese/articles/cm87zn0xz155o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-02T17:53:22.000Z",
-      "summary": "Nas eleições de meio de mandato dos Estados Unidos, a crescente popularidade dos candidatos dos Socialistas Democráticos dos Estados Unidos (DSA) representa um desafio para o Partido Democrata.",
-      "source": "BBC News Brasil",
-      "cat": "internacional"
-    },
-    {
       "title": "O que são as eleições de meio de mandato dos EUA e por que elas podem selar o futuro de Trump?",
       "link": "https://www.bbc.com/portuguese/articles/cwg7xpyd1jrgo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-02T14:53:58.000Z",
       "summary": "Os eleitores dos EUA irão às urnas na terça-feira em uma votação que poderá ter grande impacto na presidência de Donald Trump.",
-      "source": "BBC News Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "Por que os EUA têm tantos políticos idosos e poucos jovens disputando eleições",
-      "link": "https://www.bbc.com/portuguese/articles/c6ly39vk8kvmo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-02T14:53:03.000Z",
-      "summary": "De Trump a congressistas nonagenários, ascensão da idade média dos líderes americanos reacende debate sobre por que tão poucos jovens chegam aos cargos eletivos.",
       "source": "BBC News Brasil",
       "cat": "internacional"
     },
@@ -230,6 +222,14 @@
       "date": "2026-11-02T12:00:00.000Z",
       "summary": "Operação terminou após impasse no Conselho de Segurança sobre renovação do mandato; secretário-geral António Guterres garante que organização segue intermediando diálogo diplomático; nota reforça que fim da missão não anula direito à autodeterminação.",
       "source": "ONU News",
+      "cat": "internacional"
+    },
+    {
+      "title": "Manifestação da Geração Z agita a Alemanha: “Só queremos que nos ouçam”",
+      "link": "https://www.dw.com/pt-br/manifestação-da-geração-z-agita-a-alemanha-só-queremos-que-nos-ouçam/a-79823403?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-01T16:30:00.000Z",
+      "summary": "Ministro do Interior da Alemanha condenou a violência nas manifestações e responsabilizou \"extremistas de esquerda\". Manifestantes acusam a imprensa e políticos de forçar debate sobre violência mesmo antes dos atos.",
+      "source": "DW Brasil",
       "cat": "internacional"
     },
     {
