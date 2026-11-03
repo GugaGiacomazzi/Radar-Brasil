@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-03T09:11:56.787Z",
+  "updated": "2026-11-03T09:15:48.743Z",
   "market": {
     "ibov": {
       "price": 167921.8,
       "pct": -0.75,
-      "time": "2026-11-03T09:11:53.815Z",
+      "time": "2026-11-03T09:15:44.056Z",
       "history": [
         {
           "d": "2026-10-05",
@@ -161,34 +161,10 @@
       "cat": "internacional"
     },
     {
-      "title": "O que se sabe sobre nova onda de ataques hacker a supermercados na Europa",
-      "link": "https://www.dw.com/pt-br/o-que-se-sabe-sobre-nova-onda-de-ataques-hacker-a-supermercados-na-europa/a-79833140?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-02T18:21:00.000Z",
-      "summary": "Invasão a sistemas de refrigeração afetou redes varejistas em sete países, menos de um mês após evento similar na França. Casos expõem vulnerabilidade digital da cadeia de abastecimento alimentar da Europa.",
-      "source": "DW Brasil",
-      "cat": "internacional"
-    },
-    {
       "title": "No centro do capitalismo mundial, movimento socialista cresce e cria dilema para os democratas",
       "link": "https://www.bbc.com/portuguese/articles/cm87zn0xz155o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-02T17:53:22.000Z",
       "summary": "Nas eleições de meio de mandato dos Estados Unidos, a crescente popularidade dos candidatos dos Socialistas Democráticos dos Estados Unidos (DSA) representa um desafio para o Partido Democrata.",
-      "source": "BBC News Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "Em áudio | 'Não reconheci meu namorado quando o encontrei no supermercado': como descobri que tinha cegueira facial",
-      "link": "https://www.bbc.com/portuguese/listen/cr1ex1z4x2y0o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-02T15:12:15.000Z",
-      "summary": "Após receber diagnóstico de prosopagnosia, jornalista investigou ciência por trás dessa condição.",
-      "source": "BBC News Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "Vídeo mostra queda de avião na Flórida",
-      "link": "https://www.bbc.com/portuguese/watch/c8p3grww23y2o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-02T15:02:41.000Z",
-      "summary": "O Learjet 60 decolou de Austin, no Texas, rumo às Bahamas. A queda aconteceu a cerca de 14 km de Mar-a-Lago, resort do presidente Donald Trump.",
       "source": "BBC News Brasil",
       "cat": "internacional"
     },
@@ -233,12 +209,36 @@
       "cat": "internacional"
     },
     {
+      "title": "França registra quase 800 prisões em novo fim de semana de protestos",
+      "link": "https://www.dw.com/pt-br/frança-registra-quase-800-prisões-em-novo-fim-de-semana-de-protestos/a-79823505?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-01T17:36:00.000Z",
+      "summary": "Autoridades contabilizaram 779 detenções em todo o país, número inferior ao registrado nas últimas semanas. Governo atribui redução da violência a forte esquema de segurança.",
+      "source": "DW Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "Manifestação da Geração Z agita a Alemanha: “Só queremos que nos ouçam”",
+      "link": "https://www.dw.com/pt-br/manifestação-da-geração-z-agita-a-alemanha-só-queremos-que-nos-ouçam/a-79823403?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-01T16:30:00.000Z",
+      "summary": "Ministro do Interior da Alemanha condenou a violência nas manifestações e responsabilizou \"extremistas de esquerda\". Manifestantes acusam a imprensa e políticos de forçar debate sobre violência mesmo antes dos atos.",
+      "source": "DW Brasil",
+      "cat": "internacional"
+    },
+    {
       "title": "Davi marca para terça votação da PEC da Segurança",
       "link": "https://www12.senado.leg.br/noticias/materias/2026/10/30/davi-marca-para-terca-votacao-da-pec-da-seguranca",
       "date": "2026-10-30T23:10:23.000Z",
       "summary": "O presidente do Senado, Davi Alcolumbre, marcou para terça-feira (3) a votação da Proposta de Emenda à Constituição (PEC) 18/2025, que amplia a integração entre os órgãos de segurança pública para o combate ao crime organizado. A ordem do dia está agendada par",
       "source": "Agência Senado",
       "cat": "politica"
+    },
+    {
+      "title": "Ucrânia: Drones russos causam mortes em estação de trem e usina nuclear",
+      "link": "https://news.un.org/feed/view/pt/story/2026/10/1854802",
+      "date": "2026-10-30T12:00:00.000Z",
+      "summary": "Ataque a estação ferroviária em Dnipro deixou pelo menos 14 mortos; em outro episódio, soldador da Central Nuclear de Zaporizhzhia foi vítima de explosão mortal; na cidade de Oleshky, cessar-fogo negociado com poio dos Estados Unidos acaba em 1 de novembro e c",
+      "source": "ONU News",
+      "cat": "internacional"
     },
     {
       "title": "Davi celebra terceira descoberta de petróleo em poço no litoral do Amapá",
@@ -270,22 +270,6 @@
       "date": "2026-10-29T20:51:00.000Z",
       "summary": "Proposta segue em análise na Câmara dos Deputados",
       "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Áudio: Senador propõe dedução no IR de parte dos gastos com saúde de pets",
-      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/senador-propoe-deducao-no-ir-de-parte-dos-gastos-com-saude-de-pets",
-      "date": "2026-10-29T20:39:38.000Z",
-      "summary": "Parte das despesas com saúde de cães e gatos de estimação poderá ser deduzida da base de cálculo do Imposto de Renda de pessoas físicas. Isso é o que estabelece um projeto de lei apresentado pelo senador Plínio Valério (PSDB-AM). A proposta (PL 5.668/2026) seg",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
-      "title": "Áudio: Em Manaus, Subcomissão dos Povos Yanomami avalia crise na saúde indígena",
-      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/em-manaus-subcomissao-dos-povos-yanomami-avalia-crise-na-saude-indigena",
-      "date": "2026-10-29T20:34:06.000Z",
-      "summary": "A Subcomissão Permanente dos Povos Indígenas Yanomami está nesta quinta-feira (29) em Manaus, onde estão previstas visitas a unidades de saúde e reuniões com as Forças Armadas e a Fundação Nacional dos Povos Indígenas (Funai). Presidente do colegiado, a senado",
-      "source": "Agência Senado",
       "cat": "politica"
     },
     {
@@ -374,46 +358,6 @@
       "date": "2026-10-27T19:25:27.000Z",
       "summary": "",
       "source": "Banco Central",
-      "cat": "economia"
-    },
-    {
-      "title": "2023",
-      "link": "https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2023",
-      "date": "2023-01-02T14:44:00.000Z",
-      "summary": "",
-      "source": "Gov.br · Economia (governo)",
-      "cat": "economia"
-    },
-    {
-      "title": "2022",
-      "link": "https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2022",
-      "date": "2021-12-31T13:36:00.000Z",
-      "summary": "",
-      "source": "Gov.br · Economia (governo)",
-      "cat": "economia"
-    },
-    {
-      "title": "2021",
-      "link": "https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2021",
-      "date": "2020-12-31T13:31:00.000Z",
-      "summary": "",
-      "source": "Gov.br · Economia (governo)",
-      "cat": "economia"
-    },
-    {
-      "title": "2020",
-      "link": "https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020",
-      "date": "2019-12-30T12:46:01.000Z",
-      "summary": "",
-      "source": "Gov.br · Economia (governo)",
-      "cat": "economia"
-    },
-    {
-      "title": "Últimas Notícias",
-      "link": "https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/ultimas-noticias",
-      "date": "2018-05-23T13:24:00.000Z",
-      "summary": "",
-      "source": "Gov.br · Economia (governo)",
       "cat": "economia"
     }
   ],
