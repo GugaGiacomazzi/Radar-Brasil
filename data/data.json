@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-03T15:24:33.873Z",
+  "updated": "2026-11-03T16:30:07.226Z",
   "market": {
     "ibov": {
-      "price": 164750.56,
-      "pct": -1.89,
-      "time": "2026-11-03T15:24:29.168Z",
+      "price": 165111.6,
+      "pct": -1.67,
+      "time": "2026-11-03T16:29:54.818Z",
       "history": [
         {
           "d": "2026-10-05",
@@ -84,7 +84,7 @@
         },
         {
           "d": "2026-11-03",
-          "c": 165137.7969
+          "c": 165111.5938
         }
       ]
     },
@@ -141,6 +141,46 @@
   },
   "news": [
     {
+      "title": "Câmara analisa projetos sobre sobre proteção às mulheres, saúde e maus-tratos a animais",
+      "link": "https://www.camara.leg.br/noticias/1315214-camara-analisa-projetos-sobre-sobre-protecao-as-mulheres-saude-e-maus-tratos-a-animais",
+      "date": "2026-11-03T17:23:00.000Z",
+      "summary": "",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Comissão aprova projeto com diretrizes para formação continuada de professores em educação inclusiva",
+      "link": "https://www.camara.leg.br/noticias/1315111-comissao-aprova-projeto-com-diretrizes-para-formacao-continuada-de-professores-em-educacao-inclusiva",
+      "date": "2026-11-03T17:09:00.000Z",
+      "summary": "Texto continua em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Comissão aprova projeto que assegura exame periódico no SUS para pessoas com diabetes",
+      "link": "https://www.camara.leg.br/noticias/1315078-comissao-aprova-projeto-que-assegura-exame-periodico-no-sus-para-pessoas-com-diabetes",
+      "date": "2026-11-03T16:50:00.000Z",
+      "summary": "A proposta continua em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "O que são as eleições de meio de mandato dos EUA e por que elas podem selar o futuro de Trump?",
+      "link": "https://www.bbc.com/portuguese/articles/cwg7xpyd1jrgo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-03T16:20:58.000Z",
+      "summary": "Os eleitores dos EUA irão às urnas na terça-feira em uma votação que poderá ter grande impacto na presidência de Donald Trump.",
+      "source": "BBC News Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "Dia Nacional da Herança Cultural dos Poloneses vai à sanção presidencial",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/03/dia-nacional-da-heranca-cultural-dos-poloneses-vai-a-sancao-presidencial",
+      "date": "2026-11-03T15:54:43.000Z",
+      "summary": "Dia Nacional da Herança Cultural dos Poloneses no Brasil poderá ser comemorado anualmente em 11 de novembro. É o que projeto prevê aprovado nesta terça-feira (3) na Comissão de Educação e Cultura (CE). A data coincide com o dia da independência da Polônia e te",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
       "title": "Comissão aprova desconto na compra de livros para professores e alunos de cursos de licenciatura",
       "link": "https://www.camara.leg.br/noticias/1315102-comissao-aprova-desconto-na-compra-de-livros-para-professores-e-alunos-de-cursos-de-licenciatura",
       "date": "2026-11-03T15:49:00.000Z",
@@ -154,6 +194,30 @@
       "date": "2026-11-03T15:42:00.000Z",
       "summary": "Proposta continua em análise na Câmara",
       "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "CE aprova Prêmio Nacional da Educação Brasileira",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/03/ce-aprova-premio-nacional-da-educacao-brasileira",
+      "date": "2026-11-03T15:40:40.000Z",
+      "summary": "A Comissão de Educação e Cultura (CE) aprovou nesta terça-feira (3) a criação do Prêmio Nacional da Educação Brasileira (PNEB). A premiação visa reconhecer estratégias e iniciativas para a melhoria da qualidade da aprendizagem na educação básica e será concedi",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Plenário analisa Estatuto do Aprendiz na quarta-feira",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/03/plenario-analisa-estatuto-do-aprendiz-na-quarta-feira",
+      "date": "2026-11-03T15:23:28.000Z",
+      "summary": "O Plenário analisa na sessão desta quarta-feira (4) cinco projetos. Entre eles o chamado Estatuto do Aprendiz, que estabelece novas regras para a aprendizagem profissional e agrega em uma só lei as normas hoje dispersas em diferentes decretos. O relator do PL ",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Semana Nacional do Pequeno Investidor em outubro vai à Câmara",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/03/semana-nacional-do-pequeno-investidor-em-outubro-vai-a-camara",
+      "date": "2026-11-03T15:20:45.000Z",
+      "summary": "A segunda semana de outubro poderá se tornar a Semana Nacional do Pequeno Investidor, com ações para ampliar o acesso da população aos investimentos e promover a educação financeira. A criação da data está prevista em projeto de lei aprovado nesta terça-feira ",
+      "source": "Agência Senado",
       "cat": "politica"
     },
     {
@@ -173,51 +237,19 @@
       "cat": "politica"
     },
     {
-      "title": "Comissão aprova isenção de taxa da carteira de habilitação para motoristas de veículos de emergência",
-      "link": "https://www.camara.leg.br/noticias/1315104-comissao-aprova-isencao-de-taxa-da-carteira-de-habilitacao-para-motoristas-de-veiculos-de-emergencia",
-      "date": "2026-11-03T14:37:00.000Z",
-      "summary": "Texto segue em análise na Câmara do Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Avança regulamentação da profissão de audiodescritor",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/03/avanca-regulamentacao-da-profissao-de-audiodescritor",
-      "date": "2026-11-03T14:16:03.000Z",
-      "summary": "A Comissão de Educação e Cultura (CE) aprovou nesta terça-feira (3) projeto que regulamenta a profissão de audiodescritor, profissional responsável por traduzir imagens em palavras para pessoas com deficiência visual. A proposta estabelece quem pode ser audiod",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
-      "title": "Proposta assegura exame periódico no SUS para pessoas com diabetes",
-      "link": "https://www.camara.leg.br/noticias/1315076-proposta-assegura-exame-periodico-no-sus-para-pessoas-com-diabetes",
-      "date": "2026-11-03T14:09:00.000Z",
-      "summary": "Para virar lei, proposta precisa ser aprovada pela Câmara e pelo Senado",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "CE aprova piso salarial nacional para profissionais de apoio da educação básica",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/03/ce-aprova-piso-salarial-nacional-para-profissionais-de-apoio-da-educacao-basica",
-      "date": "2026-11-03T14:00:52.000Z",
-      "summary": "A Comissão de Educação e Cultura (CE) aprovou nesta terça-feira (3) um piso salarial nacional para os profissionais da educação básica pública que exercem funções de apoio, como merendeiras, auxiliares de limpeza e secretários escolares. O valor será equivalen",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão debate projeto que cria Marco de Fomento à Economia Digital no Brasil",
-      "link": "https://www.camara.leg.br/noticias/1314773-comissao-debate-projeto-que-cria-marco-de-fomento-a-economia-digital-no-brasil",
-      "date": "2026-11-03T13:28:00.000Z",
-      "summary": "",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
       "title": "Midterms podem trazer vitórias históricas para mulheres nos EUA",
       "link": "https://www.dw.com/pt-br/midterms-podem-trazer-vitórias-históricas-para-mulheres-nos-eua/a-79837957?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-03T12:28:00.000Z",
       "summary": "Mulheres são sub-representadas em todos os níveis da política dos EUA. Mas, nas atuais eleições de meio de mandato, elas podem conquistar alguns feitos históricos.",
       "source": "DW Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "África Austral lança plataforma regional para monitorar mercado de trabalho",
+      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854812",
+      "date": "2026-11-03T12:00:00.000Z",
+      "summary": "Dados da iniciativa reúnem indicadores de emprego, qualificação profissional e desigualdade de gênero; meta é apoiar a formulação de políticas públicas baseadas em estatísticas.",
+      "source": "ONU News",
       "cat": "internacional"
     },
     {
@@ -233,14 +265,6 @@
       "link": "https://www.bbc.com/portuguese/articles/crlyklw8xxnyo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-03T10:51:38.000Z",
       "summary": "Uma análise aprofundada das principais pesquisas, disputas eleitorais e questões que antecedem a eleição nesta terça-feira que definirá os dois últimos anos de Trump como presidente.",
-      "source": "BBC News Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "EUA lançam ataque contra ilha no Irã na véspera de eleições",
-      "link": "https://www.bbc.com/portuguese/articles/cwnv0n61q72vo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-03T10:06:31.000Z",
-      "summary": "Autoridades americanas descreveram os ataques à ilha de Qeshm como limitados e defensivos, segundo a CBS, parceira da BBC nos EUA.",
       "source": "BBC News Brasil",
       "cat": "internacional"
     },
@@ -293,19 +317,11 @@
       "cat": "internacional"
     },
     {
-      "title": "O que são as eleições de meio de mandato dos EUA e por que elas podem selar o futuro de Trump?",
-      "link": "https://www.bbc.com/portuguese/articles/cwg7xpyd1jrgo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-02T14:53:58.000Z",
-      "summary": "Os eleitores dos EUA irão às urnas na terça-feira em uma votação que poderá ter grande impacto na presidência de Donald Trump.",
+      "title": "Eleições nos EUA: como fortalecimento do socialismo criou dilema para os democratas",
+      "link": "https://www.bbc.com/portuguese/articles/cm87zn0xz155o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-02T17:53:22.000Z",
+      "summary": "Nas eleições de meio de mandato dos Estados Unidos, a crescente popularidade dos candidatos dos Socialistas Democráticos dos Estados Unidos (DSA) representa um desafio para o Partido Democrata.",
       "source": "BBC News Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "ONU reforça apoio a processo de paz após encerrar missão no Saara Ocidental",
-      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854814",
-      "date": "2026-11-02T12:00:00.000Z",
-      "summary": "Operação terminou após impasse no Conselho de Segurança sobre renovação do mandato; secretário-geral António Guterres garante que organização segue intermediando diálogo diplomático; nota reforça que fim da missão não anula direito à autodeterminação.",
-      "source": "ONU News",
       "cat": "internacional"
     },
     {
