@@ -77,6 +77,9 @@ header h1 span{color:var(--accent)}
 .filters button{font-family:var(--f-display);font-size:14px;font-weight:600;padding:6px 14px;border-radius:999px;border:1px solid var(--line);background:var(--surface);color:var(--ink);cursor:pointer}
 .filters button[aria-pressed="true"]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
 .criteria{background:var(--accent-soft);border-radius:10px;padding:14px 18px;font-size:15px;margin-bottom:8px}
+.news-scroll{max-height:min(75vh,900px);overflow-y:auto;overscroll-behavior:contain;border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding-right:8px;scrollbar-gutter:stable}
+.news-scroll .item:first-child{border-top:0}
+.news-count{font-family:var(--f-display);font-size:13px;color:var(--muted);margin-top:8px}
 .item{display:grid;grid-template-columns:150px 1fr;gap:16px;padding:16px 0;border-top:1px solid var(--line)}
 .item>*{min-width:0}
 .item .meta{display:flex;flex-direction:column;gap:4px}
@@ -172,7 +175,8 @@ footer details{margin-top:8px}
       </div>
     </div>
     <div class="criteria">Manchetes copiadas direto dos canais oficiais (Senado, Câmara, Banco Central e, marcados como "governo", Planalto e gov.br), sem reescrita e sem sites de opinião. Internacional: ONU News e as emissoras públicas BBC News Brasil e DW Brasil. Clique para ler na fonte.</div>
-    <div id="newsList"></div>
+    <div class="news-scroll" id="newsList" tabindex="0" aria-label="Lista de notícias"></div>
+    <div class="news-count" id="newsCount"></div>
   </section>
 
   <section aria-labelledby="live">
@@ -285,6 +289,8 @@ let NEWS=[];
 function renderNews(f){
   const list=$('newsList'); list.innerHTML='';
   const items=NEWS.filter(n=>f==='all'||n.cat===f);
+  $('newsCount').textContent=items.length?items.length+' notícias · role a lista para ver todas':'';
+  list.scrollTop=0;
   if(!items.length){list.innerHTML='<p class="note">Nenhuma notícia carregada ainda.</p>';return;}
   items.forEach(n=>{
     const el=document.createElement('article'); el.className='item';
