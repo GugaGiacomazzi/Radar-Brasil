@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-03T20:27:18.641Z",
+  "updated": "2026-11-03T21:23:15.344Z",
   "market": {
     "ibov": {
-      "price": 165627.45,
-      "pct": -1.37,
-      "time": "2026-11-03T20:27:09.749Z",
+      "price": 165536.56,
+      "pct": -1.42,
+      "time": "2026-11-03T21:23:09.642Z",
       "history": [
         {
           "d": "2026-10-05",
@@ -84,7 +84,7 @@
         },
         {
           "d": "2026-11-03",
-          "c": 165627.4531
+          "c": 165536.5625
         }
       ]
     },
@@ -141,6 +141,94 @@
   },
   "news": [
     {
+      "title": "Acordo de cooperação militar entre Brasil e Guiana vai à promulgação",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/03/acordo-de-cooperacao-militar-entre-brasil-e-guiana-vai-a-promulgacao",
+      "date": "2026-11-03T21:20:33.000Z",
+      "summary": "O Plenário aprovou nesta terça-feira (3), em votação simbólica, o texto do acordo de cooperação militar entre Brasil e Guiana assinado em Bonfim (RR) em 2009. O acordo facilita ações na fronteira entre os dois países e no combate a crimes transnacionais. O Pro",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Governo Lula impõe sigilo a documentos do 'pacote de bondades' lançado nas eleições",
+      "link": "https://www.bbc.com/portuguese/articles/cmz654z66gplo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-03T21:09:23.000Z",
+      "summary": "Casa Civil alegou sigilo 'advogado-cliente' para negar acesso da BBC News Brasil a estudos que embasaram Desenrola 3.0 e proibição das bets. Especialistas contestam justificativa e dizem que decisão dá margem a 'sigilo eterno' sobre material que embasou medida",
+      "source": "BBC News Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "CMO aprova recursos para ações de atendimento à imigração em Roraima",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/03/cmo-aprova-recursos-para-acoes-de-atendimento-a-imigracao-em-roraima",
+      "date": "2026-11-03T21:04:46.000Z",
+      "summary": "A Comissão Mista de Orçamento (CMO) aprovou, nesta terça-feira (3), um projeto que destina crédito especial de R$ 115 milhões no Orçamento de 2026 para que o governo federal possa atender ao aumento do fluxo migratório de venezuelanos em Roraima (PLN 27/2026).",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Eduardo Braga será o relator-geral do projeto de lei do Orçamento 2027",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/03/eduardo-braga-sera-o-relator-geral-do-projeto-de-lei-do-orcamento-2027",
+      "date": "2026-11-03T21:00:49.000Z",
+      "summary": "O senador Eduardo Braga (MDB-AM) foi escolhido para ser o relator-geral do projeto de lei do Orçamento para 2027. O anúncio ocorreu nesta terça-feira (3) após reunião de líderes com o presidente do Senado, Davi Alcolumbre. O projeto da Lei Orçamentária Anual (",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Comissão aprova regras mais duras para crimes contra o patrimônio praticados com violência",
+      "link": "https://www.camara.leg.br/noticias/1315389-comissao-aprova-regras-mais-duras-para-crimes-contra-o-patrimonio-praticados-com-violencia",
+      "date": "2026-11-03T20:59:00.000Z",
+      "summary": "Proposta condiciona a progressão de regime de reincidentes à reparação do dano; texto ainda será analisado pelo Plenário",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Vai à promulgação acordo de cooperação espacial entre Brasil e Venezuela",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/03/vai-a-promulgacao-acordo-de-cooperacao-espacial-entre-brasil-e-venezuela",
+      "date": "2026-11-03T20:56:39.000Z",
+      "summary": "O Plenário do Senado aprovou nesta terça-feira (3), em votação simbólica, o texto do acordo de cooperação em ciência e tecnologia espacial entre Brasil e Venezuela. O acordo prevê a exploração e utilização pacífica do espaço, com prioridade para a observação v",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Confúcio Moura alerta para dificuldades no aprendizado de matemática",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/03/confucio-moura-alerta-para-dificuldades-no-aprendizado-de-matematica",
+      "date": "2026-11-03T20:51:21.000Z",
+      "summary": "O senador Confúcio Moura (MDB-RO) ressaltou que os alunos brasileiros enfrentam dificuldades no aprendizado de matemática. Por isso, durante pronunciamento no Plenário nesta terça-feira (3), ele afirmou que o interesse pela matemática deve ser estimulado desde",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Comissão aprova projeto que cria política de bibliotecas digitais sociais",
+      "link": "https://www.camara.leg.br/noticias/1315218-comissao-aprova-projeto-que-cria-politica-de-bibliotecas-digitais-sociais",
+      "date": "2026-11-03T20:37:00.000Z",
+      "summary": "Texto aprovado prevê integração com o Sistema Nacional de Bibliotecas Públicas; proposta continua em análise na Câmara",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Comissão Mista de Orçamento aprova crédito de R$ 115 milhões para atender venezuelanos em Roraima",
+      "link": "https://www.camara.leg.br/noticias/1315391-comissao-mista-de-orcamento-aprova-credito-de-r-115-milhoes-para-atender-venezuelanos-em-roraima",
+      "date": "2026-11-03T20:34:00.000Z",
+      "summary": "Votação de crédito suplementar de R$ 185,5 bilhões para pagar benefícios previdenciários e sociais foi adiada para a próxima semana",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Projeto que prevê campanhas sobre parentalidade positiva segue para sanção",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/03/projeto-que-preve-campanhas-sobre-parentalidade-positiva-segue-para-sancao",
+      "date": "2026-11-03T20:32:24.000Z",
+      "summary": "O Senado aprovou nesta terça-feira (3) um projeto de lei que inclui a realização de cursos, palestras e campanhas — todos sobre os benefícios da parentalidade positiva — entre os deveres do Estado, da família e da sociedade. O projeto (PL 186/2025), que determ",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Em encontro com Zelenski, Merz promete ampliar apoio à Ucrânia",
+      "link": "https://www.dw.com/pt-br/em-encontro-com-zelenski-merz-promete-ampliar-apoio-à-ucrânia/a-79847760?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-03T20:25:00.000Z",
+      "summary": "Chanceler federal alemão anuncia novo pacote de 200 milhões de euros para enfrentar o inverno, e destaca defesa aérea e energia como prioridades.",
+      "source": "DW Brasil",
+      "cat": "internacional"
+    },
+    {
       "title": "Câmara aprova inclusão de ultrassonografias morfológicas no pré-natal do SUS",
       "link": "https://www.camara.leg.br/noticias/1315411-camara-aprova-inclusao-de-ultrassonografias-morfologicas-no-pre-natal-do-sus",
       "date": "2026-11-03T20:19:00.000Z",
@@ -165,14 +253,6 @@
       "cat": "internacional"
     },
     {
-      "title": "Humberto: mobilização popular nas ruas e nas redes foi decisiva na eleição de Lula",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/03/humberto-mobilizacao-popular-nas-ruas-e-nas-redes-foi-decisiva-na-eleicao-de-lula",
-      "date": "2026-11-03T20:04:18.000Z",
-      "summary": "Ao discursar em Plenário nesta terça-feira (3), o senador Humberto Costa (PT-PE) destacou a importância da mobilização popular — nas ruas e nas redes sociais — para a reeleição de Luiz Inácio Lula da Silva. Ele também citou a criação do canal de mensagens no W",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
       "title": "Câmara aprova requerimentos de urgência para dois projetos de lei",
       "link": "https://www.camara.leg.br/noticias/1315385-camara-aprova-requerimentos-de-urgencia-para-dois-projetos-de-lei",
       "date": "2026-11-03T19:59:00.000Z",
@@ -189,76 +269,12 @@
       "cat": "internacional"
     },
     {
-      "title": "Zenaide: municípios precisam de recursos permanente para implementar PEC da Segurança",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/03/zenaide-municipios-precisam-de-recursos-permanente-para-implementar-pec-da-seguranca",
-      "date": "2026-11-03T19:50:29.000Z",
-      "summary": "Durante pronunciamento em Plenário nesta terça-feira (3), a senadora Zenaide Maia (PSD-RN) defendeu a aprovação da Proposta de Emenda à Constituição (PEC) 18/2021, mais conhecida como PEC da Segurança Pública. Ela ressaltou, no entanto, que a ampliação das atr",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
       "title": "Eleição nos EUA pode aliviar pressão de Trump sobre o Brasil",
       "link": "https://www.dw.com/pt-br/eleição-nos-eua-pode-aliviar-pressão-de-trump-sobre-o-brasil/a-79845890?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-03T19:47:00.000Z",
       "summary": "Eventual maioria democrata no Congresso deverá fiscalizar política externa do presidente, com possíveis investigações sobre fuga de Flávio Bolsonaro, Meta e tarifaço.",
       "source": "DW Brasil",
       "cat": "internacional"
-    },
-    {
-      "title": "Ianomâmis relatam problemas com saúde e garimpo; Damares quer plano decenal",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/03/ianomamis-relatam-problemas-com-saude-e-garimpo-damares-quer-plano-decenal",
-      "date": "2026-11-03T19:34:20.000Z",
-      "summary": "A subcomissão do Senado que acompanha a crise humanitária dos ianomâmis promoveu na sexta-feira (30) uma audiência pública no município de São Gabriel da Cachoeira (AM). Na reunião, os indígenas relataram dificuldades no acesso à saúde, falta de segurança e pe",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
-      "title": "Para Jayme Campos, Brasil não pode continuar 'refém de uma disputa eleitoral'",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/03/para-jayme-campos-brasil-nao-pode-continuar-refem-de-uma-disputa-eleitoral",
-      "date": "2026-11-03T19:32:20.000Z",
-      "summary": "O senador Jayme Campos (União-MT) defendeu, nesta terça-feira (3), a redução das disputas políticas e a construção de uma agenda nacional voltada ao desenvolvimento econômico e à justiça social. Em pronunciamento no Plenário, afirmou que, encerradas as eleiçõe",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
-      "title": "População do Pará sofre com concessões de serviços públicos, denuncia Beto Faro",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/03/populacao-do-para-sofre-com-concessoes-de-servicos-publicos-denuncia-beto-faro",
-      "date": "2026-11-03T19:28:21.000Z",
-      "summary": "O senador Beto Faro (PT-PA), em pronunciamento no Plenário nesta terça-feira (3), criticou a concessão à iniciativa privada de serviços de abastecimento de água, rodovias e gestão hospitalar no Pará. O parlamentar defendeu a revisão dos modelos adotados e afir",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão sobre redução da maioridade civil e penal vota nesta quarta pedidos para realizar debates",
-      "link": "https://www.camara.leg.br/noticias/1315354-comissao-sobre-reducao-da-maioridade-civil-e-penal-vota-nesta-quarta-pedidos-para-realizar-debates",
-      "date": "2026-11-03T19:24:00.000Z",
-      "summary": "",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão debate contribuições do Brasil para a COP-31 nesta quarta-feira; participe",
-      "link": "https://www.camara.leg.br/noticias/1315308-comissao-debate-contribuicoes-do-brasil-para-a-cop-31-nesta-quarta-feira-participe",
-      "date": "2026-11-03T19:16:00.000Z",
-      "summary": "Conferência sobre Mudança do Clima será realizada de 9 a 20 de novembro, em Antalya, na Turquia",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Em reunião no Senado com lideranças, governo apresenta prioridades legislativas",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/03/em-reuniao-no-senado-com-liderancas-governo-apresenta-prioridades-legislativas",
-      "date": "2026-11-03T19:13:36.000Z",
-      "summary": "Em reunião na manhã desta terça-feira (3) no Senado, comandada pelo presidente da Casa, Davi Alcolumbre, lideranças do governo e da oposição discutiram as prioridades legislativas até o final do ano. Segundo a senadora Teresa Leitão (PT-PE), líder do governo, ",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão aprova projeto que retoma isenção de imposto para energia solar",
-      "link": "https://www.camara.leg.br/noticias/1315256-comissao-aprova-projeto-que-retoma-isencao-de-imposto-para-energia-solar",
-      "date": "2026-11-03T19:08:00.000Z",
-      "summary": "A proposta segue em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica"
     },
     {
       "title": "Trump anuncia fim de ajuda anual de US$ 4 bilhões a Israel",
@@ -309,26 +325,10 @@
       "cat": "internacional"
     },
     {
-      "title": "EUA atingem alvos no Irã horas antes das eleições de meio de mandato",
-      "link": "https://www.dw.com/pt-br/eua-atingem-alvos-no-irã-horas-antes-das-eleições-de-meio-de-mandato/a-79838355?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-03T11:51:00.000Z",
-      "summary": "Autoridades americanas descreveram os ataques à ilha de Qeshm como de natureza limitada e defensiva. Guerra impopular contra o Irã e o impacto dela nos preços são problema para Trump e republicanos.",
-      "source": "DW Brasil",
-      "cat": "internacional"
-    },
-    {
       "title": "Quem vai ganhar as midterms? Os gráficos que mostram como a eleição dos EUA será decidida",
       "link": "https://www.bbc.com/portuguese/articles/crlyklw8xxnyo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-03T10:51:38.000Z",
       "summary": "Confira uma análise das principais pesquisas, disputas eleitorais e questões que antecedem a eleição desta terça-feira que definirá os dois últimos anos de Trump como presidente.",
-      "source": "BBC News Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "Eleições nos EUA: como apoio a Israel e guerra em Gaza afetam disputa ao Senado",
-      "link": "https://www.bbc.com/portuguese/articles/cqx29rkmp87ro?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-03T09:35:49.000Z",
-      "summary": "As preocupações com o apoio dos Estados Unidos a Israel estão motivando eleitores de ambos os lados da questão em uma das campanhas mais disputadas das eleições americanas de meio de mandato.",
       "source": "BBC News Brasil",
       "cat": "internacional"
     },
