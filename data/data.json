@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-02T23:55:40.466Z",
+  "updated": "2026-11-03T00:52:46.435Z",
   "market": {
     "ibov": {
       "price": 167921.8,
       "pct": -0.75,
-      "time": "2026-11-02T23:55:34.124Z",
+      "time": "2026-11-03T00:52:39.871Z",
       "history": [
         {
           "d": "2026-10-05",
@@ -137,6 +137,14 @@
   },
   "news": [
     {
+      "title": "Como foi o El Niño histórico de 1877, quando passagem do fenômeno se tornou um desastre global",
+      "link": "https://www.bbc.com/portuguese/watch/cr9dz8gvn0j4o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-02T22:46:46.000Z",
+      "summary": "Fenômeno contribuiu para a morte de 50 milhões de pessoas, 3% da população mundial na época, e traz ensinamentos para a passagem atual.",
+      "source": "BBC News Brasil",
+      "cat": "internacional"
+    },
+    {
       "title": "Ursos se proliferam na Rússia e já mataram 30 em 2026",
       "link": "https://www.dw.com/pt-br/ursos-se-proliferam-na-rússia-e-já-mataram-30-em-2026/a-79834503?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-02T21:24:00.000Z",
@@ -150,14 +158,6 @@
       "date": "2026-11-02T20:43:00.000Z",
       "summary": "Pressionado, governo francês promete bilhões de euros extras para o ensino apesar de o país já enfrentar dificuldades com uma dívida pública que chega a 120% do PIB.",
       "source": "DW Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "Netflix recria experimento controverso de Stanford: estudo abusivo pode virar reality show?",
-      "link": "https://www.bbc.com/portuguese/articles/c60rldq2j9p8o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-02T20:36:55.000Z",
-      "summary": "O serviço de streaming transformou o Experimento de Aprisionamento de Stanford, controverso estudo de 1971 do psicólogo americano Philip Zimbardo, em uma série de reality show de seis episódios, reacendendo um antigo debate.",
-      "source": "BBC News Brasil",
       "cat": "internacional"
     },
     {
