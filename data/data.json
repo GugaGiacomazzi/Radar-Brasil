@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-03T11:15:15.786Z",
+  "updated": "2026-11-03T12:04:43.955Z",
   "market": {
     "ibov": {
       "price": 167921.8,
       "pct": -0.75,
-      "time": "2026-11-03T11:15:10.416Z",
+      "time": "2026-11-03T12:04:39.171Z",
       "history": [
         {
           "d": "2026-10-05",
@@ -137,6 +137,30 @@
   },
   "news": [
     {
+      "title": "Comissão aprova divulgação de notas fiscais de compras feitas por órgãos públicos",
+      "link": "https://www.camara.leg.br/noticias/1314944-comissao-aprova-divulgacao-de-notas-fiscais-de-compras-feitas-por-orgaos-publicos",
+      "date": "2026-11-03T12:34:00.000Z",
+      "summary": "Projeto segue em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "EUA atingem alvos no Irã horas antes das eleições de meio de mandato",
+      "link": "https://www.dw.com/pt-br/eua-atingem-alvos-no-irã-horas-antes-das-eleições-de-meio-de-mandato/a-79838355?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-03T11:51:00.000Z",
+      "summary": "Autoridades americanas descreveram os ataques à ilha de Qeshm como de natureza limitada e defensiva. Guerra impopular contra o Irã e o impacto dela nos preços são problema para Trump e republicanos.",
+      "source": "DW Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "Comissão debate implementação da Política Nacional de Minerais Críticos e Estratégicos",
+      "link": "https://www.camara.leg.br/noticias/1314763-comissao-debate-implementacao-da-politica-nacional-de-minerais-criticos-e-estrategicos",
+      "date": "2026-11-03T11:20:00.000Z",
+      "summary": "",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
       "title": "Quem vai ganhar as midterms? Os gráficos que mostram como a eleição dos EUA será decidida",
       "link": "https://www.bbc.com/portuguese/articles/crlyklw8xxnyo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-03T10:51:38.000Z",
@@ -225,14 +249,6 @@
       "cat": "internacional"
     },
     {
-      "title": "Manifestação da Geração Z agita a Alemanha: “Só queremos que nos ouçam”",
-      "link": "https://www.dw.com/pt-br/manifestação-da-geração-z-agita-a-alemanha-só-queremos-que-nos-ouçam/a-79823403?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-01T16:30:00.000Z",
-      "summary": "Ministro do Interior da Alemanha condenou a violência nas manifestações e responsabilizou \"extremistas de esquerda\". Manifestantes acusam a imprensa e políticos de forçar debate sobre violência mesmo antes dos atos.",
-      "source": "DW Brasil",
-      "cat": "internacional"
-    },
-    {
       "title": "Davi marca para terça votação da PEC da Segurança",
       "link": "https://www12.senado.leg.br/noticias/materias/2026/10/30/davi-marca-para-terca-votacao-da-pec-da-seguranca",
       "date": "2026-10-30T23:10:23.000Z",
@@ -257,14 +273,6 @@
       "cat": "politica"
     },
     {
-      "title": "Comissão debate implementação da Política Nacional de Minerais Críticos e Estratégicos",
-      "link": "https://www.camara.leg.br/noticias/1314763-comissao-debate-implementacao-da-politica-nacional-de-minerais-criticos-e-estrategicos",
-      "date": "2026-10-29T20:59:00.000Z",
-      "summary": "",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
       "title": "Comissão aprova medidas para fortalecer combate ao câncer de próstata",
       "link": "https://www.camara.leg.br/noticias/1314937-comissao-aprova-medidas-para-fortalecer-combate-ao-cancer-de-prostata",
       "date": "2026-10-29T20:51:00.000Z",
@@ -281,14 +289,6 @@
       "cat": "politica"
     },
     {
-      "title": "Projeto cria regras para reaproveitar plataformas de petróleo para outros usos",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/29/projeto-cria-regras-para-reaproveitar-plataformas-de-petroleo-para-outros-usos",
-      "date": "2026-10-29T20:27:15.000Z",
-      "summary": "O Senado vai analisar um projeto de lei que estabelece regras para a desativação e o reaproveitamento de plataformas e instalações marítimas usadas na exploração de petróleo e gás natural. O objetivo é permitir o uso das estruturas para novas atividades e redu",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
       "title": "Comissão aprova acessibilidade para exames de prevenção ao câncer em mulheres com deficiência",
       "link": "https://www.camara.leg.br/noticias/1314742-comissao-aprova-acessibilidade-para-exames-de-prevencao-ao-cancer-em-mulheres-com-deficiencia",
       "date": "2026-10-29T20:17:00.000Z",
@@ -301,14 +301,6 @@
       "link": "https://www.camara.leg.br/noticias/1314930-comissao-aprova-acessibilidade-em-paginas-de-escolas-na-internet",
       "date": "2026-10-29T20:00:00.000Z",
       "summary": "Proposta segue em análise na Câmara",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão aprova proposta que tipifica lesbocídio no Código Penal",
-      "link": "https://www.camara.leg.br/noticias/1314858-comissao-aprova-proposta-que-tipifica-lesbocidio-no-codigo-penal",
-      "date": "2026-10-29T19:20:00.000Z",
-      "summary": "Texto também inclui estupro corretivo lesbofóbico como causa de aumento de pena; projeto de lei segue em análise na Câmara",
       "source": "Agência Câmara",
       "cat": "politica"
     },
