@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-03T01:56:21.755Z",
+  "updated": "2026-11-03T02:47:40.448Z",
   "market": {
     "ibov": {
       "price": 167921.8,
       "pct": -0.75,
-      "time": "2026-11-03T01:56:14.285Z",
+      "time": "2026-11-03T02:47:36.207Z",
       "history": [
         {
           "d": "2026-10-05",
@@ -145,6 +145,14 @@
       "cat": "internacional"
     },
     {
+      "title": "Merz defende que Alemanha tenha primeira presidente mulher",
+      "link": "https://www.dw.com/pt-br/merz-defende-que-alemanha-tenha-primeira-presidente-mulher/a-79834919?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-02T22:23:00.000Z",
+      "summary": "Chanceler federal alemão diz que possível sucessora de Frank-Walter Steinmeier deve vir de seu partido. Se eleita, candidata seria a primeira a ocupar a presidência em 77 anos de República Federal.",
+      "source": "DW Brasil",
+      "cat": "internacional"
+    },
+    {
       "title": "Ursos se proliferam na Rússia e já mataram 30 em 2026",
       "link": "https://www.dw.com/pt-br/ursos-se-proliferam-na-rússia-e-já-mataram-30-em-2026/a-79834503?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-02T21:24:00.000Z",
@@ -197,14 +205,6 @@
       "link": "https://www.dw.com/pt-br/alemanha-pena-para-achar-um-depósito-definitivo-para-seu-lixo-nuclear/a-79832894?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-02T19:09:00.000Z",
       "summary": "Finlândia é o primeiro país a ter um depósito definitivo para resíduos nucleares. Maioria dos países, como a Alemanha, continua procurando.",
-      "source": "DW Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "Sem dedicação exclusiva, prefeitos voluntários administram milhares de cidades e vilarejos na Alemanha",
-      "link": "https://www.dw.com/pt-br/sem-dedicação-exclusiva-prefeitos-voluntários-administram-milhares-de-cidades-e-vilarejos-na-alemanha/a-79806521?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-02T19:01:00.000Z",
-      "summary": "Em milhares de municípios alemães, moradores assumem a prefeitura em modelo de trabalho voluntário. Mas burocracia e ameaças têm afastado pretendentes.",
       "source": "DW Brasil",
       "cat": "internacional"
     },
