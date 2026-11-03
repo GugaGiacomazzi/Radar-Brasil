@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-03T13:30:07.849Z",
+  "updated": "2026-11-03T14:33:21.639Z",
   "market": {
     "ibov": {
-      "price": 165663.19,
-      "pct": -1.35,
-      "time": "2026-11-03T13:29:46.554Z",
+      "price": 165138.08,
+      "pct": -1.66,
+      "time": "2026-11-03T14:33:15.554Z",
       "history": [
         {
           "d": "2026-10-05",
@@ -84,7 +84,7 @@
         },
         {
           "d": "2026-11-03",
-          "c": 165663.1875
+          "c": 165028.5938
         }
       ]
     },
@@ -141,11 +141,43 @@
   },
   "news": [
     {
+      "title": "Comissão aprova diretrizes para atender pacientes com condições pós-Covid no SUS",
+      "link": "https://www.camara.leg.br/noticias/1315082-comissao-aprova-diretrizes-para-atender-pacientes-com-condicoes-pos-covid-no-sus",
+      "date": "2026-11-03T15:15:00.000Z",
+      "summary": "Proposta define parâmetros para diagnóstico precoce, tratamento e acompanhamento contínuo; o texto continua em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Comissão aprova isenção de taxa da carteira de habilitação para motoristas de veículos de emergência",
+      "link": "https://www.camara.leg.br/noticias/1315104-comissao-aprova-isencao-de-taxa-da-carteira-de-habilitacao-para-motoristas-de-veiculos-de-emergencia",
+      "date": "2026-11-03T14:37:00.000Z",
+      "summary": "Texto segue em análise na Câmara do Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Avança regulamentação da profissão de audiodescritor",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/03/avanca-regulamentacao-da-profissao-de-audiodescritor",
+      "date": "2026-11-03T14:16:03.000Z",
+      "summary": "A Comissão de Educação e Cultura (CE) aprovou nesta terça-feira (3) projeto que regulamenta a profissão de audiodescritor, profissional responsável por traduzir imagens em palavras para pessoas com deficiência visual. A proposta estabelece quem pode ser audiod",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
       "title": "Proposta assegura exame periódico no SUS para pessoas com diabetes",
       "link": "https://www.camara.leg.br/noticias/1315076-proposta-assegura-exame-periodico-no-sus-para-pessoas-com-diabetes",
       "date": "2026-11-03T14:09:00.000Z",
       "summary": "Para virar lei, proposta precisa ser aprovada pela Câmara e pelo Senado",
       "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "CE aprova piso salarial nacional para profissionais de apoio da educação básica",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/03/ce-aprova-piso-salarial-nacional-para-profissionais-de-apoio-da-educacao-basica",
+      "date": "2026-11-03T14:00:52.000Z",
+      "summary": "A Comissão de Educação e Cultura (CE) aprovou nesta terça-feira (3) um piso salarial nacional para os profissionais da educação básica pública que exercem funções de apoio, como merendeiras, auxiliares de limpeza e secretários escolares. O valor será equivalen",
+      "source": "Agência Senado",
       "cat": "politica"
     },
     {
@@ -269,38 +301,6 @@
       "cat": "internacional"
     },
     {
-      "title": "Davi marca para terça votação da PEC da Segurança",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/30/davi-marca-para-terca-votacao-da-pec-da-seguranca",
-      "date": "2026-10-30T23:10:23.000Z",
-      "summary": "O presidente do Senado, Davi Alcolumbre, marcou para terça-feira (3) a votação da Proposta de Emenda à Constituição (PEC) 18/2025, que amplia a integração entre os órgãos de segurança pública para o combate ao crime organizado. A ordem do dia está agendada par",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
-      "title": "Davi celebra terceira descoberta de petróleo em poço no litoral do Amapá",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/29/davi-celebra-terceira-descoberta-de-petroleo-em-poco-no-litoral-do-amapa",
-      "date": "2026-10-29T23:53:08.000Z",
-      "summary": "O presidente do Senado, Davi Alcolumbre, celebrou nesta quinta-feria (29) a terceira descoberta de petróleo em um mesmo poço localizado na bacia da Foz do Amazonas, no litoral do Amapá. O anúncio foi feito pela Petrobras. De acordo com a empresa, o novo achado",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão aprova medidas para fortalecer combate ao câncer de próstata",
-      "link": "https://www.camara.leg.br/noticias/1314937-comissao-aprova-medidas-para-fortalecer-combate-ao-cancer-de-prostata",
-      "date": "2026-10-29T20:51:00.000Z",
-      "summary": "Proposta segue em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão aprova política nacional de inclusão e letramento digital para pessoas idosas",
-      "link": "https://www.camara.leg.br/noticias/1314934-comissao-aprova-politica-nacional-de-inclusao-e-letramento-digital-para-pessoas-idosas",
-      "date": "2026-10-29T20:31:00.000Z",
-      "summary": "Para virar lei, o projeto terá de ser aprovado pela Câmara e pelo Senado",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
       "title": "BC divulga Estatísticas Fiscais à imprensa",
       "link": "https://www.bcb.gov.br/detalhenoticia/21306/nota",
       "date": "2026-10-29T17:03:09.000Z",
@@ -349,8 +349,5 @@
       "cat": "economia"
     }
   ],
-  "errors": [
-    "IPCA 12m (SGS 13522): HTTP 502",
-    "feed Planalto (governo): nenhum item no feed (endereço mudou?)"
-  ]
+  "errors": []
 }
