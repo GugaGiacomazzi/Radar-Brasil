@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-03T23:21:48.526Z",
+  "updated": "2026-11-04T00:16:00.361Z",
   "market": {
     "ibov": {
       "price": 165528.92,
       "pct": -1.42,
-      "time": "2026-11-03T23:21:43.068Z",
+      "time": "2026-11-04T00:15:55.068Z",
       "history": [
         {
           "d": "2026-10-05",
@@ -141,10 +141,42 @@
   },
   "news": [
     {
+      "title": "Senado aprova PEC da Segurança sem redução da maioridade penal",
+      "link": "https://www.camara.leg.br/noticias/1315539-senado-aprova-pec-da-seguranca-sem-reducao-da-maioridade-penal",
+      "date": "2026-11-03T23:54:00.000Z",
+      "summary": "No plenário da Câmara, deputados divergiram em relação à medida",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "EMBEDAR VÍDEO Por que urnas sem voto para Flávio não indicam fraude eleitoral",
+      "link": "https://www.dw.com/pt-br/embedar-vídeo-por-que-urnas-sem-voto-para-flávio-não-indicam-fraude-eleitoral/a-79831431?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-03T23:39:00.000Z",
+      "summary": "Redes bolsonaristas propagam desinformação recorrendo a casos isolados de seções unânimes. Mas votos depositados são poucos, e casos parecidos ocorreram em todos os pleitos desde 2002.",
+      "source": "DW Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "Hugo Motta destaca aprovação da PEC da Segurança Pública pelo Senado",
+      "link": "https://www.camara.leg.br/noticias/1315533-hugo-motta-destaca-aprovacao-da-pec-da-seguranca-publica-pelo-senado",
+      "date": "2026-11-03T23:31:00.000Z",
+      "summary": "O Senado aprovou na noite desta terça-feira (3) a proposta de emenda à Constituição, em dois turnos de votação",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Senado aprova PEC da Segurança Pública sem redução da maioridade penal",
+      "link": "https://www.dw.com/pt-br/senado-aprova-pec-da-segurança-pública-sem-redução-da-maioridade-penal/a-79848858?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-03T23:28:00.000Z",
+      "summary": "Proposta acatada por unanimidade torna a União corresponsável no combate ao crime organizado e amplia a integração das forças de segurança. Idade para responder por crimes será analisada separadamente.",
+      "source": "DW Brasil",
+      "cat": "internacional"
+    },
+    {
       "title": "Senado aprova PEC da Segurança Pública sem redução da maioridade penal",
       "link": "https://www12.senado.leg.br/noticias/materias/2026/11/03/senado-aprova-pec-da-seguranca-publica-sem-reducao-da-maioridade-penal",
       "date": "2026-11-03T22:59:24.000Z",
-      "summary": "O Senado aprovou nesta terça-feira (3) a PEC 18/2025, conhecida como PEC da Segurança Pública, que amplia a integração entre os órgãos de segurança e fortalece o combate ao crime organizado. A PEC foi aprovada por unanimidade, com 73 votos favoráveis em primei",
+      "summary": "O Senado aprovou nesta terça-feira (3) a PEC 18/2025, conhecida como PEC da Segurança Pública, que visa ampliar a integração entre os órgãos de segurança e fortalecer o combate ao crime organizado. A PEC foi aprovada por unanimidade, com 73 votos favoráveis em",
       "source": "Agência Senado",
       "cat": "politica"
     },
@@ -185,22 +217,6 @@
       "link": "https://www.camara.leg.br/noticias/1315314-comissao-debate-denuncia-sobre-existencia-de-plataforma-digital-com-conteudo-de-abuso-sexual-infantil",
       "date": "2026-11-03T21:26:00.000Z",
       "summary": "",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Projeto que permite convênios para reduzir o prazo de concessão de patentes segue para análise do Senado",
-      "link": "https://www.camara.leg.br/noticias/1315402-projeto-que-permite-convenios-para-reduzir-o-prazo-de-concessao-de-patentes-segue-para-analise-do-senado",
-      "date": "2026-11-03T21:23:00.000Z",
-      "summary": "A Câmara rejeitou recurso para votação da proposta pelo Plenário",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão aprova regras mais duras para crimes contra o patrimônio praticados com violência",
-      "link": "https://www.camara.leg.br/noticias/1315389-comissao-aprova-regras-mais-duras-para-crimes-contra-o-patrimonio-praticados-com-violencia",
-      "date": "2026-11-03T20:59:00.000Z",
-      "summary": "Proposta condiciona a progressão de regime de reincidentes à reparação do dano; texto ainda será analisado pelo Plenário",
       "source": "Agência Câmara",
       "cat": "politica"
     },
@@ -253,27 +269,11 @@
       "cat": "internacional"
     },
     {
-      "title": "Alemanha enfrenta pressão para reconhecer genocídio colonial e reparar descendentes na Namíbia",
-      "link": "https://www.dw.com/pt-br/alemanha-enfrenta-pressão-para-reconhecer-genocídio-colonial-e-reparar-descendentes-na-namíbia/a-79844930?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-03T16:48:00.000Z",
-      "summary": "Partidos da oposição puxam debate sobre o genocídio perpetrado pelo Império Alemão no país africano no início do século 20. Movimento finalmente impulsionará avanços no enfrentamento dos crimes coloniais?",
-      "source": "DW Brasil",
-      "cat": "internacional"
-    },
-    {
       "title": "O que são as eleições de meio de mandato dos EUA e por que elas podem selar o futuro de Trump?",
       "link": "https://www.bbc.com/portuguese/articles/cwg7xpyd1jrgo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-03T16:20:58.000Z",
       "summary": "Os eleitores dos EUA irão às urnas na terça-feira em uma votação que poderá ter grande impacto na presidência de Donald Trump.",
       "source": "BBC News Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "Midterms podem trazer vitórias históricas para mulheres nos EUA",
-      "link": "https://www.dw.com/pt-br/midterms-podem-trazer-vitórias-históricas-para-mulheres-nos-eua/a-79837957?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-03T12:28:00.000Z",
-      "summary": "Mulheres são sub-representadas em todos os níveis da política dos EUA. Mas, nas atuais eleições de meio de mandato, elas podem conquistar alguns feitos históricos.",
-      "source": "DW Brasil",
       "cat": "internacional"
     },
     {
