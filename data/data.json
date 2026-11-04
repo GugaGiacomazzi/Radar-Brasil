@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-04T06:40:44.624Z",
+  "updated": "2026-11-04T08:17:15.914Z",
   "market": {
     "ibov": {
       "price": 165528.92,
       "pct": -1.42,
-      "time": "2026-11-04T06:40:39.056Z",
+      "time": "2026-11-04T08:17:11.121Z",
       "history": [
         {
           "d": "2026-10-05",
@@ -143,16 +143,16 @@
     {
       "title": "As viradas democratas que definiram a disputa pelo Senado nos EUA",
       "link": "https://www.bbc.com/portuguese/articles/crn8wnw3eq0wo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-04T06:39:58.000Z",
+      "date": "2026-11-04T07:58:57.000Z",
       "summary": "Em cinco dos sete Estados em que as disputadas eram consideradas indefinidas e acirradas, as projeções já indicam vitória dos democratas.",
       "source": "BBC News Brasil",
       "cat": "internacional"
     },
     {
-      "title": "Democratas vencem no Senado e na Câmara e assumem controle do Congresso, indica projeção",
-      "link": "https://www.dw.com/pt-br/democratas-vencem-no-senado-e-na-câmara-e-assumem-controle-do-congresso-indica-projeção/live-79849879?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-04T06:38:00.000Z",
-      "summary": "Projeção da agência AP indica que oposição democrata conquista maioria em ambas as câmaras do Congresso, em forte derrota de Trump. Acompanhe ao vivo.",
+      "title": "Democratas obtêm maioria no Congresso e impõem derrota a Trump",
+      "link": "https://www.dw.com/pt-br/democratas-obtêm-maioria-no-congresso-e-impõem-derrota-a-trump/live-79849879?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-04T07:03:00.000Z",
+      "summary": "Projeção da agência AP indica que oposição democrata conquista maioria na Câmara dos Representantes e no Senado, em forte derrota de Trump e dos republicanos. Acompanhe ao vivo.",
       "source": "DW Brasil",
       "cat": "internacional"
     },
