@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-04T05:36:17.126Z",
+  "updated": "2026-11-04T06:40:44.624Z",
   "market": {
     "ibov": {
       "price": 165528.92,
       "pct": -1.42,
-      "time": "2026-11-04T05:36:11.414Z",
+      "time": "2026-11-04T06:40:39.056Z",
       "history": [
         {
           "d": "2026-10-05",
@@ -141,6 +141,22 @@
   },
   "news": [
     {
+      "title": "As viradas democratas que definiram a disputa pelo Senado nos EUA",
+      "link": "https://www.bbc.com/portuguese/articles/crn8wnw3eq0wo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-04T06:39:58.000Z",
+      "summary": "Em cinco dos sete Estados em que as disputadas eram consideradas indefinidas e acirradas, as projeções já indicam vitória dos democratas.",
+      "source": "BBC News Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "Democratas vencem no Senado e na Câmara e assumem controle do Congresso, indica projeção",
+      "link": "https://www.dw.com/pt-br/democratas-vencem-no-senado-e-na-câmara-e-assumem-controle-do-congresso-indica-projeção/live-79849879?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-04T06:38:00.000Z",
+      "summary": "Projeção da agência AP indica que oposição democrata conquista maioria em ambas as câmaras do Congresso, em forte derrota de Trump. Acompanhe ao vivo.",
+      "source": "DW Brasil",
+      "cat": "internacional"
+    },
+    {
       "title": "Amy Acton vence a eleição para governadora de Ohio após disputa acirrada com o bilionário Ramaswamy",
       "link": "https://www.bbc.com/portuguese/articles/cm62y492gxd8o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-04T05:30:10.000Z",
@@ -169,14 +185,6 @@
       "link": "https://www.bbc.com/portuguese/articles/cjx23k27vdxzo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-04T04:34:48.000Z",
       "summary": "Em uma das disputas mais observadas dessa eleição nos EUA, candidato democrata derrotou Ken Paxton",
-      "source": "BBC News Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "As sete disputas para o Senado que podem definir futuro do governo Trump",
-      "link": "https://www.bbc.com/portuguese/articles/crn8wnw3eq0wo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-04T03:18:17.000Z",
-      "summary": "Todas as atenções estão voltadas para algumas disputas para o Senado que decidirão o controle da cobiçada câmara alta. Aqui está um guia rápido.",
       "source": "BBC News Brasil",
       "cat": "internacional"
     },
@@ -281,14 +289,6 @@
       "link": "https://www.dw.com/pt-br/trump-anuncia-fim-de-ajuda-anual-de-us-4-bilhões-a-israel/a-79846151?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-03T17:35:00.000Z",
       "summary": "No dia das eleições de meio de mandato, presidente dos EUA afirmou que os repasses de caráter militar e econômico serão encerrados. Comercialização de armamentos seguirá em vigor.",
-      "source": "DW Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "Brasil lança plano de ação global para transição energética",
-      "link": "https://www.dw.com/pt-br/brasil-lança-plano-de-ação-global-para-transição-energética/a-79845717?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-03T17:27:00.000Z",
-      "summary": "País encerra presidência do processo climático da ONU anunciando roteiro para conter desmatamento e acelerar a fim dos combustíveis fósseis, com base em acordos já existentes em vez da formulação de novas promessas.",
       "source": "DW Brasil",
       "cat": "internacional"
     },
