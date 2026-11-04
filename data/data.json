@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-04T10:28:44.631Z",
+  "updated": "2026-11-04T11:35:59.048Z",
   "market": {
     "ibov": {
       "price": 165528.92,
       "pct": -1.42,
-      "time": "2026-11-04T10:28:40.299Z",
+      "time": "2026-11-04T11:35:53.338Z",
       "history": [
         {
           "d": "2026-10-05",
@@ -141,9 +141,81 @@
   },
   "news": [
     {
-      "title": "Trump reconhece resultado da eleição, diz que democratas 'fizeram bom trabalho' e critica republicanos",
+      "title": "Entenda a PEC da Segurança Pública, aprovada no Senado",
+      "link": "https://www.dw.com/pt-br/entenda-a-pec-da-segurança-pública-aprovada-no-senado/a-76232387?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-04T11:24:00.000Z",
+      "summary": "Texto que constitucionaliza o combate ao crime organizado e a cooperação entre União, estados e municípios. Nova regra ainda abre caminho para a criação do Ministério da Segurança Pública.",
+      "source": "DW Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "Comissão debate dispensa de laudo médico para atendimento de alunos da educação especial",
+      "link": "https://www.camara.leg.br/noticias/1315372-comissao-debate-dispensa-de-laudo-medico-para-atendimento-de-alunos-da-educacao-especial",
+      "date": "2026-11-04T11:17:00.000Z",
+      "summary": "Audiência será promovida pela subcomissão que analisa projeto sobre o assunto",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Comissão debate denúncia sobre existência de plataforma digital com conteúdo de abuso sexual infantil",
+      "link": "https://www.camara.leg.br/noticias/1315314-comissao-debate-denuncia-sobre-existencia-de-plataforma-digital-com-conteudo-de-abuso-sexual-infantil",
+      "date": "2026-11-04T11:15:00.000Z",
+      "summary": "",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Eleições nos EUA: quem são os grandes vencedores",
+      "link": "https://www.bbc.com/portuguese/articles/cmd7q9ep09z8o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-04T11:13:12.000Z",
+      "summary": "Conheça alguns dos principais nomes da chamada onda azul democrata, que conquistou uma vitória esmagadora nesta terça-feira, em um duro revés para as políticas de Donald Trump.",
+      "source": "BBC News Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "Comissões debatem projeto para ampliar a concorrência no mercado de gás natural",
+      "link": "https://www.camara.leg.br/noticias/1314776-comissoes-debatem-projeto-para-ampliar-a-concorrencia-no-mercado-de-gas-natural",
+      "date": "2026-11-04T11:12:00.000Z",
+      "summary": "",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Comissão debate contribuições do Brasil para a COP-31 nesta quarta-feira; participe",
+      "link": "https://www.camara.leg.br/noticias/1315308-comissao-debate-contribuicoes-do-brasil-para-a-cop-31-nesta-quarta-feira-participe",
+      "date": "2026-11-04T11:10:00.000Z",
+      "summary": "Conferência sobre Mudança do Clima será realizada de 9 a 20 de novembro, em Antalya, na Turquia",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Comissão debate projeto que cria Marco de Fomento à Economia Digital no Brasil",
+      "link": "https://www.camara.leg.br/noticias/1314773-comissao-debate-projeto-que-cria-marco-de-fomento-a-economia-digital-no-brasil",
+      "date": "2026-11-04T11:08:00.000Z",
+      "summary": "",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Comissão aprova presença de instrutor em exame para obtenção da Carteira de Habilitação",
+      "link": "https://www.camara.leg.br/noticias/1315206-comissao-aprova-presenca-de-instrutor-em-exame-para-obtencao-da-carteira-de-habilitacao",
+      "date": "2026-11-04T11:08:00.000Z",
+      "summary": "Saiba mais sobre a tramitação de projetos de lei",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Análise: democratas avançam sobre território de Trump com vitórias históricas",
+      "link": "https://www.bbc.com/portuguese/articles/cr1ex57zlqj2o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-04T10:54:38.000Z",
+      "summary": "Algumas disputas para o Senado, que há um ano eram consideradas acirradas, acabaram se tornando vitórias fáceis para os democratas.",
+      "source": "BBC News Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "Trump diz que vai reconhecer resultado da eleição, que democratas 'fizeram bom trabalho' e critica republicanos",
       "link": "https://www.bbc.com/portuguese/articles/cw146dj0regko?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-04T10:17:08.000Z",
+      "date": "2026-11-04T10:31:13.000Z",
       "summary": "Presidente dos EUA escreveu na plataforma Truth Social que os republicanos teriam vencido 'com uma vitória esmagadora' se seu nome estivesse na cédula eleitoral.",
       "source": "BBC News Brasil",
       "cat": "internacional"
@@ -173,44 +245,12 @@
       "cat": "internacional"
     },
     {
-      "title": "Republicanos da Flórida derrotam democratas e Estado elege primeiro governador negro",
-      "link": "https://www.bbc.com/portuguese/articles/cm75p0lp5g1ro?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-04T05:23:54.000Z",
-      "summary": "O republicano Byron Donalds, apoiado pelo presidente Donald Trump, será o primeiro governador negro da Flórida.",
-      "source": "BBC News Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "Análise: Partido Democrata toma territórios republicanos com vitórias históricas",
-      "link": "https://www.bbc.com/portuguese/articles/cr1ex57zlqj2o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-04T04:48:11.000Z",
-      "summary": "Duas disputas para o Senado, que há um ano eram consideradas acirradas, acabaram se tornando vitórias fáceis para os democratas.",
-      "source": "BBC News Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "Senado aprova PEC da Segurança sem redução da maioridade penal",
-      "link": "https://www.camara.leg.br/noticias/1315539-senado-aprova-pec-da-seguranca-sem-reducao-da-maioridade-penal",
-      "date": "2026-11-03T23:54:00.000Z",
-      "summary": "No plenário da Câmara, deputados divergiram em relação à medida",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
       "title": "Por que urnas sem voto para Flávio não indicam fraude eleitoral",
       "link": "https://www.dw.com/pt-br/por-que-urnas-sem-voto-para-flávio-não-indicam-fraude-eleitoral/a-79831431?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-03T23:39:00.000Z",
       "summary": "Redes bolsonaristas propagam desinformação recorrendo a casos isolados de seções unânimes. Mas votos depositados são poucos, e casos parecidos ocorreram em todos os pleitos desde 2002.",
       "source": "DW Brasil",
       "cat": "internacional"
-    },
-    {
-      "title": "Hugo Motta destaca aprovação da PEC da Segurança Pública pelo Senado",
-      "link": "https://www.camara.leg.br/noticias/1315533-hugo-motta-destaca-aprovacao-da-pec-da-seguranca-publica-pelo-senado",
-      "date": "2026-11-03T23:31:00.000Z",
-      "summary": "O Senado aprovou na noite desta terça-feira (3) a proposta de emenda à Constituição, em dois turnos de votação",
-      "source": "Agência Câmara",
-      "cat": "politica"
     },
     {
       "title": "Senado aprova PEC da Segurança Pública sem redução da maioridade penal",
@@ -229,43 +269,11 @@
       "cat": "politica"
     },
     {
-      "title": "Eduardo Braga será o relator-geral do Orçamento 2027",
-      "link": "https://www.camara.leg.br/noticias/1315522-eduardo-braga-sera-o-relator-geral-do-orcamento-2027",
-      "date": "2026-11-03T22:53:00.000Z",
-      "summary": "",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Ministro garante “absoluta prioridade” na implementação da Política de Minerais Críticos e Estratégicos",
-      "link": "https://www.camara.leg.br/noticias/1315488-ministro-garante-absoluta-prioridade-na-implementacao-da-politica-de-minerais-criticos-e-estrategicos",
-      "date": "2026-11-03T22:49:00.000Z",
-      "summary": "Uma lei que entrou em vigor em setembro traz regras para exploração desses minerais considerados fundamentais na produção de tecnologias como smartphones e carros elétricos",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
       "title": "Senado aprova Setembro em Flor, campanha contra o câncer ginecológico",
       "link": "https://www12.senado.leg.br/noticias/materias/2026/11/03/senado-aprova-setembro-em-flor-campanha-contra-o-cancer-ginecologico",
       "date": "2026-11-03T22:21:51.000Z",
       "summary": "O Senado aprovou nesta terça-feira (3) um projeto (PL 5.782/2023) que oficializa a campanha Setembro em Flor, destinada a conscientizar a população sobre a prevenção e o diagnóstico precoce dos cânceres ginecológicos. A proposta segue para sanção presidencial.",
       "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão debate dispensa de laudo médico para atendimento de alunos da educação especial",
-      "link": "https://www.camara.leg.br/noticias/1315372-comissao-debate-dispensa-de-laudo-medico-para-atendimento-de-alunos-da-educacao-especial",
-      "date": "2026-11-03T22:18:00.000Z",
-      "summary": "Audiência será promovida pela subcomissão que analisa projeto sobre o assunto",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão debate denúncia sobre existência de plataforma digital com conteúdo de abuso sexual infantil",
-      "link": "https://www.camara.leg.br/noticias/1315314-comissao-debate-denuncia-sobre-existencia-de-plataforma-digital-com-conteudo-de-abuso-sexual-infantil",
-      "date": "2026-11-03T21:26:00.000Z",
-      "summary": "",
-      "source": "Agência Câmara",
       "cat": "politica"
     },
     {
@@ -281,14 +289,6 @@
       "link": "https://www.dw.com/pt-br/eleição-nos-eua-pode-aliviar-pressão-de-trump-sobre-o-brasil/a-79845890?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-03T19:47:00.000Z",
       "summary": "Eventual maioria democrata no Congresso deverá fiscalizar política externa do presidente, com possíveis investigações sobre fuga de Flávio Bolsonaro, Meta e tarifaço.",
-      "source": "DW Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "Trump anuncia fim de ajuda anual de US$ 4 bilhões a Israel",
-      "link": "https://www.dw.com/pt-br/trump-anuncia-fim-de-ajuda-anual-de-us-4-bilhões-a-israel/a-79846151?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-03T17:35:00.000Z",
-      "summary": "No dia das eleições de meio de mandato, presidente dos EUA afirmou que os repasses de caráter militar e econômico serão encerrados. Comercialização de armamentos seguirá em vigor.",
       "source": "DW Brasil",
       "cat": "internacional"
     },
