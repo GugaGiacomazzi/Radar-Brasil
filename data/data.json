@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-04T09:18:28.076Z",
+  "updated": "2026-11-04T10:28:44.631Z",
   "market": {
     "ibov": {
       "price": 165528.92,
       "pct": -1.42,
-      "time": "2026-11-04T09:18:22.155Z",
+      "time": "2026-11-04T10:28:40.299Z",
       "history": [
         {
           "d": "2026-10-05",
@@ -141,10 +141,18 @@
   },
   "news": [
     {
-      "title": "Republicana moderada é derrotada e perde cadeira no Senado após quase 30 anos",
-      "link": "https://www.bbc.com/portuguese/articles/cq70pdkx8wnpo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-04T08:45:04.000Z",
-      "summary": "Susan Collins tentou se distanciar do presidente Donald Trump durante sua campanha em disputa marcada por controvérsias.",
+      "title": "Trump reconhece resultado da eleição, diz que democratas 'fizeram bom trabalho' e critica republicanos",
+      "link": "https://www.bbc.com/portuguese/articles/cw146dj0regko?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-04T10:17:08.000Z",
+      "summary": "Presidente dos EUA escreveu na plataforma Truth Social que os republicanos teriam vencido 'com uma vitória esmagadora' se seu nome estivesse na cédula eleitoral.",
+      "source": "BBC News Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "Quem é Abdul El-Sayed, primeiro muçulmano eleito senador nos EUA",
+      "link": "https://www.bbc.com/portuguese/articles/c933xk7el2ggo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-04T10:02:45.000Z",
+      "summary": "Presidente Trump fez vários ataques durante a campanha contra El-Sayed, filho de imigrantes egípcios, e acusou-o de estar 'do lado dos terroristas'.",
       "source": "BBC News Brasil",
       "cat": "internacional"
     },
@@ -177,14 +185,6 @@
       "link": "https://www.bbc.com/portuguese/articles/cr1ex57zlqj2o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-04T04:48:11.000Z",
       "summary": "Duas disputas para o Senado, que há um ano eram consideradas acirradas, acabaram se tornando vitórias fáceis para os democratas.",
-      "source": "BBC News Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "James Talarico se torna o primeiro democrata a conquistar uma cadeira no Senado pelo Texas desde 1988",
-      "link": "https://www.bbc.com/portuguese/articles/cjx23k27vdxzo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-04T04:34:48.000Z",
-      "summary": "Em uma das disputas mais observadas dessa eleição nos EUA, candidato democrata derrotou Ken Paxton",
       "source": "BBC News Brasil",
       "cat": "internacional"
     },
