@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-04T22:43:11.016Z",
+  "updated": "2026-11-04T23:39:17.875Z",
   "market": {
     "ibov": {
       "price": 167563.47,
       "pct": 1.23,
-      "time": "2026-11-04T22:43:05.744Z",
+      "time": "2026-11-04T23:39:12.507Z",
       "history": [
         {
           "d": "2026-10-05",
@@ -145,18 +145,42 @@
   },
   "news": [
     {
-      "title": "Senado permite que estados e municípios renegociem dívidas durante final de mandato",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/04/senado-permite-que-estados-e-municipios-renegociem-dividas-durante-final-de-mandato",
-      "date": "2026-11-04T22:34:16.000Z",
-      "summary": "O Senado aprovou nesta quarta-feira (4) o projeto de resolução que permite a estados, Distrito Federal e municípios contratarem operações de crédito nos últimos 120 dias do mandato de governadores e prefeitos para substituir dívidas existentes por outras com c",
+      "title": "Debatedores divergem sobre projeto de lei para ampliar concorrência no mercado de gás natural",
+      "link": "https://www.camara.leg.br/noticias/1316160-debatedores-divergem-sobre-projeto-de-lei-para-ampliar-concorrencia-no-mercado-de-gas-natural",
+      "date": "2026-11-04T23:26:00.000Z",
+      "summary": "Representantes da indústria defenderam mais concorrência; ANP e Petrobras destacaram a regulação e os investimentos",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Quem são os grandes vencedores e perdedores das eleições americanas",
+      "link": "https://www.bbc.com/portuguese/articles/cmd7q9ep09z8o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-04T23:24:52.000Z",
+      "summary": "Democratas conquistaram o controle das duas Casas do Congresso e venceram disputas importantes nos Estados, enquanto Donald Trump, republicanos e aliados enfrentaram derrotas em diferentes partes do país.",
+      "source": "BBC News Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "Uso de organizações sociais em contratos na saúde é questionado em audiência no Senado",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/04/uso-de-organizacoes-sociais-em-contratos-na-saude-e-questionado-em-audiencia-no-senado",
+      "date": "2026-11-04T22:57:29.000Z",
+      "summary": "A falta de transparência, as falhas na fiscalização e o uso de organizações sociais como intermediárias para contratações irregulares estão entre os principais problemas identificados em contratos de gestão de serviços públicos de saúde. O diagnóstico foi apre",
       "source": "Agência Senado",
       "cat": "politica"
     },
     {
-      "title": "CTFC aprova proibição da redução artificial da vida útil de produtos",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/04/ctfc-aprova-proibicao-da-reducao-artificial-da-vida-util-de-produtos",
-      "date": "2026-11-04T22:25:35.000Z",
-      "summary": "A Comissão de Fiscalização e Controle (CTFC) aprovou nesta quarta-feira (4), em decisão terminativa, projeto que proíbe a chamada “obsolescência programada” — a redução proposital da vida útil dos produtos — e regulamenta o direito do consumidor ao reparo. O P",
+      "title": "Davi vai analisar questões de Randolfe sobre situação de Flávio Bolsonaro",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/04/davi-vai-analisar-questoes-de-randolfe-sobre-situacao-de-flavio-bolsonaro",
+      "date": "2026-11-04T22:46:06.000Z",
+      "summary": "O presidente do Senado, Davi Alcolumbre, afirmou nesta quarta-feira (4) que vai analisar duas questões de ordem levantadas pelo senador Randolfe Rodrigues (PT-AP) sobre a situação do senador Flávio Bolsonaro (PL-RJ), que está nos EUA desde 28 de outubro e voto",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Senado permite que estados e municípios renegociem dívidas durante final de mandato",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/04/senado-permite-que-estados-e-municipios-renegociem-dividas-durante-final-de-mandato",
+      "date": "2026-11-04T22:34:16.000Z",
+      "summary": "O Senado aprovou nesta quarta-feira (4) o projeto de resolução que permite a estados, Distrito Federal e municípios contratarem operações de crédito nos últimos 120 dias do mandato de governadores e prefeitos para substituir dívidas existentes por outras com c",
       "source": "Agência Senado",
       "cat": "politica"
     },
@@ -166,30 +190,6 @@
       "date": "2026-11-04T22:20:00.000Z",
       "summary": "Comissão mista do Congresso deve se reunir novamente nesta quinta-feira para analisar o relatório da senadora Leany Lemos",
       "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Davi Alcolumbre lamenta radicalismo e pede foco no país",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/04/davi-alcolumbre-lamenta-radicalismo-e-pede-foco-no-pais",
-      "date": "2026-11-04T22:07:59.000Z",
-      "summary": "Após uma discussão em Plenário sobre a redução da maioridade penal, o presidente do Senado e do Congresso, Davi Alcolumbre, fez críticas ao que chamou de \"radicalismo\" — que, segundo ele, se tornou um traço comum na política do país. Ele também pediu que os po",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
-      "title": "Redução da maioridade penal: Senado aguardará votação de PEC da Câmara",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/04/reducao-da-maioridade-penal-senado-aguardara-votacao-de-pec-da-camara",
-      "date": "2026-11-04T22:03:20.000Z",
-      "summary": "A redução da maioridade penal será discutida no Parlamento por meio da PEC 32/2015, atualmente em análise em comissão especial na Câmara dos Deputados. A comunicação foi feita aos senadores pelo presidente do Senado, Davi Alcolumbre, na sessão desta quarta-fei",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
-      "title": "Quem te ensinou a nadar?",
-      "link": "https://www12.senado.leg.br/noticias/infomaterias/2026/11/quem-te-ensinou-a-nadar",
-      "date": "2026-11-04T22:02:49.000Z",
-      "summary": "",
-      "source": "Agência Senado",
       "cat": "politica"
     },
     {
@@ -233,14 +233,6 @@
       "cat": "politica"
     },
     {
-      "title": "Comissão aprova presença de intérprete de Libras para acompanhar paciente surdo em hospital",
-      "link": "https://www.camara.leg.br/noticias/1315977-comissao-aprova-presenca-de-interprete-de-libras-para-acompanhar-paciente-surdo-em-hospital",
-      "date": "2026-11-04T20:53:00.000Z",
-      "summary": "Proposta poderá seguir ao Senado, a menos que haja recurso para votação pelo Plenário da Câmara",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
       "title": "'Minha filha de 13 anos sofreu ofensas racistas, sexuais e religiosas após resultado das eleições'",
       "link": "https://www.bbc.com/portuguese/articles/c6kg7ej7e73ko?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-04T20:52:50.000Z",
@@ -252,7 +244,7 @@
       "title": "Trump admite que guerra no Irã contribuiu para derrota republicana",
       "link": "https://www.dw.com/pt-br/trump-admite-que-guerra-no-irã-contribuiu-para-derrota-republicana/live-79849879?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-04T20:20:00.000Z",
-      "summary": "Presidente dos EUA reconheceu que o conflito contribuiu para o fiasco de seu partido nas eleições, mas disse que \"faria de novo\", minimizando crítica feita por seu vice, JD Vance. Acompanhe ao vivo.",
+      "summary": "Presidente dos EUA reconheceu que o conflito contribuiu para o fiasco de seu partido nas eleições, mas disse que \"faria de novo\", minimizando crítica feita por seu vice, JD Vance.",
       "source": "DW Brasil",
       "cat": "internacional"
     },
@@ -293,14 +285,6 @@
       "link": "https://www.bbc.com/portuguese/articles/cmd7q98x7944o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-04T16:48:14.000Z",
       "summary": "De eleitores revoltados a um presidente impopular, americanos em áreas tradicionalmente republicanas se voltaram para os democratas.",
-      "source": "BBC News Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "Trump diz que vai reconhecer resultado da eleição, elogia democratas e critica republicanos",
-      "link": "https://www.bbc.com/portuguese/articles/cw146dj0regko?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-04T14:59:53.000Z",
-      "summary": "Presidente dos EUA escreveu na plataforma Truth Social que os republicanos teriam vencido 'com uma vitória esmagadora' se seu nome estivesse na cédula eleitoral.",
       "source": "BBC News Brasil",
       "cat": "internacional"
     },
