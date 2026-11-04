@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-04T15:51:18.697Z",
+  "updated": "2026-11-04T16:51:30.378Z",
   "market": {
     "ibov": {
-      "price": 167400.08,
-      "pct": 1.13,
-      "time": "2026-11-04T15:51:11.519Z",
+      "price": 166826.75,
+      "pct": 0.78,
+      "time": "2026-11-04T16:51:24.518Z",
       "history": [
         {
           "d": "2026-10-05",
@@ -88,7 +88,7 @@
         },
         {
           "d": "2026-11-04",
-          "c": 167400.0781
+          "c": 166927.4688
         }
       ]
     },
@@ -145,18 +145,50 @@
   },
   "news": [
     {
-      "title": "Programa de saúde mental para pessoas idosas no SUS avança",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/04/programa-de-saude-mental-para-pessoas-idosas-no-sus-avanca",
-      "date": "2026-11-04T15:33:23.000Z",
-      "summary": "A Comissão de Direitos Humanos (CDH) aprovou nesta quarta-feira (4) projeto que cria um programa de saúde mental para pessoas idosas no Sistema Único de Saúde (SUS). A iniciativa prevê ações de prevenção, diagnóstico e tratamento de transtornos mentais. O prog",
+      "title": "Maior controle judicial sobre instituições de acolhimento de crianças vai à CCJ",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/04/maior-controle-judicial-sobre-instituicoes-de-acolhimento-de-criancas-vai-a-ccj",
+      "date": "2026-11-04T16:44:43.000Z",
+      "summary": "A Comissão de Direitos Humanos (CDH) aprovou nesta quarta-feira (4) projeto que estabelece novas regras para o acolhimento emergencial de crianças e adolescentes em instituições. O PL 1.341/2026 tem objetivo de aumentar o controle judicial dessas medidas, evit",
       "source": "Agência Senado",
       "cat": "politica"
     },
     {
-      "title": "CDH aprova Política Nacional de Enfrentamento à Violência contra a Mulher",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/04/cdh-aprova-politica-nacional-de-enfrentamento-a-violencia-contra-a-mulher",
-      "date": "2026-11-04T15:25:39.000Z",
-      "summary": "A Comissão de Direitos Humanos (CDH) aprovou nesta quarta-feira (4) projeto que institui a Política Nacional de Enfrentamento à Violência contra a Mulher. A iniciativa busca integrar e ampliar os serviços públicos de atendimento e proteção às mulheres em situa",
+      "title": "CDH rejeita mudanças da Câmara e texto sobre síndrome de Tourette vai à sanção",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/04/cdh-rejeita-mudancas-da-camara-e-texto-sobre-sindrome-de-tourette-vai-a-sancao",
+      "date": "2026-11-04T16:38:00.000Z",
+      "summary": "Pessoas com síndrome de Tourette poderão ser consideradas pessoas com deficiência (PCD) para todos os efeitos legais enquanto não forem regulamentados os instrumentos de avaliação da deficiência. A Comissão de Direitos Humanos (CDH) aprovou nesta quarta-feira ",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Avança regulamentação da profissão de cuidador com jornada de 40 horas",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/04/avanca-regulamentacao-da-profissao-de-cuidador-com-jornada-de-40-horas",
+      "date": "2026-11-04T16:12:26.000Z",
+      "summary": "A Comissão de Direitos Humanos (CDH) aprovou nesta quarta-feira (4) projeto que regulamenta a profissão de cuidador de pessoas de qualquer idade. O texto estabelece requisitos de formação, define as atribuições desses profissionais e fixa jornada máxima de 40 ",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "CDH aprova projeto que muda avaliação de serviços de atendimento a crianças",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/04/avanca-projeto-que-muda-avaliacao-de-servicos-de-atendimento-a-criancas",
+      "date": "2026-11-04T16:05:21.000Z",
+      "summary": "A Comissão de Direitos Humanos (CDH) aprovou nesta quarta-feira (4) projeto que retira da Justiça da Infância e da Juventude a atribuição de atestar a qualidade e a eficiência do trabalho realizado por entidades que atendem crianças e adolescentes. A avaliação",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Nova regra para reestruturação de dívidas de estados e municípios vai a Plenário",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/04/nova-regra-para-reestruturacao-de-dividas-de-estados-e-municipios-vai-a-plenario",
+      "date": "2026-11-04T15:53:26.000Z",
+      "summary": "A Comissão de Assuntos Econômicos (CAE) aprovou nesta quarta-feira (4), em reunião que deu continuidade ao debate iniciado na terça-feira (3), projeto de resolução que permite a estados, Distrito Federal e municípios contratar operações de crédito nos últimos ",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Programa de saúde mental para pessoas idosas no SUS avança",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/04/programa-de-saude-mental-para-pessoas-idosas-no-sus-avanca",
+      "date": "2026-11-04T15:33:23.000Z",
+      "summary": "A Comissão de Direitos Humanos (CDH) aprovou nesta quarta-feira (4) projeto que cria um programa de saúde mental para pessoas idosas no Sistema Único de Saúde (SUS). A iniciativa prevê ações de prevenção, diagnóstico e tratamento de transtornos mentais. O prog",
       "source": "Agência Senado",
       "cat": "politica"
     },
@@ -185,14 +217,6 @@
       "cat": "politica"
     },
     {
-      "title": "CCT aprova ligação gratuita para reclamação de usuário de serviço público",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/04/cct-aprova-ligacao-gratuita-para-reclamacao-de-usuario-de-servico-publico",
-      "date": "2026-11-04T14:54:40.000Z",
-      "summary": "A Comissão de Ciência, Tecnologia, Inovação e Informática (CCT) aprovou nesta quarta-feira (4) projeto que garante ligações gratuitas, de telefones fixos ou celulares, para registrar reclamações e outras manifestações sobre serviços públicos. A proposta, do se",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
       "title": "Os gráficos e mapas que mostram a magnitude do triunfo democrata",
       "link": "https://www.bbc.com/portuguese/articles/cvy0rzd2jr7jo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-04T14:44:23.000Z",
@@ -201,27 +225,11 @@
       "cat": "internacional"
     },
     {
-      "title": "Avança projeto que prevê uso de IA e drones na proteção ambiental",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/04/avanca-projeto-que-preve-uso-de-ia-e-drones-na-protecao-ambiental",
-      "date": "2026-11-04T14:39:40.000Z",
-      "summary": "A Comissão de Ciência, Tecnologia e Inovação (CCT) aprovou nesta quarta-feira (4) projeto que cria uma política nacional para o uso de inteligência artificial (IA), sensores e drones na proteção ambiental e na recuperação de áreas degradadas. A proposta prevê ",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
       "title": "Comissão aprova fim da exigência de nome civil junto ao nome social na identidade",
       "link": "https://www.camara.leg.br/noticias/1315258-comissao-aprova-fim-da-exigencia-de-nome-civil-junto-ao-nome-social-na-identidade",
       "date": "2026-11-04T14:39:00.000Z",
       "summary": "O projeto continua em análise na Câmara dos Deputados",
       "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Avança aumento de pena por filmar intimidade sexual sem autorização",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/04/avanca-aumento-de-pena-por-filmar-intimidade-sexual-sem-autorizacao",
-      "date": "2026-11-04T14:13:29.000Z",
-      "summary": "A Comissão de Ciência e Tecnologia (CCT) aprovou nesta quarta-feira (4) projeto que prevê pena de um a quatro anos de reclusão e multa para quem registra, sem autorização, a intimidade sexual de outra pessoa. A pena poderá ser aumentada pela metade em situaçõe",
-      "source": "Agência Senado",
       "cat": "politica"
     },
     {
@@ -260,7 +268,7 @@
       "title": "Quem é Gina Hinojosa, democrata de ascendência mexicana que será 1ª latina a governar o Texas",
       "link": "https://www.bbc.com/portuguese/articles/ckm23qjvm888o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-04T11:35:54.000Z",
-      "summary": "Deputada estadual derrotou Greg Abbott, um dos governadores republicanos mais proeminentes do país e aliado fiel do presidente Donald Trump.",
+      "summary": "Deputada estadual derrotou Greg Abbott nas eleições de meio mandato, um dos governadores republicanos mais proeminentes do país e aliado fiel do presidente Donald Trump.",
       "source": "BBC News Brasil",
       "cat": "internacional"
     },
@@ -281,7 +289,7 @@
       "cat": "politica"
     },
     {
-      "title": "Análise: democratas avançam sobre território de Trump com vitórias históricas",
+      "title": "Análise: 'Onda Azul ' nas midterms de 2026 que expõe perda de força de Trump pode levar a pedido de impeachment?",
       "link": "https://www.bbc.com/portuguese/articles/cr1ex57zlqj2o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-04T10:54:38.000Z",
       "summary": "Algumas disputas para o Senado, que há um ano eram consideradas acirradas, acabaram se tornando vitórias fáceis para os democratas.",
