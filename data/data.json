@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-04T20:48:48.845Z",
+  "updated": "2026-11-04T21:45:04.848Z",
   "market": {
     "ibov": {
-      "price": 167293.72,
-      "pct": 1.07,
-      "time": "2026-11-04T20:48:43.484Z",
+      "price": 167563.47,
+      "pct": 1.23,
+      "time": "2026-11-04T21:45:00.227Z",
       "history": [
         {
           "d": "2026-10-05",
@@ -88,7 +88,7 @@
         },
         {
           "d": "2026-11-04",
-          "c": 167322.0938
+          "c": 167563.4688
         }
       ]
     },
@@ -112,7 +112,7 @@
   },
   "indicators": {
     "selic": {
-      "date": "2026-11-04",
+      "date": "2026-12-09",
       "value": 13.75
     },
     "ipca12m": {
@@ -145,35 +145,107 @@
   },
   "news": [
     {
+      "title": "Aprovação de protocolo pelo Senado permitirá ao Brasil sediar 'Expos' mundiais",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/04/aprovacao-de-protocolo-pelo-senado-permitira-ao-brasil-sediar-expos-mundiais",
+      "date": "2026-11-04T21:39:57.000Z",
+      "summary": "O Plenário do Senado aprovou nesta quarta-feira (4) o texto de um protocolo que permitirá a cidades brasileiras voltarem a se candidatar a sediar exposições mundiais, as chamadas “Expos”. O PDL 359/2024, que vai à promulgação, trata de um acordo sobre direitos",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Comissão da MP do Plano Brasil Soberano 3 elege presidente, vice e relatora",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/04/comissao-da-mp-do-plano-brasil-soberano-3-elege-presidente-vice-e-relatora",
+      "date": "2026-11-04T21:36:57.000Z",
+      "summary": "Foi instalada nesta quarta-feira (4) a comissão mista — ou seja, formada por senadores e deputados federais — responsável por analisar a medida provisória que prevê linhas de crédito de R$ 18,5 bilhões, com juros subsidiados, para exportadores e setores consid",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "CRA aprova flexibilização da regularização ambiental de produtores rurais",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/04/cra-aprova-flexibilizacao-da-regularizacao-ambiental-de-produtores-rurais",
+      "date": "2026-11-04T21:35:31.000Z",
+      "summary": "A Comissão de Agricultura (CRA) aprovou nesta quarta-feira (4) projeto de lei que flexibiliza o Código Florestal para que produtores rurais possam aderir à regularização ambiental de suas terras e, ao mesmo tempo, continuar produzindo sem embargos legais. O PL",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Copom mantém a taxa Selic em 13,75% a.a.",
+      "link": "https://www.bcb.gov.br/detalhenoticia/21309/nota",
+      "date": "2026-11-04T21:31:35.000Z",
+      "summary": "",
+      "source": "Banco Central",
+      "cat": "economia"
+    },
+    {
+      "title": "Câmara aprova criação de programa para acompanhamento psicossocial de crianças e adolescentes",
+      "link": "https://www.camara.leg.br/noticias/1316057-camara-aprova-criacao-de-programa-para-acompanhamento-psicossocial-de-criancas-e-adolescentes",
+      "date": "2026-11-04T21:22:00.000Z",
+      "summary": "O projeto de lei segue para análise do Senado",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Isenção de tarifa para usinas movidas a biomassa da casca de arroz vai à CAE",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/04/isencao-de-tarifa-para-usinas-movidas-a-biomassa-da-casca-de-arroz-vai-a-cae",
+      "date": "2026-11-04T21:12:32.000Z",
+      "summary": "A Comissão de Agricultura (CRA) aprovou nesta quarta-feira (4) projeto de lei que isenta de tarifa de energia elétrica os empreendimentos que gerem eletricidade exclusivamente com biomassa da casca de arroz. O PL 5.861/2025, do senador Luis Carlos Heinze (PP-R",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Senado aprova protocolo que amplia defesa da democracia no Mercosul",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/04/senado-aprova-protocolo-que-amplia-defesa-da-democracia-no-mercosul",
+      "date": "2026-11-04T21:12:27.000Z",
+      "summary": "O Plenário do Senado aprovou nesta quarta-feira (4) o Protocolo de Montevidéu sobre Compromisso com a Democracia no Mercosul, conhecido como Ushuaia II. Assinado em 2011, o texto amplia os mecanismos de prevenção e de resposta a situações que possam ameaçar ou",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Relator da PEC da Maioridade Penal deve apresentar parecer no final do mês",
+      "link": "https://www.camara.leg.br/noticias/1316048-relator-da-pec-da-maioridade-penal-deve-apresentar-parecer-no-final-do-mes",
+      "date": "2026-11-04T21:10:00.000Z",
+      "summary": "Comissão aprovou requerimentos para a realização de audiências públicas antes da apresentação do relatório",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Congresso prevê votar Orçamento de 2027 até 17 de dezembro",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/04/congresso-preve-votar-orcamento-de-2027-ate-17-de-dezembro",
+      "date": "2026-11-04T21:01:50.000Z",
+      "summary": "O Congresso Nacional deverá votar o Orçamento Geral da União para 2027 até o dia 17 de dezembro. O prazo faz parte do cronograma de análise da proposta anunciado nesta quarta-feira (4) pelo senador Eduardo Braga (MDB-AM), relator-geral do Orçamento, durante a ",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Sessão solene celebra os 40 anos da confederação de cooperativas de crédito",
+      "link": "https://www.camara.leg.br/noticias/1315993-sessao-solene-celebra-os-40-anos-da-confederacao-de-cooperativas-de-credito",
+      "date": "2026-11-04T20:59:00.000Z",
+      "summary": "O cooperativismo financeiro alcançou recentemente o marco de R$ 1 trilhão em ativos em uma base de mais de 21 milhões de cooperados",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Comissão aprova presença de intérprete de Libras para acompanhar paciente surdo em hospital",
+      "link": "https://www.camara.leg.br/noticias/1315977-comissao-aprova-presenca-de-interprete-de-libras-para-acompanhar-paciente-surdo-em-hospital",
+      "date": "2026-11-04T20:53:00.000Z",
+      "summary": "Proposta poderá seguir ao Senado, a menos que haja recurso para votação pelo Plenário da Câmara",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Câmara aprova criação do Dia Nacional da Consolidação da Independência do Brasil",
+      "link": "https://www.camara.leg.br/noticias/1315988-camara-aprova-criacao-do-dia-nacional-da-consolidacao-da-independencia-do-brasil",
+      "date": "2026-11-04T20:50:00.000Z",
+      "summary": "O projeto segue para análise do Senado",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
       "title": "Comissão aprova projeto que amplia uso de câmeras e cria alerta contra desaparecimento de pessoas",
       "link": "https://www.camara.leg.br/noticias/1315958-comissao-aprova-projeto-que-amplia-uso-de-cameras-e-cria-alerta-contra-desaparecimento-de-pessoas",
       "date": "2026-11-04T20:46:00.000Z",
       "summary": "O projeto continua em análise na Câmara dos Deputados",
       "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Senado aprova atualização do Estatuto da Criança e do Adolescente",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/04/senado-aprova-atualizacao-do-estatuto-da-crianca-e-do-adolescente",
-      "date": "2026-11-04T20:42:29.000Z",
-      "summary": "O Senado aprovou nesta quarta-feira (4) um projeto de lei que altera o Estatuto da Criança e do Adolescente (ECA) para adequar suas regras à garantia constitucional de educação básica obrigatória e gratuita dos 4 aos 17 anos. O texto segue para sanção da Presi",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
-      "title": "Câmara aprova regras para o uso de postes por empresas de energia e teles; acompanhe",
-      "link": "https://www.camara.leg.br/noticias/1315992-camara-aprova-regras-para-o-uso-de-postes-por-empresas-de-energia-e-teles-acompanhe",
-      "date": "2026-11-04T20:35:00.000Z",
-      "summary": "",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Davi pedirá ajuda federal após senadores relatarem danos por chuvas em SC",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/04/davi-pedira-ajuda-federal-apos-senadores-relatarem-danos-por-chuvas-em-sc",
-      "date": "2026-11-04T20:28:38.000Z",
-      "summary": "O presidente do Senado, Davi Alcolumbre, anunciou em Plenário nesta quarta-feira (4) que vai solicitar ao Ministério da Integração Nacional apoio a cidades catarinenses atingidas por fortes chuvas. Davi fez o anúncio após relatos de senadores. — Eu vou entrar ",
-      "source": "Agência Senado",
       "cat": "politica"
     },
     {
@@ -183,22 +255,6 @@
       "summary": "Presidente dos EUA reconheceu que o conflito contribuiu para o fiasco de seu partido nas eleições, mas disse que \"faria de novo\", minimizando crítica feita por seu vice, JD Vance. Acompanhe ao vivo.",
       "source": "DW Brasil",
       "cat": "internacional"
-    },
-    {
-      "title": "Avança projeto que reorganiza política nacional para merenda escolar",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/04/avanca-projeto-que-reorganiza-politica-nacional-para-merenda-escolar",
-      "date": "2026-11-04T20:19:37.000Z",
-      "summary": "A Comissão de Agricultura e Reforma Agrária (CRA) aprovou nesta quarta-feira (4) um projeto de lei que cria a Política Brasileira da Alimentação Escolar (PBAE), reorganizando as normas que fixam as responsabilidades da União, dos estados e dos municípios em re",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
-      "title": "Senado confirma acordo sobre educação entre Brasil e Croácia",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/04/senado-confirma-acordo-sobre-educacao-entre-brasil-e-croacia",
-      "date": "2026-11-04T20:10:05.000Z",
-      "summary": "O Plenário do Senado aprovou nesta quarta-feira (4) o texto do acordo sobre cooperação em educação assinado por Brasil e Croácia em 2023 (PDL 344/2024). Agora o projeto segue para promulgação. O projeto já havia recebido, em agosto, parecer favorável na Comiss",
-      "source": "Agência Senado",
-      "cat": "politica"
     },
     {
       "title": "Os fatos que explicam a \"onda azul\" no Congresso dos EUA",
@@ -215,54 +271,6 @@
       "summary": "Sete políticos nascidos no Brasil conquistaram mandatos nas eleições americanas de meio de mandato. Filiados ao Partido Democrata, de oposição a Trump, eles atuarão em quatro estados.",
       "source": "DW Brasil",
       "cat": "internacional"
-    },
-    {
-      "title": "Deputados analisam projeto sobre uso de postes por empresas de energia e teles; acompanhe",
-      "link": "https://www.camara.leg.br/noticias/1315941-deputados-analisam-projeto-sobre-uso-de-postes-por-empresas-de-energia-e-teles-acompanhe",
-      "date": "2026-11-04T19:58:00.000Z",
-      "summary": "",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Câmara aprova proposta que criminaliza sobrevoo não autorizado de drones perto de presídios",
-      "link": "https://www.camara.leg.br/noticias/1315957-camara-aprova-proposta-que-criminaliza-sobrevoo-nao-autorizado-de-drones-perto-de-presidios",
-      "date": "2026-11-04T19:58:00.000Z",
-      "summary": "A matéria será enviada ao Senado",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Confúcio defende integração das forças de segurança",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/04/confucio-defende-integracao-das-forcas-de-seguranca",
-      "date": "2026-11-04T19:52:55.000Z",
-      "summary": "Após a aprovação da PEC da Segurança Pública na terça-feira (3), o senador Confúcio Moura (MDB-RO) defendeu nesta quarta-feira (4) a integração entre as forças de segurança do país — com uma atuação coordenada entre União, estados e municípios — para o combate",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão aprova projeto que aumenta punição para crimes ambientais",
-      "link": "https://www.camara.leg.br/noticias/1315928-comissao-aprova-projeto-que-aumenta-punicao-para-crimes-ambientais",
-      "date": "2026-11-04T19:52:00.000Z",
-      "summary": "A proposta segue em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão aprova proposta que inclui povos tradicionais no crédito fundiário",
-      "link": "https://www.camara.leg.br/noticias/1315853-comissao-aprova-proposta-que-inclui-povos-tradicionais-no-credito-fundiario",
-      "date": "2026-11-04T19:51:00.000Z",
-      "summary": "Projeto de lei segue em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Paim defende tarifa zero no transporte público aos fins de semana",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/04/paim-defende-tarifa-zero-no-transporte-publico-aos-fins-de-semana",
-      "date": "2026-11-04T19:28:25.000Z",
-      "summary": "Ao discursar em Plenário nesta quarta-feira (4), o senador Paulo Paim (PT-RS) defendeu a aprovação da PEC 18/2026 — proposta de emenda à Constituição que trata do financiamento da \"tarifa zero\" no transporte público coletivo urbano (para os sábados, domingos e",
-      "source": "Agência Senado",
-      "cat": "politica"
     },
     {
       "title": "O que a vitória democrata significa para a economia dos EUA sob Trump",
@@ -372,14 +380,6 @@
       "title": "BC anuncia leilões de swap cambial tradicional para fins de rolagem dos contratos vincendos em 1º de dezembro de 2026",
       "link": "https://www.bcb.gov.br/detalhenoticia/21301/nota",
       "date": "2026-10-27T21:30:16.000Z",
-      "summary": "",
-      "source": "Banco Central",
-      "cat": "economia"
-    },
-    {
-      "title": "BC divulga Estatísticas de Pagamentos de Varejo e de Cartões do primeiro semestre de 2026",
-      "link": "https://www.bcb.gov.br/detalhenoticia/21300/nota",
-      "date": "2026-10-27T19:25:27.000Z",
       "summary": "",
       "source": "Banco Central",
       "cat": "economia"
