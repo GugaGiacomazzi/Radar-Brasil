@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-04T14:54:19.488Z",
+  "updated": "2026-11-04T15:51:18.697Z",
   "market": {
     "ibov": {
-      "price": 167688.31,
-      "pct": 1.3,
-      "time": "2026-11-04T14:54:13.826Z",
+      "price": 167400.08,
+      "pct": 1.13,
+      "time": "2026-11-04T15:51:11.519Z",
       "history": [
         {
           "d": "2026-10-05",
@@ -88,7 +88,7 @@
         },
         {
           "d": "2026-11-04",
-          "c": 167234.8438
+          "c": 167400.0781
         }
       ]
     },
@@ -145,7 +145,55 @@
   },
   "news": [
     {
-      "title": "Os gráficos e mapas que mostram a magnitude do triunfo democrata nos EUA",
+      "title": "Programa de saúde mental para pessoas idosas no SUS avança",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/04/programa-de-saude-mental-para-pessoas-idosas-no-sus-avanca",
+      "date": "2026-11-04T15:33:23.000Z",
+      "summary": "A Comissão de Direitos Humanos (CDH) aprovou nesta quarta-feira (4) projeto que cria um programa de saúde mental para pessoas idosas no Sistema Único de Saúde (SUS). A iniciativa prevê ações de prevenção, diagnóstico e tratamento de transtornos mentais. O prog",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "CDH aprova Política Nacional de Enfrentamento à Violência contra a Mulher",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/04/cdh-aprova-politica-nacional-de-enfrentamento-a-violencia-contra-a-mulher",
+      "date": "2026-11-04T15:25:39.000Z",
+      "summary": "A Comissão de Direitos Humanos (CDH) aprovou nesta quarta-feira (4) projeto que institui a Política Nacional de Enfrentamento à Violência contra a Mulher. A iniciativa busca integrar e ampliar os serviços públicos de atendimento e proteção às mulheres em situa",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Comissão aprova Estatuto da Pessoa Intersexo com regras para cirurgias, registro e reparação",
+      "link": "https://www.camara.leg.br/noticias/1315247-comissao-aprova-estatuto-da-pessoa-intersexo-com-regras-para-cirurgias-registro-e-reparacao",
+      "date": "2026-11-04T15:12:00.000Z",
+      "summary": "Para virar lei, no entanto, a proposta ainda precisa ser aprovada por mais duas comissões e pelo Plenário da Câmara dos Deputados, e pelo Senado",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Trump diz que vai reconhecer resultado da eleição, diz que democratas 'fizeram bom trabalho' e critica republicanos",
+      "link": "https://www.bbc.com/portuguese/articles/cw146dj0regko?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-04T14:59:53.000Z",
+      "summary": "Presidente dos EUA escreveu na plataforma Truth Social que os republicanos teriam vencido 'com uma vitória esmagadora' se seu nome estivesse na cédula eleitoral.",
+      "source": "BBC News Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "Motta destaca ações da Câmara para proteger mulheres e combater violência de gênero",
+      "link": "https://www.camara.leg.br/noticias/1315736-motta-destaca-acoes-da-camara-para-proteger-mulheres-e-combater-violencia-de-genero",
+      "date": "2026-11-04T14:55:00.000Z",
+      "summary": "Segundo o presidente, a Câmara tem transformado o compromisso com a proteção das mulheres em medidas concretas",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "CCT aprova ligação gratuita para reclamação de usuário de serviço público",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/04/cct-aprova-ligacao-gratuita-para-reclamacao-de-usuario-de-servico-publico",
+      "date": "2026-11-04T14:54:40.000Z",
+      "summary": "A Comissão de Ciência, Tecnologia, Inovação e Informática (CCT) aprovou nesta quarta-feira (4) projeto que garante ligações gratuitas, de telefones fixos ou celulares, para registrar reclamações e outras manifestações sobre serviços públicos. A proposta, do se",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Os gráficos e mapas que mostram a magnitude do triunfo democrata",
       "link": "https://www.bbc.com/portuguese/articles/cvy0rzd2jr7jo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-04T14:44:23.000Z",
       "summary": "Eleições de meio de mandato nos EUA impuseram derrota a Trump, com Partido Democrata assumindo controle do Senado e da Câmara dos Representantes, além de conquistar o governo em vários Estados.",
@@ -233,34 +281,10 @@
       "cat": "politica"
     },
     {
-      "title": "Comissão debate denúncia sobre existência de plataforma digital com conteúdo de abuso sexual infantil",
-      "link": "https://www.camara.leg.br/noticias/1315314-comissao-debate-denuncia-sobre-existencia-de-plataforma-digital-com-conteudo-de-abuso-sexual-infantil",
-      "date": "2026-11-04T11:15:00.000Z",
-      "summary": "",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissões debatem projeto para ampliar a concorrência no mercado de gás natural",
-      "link": "https://www.camara.leg.br/noticias/1314776-comissoes-debatem-projeto-para-ampliar-a-concorrencia-no-mercado-de-gas-natural",
-      "date": "2026-11-04T11:12:00.000Z",
-      "summary": "",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
       "title": "Análise: democratas avançam sobre território de Trump com vitórias históricas",
       "link": "https://www.bbc.com/portuguese/articles/cr1ex57zlqj2o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-04T10:54:38.000Z",
       "summary": "Algumas disputas para o Senado, que há um ano eram consideradas acirradas, acabaram se tornando vitórias fáceis para os democratas.",
-      "source": "BBC News Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "Trump diz que vai reconhecer resultado da eleição, que democratas 'fizeram bom trabalho' e critica republicanos",
-      "link": "https://www.bbc.com/portuguese/articles/cw146dj0regko?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-04T10:31:13.000Z",
-      "summary": "Presidente dos EUA escreveu na plataforma Truth Social que os republicanos teriam vencido 'com uma vitória esmagadora' se seu nome estivesse na cédula eleitoral.",
       "source": "BBC News Brasil",
       "cat": "internacional"
     },
