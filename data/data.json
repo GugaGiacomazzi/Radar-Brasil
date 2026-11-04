@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-04T18:51:55.539Z",
+  "updated": "2026-11-04T19:53:15.285Z",
   "market": {
     "ibov": {
-      "price": 167341.44,
-      "pct": 1.09,
-      "time": "2026-11-04T18:51:48.936Z",
+      "price": 167221.23,
+      "pct": 1.02,
+      "time": "2026-11-04T19:53:08.937Z",
       "history": [
         {
           "d": "2026-10-05",
@@ -88,7 +88,7 @@
         },
         {
           "d": "2026-11-04",
-          "c": 167387.2344
+          "c": 167341.4844
         }
       ]
     },
@@ -145,6 +145,46 @@
   },
   "news": [
     {
+      "title": "Deputados aprovam urgência para projeto que cria nova modalidade para Fies; acompanhe",
+      "link": "https://www.camara.leg.br/noticias/1315954-deputados-aprovam-urgencia-para-projeto-que-cria-nova-modalidade-para-fies-acompanhe",
+      "date": "2026-11-04T19:49:00.000Z",
+      "summary": "",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Paim defende tarifa zero no transporte público aos fins de semana",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/04/paim-defende-tarifa-zero-no-transporte-publico-aos-fins-de-semana",
+      "date": "2026-11-04T19:28:25.000Z",
+      "summary": "Ao discursar em Plenário nesta quarta-feira (4), o senador Paulo Paim (PT-RS) defendeu a aprovação da PEC 18/2026 — proposta de emenda à Constituição que trata do financiamento da \"tarifa zero\" no transporte público coletivo urbano (para os sábados, domingos e",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Comissão aprova projeto que resgata princípio da condição mais favorável ao trabalhador",
+      "link": "https://www.camara.leg.br/noticias/1315651-comissao-aprova-projeto-que-resgata-principio-da-condicao-mais-favoravel-ao-trabalhador",
+      "date": "2026-11-04T19:25:00.000Z",
+      "summary": "Proposta continua em análise na Câmara",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Deputados analisam requerimentos de urgência para projetos no Plenário; acompanhe",
+      "link": "https://www.camara.leg.br/noticias/1315938-deputados-analisam-requerimentos-de-urgencia-para-projetos-no-plenario-acompanhe",
+      "date": "2026-11-04T19:24:00.000Z",
+      "summary": "",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Comissão aprova proposta que inclui povos tradicionais no crédito fundiário",
+      "link": "https://www.camara.leg.br/noticias/1315853-comissao-aprova-proposta-que-inclui-povos-tradicionais-no-credito-fundiario",
+      "date": "2026-11-04T19:03:00.000Z",
+      "summary": "Projeto de lei segue em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
       "title": "Comissão aprova regras para convivência de marcas semelhantes",
       "link": "https://www.camara.leg.br/noticias/1315747-comissao-aprova-regras-para-convivencia-de-marcas-semelhantes",
       "date": "2026-11-04T18:41:00.000Z",
@@ -177,43 +217,11 @@
       "cat": "internacional"
     },
     {
-      "title": "Marco da Economia Digital garantirá recursos de longo prazo para tecnologia, dizem especialistas",
-      "link": "https://www.camara.leg.br/noticias/1315814-marco-da-economia-digital-garantira-recursos-de-longo-prazo-para-tecnologia-dizem-especialistas",
-      "date": "2026-11-04T17:54:00.000Z",
-      "summary": "Proposta cria a Rede de Institutos de Ciência e Tecnologia para a Economia Digital, entre outras inovações",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão aprova projeto que amplia atuação de sindicatos em falências e protege créditos trabalhistas",
-      "link": "https://www.camara.leg.br/noticias/1315734-comissao-aprova-projeto-que-amplia-atuacao-de-sindicatos-em-falencias-e-protege-creditos-trabalhistas",
-      "date": "2026-11-04T17:29:00.000Z",
-      "summary": "O texto continua em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
       "title": "CCT aprova 41 concessões e renovações para emissoras de rádio",
       "link": "https://www12.senado.leg.br/noticias/materias/2026/11/04/cct-aprova-41-concessoes-e-renovacoes-para-emissoras-de-radio",
       "date": "2026-11-04T17:23:53.000Z",
       "summary": "A Comissão de Ciência, Tecnologia, Inovação e Informática (CCT) aprovou 41 projetos de decreto legislativo (PDLs) relativos à concessão e à renovação de outorgas para emissoras de rádio em 14 estados. As matérias aprovadas nesta quarta-feira (4) seguem para pr",
       "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
-      "title": "Orçamento de 2027 deve ser votado até o dia 17 de dezembro",
-      "link": "https://www.camara.leg.br/noticias/1315797-orcamento-de-2027-deve-ser-votado-ate-o-dia-17-de-dezembro",
-      "date": "2026-11-04T17:22:00.000Z",
-      "summary": "",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão aprova projeto que garante educação de jovens e adultos em dois turnos",
-      "link": "https://www.camara.leg.br/noticias/1315804-comissao-aprova-projeto-que-garante-educacao-de-jovens-e-adultos-em-dois-turnos",
-      "date": "2026-11-04T17:22:00.000Z",
-      "summary": "Aprovado pela CCJ, projeto segue para o Senado, a não ser que haja recurso para votação pelo Plenário da Câmara",
-      "source": "Agência Câmara",
       "cat": "politica"
     },
     {
