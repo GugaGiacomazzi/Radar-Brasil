@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-04T11:35:59.048Z",
+  "updated": "2026-11-04T12:26:03.387Z",
   "market": {
     "ibov": {
       "price": 165528.92,
       "pct": -1.42,
-      "time": "2026-11-04T11:35:53.338Z",
+      "time": "2026-11-04T12:25:59.742Z",
       "history": [
         {
           "d": "2026-10-05",
@@ -141,6 +141,30 @@
   },
   "news": [
     {
+      "title": "Economia e democracia foram os temas mais importantes para americanos nas eleições, indica pesquisa",
+      "link": "https://www.bbc.com/portuguese/articles/cmg4795366kdo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-04T12:21:07.000Z",
+      "summary": "Ampla pesquisa perguntou a dezenas de milhares de eleitores americanos suas opiniões e motivações, fornecendo uma análise por idade, sexo, escolaridade e outros dados demográficos.",
+      "source": "BBC News Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "Eleições nos EUA: quem são os grandes vencedores",
+      "link": "https://www.bbc.com/portuguese/articles/cmd7q9ep09z8o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-04T12:18:39.000Z",
+      "summary": "Conheça alguns dos principais nomes da chamada onda azul democrata, que conquistou uma vitória esmagadora nesta terça-feira, em um duro revés para as políticas de Donald Trump.",
+      "source": "BBC News Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "Quem é Gina Hinojosa, democrata de ascendência mexicana que será 1ª latina a governar o Texas",
+      "link": "https://www.bbc.com/portuguese/articles/ckm23qjvm888o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-04T11:35:54.000Z",
+      "summary": "Deputada estadual derrotou Greg Abbott, um dos governadores republicanos mais proeminentes do país e aliado fiel do presidente Donald Trump.",
+      "source": "BBC News Brasil",
+      "cat": "internacional"
+    },
+    {
       "title": "Entenda a PEC da Segurança Pública, aprovada no Senado",
       "link": "https://www.dw.com/pt-br/entenda-a-pec-da-segurança-pública-aprovada-no-senado/a-76232387?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-04T11:24:00.000Z",
@@ -163,14 +187,6 @@
       "summary": "",
       "source": "Agência Câmara",
       "cat": "politica"
-    },
-    {
-      "title": "Eleições nos EUA: quem são os grandes vencedores",
-      "link": "https://www.bbc.com/portuguese/articles/cmd7q9ep09z8o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-04T11:13:12.000Z",
-      "summary": "Conheça alguns dos principais nomes da chamada onda azul democrata, que conquistou uma vitória esmagadora nesta terça-feira, em um duro revés para as políticas de Donald Trump.",
-      "source": "BBC News Brasil",
-      "cat": "internacional"
     },
     {
       "title": "Comissões debatem projeto para ampliar a concorrência no mercado de gás natural",
@@ -221,22 +237,6 @@
       "cat": "internacional"
     },
     {
-      "title": "Quem é Abdul El-Sayed, primeiro muçulmano eleito senador nos EUA",
-      "link": "https://www.bbc.com/portuguese/articles/c933xk7el2ggo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-04T10:02:45.000Z",
-      "summary": "Presidente Trump fez vários ataques durante a campanha contra El-Sayed, filho de imigrantes egípcios, e acusou-o de estar 'do lado dos terroristas'.",
-      "source": "BBC News Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "As viradas democratas que definiram a disputa pelo Senado nos EUA",
-      "link": "https://www.bbc.com/portuguese/articles/crn8wnw3eq0wo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-04T07:58:57.000Z",
-      "summary": "Em cinco dos sete Estados em que as disputadas eram consideradas indefinidas e acirradas, as projeções já indicam vitória dos democratas.",
-      "source": "BBC News Brasil",
-      "cat": "internacional"
-    },
-    {
       "title": "Democratas obtêm maioria no Congresso e impõem derrota a Trump",
       "link": "https://www.dw.com/pt-br/democratas-obtêm-maioria-no-congresso-e-impõem-derrota-a-trump/live-79849879?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-04T07:03:00.000Z",
@@ -265,14 +265,6 @@
       "link": "https://www12.senado.leg.br/noticias/materias/2026/11/03/senado-aprova-pec-da-seguranca-publica-sem-reducao-da-maioridade-penal",
       "date": "2026-11-03T22:59:24.000Z",
       "summary": "O Senado aprovou nesta terça-feira (3) a PEC 18/2025, conhecida como PEC da Segurança Pública, que visa ampliar a integração entre os órgãos de segurança e fortalecer o combate ao crime organizado. A PEC foi aprovada por unanimidade, com 73 votos favoráveis em",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
-      "title": "Senado aprova Setembro em Flor, campanha contra o câncer ginecológico",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/03/senado-aprova-setembro-em-flor-campanha-contra-o-cancer-ginecologico",
-      "date": "2026-11-03T22:21:51.000Z",
-      "summary": "O Senado aprovou nesta terça-feira (3) um projeto (PL 5.782/2023) que oficializa a campanha Setembro em Flor, destinada a conscientizar a população sobre a prevenção e o diagnóstico precoce dos cânceres ginecológicos. A proposta segue para sanção presidencial.",
       "source": "Agência Senado",
       "cat": "politica"
     },
