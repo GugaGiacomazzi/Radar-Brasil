@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-04T13:48:59.901Z",
+  "updated": "2026-11-04T14:54:19.488Z",
   "market": {
     "ibov": {
-      "price": 167664.81,
-      "pct": 1.29,
-      "time": "2026-11-04T13:48:54.253Z",
+      "price": 167688.31,
+      "pct": 1.3,
+      "time": "2026-11-04T14:54:13.826Z",
       "history": [
         {
           "d": "2026-10-05",
@@ -88,7 +88,7 @@
         },
         {
           "d": "2026-11-04",
-          "c": 167484.3125
+          "c": 167234.8438
         }
       ]
     },
@@ -145,6 +145,54 @@
   },
   "news": [
     {
+      "title": "Os gráficos e mapas que mostram a magnitude do triunfo democrata nos EUA",
+      "link": "https://www.bbc.com/portuguese/articles/cvy0rzd2jr7jo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-04T14:44:23.000Z",
+      "summary": "Eleições de meio de mandato nos EUA impuseram derrota a Trump, com Partido Democrata assumindo controle do Senado e da Câmara dos Representantes, além de conquistar o governo em vários Estados.",
+      "source": "BBC News Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "Avança projeto que prevê uso de IA e drones na proteção ambiental",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/04/avanca-projeto-que-preve-uso-de-ia-e-drones-na-protecao-ambiental",
+      "date": "2026-11-04T14:39:40.000Z",
+      "summary": "A Comissão de Ciência, Tecnologia e Inovação (CCT) aprovou nesta quarta-feira (4) projeto que cria uma política nacional para o uso de inteligência artificial (IA), sensores e drones na proteção ambiental e na recuperação de áreas degradadas. A proposta prevê ",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Comissão aprova fim da exigência de nome civil junto ao nome social na identidade",
+      "link": "https://www.camara.leg.br/noticias/1315258-comissao-aprova-fim-da-exigencia-de-nome-civil-junto-ao-nome-social-na-identidade",
+      "date": "2026-11-04T14:39:00.000Z",
+      "summary": "O projeto continua em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Avança aumento de pena por filmar intimidade sexual sem autorização",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/04/avanca-aumento-de-pena-por-filmar-intimidade-sexual-sem-autorizacao",
+      "date": "2026-11-04T14:13:29.000Z",
+      "summary": "A Comissão de Ciência e Tecnologia (CCT) aprovou nesta quarta-feira (4) projeto que prevê pena de um a quatro anos de reclusão e multa para quem registra, sem autorização, a intimidade sexual de outra pessoa. A pena poderá ser aumentada pela metade em situaçõe",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Amapá assume papel relevante na rota do tráfico internacional",
+      "link": "https://www.dw.com/pt-br/amapá-assume-papel-relevante-na-rota-do-tráfico-internacional/a-79856004?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-04T14:07:00.000Z",
+      "summary": "Produtores de cocaína escoam droga pela Amazônia brasileira desde a década de 1980, porém, nos últimos anos rota foi redirecionada com aumento da fiscalização e expansão do crime organizado na região.",
+      "source": "DW Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "Que impacto a derrota nas eleições de meio de mandato terá para Trump",
+      "link": "https://www.dw.com/pt-br/que-impacto-a-derrota-nas-eleições-de-meio-de-mandato-terá-para-trump/a-79853554?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-04T13:55:00.000Z",
+      "summary": "Resultado muda equilíbrio de poder em Washington, e democratas poderão investigar governo e até abrir processos de impeachment. Mas Trump retém muito poder na política externa.",
+      "source": "DW Brasil",
+      "cat": "internacional"
+    },
+    {
       "title": "Comissão aprova medidas de proteção a crianças indígenas e quilombolas",
       "link": "https://www.camara.leg.br/noticias/1315654-comissao-aprova-medidas-de-protecao-a-criancas-indigenas-e-quilombolas",
       "date": "2026-11-04T13:33:00.000Z",
@@ -159,14 +207,6 @@
       "summary": "Também estão na pauta propostas sobre drones em presídios, maus-tratos a animais e saúde de crianças e adolescentes",
       "source": "Agência Câmara",
       "cat": "politica"
-    },
-    {
-      "title": "Pesquisa: economia e democracia foram os temas centrais para eleitores dos EUA",
-      "link": "https://www.bbc.com/portuguese/articles/cmg4795366kdo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-04T12:21:07.000Z",
-      "summary": "Ampla pesquisa perguntou a dezenas de milhares de eleitores americanos suas opiniões e motivações, fornecendo uma análise por idade, sexo, escolaridade e outros dados demográficos.",
-      "source": "BBC News Brasil",
-      "cat": "internacional"
     },
     {
       "title": "Quem é Gina Hinojosa, democrata de ascendência mexicana que será 1ª latina a governar o Texas",
@@ -205,14 +245,6 @@
       "link": "https://www.camara.leg.br/noticias/1314776-comissoes-debatem-projeto-para-ampliar-a-concorrencia-no-mercado-de-gas-natural",
       "date": "2026-11-04T11:12:00.000Z",
       "summary": "",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão debate contribuições do Brasil para a COP-31 nesta quarta-feira; participe",
-      "link": "https://www.camara.leg.br/noticias/1315308-comissao-debate-contribuicoes-do-brasil-para-a-cop-31-nesta-quarta-feira-participe",
-      "date": "2026-11-04T11:10:00.000Z",
-      "summary": "Conferência sobre Mudança do Clima será realizada de 9 a 20 de novembro, em Antalya, na Turquia",
       "source": "Agência Câmara",
       "cat": "politica"
     },
@@ -261,22 +293,6 @@
       "link": "https://www.dw.com/pt-br/senado-aprova-pec-da-segurança-pública-sem-redução-da-maioridade-penal/a-79848858?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-03T23:28:00.000Z",
       "summary": "Proposta acatada por unanimidade torna a União corresponsável no combate ao crime organizado e amplia a integração das forças de segurança. Idade para responder por crimes será analisada separadamente.",
-      "source": "DW Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "Em encontro com Zelenski, Merz promete ampliar apoio à Ucrânia",
-      "link": "https://www.dw.com/pt-br/em-encontro-com-zelenski-merz-promete-ampliar-apoio-à-ucrânia/a-79847760?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-03T20:25:00.000Z",
-      "summary": "Chanceler federal alemão anuncia novo pacote de 200 milhões de euros para enfrentar o inverno, e destaca defesa aérea e energia como prioridades.",
-      "source": "DW Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "Eleição nos EUA pode aliviar pressão de Trump sobre o Brasil",
-      "link": "https://www.dw.com/pt-br/eleição-nos-eua-pode-aliviar-pressão-de-trump-sobre-o-brasil/a-79845890?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-03T19:47:00.000Z",
-      "summary": "Eventual maioria democrata no Congresso deverá fiscalizar política externa do presidente, com possíveis investigações sobre fuga de Flávio Bolsonaro, Meta e tarifaço.",
       "source": "DW Brasil",
       "cat": "internacional"
     },
