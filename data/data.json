@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-04T21:45:04.848Z",
+  "updated": "2026-11-04T22:43:11.016Z",
   "market": {
     "ibov": {
       "price": 167563.47,
       "pct": 1.23,
-      "time": "2026-11-04T21:45:00.227Z",
+      "time": "2026-11-04T22:43:05.744Z",
       "history": [
         {
           "d": "2026-10-05",
@@ -145,27 +145,59 @@
   },
   "news": [
     {
-      "title": "Aprovação de protocolo pelo Senado permitirá ao Brasil sediar 'Expos' mundiais",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/04/aprovacao-de-protocolo-pelo-senado-permitira-ao-brasil-sediar-expos-mundiais",
-      "date": "2026-11-04T21:39:57.000Z",
-      "summary": "O Plenário do Senado aprovou nesta quarta-feira (4) o texto de um protocolo que permitirá a cidades brasileiras voltarem a se candidatar a sediar exposições mundiais, as chamadas “Expos”. O PDL 359/2024, que vai à promulgação, trata de um acordo sobre direitos",
+      "title": "Senado permite que estados e municípios renegociem dívidas durante final de mandato",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/04/senado-permite-que-estados-e-municipios-renegociem-dividas-durante-final-de-mandato",
+      "date": "2026-11-04T22:34:16.000Z",
+      "summary": "O Senado aprovou nesta quarta-feira (4) o projeto de resolução que permite a estados, Distrito Federal e municípios contratarem operações de crédito nos últimos 120 dias do mandato de governadores e prefeitos para substituir dívidas existentes por outras com c",
       "source": "Agência Senado",
       "cat": "politica"
     },
     {
-      "title": "Comissão da MP do Plano Brasil Soberano 3 elege presidente, vice e relatora",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/04/comissao-da-mp-do-plano-brasil-soberano-3-elege-presidente-vice-e-relatora",
-      "date": "2026-11-04T21:36:57.000Z",
-      "summary": "Foi instalada nesta quarta-feira (4) a comissão mista — ou seja, formada por senadores e deputados federais — responsável por analisar a medida provisória que prevê linhas de crédito de R$ 18,5 bilhões, com juros subsidiados, para exportadores e setores consid",
+      "title": "CTFC aprova proibição da redução artificial da vida útil de produtos",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/04/ctfc-aprova-proibicao-da-reducao-artificial-da-vida-util-de-produtos",
+      "date": "2026-11-04T22:25:35.000Z",
+      "summary": "A Comissão de Fiscalização e Controle (CTFC) aprovou nesta quarta-feira (4), em decisão terminativa, projeto que proíbe a chamada “obsolescência programada” — a redução proposital da vida útil dos produtos — e regulamenta o direito do consumidor ao reparo. O P",
       "source": "Agência Senado",
       "cat": "politica"
     },
     {
-      "title": "CRA aprova flexibilização da regularização ambiental de produtores rurais",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/04/cra-aprova-flexibilizacao-da-regularizacao-ambiental-de-produtores-rurais",
-      "date": "2026-11-04T21:35:31.000Z",
-      "summary": "A Comissão de Agricultura (CRA) aprovou nesta quarta-feira (4) projeto de lei que flexibiliza o Código Florestal para que produtores rurais possam aderir à regularização ambiental de suas terras e, ao mesmo tempo, continuar produzindo sem embargos legais. O PL",
+      "title": "Instalada comissão que vai analisar linhas de crédito para empresas atingidas por tarifaço",
+      "link": "https://www.camara.leg.br/noticias/1316107-instalada-comissao-que-vai-analisar-linhas-de-credito-para-empresas-atingidas-por-tarifaco",
+      "date": "2026-11-04T22:20:00.000Z",
+      "summary": "Comissão mista do Congresso deve se reunir novamente nesta quinta-feira para analisar o relatório da senadora Leany Lemos",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Davi Alcolumbre lamenta radicalismo e pede foco no país",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/04/davi-alcolumbre-lamenta-radicalismo-e-pede-foco-no-pais",
+      "date": "2026-11-04T22:07:59.000Z",
+      "summary": "Após uma discussão em Plenário sobre a redução da maioridade penal, o presidente do Senado e do Congresso, Davi Alcolumbre, fez críticas ao que chamou de \"radicalismo\" — que, segundo ele, se tornou um traço comum na política do país. Ele também pediu que os po",
       "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Redução da maioridade penal: Senado aguardará votação de PEC da Câmara",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/04/reducao-da-maioridade-penal-senado-aguardara-votacao-de-pec-da-camara",
+      "date": "2026-11-04T22:03:20.000Z",
+      "summary": "A redução da maioridade penal será discutida no Parlamento por meio da PEC 32/2015, atualmente em análise em comissão especial na Câmara dos Deputados. A comunicação foi feita aos senadores pelo presidente do Senado, Davi Alcolumbre, na sessão desta quarta-fei",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Quem te ensinou a nadar?",
+      "link": "https://www12.senado.leg.br/noticias/infomaterias/2026/11/quem-te-ensinou-a-nadar",
+      "date": "2026-11-04T22:02:49.000Z",
+      "summary": "",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Após sediar COP30, Brasil leva novas contribuições à COP31, na Turquia",
+      "link": "https://www.camara.leg.br/noticias/1316069-apos-sediar-cop30-brasil-leva-novas-contribuicoes-a-cop31-na-turquia",
+      "date": "2026-11-04T21:50:00.000Z",
+      "summary": "“Pavilhão Brasil” terá cerca de 130 eventos para mostrar ações governamentais pelo meio ambiente",
+      "source": "Agência Câmara",
       "cat": "politica"
     },
     {
@@ -185,35 +217,11 @@
       "cat": "politica"
     },
     {
-      "title": "Isenção de tarifa para usinas movidas a biomassa da casca de arroz vai à CAE",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/04/isencao-de-tarifa-para-usinas-movidas-a-biomassa-da-casca-de-arroz-vai-a-cae",
-      "date": "2026-11-04T21:12:32.000Z",
-      "summary": "A Comissão de Agricultura (CRA) aprovou nesta quarta-feira (4) projeto de lei que isenta de tarifa de energia elétrica os empreendimentos que gerem eletricidade exclusivamente com biomassa da casca de arroz. O PL 5.861/2025, do senador Luis Carlos Heinze (PP-R",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
-      "title": "Senado aprova protocolo que amplia defesa da democracia no Mercosul",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/04/senado-aprova-protocolo-que-amplia-defesa-da-democracia-no-mercosul",
-      "date": "2026-11-04T21:12:27.000Z",
-      "summary": "O Plenário do Senado aprovou nesta quarta-feira (4) o Protocolo de Montevidéu sobre Compromisso com a Democracia no Mercosul, conhecido como Ushuaia II. Assinado em 2011, o texto amplia os mecanismos de prevenção e de resposta a situações que possam ameaçar ou",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
       "title": "Relator da PEC da Maioridade Penal deve apresentar parecer no final do mês",
       "link": "https://www.camara.leg.br/noticias/1316048-relator-da-pec-da-maioridade-penal-deve-apresentar-parecer-no-final-do-mes",
       "date": "2026-11-04T21:10:00.000Z",
       "summary": "Comissão aprovou requerimentos para a realização de audiências públicas antes da apresentação do relatório",
       "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Congresso prevê votar Orçamento de 2027 até 17 de dezembro",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/04/congresso-preve-votar-orcamento-de-2027-ate-17-de-dezembro",
-      "date": "2026-11-04T21:01:50.000Z",
-      "summary": "O Congresso Nacional deverá votar o Orçamento Geral da União para 2027 até o dia 17 de dezembro. O prazo faz parte do cronograma de análise da proposta anunciado nesta quarta-feira (4) pelo senador Eduardo Braga (MDB-AM), relator-geral do Orçamento, durante a ",
-      "source": "Agência Senado",
       "cat": "politica"
     },
     {
@@ -233,20 +241,12 @@
       "cat": "politica"
     },
     {
-      "title": "Câmara aprova criação do Dia Nacional da Consolidação da Independência do Brasil",
-      "link": "https://www.camara.leg.br/noticias/1315988-camara-aprova-criacao-do-dia-nacional-da-consolidacao-da-independencia-do-brasil",
-      "date": "2026-11-04T20:50:00.000Z",
-      "summary": "O projeto segue para análise do Senado",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão aprova projeto que amplia uso de câmeras e cria alerta contra desaparecimento de pessoas",
-      "link": "https://www.camara.leg.br/noticias/1315958-comissao-aprova-projeto-que-amplia-uso-de-cameras-e-cria-alerta-contra-desaparecimento-de-pessoas",
-      "date": "2026-11-04T20:46:00.000Z",
-      "summary": "O projeto continua em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica"
+      "title": "'Minha filha de 13 anos sofreu ofensas racistas, sexuais e religiosas após resultado das eleições'",
+      "link": "https://www.bbc.com/portuguese/articles/c6kg7ej7e73ko?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-04T20:52:50.000Z",
+      "summary": "Áudios enviados a bolsista de colégio particular de BH criticam religião de matriz africana, humilham família por ser de baixa renda e dirigem conteúdo sexual à menina. Escola diz que não compactua com casos de discriminação.",
+      "source": "BBC News Brasil",
+      "cat": "internacional"
     },
     {
       "title": "Trump admite que guerra no Irã contribuiu para derrota republicana",
@@ -325,14 +325,6 @@
       "link": "https://www.bbc.com/portuguese/articles/cr1ex57zlqj2o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-04T10:54:38.000Z",
       "summary": "Algumas disputas para o Senado, que há um ano eram consideradas acirradas, acabaram se tornando vitórias fáceis para os democratas.",
-      "source": "BBC News Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "Quem é Abdul El-Sayed, primeiro muçulmano eleito senador nos EUA",
-      "link": "https://www.bbc.com/portuguese/articles/c933xk7el2ggo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-04T10:02:45.000Z",
-      "summary": "Presidente Trump fez vários ataques durante a campanha contra El-Sayed, filho de imigrantes egípcios, e acusou-o de estar 'do lado dos terroristas'.",
       "source": "BBC News Brasil",
       "cat": "internacional"
     },
