@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-04T04:33:48.457Z",
+  "updated": "2026-11-04T05:36:17.126Z",
   "market": {
     "ibov": {
       "price": 165528.92,
       "pct": -1.42,
-      "time": "2026-11-04T04:33:43.080Z",
+      "time": "2026-11-04T05:36:11.414Z",
       "history": [
         {
           "d": "2026-10-05",
@@ -141,10 +141,34 @@
   },
   "news": [
     {
+      "title": "Amy Acton vence a eleição para governadora de Ohio após disputa acirrada com o bilionário Ramaswamy",
+      "link": "https://www.bbc.com/portuguese/articles/cm62y492gxd8o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-04T05:30:10.000Z",
+      "summary": "A disputa eleitoral esquentou nas últimas semanas depois que o candidato republicano lançou um anúncio com a mãe de Acton.",
+      "source": "BBC News Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "Republicanos da Flórida derrotam democratas e Estado elege primeiro governador negro",
+      "link": "https://www.bbc.com/portuguese/articles/cm75p0lp5g1ro?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-04T05:23:54.000Z",
+      "summary": "O republicano Byron Donalds, apoiado pelo presidente Donald Trump, será o primeiro governador negro da Flórida.",
+      "source": "BBC News Brasil",
+      "cat": "internacional"
+    },
+    {
       "title": "Análise: Partido Democrata toma territórios republicanos com vitórias históricas",
       "link": "https://www.bbc.com/portuguese/articles/cr1ex57zlqj2o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-04T04:04:41.000Z",
+      "date": "2026-11-04T04:48:11.000Z",
       "summary": "Duas disputas para o Senado, que há um ano eram consideradas acirradas, acabaram se tornando vitórias fáceis para os democratas.",
+      "source": "BBC News Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "James Talarico se torna o primeiro democrata a conquistar uma cadeira no Senado pelo Texas desde 1988",
+      "link": "https://www.bbc.com/portuguese/articles/cjx23k27vdxzo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-04T04:34:48.000Z",
+      "summary": "Em uma das disputas mais observadas dessa eleição nos EUA, candidato democrata derrotou Ken Paxton",
       "source": "BBC News Brasil",
       "cat": "internacional"
     },
@@ -165,8 +189,8 @@
       "cat": "politica"
     },
     {
-      "title": "EMBEDAR VÍDEO Por que urnas sem voto para Flávio não indicam fraude eleitoral",
-      "link": "https://www.dw.com/pt-br/embedar-vídeo-por-que-urnas-sem-voto-para-flávio-não-indicam-fraude-eleitoral/a-79831431?maca=bra-rss-br-all-1030-xml-mrss",
+      "title": "Por que urnas sem voto para Flávio não indicam fraude eleitoral",
+      "link": "https://www.dw.com/pt-br/por-que-urnas-sem-voto-para-flávio-não-indicam-fraude-eleitoral/a-79831431?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-03T23:39:00.000Z",
       "summary": "Redes bolsonaristas propagam desinformação recorrendo a casos isolados de seções unânimes. Mas votos depositados são poucos, e casos parecidos ocorreram em todos os pleitos desde 2002.",
       "source": "DW Brasil",
@@ -245,14 +269,6 @@
       "cat": "internacional"
     },
     {
-      "title": "3 cenários possíveis para os resultados das eleições de meio de mandato nos EUA",
-      "link": "https://www.bbc.com/portuguese/articles/cwj346dy3kplo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-03T19:57:46.000Z",
-      "summary": "Haverá uma onda democrata ou testemunharemos uma resiliência republicana apesar da impopularidade de Trump neste momento?",
-      "source": "BBC News Brasil",
-      "cat": "internacional"
-    },
-    {
       "title": "Eleição nos EUA pode aliviar pressão de Trump sobre o Brasil",
       "link": "https://www.dw.com/pt-br/eleição-nos-eua-pode-aliviar-pressão-de-trump-sobre-o-brasil/a-79845890?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-03T19:47:00.000Z",
@@ -277,26 +293,10 @@
       "cat": "internacional"
     },
     {
-      "title": "O que são as eleições de meio de mandato dos EUA e por que elas podem selar o futuro de Trump?",
-      "link": "https://www.bbc.com/portuguese/articles/cwg7xpyd1jrgo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-03T16:20:58.000Z",
-      "summary": "Os eleitores dos EUA irão às urnas na terça-feira em uma votação que poderá ter grande impacto na presidência de Donald Trump.",
-      "source": "BBC News Brasil",
-      "cat": "internacional"
-    },
-    {
       "title": "Mundo tem cerca de 2 bilhões de pessoas fora da internet, diz relatório da ONU",
       "link": "https://news.un.org/feed/view/pt/story/2026/11/1854826",
       "date": "2026-11-03T12:00:00.000Z",
       "summary": "Apesar de 76% dos cidadãos globais estarem online, desigualdade digital persiste; UIT realça que 93% das populações mais ricas acessam a rede, enquanto apenas 32% o fazem em economias de baixa renda; no espaço lusófono, são urgentes investimentos em infraestru",
-      "source": "ONU News",
-      "cat": "internacional"
-    },
-    {
-      "title": "África Austral lança plataforma regional para monitorar mercado de trabalho",
-      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854812",
-      "date": "2026-11-03T12:00:00.000Z",
-      "summary": "Dados da iniciativa reúnem indicadores de emprego, qualificação profissional e desigualdade de gênero; meta é apoiar a formulação de políticas públicas baseadas em estatísticas.",
       "source": "ONU News",
       "cat": "internacional"
     },
