@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-04T03:28:02.350Z",
+  "updated": "2026-11-04T04:33:48.457Z",
   "market": {
     "ibov": {
       "price": 165528.92,
       "pct": -1.42,
-      "time": "2026-11-04T03:27:57.743Z",
+      "time": "2026-11-04T04:33:43.080Z",
       "history": [
         {
           "d": "2026-10-05",
@@ -141,6 +141,14 @@
   },
   "news": [
     {
+      "title": "Análise: Partido Democrata toma territórios republicanos com vitórias históricas",
+      "link": "https://www.bbc.com/portuguese/articles/cr1ex57zlqj2o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-04T04:04:41.000Z",
+      "summary": "Duas disputas para o Senado, que há um ano eram consideradas acirradas, acabaram se tornando vitórias fáceis para os democratas.",
+      "source": "BBC News Brasil",
+      "cat": "internacional"
+    },
+    {
       "title": "As sete disputas para o Senado que podem definir futuro do governo Trump",
       "link": "https://www.bbc.com/portuguese/articles/crn8wnw3eq0wo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-04T03:18:17.000Z",
@@ -234,14 +242,6 @@
       "date": "2026-11-03T20:25:00.000Z",
       "summary": "Chanceler federal alemão anuncia novo pacote de 200 milhões de euros para enfrentar o inverno, e destaca defesa aérea e energia como prioridades.",
       "source": "DW Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "Quando sairão os resultados das eleições de meio de mandato nos EUA?",
-      "link": "https://www.bbc.com/portuguese/articles/cwm26g6x0r72o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-03T20:11:24.000Z",
-      "summary": "Após o fechamento das urnas, é possível que os resultados demorem horas, dias ou até mesmo semanas. Entenda como funciona a apuração.",
-      "source": "BBC News Brasil",
       "cat": "internacional"
     },
     {
