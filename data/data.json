@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-04T12:26:03.387Z",
+  "updated": "2026-11-04T13:48:59.901Z",
   "market": {
     "ibov": {
-      "price": 165528.92,
-      "pct": -1.42,
-      "time": "2026-11-04T12:25:59.742Z",
+      "price": 167664.81,
+      "pct": 1.29,
+      "time": "2026-11-04T13:48:54.253Z",
       "history": [
         {
           "d": "2026-10-05",
@@ -85,6 +85,10 @@
         {
           "d": "2026-11-03",
           "c": 165529
+        },
+        {
+          "d": "2026-11-04",
+          "c": 167484.3125
         }
       ]
     },
@@ -141,18 +145,26 @@
   },
   "news": [
     {
-      "title": "Economia e democracia foram os temas mais importantes para americanos nas eleições, indica pesquisa",
+      "title": "Comissão aprova medidas de proteção a crianças indígenas e quilombolas",
+      "link": "https://www.camara.leg.br/noticias/1315654-comissao-aprova-medidas-de-protecao-a-criancas-indigenas-e-quilombolas",
+      "date": "2026-11-04T13:33:00.000Z",
+      "summary": "Texto segue em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Câmara pode votar projeto sobre monitoramento de agressores de mulheres e regras para uso de postes",
+      "link": "https://www.camara.leg.br/noticias/1315618-camara-pode-votar-projeto-sobre-monitoramento-de-agressores-de-mulheres-e-regras-para-uso-de-postes",
+      "date": "2026-11-04T12:23:00.000Z",
+      "summary": "Também estão na pauta propostas sobre drones em presídios, maus-tratos a animais e saúde de crianças e adolescentes",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Pesquisa: economia e democracia foram os temas centrais para eleitores dos EUA",
       "link": "https://www.bbc.com/portuguese/articles/cmg4795366kdo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-04T12:21:07.000Z",
       "summary": "Ampla pesquisa perguntou a dezenas de milhares de eleitores americanos suas opiniões e motivações, fornecendo uma análise por idade, sexo, escolaridade e outros dados demográficos.",
-      "source": "BBC News Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "Eleições nos EUA: quem são os grandes vencedores",
-      "link": "https://www.bbc.com/portuguese/articles/cmd7q9ep09z8o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-04T12:18:39.000Z",
-      "summary": "Conheça alguns dos principais nomes da chamada onda azul democrata, que conquistou uma vitória esmagadora nesta terça-feira, em um duro revés para as políticas de Donald Trump.",
       "source": "BBC News Brasil",
       "cat": "internacional"
     },
@@ -205,22 +217,6 @@
       "cat": "politica"
     },
     {
-      "title": "Comissão debate projeto que cria Marco de Fomento à Economia Digital no Brasil",
-      "link": "https://www.camara.leg.br/noticias/1314773-comissao-debate-projeto-que-cria-marco-de-fomento-a-economia-digital-no-brasil",
-      "date": "2026-11-04T11:08:00.000Z",
-      "summary": "",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão aprova presença de instrutor em exame para obtenção da Carteira de Habilitação",
-      "link": "https://www.camara.leg.br/noticias/1315206-comissao-aprova-presenca-de-instrutor-em-exame-para-obtencao-da-carteira-de-habilitacao",
-      "date": "2026-11-04T11:08:00.000Z",
-      "summary": "Saiba mais sobre a tramitação de projetos de lei",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
       "title": "Análise: democratas avançam sobre território de Trump com vitórias históricas",
       "link": "https://www.bbc.com/portuguese/articles/cr1ex57zlqj2o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-04T10:54:38.000Z",
@@ -233,6 +229,14 @@
       "link": "https://www.bbc.com/portuguese/articles/cw146dj0regko?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-04T10:31:13.000Z",
       "summary": "Presidente dos EUA escreveu na plataforma Truth Social que os republicanos teriam vencido 'com uma vitória esmagadora' se seu nome estivesse na cédula eleitoral.",
+      "source": "BBC News Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "Quem é Abdul El-Sayed, primeiro muçulmano eleito senador nos EUA",
+      "link": "https://www.bbc.com/portuguese/articles/c933xk7el2ggo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-04T10:02:45.000Z",
+      "summary": "Presidente Trump fez vários ataques durante a campanha contra El-Sayed, filho de imigrantes egípcios, e acusou-o de estar 'do lado dos terroristas'.",
       "source": "BBC News Brasil",
       "cat": "internacional"
     },
@@ -259,14 +263,6 @@
       "summary": "Proposta acatada por unanimidade torna a União corresponsável no combate ao crime organizado e amplia a integração das forças de segurança. Idade para responder por crimes será analisada separadamente.",
       "source": "DW Brasil",
       "cat": "internacional"
-    },
-    {
-      "title": "Senado aprova PEC da Segurança Pública sem redução da maioridade penal",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/03/senado-aprova-pec-da-seguranca-publica-sem-reducao-da-maioridade-penal",
-      "date": "2026-11-03T22:59:24.000Z",
-      "summary": "O Senado aprovou nesta terça-feira (3) a PEC 18/2025, conhecida como PEC da Segurança Pública, que visa ampliar a integração entre os órgãos de segurança e fortalecer o combate ao crime organizado. A PEC foi aprovada por unanimidade, com 73 votos favoráveis em",
-      "source": "Agência Senado",
-      "cat": "politica"
     },
     {
       "title": "Em encontro com Zelenski, Merz promete ampliar apoio à Ucrânia",
