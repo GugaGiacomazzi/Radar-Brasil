@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-04T02:26:31.850Z",
+  "updated": "2026-11-04T03:28:02.350Z",
   "market": {
     "ibov": {
       "price": 165528.92,
       "pct": -1.42,
-      "time": "2026-11-04T02:26:28.248Z",
+      "time": "2026-11-04T03:27:57.743Z",
       "history": [
         {
           "d": "2026-10-05",
@@ -84,7 +84,7 @@
         },
         {
           "d": "2026-11-03",
-          "c": 165528.9219
+          "c": 165529
         }
       ]
     },
@@ -140,6 +140,14 @@
     ]
   },
   "news": [
+    {
+      "title": "As sete disputas para o Senado que podem definir futuro do governo Trump",
+      "link": "https://www.bbc.com/portuguese/articles/crn8wnw3eq0wo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-04T03:18:17.000Z",
+      "summary": "Todas as atenções estão voltadas para algumas disputas para o Senado que decidirão o controle da cobiçada câmara alta. Aqui está um guia rápido.",
+      "source": "BBC News Brasil",
+      "cat": "internacional"
+    },
     {
       "title": "Senado aprova PEC da Segurança sem redução da maioridade penal",
       "link": "https://www.camara.leg.br/noticias/1315539-senado-aprova-pec-da-seguranca-sem-reducao-da-maioridade-penal",
@@ -290,14 +298,6 @@
       "date": "2026-11-03T12:00:00.000Z",
       "summary": "Dados da iniciativa reúnem indicadores de emprego, qualificação profissional e desigualdade de gênero; meta é apoiar a formulação de políticas públicas baseadas em estatísticas.",
       "source": "ONU News",
-      "cat": "internacional"
-    },
-    {
-      "title": "Quem vai ganhar as midterms? Os gráficos que mostram como a eleição dos EUA será decidida",
-      "link": "https://www.bbc.com/portuguese/articles/crlyklw8xxnyo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-03T10:51:38.000Z",
-      "summary": "Confira uma análise das principais pesquisas, disputas eleitorais e questões que antecedem a eleição desta terça-feira que definirá os dois últimos anos de Trump como presidente.",
-      "source": "BBC News Brasil",
       "cat": "internacional"
     },
     {
