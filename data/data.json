@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-04T08:17:15.914Z",
+  "updated": "2026-11-04T09:18:28.076Z",
   "market": {
     "ibov": {
       "price": 165528.92,
       "pct": -1.42,
-      "time": "2026-11-04T08:17:11.121Z",
+      "time": "2026-11-04T09:18:22.155Z",
       "history": [
         {
           "d": "2026-10-05",
@@ -141,6 +141,14 @@
   },
   "news": [
     {
+      "title": "Republicana moderada é derrotada e perde cadeira no Senado após quase 30 anos",
+      "link": "https://www.bbc.com/portuguese/articles/cq70pdkx8wnpo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-04T08:45:04.000Z",
+      "summary": "Susan Collins tentou se distanciar do presidente Donald Trump durante sua campanha em disputa marcada por controvérsias.",
+      "source": "BBC News Brasil",
+      "cat": "internacional"
+    },
+    {
       "title": "As viradas democratas que definiram a disputa pelo Senado nos EUA",
       "link": "https://www.bbc.com/portuguese/articles/crn8wnw3eq0wo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-04T07:58:57.000Z",
@@ -154,14 +162,6 @@
       "date": "2026-11-04T07:03:00.000Z",
       "summary": "Projeção da agência AP indica que oposição democrata conquista maioria na Câmara dos Representantes e no Senado, em forte derrota de Trump e dos republicanos. Acompanhe ao vivo.",
       "source": "DW Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "Amy Acton vence a eleição para governadora de Ohio após disputa acirrada com o bilionário Ramaswamy",
-      "link": "https://www.bbc.com/portuguese/articles/cm62y492gxd8o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-04T05:30:10.000Z",
-      "summary": "A disputa eleitoral esquentou nas últimas semanas depois que o candidato republicano lançou um anúncio com a mãe de Acton.",
-      "source": "BBC News Brasil",
       "cat": "internacional"
     },
     {
