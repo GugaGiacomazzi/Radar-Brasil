@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-04T16:51:30.378Z",
+  "updated": "2026-11-04T17:48:43.495Z",
   "market": {
     "ibov": {
-      "price": 166826.75,
-      "pct": 0.78,
-      "time": "2026-11-04T16:51:24.518Z",
+      "price": 167870.05,
+      "pct": 1.41,
+      "time": "2026-11-04T17:48:39.091Z",
       "history": [
         {
           "d": "2026-10-05",
@@ -88,7 +88,7 @@
         },
         {
           "d": "2026-11-04",
-          "c": 166927.4688
+          "c": 167870.0469
         }
       ]
     },
@@ -145,76 +145,92 @@
   },
   "news": [
     {
-      "title": "Maior controle judicial sobre instituições de acolhimento de crianças vai à CCJ",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/04/maior-controle-judicial-sobre-instituicoes-de-acolhimento-de-criancas-vai-a-ccj",
-      "date": "2026-11-04T16:44:43.000Z",
-      "summary": "A Comissão de Direitos Humanos (CDH) aprovou nesta quarta-feira (4) projeto que estabelece novas regras para o acolhimento emergencial de crianças e adolescentes em instituições. O PL 1.341/2026 tem objetivo de aumentar o controle judicial dessas medidas, evit",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
-      "title": "CDH rejeita mudanças da Câmara e texto sobre síndrome de Tourette vai à sanção",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/04/cdh-rejeita-mudancas-da-camara-e-texto-sobre-sindrome-de-tourette-vai-a-sancao",
-      "date": "2026-11-04T16:38:00.000Z",
-      "summary": "Pessoas com síndrome de Tourette poderão ser consideradas pessoas com deficiência (PCD) para todos os efeitos legais enquanto não forem regulamentados os instrumentos de avaliação da deficiência. A Comissão de Direitos Humanos (CDH) aprovou nesta quarta-feira ",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
-      "title": "Avança regulamentação da profissão de cuidador com jornada de 40 horas",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/04/avanca-regulamentacao-da-profissao-de-cuidador-com-jornada-de-40-horas",
-      "date": "2026-11-04T16:12:26.000Z",
-      "summary": "A Comissão de Direitos Humanos (CDH) aprovou nesta quarta-feira (4) projeto que regulamenta a profissão de cuidador de pessoas de qualquer idade. O texto estabelece requisitos de formação, define as atribuições desses profissionais e fixa jornada máxima de 40 ",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
-      "title": "CDH aprova projeto que muda avaliação de serviços de atendimento a crianças",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/04/avanca-projeto-que-muda-avaliacao-de-servicos-de-atendimento-a-criancas",
-      "date": "2026-11-04T16:05:21.000Z",
-      "summary": "A Comissão de Direitos Humanos (CDH) aprovou nesta quarta-feira (4) projeto que retira da Justiça da Infância e da Juventude a atribuição de atestar a qualidade e a eficiência do trabalho realizado por entidades que atendem crianças e adolescentes. A avaliação",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
-      "title": "Nova regra para reestruturação de dívidas de estados e municípios vai a Plenário",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/04/nova-regra-para-reestruturacao-de-dividas-de-estados-e-municipios-vai-a-plenario",
-      "date": "2026-11-04T15:53:26.000Z",
-      "summary": "A Comissão de Assuntos Econômicos (CAE) aprovou nesta quarta-feira (4), em reunião que deu continuidade ao debate iniciado na terça-feira (3), projeto de resolução que permite a estados, Distrito Federal e municípios contratar operações de crédito nos últimos ",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
-      "title": "Programa de saúde mental para pessoas idosas no SUS avança",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/04/programa-de-saude-mental-para-pessoas-idosas-no-sus-avanca",
-      "date": "2026-11-04T15:33:23.000Z",
-      "summary": "A Comissão de Direitos Humanos (CDH) aprovou nesta quarta-feira (4) projeto que cria um programa de saúde mental para pessoas idosas no Sistema Único de Saúde (SUS). A iniciativa prevê ações de prevenção, diagnóstico e tratamento de transtornos mentais. O prog",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão aprova Estatuto da Pessoa Intersexo com regras para cirurgias, registro e reparação",
-      "link": "https://www.camara.leg.br/noticias/1315247-comissao-aprova-estatuto-da-pessoa-intersexo-com-regras-para-cirurgias-registro-e-reparacao",
-      "date": "2026-11-04T15:12:00.000Z",
-      "summary": "Para virar lei, no entanto, a proposta ainda precisa ser aprovada por mais duas comissões e pelo Plenário da Câmara dos Deputados, e pelo Senado",
+      "title": "Comissão aprova projeto que amplia atuação de sindicatos em falências e protege créditos trabalhistas",
+      "link": "https://www.camara.leg.br/noticias/1315734-comissao-aprova-projeto-que-amplia-atuacao-de-sindicatos-em-falencias-e-protege-creditos-trabalhistas",
+      "date": "2026-11-04T17:29:00.000Z",
+      "summary": "O texto continua em análise na Câmara dos Deputados",
       "source": "Agência Câmara",
       "cat": "politica"
     },
     {
-      "title": "Trump diz que vai reconhecer resultado da eleição, diz que democratas 'fizeram bom trabalho' e critica republicanos",
+      "title": "CCT aprova 41 concessões e renovações para emissoras de rádio",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/04/cct-aprova-41-concessoes-e-renovacoes-para-emissoras-de-radio",
+      "date": "2026-11-04T17:23:53.000Z",
+      "summary": "A Comissão de Ciência, Tecnologia, Inovação e Informática (CCT) aprovou 41 projetos de decreto legislativo (PDLs) relativos à concessão e à renovação de outorgas para emissoras de rádio em 14 estados. As matérias aprovadas nesta quarta-feira (4) seguem para pr",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Orçamento de 2027 deve ser votado até o dia 17 de dezembro",
+      "link": "https://www.camara.leg.br/noticias/1315797-orcamento-de-2027-deve-ser-votado-ate-o-dia-17-de-dezembro",
+      "date": "2026-11-04T17:22:00.000Z",
+      "summary": "",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Comissão aprova projeto que garante educação de jovens e adultos em dois turnos",
+      "link": "https://www.camara.leg.br/noticias/1315804-comissao-aprova-projeto-que-garante-educacao-de-jovens-e-adultos-em-dois-turnos",
+      "date": "2026-11-04T17:22:00.000Z",
+      "summary": "Aprovado pela CCJ, projeto segue para o Senado, a não ser que haja recurso para votação pelo Plenário da Câmara",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Comissão da Câmara aprova medidas especiais para proteger povos indígenas em situações de desastres",
+      "link": "https://www.camara.leg.br/noticias/1315694-comissao-da-camara-aprova-medidas-especiais-para-proteger-povos-indigenas-em-situacoes-de-desastres",
+      "date": "2026-11-04T17:11:00.000Z",
+      "summary": "O projeto continua em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Comissão aprova projeto que suspende licença de construtoras inadimplentes",
+      "link": "https://www.camara.leg.br/noticias/1315709-comissao-aprova-projeto-que-suspende-licenca-de-construtoras-inadimplentes",
+      "date": "2026-11-04T17:07:00.000Z",
+      "summary": "Texto continua em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "CCT aprova incentivos para investimentos em pesquisa na saúde",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/04/cct-aprova-incentivos-para-investimentos-em-pesquisa-na-saude",
+      "date": "2026-11-04T16:48:15.000Z",
+      "summary": "A Comissão de Ciência e Tecnologia (CCT) aprovou nesta quarta-feira (4) a criação de incentivos para a inovação e a pesquisa científica no setor de saúde, com foco no combate a epidemias. O PL 4.465/2021 altera a legislação para direcionar recursos públicos à ",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "5 razões para o desastre do partido de Trump nas eleições nos EUA",
+      "link": "https://www.bbc.com/portuguese/articles/cmd7q98x7944o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-04T16:48:14.000Z",
+      "summary": "De eleitores revoltados a um presidente impopular, americanos em áreas tradicionalmente republicanas se voltaram para os democratas.",
+      "source": "BBC News Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "CDH aprova regras para internação de adolescentes com dependência química",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/04/cdh-aprova-regras-para-internacao-de-adolescentes-com-dependencia-quimica",
+      "date": "2026-11-04T16:47:25.000Z",
+      "summary": "A Comissão de Direitos Humanos (CDH) aprovou nesta quarta-feira (4) projeto que estabelece regras específicas para a internação de adolescentes usuários ou dependentes de drogas em situação de risco. A proposta também permite o acolhimento voluntário de crianç",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Projeto prevê alerta em equipamento eletrônico e contenção remota de agressores com medida de proteção",
+      "link": "https://www.camara.leg.br/noticias/1315704-projeto-preve-alerta-em-equipamento-eletronico-e-contencao-remota-de-agressores-com-medida-de-protecao",
+      "date": "2026-11-04T16:12:00.000Z",
+      "summary": "A proposta determina que o agressor mantenha distância mínima de 100 metros da vítima; a Câmara dos Deputados analisa o assunto",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Trump diz que vai reconhecer resultado da eleição, elogia democratas e critica republicanos",
       "link": "https://www.bbc.com/portuguese/articles/cw146dj0regko?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-04T14:59:53.000Z",
       "summary": "Presidente dos EUA escreveu na plataforma Truth Social que os republicanos teriam vencido 'com uma vitória esmagadora' se seu nome estivesse na cédula eleitoral.",
       "source": "BBC News Brasil",
       "cat": "internacional"
-    },
-    {
-      "title": "Motta destaca ações da Câmara para proteger mulheres e combater violência de gênero",
-      "link": "https://www.camara.leg.br/noticias/1315736-motta-destaca-acoes-da-camara-para-proteger-mulheres-e-combater-violencia-de-genero",
-      "date": "2026-11-04T14:55:00.000Z",
-      "summary": "Segundo o presidente, a Câmara tem transformado o compromisso com a proteção das mulheres em medidas concretas",
-      "source": "Agência Câmara",
-      "cat": "politica"
     },
     {
       "title": "Os gráficos e mapas que mostram a magnitude do triunfo democrata",
@@ -223,14 +239,6 @@
       "summary": "Eleições de meio de mandato nos EUA impuseram derrota a Trump, com Partido Democrata assumindo controle do Senado e da Câmara dos Representantes, além de conquistar o governo em vários Estados.",
       "source": "BBC News Brasil",
       "cat": "internacional"
-    },
-    {
-      "title": "Comissão aprova fim da exigência de nome civil junto ao nome social na identidade",
-      "link": "https://www.camara.leg.br/noticias/1315258-comissao-aprova-fim-da-exigencia-de-nome-civil-junto-ao-nome-social-na-identidade",
-      "date": "2026-11-04T14:39:00.000Z",
-      "summary": "O projeto continua em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica"
     },
     {
       "title": "Amapá assume papel relevante na rota do tráfico internacional",
@@ -249,30 +257,6 @@
       "cat": "internacional"
     },
     {
-      "title": "Comissão aprova medidas de proteção a crianças indígenas e quilombolas",
-      "link": "https://www.camara.leg.br/noticias/1315654-comissao-aprova-medidas-de-protecao-a-criancas-indigenas-e-quilombolas",
-      "date": "2026-11-04T13:33:00.000Z",
-      "summary": "Texto segue em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Câmara pode votar projeto sobre monitoramento de agressores de mulheres e regras para uso de postes",
-      "link": "https://www.camara.leg.br/noticias/1315618-camara-pode-votar-projeto-sobre-monitoramento-de-agressores-de-mulheres-e-regras-para-uso-de-postes",
-      "date": "2026-11-04T12:23:00.000Z",
-      "summary": "Também estão na pauta propostas sobre drones em presídios, maus-tratos a animais e saúde de crianças e adolescentes",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Quem é Gina Hinojosa, democrata de ascendência mexicana que será 1ª latina a governar o Texas",
-      "link": "https://www.bbc.com/portuguese/articles/ckm23qjvm888o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-04T11:35:54.000Z",
-      "summary": "Deputada estadual derrotou Greg Abbott nas eleições de meio mandato, um dos governadores republicanos mais proeminentes do país e aliado fiel do presidente Donald Trump.",
-      "source": "BBC News Brasil",
-      "cat": "internacional"
-    },
-    {
       "title": "Entenda a PEC da Segurança Pública, aprovada no Senado",
       "link": "https://www.dw.com/pt-br/entenda-a-pec-da-segurança-pública-aprovada-no-senado/a-76232387?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-04T11:24:00.000Z",
@@ -281,15 +265,7 @@
       "cat": "internacional"
     },
     {
-      "title": "Comissão debate dispensa de laudo médico para atendimento de alunos da educação especial",
-      "link": "https://www.camara.leg.br/noticias/1315372-comissao-debate-dispensa-de-laudo-medico-para-atendimento-de-alunos-da-educacao-especial",
-      "date": "2026-11-04T11:17:00.000Z",
-      "summary": "Audiência será promovida pela subcomissão que analisa projeto sobre o assunto",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Análise: 'Onda Azul ' nas midterms de 2026 que expõe perda de força de Trump pode levar a pedido de impeachment?",
+      "title": "Análise: 'Onda azul' que expõe perda de força de Trump pode levar a pedido de impeachment?",
       "link": "https://www.bbc.com/portuguese/articles/cr1ex57zlqj2o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-04T10:54:38.000Z",
       "summary": "Algumas disputas para o Senado, que há um ano eram consideradas acirradas, acabaram se tornando vitórias fáceis para os democratas.",
