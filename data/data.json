@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-05T02:51:32.645Z",
+  "updated": "2026-11-05T03:50:56.307Z",
   "market": {
     "ibov": {
       "price": 167563.47,
       "pct": 1.23,
-      "time": "2026-11-05T02:51:27.350Z",
+      "time": "2026-11-05T03:50:32.184Z",
       "history": [
         {
           "d": "2026-10-06",
@@ -84,7 +84,7 @@
         },
         {
           "d": "2026-11-04",
-          "c": 167563.4688
+          "c": 167564
         }
       ]
     },
@@ -341,5 +341,7 @@
       "cat": "economia"
     }
   ],
-  "errors": []
+  "errors": [
+    "Dívida/PIB (SGS 13762): The operation was aborted due to timeout"
+  ]
 }
