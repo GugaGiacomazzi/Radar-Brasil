@@ -1,15 +1,11 @@
 {
-  "updated": "2026-11-04T23:39:17.875Z",
+  "updated": "2026-11-05T00:25:20.545Z",
   "market": {
     "ibov": {
       "price": 167563.47,
       "pct": 1.23,
-      "time": "2026-11-04T23:39:12.507Z",
+      "time": "2026-11-05T00:25:15.258Z",
       "history": [
-        {
-          "d": "2026-10-05",
-          "c": 206912
-        },
         {
           "d": "2026-10-06",
           "c": 205835
@@ -165,22 +161,6 @@
       "link": "https://www12.senado.leg.br/noticias/materias/2026/11/04/uso-de-organizacoes-sociais-em-contratos-na-saude-e-questionado-em-audiencia-no-senado",
       "date": "2026-11-04T22:57:29.000Z",
       "summary": "A falta de transparência, as falhas na fiscalização e o uso de organizações sociais como intermediárias para contratações irregulares estão entre os principais problemas identificados em contratos de gestão de serviços públicos de saúde. O diagnóstico foi apre",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
-      "title": "Davi vai analisar questões de Randolfe sobre situação de Flávio Bolsonaro",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/04/davi-vai-analisar-questoes-de-randolfe-sobre-situacao-de-flavio-bolsonaro",
-      "date": "2026-11-04T22:46:06.000Z",
-      "summary": "O presidente do Senado, Davi Alcolumbre, afirmou nesta quarta-feira (4) que vai analisar duas questões de ordem levantadas pelo senador Randolfe Rodrigues (PT-AP) sobre a situação do senador Flávio Bolsonaro (PL-RJ), que está nos EUA desde 28 de outubro e voto",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
-      "title": "Senado permite que estados e municípios renegociem dívidas durante final de mandato",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/04/senado-permite-que-estados-e-municipios-renegociem-dividas-durante-final-de-mandato",
-      "date": "2026-11-04T22:34:16.000Z",
-      "summary": "O Senado aprovou nesta quarta-feira (4) o projeto de resolução que permite a estados, Distrito Federal e municípios contratarem operações de crédito nos últimos 120 dias do mandato de governadores e prefeitos para substituir dívidas existentes por outras com c",
       "source": "Agência Senado",
       "cat": "politica"
     },
