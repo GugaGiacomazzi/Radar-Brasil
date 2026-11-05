@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-05T11:52:09.046Z",
+  "updated": "2026-11-05T12:58:49.193Z",
   "market": {
     "ibov": {
       "price": 167563.47,
       "pct": 1.23,
-      "time": "2026-11-05T11:52:03.709Z",
+      "time": "2026-11-05T12:58:44.396Z",
       "history": [
         {
           "d": "2026-10-06",
@@ -141,6 +141,14 @@
   },
   "news": [
     {
+      "title": "O que a China espera de cúpula com Trump e Putin sobre a Ucrânia?",
+      "link": "https://www.dw.com/pt-br/o-que-a-china-espera-de-cúpula-com-trump-e-putin-sobre-a-ucrânia/a-79855250?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-05T12:16:00.000Z",
+      "summary": "Enquanto Trump tenta reativar negociações de paz, Moscou articula reunião com EUA e China sem Ucrânia e UE. Analistas avaliam os interesses estratégicos de Pequim e o impacto para a Europa.",
+      "source": "DW Brasil",
+      "cat": "internacional"
+    },
+    {
       "title": "Câmara pode votar projetos sobre monitoramento de agressores e maus-tratos a animais",
       "link": "https://www.camara.leg.br/noticias/1316213-camara-pode-votar-projetos-sobre-monitoramento-de-agressores-e-maus-tratos-a-animais",
       "date": "2026-11-05T11:42:00.000Z",
@@ -189,7 +197,7 @@
       "cat": "internacional"
     },
     {
-      "title": "Quem é o brasileiro eleito deputado na Flórida que critica Flávio Bolsonaro e se inspira em Erika Hilton",
+      "title": "Quem é o brasileiro eleito na Flórida que critica Flávio Bolsonaro e se inspira em Erika Hilton",
       "link": "https://www.bbc.com/portuguese/articles/cm62y4dnznvxo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-05T09:21:03.000Z",
       "summary": "O democrata Felipe Sousa-Lazaballet, nascido na Baixada Fluminense, será o primeiro brasileiro a integrar o legislativo da Flórida.",
@@ -197,7 +205,7 @@
       "cat": "internacional"
     },
     {
-      "title": "Vitória democrata nos EUA não deve aliviar pressão de Trump sobre Brasil, avaliam analistas",
+      "title": "Pressão de Trump sobre governo Lula não deve ser aliviada com vitória democrata, dizem analistas",
       "link": "https://www.bbc.com/portuguese/articles/cm78p04n78zno?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-05T08:33:48.000Z",
       "summary": "Novo Congresso de maioria democrata aumentará obstáculos à agenda interna do presidente, mas não tem mecanismos institucionais para barrar tarifas, sanções e medidas contra outros países.",
@@ -219,14 +227,6 @@
       "summary": "Democratas conquistaram o controle das duas Casas do Congresso e venceram disputas importantes nos Estados, enquanto Donald Trump, republicanos e aliados enfrentaram derrotas em diferentes partes do país.",
       "source": "BBC News Brasil",
       "cat": "internacional"
-    },
-    {
-      "title": "Uso de organizações sociais em contratos na saúde é questionado em audiência no Senado",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/04/uso-de-organizacoes-sociais-em-contratos-na-saude-e-questionado-em-audiencia-no-senado",
-      "date": "2026-11-04T22:57:29.000Z",
-      "summary": "A falta de transparência, as falhas na fiscalização e o uso de organizações sociais como intermediárias para contratações irregulares estão entre os principais problemas identificados em contratos de gestão de serviços públicos de saúde. O diagnóstico foi apre",
-      "source": "Agência Senado",
-      "cat": "politica"
     },
     {
       "title": "Instalada comissão que vai analisar linhas de crédito para empresas atingidas por tarifaço",
@@ -266,14 +266,6 @@
       "date": "2026-11-04T20:52:50.000Z",
       "summary": "Áudios enviados a bolsista de colégio particular de BH criticam religião de matriz africana, humilham família por ser de baixa renda e dirigem conteúdo sexual à menina. Escola diz que não compactua com casos de discriminação.",
       "source": "BBC News Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "Trump admite que guerra no Irã contribuiu para derrota republicana",
-      "link": "https://www.dw.com/pt-br/trump-admite-que-guerra-no-irã-contribuiu-para-derrota-republicana/live-79849879?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-04T20:20:00.000Z",
-      "summary": "Presidente dos EUA reconheceu que o conflito contribuiu para o fiasco de seu partido nas eleições, mas disse que \"faria de novo\", minimizando crítica feita por seu vice, JD Vance.",
-      "source": "DW Brasil",
       "cat": "internacional"
     },
     {
