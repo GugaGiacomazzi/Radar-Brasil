@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-05T21:43:03.242Z",
+  "updated": "2026-11-05T22:44:28.284Z",
   "market": {
     "ibov": {
       "price": 166191.45,
       "pct": -0.82,
-      "time": "2026-11-05T21:42:59.114Z",
+      "time": "2026-11-05T22:44:21.894Z",
       "history": [
         {
           "d": "2026-10-06",
@@ -145,8 +145,16 @@
   },
   "news": [
     {
-      "title": "Paim lança frente pela paz mundial e comemora vitória dos democratas nos EUA",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/05/paim-vitoria-do-partido-democrata-nos-estados-unidos-contribui-para-a-paz",
+      "title": "Projeto cria portal para eleitor consultar posições dos partidos políticos",
+      "link": "https://www.camara.leg.br/noticias/1311454-projeto-cria-portal-para-eleitor-consultar-posicoes-dos-partidos-politicos",
+      "date": "2026-11-05T22:05:00.000Z",
+      "summary": "Proposta está em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Em sessão em Plenário, Paim relaciona paz à vitória democrata nos EUA",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/05/em-sessao-em-plenario-paim-relaciona-paz-a-vitoria-democrata-nos-eua",
       "date": "2026-11-05T21:36:43.000Z",
       "summary": "A paz mundial ganhou um novo fôlego com a vitória do Partido Democrata nas eleições dos EUA de meio de mandato, que ocorreram nesta semana. Foi o que afirmou o senador Paulo Paim (PT-RS) durante o lançamento da Frente Parlamentar pela Paz Mundial, nesta quinta",
       "source": "Agência Senado",
@@ -193,14 +201,6 @@
       "cat": "politica"
     },
     {
-      "title": "Comissão aprova ampliação de R$ 13,5 bilhões no crédito a exportadores",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/05/comissao-aprova-ampliacao-de-r-13-5-bilhoes-no-credito-a-exportadores",
-      "date": "2026-11-05T20:01:32.000Z",
-      "summary": "A Comissão Mista da Medida Provisória (MP) 1.379/2026 aprovou nesta quinta-feira (5) a ampliação em até R$ 13,5 bilhões dos recursos do Plano Brasil Soberano destinados a empresas exportadoras e seus fornecedores. A proposta recebeu parecer favorável da senado",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
       "title": "Entenda o escândalo bancário que derrubou o presidente do Paraguai",
       "link": "https://www.dw.com/pt-br/entenda-o-escândalo-bancário-que-derrubou-o-presidente-do-paraguai/a-79870697?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-05T19:57:00.000Z",
@@ -221,14 +221,6 @@
       "link": "https://www.camara.leg.br/noticias/1316287-comissao-aprova-projeto-que-cria-programa-nacional-de-defesa-pessoal-para-mulheres",
       "date": "2026-11-05T18:50:00.000Z",
       "summary": "A proposta segue em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Conselho de Comunicação debate educação midiática e letramento digital; participe",
-      "link": "https://www.camara.leg.br/noticias/1316471-conselho-de-comunicacao-debate-educacao-midiatica-e-letramento-digital-participe",
-      "date": "2026-11-05T18:20:00.000Z",
-      "summary": "A reunião, que será interativa, é uma oportunidade para discutir como preparar os cidadãos para os desafios do ambiente digital",
       "source": "Agência Câmara",
       "cat": "politica"
     },
@@ -353,10 +345,5 @@
       "cat": "economia"
     }
   ],
-  "errors": [
-    "Selic (SGS 432): HTTP 503",
-    "IPCA 12m (SGS 13522): fetch failed",
-    "Dívida/PIB (SGS 13762): HTTP 503",
-    "Dívida R$ (SGS 13761): HTTP 503"
-  ]
+  "errors": []
 }
