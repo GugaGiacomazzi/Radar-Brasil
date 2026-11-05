@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-05T15:34:33.131Z",
+  "updated": "2026-11-05T16:42:50.262Z",
   "market": {
     "ibov": {
-      "price": 167288.7,
-      "pct": -0.16,
-      "time": "2026-11-05T15:34:28.016Z",
+      "price": 166799.56,
+      "pct": -0.46,
+      "time": "2026-11-05T16:42:46.036Z",
       "history": [
         {
           "d": "2026-10-06",
@@ -88,7 +88,7 @@
         },
         {
           "d": "2026-11-05",
-          "c": 167288.7031
+          "c": 166799.5625
         }
       ]
     },
@@ -144,6 +144,22 @@
     ]
   },
   "news": [
+    {
+      "title": "Comissão de Agricultura aprova proposta para incentivar hortas em áreas urbanas",
+      "link": "https://www.camara.leg.br/noticias/1316281-comissao-de-agricultura-aprova-proposta-para-incentivar-hortas-em-areas-urbanas",
+      "date": "2026-11-05T16:33:00.000Z",
+      "summary": "A Câmara dos Deputados continua discutindo o assunto",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "MP define as alíquotas do Imposto Seletivo para 2027",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/05/mp-define-as-aliquotas-do-imposto-seletivo-para-2027",
+      "date": "2026-11-05T15:29:24.000Z",
+      "summary": "Aprovado no âmbito da reforma tributária, o Imposto Seletivo (IS) teve suas alíquotas e regras de cobrança estabelecidas por medida provisória (MP 1.399/2026) publicada nesta quarta-feira (4) no Diário Oficial da União. Conhecido como “imposto do pecado”, o tr",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
     {
       "title": "Deputados aprovam projeto que permite adaptar obras em Linguagem Simples para pessoas com deficiência",
       "link": "https://www.camara.leg.br/noticias/1316422-deputados-aprovam-projeto-que-permite-adaptar-obras-em-linguagem-simples-para-pessoas-com-deficiencia",
@@ -201,14 +217,6 @@
       "cat": "politica"
     },
     {
-      "title": "Comissão da Câmara debate políticas públicas de saúde oncológica voltadas para as mulheres",
-      "link": "https://www.camara.leg.br/noticias/1316234-comissao-da-camara-debate-politicas-publicas-de-saude-oncologica-voltadas-para-as-mulheres",
-      "date": "2026-11-05T14:35:00.000Z",
-      "summary": "",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
       "title": "Latinos se voltaram contra Trump nas eleições de meio de mandato",
       "link": "https://www.dw.com/pt-br/latinos-se-voltaram-contra-trump-nas-eleições-de-meio-de-mandato/a-79862226?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-05T13:50:00.000Z",
@@ -222,6 +230,14 @@
       "date": "2026-11-05T12:16:00.000Z",
       "summary": "Enquanto Trump tenta reativar negociações de paz, Moscou articula reunião com EUA e China sem Ucrânia e UE. Analistas avaliam os interesses estratégicos de Pequim e o impacto para a Europa.",
       "source": "DW Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "Agência da ONU mostra como alta do petróleo afeta países de forma diferente",
+      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854840",
+      "date": "2026-11-05T12:00:00.000Z",
+      "summary": "Entre fevereiro e agosto, o valor cobrado pelo diesel disparou em 83% na Nigéria comparado a 9% na Irlanda; em Mianmar, consumidores tiveram acréscimo de 51% no preço da gasolina enquanto a conta dos suecos subiu apenas 3% no mesmo período.",
+      "source": "ONU News",
       "cat": "internacional"
     },
     {
@@ -293,14 +309,6 @@
       "link": "https://www.bbc.com/portuguese/articles/c6kg7ej7e73ko?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-04T20:52:50.000Z",
       "summary": "Áudios enviados a bolsista de colégio particular de BH criticam religião de matriz africana, humilham família por ser de baixa renda e dirigem conteúdo sexual à menina. Escola diz que não compactua com casos de discriminação.",
-      "source": "BBC News Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "Os gráficos e mapas que mostram a magnitude do triunfo democrata",
-      "link": "https://www.bbc.com/portuguese/articles/cvy0rzd2jr7jo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-04T14:44:23.000Z",
-      "summary": "Eleições de meio de mandato nos EUA impuseram derrota a Trump, com Partido Democrata assumindo controle do Senado e da Câmara dos Representantes, além de conquistar o governo em vários Estados.",
       "source": "BBC News Brasil",
       "cat": "internacional"
     },
