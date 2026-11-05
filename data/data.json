@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-05T08:30:50.241Z",
+  "updated": "2026-11-05T09:37:22.160Z",
   "market": {
     "ibov": {
       "price": 167563.47,
       "pct": 1.23,
-      "time": "2026-11-05T08:30:45.772Z",
+      "time": "2026-11-05T09:37:17.308Z",
       "history": [
         {
           "d": "2026-10-06",
@@ -141,6 +141,30 @@
   },
   "news": [
     {
+      "title": "Controverso político alemão é encontrado morto em hotel em Berlim",
+      "link": "https://www.dw.com/pt-br/controverso-político-alemão-é-encontrado-morto-em-hotel-em-berlim/a-79862080?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-05T09:34:00.000Z",
+      "summary": "Polícia investiga morte de vice-governador da Baviera de 55 anos encontrado em quarto de hotel. Hubert Aiwanger cancelou participação em evento de seu partido por não se sentir bem.",
+      "source": "DW Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "Brasileiro eleito na Flórida critica abrigo a Flávio Bolsonaro e diz se espelhar em Erika Hilton",
+      "link": "https://www.bbc.com/portuguese/articles/cm62y4dnznvxo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-05T09:21:03.000Z",
+      "summary": "O democrata Felipe Sousa-Lazaballet, nascido na Baixada Fluminense, será o primeiro brasileiro a integrar o legislativo da Flórida.",
+      "source": "BBC News Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "Vitória democrata nos EUA não deve aliviar pressão de Trump sobre Brasil, avaliam analistas",
+      "link": "https://www.bbc.com/portuguese/articles/cm78p04n78zno?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-05T08:33:48.000Z",
+      "summary": "Novo Congresso de maioria democrata aumentará obstáculos à agenda interna do presidente, mas não tem mecanismos institucionais para barrar tarifas, sanções e medidas contra outros países.",
+      "source": "BBC News Brasil",
+      "cat": "internacional"
+    },
+    {
       "title": "Debatedores divergem sobre projeto de lei para ampliar concorrência no mercado de gás natural",
       "link": "https://www.camara.leg.br/noticias/1316160-debatedores-divergem-sobre-projeto-de-lei-para-ampliar-concorrencia-no-mercado-de-gas-natural",
       "date": "2026-11-04T23:26:00.000Z",
@@ -261,14 +285,6 @@
       "cat": "internacional"
     },
     {
-      "title": "5 razões para o desastre do partido de Trump nas eleições nos EUA",
-      "link": "https://www.bbc.com/portuguese/articles/cmd7q98x7944o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-04T16:48:14.000Z",
-      "summary": "De eleitores revoltados a um presidente impopular, americanos em áreas tradicionalmente republicanas se voltaram para os democratas.",
-      "source": "BBC News Brasil",
-      "cat": "internacional"
-    },
-    {
       "title": "Os gráficos e mapas que mostram a magnitude do triunfo democrata",
       "link": "https://www.bbc.com/portuguese/articles/cvy0rzd2jr7jo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-04T14:44:23.000Z",
@@ -277,27 +293,11 @@
       "cat": "internacional"
     },
     {
-      "title": "Amapá assume papel relevante na rota do tráfico internacional",
-      "link": "https://www.dw.com/pt-br/amapá-assume-papel-relevante-na-rota-do-tráfico-internacional/a-79856004?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-04T14:07:00.000Z",
-      "summary": "Produtores de cocaína escoam droga pela Amazônia brasileira desde a década de 1980, porém, nos últimos anos rota foi redirecionada com aumento da fiscalização e expansão do crime organizado na região.",
-      "source": "DW Brasil",
-      "cat": "internacional"
-    },
-    {
       "title": "Análise: 'Onda azul' que expõe perda de força de Trump pode levar a pedido de impeachment?",
       "link": "https://www.bbc.com/portuguese/articles/cr1ex57zlqj2o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-04T10:54:38.000Z",
       "summary": "Algumas disputas para o Senado, que há um ano eram consideradas acirradas, acabaram se tornando vitórias fáceis para os democratas.",
       "source": "BBC News Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "Mundo tem cerca de 2 bilhões de pessoas fora da internet, diz relatório da ONU",
-      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854826",
-      "date": "2026-11-03T12:00:00.000Z",
-      "summary": "Apesar de 76% dos cidadãos globais estarem online, desigualdade digital persiste; UIT realça que 93% das populações mais ricas acessam a rede, enquanto apenas 32% o fazem em economias de baixa renda; no espaço lusófono, são urgentes investimentos em infraestru",
-      "source": "ONU News",
       "cat": "internacional"
     },
     {
