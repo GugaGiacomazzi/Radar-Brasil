@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-05T17:52:49.063Z",
+  "updated": "2026-11-05T18:49:34.230Z",
   "market": {
     "ibov": {
-      "price": 166505.25,
-      "pct": -0.63,
-      "time": "2026-11-05T17:52:44.216Z",
+      "price": 166739.73,
+      "pct": -0.49,
+      "time": "2026-11-05T18:49:30.037Z",
       "history": [
         {
           "d": "2026-10-06",
@@ -88,7 +88,7 @@
         },
         {
           "d": "2026-11-05",
-          "c": 166479.3438
+          "c": 166773.3906
         }
       ]
     },
@@ -145,20 +145,60 @@
   },
   "news": [
     {
+      "title": "Conselho de Comunicação debate educação midiática e letramento digital; participe",
+      "link": "https://www.camara.leg.br/noticias/1316471-conselho-de-comunicacao-debate-educacao-midiatica-e-letramento-digital-participe",
+      "date": "2026-11-05T18:20:00.000Z",
+      "summary": "A reunião, que será interativa, é uma oportunidade para discutir como preparar os cidadãos para os desafios do ambiente digital",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Comissão de Relações Exteriores segue 'com atenção' crise no Paraguai",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/05/comissao-de-relacoes-exteriores-segue-com-atencao-crise-no-paraguai",
+      "date": "2026-11-05T18:17:46.000Z",
+      "summary": "O presidente da Comissão de Relações Exteriores (CRE), senador Nelsinho Trad (PSD-MS), informou por meio de nota que está acompanhando com atenção a crise que envolve o Paraguai. Na manhã desta quinta-feira (5), o presidente do Paraguai, Santiago Peña, anuncio",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Presidente do Paraguai renuncia em meio a escândalo por colapso de banco",
+      "link": "https://www.dw.com/pt-br/presidente-do-paraguai-renuncia-em-meio-a-escândalo-por-colapso-de-banco/a-79869651?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-05T18:11:00.000Z",
+      "summary": "Congresso avalia impeachment de Santiago Peña após colapso de banco digital afetar 3 milhões de clientes. Banco Central interveio ao constatar que instituição virtual não tinha fundos para honrar compromissos.",
+      "source": "DW Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "Comissão aprova comunicação de registro de nascimento sem o nome do pai",
+      "link": "https://www.camara.leg.br/noticias/1316454-comissao-aprova-comunicacao-de-registro-de-nascimento-sem-o-nome-do-pai",
+      "date": "2026-11-05T18:00:00.000Z",
+      "summary": "Proposta segue em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Comissão aprova projeto que cria programa nacional de defesa pessoal para mulheres",
+      "link": "https://www.camara.leg.br/noticias/1316287-comissao-aprova-projeto-que-cria-programa-nacional-de-defesa-pessoal-para-mulheres",
+      "date": "2026-11-05T17:56:00.000Z",
+      "summary": "A proposta segue em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Hungria abre os arquivos secretos da era comunista",
+      "link": "https://www.dw.com/pt-br/hungria-abre-os-arquivos-secretos-da-era-comunista/a-79866924?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-05T17:49:00.000Z",
+      "summary": "Governo do premiê Péter Magyar divulga os \"arquivos dos agentes\", com nomes de informantes da segurança estatal. Medida reacende debate sobre culpa e responsabilidade mais de três décadas após o fim do regime soviético.",
+      "source": "DW Brasil",
+      "cat": "internacional"
+    },
+    {
       "title": "Comissão aprova política para compra pública de alimentos perecíveis de pequenos produtores",
       "link": "https://www.camara.leg.br/noticias/1316206-comissao-aprova-politica-para-compra-publica-de-alimentos-pereciveis-de-pequenos-produtores",
       "date": "2026-11-05T17:29:00.000Z",
       "summary": "Proposta segue em análise na Câmara dos Deputados",
       "source": "Agência Câmara",
       "cat": "politica"
-    },
-    {
-      "title": "Presidente do Paraguai renuncia em meio a escândalo por colapso de banco",
-      "link": "https://www.dw.com/pt-br/presidente-do-paraguai-renuncia-em-meio-a-escândalo-por-colapso-de-banco/a-79869651?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-05T17:09:00.000Z",
-      "summary": "Santiago Peña era alvo de processo de impeachment por crise após banco digital colapsar, afetando 3 milhões de clientes. Banco Central interveio ao constatar que instituição não tinha fundos para honrar compromissos.",
-      "source": "DW Brasil",
-      "cat": "internacional"
     },
     {
       "title": "Comissão aprova socorro fiscal e renegociação de dívidas para agroexportadores",
@@ -173,30 +213,6 @@
       "link": "https://www.camara.leg.br/noticias/1316355-comissao-aprova-projeto-que-permite-retirar-sobrenome-de-pais-que-perderem-o-poder-familiar",
       "date": "2026-11-05T17:04:00.000Z",
       "summary": "A proposta segue em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão aprova projeto que obriga agressor a pagar pensão a vítima de violência doméstica",
-      "link": "https://www.camara.leg.br/noticias/1316321-comissao-aprova-projeto-que-obriga-agressor-a-pagar-pensao-a-vitima-de-violencia-domestica",
-      "date": "2026-11-05T17:02:00.000Z",
-      "summary": "Texto continua em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão debate implantação e projeto acadêmico da Universidade Federal do Esporte; participe",
-      "link": "https://www.camara.leg.br/noticias/1316274-comissao-debate-implantacao-e-projeto-academico-da-universidade-federal-do-esporte-participe",
-      "date": "2026-11-05T17:00:00.000Z",
-      "summary": "",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão aprova incentivo à pós-graduação de profissionais da educação básica",
-      "link": "https://www.camara.leg.br/noticias/1316273-comissao-aprova-incentivo-a-pos-graduacao-de-profissionais-da-educacao-basica",
-      "date": "2026-11-05T16:54:00.000Z",
-      "summary": "O projeto continua em análise na Câmara dos Deputados",
       "source": "Agência Câmara",
       "cat": "politica"
     },
@@ -241,18 +257,18 @@
       "cat": "internacional"
     },
     {
+      "title": "Agência da ONU mostra como alta do petróleo afeta países de forma diferente",
+      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854840",
+      "date": "2026-11-05T12:00:00.000Z",
+      "summary": "Entre fevereiro e agosto, o valor cobrado pelo diesel disparou em 83% na Nigéria comparado a 9% na Irlanda; em Mianmar, consumidores tiveram acréscimo de 51% no preço da gasolina enquanto a conta dos suecos subiu apenas 3% no mesmo período.",
+      "source": "ONU News",
+      "cat": "internacional"
+    },
+    {
       "title": "Ativista pró-democracia de Hong Kong condenado a mais 10 anos de prisão",
       "link": "https://www.dw.com/pt-br/ativista-pró-democracia-de-hong-kong-condenado-a-mais-10-anos-de-prisão/a-79863270?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-05T11:19:00.000Z",
       "summary": "Joshua Wong, um dos líderes dos protestos que abalaram o território semiautônomo, foi considerado culpado de \"conspirar com forças estrangeiras\" para colocar em risco a segurança nacional, sob a lei imposta por Pequim.",
-      "source": "DW Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "O que pode mudar na América Latina diante do novo equilíbrio de poder no Congresso dos EUA",
-      "link": "https://www.dw.com/pt-br/o-que-pode-mudar-na-américa-latina-diante-do-novo-equilíbrio-de-poder-no-congresso-dos-eua/a-79862458?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-05T11:02:00.000Z",
-      "summary": "Maioria democrata no Congresso americano poderá fiscalizar decisões de Trump e exercer pressão, mas há limitações para uma mudança de rumo na política externa regional.",
       "source": "DW Brasil",
       "cat": "internacional"
     },
@@ -301,14 +317,6 @@
       "link": "https://www.bbc.com/portuguese/articles/cmd7q98x7944o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-04T16:48:14.000Z",
       "summary": "De eleitores revoltados a um presidente impopular, americanos em áreas tradicionalmente republicanas se voltaram para os democratas.",
-      "source": "BBC News Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "Os gráficos e mapas que mostram a magnitude do triunfo democrata",
-      "link": "https://www.bbc.com/portuguese/articles/cvy0rzd2jr7jo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-04T14:44:23.000Z",
-      "summary": "Eleições de meio de mandato nos EUA impuseram derrota a Trump, com Partido Democrata assumindo controle do Senado e da Câmara dos Representantes, além de conquistar o governo em vários Estados.",
       "source": "BBC News Brasil",
       "cat": "internacional"
     },
