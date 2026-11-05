@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-05T14:21:44.510Z",
+  "updated": "2026-11-05T15:34:33.131Z",
   "market": {
     "ibov": {
-      "price": 168822.8,
-      "pct": 0.75,
-      "time": "2026-11-05T14:21:39.310Z",
+      "price": 167288.7,
+      "pct": -0.16,
+      "time": "2026-11-05T15:34:28.016Z",
       "history": [
         {
           "d": "2026-10-06",
@@ -88,7 +88,7 @@
         },
         {
           "d": "2026-11-05",
-          "c": 168900.7031
+          "c": 167288.7031
         }
       ]
     },
@@ -145,26 +145,66 @@
   },
   "news": [
     {
-      "title": "Deputados aprovam proposta que dá o nome de José Richa a túnel da Câmara; acompanhe",
-      "link": "https://www.camara.leg.br/noticias/1316228-deputados-aprovam-proposta-que-da-o-nome-de-jose-richa-a-tunel-da-camara-acompanhe",
-      "date": "2026-11-05T14:20:00.000Z",
+      "title": "Deputados aprovam projeto que permite adaptar obras em Linguagem Simples para pessoas com deficiência",
+      "link": "https://www.camara.leg.br/noticias/1316422-deputados-aprovam-projeto-que-permite-adaptar-obras-em-linguagem-simples-para-pessoas-com-deficiencia",
+      "date": "2026-11-05T15:24:00.000Z",
+      "summary": "A proposta altera a Lei de Direitos Autorais e segue para análise do Senado",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Medida provisória regulamenta o Imposto Seletivo para 2027",
+      "link": "https://www.camara.leg.br/noticias/1316363-medida-provisoria-regulamenta-o-imposto-seletivo-para-2027",
+      "date": "2026-11-05T15:16:00.000Z",
+      "summary": "Governo afirma que alíquotas foram calculadas para manter a carga tributária atual durante o primeiro ano de cobrança",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Novo site facilita comunicação do cidadão com o Senado",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/05/novo-site-facilita-comunicacao-do-cidadao-com-o-senado",
+      "date": "2026-11-05T15:15:51.000Z",
+      "summary": "A Ouvidoria do Senado lança um novo site nesta quinta-feira (5), com o objetivo de facilitar a comunicação entre o cidadão e a Casa. A reformulação inclui mudança de visual e navegação simplificada, melhorias no formulário de atendimento, reorganização das inf",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Câmara aprova projeto que reconhece artesanato do Maranhão como cultura nacional",
+      "link": "https://www.camara.leg.br/noticias/1316407-camara-aprova-projeto-que-reconhece-artesanato-do-maranhao-como-cultura-nacional",
+      "date": "2026-11-05T15:06:00.000Z",
+      "summary": "O texto segue para análise do Senado",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Como onda de investimentos na IA pode encarecer crédito na Europa",
+      "link": "https://www.dw.com/pt-br/como-onda-de-investimentos-na-ia-pode-encarecer-crédito-na-europa/a-79857746?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-05T14:57:00.000Z",
+      "summary": "Gigantes da tecnologia dos EUA emitem bilhões em títulos, inclusive em euro, e acabam competindo com governos europeus, em dificuldade financeira, pelo acesso a capital de investimento.",
+      "source": "DW Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "Câmara aprova ações de educação em saúde no SUS com foco na família",
+      "link": "https://www.camara.leg.br/noticias/1316367-camara-aprova-acoes-de-educacao-em-saude-no-sus-com-foco-na-familia",
+      "date": "2026-11-05T14:48:00.000Z",
+      "summary": "Proposta segue para análise do Senado",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Comissão de Segurança debate redução da maioridade penal no Brasil",
+      "link": "https://www.camara.leg.br/noticias/1316252-comissao-de-seguranca-debate-reducao-da-maioridade-penal-no-brasil",
+      "date": "2026-11-05T14:38:00.000Z",
       "summary": "",
       "source": "Agência Câmara",
       "cat": "politica"
     },
     {
-      "title": "Câmara dos Deputados inicia sessão para analisar propostas; acompanhe",
-      "link": "https://www.camara.leg.br/noticias/1316230-camara-dos-deputados-inicia-sessao-para-analisar-propostas-acompanhe",
-      "date": "2026-11-05T14:14:00.000Z",
+      "title": "Comissão da Câmara debate políticas públicas de saúde oncológica voltadas para as mulheres",
+      "link": "https://www.camara.leg.br/noticias/1316234-comissao-da-camara-debate-politicas-publicas-de-saude-oncologica-voltadas-para-as-mulheres",
+      "date": "2026-11-05T14:35:00.000Z",
       "summary": "",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão aprova projeto que permite desfiliação sem perda do mandato de mulher vítima de violência política",
-      "link": "https://www.camara.leg.br/noticias/1316225-comissao-aprova-projeto-que-permite-desfiliacao-sem-perda-do-mandato-de-mulher-vitima-de-violencia-politica",
-      "date": "2026-11-05T14:12:00.000Z",
-      "summary": "Câmara segue analisando a proposta",
       "source": "Agência Câmara",
       "cat": "politica"
     },
@@ -175,30 +215,6 @@
       "summary": "Presidente americano perdeu apoio entre parcela da população que o ajudou a se eleger. Atual política de deportação pode ter impulsionado este cenário.",
       "source": "DW Brasil",
       "cat": "internacional"
-    },
-    {
-      "title": "Comissão aprova projeto que estabelece maioria de mulheres no júri de casos de feminicídio",
-      "link": "https://www.camara.leg.br/noticias/1316220-comissao-aprova-projeto-que-estabelece-maioria-de-mulheres-no-juri-de-casos-de-feminicidio",
-      "date": "2026-11-05T13:49:00.000Z",
-      "summary": "Texto prevê pelo menos quatro mulheres entre os sete jurados. Proposta segue em análise na Câmara",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão da Câmara aprova compensação fiscal para produtores de leite",
-      "link": "https://www.camara.leg.br/noticias/1316197-comissao-da-camara-aprova-compensacao-fiscal-para-produtores-de-leite",
-      "date": "2026-11-05T13:31:00.000Z",
-      "summary": "A Câmara dos Deputados continua discutindo o assunto",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão aprova projeto que obriga agressor a pagar despesas de vítima com mudança de imóvel",
-      "link": "https://www.camara.leg.br/noticias/1316214-comissao-aprova-projeto-que-obriga-agressor-a-pagar-despesas-de-vitima-com-mudanca-de-imovel",
-      "date": "2026-11-05T13:18:00.000Z",
-      "summary": "Proposta continua em análise na Câmara",
-      "source": "Agência Câmara",
-      "cat": "politica"
     },
     {
       "title": "O que a China espera de cúpula com Trump e Putin sobre a Ucrânia?",
@@ -278,14 +294,6 @@
       "date": "2026-11-04T20:52:50.000Z",
       "summary": "Áudios enviados a bolsista de colégio particular de BH criticam religião de matriz africana, humilham família por ser de baixa renda e dirigem conteúdo sexual à menina. Escola diz que não compactua com casos de discriminação.",
       "source": "BBC News Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "Trump admite que guerra no Irã contribuiu para derrota republicana",
-      "link": "https://www.dw.com/pt-br/trump-admite-que-guerra-no-irã-contribuiu-para-derrota-republicana/live-79849879?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-04T20:20:00.000Z",
-      "summary": "Presidente dos EUA reconheceu que o conflito contribuiu para o fiasco de seu partido nas eleições, mas disse que \"faria de novo\", minimizando crítica feita por seu vice, JD Vance.",
-      "source": "DW Brasil",
       "cat": "internacional"
     },
     {
