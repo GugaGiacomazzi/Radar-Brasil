@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-05T20:45:31.289Z",
+  "updated": "2026-11-05T21:43:03.242Z",
   "market": {
     "ibov": {
-      "price": 166541.17,
-      "pct": -0.61,
-      "time": "2026-11-05T20:45:23.343Z",
+      "price": 166191.45,
+      "pct": -0.82,
+      "time": "2026-11-05T21:42:59.114Z",
       "history": [
         {
           "d": "2026-10-06",
@@ -88,7 +88,7 @@
         },
         {
           "d": "2026-11-05",
-          "c": 166505.7031
+          "c": 166191.4531
         }
       ]
     },
@@ -144,6 +144,30 @@
     ]
   },
   "news": [
+    {
+      "title": "Paim lança frente pela paz mundial e comemora vitória dos democratas nos EUA",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/05/paim-vitoria-do-partido-democrata-nos-estados-unidos-contribui-para-a-paz",
+      "date": "2026-11-05T21:36:43.000Z",
+      "summary": "A paz mundial ganhou um novo fôlego com a vitória do Partido Democrata nas eleições dos EUA de meio de mandato, que ocorreram nesta semana. Foi o que afirmou o senador Paulo Paim (PT-RS) durante o lançamento da Frente Parlamentar pela Paz Mundial, nesta quinta",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Flávio Bolsonaro diz ao NY Times que 'vai levar para o túmulo' como saiu do Brasil; jornal aponta ajuda dos EUA",
+      "link": "https://www.bbc.com/portuguese/articles/cm70ppw2k0y3o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-05T21:35:09.000Z",
+      "summary": "Em primeira entrevista desde que deixou o Brasil, senador nega ter recebido ajuda de governos; autoridades americanas, no entanto, afirmam que viagem teve participação da Casa Branca.",
+      "source": "BBC News Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "Comissão aprova criação de programa nacional de apoio à amamentação em emergências",
+      "link": "https://www.camara.leg.br/noticias/1316313-comissao-aprova-criacao-de-programa-nacional-de-apoio-a-amamentacao-em-emergencias",
+      "date": "2026-11-05T20:46:00.000Z",
+      "summary": "Proposta ainda está em discussão na Câmara",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
     {
       "title": "Comissão aprova criação de programa de atendimento domiciliar de saúde para idosos pelo SUS",
       "link": "https://www.camara.leg.br/noticias/1316336-comissao-aprova-criacao-de-programa-de-atendimento-domiciliar-de-saude-para-idosos-pelo-sus",
@@ -215,14 +239,6 @@
       "summary": "Congresso avalia impeachment de Santiago Peña após colapso de banco digital afetar 3 milhões de clientes. Banco Central interveio ao constatar que instituição virtual não tinha fundos para honrar compromissos.",
       "source": "DW Brasil",
       "cat": "internacional"
-    },
-    {
-      "title": "Comissão aprova comunicação de registro de nascimento sem o nome do pai",
-      "link": "https://www.camara.leg.br/noticias/1316454-comissao-aprova-comunicacao-de-registro-de-nascimento-sem-o-nome-do-pai",
-      "date": "2026-11-05T18:00:00.000Z",
-      "summary": "Proposta segue em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica"
     },
     {
       "title": "Hungria abre os arquivos secretos da era comunista",
@@ -297,14 +313,6 @@
       "cat": "economia"
     },
     {
-      "title": "'Minha filha de 13 anos sofreu ofensas racistas, sexuais e religiosas após resultado das eleições'",
-      "link": "https://www.bbc.com/portuguese/articles/c6kg7ej7e73ko?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-04T20:52:50.000Z",
-      "summary": "Áudios enviados a bolsista de colégio particular de BH criticam religião de matriz africana, humilham família por ser de baixa renda e dirigem conteúdo sexual à menina. Escola diz que não compactua com casos de discriminação.",
-      "source": "BBC News Brasil",
-      "cat": "internacional"
-    },
-    {
       "title": "BC divulga Estatísticas Fiscais à imprensa",
       "link": "https://www.bcb.gov.br/detalhenoticia/21306/nota",
       "date": "2026-10-29T17:03:09.000Z",
@@ -345,5 +353,10 @@
       "cat": "economia"
     }
   ],
-  "errors": []
+  "errors": [
+    "Selic (SGS 432): HTTP 503",
+    "IPCA 12m (SGS 13522): fetch failed",
+    "Dívida/PIB (SGS 13762): HTTP 503",
+    "Dívida R$ (SGS 13761): HTTP 503"
+  ]
 }
