@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-05T16:42:50.262Z",
+  "updated": "2026-11-05T17:52:49.063Z",
   "market": {
     "ibov": {
-      "price": 166799.56,
-      "pct": -0.46,
-      "time": "2026-11-05T16:42:46.036Z",
+      "price": 166505.25,
+      "pct": -0.63,
+      "time": "2026-11-05T17:52:44.216Z",
       "history": [
         {
           "d": "2026-10-06",
@@ -88,7 +88,7 @@
         },
         {
           "d": "2026-11-05",
-          "c": 166799.5625
+          "c": 166479.3438
         }
       ]
     },
@@ -145,10 +145,58 @@
   },
   "news": [
     {
-      "title": "Comissão de Agricultura aprova proposta para incentivar hortas em áreas urbanas",
-      "link": "https://www.camara.leg.br/noticias/1316281-comissao-de-agricultura-aprova-proposta-para-incentivar-hortas-em-areas-urbanas",
-      "date": "2026-11-05T16:33:00.000Z",
-      "summary": "A Câmara dos Deputados continua discutindo o assunto",
+      "title": "Comissão aprova política para compra pública de alimentos perecíveis de pequenos produtores",
+      "link": "https://www.camara.leg.br/noticias/1316206-comissao-aprova-politica-para-compra-publica-de-alimentos-pereciveis-de-pequenos-produtores",
+      "date": "2026-11-05T17:29:00.000Z",
+      "summary": "Proposta segue em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Presidente do Paraguai renuncia em meio a escândalo por colapso de banco",
+      "link": "https://www.dw.com/pt-br/presidente-do-paraguai-renuncia-em-meio-a-escândalo-por-colapso-de-banco/a-79869651?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-05T17:09:00.000Z",
+      "summary": "Santiago Peña era alvo de processo de impeachment por crise após banco digital colapsar, afetando 3 milhões de clientes. Banco Central interveio ao constatar que instituição não tinha fundos para honrar compromissos.",
+      "source": "DW Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "Comissão aprova socorro fiscal e renegociação de dívidas para agroexportadores",
+      "link": "https://www.camara.leg.br/noticias/1316203-comissao-aprova-socorro-fiscal-e-renegociacao-de-dividas-para-agroexportadores",
+      "date": "2026-11-05T17:07:00.000Z",
+      "summary": "Proposta segue em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Comissão aprova projeto que permite retirar sobrenome de pais que perderem o poder familiar",
+      "link": "https://www.camara.leg.br/noticias/1316355-comissao-aprova-projeto-que-permite-retirar-sobrenome-de-pais-que-perderem-o-poder-familiar",
+      "date": "2026-11-05T17:04:00.000Z",
+      "summary": "A proposta segue em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Comissão aprova projeto que obriga agressor a pagar pensão a vítima de violência doméstica",
+      "link": "https://www.camara.leg.br/noticias/1316321-comissao-aprova-projeto-que-obriga-agressor-a-pagar-pensao-a-vitima-de-violencia-domestica",
+      "date": "2026-11-05T17:02:00.000Z",
+      "summary": "Texto continua em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Comissão debate implantação e projeto acadêmico da Universidade Federal do Esporte; participe",
+      "link": "https://www.camara.leg.br/noticias/1316274-comissao-debate-implantacao-e-projeto-academico-da-universidade-federal-do-esporte-participe",
+      "date": "2026-11-05T17:00:00.000Z",
+      "summary": "",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Comissão aprova incentivo à pós-graduação de profissionais da educação básica",
+      "link": "https://www.camara.leg.br/noticias/1316273-comissao-aprova-incentivo-a-pos-graduacao-de-profissionais-da-educacao-basica",
+      "date": "2026-11-05T16:54:00.000Z",
+      "summary": "O projeto continua em análise na Câmara dos Deputados",
       "source": "Agência Câmara",
       "cat": "politica"
     },
@@ -161,35 +209,11 @@
       "cat": "politica"
     },
     {
-      "title": "Deputados aprovam projeto que permite adaptar obras em Linguagem Simples para pessoas com deficiência",
-      "link": "https://www.camara.leg.br/noticias/1316422-deputados-aprovam-projeto-que-permite-adaptar-obras-em-linguagem-simples-para-pessoas-com-deficiencia",
-      "date": "2026-11-05T15:24:00.000Z",
-      "summary": "A proposta altera a Lei de Direitos Autorais e segue para análise do Senado",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Medida provisória regulamenta o Imposto Seletivo para 2027",
-      "link": "https://www.camara.leg.br/noticias/1316363-medida-provisoria-regulamenta-o-imposto-seletivo-para-2027",
-      "date": "2026-11-05T15:16:00.000Z",
-      "summary": "Governo afirma que alíquotas foram calculadas para manter a carga tributária atual durante o primeiro ano de cobrança",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
       "title": "Novo site facilita comunicação do cidadão com o Senado",
       "link": "https://www12.senado.leg.br/noticias/materias/2026/11/05/novo-site-facilita-comunicacao-do-cidadao-com-o-senado",
       "date": "2026-11-05T15:15:51.000Z",
       "summary": "A Ouvidoria do Senado lança um novo site nesta quinta-feira (5), com o objetivo de facilitar a comunicação entre o cidadão e a Casa. A reformulação inclui mudança de visual e navegação simplificada, melhorias no formulário de atendimento, reorganização das inf",
       "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
-      "title": "Câmara aprova projeto que reconhece artesanato do Maranhão como cultura nacional",
-      "link": "https://www.camara.leg.br/noticias/1316407-camara-aprova-projeto-que-reconhece-artesanato-do-maranhao-como-cultura-nacional",
-      "date": "2026-11-05T15:06:00.000Z",
-      "summary": "O texto segue para análise do Senado",
-      "source": "Agência Câmara",
       "cat": "politica"
     },
     {
@@ -199,22 +223,6 @@
       "summary": "Gigantes da tecnologia dos EUA emitem bilhões em títulos, inclusive em euro, e acabam competindo com governos europeus, em dificuldade financeira, pelo acesso a capital de investimento.",
       "source": "DW Brasil",
       "cat": "internacional"
-    },
-    {
-      "title": "Câmara aprova ações de educação em saúde no SUS com foco na família",
-      "link": "https://www.camara.leg.br/noticias/1316367-camara-aprova-acoes-de-educacao-em-saude-no-sus-com-foco-na-familia",
-      "date": "2026-11-05T14:48:00.000Z",
-      "summary": "Proposta segue para análise do Senado",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão de Segurança debate redução da maioridade penal no Brasil",
-      "link": "https://www.camara.leg.br/noticias/1316252-comissao-de-seguranca-debate-reducao-da-maioridade-penal-no-brasil",
-      "date": "2026-11-05T14:38:00.000Z",
-      "summary": "",
-      "source": "Agência Câmara",
-      "cat": "politica"
     },
     {
       "title": "Latinos se voltaram contra Trump nas eleições de meio de mandato",
@@ -233,14 +241,6 @@
       "cat": "internacional"
     },
     {
-      "title": "Agência da ONU mostra como alta do petróleo afeta países de forma diferente",
-      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854840",
-      "date": "2026-11-05T12:00:00.000Z",
-      "summary": "Entre fevereiro e agosto, o valor cobrado pelo diesel disparou em 83% na Nigéria comparado a 9% na Irlanda; em Mianmar, consumidores tiveram acréscimo de 51% no preço da gasolina enquanto a conta dos suecos subiu apenas 3% no mesmo período.",
-      "source": "ONU News",
-      "cat": "internacional"
-    },
-    {
       "title": "Ativista pró-democracia de Hong Kong condenado a mais 10 anos de prisão",
       "link": "https://www.dw.com/pt-br/ativista-pró-democracia-de-hong-kong-condenado-a-mais-10-anos-de-prisão/a-79863270?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-05T11:19:00.000Z",
@@ -253,22 +253,6 @@
       "link": "https://www.dw.com/pt-br/o-que-pode-mudar-na-américa-latina-diante-do-novo-equilíbrio-de-poder-no-congresso-dos-eua/a-79862458?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-05T11:02:00.000Z",
       "summary": "Maioria democrata no Congresso americano poderá fiscalizar decisões de Trump e exercer pressão, mas há limitações para uma mudança de rumo na política externa regional.",
-      "source": "DW Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "Análise: enfraquecido nos EUA, Trump mantém poder para intervir no exterior",
-      "link": "https://www.bbc.com/portuguese/articles/cx240jm5e49do?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-05T10:06:53.000Z",
-      "summary": "Após diversas derrotas nas eleições de meio de mandato, o presidente dos EUA vai querer mostrar que ainda é capaz de abalar o mundo, escreve o editor Internacional da BBC.",
-      "source": "BBC News Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "Controverso político alemão é encontrado morto em hotel em Berlim",
-      "link": "https://www.dw.com/pt-br/controverso-político-alemão-é-encontrado-morto-em-hotel-em-berlim/a-79862080?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-05T09:34:00.000Z",
-      "summary": "Polícia investiga morte de vice-governador da Baviera de 55 anos encontrado em quarto de hotel. Hubert Aiwanger cancelou participação em evento de seu partido por não se sentir bem.",
       "source": "DW Brasil",
       "cat": "internacional"
     },
@@ -309,6 +293,22 @@
       "link": "https://www.bbc.com/portuguese/articles/c6kg7ej7e73ko?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-04T20:52:50.000Z",
       "summary": "Áudios enviados a bolsista de colégio particular de BH criticam religião de matriz africana, humilham família por ser de baixa renda e dirigem conteúdo sexual à menina. Escola diz que não compactua com casos de discriminação.",
+      "source": "BBC News Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "5 razões para o desastre do partido de Trump nas eleições nos EUA",
+      "link": "https://www.bbc.com/portuguese/articles/cmd7q98x7944o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-04T16:48:14.000Z",
+      "summary": "De eleitores revoltados a um presidente impopular, americanos em áreas tradicionalmente republicanas se voltaram para os democratas.",
+      "source": "BBC News Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "Os gráficos e mapas que mostram a magnitude do triunfo democrata",
+      "link": "https://www.bbc.com/portuguese/articles/cvy0rzd2jr7jo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-04T14:44:23.000Z",
+      "summary": "Eleições de meio de mandato nos EUA impuseram derrota a Trump, com Partido Democrata assumindo controle do Senado e da Câmara dos Representantes, além de conquistar o governo em vários Estados.",
       "source": "BBC News Brasil",
       "cat": "internacional"
     },
