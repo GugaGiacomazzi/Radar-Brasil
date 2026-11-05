@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-05T10:41:12.509Z",
+  "updated": "2026-11-05T11:52:09.046Z",
   "market": {
     "ibov": {
       "price": 167563.47,
       "pct": 1.23,
-      "time": "2026-11-05T10:41:06.476Z",
+      "time": "2026-11-05T11:52:03.709Z",
       "history": [
         {
           "d": "2026-10-06",
@@ -141,6 +141,38 @@
   },
   "news": [
     {
+      "title": "Câmara pode votar projetos sobre monitoramento de agressores e maus-tratos a animais",
+      "link": "https://www.camara.leg.br/noticias/1316213-camara-pode-votar-projetos-sobre-monitoramento-de-agressores-e-maus-tratos-a-animais",
+      "date": "2026-11-05T11:42:00.000Z",
+      "summary": "Pauta desta quinta-feira inclui ainda propostas sobre saúde, educação, turismo e trânsito",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Ativista pró-democracia de Hong Kong condenado a mais 10 anos de prisão",
+      "link": "https://www.dw.com/pt-br/ativista-pró-democracia-de-hong-kong-condenado-a-mais-10-anos-de-prisão/a-79863270?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-05T11:19:00.000Z",
+      "summary": "Joshua Wong, um dos líderes dos protestos que abalaram o território semiautônomo, foi considerado culpado de \"conspirar com forças estrangeiras\" para colocar em risco a segurança nacional, sob a lei imposta por Pequim.",
+      "source": "DW Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "O que pode mudar na América Latina diante do novo equilíbrio de poder no Congresso dos EUA",
+      "link": "https://www.dw.com/pt-br/o-que-pode-mudar-na-américa-latina-diante-do-novo-equilíbrio-de-poder-no-congresso-dos-eua/a-79862458?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-05T11:02:00.000Z",
+      "summary": "Maioria democrata no Congresso americano poderá fiscalizar decisões de Trump e exercer pressão, mas há limitações para uma mudança de rumo na política externa regional.",
+      "source": "DW Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "Comissão que analisa MP sobre crédito para empresas atingidas por tarifaço analisa relatório nesta quinta",
+      "link": "https://www.camara.leg.br/noticias/1316195-comissao-que-analisa-mp-sobre-credito-para-empresas-atingidas-por-tarifaco-analisa-relatorio-nesta-quinta",
+      "date": "2026-11-05T10:49:00.000Z",
+      "summary": "",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
       "title": "Análise: enfraquecido nos EUA, Trump mantém poder para intervir no exterior",
       "link": "https://www.bbc.com/portuguese/articles/cx240jm5e49do?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-05T10:06:53.000Z",
@@ -157,7 +189,7 @@
       "cat": "internacional"
     },
     {
-      "title": "Brasileiro eleito na Flórida critica abrigo a Flávio Bolsonaro e diz se espelhar em Erika Hilton",
+      "title": "Quem é o brasileiro eleito deputado na Flórida que critica Flávio Bolsonaro e se inspira em Erika Hilton",
       "link": "https://www.bbc.com/portuguese/articles/cm62y4dnznvxo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-05T09:21:03.000Z",
       "summary": "O democrata Felipe Sousa-Lazaballet, nascido na Baixada Fluminense, será o primeiro brasileiro a integrar o legislativo da Flórida.",
@@ -229,22 +261,6 @@
       "cat": "politica"
     },
     {
-      "title": "Relator da PEC da Maioridade Penal deve apresentar parecer no final do mês",
-      "link": "https://www.camara.leg.br/noticias/1316048-relator-da-pec-da-maioridade-penal-deve-apresentar-parecer-no-final-do-mes",
-      "date": "2026-11-04T21:10:00.000Z",
-      "summary": "Comissão aprovou requerimentos para a realização de audiências públicas antes da apresentação do relatório",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Sessão solene celebra os 40 anos da confederação de cooperativas de crédito",
-      "link": "https://www.camara.leg.br/noticias/1315993-sessao-solene-celebra-os-40-anos-da-confederacao-de-cooperativas-de-credito",
-      "date": "2026-11-04T20:59:00.000Z",
-      "summary": "O cooperativismo financeiro alcançou recentemente o marco de R$ 1 trilhão em ativos em uma base de mais de 21 milhões de cooperados",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
       "title": "'Minha filha de 13 anos sofreu ofensas racistas, sexuais e religiosas após resultado das eleições'",
       "link": "https://www.bbc.com/portuguese/articles/c6kg7ej7e73ko?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-04T20:52:50.000Z",
@@ -273,22 +289,6 @@
       "link": "https://www.dw.com/pt-br/quem-são-os-brasileiros-eleitos-deputados-estaduais-nos-eua/a-79858639?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-04T20:00:00.000Z",
       "summary": "Sete políticos nascidos no Brasil conquistaram mandatos nas eleições americanas de meio de mandato. Filiados ao Partido Democrata, de oposição a Trump, eles atuarão em quatro estados.",
-      "source": "DW Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "O que a vitória democrata significa para a economia dos EUA sob Trump",
-      "link": "https://www.dw.com/pt-br/o-que-a-vitória-democrata-significa-para-a-economia-dos-eua-sob-trump/a-79857491?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-04T18:32:00.000Z",
-      "summary": "Preço do petróleo, IA e tarifas estiveram no centro das eleições legislativas de meio de mandato. Mas não está claro o quanto os democratas conseguirão impor mudanças diante do poder de veto do presidente.",
-      "source": "DW Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "No fogo cruzado há quatro anos, Kherson, na Ucrânia, vive seis dias de paz",
-      "link": "https://www.dw.com/pt-br/no-fogo-cruzado-há-quatro-anos-kherson-na-ucrânia-vive-seis-dias-de-paz/a-79857538?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-04T17:56:00.000Z",
-      "summary": "A DW esteve em Kherson durante o cessar-fogo para a evacuação de civis de Oleshky, cidade ocupada pelos russos na margem oposta do rio Dnipro.",
       "source": "DW Brasil",
       "cat": "internacional"
     },
