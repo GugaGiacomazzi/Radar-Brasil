@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-05T22:44:28.284Z",
+  "updated": "2026-11-05T23:40:35.419Z",
   "market": {
     "ibov": {
       "price": 166191.45,
       "pct": -0.82,
-      "time": "2026-11-05T22:44:21.894Z",
+      "time": "2026-11-05T23:40:31.062Z",
       "history": [
         {
           "d": "2026-10-06",
@@ -145,6 +145,30 @@
   },
   "news": [
     {
+      "title": "'Não falei com Lula nem tenho nada marcado. Isso foi plantado para queimar alguém que defendeu a proposta', diz economista André Lara Resende",
+      "link": "https://www.bbc.com/portuguese/articles/cmly0jeq2q9no?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-05T23:19:37.000Z",
+      "summary": "Economista que presidiu o BNDES e fez parte da diretoria do Banco Central propôs criação de conselho que reduziria taxa Selic a longo prazo; proposta mobilizou mercado financeiro e discussão em Brasília.",
+      "source": "BBC News Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "Flávio Bolsonaro diz a jornal americano que fugiu sozinho do Brasil",
+      "link": "https://www.dw.com/pt-br/flávio-bolsonaro-diz-a-jornal-americano-que-fugiu-sozinho-do-brasil/a-79871184?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-05T22:50:00.000Z",
+      "summary": "Candidato derrotado à Presidência afirma ao \"NYT\" que vai \"levar para o túmulo\" segredo sobre como chegou aos EUA: \"Não houve ajuda de absolutamente ninguém, nenhum governo.\"",
+      "source": "DW Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "TSE aceita ação contra Lula e Alckmin por abuso de poder político",
+      "link": "https://www.dw.com/pt-br/tse-aceita-ação-contra-lula-e-alckmin-por-abuso-de-poder-político/a-79871343?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-05T22:47:00.000Z",
+      "summary": "Partido Novo acusa o governo de usar a máquina estatal a seu favor para se reeleger. Ministro Villas Bôas Cueva deu à defesa prazo de cinco dias para que se manifeste.",
+      "source": "DW Brasil",
+      "cat": "internacional"
+    },
+    {
       "title": "Projeto cria portal para eleitor consultar posições dos partidos políticos",
       "link": "https://www.camara.leg.br/noticias/1311454-projeto-cria-portal-para-eleitor-consultar-posicoes-dos-partidos-politicos",
       "date": "2026-11-05T22:05:00.000Z",
@@ -249,22 +273,6 @@
       "cat": "internacional"
     },
     {
-      "title": "Latinos se voltaram contra Trump nas eleições de meio de mandato",
-      "link": "https://www.dw.com/pt-br/latinos-se-voltaram-contra-trump-nas-eleições-de-meio-de-mandato/a-79862226?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-05T13:50:00.000Z",
-      "summary": "Presidente americano perdeu apoio entre parcela da população que o ajudou a se eleger. Atual política de deportação pode ter impulsionado este cenário.",
-      "source": "DW Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "O que a China espera de cúpula com Trump e Putin sobre a Ucrânia?",
-      "link": "https://www.dw.com/pt-br/o-que-a-china-espera-de-cúpula-com-trump-e-putin-sobre-a-ucrânia/a-79855250?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-05T12:16:00.000Z",
-      "summary": "Enquanto Trump tenta reativar negociações de paz, Moscou articula reunião com EUA e China sem Ucrânia e UE. Analistas avaliam os interesses estratégicos de Pequim e o impacto para a Europa.",
-      "source": "DW Brasil",
-      "cat": "internacional"
-    },
-    {
       "title": "Agência da ONU mostra como alta do petróleo afeta países de forma diferente",
       "link": "https://news.un.org/feed/view/pt/story/2026/11/1854840",
       "date": "2026-11-05T12:00:00.000Z",
@@ -277,14 +285,6 @@
       "link": "https://www.bbc.com/portuguese/articles/cm62y4dnznvxo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-05T09:21:03.000Z",
       "summary": "O democrata Felipe Sousa-Lazaballet, nascido na Baixada Fluminense, será o primeiro brasileiro a integrar o legislativo da Flórida.",
-      "source": "BBC News Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "Pressão de Trump sobre governo Lula não deve ser aliviada com vitória democrata, dizem analistas",
-      "link": "https://www.bbc.com/portuguese/articles/cm78p04n78zno?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-05T08:33:48.000Z",
-      "summary": "Novo Congresso de maioria democrata aumentará obstáculos à agenda interna do presidente, mas não tem mecanismos institucionais para barrar tarifas, sanções e medidas contra outros países.",
       "source": "BBC News Brasil",
       "cat": "internacional"
     },
