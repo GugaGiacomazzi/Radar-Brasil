@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-05T18:49:34.230Z",
+  "updated": "2026-11-05T19:49:45.181Z",
   "market": {
     "ibov": {
-      "price": 166739.73,
-      "pct": -0.49,
-      "time": "2026-11-05T18:49:30.037Z",
+      "price": 166555.14,
+      "pct": -0.6,
+      "time": "2026-11-05T19:49:36.328Z",
       "history": [
         {
           "d": "2026-10-06",
@@ -88,7 +88,7 @@
         },
         {
           "d": "2026-11-05",
-          "c": 166773.3906
+          "c": 166551.6875
         }
       ]
     },
@@ -145,6 +145,22 @@
   },
   "news": [
     {
+      "title": "Comissão mista aprova terceira edição de plano para auxiliar exportadores atingidos pelo tarifaço norte-americano",
+      "link": "https://www.camara.leg.br/noticias/1316545-comissao-mista-aprova-terceira-edicao-de-plano-para-auxiliar-exportadores-atingidos-pelo-tarifaco-norte-americano",
+      "date": "2026-11-05T19:18:00.000Z",
+      "summary": "Plano Brasil Soberano prevê linhas de crédito com juros subsidiados para os exportadores brasileiros",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Comissão aprova projeto que cria programa nacional de defesa pessoal para mulheres",
+      "link": "https://www.camara.leg.br/noticias/1316287-comissao-aprova-projeto-que-cria-programa-nacional-de-defesa-pessoal-para-mulheres",
+      "date": "2026-11-05T18:50:00.000Z",
+      "summary": "A proposta segue em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
       "title": "Conselho de Comunicação debate educação midiática e letramento digital; participe",
       "link": "https://www.camara.leg.br/noticias/1316471-conselho-de-comunicacao-debate-educacao-midiatica-e-letramento-digital-participe",
       "date": "2026-11-05T18:20:00.000Z",
@@ -177,14 +193,6 @@
       "cat": "politica"
     },
     {
-      "title": "Comissão aprova projeto que cria programa nacional de defesa pessoal para mulheres",
-      "link": "https://www.camara.leg.br/noticias/1316287-comissao-aprova-projeto-que-cria-programa-nacional-de-defesa-pessoal-para-mulheres",
-      "date": "2026-11-05T17:56:00.000Z",
-      "summary": "A proposta segue em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
       "title": "Hungria abre os arquivos secretos da era comunista",
       "link": "https://www.dw.com/pt-br/hungria-abre-os-arquivos-secretos-da-era-comunista/a-79866924?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-05T17:49:00.000Z",
@@ -209,26 +217,10 @@
       "cat": "politica"
     },
     {
-      "title": "Comissão aprova projeto que permite retirar sobrenome de pais que perderem o poder familiar",
-      "link": "https://www.camara.leg.br/noticias/1316355-comissao-aprova-projeto-que-permite-retirar-sobrenome-de-pais-que-perderem-o-poder-familiar",
-      "date": "2026-11-05T17:04:00.000Z",
-      "summary": "A proposta segue em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
       "title": "MP define as alíquotas do Imposto Seletivo para 2027",
       "link": "https://www12.senado.leg.br/noticias/materias/2026/11/05/mp-define-as-aliquotas-do-imposto-seletivo-para-2027",
       "date": "2026-11-05T15:29:24.000Z",
       "summary": "Aprovado no âmbito da reforma tributária, o Imposto Seletivo (IS) teve suas alíquotas e regras de cobrança estabelecidas por medida provisória (MP 1.399/2026) publicada nesta quarta-feira (4) no Diário Oficial da União. Conhecido como “imposto do pecado”, o tr",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
-      "title": "Novo site facilita comunicação do cidadão com o Senado",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/05/novo-site-facilita-comunicacao-do-cidadao-com-o-senado",
-      "date": "2026-11-05T15:15:51.000Z",
-      "summary": "A Ouvidoria do Senado lança um novo site nesta quinta-feira (5), com o objetivo de facilitar a comunicação entre o cidadão e a Casa. A reformulação inclui mudança de visual e navegação simplificada, melhorias no formulário de atendimento, reorganização das inf",
       "source": "Agência Senado",
       "cat": "politica"
     },
