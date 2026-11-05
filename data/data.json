@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-05T19:49:45.181Z",
+  "updated": "2026-11-05T20:45:31.289Z",
   "market": {
     "ibov": {
-      "price": 166555.14,
-      "pct": -0.6,
-      "time": "2026-11-05T19:49:36.328Z",
+      "price": 166541.17,
+      "pct": -0.61,
+      "time": "2026-11-05T20:45:23.343Z",
       "history": [
         {
           "d": "2026-10-06",
@@ -88,7 +88,7 @@
         },
         {
           "d": "2026-11-05",
-          "c": 166551.6875
+          "c": 166505.7031
         }
       ]
     },
@@ -145,6 +145,46 @@
   },
   "news": [
     {
+      "title": "Comissão aprova criação de programa de atendimento domiciliar de saúde para idosos pelo SUS",
+      "link": "https://www.camara.leg.br/noticias/1316336-comissao-aprova-criacao-de-programa-de-atendimento-domiciliar-de-saude-para-idosos-pelo-sus",
+      "date": "2026-11-05T20:38:00.000Z",
+      "summary": "Proposta segue em análise na Câmara",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "4 dados que mostram o peso dos votos latinos na 'onda azul' das eleições nos EUA",
+      "link": "https://www.bbc.com/portuguese/articles/c6x23z0n899zo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-05T20:28:04.000Z",
+      "summary": "Pesquisas de boca de urna realizadas pelo consórcio que reúne a agência AP e outros grandes órgãos de imprensa indicam que o apoio dos latinos aos democratas aumentou em 11 pontos percentuais desde 2024, eliminando os avanços que beneficiaram Trump na sua reel",
+      "source": "BBC News Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "Comissão aprova proposta que prevê restrições a homenagens em bens públicos",
+      "link": "https://www.camara.leg.br/noticias/1316491-comissao-aprova-proposta-que-preve-restricoes-a-homenagens-em-bens-publicos",
+      "date": "2026-11-05T20:12:00.000Z",
+      "summary": "Texto segue em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Comissão aprova ampliação de R$ 13,5 bilhões no crédito a exportadores",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/05/comissao-aprova-ampliacao-de-r-13-5-bilhoes-no-credito-a-exportadores",
+      "date": "2026-11-05T20:01:32.000Z",
+      "summary": "A Comissão Mista da Medida Provisória (MP) 1.379/2026 aprovou nesta quinta-feira (5) a ampliação em até R$ 13,5 bilhões dos recursos do Plano Brasil Soberano destinados a empresas exportadoras e seus fornecedores. A proposta recebeu parecer favorável da senado",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Entenda o escândalo bancário que derrubou o presidente do Paraguai",
+      "link": "https://www.dw.com/pt-br/entenda-o-escândalo-bancário-que-derrubou-o-presidente-do-paraguai/a-79870697?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-05T19:57:00.000Z",
+      "summary": "Temendo impeachment, Santiago Peña renunciou após colapso do Ueno Bank prejudicar quase 3 milhões de clientes. Segundo o Banco Central, instituição não tinha fundos suficientes para honrar compromissos.",
+      "source": "DW Brasil",
+      "cat": "internacional"
+    },
+    {
       "title": "Comissão mista aprova terceira edição de plano para auxiliar exportadores atingidos pelo tarifaço norte-americano",
       "link": "https://www.camara.leg.br/noticias/1316545-comissao-mista-aprova-terceira-edicao-de-plano-para-auxiliar-exportadores-atingidos-pelo-tarifaco-norte-americano",
       "date": "2026-11-05T19:18:00.000Z",
@@ -166,14 +206,6 @@
       "date": "2026-11-05T18:20:00.000Z",
       "summary": "A reunião, que será interativa, é uma oportunidade para discutir como preparar os cidadãos para os desafios do ambiente digital",
       "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão de Relações Exteriores segue 'com atenção' crise no Paraguai",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/05/comissao-de-relacoes-exteriores-segue-com-atencao-crise-no-paraguai",
-      "date": "2026-11-05T18:17:46.000Z",
-      "summary": "O presidente da Comissão de Relações Exteriores (CRE), senador Nelsinho Trad (PSD-MS), informou por meio de nota que está acompanhando com atenção a crise que envolve o Paraguai. Na manhã desta quinta-feira (5), o presidente do Paraguai, Santiago Peña, anuncio",
-      "source": "Agência Senado",
       "cat": "politica"
     },
     {
@@ -199,30 +231,6 @@
       "summary": "Governo do premiê Péter Magyar divulga os \"arquivos dos agentes\", com nomes de informantes da segurança estatal. Medida reacende debate sobre culpa e responsabilidade mais de três décadas após o fim do regime soviético.",
       "source": "DW Brasil",
       "cat": "internacional"
-    },
-    {
-      "title": "Comissão aprova política para compra pública de alimentos perecíveis de pequenos produtores",
-      "link": "https://www.camara.leg.br/noticias/1316206-comissao-aprova-politica-para-compra-publica-de-alimentos-pereciveis-de-pequenos-produtores",
-      "date": "2026-11-05T17:29:00.000Z",
-      "summary": "Proposta segue em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão aprova socorro fiscal e renegociação de dívidas para agroexportadores",
-      "link": "https://www.camara.leg.br/noticias/1316203-comissao-aprova-socorro-fiscal-e-renegociacao-de-dividas-para-agroexportadores",
-      "date": "2026-11-05T17:07:00.000Z",
-      "summary": "Proposta segue em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "MP define as alíquotas do Imposto Seletivo para 2027",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/05/mp-define-as-aliquotas-do-imposto-seletivo-para-2027",
-      "date": "2026-11-05T15:29:24.000Z",
-      "summary": "Aprovado no âmbito da reforma tributária, o Imposto Seletivo (IS) teve suas alíquotas e regras de cobrança estabelecidas por medida provisória (MP 1.399/2026) publicada nesta quarta-feira (4) no Diário Oficial da União. Conhecido como “imposto do pecado”, o tr",
-      "source": "Agência Senado",
-      "cat": "politica"
     },
     {
       "title": "Como onda de investimentos na IA pode encarecer crédito na Europa",
@@ -254,14 +262,6 @@
       "date": "2026-11-05T12:00:00.000Z",
       "summary": "Entre fevereiro e agosto, o valor cobrado pelo diesel disparou em 83% na Nigéria comparado a 9% na Irlanda; em Mianmar, consumidores tiveram acréscimo de 51% no preço da gasolina enquanto a conta dos suecos subiu apenas 3% no mesmo período.",
       "source": "ONU News",
-      "cat": "internacional"
-    },
-    {
-      "title": "Ativista pró-democracia de Hong Kong condenado a mais 10 anos de prisão",
-      "link": "https://www.dw.com/pt-br/ativista-pró-democracia-de-hong-kong-condenado-a-mais-10-anos-de-prisão/a-79863270?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-05T11:19:00.000Z",
-      "summary": "Joshua Wong, um dos líderes dos protestos que abalaram o território semiautônomo, foi considerado culpado de \"conspirar com forças estrangeiras\" para colocar em risco a segurança nacional, sob a lei imposta por Pequim.",
-      "source": "DW Brasil",
       "cat": "internacional"
     },
     {
@@ -301,14 +301,6 @@
       "link": "https://www.bbc.com/portuguese/articles/c6kg7ej7e73ko?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-04T20:52:50.000Z",
       "summary": "Áudios enviados a bolsista de colégio particular de BH criticam religião de matriz africana, humilham família por ser de baixa renda e dirigem conteúdo sexual à menina. Escola diz que não compactua com casos de discriminação.",
-      "source": "BBC News Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "5 razões para o desastre do partido de Trump nas eleições nos EUA",
-      "link": "https://www.bbc.com/portuguese/articles/cmd7q98x7944o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-04T16:48:14.000Z",
-      "summary": "De eleitores revoltados a um presidente impopular, americanos em áreas tradicionalmente republicanas se voltaram para os democratas.",
       "source": "BBC News Brasil",
       "cat": "internacional"
     },
