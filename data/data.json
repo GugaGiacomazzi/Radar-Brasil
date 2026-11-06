@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-06T00:56:15.569Z",
+  "updated": "2026-11-06T02:06:42.120Z",
   "market": {
     "ibov": {
       "price": 166191.45,
       "pct": -0.82,
-      "time": "2026-11-06T00:56:10.350Z",
+      "time": "2026-11-06T02:06:36.848Z",
       "history": [
         {
           "d": "2026-10-07",
@@ -205,14 +205,6 @@
       "cat": "politica"
     },
     {
-      "title": "4 dados que mostram o peso dos votos latinos na 'onda azul' das eleições nos EUA",
-      "link": "https://www.bbc.com/portuguese/articles/c6x23z0n899zo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-05T20:28:04.000Z",
-      "summary": "Pesquisas de boca de urna realizadas pelo consórcio que reúne a agência AP e outros grandes órgãos de imprensa indicam que o apoio dos latinos aos democratas aumentou em 11 pontos percentuais desde 2024, eliminando os avanços que beneficiaram Trump na sua reel",
-      "source": "BBC News Brasil",
-      "cat": "internacional"
-    },
-    {
       "title": "Comissão aprova proposta que prevê restrições a homenagens em bens públicos",
       "link": "https://www.camara.leg.br/noticias/1316491-comissao-aprova-proposta-que-preve-restricoes-a-homenagens-em-bens-publicos",
       "date": "2026-11-05T20:12:00.000Z",
@@ -289,6 +281,14 @@
       "link": "https://www.bbc.com/portuguese/articles/cm62y4dnznvxo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-05T09:21:03.000Z",
       "summary": "O democrata Felipe Sousa-Lazaballet, nascido na Baixada Fluminense, será o primeiro brasileiro a integrar o legislativo da Flórida.",
+      "source": "BBC News Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "Quem são os grandes vencedores e perdedores das eleições americanas",
+      "link": "https://www.bbc.com/portuguese/articles/cmd7q9ep09z8o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-04T23:24:52.000Z",
+      "summary": "Democratas conquistaram o controle das duas Casas do Congresso e venceram disputas importantes nos Estados, enquanto Donald Trump, republicanos e aliados enfrentaram derrotas em diferentes partes do país.",
       "source": "BBC News Brasil",
       "cat": "internacional"
     },
