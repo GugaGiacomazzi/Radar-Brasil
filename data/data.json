@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-06T10:59:21.391Z",
+  "updated": "2026-11-06T11:52:48.139Z",
   "market": {
     "ibov": {
       "price": 166191.45,
       "pct": -0.82,
-      "time": "2026-11-06T10:59:14.986Z",
+      "time": "2026-11-06T11:52:43.301Z",
       "history": [
         {
           "d": "2026-10-07",
@@ -141,6 +141,14 @@
   },
   "news": [
     {
+      "title": "Comissão aprova dispensa de custas processuais para medidas protetivas da Lei Maria da Penha",
+      "link": "https://www.camara.leg.br/noticias/1316669-comissao-aprova-dispensa-de-custas-processuais-para-medidas-protetivas-da-lei-maria-da-penha",
+      "date": "2026-11-06T11:22:00.000Z",
+      "summary": "Texto segue em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
       "title": "'Meu medo é o governo Lula buscar atalhos e brigar com o mercado': por que professor de Cambridge defende ajuste fiscal 'suave'",
       "link": "https://www.bbc.com/portuguese/articles/cqglww4xw40do?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-06T10:14:09.000Z",
@@ -233,14 +241,6 @@
       "link": "https://www.camara.leg.br/noticias/1316545-comissao-mista-aprova-terceira-edicao-de-plano-para-auxiliar-exportadores-atingidos-pelo-tarifaco-norte-americano",
       "date": "2026-11-05T19:18:00.000Z",
       "summary": "Plano Brasil Soberano prevê linhas de crédito com juros subsidiados para os exportadores brasileiros",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão aprova projeto que cria programa nacional de defesa pessoal para mulheres",
-      "link": "https://www.camara.leg.br/noticias/1316287-comissao-aprova-projeto-que-cria-programa-nacional-de-defesa-pessoal-para-mulheres",
-      "date": "2026-11-05T18:50:00.000Z",
-      "summary": "A proposta segue em análise na Câmara dos Deputados",
       "source": "Agência Câmara",
       "cat": "politica"
     },
