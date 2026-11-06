@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-06T15:07:28.251Z",
+  "updated": "2026-11-06T16:08:33.592Z",
   "market": {
     "ibov": {
-      "price": 167985.34,
-      "pct": 1.08,
-      "time": "2026-11-06T15:07:22.294Z",
+      "price": 168733.94,
+      "pct": 1.53,
+      "time": "2026-11-06T16:08:27.669Z",
       "history": [
         {
           "d": "2026-10-07",
@@ -88,7 +88,7 @@
         },
         {
           "d": "2026-11-06",
-          "c": 168201.6563
+          "c": 169035.8125
         }
       ]
     },
@@ -145,6 +145,46 @@
   },
   "news": [
     {
+      "title": "Câmara Mirim leva jornada parlamentar para dentro das escolas em edição do bicentenário",
+      "link": "https://www.camara.leg.br/noticias/1316564-camara-mirim-leva-jornada-parlamentar-para-dentro-das-escolas-em-edicao-do-bicentenario",
+      "date": "2026-11-06T15:45:00.000Z",
+      "summary": "Vencedores do concurso visitaram o Congresso nos dias 5 e 6 de novembro",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Governador da Califórnia converte mais de 500 penas de morte em prisão perpétua",
+      "link": "https://www.dw.com/pt-br/governador-da-califórnia-converte-mais-de-500-penas-de-morte-em-prisão-perpétua/a-79876507?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-06T15:45:00.000Z",
+      "summary": "Democrata cotado para concorrer à Casa Branca, Gavin Newsom quer converter todas as penas de morte no estado em prisão perpétua, sem liberdade condicional. Anúncio ocorre dias após execução fracassada no Tennesse.",
+      "source": "DW Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "Santiago Peña sofrerá impeachment após renunciar no Paraguai? Entenda os próximos passos",
+      "link": "https://www.bbc.com/portuguese/articles/c5x2vvxw8m04o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-06T15:31:47.000Z",
+      "summary": "Peña apresentará sua defesa ao Senado na manhã desta sexta-feira (6/11). Vice-presidente deve assumir, caso o mandatário atual seja destituído de seu cargo.",
+      "source": "BBC News Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "Comissão aprova projeto de incentivo à produção e ao uso do etanol",
+      "link": "https://www.camara.leg.br/noticias/1316742-comissao-aprova-projeto-de-incentivo-a-producao-e-ao-uso-do-etanol",
+      "date": "2026-11-06T15:31:00.000Z",
+      "summary": "Texto segue em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Mais de 70 milhões de brasileiros estarão sob governos estaduais de partido ligado à Universal em 2027",
+      "link": "https://www.dw.com/pt-br/mais-de-70-milhões-de-brasileiros-estarão-sob-governos-estaduais-de-partido-ligado-à-universal-em-2027/a-79876528?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-06T15:09:00.000Z",
+      "summary": "Republicanos conseguiu resultado expressivo com eleição de Tarcísio de Freitas (SP), Cleitinho (MG) e Lorenzo Pazolini (ES). Estratégia bem-sucedida mescla aposta em novos políticos e estrutura da igreja.",
+      "source": "DW Brasil",
+      "cat": "internacional"
+    },
+    {
       "title": "Comissão aprova inclusão do vinagre colonial em regras da agricultura familiar",
       "link": "https://www.camara.leg.br/noticias/1316706-comissao-aprova-inclusao-do-vinagre-colonial-em-regras-da-agricultura-familiar",
       "date": "2026-11-06T14:11:00.000Z",
@@ -169,34 +209,10 @@
       "cat": "politica"
     },
     {
-      "title": "Senado realiza congresso sobre direito parlamentar",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/06/senado-realiza-congresso-sobre-direito-parlamentar",
-      "date": "2026-11-06T13:44:59.000Z",
-      "summary": "A Advocacia do Senado promove, na terça-feira (10) e na quarta-feira (11), o 3º Congresso Brasileiro de Direito Parlamentar. O encontro será realizado no Auditório Antônio Carlos Magalhães, do Interlegis, em Brasília, com transmissão on-line pelos canais ofici",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
       "title": "Comissão aprova uso do Fundo Social para compra de móveis e eletrodomésticos no Minha Casa, Minha Vida",
       "link": "https://www.camara.leg.br/noticias/1316693-comissao-aprova-uso-do-fundo-social-para-compra-de-moveis-e-eletrodomesticos-no-minha-casa-minha-vida",
       "date": "2026-11-06T13:26:00.000Z",
       "summary": "A Câmara dos Deputados continua discutindo o assunto",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Prorrogadas MPs de subsídio ao diesel e crédito para agricultura familiar",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/06/prorrogadas-mps-de-subsidio-ao-diesel-e-credito-para-agricultura-familiar",
-      "date": "2026-11-06T13:16:43.000Z",
-      "summary": "Três medidas provisórias tiveram seus prazos de vigência prorrogados por mais 60 dias pelo presidente do Congresso, senador Davi Alcolumbre. Duas delas subsidiam a produção e importação de combustíveis, sobretudo o óleo diesel, para reduzir o impacto da alta d",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão debate atendimento educacional dos alunos da educação especial",
-      "link": "https://www.camara.leg.br/noticias/1316333-comissao-debate-atendimento-educacional-dos-alunos-da-educacao-especial",
-      "date": "2026-11-06T13:16:00.000Z",
-      "summary": "",
       "source": "Agência Câmara",
       "cat": "politica"
     },
@@ -209,26 +225,18 @@
       "cat": "internacional"
     },
     {
-      "title": "Santiago Peña sofrerá impeachment após renunciar no Paraguai? Entenda os próximos passos",
-      "link": "https://www.bbc.com/portuguese/articles/c5x2vvxw8m04o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-06T12:38:26.000Z",
-      "summary": "Peña apresentará sua defesa ao Senado na manhã desta sexta-feira (6/11). Vice-presidente deve assumir, caso o mandatário atual seja destituído de seu cargo.",
-      "source": "BBC News Brasil",
+      "title": "COP31: O que está em jogo na cúpula do clima da ONU deste ano?",
+      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854856",
+      "date": "2026-11-06T12:00:00.000Z",
+      "summary": "A Conferência da ONU sobre Mudança Climática começa neste 9 de novembro, em Antália, na Turquia; países em desenvolvimento querem apoio para executar políticas de transição energética, mitigar efeitos de ação climática e responder a desastres naturais com drás",
+      "source": "ONU News",
       "cat": "internacional"
-    },
-    {
-      "title": "Comissão debate atuação da Rede Nacional de Física de Altas Energias",
-      "link": "https://www.camara.leg.br/noticias/1316238-comissao-debate-atuacao-da-rede-nacional-de-fisica-de-altas-energias",
-      "date": "2026-11-06T12:29:00.000Z",
-      "summary": "Essa rede reúne pesquisadores e instituições brasileiras que estudam os componentes mais fundamentais da matéria e as forças que atuam entre eles",
-      "source": "Agência Câmara",
-      "cat": "politica"
     },
     {
       "title": "'Meu medo é o governo Lula buscar atalhos e brigar com o mercado': por que professor de Cambridge defende ajuste fiscal 'suave'",
       "link": "https://www.bbc.com/portuguese/articles/cqglww4xw40do?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-06T10:14:09.000Z",
-      "summary": "Economista Tiago Cavalcanti, brasileiro professor em Cambridge, critica a proposta de rápida redução da taxa de juros apresentada por André Lara Resende.",
+      "summary": "Economista Tiago Cavalcanti, brasileiro professor da Universidade de Cambridge, critica a proposta de rápida redução da taxa de juros apresentada por André Lara Resende.",
       "source": "BBC News Brasil",
       "cat": "internacional"
     },
@@ -265,22 +273,6 @@
       "cat": "internacional"
     },
     {
-      "title": "Presidente do Paraguai renuncia em meio a escândalo por colapso de banco",
-      "link": "https://www.dw.com/pt-br/presidente-do-paraguai-renuncia-em-meio-a-escândalo-por-colapso-de-banco/a-79869651?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-05T18:11:00.000Z",
-      "summary": "Congresso avalia impeachment de Santiago Peña após colapso de banco digital afetar 3 milhões de clientes. Banco Central interveio ao constatar que instituição virtual não tinha fundos para honrar compromissos.",
-      "source": "DW Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "Hungria abre os arquivos secretos da era comunista",
-      "link": "https://www.dw.com/pt-br/hungria-abre-os-arquivos-secretos-da-era-comunista/a-79866924?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-05T17:49:00.000Z",
-      "summary": "Governo do premiê Péter Magyar divulga os \"arquivos dos agentes\", com nomes de informantes da segurança estatal. Medida reacende debate sobre culpa e responsabilidade mais de três décadas após o fim do regime soviético.",
-      "source": "DW Brasil",
-      "cat": "internacional"
-    },
-    {
       "title": "Unicef denuncia avanço de ataques a serviços de água em zonas de conflitos",
       "link": "https://news.un.org/feed/view/pt/story/2026/11/1854853",
       "date": "2026-11-05T12:00:00.000Z",
@@ -294,14 +286,6 @@
       "date": "2026-11-05T12:00:00.000Z",
       "summary": "Entre fevereiro e agosto, o valor cobrado pelo diesel disparou em 83% na Nigéria comparado a 9% na Irlanda; em Mianmar, consumidores tiveram acréscimo de 51% no preço da gasolina enquanto a conta dos suecos subiu apenas 3% no mesmo período.",
       "source": "ONU News",
-      "cat": "internacional"
-    },
-    {
-      "title": "Quem é o brasileiro eleito na Flórida que critica Flávio Bolsonaro e se inspira em Erika Hilton",
-      "link": "https://www.bbc.com/portuguese/articles/cm62y4dnznvxo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-05T09:21:03.000Z",
-      "summary": "O democrata Felipe Sousa-Lazaballet, nascido na Baixada Fluminense, será o primeiro brasileiro a integrar o legislativo da Flórida.",
-      "source": "BBC News Brasil",
       "cat": "internacional"
     },
     {
