@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-06T22:41:33.404Z",
+  "updated": "2026-11-06T23:33:04.716Z",
   "market": {
     "ibov": {
       "price": 168498.45,
       "pct": 1.39,
-      "time": "2026-11-06T22:41:28.599Z",
+      "time": "2026-11-06T23:33:01.128Z",
       "history": [
         {
           "d": "2026-10-07",
@@ -145,6 +145,22 @@
   },
   "news": [
     {
+      "title": "Pouco depois de sofrer impeachment, ex-presidente do Paraguai é preso",
+      "link": "https://www.dw.com/pt-br/pouco-depois-de-sofrer-impeachment-ex-presidente-do-paraguai-é-preso/a-79882548?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-06T23:25:00.000Z",
+      "summary": "Pressionado por colapso de banco, Santiago Peña tentou renunciar, mas medida não foi aceita pelo Senado, que avançou com processo de impeachment. Após destituição, ele foi detido em sua residência.",
+      "source": "DW Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "Congresso do Paraguai aprova impeachment de Santiago Peña após crise com banco digital",
+      "link": "https://www.bbc.com/portuguese/articles/c5x2vvxw8m04o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-06T23:05:13.000Z",
+      "summary": "Senado aprovou impeachment de Santiago Peña por unanimidade. Logo em seguida, de acordo com jornal, Ministério Público do país emitiu uma ordem de prisão contra o político.",
+      "source": "BBC News Brasil",
+      "cat": "internacional"
+    },
+    {
       "title": "Nova lei condiciona registro de médicos à aprovação em exame",
       "link": "https://www.camara.leg.br/noticias/1316981-nova-lei-condiciona-registro-de-medicos-a-aprovacao-em-exame",
       "date": "2026-11-06T21:42:00.000Z",
@@ -249,14 +265,6 @@
       "cat": "internacional"
     },
     {
-      "title": "Santiago Peña não comparece a sessão sobre impeachment no Congresso do Paraguai",
-      "link": "https://www.bbc.com/portuguese/articles/c5x2vvxw8m04o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-06T18:17:14.000Z",
-      "summary": "O Senado do Paraguai avança com o processo de impeachment do presidente Santiago Peña. Ele havia solicitado um prazo adicional de 72 horas para preparar sua defesa, mas os legisladores rejeitaram o pedido.",
-      "source": "BBC News Brasil",
-      "cat": "internacional"
-    },
-    {
       "title": "Mundo registrou mês de outubro mais quente da história, diz serviço climático da UE",
       "link": "https://www.dw.com/pt-br/mundo-registrou-mês-de-outubro-mais-quente-da-história-diz-serviço-climático-da-ue/a-79879668?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-06T18:10:00.000Z",
@@ -269,14 +277,6 @@
       "link": "https://www.dw.com/pt-br/hegseth-sob-pressão-após-fiasco-republicano-nas-eleições-dos-eua/a-79878899?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-06T17:32:00.000Z",
       "summary": "Após obter maioria no Congresso, oposição democrata já sinaliza ações contra Pete Hegseth. Republicanos o culpam por ele ter sido um dos maiores incentivadores da guerra no Irã.",
-      "source": "DW Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "Governador da Califórnia converte mais de 500 penas de morte em prisão perpétua",
-      "link": "https://www.dw.com/pt-br/governador-da-califórnia-converte-mais-de-500-penas-de-morte-em-prisão-perpétua/a-79876507?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-06T15:45:00.000Z",
-      "summary": "Democrata cotado para concorrer à Casa Branca, Gavin Newsom quer converter todas as penas de morte no estado em prisão perpétua, sem liberdade condicional. Anúncio ocorre dias após execução fracassada no Tennesse.",
       "source": "DW Brasil",
       "cat": "internacional"
     },
