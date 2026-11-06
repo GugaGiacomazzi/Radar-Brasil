@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-06T17:14:23.007Z",
+  "updated": "2026-11-06T18:03:48.335Z",
   "market": {
     "ibov": {
-      "price": 168771.34,
-      "pct": 1.55,
-      "time": "2026-11-06T17:14:17.707Z",
+      "price": 168573.84,
+      "pct": 1.43,
+      "time": "2026-11-06T18:03:42.659Z",
       "history": [
         {
           "d": "2026-10-07",
@@ -88,7 +88,7 @@
         },
         {
           "d": "2026-11-06",
-          "c": 168771.3438
+          "c": 168693.7344
         }
       ]
     },
@@ -145,6 +145,54 @@
   },
   "news": [
     {
+      "title": "Segurança: assunto de todos",
+      "link": "https://www12.senado.leg.br/noticias/infomaterias/2026/11/seguranca-assunto-de-todos",
+      "date": "2026-11-06T17:55:31.000Z",
+      "summary": "",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Comissão de Educação aprova projeto que cria o marco da educação integral",
+      "link": "https://www.camara.leg.br/noticias/1316826-comissao-de-educacao-aprova-projeto-que-cria-o-marco-da-educacao-integral",
+      "date": "2026-11-06T17:35:00.000Z",
+      "summary": "Texto aprovado reúne regras sobre jornada escolar, financiamento e parâmetros de qualidade na educação básica; a proposta continua em análise na Câmara",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Projeto prevê emissão gratuita de documentos para mulheres vítimas de violência patrimonial",
+      "link": "https://www.camara.leg.br/noticias/1316866-projeto-preve-emissao-gratuita-de-documentos-para-mulheres-vitimas-de-violencia-patrimonial",
+      "date": "2026-11-06T17:33:00.000Z",
+      "summary": "Proposta garante prioridade imediata no atendimento e abrange emissão em órgãos públicos, cartórios e conselhos",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Hegseth sob pressão após fiasco republicano nas eleições dos EUA",
+      "link": "https://www.dw.com/pt-br/hegseth-sob-pressão-após-fiasco-republicano-nas-eleições-dos-eua/a-79878899?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-06T17:32:00.000Z",
+      "summary": "Após obter maioria no Congresso, oposição democrata já sinaliza ações contra Pete Hegseth. Republicanos o culpam por ele ter sido um dos maiores incentivadores da guerra no Irã.",
+      "source": "DW Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "Santiago Peña não comparece a sessão sobre impeachment no Congresso do Paraguai",
+      "link": "https://www.bbc.com/portuguese/articles/c5x2vvxw8m04o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-06T17:28:24.000Z",
+      "summary": "Peña apresentará sua defesa ao Senado na manhã desta sexta-feira (6/11). Vice-presidente deve assumir, caso o mandatário atual seja destituído de seu cargo.",
+      "source": "BBC News Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "Comissão aprova projeto que exige identificação em medicamentos comprados para o SUS",
+      "link": "https://www.camara.leg.br/noticias/1316831-comissao-aprova-projeto-que-exige-identificacao-em-medicamentos-comprados-para-o-sus",
+      "date": "2026-11-06T16:31:00.000Z",
+      "summary": "O objetivo é a comercialização indevida desses produtos; a Câmara dos Deputados continua discutindo o assunto",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
       "title": "Câmara Mirim leva jornada parlamentar para dentro das escolas em edição do bicentenário",
       "link": "https://www.camara.leg.br/noticias/1316564-camara-mirim-leva-jornada-parlamentar-para-dentro-das-escolas-em-edicao-do-bicentenario",
       "date": "2026-11-06T15:45:00.000Z",
@@ -158,14 +206,6 @@
       "date": "2026-11-06T15:45:00.000Z",
       "summary": "Democrata cotado para concorrer à Casa Branca, Gavin Newsom quer converter todas as penas de morte no estado em prisão perpétua, sem liberdade condicional. Anúncio ocorre dias após execução fracassada no Tennesse.",
       "source": "DW Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "Santiago Peña sofrerá impeachment após renunciar no Paraguai? Entenda os próximos passos",
-      "link": "https://www.bbc.com/portuguese/articles/c5x2vvxw8m04o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-06T15:31:47.000Z",
-      "summary": "Peña apresentará sua defesa ao Senado na manhã desta sexta-feira (6/11). Vice-presidente deve assumir, caso o mandatário atual seja destituído de seu cargo.",
-      "source": "BBC News Brasil",
       "cat": "internacional"
     },
     {
@@ -189,30 +229,6 @@
       "link": "https://www.camara.leg.br/noticias/1316706-comissao-aprova-inclusao-do-vinagre-colonial-em-regras-da-agricultura-familiar",
       "date": "2026-11-06T14:11:00.000Z",
       "summary": "O projeto continua em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Projeto inclui vinagre colonial nas regras aplicadas ao vinho da agricultura familiar",
-      "link": "https://www.camara.leg.br/noticias/1316704-projeto-inclui-vinagre-colonial-nas-regras-aplicadas-ao-vinho-da-agricultura-familiar",
-      "date": "2026-11-06T14:00:00.000Z",
-      "summary": "O texto está em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão aprova atendimento virtual 24 horas a mulheres vítimas de violência",
-      "link": "https://www.camara.leg.br/noticias/1316681-comissao-aprova-atendimento-virtual-24-horas-a-mulheres-vitimas-de-violencia",
-      "date": "2026-11-06T13:51:00.000Z",
-      "summary": "A Câmara dos Deputados continua discutindo o assunto",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão aprova uso do Fundo Social para compra de móveis e eletrodomésticos no Minha Casa, Minha Vida",
-      "link": "https://www.camara.leg.br/noticias/1316693-comissao-aprova-uso-do-fundo-social-para-compra-de-moveis-e-eletrodomesticos-no-minha-casa-minha-vida",
-      "date": "2026-11-06T13:26:00.000Z",
-      "summary": "A Câmara dos Deputados continua discutindo o assunto",
       "source": "Agência Câmara",
       "cat": "politica"
     },
@@ -261,14 +277,6 @@
       "link": "https://www.dw.com/pt-br/tse-aceita-ação-contra-lula-e-alckmin-por-abuso-de-poder-político/a-79871343?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-05T22:47:00.000Z",
       "summary": "Partido Novo acusa o governo de usar a máquina estatal a seu favor para se reeleger. Ministro Villas Bôas Cueva deu à defesa prazo de cinco dias para que se manifeste.",
-      "source": "DW Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "Entenda o escândalo bancário que derrubou o presidente do Paraguai",
-      "link": "https://www.dw.com/pt-br/entenda-o-escândalo-bancário-que-derrubou-o-presidente-do-paraguai/a-79870697?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-05T19:57:00.000Z",
-      "summary": "Temendo impeachment, Santiago Peña renunciou após colapso do Ueno Bank prejudicar quase 3 milhões de clientes. Segundo o Banco Central, instituição não tinha fundos suficientes para honrar compromissos.",
       "source": "DW Brasil",
       "cat": "internacional"
     },
@@ -337,5 +345,7 @@
       "cat": "economia"
     }
   ],
-  "errors": []
+  "errors": [
+    "Dívida/PIB (SGS 13762): HTTP 304"
+  ]
 }
