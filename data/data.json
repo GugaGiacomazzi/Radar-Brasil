@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-06T12:55:06.407Z",
+  "updated": "2026-11-06T14:08:53.369Z",
   "market": {
     "ibov": {
-      "price": 166191.45,
-      "pct": -0.82,
-      "time": "2026-11-06T12:55:01.525Z",
+      "price": 166392.44,
+      "pct": 0.12,
+      "time": "2026-11-06T14:08:47.640Z",
       "history": [
         {
           "d": "2026-10-07",
@@ -85,6 +85,10 @@
         {
           "d": "2026-11-05",
           "c": 166192
+        },
+        {
+          "d": "2026-11-06",
+          "c": 166392.4375
         }
       ]
     },
@@ -141,6 +145,62 @@
   },
   "news": [
     {
+      "title": "Projeto inclui vinagre colonial nas regras aplicadas ao vinho da agricultura familiar",
+      "link": "https://www.camara.leg.br/noticias/1316704-projeto-inclui-vinagre-colonial-nas-regras-aplicadas-ao-vinho-da-agricultura-familiar",
+      "date": "2026-11-06T14:00:00.000Z",
+      "summary": "O texto está em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Comissão aprova atendimento virtual 24 horas a mulheres vítimas de violência",
+      "link": "https://www.camara.leg.br/noticias/1316681-comissao-aprova-atendimento-virtual-24-horas-a-mulheres-vitimas-de-violencia",
+      "date": "2026-11-06T13:51:00.000Z",
+      "summary": "A Câmara dos Deputados continua discutindo o assunto",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Senado realiza congresso sobre direito parlamentar",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/06/senado-realiza-congresso-sobre-direito-parlamentar",
+      "date": "2026-11-06T13:44:59.000Z",
+      "summary": "A Advocacia do Senado promove, na terça-feira (10) e na quarta-feira (11), o 3º Congresso Brasileiro de Direito Parlamentar. O encontro será realizado no Auditório Antônio Carlos Magalhães, do Interlegis, em Brasília, com transmissão on-line pelos canais ofici",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Comissão aprova uso do Fundo Social para compra de móveis e eletrodomésticos no Minha Casa, Minha Vida",
+      "link": "https://www.camara.leg.br/noticias/1316693-comissao-aprova-uso-do-fundo-social-para-compra-de-moveis-e-eletrodomesticos-no-minha-casa-minha-vida",
+      "date": "2026-11-06T13:26:00.000Z",
+      "summary": "A Câmara dos Deputados continua discutindo o assunto",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Prorrogadas MPs de subsídio ao diesel e crédito para agricultura familiar",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/06/prorrogadas-mps-de-subsidio-ao-diesel-e-credito-para-agricultura-familiar",
+      "date": "2026-11-06T13:16:43.000Z",
+      "summary": "Três medidas provisórias tiveram seus prazos de vigência prorrogados por mais 60 dias pelo presidente do Congresso, senador Davi Alcolumbre. Duas delas subsidiam a produção e importação de combustíveis, sobretudo o óleo diesel, para reduzir o impacto da alta d",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Comissão debate atendimento educacional dos alunos da educação especial",
+      "link": "https://www.camara.leg.br/noticias/1316333-comissao-debate-atendimento-educacional-dos-alunos-da-educacao-especial",
+      "date": "2026-11-06T13:16:00.000Z",
+      "summary": "",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "O que é o Ueno Bank e como ele desencadeou a crise que derrubou o presidente do Paraguai",
+      "link": "https://www.dw.com/pt-br/o-que-é-o-ueno-bank-e-como-ele-desencadeou-a-crise-que-derrubou-o-presidente-do-paraguai/a-79875861?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-06T13:09:00.000Z",
+      "summary": "Impulsionada pelo governo, instituição teve ascensão meteórica e alcançou clientela de 60% da população adulta no país. Falência custou cargo do presidente Santiago Peña, mas denúncias de corrupção miram elite do país.",
+      "source": "DW Brasil",
+      "cat": "internacional"
+    },
+    {
       "title": "Santiago Peña sofrerá impeachment após renunciar no Paraguai? Entenda os próximos passos",
       "link": "https://www.bbc.com/portuguese/articles/c5x2vvxw8m04o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-06T12:38:26.000Z",
@@ -161,22 +221,6 @@
       "link": "https://www.camara.leg.br/noticias/1316523-comissao-de-saude-discute-proposta-que-cria-cartao-de-identificacao-unico-do-usuario-do-sus",
       "date": "2026-11-06T12:23:00.000Z",
       "summary": "A ideia é adotar um modelo de identificação dos usuários que funcione de maneira integrada em diferentes localidades e níveis de atendimento",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão aprova projeto que prevê apoio a profissionais da educação vítimas de violência",
-      "link": "https://www.camara.leg.br/noticias/1316677-comissao-aprova-projeto-que-preve-apoio-a-profissionais-da-educacao-vitimas-de-violencia",
-      "date": "2026-11-06T12:15:00.000Z",
-      "summary": "Texto segue em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão aprova dispensa de custas processuais para medidas protetivas da Lei Maria da Penha",
-      "link": "https://www.camara.leg.br/noticias/1316669-comissao-aprova-dispensa-de-custas-processuais-para-medidas-protetivas-da-lei-maria-da-penha",
-      "date": "2026-11-06T11:22:00.000Z",
-      "summary": "Texto segue em análise na Câmara dos Deputados",
       "source": "Agência Câmara",
       "cat": "politica"
     },
@@ -213,22 +257,6 @@
       "cat": "internacional"
     },
     {
-      "title": "Projeto cria portal para eleitor consultar posições dos partidos políticos",
-      "link": "https://www.camara.leg.br/noticias/1311454-projeto-cria-portal-para-eleitor-consultar-posicoes-dos-partidos-politicos",
-      "date": "2026-11-05T22:05:00.000Z",
-      "summary": "Proposta está em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão aprova criação de programa nacional de apoio à amamentação em emergências",
-      "link": "https://www.camara.leg.br/noticias/1316313-comissao-aprova-criacao-de-programa-nacional-de-apoio-a-amamentacao-em-emergencias",
-      "date": "2026-11-05T20:46:00.000Z",
-      "summary": "Proposta ainda está em discussão na Câmara",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
       "title": "Entenda o escândalo bancário que derrubou o presidente do Paraguai",
       "link": "https://www.dw.com/pt-br/entenda-o-escândalo-bancário-que-derrubou-o-presidente-do-paraguai/a-79870697?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-05T19:57:00.000Z",
@@ -249,14 +277,6 @@
       "link": "https://www.dw.com/pt-br/hungria-abre-os-arquivos-secretos-da-era-comunista/a-79866924?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-05T17:49:00.000Z",
       "summary": "Governo do premiê Péter Magyar divulga os \"arquivos dos agentes\", com nomes de informantes da segurança estatal. Medida reacende debate sobre culpa e responsabilidade mais de três décadas após o fim do regime soviético.",
-      "source": "DW Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "Como onda de investimentos na IA pode encarecer crédito na Europa",
-      "link": "https://www.dw.com/pt-br/como-onda-de-investimentos-na-ia-pode-encarecer-crédito-na-europa/a-79857746?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-05T14:57:00.000Z",
-      "summary": "Gigantes da tecnologia dos EUA emitem bilhões em títulos, inclusive em euro, e acabam competindo com governos europeus, em dificuldade financeira, pelo acesso a capital de investimento.",
       "source": "DW Brasil",
       "cat": "internacional"
     },
