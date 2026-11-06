@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-06T18:03:48.335Z",
+  "updated": "2026-11-06T19:17:30.357Z",
   "market": {
     "ibov": {
-      "price": 168573.84,
-      "pct": 1.43,
-      "time": "2026-11-06T18:03:42.659Z",
+      "price": 168495.3,
+      "pct": 1.39,
+      "time": "2026-11-06T19:17:24.011Z",
       "history": [
         {
           "d": "2026-10-07",
@@ -88,7 +88,7 @@
         },
         {
           "d": "2026-11-06",
-          "c": 168693.7344
+          "c": 168441.8438
         }
       ]
     },
@@ -145,6 +145,54 @@
   },
   "news": [
     {
+      "title": "Comissão aprova garantia de informações claras sobre atendimento a pessoas com autismo no SUS",
+      "link": "https://www.camara.leg.br/noticias/1316780-comissao-aprova-garantia-de-informacoes-claras-sobre-atendimento-a-pessoas-com-autismo-no-sus",
+      "date": "2026-11-06T19:14:00.000Z",
+      "summary": "O projeto continua em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Comissão de Educação aprova regras para facilitar trabalho de conselho que fiscaliza merenda escolar",
+      "link": "https://www.camara.leg.br/noticias/1316724-comissao-de-educacao-aprova-regras-para-facilitar-trabalho-de-conselho-que-fiscaliza-merenda-escolar",
+      "date": "2026-11-06T19:08:00.000Z",
+      "summary": "A Câmara continua analisando a medida",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Conservadora Ilse Aigner deverá ser a primeira mulher presidente da Alemanha",
+      "link": "https://www.dw.com/pt-br/conservadora-ilse-aigner-deverá-ser-a-primeira-mulher-presidente-da-alemanha/a-79880731?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-06T18:26:00.000Z",
+      "summary": "Partido do chanceler federal Friedrich Merz concordou em apoiar o nome da ex-ministra de Merkel, informaram jornais alemães. Escolha oficial acontece em 30 de janeiro de 2027.",
+      "source": "DW Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "Santiago Peña não comparece a sessão sobre impeachment no Congresso do Paraguai",
+      "link": "https://www.bbc.com/portuguese/articles/c5x2vvxw8m04o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-06T18:17:14.000Z",
+      "summary": "O Senado do Paraguai avança com o processo de impeachment do presidente Santiago Peña. Ele havia solicitado um prazo adicional de 72 horas para preparar sua defesa, mas os legisladores rejeitaram o pedido.",
+      "source": "BBC News Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "Mundo registrou mês de outubro mais quente da história, diz serviço climático da UE",
+      "link": "https://www.dw.com/pt-br/mundo-registrou-mês-de-outubro-mais-quente-da-história-diz-serviço-climático-da-ue/a-79879668?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-06T18:10:00.000Z",
+      "summary": "Alerta é do serviço climático da UE, que diz que 2026 pode se tornar o ano mais quente já observado. El Niño excepcionalmente forte intensifica o aquecimento global causado pela atividade humana.",
+      "source": "DW Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "Comissão aprova emissão gratuita de documentos para mulheres e filhos vítimas de violência patrimonial",
+      "link": "https://www.camara.leg.br/noticias/1316689-comissao-aprova-emissao-gratuita-de-documentos-para-mulheres-e-filhos-vitimas-de-violencia-patrimonial",
+      "date": "2026-11-06T18:09:00.000Z",
+      "summary": "A Câmara dos Deputados continua discutindo o assunto",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
       "title": "Segurança: assunto de todos",
       "link": "https://www12.senado.leg.br/noticias/infomaterias/2026/11/seguranca-assunto-de-todos",
       "date": "2026-11-06T17:55:31.000Z",
@@ -161,27 +209,11 @@
       "cat": "politica"
     },
     {
-      "title": "Projeto prevê emissão gratuita de documentos para mulheres vítimas de violência patrimonial",
-      "link": "https://www.camara.leg.br/noticias/1316866-projeto-preve-emissao-gratuita-de-documentos-para-mulheres-vitimas-de-violencia-patrimonial",
-      "date": "2026-11-06T17:33:00.000Z",
-      "summary": "Proposta garante prioridade imediata no atendimento e abrange emissão em órgãos públicos, cartórios e conselhos",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
       "title": "Hegseth sob pressão após fiasco republicano nas eleições dos EUA",
       "link": "https://www.dw.com/pt-br/hegseth-sob-pressão-após-fiasco-republicano-nas-eleições-dos-eua/a-79878899?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-06T17:32:00.000Z",
       "summary": "Após obter maioria no Congresso, oposição democrata já sinaliza ações contra Pete Hegseth. Republicanos o culpam por ele ter sido um dos maiores incentivadores da guerra no Irã.",
       "source": "DW Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "Santiago Peña não comparece a sessão sobre impeachment no Congresso do Paraguai",
-      "link": "https://www.bbc.com/portuguese/articles/c5x2vvxw8m04o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-06T17:28:24.000Z",
-      "summary": "Peña apresentará sua defesa ao Senado na manhã desta sexta-feira (6/11). Vice-presidente deve assumir, caso o mandatário atual seja destituído de seu cargo.",
-      "source": "BBC News Brasil",
       "cat": "internacional"
     },
     {
@@ -209,28 +241,12 @@
       "cat": "internacional"
     },
     {
-      "title": "Comissão aprova projeto de incentivo à produção e ao uso do etanol",
-      "link": "https://www.camara.leg.br/noticias/1316742-comissao-aprova-projeto-de-incentivo-a-producao-e-ao-uso-do-etanol",
-      "date": "2026-11-06T15:31:00.000Z",
-      "summary": "Texto segue em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
       "title": "Mais de 70 milhões de brasileiros estarão sob governos estaduais de partido ligado à Universal em 2027",
       "link": "https://www.dw.com/pt-br/mais-de-70-milhões-de-brasileiros-estarão-sob-governos-estaduais-de-partido-ligado-à-universal-em-2027/a-79876528?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-06T15:09:00.000Z",
       "summary": "Republicanos conseguiu resultado expressivo com eleição de Tarcísio de Freitas (SP), Cleitinho (MG) e Lorenzo Pazolini (ES). Estratégia bem-sucedida mescla aposta em novos políticos e estrutura da igreja.",
       "source": "DW Brasil",
       "cat": "internacional"
-    },
-    {
-      "title": "Comissão aprova inclusão do vinagre colonial em regras da agricultura familiar",
-      "link": "https://www.camara.leg.br/noticias/1316706-comissao-aprova-inclusao-do-vinagre-colonial-em-regras-da-agricultura-familiar",
-      "date": "2026-11-06T14:11:00.000Z",
-      "summary": "O projeto continua em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica"
     },
     {
       "title": "O que é o Ueno Bank e como ele desencadeou a crise que derrubou o presidente do Paraguai",
@@ -262,22 +278,6 @@
       "date": "2026-11-05T23:19:37.000Z",
       "summary": "Economista que presidiu o BNDES e fez parte da diretoria do Banco Central propôs criação de conselho que reduziria taxa Selic a longo prazo; proposta mobilizou mercado financeiro e discussão em Brasília.",
       "source": "BBC News Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "Flávio Bolsonaro diz a jornal americano que fugiu sozinho do Brasil",
-      "link": "https://www.dw.com/pt-br/flávio-bolsonaro-diz-a-jornal-americano-que-fugiu-sozinho-do-brasil/a-79871184?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-05T22:50:00.000Z",
-      "summary": "Candidato derrotado à Presidência afirma ao \"NYT\" que vai \"levar para o túmulo\" segredo sobre como chegou aos EUA: \"Não houve ajuda de absolutamente ninguém, nenhum governo.\"",
-      "source": "DW Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "TSE aceita ação contra Lula e Alckmin por abuso de poder político",
-      "link": "https://www.dw.com/pt-br/tse-aceita-ação-contra-lula-e-alckmin-por-abuso-de-poder-político/a-79871343?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-05T22:47:00.000Z",
-      "summary": "Partido Novo acusa o governo de usar a máquina estatal a seu favor para se reeleger. Ministro Villas Bôas Cueva deu à defesa prazo de cinco dias para que se manifeste.",
-      "source": "DW Brasil",
       "cat": "internacional"
     },
     {
@@ -345,7 +345,5 @@
       "cat": "economia"
     }
   ],
-  "errors": [
-    "Dívida/PIB (SGS 13762): HTTP 304"
-  ]
+  "errors": []
 }
