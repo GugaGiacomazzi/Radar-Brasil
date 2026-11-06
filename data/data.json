@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-06T02:06:42.120Z",
+  "updated": "2026-11-06T03:10:48.192Z",
   "market": {
     "ibov": {
       "price": 166191.45,
       "pct": -0.82,
-      "time": "2026-11-06T02:06:36.848Z",
+      "time": "2026-11-06T03:10:44.807Z",
       "history": [
         {
           "d": "2026-10-07",
@@ -84,7 +84,7 @@
         },
         {
           "d": "2026-11-05",
-          "c": 166191.4531
+          "c": 166192
         }
       ]
     },
@@ -140,6 +140,14 @@
     ]
   },
   "news": [
+    {
+      "title": "'Caso Master do Paraguai': entenda a crise de banco que pode derrubar o presidente Santiago Peña",
+      "link": "https://www.bbc.com/portuguese/articles/cmq8njl81978o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-06T02:16:08.000Z",
+      "summary": "A intervenção no Ueno Bank, uma das maiores instituições financeiras do Paraguai, abalou o sistema bancário do país e os mais altos escalões do poder político.",
+      "source": "BBC News Brasil",
+      "cat": "internacional"
+    },
     {
       "title": "'Não falei com Lula nem tenho nada marcado. Isso foi plantado para queimar alguém que defendeu a proposta', diz economista André Lara Resende",
       "link": "https://www.bbc.com/portuguese/articles/cmly0jeq2q9no?at_medium=RSS&at_campaign=rss",
@@ -250,14 +258,6 @@
       "date": "2026-11-05T17:49:00.000Z",
       "summary": "Governo do premiê Péter Magyar divulga os \"arquivos dos agentes\", com nomes de informantes da segurança estatal. Medida reacende debate sobre culpa e responsabilidade mais de três décadas após o fim do regime soviético.",
       "source": "DW Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "'Caso Master do Paraguai': entenda a crise de banco que derrubou o presidente Santiago Peña",
-      "link": "https://www.bbc.com/portuguese/articles/cmq8njl81978o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-05T16:51:39.000Z",
-      "summary": "A intervenção no Ueno Bank, uma das maiores instituições financeiras do Paraguai, abalou o sistema bancário do país e os mais altos escalões do poder político.",
-      "source": "BBC News Brasil",
       "cat": "internacional"
     },
     {
