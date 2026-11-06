@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-06T14:08:53.369Z",
+  "updated": "2026-11-06T15:07:28.251Z",
   "market": {
     "ibov": {
-      "price": 166392.44,
-      "pct": 0.12,
-      "time": "2026-11-06T14:08:47.640Z",
+      "price": 167985.34,
+      "pct": 1.08,
+      "time": "2026-11-06T15:07:22.294Z",
       "history": [
         {
           "d": "2026-10-07",
@@ -88,7 +88,7 @@
         },
         {
           "d": "2026-11-06",
-          "c": 166392.4375
+          "c": 168201.6563
         }
       ]
     },
@@ -144,6 +144,14 @@
     ]
   },
   "news": [
+    {
+      "title": "Comissão aprova inclusão do vinagre colonial em regras da agricultura familiar",
+      "link": "https://www.camara.leg.br/noticias/1316706-comissao-aprova-inclusao-do-vinagre-colonial-em-regras-da-agricultura-familiar",
+      "date": "2026-11-06T14:11:00.000Z",
+      "summary": "O projeto continua em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
     {
       "title": "Projeto inclui vinagre colonial nas regras aplicadas ao vinho da agricultura familiar",
       "link": "https://www.camara.leg.br/noticias/1316704-projeto-inclui-vinagre-colonial-nas-regras-aplicadas-ao-vinho-da-agricultura-familiar",
@@ -213,14 +221,6 @@
       "link": "https://www.camara.leg.br/noticias/1316238-comissao-debate-atuacao-da-rede-nacional-de-fisica-de-altas-energias",
       "date": "2026-11-06T12:29:00.000Z",
       "summary": "Essa rede reúne pesquisadores e instituições brasileiras que estudam os componentes mais fundamentais da matéria e as forças que atuam entre eles",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão de Saúde discute proposta que cria cartão de identificação único do usuário do SUS",
-      "link": "https://www.camara.leg.br/noticias/1316523-comissao-de-saude-discute-proposta-que-cria-cartao-de-identificacao-unico-do-usuario-do-sus",
-      "date": "2026-11-06T12:23:00.000Z",
-      "summary": "A ideia é adotar um modelo de identificação dos usuários que funcione de maneira integrada em diferentes localidades e níveis de atendimento",
       "source": "Agência Câmara",
       "cat": "politica"
     },
