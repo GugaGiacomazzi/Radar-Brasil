@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-06T11:52:48.139Z",
+  "updated": "2026-11-06T12:55:06.407Z",
   "market": {
     "ibov": {
       "price": 166191.45,
       "pct": -0.82,
-      "time": "2026-11-06T11:52:43.301Z",
+      "time": "2026-11-06T12:55:01.525Z",
       "history": [
         {
           "d": "2026-10-07",
@@ -141,6 +141,38 @@
   },
   "news": [
     {
+      "title": "Santiago Peña sofrerá impeachment após renunciar no Paraguai? Entenda os próximos passos",
+      "link": "https://www.bbc.com/portuguese/articles/c5x2vvxw8m04o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-06T12:38:26.000Z",
+      "summary": "Peña apresentará sua defesa ao Senado na manhã desta sexta-feira (6/11). Vice-presidente deve assumir, caso o mandatário atual seja destituído de seu cargo.",
+      "source": "BBC News Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "Comissão debate atuação da Rede Nacional de Física de Altas Energias",
+      "link": "https://www.camara.leg.br/noticias/1316238-comissao-debate-atuacao-da-rede-nacional-de-fisica-de-altas-energias",
+      "date": "2026-11-06T12:29:00.000Z",
+      "summary": "Essa rede reúne pesquisadores e instituições brasileiras que estudam os componentes mais fundamentais da matéria e as forças que atuam entre eles",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Comissão de Saúde discute proposta que cria cartão de identificação único do usuário do SUS",
+      "link": "https://www.camara.leg.br/noticias/1316523-comissao-de-saude-discute-proposta-que-cria-cartao-de-identificacao-unico-do-usuario-do-sus",
+      "date": "2026-11-06T12:23:00.000Z",
+      "summary": "A ideia é adotar um modelo de identificação dos usuários que funcione de maneira integrada em diferentes localidades e níveis de atendimento",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Comissão aprova projeto que prevê apoio a profissionais da educação vítimas de violência",
+      "link": "https://www.camara.leg.br/noticias/1316677-comissao-aprova-projeto-que-preve-apoio-a-profissionais-da-educacao-vitimas-de-violencia",
+      "date": "2026-11-06T12:15:00.000Z",
+      "summary": "Texto segue em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
       "title": "Comissão aprova dispensa de custas processuais para medidas protetivas da Lei Maria da Penha",
       "link": "https://www.camara.leg.br/noticias/1316669-comissao-aprova-dispensa-de-custas-processuais-para-medidas-protetivas-da-lei-maria-da-penha",
       "date": "2026-11-06T11:22:00.000Z",
@@ -189,42 +221,10 @@
       "cat": "politica"
     },
     {
-      "title": "Em sessão em Plenário, Paim relaciona paz à vitória democrata nos EUA",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/05/em-sessao-em-plenario-paim-relaciona-paz-a-vitoria-democrata-nos-eua",
-      "date": "2026-11-05T21:36:43.000Z",
-      "summary": "A paz mundial ganhou um novo fôlego com a vitória do Partido Democrata nas eleições dos EUA de meio de mandato, que ocorreram nesta semana. Foi o que afirmou o senador Paulo Paim (PT-RS) durante o lançamento da Frente Parlamentar pela Paz Mundial, nesta quinta",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
-      "title": "Flávio Bolsonaro diz ao NY Times que 'vai levar para o túmulo' como saiu do Brasil; jornal aponta ajuda dos EUA",
-      "link": "https://www.bbc.com/portuguese/articles/cm70ppw2k0y3o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-05T21:35:09.000Z",
-      "summary": "Em primeira entrevista desde que deixou o Brasil, senador nega ter recebido ajuda de governos; autoridades americanas, no entanto, afirmam que viagem teve participação da Casa Branca.",
-      "source": "BBC News Brasil",
-      "cat": "internacional"
-    },
-    {
       "title": "Comissão aprova criação de programa nacional de apoio à amamentação em emergências",
       "link": "https://www.camara.leg.br/noticias/1316313-comissao-aprova-criacao-de-programa-nacional-de-apoio-a-amamentacao-em-emergencias",
       "date": "2026-11-05T20:46:00.000Z",
       "summary": "Proposta ainda está em discussão na Câmara",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão aprova criação de programa de atendimento domiciliar de saúde para idosos pelo SUS",
-      "link": "https://www.camara.leg.br/noticias/1316336-comissao-aprova-criacao-de-programa-de-atendimento-domiciliar-de-saude-para-idosos-pelo-sus",
-      "date": "2026-11-05T20:38:00.000Z",
-      "summary": "Proposta segue em análise na Câmara",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão aprova proposta que prevê restrições a homenagens em bens públicos",
-      "link": "https://www.camara.leg.br/noticias/1316491-comissao-aprova-proposta-que-preve-restricoes-a-homenagens-em-bens-publicos",
-      "date": "2026-11-05T20:12:00.000Z",
-      "summary": "Texto segue em análise na Câmara dos Deputados",
       "source": "Agência Câmara",
       "cat": "politica"
     },
@@ -235,14 +235,6 @@
       "summary": "Temendo impeachment, Santiago Peña renunciou após colapso do Ueno Bank prejudicar quase 3 milhões de clientes. Segundo o Banco Central, instituição não tinha fundos suficientes para honrar compromissos.",
       "source": "DW Brasil",
       "cat": "internacional"
-    },
-    {
-      "title": "Comissão mista aprova terceira edição de plano para auxiliar exportadores atingidos pelo tarifaço norte-americano",
-      "link": "https://www.camara.leg.br/noticias/1316545-comissao-mista-aprova-terceira-edicao-de-plano-para-auxiliar-exportadores-atingidos-pelo-tarifaco-norte-americano",
-      "date": "2026-11-05T19:18:00.000Z",
-      "summary": "Plano Brasil Soberano prevê linhas de crédito com juros subsidiados para os exportadores brasileiros",
-      "source": "Agência Câmara",
-      "cat": "politica"
     },
     {
       "title": "Presidente do Paraguai renuncia em meio a escândalo por colapso de banco",
