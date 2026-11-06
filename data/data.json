@@ -1,15 +1,11 @@
 {
-  "updated": "2026-11-05T23:40:35.419Z",
+  "updated": "2026-11-06T00:56:15.569Z",
   "market": {
     "ibov": {
       "price": 166191.45,
       "pct": -0.82,
-      "time": "2026-11-05T23:40:31.062Z",
+      "time": "2026-11-06T00:56:10.350Z",
       "history": [
-        {
-          "d": "2026-10-06",
-          "c": 205835
-        },
         {
           "d": "2026-10-07",
           "c": 204302
@@ -265,6 +261,14 @@
       "cat": "internacional"
     },
     {
+      "title": "'Caso Master do Paraguai': entenda a crise de banco que derrubou o presidente Santiago Peña",
+      "link": "https://www.bbc.com/portuguese/articles/cmq8njl81978o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-05T16:51:39.000Z",
+      "summary": "A intervenção no Ueno Bank, uma das maiores instituições financeiras do Paraguai, abalou o sistema bancário do país e os mais altos escalões do poder político.",
+      "source": "BBC News Brasil",
+      "cat": "internacional"
+    },
+    {
       "title": "Como onda de investimentos na IA pode encarecer crédito na Europa",
       "link": "https://www.dw.com/pt-br/como-onda-de-investimentos-na-ia-pode-encarecer-crédito-na-europa/a-79857746?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-05T14:57:00.000Z",
@@ -285,14 +289,6 @@
       "link": "https://www.bbc.com/portuguese/articles/cm62y4dnznvxo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-05T09:21:03.000Z",
       "summary": "O democrata Felipe Sousa-Lazaballet, nascido na Baixada Fluminense, será o primeiro brasileiro a integrar o legislativo da Flórida.",
-      "source": "BBC News Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "Quem são os grandes vencedores e perdedores das eleições americanas",
-      "link": "https://www.bbc.com/portuguese/articles/cmd7q9ep09z8o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-04T23:24:52.000Z",
-      "summary": "Democratas conquistaram o controle das duas Casas do Congresso e venceram disputas importantes nos Estados, enquanto Donald Trump, republicanos e aliados enfrentaram derrotas em diferentes partes do país.",
       "source": "BBC News Brasil",
       "cat": "internacional"
     },
