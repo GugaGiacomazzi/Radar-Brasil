@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-06T21:04:03.357Z",
+  "updated": "2026-11-06T21:59:11.622Z",
   "market": {
     "ibov": {
-      "price": 168308.94,
-      "pct": 1.27,
-      "time": "2026-11-06T21:03:58.609Z",
+      "price": 168498.45,
+      "pct": 1.39,
+      "time": "2026-11-06T21:59:07.402Z",
       "history": [
         {
           "d": "2026-10-07",
@@ -88,7 +88,7 @@
         },
         {
           "d": "2026-11-06",
-          "c": 168377.4063
+          "c": 168498.4531
         }
       ]
     },
@@ -145,6 +145,46 @@
   },
   "news": [
     {
+      "title": "Nova lei condiciona registro de médicos à aprovação em exame",
+      "link": "https://www.camara.leg.br/noticias/1316981-nova-lei-condiciona-registro-de-medicos-a-aprovacao-em-exame",
+      "date": "2026-11-06T21:42:00.000Z",
+      "summary": "Enamed avaliará estudantes de medicina no segundo, no quarto e no sexto ano da graduação",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Tropas brasileiras patrulharam Faixa de Gaza por 10 anos para evitar guerra",
+      "link": "https://www12.senado.leg.br/noticias/especiais/arquivo-s/tropas-brasileiras-patrulharam-faixa-de-gaza-por-10-anos-para-evitar-guerra",
+      "date": "2026-11-06T21:32:29.000Z",
+      "summary": "",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Senado participa da 72ª edição da Feira do Livro de Porto Alegre",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/06/senado-participa-da-72a-edicao-da-feira-do-livro-de-porto-alegre",
+      "date": "2026-11-06T21:31:36.000Z",
+      "summary": "O Senado participa da 72ª edição da Feira do Livro de Porto Alegre, que vai até o dia 15 de novembro, na Praça da Alfândega, no Centro Histórico da capital gaúcha. Com mais de 20 anos de participação, esta edição conta com o espaço O Senado na Praça, que apres",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Plenário celebra 80 anos da Secretaria-Geral da Mesa na próxima terça",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/06/plenario-celebra-80-anos-da-secretaria-geral-da-mesa-na-proxima-terca",
+      "date": "2026-11-06T21:20:40.000Z",
+      "summary": "Sessão especial nesta terça-feira (10) no Plenário celebrará os 80 anos da Secretaria-Geral da Mesa (SGM). A homenagem, marcada para as 10h, atende a um requerimento do presidente do Senado, Davi Alcolumbre. Criada em 1946, com a volta da democracia após o fim",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Cinema Acessível Kids reuniu estudantes em cinema de Brasília",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/06/cinema-acessivel-kids-reuniu-estudantes-em-cinema-de-brasilia",
+      "date": "2026-11-06T21:15:11.000Z",
+      "summary": "Cerca de 350 estudantes de quatro escolas participaram, nesta sexta-feira (6), do Festival Cinema Acessível Kids, promovido em Brasília pelo Senado Federal. O festival exibiu gratuitamente o filme Divertida Mente com recursos de audiodescrição, libras e legend",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
       "title": "Êxito de missão para retirar de civis em Oleshky pode ser um primeiro passo rumo à paz na Ucrânia?",
       "link": "https://www.dw.com/pt-br/êxito-de-missão-para-retirar-de-civis-em-oleshky-pode-ser-um-primeiro-passo-rumo-à-paz-na-ucrânia/a-79867002?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-06T20:43:00.000Z",
@@ -161,27 +201,11 @@
       "cat": "politica"
     },
     {
-      "title": "Proibição de bloqueio de recursos do Fust está na pauta do Plenário de quarta",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/06/proibicao-de-bloqueio-de-recursos-do-fust-esta-na-pauta-do-plenario-de-quarta",
-      "date": "2026-11-06T20:29:02.000Z",
-      "summary": "O Plenário vota nesta quarta-feira (11) projeto que impede bloqueio ou limitação de recursos destinados ao Fundo de Universalização dos Serviços de Telecomunicações, o Fust (PLP 230/2025). Do deputado Juscelino Filho (União-MA), a matéria também determina que ",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
       "title": "Comissão aprova política nacional para celíacos",
       "link": "https://www.camara.leg.br/noticias/1316839-comissao-aprova-politica-nacional-para-celiacos",
       "date": "2026-11-06T20:17:00.000Z",
       "summary": "A proposta está sujeita à apreciação pelo Plenário e segue em análise",
       "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Fiscalização do setor de combustíveis está na pauta do Plenário",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/06/fiscalizacao-do-setor-de-combustiveis-esta-na-pauta-do-plenario",
-      "date": "2026-11-06T20:16:55.000Z",
-      "summary": "O Plenário pode votar na terça-feira (10) projeto que permite à Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP) acessar informações fiscais das empresas do setor. Na mesma sessão, pode ser votada a criação do Programa Empresa Rosa, para inclu",
-      "source": "Agência Senado",
       "cat": "politica"
     },
     {
@@ -239,14 +263,6 @@
       "summary": "Alerta é do serviço climático da UE, que diz que 2026 pode se tornar o ano mais quente já observado. El Niño excepcionalmente forte intensifica o aquecimento global causado pela atividade humana.",
       "source": "DW Brasil",
       "cat": "internacional"
-    },
-    {
-      "title": "Comissão aprova emissão gratuita de documentos para mulheres e filhos vítimas de violência patrimonial",
-      "link": "https://www.camara.leg.br/noticias/1316689-comissao-aprova-emissao-gratuita-de-documentos-para-mulheres-e-filhos-vitimas-de-violencia-patrimonial",
-      "date": "2026-11-06T18:09:00.000Z",
-      "summary": "A Câmara dos Deputados continua discutindo o assunto",
-      "source": "Agência Câmara",
-      "cat": "politica"
     },
     {
       "title": "Hegseth sob pressão após fiasco republicano nas eleições dos EUA",
