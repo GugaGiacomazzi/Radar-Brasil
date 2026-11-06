@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-06T09:57:21.013Z",
+  "updated": "2026-11-06T10:59:21.391Z",
   "market": {
     "ibov": {
       "price": 166191.45,
       "pct": -0.82,
-      "time": "2026-11-06T09:57:15.086Z",
+      "time": "2026-11-06T10:59:14.986Z",
       "history": [
         {
           "d": "2026-10-07",
@@ -141,10 +141,10 @@
   },
   "news": [
     {
-      "title": "'Caso Master do Paraguai': entenda a crise de banco que pode derrubar o presidente Santiago Peña",
-      "link": "https://www.bbc.com/portuguese/articles/cmq8njl81978o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-06T02:16:08.000Z",
-      "summary": "A intervenção no Ueno Bank, uma das maiores instituições financeiras do Paraguai, abalou o sistema bancário do país e os mais altos escalões do poder político.",
+      "title": "'Meu medo é o governo Lula buscar atalhos e brigar com o mercado': por que professor de Cambridge defende ajuste fiscal 'suave'",
+      "link": "https://www.bbc.com/portuguese/articles/cqglww4xw40do?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-06T10:14:09.000Z",
+      "summary": "Economista Tiago Cavalcanti, brasileiro professor em Cambridge, critica a proposta de rápida redução da taxa de juros apresentada por André Lara Resende.",
       "source": "BBC News Brasil",
       "cat": "internacional"
     },
