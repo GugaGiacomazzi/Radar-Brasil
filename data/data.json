@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-06T05:22:19.146Z",
+  "updated": "2026-11-06T06:39:42.471Z",
   "market": {
     "ibov": {
       "price": 166191.45,
       "pct": -0.82,
-      "time": "2026-11-06T05:22:14.153Z",
+      "time": "2026-11-06T06:39:37.072Z",
       "history": [
         {
           "d": "2026-10-07",
@@ -269,6 +269,14 @@
       "cat": "internacional"
     },
     {
+      "title": "Unicef denuncia avanço de ataques a serviços de água em zonas de conflitos",
+      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854853",
+      "date": "2026-11-05T12:00:00.000Z",
+      "summary": "Equipes humanitárias e comunidades locais adotam soluções para manter abastecimento; agência pede mais proteção à infraestrutura civil; pesquisa examinou 23 países e territórios.",
+      "source": "ONU News",
+      "cat": "internacional"
+    },
+    {
       "title": "Agência da ONU mostra como alta do petróleo afeta países de forma diferente",
       "link": "https://news.un.org/feed/view/pt/story/2026/11/1854840",
       "date": "2026-11-05T12:00:00.000Z",
@@ -281,14 +289,6 @@
       "link": "https://www.bbc.com/portuguese/articles/cm62y4dnznvxo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-05T09:21:03.000Z",
       "summary": "O democrata Felipe Sousa-Lazaballet, nascido na Baixada Fluminense, será o primeiro brasileiro a integrar o legislativo da Flórida.",
-      "source": "BBC News Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "Quem são os grandes vencedores e perdedores das eleições americanas",
-      "link": "https://www.bbc.com/portuguese/articles/cmd7q9ep09z8o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-04T23:24:52.000Z",
-      "summary": "Democratas conquistaram o controle das duas Casas do Congresso e venceram disputas importantes nos Estados, enquanto Donald Trump, republicanos e aliados enfrentaram derrotas em diferentes partes do país.",
       "source": "BBC News Brasil",
       "cat": "internacional"
     },
