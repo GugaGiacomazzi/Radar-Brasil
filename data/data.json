@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-06T19:17:30.357Z",
+  "updated": "2026-11-06T20:07:22.681Z",
   "market": {
     "ibov": {
-      "price": 168495.3,
-      "pct": 1.39,
-      "time": "2026-11-06T19:17:24.011Z",
+      "price": 168268.52,
+      "pct": 1.25,
+      "time": "2026-11-06T20:07:17.619Z",
       "history": [
         {
           "d": "2026-10-07",
@@ -88,7 +88,7 @@
         },
         {
           "d": "2026-11-06",
-          "c": 168441.8438
+          "c": 168257.9063
         }
       ]
     },
@@ -144,6 +144,30 @@
     ]
   },
   "news": [
+    {
+      "title": "Qual o custo aos cofres das medidas de Lula para reeleição?",
+      "link": "https://www.dw.com/pt-br/qual-o-custo-aos-cofres-das-medidas-de-lula-para-reeleição/a-79879154?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-06T19:35:00.000Z",
+      "summary": "Políticas na reta final da campanha impactaram em cerca de R$ 40 bilhões nas contas, aponta entidade. O desafio é acomodar os gastos num orçamento já apertado.",
+      "source": "DW Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "Comissão debate redução da maioridade penal em duas audiências públicas",
+      "link": "https://www.camara.leg.br/noticias/1316864-comissao-debate-reducao-da-maioridade-penal-em-duas-audiencias-publicas",
+      "date": "2026-11-06T19:23:00.000Z",
+      "summary": "Foram convidados representantes do Ministério da Justiça, do Ministério Público e da magistratura",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Comissão aprova política nacional para celíacos",
+      "link": "https://www.camara.leg.br/noticias/1316839-comissao-aprova-politica-nacional-para-celiacos",
+      "date": "2026-11-06T19:17:00.000Z",
+      "summary": "A proposta está sujeita à apreciação pelo Plenário e segue em análise",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
     {
       "title": "Comissão aprova garantia de informações claras sobre atendimento a pessoas com autismo no SUS",
       "link": "https://www.camara.leg.br/noticias/1316780-comissao-aprova-garantia-de-informacoes-claras-sobre-atendimento-a-pessoas-com-autismo-no-sus",
@@ -217,22 +241,6 @@
       "cat": "internacional"
     },
     {
-      "title": "Comissão aprova projeto que exige identificação em medicamentos comprados para o SUS",
-      "link": "https://www.camara.leg.br/noticias/1316831-comissao-aprova-projeto-que-exige-identificacao-em-medicamentos-comprados-para-o-sus",
-      "date": "2026-11-06T16:31:00.000Z",
-      "summary": "O objetivo é a comercialização indevida desses produtos; a Câmara dos Deputados continua discutindo o assunto",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Câmara Mirim leva jornada parlamentar para dentro das escolas em edição do bicentenário",
-      "link": "https://www.camara.leg.br/noticias/1316564-camara-mirim-leva-jornada-parlamentar-para-dentro-das-escolas-em-edicao-do-bicentenario",
-      "date": "2026-11-06T15:45:00.000Z",
-      "summary": "Vencedores do concurso visitaram o Congresso nos dias 5 e 6 de novembro",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
       "title": "Governador da Califórnia converte mais de 500 penas de morte em prisão perpétua",
       "link": "https://www.dw.com/pt-br/governador-da-califórnia-converte-mais-de-500-penas-de-morte-em-prisão-perpétua/a-79876507?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-06T15:45:00.000Z",
@@ -245,14 +253,6 @@
       "link": "https://www.dw.com/pt-br/mais-de-70-milhões-de-brasileiros-estarão-sob-governos-estaduais-de-partido-ligado-à-universal-em-2027/a-79876528?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-06T15:09:00.000Z",
       "summary": "Republicanos conseguiu resultado expressivo com eleição de Tarcísio de Freitas (SP), Cleitinho (MG) e Lorenzo Pazolini (ES). Estratégia bem-sucedida mescla aposta em novos políticos e estrutura da igreja.",
-      "source": "DW Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "O que é o Ueno Bank e como ele desencadeou a crise que derrubou o presidente do Paraguai",
-      "link": "https://www.dw.com/pt-br/o-que-é-o-ueno-bank-e-como-ele-desencadeou-a-crise-que-derrubou-o-presidente-do-paraguai/a-79875861?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-06T13:09:00.000Z",
-      "summary": "Impulsionada pelo governo, instituição teve ascensão meteórica e alcançou clientela de 60% da população adulta no país. Falência custou cargo do presidente Santiago Peña, mas denúncias de corrupção miram elite do país.",
       "source": "DW Brasil",
       "cat": "internacional"
     },
@@ -345,5 +345,7 @@
       "cat": "economia"
     }
   ],
-  "errors": []
+  "errors": [
+    "Dívida/PIB (SGS 13762): HTTP 304"
+  ]
 }
