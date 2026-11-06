@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-06T20:07:22.681Z",
+  "updated": "2026-11-06T21:04:03.357Z",
   "market": {
     "ibov": {
-      "price": 168268.52,
-      "pct": 1.25,
-      "time": "2026-11-06T20:07:17.619Z",
+      "price": 168308.94,
+      "pct": 1.27,
+      "time": "2026-11-06T21:03:58.609Z",
       "history": [
         {
           "d": "2026-10-07",
@@ -88,7 +88,7 @@
         },
         {
           "d": "2026-11-06",
-          "c": 168257.9063
+          "c": 168377.4063
         }
       ]
     },
@@ -145,6 +145,46 @@
   },
   "news": [
     {
+      "title": "Êxito de missão para retirar de civis em Oleshky pode ser um primeiro passo rumo à paz na Ucrânia?",
+      "link": "https://www.dw.com/pt-br/êxito-de-missão-para-retirar-de-civis-em-oleshky-pode-ser-um-primeiro-passo-rumo-à-paz-na-ucrânia/a-79867002?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-06T20:43:00.000Z",
+      "summary": "Observadores veem a operação bem-sucedida de retirada de centenas de civis da cidade no sul da Ucrânia como sinal promissor para ações de maior escala. Mas Rússia aproveitou o cessar-fogo para reforçar suas posições.",
+      "source": "DW Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "Comissão aprova proibição de posse em cargo público para condenados por crimes contra vulneráveis",
+      "link": "https://www.camara.leg.br/noticias/1316835-comissao-aprova-proibicao-de-posse-em-cargo-publico-para-condenados-por-crimes-contra-vulneraveis",
+      "date": "2026-11-06T20:40:00.000Z",
+      "summary": "O projeto de lei segue em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Proibição de bloqueio de recursos do Fust está na pauta do Plenário de quarta",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/06/proibicao-de-bloqueio-de-recursos-do-fust-esta-na-pauta-do-plenario-de-quarta",
+      "date": "2026-11-06T20:29:02.000Z",
+      "summary": "O Plenário vota nesta quarta-feira (11) projeto que impede bloqueio ou limitação de recursos destinados ao Fundo de Universalização dos Serviços de Telecomunicações, o Fust (PLP 230/2025). Do deputado Juscelino Filho (União-MA), a matéria também determina que ",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Comissão aprova política nacional para celíacos",
+      "link": "https://www.camara.leg.br/noticias/1316839-comissao-aprova-politica-nacional-para-celiacos",
+      "date": "2026-11-06T20:17:00.000Z",
+      "summary": "A proposta está sujeita à apreciação pelo Plenário e segue em análise",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Fiscalização do setor de combustíveis está na pauta do Plenário",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/06/fiscalizacao-do-setor-de-combustiveis-esta-na-pauta-do-plenario",
+      "date": "2026-11-06T20:16:55.000Z",
+      "summary": "O Plenário pode votar na terça-feira (10) projeto que permite à Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP) acessar informações fiscais das empresas do setor. Na mesma sessão, pode ser votada a criação do Programa Empresa Rosa, para inclu",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
       "title": "Qual o custo aos cofres das medidas de Lula para reeleição?",
       "link": "https://www.dw.com/pt-br/qual-o-custo-aos-cofres-das-medidas-de-lula-para-reeleição/a-79879154?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-06T19:35:00.000Z",
@@ -157,14 +197,6 @@
       "link": "https://www.camara.leg.br/noticias/1316864-comissao-debate-reducao-da-maioridade-penal-em-duas-audiencias-publicas",
       "date": "2026-11-06T19:23:00.000Z",
       "summary": "Foram convidados representantes do Ministério da Justiça, do Ministério Público e da magistratura",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão aprova política nacional para celíacos",
-      "link": "https://www.camara.leg.br/noticias/1316839-comissao-aprova-politica-nacional-para-celiacos",
-      "date": "2026-11-06T19:17:00.000Z",
-      "summary": "A proposta está sujeita à apreciação pelo Plenário e segue em análise",
       "source": "Agência Câmara",
       "cat": "politica"
     },
@@ -217,22 +249,6 @@
       "cat": "politica"
     },
     {
-      "title": "Segurança: assunto de todos",
-      "link": "https://www12.senado.leg.br/noticias/infomaterias/2026/11/seguranca-assunto-de-todos",
-      "date": "2026-11-06T17:55:31.000Z",
-      "summary": "",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão de Educação aprova projeto que cria o marco da educação integral",
-      "link": "https://www.camara.leg.br/noticias/1316826-comissao-de-educacao-aprova-projeto-que-cria-o-marco-da-educacao-integral",
-      "date": "2026-11-06T17:35:00.000Z",
-      "summary": "Texto aprovado reúne regras sobre jornada escolar, financiamento e parâmetros de qualidade na educação básica; a proposta continua em análise na Câmara",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
       "title": "Hegseth sob pressão após fiasco republicano nas eleições dos EUA",
       "link": "https://www.dw.com/pt-br/hegseth-sob-pressão-após-fiasco-republicano-nas-eleições-dos-eua/a-79878899?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-06T17:32:00.000Z",
@@ -245,14 +261,6 @@
       "link": "https://www.dw.com/pt-br/governador-da-califórnia-converte-mais-de-500-penas-de-morte-em-prisão-perpétua/a-79876507?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-06T15:45:00.000Z",
       "summary": "Democrata cotado para concorrer à Casa Branca, Gavin Newsom quer converter todas as penas de morte no estado em prisão perpétua, sem liberdade condicional. Anúncio ocorre dias após execução fracassada no Tennesse.",
-      "source": "DW Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "Mais de 70 milhões de brasileiros estarão sob governos estaduais de partido ligado à Universal em 2027",
-      "link": "https://www.dw.com/pt-br/mais-de-70-milhões-de-brasileiros-estarão-sob-governos-estaduais-de-partido-ligado-à-universal-em-2027/a-79876528?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-06T15:09:00.000Z",
-      "summary": "Republicanos conseguiu resultado expressivo com eleição de Tarcísio de Freitas (SP), Cleitinho (MG) e Lorenzo Pazolini (ES). Estratégia bem-sucedida mescla aposta em novos políticos e estrutura da igreja.",
       "source": "DW Brasil",
       "cat": "internacional"
     },
@@ -345,7 +353,5 @@
       "cat": "economia"
     }
   ],
-  "errors": [
-    "Dívida/PIB (SGS 13762): HTTP 304"
-  ]
+  "errors": []
 }
