@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-07T22:15:55.344Z",
+  "updated": "2026-11-07T22:55:59.924Z",
   "market": {
     "ibov": {
       "price": 168498.45,
       "pct": 1.39,
-      "time": "2026-11-07T22:15:51.174Z",
+      "time": "2026-11-07T22:55:54.325Z",
       "history": [
         {
           "d": "2026-10-08",
@@ -141,6 +141,14 @@
   },
   "news": [
     {
+      "title": "'Dana, por favor, aceite o cargo!': Trump convida presidente do UFC para ser secretário de imprensa da Casa Branca",
+      "link": "https://www.bbc.com/portuguese/articles/c623dj01rkero?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-07T22:36:53.000Z",
+      "summary": "Presidente americano fez o convite pelas redes sociais e sugeriu que Dana White levasse lutadores de destaque do UFC para integrar sua equipe.",
+      "source": "BBC News Brasil",
+      "cat": "internacional"
+    },
+    {
       "title": "Quem é Miguel Vázquez, o jovem dono do banco Ueno, no centro de escândalo financeiro e político no Paraguai",
       "link": "https://www.bbc.com/portuguese/articles/c60qkje0wvvno?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-07T20:30:30.000Z",
@@ -186,14 +194,6 @@
       "date": "2026-11-07T14:06:00.000Z",
       "summary": "Ligado ao ex-presidente Horacio Cartes, novo mandatário paraguaio é um experiente político da ala mais conservadora do Partido Colorado e foi vice-presidente de Peña por três anos.",
       "source": "DW Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "A nomeação de assessor para cargo na Casa Branca que indica endurecimento de Trump após eleição",
-      "link": "https://www.bbc.com/portuguese/articles/cqrmyymgjexvo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-07T11:50:19.000Z",
-      "summary": "A promoção de Stephen Miller, um partidário leal e influente, para o cargo de chefe de gabinete pelo presidente dos EUA, provavelmente criará conflitos com o Congresso.",
-      "source": "BBC News Brasil",
       "cat": "internacional"
     },
     {
