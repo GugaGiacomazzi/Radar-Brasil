@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-07T20:14:06.409Z",
+  "updated": "2026-11-07T20:57:27.727Z",
   "market": {
     "ibov": {
       "price": 168498.45,
       "pct": 1.39,
-      "time": "2026-11-07T20:14:00.603Z",
+      "time": "2026-11-07T20:57:22.411Z",
       "history": [
         {
           "d": "2026-10-08",
@@ -141,6 +141,22 @@
   },
   "news": [
     {
+      "title": "Quem é Miguel Vázquez, o jovem dono do banco Ueno, no centro de escândalo financeiro e político no Paraguai",
+      "link": "https://www.bbc.com/portuguese/articles/c60qkje0wvvno?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-07T20:30:30.000Z",
+      "summary": "Federico Miguel Vázquez Villasanti é acionista majoritário do Grupo Vásquez, empresa proprietária da instituição financeira liquidada pelo Banco Central paraguaio na última semana.",
+      "source": "BBC News Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "Ataque a tiros deixa mortos em Cracóvia, na Polônia; agressor seria \"fascinado por ideologias de extrema direita\"",
+      "link": "https://www.dw.com/pt-br/ataque-a-tiros-deixa-mortos-em-cracóvia-na-polônia-agressor-seria-fascinado-por-ideologias-de-extrema-direita/a-79887404?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-07T20:11:00.000Z",
+      "summary": "Homem abriu fogo em praça central de cidade turística na Polônia, mas acabou baleado e detido pela polícia. \"Tudo leva a crer que foi influenciado por ideologia de extrema direita\", afirma ministro do Interior.",
+      "source": "DW Brasil",
+      "cat": "internacional"
+    },
+    {
       "title": "'Meus pais me ensinaram a reconhecer policiais à paisana na multidão': como foi minha infância fugindo do FBI",
       "link": "https://www.bbc.com/portuguese/articles/cmwyvkwpzdvdo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-07T19:32:14.000Z",
@@ -205,14 +221,6 @@
       "cat": "internacional"
     },
     {
-      "title": "Santiago Peña é preso em casa após sofrer impeachment no Paraguai",
-      "link": "https://www.bbc.com/portuguese/articles/c5x2vvxw8m04o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-07T00:10:58.000Z",
-      "summary": "Senado aprovou impeachment de Santiago Peña por unanimidade. Logo em seguida, de acordo com jornal, Ministério Público do país emitiu uma ordem de prisão contra o político, que foi detido em casa.",
-      "source": "BBC News Brasil",
-      "cat": "internacional"
-    },
-    {
       "title": "O que é o Ueno Bank e como ele desencadeou a crise que derrubou o presidente do Paraguai",
       "link": "https://www.dw.com/pt-br/o-que-é-o-ueno-bank-e-como-ele-desencadeou-a-crise-que-derrubou-o-presidente-do-paraguai/a-79875861?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-06T23:42:00.000Z",
@@ -267,14 +275,6 @@
       "summary": "Cerca de 350 estudantes de quatro escolas participaram, nesta sexta-feira (6), do Festival Cinema Acessível Kids, promovido em Brasília pelo Senado Federal. O festival exibiu gratuitamente o filme Divertida Mente com recursos de audiodescrição, libras e legend",
       "source": "Agência Senado",
       "cat": "politica"
-    },
-    {
-      "title": "Êxito de missão para retirar de civis em Oleshky pode ser um primeiro passo rumo à paz na Ucrânia?",
-      "link": "https://www.dw.com/pt-br/êxito-de-missão-para-retirar-de-civis-em-oleshky-pode-ser-um-primeiro-passo-rumo-à-paz-na-ucrânia/a-79867002?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-06T20:43:00.000Z",
-      "summary": "Observadores veem a operação bem-sucedida de retirada de centenas de civis da cidade no sul da Ucrânia como sinal promissor para ações de maior escala. Mas Rússia aproveitou o cessar-fogo para reforçar suas posições.",
-      "source": "DW Brasil",
-      "cat": "internacional"
     },
     {
       "title": "Comissão aprova proibição de posse em cargo público para condenados por crimes contra vulneráveis",
