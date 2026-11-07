@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-07T15:17:39.666Z",
+  "updated": "2026-11-07T15:57:52.504Z",
   "market": {
     "ibov": {
       "price": 168498.45,
       "pct": 1.39,
-      "time": "2026-11-07T15:17:33.518Z",
+      "time": "2026-11-07T15:57:47.456Z",
       "history": [
         {
           "d": "2026-10-08",
@@ -141,6 +141,14 @@
   },
   "news": [
     {
+      "title": "Entenda o escândalo bancário que derrubou o presidente do Paraguai",
+      "link": "https://www.dw.com/pt-br/entenda-o-escândalo-bancário-que-derrubou-o-presidente-do-paraguai/a-79870697?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-07T15:52:00.000Z",
+      "summary": "Santiago Peña sofreu impeachment e foi preso após colapso do Ueno Bank prejudicar quase 3 milhões de clientes. Segundo o Banco Central, instituição não tinha fundos suficientes para honrar compromissos.",
+      "source": "DW Brasil",
+      "cat": "internacional"
+    },
+    {
       "title": "Quem é Pedro Alliana, o novo presidente do Paraguai",
       "link": "https://www.dw.com/pt-br/quem-é-pedro-alliana-o-novo-presidente-do-paraguai/a-79885296?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-07T14:06:00.000Z",
@@ -186,14 +194,6 @@
       "date": "2026-11-07T00:10:58.000Z",
       "summary": "Senado aprovou impeachment de Santiago Peña por unanimidade. Logo em seguida, de acordo com jornal, Ministério Público do país emitiu uma ordem de prisão contra o político, que foi detido em casa.",
       "source": "BBC News Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "Entenda o escândalo bancário que derrubou o presidente do Paraguai",
-      "link": "https://www.dw.com/pt-br/entenda-o-escândalo-bancário-que-derrubou-o-presidente-do-paraguai/a-79870697?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-06T23:49:00.000Z",
-      "summary": "Santiago Peña sofreu impeachment e foi preso após colapso do Ueno Bank prejudicar quase 3 milhões de clientes. Segundo o Banco Central, instituição não tinha fundos suficientes para honrar compromissos.",
-      "source": "DW Brasil",
       "cat": "internacional"
     },
     {
