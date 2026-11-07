@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-07T01:25:50.176Z",
+  "updated": "2026-11-07T02:26:30.468Z",
   "market": {
     "ibov": {
       "price": 168498.45,
       "pct": 1.39,
-      "time": "2026-11-07T01:25:45.408Z",
+      "time": "2026-11-07T02:26:23.590Z",
       "history": [
         {
           "d": "2026-10-08",
@@ -141,7 +141,7 @@
   },
   "news": [
     {
-      "title": "Congresso do Paraguai aprova impeachment de Santiago Peña após crise com banco digital",
+      "title": "Santiago Peña é preso em casa após sofrer impeachment no Paraguai",
       "link": "https://www.bbc.com/portuguese/articles/c5x2vvxw8m04o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-07T00:10:58.000Z",
       "summary": "Senado aprovou impeachment de Santiago Peña por unanimidade. Logo em seguida, de acordo com jornal, Ministério Público do país emitiu uma ordem de prisão contra o político, que foi detido em casa.",
