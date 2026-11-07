@@ -1,15 +1,11 @@
 {
-  "updated": "2026-11-06T23:33:04.716Z",
+  "updated": "2026-11-07T00:15:33.829Z",
   "market": {
     "ibov": {
       "price": 168498.45,
       "pct": 1.39,
-      "time": "2026-11-06T23:33:01.128Z",
+      "time": "2026-11-07T00:15:27.993Z",
       "history": [
-        {
-          "d": "2026-10-07",
-          "c": 204302
-        },
         {
           "d": "2026-10-08",
           "c": 206220
@@ -145,19 +141,43 @@
   },
   "news": [
     {
-      "title": "Pouco depois de sofrer impeachment, ex-presidente do Paraguai é preso",
-      "link": "https://www.dw.com/pt-br/pouco-depois-de-sofrer-impeachment-ex-presidente-do-paraguai-é-preso/a-79882548?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-06T23:25:00.000Z",
-      "summary": "Pressionado por colapso de banco, Santiago Peña tentou renunciar, mas medida não foi aceita pelo Senado, que avançou com processo de impeachment. Após destituição, ele foi detido em sua residência.",
+      "title": "Congresso do Paraguai aprova impeachment de Santiago Peña após crise com banco digital",
+      "link": "https://www.bbc.com/portuguese/articles/c5x2vvxw8m04o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-07T00:10:58.000Z",
+      "summary": "Senado aprovou impeachment de Santiago Peña por unanimidade. Logo em seguida, de acordo com jornal, Ministério Público do país emitiu uma ordem de prisão contra o político, que foi detido em casa.",
+      "source": "BBC News Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "Entenda o escândalo bancário que derrubou o presidente do Paraguai",
+      "link": "https://www.dw.com/pt-br/entenda-o-escândalo-bancário-que-derrubou-o-presidente-do-paraguai/a-79870697?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-06T23:49:00.000Z",
+      "summary": "Santiago Peña sofreu impeachment e foi preso após colapso do Ueno Bank prejudicar quase 3 milhões de clientes. Segundo o Banco Central, instituição não tinha fundos suficientes para honrar compromissos.",
       "source": "DW Brasil",
       "cat": "internacional"
     },
     {
-      "title": "Congresso do Paraguai aprova impeachment de Santiago Peña após crise com banco digital",
-      "link": "https://www.bbc.com/portuguese/articles/c5x2vvxw8m04o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-06T23:05:13.000Z",
-      "summary": "Senado aprovou impeachment de Santiago Peña por unanimidade. Logo em seguida, de acordo com jornal, Ministério Público do país emitiu uma ordem de prisão contra o político.",
+      "title": "Bets voltaram? Entenda as decisões da Justiça sobre as casas de apostas",
+      "link": "https://www.bbc.com/portuguese/articles/cq99zz57d872o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-06T23:43:32.000Z",
+      "summary": "Um mês depois de as bets saírem do ar no Brasil, três plataformas voltaram a funcionar após autorização do TRF-3). Mas presidente do tribunal suspendeu a medida nesta sexta.",
       "source": "BBC News Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "O que é o Ueno Bank e como ele desencadeou a crise que derrubou o presidente do Paraguai",
+      "link": "https://www.dw.com/pt-br/o-que-é-o-ueno-bank-e-como-ele-desencadeou-a-crise-que-derrubou-o-presidente-do-paraguai/a-79875861?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-06T23:42:00.000Z",
+      "summary": "Impulsionada pelo governo, instituição teve ascensão meteórica e alcançou clientela de 60% da população adulta no país. Falência custou cargo do presidente Santiago Peña, mas denúncias de corrupção miram elite do país.",
+      "source": "DW Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "Após sofrer impeachment, ex-presidente do Paraguai é preso",
+      "link": "https://www.dw.com/pt-br/após-sofrer-impeachment-ex-presidente-do-paraguai-é-preso/a-79882548?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-06T23:25:00.000Z",
+      "summary": "Pressionado por colapso de banco, Santiago Peña tentou renunciar, mas medida não foi aceita pelo Senado, que avançou com processo de impeachment. Após destituição, ele foi detido em sua residência.",
+      "source": "DW Brasil",
       "cat": "internacional"
     },
     {
@@ -265,22 +285,6 @@
       "cat": "internacional"
     },
     {
-      "title": "Mundo registrou mês de outubro mais quente da história, diz serviço climático da UE",
-      "link": "https://www.dw.com/pt-br/mundo-registrou-mês-de-outubro-mais-quente-da-história-diz-serviço-climático-da-ue/a-79879668?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-06T18:10:00.000Z",
-      "summary": "Alerta é do serviço climático da UE, que diz que 2026 pode se tornar o ano mais quente já observado. El Niño excepcionalmente forte intensifica o aquecimento global causado pela atividade humana.",
-      "source": "DW Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "Hegseth sob pressão após fiasco republicano nas eleições dos EUA",
-      "link": "https://www.dw.com/pt-br/hegseth-sob-pressão-após-fiasco-republicano-nas-eleições-dos-eua/a-79878899?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-06T17:32:00.000Z",
-      "summary": "Após obter maioria no Congresso, oposição democrata já sinaliza ações contra Pete Hegseth. Republicanos o culpam por ele ter sido um dos maiores incentivadores da guerra no Irã.",
-      "source": "DW Brasil",
-      "cat": "internacional"
-    },
-    {
       "title": "COP31: O que está em jogo na cúpula do clima da ONU deste ano?",
       "link": "https://news.un.org/feed/view/pt/story/2026/11/1854856",
       "date": "2026-11-06T12:00:00.000Z",
@@ -309,14 +313,6 @@
       "link": "https://news.un.org/feed/view/pt/story/2026/11/1854853",
       "date": "2026-11-05T12:00:00.000Z",
       "summary": "Equipes humanitárias e comunidades locais adotam soluções para manter abastecimento; agência pede mais proteção à infraestrutura civil; pesquisa examinou 23 países e territórios.",
-      "source": "ONU News",
-      "cat": "internacional"
-    },
-    {
-      "title": "Agência da ONU mostra como alta do petróleo afeta países de forma diferente",
-      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854840",
-      "date": "2026-11-05T12:00:00.000Z",
-      "summary": "Entre fevereiro e agosto, o valor cobrado pelo diesel disparou em 83% na Nigéria comparado a 9% na Irlanda; em Mianmar, consumidores tiveram acréscimo de 51% no preço da gasolina enquanto a conta dos suecos subiu apenas 3% no mesmo período.",
       "source": "ONU News",
       "cat": "internacional"
     },
