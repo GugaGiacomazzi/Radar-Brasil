@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-07T22:55:59.924Z",
+  "updated": "2026-11-07T23:32:37.354Z",
   "market": {
     "ibov": {
       "price": 168498.45,
       "pct": 1.39,
-      "time": "2026-11-07T22:55:54.325Z",
+      "time": "2026-11-07T23:32:30.302Z",
       "history": [
         {
           "d": "2026-10-08",
@@ -141,6 +141,14 @@
   },
   "news": [
     {
+      "title": "Presidente de Israel escolhe rival de Netanyahu para formar novo governo em Israel",
+      "link": "https://www.dw.com/pt-br/presidente-de-israel-escolhe-rival-de-netanyahu-para-formar-novo-governo-em-israel/a-79888526?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-07T23:02:00.000Z",
+      "summary": "Oposicionista Gadi Eisenkot terá até 42 dias para buscar uma maioria de apoio no Parlamento. Aliança com os partidos árabes parece improvável.",
+      "source": "DW Brasil",
+      "cat": "internacional"
+    },
+    {
       "title": "'Dana, por favor, aceite o cargo!': Trump convida presidente do UFC para ser secretário de imprensa da Casa Branca",
       "link": "https://www.bbc.com/portuguese/articles/c623dj01rkero?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-07T22:36:53.000Z",
@@ -225,14 +233,6 @@
       "link": "https://www.dw.com/pt-br/o-que-é-o-ueno-bank-e-como-ele-desencadeou-a-crise-que-derrubou-o-presidente-do-paraguai/a-79875861?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-06T23:42:00.000Z",
       "summary": "Impulsionada pelo governo, instituição teve ascensão meteórica e alcançou clientela de 60% da população adulta no país. Falência custou cargo do presidente Santiago Peña, mas denúncias de corrupção miram elite do país.",
-      "source": "DW Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "Após sofrer impeachment, ex-presidente do Paraguai é preso",
-      "link": "https://www.dw.com/pt-br/após-sofrer-impeachment-ex-presidente-do-paraguai-é-preso/a-79882548?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-06T23:25:00.000Z",
-      "summary": "Pressionado por colapso de banco, Santiago Peña tenta renunciar, mas decisão não é aceita pelo Senado, que avança com processo de impeachment. Após a destituição, ele é detido e levado a instalação militar.",
       "source": "DW Brasil",
       "cat": "internacional"
     },
