@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-07T13:46:24.768Z",
+  "updated": "2026-11-07T14:37:30.977Z",
   "market": {
     "ibov": {
       "price": 168498.45,
       "pct": 1.39,
-      "time": "2026-11-07T13:46:18.938Z",
+      "time": "2026-11-07T14:37:16.672Z",
       "history": [
         {
           "d": "2026-10-08",
@@ -140,6 +140,14 @@
     ]
   },
   "news": [
+    {
+      "title": "Quem é Pedro Alliana, o novo presidente do Paraguai",
+      "link": "https://www.dw.com/pt-br/quem-é-pedro-alliana-o-novo-presidente-do-paraguai/a-79885296?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-07T14:06:00.000Z",
+      "summary": "Ligado ao ex-presidente Horacio Cartes, novo mandatário paraguaio é um experiente político da ala mais conservadora do Partido Colorado e foi vice-presidente de Peña por três anos.",
+      "source": "DW Brasil",
+      "cat": "internacional"
+    },
     {
       "title": "A nomeação de assessor para cargo na Casa Branca que indica endurecimento de Trump após eleição",
       "link": "https://www.bbc.com/portuguese/articles/cqrmyymgjexvo?at_medium=RSS&at_campaign=rss",
@@ -277,14 +285,6 @@
       "cat": "politica"
     },
     {
-      "title": "Qual o custo aos cofres das medidas de Lula para reeleição?",
-      "link": "https://www.dw.com/pt-br/qual-o-custo-aos-cofres-das-medidas-de-lula-para-reeleição/a-79879154?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-06T19:35:00.000Z",
-      "summary": "Políticas na reta final da campanha impactaram em cerca de R$ 40 bilhões nas contas, aponta entidade. O desafio é acomodar os gastos num orçamento já apertado.",
-      "source": "DW Brasil",
-      "cat": "internacional"
-    },
-    {
       "title": "Comissão debate redução da maioridade penal em duas audiências públicas",
       "link": "https://www.camara.leg.br/noticias/1316864-comissao-debate-reducao-da-maioridade-penal-em-duas-audiencias-publicas",
       "date": "2026-11-06T19:23:00.000Z",
@@ -365,7 +365,5 @@
       "cat": "economia"
     }
   ],
-  "errors": [
-    "IPCA 12m (SGS 13522): HTTP 304"
-  ]
+  "errors": []
 }
