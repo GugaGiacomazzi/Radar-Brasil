@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-07T19:25:00.383Z",
+  "updated": "2026-11-07T20:14:06.409Z",
   "market": {
     "ibov": {
       "price": 168498.45,
       "pct": 1.39,
-      "time": "2026-11-07T19:24:54.990Z",
+      "time": "2026-11-07T20:14:00.603Z",
       "history": [
         {
           "d": "2026-10-08",
@@ -141,6 +141,14 @@
   },
   "news": [
     {
+      "title": "'Meus pais me ensinaram a reconhecer policiais à paisana na multidão': como foi minha infância fugindo do FBI",
+      "link": "https://www.bbc.com/portuguese/articles/cmwyvkwpzdvdo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-07T19:32:14.000Z",
+      "summary": "Os pais de Zayd Ayers Dohrn eram membros do grupo radical Weather Underground, que buscava visibilizar a desigualdade e a injustiça racial nos Estados Unidos colocando explosivos em edifícios do governo.",
+      "source": "BBC News Brasil",
+      "cat": "internacional"
+    },
+    {
       "title": "O que derrota de Trump nas eleições legislativas significa para a disputa da Presidência dos EUA em 2028",
       "link": "https://www.bbc.com/portuguese/articles/c3gr88p29z28o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-07T17:33:43.000Z",
@@ -201,14 +209,6 @@
       "link": "https://www.bbc.com/portuguese/articles/c5x2vvxw8m04o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-07T00:10:58.000Z",
       "summary": "Senado aprovou impeachment de Santiago Peña por unanimidade. Logo em seguida, de acordo com jornal, Ministério Público do país emitiu uma ordem de prisão contra o político, que foi detido em casa.",
-      "source": "BBC News Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "Bets voltaram? Entenda as decisões da Justiça sobre as casas de apostas",
-      "link": "https://www.bbc.com/portuguese/articles/cq99zz57d872o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-06T23:43:32.000Z",
-      "summary": "Um mês depois de as bets saírem do ar no Brasil, três plataformas voltaram a funcionar após autorização do TRF-3). Mas presidente do tribunal suspendeu a medida nesta sexta.",
       "source": "BBC News Brasil",
       "cat": "internacional"
     },
