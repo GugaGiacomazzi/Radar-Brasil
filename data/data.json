@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-07T09:42:11.200Z",
+  "updated": "2026-11-07T10:38:27.190Z",
   "market": {
     "ibov": {
       "price": 168498.45,
       "pct": 1.39,
-      "time": "2026-11-07T09:42:05.026Z",
+      "time": "2026-11-07T10:38:23.230Z",
       "history": [
         {
           "d": "2026-10-08",
@@ -140,6 +140,22 @@
     ]
   },
   "news": [
+    {
+      "title": "Quem é Pedro Alliana, o novo presidente do Paraguai com quem o poderoso Partido Colorado tenta se recuperar",
+      "link": "https://www.bbc.com/portuguese/articles/ck87zz7rwqz5o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-07T10:26:56.000Z",
+      "summary": "Pedro Alliana tomou posse nesta sexta-feira como o novo presidente do Paraguai, após o processo de impeachment conduzido pelo Congresso que destituiu Santiago Peña do cargo.",
+      "source": "BBC News Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "Trump escolhe linha-dura Stephen Miller como novo chefe de gabinete",
+      "link": "https://www.dw.com/pt-br/trump-escolhe-linha-dura-stephen-miller-como-novo-chefe-de-gabinete/a-79884208?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-07T10:15:00.000Z",
+      "summary": "Miller é um conselheiro controverso, de declarações polêmicas e conhecido como um dos principais idealizadores das políticas de imigração de linha dura do governo americano.",
+      "source": "DW Brasil",
+      "cat": "internacional"
+    },
     {
       "title": "Debate sobre juros tem tudo a ver com mobilização juvenil e popular que levou Lula à vitória, diz André Singer",
       "link": "https://www.bbc.com/portuguese/articles/cr62yv4gjd97o?at_medium=RSS&at_campaign=rss",
@@ -285,14 +301,6 @@
       "cat": "politica"
     },
     {
-      "title": "Conservadora Ilse Aigner deverá ser a primeira mulher presidente da Alemanha",
-      "link": "https://www.dw.com/pt-br/conservadora-ilse-aigner-deverá-ser-a-primeira-mulher-presidente-da-alemanha/a-79880731?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-06T18:26:00.000Z",
-      "summary": "Partido do chanceler federal Friedrich Merz concordou em apoiar o nome da ex-ministra de Merkel, informaram jornais alemães. Escolha oficial acontece em 30 de janeiro de 2027.",
-      "source": "DW Brasil",
-      "cat": "internacional"
-    },
-    {
       "title": "COP31: O que está em jogo na cúpula do clima da ONU deste ano?",
       "link": "https://news.un.org/feed/view/pt/story/2026/11/1854856",
       "date": "2026-11-06T12:00:00.000Z",
@@ -305,14 +313,6 @@
       "link": "https://www.bbc.com/portuguese/articles/cqglww4xw40do?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-06T10:14:09.000Z",
       "summary": "Economista Tiago Cavalcanti, brasileiro professor da Universidade de Cambridge, critica a proposta de rápida redução da taxa de juros apresentada por André Lara Resende.",
-      "source": "BBC News Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "'Não falei com Lula nem tenho nada marcado. Isso foi plantado para queimar alguém que defendeu a proposta', diz economista André Lara Resende",
-      "link": "https://www.bbc.com/portuguese/articles/cmly0jeq2q9no?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-05T23:19:37.000Z",
-      "summary": "Economista que presidiu o BNDES e fez parte da diretoria do Banco Central propôs criação de conselho que reduziria taxa Selic a longo prazo; proposta mobilizou mercado financeiro e discussão em Brasília.",
       "source": "BBC News Brasil",
       "cat": "internacional"
     },
@@ -365,7 +365,5 @@
       "cat": "economia"
     }
   ],
-  "errors": [
-    "feed Planalto (governo): nenhum item no feed (endereço mudou?)"
-  ]
+  "errors": []
 }
