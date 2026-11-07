@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-07T11:17:55.178Z",
+  "updated": "2026-11-07T11:58:26.452Z",
   "market": {
     "ibov": {
       "price": 168498.45,
       "pct": 1.39,
-      "time": "2026-11-07T11:17:49.580Z",
+      "time": "2026-11-07T11:58:21.615Z",
       "history": [
         {
           "d": "2026-10-08",
@@ -140,6 +140,14 @@
     ]
   },
   "news": [
+    {
+      "title": "A nomeação de assessor para cargo na Casa Branca que indica endurecimento de Trump após eleição",
+      "link": "https://www.bbc.com/portuguese/articles/cqrmyymgjexvo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-07T11:50:19.000Z",
+      "summary": "A promoção de Jason Miller, um partidário leal e influente, para o cargo de chefe de gabinete pelo presidente dos EUA, provavelmente criará conflitos com o Congresso.",
+      "source": "BBC News Brasil",
+      "cat": "internacional"
+    },
     {
       "title": "Quem é Pedro Alliana, o novo presidente do Paraguai com quem o poderoso Partido Colorado tenta se recuperar",
       "link": "https://www.bbc.com/portuguese/articles/ck87zz7rwqz5o?at_medium=RSS&at_campaign=rss",
@@ -306,14 +314,6 @@
       "date": "2026-11-06T12:00:00.000Z",
       "summary": "A Conferência da ONU sobre Mudança Climática começa neste 9 de novembro, em Antália, na Turquia; países em desenvolvimento querem apoio para executar políticas de transição energética, mitigar efeitos de ação climática e responder a desastres naturais com drás",
       "source": "ONU News",
-      "cat": "internacional"
-    },
-    {
-      "title": "'Meu medo é o governo Lula buscar atalhos e brigar com o mercado': por que professor de Cambridge defende ajuste fiscal 'suave'",
-      "link": "https://www.bbc.com/portuguese/articles/cqglww4xw40do?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-06T10:14:09.000Z",
-      "summary": "Economista Tiago Cavalcanti, brasileiro professor da Universidade de Cambridge, critica a proposta de rápida redução da taxa de juros apresentada por André Lara Resende.",
-      "source": "BBC News Brasil",
       "cat": "internacional"
     },
     {
