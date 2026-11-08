@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-08T10:38:43.595Z",
+  "updated": "2026-11-08T11:18:06.615Z",
   "market": {
     "ibov": {
       "price": 168498.45,
       "pct": 1.39,
-      "time": "2026-11-08T10:38:38.482Z",
+      "time": "2026-11-08T11:18:01.860Z",
       "history": [
         {
           "d": "2026-10-09",
@@ -137,6 +137,14 @@
   },
   "news": [
     {
+      "title": "Juiz ordena prisão preventiva de ex-presidente paraguaio Santiago Peña",
+      "link": "https://www.dw.com/pt-br/juiz-ordena-prisão-preventiva-de-ex-presidente-paraguaio-santiago-peña/a-79889775?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-08T10:33:00.000Z",
+      "summary": "Santiago Peña deverá permanecer na unidade militar para onde foi levado após ser detido. Prisão preventiva é necessária para \"garantir que ele permaneça no país\", afirma juiz.",
+      "source": "DW Brasil",
+      "cat": "internacional"
+    },
+    {
       "title": "Ataque a tiros deixa 6 mortos em Cracóvia, na Polônia; agressor seria \"fascinado por ideologias de extrema direita\"",
       "link": "https://www.dw.com/pt-br/ataque-a-tiros-deixa-6-mortos-em-cracóvia-na-polônia-agressor-seria-fascinado-por-ideologias-de-extrema-direita/a-79887404?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-08T09:25:00.000Z",
@@ -214,14 +222,6 @@
       "date": "2026-11-07T10:26:56.000Z",
       "summary": "Pedro Alliana tomou posse nesta sexta-feira como o novo presidente do Paraguai, após o processo de impeachment conduzido pelo Congresso que destituiu Santiago Peña do cargo.",
       "source": "BBC News Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "Trump escolhe linha-dura Stephen Miller como novo chefe de gabinete",
-      "link": "https://www.dw.com/pt-br/trump-escolhe-linha-dura-stephen-miller-como-novo-chefe-de-gabinete/a-79884208?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-07T10:15:00.000Z",
-      "summary": "Miller é um conselheiro controverso, de declarações polêmicas e conhecido como um dos principais idealizadores das políticas de imigração de linha dura do governo americano.",
-      "source": "DW Brasil",
       "cat": "internacional"
     },
     {
@@ -361,7 +361,5 @@
       "cat": "economia"
     }
   ],
-  "errors": [
-    "IPCA 12m (SGS 13522): HTTP 304"
-  ]
+  "errors": []
 }
