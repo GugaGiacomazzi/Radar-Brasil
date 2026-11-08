@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-08T11:58:52.353Z",
+  "updated": "2026-11-08T12:48:40.993Z",
   "market": {
     "ibov": {
       "price": 168498.45,
       "pct": 1.39,
-      "time": "2026-11-08T11:58:45.482Z",
+      "time": "2026-11-08T12:48:35.655Z",
       "history": [
         {
           "d": "2026-10-09",
@@ -137,6 +137,14 @@
   },
   "news": [
     {
+      "title": "Gadi Eisenkot: Quem é o principal rival de Netanyahu que pode se tornar novo primeiro-ministro de Israel?",
+      "link": "https://www.bbc.com/portuguese/articles/cxe8r9gmj699o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-08T12:00:43.000Z",
+      "summary": "O ex-comandante militar Gadi Eisenkot foi escolhido pelo presidente de Israel para tentar formar um novo governo após uma eleição inconclusiva que não deu a nenhum dos partidos mais votados um caminho claro para o poder.",
+      "source": "BBC News Brasil",
+      "cat": "internacional"
+    },
+    {
       "title": "Juiz ordena prisão preventiva de ex-presidente paraguaio Santiago Peña",
       "link": "https://www.dw.com/pt-br/juiz-ordena-prisão-preventiva-de-ex-presidente-paraguaio-santiago-peña/a-79889775?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-08T10:33:00.000Z",
@@ -214,14 +222,6 @@
       "date": "2026-11-07T14:06:00.000Z",
       "summary": "Ligado ao ex-presidente Horacio Cartes, novo mandatário paraguaio é um experiente político da ala mais conservadora do Partido Colorado e foi vice-presidente de Peña por três anos.",
       "source": "DW Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "Quem é Pedro Alliana, o novo presidente do Paraguai com quem o poderoso Partido Colorado tenta se recuperar",
-      "link": "https://www.bbc.com/portuguese/articles/ck87zz7rwqz5o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-07T10:26:56.000Z",
-      "summary": "Pedro Alliana tomou posse nesta sexta-feira como o novo presidente do Paraguai, após o processo de impeachment conduzido pelo Congresso que destituiu Santiago Peña do cargo.",
-      "source": "BBC News Brasil",
       "cat": "internacional"
     },
     {
