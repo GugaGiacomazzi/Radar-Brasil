@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-08T17:52:53.498Z",
+  "updated": "2026-11-08T18:37:13.359Z",
   "market": {
     "ibov": {
       "price": 168498.45,
       "pct": 1.39,
-      "time": "2026-11-08T17:52:48.153Z",
+      "time": "2026-11-08T18:37:07.878Z",
       "history": [
         {
           "d": "2026-10-09",
@@ -209,14 +209,6 @@
       "cat": "internacional"
     },
     {
-      "title": "O que derrota de Trump nas eleições legislativas significa para a disputa da Presidência dos EUA em 2028",
-      "link": "https://www.bbc.com/portuguese/articles/c3gr88p29z28o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-07T17:33:43.000Z",
-      "summary": "A expectativa em torno da eleição presidencial já começou — e aqui estão algumas pistas que as 'midterms' deram do que pode acontecer.",
-      "source": "BBC News Brasil",
-      "cat": "internacional"
-    },
-    {
       "title": "Entenda o escândalo bancário que derrubou o presidente do Paraguai",
       "link": "https://www.dw.com/pt-br/entenda-o-escândalo-bancário-que-derrubou-o-presidente-do-paraguai/a-79870697?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-07T15:52:00.000Z",
@@ -309,6 +301,14 @@
       "link": "https://news.un.org/feed/view/pt/story/2026/11/1854856",
       "date": "2026-11-06T12:00:00.000Z",
       "summary": "A Conferência da ONU sobre Mudança Climática começa neste 9 de novembro, em Antália, na Turquia; países em desenvolvimento querem apoio para executar políticas de transição energética, mitigar efeitos de ação climática e responder a desastres naturais com drás",
+      "source": "ONU News",
+      "cat": "internacional"
+    },
+    {
+      "title": "Unicef denuncia avanço de ataques a serviços de água em zonas de conflitos",
+      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854853",
+      "date": "2026-11-05T12:00:00.000Z",
+      "summary": "Equipes humanitárias e comunidades locais adotam soluções para manter abastecimento; agência pede mais proteção à infraestrutura civil; pesquisa examinou 23 países e territórios.",
       "source": "ONU News",
       "cat": "internacional"
     },
