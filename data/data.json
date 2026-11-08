@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-08T15:55:27.694Z",
+  "updated": "2026-11-08T16:35:21.025Z",
   "market": {
     "ibov": {
       "price": 168498.45,
       "pct": 1.39,
-      "time": "2026-11-08T15:55:23.341Z",
+      "time": "2026-11-08T16:35:15.430Z",
       "history": [
         {
           "d": "2026-10-09",
@@ -137,6 +137,14 @@
   },
   "news": [
     {
+      "title": "Ativista hasteia bandeira palestina no Parlamento da Alemanha em protesto contra guerra em Gaza",
+      "link": "https://www.dw.com/pt-br/ativista-hasteia-bandeira-palestina-no-parlamento-da-alemanha-em-protesto-contra-guerra-em-gaza/a-79892570?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-08T16:10:00.000Z",
+      "summary": "Grupo que protesta contra a guerra de Israel na Faixa de Gaza reivindicou autoria da ação. Jovem de 22 anos foi detido e será investigado por suspeita de \"difamar o Estado\".",
+      "source": "DW Brasil",
+      "cat": "internacional"
+    },
+    {
       "title": "Queda do presidente do Paraguai acende alerta para direita na America Latina?",
       "link": "https://www.bbc.com/portuguese/articles/cj4g11ven5rpo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-08T13:43:16.000Z",
@@ -213,14 +221,6 @@
       "link": "https://www.dw.com/pt-br/entenda-o-escândalo-bancário-que-derrubou-o-presidente-do-paraguai/a-79870697?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-07T15:52:00.000Z",
       "summary": "Santiago Peña sofreu impeachment e foi preso após colapso do Ueno Bank prejudicar quase 3 milhões de clientes. Segundo o Banco Central, instituição não tinha fundos suficientes para honrar compromissos.",
-      "source": "DW Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "Quem é Pedro Alliana, o novo presidente do Paraguai",
-      "link": "https://www.dw.com/pt-br/quem-é-pedro-alliana-o-novo-presidente-do-paraguai/a-79885296?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-07T14:06:00.000Z",
-      "summary": "Ligado ao ex-presidente Horacio Cartes, novo mandatário paraguaio é um experiente político da ala mais conservadora do Partido Colorado e foi vice-presidente de Peña por três anos.",
       "source": "DW Brasil",
       "cat": "internacional"
     },
