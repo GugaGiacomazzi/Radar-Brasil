@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-08T14:36:03.258Z",
+  "updated": "2026-11-08T15:15:21.328Z",
   "market": {
     "ibov": {
       "price": 168498.45,
       "pct": 1.39,
-      "time": "2026-11-08T14:35:56.869Z",
+      "time": "2026-11-08T15:15:15.438Z",
       "history": [
         {
           "d": "2026-10-09",
@@ -225,14 +225,6 @@
       "cat": "internacional"
     },
     {
-      "title": "Debate sobre juros tem tudo a ver com mobilização juvenil e popular que levou Lula à vitória, diz André Singer",
-      "link": "https://www.bbc.com/portuguese/articles/cr62yv4gjd97o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-07T09:29:22.000Z",
-      "summary": "Cientista político afirma que pacote para bolso do eleitor, ruas mobilizadas e apoio de Janones foram chave da vitória de Lula, mas que avanço da direita radical é 'ameaça' que não desaparece com resultado da eleição.",
-      "source": "BBC News Brasil",
-      "cat": "internacional"
-    },
-    {
       "title": "Nova lei condiciona registro de médicos à aprovação em exame",
       "link": "https://www.camara.leg.br/noticias/1316981-nova-lei-condiciona-registro-de-medicos-a-aprovacao-em-exame",
       "date": "2026-11-06T21:42:00.000Z",
@@ -311,6 +303,14 @@
       "summary": "A Câmara continua analisando a medida",
       "source": "Agência Câmara",
       "cat": "politica"
+    },
+    {
+      "title": "COP31: O que está em jogo na cúpula do clima da ONU deste ano?",
+      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854856",
+      "date": "2026-11-06T12:00:00.000Z",
+      "summary": "A Conferência da ONU sobre Mudança Climática começa neste 9 de novembro, em Antália, na Turquia; países em desenvolvimento querem apoio para executar políticas de transição energética, mitigar efeitos de ação climática e responder a desastres naturais com drás",
+      "source": "ONU News",
+      "cat": "internacional"
     },
     {
       "title": "Copom mantém a taxa Selic em 13,75% a.a.",
