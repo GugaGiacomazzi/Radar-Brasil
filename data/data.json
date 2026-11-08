@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-08T08:47:40.622Z",
+  "updated": "2026-11-08T09:42:06.600Z",
   "market": {
     "ibov": {
       "price": 168498.45,
       "pct": 1.39,
-      "time": "2026-11-08T08:47:34.665Z",
+      "time": "2026-11-08T09:42:02.368Z",
       "history": [
         {
           "d": "2026-10-09",
@@ -137,6 +137,22 @@
   },
   "news": [
     {
+      "title": "Ataque a tiros deixa 6 mortos em Cracóvia, na Polônia; agressor seria \"fascinado por ideologias de extrema direita\"",
+      "link": "https://www.dw.com/pt-br/ataque-a-tiros-deixa-6-mortos-em-cracóvia-na-polônia-agressor-seria-fascinado-por-ideologias-de-extrema-direita/a-79887404?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-08T09:25:00.000Z",
+      "summary": "Homem abre fogo em praça central de cidade turística na Polônia antes de ser baleado e detido pela polícia. \"Tudo leva a crer que foi influenciado por ideologia de extrema direita\", afirma ministro do Interior.",
+      "source": "DW Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "Por que mulheres podem estar por trás da vitória de Lula nas eleições",
+      "link": "https://www.bbc.com/portuguese/articles/c3pwg9x8r947o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-08T09:22:52.000Z",
+      "summary": "O atual presidente conseguiu ampliar a vantagem que tinha sobre o eleitorado feminino em relação a 2022, especialmente entre as mulheres jovens, indica análise das urnas.",
+      "source": "BBC News Brasil",
+      "cat": "internacional"
+    },
+    {
       "title": "Fortalecida após vitória eleitoral, oposição democrata deve investigar negócios de Trump no Oriente Médio",
       "link": "https://www.dw.com/pt-br/fortalecida-após-vitória-eleitoral-oposição-democrata-deve-investigar-negócios-de-trump-no-oriente-médio/a-79888001?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-07T23:18:00.000Z",
@@ -169,14 +185,6 @@
       "cat": "internacional"
     },
     {
-      "title": "Ataque a tiros deixa mortos em Cracóvia, na Polônia; agressor seria \"fascinado por ideologias de extrema direita\"",
-      "link": "https://www.dw.com/pt-br/ataque-a-tiros-deixa-mortos-em-cracóvia-na-polônia-agressor-seria-fascinado-por-ideologias-de-extrema-direita/a-79887404?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-07T20:11:00.000Z",
-      "summary": "Homem abriu fogo em praça central de cidade turística na Polônia, mas acabou baleado e detido pela polícia. \"Tudo leva a crer que foi influenciado por ideologia de extrema direita\", afirma ministro do Interior.",
-      "source": "DW Brasil",
-      "cat": "internacional"
-    },
-    {
       "title": "'Meus pais me ensinaram a reconhecer policiais à paisana na multidão': como foi minha infância fugindo do FBI",
       "link": "https://www.bbc.com/portuguese/articles/cmwyvkwpzdvdo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-07T19:32:14.000Z",
@@ -206,14 +214,6 @@
       "date": "2026-11-07T14:06:00.000Z",
       "summary": "Ligado ao ex-presidente Horacio Cartes, novo mandatário paraguaio é um experiente político da ala mais conservadora do Partido Colorado e foi vice-presidente de Peña por três anos.",
       "source": "DW Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "Quem é Pedro Alliana, o novo presidente do Paraguai com quem o poderoso Partido Colorado tenta se recuperar",
-      "link": "https://www.bbc.com/portuguese/articles/ck87zz7rwqz5o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-07T10:26:56.000Z",
-      "summary": "Pedro Alliana tomou posse nesta sexta-feira como o novo presidente do Paraguai, após o processo de impeachment conduzido pelo Congresso que destituiu Santiago Peña do cargo.",
-      "source": "BBC News Brasil",
       "cat": "internacional"
     },
     {
@@ -361,5 +361,7 @@
       "cat": "economia"
     }
   ],
-  "errors": []
+  "errors": [
+    "IPCA 12m (SGS 13522): HTTP 304"
+  ]
 }
