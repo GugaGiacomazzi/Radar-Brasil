@@ -1,15 +1,11 @@
 {
-  "updated": "2026-11-07T23:32:37.354Z",
+  "updated": "2026-11-08T00:13:10.797Z",
   "market": {
     "ibov": {
       "price": 168498.45,
       "pct": 1.39,
-      "time": "2026-11-07T23:32:30.302Z",
+      "time": "2026-11-08T00:13:07.016Z",
       "history": [
-        {
-          "d": "2026-10-08",
-          "c": 206220
-        },
         {
           "d": "2026-10-09",
           "c": 209067
@@ -141,6 +137,14 @@
   },
   "news": [
     {
+      "title": "Fortalecida após vitória eleitoral, oposição democrata deve investigar negócios de Trump no Oriente Médio",
+      "link": "https://www.dw.com/pt-br/fortalecida-após-vitória-eleitoral-oposição-democrata-deve-investigar-negócios-de-trump-no-oriente-médio/a-79888001?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-07T23:18:00.000Z",
+      "summary": "Após conquistar maioria no Congresso, oposição democrata promete investigar Trump por suspeitas de corrupção. Investimentos imobiliários, presentes multimilionários e conselho da paz em Gaza estão entre possíveis alvos.",
+      "source": "DW Brasil",
+      "cat": "internacional"
+    },
+    {
       "title": "Presidente de Israel escolhe rival de Netanyahu para formar novo governo em Israel",
       "link": "https://www.dw.com/pt-br/presidente-de-israel-escolhe-rival-de-netanyahu-para-formar-novo-governo-em-israel/a-79888526?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-07T23:02:00.000Z",
@@ -226,14 +230,6 @@
       "date": "2026-11-07T09:29:22.000Z",
       "summary": "Cientista político afirma que pacote para bolso do eleitor, ruas mobilizadas e apoio de Janones foram chave da vitória de Lula, mas que avanço da direita radical é 'ameaça' que não desaparece com resultado da eleição.",
       "source": "BBC News Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "O que é o Ueno Bank e como ele desencadeou a crise que derrubou o presidente do Paraguai",
-      "link": "https://www.dw.com/pt-br/o-que-é-o-ueno-bank-e-como-ele-desencadeou-a-crise-que-derrubou-o-presidente-do-paraguai/a-79875861?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-06T23:42:00.000Z",
-      "summary": "Impulsionada pelo governo, instituição teve ascensão meteórica e alcançou clientela de 60% da população adulta no país. Falência custou cargo do presidente Santiago Peña, mas denúncias de corrupção miram elite do país.",
-      "source": "DW Brasil",
       "cat": "internacional"
     },
     {
