@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-08T09:42:06.600Z",
+  "updated": "2026-11-08T10:38:43.595Z",
   "market": {
     "ibov": {
       "price": 168498.45,
       "pct": 1.39,
-      "time": "2026-11-08T09:42:02.368Z",
+      "time": "2026-11-08T10:38:38.482Z",
       "history": [
         {
           "d": "2026-10-09",
@@ -185,14 +185,6 @@
       "cat": "internacional"
     },
     {
-      "title": "'Meus pais me ensinaram a reconhecer policiais à paisana na multidão': como foi minha infância fugindo do FBI",
-      "link": "https://www.bbc.com/portuguese/articles/cmwyvkwpzdvdo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-07T19:32:14.000Z",
-      "summary": "Os pais de Zayd Ayers Dohrn eram membros do grupo radical Weather Underground, que buscava visibilizar a desigualdade e a injustiça racial nos Estados Unidos colocando explosivos em edifícios do governo.",
-      "source": "BBC News Brasil",
-      "cat": "internacional"
-    },
-    {
       "title": "O que derrota de Trump nas eleições legislativas significa para a disputa da Presidência dos EUA em 2028",
       "link": "https://www.bbc.com/portuguese/articles/c3gr88p29z28o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-07T17:33:43.000Z",
@@ -214,6 +206,14 @@
       "date": "2026-11-07T14:06:00.000Z",
       "summary": "Ligado ao ex-presidente Horacio Cartes, novo mandatário paraguaio é um experiente político da ala mais conservadora do Partido Colorado e foi vice-presidente de Peña por três anos.",
       "source": "DW Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "Quem é Pedro Alliana, o novo presidente do Paraguai com quem o poderoso Partido Colorado tenta se recuperar",
+      "link": "https://www.bbc.com/portuguese/articles/ck87zz7rwqz5o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-07T10:26:56.000Z",
+      "summary": "Pedro Alliana tomou posse nesta sexta-feira como o novo presidente do Paraguai, após o processo de impeachment conduzido pelo Congresso que destituiu Santiago Peña do cargo.",
+      "source": "BBC News Brasil",
       "cat": "internacional"
     },
     {
