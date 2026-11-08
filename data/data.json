@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-08T12:48:40.993Z",
+  "updated": "2026-11-08T13:45:42.904Z",
   "market": {
     "ibov": {
       "price": 168498.45,
       "pct": 1.39,
-      "time": "2026-11-08T12:48:35.655Z",
+      "time": "2026-11-08T13:45:37.003Z",
       "history": [
         {
           "d": "2026-10-09",
@@ -137,6 +137,14 @@
   },
   "news": [
     {
+      "title": "Queda do presidente do Paraguai acende alerta para direita na America Latina?",
+      "link": "https://www.bbc.com/portuguese/articles/cj4g11ven5rpo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-08T13:43:16.000Z",
+      "summary": "Primeiro presidente eleito na nova onda de direita na América do Sul, Peña se alinhou às políticas de Trump para a região. Na política do Paraguai, porém, sua queda deve significar, por ora, pouca mudança nessa orientação ideológica.",
+      "source": "BBC News Brasil",
+      "cat": "internacional"
+    },
+    {
       "title": "Gadi Eisenkot: Quem é o principal rival de Netanyahu que pode se tornar novo primeiro-ministro de Israel?",
       "link": "https://www.bbc.com/portuguese/articles/cxe8r9gmj699o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-08T12:00:43.000Z",
@@ -189,14 +197,6 @@
       "link": "https://www.bbc.com/portuguese/articles/c623dj01rkero?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-07T22:36:53.000Z",
       "summary": "Presidente americano fez o convite pelas redes sociais e sugeriu que Dana White levasse lutadores de destaque do UFC para integrar sua equipe.",
-      "source": "BBC News Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "Quem é Miguel Vázquez, o jovem dono do banco Ueno, no centro de escândalo financeiro e político no Paraguai",
-      "link": "https://www.bbc.com/portuguese/articles/c60qkje0wvvno?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-07T20:30:30.000Z",
-      "summary": "Federico Miguel Vázquez Villasanti é acionista majoritário do Grupo Vásquez, empresa proprietária da instituição financeira liquidada pelo Banco Central paraguaio na última semana.",
       "source": "BBC News Brasil",
       "cat": "internacional"
     },
