@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-08T17:14:39.774Z",
+  "updated": "2026-11-08T17:52:53.498Z",
   "market": {
     "ibov": {
       "price": 168498.45,
       "pct": 1.39,
-      "time": "2026-11-08T17:14:34.009Z",
+      "time": "2026-11-08T17:52:48.153Z",
       "history": [
         {
           "d": "2026-10-09",
@@ -137,6 +137,14 @@
   },
   "news": [
     {
+      "title": "4 investigações que os democratas podem lançar contra Trump após conquistar o controle do Congresso",
+      "link": "https://www.bbc.com/portuguese/articles/cqj34d80l1z4o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-08T17:29:21.000Z",
+      "summary": "Logo após vitória histórica nas midterms, democratas já estão discutindo possíveis investigações contra o governo Trump.",
+      "source": "BBC News Brasil",
+      "cat": "internacional"
+    },
+    {
       "title": "Ativista hasteia bandeira palestina no Parlamento da Alemanha em protesto contra guerra em Gaza",
       "link": "https://www.dw.com/pt-br/ativista-hasteia-bandeira-palestina-no-parlamento-da-alemanha-em-protesto-contra-guerra-em-gaza/a-79892570?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-08T16:10:00.000Z",
@@ -198,14 +206,6 @@
       "date": "2026-11-07T23:02:00.000Z",
       "summary": "Oposicionista Gadi Eisenkot terá até 42 dias para buscar uma maioria de apoio no Parlamento. Aliança com os partidos árabes parece improvável.",
       "source": "DW Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "'Dana, por favor, aceite o cargo!': Trump convida presidente do UFC para ser secretário de imprensa da Casa Branca",
-      "link": "https://www.bbc.com/portuguese/articles/c623dj01rkero?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-07T22:36:53.000Z",
-      "summary": "Presidente americano fez o convite pelas redes sociais e sugeriu que Dana White levasse lutadores de destaque do UFC para integrar sua equipe.",
-      "source": "BBC News Brasil",
       "cat": "internacional"
     },
     {
