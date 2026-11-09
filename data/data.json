@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-09T15:34:56.735Z",
+  "updated": "2026-11-09T16:43:42.524Z",
   "market": {
     "ibov": {
-      "price": 170052.42,
-      "pct": 0.92,
-      "time": "2026-11-09T15:34:51.532Z",
+      "price": 170535.52,
+      "pct": 1.21,
+      "time": "2026-11-09T16:43:38.873Z",
       "history": [
         {
           "d": "2026-10-13",
@@ -80,7 +80,7 @@
         },
         {
           "d": "2026-11-09",
-          "c": 170156.9063
+          "c": 170535.5156
         }
       ]
     },
@@ -136,6 +136,38 @@
     ]
   },
   "news": [
+    {
+      "title": "Comissão aprova programa para ampliar ações de atividade física no SUS",
+      "link": "https://www.camara.leg.br/noticias/1317164-comissao-aprova-programa-para-ampliar-acoes-de-atividade-fisica-no-sus",
+      "date": "2026-11-09T16:17:00.000Z",
+      "summary": "O projeto segue em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Comissão aprova criação de programa de incentivo à adoção de animal",
+      "link": "https://www.camara.leg.br/noticias/1317189-comissao-aprova-criacao-de-programa-de-incentivo-a-adocao-de-animal",
+      "date": "2026-11-09T15:51:00.000Z",
+      "summary": "A Câmara dos Deputados continua discutindo o assunto",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Atuação do grupo Lide é aplaudida em sessão especial no Senado",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/09/atuacao-do-grupo-lide-e-aplaudida-em-sessao-especial-no-senado",
+      "date": "2026-11-09T15:49:40.000Z",
+      "summary": "O Senado homenageou em sessão especial nesta segunda-feira (9) o Grupo de Líderes Empresariais (Lide), que completou 25 anos. A solenidade foi pedida pelo senador Eduardo Gomes (PL-TO), por meio do requerimento (RQS) 999/2025. Os participantes da sessão destac",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Comissão da Câmara pode votar parecer sobre política nacional para pessoas com autismo nesta terça",
+      "link": "https://www.camara.leg.br/noticias/1296150-comissao-da-camara-pode-votar-parecer-sobre-politica-nacional-para-pessoas-com-autismo-nesta-terca",
+      "date": "2026-11-09T15:32:00.000Z",
+      "summary": "O relator apresentou um texto reunindo as mais de 100 propostas que tramitam juntas sobre o assunto",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
     {
       "title": "Senado Cultural abre as portas em 9/12 com exposição sobre 200 anos da Casa",
       "link": "https://www12.senado.leg.br/noticias/materias/2026/11/09/senado-cultural-abre-as-portas-em-9-12-com-exposicao-sobre-200-anos-da-casa",
@@ -193,22 +225,6 @@
       "cat": "politica"
     },
     {
-      "title": "Comissão aprova incentivo à geração própria de energia para agricultores familiares",
-      "link": "https://www.camara.leg.br/noticias/1317104-comissao-aprova-incentivo-a-geracao-propria-de-energia-para-agricultores-familiares",
-      "date": "2026-11-09T13:21:00.000Z",
-      "summary": "O projeto segue em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão aprova diretrizes para ampliar cirurgias bariátricas no SUS",
-      "link": "https://www.camara.leg.br/noticias/1317110-comissao-aprova-diretrizes-para-ampliar-cirurgias-bariatricas-no-sus",
-      "date": "2026-11-09T13:01:00.000Z",
-      "summary": "Texto segue em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
       "title": "Fux suspende processos sobre proibição de bets em todo país; o que acontece agora",
       "link": "https://www.bbc.com/portuguese/articles/c6n8d8x9ee17o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-09T12:27:15.000Z",
@@ -223,14 +239,6 @@
       "summary": "Secretário-executivo do Unfccc, Simon Stiell, diz que cada evento anual é sinal de progresso na luta pela ação climática; evento em Antália, na Turquia, ocorre deste 9 a 20 de novembro com entre Estados-partes, União Europeia, representantes do setor privado e",
       "source": "ONU News",
       "cat": "internacional"
-    },
-    {
-      "title": "Comissão aprova ampliação da região de desenvolvimento do DF com a inclusão de 16 municípios goianos",
-      "link": "https://www.camara.leg.br/noticias/1316833-comissao-aprova-ampliacao-da-regiao-de-desenvolvimento-do-df-com-a-inclusao-de-16-municipios-goianos",
-      "date": "2026-11-09T11:57:00.000Z",
-      "summary": "Proposta segue em análise na Câmara",
-      "source": "Agência Câmara",
-      "cat": "politica"
     },
     {
       "title": "O que levou à queda do Muro de Berlim",
@@ -281,14 +289,6 @@
       "cat": "internacional"
     },
     {
-      "title": "4 investigações que os democratas podem lançar contra Trump após conquistar o controle do Congresso",
-      "link": "https://www.bbc.com/portuguese/articles/cqj34d80l1z4o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-08T17:29:21.000Z",
-      "summary": "Logo após vitória histórica nas midterms, democratas já estão discutindo possíveis investigações contra o governo Trump.",
-      "source": "BBC News Brasil",
-      "cat": "internacional"
-    },
-    {
       "title": "Ativista hasteia bandeira palestina no Parlamento da Alemanha em protesto contra guerra em Gaza",
       "link": "https://www.dw.com/pt-br/ativista-hasteia-bandeira-palestina-no-parlamento-da-alemanha-em-protesto-contra-guerra-em-gaza/a-79892570?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-08T16:10:00.000Z",
@@ -309,6 +309,14 @@
       "link": "https://news.un.org/feed/view/pt/story/2026/11/1854856",
       "date": "2026-11-06T12:00:00.000Z",
       "summary": "A Conferência da ONU sobre Mudança Climática começa neste 9 de novembro, em Antália, na Turquia; países em desenvolvimento querem apoio para executar políticas de transição energética, mitigar efeitos de ação climática e responder a desastres naturais com drás",
+      "source": "ONU News",
+      "cat": "internacional"
+    },
+    {
+      "title": "Unicef denuncia avanço de ataques a serviços de água em zonas de conflitos",
+      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854853",
+      "date": "2026-11-05T12:00:00.000Z",
+      "summary": "Equipes humanitárias e comunidades locais adotam soluções para manter abastecimento; agência pede mais proteção à infraestrutura civil; pesquisa examinou 23 países e territórios.",
       "source": "ONU News",
       "cat": "internacional"
     },
