@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-09T18:50:35.393Z",
+  "updated": "2026-11-09T19:52:28.647Z",
   "market": {
     "ibov": {
-      "price": 171039.58,
-      "pct": 1.51,
-      "time": "2026-11-09T18:50:27.341Z",
+      "price": 171389.12,
+      "pct": 1.72,
+      "time": "2026-11-09T19:52:22.787Z",
       "history": [
         {
           "d": "2026-10-13",
@@ -80,7 +80,7 @@
         },
         {
           "d": "2026-11-09",
-          "c": 171025.1094
+          "c": 171591.7031
         }
       ]
     },
@@ -137,6 +137,38 @@
   },
   "news": [
     {
+      "title": "Especialistas afirmam que Brasil avança para se tornar referência em educação digital e midiática",
+      "link": "https://www.camara.leg.br/noticias/1317402-especialistas-afirmam-que-brasil-avanca-para-se-tornar-referencia-em-educacao-digital-e-midiatica",
+      "date": "2026-11-09T19:49:00.000Z",
+      "summary": "Representante do governo anuncia a oferta de cerca de 90 cursos de educação midiática voltados principalmente a professores",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Plenário vota projeto que protege recursos para internet em escolas públicas",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/09/plenario-vota-projeto-que-protege-recursos-para-internet-em-escolas-publicas",
+      "date": "2026-11-09T19:31:14.000Z",
+      "summary": "O Plenário deve votar nesta quarta-feira (11) um projeto que busca melhorar o acesso à internet nas escolas públicas, sobretudo nas áreas rurais. Para isso, o PLP 230/2025 protege de bloqueios os recursos do Fundo de Universalização dos Serviços de Telecomunic",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Comissão discute falta de auditores-fiscais do trabalho nesta quarta-feira",
+      "link": "https://www.camara.leg.br/noticias/1317278-comissao-discute-falta-de-auditores-fiscais-do-trabalho-nesta-quarta-feira",
+      "date": "2026-11-09T19:16:00.000Z",
+      "summary": "",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Comissão aprova regras de prevenção e resposta a emergências em escolas",
+      "link": "https://www.camara.leg.br/noticias/1317310-comissao-aprova-regras-de-prevencao-e-resposta-a-emergencias-em-escolas",
+      "date": "2026-11-09T18:47:00.000Z",
+      "summary": "Proposta segue em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
       "title": "BC passa a divulgar a lista de instituições que podem atuar com ativos virtuais",
       "link": "https://www.bcb.gov.br/detalhenoticia/21311/nota",
       "date": "2026-11-09T18:00:10.000Z",
@@ -183,30 +215,6 @@
       "summary": "Ações em torno da constitucionalidade da medida adotada pelo governo Lula terão de aguardar a decisão final do STF sobre a questão. PGR alertou que decisões de outras instâncias poderiam gerar \"insegurança jurídica\".",
       "source": "DW Brasil",
       "cat": "internacional"
-    },
-    {
-      "title": "Comissão aprova programa para ampliar ações de atividade física no SUS",
-      "link": "https://www.camara.leg.br/noticias/1317164-comissao-aprova-programa-para-ampliar-acoes-de-atividade-fisica-no-sus",
-      "date": "2026-11-09T16:17:00.000Z",
-      "summary": "O projeto segue em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão aprova criação de programa de incentivo à adoção de animal",
-      "link": "https://www.camara.leg.br/noticias/1317189-comissao-aprova-criacao-de-programa-de-incentivo-a-adocao-de-animal",
-      "date": "2026-11-09T15:51:00.000Z",
-      "summary": "A Câmara dos Deputados continua discutindo o assunto",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão da Câmara pode votar parecer sobre política nacional para pessoas com autismo nesta terça",
-      "link": "https://www.camara.leg.br/noticias/1296150-comissao-da-camara-pode-votar-parecer-sobre-politica-nacional-para-pessoas-com-autismo-nesta-terca",
-      "date": "2026-11-09T15:32:00.000Z",
-      "summary": "O relator apresentou um texto reunindo as mais de 100 propostas que tramitam juntas sobre o assunto",
-      "source": "Agência Câmara",
-      "cat": "politica"
     },
     {
       "title": "Fux suspende processos sobre proibição de bets em todo país; o que acontece agora",
@@ -257,19 +265,19 @@
       "cat": "internacional"
     },
     {
-      "title": "As disputas internas no Partido Republicano após a derrota de Trump nas eleições de meio de mandato",
-      "link": "https://www.bbc.com/portuguese/articles/cjzxl9zr6e36o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-09T00:04:23.000Z",
-      "summary": "Correspondente da BBC em Washington analisa os diferentes caminhos considerados entre as alas do Partido Republicano depois do resultado frustrante para a sigla nas chamadas 'midterms'.",
-      "source": "BBC News Brasil",
-      "cat": "internacional"
-    },
-    {
       "title": "Como Turquia pretende superar impasses para sucesso da COP31",
       "link": "https://www.dw.com/pt-br/como-turquia-pretende-superar-impasses-para-sucesso-da-cop31/a-79870019?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-08T22:23:00.000Z",
       "summary": "Líderes mundiais se reúnem em Antália para debater soluções para crise climática em meio a clima cada vez mais extremo e conflitos globais que escancaram fragilidade de economia baseada em combustíveis fósseis.",
       "source": "DW Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "4 investigações que os democratas podem lançar contra Trump após conquistar o controle do Congresso",
+      "link": "https://www.bbc.com/portuguese/articles/cqj34d80l1z4o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-08T17:29:21.000Z",
+      "summary": "Logo após vitória histórica nas midterms, democratas já estão discutindo possíveis investigações contra o governo Trump.",
+      "source": "BBC News Brasil",
       "cat": "internacional"
     },
     {
