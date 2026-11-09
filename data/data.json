@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-09T09:55:39.521Z",
+  "updated": "2026-11-09T10:53:29.832Z",
   "market": {
     "ibov": {
       "price": 168498.45,
       "pct": 1.39,
-      "time": "2026-11-09T09:55:33.906Z",
+      "time": "2026-11-09T10:53:24.563Z",
       "history": [
         {
           "d": "2026-10-13",
@@ -141,6 +141,14 @@
       "cat": "internacional"
     },
     {
+      "title": "A mensagem do papa para Milei: 'A economia a serviço das pessoas, não as pessoas a serviço da economia'",
+      "link": "https://www.bbc.com/portuguese/articles/cmrlyln10jkpo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-09T10:15:57.000Z",
+      "summary": "Na presença de Javier Milei, conhecido por insultar seus críticos, o papa Leão 14 disse que fortalecer a democracia exige “disposição para ouvir” e “cuidado com as palavras”",
+      "source": "BBC News Brasil",
+      "cat": "internacional"
+    },
+    {
       "title": "As disputas internas no Partido Republicano após a derrota de Trump nas eleições de meio de mandato",
       "link": "https://www.bbc.com/portuguese/articles/cjzxl9zr6e36o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-09T00:04:23.000Z",
@@ -157,19 +165,19 @@
       "cat": "internacional"
     },
     {
+      "title": "4 investigações que os democratas podem lançar contra Trump após conquistar o controle do Congresso",
+      "link": "https://www.bbc.com/portuguese/articles/cqj34d80l1z4o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-08T17:29:21.000Z",
+      "summary": "Logo após vitória histórica nas midterms, democratas já estão discutindo possíveis investigações contra o governo Trump.",
+      "source": "BBC News Brasil",
+      "cat": "internacional"
+    },
+    {
       "title": "Ativista hasteia bandeira palestina no Parlamento da Alemanha em protesto contra guerra em Gaza",
       "link": "https://www.dw.com/pt-br/ativista-hasteia-bandeira-palestina-no-parlamento-da-alemanha-em-protesto-contra-guerra-em-gaza/a-79892570?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-08T16:10:00.000Z",
       "summary": "Grupo que protesta contra a guerra de Israel na Faixa de Gaza reivindicou autoria da ação. Jovem de 22 anos foi detido e será investigado por suspeita de \"difamar o Estado\".",
       "source": "DW Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "Gadi Eisenkot: Quem é o principal rival de Netanyahu que pode se tornar novo primeiro-ministro de Israel?",
-      "link": "https://www.bbc.com/portuguese/articles/cxe8r9gmj699o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-08T12:00:43.000Z",
-      "summary": "O ex-comandante militar Gadi Eisenkot foi escolhido pelo presidente de Israel para tentar formar um novo governo após uma eleição inconclusiva que não deu a nenhum dos partidos mais votados um caminho claro para o poder.",
-      "source": "BBC News Brasil",
       "cat": "internacional"
     },
     {
@@ -297,14 +305,6 @@
       "link": "https://news.un.org/feed/view/pt/story/2026/11/1854856",
       "date": "2026-11-06T12:00:00.000Z",
       "summary": "A Conferência da ONU sobre Mudança Climática começa neste 9 de novembro, em Antália, na Turquia; países em desenvolvimento querem apoio para executar políticas de transição energética, mitigar efeitos de ação climática e responder a desastres naturais com drás",
-      "source": "ONU News",
-      "cat": "internacional"
-    },
-    {
-      "title": "Unicef denuncia avanço de ataques a serviços de água em zonas de conflitos",
-      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854853",
-      "date": "2026-11-05T12:00:00.000Z",
-      "summary": "Equipes humanitárias e comunidades locais adotam soluções para manter abastecimento; agência pede mais proteção à infraestrutura civil; pesquisa examinou 23 países e territórios.",
       "source": "ONU News",
       "cat": "internacional"
     },
