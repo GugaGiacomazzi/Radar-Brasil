@@ -1,15 +1,11 @@
 {
-  "updated": "2026-11-08T23:31:44.361Z",
+  "updated": "2026-11-09T00:13:52.701Z",
   "market": {
     "ibov": {
       "price": 168498.45,
       "pct": 1.39,
-      "time": "2026-11-08T23:31:40.535Z",
+      "time": "2026-11-09T00:13:48.921Z",
       "history": [
-        {
-          "d": "2026-10-09",
-          "c": 209067
-        },
         {
           "d": "2026-10-13",
           "c": 206888
@@ -136,6 +132,14 @@
     ]
   },
   "news": [
+    {
+      "title": "As disputas internas no Partido Republicano após a derrota de Trump nas eleições de meio de mandato",
+      "link": "https://www.bbc.com/portuguese/articles/cjzxl9zr6e36o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-09T00:04:23.000Z",
+      "summary": "Correspondente da BBC em Washington analisa os diferentes caminhos considerados entre as alas do Partido Republicano depois do resultado frustrante para a sigla nas chamadas 'midterms'.",
+      "source": "BBC News Brasil",
+      "cat": "internacional"
+    },
     {
       "title": "Como Turquia pretende superar impasses para sucesso da COP31",
       "link": "https://www.dw.com/pt-br/como-turquia-pretende-superar-impasses-para-sucesso-da-cop31/a-79870019?maca=bra-rss-br-all-1030-xml-mrss",
@@ -305,14 +309,6 @@
       "cat": "internacional"
     },
     {
-      "title": "Unicef denuncia avanço de ataques a serviços de água em zonas de conflitos",
-      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854853",
-      "date": "2026-11-05T12:00:00.000Z",
-      "summary": "Equipes humanitárias e comunidades locais adotam soluções para manter abastecimento; agência pede mais proteção à infraestrutura civil; pesquisa examinou 23 países e territórios.",
-      "source": "ONU News",
-      "cat": "internacional"
-    },
-    {
       "title": "Copom mantém a taxa Selic em 13,75% a.a.",
       "link": "https://www.bcb.gov.br/detalhenoticia/21309/nota",
       "date": "2026-11-04T21:31:35.000Z",
@@ -361,7 +357,5 @@
       "cat": "economia"
     }
   ],
-  "errors": [
-    "feed Planalto (governo): nenhum item no feed (endereço mudou?)"
-  ]
+  "errors": []
 }
