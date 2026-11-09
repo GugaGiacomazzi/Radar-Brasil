@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-09T13:00:01.927Z",
+  "updated": "2026-11-09T14:21:23.426Z",
   "market": {
     "ibov": {
-      "price": 168498.45,
-      "pct": 1.39,
-      "time": "2026-11-09T12:59:58.160Z",
+      "price": 169472.62,
+      "pct": 0.58,
+      "time": "2026-11-09T14:21:19.611Z",
       "history": [
         {
           "d": "2026-10-13",
@@ -77,6 +77,10 @@
         {
           "d": "2026-11-06",
           "c": 168499
+        },
+        {
+          "d": "2026-11-09",
+          "c": 169526.1563
         }
       ]
     },
@@ -132,6 +136,46 @@
     ]
   },
   "news": [
+    {
+      "title": "Comissão aprova programa para ampliar armazenagem agropecuária",
+      "link": "https://www.camara.leg.br/noticias/1317119-comissao-aprova-programa-para-ampliar-armazenagem-agropecuaria",
+      "date": "2026-11-09T13:53:00.000Z",
+      "summary": "O projeto continua sendo discutido na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Pauta tem inclusão de mulheres com câncer de mama no mercado de trabalho",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/09/pauta-tem-inclusao-de-mulheres-com-cancer-de-mama-no-mercado-de-trabalho",
+      "date": "2026-11-09T13:50:28.000Z",
+      "summary": "O Plenário analisa nesta terça-feira (10) o projeto que cria o Programa Empresa Rosa e o Selo Rosa, voltados à inclusão e à reinserção profissional de mulheres com diagnóstico, em tratamento ou em período de espera de remissão de câncer de mama. A proposta tam",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Agora é lei: prática da medicina dependerá de aprovação no Enamed",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/09/agora-e-lei-pratica-da-medicina-dependera-de-aprovacao-no-enamed",
+      "date": "2026-11-09T13:25:10.000Z",
+      "summary": "Estudantes que ingressaram em curso de medicina a partir de 19 de junho de 2026 terão de passar pelo Exame Nacional de Avaliação da Formação Médica (Enamed) para exercer a prática médica. É o que determina a Lei 15.527, de 2026, sancionada pelo presidente da R",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Comissão aprova incentivo à geração própria de energia para agricultores familiares",
+      "link": "https://www.camara.leg.br/noticias/1317104-comissao-aprova-incentivo-a-geracao-propria-de-energia-para-agricultores-familiares",
+      "date": "2026-11-09T13:21:00.000Z",
+      "summary": "O projeto segue em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Comissão aprova diretrizes para ampliar cirurgias bariátricas no SUS",
+      "link": "https://www.camara.leg.br/noticias/1317110-comissao-aprova-diretrizes-para-ampliar-cirurgias-bariatricas-no-sus",
+      "date": "2026-11-09T13:01:00.000Z",
+      "summary": "Texto segue em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
     {
       "title": "Fux suspende processos sobre proibição de bets em todo país; o que acontece agora",
       "link": "https://www.bbc.com/portuguese/articles/c6n8d8x9ee17o?at_medium=RSS&at_campaign=rss",
@@ -237,14 +281,6 @@
       "cat": "internacional"
     },
     {
-      "title": "Por que mulheres podem estar por trás da vitória de Lula nas eleições",
-      "link": "https://www.bbc.com/portuguese/articles/c3pwg9x8r947o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-08T09:22:52.000Z",
-      "summary": "O atual presidente conseguiu ampliar a vantagem que tinha sobre o eleitorado feminino em relação a 2022, especialmente entre as mulheres jovens, indica análise das urnas.",
-      "source": "BBC News Brasil",
-      "cat": "internacional"
-    },
-    {
       "title": "Nova lei condiciona registro de médicos à aprovação em exame",
       "link": "https://www.camara.leg.br/noticias/1316981-nova-lei-condiciona-registro-de-medicos-a-aprovacao-em-exame",
       "date": "2026-11-06T21:42:00.000Z",
@@ -261,44 +297,12 @@
       "cat": "politica"
     },
     {
-      "title": "Senado participa da 72ª edição da Feira do Livro de Porto Alegre",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/06/senado-participa-da-72a-edicao-da-feira-do-livro-de-porto-alegre",
-      "date": "2026-11-06T21:31:36.000Z",
-      "summary": "O Senado participa da 72ª edição da Feira do Livro de Porto Alegre, que vai até o dia 15 de novembro, na Praça da Alfândega, no Centro Histórico da capital gaúcha. Com mais de 20 anos de participação, esta edição conta com o espaço O Senado na Praça, que apres",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
-      "title": "Plenário celebra 80 anos da Secretaria-Geral da Mesa na terça",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/06/plenario-celebra-80-anos-da-secretaria-geral-da-mesa-na-proxima-terca",
-      "date": "2026-11-06T21:20:40.000Z",
-      "summary": "Sessão especial nesta terça-feira (10) no Plenário celebrará os 80 anos da Secretaria-Geral da Mesa (SGM). A homenagem, marcada para as 10h, atende a um requerimento do presidente do Senado, Davi Alcolumbre. Criada em 1946, com a volta da democracia após o fim",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão aprova proibição de posse em cargo público para condenados por crimes contra vulneráveis",
-      "link": "https://www.camara.leg.br/noticias/1316835-comissao-aprova-proibicao-de-posse-em-cargo-publico-para-condenados-por-crimes-contra-vulneraveis",
-      "date": "2026-11-06T20:40:00.000Z",
-      "summary": "O projeto de lei segue em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão aprova política nacional para celíacos",
-      "link": "https://www.camara.leg.br/noticias/1316839-comissao-aprova-politica-nacional-para-celiacos",
-      "date": "2026-11-06T20:17:00.000Z",
-      "summary": "A proposta está sujeita à apreciação pelo Plenário e segue em análise",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão debate redução da maioridade penal em duas audiências públicas",
-      "link": "https://www.camara.leg.br/noticias/1316864-comissao-debate-reducao-da-maioridade-penal-em-duas-audiencias-publicas",
-      "date": "2026-11-06T19:23:00.000Z",
-      "summary": "Foram convidados representantes do Ministério da Justiça, do Ministério Público e da magistratura",
-      "source": "Agência Câmara",
-      "cat": "politica"
+      "title": "COP31: O que está em jogo na cúpula do clima da ONU deste ano?",
+      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854856",
+      "date": "2026-11-06T12:00:00.000Z",
+      "summary": "A Conferência da ONU sobre Mudança Climática começa neste 9 de novembro, em Antália, na Turquia; países em desenvolvimento querem apoio para executar políticas de transição energética, mitigar efeitos de ação climática e responder a desastres naturais com drás",
+      "source": "ONU News",
+      "cat": "internacional"
     },
     {
       "title": "Copom mantém a taxa Selic em 13,75% a.a.",
@@ -349,5 +353,7 @@
       "cat": "economia"
     }
   ],
-  "errors": []
+  "errors": [
+    "feed Planalto (governo): nenhum item no feed (endereço mudou?)"
+  ]
 }
