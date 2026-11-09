@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-09T21:45:25.417Z",
+  "updated": "2026-11-09T22:41:40.029Z",
   "market": {
     "ibov": {
       "price": 172236.05,
       "pct": 2.22,
-      "time": "2026-11-09T21:45:20.673Z",
+      "time": "2026-11-09T22:41:33.844Z",
       "history": [
         {
           "d": "2026-10-13",
@@ -137,6 +137,14 @@
   },
   "news": [
     {
+      "title": "Comissão analisa relatório sobre renegociação de dívidas de produtores rurais nesta terça-feira",
+      "link": "https://www.camara.leg.br/noticias/1317452-comissao-analisa-relatorio-sobre-renegociacao-de-dividas-de-produtores-rurais-nesta-terca-feira",
+      "date": "2026-11-09T22:07:00.000Z",
+      "summary": "",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
       "title": "Conselho de Comunicação debate seu papel em remoção de conteúdos nas redes",
       "link": "https://www12.senado.leg.br/noticias/materias/2026/11/09/conselho-de-comunicacao-debate-seu-papel-em-remocao-de-conteudos-nas-redes",
       "date": "2026-11-09T21:36:05.000Z",
@@ -221,14 +229,6 @@
       "link": "https://www.camara.leg.br/noticias/1317278-comissao-discute-falta-de-auditores-fiscais-do-trabalho-nesta-quarta-feira",
       "date": "2026-11-09T19:16:00.000Z",
       "summary": "",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão aprova regras de prevenção e resposta a emergências em escolas",
-      "link": "https://www.camara.leg.br/noticias/1317310-comissao-aprova-regras-de-prevencao-e-resposta-a-emergencias-em-escolas",
-      "date": "2026-11-09T18:47:00.000Z",
-      "summary": "Proposta segue em análise na Câmara dos Deputados",
       "source": "Agência Câmara",
       "cat": "politica"
     },
