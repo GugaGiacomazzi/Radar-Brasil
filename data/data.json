@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-09T19:52:28.647Z",
+  "updated": "2026-11-09T20:49:09.779Z",
   "market": {
     "ibov": {
-      "price": 171389.12,
-      "pct": 1.72,
-      "time": "2026-11-09T19:52:22.787Z",
+      "price": 171801.5,
+      "pct": 1.96,
+      "time": "2026-11-09T20:49:04.440Z",
       "history": [
         {
           "d": "2026-10-13",
@@ -80,7 +80,7 @@
         },
         {
           "d": "2026-11-09",
-          "c": 171591.7031
+          "c": 171792.2656
         }
       ]
     },
@@ -137,6 +137,54 @@
   },
   "news": [
     {
+      "title": "Cancelada votação de parecer sobre política nacional para pessoas com autismo",
+      "link": "https://www.camara.leg.br/noticias/1296150-cancelada-votacao-de-parecer-sobre-politica-nacional-para-pessoas-com-autismo",
+      "date": "2026-11-09T20:40:00.000Z",
+      "summary": "Votação estava programada para esta terça-feira",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Trump questiona integridade das eleições de meio de mandato após ter aceitado os resultados anteriormente",
+      "link": "https://www.bbc.com/portuguese/articles/cq3696x6xrkjo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-09T20:39:03.000Z",
+      "summary": "Trump fez essas afirmações, sem apresentar provas, no Truth Social na segunda-feira.",
+      "source": "BBC News Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "Comissão aprova diretrizes para atendimento integral a mulheres com endometriose no SUS",
+      "link": "https://www.camara.leg.br/noticias/1317308-comissao-aprova-diretrizes-para-atendimento-integral-a-mulheres-com-endometriose-no-sus",
+      "date": "2026-11-09T20:37:00.000Z",
+      "summary": "Proposta segue em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Comissão aprova ampliação da política nacional para pacientes com diabetes tipo 1 no SUS",
+      "link": "https://www.camara.leg.br/noticias/1317312-comissao-aprova-ampliacao-da-politica-nacional-para-pacientes-com-diabetes-tipo-1-no-sus",
+      "date": "2026-11-09T20:19:00.000Z",
+      "summary": "A proposta segue em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Confúcio pede mais crédito para pequenos produtores da região amazônica",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/09/confucio-pede-mais-credito-para-pequenos-produtores-da-regiao-amazonica",
+      "date": "2026-11-09T19:58:21.000Z",
+      "summary": "O senador Confúcio Moura (MDB-RO) defendeu a ampliação do acesso ao crédito para agricultores familiares, pequenos produtores e trabalhadores autônomos da região amazônica. Em pronunciamento no Plenário nesta segunda-feira (9), ele criticou a concentração dos ",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Paulo Paim agradece a apoiadores e faz balanço de trajetória no Senado",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/09/paulo-paim-agradece-a-apoiadores-e-faz-balanco-de-trajetoria-no-senado",
+      "date": "2026-11-09T19:49:07.000Z",
+      "summary": "O senador Paulo Paim (PT-RS) fez, nesta segunda-feira (9), um balanço de sua trajetória política, em pronunciamento no Plenário do Senado. Ele agradeceu a colegas, trabalhadores, sindicalistas, movimentos sociais e eleitores que acompanharam o trabalho dele ao",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
       "title": "Especialistas afirmam que Brasil avança para se tornar referência em educação digital e midiática",
       "link": "https://www.camara.leg.br/noticias/1317402-especialistas-afirmam-que-brasil-avanca-para-se-tornar-referencia-em-educacao-digital-e-midiatica",
       "date": "2026-11-09T19:49:00.000Z",
@@ -175,38 +223,6 @@
       "summary": "",
       "source": "Banco Central",
       "cat": "economia"
-    },
-    {
-      "title": "Comissão aprova destinação de recursos da venda de bens militares ao Ministério da Defesa",
-      "link": "https://www.camara.leg.br/noticias/1317252-comissao-aprova-destinacao-de-recursos-da-venda-de-bens-militares-ao-ministerio-da-defesa",
-      "date": "2026-11-09T18:00:00.000Z",
-      "summary": "O projeto de lei segue em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Educação midiática é vital para exercer cidadania, dizem debatedores",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/09/educacao-midiatica-e-vital-para-exercer-cidadania-dizem-debatedores",
-      "date": "2026-11-09T17:45:06.000Z",
-      "summary": "Compreender os interesses econômicos envolvidos na circulação de informações, identificar conteúdos manipulados e reconhecer situações de discriminação e violação de direitos são algumas das competências a serem desenvolvidas pela educação midiática. Foi o que",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão aprova projeto que inclui trabalho doméstico e de cuidado na redução de pena",
-      "link": "https://www.camara.leg.br/noticias/1317305-comissao-aprova-projeto-que-inclui-trabalho-domestico-e-de-cuidado-na-reducao-de-pena",
-      "date": "2026-11-09T17:44:00.000Z",
-      "summary": "Proposta segue em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão debate exploração sexual de crianças e adolescentes em rodovias e no turismo",
-      "link": "https://www.camara.leg.br/noticias/1317272-comissao-debate-exploracao-sexual-de-criancas-e-adolescentes-em-rodovias-e-no-turismo",
-      "date": "2026-11-09T17:16:00.000Z",
-      "summary": "",
-      "source": "Agência Câmara",
-      "cat": "politica"
     },
     {
       "title": "Fux suspende processos contra proibição das bets no Brasil",
@@ -293,14 +309,6 @@
       "link": "https://www.bbc.com/portuguese/articles/cxe8r9gmj699o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-08T12:00:43.000Z",
       "summary": "O ex-comandante militar Gadi Eisenkot foi escolhido pelo presidente de Israel para tentar formar um novo governo após uma eleição inconclusiva que não deu a nenhum dos partidos mais votados um caminho claro para o poder.",
-      "source": "BBC News Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "Por que mulheres podem estar por trás da vitória de Lula nas eleições",
-      "link": "https://www.bbc.com/portuguese/articles/c3pwg9x8r947o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-08T09:22:52.000Z",
-      "summary": "O atual presidente conseguiu ampliar a vantagem que tinha sobre o eleitorado feminino em relação a 2022, especialmente entre as mulheres jovens, indica análise das urnas.",
       "source": "BBC News Brasil",
       "cat": "internacional"
     },
