@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-09T22:41:40.029Z",
+  "updated": "2026-11-09T23:36:25.457Z",
   "market": {
     "ibov": {
       "price": 172236.05,
       "pct": 2.22,
-      "time": "2026-11-09T22:41:33.844Z",
+      "time": "2026-11-09T23:36:21.115Z",
       "history": [
         {
           "d": "2026-10-13",
@@ -137,6 +137,14 @@
   },
   "news": [
     {
+      "title": "Projeto inclui dislexia na definição de educação especial da LDB",
+      "link": "https://www.camara.leg.br/noticias/1312606-projeto-inclui-dislexia-na-definicao-de-educacao-especial-da-ldb",
+      "date": "2026-11-09T22:56:00.000Z",
+      "summary": "Proposta está em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
       "title": "Comissão analisa relatório sobre renegociação de dívidas de produtores rurais nesta terça-feira",
       "link": "https://www.camara.leg.br/noticias/1317452-comissao-analisa-relatorio-sobre-renegociacao-de-dividas-de-produtores-rurais-nesta-terca-feira",
       "date": "2026-11-09T22:07:00.000Z",
@@ -222,14 +230,6 @@
       "date": "2026-11-09T19:31:14.000Z",
       "summary": "O Plenário deve votar nesta quarta-feira (11) um projeto que busca melhorar o acesso à internet nas escolas públicas, sobretudo nas áreas rurais. Para isso, o PLP 230/2025 protege de bloqueios os recursos do Fundo de Universalização dos Serviços de Telecomunic",
       "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão discute falta de auditores-fiscais do trabalho nesta quarta-feira",
-      "link": "https://www.camara.leg.br/noticias/1317278-comissao-discute-falta-de-auditores-fiscais-do-trabalho-nesta-quarta-feira",
-      "date": "2026-11-09T19:16:00.000Z",
-      "summary": "",
-      "source": "Agência Câmara",
       "cat": "politica"
     },
     {
