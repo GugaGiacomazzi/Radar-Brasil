@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-09T20:49:09.779Z",
+  "updated": "2026-11-09T21:45:25.417Z",
   "market": {
     "ibov": {
-      "price": 171801.5,
-      "pct": 1.96,
-      "time": "2026-11-09T20:49:04.440Z",
+      "price": 172236.05,
+      "pct": 2.22,
+      "time": "2026-11-09T21:45:20.673Z",
       "history": [
         {
           "d": "2026-10-13",
@@ -80,7 +80,7 @@
         },
         {
           "d": "2026-11-09",
-          "c": 171792.2656
+          "c": 172236.0469
         }
       ]
     },
@@ -137,6 +137,14 @@
   },
   "news": [
     {
+      "title": "Conselho de Comunicação debate seu papel em remoção de conteúdos nas redes",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/09/conselho-de-comunicacao-debate-seu-papel-em-remocao-de-conteudos-nas-redes",
+      "date": "2026-11-09T21:36:05.000Z",
+      "summary": "O Conselho de Comunicação Social (CCS) do Congresso Nacional discutiu, nesta segunda-feira (9), uma proposta que inclui o próprio colegiado entre os órgãos que devem ser comunicados pelas plataformas digitais quando retirarem conteúdos da internet sem ordem ju",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
       "title": "Cancelada votação de parecer sobre política nacional para pessoas com autismo",
       "link": "https://www.camara.leg.br/noticias/1296150-cancelada-votacao-de-parecer-sobre-politica-nacional-para-pessoas-com-autismo",
       "date": "2026-11-09T20:40:00.000Z",
@@ -191,6 +199,14 @@
       "summary": "Representante do governo anuncia a oferta de cerca de 90 cursos de educação midiática voltados principalmente a professores",
       "source": "Agência Câmara",
       "cat": "politica"
+    },
+    {
+      "title": "Promoção de kebab na Alemanha termina em pancadaria com a polícia",
+      "link": "https://www.dw.com/pt-br/promoção-de-kebab-na-alemanha-termina-em-pancadaria-com-a-polícia/a-79905071?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-09T19:34:00.000Z",
+      "summary": "Policiais foram atacados com garrafas e pedras após serem acionados para conter multidão em lanchonete. Novo estabelecimento havia anunciado promoção de lanches por apenas um euro.",
+      "source": "DW Brasil",
+      "cat": "internacional"
     },
     {
       "title": "Plenário vota projeto que protege recursos para internet em escolas públicas",
@@ -294,14 +310,6 @@
       "date": "2026-11-08T17:29:21.000Z",
       "summary": "Logo após vitória histórica nas midterms, democratas já estão discutindo possíveis investigações contra o governo Trump.",
       "source": "BBC News Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "Ativista hasteia bandeira palestina no Parlamento da Alemanha em protesto contra guerra em Gaza",
-      "link": "https://www.dw.com/pt-br/ativista-hasteia-bandeira-palestina-no-parlamento-da-alemanha-em-protesto-contra-guerra-em-gaza/a-79892570?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-08T16:10:00.000Z",
-      "summary": "Grupo que protesta contra a guerra de Israel na Faixa de Gaza reivindicou autoria da ação. Jovem de 22 anos foi detido e será investigado por suspeita de \"difamar o Estado\".",
-      "source": "DW Brasil",
       "cat": "internacional"
     },
     {
