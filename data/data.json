@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-09T11:52:16.730Z",
+  "updated": "2026-11-09T13:00:01.927Z",
   "market": {
     "ibov": {
       "price": 168498.45,
       "pct": 1.39,
-      "time": "2026-11-09T11:52:11.520Z",
+      "time": "2026-11-09T12:59:58.160Z",
       "history": [
         {
           "d": "2026-10-13",
@@ -133,12 +133,28 @@
   },
   "news": [
     {
+      "title": "Fux suspende processos sobre proibição de bets em todo país; o que acontece agora",
+      "link": "https://www.bbc.com/portuguese/articles/c6n8d8x9ee17o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-09T12:27:15.000Z",
+      "summary": "Os processos das bets contra a medida do governo estão suspensos até o julgamento em definitivo da matéria pelo STF.",
+      "source": "BBC News Brasil",
+      "cat": "internacional"
+    },
+    {
       "title": "ONU: Conferência sobre Mudança Climática, COP31, reacende esperança",
       "link": "https://news.un.org/feed/view/pt/story/2026/11/1854869",
       "date": "2026-11-09T12:00:00.000Z",
       "summary": "Secretário-executivo do Unfccc, Simon Stiell, diz que cada evento anual é sinal de progresso na luta pela ação climática; evento em Antália, na Turquia, ocorre deste 9 a 20 de novembro com entre Estados-partes, União Europeia, representantes do setor privado e",
       "source": "ONU News",
       "cat": "internacional"
+    },
+    {
+      "title": "Comissão aprova ampliação da região de desenvolvimento do DF com a inclusão de 16 municípios goianos",
+      "link": "https://www.camara.leg.br/noticias/1316833-comissao-aprova-ampliacao-da-regiao-de-desenvolvimento-do-df-com-a-inclusao-de-16-municipios-goianos",
+      "date": "2026-11-09T11:57:00.000Z",
+      "summary": "Proposta segue em análise na Câmara",
+      "source": "Agência Câmara",
+      "cat": "politica"
     },
     {
       "title": "Conselho de Comunicação debate educação midiática e letramento digital; participe",
@@ -149,11 +165,35 @@
       "cat": "politica"
     },
     {
+      "title": "O que levou à queda do Muro de Berlim",
+      "link": "https://www.dw.com/pt-br/o-que-levou-à-queda-do-muro-de-berlim/a-51126236?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-09T10:23:00.000Z",
+      "summary": "Em 9 de novembro de 1989 caía um dos principais símbolos da Guerra Fria. Uma série de acontecimentos decisivos na Polônia, Hungria e União Soviética culminou no momento histórico na cidade alemã.",
+      "source": "DW Brasil",
+      "cat": "internacional"
+    },
+    {
       "title": "A mensagem do papa para Milei: 'A economia a serviço das pessoas, não as pessoas a serviço da economia'",
       "link": "https://www.bbc.com/portuguese/articles/cmrlyln10jkpo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-09T10:15:57.000Z",
       "summary": "Na presença de Javier Milei, conhecido por insultar seus críticos, o papa Leão 14 disse que fortalecer a democracia exige “disposição para ouvir” e “cuidado com as palavras”",
       "source": "BBC News Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "Ao lado de Milei, papa faz crítica indireta às medidas de austeridade na Argentina",
+      "link": "https://www.dw.com/pt-br/ao-lado-de-milei-papa-faz-crítica-indireta-às-medidas-de-austeridade-na-argentina/a-79896202?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-09T10:00:00.000Z",
+      "summary": "Leão 14 diz que \"a economia deve estar a serviço das pessoas\", e não o inverso, e defende setores mais vulneráveis da sociedade argentina.",
+      "source": "DW Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "Vitória de Lula no Brasil inspira esquerda pelo mundo",
+      "link": "https://www.dw.com/pt-br/vitória-de-lula-no-brasil-inspira-esquerda-pelo-mundo/a-79896869?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-09T09:46:00.000Z",
+      "summary": "Depois da mobilização digital e da vitória de Lula nas eleições, a esquerda de vários países passou a olhar para as estratégias brasileiras na campanha eleitoral.",
+      "source": "DW Brasil",
       "cat": "internacional"
     },
     {
@@ -205,30 +245,6 @@
       "cat": "internacional"
     },
     {
-      "title": "Fortalecida após vitória eleitoral, oposição democrata deve investigar negócios de Trump no Oriente Médio",
-      "link": "https://www.dw.com/pt-br/fortalecida-após-vitória-eleitoral-oposição-democrata-deve-investigar-negócios-de-trump-no-oriente-médio/a-79888001?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-07T23:18:00.000Z",
-      "summary": "Após conquistar maioria no Congresso, oposição democrata promete investigar Trump por suspeitas de corrupção. Investimentos imobiliários, presentes multimilionários e conselho da paz em Gaza estão entre possíveis alvos.",
-      "source": "DW Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "Entenda o escândalo bancário que derrubou o presidente do Paraguai",
-      "link": "https://www.dw.com/pt-br/entenda-o-escândalo-bancário-que-derrubou-o-presidente-do-paraguai/a-79870697?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-07T15:52:00.000Z",
-      "summary": "Santiago Peña sofreu impeachment e foi preso após colapso do Ueno Bank prejudicar quase 3 milhões de clientes. Segundo o Banco Central, instituição não tinha fundos suficientes para honrar compromissos.",
-      "source": "DW Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "Quem é Pedro Alliana, o novo presidente do Paraguai",
-      "link": "https://www.dw.com/pt-br/quem-é-pedro-alliana-o-novo-presidente-do-paraguai/a-79885296?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-07T14:06:00.000Z",
-      "summary": "Ligado ao ex-presidente Horacio Cartes, novo mandatário paraguaio é um experiente político da ala mais conservadora do Partido Colorado e foi vice-presidente de Peña por três anos.",
-      "source": "DW Brasil",
-      "cat": "internacional"
-    },
-    {
       "title": "Nova lei condiciona registro de médicos à aprovação em exame",
       "link": "https://www.camara.leg.br/noticias/1316981-nova-lei-condiciona-registro-de-medicos-a-aprovacao-em-exame",
       "date": "2026-11-06T21:42:00.000Z",
@@ -253,18 +269,10 @@
       "cat": "politica"
     },
     {
-      "title": "Plenário celebra 80 anos da Secretaria-Geral da Mesa na próxima terça",
+      "title": "Plenário celebra 80 anos da Secretaria-Geral da Mesa na terça",
       "link": "https://www12.senado.leg.br/noticias/materias/2026/11/06/plenario-celebra-80-anos-da-secretaria-geral-da-mesa-na-proxima-terca",
       "date": "2026-11-06T21:20:40.000Z",
       "summary": "Sessão especial nesta terça-feira (10) no Plenário celebrará os 80 anos da Secretaria-Geral da Mesa (SGM). A homenagem, marcada para as 10h, atende a um requerimento do presidente do Senado, Davi Alcolumbre. Criada em 1946, com a volta da democracia após o fim",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
-      "title": "Cinema Acessível Kids reuniu estudantes em cinema de Brasília",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/06/cinema-acessivel-kids-reuniu-estudantes-em-cinema-de-brasilia",
-      "date": "2026-11-06T21:15:11.000Z",
-      "summary": "Cerca de 350 estudantes de quatro escolas participaram, nesta sexta-feira (6), do Festival Cinema Acessível Kids, promovido em Brasília pelo Senado Federal. O festival exibiu gratuitamente o filme Divertida Mente com recursos de audiodescrição, libras e legend",
       "source": "Agência Senado",
       "cat": "politica"
     },
@@ -291,22 +299,6 @@
       "summary": "Foram convidados representantes do Ministério da Justiça, do Ministério Público e da magistratura",
       "source": "Agência Câmara",
       "cat": "politica"
-    },
-    {
-      "title": "Comissão aprova garantia de informações claras sobre atendimento a pessoas com autismo no SUS",
-      "link": "https://www.camara.leg.br/noticias/1316780-comissao-aprova-garantia-de-informacoes-claras-sobre-atendimento-a-pessoas-com-autismo-no-sus",
-      "date": "2026-11-06T19:14:00.000Z",
-      "summary": "O projeto continua em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "COP31: O que está em jogo na cúpula do clima da ONU deste ano?",
-      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854856",
-      "date": "2026-11-06T12:00:00.000Z",
-      "summary": "A Conferência da ONU sobre Mudança Climática começa neste 9 de novembro, em Antália, na Turquia; países em desenvolvimento querem apoio para executar políticas de transição energética, mitigar efeitos de ação climática e responder a desastres naturais com drás",
-      "source": "ONU News",
-      "cat": "internacional"
     },
     {
       "title": "Copom mantém a taxa Selic em 13,75% a.a.",
