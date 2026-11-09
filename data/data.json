@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-09T17:52:57.328Z",
+  "updated": "2026-11-09T18:50:35.393Z",
   "market": {
     "ibov": {
-      "price": 171182.48,
-      "pct": 1.59,
-      "time": "2026-11-09T17:52:52.454Z",
+      "price": 171039.58,
+      "pct": 1.51,
+      "time": "2026-11-09T18:50:27.341Z",
       "history": [
         {
           "d": "2026-10-13",
@@ -80,7 +80,7 @@
         },
         {
           "d": "2026-11-09",
-          "c": 171081.7344
+          "c": 171025.1094
         }
       ]
     },
@@ -137,6 +137,22 @@
   },
   "news": [
     {
+      "title": "BC passa a divulgar a lista de instituições que podem atuar com ativos virtuais",
+      "link": "https://www.bcb.gov.br/detalhenoticia/21311/nota",
+      "date": "2026-11-09T18:00:10.000Z",
+      "summary": "",
+      "source": "Banco Central",
+      "cat": "economia"
+    },
+    {
+      "title": "Comissão aprova destinação de recursos da venda de bens militares ao Ministério da Defesa",
+      "link": "https://www.camara.leg.br/noticias/1317252-comissao-aprova-destinacao-de-recursos-da-venda-de-bens-militares-ao-ministerio-da-defesa",
+      "date": "2026-11-09T18:00:00.000Z",
+      "summary": "O projeto de lei segue em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
       "title": "Educação midiática é vital para exercer cidadania, dizem debatedores",
       "link": "https://www12.senado.leg.br/noticias/materias/2026/11/09/educacao-midiatica-e-vital-para-exercer-cidadania-dizem-debatedores",
       "date": "2026-11-09T17:45:06.000Z",
@@ -185,26 +201,10 @@
       "cat": "politica"
     },
     {
-      "title": "Atuação do grupo Lide é aplaudida em sessão especial no Senado",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/09/atuacao-do-grupo-lide-e-aplaudida-em-sessao-especial-no-senado",
-      "date": "2026-11-09T15:49:40.000Z",
-      "summary": "O Senado homenageou em sessão especial nesta segunda-feira (9) o Grupo de Líderes Empresariais (Lide), que completou 25 anos. A solenidade foi pedida pelo senador Eduardo Gomes (PL-TO), por meio do requerimento (RQS) 999/2025. Os participantes da sessão destac",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
       "title": "Comissão da Câmara pode votar parecer sobre política nacional para pessoas com autismo nesta terça",
       "link": "https://www.camara.leg.br/noticias/1296150-comissao-da-camara-pode-votar-parecer-sobre-politica-nacional-para-pessoas-com-autismo-nesta-terca",
       "date": "2026-11-09T15:32:00.000Z",
       "summary": "O relator apresentou um texto reunindo as mais de 100 propostas que tramitam juntas sobre o assunto",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão aprova projeto com diretrizes para atendimento a pessoas com gagueira no SUS",
-      "link": "https://www.camara.leg.br/noticias/1317153-comissao-aprova-projeto-com-diretrizes-para-atendimento-a-pessoas-com-gagueira-no-sus",
-      "date": "2026-11-09T14:56:00.000Z",
-      "summary": "A Câmara dos Deputados continua analisando a proposta",
       "source": "Agência Câmara",
       "cat": "politica"
     },
@@ -281,19 +281,19 @@
       "cat": "internacional"
     },
     {
-      "title": "COP31: O que está em jogo na cúpula do clima da ONU deste ano?",
-      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854856",
-      "date": "2026-11-06T12:00:00.000Z",
-      "summary": "A Conferência da ONU sobre Mudança Climática começa neste 9 de novembro, em Antália, na Turquia; países em desenvolvimento querem apoio para executar políticas de transição energética, mitigar efeitos de ação climática e responder a desastres naturais com drás",
-      "source": "ONU News",
+      "title": "Gadi Eisenkot: Quem é o principal rival de Netanyahu que pode se tornar novo primeiro-ministro de Israel?",
+      "link": "https://www.bbc.com/portuguese/articles/cxe8r9gmj699o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-08T12:00:43.000Z",
+      "summary": "O ex-comandante militar Gadi Eisenkot foi escolhido pelo presidente de Israel para tentar formar um novo governo após uma eleição inconclusiva que não deu a nenhum dos partidos mais votados um caminho claro para o poder.",
+      "source": "BBC News Brasil",
       "cat": "internacional"
     },
     {
-      "title": "Unicef denuncia avanço de ataques a serviços de água em zonas de conflitos",
-      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854853",
-      "date": "2026-11-05T12:00:00.000Z",
-      "summary": "Equipes humanitárias e comunidades locais adotam soluções para manter abastecimento; agência pede mais proteção à infraestrutura civil; pesquisa examinou 23 países e territórios.",
-      "source": "ONU News",
+      "title": "Por que mulheres podem estar por trás da vitória de Lula nas eleições",
+      "link": "https://www.bbc.com/portuguese/articles/c3pwg9x8r947o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-08T09:22:52.000Z",
+      "summary": "O atual presidente conseguiu ampliar a vantagem que tinha sobre o eleitorado feminino em relação a 2022, especialmente entre as mulheres jovens, indica análise das urnas.",
+      "source": "BBC News Brasil",
       "cat": "internacional"
     },
     {
@@ -332,14 +332,6 @@
       "title": "Em caráter excepcional, a divulgação das Estatísticas Fiscais de setembro será antecipada para quinta-feira (29/10)",
       "link": "https://www.bcb.gov.br/detalhenoticia/21302/nota",
       "date": "2026-10-28T12:00:22.000Z",
-      "summary": "",
-      "source": "Banco Central",
-      "cat": "economia"
-    },
-    {
-      "title": "BC anuncia leilões de swap cambial tradicional para fins de rolagem dos contratos vincendos em 1º de dezembro de 2026",
-      "link": "https://www.bcb.gov.br/detalhenoticia/21301/nota",
-      "date": "2026-10-27T21:30:16.000Z",
       "summary": "",
       "source": "Banco Central",
       "cat": "economia"
