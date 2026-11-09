@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-09T16:43:42.524Z",
+  "updated": "2026-11-09T17:52:57.328Z",
   "market": {
     "ibov": {
-      "price": 170535.52,
-      "pct": 1.21,
-      "time": "2026-11-09T16:43:38.873Z",
+      "price": 171182.48,
+      "pct": 1.59,
+      "time": "2026-11-09T17:52:52.454Z",
       "history": [
         {
           "d": "2026-10-13",
@@ -80,7 +80,7 @@
         },
         {
           "d": "2026-11-09",
-          "c": 170535.5156
+          "c": 171081.7344
         }
       ]
     },
@@ -137,6 +137,38 @@
   },
   "news": [
     {
+      "title": "Educação midiática é vital para exercer cidadania, dizem debatedores",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/09/educacao-midiatica-e-vital-para-exercer-cidadania-dizem-debatedores",
+      "date": "2026-11-09T17:45:06.000Z",
+      "summary": "Compreender os interesses econômicos envolvidos na circulação de informações, identificar conteúdos manipulados e reconhecer situações de discriminação e violação de direitos são algumas das competências a serem desenvolvidas pela educação midiática. Foi o que",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Comissão aprova projeto que inclui trabalho doméstico e de cuidado na redução de pena",
+      "link": "https://www.camara.leg.br/noticias/1317305-comissao-aprova-projeto-que-inclui-trabalho-domestico-e-de-cuidado-na-reducao-de-pena",
+      "date": "2026-11-09T17:44:00.000Z",
+      "summary": "Proposta segue em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Comissão debate exploração sexual de crianças e adolescentes em rodovias e no turismo",
+      "link": "https://www.camara.leg.br/noticias/1317272-comissao-debate-exploracao-sexual-de-criancas-e-adolescentes-em-rodovias-e-no-turismo",
+      "date": "2026-11-09T17:16:00.000Z",
+      "summary": "",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Fux suspende processos contra proibição das bets no Brasil",
+      "link": "https://www.dw.com/pt-br/fux-suspende-processos-contra-proibição-das-bets-no-brasil/a-79903577?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-09T17:04:00.000Z",
+      "summary": "Ações em torno da constitucionalidade da medida adotada pelo governo Lula terão de aguardar a decisão final do STF sobre a questão. PGR alertou que decisões de outras instâncias poderiam gerar \"insegurança jurídica\".",
+      "source": "DW Brasil",
+      "cat": "internacional"
+    },
+    {
       "title": "Comissão aprova programa para ampliar ações de atividade física no SUS",
       "link": "https://www.camara.leg.br/noticias/1317164-comissao-aprova-programa-para-ampliar-acoes-de-atividade-fisica-no-sus",
       "date": "2026-11-09T16:17:00.000Z",
@@ -169,59 +201,11 @@
       "cat": "politica"
     },
     {
-      "title": "Senado Cultural abre as portas em 9/12 com exposição sobre 200 anos da Casa",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/09/senado-cultural-abre-as-portas-em-9-12-com-exposicao-sobre-200-anos-da-casa",
-      "date": "2026-11-09T15:26:47.000Z",
-      "summary": "O Senado Cultural — novo espaço de Brasília voltado à arte, cultura e história — será inaugurado no dia 9 de dezembro, às 15h, com uma exposição celebrando o bicentenário da Casa. Senado em Movimento: 200 Anos de História abordará de forma interativa e imersiv",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
       "title": "Comissão aprova projeto com diretrizes para atendimento a pessoas com gagueira no SUS",
       "link": "https://www.camara.leg.br/noticias/1317153-comissao-aprova-projeto-com-diretrizes-para-atendimento-a-pessoas-com-gagueira-no-sus",
       "date": "2026-11-09T14:56:00.000Z",
       "summary": "A Câmara dos Deputados continua analisando a proposta",
       "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Governo estende programa Gás do Povo até 2031",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/09/governo-estende-programa-gas-do-povo-ate-2031",
-      "date": "2026-11-09T14:32:01.000Z",
-      "summary": "O programa Gás do Povo, que garante gás de cozinha gratuito para famílias de baixa renda, teve validade estendida por mais cinco anos, com encerramento em 2031. É o que determina medida provisória editada na sexta-feira (6) pelo presidente da República, Luiz I",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão aprova proposta para incluir informações sobre adenomiose na carteira de identidade",
-      "link": "https://www.camara.leg.br/noticias/1317130-comissao-aprova-proposta-para-incluir-informacoes-sobre-adenomiose-na-carteira-de-identidade",
-      "date": "2026-11-09T14:23:00.000Z",
-      "summary": "Adenomiose é quando o tecido do endométrio cresce na parede muscular do útero, provocando dores pélvicas e forte sangramento menstrual",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão aprova programa para ampliar armazenagem agropecuária",
-      "link": "https://www.camara.leg.br/noticias/1317119-comissao-aprova-programa-para-ampliar-armazenagem-agropecuaria",
-      "date": "2026-11-09T13:53:00.000Z",
-      "summary": "O projeto continua sendo discutido na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Pauta tem inclusão de mulheres com câncer de mama no mercado de trabalho",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/09/pauta-tem-inclusao-de-mulheres-com-cancer-de-mama-no-mercado-de-trabalho",
-      "date": "2026-11-09T13:50:28.000Z",
-      "summary": "O Plenário analisa nesta terça-feira (10) o projeto que cria o Programa Empresa Rosa e o Selo Rosa, voltados à inclusão e à reinserção profissional de mulheres com diagnóstico, em tratamento ou em período de espera de remissão de câncer de mama. A proposta tam",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
-      "title": "Agora é lei: prática da medicina dependerá de aprovação no Enamed",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/09/agora-e-lei-pratica-da-medicina-dependera-de-aprovacao-no-enamed",
-      "date": "2026-11-09T13:25:10.000Z",
-      "summary": "Estudantes que ingressaram em curso de medicina a partir de 19 de junho de 2026 terão de passar pelo Exame Nacional de Avaliação da Formação Médica (Enamed) para exercer a prática médica. É o que determina a Lei 15.527, de 2026, sancionada pelo presidente da R",
-      "source": "Agência Senado",
       "cat": "politica"
     },
     {
@@ -293,14 +277,6 @@
       "link": "https://www.dw.com/pt-br/ativista-hasteia-bandeira-palestina-no-parlamento-da-alemanha-em-protesto-contra-guerra-em-gaza/a-79892570?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-08T16:10:00.000Z",
       "summary": "Grupo que protesta contra a guerra de Israel na Faixa de Gaza reivindicou autoria da ação. Jovem de 22 anos foi detido e será investigado por suspeita de \"difamar o Estado\".",
-      "source": "DW Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "Entenda o escândalo bancário que derrubou o presidente do Paraguai",
-      "link": "https://www.dw.com/pt-br/entenda-o-escândalo-bancário-que-derrubou-o-presidente-do-paraguai/a-79870697?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-07T15:52:00.000Z",
-      "summary": "Santiago Peña sofreu impeachment e foi preso após colapso do Ueno Bank prejudicar quase 3 milhões de clientes. Segundo o Banco Central, instituição não tinha fundos suficientes para honrar compromissos.",
       "source": "DW Brasil",
       "cat": "internacional"
     },
