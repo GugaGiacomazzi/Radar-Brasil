@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-09T14:21:23.426Z",
+  "updated": "2026-11-09T15:34:56.735Z",
   "market": {
     "ibov": {
-      "price": 169472.62,
-      "pct": 0.58,
-      "time": "2026-11-09T14:21:19.611Z",
+      "price": 170052.42,
+      "pct": 0.92,
+      "time": "2026-11-09T15:34:51.532Z",
       "history": [
         {
           "d": "2026-10-13",
@@ -80,7 +80,7 @@
         },
         {
           "d": "2026-11-09",
-          "c": 169526.1563
+          "c": 170156.9063
         }
       ]
     },
@@ -136,6 +136,38 @@
     ]
   },
   "news": [
+    {
+      "title": "Senado Cultural abre as portas em 9/12 com exposição sobre 200 anos da Casa",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/09/senado-cultural-abre-as-portas-em-9-12-com-exposicao-sobre-200-anos-da-casa",
+      "date": "2026-11-09T15:26:47.000Z",
+      "summary": "O Senado Cultural — novo espaço de Brasília voltado à arte, cultura e história — será inaugurado no dia 9 de dezembro, às 15h, com uma exposição celebrando o bicentenário da Casa. Senado em Movimento: 200 Anos de História abordará de forma interativa e imersiv",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Comissão aprova projeto com diretrizes para atendimento a pessoas com gagueira no SUS",
+      "link": "https://www.camara.leg.br/noticias/1317153-comissao-aprova-projeto-com-diretrizes-para-atendimento-a-pessoas-com-gagueira-no-sus",
+      "date": "2026-11-09T14:56:00.000Z",
+      "summary": "A Câmara dos Deputados continua analisando a proposta",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Governo estende programa Gás do Povo até 2031",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/09/governo-estende-programa-gas-do-povo-ate-2031",
+      "date": "2026-11-09T14:32:01.000Z",
+      "summary": "O programa Gás do Povo, que garante gás de cozinha gratuito para famílias de baixa renda, teve validade estendida por mais cinco anos, com encerramento em 2031. É o que determina medida provisória editada na sexta-feira (6) pelo presidente da República, Luiz I",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Comissão aprova proposta para incluir informações sobre adenomiose na carteira de identidade",
+      "link": "https://www.camara.leg.br/noticias/1317130-comissao-aprova-proposta-para-incluir-informacoes-sobre-adenomiose-na-carteira-de-identidade",
+      "date": "2026-11-09T14:23:00.000Z",
+      "summary": "Adenomiose é quando o tecido do endométrio cresce na parede muscular do útero, provocando dores pélvicas e forte sangramento menstrual",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
     {
       "title": "Comissão aprova programa para ampliar armazenagem agropecuária",
       "link": "https://www.camara.leg.br/noticias/1317119-comissao-aprova-programa-para-ampliar-armazenagem-agropecuaria",
@@ -197,14 +229,6 @@
       "link": "https://www.camara.leg.br/noticias/1316833-comissao-aprova-ampliacao-da-regiao-de-desenvolvimento-do-df-com-a-inclusao-de-16-municipios-goianos",
       "date": "2026-11-09T11:57:00.000Z",
       "summary": "Proposta segue em análise na Câmara",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Conselho de Comunicação debate educação midiática e letramento digital; participe",
-      "link": "https://www.camara.leg.br/noticias/1316471-conselho-de-comunicacao-debate-educacao-midiatica-e-letramento-digital-participe",
-      "date": "2026-11-09T11:40:00.000Z",
-      "summary": "A reunião, que será interativa, é uma oportunidade para discutir como preparar os cidadãos para os desafios do ambiente digital",
       "source": "Agência Câmara",
       "cat": "politica"
     },
@@ -273,28 +297,12 @@
       "cat": "internacional"
     },
     {
-      "title": "Juiz ordena prisão preventiva de ex-presidente paraguaio Santiago Peña",
-      "link": "https://www.dw.com/pt-br/juiz-ordena-prisão-preventiva-de-ex-presidente-paraguaio-santiago-peña/a-79889775?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-08T10:33:00.000Z",
-      "summary": "Santiago Peña deverá permanecer na unidade militar para onde foi levado após ser detido. Prisão preventiva é necessária para \"garantir que ele permaneça no país\", afirma juiz.",
+      "title": "Entenda o escândalo bancário que derrubou o presidente do Paraguai",
+      "link": "https://www.dw.com/pt-br/entenda-o-escândalo-bancário-que-derrubou-o-presidente-do-paraguai/a-79870697?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-07T15:52:00.000Z",
+      "summary": "Santiago Peña sofreu impeachment e foi preso após colapso do Ueno Bank prejudicar quase 3 milhões de clientes. Segundo o Banco Central, instituição não tinha fundos suficientes para honrar compromissos.",
       "source": "DW Brasil",
       "cat": "internacional"
-    },
-    {
-      "title": "Nova lei condiciona registro de médicos à aprovação em exame",
-      "link": "https://www.camara.leg.br/noticias/1316981-nova-lei-condiciona-registro-de-medicos-a-aprovacao-em-exame",
-      "date": "2026-11-06T21:42:00.000Z",
-      "summary": "Enamed avaliará estudantes de medicina no segundo, no quarto e no sexto ano da graduação",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Tropas brasileiras patrulharam Faixa de Gaza por 10 anos para evitar guerra",
-      "link": "https://www12.senado.leg.br/noticias/especiais/arquivo-s/tropas-brasileiras-patrulharam-faixa-de-gaza-por-10-anos-para-evitar-guerra",
-      "date": "2026-11-06T21:32:29.000Z",
-      "summary": "",
-      "source": "Agência Senado",
-      "cat": "politica"
     },
     {
       "title": "COP31: O que está em jogo na cúpula do clima da ONU deste ano?",
@@ -353,7 +361,5 @@
       "cat": "economia"
     }
   ],
-  "errors": [
-    "feed Planalto (governo): nenhum item no feed (endereço mudou?)"
-  ]
+  "errors": []
 }
