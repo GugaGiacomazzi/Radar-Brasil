@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-09T08:51:08.898Z",
+  "updated": "2026-11-09T09:55:39.521Z",
   "market": {
     "ibov": {
       "price": 168498.45,
       "pct": 1.39,
-      "time": "2026-11-09T08:51:04.066Z",
+      "time": "2026-11-09T09:55:33.906Z",
       "history": [
         {
           "d": "2026-10-13",
@@ -133,6 +133,14 @@
   },
   "news": [
     {
+      "title": "ONU: Conferência sobre Mudança Climática, COP31, reacende esperança",
+      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854869",
+      "date": "2026-11-09T12:00:00.000Z",
+      "summary": "Secretário-executivo do Unfccc, Simon Stiell, diz que cada evento anual é sinal de progresso na luta pela ação climática; evento em Antália, na Turquia, ocorre deste 9 a 20 de novembro com entre Estados-partes, União Europeia, representantes do setor privado e",
+      "source": "ONU News",
+      "cat": "internacional"
+    },
+    {
       "title": "As disputas internas no Partido Republicano após a derrota de Trump nas eleições de meio de mandato",
       "link": "https://www.bbc.com/portuguese/articles/cjzxl9zr6e36o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-09T00:04:23.000Z",
@@ -149,27 +157,11 @@
       "cat": "internacional"
     },
     {
-      "title": "4 investigações que os democratas podem lançar contra Trump após conquistar o controle do Congresso",
-      "link": "https://www.bbc.com/portuguese/articles/cqj34d80l1z4o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-08T17:29:21.000Z",
-      "summary": "Logo após vitória histórica nas midterms, democratas já estão discutindo possíveis investigações contra o governo Trump.",
-      "source": "BBC News Brasil",
-      "cat": "internacional"
-    },
-    {
       "title": "Ativista hasteia bandeira palestina no Parlamento da Alemanha em protesto contra guerra em Gaza",
       "link": "https://www.dw.com/pt-br/ativista-hasteia-bandeira-palestina-no-parlamento-da-alemanha-em-protesto-contra-guerra-em-gaza/a-79892570?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-08T16:10:00.000Z",
       "summary": "Grupo que protesta contra a guerra de Israel na Faixa de Gaza reivindicou autoria da ação. Jovem de 22 anos foi detido e será investigado por suspeita de \"difamar o Estado\".",
       "source": "DW Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "Queda do presidente do Paraguai acende alerta para direita na America Latina?",
-      "link": "https://www.bbc.com/portuguese/articles/cj4g11ven5rpo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-08T13:43:16.000Z",
-      "summary": "Primeiro presidente eleito na nova onda de direita na América do Sul, Peña se alinhou às políticas de Trump para a região. Na política do Paraguai, porém, sua queda deve significar, por ora, pouca mudança nessa orientação ideológica.",
-      "source": "BBC News Brasil",
       "cat": "internacional"
     },
     {
@@ -185,14 +177,6 @@
       "link": "https://www.dw.com/pt-br/juiz-ordena-prisão-preventiva-de-ex-presidente-paraguaio-santiago-peña/a-79889775?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-08T10:33:00.000Z",
       "summary": "Santiago Peña deverá permanecer na unidade militar para onde foi levado após ser detido. Prisão preventiva é necessária para \"garantir que ele permaneça no país\", afirma juiz.",
-      "source": "DW Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "Ataque a tiros deixa 6 mortos em Cracóvia, na Polônia; agressor seria \"fascinado por ideologias de extrema direita\"",
-      "link": "https://www.dw.com/pt-br/ataque-a-tiros-deixa-6-mortos-em-cracóvia-na-polônia-agressor-seria-fascinado-por-ideologias-de-extrema-direita/a-79887404?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-08T09:25:00.000Z",
-      "summary": "Homem abre fogo em praça central de cidade turística na Polônia antes de ser baleado e detido pela polícia. \"Tudo leva a crer que foi influenciado por ideologia de extrema direita\", afirma ministro do Interior.",
       "source": "DW Brasil",
       "cat": "internacional"
     },
@@ -217,6 +201,14 @@
       "link": "https://www.dw.com/pt-br/entenda-o-escândalo-bancário-que-derrubou-o-presidente-do-paraguai/a-79870697?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-07T15:52:00.000Z",
       "summary": "Santiago Peña sofreu impeachment e foi preso após colapso do Ueno Bank prejudicar quase 3 milhões de clientes. Segundo o Banco Central, instituição não tinha fundos suficientes para honrar compromissos.",
+      "source": "DW Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "Quem é Pedro Alliana, o novo presidente do Paraguai",
+      "link": "https://www.dw.com/pt-br/quem-é-pedro-alliana-o-novo-presidente-do-paraguai/a-79885296?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-07T14:06:00.000Z",
+      "summary": "Ligado ao ex-presidente Horacio Cartes, novo mandatário paraguaio é um experiente político da ala mais conservadora do Partido Colorado e foi vice-presidente de Peña por três anos.",
       "source": "DW Brasil",
       "cat": "internacional"
     },
@@ -305,6 +297,14 @@
       "link": "https://news.un.org/feed/view/pt/story/2026/11/1854856",
       "date": "2026-11-06T12:00:00.000Z",
       "summary": "A Conferência da ONU sobre Mudança Climática começa neste 9 de novembro, em Antália, na Turquia; países em desenvolvimento querem apoio para executar políticas de transição energética, mitigar efeitos de ação climática e responder a desastres naturais com drás",
+      "source": "ONU News",
+      "cat": "internacional"
+    },
+    {
+      "title": "Unicef denuncia avanço de ataques a serviços de água em zonas de conflitos",
+      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854853",
+      "date": "2026-11-05T12:00:00.000Z",
+      "summary": "Equipes humanitárias e comunidades locais adotam soluções para manter abastecimento; agência pede mais proteção à infraestrutura civil; pesquisa examinou 23 países e territórios.",
       "source": "ONU News",
       "cat": "internacional"
     },
