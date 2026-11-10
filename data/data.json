@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-10T11:46:44.510Z",
+  "updated": "2026-11-10T12:55:10.995Z",
   "market": {
     "ibov": {
       "price": 172236.05,
       "pct": 2.22,
-      "time": "2026-11-10T11:46:38.805Z",
+      "time": "2026-11-10T12:55:05.431Z",
       "history": [
         {
           "d": "2026-10-13",
@@ -137,6 +137,38 @@
   },
   "news": [
     {
+      "title": "Comissão aprova reforço à atuação de agentes de saúde em áreas de difícil acesso",
+      "link": "https://www.camara.leg.br/noticias/1317594-comissao-aprova-reforco-a-atuacao-de-agentes-de-saude-em-areas-de-dificil-acesso",
+      "date": "2026-11-10T12:44:00.000Z",
+      "summary": "Texto segue em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Relação próxima de Trump com CEO da Nvidia levanta suspeitas",
+      "link": "https://www.dw.com/pt-br/relação-próxima-de-trump-com-ceo-da-nvidia-levanta-suspeitas/a-79908414?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-10T12:29:00.000Z",
+      "summary": "Presidente defende seu conselheiro e aliado próximo Jensen Huang em meio ao escândalo de espionagem pela China. Democratas pressionam por esclarecimentos sobre o caso.",
+      "source": "DW Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "O que se sabe dos relatórios da PF sobre os laços entre STF e Vorcaro",
+      "link": "https://www.dw.com/pt-br/o-que-se-sabe-dos-relatórios-da-pf-sobre-os-laços-entre-stf-e-vorcaro/a-79908320?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-10T12:13:00.000Z",
+      "summary": "Documentos citariam três ministros. Delegados responsáveis foram afastados, e relatórios deverão ser refeitos por supostamente extrapolarem caráter descritivo determinado por Fachin.",
+      "source": "DW Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "Projeto cria credencial digital no gov.br para comprovar maioridade em sites adultos",
+      "link": "https://www.camara.leg.br/noticias/1305070-projeto-cria-credencial-digital-no-gov-br-para-comprovar-maioridade-em-sites-adultos",
+      "date": "2026-11-10T12:09:00.000Z",
+      "summary": "A Câmara dos Deputados discute o assunto",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
       "title": "Comissão aprova projeto de incentivo à equidade racial e de gênero no SUS",
       "link": "https://www.camara.leg.br/noticias/1317225-comissao-aprova-projeto-de-incentivo-a-equidade-racial-e-de-genero-no-sus",
       "date": "2026-11-10T11:38:00.000Z",
@@ -169,28 +201,12 @@
       "cat": "politica"
     },
     {
-      "title": "Comissão da Câmara debate políticas públicas de saúde oncológica voltadas para as mulheres",
-      "link": "https://www.camara.leg.br/noticias/1316234-comissao-da-camara-debate-politicas-publicas-de-saude-oncologica-voltadas-para-as-mulheres",
-      "date": "2026-11-10T11:15:00.000Z",
-      "summary": "",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
       "title": "BC divulga Ata da 282ª reunião do Copom",
       "link": "https://www.bcb.gov.br/detalhenoticia/21312/nota",
       "date": "2026-11-10T11:01:06.000Z",
       "summary": "",
       "source": "Banco Central",
       "cat": "economia"
-    },
-    {
-      "title": "Conselho de Comunicação estuda formas de contribuir para aumentar transparência sobre retirada de conteúdos da internet",
-      "link": "https://www.camara.leg.br/noticias/1317475-conselho-de-comunicacao-estuda-formas-de-contribuir-para-aumentar-transparencia-sobre-retirada-de-conteudos-da-internet",
-      "date": "2026-11-10T10:52:00.000Z",
-      "summary": "Conselheiros analisaram projeto de lei que obriga plataformas a comunicar o colegiado sobre cada decisão e apontaram dificuldades operacionais para analisar os casos",
-      "source": "Agência Câmara",
-      "cat": "politica"
     },
     {
       "title": "Conselho de Comunicação debate seu papel em remoção de conteúdos nas redes",
@@ -217,28 +233,12 @@
       "cat": "politica"
     },
     {
-      "title": "Paulo Paim agradece a apoiadores e faz balanço de trajetória no Senado",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/09/paulo-paim-agradece-a-apoiadores-e-faz-balanco-de-trajetoria-no-senado",
-      "date": "2026-11-09T19:49:07.000Z",
-      "summary": "O senador Paulo Paim (PT-RS) fez, nesta segunda-feira (9), um balanço de sua trajetória política, em pronunciamento no Plenário do Senado. Ele agradeceu a colegas, trabalhadores, sindicalistas, movimentos sociais e eleitores que acompanharam o trabalho dele ao",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
       "title": "Promoção de kebab na Alemanha termina em pancadaria com a polícia",
       "link": "https://www.dw.com/pt-br/promoção-de-kebab-na-alemanha-termina-em-pancadaria-com-a-polícia/a-79905071?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-09T19:34:00.000Z",
       "summary": "Policiais foram atacados com garrafas e pedras após serem acionados para conter multidão em lanchonete. Novo estabelecimento havia anunciado promoção de lanches por apenas um euro.",
       "source": "DW Brasil",
       "cat": "internacional"
-    },
-    {
-      "title": "Plenário vota projeto que protege recursos para internet em escolas públicas",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/09/plenario-vota-projeto-que-protege-recursos-para-internet-em-escolas-publicas",
-      "date": "2026-11-09T19:31:14.000Z",
-      "summary": "O Plenário deve votar nesta quarta-feira (11) um projeto que busca melhorar o acesso à internet nas escolas públicas, sobretudo nas áreas rurais. Para isso, o PLP 230/2025 protege de bloqueios os recursos do Fundo de Universalização dos Serviços de Telecomunic",
-      "source": "Agência Senado",
-      "cat": "politica"
     },
     {
       "title": "BC passa a divulgar a lista de instituições que podem atuar com ativos virtuais",
@@ -293,22 +293,6 @@
       "link": "https://www.dw.com/pt-br/vitória-de-lula-no-brasil-inspira-esquerda-pelo-mundo/a-79896869?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-09T09:46:00.000Z",
       "summary": "Depois da mobilização digital e da vitória de Lula nas eleições, a esquerda de vários países passou a olhar para as estratégias brasileiras na campanha eleitoral.",
-      "source": "DW Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "Como Turquia pretende superar impasses para sucesso da COP31",
-      "link": "https://www.dw.com/pt-br/como-turquia-pretende-superar-impasses-para-sucesso-da-cop31/a-79870019?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-08T22:23:00.000Z",
-      "summary": "Líderes mundiais se reúnem em Antália para debater soluções para crise climática em meio a clima cada vez mais extremo e conflitos globais que escancaram fragilidade de economia baseada em combustíveis fósseis.",
-      "source": "DW Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "Ativista hasteia bandeira palestina no Parlamento da Alemanha em protesto contra guerra em Gaza",
-      "link": "https://www.dw.com/pt-br/ativista-hasteia-bandeira-palestina-no-parlamento-da-alemanha-em-protesto-contra-guerra-em-gaza/a-79892570?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-08T16:10:00.000Z",
-      "summary": "Grupo que protesta contra a guerra de Israel na Faixa de Gaza reivindicou autoria da ação. Jovem de 22 anos foi detido e será investigado por suspeita de \"difamar o Estado\".",
       "source": "DW Brasil",
       "cat": "internacional"
     },
