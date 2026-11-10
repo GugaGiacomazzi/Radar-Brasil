@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-10T12:55:10.995Z",
+  "updated": "2026-11-10T14:06:21.321Z",
   "market": {
     "ibov": {
-      "price": 172236.05,
-      "pct": 2.22,
-      "time": "2026-11-10T12:55:05.431Z",
+      "price": 172409.7,
+      "pct": 0.1,
+      "time": "2026-11-10T14:06:16.330Z",
       "history": [
         {
           "d": "2026-10-13",
@@ -81,6 +81,10 @@
         {
           "d": "2026-11-09",
           "c": 172236
+        },
+        {
+          "d": "2026-11-10",
+          "c": 172641.7969
         }
       ]
     },
@@ -209,28 +213,12 @@
       "cat": "economia"
     },
     {
-      "title": "Conselho de Comunicação debate seu papel em remoção de conteúdos nas redes",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/09/conselho-de-comunicacao-debate-seu-papel-em-remocao-de-conteudos-nas-redes",
-      "date": "2026-11-09T21:36:05.000Z",
-      "summary": "O Conselho de Comunicação Social (CCS) do Congresso Nacional discutiu, nesta segunda-feira (9), uma proposta que inclui o próprio colegiado entre os órgãos que devem ser comunicados pelas plataformas digitais quando retirarem conteúdos da internet sem ordem ju",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
       "title": "Trump questiona integridade das eleições de meio de mandato após ter aceitado os resultados anteriormente",
       "link": "https://www.bbc.com/portuguese/articles/cq3696x6xrkjo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-09T20:39:03.000Z",
       "summary": "Trump fez essas afirmações, sem apresentar provas, no Truth Social na segunda-feira.",
       "source": "BBC News Brasil",
       "cat": "internacional"
-    },
-    {
-      "title": "Confúcio pede mais crédito para pequenos produtores da região amazônica",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/09/confucio-pede-mais-credito-para-pequenos-produtores-da-regiao-amazonica",
-      "date": "2026-11-09T19:58:21.000Z",
-      "summary": "O senador Confúcio Moura (MDB-RO) defendeu a ampliação do acesso ao crédito para agricultores familiares, pequenos produtores e trabalhadores autônomos da região amazônica. Em pronunciamento no Plenário nesta segunda-feira (9), ele criticou a concentração dos ",
-      "source": "Agência Senado",
-      "cat": "politica"
     },
     {
       "title": "Promoção de kebab na Alemanha termina em pancadaria com a polícia",
