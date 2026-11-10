@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-10T17:13:17.076Z",
+  "updated": "2026-11-10T18:02:24.771Z",
   "market": {
     "ibov": {
-      "price": 171639.83,
-      "pct": -0.35,
-      "time": "2026-11-10T17:13:12.198Z",
+      "price": 171078.9,
+      "pct": -0.67,
+      "time": "2026-11-10T18:02:20.016Z",
       "history": [
         {
           "d": "2026-10-13",
@@ -84,7 +84,7 @@
         },
         {
           "d": "2026-11-10",
-          "c": 171525.0156
+          "c": 171078.9063
         }
       ]
     },
@@ -170,22 +170,6 @@
       "date": "2026-11-10T16:25:00.000Z",
       "summary": "O relatório do deputado Aureo Ribeiro consolida 270 propostas de alteração na legislação de trânsito, incluindo a formação de condutores",
       "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Sessão especial celebra os 80 anos da Secretaria-Geral da Mesa",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/10/sessao-especial-celebra-os-80-anos-da-secretaria-geral-da-mesa",
-      "date": "2026-11-10T16:15:52.000Z",
-      "summary": "Sessão especial do Senado celebrou os 80 anos da Secretaria-Geral da Mesa (SGM). A homenagem desta terça-feira (10) atendeu a requerimento do presidente do Senado, Davi Alcolumbre, que apontou a \"relevante contribuição da secretaria para o funcionamento instit",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
-      "title": "Política Nacional de Incentivo à Fabricação de Motores vai à Câmara",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/10/politica-nacional-de-incentivo-a-fabricacao-de-motores-vai-a-camara",
-      "date": "2026-11-10T15:06:21.000Z",
-      "summary": "A Comissão de Serviços de Infraestrutura (CI) aprovou nesta terça-feira (10) a Política Nacional de Incentivo à Fabricação de Motores (PNIFM). O objetivo é estimular a produção nacional de motores, fortalecer a cadeia produtiva e promover inovação tecnológica,",
-      "source": "Agência Senado",
       "cat": "politica"
     },
     {
@@ -365,7 +349,5 @@
       "cat": "economia"
     }
   ],
-  "errors": [
-    "IPCA 12m (SGS 13522): HTTP 304"
-  ]
+  "errors": []
 }
