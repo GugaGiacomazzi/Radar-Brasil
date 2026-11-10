@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-10T23:15:30.772Z",
+  "updated": "2026-11-10T23:53:50.316Z",
   "market": {
     "ibov": {
       "price": 171336.98,
       "pct": -0.52,
-      "time": "2026-11-10T23:15:25.699Z",
+      "time": "2026-11-10T23:53:46.038Z",
       "history": [
         {
           "d": "2026-10-13",
@@ -141,6 +141,46 @@
   },
   "news": [
     {
+      "title": "Câmara entrega Prêmio Paulo Gustavo a comediantes pela contribuição à cultura brasileira",
+      "link": "https://www.camara.leg.br/noticias/1318101-camara-entrega-premio-paulo-gustavo-a-comediantes-pela-contribuicao-a-cultura-brasileira",
+      "date": "2026-11-10T23:46:00.000Z",
+      "summary": "Premiação reconhece a contribuição de artistas e instituições que se expressam pela comédia e celebram o humor como resistência",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Zequinha Marinho defende medida provisória de renegociação de dívidas rurais",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/10/zequinha-marinho-defende-medida-provisoria-de-renegociacao-de-dividas-rurais",
+      "date": "2026-11-10T23:40:21.000Z",
+      "summary": "O senador Zequinha Marinho (Podemos-PA), em pronunciamento no Plenário nesta terça-feira (10), defendeu a aprovação da MP 1.376/2026, medida provisória que trata da renegociação de dívidas de produtores rurais. Ele alertou para o prazo dessa MP, que se encerra",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Medida provisória cria fundo garantidor para novas operações de crédito rural",
+      "link": "https://www.camara.leg.br/noticias/1318105-medida-provisoria-cria-fundo-garantidor-para-novas-operacoes-de-credito-rural",
+      "date": "2026-11-10T23:40:00.000Z",
+      "summary": "A proposta perde a vigência amanhã e precisa ser votada ainda pelo Senado",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Sérgio Petecão faz balanço de atuação no Senado",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/10/sergio-petecao-faz-balanco-de-atuacao-no-senado",
+      "date": "2026-11-10T23:34:10.000Z",
+      "summary": "O senador Sérgio Petecão (PSD-AC), em pronunciamento no Plenário nesta terça-feira (10), apresentou um balanço de sua atuação parlamentar — incluindo os recursos destinados ao Acre ao longo de 16 anos de mandato. Ele afirmou ter destinado mais de R$ 1 bilhão e",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Especialistas defendem trabalho integrado no combate à exploração sexual de menores em rodovias",
+      "link": "https://www.camara.leg.br/noticias/1318032-especialistas-defendem-trabalho-integrado-no-combate-a-exploracao-sexual-de-menores-em-rodovias",
+      "date": "2026-11-10T23:30:00.000Z",
+      "summary": "Representante da PRF elogia trabalho da polícia, mas admite que nem sempre resulta na redução do crime",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
       "title": "Chico Rodrigues comemora aprovação da PEC da Segurança Pública",
       "link": "https://www12.senado.leg.br/noticias/materias/2026/11/10/chico-rodrigues-comemora-aprovacao-da-pec-da-seguranca-publica",
       "date": "2026-11-10T23:01:49.000Z",
@@ -157,82 +197,26 @@
       "cat": "politica"
     },
     {
-      "title": "Comissão altera MP de renegociação de dívidas rurais para ampliar beneficiários",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/10/comissao-altera-mp-de-renegociacao-de-dividas-rurais-para-ampliar-beneficiarios",
-      "date": "2026-11-10T22:41:26.000Z",
-      "summary": "A comissão mista que analisa a MP 1.376/2026, medida provisória de renegociação de dívidas rurais, aprovou nesta terça-feira (10) uma versão modificada do texto — que, por isso, foi transformado em um projeto de lei de conversão: o PLV 16/2026. O texto com alt",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
-      "title": "Câmara aprova criação do Dia Nacional do Autocuidado; acompanhe",
-      "link": "https://www.camara.leg.br/noticias/1318083-camara-aprova-criacao-do-dia-nacional-do-autocuidado-acompanhe",
+      "title": "Câmara aprova criação do Dia Nacional do Autocuidado",
+      "link": "https://www.camara.leg.br/noticias/1318083-camara-aprova-criacao-do-dia-nacional-do-autocuidado",
       "date": "2026-11-10T22:21:00.000Z",
       "summary": "A matéria será enviada à sanção presidencial",
       "source": "Agência Câmara",
       "cat": "politica"
     },
     {
-      "title": "CMO aprova créditos adicionais para benefícios sociais e outros setores",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/10/cmo-aprova-creditos-adicionais-para-beneficios-sociais-e-outros-setores",
-      "date": "2026-11-10T22:19:56.000Z",
-      "summary": "A Comissão Mista de Orçamento (CMO) aprovou nesta terça-feira (10) cinco medidas provisórias e seis projetos de lei que abrem créditos adicionais no orçamento de 2026. Um desses projetos libera crédito suplementar de R$ 149,4 bilhões no orçamento da seguridade",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
-      "title": "Câmara aprova urgência para propostas sobre educação integral e escolinhas de futebol feminino; acompanhe",
-      "link": "https://www.camara.leg.br/noticias/1318059-camara-aprova-urgencia-para-propostas-sobre-educacao-integral-e-escolinhas-de-futebol-feminino-acompanhe",
+      "title": "Câmara aprova urgência para propostas sobre educação integral e escolinhas de futebol feminino",
+      "link": "https://www.camara.leg.br/noticias/1318059-camara-aprova-urgencia-para-propostas-sobre-educacao-integral-e-escolinhas-de-futebol-feminino",
       "date": "2026-11-10T22:14:00.000Z",
       "summary": "",
       "source": "Agência Câmara",
       "cat": "politica"
     },
     {
-      "title": "Câmara aprova nome de Severo Eulálio Filho para viaduto em Teresina; acompanhe",
-      "link": "https://www.camara.leg.br/noticias/1318058-camara-aprova-nome-de-severo-eulalio-filho-para-viaduto-em-teresina-acompanhe",
+      "title": "Câmara aprova nome de Severo Eulálio Filho para viaduto em Teresina",
+      "link": "https://www.camara.leg.br/noticias/1318058-camara-aprova-nome-de-severo-eulalio-filho-para-viaduto-em-teresina",
       "date": "2026-11-10T22:04:00.000Z",
       "summary": "A matéria será enviada à sanção presidencial",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Senado aprova sessão especial em homenagem ao navegador Amyr Klink",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/10/senado-aprova-sessao-especial-em-homenagem-ao-navegador-amyr-klink",
-      "date": "2026-11-10T22:01:37.000Z",
-      "summary": "O Senado vai promover uma sessão especial para homenagear o navegador e escritor brasileiro Amyr Klink. O requerimento para a homenagem (REQ 749/2026) foi aprovado pelo Plenário da Casa nesta terça-feira (10). O autor da solicitação foi o senador Sargento Regi",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
-      "title": "Câmara aprova inclusão de Padre Inácio de Sousa Rolim no livro de heróis e heroinas da pátria ; acompanhe",
-      "link": "https://www.camara.leg.br/noticias/1318043-camara-aprova-inclusao-de-padre-inacio-de-sousa-rolim-no-livro-de-herois-e-heroinas-da-patria-acompanhe",
-      "date": "2026-11-10T22:01:00.000Z",
-      "summary": "A matéria será enviada ao Senado",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Aprovado projeto que aumenta poder da ANP para combater crimes com combustíveis",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/10/aprovado-projeto-que-aumenta-poder-da-anp-para-combater-crimes-com-combustiveis",
-      "date": "2026-11-10T21:55:21.000Z",
-      "summary": "O Plenário do Senado aprovou nesta terça-feira (10) um projeto de lei que fortalece o combate a crimes no setor de combustíveis. O projeto (PLP 109/2025) autoriza a Agência Nacional do Petróleo (ANP) a ter acesso às notas fiscais eletrônicas de distribuidores ",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
-      "title": "Câmara rejeita recurso e projeto que flexibiliza Código Florestal vai ao Senado; acompanhe",
-      "link": "https://www.camara.leg.br/noticias/1318042-camara-rejeita-recurso-e-projeto-que-flexibiliza-codigo-florestal-vai-ao-senado-acompanhe",
-      "date": "2026-11-10T21:53:00.000Z",
-      "summary": "",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Câmara aprova terceira edição de plano de socorro a exportadores atingidos pelo tarifaço norte-americano; acompanhe",
-      "link": "https://www.camara.leg.br/noticias/1317853-camara-aprova-terceira-edicao-de-plano-de-socorro-a-exportadores-atingidos-pelo-tarifaco-norte-americano-acompanhe",
-      "date": "2026-11-10T21:39:00.000Z",
-      "summary": "",
       "source": "Agência Câmara",
       "cat": "politica"
     },
