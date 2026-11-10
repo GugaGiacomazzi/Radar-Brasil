@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-10T20:26:49.026Z",
+  "updated": "2026-11-10T21:22:15.372Z",
   "market": {
     "ibov": {
-      "price": 171249.81,
-      "pct": -0.57,
-      "time": "2026-11-10T20:26:43.580Z",
+      "price": 171454.42,
+      "pct": -0.45,
+      "time": "2026-11-10T21:22:10.919Z",
       "history": [
         {
           "d": "2026-10-13",
@@ -84,7 +84,7 @@
         },
         {
           "d": "2026-11-10",
-          "c": 171249.8125
+          "c": 171454.4219
         }
       ]
     },
@@ -141,6 +141,70 @@
   },
   "news": [
     {
+      "title": "Partidos de Esquerda se unem para barrar ultradireita em estado alemão",
+      "link": "https://www.dw.com/pt-br/partidos-de-esquerda-se-unem-para-barrar-ultradireita-em-estado-alemão/a-79913451?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-10T21:13:00.000Z",
+      "summary": "Partido Social-Democrata (SPD) sela coalizão de governo com A Esquerda e os Verdes. Apesar de ter sido a mais votada na eleição de Mecklemburgo-Pomerânia Ocidental, AfD não encontra aliados e ficará na oposição.",
+      "source": "DW Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "Senado recebe acórdão do TCU que propõe alíquota de 11,3% para a CBS",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/10/senado-recebe-acordao-do-tcu-que-propoe-aliquota-de-11-3-para-a-cbs",
+      "date": "2026-11-10T21:11:18.000Z",
+      "summary": "O presidente do Tribunal de Contas da União (TCU), ministro Vital do Rêgo, entregou nesta terça-feira (10) ao presidente do Senado, Davi Alcolumbre, o acórdão da decisão que recomenda uma alíquota de 11,3% para a Contribuição Social sobre Bens e Serviços (CBS)",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Comissão aprova aumento de penas para crimes contra profissionais de saúde",
+      "link": "https://www.camara.leg.br/noticias/1317915-comissao-aprova-aumento-de-penas-para-crimes-contra-profissionais-de-saude",
+      "date": "2026-11-10T21:11:00.000Z",
+      "summary": "Projeto de lei precisa ser analisado pelo Senado para virar lei",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Senado aprova incentivo à contratação de mulheres com câncer de mama",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/10/senado-aprova-incentivo-a-contratacao-de-mulheres-com-cancer-de-mama",
+      "date": "2026-11-10T20:54:33.000Z",
+      "summary": "O Plenário do Senado aprovou nesta terça-feira (10) o projeto de lei que incentiva a contratação de mulheres com diagnóstico, em tratamento ou em remissão de câncer de mama. O projeto (PL 5.608/2023) segue para a sanção da Presidência da República. Para estimu",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Confúcio homenageia servidores pelos 80 anos da Secretaria-Geral da Mesa",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/10/confucio-homenageia-servidores-pelos-80-anos-da-secretaria-geral-da-mesa",
+      "date": "2026-11-10T20:51:12.000Z",
+      "summary": "O senador Confúcio Moura (MDB-RO), em pronunciamento no Plenário, homenageou os servidores da Secretaria-Geral da Mesa (SGM) pelos 80 anos de criação do setor, tema de sessão especial no Senado nesta terça-feira (10). O parlamentar ressaltou que o trabalho téc",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Adesão do Brasil a acordo contra crimes ambientais será analisada pela CRE",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/10/adesao-do-brasil-a-acordo-contra-crimes-ambientais-sera-analisada-pela-cre",
+      "date": "2026-11-10T20:47:29.000Z",
+      "summary": "O projeto de adesão do Brasil ao Acordo de Escazú, que reforça o intercâmbio entre países da América Latina e do Caribe no combate a crimes ambientais, deve ser analisado pela Comissão de Relações Exteriores (CRE). O PDL 934/2025 chegou a ser incluído na pauta",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Comissão debate propostas orçamentárias para 2027 nesta quarta-feira",
+      "link": "https://www.camara.leg.br/noticias/1317917-comissao-debate-propostas-orcamentarias-para-2027-nesta-quarta-feira",
+      "date": "2026-11-10T20:29:00.000Z",
+      "summary": "O relatório final da LDO deve ser votado na Comissão de Orçamento até 9 de dezembro, e o Orçamento Anual, em 16 de dezembro",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Comissão aprova punição para instituições que descumprirem deveres com idosos",
+      "link": "https://www.camara.leg.br/noticias/1317909-comissao-aprova-punicao-para-instituicoes-que-descumprirem-deveres-com-idosos",
+      "date": "2026-11-10T20:28:00.000Z",
+      "summary": "Proposta ainda depende de análise pelo Plenário da Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
       "title": "Comissão aprova créditos de R$ 164,5 bilhões para o Orçamento de 2026",
       "link": "https://www.camara.leg.br/noticias/1317901-comissao-aprova-creditos-de-r-1645-bilhoes-para-o-orcamento-de-2026",
       "date": "2026-11-10T20:20:00.000Z",
@@ -181,68 +245,12 @@
       "cat": "politica"
     },
     {
-      "title": "Sargento Reginauro cobra ações efetivas contra o crime organizado",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/10/sargento-reginauro-cobra-acoes-efetivas-contra-o-crime-organizado",
-      "date": "2026-11-10T19:28:14.000Z",
-      "summary": "O senador Sargento Reginauro (PSDB-CE) disse nesta terça-feira (10) que o combate ao crime organizado exige ações efetivas dos governos estaduais e federal, além da simples aprovação de leis. Em pronunciamento no Plenário, ele afirmou que a PEC da Segurança Pú",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
-      "title": "Infrações no inquérito das fake news não podem cair no esquecimento, diz Amin",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/10/infracoes-no-inquerito-das-fake-news-nao-podem-cair-no-esquecimento-diz-amin",
-      "date": "2026-11-10T19:24:41.000Z",
-      "summary": "Em pronunciamento no Plenário nesta terça-feira (10), o senador Esperidião Amin (PP-SC) comentou o encerramento do Inquérito 4.781 do Supremo Tribunal Federal (STF), conhecido como Inquérito das Fake News. A decisão foi anunciada pelo presidente do STF, minist",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
       "title": "Ucrânia e Rússia retomam negociações de paz mediadas pelos EUA",
       "link": "https://www.dw.com/pt-br/ucrânia-e-rússia-retomam-negociações-de-paz-mediadas-pelos-eua/a-79912858?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-10T19:18:00.000Z",
       "summary": "Os dois lados no conflito descrevem como produtivas as conversas, em meio à desconfiança de ucranianos e europeus quanto às reais intenções de Washington e seu \"arcabouço de segurança\" para a região.",
       "source": "DW Brasil",
       "cat": "internacional"
-    },
-    {
-      "title": "Projeto isenta policiais e bombeiros militares do Imposto de Renda",
-      "link": "https://www.camara.leg.br/noticias/1310863-projeto-isenta-policiais-e-bombeiros-militares-do-imposto-de-renda",
-      "date": "2026-11-10T19:09:00.000Z",
-      "summary": "A Câmara dos Deputados está discutindo o assunto",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Para Paulo Paim, cotas ajudam a corrigir desigualdades históricas",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/10/para-paulo-paim-cotas-ajudam-a-corrigir-desigualdades-historicas",
-      "date": "2026-11-10T18:57:31.000Z",
-      "summary": "O senador Paulo Paim (PT-RS) destacou, em pronunciamento no Plenário nesta terça-feira (10), a importância das políticas de ação afirmativa para ampliar o acesso à educação e ao serviço público. O parlamentar relatou encontro com integrantes da primeira turma ",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
-      "title": "É falso que Senado esteja votando às pressas a reforma do Código Civil",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/10/e-falso-que-senado-esteja-votando-as-pressas-a-reforma-do-codigo-civil",
-      "date": "2026-11-10T18:39:51.000Z",
-      "summary": "Uma mensagem compartilhada por meio de aplicativos de mensagem afirma que o Senado pode votar um novo Código Civil às pressas “sem que ninguém tenha lido o texto final”. Isso é falso. O Senado não está votando às pressas a reforma do Código Civil e o texto da ",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
-      "title": "Deputados assinam pacto legislativo contra apostas virtuais",
-      "link": "https://www.camara.leg.br/noticias/1317843-deputados-assinam-pacto-legislativo-contra-apostas-virtuais",
-      "date": "2026-11-10T18:27:00.000Z",
-      "summary": "Medida provisória que proibiu as bets foi editada em 25 de setembro e ainda não foi votada pelos parlamentares",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Especialistas defendem na Câmara rastreamento contínuo de câncer pelo SUS",
-      "link": "https://www.camara.leg.br/noticias/1317817-especialistas-defendem-na-camara-rastreamento-continuo-de-cancer-pelo-sus",
-      "date": "2026-11-10T18:11:00.000Z",
-      "summary": "Em audiência pública, debatedores pediram que sistema de saúde convoque pacientes para exames no tempo certo",
-      "source": "Agência Câmara",
-      "cat": "politica"
     },
     {
       "title": "Brasil não deveria aumentar o salário mínimo, mas se livrar dele, diz o economista John Cochrane",
@@ -293,38 +301,6 @@
       "cat": "internacional"
     },
     {
-      "title": "BC divulga Ata da 282ª reunião do Copom",
-      "link": "https://www.bcb.gov.br/detalhenoticia/21312/nota",
-      "date": "2026-11-10T11:01:06.000Z",
-      "summary": "",
-      "source": "Banco Central",
-      "cat": "economia"
-    },
-    {
-      "title": "Trump questiona integridade das eleições de meio de mandato após ter aceitado os resultados anteriormente",
-      "link": "https://www.bbc.com/portuguese/articles/cq3696x6xrkjo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-09T20:39:03.000Z",
-      "summary": "Trump fez essas afirmações, sem apresentar provas, no Truth Social na segunda-feira.",
-      "source": "BBC News Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "Promoção de kebab na Alemanha termina em pancadaria com a polícia",
-      "link": "https://www.dw.com/pt-br/promoção-de-kebab-na-alemanha-termina-em-pancadaria-com-a-polícia/a-79905071?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-09T19:34:00.000Z",
-      "summary": "Policiais foram atacados com garrafas e pedras após serem acionados para conter multidão em lanchonete. Novo estabelecimento havia anunciado promoção de lanches por apenas um euro.",
-      "source": "DW Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "BC passa a divulgar a lista de instituições que podem atuar com ativos virtuais",
-      "link": "https://www.bcb.gov.br/detalhenoticia/21311/nota",
-      "date": "2026-11-09T18:00:10.000Z",
-      "summary": "",
-      "source": "Banco Central",
-      "cat": "economia"
-    },
-    {
       "title": "Fux suspende processos sobre proibição de bets em todo país; o que acontece agora",
       "link": "https://www.bbc.com/portuguese/articles/c6n8d8x9ee17o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-09T12:27:15.000Z",
@@ -333,37 +309,15 @@
       "cat": "internacional"
     },
     {
-      "title": "Copom mantém a taxa Selic em 13,75% a.a.",
-      "link": "https://www.bcb.gov.br/detalhenoticia/21309/nota",
-      "date": "2026-11-04T21:31:35.000Z",
-      "summary": "",
-      "source": "Banco Central",
-      "cat": "economia"
-    },
-    {
-      "title": "BC divulga Estatísticas Fiscais à imprensa",
-      "link": "https://www.bcb.gov.br/detalhenoticia/21306/nota",
-      "date": "2026-10-29T17:03:09.000Z",
-      "summary": "",
-      "source": "Banco Central",
-      "cat": "economia"
-    },
-    {
-      "title": "BC divulga Estatísticas Monetárias e de Crédito à imprensa",
-      "link": "https://www.bcb.gov.br/detalhenoticia/21304/nota",
-      "date": "2026-10-29T11:32:01.000Z",
-      "summary": "",
-      "source": "Banco Central",
-      "cat": "economia"
-    },
-    {
-      "title": "Banco Central decreta Liquidação Extrajudicial da MW Instituição de Pagamento Ltda.",
-      "link": "https://www.bcb.gov.br/detalhenoticia/21305/nota",
-      "date": "2026-10-29T10:39:39.000Z",
-      "summary": "",
-      "source": "Banco Central",
-      "cat": "economia"
+      "title": "Da violência ao clima extremo: O pedido urgente para Moçambique na COP31",
+      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854871",
+      "date": "2026-11-09T12:00:00.000Z",
+      "summary": "OIM afirma que convergência entre conflito e crise climática na província de Cabo Delgado, no extremo norte, exige ação dos líderes mundiais; agência alerta que, sem resposta humanitária e financiamento climático, mais vidas serão perdidas.",
+      "source": "ONU News",
+      "cat": "internacional"
     }
   ],
-  "errors": []
+  "errors": [
+    "feed Banco Central: HTTP 400"
+  ]
 }
