@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-10T22:20:36.757Z",
+  "updated": "2026-11-10T23:15:30.772Z",
   "market": {
     "ibov": {
       "price": 171336.98,
       "pct": -0.52,
-      "time": "2026-11-10T22:20:31.429Z",
+      "time": "2026-11-10T23:15:25.699Z",
       "history": [
         {
           "d": "2026-10-13",
@@ -141,6 +141,46 @@
   },
   "news": [
     {
+      "title": "Chico Rodrigues comemora aprovação da PEC da Segurança Pública",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/10/chico-rodrigues-comemora-aprovacao-da-pec-da-seguranca-publica",
+      "date": "2026-11-10T23:01:49.000Z",
+      "summary": "O senador Chico Rodrigues (PSB-RR), em pronunciamento no Plenário nesta terça-feira (10), comemorou a aprovação da Proposta de Emenda à Constituição (PEC) 18/2025, que trata da segurança pública. Segundo o parlamentar, a matéria amplia a cooperação entre União",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Instituição Fiscal Independente celebra dez anos de criação",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/10/instituicao-fiscal-independente-celebra-dez-anos-de-criacao",
+      "date": "2026-11-10T23:01:34.000Z",
+      "summary": "A Instituição Fiscal Independente (IFI) está comemorando 10 anos de criação. Em solenidade no Senado nesta terça-feira (10), o diretor-executivo da instituição, Marcus Pestana, afirmou que a trajetória da IFI é marcada por independência, autonomia e interesse ",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Comissão altera MP de renegociação de dívidas rurais para ampliar beneficiários",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/10/comissao-altera-mp-de-renegociacao-de-dividas-rurais-para-ampliar-beneficiarios",
+      "date": "2026-11-10T22:41:26.000Z",
+      "summary": "A comissão mista que analisa a MP 1.376/2026, medida provisória de renegociação de dívidas rurais, aprovou nesta terça-feira (10) uma versão modificada do texto — que, por isso, foi transformado em um projeto de lei de conversão: o PLV 16/2026. O texto com alt",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Câmara aprova criação do Dia Nacional do Autocuidado; acompanhe",
+      "link": "https://www.camara.leg.br/noticias/1318083-camara-aprova-criacao-do-dia-nacional-do-autocuidado-acompanhe",
+      "date": "2026-11-10T22:21:00.000Z",
+      "summary": "A matéria será enviada à sanção presidencial",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "CMO aprova créditos adicionais para benefícios sociais e outros setores",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/10/cmo-aprova-creditos-adicionais-para-beneficios-sociais-e-outros-setores",
+      "date": "2026-11-10T22:19:56.000Z",
+      "summary": "A Comissão Mista de Orçamento (CMO) aprovou nesta terça-feira (10) cinco medidas provisórias e seis projetos de lei que abrem créditos adicionais no orçamento de 2026. Um desses projetos libera crédito suplementar de R$ 149,4 bilhões no orçamento da seguridade",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
       "title": "Câmara aprova urgência para propostas sobre educação integral e escolinhas de futebol feminino; acompanhe",
       "link": "https://www.camara.leg.br/noticias/1318059-camara-aprova-urgencia-para-propostas-sobre-educacao-integral-e-escolinhas-de-futebol-feminino-acompanhe",
       "date": "2026-11-10T22:14:00.000Z",
@@ -149,8 +189,8 @@
       "cat": "politica"
     },
     {
-      "title": "Câmara aprova nome de \"Severo Eulálio Filho\" a viaduto localizado na Rodovia BR-343 (PI); acompanhe",
-      "link": "https://www.camara.leg.br/noticias/1318058-camara-aprova-nome-de-severo-eulalio-filho-a-viaduto-localizado-na-rodovia-br-343-pi-acompanhe",
+      "title": "Câmara aprova nome de Severo Eulálio Filho para viaduto em Teresina; acompanhe",
+      "link": "https://www.camara.leg.br/noticias/1318058-camara-aprova-nome-de-severo-eulalio-filho-para-viaduto-em-teresina-acompanhe",
       "date": "2026-11-10T22:04:00.000Z",
       "summary": "A matéria será enviada à sanção presidencial",
       "source": "Agência Câmara",
@@ -197,36 +237,12 @@
       "cat": "politica"
     },
     {
-      "title": "Governo defende redução da maioridade penal apenas para crimes hediondos",
-      "link": "https://www.camara.leg.br/noticias/1317996-governo-defende-reducao-da-maioridade-penal-apenas-para-crimes-hediondos",
-      "date": "2026-11-10T21:34:00.000Z",
-      "summary": "Magistrados apontam eficácia do sistema socioeducativo, e relator projeta votação até dezembro",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
       "title": "Partidos de Esquerda se unem para barrar ultradireita em estado alemão",
       "link": "https://www.dw.com/pt-br/partidos-de-esquerda-se-unem-para-barrar-ultradireita-em-estado-alemão/a-79913451?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-10T21:13:00.000Z",
       "summary": "Partido Social-Democrata (SPD) sela coalizão de governo com A Esquerda e os Verdes. Apesar de ter sido a mais votada na eleição de Mecklemburgo-Pomerânia Ocidental, AfD não encontra aliados e ficará na oposição.",
       "source": "DW Brasil",
       "cat": "internacional"
-    },
-    {
-      "title": "Senado recebe acórdão do TCU que propõe alíquota de 11,3% para a CBS",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/10/senado-recebe-acordao-do-tcu-que-propoe-aliquota-de-11-3-para-a-cbs",
-      "date": "2026-11-10T21:11:18.000Z",
-      "summary": "O presidente do Tribunal de Contas da União (TCU), ministro Vital do Rêgo, entregou nesta terça-feira (10) ao presidente do Senado, Davi Alcolumbre, o acórdão da decisão que recomenda uma alíquota de 11,3% para a Contribuição Social sobre Bens e Serviços (CBS)",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
-      "title": "Senado aprova incentivo à contratação de mulheres com câncer de mama",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/10/senado-aprova-incentivo-a-contratacao-de-mulheres-com-cancer-de-mama",
-      "date": "2026-11-10T20:54:33.000Z",
-      "summary": "O Plenário do Senado aprovou nesta terça-feira (10) o projeto de lei que incentiva a contratação de mulheres com diagnóstico, em tratamento ou em remissão de câncer de mama. O projeto (PL 5.608/2023) segue para a sanção da Presidência da República. Para estimu",
-      "source": "Agência Senado",
-      "cat": "politica"
     },
     {
       "title": "A batalha do novo Parlamento de Israel que pode decidir o futuro político de Netanyahu",
