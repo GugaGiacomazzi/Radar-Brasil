@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-10T16:12:06.027Z",
+  "updated": "2026-11-10T17:13:17.076Z",
   "market": {
     "ibov": {
-      "price": 171659.36,
-      "pct": -0.33,
-      "time": "2026-11-10T16:12:00.628Z",
+      "price": 171639.83,
+      "pct": -0.35,
+      "time": "2026-11-10T17:13:12.198Z",
       "history": [
         {
           "d": "2026-10-13",
@@ -84,7 +84,7 @@
         },
         {
           "d": "2026-11-10",
-          "c": 171621.0938
+          "c": 171525.0156
         }
       ]
     },
@@ -140,6 +140,46 @@
     ]
   },
   "news": [
+    {
+      "title": "CI: projeto protege aeroclubes de remoção sem necessidade comprovada",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/10/ci-projeto-protege-aeroclubes-de-remocao-sem-necessidade-comprovada",
+      "date": "2026-11-10T17:08:05.000Z",
+      "summary": "Permitir que os aeroclubes instalados há mais de dez anos em aeroportos públicos usem gratuitamente as áreas essenciais às suas atividades, além de protegê-los contra remoções sem necessidade comprovada. As medidas estão previstas no PL 6.144/2025, projeto de ",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Brasil não deveria aumentar o salário mínimo, mas se livrar dele, diz o economista John Cochrane",
+      "link": "https://www.bbc.com/portuguese/articles/c5pvgv1x940xo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-10T16:39:55.000Z",
+      "summary": "Pesquisador de Universidade Stanford, nos EUA, citado por André Lara Resende em sua proposta sobre política fiscal, diz à BBC News Brasil que projeto dependeria de ajuste fiscal e mudanças em programas sociais.",
+      "source": "BBC News Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "CI pede auditoria em concessão rodoviária entre RO e MT",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/10/ci-pede-auditoria-em-concessao-rodoviaria-entre-ro-e-mt",
+      "date": "2026-11-10T16:29:02.000Z",
+      "summary": "A Comissão de Infraestrutura (CI) aprovou nesta terça-feira (10) dois requerimentos relacionados ao processo de concessão da Rota Agro Central, trecho rodoviário entre Vilhena (RO) e Cuiabá (MT). Um deles prevê a promoção de audiência pública para debater a co",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Comissão pode votar na próxima quarta parecer sobre mudanças no Código de Trânsito",
+      "link": "https://www.camara.leg.br/noticias/1317758-comissao-pode-votar-na-proxima-quarta-parecer-sobre-mudancas-no-codigo-de-transito",
+      "date": "2026-11-10T16:25:00.000Z",
+      "summary": "O relatório do deputado Aureo Ribeiro consolida 270 propostas de alteração na legislação de trânsito, incluindo a formação de condutores",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Sessão especial celebra os 80 anos da Secretaria-Geral da Mesa",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/10/sessao-especial-celebra-os-80-anos-da-secretaria-geral-da-mesa",
+      "date": "2026-11-10T16:15:52.000Z",
+      "summary": "Sessão especial do Senado celebrou os 80 anos da Secretaria-Geral da Mesa (SGM). A homenagem desta terça-feira (10) atendeu a requerimento do presidente do Senado, Davi Alcolumbre, que apontou a \"relevante contribuição da secretaria para o funcionamento instit",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
     {
       "title": "Política Nacional de Incentivo à Fabricação de Motores vai à Câmara",
       "link": "https://www12.senado.leg.br/noticias/materias/2026/11/10/politica-nacional-de-incentivo-a-fabricacao-de-motores-vai-a-camara",
@@ -205,14 +245,6 @@
       "cat": "politica"
     },
     {
-      "title": "Comissão aprova reforço à atuação de agentes de saúde em áreas de difícil acesso",
-      "link": "https://www.camara.leg.br/noticias/1317594-comissao-aprova-reforco-a-atuacao-de-agentes-de-saude-em-areas-de-dificil-acesso",
-      "date": "2026-11-10T12:44:00.000Z",
-      "summary": "Texto segue em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
       "title": "Relação próxima de Trump com CEO da Nvidia levanta suspeitas",
       "link": "https://www.dw.com/pt-br/relação-próxima-de-trump-com-ceo-da-nvidia-levanta-suspeitas/a-79908414?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-10T12:29:00.000Z",
@@ -226,6 +258,14 @@
       "date": "2026-11-10T12:13:00.000Z",
       "summary": "Documentos citariam três ministros. Delegados responsáveis foram afastados, e relatórios deverão ser refeitos por supostamente extrapolarem caráter descritivo determinado por Fachin.",
       "source": "DW Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "Unesco marca Dia Mundial da Ciência pela Paz e pelo Desenvolvimento",
+      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854881",
+      "date": "2026-11-10T12:00:00.000Z",
+      "summary": "Celebra faz apelo por conhecimento sem fronteiras e paz sem barreiras; agência da ONU sublinha que, em 2026, diplomacia científica lembra que cooperação é a maior ferramenta para sustentabilidade e paz global.",
+      "source": "ONU News",
       "cat": "internacional"
     },
     {
@@ -277,35 +317,19 @@
       "cat": "internacional"
     },
     {
+      "title": "Da violência ao clima extremo: O pedido urgente para Moçambique na COP31",
+      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854871",
+      "date": "2026-11-09T12:00:00.000Z",
+      "summary": "OIM afirma que convergência entre conflito e crise climática na província de Cabo Delgado, no extremo norte, exige ação dos líderes mundiais; agência alerta que, sem resposta humanitária e financiamento climático, mais vidas serão perdidas.",
+      "source": "ONU News",
+      "cat": "internacional"
+    },
+    {
       "title": "ONU: Conferência sobre Mudança Climática, COP31, reacende esperança",
       "link": "https://news.un.org/feed/view/pt/story/2026/11/1854869",
       "date": "2026-11-09T12:00:00.000Z",
       "summary": "Secretário-executivo do Unfccc, Simon Stiell, diz que cada evento anual é sinal de progresso na luta pela ação climática; evento em Antália, na Turquia, ocorre deste 9 a 20 de novembro com entre Estados-partes, União Europeia, representantes do setor privado e",
       "source": "ONU News",
-      "cat": "internacional"
-    },
-    {
-      "title": "O que levou à queda do Muro de Berlim",
-      "link": "https://www.dw.com/pt-br/o-que-levou-à-queda-do-muro-de-berlim/a-51126236?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-09T10:23:00.000Z",
-      "summary": "Em 9 de novembro de 1989 caía um dos principais símbolos da Guerra Fria. Uma série de acontecimentos decisivos na Polônia, Hungria e União Soviética culminou no momento histórico na cidade alemã.",
-      "source": "DW Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "A mensagem do papa para Milei: 'A economia a serviço das pessoas, não as pessoas a serviço da economia'",
-      "link": "https://www.bbc.com/portuguese/articles/cmrlyln10jkpo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-09T10:15:57.000Z",
-      "summary": "Na presença de Javier Milei, conhecido por insultar seus críticos, o papa Leão 14 disse que fortalecer a democracia exige “disposição para ouvir” e “cuidado com as palavras”",
-      "source": "BBC News Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "Por que mulheres podem estar por trás da vitória de Lula nas eleições",
-      "link": "https://www.bbc.com/portuguese/articles/c3pwg9x8r947o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-08T09:22:52.000Z",
-      "summary": "O atual presidente conseguiu ampliar a vantagem que tinha sobre o eleitorado feminino em relação a 2022, especialmente entre as mulheres jovens, indica análise das urnas.",
-      "source": "BBC News Brasil",
       "cat": "internacional"
     },
     {
@@ -341,5 +365,7 @@
       "cat": "economia"
     }
   ],
-  "errors": []
+  "errors": [
+    "IPCA 12m (SGS 13522): HTTP 304"
+  ]
 }
