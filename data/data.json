@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-10T08:53:50.120Z",
+  "updated": "2026-11-10T09:51:59.469Z",
   "market": {
     "ibov": {
       "price": 172236.05,
       "pct": 2.22,
-      "time": "2026-11-10T08:53:44.756Z",
+      "time": "2026-11-10T09:51:54.203Z",
       "history": [
         {
           "d": "2026-10-13",
@@ -305,18 +305,18 @@
       "cat": "internacional"
     },
     {
-      "title": "4 investigações que os democratas podem lançar contra Trump após conquistar o controle do Congresso",
-      "link": "https://www.bbc.com/portuguese/articles/cqj34d80l1z4o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-08T17:29:21.000Z",
-      "summary": "Logo após vitória histórica nas midterms, democratas já estão discutindo possíveis investigações contra o governo Trump.",
-      "source": "BBC News Brasil",
-      "cat": "internacional"
-    },
-    {
       "title": "Gadi Eisenkot: Quem é o principal rival de Netanyahu que pode se tornar novo primeiro-ministro de Israel?",
       "link": "https://www.bbc.com/portuguese/articles/cxe8r9gmj699o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-08T12:00:43.000Z",
       "summary": "O ex-comandante militar Gadi Eisenkot foi escolhido pelo presidente de Israel para tentar formar um novo governo após uma eleição inconclusiva que não deu a nenhum dos partidos mais votados um caminho claro para o poder.",
+      "source": "BBC News Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "Por que mulheres podem estar por trás da vitória de Lula nas eleições",
+      "link": "https://www.bbc.com/portuguese/articles/c3pwg9x8r947o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-08T09:22:52.000Z",
+      "summary": "O atual presidente conseguiu ampliar a vantagem que tinha sobre o eleitorado feminino em relação a 2022, especialmente entre as mulheres jovens, indica análise das urnas.",
       "source": "BBC News Brasil",
       "cat": "internacional"
     },
