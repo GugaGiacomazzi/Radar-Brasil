@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-10T10:50:01.520Z",
+  "updated": "2026-11-10T11:46:44.510Z",
   "market": {
     "ibov": {
       "price": 172236.05,
       "pct": 2.22,
-      "time": "2026-11-10T10:49:56.755Z",
+      "time": "2026-11-10T11:46:38.805Z",
       "history": [
         {
           "d": "2026-10-13",
@@ -137,18 +137,58 @@
   },
   "news": [
     {
-      "title": "Projeto inclui dislexia na definição de educação especial da LDB",
-      "link": "https://www.camara.leg.br/noticias/1312606-projeto-inclui-dislexia-na-definicao-de-educacao-especial-da-ldb",
-      "date": "2026-11-09T22:56:00.000Z",
-      "summary": "Proposta está em análise na Câmara dos Deputados",
+      "title": "Comissão aprova projeto de incentivo à equidade racial e de gênero no SUS",
+      "link": "https://www.camara.leg.br/noticias/1317225-comissao-aprova-projeto-de-incentivo-a-equidade-racial-e-de-genero-no-sus",
+      "date": "2026-11-10T11:38:00.000Z",
+      "summary": "A proposta segue em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Comissão especial debate redução da maioridade penal nesta terça-feira",
+      "link": "https://www.camara.leg.br/noticias/1316864-comissao-especial-debate-reducao-da-maioridade-penal-nesta-terca-feira",
+      "date": "2026-11-10T11:30:00.000Z",
+      "summary": "Comissão criada para analisar a PEC 32/15 tem audiências públicas marcadas para hoje e para amanhã",
       "source": "Agência Câmara",
       "cat": "politica"
     },
     {
       "title": "Comissão analisa relatório sobre renegociação de dívidas de produtores rurais nesta terça-feira",
       "link": "https://www.camara.leg.br/noticias/1317452-comissao-analisa-relatorio-sobre-renegociacao-de-dividas-de-produtores-rurais-nesta-terca-feira",
-      "date": "2026-11-09T22:07:00.000Z",
+      "date": "2026-11-10T11:19:00.000Z",
       "summary": "",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Comissão debate exploração sexual de crianças e adolescentes em rodovias e no turismo",
+      "link": "https://www.camara.leg.br/noticias/1317272-comissao-debate-exploracao-sexual-de-criancas-e-adolescentes-em-rodovias-e-no-turismo",
+      "date": "2026-11-10T11:17:00.000Z",
+      "summary": "",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Comissão da Câmara debate políticas públicas de saúde oncológica voltadas para as mulheres",
+      "link": "https://www.camara.leg.br/noticias/1316234-comissao-da-camara-debate-politicas-publicas-de-saude-oncologica-voltadas-para-as-mulheres",
+      "date": "2026-11-10T11:15:00.000Z",
+      "summary": "",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "BC divulga Ata da 282ª reunião do Copom",
+      "link": "https://www.bcb.gov.br/detalhenoticia/21312/nota",
+      "date": "2026-11-10T11:01:06.000Z",
+      "summary": "",
+      "source": "Banco Central",
+      "cat": "economia"
+    },
+    {
+      "title": "Conselho de Comunicação estuda formas de contribuir para aumentar transparência sobre retirada de conteúdos da internet",
+      "link": "https://www.camara.leg.br/noticias/1317475-conselho-de-comunicacao-estuda-formas-de-contribuir-para-aumentar-transparencia-sobre-retirada-de-conteudos-da-internet",
+      "date": "2026-11-10T10:52:00.000Z",
+      "summary": "Conselheiros analisaram projeto de lei que obriga plataformas a comunicar o colegiado sobre cada decisão e apontaram dificuldades operacionais para analisar os casos",
       "source": "Agência Câmara",
       "cat": "politica"
     },
@@ -161,36 +201,12 @@
       "cat": "politica"
     },
     {
-      "title": "Cancelada votação de parecer sobre política nacional para pessoas com autismo",
-      "link": "https://www.camara.leg.br/noticias/1296150-cancelada-votacao-de-parecer-sobre-politica-nacional-para-pessoas-com-autismo",
-      "date": "2026-11-09T20:40:00.000Z",
-      "summary": "Votação estava programada para esta terça-feira",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
       "title": "Trump questiona integridade das eleições de meio de mandato após ter aceitado os resultados anteriormente",
       "link": "https://www.bbc.com/portuguese/articles/cq3696x6xrkjo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-09T20:39:03.000Z",
       "summary": "Trump fez essas afirmações, sem apresentar provas, no Truth Social na segunda-feira.",
       "source": "BBC News Brasil",
       "cat": "internacional"
-    },
-    {
-      "title": "Comissão aprova diretrizes para atendimento integral a mulheres com endometriose no SUS",
-      "link": "https://www.camara.leg.br/noticias/1317308-comissao-aprova-diretrizes-para-atendimento-integral-a-mulheres-com-endometriose-no-sus",
-      "date": "2026-11-09T20:37:00.000Z",
-      "summary": "Proposta segue em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão aprova ampliação da política nacional para pacientes com diabetes tipo 1 no SUS",
-      "link": "https://www.camara.leg.br/noticias/1317312-comissao-aprova-ampliacao-da-politica-nacional-para-pacientes-com-diabetes-tipo-1-no-sus",
-      "date": "2026-11-09T20:19:00.000Z",
-      "summary": "A proposta segue em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica"
     },
     {
       "title": "Confúcio pede mais crédito para pequenos produtores da região amazônica",
@@ -206,14 +222,6 @@
       "date": "2026-11-09T19:49:07.000Z",
       "summary": "O senador Paulo Paim (PT-RS) fez, nesta segunda-feira (9), um balanço de sua trajetória política, em pronunciamento no Plenário do Senado. Ele agradeceu a colegas, trabalhadores, sindicalistas, movimentos sociais e eleitores que acompanharam o trabalho dele ao",
       "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
-      "title": "Especialistas afirmam que Brasil avança para se tornar referência em educação digital e midiática",
-      "link": "https://www.camara.leg.br/noticias/1317402-especialistas-afirmam-que-brasil-avanca-para-se-tornar-referencia-em-educacao-digital-e-midiatica",
-      "date": "2026-11-09T19:49:00.000Z",
-      "summary": "Representante do governo anuncia a oferta de cerca de 90 cursos de educação midiática voltados principalmente a professores",
-      "source": "Agência Câmara",
       "cat": "politica"
     },
     {
@@ -281,14 +289,6 @@
       "cat": "internacional"
     },
     {
-      "title": "Ao lado de Milei, papa faz crítica indireta às medidas de austeridade na Argentina",
-      "link": "https://www.dw.com/pt-br/ao-lado-de-milei-papa-faz-crítica-indireta-às-medidas-de-austeridade-na-argentina/a-79896202?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-09T10:00:00.000Z",
-      "summary": "Leão 14 diz que \"a economia deve estar a serviço das pessoas\", e não o inverso, e defende setores mais vulneráveis da sociedade argentina.",
-      "source": "DW Brasil",
-      "cat": "internacional"
-    },
-    {
       "title": "Vitória de Lula no Brasil inspira esquerda pelo mundo",
       "link": "https://www.dw.com/pt-br/vitória-de-lula-no-brasil-inspira-esquerda-pelo-mundo/a-79896869?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-09T09:46:00.000Z",
@@ -301,6 +301,14 @@
       "link": "https://www.dw.com/pt-br/como-turquia-pretende-superar-impasses-para-sucesso-da-cop31/a-79870019?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-08T22:23:00.000Z",
       "summary": "Líderes mundiais se reúnem em Antália para debater soluções para crise climática em meio a clima cada vez mais extremo e conflitos globais que escancaram fragilidade de economia baseada em combustíveis fósseis.",
+      "source": "DW Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "Ativista hasteia bandeira palestina no Parlamento da Alemanha em protesto contra guerra em Gaza",
+      "link": "https://www.dw.com/pt-br/ativista-hasteia-bandeira-palestina-no-parlamento-da-alemanha-em-protesto-contra-guerra-em-gaza/a-79892570?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-08T16:10:00.000Z",
+      "summary": "Grupo que protesta contra a guerra de Israel na Faixa de Gaza reivindicou autoria da ação. Jovem de 22 anos foi detido e será investigado por suspeita de \"difamar o Estado\".",
       "source": "DW Brasil",
       "cat": "internacional"
     },
@@ -351,17 +359,7 @@
       "summary": "",
       "source": "Banco Central",
       "cat": "economia"
-    },
-    {
-      "title": "Em caráter excepcional, a divulgação das Estatísticas Fiscais de setembro será antecipada para quinta-feira (29/10)",
-      "link": "https://www.bcb.gov.br/detalhenoticia/21302/nota",
-      "date": "2026-10-28T12:00:22.000Z",
-      "summary": "",
-      "source": "Banco Central",
-      "cat": "economia"
     }
   ],
-  "errors": [
-    "IPCA 12m (SGS 13522): HTTP 304"
-  ]
+  "errors": []
 }
