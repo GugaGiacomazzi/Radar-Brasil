@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-10T19:21:35.332Z",
+  "updated": "2026-11-10T20:26:49.026Z",
   "market": {
     "ibov": {
-      "price": 170963.58,
-      "pct": -0.74,
-      "time": "2026-11-10T19:21:30.911Z",
+      "price": 171249.81,
+      "pct": -0.57,
+      "time": "2026-11-10T20:26:43.580Z",
       "history": [
         {
           "d": "2026-10-13",
@@ -84,7 +84,7 @@
         },
         {
           "d": "2026-11-10",
-          "c": 170963.5781
+          "c": 171249.8125
         }
       ]
     },
@@ -141,6 +141,70 @@
   },
   "news": [
     {
+      "title": "Comissão aprova créditos de R$ 164,5 bilhões para o Orçamento de 2026",
+      "link": "https://www.camara.leg.br/noticias/1317901-comissao-aprova-creditos-de-r-1645-bilhoes-para-o-orcamento-de-2026",
+      "date": "2026-11-10T20:20:00.000Z",
+      "summary": "A maior parte será usada para pagar benefícios previdenciários e sociais",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Projeto autoriza cobertura integral de seguro rural para perdas climáticas",
+      "link": "https://www.camara.leg.br/noticias/1313876-projeto-autoriza-cobertura-integral-de-seguro-rural-para-perdas-climaticas",
+      "date": "2026-11-10T20:17:00.000Z",
+      "summary": "Medida beneficia agricultura familiar; proposta está em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "A batalha do novo Parlamento de Israel que pode decidir o futuro político de Netanyahu",
+      "link": "https://www.bbc.com/portuguese/articles/cqzrdrzk0546o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-10T20:16:28.000Z",
+      "summary": "O principal rival político de Benjamin Netanyahu, Gadi Eisenkot, tem a primeira oportunidade de formar um novo governo e tirar o premiê do poder.",
+      "source": "BBC News Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "A Ucrânia está apoiando rebeldes na África para enfraquecer a Rússia?",
+      "link": "https://www.dw.com/pt-br/a-ucrânia-está-apoiando-rebeldes-na-áfrica-para-enfraquecer-a-rússia/a-79910215?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-10T19:49:00.000Z",
+      "summary": "Especialistas ucranianos em drones estariam auxiliando rebeldes tuaregues no Mali que lutam, ao lado de jihadistas, contra o governo militar do país africano, apoiado por forças russas.",
+      "source": "DW Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "Projeto proíbe ciclista de passar de 25 km/h em ciclovias",
+      "link": "https://www.camara.leg.br/noticias/1313146-projeto-proibe-ciclista-de-passar-de-25-km-h-em-ciclovias",
+      "date": "2026-11-10T19:39:00.000Z",
+      "summary": "Acima dessa velocidade, os atletas deverão usar as pistas de rolamento para treinar; a Câmara dos Deputados discute o assunto",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Sargento Reginauro cobra ações efetivas contra o crime organizado",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/10/sargento-reginauro-cobra-acoes-efetivas-contra-o-crime-organizado",
+      "date": "2026-11-10T19:28:14.000Z",
+      "summary": "O senador Sargento Reginauro (PSDB-CE) disse nesta terça-feira (10) que o combate ao crime organizado exige ações efetivas dos governos estaduais e federal, além da simples aprovação de leis. Em pronunciamento no Plenário, ele afirmou que a PEC da Segurança Pú",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Infrações no inquérito das fake news não podem cair no esquecimento, diz Amin",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/10/infracoes-no-inquerito-das-fake-news-nao-podem-cair-no-esquecimento-diz-amin",
+      "date": "2026-11-10T19:24:41.000Z",
+      "summary": "Em pronunciamento no Plenário nesta terça-feira (10), o senador Esperidião Amin (PP-SC) comentou o encerramento do Inquérito 4.781 do Supremo Tribunal Federal (STF), conhecido como Inquérito das Fake News. A decisão foi anunciada pelo presidente do STF, minist",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Ucrânia e Rússia retomam negociações de paz mediadas pelos EUA",
+      "link": "https://www.dw.com/pt-br/ucrânia-e-rússia-retomam-negociações-de-paz-mediadas-pelos-eua/a-79912858?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-10T19:18:00.000Z",
+      "summary": "Os dois lados no conflito descrevem como produtivas as conversas, em meio à desconfiança de ucranianos e europeus quanto às reais intenções de Washington e seu \"arcabouço de segurança\" para a região.",
+      "source": "DW Brasil",
+      "cat": "internacional"
+    },
+    {
       "title": "Projeto isenta policiais e bombeiros militares do Imposto de Renda",
       "link": "https://www.camara.leg.br/noticias/1310863-projeto-isenta-policiais-e-bombeiros-militares-do-imposto-de-renda",
       "date": "2026-11-10T19:09:00.000Z",
@@ -181,36 +245,12 @@
       "cat": "politica"
     },
     {
-      "title": "Projeto acaba com o fator previdenciário no cálculo da aposentadoria",
-      "link": "https://www.camara.leg.br/noticias/1312036-projeto-acaba-com-o-fator-previdenciario-no-calculo-da-aposentadoria",
-      "date": "2026-11-10T17:17:00.000Z",
-      "summary": "A proposta está em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
       "title": "Brasil não deveria aumentar o salário mínimo, mas se livrar dele, diz o economista John Cochrane",
       "link": "https://www.bbc.com/portuguese/articles/c5pvgv1x940xo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-10T16:39:55.000Z",
       "summary": "Pesquisador de Universidade Stanford, nos EUA, citado por André Lara Resende em sua proposta sobre política fiscal, diz à BBC News Brasil que projeto dependeria de ajuste fiscal e mudanças em programas sociais.",
       "source": "BBC News Brasil",
       "cat": "internacional"
-    },
-    {
-      "title": "Comissão pode votar na próxima quarta parecer sobre mudanças no Código de Trânsito",
-      "link": "https://www.camara.leg.br/noticias/1317758-comissao-pode-votar-na-proxima-quarta-parecer-sobre-mudancas-no-codigo-de-transito",
-      "date": "2026-11-10T16:25:00.000Z",
-      "summary": "O relatório do deputado Aureo Ribeiro consolida 270 propostas de alteração na legislação de trânsito, incluindo a formação de condutores",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão aprova projeto que regulamenta atuação das Casas da Mulher Brasileira",
-      "link": "https://www.camara.leg.br/noticias/1317665-comissao-aprova-projeto-que-regulamenta-atuacao-das-casas-da-mulher-brasileira",
-      "date": "2026-11-10T15:03:00.000Z",
-      "summary": "A proposta segue em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica"
     },
     {
       "title": "Sobrevivente de Epstein diz que executivo que segue ativo em agência de modelos a enviou para casa do abusador",
@@ -285,35 +325,11 @@
       "cat": "economia"
     },
     {
-      "title": "Fux suspende processos contra proibição das bets no Brasil",
-      "link": "https://www.dw.com/pt-br/fux-suspende-processos-contra-proibição-das-bets-no-brasil/a-79903577?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-09T17:04:00.000Z",
-      "summary": "Ações em torno da constitucionalidade da medida adotada pelo governo Lula terão de aguardar a decisão final do STF sobre a questão. PGR alertou que decisões de outras instâncias poderiam gerar \"insegurança jurídica\".",
-      "source": "DW Brasil",
-      "cat": "internacional"
-    },
-    {
       "title": "Fux suspende processos sobre proibição de bets em todo país; o que acontece agora",
       "link": "https://www.bbc.com/portuguese/articles/c6n8d8x9ee17o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-09T12:27:15.000Z",
       "summary": "Os processos das bets contra a medida do governo estão suspensos até o julgamento em definitivo da matéria pelo STF.",
       "source": "BBC News Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "Da violência ao clima extremo: O pedido urgente para Moçambique na COP31",
-      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854871",
-      "date": "2026-11-09T12:00:00.000Z",
-      "summary": "OIM afirma que convergência entre conflito e crise climática na província de Cabo Delgado, no extremo norte, exige ação dos líderes mundiais; agência alerta que, sem resposta humanitária e financiamento climático, mais vidas serão perdidas.",
-      "source": "ONU News",
-      "cat": "internacional"
-    },
-    {
-      "title": "ONU: Conferência sobre Mudança Climática, COP31, reacende esperança",
-      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854869",
-      "date": "2026-11-09T12:00:00.000Z",
-      "summary": "Secretário-executivo do Unfccc, Simon Stiell, diz que cada evento anual é sinal de progresso na luta pela ação climática; evento em Antália, na Turquia, ocorre deste 9 a 20 de novembro com entre Estados-partes, União Europeia, representantes do setor privado e",
-      "source": "ONU News",
       "cat": "internacional"
     },
     {
@@ -349,7 +365,5 @@
       "cat": "economia"
     }
   ],
-  "errors": [
-    "Selic (SGS 432): HTTP 304"
-  ]
+  "errors": []
 }
