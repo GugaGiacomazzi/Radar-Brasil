@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-10T21:22:15.372Z",
+  "updated": "2026-11-10T22:20:36.757Z",
   "market": {
     "ibov": {
-      "price": 171454.42,
-      "pct": -0.45,
-      "time": "2026-11-10T21:22:10.919Z",
+      "price": 171336.98,
+      "pct": -0.52,
+      "time": "2026-11-10T22:20:31.429Z",
       "history": [
         {
           "d": "2026-10-13",
@@ -84,7 +84,7 @@
         },
         {
           "d": "2026-11-10",
-          "c": 171454.4219
+          "c": 171336.9844
         }
       ]
     },
@@ -141,6 +141,70 @@
   },
   "news": [
     {
+      "title": "Câmara aprova urgência para propostas sobre educação integral e escolinhas de futebol feminino; acompanhe",
+      "link": "https://www.camara.leg.br/noticias/1318059-camara-aprova-urgencia-para-propostas-sobre-educacao-integral-e-escolinhas-de-futebol-feminino-acompanhe",
+      "date": "2026-11-10T22:14:00.000Z",
+      "summary": "",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Câmara aprova nome de \"Severo Eulálio Filho\" a viaduto localizado na Rodovia BR-343 (PI); acompanhe",
+      "link": "https://www.camara.leg.br/noticias/1318058-camara-aprova-nome-de-severo-eulalio-filho-a-viaduto-localizado-na-rodovia-br-343-pi-acompanhe",
+      "date": "2026-11-10T22:04:00.000Z",
+      "summary": "A matéria será enviada à sanção presidencial",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Senado aprova sessão especial em homenagem ao navegador Amyr Klink",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/10/senado-aprova-sessao-especial-em-homenagem-ao-navegador-amyr-klink",
+      "date": "2026-11-10T22:01:37.000Z",
+      "summary": "O Senado vai promover uma sessão especial para homenagear o navegador e escritor brasileiro Amyr Klink. O requerimento para a homenagem (REQ 749/2026) foi aprovado pelo Plenário da Casa nesta terça-feira (10). O autor da solicitação foi o senador Sargento Regi",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Câmara aprova inclusão de Padre Inácio de Sousa Rolim no livro de heróis e heroinas da pátria ; acompanhe",
+      "link": "https://www.camara.leg.br/noticias/1318043-camara-aprova-inclusao-de-padre-inacio-de-sousa-rolim-no-livro-de-herois-e-heroinas-da-patria-acompanhe",
+      "date": "2026-11-10T22:01:00.000Z",
+      "summary": "A matéria será enviada ao Senado",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Aprovado projeto que aumenta poder da ANP para combater crimes com combustíveis",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/10/aprovado-projeto-que-aumenta-poder-da-anp-para-combater-crimes-com-combustiveis",
+      "date": "2026-11-10T21:55:21.000Z",
+      "summary": "O Plenário do Senado aprovou nesta terça-feira (10) um projeto de lei que fortalece o combate a crimes no setor de combustíveis. O projeto (PLP 109/2025) autoriza a Agência Nacional do Petróleo (ANP) a ter acesso às notas fiscais eletrônicas de distribuidores ",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Câmara rejeita recurso e projeto que flexibiliza Código Florestal vai ao Senado; acompanhe",
+      "link": "https://www.camara.leg.br/noticias/1318042-camara-rejeita-recurso-e-projeto-que-flexibiliza-codigo-florestal-vai-ao-senado-acompanhe",
+      "date": "2026-11-10T21:53:00.000Z",
+      "summary": "",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Câmara aprova terceira edição de plano de socorro a exportadores atingidos pelo tarifaço norte-americano; acompanhe",
+      "link": "https://www.camara.leg.br/noticias/1317853-camara-aprova-terceira-edicao-de-plano-de-socorro-a-exportadores-atingidos-pelo-tarifaco-norte-americano-acompanhe",
+      "date": "2026-11-10T21:39:00.000Z",
+      "summary": "",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Governo defende redução da maioridade penal apenas para crimes hediondos",
+      "link": "https://www.camara.leg.br/noticias/1317996-governo-defende-reducao-da-maioridade-penal-apenas-para-crimes-hediondos",
+      "date": "2026-11-10T21:34:00.000Z",
+      "summary": "Magistrados apontam eficácia do sistema socioeducativo, e relator projeta votação até dezembro",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
       "title": "Partidos de Esquerda se unem para barrar ultradireita em estado alemão",
       "link": "https://www.dw.com/pt-br/partidos-de-esquerda-se-unem-para-barrar-ultradireita-em-estado-alemão/a-79913451?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-10T21:13:00.000Z",
@@ -157,67 +221,11 @@
       "cat": "politica"
     },
     {
-      "title": "Comissão aprova aumento de penas para crimes contra profissionais de saúde",
-      "link": "https://www.camara.leg.br/noticias/1317915-comissao-aprova-aumento-de-penas-para-crimes-contra-profissionais-de-saude",
-      "date": "2026-11-10T21:11:00.000Z",
-      "summary": "Projeto de lei precisa ser analisado pelo Senado para virar lei",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
       "title": "Senado aprova incentivo à contratação de mulheres com câncer de mama",
       "link": "https://www12.senado.leg.br/noticias/materias/2026/11/10/senado-aprova-incentivo-a-contratacao-de-mulheres-com-cancer-de-mama",
       "date": "2026-11-10T20:54:33.000Z",
       "summary": "O Plenário do Senado aprovou nesta terça-feira (10) o projeto de lei que incentiva a contratação de mulheres com diagnóstico, em tratamento ou em remissão de câncer de mama. O projeto (PL 5.608/2023) segue para a sanção da Presidência da República. Para estimu",
       "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
-      "title": "Confúcio homenageia servidores pelos 80 anos da Secretaria-Geral da Mesa",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/10/confucio-homenageia-servidores-pelos-80-anos-da-secretaria-geral-da-mesa",
-      "date": "2026-11-10T20:51:12.000Z",
-      "summary": "O senador Confúcio Moura (MDB-RO), em pronunciamento no Plenário, homenageou os servidores da Secretaria-Geral da Mesa (SGM) pelos 80 anos de criação do setor, tema de sessão especial no Senado nesta terça-feira (10). O parlamentar ressaltou que o trabalho téc",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
-      "title": "Adesão do Brasil a acordo contra crimes ambientais será analisada pela CRE",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/10/adesao-do-brasil-a-acordo-contra-crimes-ambientais-sera-analisada-pela-cre",
-      "date": "2026-11-10T20:47:29.000Z",
-      "summary": "O projeto de adesão do Brasil ao Acordo de Escazú, que reforça o intercâmbio entre países da América Latina e do Caribe no combate a crimes ambientais, deve ser analisado pela Comissão de Relações Exteriores (CRE). O PDL 934/2025 chegou a ser incluído na pauta",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão debate propostas orçamentárias para 2027 nesta quarta-feira",
-      "link": "https://www.camara.leg.br/noticias/1317917-comissao-debate-propostas-orcamentarias-para-2027-nesta-quarta-feira",
-      "date": "2026-11-10T20:29:00.000Z",
-      "summary": "O relatório final da LDO deve ser votado na Comissão de Orçamento até 9 de dezembro, e o Orçamento Anual, em 16 de dezembro",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão aprova punição para instituições que descumprirem deveres com idosos",
-      "link": "https://www.camara.leg.br/noticias/1317909-comissao-aprova-punicao-para-instituicoes-que-descumprirem-deveres-com-idosos",
-      "date": "2026-11-10T20:28:00.000Z",
-      "summary": "Proposta ainda depende de análise pelo Plenário da Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão aprova créditos de R$ 164,5 bilhões para o Orçamento de 2026",
-      "link": "https://www.camara.leg.br/noticias/1317901-comissao-aprova-creditos-de-r-1645-bilhoes-para-o-orcamento-de-2026",
-      "date": "2026-11-10T20:20:00.000Z",
-      "summary": "A maior parte será usada para pagar benefícios previdenciários e sociais",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Projeto autoriza cobertura integral de seguro rural para perdas climáticas",
-      "link": "https://www.camara.leg.br/noticias/1313876-projeto-autoriza-cobertura-integral-de-seguro-rural-para-perdas-climaticas",
-      "date": "2026-11-10T20:17:00.000Z",
-      "summary": "Medida beneficia agricultura familiar; proposta está em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
       "cat": "politica"
     },
     {
@@ -235,14 +243,6 @@
       "summary": "Especialistas ucranianos em drones estariam auxiliando rebeldes tuaregues no Mali que lutam, ao lado de jihadistas, contra o governo militar do país africano, apoiado por forças russas.",
       "source": "DW Brasil",
       "cat": "internacional"
-    },
-    {
-      "title": "Projeto proíbe ciclista de passar de 25 km/h em ciclovias",
-      "link": "https://www.camara.leg.br/noticias/1313146-projeto-proibe-ciclista-de-passar-de-25-km-h-em-ciclovias",
-      "date": "2026-11-10T19:39:00.000Z",
-      "summary": "Acima dessa velocidade, os atletas deverão usar as pistas de rolamento para treinar; a Câmara dos Deputados discute o assunto",
-      "source": "Agência Câmara",
-      "cat": "politica"
     },
     {
       "title": "Ucrânia e Rússia retomam negociações de paz mediadas pelos EUA",
@@ -301,6 +301,22 @@
       "cat": "internacional"
     },
     {
+      "title": "BC divulga Ata da 282ª reunião do Copom",
+      "link": "https://www.bcb.gov.br/detalhenoticia/21312/nota",
+      "date": "2026-11-10T11:01:06.000Z",
+      "summary": "",
+      "source": "Banco Central",
+      "cat": "economia"
+    },
+    {
+      "title": "BC passa a divulgar a lista de instituições que podem atuar com ativos virtuais",
+      "link": "https://www.bcb.gov.br/detalhenoticia/21311/nota",
+      "date": "2026-11-09T18:00:10.000Z",
+      "summary": "",
+      "source": "Banco Central",
+      "cat": "economia"
+    },
+    {
       "title": "Fux suspende processos sobre proibição de bets em todo país; o que acontece agora",
       "link": "https://www.bbc.com/portuguese/articles/c6n8d8x9ee17o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-09T12:27:15.000Z",
@@ -315,9 +331,39 @@
       "summary": "OIM afirma que convergência entre conflito e crise climática na província de Cabo Delgado, no extremo norte, exige ação dos líderes mundiais; agência alerta que, sem resposta humanitária e financiamento climático, mais vidas serão perdidas.",
       "source": "ONU News",
       "cat": "internacional"
+    },
+    {
+      "title": "Copom mantém a taxa Selic em 13,75% a.a.",
+      "link": "https://www.bcb.gov.br/detalhenoticia/21309/nota",
+      "date": "2026-11-04T21:31:35.000Z",
+      "summary": "",
+      "source": "Banco Central",
+      "cat": "economia"
+    },
+    {
+      "title": "BC divulga Estatísticas Fiscais à imprensa",
+      "link": "https://www.bcb.gov.br/detalhenoticia/21306/nota",
+      "date": "2026-10-29T17:03:09.000Z",
+      "summary": "",
+      "source": "Banco Central",
+      "cat": "economia"
+    },
+    {
+      "title": "BC divulga Estatísticas Monetárias e de Crédito à imprensa",
+      "link": "https://www.bcb.gov.br/detalhenoticia/21304/nota",
+      "date": "2026-10-29T11:32:01.000Z",
+      "summary": "",
+      "source": "Banco Central",
+      "cat": "economia"
+    },
+    {
+      "title": "Banco Central decreta Liquidação Extrajudicial da MW Instituição de Pagamento Ltda.",
+      "link": "https://www.bcb.gov.br/detalhenoticia/21305/nota",
+      "date": "2026-10-29T10:39:39.000Z",
+      "summary": "",
+      "source": "Banco Central",
+      "cat": "economia"
     }
   ],
-  "errors": [
-    "feed Banco Central: HTTP 400"
-  ]
+  "errors": []
 }
