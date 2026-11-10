@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-10T14:06:21.321Z",
+  "updated": "2026-11-10T15:10:35.525Z",
   "market": {
     "ibov": {
-      "price": 172409.7,
-      "pct": 0.1,
-      "time": "2026-11-10T14:06:16.330Z",
+      "price": 171664.88,
+      "pct": -0.33,
+      "time": "2026-11-10T15:10:31.371Z",
       "history": [
         {
           "d": "2026-10-13",
@@ -84,7 +84,7 @@
         },
         {
           "d": "2026-11-10",
-          "c": 172641.7969
+          "c": 171531.4531
         }
       ]
     },
@@ -141,6 +141,70 @@
   },
   "news": [
     {
+      "title": "Política Nacional de Incentivo à Fabricação de Motores vai à Câmara",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/10/politica-nacional-de-incentivo-a-fabricacao-de-motores-vai-a-camara",
+      "date": "2026-11-10T15:06:21.000Z",
+      "summary": "A Comissão de Serviços de Infraestrutura (CI) aprovou nesta terça-feira (10) a Política Nacional de Incentivo à Fabricação de Motores (PNIFM). O objetivo é estimular a produção nacional de motores, fortalecer a cadeia produtiva e promover inovação tecnológica,",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Comissão aprova projeto que regulamenta atuação das Casas da Mulher Brasileira",
+      "link": "https://www.camara.leg.br/noticias/1317665-comissao-aprova-projeto-que-regulamenta-atuacao-das-casas-da-mulher-brasileira",
+      "date": "2026-11-10T15:03:00.000Z",
+      "summary": "A proposta segue em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Sobrevivente de Epstein diz que executivo que segue ativo em agência de modelos a enviou para casa do abusador",
+      "link": "https://www.bbc.com/portuguese/articles/ck87z72lje93o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-10T14:58:13.000Z",
+      "summary": "O presidente da agência MC2, Jeff Fuller, dirige atualmente outra agência de modelos americana, chamada The Source Models.",
+      "source": "BBC News Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "Medida provisória prorroga Auxílio Gás do Povo até 2031",
+      "link": "https://www.camara.leg.br/noticias/1317702-medida-provisoria-prorroga-auxilio-gas-do-povo-ate-2031",
+      "date": "2026-11-10T14:57:00.000Z",
+      "summary": "O texto não amplia o público beneficiário do programa, não altera os valores nem modifica as formas de execução",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Estreito de Ormuz segue como moeda de troca do Irã em negociações com os EUA",
+      "link": "https://www.dw.com/pt-br/estreito-de-ormuz-segue-como-moeda-de-troca-do-irã-em-negociações-com-os-eua/a-79905742?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-10T14:55:00.000Z",
+      "summary": "Limites da proteção dos EUA e capacidade do Irã de controlar a via dificultam retorno do fluxo registrado antes da guerra. Embarcações ainda são alvos de ataques na região, elevando os custos do transporte marítimo.",
+      "source": "DW Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "Deputada defende proteção para mulheres que atuem em posição de liderança; assista",
+      "link": "https://www.camara.leg.br/noticias/1317695-deputada-defende-protecao-para-mulheres-que-atuem-em-posicao-de-lideranca-assista",
+      "date": "2026-11-10T14:42:00.000Z",
+      "summary": "Natália Bonavides avalia que a violência política afasta jovens e lideranças da vida pública",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Projeto cria cadastro nacional para bicicletas elétricas",
+      "link": "https://www.camara.leg.br/noticias/1313135-projeto-cria-cadastro-nacional-para-bicicletas-eletricas",
+      "date": "2026-11-10T14:34:00.000Z",
+      "summary": "Cadastro busca facilitar a identificação dos donos e a responsabilização por acidentes; a Câmara dos Deputados discute o assunto",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Projeto institui política de proteção dos trabalhadores conhecidos como chapas",
+      "link": "https://www.camara.leg.br/noticias/1311952-projeto-institui-politica-de-protecao-dos-trabalhadores-conhecidos-como-chapas",
+      "date": "2026-11-10T14:02:00.000Z",
+      "summary": "Texto em análise na Câmara prevê cadastro voluntário, cursos de qualificação e regras mínimas de higiene e segurança para autônomos que atuam na movimentação de cargas",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
       "title": "Comissão aprova reforço à atuação de agentes de saúde em áreas de difícil acesso",
       "link": "https://www.camara.leg.br/noticias/1317594-comissao-aprova-reforco-a-atuacao-de-agentes-de-saude-em-areas-de-dificil-acesso",
       "date": "2026-11-10T12:44:00.000Z",
@@ -163,46 +227,6 @@
       "summary": "Documentos citariam três ministros. Delegados responsáveis foram afastados, e relatórios deverão ser refeitos por supostamente extrapolarem caráter descritivo determinado por Fachin.",
       "source": "DW Brasil",
       "cat": "internacional"
-    },
-    {
-      "title": "Projeto cria credencial digital no gov.br para comprovar maioridade em sites adultos",
-      "link": "https://www.camara.leg.br/noticias/1305070-projeto-cria-credencial-digital-no-gov-br-para-comprovar-maioridade-em-sites-adultos",
-      "date": "2026-11-10T12:09:00.000Z",
-      "summary": "A Câmara dos Deputados discute o assunto",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão aprova projeto de incentivo à equidade racial e de gênero no SUS",
-      "link": "https://www.camara.leg.br/noticias/1317225-comissao-aprova-projeto-de-incentivo-a-equidade-racial-e-de-genero-no-sus",
-      "date": "2026-11-10T11:38:00.000Z",
-      "summary": "A proposta segue em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão especial debate redução da maioridade penal nesta terça-feira",
-      "link": "https://www.camara.leg.br/noticias/1316864-comissao-especial-debate-reducao-da-maioridade-penal-nesta-terca-feira",
-      "date": "2026-11-10T11:30:00.000Z",
-      "summary": "Comissão criada para analisar a PEC 32/15 tem audiências públicas marcadas para hoje e para amanhã",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão analisa relatório sobre renegociação de dívidas de produtores rurais nesta terça-feira",
-      "link": "https://www.camara.leg.br/noticias/1317452-comissao-analisa-relatorio-sobre-renegociacao-de-dividas-de-produtores-rurais-nesta-terca-feira",
-      "date": "2026-11-10T11:19:00.000Z",
-      "summary": "",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão debate exploração sexual de crianças e adolescentes em rodovias e no turismo",
-      "link": "https://www.camara.leg.br/noticias/1317272-comissao-debate-exploracao-sexual-de-criancas-e-adolescentes-em-rodovias-e-no-turismo",
-      "date": "2026-11-10T11:17:00.000Z",
-      "summary": "",
-      "source": "Agência Câmara",
-      "cat": "politica"
     },
     {
       "title": "BC divulga Ata da 282ª reunião do Copom",
@@ -277,27 +301,11 @@
       "cat": "internacional"
     },
     {
-      "title": "Vitória de Lula no Brasil inspira esquerda pelo mundo",
-      "link": "https://www.dw.com/pt-br/vitória-de-lula-no-brasil-inspira-esquerda-pelo-mundo/a-79896869?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-09T09:46:00.000Z",
-      "summary": "Depois da mobilização digital e da vitória de Lula nas eleições, a esquerda de vários países passou a olhar para as estratégias brasileiras na campanha eleitoral.",
-      "source": "DW Brasil",
-      "cat": "internacional"
-    },
-    {
       "title": "Por que mulheres podem estar por trás da vitória de Lula nas eleições",
       "link": "https://www.bbc.com/portuguese/articles/c3pwg9x8r947o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-08T09:22:52.000Z",
       "summary": "O atual presidente conseguiu ampliar a vantagem que tinha sobre o eleitorado feminino em relação a 2022, especialmente entre as mulheres jovens, indica análise das urnas.",
       "source": "BBC News Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "COP31: O que está em jogo na cúpula do clima da ONU deste ano?",
-      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854856",
-      "date": "2026-11-06T12:00:00.000Z",
-      "summary": "A Conferência da ONU sobre Mudança Climática começa neste 9 de novembro, em Antália, na Turquia; países em desenvolvimento querem apoio para executar políticas de transição energética, mitigar efeitos de ação climática e responder a desastres naturais com drás",
-      "source": "ONU News",
       "cat": "internacional"
     },
     {
