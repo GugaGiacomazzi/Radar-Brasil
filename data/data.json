@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-10T18:02:24.771Z",
+  "updated": "2026-11-10T19:21:35.332Z",
   "market": {
     "ibov": {
-      "price": 171078.9,
-      "pct": -0.67,
-      "time": "2026-11-10T18:02:20.016Z",
+      "price": 170963.58,
+      "pct": -0.74,
+      "time": "2026-11-10T19:21:30.911Z",
       "history": [
         {
           "d": "2026-10-13",
@@ -84,7 +84,7 @@
         },
         {
           "d": "2026-11-10",
-          "c": 171078.9063
+          "c": 170963.5781
         }
       ]
     },
@@ -141,11 +141,51 @@
   },
   "news": [
     {
-      "title": "CI: projeto protege aeroclubes de remoção sem necessidade comprovada",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/10/ci-projeto-protege-aeroclubes-de-remocao-sem-necessidade-comprovada",
-      "date": "2026-11-10T17:08:05.000Z",
-      "summary": "Permitir que os aeroclubes instalados há mais de dez anos em aeroportos públicos usem gratuitamente as áreas essenciais às suas atividades, além de protegê-los contra remoções sem necessidade comprovada. As medidas estão previstas no PL 6.144/2025, projeto de ",
+      "title": "Projeto isenta policiais e bombeiros militares do Imposto de Renda",
+      "link": "https://www.camara.leg.br/noticias/1310863-projeto-isenta-policiais-e-bombeiros-militares-do-imposto-de-renda",
+      "date": "2026-11-10T19:09:00.000Z",
+      "summary": "A Câmara dos Deputados está discutindo o assunto",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Para Paulo Paim, cotas ajudam a corrigir desigualdades históricas",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/10/para-paulo-paim-cotas-ajudam-a-corrigir-desigualdades-historicas",
+      "date": "2026-11-10T18:57:31.000Z",
+      "summary": "O senador Paulo Paim (PT-RS) destacou, em pronunciamento no Plenário nesta terça-feira (10), a importância das políticas de ação afirmativa para ampliar o acesso à educação e ao serviço público. O parlamentar relatou encontro com integrantes da primeira turma ",
       "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "É falso que Senado esteja votando às pressas a reforma do Código Civil",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/10/e-falso-que-senado-esteja-votando-as-pressas-a-reforma-do-codigo-civil",
+      "date": "2026-11-10T18:39:51.000Z",
+      "summary": "Uma mensagem compartilhada por meio de aplicativos de mensagem afirma que o Senado pode votar um novo Código Civil às pressas “sem que ninguém tenha lido o texto final”. Isso é falso. O Senado não está votando às pressas a reforma do Código Civil e o texto da ",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Deputados assinam pacto legislativo contra apostas virtuais",
+      "link": "https://www.camara.leg.br/noticias/1317843-deputados-assinam-pacto-legislativo-contra-apostas-virtuais",
+      "date": "2026-11-10T18:27:00.000Z",
+      "summary": "Medida provisória que proibiu as bets foi editada em 25 de setembro e ainda não foi votada pelos parlamentares",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Especialistas defendem na Câmara rastreamento contínuo de câncer pelo SUS",
+      "link": "https://www.camara.leg.br/noticias/1317817-especialistas-defendem-na-camara-rastreamento-continuo-de-cancer-pelo-sus",
+      "date": "2026-11-10T18:11:00.000Z",
+      "summary": "Em audiência pública, debatedores pediram que sistema de saúde convoque pacientes para exames no tempo certo",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Projeto acaba com o fator previdenciário no cálculo da aposentadoria",
+      "link": "https://www.camara.leg.br/noticias/1312036-projeto-acaba-com-o-fator-previdenciario-no-calculo-da-aposentadoria",
+      "date": "2026-11-10T17:17:00.000Z",
+      "summary": "A proposta está em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
       "cat": "politica"
     },
     {
@@ -155,14 +195,6 @@
       "summary": "Pesquisador de Universidade Stanford, nos EUA, citado por André Lara Resende em sua proposta sobre política fiscal, diz à BBC News Brasil que projeto dependeria de ajuste fiscal e mudanças em programas sociais.",
       "source": "BBC News Brasil",
       "cat": "internacional"
-    },
-    {
-      "title": "CI pede auditoria em concessão rodoviária entre RO e MT",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/10/ci-pede-auditoria-em-concessao-rodoviaria-entre-ro-e-mt",
-      "date": "2026-11-10T16:29:02.000Z",
-      "summary": "A Comissão de Infraestrutura (CI) aprovou nesta terça-feira (10) dois requerimentos relacionados ao processo de concessão da Rota Agro Central, trecho rodoviário entre Vilhena (RO) e Cuiabá (MT). Um deles prevê a promoção de audiência pública para debater a co",
-      "source": "Agência Senado",
-      "cat": "politica"
     },
     {
       "title": "Comissão pode votar na próxima quarta parecer sobre mudanças no Código de Trânsito",
@@ -189,44 +221,12 @@
       "cat": "internacional"
     },
     {
-      "title": "Medida provisória prorroga Auxílio Gás do Povo até 2031",
-      "link": "https://www.camara.leg.br/noticias/1317702-medida-provisoria-prorroga-auxilio-gas-do-povo-ate-2031",
-      "date": "2026-11-10T14:57:00.000Z",
-      "summary": "O texto não amplia o público beneficiário do programa, não altera os valores nem modifica as formas de execução",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
       "title": "Estreito de Ormuz segue como moeda de troca do Irã em negociações com os EUA",
       "link": "https://www.dw.com/pt-br/estreito-de-ormuz-segue-como-moeda-de-troca-do-irã-em-negociações-com-os-eua/a-79905742?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-10T14:55:00.000Z",
       "summary": "Limites da proteção dos EUA e capacidade do Irã de controlar a via dificultam retorno do fluxo registrado antes da guerra. Embarcações ainda são alvos de ataques na região, elevando os custos do transporte marítimo.",
       "source": "DW Brasil",
       "cat": "internacional"
-    },
-    {
-      "title": "Deputada defende proteção para mulheres que atuem em posição de liderança; assista",
-      "link": "https://www.camara.leg.br/noticias/1317695-deputada-defende-protecao-para-mulheres-que-atuem-em-posicao-de-lideranca-assista",
-      "date": "2026-11-10T14:42:00.000Z",
-      "summary": "Natália Bonavides avalia que a violência política afasta jovens e lideranças da vida pública",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Projeto cria cadastro nacional para bicicletas elétricas",
-      "link": "https://www.camara.leg.br/noticias/1313135-projeto-cria-cadastro-nacional-para-bicicletas-eletricas",
-      "date": "2026-11-10T14:34:00.000Z",
-      "summary": "Cadastro busca facilitar a identificação dos donos e a responsabilização por acidentes; a Câmara dos Deputados discute o assunto",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Projeto institui política de proteção dos trabalhadores conhecidos como chapas",
-      "link": "https://www.camara.leg.br/noticias/1311952-projeto-institui-politica-de-protecao-dos-trabalhadores-conhecidos-como-chapas",
-      "date": "2026-11-10T14:02:00.000Z",
-      "summary": "Texto em análise na Câmara prevê cadastro voluntário, cursos de qualificação e regras mínimas de higiene e segurança para autônomos que atuam na movimentação de cargas",
-      "source": "Agência Câmara",
-      "cat": "politica"
     },
     {
       "title": "Relação próxima de Trump com CEO da Nvidia levanta suspeitas",
@@ -349,5 +349,7 @@
       "cat": "economia"
     }
   ],
-  "errors": []
+  "errors": [
+    "Selic (SGS 432): HTTP 304"
+  ]
 }
