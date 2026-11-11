@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-11T15:11:56.920Z",
+  "updated": "2026-11-11T16:13:38.512Z",
   "market": {
     "ibov": {
-      "price": 172589.88,
-      "pct": 0.73,
-      "time": "2026-11-11T15:11:52.853Z",
+      "price": 172682.77,
+      "pct": 0.79,
+      "time": "2026-11-11T16:13:33.471Z",
       "history": [
         {
           "d": "2026-10-13",
@@ -88,7 +88,7 @@
         },
         {
           "d": "2026-11-11",
-          "c": 172589.875
+          "c": 172466.4375
         }
       ]
     },
@@ -145,44 +145,68 @@
   },
   "news": [
     {
+      "title": "Inclusão de vacina contra herpes-zóster no SUS vai à Câmara",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/inclusao-de-vacina-contra-herpes-zoster-no-sus-vai-a-camara",
+      "date": "2026-11-11T16:01:37.000Z",
+      "summary": "A Comissão de Assuntos Sociais (CAS) do Senado confirmou nesta quarta-feira (11) a adoção, em caráter definitivo, do substitutivo ao projeto que inclui a vacina contra herpes-zóster no calendário nacional de imunização do Sistema Único de Saúde (SUS). Como a c",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "CCJ aprova política nacional para gestão de risco de desastres",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/ccj-aprova-politica-nacional-para-gestao-de-risco-de-desastres",
+      "date": "2026-11-11T15:56:27.000Z",
+      "summary": "A Comissão de Constituição e Justiça (CCJ) aprovou, nesta quarta-feira (11), projeto que cria a Política Nacional de Gestão Integral de Risco de Desastres. A proposta prevê planos de prevenção e monitoramento, sistemas de alerta e ações coordenadas entre União",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "CDH aprova cotas em instituições federais de ensino para jovens de abrigos",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/cdh-aprova-cotas-em-instituicoes-federais-de-ensino-para-jovens-de-abrigos",
+      "date": "2026-11-11T15:45:58.000Z",
+      "summary": "Jovens que completam 18 anos em serviços de acolhimento institucional sem terem sido adotados poderão ter vagas reservadas em universidades federais e instituições federais de ensino técnico de nível médio. A medida está prevista no PL 618/2021, aprovado nesta",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Atendimento prioritário a mulheres que perderam bebês avança",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/atendimento-prioritario-a-mulheres-que-perderam-bebes-avanca",
+      "date": "2026-11-11T15:41:23.000Z",
+      "summary": "A Comissão de Direitos Humanos (CDH) aprovou nesta quarta-feira (11) projeto que garante prioridade no atendimento psicológico e social a mulheres que passaram por perda gestacional, óbito fetal ou morte do bebê após o nascimento. O texto segue agora para a Co",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "CSP aprova convites a ministro da Justiça e diretor da PF sobre Banco Master",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/csp-aprova-convites-a-ministro-da-justica-e-diretor-da-pf-sobre-banco-master",
+      "date": "2026-11-11T15:34:18.000Z",
+      "summary": "A Comissão de Segurança Pública (CSP) aprovou, nesta quarta-feira (11), três requerimentos para ouvir autoridades e delegados sobre a investigação do Banco Master. Os convites ao ministro da Justiça e Segurança Pública, Wellington César Lima e Silva, e ao dire",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "As críticas à troca de delegados da PF no caso Master: 'Levanta graves suspeitas'",
+      "link": "https://www.bbc.com/portuguese/articles/c6wy47lmwz1no?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-11T15:30:42.000Z",
+      "summary": "Segundo fontes ouvidas pela BBC News Brasil, mudança representa um episódio preocupante de tentativa de interferência no andamento de investigações envolvendo ministros do STF.",
+      "source": "BBC News Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "CCJ aprova determinação para escolas seguirem normas técnicas de segurança",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/ccj-aprova-determinacao-para-escolas-seguirem-normas-tecnicas-de-seguranca",
+      "date": "2026-11-11T15:25:18.000Z",
+      "summary": "A Comissão de Constituição e Justiça (CCJ) aprovou nesta quarta-feira (11) proposta que obriga escolas, clubes, parques e espaços de recreação infantojuvenil a seguirem normas técnicas de segurança na compra, uso e manutenção de mobiliário, brinquedos e infrae",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
       "title": "Projeto fixa prazo para proibir produtos de limpeza e cosméticos com fosfatos",
       "link": "https://www.camara.leg.br/noticias/1312629-projeto-fixa-prazo-para-proibir-produtos-de-limpeza-e-cosmeticos-com-fosfatos",
       "date": "2026-11-11T15:03:00.000Z",
       "summary": "Quando o fosfato atinge rios e mares, prejudica a biodiversidade e a qualidade da água; a Câmara dos Deputados discute a proibição",
       "source": "Agência Câmara",
       "cat": "politica"
-    },
-    {
-      "title": "Estabilidade para gestante em emprego temporário vai à Câmara",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/estabilidade-para-gestante-em-emprego-temporario-vai-a-camara",
-      "date": "2026-11-11T14:54:21.000Z",
-      "summary": "A Comissão de Assuntos Sociais (CAS) aprovou, nesta quarta-feira (11), em turno suplementar, substitutivo a projeto que amplia a garantia de estabilidade provisória para trabalhadoras gestantes contratadas por prazo determinado, temporariamente ou em regime in",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
-      "title": "CCT aprova atendimento presencial em serviços essenciais e proteção a idosos",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/cct-aprova-atendimento-presencial-em-servicos-essenciais-e-protecao-a-idosos",
-      "date": "2026-11-11T14:47:36.000Z",
-      "summary": "Consumidores e usuários de serviços essenciais, especialmente pessoas idosas, poderão solicitar atendimento presencial e auxílio humano em serviços essenciais, mesmo quando as instituições oferecerem canais digitais ou automatizados. A medida está prevista em ",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
-      "title": "Proposta que prioriza gestantes na proteção contra epidemias avança",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/proposta-que-prioriza-gestantes-na-protecao-contra-epidemias-avanca",
-      "date": "2026-11-11T14:39:30.000Z",
-      "summary": "A Comissão de Direitos Humanos (CDH) aprovou nesta quarta-feira (11) projeto que dá prioridade a gestantes e mulheres que amamentam no recebimento de insumos de proteção contra epidemias e situações incomuns de risco à saúde. O texto segue para a Comissão de A",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
-      "title": "O 'teste de motorista' que fez empresa desistir de contratar um executivo — e qual é o peso da gentileza no mercado de trabalho",
-      "link": "https://www.bbc.com/portuguese/articles/c23x8zn0vzro?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-11T14:34:59.000Z",
-      "summary": "Diretor da Duolingo revelou pagar motoristas para avaliar candidatos a cargos de liderança. Especialistas em recrutamento avaliam o que esse tipo de sinal informal realmente diz — e o que não diz — sobre caráter no trabalho",
-      "source": "BBC News Brasil",
-      "cat": "internacional"
     },
     {
       "title": "Projeto permite que pacientes com câncer usem lenço ou turbante em foto de documento",
@@ -201,35 +225,11 @@
       "cat": "internacional"
     },
     {
-      "title": "CAS garante créditos de tributos sobre consumo para entidades filantrópicas",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/cas-garante-creditos-de-tributos-sobre-consumo-para-entidades-filantropicas",
-      "date": "2026-11-11T14:04:58.000Z",
-      "summary": "A Comissão de Assuntos Sociais (CAS) do Senado aprovou nesta quarta-feira (11) projeto que permite a entidades filantrópicas de educação, saúde e assistência social manterem os créditos dos tributos pagos na compra de bens e serviços após a reforma tributária.",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
-      "title": "CCJ aprova tipificação de crime de tráfico de animais silvestres",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/ccj-aprova-tipificacao-de-crime-de-trafico-de-animais-silvestres",
-      "date": "2026-11-11T14:00:09.000Z",
-      "summary": "A Comissão de Constituição e Justiça (CCJ) aprovou nesta quarta-feira (11) o parecer favorável ao projeto que tipifica o crime de tráfico de animais silvestres e aumenta penas para condutas como a comercialização dessas espécies. O PL 5.809/2025 acrescenta à L",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
       "title": "Relatório preliminar da LDO de 2027 fixa regras para o Anexo de Metas e Prioridades",
       "link": "https://www.camara.leg.br/noticias/1318295-relatorio-preliminar-da-ldo-de-2027-fixa-regras-para-o-anexo-de-metas-e-prioridades",
       "date": "2026-11-11T13:45:00.000Z",
       "summary": "O texto fixa critérios de procedimentos sobre a apresentação de emendas ao projeto da LDO",
       "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Magno Malta critica questão do Enem sobre misoginia em sermões medievais",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/magno-malta-critica-questao-do-enem-sobre-misoginia-em-sermoes-medievais",
-      "date": "2026-11-11T13:29:12.000Z",
-      "summary": "O senador Magno Malta (PL-ES), em pronunciamento no Plenário nesta terça-feira (10), criticou uma questão do último Exame Nacional do Ensino Médio (Enem) relacionando discursos religiosos medievais à misoginia. O parlamentar afirmou ter apresentado um voto de ",
-      "source": "Agência Senado",
       "cat": "politica"
     },
     {
@@ -273,7 +273,7 @@
       "cat": "internacional"
     },
     {
-      "title": "3 pontos para entender a primeira greve geral na Espanha em 14 anos, apoiada pelo governo e criticada pela oposição",
+      "title": "3 pontos para entender a primeira greve geral na Espanha em 14 anos",
       "link": "https://www.bbc.com/portuguese/articles/c58j4le1w32ro?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-11T10:49:58.000Z",
       "summary": "A menos de 20 dias das eleições gerais, os espanhóis foram convocados para uma greve nesta quarta-feira (11/11) em protesto contra a crise da moradia e o alto custo de vida",
@@ -313,14 +313,6 @@
       "cat": "internacional"
     },
     {
-      "title": "As críticas à troca de delegados da PF no caso Master: 'Levanta graves suspeitas'",
-      "link": "https://www.bbc.com/portuguese/articles/c6wy47lmwz1no?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-11T01:10:42.000Z",
-      "summary": "Segundo fontes ouvidas pela BBC News Brasil, mudança representa um episódio preocupante de tentativa de interferência no andamento de investigações envolvendo ministros do STF.",
-      "source": "BBC News Brasil",
-      "cat": "internacional"
-    },
-    {
       "title": "Partidos de Esquerda se unem para barrar ultradireita em estado alemão",
       "link": "https://www.dw.com/pt-br/partidos-de-esquerda-se-unem-para-barrar-ultradireita-em-estado-alemão/a-79913451?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-10T21:13:00.000Z",
@@ -342,6 +334,14 @@
       "date": "2026-11-10T16:39:55.000Z",
       "summary": "Pesquisador de Universidade Stanford, nos EUA, citado por André Lara Resende em sua proposta sobre política fiscal, diz à BBC News Brasil que projeto dependeria de ajuste fiscal e mudanças em programas sociais.",
       "source": "BBC News Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "Conferência do Clima discute caminhos para o fim dos combustíveis fósseis",
+      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854891",
+      "date": "2026-11-10T12:00:00.000Z",
+      "summary": "Brasil lançou mapa de rotas para a transição energética e Turquia propôs a meta de 35% de eletrificação até 2035; desafio atual é destravar 2,5 mil gigawatts de energia limpa parados por falta de infraestrutura e juros altos.",
+      "source": "ONU News",
       "cat": "internacional"
     },
     {
