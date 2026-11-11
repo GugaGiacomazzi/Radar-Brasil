@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-11T12:40:34.183Z",
+  "updated": "2026-11-11T14:11:37.439Z",
   "market": {
     "ibov": {
-      "price": 171336.98,
-      "pct": -0.52,
-      "time": "2026-11-11T12:40:29.606Z",
+      "price": 172670.94,
+      "pct": 0.78,
+      "time": "2026-11-11T14:11:31.181Z",
       "history": [
         {
           "d": "2026-10-13",
@@ -85,6 +85,10 @@
         {
           "d": "2026-11-10",
           "c": 171337
+        },
+        {
+          "d": "2026-11-11",
+          "c": 172670.9375
         }
       ]
     },
@@ -141,6 +145,46 @@
   },
   "news": [
     {
+      "title": "CCJ aprova tipificação de crime de tráfico de animais silvestres",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/ccj-aprova-tipificacao-de-crime-de-trafico-de-animais-silvestres",
+      "date": "2026-11-11T14:00:09.000Z",
+      "summary": "A Comissão de Constituição e Justiça (CCJ) aprovou nesta quarta-feira (11) o parecer favorável ao projeto que tipifica o crime de tráfico de animais silvestres e aumenta penas para condutas como a comercialização dessas espécies. O PL 5.809/2025 acrescenta à L",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Relatório preliminar da LDO de 2027 fixa regras para o Anexo de Metas e Prioridades",
+      "link": "https://www.camara.leg.br/noticias/1318295-relatorio-preliminar-da-ldo-de-2027-fixa-regras-para-o-anexo-de-metas-e-prioridades",
+      "date": "2026-11-11T13:45:00.000Z",
+      "summary": "O texto fixa critérios de procedimentos sobre a apresentação de emendas ao projeto da LDO",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "CCJ facilita dispensa de licitação para associações de pessoas com deficiência",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/ccj-facilita-dispensa-de-licitacao-para-associacoes-de-pessoas-com-deficiencia",
+      "date": "2026-11-11T13:44:01.000Z",
+      "summary": "A Comissão de Constituição e Justiça (CCJ) aprovou nesta quarta-feira (11) projeto de lei que permite a contratação direta, sem licitação, de associações sem fins lucrativos de pessoas com deficiência, mesmo quando os serviços forem prestados por pessoas sem d",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Magno Malta critica questão do Enem sobre misoginia em sermões medievais",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/magno-malta-critica-questao-do-enem-sobre-misoginia-em-sermoes-medievais",
+      "date": "2026-11-11T13:29:12.000Z",
+      "summary": "O senador Magno Malta (PL-ES), em pronunciamento no Plenário nesta terça-feira (10), criticou uma questão do último Exame Nacional do Ensino Médio (Enem) relacionando discursos religiosos medievais à misoginia. O parlamentar afirmou ter apresentado um voto de ",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Câmara pode votar regras mais rígidas para progressão de pena e punições por abusos contra idosos",
+      "link": "https://www.camara.leg.br/noticias/1318256-camara-pode-votar-regras-mais-rigidas-para-progressao-de-pena-e-punicoes-por-abusos-contra-idosos",
+      "date": "2026-11-11T13:29:00.000Z",
+      "summary": "Pauta também inclui propostas sobre estupro de vulnerável, maus-tratos a animais e crimes contra a honra nas redes sociais",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
       "title": "BC divulga Relatório de Poupança de outubro",
       "link": "https://www.bcb.gov.br/detalhenoticia/21315/nota",
       "date": "2026-11-11T12:00:19.000Z",
@@ -177,22 +221,6 @@
       "link": "https://www.camara.leg.br/noticias/1317278-comissao-discute-falta-de-auditores-fiscais-do-trabalho-nesta-quarta-feira-participe",
       "date": "2026-11-11T11:36:00.000Z",
       "summary": "",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão de Segurança debate redução da maioridade penal no Brasil",
-      "link": "https://www.camara.leg.br/noticias/1316252-comissao-de-seguranca-debate-reducao-da-maioridade-penal-no-brasil",
-      "date": "2026-11-11T11:30:00.000Z",
-      "summary": "",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão debate propostas orçamentárias para 2027 nesta quarta-feira",
-      "link": "https://www.camara.leg.br/noticias/1317917-comissao-debate-propostas-orcamentarias-para-2027-nesta-quarta-feira",
-      "date": "2026-11-11T11:29:00.000Z",
-      "summary": "O relatório final da LDO deve ser votado na Comissão de Orçamento até 9 de dezembro, e o Orçamento Anual, em 16 de dezembro",
       "source": "Agência Câmara",
       "cat": "politica"
     },
@@ -269,19 +297,19 @@
       "cat": "internacional"
     },
     {
-      "title": "Ucrânia e Rússia retomam negociações de paz mediadas pelos EUA",
-      "link": "https://www.dw.com/pt-br/ucrânia-e-rússia-retomam-negociações-de-paz-mediadas-pelos-eua/a-79912858?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-10T19:18:00.000Z",
-      "summary": "Os dois lados no conflito descrevem como produtivas as conversas, em meio à desconfiança de ucranianos e europeus quanto às reais intenções de Washington e seu \"arcabouço de segurança\" para a região.",
-      "source": "DW Brasil",
-      "cat": "internacional"
-    },
-    {
       "title": "Brasil não deveria aumentar o salário mínimo, mas se livrar dele, diz o economista John Cochrane",
       "link": "https://www.bbc.com/portuguese/articles/c5pvgv1x940xo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-10T16:39:55.000Z",
       "summary": "Pesquisador de Universidade Stanford, nos EUA, citado por André Lara Resende em sua proposta sobre política fiscal, diz à BBC News Brasil que projeto dependeria de ajuste fiscal e mudanças em programas sociais.",
       "source": "BBC News Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "Estreito de Ormuz segue como moeda de troca do Irã em negociações com os EUA",
+      "link": "https://www.dw.com/pt-br/estreito-de-ormuz-segue-como-moeda-de-troca-do-irã-em-negociações-com-os-eua/a-79905742?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-10T14:55:00.000Z",
+      "summary": "Limites da proteção dos EUA e capacidade do Irã de controlar a via dificultam retorno do fluxo registrado antes da guerra. Embarcações ainda são alvos de ataques na região, elevando os custos do transporte marítimo.",
+      "source": "DW Brasil",
       "cat": "internacional"
     },
     {
@@ -333,7 +361,5 @@
       "cat": "economia"
     }
   ],
-  "errors": [
-    "Selic (SGS 432): HTTP 304"
-  ]
+  "errors": []
 }
