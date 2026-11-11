@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-11T14:11:37.439Z",
+  "updated": "2026-11-11T15:11:56.920Z",
   "market": {
     "ibov": {
-      "price": 172670.94,
-      "pct": 0.78,
-      "time": "2026-11-11T14:11:31.181Z",
+      "price": 172589.88,
+      "pct": 0.73,
+      "time": "2026-11-11T15:11:52.853Z",
       "history": [
         {
           "d": "2026-10-13",
@@ -88,7 +88,7 @@
         },
         {
           "d": "2026-11-11",
-          "c": 172670.9375
+          "c": 172589.875
         }
       ]
     },
@@ -145,6 +145,70 @@
   },
   "news": [
     {
+      "title": "Projeto fixa prazo para proibir produtos de limpeza e cosméticos com fosfatos",
+      "link": "https://www.camara.leg.br/noticias/1312629-projeto-fixa-prazo-para-proibir-produtos-de-limpeza-e-cosmeticos-com-fosfatos",
+      "date": "2026-11-11T15:03:00.000Z",
+      "summary": "Quando o fosfato atinge rios e mares, prejudica a biodiversidade e a qualidade da água; a Câmara dos Deputados discute a proibição",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Estabilidade para gestante em emprego temporário vai à Câmara",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/estabilidade-para-gestante-em-emprego-temporario-vai-a-camara",
+      "date": "2026-11-11T14:54:21.000Z",
+      "summary": "A Comissão de Assuntos Sociais (CAS) aprovou, nesta quarta-feira (11), em turno suplementar, substitutivo a projeto que amplia a garantia de estabilidade provisória para trabalhadoras gestantes contratadas por prazo determinado, temporariamente ou em regime in",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "CCT aprova atendimento presencial em serviços essenciais e proteção a idosos",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/cct-aprova-atendimento-presencial-em-servicos-essenciais-e-protecao-a-idosos",
+      "date": "2026-11-11T14:47:36.000Z",
+      "summary": "Consumidores e usuários de serviços essenciais, especialmente pessoas idosas, poderão solicitar atendimento presencial e auxílio humano em serviços essenciais, mesmo quando as instituições oferecerem canais digitais ou automatizados. A medida está prevista em ",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Proposta que prioriza gestantes na proteção contra epidemias avança",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/proposta-que-prioriza-gestantes-na-protecao-contra-epidemias-avanca",
+      "date": "2026-11-11T14:39:30.000Z",
+      "summary": "A Comissão de Direitos Humanos (CDH) aprovou nesta quarta-feira (11) projeto que dá prioridade a gestantes e mulheres que amamentam no recebimento de insumos de proteção contra epidemias e situações incomuns de risco à saúde. O texto segue para a Comissão de A",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "O 'teste de motorista' que fez empresa desistir de contratar um executivo — e qual é o peso da gentileza no mercado de trabalho",
+      "link": "https://www.bbc.com/portuguese/articles/c23x8zn0vzro?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-11T14:34:59.000Z",
+      "summary": "Diretor da Duolingo revelou pagar motoristas para avaliar candidatos a cargos de liderança. Especialistas em recrutamento avaliam o que esse tipo de sinal informal realmente diz — e o que não diz — sobre caráter no trabalho",
+      "source": "BBC News Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "Projeto permite que pacientes com câncer usem lenço ou turbante em foto de documento",
+      "link": "https://www.camara.leg.br/noticias/1314171-projeto-permite-que-pacientes-com-cancer-usem-lenco-ou-turbante-em-foto-de-documento",
+      "date": "2026-11-11T14:20:00.000Z",
+      "summary": "A Câmara dos Deputados está discutindo o assunto",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Brasil salta em ranking de proteção climática após queda do desmatamento na Amazônia",
+      "link": "https://www.dw.com/pt-br/brasil-salta-em-ranking-de-proteção-climática-após-queda-do-desmatamento-na-amazônia/a-79919030?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-11T14:20:00.000Z",
+      "summary": "País superou nações ricas, como a Alemanha, também por aumento de renováveis. Mas expansão do petróleo e gás e emissões em setores poluentes ainda são entraves para avanço maior.",
+      "source": "DW Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "CAS garante créditos de tributos sobre consumo para entidades filantrópicas",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/cas-garante-creditos-de-tributos-sobre-consumo-para-entidades-filantropicas",
+      "date": "2026-11-11T14:04:58.000Z",
+      "summary": "A Comissão de Assuntos Sociais (CAS) do Senado aprovou nesta quarta-feira (11) projeto que permite a entidades filantrópicas de educação, saúde e assistência social manterem os créditos dos tributos pagos na compra de bens e serviços após a reforma tributária.",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
       "title": "CCJ aprova tipificação de crime de tráfico de animais silvestres",
       "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/ccj-aprova-tipificacao-de-crime-de-trafico-de-animais-silvestres",
       "date": "2026-11-11T14:00:09.000Z",
@@ -158,14 +222,6 @@
       "date": "2026-11-11T13:45:00.000Z",
       "summary": "O texto fixa critérios de procedimentos sobre a apresentação de emendas ao projeto da LDO",
       "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "CCJ facilita dispensa de licitação para associações de pessoas com deficiência",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/ccj-facilita-dispensa-de-licitacao-para-associacoes-de-pessoas-com-deficiencia",
-      "date": "2026-11-11T13:44:01.000Z",
-      "summary": "A Comissão de Constituição e Justiça (CCJ) aprovou nesta quarta-feira (11) projeto de lei que permite a contratação direta, sem licitação, de associações sem fins lucrativos de pessoas com deficiência, mesmo quando os serviços forem prestados por pessoas sem d",
-      "source": "Agência Senado",
       "cat": "politica"
     },
     {
@@ -205,22 +261,6 @@
       "link": "https://www.camara.leg.br/noticias/1316523-comissao-de-saude-discute-proposta-que-cria-cartao-de-identificacao-unico-do-usuario-do-sus-participe",
       "date": "2026-11-11T11:51:00.000Z",
       "summary": "A ideia é adotar um modelo de identificação dos usuários que funcione de maneira integrada em diferentes localidades e níveis de atendimento",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão debate atendimento educacional dos alunos da educação especial; participe",
-      "link": "https://www.camara.leg.br/noticias/1316333-comissao-debate-atendimento-educacional-dos-alunos-da-educacao-especial-participe",
-      "date": "2026-11-11T11:39:00.000Z",
-      "summary": "",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão discute falta de auditores-fiscais do trabalho nesta quarta-feira; participe",
-      "link": "https://www.camara.leg.br/noticias/1317278-comissao-discute-falta-de-auditores-fiscais-do-trabalho-nesta-quarta-feira-participe",
-      "date": "2026-11-11T11:36:00.000Z",
-      "summary": "",
       "source": "Agência Câmara",
       "cat": "politica"
     },
@@ -302,22 +342,6 @@
       "date": "2026-11-10T16:39:55.000Z",
       "summary": "Pesquisador de Universidade Stanford, nos EUA, citado por André Lara Resende em sua proposta sobre política fiscal, diz à BBC News Brasil que projeto dependeria de ajuste fiscal e mudanças em programas sociais.",
       "source": "BBC News Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "Estreito de Ormuz segue como moeda de troca do Irã em negociações com os EUA",
-      "link": "https://www.dw.com/pt-br/estreito-de-ormuz-segue-como-moeda-de-troca-do-irã-em-negociações-com-os-eua/a-79905742?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-10T14:55:00.000Z",
-      "summary": "Limites da proteção dos EUA e capacidade do Irã de controlar a via dificultam retorno do fluxo registrado antes da guerra. Embarcações ainda são alvos de ataques na região, elevando os custos do transporte marítimo.",
-      "source": "DW Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "Conferência do Clima discute caminhos para o fim dos combustíveis fósseis",
-      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854891",
-      "date": "2026-11-10T12:00:00.000Z",
-      "summary": "Brasil lançou mapa de rotas para a transição energética e Turquia propôs a meta de 35% de eletrificação até 2035; desafio atual é destravar 2,5 mil gigawatts de energia limpa parados por falta de infraestrutura e juros altos.",
-      "source": "ONU News",
       "cat": "internacional"
     },
     {
