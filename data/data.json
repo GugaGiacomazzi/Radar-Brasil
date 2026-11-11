@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-11T21:28:55.260Z",
+  "updated": "2026-11-11T22:34:47.918Z",
   "market": {
     "ibov": {
       "price": 172060.44,
       "pct": 0.42,
-      "time": "2026-11-11T21:28:49.335Z",
+      "time": "2026-11-11T22:34:42.106Z",
       "history": [
         {
           "d": "2026-10-13",
@@ -145,51 +145,107 @@
   },
   "news": [
     {
-      "title": "Zenaide Maia alerta para os riscos dos cigarros eletrônicos",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/zenaide-maia-alerta-para-os-riscos-dos-cigarros-eletronicos",
-      "date": "2026-11-11T21:21:52.000Z",
-      "summary": "A senadora Zenaide Maia (PSD-RN) alertou em Plenário para os riscos dos cigarros eletrônicos à saúde e se manifestou contra a comercialização desses produtos no Brasil. Em pronunciamento no Plenário nesta quarta-feira (11), a parlamentar afirmou que cerca de 8",
+      "title": "Vai a Plenário projeto que aumenta punição para uso de celular em presídios",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/vai-a-plenario-projeto-que-aumenta-punicao-para-uso-de-celular-em-presidios",
+      "date": "2026-11-11T22:30:40.000Z",
+      "summary": "A Comissão de Constituição e Justiça do Senado (CCJ) aprovou nesta quarta-feira (11) um projeto de lei para impedir que facções criminosas utilizem celulares nas prisões. O projeto (PL 2.905/2022) segue para votação no Plenário do Senado em regime de urgência.",
       "source": "Agência Senado",
       "cat": "politica"
     },
     {
-      "title": "Comissão aprova obrigatoriedade de pelo menos um local por município para distribuição de absorventes",
-      "link": "https://www.camara.leg.br/noticias/1318517-comissao-aprova-obrigatoriedade-de-pelo-menos-um-local-por-municipio-para-distribuicao-de-absorventes",
-      "date": "2026-11-11T21:19:00.000Z",
-      "summary": "Projeto de lei segue para o Senado, a menos que haja recurso para votação pelo Plenário da Câmara",
+      "title": "Renegociação de dívidas rurais é aprovada pelo Senado e vai à sanção presidencial",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/renegociacao-de-dividas-rurais-e-aprovada-pelo-senado-e-vai-a-sancao-presidencial",
+      "date": "2026-11-11T22:27:49.000Z",
+      "summary": "Produtores rurais prejudicados eventos climáticos extremos entre 2019 e 2025 poderão renegociar suas dívidas com taxas entre 5% e 12% ao ano. A regra está na MP 1.376/2026, aprovada pelo Senado nesta quarta-feira (11). O texto foi aprovado com mudanças, na for",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Câmara aprova perda de herança para quem tentar interditar idosos de forma fraudulenta",
+      "link": "https://www.camara.leg.br/noticias/1318722-camara-aprova-perda-de-heranca-para-quem-tentar-interditar-idosos-de-forma-fraudulenta",
+      "date": "2026-11-11T22:24:00.000Z",
+      "summary": "A conduta abusiva deverá ser reconhecida por decisão judicial transitada em julgado",
       "source": "Agência Câmara",
       "cat": "politica"
     },
     {
-      "title": "Damares quer esclarecimentos sobre mudanças de equipes em investigações da PF",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/damares-quer-esclarecimentos-sobre-mudancas-de-equipes-em-investigacoes-da-pf",
-      "date": "2026-11-11T21:17:18.000Z",
-      "summary": "A senadora Damares Alves (Republicanos-DF) cobrou nesta quarta-feira (11) esclarecimentos sobre mudanças na chefia de equipes da Polícia Federal responsáveis por investigações relacionadas ao Banco Master e às fraudes em benefícios do Instituto Nacional do Seg",
+      "title": "Ministro do Planejamento anuncia na CMO ajuste fiscal de R$ 60 bi em 2027",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/ministro-do-planejamento-anuncia-na-cmo-ajuste-fiscal-de-r-60-bi-em-2027",
+      "date": "2026-11-11T22:18:49.000Z",
+      "summary": "O ministro do Planejamento e Orçamento, Bruno Moretti, defendeu nesta quarta-feira (11) a aprovação de projeto de lei complementar (PLP) com medidas de ajuste fiscal para 2027, com impacto de R$ 60 bilhões. O valor equivale a pouco mais de um quarto das despes",
       "source": "Agência Senado",
       "cat": "politica"
     },
     {
-      "title": "Amin questiona remanejamento de delegados que atuaram no inquérito das fake news",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/amin-questiona-remanejamento-de-delegados-que-atuaram-no-inquerito-das-fake-news",
-      "date": "2026-11-11T21:14:38.000Z",
-      "summary": "Em pronunciamento no Plenário nesta quarta-feira (11), o senador Esperidião Amin (PP-SC) cobrou esclarecimentos sobre o afastamento de dois delegados da Polícia Federal que supervisionavam o Inquérito 4.781 do Supremo Tribunal Federal (STF), conhecido como Inq",
+      "title": "Um quarto dos alemães deseja regime autoritário de direita",
+      "link": "https://www.dw.com/pt-br/um-quarto-dos-alemães-deseja-regime-autoritário-de-direita/a-79924717?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-11T22:07:00.000Z",
+      "summary": "Avanço do partido de extrema-direita AfD em eleições na Alemanha aponta para nova tendência: preconceito, ressentimento e extremismo estão em ascensão. Estudo aponta para nível mais baixo de satisfação com a democracia.",
+      "source": "DW Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "Eduardo Gomes apresenta regras para emendas à LDO",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/eduardo-gomes-apresenta-regras-para-emendas-a-ldo",
+      "date": "2026-11-11T22:04:36.000Z",
+      "summary": "O relator da Lei de Diretrizes Orçamentárias (LDO) de 2027 (PLN 2/2026), senador Eduardo Gomes (PL-TO), apresentou na terça-feira (10) seu relatório preliminar — documento que contém regras sobre emendas parlamentares e análise do texto. Pelo calendário da Com",
       "source": "Agência Senado",
       "cat": "politica"
     },
     {
-      "title": "Humberto Costa declara apoio à MP que proibiu as bets no Brasil",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/humberto-costa-declara-apoio-a-mp-que-proibiu-as-bets-no-brasil",
-      "date": "2026-11-11T21:10:33.000Z",
-      "summary": "O senador Humberto Costa (PT-PE) manifestou em Plenário apoio à Medida Provisória (MPV) 1.394/2026m, que proibiu as bets. A norma baniu apostas de quota fixa, incluindo apostas esportivas e jogos on-line, dando fim à publicidade e ao patrocínio relacionados a ",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão aprova criação do Cadastro Nacional de Protetores e Associações da Causa Animal",
-      "link": "https://www.camara.leg.br/noticias/1318499-comissao-aprova-criacao-do-cadastro-nacional-de-protetores-e-associacoes-da-causa-animal",
-      "date": "2026-11-11T21:08:00.000Z",
-      "summary": "A proposta pode seguir para análise do Senado, a menos que haja recurso para ser votada no Plenário da Câmara",
+      "title": "Comissão de Orçamento aprova relatório preliminar da LDO de 2027",
+      "link": "https://www.camara.leg.br/noticias/1318622-comissao-de-orcamento-aprova-relatorio-preliminar-da-ldo-de-2027",
+      "date": "2026-11-11T22:00:00.000Z",
+      "summary": "Votação do texto final será marcada para a semana de 9 a 11 de dezembro",
       "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Câmara decide enviar ao Senado projeto que revoga lei sobre alienação parental; acompanhe",
+      "link": "https://www.camara.leg.br/noticias/1318504-camara-decide-enviar-ao-senado-projeto-que-revoga-lei-sobre-alienacao-parental-acompanhe",
+      "date": "2026-11-11T21:53:00.000Z",
+      "summary": "Projeto já foi aprovado nas comissões permanentes e seguirá para análise dos senadores",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Dra. Eudócia aponta suspeita de desvios de recursos da saúde de Alagoas",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/dra-eudocia-aponta-suspeita-de-desvios-de-recursos-da-saude-de-alagoas",
+      "date": "2026-11-11T21:50:07.000Z",
+      "summary": "A senadora Dra. Eudócia (PSDB-AL) questionou nesta quarta-feira (11) a aplicação dos recursos da saúde pública de Alagoas e cobrou esclarecimentos sobre investigações de suspeita de corrupção envolvendo contratos da Secretaria de Estado da Saúde. Em pronunciam",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Relator aponta amadurecimento do debate sobre redução da maioridade penal e marca votação para dezembro",
+      "link": "https://www.camara.leg.br/noticias/1318624-relator-aponta-amadurecimento-do-debate-sobre-reducao-da-maioridade-penal-e-marca-votacao-para-dezembro",
+      "date": "2026-11-11T21:50:00.000Z",
+      "summary": "Comissão especial ouviu nesta quarta o alerta de especialistas sobre as falhas do sistema prisional",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Congresso Nacional realiza sessão nesta quinta-feira",
+      "link": "https://www.camara.leg.br/noticias/1318646-congresso-nacional-realiza-sessao-nesta-quinta-feira",
+      "date": "2026-11-11T21:32:00.000Z",
+      "summary": "Pauta com 24 projetos prevê liberação de recursos adicionais para órgãos públicos e ministérios",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Ministro do Planejamento anuncia novas medidas de ajuste fiscal para 2027",
+      "link": "https://www.camara.leg.br/noticias/1318603-ministro-do-planejamento-anuncia-novas-medidas-de-ajuste-fiscal-para-2027",
+      "date": "2026-11-11T21:28:00.000Z",
+      "summary": "Segundo Moretti, a ideia é reforçar o cenário de estabilização da dívida pública",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Fôlego financeiro aos MEIs",
+      "link": "https://www12.senado.leg.br/noticias/infomaterias/2026/11/folego-financeiro-aos-meis",
+      "date": "2026-11-11T21:26:32.000Z",
+      "summary": "",
+      "source": "Agência Senado",
       "cat": "politica"
     },
     {
@@ -201,60 +257,12 @@
       "cat": "internacional"
     },
     {
-      "title": "Deputadas e movimentos sociais homenageiam Benedita da Silva e Paulo Paim em sessão solene na Câmara",
-      "link": "https://www.camara.leg.br/noticias/1318549-deputadas-e-movimentos-sociais-homenageiam-benedita-da-silva-e-paulo-paim-em-sessao-solene-na-camara",
-      "date": "2026-11-11T21:02:00.000Z",
-      "summary": "Parlamentares desde as discussões da Constituição de 1988, ambos se despedem do Congresso Nacional no fim deste ano",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "CE aprova Política Nacional de Educação Escolar Indígena nos Territórios Etnoeducacionais",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/ce-aprova-politica-nacional-de-educacao-escolar-indigena-nos-territorios-etnoeducacionais",
-      "date": "2026-11-11T21:00:33.000Z",
-      "summary": "A Comissão de Educação e Cultura (CE) aprovou nesta quarta-feira (11) projeto que institui a Política Nacional de Educação Escolar Indígena nos Territórios Etnoeducacionais. O PL 4.980/2026, do senador Camilo Santana (PT-CE), teve relatório favorável do senado",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
-      "title": "CE fará audiência pública sobre os impactos do casamento infantil",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/ce-fara-audiencia-publica-sobre-os-impactos-do-casamento-infantil",
-      "date": "2026-11-11T20:58:57.000Z",
-      "summary": "A Comissão de Educação e Cultura do Senado (CE) aprovou nesta quarta-feira (11) um requerimento de audiência pública sobre o casamento infantil e suas consequências — especialmente sobre meninas. O colegiado também aprovou requerimentos para mais duas audiênci",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
       "title": "O que colocar na mochila de emergência e por que você deve ter uma — preventivamente",
       "link": "https://www.bbc.com/portuguese/articles/cm62p37dgxzzo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-11T20:53:39.000Z",
       "summary": "Kits de emergência são importantes e devem ser inseridos na cultura do Brasil, que nunca focou em prevenção, defende especialista.",
       "source": "BBC News Brasil",
       "cat": "internacional"
-    },
-    {
-      "title": "Comissão aprova criação de serviço telefônico para atender pessoas com transtornos mentais e familiares",
-      "link": "https://www.camara.leg.br/noticias/1318489-comissao-aprova-criacao-de-servico-telefonico-para-atender-pessoas-com-transtornos-mentais-e-familiares",
-      "date": "2026-11-11T20:45:00.000Z",
-      "summary": "Projeto poderá seguir para o Senado, a menos que haja recurso para votação pelo Plenário da Câmara",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Câmara homenageia ex-constituinte e ex-governador paranaense José Richa",
-      "link": "https://www.camara.leg.br/noticias/1318572-camara-homenageia-ex-constituinte-e-ex-governador-paranaense-jose-richa",
-      "date": "2026-11-11T20:38:00.000Z",
-      "summary": "Presidente Hugo Motta destacou o legado político e a atuação constituinte do homenageado, que dá nome a um túnel na Câmara",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão aprova diretrizes para atendimento remoto de gestantes em áreas rurais",
-      "link": "https://www.camara.leg.br/noticias/1318370-comissao-aprova-diretrizes-para-atendimento-remoto-de-gestantes-em-areas-rurais",
-      "date": "2026-11-11T20:21:00.000Z",
-      "summary": "Proposta segue em análise na Câmara",
-      "source": "Agência Câmara",
-      "cat": "politica"
     },
     {
       "title": "Forças Armadas da Alemanha deixarão de usar drones chineses por preocupações com segurança",
@@ -310,14 +318,6 @@
       "date": "2026-11-11T15:30:42.000Z",
       "summary": "Segundo fontes ouvidas pela BBC News Brasil, mudança representa um episódio preocupante de tentativa de interferência no andamento de investigações envolvendo ministros do STF.",
       "source": "BBC News Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "Brasil salta em ranking de proteção climática após queda do desmatamento na Amazônia",
-      "link": "https://www.dw.com/pt-br/brasil-salta-em-ranking-de-proteção-climática-após-queda-do-desmatamento-na-amazônia/a-79919030?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-11T14:20:00.000Z",
-      "summary": "País superou nações ricas, como a Alemanha, também por aumento de renováveis. Mas expansão do petróleo e gás e emissões em setores poluentes ainda são entraves para avanço maior.",
-      "source": "DW Brasil",
       "cat": "internacional"
     },
     {
@@ -386,6 +386,6 @@
     }
   ],
   "errors": [
-    "Dívida/PIB (SGS 13762): HTTP 304"
+    "feed Planalto (governo): nenhum item no feed (endereço mudou?)"
   ]
 }
