@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-11T08:27:09.770Z",
+  "updated": "2026-11-11T09:35:44.271Z",
   "market": {
     "ibov": {
       "price": 171336.98,
       "pct": -0.52,
-      "time": "2026-11-11T08:27:05.045Z",
+      "time": "2026-11-11T09:35:39.905Z",
       "history": [
         {
           "d": "2026-10-13",
@@ -141,6 +141,22 @@
   },
   "news": [
     {
+      "title": "Jensen Huang: O papel do CEO da Nvidia investigado por caso com suposta espiã na guerra tecnológica entre EUA e China",
+      "link": "https://www.bbc.com/portuguese/articles/cmg474pw776wo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-11T08:58:25.000Z",
+      "summary": "Huang, investigado por um relacionamento com uma suposta espiã chinesa, é muito mais importante para o futuro da ordem mundial do que outros chefões do setor de tecnologia.",
+      "source": "BBC News Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "Quem vai cuidar dos idosos do Brasil? Por que o envelhecimento acelerado é o 'desafio do século'",
+      "link": "https://www.bbc.com/portuguese/articles/c60qkxv44pq8o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-11T08:31:43.000Z",
+      "summary": "Com menos nascimentos e uma população cada vez mais velha, o país terá de adaptar Previdência, saúde e mercado de trabalho a uma transformação demográfica sem precedentes.",
+      "source": "BBC News Brasil",
+      "cat": "internacional"
+    },
+    {
       "title": "Senadores negociam projeto de ajuste fiscal com Poder Executivo, diz Davi",
       "link": "https://www12.senado.leg.br/noticias/materias/2026/11/10/senadores-negociam-projeto-de-ajuste-fiscal-com-poder-executivo-diz-davi",
       "date": "2026-11-11T01:17:24.000Z",
@@ -237,14 +253,6 @@
       "cat": "internacional"
     },
     {
-      "title": "A batalha do novo Parlamento de Israel que pode decidir o futuro político de Netanyahu",
-      "link": "https://www.bbc.com/portuguese/articles/cqzrdrzk0546o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-10T20:16:28.000Z",
-      "summary": "O principal rival político de Benjamin Netanyahu, Gadi Eisenkot, tem a primeira oportunidade de formar um novo governo e tirar o premiê do poder.",
-      "source": "BBC News Brasil",
-      "cat": "internacional"
-    },
-    {
       "title": "A Ucrânia está apoiando rebeldes na África para enfraquecer a Rússia?",
       "link": "https://www.dw.com/pt-br/a-ucrânia-está-apoiando-rebeldes-na-áfrica-para-enfraquecer-a-rússia/a-79910215?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-10T19:49:00.000Z",
@@ -305,14 +313,6 @@
       "link": "https://news.un.org/feed/view/pt/story/2026/11/1854891",
       "date": "2026-11-10T12:00:00.000Z",
       "summary": "Brasil lançou mapa de rotas para a transição energética e Turquia propôs a meta de 35% de eletrificação até 2035; desafio atual é destravar 2,5 mil gigawatts de energia limpa parados por falta de infraestrutura e juros altos.",
-      "source": "ONU News",
-      "cat": "internacional"
-    },
-    {
-      "title": "Ebola pode avançar na África Central com pessoas em trânsito da RD Congo",
-      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854885",
-      "date": "2026-11-10T12:00:00.000Z",
-      "summary": "Agência da ONU diz que precisa de US$ 60 milhões para conter o surto nos países vizinhos; saída dos congoleses é causada por conflitos e outros fatores; doença já matou 5 mil pessoas, metade do número de casos notificados.",
       "source": "ONU News",
       "cat": "internacional"
     },
