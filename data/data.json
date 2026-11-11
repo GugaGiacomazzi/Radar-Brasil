@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-11T09:35:44.271Z",
+  "updated": "2026-11-11T10:39:57.329Z",
   "market": {
     "ibov": {
       "price": 171336.98,
       "pct": -0.52,
-      "time": "2026-11-11T09:35:39.905Z",
+      "time": "2026-11-11T10:39:52.027Z",
       "history": [
         {
           "d": "2026-10-13",
@@ -141,6 +141,22 @@
   },
   "news": [
     {
+      "title": "TSE decide multar Meta em R$ 7,5 milhões por descumprir decisão durante as eleições",
+      "link": "https://www.dw.com/pt-br/tse-decide-multar-meta-em-r-7-5-milhões-por-descumprir-decisão-durante-as-eleições/a-79916087?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-11T10:32:00.000Z",
+      "summary": "Dona do Facebook, WhatsApp e Instagram não teria obedecido prazos estipulados pelo tribunal para adotar medidas visando tratamento igualitário entre candidatos à Presidência no segundo turno. Decisão foi unânime.",
+      "source": "DW Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "Republicanos da Câmara bloqueiam tentativa de impeachment de Hegseth",
+      "link": "https://www.dw.com/pt-br/republicanos-da-câmara-bloqueiam-tentativa-de-impeachment-de-hegseth/a-79916023?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-11T09:39:00.000Z",
+      "summary": "Secretário de Defesa está sob pressão devido à impopular guerra contra o Irã. Vitória pode ter sido apenas temporária, pois democratas deverão iniciar nova tentativa quando assumirem o controle do Congresso.",
+      "source": "DW Brasil",
+      "cat": "internacional"
+    },
+    {
       "title": "Jensen Huang: O papel do CEO da Nvidia investigado por caso com suposta espiã na guerra tecnológica entre EUA e China",
       "link": "https://www.bbc.com/portuguese/articles/cmg474pw776wo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-11T08:58:25.000Z",
@@ -165,7 +181,7 @@
       "cat": "politica"
     },
     {
-      "title": "As críticas à troca de delegados da PF no caso Master: 'Graves suspeitas'",
+      "title": "As críticas à troca de delegados da PF no caso Master: 'Levanta graves suspeitas'",
       "link": "https://www.bbc.com/portuguese/articles/c6wy47lmwz1no?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-11T01:10:42.000Z",
       "summary": "Segundo fontes ouvidas pela BBC News Brasil, mudança representa um episódio preocupante de tentativa de interferência no andamento de investigações envolvendo ministros do STF.",
@@ -289,22 +305,6 @@
       "link": "https://www.dw.com/pt-br/estreito-de-ormuz-segue-como-moeda-de-troca-do-irã-em-negociações-com-os-eua/a-79905742?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-10T14:55:00.000Z",
       "summary": "Limites da proteção dos EUA e capacidade do Irã de controlar a via dificultam retorno do fluxo registrado antes da guerra. Embarcações ainda são alvos de ataques na região, elevando os custos do transporte marítimo.",
-      "source": "DW Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "Relação próxima de Trump com CEO da Nvidia levanta suspeitas",
-      "link": "https://www.dw.com/pt-br/relação-próxima-de-trump-com-ceo-da-nvidia-levanta-suspeitas/a-79908414?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-10T12:29:00.000Z",
-      "summary": "Presidente defende seu conselheiro e aliado próximo Jensen Huang em meio ao escândalo de espionagem pela China. Democratas pressionam por esclarecimentos sobre o caso.",
-      "source": "DW Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "O que se sabe dos relatórios da PF sobre os laços entre STF e Vorcaro",
-      "link": "https://www.dw.com/pt-br/o-que-se-sabe-dos-relatórios-da-pf-sobre-os-laços-entre-stf-e-vorcaro/a-79908320?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-10T12:13:00.000Z",
-      "summary": "Documentos citariam três ministros. Delegados responsáveis foram afastados, e relatórios deverão ser refeitos por supostamente extrapolarem caráter descritivo determinado por Fachin.",
       "source": "DW Brasil",
       "cat": "internacional"
     },
