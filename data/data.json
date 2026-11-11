@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-11T22:34:47.918Z",
+  "updated": "2026-11-11T23:30:09.716Z",
   "market": {
     "ibov": {
       "price": 172060.44,
       "pct": 0.42,
-      "time": "2026-11-11T22:34:42.106Z",
+      "time": "2026-11-11T23:30:05.474Z",
       "history": [
         {
           "d": "2026-10-13",
@@ -145,18 +145,74 @@
   },
   "news": [
     {
-      "title": "Vai a Plenário projeto que aumenta punição para uso de celular em presídios",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/vai-a-plenario-projeto-que-aumenta-punicao-para-uso-de-celular-em-presidios",
-      "date": "2026-11-11T22:30:40.000Z",
-      "summary": "A Comissão de Constituição e Justiça do Senado (CCJ) aprovou nesta quarta-feira (11) um projeto de lei para impedir que facções criminosas utilizem celulares nas prisões. O projeto (PL 2.905/2022) segue para votação no Plenário do Senado em regime de urgência.",
+      "title": "Ajuste fiscal pode ser votado nesta quinta-feira",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/ajuste-fiscal-pode-ser-votado-nesta-quinta-feira",
+      "date": "2026-11-11T23:24:29.000Z",
+      "summary": "O Projeto de Lei Complementar (PLP) 299/2026, que diminui o espaço fiscal para crescimento de despesas e permite ao governo ampliar seus instrumentos de controle dos gastos públicos, deve ser votado nesta quinta-feira (12). A sessão desta quarta-feira (11) foi",
       "source": "Agência Senado",
       "cat": "politica"
     },
     {
-      "title": "Renegociação de dívidas rurais é aprovada pelo Senado e vai à sanção presidencial",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/renegociacao-de-dividas-rurais-e-aprovada-pelo-senado-e-vai-a-sancao-presidencial",
-      "date": "2026-11-11T22:27:49.000Z",
-      "summary": "Produtores rurais prejudicados eventos climáticos extremos entre 2019 e 2025 poderão renegociar suas dívidas com taxas entre 5% e 12% ao ano. A regra está na MP 1.376/2026, aprovada pelo Senado nesta quarta-feira (11). O texto foi aprovado com mudanças, na for",
+      "title": "Criação do Dia Nacional da Cachaça Brasileira recebe apoio durante audiência",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/criacao-do-dia-nacional-da-cachaca-brasileira-recebe-apoio-durante-audiencia",
+      "date": "2026-11-11T23:20:53.000Z",
+      "summary": "A Comissão de Educação e Cultura do Senado (CE) promoveu nesta quarta-feira (11) uma audiência pública para discutir a criação do Dia Nacional da Cachaça Brasileira. A data já é comemorada em 13 de setembro, mas ainda não tem reconhecimento oficial — ou seja, ",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Teresa Leitão defende política permanente de proteção ambiental",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/teresa-leitao-defende-politica-permanente-de-protecao-ambiental",
+      "date": "2026-11-11T23:17:54.000Z",
+      "summary": "A senadora Teresa Leitão (PT-PE) defendeu em Plenário políticas permanentes de proteção ambiental e ações para enfrentar os efeitos das mudanças climáticas. A parlamentar ressaltou a necessidade de conciliar desenvolvimento econômico, inclusão social e sustent",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Câmara aprova projeto que torna hediondo o crime de maus-tratos de cães e gatos quando resulta em morte",
+      "link": "https://www.camara.leg.br/noticias/1318510-camara-aprova-projeto-que-torna-hediondo-o-crime-de-maus-tratos-de-caes-e-gatos-quando-resulta-em-morte",
+      "date": "2026-11-11T23:15:00.000Z",
+      "summary": "Texto será enviado ao Senado; pena para o crime pode chegar a cinco anos de reclusão",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Relator de mudanças no Código de Trânsito altera texto para facilitar aprovação",
+      "link": "https://www.camara.leg.br/noticias/1318733-relator-de-mudancas-no-codigo-de-transito-altera-texto-para-facilitar-aprovacao",
+      "date": "2026-11-11T22:59:00.000Z",
+      "summary": "Votação na comissão especial foi adiada para o dia 17; proposta retira obrigatoriedade de baliza",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Reginauro cobra efetividade das leis de segurança pública",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/reginauro-cobra-efetividade-das-leis-de-seguranca-publica",
+      "date": "2026-11-11T22:42:54.000Z",
+      "summary": "Em pronunciamento no Plenário nesta quarta-feira (11), o senador Sargento Reginauro (PSDB-CE) defendeu maior efetividade das leis de segurança pública e criticou a liberação de acusados de crimes graves em audiências de custódia. O parlamentar afirmou que o en",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Senado aprova proteção de recursos para internet em escolas públicas",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/senado-aprova-protecao-de-recursos-para-internet-em-escolas-publicas",
+      "date": "2026-11-11T22:40:29.000Z",
+      "summary": "O Senado aprovou nesta quarta-feira (11) projeto de lei complementar que impede o bloqueio de recursos destinados ao Fundo de Universalização dos Serviços de Telecomunicações (Fust). A proposta, votada em regime de urgência (RQS 744/2026), tem objetivo de ampl",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Câmara aprova convenção internacional sobre reciclagem segura de navios",
+      "link": "https://www.camara.leg.br/noticias/1318718-camara-aprova-convencao-internacional-sobre-reciclagem-segura-de-navios",
+      "date": "2026-11-11T22:35:00.000Z",
+      "summary": "Acordo estabelece regras para o desmonte de embarcações e a proteção de trabalhadores e do meio ambiente",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Vai a Plenário projeto que aumenta punição para uso de celular em presídios",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/vai-a-plenario-projeto-que-aumenta-punicao-para-uso-de-celular-em-presidios",
+      "date": "2026-11-11T22:30:40.000Z",
+      "summary": "A Comissão de Constituição e Justiça do Senado (CCJ) aprovou nesta quarta-feira (11) um projeto de lei para impedir que facções criminosas utilizem celulares nas prisões. O projeto (PL 2.905/2022) segue para votação no Plenário do Senado em regime de urgência.",
       "source": "Agência Senado",
       "cat": "politica"
     },
@@ -169,28 +225,12 @@
       "cat": "politica"
     },
     {
-      "title": "Ministro do Planejamento anuncia na CMO ajuste fiscal de R$ 60 bi em 2027",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/ministro-do-planejamento-anuncia-na-cmo-ajuste-fiscal-de-r-60-bi-em-2027",
-      "date": "2026-11-11T22:18:49.000Z",
-      "summary": "O ministro do Planejamento e Orçamento, Bruno Moretti, defendeu nesta quarta-feira (11) a aprovação de projeto de lei complementar (PLP) com medidas de ajuste fiscal para 2027, com impacto de R$ 60 bilhões. O valor equivale a pouco mais de um quarto das despes",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
       "title": "Um quarto dos alemães deseja regime autoritário de direita",
       "link": "https://www.dw.com/pt-br/um-quarto-dos-alemães-deseja-regime-autoritário-de-direita/a-79924717?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-11T22:07:00.000Z",
-      "summary": "Avanço do partido de extrema-direita AfD em eleições na Alemanha aponta para nova tendência: preconceito, ressentimento e extremismo estão em ascensão. Estudo aponta para nível mais baixo de satisfação com a democracia.",
+      "summary": "Avanço do partido de ultradireita AfD em eleições na Alemanha aponta para nova tendência: preconceito, ressentimento e extremismo estão em ascensão. Estudo aponta para nível mais baixo de satisfação com a democracia.",
       "source": "DW Brasil",
       "cat": "internacional"
-    },
-    {
-      "title": "Eduardo Gomes apresenta regras para emendas à LDO",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/eduardo-gomes-apresenta-regras-para-emendas-a-ldo",
-      "date": "2026-11-11T22:04:36.000Z",
-      "summary": "O relator da Lei de Diretrizes Orçamentárias (LDO) de 2027 (PLN 2/2026), senador Eduardo Gomes (PL-TO), apresentou na terça-feira (10) seu relatório preliminar — documento que contém regras sobre emendas parlamentares e análise do texto. Pelo calendário da Com",
-      "source": "Agência Senado",
-      "cat": "politica"
     },
     {
       "title": "Comissão de Orçamento aprova relatório preliminar da LDO de 2027",
@@ -201,51 +241,11 @@
       "cat": "politica"
     },
     {
-      "title": "Câmara decide enviar ao Senado projeto que revoga lei sobre alienação parental; acompanhe",
-      "link": "https://www.camara.leg.br/noticias/1318504-camara-decide-enviar-ao-senado-projeto-que-revoga-lei-sobre-alienacao-parental-acompanhe",
+      "title": "Câmara decide enviar ao Senado projeto que revoga lei sobre alienação parental",
+      "link": "https://www.camara.leg.br/noticias/1318504-camara-decide-enviar-ao-senado-projeto-que-revoga-lei-sobre-alienacao-parental",
       "date": "2026-11-11T21:53:00.000Z",
       "summary": "Projeto já foi aprovado nas comissões permanentes e seguirá para análise dos senadores",
       "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Dra. Eudócia aponta suspeita de desvios de recursos da saúde de Alagoas",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/dra-eudocia-aponta-suspeita-de-desvios-de-recursos-da-saude-de-alagoas",
-      "date": "2026-11-11T21:50:07.000Z",
-      "summary": "A senadora Dra. Eudócia (PSDB-AL) questionou nesta quarta-feira (11) a aplicação dos recursos da saúde pública de Alagoas e cobrou esclarecimentos sobre investigações de suspeita de corrupção envolvendo contratos da Secretaria de Estado da Saúde. Em pronunciam",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
-      "title": "Relator aponta amadurecimento do debate sobre redução da maioridade penal e marca votação para dezembro",
-      "link": "https://www.camara.leg.br/noticias/1318624-relator-aponta-amadurecimento-do-debate-sobre-reducao-da-maioridade-penal-e-marca-votacao-para-dezembro",
-      "date": "2026-11-11T21:50:00.000Z",
-      "summary": "Comissão especial ouviu nesta quarta o alerta de especialistas sobre as falhas do sistema prisional",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Congresso Nacional realiza sessão nesta quinta-feira",
-      "link": "https://www.camara.leg.br/noticias/1318646-congresso-nacional-realiza-sessao-nesta-quinta-feira",
-      "date": "2026-11-11T21:32:00.000Z",
-      "summary": "Pauta com 24 projetos prevê liberação de recursos adicionais para órgãos públicos e ministérios",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Ministro do Planejamento anuncia novas medidas de ajuste fiscal para 2027",
-      "link": "https://www.camara.leg.br/noticias/1318603-ministro-do-planejamento-anuncia-novas-medidas-de-ajuste-fiscal-para-2027",
-      "date": "2026-11-11T21:28:00.000Z",
-      "summary": "Segundo Moretti, a ideia é reforçar o cenário de estabilização da dívida pública",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Fôlego financeiro aos MEIs",
-      "link": "https://www12.senado.leg.br/noticias/infomaterias/2026/11/folego-financeiro-aos-meis",
-      "date": "2026-11-11T21:26:32.000Z",
-      "summary": "",
-      "source": "Agência Senado",
       "cat": "politica"
     },
     {
@@ -385,7 +385,5 @@
       "cat": "economia"
     }
   ],
-  "errors": [
-    "feed Planalto (governo): nenhum item no feed (endereço mudou?)"
-  ]
+  "errors": []
 }
