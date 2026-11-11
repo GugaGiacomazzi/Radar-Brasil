@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-11T16:13:38.512Z",
+  "updated": "2026-11-11T17:20:53.815Z",
   "market": {
     "ibov": {
-      "price": 172682.77,
-      "pct": 0.79,
-      "time": "2026-11-11T16:13:33.471Z",
+      "price": 172492.9,
+      "pct": 0.67,
+      "time": "2026-11-11T17:20:45.092Z",
       "history": [
         {
           "d": "2026-10-13",
@@ -88,7 +88,7 @@
         },
         {
           "d": "2026-11-11",
-          "c": 172466.4375
+          "c": 172456.4375
         }
       ]
     },
@@ -145,58 +145,74 @@
   },
   "news": [
     {
-      "title": "Inclusão de vacina contra herpes-zóster no SUS vai à Câmara",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/inclusao-de-vacina-contra-herpes-zoster-no-sus-vai-a-camara",
-      "date": "2026-11-11T16:01:37.000Z",
-      "summary": "A Comissão de Assuntos Sociais (CAS) do Senado confirmou nesta quarta-feira (11) a adoção, em caráter definitivo, do substitutivo ao projeto que inclui a vacina contra herpes-zóster no calendário nacional de imunização do Sistema Único de Saúde (SUS). Como a c",
+      "title": "Comissão aprova uso de recursos do BNDES para financiar energia renovável na agricultura familiar",
+      "link": "https://www.camara.leg.br/noticias/1318363-comissao-aprova-uso-de-recursos-do-bndes-para-financiar-energia-renovavel-na-agricultura-familiar",
+      "date": "2026-11-11T17:10:00.000Z",
+      "summary": "Proposta continua em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Prorrogadas medidas provisórias das bets e do Desenrola; cinco MPs perdem eficácia",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/prorrogadas-medidas-provisorias-das-bets-e-do-desenrola-cinco-mps-perdem-eficacia",
+      "date": "2026-11-11T17:09:55.000Z",
+      "summary": "O presidente do Senado e do Congresso Nacional, Davi Alcolumbre, assinou ato que prorroga por 60 dias a medida provisória que proíbe, em todo o país, a exploração, a oferta, a intermediação e a publicidade de apostas de quota fixa. Davi também prorrogou outras",
       "source": "Agência Senado",
       "cat": "politica"
     },
     {
-      "title": "CCJ aprova política nacional para gestão de risco de desastres",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/ccj-aprova-politica-nacional-para-gestao-de-risco-de-desastres",
-      "date": "2026-11-11T15:56:27.000Z",
-      "summary": "A Comissão de Constituição e Justiça (CCJ) aprovou, nesta quarta-feira (11), projeto que cria a Política Nacional de Gestão Integral de Risco de Desastres. A proposta prevê planos de prevenção e monitoramento, sistemas de alerta e ações coordenadas entre União",
+      "title": "Comissão aprova projeto que restringe prisão preventiva de agentes de segurança em serviço",
+      "link": "https://www.camara.leg.br/noticias/1318335-comissao-aprova-projeto-que-restringe-prisao-preventiva-de-agentes-de-seguranca-em-servico",
+      "date": "2026-11-11T17:06:00.000Z",
+      "summary": "A proposta segue em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Comissão aprova exigência de recursos de acessibilidade em totens de autoatendimento",
+      "link": "https://www.camara.leg.br/noticias/1318323-comissao-aprova-exigencia-de-recursos-de-acessibilidade-em-totens-de-autoatendimento",
+      "date": "2026-11-11T17:04:00.000Z",
+      "summary": "O texto continua em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Avança na CCJ proposta que estimula troca de fiação aérea por subterrânea",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/avanca-na-ccj-proposta-que-estimula-troca-de-fiacao-aerea-por-subterranea",
+      "date": "2026-11-11T17:02:08.000Z",
+      "summary": "A Comissão de Constituição e Justiça (CCJ) aprovou nesta quarta-feira (11) proposta que cria um programa federal para modernizar redes de energia elétrica e telecomunicações. O PL 3.801/2025 propõe a substituição da fiação aérea por sistemas subterrâneos ou te",
       "source": "Agência Senado",
       "cat": "politica"
     },
     {
-      "title": "CDH aprova cotas em instituições federais de ensino para jovens de abrigos",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/cdh-aprova-cotas-em-instituicoes-federais-de-ensino-para-jovens-de-abrigos",
-      "date": "2026-11-11T15:45:58.000Z",
-      "summary": "Jovens que completam 18 anos em serviços de acolhimento institucional sem terem sido adotados poderão ter vagas reservadas em universidades federais e instituições federais de ensino técnico de nível médio. A medida está prevista no PL 618/2021, aprovado nesta",
+      "title": "Aprovado na CAS cordão para identificar pessoa com doença de Parkinson",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/aprovado-na-cas-cordao-para-identificar-pessoa-com-doenca-de-parkinson",
+      "date": "2026-11-11T17:00:43.000Z",
+      "summary": "A Comissão de Assuntos Sociais (CAS) aprovou nesta quarta-feira (11), em decisão terminativa, projeto que institui um cordão com desenhos de tulipas vermelhas como identificador da pessoa com doença de Parkinson. O PL 4.366/2024, do senador Romário (PL-RJ), re",
       "source": "Agência Senado",
       "cat": "politica"
     },
     {
-      "title": "Atendimento prioritário a mulheres que perderam bebês avança",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/atendimento-prioritario-a-mulheres-que-perderam-bebes-avanca",
-      "date": "2026-11-11T15:41:23.000Z",
-      "summary": "A Comissão de Direitos Humanos (CDH) aprovou nesta quarta-feira (11) projeto que garante prioridade no atendimento psicológico e social a mulheres que passaram por perda gestacional, óbito fetal ou morte do bebê após o nascimento. O texto segue agora para a Co",
+      "title": "Projeto que amplia proteção emergencial a mulheres avança",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/projeto-que-amplia-protecao-emergencial-a-mulheres-avanca",
+      "date": "2026-11-11T16:52:46.000Z",
+      "summary": "Delegados de polícia poderão impor restrições à aproximação de agressores e solicitar à Justiça a apreensão de armas de fogo para proteger mulheres em situação de violência doméstica e familiar. A autorização valerá em municípios que não sejam sede de comarca,",
       "source": "Agência Senado",
       "cat": "politica"
     },
     {
-      "title": "CSP aprova convites a ministro da Justiça e diretor da PF sobre Banco Master",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/csp-aprova-convites-a-ministro-da-justica-e-diretor-da-pf-sobre-banco-master",
-      "date": "2026-11-11T15:34:18.000Z",
-      "summary": "A Comissão de Segurança Pública (CSP) aprovou, nesta quarta-feira (11), três requerimentos para ouvir autoridades e delegados sobre a investigação do Banco Master. Os convites ao ministro da Justiça e Segurança Pública, Wellington César Lima e Silva, e ao dire",
+      "title": "Gestantes poderão ter mais informação sobre alívio da dor no parto",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/gestantes-poderao-ter-mais-informacao-sobre-alivio-da-dor-no-parto",
+      "date": "2026-11-11T16:48:05.000Z",
+      "summary": "A Comissão de Direitos Humanos (CDH) aprovou nesta quarta-feira (11) projeto que garante às gestantes o direito de receber informações sobre métodos de alívio da dor no parto e prevê medidas para ampliar o acesso a esses recursos no Sistema Único de Saúde (SUS",
       "source": "Agência Senado",
       "cat": "politica"
     },
     {
-      "title": "As críticas à troca de delegados da PF no caso Master: 'Levanta graves suspeitas'",
-      "link": "https://www.bbc.com/portuguese/articles/c6wy47lmwz1no?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-11T15:30:42.000Z",
-      "summary": "Segundo fontes ouvidas pela BBC News Brasil, mudança representa um episódio preocupante de tentativa de interferência no andamento de investigações envolvendo ministros do STF.",
-      "source": "BBC News Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "CCJ aprova determinação para escolas seguirem normas técnicas de segurança",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/ccj-aprova-determinacao-para-escolas-seguirem-normas-tecnicas-de-seguranca",
-      "date": "2026-11-11T15:25:18.000Z",
-      "summary": "A Comissão de Constituição e Justiça (CCJ) aprovou nesta quarta-feira (11) proposta que obriga escolas, clubes, parques e espaços de recreação infantojuvenil a seguirem normas técnicas de segurança na compra, uso e manutenção de mobiliário, brinquedos e infrae",
+      "title": "CDH aprova orientação a pais para prevenir acidentes com bebês",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/cdh-aprova-orientacao-a-pais-para-prevenir-acidentes-com-bebes",
+      "date": "2026-11-11T16:44:32.000Z",
+      "summary": "Pais e responsáveis por recém-nascidos poderão receber orientações e treinamento para prevenir acidentes e prestar primeiros socorros aos bebês antes da alta hospitalar. A oferta será obrigatória nos serviços de saúde onde ocorrer o parto, mas a participação d",
       "source": "Agência Senado",
       "cat": "politica"
     },
@@ -233,36 +249,12 @@
       "cat": "politica"
     },
     {
-      "title": "Câmara pode votar regras mais rígidas para progressão de pena e punições por abusos contra idosos",
-      "link": "https://www.camara.leg.br/noticias/1318256-camara-pode-votar-regras-mais-rigidas-para-progressao-de-pena-e-punicoes-por-abusos-contra-idosos",
-      "date": "2026-11-11T13:29:00.000Z",
-      "summary": "Pauta também inclui propostas sobre estupro de vulnerável, maus-tratos a animais e crimes contra a honra nas redes sociais",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
       "title": "BC divulga Relatório de Poupança de outubro",
       "link": "https://www.bcb.gov.br/detalhenoticia/21315/nota",
       "date": "2026-11-11T12:00:19.000Z",
       "summary": "",
       "source": "Banco Central",
       "cat": "economia"
-    },
-    {
-      "title": "Motta destaca aprovação de medida provisória que permite renegociação de dívidas de produtores rurais",
-      "link": "https://www.camara.leg.br/noticias/1318249-motta-destaca-aprovacao-de-medida-provisoria-que-permite-renegociacao-de-dividas-de-produtores-rurais",
-      "date": "2026-11-11T11:53:00.000Z",
-      "summary": "",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão de Saúde discute proposta que cria cartão de identificação único do usuário do SUS; participe",
-      "link": "https://www.camara.leg.br/noticias/1316523-comissao-de-saude-discute-proposta-que-cria-cartao-de-identificacao-unico-do-usuario-do-sus-participe",
-      "date": "2026-11-11T11:51:00.000Z",
-      "summary": "A ideia é adotar um modelo de identificação dos usuários que funcione de maneira integrada em diferentes localidades e níveis de atendimento",
-      "source": "Agência Câmara",
-      "cat": "politica"
     },
     {
       "title": "Após as eleições, STF encara novo capítulo da crise histórica",
@@ -333,6 +325,14 @@
       "link": "https://www.bbc.com/portuguese/articles/c5pvgv1x940xo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-10T16:39:55.000Z",
       "summary": "Pesquisador de Universidade Stanford, nos EUA, citado por André Lara Resende em sua proposta sobre política fiscal, diz à BBC News Brasil que projeto dependeria de ajuste fiscal e mudanças em programas sociais.",
+      "source": "BBC News Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "Sobrevivente de Epstein diz que executivo que segue ativo em agência de modelos a enviou para casa do abusador",
+      "link": "https://www.bbc.com/portuguese/articles/ck87z72lje93o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-10T14:58:13.000Z",
+      "summary": "O presidente da agência MC2, Jeff Fuller, dirige atualmente outra agência de modelos americana, chamada The Source Models.",
       "source": "BBC News Brasil",
       "cat": "internacional"
     },
