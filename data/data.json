@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-11T17:20:53.815Z",
+  "updated": "2026-11-11T18:29:10.280Z",
   "market": {
     "ibov": {
-      "price": 172492.9,
-      "pct": 0.67,
-      "time": "2026-11-11T17:20:45.092Z",
+      "price": 172409.9,
+      "pct": 0.63,
+      "time": "2026-11-11T18:29:04.624Z",
       "history": [
         {
           "d": "2026-10-13",
@@ -88,7 +88,7 @@
         },
         {
           "d": "2026-11-11",
-          "c": 172456.4375
+          "c": 172390.5469
         }
       ]
     },
@@ -145,90 +145,130 @@
   },
   "news": [
     {
+      "title": "Equador vive permanente estado de exceção sem melhora na segurança",
+      "link": "https://www.dw.com/pt-br/equador-vive-permanente-estado-de-exceção-sem-melhora-na-segurança/a-79922564?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-11T18:14:00.000Z",
+      "summary": "Estratégia linha-dura do presidente Daniel Noboa serve mais para legimitação política do que combate ao crime, avaliam analistas.",
+      "source": "DW Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "Comissão aprova reconhecimento jurídico do trabalho doméstico não remunerado como atividade econômica",
+      "link": "https://www.camara.leg.br/noticias/1318365-comissao-aprova-reconhecimento-juridico-do-trabalho-domestico-nao-remunerado-como-atividade-economica",
+      "date": "2026-11-11T18:11:00.000Z",
+      "summary": "Proposta segue em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "AfD revolta romenos com acusação de fraude em benefício social alemão",
+      "link": "https://www.dw.com/pt-br/afd-revolta-romenos-com-acusação-de-fraude-em-benefício-social-alemão/a-79916823?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-11T18:02:00.000Z",
+      "summary": "Alice Weidel acusa romenos de abusar do sistema de benefícios sociais da Alemanha e gera protestos até de aliados da AfD na Romênia. Também a BSW, de Sahra Wagenknecht, critica pagamento de auxílio infantil.",
+      "source": "DW Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "CAS aprova campanha sobre síndrome do nariz vazio",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/cas-aprova-campanha-sobre-sindrome-do-nariz-vazio",
+      "date": "2026-11-11T17:50:53.000Z",
+      "summary": "A Comissão de Assuntos Sociais (CAS) aprovou nesta quarta-feira (11) projeto que cria o Dia Nacional de Conscientização sobre a Síndrome do Nariz Vazio, a ser celebrado em 4 de novembro. A síndrome é causada pela perda significativa de tecido intranasal em dec",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "CCJ agrava pena para quem mata ou fere dirigindo sob efeito de álcool ou drogas",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/ccj-agrava-pena-para-quem-mata-ou-fere-dirigindo-sob-efeito-de-alcool-ou-drogas",
+      "date": "2026-11-11T17:44:28.000Z",
+      "summary": "A Comissão de Constituição e Justiça (CCJ) do Senado aprovou nesta quarta-feira (11), em primeiro turno, texto alternativo ao projeto que aumenta as penas para homicídio e lesão corporal grave ou gravíssima praticados na direção de veículo sob efeito de álcool",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Espanha tem primeira greve geral em 14 anos em meio à crise habitacional e à campanha eleitoral",
+      "link": "https://www.dw.com/pt-br/espanha-tem-primeira-greve-geral-em-14-anos-em-meio-à-crise-habitacional-e-à-campanha-eleitoral/a-79922900?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-11T17:41:00.000Z",
+      "summary": "Paralisação convocada por sindicatos cobra moradia acessível, controle dos aluguéis e melhores salários; protestos ocorrem a 18 dias das eleições e pressionam governo e oposição.",
+      "source": "DW Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "Comissão aprova diretrizes nacionais para investigação de mortes violentas de mulheres",
+      "link": "https://www.camara.leg.br/noticias/1318414-comissao-aprova-diretrizes-nacionais-para-investigacao-de-mortes-violentas-de-mulheres",
+      "date": "2026-11-11T17:39:00.000Z",
+      "summary": "Objetivo é identificar eventual ocorrência de feminicídio; a Câmara dos Deputados continua discutindo o assunto",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "​BC divulga IC-Br de outubro",
+      "link": "https://www.bcb.gov.br/detalhenoticia/21316/nota",
+      "date": "2026-11-11T17:30:47.000Z",
+      "summary": "",
+      "source": "Banco Central",
+      "cat": "economia"
+    },
+    {
+      "title": "Comissão aprova dez projetos que abrem créditos de R$ 966,4 milhões no Orçamento",
+      "link": "https://www.camara.leg.br/noticias/1318402-comissao-aprova-dez-projetos-que-abrem-creditos-de-r-9664-milhoes-no-orcamento",
+      "date": "2026-11-11T17:30:00.000Z",
+      "summary": "Os projetos aprovados serão analisados agora pelo Plenário do Congresso Nacional",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Homens de meia-idade e com ensino médio: o perfil de quem elegeu os deputados campeões de voto em SP nas eleições de 2026",
+      "link": "https://www.bbc.com/portuguese/articles/cm3r5v2el35vo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-11T17:25:50.000Z",
+      "summary": "Cruzamento de dados da votação no estado com cadastro do eleitorado das seções expressa polarização ideológica, em que deputados mais votados representam pautas à esquerda e à direita",
+      "source": "BBC News Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "Comissão aprova horário especial em museus para idosos e pessoas com deficiência",
+      "link": "https://www.camara.leg.br/noticias/1318361-comissao-aprova-horario-especial-em-museus-para-idosos-e-pessoas-com-deficiencia",
+      "date": "2026-11-11T17:25:00.000Z",
+      "summary": "A proposta ainda precisa ser votada por mais três comissões na Câmara e pelo Senado",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Pai e mãe de pessoa que exige cuidado permanente podem ter prioridade no SUS",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/pai-e-mae-de-pessoa-que-exige-cuidado-permanente-podem-ter-prioridade-no-sus",
+      "date": "2026-11-11T17:23:18.000Z",
+      "summary": "Mães e pais de pessoas com deficiência, transtorno ou doença que exija cuidados especiais permanentes poderão ter prioridade nos serviços de saúde e de atenção psicológica do Sistema Único de Saúde (SUS). A medida está no projeto de lei (PL) 3.124/2023, aprova",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Avança projeto que prevê atendimento integral para endometriose no SUS",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/avanca-projeto-que-preve-atendimento-integral-para-endometriose-no-sus",
+      "date": "2026-11-11T17:22:45.000Z",
+      "summary": "A Comissão de Assuntos Sociais do Senado (CAS) aprovou nesta quarta-feira (11) um projeto de lei que garante para as mulheres com endometriose atendimento integral pelo Sistema Único de Saúde (SUS). O projeto (PL 1.069/2023) prevê a assistência desde o diagnós",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Comissão aprova inclusão expressa das polícias penais no Sistema Único de Segurança Pública",
+      "link": "https://www.camara.leg.br/noticias/1318372-comissao-aprova-inclusao-expressa-das-policias-penais-no-sistema-unico-de-seguranca-publica",
+      "date": "2026-11-11T17:21:00.000Z",
+      "summary": "O projeto continua em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Vai ao Plenário proposta de mobilização de 21 dias pelos direitos das mulheres",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/vai-ao-plenario-proposta-de-mobilizacao-de-21-dias-pelos-direitos-das-mulheres",
+      "date": "2026-11-11T17:19:38.000Z",
+      "summary": "A Comissão de Direitos Humanos (CDH) aprovou nesta quarta-feira (11) projeto que institui a Mobilização Nacional dos 21 Dias de Ativismo pelo Fim da Violência e do Racismo contra as Mulheres, a ser realizada anualmente entre 20 de novembro e 10 de dezembro. A ",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
       "title": "Comissão aprova uso de recursos do BNDES para financiar energia renovável na agricultura familiar",
       "link": "https://www.camara.leg.br/noticias/1318363-comissao-aprova-uso-de-recursos-do-bndes-para-financiar-energia-renovavel-na-agricultura-familiar",
       "date": "2026-11-11T17:10:00.000Z",
       "summary": "Proposta continua em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Prorrogadas medidas provisórias das bets e do Desenrola; cinco MPs perdem eficácia",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/prorrogadas-medidas-provisorias-das-bets-e-do-desenrola-cinco-mps-perdem-eficacia",
-      "date": "2026-11-11T17:09:55.000Z",
-      "summary": "O presidente do Senado e do Congresso Nacional, Davi Alcolumbre, assinou ato que prorroga por 60 dias a medida provisória que proíbe, em todo o país, a exploração, a oferta, a intermediação e a publicidade de apostas de quota fixa. Davi também prorrogou outras",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão aprova projeto que restringe prisão preventiva de agentes de segurança em serviço",
-      "link": "https://www.camara.leg.br/noticias/1318335-comissao-aprova-projeto-que-restringe-prisao-preventiva-de-agentes-de-seguranca-em-servico",
-      "date": "2026-11-11T17:06:00.000Z",
-      "summary": "A proposta segue em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão aprova exigência de recursos de acessibilidade em totens de autoatendimento",
-      "link": "https://www.camara.leg.br/noticias/1318323-comissao-aprova-exigencia-de-recursos-de-acessibilidade-em-totens-de-autoatendimento",
-      "date": "2026-11-11T17:04:00.000Z",
-      "summary": "O texto continua em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Avança na CCJ proposta que estimula troca de fiação aérea por subterrânea",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/avanca-na-ccj-proposta-que-estimula-troca-de-fiacao-aerea-por-subterranea",
-      "date": "2026-11-11T17:02:08.000Z",
-      "summary": "A Comissão de Constituição e Justiça (CCJ) aprovou nesta quarta-feira (11) proposta que cria um programa federal para modernizar redes de energia elétrica e telecomunicações. O PL 3.801/2025 propõe a substituição da fiação aérea por sistemas subterrâneos ou te",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
-      "title": "Aprovado na CAS cordão para identificar pessoa com doença de Parkinson",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/aprovado-na-cas-cordao-para-identificar-pessoa-com-doenca-de-parkinson",
-      "date": "2026-11-11T17:00:43.000Z",
-      "summary": "A Comissão de Assuntos Sociais (CAS) aprovou nesta quarta-feira (11), em decisão terminativa, projeto que institui um cordão com desenhos de tulipas vermelhas como identificador da pessoa com doença de Parkinson. O PL 4.366/2024, do senador Romário (PL-RJ), re",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
-      "title": "Projeto que amplia proteção emergencial a mulheres avança",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/projeto-que-amplia-protecao-emergencial-a-mulheres-avanca",
-      "date": "2026-11-11T16:52:46.000Z",
-      "summary": "Delegados de polícia poderão impor restrições à aproximação de agressores e solicitar à Justiça a apreensão de armas de fogo para proteger mulheres em situação de violência doméstica e familiar. A autorização valerá em municípios que não sejam sede de comarca,",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
-      "title": "Gestantes poderão ter mais informação sobre alívio da dor no parto",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/gestantes-poderao-ter-mais-informacao-sobre-alivio-da-dor-no-parto",
-      "date": "2026-11-11T16:48:05.000Z",
-      "summary": "A Comissão de Direitos Humanos (CDH) aprovou nesta quarta-feira (11) projeto que garante às gestantes o direito de receber informações sobre métodos de alívio da dor no parto e prevê medidas para ampliar o acesso a esses recursos no Sistema Único de Saúde (SUS",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
-      "title": "CDH aprova orientação a pais para prevenir acidentes com bebês",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/cdh-aprova-orientacao-a-pais-para-prevenir-acidentes-com-bebes",
-      "date": "2026-11-11T16:44:32.000Z",
-      "summary": "Pais e responsáveis por recém-nascidos poderão receber orientações e treinamento para prevenir acidentes e prestar primeiros socorros aos bebês antes da alta hospitalar. A oferta será obrigatória nos serviços de saúde onde ocorrer o parto, mas a participação d",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
-      "title": "Projeto fixa prazo para proibir produtos de limpeza e cosméticos com fosfatos",
-      "link": "https://www.camara.leg.br/noticias/1312629-projeto-fixa-prazo-para-proibir-produtos-de-limpeza-e-cosmeticos-com-fosfatos",
-      "date": "2026-11-11T15:03:00.000Z",
-      "summary": "Quando o fosfato atinge rios e mares, prejudica a biodiversidade e a qualidade da água; a Câmara dos Deputados discute a proibição",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Projeto permite que pacientes com câncer usem lenço ou turbante em foto de documento",
-      "link": "https://www.camara.leg.br/noticias/1314171-projeto-permite-que-pacientes-com-cancer-usem-lenco-ou-turbante-em-foto-de-documento",
-      "date": "2026-11-11T14:20:00.000Z",
-      "summary": "A Câmara dos Deputados está discutindo o assunto",
       "source": "Agência Câmara",
       "cat": "politica"
     },
@@ -239,14 +279,6 @@
       "summary": "País superou nações ricas, como a Alemanha, também por aumento de renováveis. Mas expansão do petróleo e gás e emissões em setores poluentes ainda são entraves para avanço maior.",
       "source": "DW Brasil",
       "cat": "internacional"
-    },
-    {
-      "title": "Relatório preliminar da LDO de 2027 fixa regras para o Anexo de Metas e Prioridades",
-      "link": "https://www.camara.leg.br/noticias/1318295-relatorio-preliminar-da-ldo-de-2027-fixa-regras-para-o-anexo-de-metas-e-prioridades",
-      "date": "2026-11-11T13:45:00.000Z",
-      "summary": "O texto fixa critérios de procedimentos sobre a apresentação de emendas ao projeto da LDO",
-      "source": "Agência Câmara",
-      "cat": "politica"
     },
     {
       "title": "BC divulga Relatório de Poupança de outubro",
@@ -281,14 +313,6 @@
       "cat": "internacional"
     },
     {
-      "title": "Republicanos da Câmara bloqueiam tentativa de impeachment de Hegseth",
-      "link": "https://www.dw.com/pt-br/republicanos-da-câmara-bloqueiam-tentativa-de-impeachment-de-hegseth/a-79916023?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-11T09:39:00.000Z",
-      "summary": "Secretário de Defesa está sob pressão devido à impopular guerra contra o Irã. Vitória pode ter sido apenas temporária, pois democratas deverão iniciar nova tentativa quando assumirem o controle do Congresso.",
-      "source": "DW Brasil",
-      "cat": "internacional"
-    },
-    {
       "title": "Jensen Huang: O papel do CEO da Nvidia investigado por caso com suposta espiã na guerra tecnológica entre EUA e China",
       "link": "https://www.bbc.com/portuguese/articles/cmg474pw776wo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-11T08:58:25.000Z",
@@ -305,34 +329,10 @@
       "cat": "internacional"
     },
     {
-      "title": "Partidos de Esquerda se unem para barrar ultradireita em estado alemão",
-      "link": "https://www.dw.com/pt-br/partidos-de-esquerda-se-unem-para-barrar-ultradireita-em-estado-alemão/a-79913451?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-10T21:13:00.000Z",
-      "summary": "Partido Social-Democrata (SPD) sela coalizão de governo com A Esquerda e os Verdes. Apesar de ter sido a mais votada na eleição de Mecklemburgo-Pomerânia Ocidental, AfD não encontra aliados e ficará na oposição.",
-      "source": "DW Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "A Ucrânia está apoiando rebeldes na África para enfraquecer a Rússia?",
-      "link": "https://www.dw.com/pt-br/a-ucrânia-está-apoiando-rebeldes-na-áfrica-para-enfraquecer-a-rússia/a-79910215?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-10T19:49:00.000Z",
-      "summary": "Especialistas ucranianos em drones estariam auxiliando rebeldes tuaregues no Mali que lutam, ao lado de jihadistas, contra o governo militar do país africano, apoiado por forças russas.",
-      "source": "DW Brasil",
-      "cat": "internacional"
-    },
-    {
       "title": "Brasil não deveria aumentar o salário mínimo, mas se livrar dele, diz o economista John Cochrane",
       "link": "https://www.bbc.com/portuguese/articles/c5pvgv1x940xo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-10T16:39:55.000Z",
       "summary": "Pesquisador de Universidade Stanford, nos EUA, citado por André Lara Resende em sua proposta sobre política fiscal, diz à BBC News Brasil que projeto dependeria de ajuste fiscal e mudanças em programas sociais.",
-      "source": "BBC News Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "Sobrevivente de Epstein diz que executivo que segue ativo em agência de modelos a enviou para casa do abusador",
-      "link": "https://www.bbc.com/portuguese/articles/ck87z72lje93o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-10T14:58:13.000Z",
-      "summary": "O presidente da agência MC2, Jeff Fuller, dirige atualmente outra agência de modelos americana, chamada The Source Models.",
       "source": "BBC News Brasil",
       "cat": "internacional"
     },
@@ -375,15 +375,9 @@
       "summary": "",
       "source": "Banco Central",
       "cat": "economia"
-    },
-    {
-      "title": "BC divulga Estatísticas Monetárias e de Crédito à imprensa",
-      "link": "https://www.bcb.gov.br/detalhenoticia/21304/nota",
-      "date": "2026-10-29T11:32:01.000Z",
-      "summary": "",
-      "source": "Banco Central",
-      "cat": "economia"
     }
   ],
-  "errors": []
+  "errors": [
+    "Selic (SGS 432): HTTP 304"
+  ]
 }
