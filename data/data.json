@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-11T11:38:19.308Z",
+  "updated": "2026-11-11T12:40:34.183Z",
   "market": {
     "ibov": {
       "price": 171336.98,
       "pct": -0.52,
-      "time": "2026-11-11T11:38:14.851Z",
+      "time": "2026-11-11T12:40:29.606Z",
       "history": [
         {
           "d": "2026-10-13",
@@ -141,6 +141,38 @@
   },
   "news": [
     {
+      "title": "BC divulga Relatório de Poupança de outubro",
+      "link": "https://www.bcb.gov.br/detalhenoticia/21315/nota",
+      "date": "2026-11-11T12:00:19.000Z",
+      "summary": "",
+      "source": "Banco Central",
+      "cat": "economia"
+    },
+    {
+      "title": "Motta destaca aprovação de medida provisória que permite renegociação de dívidas de produtores rurais",
+      "link": "https://www.camara.leg.br/noticias/1318249-motta-destaca-aprovacao-de-medida-provisoria-que-permite-renegociacao-de-dividas-de-produtores-rurais",
+      "date": "2026-11-11T11:53:00.000Z",
+      "summary": "",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Comissão de Saúde discute proposta que cria cartão de identificação único do usuário do SUS; participe",
+      "link": "https://www.camara.leg.br/noticias/1316523-comissao-de-saude-discute-proposta-que-cria-cartao-de-identificacao-unico-do-usuario-do-sus-participe",
+      "date": "2026-11-11T11:51:00.000Z",
+      "summary": "A ideia é adotar um modelo de identificação dos usuários que funcione de maneira integrada em diferentes localidades e níveis de atendimento",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Comissão debate atendimento educacional dos alunos da educação especial; participe",
+      "link": "https://www.camara.leg.br/noticias/1316333-comissao-debate-atendimento-educacional-dos-alunos-da-educacao-especial-participe",
+      "date": "2026-11-11T11:39:00.000Z",
+      "summary": "",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
       "title": "Comissão discute falta de auditores-fiscais do trabalho nesta quarta-feira; participe",
       "link": "https://www.camara.leg.br/noticias/1317278-comissao-discute-falta-de-auditores-fiscais-do-trabalho-nesta-quarta-feira-participe",
       "date": "2026-11-11T11:36:00.000Z",
@@ -161,30 +193,6 @@
       "link": "https://www.camara.leg.br/noticias/1317917-comissao-debate-propostas-orcamentarias-para-2027-nesta-quarta-feira",
       "date": "2026-11-11T11:29:00.000Z",
       "summary": "O relatório final da LDO deve ser votado na Comissão de Orçamento até 9 de dezembro, e o Orçamento Anual, em 16 de dezembro",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão debate implantação e projeto acadêmico da Universidade Federal do Esporte; participe",
-      "link": "https://www.camara.leg.br/noticias/1316274-comissao-debate-implantacao-e-projeto-academico-da-universidade-federal-do-esporte-participe",
-      "date": "2026-11-11T11:25:00.000Z",
-      "summary": "",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão pode votar na próxima quarta parecer sobre mudanças no Código de Trânsito",
-      "link": "https://www.camara.leg.br/noticias/1317758-comissao-pode-votar-na-proxima-quarta-parecer-sobre-mudancas-no-codigo-de-transito",
-      "date": "2026-11-11T11:22:00.000Z",
-      "summary": "O relatório do deputado Aureo Ribeiro consolida 270 propostas de alteração na legislação de trânsito, incluindo a formação de condutores",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão debate atuação da Rede Nacional de Física de Altas Energias",
-      "link": "https://www.camara.leg.br/noticias/1316238-comissao-debate-atuacao-da-rede-nacional-de-fisica-de-altas-energias",
-      "date": "2026-11-11T11:20:00.000Z",
-      "summary": "Essa rede reúne pesquisadores e instituições brasileiras que estudam os componentes mais fundamentais da matéria e as forças que atuam entre eles",
       "source": "Agência Câmara",
       "cat": "politica"
     },
@@ -237,44 +245,12 @@
       "cat": "internacional"
     },
     {
-      "title": "Senadores negociam projeto de ajuste fiscal com Poder Executivo, diz Davi",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/10/senadores-negociam-projeto-de-ajuste-fiscal-com-poder-executivo-diz-davi",
-      "date": "2026-11-11T01:17:24.000Z",
-      "summary": "O presidente do Senado, Davi Alcolumbre, confirmou na noite desta terça-feira (10) que parlamentares aliados ao governo devem apresentar um projeto de lei complementar (PLP) para promover uma redução nas despesas do Poder Executivo. O texto está sendo negociad",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
       "title": "As críticas à troca de delegados da PF no caso Master: 'Levanta graves suspeitas'",
       "link": "https://www.bbc.com/portuguese/articles/c6wy47lmwz1no?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-11T01:10:42.000Z",
       "summary": "Segundo fontes ouvidas pela BBC News Brasil, mudança representa um episódio preocupante de tentativa de interferência no andamento de investigações envolvendo ministros do STF.",
       "source": "BBC News Brasil",
       "cat": "internacional"
-    },
-    {
-      "title": "Zequinha Marinho defende medida provisória de renegociação de dívidas rurais",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/10/zequinha-marinho-defende-medida-provisoria-de-renegociacao-de-dividas-rurais",
-      "date": "2026-11-10T23:40:21.000Z",
-      "summary": "O senador Zequinha Marinho (Podemos-PA), em pronunciamento no Plenário nesta terça-feira (10), defendeu a aprovação da MP 1.376/2026, medida provisória que trata da renegociação de dívidas de produtores rurais. Ele alertou para o prazo dessa MP, que se encerra",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
-      "title": "Sérgio Petecão faz balanço de atuação no Senado",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/10/sergio-petecao-faz-balanco-de-atuacao-no-senado",
-      "date": "2026-11-10T23:34:10.000Z",
-      "summary": "O senador Sérgio Petecão (PSD-AC), em pronunciamento no Plenário nesta terça-feira (10), apresentou um balanço de sua atuação parlamentar — incluindo os recursos destinados ao Acre ao longo de 16 anos de mandato. Ele afirmou ter destinado mais de R$ 1 bilhão e",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
-      "title": "Chico Rodrigues comemora aprovação da PEC da Segurança Pública",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/10/chico-rodrigues-comemora-aprovacao-da-pec-da-seguranca-publica",
-      "date": "2026-11-10T23:01:49.000Z",
-      "summary": "O senador Chico Rodrigues (PSB-RR), em pronunciamento no Plenário nesta terça-feira (10), comemorou a aprovação da Proposta de Emenda à Constituição (PEC) 18/2025, que trata da segurança pública. Segundo o parlamentar, a matéria amplia a cooperação entre União",
-      "source": "Agência Senado",
-      "cat": "politica"
     },
     {
       "title": "Partidos de Esquerda se unem para barrar ultradireita em estado alemão",
@@ -355,15 +331,9 @@
       "summary": "",
       "source": "Banco Central",
       "cat": "economia"
-    },
-    {
-      "title": "Banco Central decreta Liquidação Extrajudicial da MW Instituição de Pagamento Ltda.",
-      "link": "https://www.bcb.gov.br/detalhenoticia/21305/nota",
-      "date": "2026-10-29T10:39:39.000Z",
-      "summary": "",
-      "source": "Banco Central",
-      "cat": "economia"
     }
   ],
-  "errors": []
+  "errors": [
+    "Selic (SGS 432): HTTP 304"
+  ]
 }
