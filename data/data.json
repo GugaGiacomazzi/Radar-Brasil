@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-11T18:29:10.280Z",
+  "updated": "2026-11-11T19:40:51.054Z",
   "market": {
     "ibov": {
-      "price": 172409.9,
-      "pct": 0.63,
-      "time": "2026-11-11T18:29:04.624Z",
+      "price": 172319.84,
+      "pct": 0.57,
+      "time": "2026-11-11T19:40:46.068Z",
       "history": [
         {
           "d": "2026-10-13",
@@ -88,7 +88,7 @@
         },
         {
           "d": "2026-11-11",
-          "c": 172390.5469
+          "c": 172319.8438
         }
       ]
     },
@@ -144,6 +144,38 @@
     ]
   },
   "news": [
+    {
+      "title": "Prazo de 20 anos para reparação por crimes sexuais contra menores vai a Plenário",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/prazo-de-20-anos-para-reparacao-por-crimes-sexuais-contra-menores-vai-a-plenario",
+      "date": "2026-11-11T19:07:12.000Z",
+      "summary": "A Comissão de Constituição e Justiça do Senado (CCJ) aprovou nesta quarta-feira (11) um projeto de lei que fixa em 20 anos o prazo para uma pessoa solicitar reparação civil por crimes sexuais sofridos na infância ou adolescência. O projeto (PL 4.186/2021) segu",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Dia Nacional da Música Instrumental Hermeto Pascoal vai a sanção",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/dia-nacional-da-musica-instrumental-hermeto-pascoal-vai-a-sancao",
+      "date": "2026-11-11T18:53:49.000Z",
+      "summary": "A Comissão de Educação e Cultura (CE) aprovou nesta quarta-feira (11) projeto que institui o Dia Nacional da Música Instrumental Hermeto Pascoal, a ser comemorado anualmente em 22 de junho. O PL 4.906/2025, da Câmara dos Deputados, recebeu relatório favorável ",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Congresso homenageia Nossa Senhora de Nazaré",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/congresso-homenageia-nossa-senhora-de-nazare",
+      "date": "2026-11-11T18:48:37.000Z",
+      "summary": "Nossa Senhora de Nazaré, padroeira do Pará, foi homenageada em sessão solene do Congresso Nacional, nesta quarta-feira (11), no Plenário do Senado. Durante a homenagem, parlamentares e representantes da Igreja Católica ressaltaram o papel da fé na pacificação ",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "CMO libera R$ 966,4 milhões em créditos para o Orçamento deste ano",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/cmo-libera-r-966-4-milhoes-em-creditos-para-o-orcamento-deste-ano",
+      "date": "2026-11-11T18:26:54.000Z",
+      "summary": "A Comissão Mista de Orçamento (CMO) aprovou nesta quarta-feira (11) dez projetos de lei do Congresso Nacional (PLNs) que, juntos, autorizam a abertura de R$ 966,4 milhões em créditos adicionais no Orçamento de 2026. O colegiado também aprovou proposição que am",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
     {
       "title": "Equador vive permanente estado de exceção sem melhora na segurança",
       "link": "https://www.dw.com/pt-br/equador-vive-permanente-estado-de-exceção-sem-melhora-na-segurança/a-79922564?maca=bra-rss-br-all-1030-xml-mrss",
@@ -233,35 +265,11 @@
       "cat": "politica"
     },
     {
-      "title": "Pai e mãe de pessoa que exige cuidado permanente podem ter prioridade no SUS",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/pai-e-mae-de-pessoa-que-exige-cuidado-permanente-podem-ter-prioridade-no-sus",
-      "date": "2026-11-11T17:23:18.000Z",
-      "summary": "Mães e pais de pessoas com deficiência, transtorno ou doença que exija cuidados especiais permanentes poderão ter prioridade nos serviços de saúde e de atenção psicológica do Sistema Único de Saúde (SUS). A medida está no projeto de lei (PL) 3.124/2023, aprova",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
-      "title": "Avança projeto que prevê atendimento integral para endometriose no SUS",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/avanca-projeto-que-preve-atendimento-integral-para-endometriose-no-sus",
-      "date": "2026-11-11T17:22:45.000Z",
-      "summary": "A Comissão de Assuntos Sociais do Senado (CAS) aprovou nesta quarta-feira (11) um projeto de lei que garante para as mulheres com endometriose atendimento integral pelo Sistema Único de Saúde (SUS). O projeto (PL 1.069/2023) prevê a assistência desde o diagnós",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
       "title": "Comissão aprova inclusão expressa das polícias penais no Sistema Único de Segurança Pública",
       "link": "https://www.camara.leg.br/noticias/1318372-comissao-aprova-inclusao-expressa-das-policias-penais-no-sistema-unico-de-seguranca-publica",
       "date": "2026-11-11T17:21:00.000Z",
       "summary": "O projeto continua em análise na Câmara dos Deputados",
       "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Vai ao Plenário proposta de mobilização de 21 dias pelos direitos das mulheres",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/vai-ao-plenario-proposta-de-mobilizacao-de-21-dias-pelos-direitos-das-mulheres",
-      "date": "2026-11-11T17:19:38.000Z",
-      "summary": "A Comissão de Direitos Humanos (CDH) aprovou nesta quarta-feira (11) projeto que institui a Mobilização Nacional dos 21 Dias de Ativismo pelo Fim da Violência e do Racismo contra as Mulheres, a ser realizada anualmente entre 20 de novembro e 10 de dezembro. A ",
-      "source": "Agência Senado",
       "cat": "politica"
     },
     {
@@ -287,6 +295,14 @@
       "summary": "",
       "source": "Banco Central",
       "cat": "economia"
+    },
+    {
+      "title": "Com emissões em nível recorde, COP31 lança meta para eletrificação até 2035",
+      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854895",
+      "date": "2026-11-11T12:00:00.000Z",
+      "summary": "Na abertura de alto nível, secretário-geral António Guterres alertou que planeta segue rumo à destruição; ONU aponta energia limpa como escudo contra a inflação; presidente Lula, do Brasil, advertiu que ação climática está perdendo terreno no mundo.",
+      "source": "ONU News",
+      "cat": "internacional"
     },
     {
       "title": "Após as eleições, STF encara novo capítulo da crise histórica",
@@ -337,14 +353,6 @@
       "cat": "internacional"
     },
     {
-      "title": "Conferência do Clima discute caminhos para o fim dos combustíveis fósseis",
-      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854891",
-      "date": "2026-11-10T12:00:00.000Z",
-      "summary": "Brasil lançou mapa de rotas para a transição energética e Turquia propôs a meta de 35% de eletrificação até 2035; desafio atual é destravar 2,5 mil gigawatts de energia limpa parados por falta de infraestrutura e juros altos.",
-      "source": "ONU News",
-      "cat": "internacional"
-    },
-    {
       "title": "BC divulga Ata da 282ª reunião do Copom",
       "link": "https://www.bcb.gov.br/detalhenoticia/21312/nota",
       "date": "2026-11-10T11:01:06.000Z",
@@ -378,6 +386,7 @@
     }
   ],
   "errors": [
-    "Selic (SGS 432): HTTP 304"
+    "Selic (SGS 432): HTTP 304",
+    "feed Planalto (governo): nenhum item no feed (endereço mudou?)"
   ]
 }
