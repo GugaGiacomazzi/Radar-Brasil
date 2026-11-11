@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-11T10:39:57.329Z",
+  "updated": "2026-11-11T11:38:19.308Z",
   "market": {
     "ibov": {
       "price": 171336.98,
       "pct": -0.52,
-      "time": "2026-11-11T10:39:52.027Z",
+      "time": "2026-11-11T11:38:14.851Z",
       "history": [
         {
           "d": "2026-10-13",
@@ -141,6 +141,70 @@
   },
   "news": [
     {
+      "title": "Comissão discute falta de auditores-fiscais do trabalho nesta quarta-feira; participe",
+      "link": "https://www.camara.leg.br/noticias/1317278-comissao-discute-falta-de-auditores-fiscais-do-trabalho-nesta-quarta-feira-participe",
+      "date": "2026-11-11T11:36:00.000Z",
+      "summary": "",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Comissão de Segurança debate redução da maioridade penal no Brasil",
+      "link": "https://www.camara.leg.br/noticias/1316252-comissao-de-seguranca-debate-reducao-da-maioridade-penal-no-brasil",
+      "date": "2026-11-11T11:30:00.000Z",
+      "summary": "",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Comissão debate propostas orçamentárias para 2027 nesta quarta-feira",
+      "link": "https://www.camara.leg.br/noticias/1317917-comissao-debate-propostas-orcamentarias-para-2027-nesta-quarta-feira",
+      "date": "2026-11-11T11:29:00.000Z",
+      "summary": "O relatório final da LDO deve ser votado na Comissão de Orçamento até 9 de dezembro, e o Orçamento Anual, em 16 de dezembro",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Comissão debate implantação e projeto acadêmico da Universidade Federal do Esporte; participe",
+      "link": "https://www.camara.leg.br/noticias/1316274-comissao-debate-implantacao-e-projeto-academico-da-universidade-federal-do-esporte-participe",
+      "date": "2026-11-11T11:25:00.000Z",
+      "summary": "",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Comissão pode votar na próxima quarta parecer sobre mudanças no Código de Trânsito",
+      "link": "https://www.camara.leg.br/noticias/1317758-comissao-pode-votar-na-proxima-quarta-parecer-sobre-mudancas-no-codigo-de-transito",
+      "date": "2026-11-11T11:22:00.000Z",
+      "summary": "O relatório do deputado Aureo Ribeiro consolida 270 propostas de alteração na legislação de trânsito, incluindo a formação de condutores",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Comissão debate atuação da Rede Nacional de Física de Altas Energias",
+      "link": "https://www.camara.leg.br/noticias/1316238-comissao-debate-atuacao-da-rede-nacional-de-fisica-de-altas-energias",
+      "date": "2026-11-11T11:20:00.000Z",
+      "summary": "Essa rede reúne pesquisadores e instituições brasileiras que estudam os componentes mais fundamentais da matéria e as forças que atuam entre eles",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Após as eleições, STF encara novo capítulo da crise histórica",
+      "link": "https://www.dw.com/pt-br/após-as-eleições-stf-encara-novo-capítulo-da-crise-histórica/a-79917037?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-11T10:59:00.000Z",
+      "summary": "Supremo ainda não tem previsão para retomar julgamento sobre abertura de investigação contra Alexandre de Moraes no caso Master. Processo é visto como fundamental para definir o futuro da instituição.",
+      "source": "DW Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "3 pontos para entender a primeira greve geral na Espanha em 14 anos, apoiada pelo governo e criticada pela oposição",
+      "link": "https://www.bbc.com/portuguese/articles/c58j4le1w32ro?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-11T10:49:58.000Z",
+      "summary": "A menos de 20 dias das eleições gerais, os espanhóis foram convocados para uma greve nesta quarta-feira (11/11) em protesto contra a crise da moradia e o alto custo de vida",
+      "source": "BBC News Brasil",
+      "cat": "internacional"
+    },
+    {
       "title": "TSE decide multar Meta em R$ 7,5 milhões por descumprir decisão durante as eleições",
       "link": "https://www.dw.com/pt-br/tse-decide-multar-meta-em-r-7-5-milhões-por-descumprir-decisão-durante-as-eleições/a-79916087?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-11T10:32:00.000Z",
@@ -189,35 +253,11 @@
       "cat": "internacional"
     },
     {
-      "title": "Câmara aprova projeto que amplia acesso ao crédito imobiliário do Programa Habite Seguro para profissionais ameaçados",
-      "link": "https://www.camara.leg.br/noticias/1318193-camara-aprova-projeto-que-amplia-acesso-ao-credito-imobiliario-do-programa-habite-seguro-para-profissionais-ameacados",
-      "date": "2026-11-11T00:27:00.000Z",
-      "summary": "A matéria será enviada ao Senado",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Câmara entrega Prêmio Paulo Gustavo a comediantes pela contribuição à cultura brasileira",
-      "link": "https://www.camara.leg.br/noticias/1318101-camara-entrega-premio-paulo-gustavo-a-comediantes-pela-contribuicao-a-cultura-brasileira",
-      "date": "2026-11-10T23:46:00.000Z",
-      "summary": "Premiação reconhece a contribuição de artistas e instituições que se expressam pela comédia e celebram o humor como resistência",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
       "title": "Zequinha Marinho defende medida provisória de renegociação de dívidas rurais",
       "link": "https://www12.senado.leg.br/noticias/materias/2026/11/10/zequinha-marinho-defende-medida-provisoria-de-renegociacao-de-dividas-rurais",
       "date": "2026-11-10T23:40:21.000Z",
       "summary": "O senador Zequinha Marinho (Podemos-PA), em pronunciamento no Plenário nesta terça-feira (10), defendeu a aprovação da MP 1.376/2026, medida provisória que trata da renegociação de dívidas de produtores rurais. Ele alertou para o prazo dessa MP, que se encerra",
       "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
-      "title": "Medida provisória cria fundo garantidor para novas operações de crédito rural",
-      "link": "https://www.camara.leg.br/noticias/1318105-medida-provisoria-cria-fundo-garantidor-para-novas-operacoes-de-credito-rural",
-      "date": "2026-11-10T23:40:00.000Z",
-      "summary": "A proposta perde a vigência amanhã e precisa ser votada ainda pelo Senado",
-      "source": "Agência Câmara",
       "cat": "politica"
     },
     {
@@ -229,35 +269,11 @@
       "cat": "politica"
     },
     {
-      "title": "Especialistas defendem trabalho integrado no combate à exploração sexual de menores em rodovias",
-      "link": "https://www.camara.leg.br/noticias/1318032-especialistas-defendem-trabalho-integrado-no-combate-a-exploracao-sexual-de-menores-em-rodovias",
-      "date": "2026-11-10T23:30:00.000Z",
-      "summary": "Representante da PRF elogia trabalho da polícia, mas admite que nem sempre resulta na redução do crime",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
       "title": "Chico Rodrigues comemora aprovação da PEC da Segurança Pública",
       "link": "https://www12.senado.leg.br/noticias/materias/2026/11/10/chico-rodrigues-comemora-aprovacao-da-pec-da-seguranca-publica",
       "date": "2026-11-10T23:01:49.000Z",
       "summary": "O senador Chico Rodrigues (PSB-RR), em pronunciamento no Plenário nesta terça-feira (10), comemorou a aprovação da Proposta de Emenda à Constituição (PEC) 18/2025, que trata da segurança pública. Segundo o parlamentar, a matéria amplia a cooperação entre União",
       "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
-      "title": "Câmara aprova criação do Dia Nacional do Autocuidado",
-      "link": "https://www.camara.leg.br/noticias/1318083-camara-aprova-criacao-do-dia-nacional-do-autocuidado",
-      "date": "2026-11-10T22:21:00.000Z",
-      "summary": "A matéria será enviada à sanção presidencial",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Câmara aprova urgência para propostas sobre educação integral e escolinhas de futebol feminino",
-      "link": "https://www.camara.leg.br/noticias/1318059-camara-aprova-urgencia-para-propostas-sobre-educacao-integral-e-escolinhas-de-futebol-feminino",
-      "date": "2026-11-10T22:14:00.000Z",
-      "summary": "",
-      "source": "Agência Câmara",
       "cat": "politica"
     },
     {
@@ -290,22 +306,6 @@
       "date": "2026-11-10T16:39:55.000Z",
       "summary": "Pesquisador de Universidade Stanford, nos EUA, citado por André Lara Resende em sua proposta sobre política fiscal, diz à BBC News Brasil que projeto dependeria de ajuste fiscal e mudanças em programas sociais.",
       "source": "BBC News Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "Sobrevivente de Epstein diz que executivo que segue ativo em agência de modelos a enviou para casa do abusador",
-      "link": "https://www.bbc.com/portuguese/articles/ck87z72lje93o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-10T14:58:13.000Z",
-      "summary": "O presidente da agência MC2, Jeff Fuller, dirige atualmente outra agência de modelos americana, chamada The Source Models.",
-      "source": "BBC News Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "Estreito de Ormuz segue como moeda de troca do Irã em negociações com os EUA",
-      "link": "https://www.dw.com/pt-br/estreito-de-ormuz-segue-como-moeda-de-troca-do-irã-em-negociações-com-os-eua/a-79905742?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-10T14:55:00.000Z",
-      "summary": "Limites da proteção dos EUA e capacidade do Irã de controlar a via dificultam retorno do fluxo registrado antes da guerra. Embarcações ainda são alvos de ataques na região, elevando os custos do transporte marítimo.",
-      "source": "DW Brasil",
       "cat": "internacional"
     },
     {
