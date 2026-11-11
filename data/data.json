@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-11T04:54:07.765Z",
+  "updated": "2026-11-11T05:53:54.673Z",
   "market": {
     "ibov": {
       "price": 171336.98,
       "pct": -0.52,
-      "time": "2026-11-11T04:54:01.799Z",
+      "time": "2026-11-11T05:53:50.157Z",
       "history": [
         {
           "d": "2026-10-13",
@@ -301,10 +301,18 @@
       "cat": "internacional"
     },
     {
-      "title": "Unesco marca Dia Mundial da Ciência pela Paz e pelo Desenvolvimento",
-      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854881",
+      "title": "Conferência do Clima discute caminhos para o fim dos combustíveis fósseis",
+      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854891",
       "date": "2026-11-10T12:00:00.000Z",
-      "summary": "Celebra faz apelo por conhecimento sem fronteiras e paz sem barreiras; agência da ONU sublinha que, em 2026, diplomacia científica lembra que cooperação é a maior ferramenta para sustentabilidade e paz global.",
+      "summary": "Brasil lançou mapa de rotas para a transição energética e Turquia propôs a meta de 35% de eletrificação até 2035; desafio atual é destravar 2,5 mil gigawatts de energia limpa parados por falta de infraestrutura e juros altos.",
+      "source": "ONU News",
+      "cat": "internacional"
+    },
+    {
+      "title": "Ebola pode avançar na África Central com pessoas em trânsito da RD Congo",
+      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854885",
+      "date": "2026-11-10T12:00:00.000Z",
+      "summary": "Agência da ONU diz que precisa de US$ 60 milhões para conter o surto nos países vizinhos; saída dos congoleses é causada por conflitos e outros fatores; doença já matou 5 mil pessoas, metade do número de casos notificados.",
       "source": "ONU News",
       "cat": "internacional"
     },
@@ -323,14 +331,6 @@
       "summary": "",
       "source": "Banco Central",
       "cat": "economia"
-    },
-    {
-      "title": "Fux suspende processos sobre proibição de bets em todo país; o que acontece agora",
-      "link": "https://www.bbc.com/portuguese/articles/c6n8d8x9ee17o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-09T12:27:15.000Z",
-      "summary": "Os processos das bets contra a medida do governo estão suspensos até o julgamento em definitivo da matéria pelo STF.",
-      "source": "BBC News Brasil",
-      "cat": "internacional"
     },
     {
       "title": "Copom mantém a taxa Selic em 13,75% a.a.",
@@ -365,7 +365,5 @@
       "cat": "economia"
     }
   ],
-  "errors": [
-    "feed Planalto (governo): nenhum item no feed (endereço mudou?)"
-  ]
+  "errors": []
 }
