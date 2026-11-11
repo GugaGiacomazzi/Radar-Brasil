@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-11T00:53:01.790Z",
+  "updated": "2026-11-11T01:57:14.988Z",
   "market": {
     "ibov": {
       "price": 171336.98,
       "pct": -0.52,
-      "time": "2026-11-11T00:52:54.105Z",
+      "time": "2026-11-11T01:56:57.428Z",
       "history": [
         {
           "d": "2026-10-13",
@@ -84,6 +84,10 @@
         },
         {
           "d": "2026-11-10",
+          "c": 171337
+        },
+        {
+          "d": "2026-11-10",
           "c": 171336.9844
         }
       ]
@@ -141,6 +145,22 @@
   },
   "news": [
     {
+      "title": "Senadores negociam projeto de ajuste fiscal com Poder Executivo, diz Davi",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/10/senadores-negociam-projeto-de-ajuste-fiscal-com-poder-executivo-diz-davi",
+      "date": "2026-11-11T01:17:24.000Z",
+      "summary": "O presidente do Senado, Davi Alcolumbre, confirmou na noite desta terça-feira (10) que parlamentares aliados ao governo devem apresentar um projeto de lei complementar (PLP) para promover uma redução nas despesas do Poder Executivo. O texto está sendo negociad",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "As críticas à troca de delegados da PF no caso Master: 'Graves suspeitas'",
+      "link": "https://www.bbc.com/portuguese/articles/c6wy47lmwz1no?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-11T01:10:42.000Z",
+      "summary": "Segundo fontes ouvidas pela BBC News Brasil, mudança representa um episódio preocupante de tentativa de interferência no andamento de investigações envolvendo ministros do STF.",
+      "source": "BBC News Brasil",
+      "cat": "internacional"
+    },
+    {
       "title": "Câmara aprova projeto que amplia acesso ao crédito imobiliário do Programa Habite Seguro para profissionais ameaçados",
       "link": "https://www.camara.leg.br/noticias/1318193-camara-aprova-projeto-que-amplia-acesso-ao-credito-imobiliario-do-programa-habite-seguro-para-profissionais-ameacados",
       "date": "2026-11-11T00:27:00.000Z",
@@ -193,14 +213,6 @@
       "link": "https://www12.senado.leg.br/noticias/materias/2026/11/10/chico-rodrigues-comemora-aprovacao-da-pec-da-seguranca-publica",
       "date": "2026-11-10T23:01:49.000Z",
       "summary": "O senador Chico Rodrigues (PSB-RR), em pronunciamento no Plenário nesta terça-feira (10), comemorou a aprovação da Proposta de Emenda à Constituição (PEC) 18/2025, que trata da segurança pública. Segundo o parlamentar, a matéria amplia a cooperação entre União",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
-      "title": "Instituição Fiscal Independente celebra dez anos de criação",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/10/instituicao-fiscal-independente-celebra-dez-anos-de-criacao",
-      "date": "2026-11-10T23:01:34.000Z",
-      "summary": "A Instituição Fiscal Independente (IFI) está comemorando 10 anos de criação. Em solenidade no Senado nesta terça-feira (10), o diretor-executivo da instituição, Marcus Pestana, afirmou que a trajetória da IFI é marcada por independência, autonomia e interesse ",
       "source": "Agência Senado",
       "cat": "politica"
     },
@@ -325,14 +337,6 @@
       "cat": "internacional"
     },
     {
-      "title": "Da violência ao clima extremo: O pedido urgente para Moçambique na COP31",
-      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854871",
-      "date": "2026-11-09T12:00:00.000Z",
-      "summary": "OIM afirma que convergência entre conflito e crise climática na província de Cabo Delgado, no extremo norte, exige ação dos líderes mundiais; agência alerta que, sem resposta humanitária e financiamento climático, mais vidas serão perdidas.",
-      "source": "ONU News",
-      "cat": "internacional"
-    },
-    {
       "title": "Copom mantém a taxa Selic em 13,75% a.a.",
       "link": "https://www.bcb.gov.br/detalhenoticia/21309/nota",
       "date": "2026-11-04T21:31:35.000Z",
@@ -365,8 +369,5 @@
       "cat": "economia"
     }
   ],
-  "errors": [
-    "feed Planalto (governo): fetch failed",
-    "feed Gov.br · Economia (governo): fetch failed"
-  ]
+  "errors": []
 }
