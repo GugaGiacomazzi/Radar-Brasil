@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-11T19:40:51.054Z",
+  "updated": "2026-11-11T21:28:55.260Z",
   "market": {
     "ibov": {
-      "price": 172319.84,
-      "pct": 0.57,
-      "time": "2026-11-11T19:40:46.068Z",
+      "price": 172060.44,
+      "pct": 0.42,
+      "time": "2026-11-11T21:28:49.335Z",
       "history": [
         {
           "d": "2026-10-13",
@@ -88,7 +88,7 @@
         },
         {
           "d": "2026-11-11",
-          "c": 172319.8438
+          "c": 172060.4375
         }
       ]
     },
@@ -145,36 +145,124 @@
   },
   "news": [
     {
-      "title": "Prazo de 20 anos para reparação por crimes sexuais contra menores vai a Plenário",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/prazo-de-20-anos-para-reparacao-por-crimes-sexuais-contra-menores-vai-a-plenario",
-      "date": "2026-11-11T19:07:12.000Z",
-      "summary": "A Comissão de Constituição e Justiça do Senado (CCJ) aprovou nesta quarta-feira (11) um projeto de lei que fixa em 20 anos o prazo para uma pessoa solicitar reparação civil por crimes sexuais sofridos na infância ou adolescência. O projeto (PL 4.186/2021) segu",
+      "title": "Zenaide Maia alerta para os riscos dos cigarros eletrônicos",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/zenaide-maia-alerta-para-os-riscos-dos-cigarros-eletronicos",
+      "date": "2026-11-11T21:21:52.000Z",
+      "summary": "A senadora Zenaide Maia (PSD-RN) alertou em Plenário para os riscos dos cigarros eletrônicos à saúde e se manifestou contra a comercialização desses produtos no Brasil. Em pronunciamento no Plenário nesta quarta-feira (11), a parlamentar afirmou que cerca de 8",
       "source": "Agência Senado",
       "cat": "politica"
     },
     {
-      "title": "Dia Nacional da Música Instrumental Hermeto Pascoal vai a sanção",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/dia-nacional-da-musica-instrumental-hermeto-pascoal-vai-a-sancao",
-      "date": "2026-11-11T18:53:49.000Z",
-      "summary": "A Comissão de Educação e Cultura (CE) aprovou nesta quarta-feira (11) projeto que institui o Dia Nacional da Música Instrumental Hermeto Pascoal, a ser comemorado anualmente em 22 de junho. O PL 4.906/2025, da Câmara dos Deputados, recebeu relatório favorável ",
+      "title": "Comissão aprova obrigatoriedade de pelo menos um local por município para distribuição de absorventes",
+      "link": "https://www.camara.leg.br/noticias/1318517-comissao-aprova-obrigatoriedade-de-pelo-menos-um-local-por-municipio-para-distribuicao-de-absorventes",
+      "date": "2026-11-11T21:19:00.000Z",
+      "summary": "Projeto de lei segue para o Senado, a menos que haja recurso para votação pelo Plenário da Câmara",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Damares quer esclarecimentos sobre mudanças de equipes em investigações da PF",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/damares-quer-esclarecimentos-sobre-mudancas-de-equipes-em-investigacoes-da-pf",
+      "date": "2026-11-11T21:17:18.000Z",
+      "summary": "A senadora Damares Alves (Republicanos-DF) cobrou nesta quarta-feira (11) esclarecimentos sobre mudanças na chefia de equipes da Polícia Federal responsáveis por investigações relacionadas ao Banco Master e às fraudes em benefícios do Instituto Nacional do Seg",
       "source": "Agência Senado",
       "cat": "politica"
     },
     {
-      "title": "Congresso homenageia Nossa Senhora de Nazaré",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/congresso-homenageia-nossa-senhora-de-nazare",
-      "date": "2026-11-11T18:48:37.000Z",
-      "summary": "Nossa Senhora de Nazaré, padroeira do Pará, foi homenageada em sessão solene do Congresso Nacional, nesta quarta-feira (11), no Plenário do Senado. Durante a homenagem, parlamentares e representantes da Igreja Católica ressaltaram o papel da fé na pacificação ",
+      "title": "Amin questiona remanejamento de delegados que atuaram no inquérito das fake news",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/amin-questiona-remanejamento-de-delegados-que-atuaram-no-inquerito-das-fake-news",
+      "date": "2026-11-11T21:14:38.000Z",
+      "summary": "Em pronunciamento no Plenário nesta quarta-feira (11), o senador Esperidião Amin (PP-SC) cobrou esclarecimentos sobre o afastamento de dois delegados da Polícia Federal que supervisionavam o Inquérito 4.781 do Supremo Tribunal Federal (STF), conhecido como Inq",
       "source": "Agência Senado",
       "cat": "politica"
     },
     {
-      "title": "CMO libera R$ 966,4 milhões em créditos para o Orçamento deste ano",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/cmo-libera-r-966-4-milhoes-em-creditos-para-o-orcamento-deste-ano",
-      "date": "2026-11-11T18:26:54.000Z",
-      "summary": "A Comissão Mista de Orçamento (CMO) aprovou nesta quarta-feira (11) dez projetos de lei do Congresso Nacional (PLNs) que, juntos, autorizam a abertura de R$ 966,4 milhões em créditos adicionais no Orçamento de 2026. O colegiado também aprovou proposição que am",
+      "title": "Humberto Costa declara apoio à MP que proibiu as bets no Brasil",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/humberto-costa-declara-apoio-a-mp-que-proibiu-as-bets-no-brasil",
+      "date": "2026-11-11T21:10:33.000Z",
+      "summary": "O senador Humberto Costa (PT-PE) manifestou em Plenário apoio à Medida Provisória (MPV) 1.394/2026m, que proibiu as bets. A norma baniu apostas de quota fixa, incluindo apostas esportivas e jogos on-line, dando fim à publicidade e ao patrocínio relacionados a ",
       "source": "Agência Senado",
       "cat": "politica"
+    },
+    {
+      "title": "Comissão aprova criação do Cadastro Nacional de Protetores e Associações da Causa Animal",
+      "link": "https://www.camara.leg.br/noticias/1318499-comissao-aprova-criacao-do-cadastro-nacional-de-protetores-e-associacoes-da-causa-animal",
+      "date": "2026-11-11T21:08:00.000Z",
+      "summary": "A proposta pode seguir para análise do Senado, a menos que haja recurso para ser votada no Plenário da Câmara",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "UE está longe da meta de cortar emissões no transporte em 90% até 2050",
+      "link": "https://www.dw.com/pt-br/ue-está-longe-da-meta-de-cortar-emissões-no-transporte-em-90-até-2050/a-79912043?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-11T21:04:00.000Z",
+      "summary": "Frotas mais limpas estão transformando a mobilidade no continente. Mas muitas cidades ainda avançam devagar rumo à sustentabilidade.",
+      "source": "DW Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "Deputadas e movimentos sociais homenageiam Benedita da Silva e Paulo Paim em sessão solene na Câmara",
+      "link": "https://www.camara.leg.br/noticias/1318549-deputadas-e-movimentos-sociais-homenageiam-benedita-da-silva-e-paulo-paim-em-sessao-solene-na-camara",
+      "date": "2026-11-11T21:02:00.000Z",
+      "summary": "Parlamentares desde as discussões da Constituição de 1988, ambos se despedem do Congresso Nacional no fim deste ano",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "CE aprova Política Nacional de Educação Escolar Indígena nos Territórios Etnoeducacionais",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/ce-aprova-politica-nacional-de-educacao-escolar-indigena-nos-territorios-etnoeducacionais",
+      "date": "2026-11-11T21:00:33.000Z",
+      "summary": "A Comissão de Educação e Cultura (CE) aprovou nesta quarta-feira (11) projeto que institui a Política Nacional de Educação Escolar Indígena nos Territórios Etnoeducacionais. O PL 4.980/2026, do senador Camilo Santana (PT-CE), teve relatório favorável do senado",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "CE fará audiência pública sobre os impactos do casamento infantil",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/ce-fara-audiencia-publica-sobre-os-impactos-do-casamento-infantil",
+      "date": "2026-11-11T20:58:57.000Z",
+      "summary": "A Comissão de Educação e Cultura do Senado (CE) aprovou nesta quarta-feira (11) um requerimento de audiência pública sobre o casamento infantil e suas consequências — especialmente sobre meninas. O colegiado também aprovou requerimentos para mais duas audiênci",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "O que colocar na mochila de emergência e por que você deve ter uma — preventivamente",
+      "link": "https://www.bbc.com/portuguese/articles/cm62p37dgxzzo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-11T20:53:39.000Z",
+      "summary": "Kits de emergência são importantes e devem ser inseridos na cultura do Brasil, que nunca focou em prevenção, defende especialista.",
+      "source": "BBC News Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "Comissão aprova criação de serviço telefônico para atender pessoas com transtornos mentais e familiares",
+      "link": "https://www.camara.leg.br/noticias/1318489-comissao-aprova-criacao-de-servico-telefonico-para-atender-pessoas-com-transtornos-mentais-e-familiares",
+      "date": "2026-11-11T20:45:00.000Z",
+      "summary": "Projeto poderá seguir para o Senado, a menos que haja recurso para votação pelo Plenário da Câmara",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Câmara homenageia ex-constituinte e ex-governador paranaense José Richa",
+      "link": "https://www.camara.leg.br/noticias/1318572-camara-homenageia-ex-constituinte-e-ex-governador-paranaense-jose-richa",
+      "date": "2026-11-11T20:38:00.000Z",
+      "summary": "Presidente Hugo Motta destacou o legado político e a atuação constituinte do homenageado, que dá nome a um túnel na Câmara",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Comissão aprova diretrizes para atendimento remoto de gestantes em áreas rurais",
+      "link": "https://www.camara.leg.br/noticias/1318370-comissao-aprova-diretrizes-para-atendimento-remoto-de-gestantes-em-areas-rurais",
+      "date": "2026-11-11T20:21:00.000Z",
+      "summary": "Proposta segue em análise na Câmara",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Forças Armadas da Alemanha deixarão de usar drones chineses por preocupações com segurança",
+      "link": "https://www.dw.com/pt-br/forças-armadas-da-alemanha-deixarão-de-usar-drones-chineses-por-preocupações-com-segurança/a-79924057?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-11T20:17:00.000Z",
+      "summary": "Governo alemão afirma que medida busca reforçar a soberania tecnológica e reduzir riscos à segurança militar, após avaliações sobre possível exposição de dados sensíveis.",
+      "source": "DW Brasil",
+      "cat": "internacional"
     },
     {
       "title": "Equador vive permanente estado de exceção sem melhora na segurança",
@@ -185,36 +273,12 @@
       "cat": "internacional"
     },
     {
-      "title": "Comissão aprova reconhecimento jurídico do trabalho doméstico não remunerado como atividade econômica",
-      "link": "https://www.camara.leg.br/noticias/1318365-comissao-aprova-reconhecimento-juridico-do-trabalho-domestico-nao-remunerado-como-atividade-economica",
-      "date": "2026-11-11T18:11:00.000Z",
-      "summary": "Proposta segue em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
       "title": "AfD revolta romenos com acusação de fraude em benefício social alemão",
       "link": "https://www.dw.com/pt-br/afd-revolta-romenos-com-acusação-de-fraude-em-benefício-social-alemão/a-79916823?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-11T18:02:00.000Z",
       "summary": "Alice Weidel acusa romenos de abusar do sistema de benefícios sociais da Alemanha e gera protestos até de aliados da AfD na Romênia. Também a BSW, de Sahra Wagenknecht, critica pagamento de auxílio infantil.",
       "source": "DW Brasil",
       "cat": "internacional"
-    },
-    {
-      "title": "CAS aprova campanha sobre síndrome do nariz vazio",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/cas-aprova-campanha-sobre-sindrome-do-nariz-vazio",
-      "date": "2026-11-11T17:50:53.000Z",
-      "summary": "A Comissão de Assuntos Sociais (CAS) aprovou nesta quarta-feira (11) projeto que cria o Dia Nacional de Conscientização sobre a Síndrome do Nariz Vazio, a ser celebrado em 4 de novembro. A síndrome é causada pela perda significativa de tecido intranasal em dec",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
-      "title": "CCJ agrava pena para quem mata ou fere dirigindo sob efeito de álcool ou drogas",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/ccj-agrava-pena-para-quem-mata-ou-fere-dirigindo-sob-efeito-de-alcool-ou-drogas",
-      "date": "2026-11-11T17:44:28.000Z",
-      "summary": "A Comissão de Constituição e Justiça (CCJ) do Senado aprovou nesta quarta-feira (11), em primeiro turno, texto alternativo ao projeto que aumenta as penas para homicídio e lesão corporal grave ou gravíssima praticados na direção de veículo sob efeito de álcool",
-      "source": "Agência Senado",
-      "cat": "politica"
     },
     {
       "title": "Espanha tem primeira greve geral em 14 anos em meio à crise habitacional e à campanha eleitoral",
@@ -225,28 +289,12 @@
       "cat": "internacional"
     },
     {
-      "title": "Comissão aprova diretrizes nacionais para investigação de mortes violentas de mulheres",
-      "link": "https://www.camara.leg.br/noticias/1318414-comissao-aprova-diretrizes-nacionais-para-investigacao-de-mortes-violentas-de-mulheres",
-      "date": "2026-11-11T17:39:00.000Z",
-      "summary": "Objetivo é identificar eventual ocorrência de feminicídio; a Câmara dos Deputados continua discutindo o assunto",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
       "title": "​BC divulga IC-Br de outubro",
       "link": "https://www.bcb.gov.br/detalhenoticia/21316/nota",
       "date": "2026-11-11T17:30:47.000Z",
       "summary": "",
       "source": "Banco Central",
       "cat": "economia"
-    },
-    {
-      "title": "Comissão aprova dez projetos que abrem créditos de R$ 966,4 milhões no Orçamento",
-      "link": "https://www.camara.leg.br/noticias/1318402-comissao-aprova-dez-projetos-que-abrem-creditos-de-r-9664-milhoes-no-orcamento",
-      "date": "2026-11-11T17:30:00.000Z",
-      "summary": "Os projetos aprovados serão analisados agora pelo Plenário do Congresso Nacional",
-      "source": "Agência Câmara",
-      "cat": "politica"
     },
     {
       "title": "Homens de meia-idade e com ensino médio: o perfil de quem elegeu os deputados campeões de voto em SP nas eleições de 2026",
@@ -257,28 +305,12 @@
       "cat": "internacional"
     },
     {
-      "title": "Comissão aprova horário especial em museus para idosos e pessoas com deficiência",
-      "link": "https://www.camara.leg.br/noticias/1318361-comissao-aprova-horario-especial-em-museus-para-idosos-e-pessoas-com-deficiencia",
-      "date": "2026-11-11T17:25:00.000Z",
-      "summary": "A proposta ainda precisa ser votada por mais três comissões na Câmara e pelo Senado",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão aprova inclusão expressa das polícias penais no Sistema Único de Segurança Pública",
-      "link": "https://www.camara.leg.br/noticias/1318372-comissao-aprova-inclusao-expressa-das-policias-penais-no-sistema-unico-de-seguranca-publica",
-      "date": "2026-11-11T17:21:00.000Z",
-      "summary": "O projeto continua em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão aprova uso de recursos do BNDES para financiar energia renovável na agricultura familiar",
-      "link": "https://www.camara.leg.br/noticias/1318363-comissao-aprova-uso-de-recursos-do-bndes-para-financiar-energia-renovavel-na-agricultura-familiar",
-      "date": "2026-11-11T17:10:00.000Z",
-      "summary": "Proposta continua em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica"
+      "title": "As críticas à troca de delegados da PF no caso Master: 'Levanta graves suspeitas'",
+      "link": "https://www.bbc.com/portuguese/articles/c6wy47lmwz1no?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-11T15:30:42.000Z",
+      "summary": "Segundo fontes ouvidas pela BBC News Brasil, mudança representa um episódio preocupante de tentativa de interferência no andamento de investigações envolvendo ministros do STF.",
+      "source": "BBC News Brasil",
+      "cat": "internacional"
     },
     {
       "title": "Brasil salta em ranking de proteção climática após queda do desmatamento na Amazônia",
@@ -305,14 +337,6 @@
       "cat": "internacional"
     },
     {
-      "title": "Após as eleições, STF encara novo capítulo da crise histórica",
-      "link": "https://www.dw.com/pt-br/após-as-eleições-stf-encara-novo-capítulo-da-crise-histórica/a-79917037?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-11T10:59:00.000Z",
-      "summary": "Supremo ainda não tem previsão para retomar julgamento sobre abertura de investigação contra Alexandre de Moraes no caso Master. Processo é visto como fundamental para definir o futuro da instituição.",
-      "source": "DW Brasil",
-      "cat": "internacional"
-    },
-    {
       "title": "3 pontos para entender a primeira greve geral na Espanha em 14 anos",
       "link": "https://www.bbc.com/portuguese/articles/c58j4le1w32ro?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-11T10:49:58.000Z",
@@ -321,34 +345,10 @@
       "cat": "internacional"
     },
     {
-      "title": "TSE decide multar Meta em R$ 7,5 milhões por descumprir decisão durante as eleições",
-      "link": "https://www.dw.com/pt-br/tse-decide-multar-meta-em-r-7-5-milhões-por-descumprir-decisão-durante-as-eleições/a-79916087?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-11T10:32:00.000Z",
-      "summary": "Dona do Facebook, WhatsApp e Instagram não teria obedecido prazos estipulados pelo tribunal para adotar medidas visando tratamento igualitário entre candidatos à Presidência no segundo turno. Decisão foi unânime.",
-      "source": "DW Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "Jensen Huang: O papel do CEO da Nvidia investigado por caso com suposta espiã na guerra tecnológica entre EUA e China",
-      "link": "https://www.bbc.com/portuguese/articles/cmg474pw776wo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-11T08:58:25.000Z",
-      "summary": "Huang, investigado por um relacionamento com uma suposta espiã chinesa, é muito mais importante para o futuro da ordem mundial do que outros chefões do setor de tecnologia.",
-      "source": "BBC News Brasil",
-      "cat": "internacional"
-    },
-    {
       "title": "Quem vai cuidar dos idosos do Brasil? Por que o envelhecimento acelerado é o 'desafio do século'",
       "link": "https://www.bbc.com/portuguese/articles/c60qkxv44pq8o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-11T08:31:43.000Z",
       "summary": "Com menos nascimentos e uma população cada vez mais velha, o país terá de adaptar Previdência, saúde e mercado de trabalho a uma transformação demográfica sem precedentes.",
-      "source": "BBC News Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "Brasil não deveria aumentar o salário mínimo, mas se livrar dele, diz o economista John Cochrane",
-      "link": "https://www.bbc.com/portuguese/articles/c5pvgv1x940xo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-10T16:39:55.000Z",
-      "summary": "Pesquisador de Universidade Stanford, nos EUA, citado por André Lara Resende em sua proposta sobre política fiscal, diz à BBC News Brasil que projeto dependeria de ajuste fiscal e mudanças em programas sociais.",
       "source": "BBC News Brasil",
       "cat": "internacional"
     },
@@ -386,7 +386,6 @@
     }
   ],
   "errors": [
-    "Selic (SGS 432): HTTP 304",
-    "feed Planalto (governo): nenhum item no feed (endereço mudou?)"
+    "Dívida/PIB (SGS 13762): HTTP 304"
   ]
 }
