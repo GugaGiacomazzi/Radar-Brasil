@@ -12,8 +12,9 @@ const UA = 'Mozilla/5.0 (compatible; RadarBrasil/1.0; +https://github.com)';
 const UA_BROWSER = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36';
 
 // ---------------------------------------------------------------------------
-// FONTES DE NOTÍCIAS — só órgãos oficiais. Para trocar ou adicionar, edite aqui.
-// cat: "politica" ou "economia". Se um feed falhar, ele aparece no log da Action.
+// FONTES DE NOTÍCIAS. Para trocar ou adicionar, edite aqui.
+// cat: "politica", "economia" ou "internacional". type: "oficial" (órgão público) ou "imprensa" (veículo jornalístico).
+// max: quantas notícias no máximo de cada feed. Se um feed falhar, ele aparece no log da Action.
 // ---------------------------------------------------------------------------
 const FEEDS = [
   // urls: o robô tenta na ordem e usa o primeiro endereço que responder.
@@ -28,7 +29,21 @@ const FEEDS = [
   { source: 'ONU News',           cat: 'internacional', url: 'https://news.un.org/feed/subscribe/pt/news/all/rss.xml' , topics: 'politica-economia', scan: 40 },
   { source: 'BBC News Brasil',    cat: 'internacional', urls: ['https://feeds.bbci.co.uk/portuguese/internacional/rss.xml', 'https://feeds.bbci.co.uk/portuguese/rss.xml'] , topics: 'politica-economia', scan: 40 },
   { source: 'DW Brasil',          cat: 'internacional', url: 'https://rss.dw.com/xml/rss-br-all' , topics: 'politica-economia', scan: 40 },
+
+  // Imprensa: os portais de maior audiência, com linhas editoriais diferentes entre si, para equilibrar.
+  // As manchetes vêm sem reescrita e sempre com o nome do veículo.
+  { source: 'g1',          cat: 'politica', type: 'imprensa', max: 4, url: 'https://g1.globo.com/rss/g1/politica/' },
+  { source: 'g1',          cat: 'economia', type: 'imprensa', max: 4, url: 'https://g1.globo.com/rss/g1/economia/' },
+  { source: 'Folha',       cat: 'politica', type: 'imprensa', max: 4, url: 'https://feeds.folha.uol.com.br/poder/rss091.xml' },
+  { source: 'Folha',       cat: 'economia', type: 'imprensa', max: 4, url: 'https://feeds.folha.uol.com.br/mercado/rss091.xml' },
+  { source: 'Estadão',     cat: 'politica', type: 'imprensa', max: 4, url: 'https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/politica/' },
+  { source: 'Estadão',     cat: 'economia', type: 'imprensa', max: 4, url: 'https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/economia/' },
+  { source: 'CNN Brasil',  cat: 'politica', type: 'imprensa', max: 4, url: 'https://www.cnnbrasil.com.br/politica/feed/' },
+  { source: 'CNN Brasil',  cat: 'economia', type: 'imprensa', max: 4, url: 'https://www.cnnbrasil.com.br/economia/feed/' },
+  { source: 'Poder360',    cat: 'politica', type: 'imprensa', max: 4, url: 'https://www.poder360.com.br/feed/', topics: 'politica-economia', scan: 40 },
 ];
+// BBC e DW também são veículos jornalísticos (emissoras públicas estrangeiras).
+for (const f of FEEDS) if (!f.type) f.type = /BBC|DW/.test(f.source) ? 'imprensa' : 'oficial';
 const NEWS_PER_FEED = 6;
 const NEWS_MAX_AGE_DAYS = 21; // notícia mais velha que isso não entra
 // Itens que não são notícia: pastas de ano, páginas de índice, áudios e vídeos.
@@ -40,7 +55,7 @@ const NOT_NEWS = n => /^\s*(\d{4}|últimas notícias|notícias|arquivo)\s*$/i.te
 const TOPIC_INCLUDE = /elei[çc][ãa]o|elei[çc][õo]es|eleitor|vota[çc][ãa]o|presiden|primeir[oa]-ministr|premi[êe]|governo|parlament|congresso|senado|deputad|ministr|chanceler|diplom|embaixad|c[úu]pula|tratado|acordo|san[çc][õo]es|guerra|cessar-fogo|conflito|otan|nato\b|conselho de seguran[çc]a|uni[ãa]o europeia|\bue\b|\bg7\b|\bg20\b|brics|mercosul|partido|oposi[çc][ãa]o|coaliz[ãa]o|democrata|republican|protesto|golpe|referendo|economi|infla[çc][ãa]o|juros|banco central|\bfed\b|\bbce\b|\bpib\b|recess[ãa]o|mercado|bolsas?\b|petr[óo]leo|d[íi]vida|or[çc]amento|impost|tarifa|com[ée]rcio|exporta|importa|\bfmi\b|banco mundial|desemprego|moeda|d[óo]lar|\beuro\b|yuan|investiment|fiscal|capitalis|socialis/i;
 const TOPIC_EXCLUDE = /acidente|avi[ãa]o (cai|caiu)|queda de avi|supermercado|hacker|namorad|futebol|copa do mundo|ol[íi]mpi|esporte|\bfilme|cinema|m[úu]sica|celebridade|novela|terremoto|furac[ãa]o|inc[êe]ndio|ursos?\b|carne crua|influenciador/i;
 const onTopic = n => { const t = n.title + ' ' + n.summary; return TOPIC_INCLUDE.test(t) && !TOPIC_EXCLUDE.test(t); };
-const NEWS_PER_CAT = 12; // máximo por categoria (política, economia, internacional)
+const NEWS_PER_CAT = 30; // máximo por categoria (política, economia, internacional)
 
 // Impostômetro (ACSP) não tem API pública. Estes são os dois últimos marcos
 // divulgados; a página extrapola em linha reta. Atualize quando sair marca nova.
@@ -56,9 +71,14 @@ const errors = [];
 const log = (...a) => console.log('[radar]', ...a);
 
 async function get(url, { json = true, headers = {} } = {}) {
-  const r = await fetch(url, { headers: { 'User-Agent': UA, 'Accept': json ? 'application/json' : 'application/rss+xml, application/xml, text/xml, */*', 'Accept-Language': 'pt-BR,pt;q=0.9', ...headers }, signal: AbortSignal.timeout(20000) });
+  const r = await fetch(url, { headers: { 'User-Agent': UA, 'Accept': json ? 'application/json' : 'application/rss+xml, application/xml, text/xml, */*', 'Accept-Language': 'pt-BR,pt;q=0.9', 'Cache-Control': 'no-cache', ...headers }, cache: 'no-store', signal: AbortSignal.timeout(20000) });
   if (!r.ok) throw new Error(`HTTP ${r.status}`);
-  return json ? r.json() : r.text();
+  if (json) return r.json();
+  // Alguns feeds (ex.: Folha) vêm em ISO-8859-1: lê a codificação declarada no XML.
+  const buf = new Uint8Array(await r.arrayBuffer());
+  const head = new TextDecoder('latin1').decode(buf.slice(0, 300));
+  const enc = (head.match(/encoding=["']([\w-]+)["']/i) || [])[1] || (r.headers.get('content-type') || '').match(/charset=([\w-]+)/i)?.[1] || 'utf-8';
+  try { return new TextDecoder(enc.toLowerCase()).decode(buf); } catch { return new TextDecoder('utf-8').decode(buf); }
 }
 async function attempt(name, fn) {
   try { const v = await fn(); log('ok', name); return v; }
@@ -194,10 +214,10 @@ async function feed(f) {
     const d = tag(b, ['pubDate', 'dc:date', 'updated', 'published']);
     const t = Date.parse(d);
     return { title: tag(b, ['title']), link: tag(b, ['link', 'guid']), date: isFinite(t) ? new Date(t).toISOString() : null,
-             summary: tag(b, ['description', 'summary']).slice(0, 260), source: f.source, cat: f.cat };
+             summary: tag(b, ['description', 'summary']).slice(0, 260), source: f.source, cat: f.cat, type: f.type };
   }).filter(n => n.title && n.link && !NOT_NEWS(n))
     .filter(n => !n.date || (Date.now() - Date.parse(n.date)) / 864e5 <= NEWS_MAX_AGE_DAYS);
-  return (f.topics === 'politica-economia' ? items.filter(onTopic) : items).slice(0, NEWS_PER_FEED);
+  return (f.topics === 'politica-economia' ? items.filter(onTopic) : items).slice(0, f.max || NEWS_PER_FEED);
 }
 
 // ---------------------------------------------------------------------------
