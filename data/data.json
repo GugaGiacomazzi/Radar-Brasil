@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-12T16:26:14.854Z",
+  "updated": "2026-11-12T17:32:01.508Z",
   "market": {
     "ibov": {
-      "price": 171531.56,
-      "pct": -0.31,
-      "time": "2026-11-12T16:26:08.549Z",
+      "price": 171300.23,
+      "pct": -0.44,
+      "time": "2026-11-12T17:31:56.655Z",
       "history": [
         {
           "d": "2026-10-13",
@@ -92,7 +92,7 @@
         },
         {
           "d": "2026-11-12",
-          "c": 171531.5625
+          "c": 171271.8125
         }
       ]
     },
@@ -149,11 +149,107 @@
   },
   "news": [
     {
+      "title": "Democratas ampliam domínio no Senado nos EUA com vitória no Mississipi",
+      "link": "https://www.dw.com/pt-br/democratas-ampliam-domínio-no-senado-nos-eua-com-vitória-no-mississipi/a-79933955?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-12T17:29:00.000Z",
+      "summary": "Em mais um duro revés para Trump, Scott Colom acrescenta mais uma vitória democrata em bastiões dos republicanos, naquela que pode ter sido a reviravolta mais extraordinária em eleições de meio de mandato.",
+      "source": "DW Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "Congresso aprova indicação para o Conselho de Comunicação Social",
+      "link": "https://www.camara.leg.br/noticias/1319007-congresso-aprova-indicacao-para-o-conselho-de-comunicacao-social",
+      "date": "2026-11-12T17:25:00.000Z",
+      "summary": "O Conselho elabora estudos, pareceres e recomendações para o Congresso sobre temas da comunicação social",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Comissão da Câmara comemora os 35 anos da Lei de Informática",
+      "link": "https://www.camara.leg.br/noticias/1318852-comissao-da-camara-comemora-os-35-anos-da-lei-de-informatica",
+      "date": "2026-11-12T17:19:00.000Z",
+      "summary": "Debate vai avaliar os resultados da legislação e discutir os desafios futuros para o desenvolvimento tecnológico brasileiro",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Congresso aprova reforço orçamentário para ministérios e Judiciário",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/12/congresso-aprova-reforco-orcamentario-para-ministerios-e-judiciario",
+      "date": "2026-11-12T17:14:58.000Z",
+      "summary": "O Congresso Nacional aprovou nesta quinta-feira (12) dez projetos de lei que liberam recursos para ministérios e para as justiças Federal, Eleitoral e do Trabalho, além da Defensoria Pública da União (DPU), Ministério Público da União (MPU) e Tribunal de Conta",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Ministério Público, PF e Judiciário tratam das investigações do Banco Master, diz Davi",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/12/ministerio-publico-pf-e-judiciario-tratam-das-investigacoes-do-banco-master-diz-davi",
+      "date": "2026-11-12T17:09:07.000Z",
+      "summary": "O presidente do Congresso Nacional, Davi Alcolumbre, reiterou na sessão conjunta desta quinta-feira (12) que o Ministério Público, a Polícia Federal e o Judiciário estão tratando das investigações relacionadas às fraudes do Banco Master. Questionado sobre a in",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Congresso aprova créditos orçamentários de R$ 152,4 bilhões no Orçamento de 2026",
+      "link": "https://www.camara.leg.br/noticias/1318963-congresso-aprova-creditos-orcamentarios-de-r-1524-bilhoes-no-orcamento-de-2026",
+      "date": "2026-11-12T17:00:00.000Z",
+      "summary": "Deputados e senadores aprovaram 26 projetos que abrem crédito extra no Orçamento deste ano",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Congresso Nacional aprova R$ 32,8 milhões para o Ministério da Saúde",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/12/congresso-nacional-aprova-r-32-8-milhoes-para-o-ministerio-da-saude",
+      "date": "2026-11-12T16:53:20.000Z",
+      "summary": "O Congresso Nacional aprovou nesta quinta-feira (12) um projeto de lei que destina R$ 39 milhões a ações de órgãos do governo federal e a transferências para estados, Distrito Federal e municípios. A maior parte dessa verba — R$ 32,8 milhões — vai para o Minis",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Comissão de Desenvolvimento Urbano aprova diretriz para segurança de infraestrutura",
+      "link": "https://www.camara.leg.br/noticias/1318858-comissao-de-desenvolvimento-urbano-aprova-diretriz-para-seguranca-de-infraestrutura",
+      "date": "2026-11-12T16:52:00.000Z",
+      "summary": "A Câmara dos Deputados continua discutindo o assunto",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "CEO da Nvidia renuncia após caso com suposta espiã chinesa: quem assumirá o comando da empresa?",
+      "link": "https://www.bbc.com/portuguese/articles/cx1l053gmq5zo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-12T16:40:11.000Z",
+      "summary": "Jensen Huang deixou o cargo nesta quinta-feira (12/11) após vir à tona que ele teria um segundo relacionamento com uma funcionária da empresa. Valor de mercado da companhia despencou desde o início da crise.",
+      "source": "BBC News Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "Recursos para Angra 3 e seis agências reguladoras seguem para sanção",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/12/recursos-para-angra-3-e-seis-agencias-reguladoras-seguem-para-sancao",
+      "date": "2026-11-12T16:36:05.000Z",
+      "summary": "O Congresso Nacional aprovou, em sessão conjunta nesta quinta-feira (12), créditos de R$ 314,4 milhões para a Eletronuclear, responsável pela construção da usina nuclear Angra 3, e para seis agências reguladoras federais. As propostas estão previstas nos Proje",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Aprovados créditos para educação em Roraima e instituições federais de ensino",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/12/aprovados-creditos-para-educacao-em-roraima-e-instituicoes-federais-de-ensino",
+      "date": "2026-11-12T16:29:26.000Z",
+      "summary": "O Congresso Nacional aprovou, em sessão conjunta nesta quinta-feira (12), dois projetos que abrem créditos especiais para a educação. As propostas destinam R$ 10 milhões para compensar despesas extraordinárias de Roraima com educação, decorrentes do fluxo migr",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
       "title": "Comissão aprova medidas para ampliar regularização fundiária e saneamento em áreas informais",
       "link": "https://www.camara.leg.br/noticias/1318848-comissao-aprova-medidas-para-ampliar-regularizacao-fundiaria-e-saneamento-em-areas-informais",
       "date": "2026-11-12T16:23:00.000Z",
       "summary": "Agora a proposta será analisada pela Comissão de Constituição e Justiça da Câmara dos Deputados",
       "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Aprovados R$ 522 mi para modernização fiscal e compromissos internacionais",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/12/aprovados-r-522-mi-para-modernizacao-fiscal-e-compromissos-internacionais",
+      "date": "2026-11-12T16:22:19.000Z",
+      "summary": "O Congresso Nacional aprovou, em sessão conjunta nesta quinta-feira (12), dois projetos que somam R$ 522,1 milhões em créditos orçamentários para financiar ações de modernização da gestão fiscal e pagar compromissos do Brasil com organismos financeiros interna",
+      "source": "Agência Senado",
       "cat": "politica"
     },
     {
@@ -165,54 +261,6 @@
       "cat": "politica"
     },
     {
-      "title": "Aprovada dispensa de regras fiscais para Copa do Mundo Feminina de 2027",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/12/aprovada-dispensa-de-regras-fiscais-para-copa-do-mundo-feminina-de-2027",
-      "date": "2026-11-12T16:10:49.000Z",
-      "summary": "O Congresso Nacional aprovou, em sessão conjunta nesta quinta-feira (12), projeto que dispensa despesas relacionadas à realização da Copa do Mundo Feminina de Futebol de 2027, a ser disputada em junho e julho em oito cidades brasileiras, de cumprir determinada",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
-      "title": "CEO da Nvidia renuncia após caso com suposta espiã chinesa: quem assumirá o comando da empresa?",
-      "link": "https://www.bbc.com/portuguese/articles/cx1l053gmq5zo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-12T16:10:29.000Z",
-      "summary": "Jensen Huang deixou o cargo nesta quinta-feira (12/11) após vir à tona que ele teria um segundo relacionamento com uma funcionária da empresa. Valor de mercado da companhia despencou desde o início da crise.",
-      "source": "BBC News Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "Comissão aprova proposta de gratuidade para pessoas com deficiência de baixa renda em eventos",
-      "link": "https://www.camara.leg.br/noticias/1318855-comissao-aprova-proposta-de-gratuidade-para-pessoas-com-deficiencia-de-baixa-renda-em-eventos",
-      "date": "2026-11-12T16:09:00.000Z",
-      "summary": "Na Câmara, proposta precisa ser aprovada por mais uma comissão; depois, segue pra análise do Senado",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Congresso aprova R$ 13,2 milhões para a pesquisa científica no Brasil",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/12/congresso-aprova-r-13-2-milhoes-para-a-pesquisa-cientifica-no-brasil",
-      "date": "2026-11-12T15:59:24.000Z",
-      "summary": "O Ministério da Ciência e Tecnologia está autorizado a receber R$ 13,2 milhões, para aplicação em pesquisas e desenvolvimento científico. O PLN 3/2026, que libera a verba, foi aprovado pelo Congresso Nacional por unanimidade nesta quinta-feira (12). Os recurso",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
-      "title": "Congresso aprova possibilidade de novas nomeações de servidores em 2026",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/12/congresso-aprova-possibilidade-de-novas-nomeacoes-de-servidores-em-2026",
-      "date": "2026-11-12T15:54:19.000Z",
-      "summary": "Senadores e deputados aprovaram, em sessão conjunta do Congresso Nacional nesta quinta-feira (12), projeto que autoriza o Poder Executivo a nomear 851 servidores e criar 1.821 cargos e funções de confiança na Receita Federal em 2026. O texto segue para sanção ",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
-      "title": "Aprovados créditos especiais para a saúde e para o meio ambiente",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/12/aprovados-creditos-especiais-para-a-saude-e-para-o-meio-ambiente",
-      "date": "2026-11-12T15:39:27.000Z",
-      "summary": "Senadores e deputados aprovaram nesta quinta-feira (12) dois projetos de lei do Congresso Nacional (PLNs) que destinam R$ 3 milhões em crédito especial em favor do Ministério da Saúde e R$ 3,4 milhões em favor do Ministério do Meio Ambiente. As matérias seguem",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
       "title": "Israel ataca hospital em Gaza, apesar de cessar-fogo",
       "link": "https://www.dw.com/pt-br/israel-ataca-hospital-em-gaza-apesar-de-cessar-fogo/a-79932931?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-12T15:20:00.000Z",
@@ -221,36 +269,12 @@
       "cat": "internacional"
     },
     {
-      "title": "Audiência na Câmara debate prevenção e tratamento de doenças cardiovasculares",
-      "link": "https://www.camara.leg.br/noticias/1318857-audiencia-na-camara-debate-prevencao-e-tratamento-de-doencas-cardiovasculares",
-      "date": "2026-11-12T14:59:00.000Z",
-      "summary": "",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
       "title": "Golpe ou revolução? Descobrimento ou conquista? Existe certo ou errado para a História?",
       "link": "https://www.bbc.com/portuguese/articles/cqkgxd2xxe9po?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-12T14:47:53.000Z",
       "summary": "Fatos do passado até hoje geram polêmica pela forma como são chamados, como mostra episódio recente envolvendo um livro alterado por deputados federais.",
       "source": "BBC News Brasil",
       "cat": "internacional"
-    },
-    {
-      "title": "Motta destaca sanção de lei que garante auxílio a produtores de cana-de-açúcar do Nordeste",
-      "link": "https://www.camara.leg.br/noticias/1318917-motta-destaca-sancao-de-lei-que-garante-auxilio-a-produtores-de-cana-de-acucar-do-nordeste",
-      "date": "2026-11-12T14:22:00.000Z",
-      "summary": "Nova lei também libera linhas de crédito para transporte, agricultura e aviação",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão aprova projeto que obriga bibliotecas a disponibilizarem texto atualizado da Constituição",
-      "link": "https://www.camara.leg.br/noticias/1318846-comissao-aprova-projeto-que-obriga-bibliotecas-a-disponibilizarem-texto-atualizado-da-constituicao",
-      "date": "2026-11-12T14:04:00.000Z",
-      "summary": "Texto segue em análise na Câmara. Se for aprovado, seguirá para sanção presidencial",
-      "source": "Agência Câmara",
-      "cat": "politica"
     },
     {
       "title": "'Há uma guerra entre dois lados no Vaticano em que o abuso sexual se tornou uma arma', diz autor de livro sobre o papa",
@@ -266,6 +290,14 @@
       "date": "2026-11-12T12:01:00.000Z",
       "summary": "Pacote prevê economia de até R$ 60 bilhões com mais arrecadação e despesas limitadas, inclusive na saúde. Governo promete manter políticas sociais anunciadas na campanha eleitoral.",
       "source": "DW Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "Tribunal do Direito do Mar examina controvérsia entre Argentina e Reino Unido",
+      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854902",
+      "date": "2026-11-12T12:00:00.000Z",
+      "summary": "Processo refere-se à exploração de petróleo *offshore* nas proximidades das Ilhas Falkland ou Malvinas; argentinos afirmam que atividades de perfuração apoiadas pelos britânicos podem danificar leito marinho e violar direitos sobre plataforma continental.",
+      "source": "ONU News",
       "cat": "internacional"
     },
     {
@@ -293,14 +325,6 @@
       "cat": "internacional"
     },
     {
-      "title": "A acirrada disputa que levou democrata a se tornar 1º senador negro eleito pelo Mississippi em 140 anos",
-      "link": "https://www.bbc.com/portuguese/articles/cq1k93r1j47vo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-12T01:27:49.000Z",
-      "summary": "Promotor é primeiro democrata eleito senador pelo Estado desde 1982.",
-      "source": "BBC News Brasil",
-      "cat": "internacional"
-    },
-    {
       "title": "Um quarto dos alemães deseja regime autoritário de direita",
       "link": "https://www.dw.com/pt-br/um-quarto-dos-alemães-deseja-regime-autoritário-de-direita/a-79924717?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-11T22:07:00.000Z",
@@ -325,14 +349,6 @@
       "cat": "internacional"
     },
     {
-      "title": "Forças Armadas da Alemanha deixarão de usar drones chineses por preocupações com segurança",
-      "link": "https://www.dw.com/pt-br/forças-armadas-da-alemanha-deixarão-de-usar-drones-chineses-por-preocupações-com-segurança/a-79924057?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-11T20:17:00.000Z",
-      "summary": "Governo alemão afirma que medida busca reforçar a soberania tecnológica e reduzir riscos à segurança militar, após avaliações sobre possível exposição de dados sensíveis.",
-      "source": "DW Brasil",
-      "cat": "internacional"
-    },
-    {
       "title": "​BC divulga IC-Br de outubro",
       "link": "https://www.bcb.gov.br/detalhenoticia/21316/nota",
       "date": "2026-11-11T17:30:47.000Z",
@@ -341,20 +357,20 @@
       "cat": "economia"
     },
     {
+      "title": "As críticas à troca de delegados da PF no caso Master: 'Levanta graves suspeitas'",
+      "link": "https://www.bbc.com/portuguese/articles/c6wy47lmwz1no?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-11T15:30:42.000Z",
+      "summary": "Segundo fontes ouvidas pela BBC News Brasil, mudança representa um episódio preocupante de tentativa de interferência no andamento de investigações envolvendo ministros do STF.",
+      "source": "BBC News Brasil",
+      "cat": "internacional"
+    },
+    {
       "title": "BC divulga Relatório de Poupança de outubro",
       "link": "https://www.bcb.gov.br/detalhenoticia/21315/nota",
       "date": "2026-11-11T12:00:19.000Z",
       "summary": "",
       "source": "Banco Central",
       "cat": "economia"
-    },
-    {
-      "title": "Com emissões em nível recorde, COP31 lança meta para eletrificação até 2035",
-      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854895",
-      "date": "2026-11-11T12:00:00.000Z",
-      "summary": "Na abertura de alto nível, secretário-geral António Guterres alertou que planeta segue rumo à destruição; ONU aponta energia limpa como escudo contra a inflação; presidente Lula, do Brasil, advertiu que ação climática está perdendo terreno no mundo.",
-      "source": "ONU News",
-      "cat": "internacional"
     },
     {
       "title": "BC divulga Ata da 282ª reunião do Copom",
