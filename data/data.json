@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-12T18:40:49.302Z",
+  "updated": "2026-11-12T19:36:05.565Z",
   "market": {
     "ibov": {
-      "price": 170905.55,
-      "pct": -0.67,
-      "time": "2026-11-12T18:40:45.508Z",
+      "price": 171010.9,
+      "pct": -0.61,
+      "time": "2026-11-12T19:36:00.273Z",
       "history": [
         {
           "d": "2026-10-13",
@@ -92,7 +92,7 @@
         },
         {
           "d": "2026-11-12",
-          "c": 170905.5469
+          "c": 171024.4531
         }
       ]
     },
@@ -149,6 +149,150 @@
   },
   "news": [
     {
+      "title": "Veja fotos de bens apreendidos em operação contra Ricardo Magro",
+      "link": "https://www.poder360.com.br/poder-seguranca-publica/veja-fotos-de-bens-apreendidos-em-operacao-contra-ricardo-magro/",
+      "date": "2026-11-12T19:35:20.000Z",
+      "summary": "Ação do MPRJ investiga esquema de fraude fiscal de R$ 5,5 bilhões ligado à Refit",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Ministro defende soluções consensuais do TCU, que estão na mira do STF",
+      "link": "https://www.poder360.com.br/poder-governo/ministro-defende-solucoes-consensuais-do-tcu-que-estao-na-mira-do-stf/",
+      "date": "2026-11-12T19:33:51.000Z",
+      "summary": "George Santoro pede que Supremo considere acordos feitos pela SecexConsenso em julgamento que pode restringir instrumento",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Novo app da Caixa reúne Pix, FGTS, crédito e benefícios sociais com senha única e biometria facial",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/novo-app-da-caixa-reune-pix-fgts-credito-e-beneficios-sociais-com-senha-unica-e-biometria-facial.shtml",
+      "date": "2026-11-12T19:19:00.000Z",
+      "summary": "A Caixa Econômica Federal lançou o Novo App Caixa, como parte do movimento de modernização que também reformulou a identidade visual do banco. O banco já havia lançado nova identidade visual para se modernizar e se aproximar mais do público jovem. Leia mais (1",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Governo manda desapropriar prédio do jornal “Estado de Minas”",
+      "link": "https://www.poder360.com.br/poder-midia/governo-manda-desapropriar-predio-do-jornal-estado-de-minas/",
+      "date": "2026-11-12T19:18:43.000Z",
+      "summary": "Edifício localizado em Belo Horizonte será ocupado pelo TRT; jornal não disse para onde vai se mudar",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "O que são os chips H200, no centro da polêmica que levou à renúncia do CEO da Nvidia",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/12/chips-h200-nvidia.ghtml",
+      "date": "2026-11-12T19:15:13.000Z",
+      "summary": "Os desafios de suceder Huang na Nvidia A polêmica que levou à renúncia do CEO da Nvidia, Jensen Huang, nesta quinta-feira (12) envolve um pequeno componente: o chip H200, um dos mais avançados da empresa americana e que está sujeito a controles de exportação p",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Mercedes suspende todos os investimentos na Alemanha e avalia fechar fábricas",
+      "link": "https://www.dw.com/pt-br/mercedes-suspende-todos-os-investimentos-na-alemanha-e-avalia-fechar-fábricas/a-79935095?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-12T19:15:00.000Z",
+      "summary": "Montadora alemã cita custos elevados, queda da demanda, tarifas e concorrência chinesa para justificar a suspensão de investimentos na Alemanha e a possibilidade de fechamento de unidades no país.",
+      "source": "DW Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Senado deve votar pacote de ajuste fiscal nesta quinta-feira",
+      "link": "https://g1.globo.com/politica/ao-vivo/senado-pacote-medidas-fiscais.ghtml",
+      "date": "2026-11-12T19:10:18.000Z",
+      "summary": "Senado deve votar pacote de ajuste fiscal nesta quinta-feira Ministro do Planejamento, Bruno Moretti, disse que texto estabiliza dívida pública e preserva compromissos feitos pelo presidente Lula na campanha. O Senado discute o Projeto de Lei Complementar (PLP",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Governador de MG escolhe promotor investigado pelo próprio MP para chefiar a instituição no Estado",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/governador-de-mg-escolhe-promotor-investigado-pelo-proprio-mp-para-chefiar-a-instituicao-no-estado/",
+      "date": "2026-11-12T19:05:01.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lula cobra pedido de desculpas da imprensa sobre tríplex de Guarujá",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/lula-cobra-pedido-de-desculpas-da-imprensa-sobre-triplex-de-guaruja.shtml",
+      "date": "2026-11-12T19:05:00.000Z",
+      "summary": "O presidente Lula (PT) cobrou nesta quinta-feira (12) um pedido de desculpas da imprensa sobre o caso do tríplex de Guarujá (SP). Leia mais (11/12/2026 - 16h05)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Ao vivo: Senado vota projeto de ajuste fiscal do governo Lula",
+      "link": "https://www.poder360.com.br/poder-congresso/ao-vivo-senado-vota-projeto-de-ajuste-fiscal-do-governo-lula/",
+      "date": "2026-11-12T19:00:41.000Z",
+      "summary": "Proposta prevê contenção de despesas e aumento de receitas; governo estima impacto de até R$ 60 bilhões em 2027",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "BB tem o pior balanço desde os anos 1990, e perspectiva de recuperação lenta derruba ações",
+      "link": "https://www.estadao.com.br/economia/negocios/bb-tem-o-pior-balanco-desde-os-anos-1990-e-perspectiva-de-recuperacao-lenta-derruba-acoes/",
+      "date": "2026-11-12T18:56:41.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Comissão debate formação de profissionais e estrutura de apoio à educação inclusiva; participe",
+      "link": "https://www.camara.leg.br/noticias/1319016-comissao-debate-formacao-de-profissionais-e-estrutura-de-apoio-a-educacao-inclusiva-participe",
+      "date": "2026-11-12T18:55:00.000Z",
+      "summary": "",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Comissão aprova proposta para explicitar direitos humanos e cidadania nos currículos escolares",
+      "link": "https://www.camara.leg.br/noticias/1318941-comissao-aprova-proposta-para-explicitar-direitos-humanos-e-cidadania-nos-curriculos-escolares",
+      "date": "2026-11-12T18:51:00.000Z",
+      "summary": "Proposta prevê conteúdos sobre democracia, ética e participação popular nos ensinos fundamental e médio; Câmara continua analisando o assunto",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Como opera a indústria internacional de exércitos de mercenários",
+      "link": "https://www.dw.com/pt-br/como-opera-a-indústria-internacional-de-exércitos-de-mercenários/a-79931353?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-12T18:48:00.000Z",
+      "summary": "A existência de soldados mercenários é tão antiga quanto a própria guerra, mas o conflito na Ucrânia lhes conferiu uma nova visibilidade. Eles operam em várias partes do mundo, entre diferentes níveis de legalidade.",
+      "source": "DW Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Comissão aprova sistema de informações urbanas para integrar dados entre entes federativos",
+      "link": "https://www.camara.leg.br/noticias/1318915-comissao-aprova-sistema-de-informacoes-urbanas-para-integrar-dados-entre-entes-federativos",
+      "date": "2026-11-12T18:46:00.000Z",
+      "summary": "O projeto de lei continua em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Outlook fora do ar? Serviço de e-mail e IA da Microsoft apresentam instabilidade nesta quinta",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/12/outlook-fora-do-ar.ghtml",
+      "date": "2026-11-12T18:40:04.000Z",
+      "summary": "Microsoft Outlook é um sistema de software de gerenciamento de informações pessoais da Microsoft Gonzalo Fuentes/ Reuters Usuários enfrentam dificuldades para acessar alguns serviços da Microsoft no início da tarde desta quinta-feira (12), como o Outlook. As r",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "Lula embarca para Filipinas para participar de cúpula e ampliar mercado brasileiro na Ásia",
       "link": "https://g1.globo.com/politica/noticia/2026/11/12/lula-embarca-para-filipinas-para-participar-de-cupula-e-ampliar-mercado-brasileiro-na-asia.ghtml",
       "date": "2026-11-12T18:37:20.000Z",
@@ -161,8 +305,17 @@
       "title": "STF mantém afastamento de Marco Buzzi do STJ após acusação de assédio, mas mantém salário",
       "link": "https://g1.globo.com/politica/noticia/2026/11/12/stf-mantem-afastamento-de-marco-buzzi-do-stj-apos-acusacao-de-assedio-mas-mantem-salario.ghtml",
       "date": "2026-11-12T18:35:37.000Z",
-      "summary": "O ministro Nunes Marques, do Supremo Tribunal Federal (STF), manteve o afastamento do ministro Marco Buzzi determinado pelo Superior Tribunal de Justiça, mas negou a suspensão do pagamento do salário. Em outra frente, o STJ poderá iniciar os trâmites para o pr",
+      "summary": "O ministro Nunes Marques, do Supremo Tribunal Federal (STF), manteve o afastamento do ministro Marco Buzzi determinado pelo Superior Tribunal de Justiça (STJ), mas negou a suspensão do pagamento do salário. Em outra frente, o STJ poderá iniciar os trâmites par",
       "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Justiça manda desarquivar investigação sobre tortura e execução de ‘Comandante Crioulo’ na ditadura",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/justica-manda-desarquivar-investigacao-sobre-tortura-e-execucao-de-comandante-crioulo-na-ditadura/",
+      "date": "2026-11-12T18:31:45.000Z",
+      "summary": "",
+      "source": "Estadão",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -185,6 +338,24 @@
       "type": "imprensa"
     },
     {
+      "title": "Hugo Motta anuncia grupo de trabalho para discutir propaganda eleitoral nas redes sociais",
+      "link": "https://www.estadao.com.br/politica/hugo-motta-anuncia-gt-para-discutir-propaganda-eleitoral-nas-redes-sociais-nprp/",
+      "date": "2026-11-12T18:28:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lula pode fazer um ajuste fiscal sem quebrar promessas de campanha, diz Samuel Pessôa",
+      "link": "https://www.estadao.com.br/economia/lula-pode-fazer-um-ajuste-fiscal-sem-quebrar-promessas-de-campanha-diz-samuel-pessoa/",
+      "date": "2026-11-12T18:26:49.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "Executivo terá novas possibilidades de remanejamento e suplementação de despesas",
       "link": "https://www12.senado.leg.br/noticias/materias/2026/11/12/executivo-tera-novas-possibilidades-de-remanejamento-e-suplementacao-de-despesas",
       "date": "2026-11-12T18:26:44.000Z",
@@ -192,15 +363,6 @@
       "source": "Agência Senado",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Moro contesta PT e diz que decisão sobre triplex não inocentou Lula",
-      "link": "https://www.poder360.com.br/poder-congresso/moro-contesta-pt-e-diz-que-decisao-sobre-triplex-nao-inocentou-lula/",
-      "date": "2026-11-12T18:26:40.000Z",
-      "summary": "Senador diz que devolução de R$ 2,4 milhões à OAS não significa que imóvel não era do petista; condenações foram anuladas",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
     },
     {
       "title": "Quem vai comandar a Nvidia em definitivo após a saída de Huang?",
@@ -221,15 +383,6 @@
       "type": "oficial"
     },
     {
-      "title": "Saída de Jensen Huang ameaça rede de financiamento da indústria de IA",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/saida-de-jensen-huang-ameaca-rede-de-financiamento-da-industria-de-ia.shtml",
-      "date": "2026-11-12T18:21:00.000Z",
-      "summary": "Sob o comando de Jensen Huang, a Nvidia destinou parte de seus enormes lucros ao financiamento de startups de inteligência artificial, fornecedores e clientes que compram seus chips. Leia mais (11/12/2026 - 15h21)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "As acusações de 'festas sexuais em troca de contratos' que levaram à investigação do ex-presidente colombiano Gustavo Petro",
       "link": "https://www.bbc.com/portuguese/articles/cm174ll0nvj9o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-12T18:18:24.000Z",
@@ -239,47 +392,11 @@
       "type": "imprensa"
     },
     {
-      "title": "Davi defende respeito a divergências e fortalecimento do Parlamento",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/12/davi-defende-respeito-a-divergencias-e-fortalecimento-do-parlamento",
-      "date": "2026-11-12T18:17:31.000Z",
-      "summary": "O presidente do Senado e do Congresso Nacional, Davi Alcolumbre, defendeu nesta quinta-feira (12) o respeito às divergências políticas e a valorização do Poder Legislativo como fundamentais para o fortalecimento da democracia. Ao encerrar a sessão conjunta des",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Governo enfrentará tentativas de adiar ajuste fiscal, diz Randolfe",
-      "link": "https://www.poder360.com.br/poder-congresso/governo-enfrentara-tentativas-de-adiar-ajuste-fiscal-diz-randolfe/",
-      "date": "2026-11-12T18:15:14.000Z",
-      "summary": "Líder afirma que divergências internas no PT serão sanadas com explicações sobre o projeto; ajuste anunciado é de R$ 60 bi em 2027",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Todos os 10 ministros do STF são citados em celular de Vorcaro",
-      "link": "https://www.poder360.com.br/poder-justica/todos-os-10-ministros-do-stf-sao-citados-em-celular-de-vorcaro/",
-      "date": "2026-11-12T18:12:22.000Z",
-      "summary": "Só parte se encaixa no que fixa parágrafo único do artigo 33 da Lei Orgânica da Magistratura (“indício de prática de crime”), mas Edson Fachin agora mandou a PF fazer relatórios individuais sobre todos os magistrados",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "'Terceiro turno', eleição do Senado definirá rumos do próximo governo; veja vídeo",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/terceiro-turno-eleicao-do-senado-definira-rumos-do-proximo-governo-veja-video.shtml",
       "date": "2026-11-12T18:10:00.000Z",
       "summary": "Passada a eleição presidencial, começou agora a disputa pelo comando do Senado, que é uma espécie de terceiro turno. Leia mais (11/12/2026 - 15h10)",
       "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "De pés descalços a sorvete: Janones mostra bastidores de Lula na COP 31",
-      "link": "https://www.poder360.com.br/poder-governo/de-pes-descalcos-a-sorvete-janones-mostra-bastidores-de-lula-na-cop-31/",
-      "date": "2026-11-12T17:59:17.000Z",
-      "summary": "Deputado divulga fotos do presidente descansando, fazendo refeições e participando de reuniões na Turquia em canal com 10,1 milhões de seguidores",
-      "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -320,15 +437,6 @@
       "type": "oficial"
     },
     {
-      "title": "Governo prevê convocar 1,3 mil aprovados em concursos ainda em 2026; veja órgãos e cargos",
-      "link": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/11/12/concurso-governo-cnpu.ghtml",
-      "date": "2026-11-12T17:43:10.000Z",
-      "summary": "Ministra afirmou que governo avalia possíveis convocações adicionais de outros certames ainda em 2026. Diego Campos/Secom O governo federal prevê convocar novos aprovados em concursos públicos ainda em 2026. Entre as chamadas previstas estão 1,3 mil vagas que ",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Comissão debate impactos do contrabando e da falsificação no mercado de bebidas e cigarros",
       "link": "https://www.camara.leg.br/noticias/1318951-comissao-debate-impactos-do-contrabando-e-da-falsificacao-no-mercado-de-bebidas-e-cigarros",
       "date": "2026-11-12T17:43:00.000Z",
@@ -347,24 +455,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Comissão externa apresenta relatório sobre rompimento da barragem de Fundão",
-      "link": "https://www.camara.leg.br/noticias/1318888-comissao-externa-apresenta-relatorio-sobre-rompimento-da-barragem-de-fundao",
-      "date": "2026-11-12T17:38:00.000Z",
-      "summary": "O rompimento da Barragem de Fundão aconteceu há 11 anos e despejou uma lama de rejeitos de minério de ferro ao longo do Rio Doce, entre Minas Gerais e Espírito Santo",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Dino mantém início da escala 5x2 para 16 de dezembro e ajusta transição para permitir 42 horas semanais em 5 dias de trabalho",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/12/fim-da-escala-6x1-dino-autoriza-distribuicao-de-42-horas-semanais-em-5-dias-de-trabalho.ghtml",
-      "date": "2026-11-12T17:32:20.000Z",
-      "summary": "O ministro Flávio Dino, do Supremo Tribunal Federal (STF), concedeu uma decisão liminar nesta quinta-feira (12) autorizando que empregadores distribuam a jornada intermediária de 42 horas semanais em 5 dias de trabalho, na escala 5x2, com expedientes diários d",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Mais 1,8 mil escolas recebem falsas ameaças de bomba na Itália",
       "link": "https://www.dw.com/pt-br/mais-1-8-mil-escolas-recebem-falsas-ameaças-de-bomba-na-itália/a-79933936?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-12T17:31:00.000Z",
@@ -374,21 +464,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Dino mantém início da escala 5x2 para 16 de dezembro e flexibiliza folgas",
+      "title": "Dino mantém fim da 6x1 para 16 de dezembro, mas flexibiliza prazo para folgas do trabalhador",
       "link": "https://www.estadao.com.br/economia/dino-escala-5x2-folgas-nao-precisam-ser-tiradas-mesmo-mes/",
       "date": "2026-11-12T17:30:51.000Z",
       "summary": "",
       "source": "Estadão",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Lula testa ministros antes de definir equipe econômica do 4º mandato",
-      "link": "https://www.estadao.com.br/politica/lorenna-rodrigues/lula-testa-ministros-antes-de-definir-equipe-economica-do-4-mandato/",
-      "date": "2026-11-12T17:30:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -401,65 +482,11 @@
       "type": "imprensa"
     },
     {
-      "title": "Congresso aprova indicação para o Conselho de Comunicação Social",
-      "link": "https://www.camara.leg.br/noticias/1319007-congresso-aprova-indicacao-para-o-conselho-de-comunicacao-social",
-      "date": "2026-11-12T17:25:00.000Z",
-      "summary": "O Conselho elabora estudos, pareceres e recomendações para o Congresso sobre temas da comunicação social",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Comissão da Câmara comemora os 35 anos da Lei de Informática",
-      "link": "https://www.camara.leg.br/noticias/1318852-comissao-da-camara-comemora-os-35-anos-da-lei-de-informatica",
-      "date": "2026-11-12T17:19:00.000Z",
-      "summary": "Debate vai avaliar os resultados da legislação e discutir os desafios futuros para o desenvolvimento tecnológico brasileiro",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
       "title": "Corte Especial do STJ zera pauta e julga 3.200 processos em menos de três meses",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/corte-especial-do-stj-zera-pauta-e-julga-3200-processos-em-menos-de-tres-meses.shtml",
       "date": "2026-11-12T17:06:00.000Z",
       "summary": "A Corte Especial do STJ (Superior Tribunal de Justiça) julgou 3.219 processos em menos de três meses, entre 20 de agosto e 10 de novembro deste ano, e também zerou os 47 casos que estavam acumulados na pauta no início do período. Leia mais (11/12/2026 - 14h06)",
       "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Congresso tem nas mãos a saída para os supersalários",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/transparencia-publica/2026/11/congresso-tem-nas-maos-a-saida-para-os-supersalarios.shtml",
-      "date": "2026-11-12T17:00:00.000Z",
-      "summary": "Na quarta-feira (11), o governo incluiu de forma simbólica o combate aos supersalários no pacote de ajuste fiscal enviado ao Senado, com prazo de 120 dias para o Congresso votar uma regulamentação das verbas indenizatórias, sem indicar diretrizes nem punição p",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "A classe média tem que entrar no orçamento",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/a-classe-media-tem-que-entrar-no-orcamento/",
-      "date": "2026-11-12T17:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "BB: sem crédito tributário, banco teria registrado prejuízo de R$ 832 milhões em vez de lucro",
-      "link": "https://www.estadao.com.br/economia/negocios/bb-credito-tributario-prejuizo-balanco/",
-      "date": "2026-11-12T16:57:05.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "PSDB publica nota de repúdio contra exposição pública de FHC",
-      "link": "https://www.estadao.com.br/politica/psdb-publica-nota-de-repudio-contra-exposicao-publica-de-fhc/",
-      "date": "2026-11-12T16:54:22.000Z",
-      "summary": "",
-      "source": "Estadão",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -470,24 +497,6 @@
       "summary": "Jensen Huang deixou o cargo nesta quinta-feira (12/11) após vir à tona que ele teria um segundo relacionamento com uma funcionária da empresa. Valor de mercado da companhia despencou desde o início da crise.",
       "source": "BBC News Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Congresso aprova projeto que autoriza governo a usar R$ 26 bilhões em empréstimos para pagar Bolsa Família",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/12/congresso-aprova-projeto-que-autoriza-governo-a-usar-r-26-bilhoes-em-emprestimos-para-pagar-bolsa-familia.ghtml",
-      "date": "2026-11-12T16:33:14.000Z",
-      "summary": "O Congresso aprovou nesta quinta-feira (12) um projeto de lei enviado pelo governo do presidente Luiz Inácio Lula da Silva (PT) que autoriza a utilização de até R$ 149,4 bilhões em operações de crédito para financiar despesas com aposentadorias, benefícios ass",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Congresso dá aval para créditos suplementares e especiais; veja o que foi aprovado",
-      "link": "https://www.estadao.com.br/economia/congresso-aval-creditos-suplementares-especiais-veja-o-que-foi-aprovado/",
-      "date": "2026-11-12T16:13:41.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -506,15 +515,6 @@
       "summary": "Fatos do passado até hoje geram polêmica pela forma como são chamados, como mostra episódio recente envolvendo um livro alterado por deputados federais.",
       "source": "BBC News Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Quem é Colette Kress, que fica interinamente no lugar de Jensen Huang após renúncia do CEO da Nvidia",
-      "link": "https://www.estadao.com.br/economia/quem-e-colette-kress-que-fica-no-lugar-de-jensen-huang-apos-renuncia-do-ceo-npr/",
-      "date": "2026-11-12T14:14:21.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -545,6 +545,15 @@
       "type": "oficial"
     },
     {
+      "title": "Quem pode ser o próximo CEO da Nvidia?",
+      "link": "https://www.estadao.com.br/economia/quem-pode-ser-o-proximo-ceo-da-nvidia-npr/",
+      "date": "2026-11-12T11:33:20.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "Banco Central decreta Liquidação Extrajudicial da Cooperativa Administradora de Consórcios Roma",
       "link": "https://www.bcb.gov.br/detalhenoticia/21318/nota",
       "date": "2026-11-12T11:30:13.000Z",
@@ -561,33 +570,6 @@
       "source": "Banco Central",
       "cat": "economia",
       "type": "oficial"
-    },
-    {
-      "title": "Enviados dos EUA se reúnem com Putin após negociações de paz",
-      "link": "https://www.dw.com/pt-br/enviados-dos-eua-se-reúnem-com-putin-após-negociações-de-paz/a-79927773?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-12T10:49:00.000Z",
-      "summary": "Witkoff e Kushner chegam a Moscou após nova rodada de conversas para pôr fim à guerra na Ucrânia. Maiores entraves envolvem o futuro dos territórios ocupados e o papel da Europa na elaboração de um acordo de paz.",
-      "source": "DW Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Tabata Amaral aciona TCU para suspender licitação que prevê 95 iPhones para o Senado",
-      "link": "https://www.estadao.com.br/politica/tabata-amaral-aciona-tcu-para-suspender-licitacao-que-preve-95-iphones-para-o-senado-nprp/",
-      "date": "2026-11-11T22:52:11.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Um quarto dos alemães deseja regime autoritário de direita",
-      "link": "https://www.dw.com/pt-br/um-quarto-dos-alemães-deseja-regime-autoritário-de-direita/a-79924717?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-11T22:07:00.000Z",
-      "summary": "Avanço do partido de ultradireita AfD em eleições na Alemanha aponta para nova tendência: preconceito, ressentimento e extremismo estão em ascensão. Estudo aponta para nível mais baixo de satisfação com a democracia.",
-      "source": "DW Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
     },
     {
       "title": "​BC divulga IC-Br de outubro",
@@ -680,6 +662,15 @@
       "type": "oficial"
     },
     {
+      "title": "Policiais e fiscais mostram o tamanho do desafio que espera o futuro ministro da Segurança Pública",
+      "link": "https://www.estadao.com.br/politica/marcelo-godoy/policiais-e-fiscais-mostram-o-tamanho-do-desafio-que-espera-o-futuro-ministro-da-seguranca-publica/",
+      "date": "2026-11-09T12:29:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "Da violência ao clima extremo: O pedido urgente para Moçambique na COP31",
       "link": "https://news.un.org/feed/view/pt/story/2026/11/1854871",
       "date": "2026-11-09T12:00:00.000Z",
@@ -690,8 +681,8 @@
     }
   ],
   "errors": [
+    "Selic (SGS 432): HTTP 304",
     "feed CNN Brasil: HTTP 404",
-    "feed CNN Brasil: HTTP 404",
-    "feed Planalto (governo): HTTP 429"
+    "feed CNN Brasil: HTTP 404"
   ]
 }
