@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-12T20:28:38.052Z",
+  "updated": "2026-11-12T21:27:45.525Z",
   "market": {
     "ibov": {
-      "price": 170706.81,
-      "pct": -0.79,
-      "time": "2026-11-12T20:28:32.559Z",
+      "price": 171314.14,
+      "pct": -0.43,
+      "time": "2026-11-12T21:27:39.930Z",
       "history": [
         {
           "d": "2026-10-13",
@@ -92,7 +92,7 @@
         },
         {
           "d": "2026-11-12",
-          "c": 170706.8125
+          "c": 171324.3125
         }
       ]
     },
@@ -149,11 +149,191 @@
   },
   "news": [
     {
-      "title": "Jensen Huang manteve terceiro caso extraconjugal, diz agência",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/jensen-huang-manteve-terceiro-caso-extraconjugal-diz-reuters.shtml",
-      "date": "2026-11-12T20:21:00.000Z",
-      "summary": "O ex-presidente-executivo da Nvidia Jensen Huang manteve um relacionamento extraconjugal com uma terceira mulher, sendo uma segunda funcionária da Nvidia, de acordo com duas pessoas familiarizadas com o assunto, afirmou a Reuters. Leia mais (11/12/2026 - 17h21",
+      "title": "Dólar sobe 1,62% e fecha em R$ 5,652 e Ibovespa cai 0,47%",
+      "link": "https://www.poder360.com.br/poder-economia/dolar-sobe-162-e-fecha-em-r-5652-e-ibovespa-cai-047/",
+      "date": "2026-11-12T21:26:25.000Z",
+      "summary": "O mercado está de olho no plano de ajuste fiscal de Lula; pacote pode ter impacto de até R$ 60 bilhões em 2027",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Primeiro pacote de ajuste fiscal de Lula 4 gera resistências à esquerda e à direita",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/primeiro-pacote-de-ajuste-fiscal-de-lula-4-gera-resistencias-a-esquerda-e-a-direita.shtml",
+      "date": "2026-11-12T21:20:00.000Z",
+      "summary": "O primeiro pacote de ajuste fiscal do novo governo Lula (PT), que mira fechar as contas deste último ano do atual mandato e acomodar despesas no Orçamento de 2027, já enfrenta resistências à direita e à esquerda para ser aprovado. A bancada do PT na Câmara e o",
       "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Após comprar Warren, fintech Cocos mira avanço no Brasil: '10 vezes o tamanho do mercado argentino'",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/apos-comprar-warren-fintech-cocos-mira-avanco-no-brasil-10-vezes-o-tamanho-do-mercado-argentino.shtml",
+      "date": "2026-11-12T21:18:00.000Z",
+      "summary": "A fintech argentina Cocos, fundada em 2021 e que anunciou neste ano a compra da Warren Investimentos, recebeu um aporte de US$ 34 milhões em uma rodada de investimentos liderada pela Kaszek Ventures. Em entrevista ao Painel S.A., o cofundador e presidente do c",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "MP-SP pede investigação de contratos de R$21 mi da Virada Esportiva após denúncia do vice-prefeito",
+      "link": "https://www.estadao.com.br/politica/mp-sp-pede-investigacao-de-contratos-de-r21-mi-da-virada-esportiva-apos-denuncia-do-vice-prefeito-nprp/",
+      "date": "2026-11-12T21:17:19.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "BB usou crédito tributário gerado por perdas com crédito para evitar prejuízo",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/bb-usou-credito-tributario-gerado-por-perdas-com-credito-para-evitar-prejuizo.shtml",
+      "date": "2026-11-12T21:16:00.000Z",
+      "summary": "O Banco do Brasil colocou na conta do terceiro trimestre futuros créditos tributários para evitar um prejuízo líquido. Segundo o balanço da estatal divulgado nesta quarta-feira (11), o resultado operacional no período antes da tributação sobre o lucro foi nega",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "STF derruba isenção de pena em crime patrimonial contra mulher",
+      "link": "https://www.poder360.com.br/poder-justica/stf-derruba-isencao-de-pena-em-crime-patrimonial-contra-mulher/",
+      "date": "2026-11-12T21:15:17.000Z",
+      "summary": "Por unanimidade, ministros invalidam artigos 181 e 182 do Código Penal; julgamento foi suspenso para definir a modulação dos efeitos",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Acionistas querem o Banco Master na mira de auditoria na Oncoclínicas que adiou balanço",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/acionistas-querem-o-banco-master-na-mira-de-auditoria-na-oncoclinicas-que-adiou-balanco.shtml",
+      "date": "2026-11-12T21:07:00.000Z",
+      "summary": "Um grupo de acionistas quer que a auditoria que está sendo feita pelo Comitê Especial Independente da Oncoclínicas, e que adiou a divulgação do balanço da empresa -que está em recuperação extrajudicial-, tenha como um dos focos a investigação sobre as motivaçõ",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Quais os maiores gastos do governo federal? Veja vídeo com ranking",
+      "link": "https://www.estadao.com.br/economia/pedro-fernando-nery/quais-os-maiores-gastos-do-governo-federal-veja-video-com-ranking/",
+      "date": "2026-11-12T21:02:35.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "ASSISTA: Senado inicia discussão do projeto de ajuste fiscal",
+      "link": "https://g1.globo.com/politica/ao-vivo/senado-pacote-medidas-fiscais.ghtml",
+      "date": "2026-11-12T21:01:56.000Z",
+      "summary": "ASSISTA: Senado inicia discussão do projeto de ajuste fiscal Ministro do Planejamento, Bruno Moretti, disse que texto estabiliza dívida pública e preserva compromissos feitos pelo presidente Lula na campanha. O Senado discute o Projeto de Lei Complementar (PLP",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "O ajuste fiscal ‘tapa buraco’ do governo Lula",
+      "link": "https://www.estadao.com.br/politica/raquel-landim/o-ajuste-fiscal-tapa-buraco-do-governo-lula/",
+      "date": "2026-11-12T21:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Aeroporto de Vitória vai ganhar shopping, hospital e centro de eventos; investimento de R$ 1,7 bi vai gerar 7 mil empregos",
+      "link": "https://g1.globo.com/es/espirito-santo/noticia/2026/11/12/aeroporto-de-vitoria-vai-ganhar-shopping-hospital-e-centro-de-eventos-investimento-de-r-17-bi-vai-gerar-7-mil-empregos.ghtml",
+      "date": "2026-11-12T20:57:59.000Z",
+      "summary": "Projeção do Open Mall na área do Aeroporto de Vitória Divulgação/Zurich Airport O Aeroporto de Vitória vai ganhar um shopping a céu aberto, hospital com tecnologia de ponta, um novo centro de eventos e um hub automotivo nos próximos anos. As obras, que devem c",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Pestalozzianos pedem, em sessão especial, atenção à pessoa com deficiência",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/12/pestalozzianos-pedem-em-sessao-especial-atencao-a-pessoa-com-deficiencia",
+      "date": "2026-11-12T20:55:34.000Z",
+      "summary": "Durante sessão especial do Senado nesta quinta-feira (12) para comemorar os 100 anos do Movimento Pestalozziano no Brasil, seus representantes defenderam políticas públicas mais alinhadas às necessidades das pessoas com deficiência. Os pestalozzianos cobraram ",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Juiz que colocou Milton Leite no banco dos réus diz que Brasil ‘já é um narcoestado’",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/juiz-que-colocou-milton-leite-no-banco-dos-reus-diz-que-brasil-ja-e-um-narcoestado/",
+      "date": "2026-11-12T20:54:44.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Projeto proíbe apostas online para devedores de pensão alimentícia",
+      "link": "https://www.camara.leg.br/noticias/1312633-projeto-proibe-apostas-online-para-devedores-de-pensao-alimenticia",
+      "date": "2026-11-12T20:51:00.000Z",
+      "summary": "",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Como é a política de juros fora da caixinha, de Lara Resende, e quais riscos traz",
+      "link": "https://www.estadao.com.br/economia/celso-ming/como-e-a-politica-de-juros-fora-da-caixinha-de-lara-resende-e-quais-riscos-traz/",
+      "date": "2026-11-12T20:48:59.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Inflação da Argentina sobe 2,2% em outubro e 33,1% em 12 meses",
+      "link": "https://www.poder360.com.br/poder-economia/inflacao-da-argentina-sobe-22-em-outubro-e-331-em-12-meses/",
+      "date": "2026-11-12T20:48:04.000Z",
+      "summary": "Índice acelerou em relação a setembro, quando registrou alta de 1,9%; reajustes de gás e combustíveis pressionaram os preços",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Projeto cria auxílio financeiro temporário para mulheres vítimas de violência doméstica",
+      "link": "https://www.camara.leg.br/noticias/1310241-projeto-cria-auxilio-financeiro-temporario-para-mulheres-vitimas-de-violencia-domestica",
+      "date": "2026-11-12T20:47:00.000Z",
+      "summary": "Conforme a proposta, o benefício temporário será pago por municípios e pelo DF e integrará o rol de medidas da Lei Maria da Penha",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Alcolumbre critica oposição por resistir a pacote fiscal: “Não entendo”",
+      "link": "https://www.poder360.com.br/poder-congresso/alcolumbre-articula-para-votar-ajuste-fiscal-ainda-nesta-5a-feira/",
+      "date": "2026-11-12T20:46:12.000Z",
+      "summary": "Presidente do Senado disse que o Orçamento \"não ficará de pé\" sem o projeto proposto na 4ª feira (11.nov) pelo governo federal; oposição pediu mais tempo de análise",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Projeto cria fundo para agricultura familiar bancado por taxas sobre exportação e grandes propriedades",
+      "link": "https://www.camara.leg.br/noticias/1314167-projeto-cria-fundo-para-agricultura-familiar-bancado-por-taxas-sobre-exportacao-e-grandes-propriedades",
+      "date": "2026-11-12T20:42:00.000Z",
+      "summary": "Proposta prevê nova contribuição sobre exportação de commodities agrícolas e repasse direto a estados e municípios, conforme número de agricultores cadastrados",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "‘Produtor rural não é caloteiro’, diz setor de soja após declaração da presidente do Banco do Brasil",
+      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/12/nota-aprosoja.ghtml",
+      "date": "2026-11-12T20:40:36.000Z",
+      "summary": "Produção de soja é marcada por expectativas e desafios em 2026 Divulgação/Aprosoja A Associação Brasileira dos Produtores de Soja e Milho (Aprosoja) divulgou uma nota de repúdio após a fala da presidente do Banco do Brasil, Tarciana Medeiros. Segundo a executi",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Fim de ano se aproxima com inflação alta e PIB travado",
+      "link": "https://www.estadao.com.br/economia/fim-de-ano-se-aproxima-com-inflacao-alta-e-pib-travado/",
+      "date": "2026-11-12T20:33:42.000Z",
+      "summary": "",
+      "source": "Estadão",
       "cat": "economia",
       "type": "imprensa"
     },
@@ -164,15 +344,6 @@
       "summary": "O PT e outros partidos de esquerda preparam um projeto alternativo ao ajuste fiscal proposto pela equipe econômica do governo Lula, em que vão defender a taxação dos mais ricos. Leia mais (11/12/2026 - 17h19)",
       "source": "Folha",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Plano de ajuste do governo Lula retoma medida já rejeitada pelo Congresso",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/plano-de-ajuste-do-governo-lula-retoma-medida-ja-rejeitada-pelo-congresso.shtml",
-      "date": "2026-11-12T20:15:00.000Z",
-      "summary": "O plano de ajuste elaborado pelo governo de Luiz Inácio Lula da Silva (PT) retomou uma medida criticada por empresários e que já foi rejeitada pelo Congresso numa primeira investida do Executivo, em meados de 2024. Leia mais (11/12/2026 - 17h15)",
-      "source": "Folha",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -203,24 +374,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Seminário da Folha discute perspectivas para a macroeconomia brasileira",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/seminariosfolha/2026/11/seminario-da-folha-discute-perspectivas-para-a-macroeconomia-brasileira.shtml",
-      "date": "2026-11-12T19:59:00.000Z",
-      "summary": "A Folha promove em 23 de novembro, uma segunda-feira, seminário para discutir as expectativas para a macroeconomia no ciclo 2027-2030, período que marca o quarto mandato do presidente Lula (PT). Leia mais (11/12/2026 - 16h59)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "PSB aprova início de processo de federação com o PDT",
-      "link": "https://www.poder360.com.br/poder-partidos-politicos/psb-aprova-inicio-de-processo-de-federacao-com-o-pdt/",
-      "date": "2026-11-12T19:54:13.000Z",
-      "summary": "Sigla brizolista decidiu integrar a federação formada por Solidariedade, PRD e Avante; decisão do PSB, até o momento, envolve 2 partidos",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "STF decide que norma que absolve crime patrimonial contra mulher é incompatível com a Constituição",
       "link": "https://g1.globo.com/politica/noticia/2026/11/12/stf-decide-que-norma-que-absolve-crime-patrimonial-contra-mulher-e-incompativel-com-a-constituicao.ghtml",
       "date": "2026-11-12T19:53:22.000Z",
@@ -239,39 +392,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Alcolumbre nega pedido de leitura da CPMI do Master e diz que escolha cabe a ele: ‘Já foi decidido’",
-      "link": "https://www.estadao.com.br/politica/alcolumbre-nega-pedido-de-cpmi-do-banco-master-e-diz-que-escolha-cabe-a-ele-ja-foi-decidido-nprp/",
-      "date": "2026-11-12T19:41:54.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Em que pé está a guerra dos EUA contra o Irã?",
       "link": "https://www.dw.com/pt-br/em-que-pé-está-a-guerra-dos-eua-contra-o-irã/a-79933179?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-12T19:41:00.000Z",
       "summary": "Embora nenhum dos lados afirme que o conflito tenha terminado formalmente, tensão baixou na região e quadro se assemelha a um \"cessar-fogo virtual\". Para analista, país persa entrou em \"modo de espera\".",
       "source": "DW Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Morre Richard Posner, um dos juristas mais influentes dos EUA",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/morre-richard-posner-um-dos-juristas-mais-influentes-dos-eua.shtml",
-      "date": "2026-11-12T19:37:00.000Z",
-      "summary": "O juiz Richard A. Posner, cuja inteligência versátil, dedicação incansável ao trabalho e franqueza surpreendente fizeram dele uma figura de destaque no direito, morreu na terça-feira (10), em Chicago. Ele tinha 87 anos. Leia mais (11/12/2026 - 16h37)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Veja fotos de bens apreendidos em operação contra Ricardo Magro",
-      "link": "https://www.poder360.com.br/poder-seguranca-publica/veja-fotos-de-bens-apreendidos-em-operacao-contra-ricardo-magro/",
-      "date": "2026-11-12T19:35:20.000Z",
-      "summary": "Ação do MPRJ investiga esquema de fraude fiscal de R$ 5,5 bilhões ligado à Refit",
-      "source": "Poder360",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -284,38 +410,11 @@
       "type": "imprensa"
     },
     {
-      "title": "Ministro defende soluções consensuais do TCU, que estão na mira do STF",
-      "link": "https://www.poder360.com.br/poder-governo/ministro-defende-solucoes-consensuais-do-tcu-que-estao-na-mira-do-stf/",
-      "date": "2026-11-12T19:33:51.000Z",
-      "summary": "George Santoro pede que Supremo considere acordos feitos pela SecexConsenso em julgamento que pode restringir instrumento",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Atividades apontadas como foco de desvio por vice de Nunes não tiveram recurso público, diz prefeitura",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/atividades-apontadas-como-foco-de-desvio-por-vice-de-nunes-nao-tiveram-recurso-publico-diz-prefeitura.shtml",
       "date": "2026-11-12T19:32:00.000Z",
-      "summary": "As seis atividades da Virada Esportiva citadas pelo vice-prefeito de São Paulo, Ricardo Mello Araújo (PL), em pedido de investigação enviado ao Ministério Público, foram em sua maioria realizadas, e nenhuma teve dinheiro público, afirmam registros da prefeitur",
+      "summary": "As atividades da Virada Esportiva citadas pelo vice-prefeito de São Paulo, Ricardo Mello Araújo (PL), em pedido de investigação enviado ao Ministério Público, foram em sua maioria realizadas efetivamente, e não tiveram dinheiro público, afirmam registros da pr",
       "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Justiça decreta a prisão preventiva de Milton Leite e de mais 13 acusados por ligação com o PCC",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/justica-decreta-a-prisao-preventiva-de-milton-leite-e-de-mais-13-acusados-por-ligacao-com-o-pcc/",
-      "date": "2026-11-12T19:28:49.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "PF faz operação para investigar fraude ao programa Farmácia Popular no Espírito Santo",
-      "link": "https://www.estadao.com.br/politica/pf-faz-operacao-para-investigar-fraude-ao-programa-farmacia-popular-no-espirito-santo-nprp/",
-      "date": "2026-11-12T19:27:18.000Z",
-      "summary": "",
-      "source": "Estadão",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -327,15 +426,6 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Governo manda desapropriar prédio do jornal “Estado de Minas”",
-      "link": "https://www.poder360.com.br/poder-midia/governo-manda-desapropriar-predio-do-jornal-estado-de-minas/",
-      "date": "2026-11-12T19:18:43.000Z",
-      "summary": "Edifício localizado em Belo Horizonte será ocupado pelo TRT; jornal não disse para onde vai se mudar",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
     },
     {
       "title": "O que são os chips H200, no centro da polêmica que levou à renúncia do CEO da Nvidia",
@@ -356,30 +446,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Senado deve votar pacote de ajuste fiscal nesta quinta-feira",
-      "link": "https://g1.globo.com/politica/ao-vivo/senado-pacote-medidas-fiscais.ghtml",
-      "date": "2026-11-12T19:10:18.000Z",
-      "summary": "Senado deve votar pacote de ajuste fiscal nesta quinta-feira Ministro do Planejamento, Bruno Moretti, disse que texto estabiliza dívida pública e preserva compromissos feitos pelo presidente Lula na campanha. O Senado discute o Projeto de Lei Complementar (PLP",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Lula cobra pedido de desculpas da imprensa sobre tríplex de Guarujá",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/lula-cobra-pedido-de-desculpas-da-imprensa-sobre-triplex-de-guaruja.shtml",
       "date": "2026-11-12T19:05:00.000Z",
       "summary": "O presidente Lula (PT) cobrou nesta quinta-feira (12) um pedido de desculpas da imprensa sobre o caso do tríplex de Guarujá (SP). Leia mais (11/12/2026 - 16h05)",
       "source": "Folha",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "BB tem o pior balanço desde os anos 1990, e perspectiva de recuperação lenta derruba ações",
-      "link": "https://www.estadao.com.br/economia/negocios/bb-tem-o-pior-balanco-desde-os-anos-1990-e-perspectiva-de-recuperacao-lenta-derruba-acoes/",
-      "date": "2026-11-12T18:56:41.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -392,39 +464,12 @@
       "type": "oficial"
     },
     {
-      "title": "Comissão aprova proposta para explicitar direitos humanos e cidadania nos currículos escolares",
-      "link": "https://www.camara.leg.br/noticias/1318941-comissao-aprova-proposta-para-explicitar-direitos-humanos-e-cidadania-nos-curriculos-escolares",
-      "date": "2026-11-12T18:51:00.000Z",
-      "summary": "Proposta prevê conteúdos sobre democracia, ética e participação popular nos ensinos fundamental e médio; Câmara continua analisando o assunto",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
       "title": "Como opera a indústria internacional de exércitos de mercenários",
       "link": "https://www.dw.com/pt-br/como-opera-a-indústria-internacional-de-exércitos-de-mercenários/a-79931353?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-12T18:48:00.000Z",
       "summary": "A existência de soldados mercenários é tão antiga quanto a própria guerra, mas o conflito na Ucrânia lhes conferiu uma nova visibilidade. Eles operam em várias partes do mundo, entre diferentes níveis de legalidade.",
       "source": "DW Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Comissão aprova sistema de informações urbanas para integrar dados entre entes federativos",
-      "link": "https://www.camara.leg.br/noticias/1318915-comissao-aprova-sistema-de-informacoes-urbanas-para-integrar-dados-entre-entes-federativos",
-      "date": "2026-11-12T18:46:00.000Z",
-      "summary": "O projeto de lei continua em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Outlook fora do ar? Serviço de e-mail e IA da Microsoft apresentam instabilidade nesta quinta",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/12/outlook-fora-do-ar.ghtml",
-      "date": "2026-11-12T18:40:04.000Z",
-      "summary": "Microsoft Outlook é um sistema de software de gerenciamento de informações pessoais da Microsoft Gonzalo Fuentes/ Reuters Usuários enfrentam dificuldades para acessar alguns serviços da Microsoft no início da tarde desta quinta-feira (12), como o Outlook. As r",
-      "source": "g1",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -455,39 +500,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Crise na Nvidia: fortuna de Jensen Huang encolhe quase US$ 33 bilhões em novembro",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/12/crise-na-nvidia-fortuna-de-jensen-huang-encolhe-em-novembro.ghtml",
-      "date": "2026-11-12T17:57:02.000Z",
-      "summary": "Como uma traição envolveu o CEO da Nvidia em investigação de espionagem O agora ex-CEO da Nvidia, Jensen Huang, perdeu US$ 32,9 bilhões (cerca de R$ 181 bilhões) em patrimônio desde 1º de novembro, segundo o ranking de bilionários da revista Forbes. Com a qued",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Especialistas criticam a exigência de laudo médico para atendimento na educação especial",
-      "link": "https://www.camara.leg.br/noticias/1318988-especialistas-criticam-a-exigencia-de-laudo-medico-para-atendimento-na-educacao-especial",
-      "date": "2026-11-12T17:51:00.000Z",
-      "summary": "Relatora afirma que orientações do MEC impõem barreiras burocráticas excessivas e excludentes",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
       "title": "Mais 3 mil escolas recebem falsas ameaças de bomba na Itália",
       "link": "https://www.dw.com/pt-br/mais-3-mil-escolas-recebem-falsas-ameaças-de-bomba-na-itália/a-79933936?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-12T17:31:00.000Z",
       "summary": "Governo instruiu instituições a não fecharem as portas após pânico ao redor do país. Casos semelhantes ocorreram em França, Reino Unido e Irlanda.",
       "source": "DW Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Dino mantém fim da 6x1 para 16 de dezembro, mas flexibiliza prazo para folgas do trabalhador",
-      "link": "https://www.estadao.com.br/economia/dino-escala-5x2-folgas-nao-precisam-ser-tiradas-mesmo-mes/",
-      "date": "2026-11-12T17:30:51.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -524,15 +542,6 @@
       "summary": "Fatos do passado até hoje geram polêmica pela forma como são chamados, como mostra episódio recente envolvendo um livro alterado por deputados federais.",
       "source": "BBC News Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "CEO da Nvidia, Jensen Huang, renuncia ao cargo após revelações de casos extraconjugais",
-      "link": "https://www.estadao.com.br/economia/ceo-da-nvidia-jensen-huang-renuncia-ao-cargo-apos-revelacoes-de-casos-extraconjugais-npr/",
-      "date": "2026-11-12T14:05:13.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
