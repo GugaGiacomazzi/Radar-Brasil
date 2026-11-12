@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-11T23:30:09.716Z",
+  "updated": "2026-11-12T00:31:37.363Z",
   "market": {
     "ibov": {
       "price": 172060.44,
       "pct": 0.42,
-      "time": "2026-11-11T23:30:05.474Z",
+      "time": "2026-11-12T00:31:33.815Z",
       "history": [
         {
           "d": "2026-10-13",
@@ -145,6 +145,30 @@
   },
   "news": [
     {
+      "title": "Câmara aprova criação da Política Nacional de Residência em Saúde",
+      "link": "https://www.camara.leg.br/noticias/1318796-camara-aprova-criacao-da-politica-nacional-de-residencia-em-saude",
+      "date": "2026-11-11T23:53:00.000Z",
+      "summary": "Projeto estabelece regras para residências multiprofissionais e uniprofissionais e segue para análise do Senado",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Davi informa que Senado não está comprando smartphones para os parlamentares",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/davi-informa-que-senado-nao-esta-comprando-smartphones-para-os-parlamentares",
+      "date": "2026-11-11T23:49:20.000Z",
+      "summary": "O presidente do Senado, Davi Alcolumbre, afirmou que a Casa não está comprando smartphones para os 81 senadores e alguns servidores com cargos de direção, conforme vêm noticiando órgãos da imprensa. Ele informou que há um contrato na modalidade de comodato, ou",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Motta anuncia grupo de trabalho para discutir propaganda eleitoral nas redes sociais",
+      "link": "https://www.camara.leg.br/noticias/1318798-motta-anuncia-grupo-de-trabalho-para-discutir-propaganda-eleitoral-nas-redes-sociais",
+      "date": "2026-11-11T23:44:00.000Z",
+      "summary": "Colegiado terá 15 dias para apresentar proposta sobre regras para campanhas no ambiente digital",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
       "title": "Ajuste fiscal pode ser votado nesta quinta-feira",
       "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/ajuste-fiscal-pode-ser-votado-nesta-quinta-feira",
       "date": "2026-11-11T23:24:29.000Z",
@@ -193,27 +217,11 @@
       "cat": "politica"
     },
     {
-      "title": "Senado aprova proteção de recursos para internet em escolas públicas",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/senado-aprova-protecao-de-recursos-para-internet-em-escolas-publicas",
-      "date": "2026-11-11T22:40:29.000Z",
-      "summary": "O Senado aprovou nesta quarta-feira (11) projeto de lei complementar que impede o bloqueio de recursos destinados ao Fundo de Universalização dos Serviços de Telecomunicações (Fust). A proposta, votada em regime de urgência (RQS 744/2026), tem objetivo de ampl",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
       "title": "Câmara aprova convenção internacional sobre reciclagem segura de navios",
       "link": "https://www.camara.leg.br/noticias/1318718-camara-aprova-convencao-internacional-sobre-reciclagem-segura-de-navios",
       "date": "2026-11-11T22:35:00.000Z",
       "summary": "Acordo estabelece regras para o desmonte de embarcações e a proteção de trabalhadores e do meio ambiente",
       "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Vai a Plenário projeto que aumenta punição para uso de celular em presídios",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/vai-a-plenario-projeto-que-aumenta-punicao-para-uso-de-celular-em-presidios",
-      "date": "2026-11-11T22:30:40.000Z",
-      "summary": "A Comissão de Constituição e Justiça do Senado (CCJ) aprovou nesta quarta-feira (11) um projeto de lei para impedir que facções criminosas utilizem celulares nas prisões. O projeto (PL 2.905/2022) segue para votação no Plenário do Senado em regime de urgência.",
-      "source": "Agência Senado",
       "cat": "politica"
     },
     {
@@ -231,22 +239,6 @@
       "summary": "Avanço do partido de ultradireita AfD em eleições na Alemanha aponta para nova tendência: preconceito, ressentimento e extremismo estão em ascensão. Estudo aponta para nível mais baixo de satisfação com a democracia.",
       "source": "DW Brasil",
       "cat": "internacional"
-    },
-    {
-      "title": "Comissão de Orçamento aprova relatório preliminar da LDO de 2027",
-      "link": "https://www.camara.leg.br/noticias/1318622-comissao-de-orcamento-aprova-relatorio-preliminar-da-ldo-de-2027",
-      "date": "2026-11-11T22:00:00.000Z",
-      "summary": "Votação do texto final será marcada para a semana de 9 a 11 de dezembro",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Câmara decide enviar ao Senado projeto que revoga lei sobre alienação parental",
-      "link": "https://www.camara.leg.br/noticias/1318504-camara-decide-enviar-ao-senado-projeto-que-revoga-lei-sobre-alienacao-parental",
-      "date": "2026-11-11T21:53:00.000Z",
-      "summary": "Projeto já foi aprovado nas comissões permanentes e seguirá para análise dos senadores",
-      "source": "Agência Câmara",
-      "cat": "politica"
     },
     {
       "title": "UE está longe da meta de cortar emissões no transporte em 90% até 2050",
