@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-12T07:11:14.559Z",
+  "updated": "2026-11-12T08:30:33.589Z",
   "market": {
     "ibov": {
       "price": 172060.44,
       "pct": 0.42,
-      "time": "2026-11-12T07:11:09.639Z",
+      "time": "2026-11-12T08:30:28.655Z",
       "history": [
         {
           "d": "2026-10-13",
@@ -305,6 +305,14 @@
       "cat": "economia"
     },
     {
+      "title": "Homens de meia-idade e com ensino médio: o perfil de quem elegeu os deputados campeões de voto em SP nas eleições de 2026",
+      "link": "https://www.bbc.com/portuguese/articles/cm3r5v2el35vo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-11T17:25:50.000Z",
+      "summary": "Cruzamento de dados da votação no estado com cadastro do eleitorado das seções expressa polarização ideológica, em que deputados mais votados representam pautas à esquerda e à direita",
+      "source": "BBC News Brasil",
+      "cat": "internacional"
+    },
+    {
       "title": "As críticas à troca de delegados da PF no caso Master: 'Levanta graves suspeitas'",
       "link": "https://www.bbc.com/portuguese/articles/c6wy47lmwz1no?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-11T15:30:42.000Z",
@@ -326,14 +334,6 @@
       "date": "2026-11-11T12:00:00.000Z",
       "summary": "Na abertura de alto nível, secretário-geral António Guterres alertou que planeta segue rumo à destruição; ONU aponta energia limpa como escudo contra a inflação; presidente Lula, do Brasil, advertiu que ação climática está perdendo terreno no mundo.",
       "source": "ONU News",
-      "cat": "internacional"
-    },
-    {
-      "title": "3 pontos para entender a primeira greve geral na Espanha em 14 anos",
-      "link": "https://www.bbc.com/portuguese/articles/c58j4le1w32ro?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-11T10:49:58.000Z",
-      "summary": "A menos de 20 dias das eleições gerais, os espanhóis foram convocados para uma greve nesta quarta-feira (11/11) em protesto contra a crise da moradia e o alto custo de vida",
-      "source": "BBC News Brasil",
       "cat": "internacional"
     },
     {
