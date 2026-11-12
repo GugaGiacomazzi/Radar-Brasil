@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-12T15:17:36.971Z",
+  "updated": "2026-11-12T16:26:14.854Z",
   "market": {
     "ibov": {
-      "price": 170739.16,
-      "pct": -0.77,
-      "time": "2026-11-12T15:17:31.518Z",
+      "price": 171531.56,
+      "pct": -0.31,
+      "time": "2026-11-12T16:26:08.549Z",
       "history": [
         {
           "d": "2026-10-13",
@@ -92,7 +92,7 @@
         },
         {
           "d": "2026-11-12",
-          "c": 170735.875
+          "c": 171531.5625
         }
       ]
     },
@@ -149,6 +149,78 @@
   },
   "news": [
     {
+      "title": "Comissão aprova medidas para ampliar regularização fundiária e saneamento em áreas informais",
+      "link": "https://www.camara.leg.br/noticias/1318848-comissao-aprova-medidas-para-ampliar-regularizacao-fundiaria-e-saneamento-em-areas-informais",
+      "date": "2026-11-12T16:23:00.000Z",
+      "summary": "Agora a proposta será analisada pela Comissão de Constituição e Justiça da Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Comissão aprova proposta com regras para representação legal de provedores de internet no Brasil",
+      "link": "https://www.camara.leg.br/noticias/1318885-comissao-aprova-proposta-com-regras-para-representacao-legal-de-provedores-de-internet-no-brasil",
+      "date": "2026-11-12T16:15:00.000Z",
+      "summary": "Texto segue em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Aprovada dispensa de regras fiscais para Copa do Mundo Feminina de 2027",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/12/aprovada-dispensa-de-regras-fiscais-para-copa-do-mundo-feminina-de-2027",
+      "date": "2026-11-12T16:10:49.000Z",
+      "summary": "O Congresso Nacional aprovou, em sessão conjunta nesta quinta-feira (12), projeto que dispensa despesas relacionadas à realização da Copa do Mundo Feminina de Futebol de 2027, a ser disputada em junho e julho em oito cidades brasileiras, de cumprir determinada",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "CEO da Nvidia renuncia após caso com suposta espiã chinesa: quem assumirá o comando da empresa?",
+      "link": "https://www.bbc.com/portuguese/articles/cx1l053gmq5zo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-12T16:10:29.000Z",
+      "summary": "Jensen Huang deixou o cargo nesta quinta-feira (12/11) após vir à tona que ele teria um segundo relacionamento com uma funcionária da empresa. Valor de mercado da companhia despencou desde o início da crise.",
+      "source": "BBC News Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "Comissão aprova proposta de gratuidade para pessoas com deficiência de baixa renda em eventos",
+      "link": "https://www.camara.leg.br/noticias/1318855-comissao-aprova-proposta-de-gratuidade-para-pessoas-com-deficiencia-de-baixa-renda-em-eventos",
+      "date": "2026-11-12T16:09:00.000Z",
+      "summary": "Na Câmara, proposta precisa ser aprovada por mais uma comissão; depois, segue pra análise do Senado",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Congresso aprova R$ 13,2 milhões para a pesquisa científica no Brasil",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/12/congresso-aprova-r-13-2-milhoes-para-a-pesquisa-cientifica-no-brasil",
+      "date": "2026-11-12T15:59:24.000Z",
+      "summary": "O Ministério da Ciência e Tecnologia está autorizado a receber R$ 13,2 milhões, para aplicação em pesquisas e desenvolvimento científico. O PLN 3/2026, que libera a verba, foi aprovado pelo Congresso Nacional por unanimidade nesta quinta-feira (12). Os recurso",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Congresso aprova possibilidade de novas nomeações de servidores em 2026",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/12/congresso-aprova-possibilidade-de-novas-nomeacoes-de-servidores-em-2026",
+      "date": "2026-11-12T15:54:19.000Z",
+      "summary": "Senadores e deputados aprovaram, em sessão conjunta do Congresso Nacional nesta quinta-feira (12), projeto que autoriza o Poder Executivo a nomear 851 servidores e criar 1.821 cargos e funções de confiança na Receita Federal em 2026. O texto segue para sanção ",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Aprovados créditos especiais para a saúde e para o meio ambiente",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/12/aprovados-creditos-especiais-para-a-saude-e-para-o-meio-ambiente",
+      "date": "2026-11-12T15:39:27.000Z",
+      "summary": "Senadores e deputados aprovaram nesta quinta-feira (12) dois projetos de lei do Congresso Nacional (PLNs) que destinam R$ 3 milhões em crédito especial em favor do Ministério da Saúde e R$ 3,4 milhões em favor do Ministério do Meio Ambiente. As matérias seguem",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Israel ataca hospital em Gaza, apesar de cessar-fogo",
+      "link": "https://www.dw.com/pt-br/israel-ataca-hospital-em-gaza-apesar-de-cessar-fogo/a-79932931?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-12T15:20:00.000Z",
+      "summary": "Mísseis atingiram hospital que atende metade da população do enclave, matando seis pessoas. Trégua, que já dura, um ano não conseguiu cessar ataques israelenses nem garantir o desarmamento do Hamas.",
+      "source": "DW Brasil",
+      "cat": "internacional"
+    },
+    {
       "title": "Audiência na Câmara debate prevenção e tratamento de doenças cardiovasculares",
       "link": "https://www.camara.leg.br/noticias/1318857-audiencia-na-camara-debate-prevencao-e-tratamento-de-doencas-cardiovasculares",
       "date": "2026-11-12T14:59:00.000Z",
@@ -173,42 +245,10 @@
       "cat": "politica"
     },
     {
-      "title": "CEO da Nvidia renuncia após segunda acusação de caso extraconjugal",
-      "link": "https://www.bbc.com/portuguese/articles/cx1l053gmq5zo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-12T14:19:19.000Z",
-      "summary": "Colette Kress, vice-presidente executiva e diretora financeira da empresa, concordou em assumir o cargo de CEO interina.",
-      "source": "BBC News Brasil",
-      "cat": "internacional"
-    },
-    {
       "title": "Comissão aprova projeto que obriga bibliotecas a disponibilizarem texto atualizado da Constituição",
       "link": "https://www.camara.leg.br/noticias/1318846-comissao-aprova-projeto-que-obriga-bibliotecas-a-disponibilizarem-texto-atualizado-da-constituicao",
       "date": "2026-11-12T14:04:00.000Z",
       "summary": "Texto segue em análise na Câmara. Se for aprovado, seguirá para sanção presidencial",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Começa sessão do Congresso Nacional para votação de créditos ao Orçamento 2026; acompanhe",
-      "link": "https://www.camara.leg.br/noticias/1318646-comeca-sessao-do-congresso-nacional-para-votacao-de-creditos-ao-orcamento-2026-acompanhe",
-      "date": "2026-11-12T13:45:00.000Z",
-      "summary": "Pauta com 24 projetos prevê liberação de recursos adicionais para órgãos públicos e ministérios",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Projeto institui protocolos para resgate de animais em acidentes rodoviários",
-      "link": "https://www.camara.leg.br/noticias/1314055-projeto-institui-protocolos-para-resgate-de-animais-em-acidentes-rodoviarios",
-      "date": "2026-11-12T13:39:00.000Z",
-      "summary": "Proposta proíbe abate de sobreviventes na pista e responsabiliza transportadoras pelo socorro de carga viva",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Projeto inclui valorização do folclore e de tradições populares em licitações de eventos culturais",
-      "link": "https://www.camara.leg.br/noticias/1310397-projeto-inclui-valorizacao-do-folclore-e-de-tradicoes-populares-em-licitacoes-de-eventos-culturais",
-      "date": "2026-11-12T13:10:00.000Z",
-      "summary": "",
       "source": "Agência Câmara",
       "cat": "politica"
     },
@@ -293,14 +333,6 @@
       "cat": "internacional"
     },
     {
-      "title": "Equador vive permanente estado de exceção sem melhora na segurança",
-      "link": "https://www.dw.com/pt-br/equador-vive-permanente-estado-de-exceção-sem-melhora-na-segurança/a-79922564?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-11T18:14:00.000Z",
-      "summary": "Estratégia linha-dura do presidente Daniel Noboa serve mais para legimitação política do que combate ao crime, avaliam analistas.",
-      "source": "DW Brasil",
-      "cat": "internacional"
-    },
-    {
       "title": "​BC divulga IC-Br de outubro",
       "link": "https://www.bcb.gov.br/detalhenoticia/21316/nota",
       "date": "2026-11-11T17:30:47.000Z",
@@ -341,11 +373,5 @@
       "cat": "economia"
     }
   ],
-  "errors": [
-    "Selic (SGS 432): HTTP 503",
-    "IPCA 12m (SGS 13522): HTTP 503",
-    "Dívida/PIB (SGS 13762): HTTP 503",
-    "Dívida R$ (SGS 13761): HTTP 503",
-    "feed Planalto (governo): nenhum item no feed (endereço mudou?)"
-  ]
+  "errors": []
 }
