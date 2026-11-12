@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-12T04:54:32.001Z",
+  "updated": "2026-11-12T05:56:45.100Z",
   "market": {
     "ibov": {
       "price": 172060.44,
       "pct": 0.42,
-      "time": "2026-11-12T04:54:25.195Z",
+      "time": "2026-11-12T05:56:40.185Z",
       "history": [
         {
           "d": "2026-10-13",
@@ -377,7 +377,5 @@
       "cat": "economia"
     }
   ],
-  "errors": [
-    "feed Planalto (governo): nenhum item no feed (endereço mudou?)"
-  ]
+  "errors": []
 }
