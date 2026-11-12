@@ -76,6 +76,11 @@ header h1 span{color:var(--accent)}
 .filters{display:flex;flex-wrap:wrap;gap:6px}
 .filters button{font-family:var(--f-display);font-size:14px;font-weight:600;padding:6px 14px;border-radius:999px;border:1px solid var(--line);background:var(--surface);color:var(--ink);cursor:pointer}
 .filters button[aria-pressed="true"]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.filter-rows{display:flex;flex-direction:column;align-items:flex-end;gap:6px}
+.filters.small button{font-size:12px;padding:4px 10px}
+.item .kind{font-family:var(--f-display);font-size:11px;font-weight:600;border-radius:4px;padding:1px 6px;align-self:flex-start;border:1px solid var(--line);color:var(--muted)}
+.item .kind.oficial{background:var(--accent-soft);color:var(--accent);border-color:transparent}
+@media (max-width:520px){.filter-rows{align-items:flex-start}}
 .criteria{background:var(--accent-soft);border-radius:10px;padding:14px 18px;font-size:15px;margin-bottom:8px}
 .news-scroll{max-height:min(75vh,900px);overflow-y:auto;overscroll-behavior:contain;border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding-right:8px;scrollbar-gutter:stable}
 .news-scroll .item:first-child{border-top:0}
@@ -166,15 +171,22 @@ footer details{margin-top:8px}
 
   <section aria-labelledby="news">
     <div class="section-head">
-      <h2 id="news">Notícias oficiais</h2>
-      <div class="filters" role="group" aria-label="Filtrar notícias">
-        <button data-f="all" aria-pressed="true">Todas</button>
-        <button data-f="politica" aria-pressed="false">Política</button>
-        <button data-f="economia" aria-pressed="false">Economia</button>
-        <button data-f="internacional" aria-pressed="false">Internacional</button>
+      <h2 id="news">Notícias</h2>
+      <div class="filter-rows">
+        <div class="filters" role="group" aria-label="Filtrar por tema">
+          <button data-f="all" aria-pressed="true">Todas</button>
+          <button data-f="politica" aria-pressed="false">Política</button>
+          <button data-f="economia" aria-pressed="false">Economia</button>
+          <button data-f="internacional" aria-pressed="false">Internacional</button>
+        </div>
+        <div class="filters small" role="group" aria-label="Filtrar por tipo de fonte">
+          <button data-t="all" aria-pressed="true">Todas as fontes</button>
+          <button data-t="oficial" aria-pressed="false">Só oficiais</button>
+          <button data-t="imprensa" aria-pressed="false">Só imprensa</button>
+        </div>
       </div>
     </div>
-    <div class="criteria">Manchetes copiadas direto dos canais oficiais (Senado, Câmara, Banco Central e, marcados como "governo", Planalto e gov.br), sem reescrita e sem sites de opinião. Internacional: ONU News e as emissoras públicas BBC News Brasil e DW Brasil. Clique para ler na fonte.</div>
+    <div class="criteria">Manchetes copiadas sem reescrita, sempre com o nome da fonte. <b>Oficiais:</b> Senado, Câmara, Banco Central, ONU e, marcados como "governo", Planalto e gov.br. <b>Imprensa:</b> g1, Folha, Estadão, CNN Brasil e Poder360, portais de maior audiência com linhas editoriais diferentes entre si, e no internacional as emissoras públicas BBC News Brasil e DW Brasil. Sites de opinião ou ligados a partidos ficam de fora. Clique para ler na fonte.</div>
     <div class="news-scroll" id="newsList" tabindex="0" aria-label="Lista de notícias"></div>
     <div class="news-count" id="newsCount"></div>
   </section>
@@ -285,25 +297,29 @@ function renderKpis(ind){
   if(ind.debtPct){$('kDebt').textContent=brl(ind.debtPct.value,1)+'%';$('kDebtL').textContent='Dívida bruta / PIB · '+ind.debtPct.date.slice(5,7)+'/'+ind.debtPct.date.slice(0,4)+' (Banco Central)';}
 }
 
-let NEWS=[];
-function renderNews(f){
+let NEWS=[], F='all', T='all';
+function renderNews(){
   const list=$('newsList'); list.innerHTML='';
-  const items=NEWS.filter(n=>f==='all'||n.cat===f);
+  const items=NEWS.filter(n=>(F==='all'||n.cat===F)&&(T==='all'||(n.type||'oficial')===T));
   $('newsCount').textContent=items.length?items.length+' notícias · role a lista para ver todas':'';
   list.scrollTop=0;
   if(!items.length){list.innerHTML='<p class="note">Nenhuma notícia carregada ainda.</p>';return;}
   items.forEach(n=>{
     const el=document.createElement('article'); el.className='item';
-    el.innerHTML=`<div class="meta"><span class="tag ${n.cat}">${({politica:'Política',economia:'Economia',internacional:'Internacional'})[n.cat]||n.cat}</span><span class="date"></span><span class="srcname"></span></div><div><h3><a target="_blank" rel="noopener"></a></h3><p></p></div>`;
+    el.innerHTML=`<div class="meta"><span class="tag ${n.cat}">${({politica:'Política',economia:'Economia',internacional:'Internacional'})[n.cat]||n.cat}</span><span class="date"></span><span class="srcname"></span><span class="kind"></span></div><div><h3><a target="_blank" rel="noopener"></a></h3><p></p></div>`;
     el.querySelector('.date').textContent=n.date?new Date(n.date).toLocaleString('pt-BR',{day:'2-digit',month:'2-digit',hour:'2-digit',minute:'2-digit',timeZone:'America/Sao_Paulo'}):'';
     el.querySelector('.srcname').textContent=n.source;
+    const k=el.querySelector('.kind'); k.textContent=(n.type||'oficial')==='imprensa'?'Imprensa':'Oficial'; k.classList.add(n.type||'oficial');
     const a=el.querySelector('a'); a.href=n.link; a.textContent=n.title;
     const p=el.querySelector('p'); if(n.summary) p.textContent=n.summary; else p.remove();
     list.appendChild(el);
   });
 }
 document.querySelectorAll('.filters button').forEach(b=>b.addEventListener('click',()=>{
-  document.querySelectorAll('.filters button').forEach(x=>x.setAttribute('aria-pressed',x===b)); renderNews(b.dataset.f);
+  const key=b.dataset.f!==undefined?'f':'t';
+  b.parentElement.querySelectorAll('button').forEach(x=>x.setAttribute('aria-pressed',x===b));
+  if(key==='f')F=b.dataset.f; else T=b.dataset.t;
+  renderNews();
 }));
 
 (async function(){
@@ -312,7 +328,7 @@ document.querySelectorAll('.filters button').forEach(b=>b.addEventListener('clic
     $('updated').textContent=fmtDate(d.updated);
     renderFx(d.market&&d.market.fx,false); renderIbov(d.market&&d.market.ibov);
     renderKpis(d.indicators); setupMeters(d);
-    NEWS=d.news||[]; renderNews('all');
+    NEWS=d.news||[]; renderNews();
     if(d.errors&&d.errors.length){$('errBox').hidden=false;$('errList').innerHTML=d.errors.map(e=>'<li></li>').join('');[...$('errList').children].forEach((li,i)=>li.textContent=d.errors[i]);}
   }catch(e){ $('updated').textContent='não foi possível ler data/data.json'; }
   liveFx(); setInterval(liveFx,60000);
