@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-12T08:30:33.589Z",
+  "updated": "2026-11-12T09:34:48.526Z",
   "market": {
     "ibov": {
       "price": 172060.44,
       "pct": 0.42,
-      "time": "2026-11-12T08:30:28.655Z",
+      "time": "2026-11-12T09:34:42.716Z",
       "history": [
         {
           "d": "2026-10-13",
@@ -257,7 +257,7 @@
       "cat": "internacional"
     },
     {
-      "title": "O que colocar na mochila de emergência e por que você deve ter uma — preventivamente",
+      "title": "O que colocar na mochila como kit de emergência e por que você deve ter uma — preventivamente",
       "link": "https://www.bbc.com/portuguese/articles/cm62p37dgxzzo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-11T20:53:39.000Z",
       "summary": "Kits de emergência são importantes e devem ser inseridos na cultura do Brasil, que nunca focou em prevenção, defende especialista.",
@@ -377,5 +377,7 @@
       "cat": "economia"
     }
   ],
-  "errors": []
+  "errors": [
+    "Dívida/PIB (SGS 13762): HTTP 304"
+  ]
 }
