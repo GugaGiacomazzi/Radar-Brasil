@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-12T18:29:51.088Z",
+  "updated": "2026-11-12T18:40:49.302Z",
   "market": {
     "ibov": {
-      "price": 170840.05,
-      "pct": -0.71,
-      "time": "2026-11-12T18:29:45.316Z",
+      "price": 170905.55,
+      "pct": -0.67,
+      "time": "2026-11-12T18:40:45.508Z",
       "history": [
         {
           "d": "2026-10-13",
@@ -92,7 +92,7 @@
         },
         {
           "d": "2026-11-12",
-          "c": 170840.0469
+          "c": 170905.5469
         }
       ]
     },
@@ -149,12 +149,67 @@
   },
   "news": [
     {
+      "title": "Lula embarca para Filipinas para participar de cúpula e ampliar mercado brasileiro na Ásia",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/12/lula-embarca-para-filipinas-para-participar-de-cupula-e-ampliar-mercado-brasileiro-na-asia.ghtml",
+      "date": "2026-11-12T18:37:20.000Z",
+      "summary": "COP 31: Lula fica de fora do segundo dia da cúpula de lideranças mundiais O presidente Luiz Inácio Lula da Silva (PT) embarcou nesta quinta-feira (12) para as Filipinas para participar da cúpula da Associação de Nações do Sudeste Asiático (Asean). É a segunda ",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "STF mantém afastamento de Marco Buzzi do STJ após acusação de assédio, mas mantém salário",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/12/stf-mantem-afastamento-de-marco-buzzi-do-stj-apos-acusacao-de-assedio-mas-mantem-salario.ghtml",
+      "date": "2026-11-12T18:35:37.000Z",
+      "summary": "O ministro Nunes Marques, do Supremo Tribunal Federal (STF), manteve o afastamento do ministro Marco Buzzi determinado pelo Superior Tribunal de Justiça, mas negou a suspensão do pagamento do salário. Em outra frente, o STJ poderá iniciar os trâmites para o pr",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "IA continua sendo força dominante de investimentos empresariais nos EUA em 2027, diz Goldman Sachs",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/ia-continua-sendo-forca-dominante-de-investimentos-empresariais-nos-eua-em-2027-diz-goldman-sachs.shtml",
+      "date": "2026-11-12T18:30:00.000Z",
+      "summary": "O Goldman Sachs previu em relatório publicado nesta quarta-feira (11) que os gastos anualizados com hardware e propriedade intelectual relacionados à inteligência artificial chegarão a US$ 1,4 trilhão (R$ 7,8 trilhões) até o fim de 2027, o equivalente a quase ",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Mercado Livre, Amazon e Shopee ocupam quase 20% dos galpões logísticos do país, mostra SiiLA",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/mercado-livre-amazon-e-shopee-ocupam-quase-20-dos-galpoes-logisticos-do-pais-mostra-siila.shtml",
+      "date": "2026-11-12T18:28:00.000Z",
+      "summary": "As gigantes do ecommerce Mercado Livre, Amazon e Shopee já representam, juntas, 17,8% das ocupações dos galpões logísticos das classes A+, A e B que são monitorados pela SiiLA, plataforma de dados do mercado imobiliário. Leia mais (11/12/2026 - 15h28)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "Executivo terá novas possibilidades de remanejamento e suplementação de despesas",
       "link": "https://www12.senado.leg.br/noticias/materias/2026/11/12/executivo-tera-novas-possibilidades-de-remanejamento-e-suplementacao-de-despesas",
       "date": "2026-11-12T18:26:44.000Z",
       "summary": "O Congresso Nacional aprovou nesta quinta-feira (12) o projeto que altera o Orçamento de 2026 para ampliar as possibilidades de remanejamento e suplementação de despesas — por parte do Executivo — sem a necessidade de autorização do Parlamento. O projeto (PLN ",
       "source": "Agência Senado",
-      "cat": "politica"
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Moro contesta PT e diz que decisão sobre triplex não inocentou Lula",
+      "link": "https://www.poder360.com.br/poder-congresso/moro-contesta-pt-e-diz-que-decisao-sobre-triplex-nao-inocentou-lula/",
+      "date": "2026-11-12T18:26:40.000Z",
+      "summary": "Senador diz que devolução de R$ 2,4 milhões à OAS não significa que imóvel não era do petista; condenações foram anuladas",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Quem vai comandar a Nvidia em definitivo após a saída de Huang?",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/quem-vai-comandar-a-nvidia-em-definitivo-apos-a-saida-de-huang.shtml",
+      "date": "2026-11-12T18:25:00.000Z",
+      "summary": "Após a renúncia de Jensen Huang do cargo de CEO da Nvidia, a atual vice-presidente executiva e CFO (diretora financeira) da empresa, Colette Kress, assumiu como CEO interina da companhia. A Nvidia, porém, iniciou a busca por um CEO definitivo, com a possibilid",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
     },
     {
       "title": "Comissão aprova adaptação de moradias do Minha Casa, Minha Vida para famílias com doentes",
@@ -162,7 +217,26 @@
       "date": "2026-11-12T18:24:00.000Z",
       "summary": "O projeto continua em análise na Câmara dos Deputados",
       "source": "Agência Câmara",
-      "cat": "politica"
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Saída de Jensen Huang ameaça rede de financiamento da indústria de IA",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/saida-de-jensen-huang-ameaca-rede-de-financiamento-da-industria-de-ia.shtml",
+      "date": "2026-11-12T18:21:00.000Z",
+      "summary": "Sob o comando de Jensen Huang, a Nvidia destinou parte de seus enormes lucros ao financiamento de startups de inteligência artificial, fornecedores e clientes que compram seus chips. Leia mais (11/12/2026 - 15h21)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "As acusações de 'festas sexuais em troca de contratos' que levaram à investigação do ex-presidente colombiano Gustavo Petro",
+      "link": "https://www.bbc.com/portuguese/articles/cm174ll0nvj9o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-12T18:18:24.000Z",
+      "summary": "Uma mulher acusa o ex-presidente Gustavo Petro de ter fornecido contratos com o Estado colombiano em troca de favores sexuais.",
+      "source": "BBC News Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
     },
     {
       "title": "Davi defende respeito a divergências e fortalecimento do Parlamento",
@@ -170,7 +244,71 @@
       "date": "2026-11-12T18:17:31.000Z",
       "summary": "O presidente do Senado e do Congresso Nacional, Davi Alcolumbre, defendeu nesta quinta-feira (12) o respeito às divergências políticas e a valorização do Poder Legislativo como fundamentais para o fortalecimento da democracia. Ao encerrar a sessão conjunta des",
       "source": "Agência Senado",
-      "cat": "politica"
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Governo enfrentará tentativas de adiar ajuste fiscal, diz Randolfe",
+      "link": "https://www.poder360.com.br/poder-congresso/governo-enfrentara-tentativas-de-adiar-ajuste-fiscal-diz-randolfe/",
+      "date": "2026-11-12T18:15:14.000Z",
+      "summary": "Líder afirma que divergências internas no PT serão sanadas com explicações sobre o projeto; ajuste anunciado é de R$ 60 bi em 2027",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Todos os 10 ministros do STF são citados em celular de Vorcaro",
+      "link": "https://www.poder360.com.br/poder-justica/todos-os-10-ministros-do-stf-sao-citados-em-celular-de-vorcaro/",
+      "date": "2026-11-12T18:12:22.000Z",
+      "summary": "Só parte se encaixa no que fixa parágrafo único do artigo 33 da Lei Orgânica da Magistratura (“indício de prática de crime”), mas Edson Fachin agora mandou a PF fazer relatórios individuais sobre todos os magistrados",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "'Terceiro turno', eleição do Senado definirá rumos do próximo governo; veja vídeo",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/terceiro-turno-eleicao-do-senado-definira-rumos-do-proximo-governo-veja-video.shtml",
+      "date": "2026-11-12T18:10:00.000Z",
+      "summary": "Passada a eleição presidencial, começou agora a disputa pelo comando do Senado, que é uma espécie de terceiro turno. Leia mais (11/12/2026 - 15h10)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "De pés descalços a sorvete: Janones mostra bastidores de Lula na COP 31",
+      "link": "https://www.poder360.com.br/poder-governo/de-pes-descalcos-a-sorvete-janones-mostra-bastidores-de-lula-na-cop-31/",
+      "date": "2026-11-12T17:59:17.000Z",
+      "summary": "Deputado divulga fotos do presidente descansando, fazendo refeições e participando de reuniões na Turquia em canal com 10,1 milhões de seguidores",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Crise na Nvidia: fortuna de Jensen Huang encolhe quase US$ 33 bilhões em novembro",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/12/crise-na-nvidia-fortuna-de-jensen-huang-encolhe-em-novembro.ghtml",
+      "date": "2026-11-12T17:57:02.000Z",
+      "summary": "Como uma traição envolveu o CEO da Nvidia em investigação de espionagem O agora ex-CEO da Nvidia, Jensen Huang, perdeu US$ 32,9 bilhões (cerca de R$ 181 bilhões) em patrimônio desde 1º de novembro, segundo o ranking de bilionários da revista Forbes. Com a qued",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Justiça proíbe Uber de cobrar taxa para motoristas aceitarem corridas no Brasil",
+      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/12/justica-suspende-cobranca-de-taxa-da-uber-para-motoristas.ghtml",
+      "date": "2026-11-12T17:54:07.000Z",
+      "summary": "Logo da Uber é visto nesta ilustração tirada em 5 de agosto de 2025. REUTERS/Dado Ruvic/Ilustração/Foto de arquivo A Justiça do Trabalho determinou a suspensão, em todo o Brasil, da cobrança do “Passe para Motoristas”, programa da Uber que exigia o pagamento d",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Federação com partidos médios avança, mas dirigentes disputam comando",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/federacao-com-partidos-medios-avanca-mas-dirigentes-disputam-comando.shtml",
+      "date": "2026-11-12T17:54:00.000Z",
+      "summary": "O PSB e o PDT devem avançar em torno da federação com outros três partidos -Avante, Solidariedade e PRD- na próxima semana, mas as legendas já travam uma disputa pelo comando do grupo. Leia mais (11/12/2026 - 14h54)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
     },
     {
       "title": "Especialistas criticam a exigência de laudo médico para atendimento na educação especial",
@@ -178,7 +316,17 @@
       "date": "2026-11-12T17:51:00.000Z",
       "summary": "Relatora afirma que orientações do MEC impõem barreiras burocráticas excessivas e excludentes",
       "source": "Agência Câmara",
-      "cat": "politica"
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Governo prevê convocar 1,3 mil aprovados em concursos ainda em 2026; veja órgãos e cargos",
+      "link": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/11/12/concurso-governo-cnpu.ghtml",
+      "date": "2026-11-12T17:43:10.000Z",
+      "summary": "Ministra afirmou que governo avalia possíveis convocações adicionais de outros certames ainda em 2026. Diego Campos/Secom O governo federal prevê convocar novos aprovados em concursos públicos ainda em 2026. Entre as chamadas previstas estão 1,3 mil vagas que ",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
     },
     {
       "title": "Comissão debate impactos do contrabando e da falsificação no mercado de bebidas e cigarros",
@@ -186,7 +334,17 @@
       "date": "2026-11-12T17:43:00.000Z",
       "summary": "Audiência pública vai reunir informações para propor medidas legislativas que reduzam os impactos econômicos da pirataria no setor",
       "source": "Agência Câmara",
-      "cat": "politica"
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "'É um escárnio', diz Cleitinho sobre licitação de R$ 6 milhões para celulares no Senado",
+      "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/11/12/cleitinho-celulares-senado.ghtml",
+      "date": "2026-11-12T17:39:16.000Z",
+      "summary": "Senador Cleitinho Azevedo (Republicanos-MG) critica licitação de R$6 mi para celulares no Senado O senador e governador eleito de Minas Gerais, Cleitinho (Republicanos), classificou como um \"escárnio\" a licitação do Senado Federal que prevê gastos de R$ 6 milh",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
     },
     {
       "title": "Comissão externa apresenta relatório sobre rompimento da barragem de Fundão",
@@ -194,7 +352,17 @@
       "date": "2026-11-12T17:38:00.000Z",
       "summary": "O rompimento da Barragem de Fundão aconteceu há 11 anos e despejou uma lama de rejeitos de minério de ferro ao longo do Rio Doce, entre Minas Gerais e Espírito Santo",
       "source": "Agência Câmara",
-      "cat": "politica"
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Dino mantém início da escala 5x2 para 16 de dezembro e ajusta transição para permitir 42 horas semanais em 5 dias de trabalho",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/12/fim-da-escala-6x1-dino-autoriza-distribuicao-de-42-horas-semanais-em-5-dias-de-trabalho.ghtml",
+      "date": "2026-11-12T17:32:20.000Z",
+      "summary": "O ministro Flávio Dino, do Supremo Tribunal Federal (STF), concedeu uma decisão liminar nesta quinta-feira (12) autorizando que empregadores distribuam a jornada intermediária de 42 horas semanais em 5 dias de trabalho, na escala 5x2, com expedientes diários d",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
     },
     {
       "title": "Mais 1,8 mil escolas recebem falsas ameaças de bomba na Itália",
@@ -202,7 +370,26 @@
       "date": "2026-11-12T17:31:00.000Z",
       "summary": "Governo instruiu instituições a não fecharem as portas após pânico ao redor do país. Casos semelhantes ocorreram em França, Reino Unido e Irlanda.",
       "source": "DW Brasil",
-      "cat": "internacional"
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Dino mantém início da escala 5x2 para 16 de dezembro e flexibiliza folgas",
+      "link": "https://www.estadao.com.br/economia/dino-escala-5x2-folgas-nao-precisam-ser-tiradas-mesmo-mes/",
+      "date": "2026-11-12T17:30:51.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lula testa ministros antes de definir equipe econômica do 4º mandato",
+      "link": "https://www.estadao.com.br/politica/lorenna-rodrigues/lula-testa-ministros-antes-de-definir-equipe-economica-do-4-mandato/",
+      "date": "2026-11-12T17:30:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
     },
     {
       "title": "Democratas ampliam domínio no Senado nos EUA com vitória no Mississipi",
@@ -210,7 +397,8 @@
       "date": "2026-11-12T17:29:00.000Z",
       "summary": "Em mais um duro revés para Trump, Scott Colom acrescenta mais uma vitória democrata em bastiões dos republicanos, naquela que pode ter sido a reviravolta mais extraordinária em eleições de meio de mandato.",
       "source": "DW Brasil",
-      "cat": "internacional"
+      "cat": "internacional",
+      "type": "imprensa"
     },
     {
       "title": "Congresso aprova indicação para o Conselho de Comunicação Social",
@@ -218,7 +406,8 @@
       "date": "2026-11-12T17:25:00.000Z",
       "summary": "O Conselho elabora estudos, pareceres e recomendações para o Congresso sobre temas da comunicação social",
       "source": "Agência Câmara",
-      "cat": "politica"
+      "cat": "politica",
+      "type": "oficial"
     },
     {
       "title": "Comissão da Câmara comemora os 35 anos da Lei de Informática",
@@ -226,7 +415,53 @@
       "date": "2026-11-12T17:19:00.000Z",
       "summary": "Debate vai avaliar os resultados da legislação e discutir os desafios futuros para o desenvolvimento tecnológico brasileiro",
       "source": "Agência Câmara",
-      "cat": "politica"
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Corte Especial do STJ zera pauta e julga 3.200 processos em menos de três meses",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/corte-especial-do-stj-zera-pauta-e-julga-3200-processos-em-menos-de-tres-meses.shtml",
+      "date": "2026-11-12T17:06:00.000Z",
+      "summary": "A Corte Especial do STJ (Superior Tribunal de Justiça) julgou 3.219 processos em menos de três meses, entre 20 de agosto e 10 de novembro deste ano, e também zerou os 47 casos que estavam acumulados na pauta no início do período. Leia mais (11/12/2026 - 14h06)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Congresso tem nas mãos a saída para os supersalários",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/transparencia-publica/2026/11/congresso-tem-nas-maos-a-saida-para-os-supersalarios.shtml",
+      "date": "2026-11-12T17:00:00.000Z",
+      "summary": "Na quarta-feira (11), o governo incluiu de forma simbólica o combate aos supersalários no pacote de ajuste fiscal enviado ao Senado, com prazo de 120 dias para o Congresso votar uma regulamentação das verbas indenizatórias, sem indicar diretrizes nem punição p",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "A classe média tem que entrar no orçamento",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/a-classe-media-tem-que-entrar-no-orcamento/",
+      "date": "2026-11-12T17:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "BB: sem crédito tributário, banco teria registrado prejuízo de R$ 832 milhões em vez de lucro",
+      "link": "https://www.estadao.com.br/economia/negocios/bb-credito-tributario-prejuizo-balanco/",
+      "date": "2026-11-12T16:57:05.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "PSDB publica nota de repúdio contra exposição pública de FHC",
+      "link": "https://www.estadao.com.br/politica/psdb-publica-nota-de-repudio-contra-exposicao-publica-de-fhc/",
+      "date": "2026-11-12T16:54:22.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
     },
     {
       "title": "CEO da Nvidia renuncia após caso com suposta espiã chinesa: quem assumirá o comando da empresa?",
@@ -234,7 +469,26 @@
       "date": "2026-11-12T16:40:11.000Z",
       "summary": "Jensen Huang deixou o cargo nesta quinta-feira (12/11) após vir à tona que ele teria um segundo relacionamento com uma funcionária da empresa. Valor de mercado da companhia despencou desde o início da crise.",
       "source": "BBC News Brasil",
-      "cat": "internacional"
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Congresso aprova projeto que autoriza governo a usar R$ 26 bilhões em empréstimos para pagar Bolsa Família",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/12/congresso-aprova-projeto-que-autoriza-governo-a-usar-r-26-bilhoes-em-emprestimos-para-pagar-bolsa-familia.ghtml",
+      "date": "2026-11-12T16:33:14.000Z",
+      "summary": "O Congresso aprovou nesta quinta-feira (12) um projeto de lei enviado pelo governo do presidente Luiz Inácio Lula da Silva (PT) que autoriza a utilização de até R$ 149,4 bilhões em operações de crédito para financiar despesas com aposentadorias, benefícios ass",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Congresso dá aval para créditos suplementares e especiais; veja o que foi aprovado",
+      "link": "https://www.estadao.com.br/economia/congresso-aval-creditos-suplementares-especiais-veja-o-que-foi-aprovado/",
+      "date": "2026-11-12T16:13:41.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
     },
     {
       "title": "Israel ataca hospital em Gaza, apesar de cessar-fogo",
@@ -242,7 +496,8 @@
       "date": "2026-11-12T15:20:00.000Z",
       "summary": "Mísseis atingiram hospital que atende metade da população do enclave, matando seis pessoas. Trégua, que já dura, um ano não conseguiu cessar ataques israelenses nem garantir o desarmamento do Hamas.",
       "source": "DW Brasil",
-      "cat": "internacional"
+      "cat": "internacional",
+      "type": "imprensa"
     },
     {
       "title": "Golpe ou revolução? Descobrimento ou conquista? Existe certo ou errado para a História?",
@@ -250,7 +505,17 @@
       "date": "2026-11-12T14:47:53.000Z",
       "summary": "Fatos do passado até hoje geram polêmica pela forma como são chamados, como mostra episódio recente envolvendo um livro alterado por deputados federais.",
       "source": "BBC News Brasil",
-      "cat": "internacional"
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Quem é Colette Kress, que fica interinamente no lugar de Jensen Huang após renúncia do CEO da Nvidia",
+      "link": "https://www.estadao.com.br/economia/quem-e-colette-kress-que-fica-no-lugar-de-jensen-huang-apos-renuncia-do-ceo-npr/",
+      "date": "2026-11-12T14:14:21.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
     },
     {
       "title": "'Há uma guerra entre dois lados no Vaticano em que o abuso sexual se tornou uma arma', diz autor de livro sobre o papa",
@@ -258,7 +523,8 @@
       "date": "2026-11-12T12:21:33.000Z",
       "summary": "O jornalista Santiago Roncagliolo descreve o papa Leão 14 como um religioso preocupado com seus fiéis, mas também como um investigador perspicaz e implacável de abusos.",
       "source": "BBC News Brasil",
-      "cat": "internacional"
+      "cat": "internacional",
+      "type": "imprensa"
     },
     {
       "title": "As principais medidas do ajuste fiscal a ser votado pelo Senado",
@@ -266,7 +532,8 @@
       "date": "2026-11-12T12:01:00.000Z",
       "summary": "Pacote prevê economia de até R$ 60 bilhões com mais arrecadação e despesas limitadas, inclusive na saúde. Governo promete manter políticas sociais anunciadas na campanha eleitoral.",
       "source": "DW Brasil",
-      "cat": "internacional"
+      "cat": "internacional",
+      "type": "imprensa"
     },
     {
       "title": "Tribunal do Direito do Mar examina controvérsia entre Argentina e Reino Unido",
@@ -274,7 +541,8 @@
       "date": "2026-11-12T12:00:00.000Z",
       "summary": "Processo refere-se à exploração de petróleo *offshore* nas proximidades das Ilhas Falkland ou Malvinas; argentinos afirmam que atividades de perfuração apoiadas pelos britânicos podem danificar leito marinho e violar direitos sobre plataforma continental.",
       "source": "ONU News",
-      "cat": "internacional"
+      "cat": "internacional",
+      "type": "oficial"
     },
     {
       "title": "Banco Central decreta Liquidação Extrajudicial da Cooperativa Administradora de Consórcios Roma",
@@ -282,7 +550,8 @@
       "date": "2026-11-12T11:30:13.000Z",
       "summary": "",
       "source": "Banco Central",
-      "cat": "economia"
+      "cat": "economia",
+      "type": "oficial"
     },
     {
       "title": "Banco Central decreta liquidação extrajudicial de Cooperativa de Crédito Rural do Agreste Alagoano – Cooperagre",
@@ -290,7 +559,8 @@
       "date": "2026-11-12T11:25:25.000Z",
       "summary": "",
       "source": "Banco Central",
-      "cat": "economia"
+      "cat": "economia",
+      "type": "oficial"
     },
     {
       "title": "Enviados dos EUA se reúnem com Putin após negociações de paz",
@@ -298,7 +568,17 @@
       "date": "2026-11-12T10:49:00.000Z",
       "summary": "Witkoff e Kushner chegam a Moscou após nova rodada de conversas para pôr fim à guerra na Ucrânia. Maiores entraves envolvem o futuro dos territórios ocupados e o papel da Europa na elaboração de um acordo de paz.",
       "source": "DW Brasil",
-      "cat": "internacional"
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Tabata Amaral aciona TCU para suspender licitação que prevê 95 iPhones para o Senado",
+      "link": "https://www.estadao.com.br/politica/tabata-amaral-aciona-tcu-para-suspender-licitacao-que-preve-95-iphones-para-o-senado-nprp/",
+      "date": "2026-11-11T22:52:11.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
     },
     {
       "title": "Um quarto dos alemães deseja regime autoritário de direita",
@@ -306,15 +586,8 @@
       "date": "2026-11-11T22:07:00.000Z",
       "summary": "Avanço do partido de ultradireita AfD em eleições na Alemanha aponta para nova tendência: preconceito, ressentimento e extremismo estão em ascensão. Estudo aponta para nível mais baixo de satisfação com a democracia.",
       "source": "DW Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "O que colocar na mochila como kit de emergência e por que você deve ter uma — preventivamente",
-      "link": "https://www.bbc.com/portuguese/articles/cm62p37dgxzzo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-11T20:53:39.000Z",
-      "summary": "Kits de emergência são importantes e devem ser inseridos na cultura do Brasil, que nunca focou em prevenção, defende especialista.",
-      "source": "BBC News Brasil",
-      "cat": "internacional"
+      "cat": "internacional",
+      "type": "imprensa"
     },
     {
       "title": "​BC divulga IC-Br de outubro",
@@ -322,7 +595,8 @@
       "date": "2026-11-11T17:30:47.000Z",
       "summary": "",
       "source": "Banco Central",
-      "cat": "economia"
+      "cat": "economia",
+      "type": "oficial"
     },
     {
       "title": "As críticas à troca de delegados da PF no caso Master: 'Levanta graves suspeitas'",
@@ -330,7 +604,8 @@
       "date": "2026-11-11T15:30:42.000Z",
       "summary": "Segundo fontes ouvidas pela BBC News Brasil, mudança representa um episódio preocupante de tentativa de interferência no andamento de investigações envolvendo ministros do STF.",
       "source": "BBC News Brasil",
-      "cat": "internacional"
+      "cat": "internacional",
+      "type": "imprensa"
     },
     {
       "title": "BC divulga Relatório de Poupança de outubro",
@@ -338,7 +613,53 @@
       "date": "2026-11-11T12:00:19.000Z",
       "summary": "",
       "source": "Banco Central",
-      "cat": "economia"
+      "cat": "economia",
+      "type": "oficial"
+    },
+    {
+      "title": "Com emissões em nível recorde, COP31 lança meta para eletrificação até 2035",
+      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854895",
+      "date": "2026-11-11T12:00:00.000Z",
+      "summary": "Na abertura de alto nível, secretário-geral António Guterres alertou que planeta segue rumo à destruição; ONU aponta energia limpa como escudo contra a inflação; presidente Lula, do Brasil, advertiu que ação climática está perdendo terreno no mundo.",
+      "source": "ONU News",
+      "cat": "internacional",
+      "type": "oficial"
+    },
+    {
+      "title": "Quem vai cuidar dos idosos do Brasil? Por que o envelhecimento acelerado é o 'desafio do século'",
+      "link": "https://www.bbc.com/portuguese/articles/c60qkxv44pq8o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-11T08:31:43.000Z",
+      "summary": "Com menos nascimentos e uma população cada vez mais velha, o país terá de adaptar Previdência, saúde e mercado de trabalho a uma transformação demográfica sem precedentes.",
+      "source": "BBC News Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Conferência do Clima discute caminhos para o fim dos combustíveis fósseis",
+      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854891",
+      "date": "2026-11-10T12:00:00.000Z",
+      "summary": "Brasil lançou mapa de rotas para a transição energética e Turquia propôs a meta de 35% de eletrificação até 2035; desafio atual é destravar 2,5 mil gigawatts de energia limpa parados por falta de infraestrutura e juros altos.",
+      "source": "ONU News",
+      "cat": "internacional",
+      "type": "oficial"
+    },
+    {
+      "title": "Ebola pode avançar na África Central com pessoas em trânsito da RD Congo",
+      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854885",
+      "date": "2026-11-10T12:00:00.000Z",
+      "summary": "Agência da ONU diz que precisa de US$ 60 milhões para conter o surto nos países vizinhos; saída dos congoleses é causada por conflitos e outros fatores; doença já matou 5 mil pessoas, metade do número de casos notificados.",
+      "source": "ONU News",
+      "cat": "internacional",
+      "type": "oficial"
+    },
+    {
+      "title": "Unesco marca Dia Mundial da Ciência pela Paz e pelo Desenvolvimento",
+      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854881",
+      "date": "2026-11-10T12:00:00.000Z",
+      "summary": "Celebra faz apelo por conhecimento sem fronteiras e paz sem barreiras; agência da ONU sublinha que, em 2026, diplomacia científica lembra que cooperação é a maior ferramenta para sustentabilidade e paz global.",
+      "source": "ONU News",
+      "cat": "internacional",
+      "type": "oficial"
     },
     {
       "title": "BC divulga Ata da 282ª reunião do Copom",
@@ -346,7 +667,8 @@
       "date": "2026-11-10T11:01:06.000Z",
       "summary": "",
       "source": "Banco Central",
-      "cat": "economia"
+      "cat": "economia",
+      "type": "oficial"
     },
     {
       "title": "BC passa a divulgar a lista de instituições que podem atuar com ativos virtuais",
@@ -354,10 +676,22 @@
       "date": "2026-11-09T18:00:10.000Z",
       "summary": "",
       "source": "Banco Central",
-      "cat": "economia"
+      "cat": "economia",
+      "type": "oficial"
+    },
+    {
+      "title": "Da violência ao clima extremo: O pedido urgente para Moçambique na COP31",
+      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854871",
+      "date": "2026-11-09T12:00:00.000Z",
+      "summary": "OIM afirma que convergência entre conflito e crise climática na província de Cabo Delgado, no extremo norte, exige ação dos líderes mundiais; agência alerta que, sem resposta humanitária e financiamento climático, mais vidas serão perdidas.",
+      "source": "ONU News",
+      "cat": "internacional",
+      "type": "oficial"
     }
   ],
   "errors": [
-    "IPCA 12m (SGS 13522): HTTP 304"
+    "feed CNN Brasil: HTTP 404",
+    "feed CNN Brasil: HTTP 404",
+    "feed Planalto (governo): HTTP 429"
   ]
 }
