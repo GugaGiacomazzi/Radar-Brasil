@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-12T11:38:49.039Z",
+  "updated": "2026-11-12T12:40:25.470Z",
   "market": {
     "ibov": {
       "price": 172060.44,
       "pct": 0.42,
-      "time": "2026-11-12T11:38:42.445Z",
+      "time": "2026-11-12T12:40:21.106Z",
       "history": [
         {
           "d": "2026-10-13",
@@ -116,8 +116,8 @@
       "value": 13.75
     },
     "ipca12m": {
-      "date": "2026-09-01",
-      "value": 4.58
+      "date": "2026-10-01",
+      "value": 4.63
     },
     "debtPct": {
       "date": "2026-09-01",
@@ -144,6 +144,22 @@
     ]
   },
   "news": [
+    {
+      "title": "'Há uma guerra entre dois lados no Vaticano em que o abuso sexual se tornou uma arma', diz autor de livro sobre o papa",
+      "link": "https://www.bbc.com/portuguese/articles/cvkg5jklzxr5o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-12T12:21:33.000Z",
+      "summary": "O jornalista Santiago Roncagliolo descreve o papa Leão 14 como um religioso preocupado com seus fiéis, mas também como um investigador perspicaz e implacável de abusos.",
+      "source": "BBC News Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "As principais medidas do ajuste fiscal a ser votado pelo Senado",
+      "link": "https://www.dw.com/pt-br/as-principais-medidas-do-ajuste-fiscal-a-ser-votado-pelo-senado/a-79928149?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-12T12:01:00.000Z",
+      "summary": "Pacote prevê economia de até R$ 60 bilhões com mais arrecadação e despesas limitadas, inclusive na saúde. Governo promete manter políticas sociais anunciadas na campanha eleitoral.",
+      "source": "DW Brasil",
+      "cat": "internacional"
+    },
     {
       "title": "Banco Central decreta Liquidação Extrajudicial da Cooperativa Administradora de Consórcios Roma",
       "link": "https://www.bcb.gov.br/detalhenoticia/21318/nota",
@@ -185,14 +201,6 @@
       "cat": "internacional"
     },
     {
-      "title": "Relator, Braga diz que Orçamento de 2027 depende de novas regras",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/relator-braga-diz-que-orcamento-de-2027-depende-de-novas-regras",
-      "date": "2026-11-12T00:26:30.000Z",
-      "summary": "Relator do Orçamento de 2027 e do projeto de lei complementar que permitirá ao governo fazer um ajuste fiscal em 2027, o senador Eduardo Braga (MDB-AM) afirmou em entrevista na noite desta quarta-feira (11), após a sessão plenária, que a aprovação da lei orçam",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
       "title": "Câmara aprova criação da Política Nacional de Residência em Saúde",
       "link": "https://www.camara.leg.br/noticias/1318796-camara-aprova-criacao-da-politica-nacional-de-residencia-em-saude",
       "date": "2026-11-11T23:53:00.000Z",
@@ -201,43 +209,11 @@
       "cat": "politica"
     },
     {
-      "title": "Davi informa que Senado não está comprando smartphones para os parlamentares",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/davi-informa-que-senado-nao-esta-comprando-smartphones-para-os-parlamentares",
-      "date": "2026-11-11T23:49:20.000Z",
-      "summary": "O presidente do Senado, Davi Alcolumbre, afirmou que a Casa não está comprando smartphones para os 81 senadores e alguns servidores com cargos de direção, conforme vêm noticiando órgãos da imprensa. Ele informou que há um contrato na modalidade de comodato, ou",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
       "title": "Motta anuncia grupo de trabalho para discutir propaganda eleitoral nas redes sociais",
       "link": "https://www.camara.leg.br/noticias/1318798-motta-anuncia-grupo-de-trabalho-para-discutir-propaganda-eleitoral-nas-redes-sociais",
       "date": "2026-11-11T23:44:00.000Z",
       "summary": "Colegiado terá 15 dias para apresentar proposta sobre regras para campanhas no ambiente digital",
       "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Ajuste fiscal pode ser votado nesta quinta-feira",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/ajuste-fiscal-pode-ser-votado-nesta-quinta-feira",
-      "date": "2026-11-11T23:24:29.000Z",
-      "summary": "O Projeto de Lei Complementar (PLP) 299/2026, que diminui o espaço fiscal para crescimento de despesas e permite ao governo ampliar seus instrumentos de controle dos gastos públicos, deve ser votado nesta quinta-feira (12). A sessão desta quarta-feira (11) foi",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
-      "title": "Criação do Dia Nacional da Cachaça Brasileira recebe apoio durante audiência",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/criacao-do-dia-nacional-da-cachaca-brasileira-recebe-apoio-durante-audiencia",
-      "date": "2026-11-11T23:20:53.000Z",
-      "summary": "A Comissão de Educação e Cultura do Senado (CE) promoveu nesta quarta-feira (11) uma audiência pública para discutir a criação do Dia Nacional da Cachaça Brasileira. A data já é comemorada em 13 de setembro, mas ainda não tem reconhecimento oficial — ou seja, ",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
-      "title": "Teresa Leitão defende política permanente de proteção ambiental",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/teresa-leitao-defende-politica-permanente-de-protecao-ambiental",
-      "date": "2026-11-11T23:17:54.000Z",
-      "summary": "A senadora Teresa Leitão (PT-PE) defendeu em Plenário políticas permanentes de proteção ambiental e ações para enfrentar os efeitos das mudanças climáticas. A parlamentar ressaltou a necessidade de conciliar desenvolvimento econômico, inclusão social e sustent",
-      "source": "Agência Senado",
       "cat": "politica"
     },
     {
@@ -305,28 +281,12 @@
       "cat": "internacional"
     },
     {
-      "title": "AfD revolta romenos com acusação de fraude em benefício social alemão",
-      "link": "https://www.dw.com/pt-br/afd-revolta-romenos-com-acusação-de-fraude-em-benefício-social-alemão/a-79916823?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-11T18:02:00.000Z",
-      "summary": "Alice Weidel acusa romenos de abusar do sistema de benefícios sociais da Alemanha e gera protestos até de aliados da AfD na Romênia. Também a BSW, de Sahra Wagenknecht, critica pagamento de auxílio infantil.",
-      "source": "DW Brasil",
-      "cat": "internacional"
-    },
-    {
       "title": "​BC divulga IC-Br de outubro",
       "link": "https://www.bcb.gov.br/detalhenoticia/21316/nota",
       "date": "2026-11-11T17:30:47.000Z",
       "summary": "",
       "source": "Banco Central",
       "cat": "economia"
-    },
-    {
-      "title": "Homens de meia-idade e com ensino médio: o perfil de quem elegeu os deputados campeões de voto em SP nas eleições de 2026",
-      "link": "https://www.bbc.com/portuguese/articles/cm3r5v2el35vo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-11T17:25:50.000Z",
-      "summary": "Cruzamento de dados da votação no estado com cadastro do eleitorado das seções expressa polarização ideológica, em que deputados mais votados representam pautas à esquerda e à direita",
-      "source": "BBC News Brasil",
-      "cat": "internacional"
     },
     {
       "title": "As críticas à troca de delegados da PF no caso Master: 'Levanta graves suspeitas'",
