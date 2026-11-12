@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-12T12:40:25.470Z",
+  "updated": "2026-11-12T14:13:59.265Z",
   "market": {
     "ibov": {
-      "price": 172060.44,
-      "pct": 0.42,
-      "time": "2026-11-12T12:40:21.106Z",
+      "price": 170909.86,
+      "pct": -0.67,
+      "time": "2026-11-12T14:13:51.880Z",
       "history": [
         {
           "d": "2026-10-13",
@@ -89,6 +89,10 @@
         {
           "d": "2026-11-11",
           "c": 172060
+        },
+        {
+          "d": "2026-11-12",
+          "c": 170943.6406
         }
       ]
     },
@@ -145,6 +149,38 @@
   },
   "news": [
     {
+      "title": "Comissão aprova projeto que obriga bibliotecas a disponibilizarem texto atualizado da Constituição",
+      "link": "https://www.camara.leg.br/noticias/1318846-comissao-aprova-projeto-que-obriga-bibliotecas-a-disponibilizarem-texto-atualizado-da-constituicao",
+      "date": "2026-11-12T14:04:00.000Z",
+      "summary": "Texto segue em análise na Câmara. Se for aprovado, seguirá para sanção presidencial",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Começa sessão do Congresso Nacional para votação de créditos ao Orçamento 2026; acompanhe",
+      "link": "https://www.camara.leg.br/noticias/1318646-comeca-sessao-do-congresso-nacional-para-votacao-de-creditos-ao-orcamento-2026-acompanhe",
+      "date": "2026-11-12T13:45:00.000Z",
+      "summary": "Pauta com 24 projetos prevê liberação de recursos adicionais para órgãos públicos e ministérios",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Projeto institui protocolos para resgate de animais em acidentes rodoviários",
+      "link": "https://www.camara.leg.br/noticias/1314055-projeto-institui-protocolos-para-resgate-de-animais-em-acidentes-rodoviarios",
+      "date": "2026-11-12T13:39:00.000Z",
+      "summary": "Proposta proíbe abate de sobreviventes na pista e responsabiliza transportadoras pelo socorro de carga viva",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Projeto inclui valorização do folclore e de tradições populares em licitações de eventos culturais",
+      "link": "https://www.camara.leg.br/noticias/1310397-projeto-inclui-valorizacao-do-folclore-e-de-tradicoes-populares-em-licitacoes-de-eventos-culturais",
+      "date": "2026-11-12T13:10:00.000Z",
+      "summary": "",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
       "title": "'Há uma guerra entre dois lados no Vaticano em que o abuso sexual se tornou uma arma', diz autor de livro sobre o papa",
       "link": "https://www.bbc.com/portuguese/articles/cvkg5jklzxr5o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-12T12:21:33.000Z",
@@ -177,14 +213,6 @@
       "cat": "economia"
     },
     {
-      "title": "Congresso Nacional realiza sessão nesta quinta-feira",
-      "link": "https://www.camara.leg.br/noticias/1318646-congresso-nacional-realiza-sessao-nesta-quinta-feira",
-      "date": "2026-11-12T11:24:00.000Z",
-      "summary": "Pauta com 24 projetos prevê liberação de recursos adicionais para órgãos públicos e ministérios",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
       "title": "Enviados dos EUA se reúnem com Putin após negociações de paz",
       "link": "https://www.dw.com/pt-br/enviados-dos-eua-se-reúnem-com-putin-após-negociações-de-paz/a-79927773?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-12T10:49:00.000Z",
@@ -213,30 +241,6 @@
       "link": "https://www.camara.leg.br/noticias/1318798-motta-anuncia-grupo-de-trabalho-para-discutir-propaganda-eleitoral-nas-redes-sociais",
       "date": "2026-11-11T23:44:00.000Z",
       "summary": "Colegiado terá 15 dias para apresentar proposta sobre regras para campanhas no ambiente digital",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Câmara aprova projeto que torna hediondo o crime de maus-tratos de cães e gatos quando resulta em morte",
-      "link": "https://www.camara.leg.br/noticias/1318510-camara-aprova-projeto-que-torna-hediondo-o-crime-de-maus-tratos-de-caes-e-gatos-quando-resulta-em-morte",
-      "date": "2026-11-11T23:15:00.000Z",
-      "summary": "Texto será enviado ao Senado; pena para o crime pode chegar a cinco anos de reclusão",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Relator de mudanças no Código de Trânsito altera texto para facilitar aprovação",
-      "link": "https://www.camara.leg.br/noticias/1318733-relator-de-mudancas-no-codigo-de-transito-altera-texto-para-facilitar-aprovacao",
-      "date": "2026-11-11T22:59:00.000Z",
-      "summary": "Votação na comissão especial foi adiada para o dia 17; proposta retira obrigatoriedade de baliza",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Câmara aprova convenção internacional sobre reciclagem segura de navios",
-      "link": "https://www.camara.leg.br/noticias/1318718-camara-aprova-convencao-internacional-sobre-reciclagem-segura-de-navios",
-      "date": "2026-11-11T22:35:00.000Z",
-      "summary": "Acordo estabelece regras para o desmonte de embarcações e a proteção de trabalhadores e do meio ambiente",
       "source": "Agência Câmara",
       "cat": "politica"
     },
@@ -337,5 +341,7 @@
       "cat": "economia"
     }
   ],
-  "errors": []
+  "errors": [
+    "feed Planalto (governo): nenhum item no feed (endereço mudou?)"
+  ]
 }
