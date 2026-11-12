@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-12T10:39:48.972Z",
+  "updated": "2026-11-12T11:38:49.039Z",
   "market": {
     "ibov": {
       "price": 172060.44,
       "pct": 0.42,
-      "time": "2026-11-12T10:39:43.953Z",
+      "time": "2026-11-12T11:38:42.445Z",
       "history": [
         {
           "d": "2026-10-13",
@@ -145,6 +145,38 @@
   },
   "news": [
     {
+      "title": "Banco Central decreta Liquidação Extrajudicial da Cooperativa Administradora de Consórcios Roma",
+      "link": "https://www.bcb.gov.br/detalhenoticia/21318/nota",
+      "date": "2026-11-12T11:30:13.000Z",
+      "summary": "",
+      "source": "Banco Central",
+      "cat": "economia"
+    },
+    {
+      "title": "Banco Central decreta liquidação extrajudicial de Cooperativa de Crédito Rural do Agreste Alagoano – Cooperagre",
+      "link": "https://www.bcb.gov.br/detalhenoticia/21317/nota",
+      "date": "2026-11-12T11:25:25.000Z",
+      "summary": "",
+      "source": "Banco Central",
+      "cat": "economia"
+    },
+    {
+      "title": "Congresso Nacional realiza sessão nesta quinta-feira",
+      "link": "https://www.camara.leg.br/noticias/1318646-congresso-nacional-realiza-sessao-nesta-quinta-feira",
+      "date": "2026-11-12T11:24:00.000Z",
+      "summary": "Pauta com 24 projetos prevê liberação de recursos adicionais para órgãos públicos e ministérios",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Enviados dos EUA se reúnem com Putin após negociações de paz",
+      "link": "https://www.dw.com/pt-br/enviados-dos-eua-se-reúnem-com-putin-após-negociações-de-paz/a-79927773?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-12T10:49:00.000Z",
+      "summary": "Witkoff e Kushner chegam a Moscou após nova rodada de conversas para pôr fim à guerra na Ucrânia. Maiores entraves envolvem o futuro dos territórios ocupados e o papel da Europa na elaboração de um acordo de paz.",
+      "source": "DW Brasil",
+      "cat": "internacional"
+    },
+    {
       "title": "A acirrada disputa que levou democrata a se tornar 1º senador negro eleito pelo Mississippi em 140 anos",
       "link": "https://www.bbc.com/portuguese/articles/cq1k93r1j47vo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-12T01:27:49.000Z",
@@ -233,14 +265,6 @@
       "cat": "politica"
     },
     {
-      "title": "Câmara aprova perda de herança para quem tentar interditar idosos de forma fraudulenta",
-      "link": "https://www.camara.leg.br/noticias/1318722-camara-aprova-perda-de-heranca-para-quem-tentar-interditar-idosos-de-forma-fraudulenta",
-      "date": "2026-11-11T22:24:00.000Z",
-      "summary": "A conduta abusiva deverá ser reconhecida por decisão judicial transitada em julgado",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
       "title": "Um quarto dos alemães deseja regime autoritário de direita",
       "link": "https://www.dw.com/pt-br/um-quarto-dos-alemães-deseja-regime-autoritário-de-direita/a-79924717?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-11T22:07:00.000Z",
@@ -285,14 +309,6 @@
       "link": "https://www.dw.com/pt-br/afd-revolta-romenos-com-acusação-de-fraude-em-benefício-social-alemão/a-79916823?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-11T18:02:00.000Z",
       "summary": "Alice Weidel acusa romenos de abusar do sistema de benefícios sociais da Alemanha e gera protestos até de aliados da AfD na Romênia. Também a BSW, de Sahra Wagenknecht, critica pagamento de auxílio infantil.",
-      "source": "DW Brasil",
-      "cat": "internacional"
-    },
-    {
-      "title": "Espanha tem primeira greve geral em 14 anos em meio à crise habitacional e à campanha eleitoral",
-      "link": "https://www.dw.com/pt-br/espanha-tem-primeira-greve-geral-em-14-anos-em-meio-à-crise-habitacional-e-à-campanha-eleitoral/a-79922900?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-11T17:41:00.000Z",
-      "summary": "Paralisação convocada por sindicatos cobra moradia acessível, controle dos aluguéis e melhores salários; protestos ocorrem a 18 dias das eleições e pressionam governo e oposição.",
       "source": "DW Brasil",
       "cat": "internacional"
     },
@@ -356,22 +372,6 @@
       "title": "BC passa a divulgar a lista de instituições que podem atuar com ativos virtuais",
       "link": "https://www.bcb.gov.br/detalhenoticia/21311/nota",
       "date": "2026-11-09T18:00:10.000Z",
-      "summary": "",
-      "source": "Banco Central",
-      "cat": "economia"
-    },
-    {
-      "title": "Copom mantém a taxa Selic em 13,75% a.a.",
-      "link": "https://www.bcb.gov.br/detalhenoticia/21309/nota",
-      "date": "2026-11-04T21:31:35.000Z",
-      "summary": "",
-      "source": "Banco Central",
-      "cat": "economia"
-    },
-    {
-      "title": "BC divulga Estatísticas Fiscais à imprensa",
-      "link": "https://www.bcb.gov.br/detalhenoticia/21306/nota",
-      "date": "2026-10-29T17:03:09.000Z",
       "summary": "",
       "source": "Banco Central",
       "cat": "economia"
