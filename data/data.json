@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-12T00:31:37.363Z",
+  "updated": "2026-11-12T01:55:58.583Z",
   "market": {
     "ibov": {
       "price": 172060.44,
       "pct": 0.42,
-      "time": "2026-11-12T00:31:33.815Z",
+      "time": "2026-11-12T01:55:53.405Z",
       "history": [
         {
           "d": "2026-10-13",
@@ -145,6 +145,22 @@
   },
   "news": [
     {
+      "title": "A acirrada disputa que levou democrata a se tornar 1º senador negro eleito pelo Mississippi em 140 anos",
+      "link": "https://www.bbc.com/portuguese/articles/cq1k93r1j47vo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-12T01:27:49.000Z",
+      "summary": "Promotor é primeiro democrata eleito senador pelo Estado desde 1982.",
+      "source": "BBC News Brasil",
+      "cat": "internacional"
+    },
+    {
+      "title": "Relator, Braga diz que Orçamento de 2027 depende de novas regras",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/relator-braga-diz-que-orcamento-de-2027-depende-de-novas-regras",
+      "date": "2026-11-12T00:26:30.000Z",
+      "summary": "Relator do Orçamento de 2027 e do projeto de lei complementar que permitirá ao governo fazer um ajuste fiscal em 2027, o senador Eduardo Braga (MDB-AM) afirmou em entrevista na noite desta quarta-feira (11), após a sessão plenária, que a aprovação da lei orçam",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
       "title": "Câmara aprova criação da Política Nacional de Residência em Saúde",
       "link": "https://www.camara.leg.br/noticias/1318796-camara-aprova-criacao-da-politica-nacional-de-residencia-em-saude",
       "date": "2026-11-11T23:53:00.000Z",
@@ -206,14 +222,6 @@
       "date": "2026-11-11T22:59:00.000Z",
       "summary": "Votação na comissão especial foi adiada para o dia 17; proposta retira obrigatoriedade de baliza",
       "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Reginauro cobra efetividade das leis de segurança pública",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/reginauro-cobra-efetividade-das-leis-de-seguranca-publica",
-      "date": "2026-11-11T22:42:54.000Z",
-      "summary": "Em pronunciamento no Plenário nesta quarta-feira (11), o senador Sargento Reginauro (PSDB-CE) defendeu maior efetividade das leis de segurança pública e criticou a liberação de acusados de crimes graves em audiências de custódia. O parlamentar afirmou que o en",
-      "source": "Agência Senado",
       "cat": "politica"
     },
     {
@@ -295,14 +303,6 @@
       "summary": "",
       "source": "Banco Central",
       "cat": "economia"
-    },
-    {
-      "title": "Homens de meia-idade e com ensino médio: o perfil de quem elegeu os deputados campeões de voto em SP nas eleições de 2026",
-      "link": "https://www.bbc.com/portuguese/articles/cm3r5v2el35vo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-11T17:25:50.000Z",
-      "summary": "Cruzamento de dados da votação no estado com cadastro do eleitorado das seções expressa polarização ideológica, em que deputados mais votados representam pautas à esquerda e à direita",
-      "source": "BBC News Brasil",
-      "cat": "internacional"
     },
     {
       "title": "As críticas à troca de delegados da PF no caso Master: 'Levanta graves suspeitas'",
