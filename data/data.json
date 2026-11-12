@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-12T22:25:55.365Z",
+  "updated": "2026-11-12T23:22:30.421Z",
   "market": {
     "ibov": {
       "price": 171324.31,
       "pct": -0.43,
-      "time": "2026-11-12T22:25:50.688Z",
+      "time": "2026-11-12T23:22:26.262Z",
       "history": [
         {
           "d": "2026-10-13",
@@ -149,30 +149,156 @@
   },
   "news": [
     {
+      "title": "Fachin não diz como vai encaminhar caso Master nem análise do caso Moraes",
+      "link": "https://www.poder360.com.br/poder-justica/fachin-nao-diz-como-vai-encaminhar-caso-master-nem-analise-do-caso-moraes/",
+      "date": "2026-11-12T23:20:08.000Z",
+      "summary": "Pedido de vista de Dino no julgamento de 15 de setembro e a espera pelos relatórios da PF com menções a ministros atrasam os processos",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "PGR se manifesta contra revisão criminal da pena de Bolsonaro",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/pgr-se-manifesta-contra-revisao-criminal-da-pena-de-bolsonaro.shtml",
+      "date": "2026-11-12T23:19:00.000Z",
+      "summary": "A PGR (Procuradoria-Geral da República) se manifestou na quinta-feira (12) contra a revisão criminal da pena do ex-presidente Jair Bolsonaro, condenado a 27 anos de prisão por tentativa de golpe de Estado. Leia mais (11/12/2026 - 20h19)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Tesouro Nacional identifica acesso indevido a dados de 30 mil cadastros e 4 mil chaves PIX",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/12/tesouro-nacional-incidente-seguranca.ghtml",
+      "date": "2026-11-12T23:13:57.000Z",
+      "summary": "A Secretaria do Tesouro Nacional informou ter identificado um acesso não autorizado a dados pessoais armazenados em seu ambiente tecnológico. O incidente, detectado em 4 de novembro de 2026, atingiu cerca de 30 mil cadastros de usuários do portal e-Serviços e ",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Fachin evita dizer o que fará com o processo de afastamento de Andrei da PF",
+      "link": "https://www.poder360.com.br/poder-justica/fachin-evita-dizer-o-que-fara-com-o-processo-de-afastamento-de-andrei-da-pf/",
+      "date": "2026-11-12T23:09:08.000Z",
+      "summary": "Presidente do Supremo manteve o diretor-geral do cargo e pediu manifestação da PGR, mas não dá indícios dos próximos passos",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Senado aprova inclusão de vacina contra herpes-zóster no SUS; projeto segue para a Câmara",
+      "link": "https://g1.globo.com/saude/noticia/2026/11/12/senado-aprova-inclusao-de-vacina-contra-herpes-zoster-no-sus-projeto-segue-para-a-camara.ghtml",
+      "date": "2026-11-12T23:07:42.000Z",
+      "summary": "= Reprodução/Canva Pro A Comissão de Assuntos Sociais (CAS) do Senado confirmou, na quarta-feira (11), a aprovação de um projeto de lei que prevê a inclusão da vacina contra herpes-zóster, doença popularmente conhecida como cobreiro, no calendário nacional de ",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Nunes Marques mantém afastamento de Buzzi, mas sem suspensão salarial",
+      "link": "https://www.poder360.com.br/poder-justica/nunes-marques-mantem-afastamento-de-buzzi-mas-sem-suspensao-salarial/",
+      "date": "2026-11-12T23:06:06.000Z",
+      "summary": "Ministro do STJ foi afastado depois de ser investigado por suspeita de importunação sexual",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lucro da MBRF mais que dobra no 3º tri com melhor resultado em 2 anos para unidade dos EUA",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/lucro-da-mbrf-mais-que-dobra-no-3o-tri-com-melhor-resultado-em-2-anos-para-unidade-dos-eua.shtml",
+      "date": "2026-11-12T23:05:00.000Z",
+      "summary": "A empresa de alimentos MBRF reportou nesta quinta-feira (12) lucro líquido de R$ 210 milhões no terceiro trimestre de 2026, alta de 123,5% em relação ao mesmo período do ano anterior. A operação de bovinos nos Estados Unidos se destacou no período, com o melho",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "PGR defende rejeição de novo pedido de revisão criminal que poderia anular a condenação de Jair Bolsonaro",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/12/pgr-diz-se-contra-revisao-criminal-que-poderia-anular-a-condenacao-de-jair-bolsonaro.ghtml",
+      "date": "2026-11-12T23:04:53.000Z",
+      "summary": "O ex-presidente da República, Jair Messias Bolsonaro (PL), fez uma aparição de cerca de 20 minutos no quintal da casa onde ele cumpria prisão domiciliar em 9 de setembro de 2025 Wilton Junior/Estadão Conteúdo O procurador-geral da República, Paulo Gonet, defen",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Chefe da PF diz a ministro da Justiça que agiu conforme a lei após afastar delegados",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/chefe-da-pf-diz-a-ministro-da-justica-que-agiu-conforme-a-lei-apos-afastar-delegados.shtml",
+      "date": "2026-11-12T23:03:00.000Z",
+      "summary": "O diretor-geral da PF (Polícia Federal), Andrei Rodrigues, disse ao ministro da Justiça, Wellington Lima e Silva, estar certo de que agiu conforme a lei ao afastar delegados do caso Master após a confecção de relatórios sobre ministros do STF (Supremo Tribunal",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Discurso de Alcolumbre defendendo contrato de iPhones expõe patrimonialismo no Senado",
+      "link": "https://www.estadao.com.br/politica/carlos-andreazza/discurso-de-alcolumbre-defendendo-contrato-de-iphones-expoe-patrimonialismo-no-senado/",
+      "date": "2026-11-12T23:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Câmara entrega Medalha Rei Pelé a pessoas e instituições ligadas ao esporte",
+      "link": "https://www.camara.leg.br/noticias/1319196-camara-entrega-medalha-rei-pele-a-pessoas-e-instituicoes-ligadas-ao-esporte",
+      "date": "2026-11-12T22:54:00.000Z",
+      "summary": "Premiação reconhece iniciativas que promovem o esporte, a educação e a inclusão social",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Justiça torna Milton Leite réu por promover o PCC no transporte de SP",
+      "link": "https://www.poder360.com.br/poder-justica/justica-torna-milton-leite-reu-por-promover-o-pcc-no-transporte-de-sp/",
+      "date": "2026-11-12T22:52:34.000Z",
+      "summary": "Ex-presidente da Câmara da capital paulista e mais 13 pessoas vão responder por organização criminosa ligada à facção; juiz manda prender todos",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "ASSISTA: Senado discute o projeto de ajuste fiscal; texto pode ser votado ainda hoje",
+      "link": "https://g1.globo.com/politica/ao-vivo/senado-pacote-medidas-fiscais.ghtml",
+      "date": "2026-11-12T22:51:18.000Z",
+      "summary": "ASSISTA: Senado discute o projeto de ajuste fiscal; texto pode ser votado ainda hoje O governo defende que o projeto vai estabilizar a dívida pública e preservar os compromissos assumidos pelo presidente Lula durante a campanha. O Senado discute o Projeto de L",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "PSB aprova início de federação com PDT e pode incluir outros partidos",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/psb-aprova-inicio-de-federacao-com-pdt-e-pode-incluir-outros-partidos.shtml",
+      "date": "2026-11-12T22:50:00.000Z",
+      "summary": "O PSB (Partido Socialista Brasileiro) aprovou nesta quinta-feira (12), por unanimidade, o início da formação de uma federação com o PDT (Partido Democrático Trabalhista). Leia mais (11/12/2026 - 19h50)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Flávio Dino libera volta do julgamento sobre criminalização de jogos de azar no STF",
+      "link": "https://www.estadao.com.br/politica/flavio-dino-libera-volta-do-julgamento-sobre-criminalizacao-de-jogos-de-azar-no-stf-nprp/",
+      "date": "2026-11-12T22:46:31.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Sucessora de Jensen Huang na Nvidia terá desafio mais difícil do setor de tecnologia",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/jensen-huang-deixa-comando-da-nvidia-e-sucessora-tera-desafio-mais-dificil-da-tecnologia.shtml",
+      "date": "2026-11-12T22:32:00.000Z",
+      "summary": "Duas das empresas mais valiosas do mundo trocaram de comando nos últimos meses. Mas dificilmente poderiam ter feito isso de maneiras mais diferentes. Na Apple, Tim Cook deu lugar a John Ternus em setembro, em um processo que a fabricante do iPhone chamou de \"p",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "Estoque de renda fixa na B3 supera R$ 10 tri pela primeira vez",
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/estoque-de-renda-fixa-na-b3-supera-r-10-tri-pela-primeira-vez.shtml",
       "date": "2026-11-12T22:20:00.000Z",
       "summary": "O estoque de renda fixa registrado na B3 superou pela primeira vez os R$ 10 trilhões no terceiro trimestre de 2026, segundo balanço da companhia divulgado na noite desta quinta-feira (12). Leia mais (11/12/2026 - 19h20)",
       "source": "Folha",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Braga mantém proteções a gastos em relatório do ajuste fiscal de Lula",
-      "link": "https://www.poder360.com.br/poder-congresso/braga-mantem-protecoes-a-gastos-em-relatorio-do-ajuste-fiscal-de-lula/",
-      "date": "2026-11-12T22:14:23.000Z",
-      "summary": "Parecer tem impacto de até R$ 56,1 bilhões em 2027 e impede remanejamento de economias de outros Poderes",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Líder de entidade dos delegados diz que diretor da PF deve ‘ficar longe’ de investigações sensíveis",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/lider-de-entidade-dos-delegados-diz-que-diretor-da-pf-deve-ficar-longe-de-investigacoes-sensiveis/",
-      "date": "2026-11-12T22:10:52.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -185,6 +311,15 @@
       "type": "oficial"
     },
     {
+      "title": "Mais uma: ex-CEO da Nvidia manteve relacionamento extraconjugal com uma terceira mulher, diz agência",
+      "link": "https://www.estadao.com.br/economia/ex-ceo-nvidia-relacionamento-extraconjugal-terceira-mulher-npr/",
+      "date": "2026-11-12T21:59:26.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "Motta destaca o papel da comunicação e o reconhecimento internacional da TV Câmara",
       "link": "https://www.camara.leg.br/noticias/1319194-motta-destaca-o-papel-da-comunicacao-e-o-reconhecimento-internacional-da-tv-camara",
       "date": "2026-11-12T21:58:00.000Z",
@@ -194,20 +329,38 @@
       "type": "oficial"
     },
     {
-      "title": "PSB autoriza formar federação com PDT em busca de sobrevivência, mas impõe limites",
-      "link": "https://www.estadao.com.br/politica/psb-autoriza-formar-federacao-com-pdt-em-busca-de-sobrevivencia-mas-impoe-limites/",
-      "date": "2026-11-12T21:57:02.000Z",
+      "title": "STF nega ampliar alcance de acordo sobre planos econômicos para indenizar poupadores",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/stf-nega-ampliar-alcance-de-acordo-sobre-planos-economicos-para-indenizar-poupadores.shtml",
+      "date": "2026-11-12T21:57:00.000Z",
+      "summary": "O STF (Supremo Tribunal Federal) rejeitou nesta quinta-feira (12) recursos que buscavam rever o alcance de um acordo firmado entre bancos e representantes de poupadores para compensar perdas provocadas pelos planos econômicos Bresser, Verão e Collor 1 e 2, nas",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Senado aprova urgência para votar projeto de lei com ajuste fiscal que pode chegar a R$ 56 bilhões",
+      "link": "https://www.estadao.com.br/economia/senado-projeto-lei-ajuste-fiscal/",
+      "date": "2026-11-12T21:56:45.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Zanin nega pedido de segundo turno no Rio",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/zanin-nega-pedido-de-segundo-turno-no-rio/",
+      "date": "2026-11-12T21:54:57.000Z",
       "summary": "",
       "source": "Estadão",
       "cat": "politica",
       "type": "imprensa"
     },
     {
-      "title": "STF nega ampliar alcance de acordo sobre planos econômicos para indenizar poupadores",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/stf-nega-ampliar-alcance-de-acordo-sobre-planos-economicos-para-indenizar-poupadores.shtml",
-      "date": "2026-11-12T21:57:00.000Z",
-      "summary": "O STF (Supremo Tribunal Federal) rejeitou nesta quinta-feira (12) recursos que buscavam rever o alcance de um acordo firmado entre bancos e representantes de poupadores para compensar perdas provocadas pelos planos econômicos Bresser, Verão e Collor 1 e 2, nas",
-      "source": "Folha",
+      "title": "6x1: Dino atende pleito de setores ao flexibilizar prazo para folgas e fortalece negociação sindical",
+      "link": "https://www.estadao.com.br/economia/6x1-dino-atende-pleito-de-setores-ao-flexibilizar-prazo-para-folgas-e-fortalece-negociacao-sindical/",
+      "date": "2026-11-12T21:53:35.000Z",
+      "summary": "",
+      "source": "Estadão",
       "cat": "economia",
       "type": "imprensa"
     },
@@ -221,42 +374,6 @@
       "type": "oficial"
     },
     {
-      "title": "ASSISTA: Senado inicia discussão do projeto de ajuste fiscal",
-      "link": "https://g1.globo.com/politica/ao-vivo/senado-pacote-medidas-fiscais.ghtml",
-      "date": "2026-11-12T21:44:39.000Z",
-      "summary": "ASSISTA: Senado inicia discussão do projeto de ajuste fiscal Ministro do Planejamento, Bruno Moretti, disse que texto estabiliza dívida pública e preserva compromissos feitos pelo presidente Lula na campanha. O Senado discute o Projeto de Lei Complementar (PLP",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "União Brasil negocia ter 2 ministérios no 4º governo de Lula",
-      "link": "https://www.poder360.com.br/poder-governo/uniao-brasil-negocia-ter-2-ministerios-no-4o-governo-de-lula/",
-      "date": "2026-11-12T21:43:36.000Z",
-      "summary": "Já há um entendimento de que o partido comandará duas pastas, mas ainda não está definido quais serão; MDB também deve continuar com dois ministérios na próxima gestão",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Nubank vê lucro crescer para R$ 1,1 bilhão puxado por cartão de crédito",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/nubank-ve-lucro-crescer-para-r-11-bilhao-puxado-por-cartao-de-credito.shtml",
-      "date": "2026-11-12T21:38:00.000Z",
-      "summary": "O Nubank teve um lucro líquido de US$ 1,1 bilhão (R$ 5,7 bilhões) no terceiro trimestre deste ano, divulgou o banco nesta quinta-feira (12), em meio a um crescimento nos empréstimos e nos cartões de crédito do banco. Leia mais (11/12/2026 - 18h38)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Senado inicia votação do 'plano Moretti' de ajuste fiscal, apesar de protesto da oposição",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/senado-inicia-votacao-do-plano-moretti-de-ajuste-fiscal-apesar-de-protesto-da-oposicao.shtml",
-      "date": "2026-11-12T21:34:00.000Z",
-      "summary": "O presidente do Senado, Davi Alcolumbre (União Brasil-AP), iniciou a votação do plano de ajuste do governo de Luiz Inácio Lula da Silva (PT) nesta quinta-feira (12). Foi aprovado um requerimento de urgência para o texto do \"plano Moretti\" e, em seguida, será v",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Comissão promove audiência pública sobre direitos das pessoas idosas",
       "link": "https://www.camara.leg.br/noticias/1319071-comissao-promove-audiencia-publica-sobre-direitos-das-pessoas-idosas",
       "date": "2026-11-12T21:31:00.000Z",
@@ -264,15 +381,6 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Dólar sobe 1,62% e fecha em R$ 5,652 e Ibovespa cai 0,47%",
-      "link": "https://www.poder360.com.br/poder-economia/dolar-sobe-162-e-fecha-em-r-5652-e-ibovespa-cai-047/",
-      "date": "2026-11-12T21:26:25.000Z",
-      "summary": "O mercado está de olho no plano de ajuste fiscal de Lula; pacote pode ter impacto de até R$ 60 bilhões em 2027",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
     },
     {
       "title": "Zanin rejeita liminar pedida por PSD por segundo turno no RJ",
@@ -302,21 +410,12 @@
       "type": "imprensa"
     },
     {
-      "title": "STF derruba isenção de pena em crime patrimonial contra mulher",
-      "link": "https://www.poder360.com.br/poder-justica/stf-derruba-isencao-de-pena-em-crime-patrimonial-contra-mulher/",
-      "date": "2026-11-12T21:15:17.000Z",
-      "summary": "Por unanimidade, ministros invalidam artigos 181 e 182 do Código Penal; julgamento foi suspenso para definir a modulação dos efeitos",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Quais os maiores gastos do governo federal? Veja vídeo com ranking",
-      "link": "https://www.estadao.com.br/economia/pedro-fernando-nery/quais-os-maiores-gastos-do-governo-federal-veja-video-com-ranking/",
-      "date": "2026-11-12T21:02:35.000Z",
+      "title": "MP-SP pede investigação de contratos de R$21 mi da Virada Esportiva após denúncia do vice-prefeito",
+      "link": "https://www.estadao.com.br/politica/mp-sp-pede-investigacao-de-contratos-de-r21-mi-da-virada-esportiva-apos-denuncia-do-vice-prefeito-nprp/",
+      "date": "2026-11-12T21:17:19.000Z",
       "summary": "",
       "source": "Estadão",
-      "cat": "economia",
+      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -329,37 +428,10 @@
       "type": "oficial"
     },
     {
-      "title": "Juiz que colocou Milton Leite no banco dos réus diz que Brasil ‘já é um narcoestado’",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/juiz-que-colocou-milton-leite-no-banco-dos-reus-diz-que-brasil-ja-e-um-narcoestado/",
-      "date": "2026-11-12T20:54:44.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Projeto proíbe apostas online para devedores de pensão alimentícia",
       "link": "https://www.camara.leg.br/noticias/1312633-projeto-proibe-apostas-online-para-devedores-de-pensao-alimenticia",
       "date": "2026-11-12T20:51:00.000Z",
       "summary": "",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Como é a política de juros fora da caixinha, de Lara Resende, e quais riscos traz",
-      "link": "https://www.estadao.com.br/economia/celso-ming/como-e-a-politica-de-juros-fora-da-caixinha-de-lara-resende-e-quais-riscos-traz/",
-      "date": "2026-11-12T20:48:59.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Projeto cria auxílio financeiro temporário para mulheres vítimas de violência doméstica",
-      "link": "https://www.camara.leg.br/noticias/1310241-projeto-cria-auxilio-financeiro-temporario-para-mulheres-vitimas-de-violencia-domestica",
-      "date": "2026-11-12T20:47:00.000Z",
-      "summary": "Conforme a proposta, o benefício temporário será pago por municípios e pelo DF e integrará o rol de medidas da Lei Maria da Penha",
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
@@ -379,42 +451,6 @@
       "date": "2026-11-12T20:40:36.000Z",
       "summary": "Produção de soja é marcada por expectativas e desafios em 2026 Divulgação/Aprosoja A Associação Brasileira dos Produtores de Soja (Aprosoja) divulgou uma nota nesta quinta-feira (12) criticando declarações da direção do Banco do Brasil que, segundo a entidade,",
       "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Fim de ano se aproxima com inflação alta e PIB travado",
-      "link": "https://www.estadao.com.br/economia/fim-de-ano-se-aproxima-com-inflacao-alta-e-pib-travado/",
-      "date": "2026-11-12T20:33:42.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "PT e aliados articulam projeto alternativo ao ajuste fiscal, com taxação dos mais ricos",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/pt-e-aliados-articulam-projeto-alternativo-ao-ajuste-fiscal-com-taxacao-dos-mais-ricos.shtml",
-      "date": "2026-11-12T20:19:00.000Z",
-      "summary": "O PT e outros partidos de esquerda preparam um projeto alternativo ao ajuste fiscal proposto pela equipe econômica do governo Lula, em que vão defender a taxação dos mais ricos. Leia mais (11/12/2026 - 17h19)",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Tarbell Center oferece bolsas para jornalistas cobrirem inteligência artificial",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/blogs/novo-em-folha/2026/11/tarbell-center-oferece-bolsas-para-jornalistas-cobrirem-inteligencia-artificial.shtml",
-      "date": "2026-11-12T20:12:00.000Z",
-      "summary": "O Tarbell Center for AI Journalism está com inscrições abertas para seu programa de bolsas de 2027, voltado a jornalistas interessados na cobertura de inteligência artificial. Com duração de um ano, a iniciativa oferece salários de até US$ 10 mil (cerca de R$ ",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Bancos veem ‘narrativa exagerada do BB’ e criticam atribuição de crise ao agro; leia bastidor",
-      "link": "https://www.estadao.com.br/economia/agronegocios/bancos-veem-narrativa-exagerada-do-bb-e-criticam-atribuicao-de-crise-ao-agro-leia-bastidor/",
-      "date": "2026-11-12T20:01:49.000Z",
-      "summary": "",
-      "source": "Estadão",
       "cat": "economia",
       "type": "imprensa"
     },
@@ -446,33 +482,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Atividades apontadas como foco de desvio por vice de Nunes não tiveram recurso público, diz prefeitura",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/atividades-apontadas-como-foco-de-desvio-por-vice-de-nunes-nao-tiveram-recurso-publico-diz-prefeitura.shtml",
-      "date": "2026-11-12T19:32:00.000Z",
-      "summary": "As atividades da Virada Esportiva citadas pelo vice-prefeito de São Paulo, Ricardo Mello Araújo (PL), em pedido de investigação enviado ao Ministério Público, foram em sua maioria realizadas efetivamente, e não tiveram dinheiro público, afirmam registros da pr",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Justiça decreta a prisão preventiva de Milton Leite e de mais 13 acusados por ligação com o PCC",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/justica-decreta-a-prisao-preventiva-de-milton-leite-e-de-mais-13-acusados-por-ligacao-com-o-pcc/",
-      "date": "2026-11-12T19:28:49.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "O que são os chips H200, no centro da polêmica que levou à renúncia do CEO da Nvidia",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/12/chips-h200-nvidia.ghtml",
-      "date": "2026-11-12T19:15:13.000Z",
-      "summary": "Os desafios de suceder Huang na Nvidia A polêmica que levou à renúncia do CEO da Nvidia, Jensen Huang, nesta quinta-feira (12) envolve um pequeno componente: o chip H200, um dos mais avançados da empresa americana e sujeito a restrições de exportação impostas ",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Mercedes suspende todos os investimentos na Alemanha e avalia fechar fábricas",
       "link": "https://www.dw.com/pt-br/mercedes-suspende-todos-os-investimentos-na-alemanha-e-avalia-fechar-fábricas/a-79935095?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-12T19:15:00.000Z",
@@ -488,24 +497,6 @@
       "summary": "A existência de soldados mercenários é tão antiga quanto a própria guerra, mas o conflito na Ucrânia lhes conferiu uma nova visibilidade. Eles operam em várias partes do mundo, entre diferentes níveis de legalidade.",
       "source": "DW Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Lula embarca para Filipinas para participar de cúpula e ampliar mercado brasileiro na Ásia",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/12/lula-embarca-para-filipinas-para-participar-de-cupula-e-ampliar-mercado-brasileiro-na-asia.ghtml",
-      "date": "2026-11-12T18:37:20.000Z",
-      "summary": "COP 31: Lula fica de fora do segundo dia da cúpula de lideranças mundiais O presidente Luiz Inácio Lula da Silva (PT) embarcou nesta quinta-feira (12) para as Filipinas para participar da cúpula da Associação de Nações do Sudeste Asiático (Asean). É a segunda ",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "STF mantém afastamento de Marco Buzzi do STJ após acusação de assédio, mas mantém salário",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/12/stf-mantem-afastamento-de-marco-buzzi-do-stj-apos-acusacao-de-assedio-mas-mantem-salario.ghtml",
-      "date": "2026-11-12T18:35:37.000Z",
-      "summary": "O ministro Nunes Marques, do Supremo Tribunal Federal (STF), manteve o afastamento do ministro Marco Buzzi determinado pelo Superior Tribunal de Justiça (STJ), mas negou a suspensão do pagamento do salário. Em outra frente, o STJ poderá iniciar os trâmites par",
-      "source": "g1",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -542,6 +533,15 @@
       "summary": "Jensen Huang deixou o cargo nesta quinta-feira (12/11) após vir à tona que ele teria um segundo relacionamento com uma funcionária da empresa. Valor de mercado da companhia despencou desde o início da crise.",
       "source": "BBC News Brasil",
       "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Como a tecnologia Mini LED transforma a experiência de imagem em telas grandes",
+      "link": "https://www.estadao.com.br/economia/negocios/como-a-tecnologia-mini-led-transforma-a-experiencia-de-imagem-em-telas-grandes/",
+      "date": "2026-11-12T15:50:10.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -690,6 +690,7 @@
     }
   ],
   "errors": [
+    "Selic (SGS 432): HTTP 304",
     "feed CNN Brasil: HTTP 404",
     "feed CNN Brasil: HTTP 404"
   ]
