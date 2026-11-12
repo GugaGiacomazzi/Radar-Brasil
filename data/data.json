@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-12T17:32:01.508Z",
+  "updated": "2026-11-12T18:29:51.088Z",
   "market": {
     "ibov": {
-      "price": 171300.23,
-      "pct": -0.44,
-      "time": "2026-11-12T17:31:56.655Z",
+      "price": 170840.05,
+      "pct": -0.71,
+      "time": "2026-11-12T18:29:45.316Z",
       "history": [
         {
           "d": "2026-10-13",
@@ -92,7 +92,7 @@
         },
         {
           "d": "2026-11-12",
-          "c": 171271.8125
+          "c": 170840.0469
         }
       ]
     },
@@ -149,6 +149,62 @@
   },
   "news": [
     {
+      "title": "Executivo terá novas possibilidades de remanejamento e suplementação de despesas",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/12/executivo-tera-novas-possibilidades-de-remanejamento-e-suplementacao-de-despesas",
+      "date": "2026-11-12T18:26:44.000Z",
+      "summary": "O Congresso Nacional aprovou nesta quinta-feira (12) o projeto que altera o Orçamento de 2026 para ampliar as possibilidades de remanejamento e suplementação de despesas — por parte do Executivo — sem a necessidade de autorização do Parlamento. O projeto (PLN ",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Comissão aprova adaptação de moradias do Minha Casa, Minha Vida para famílias com doentes",
+      "link": "https://www.camara.leg.br/noticias/1318861-comissao-aprova-adaptacao-de-moradias-do-minha-casa-minha-vida-para-familias-com-doentes",
+      "date": "2026-11-12T18:24:00.000Z",
+      "summary": "O projeto continua em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Davi defende respeito a divergências e fortalecimento do Parlamento",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/12/davi-defende-respeito-a-divergencias-e-fortalecimento-do-parlamento",
+      "date": "2026-11-12T18:17:31.000Z",
+      "summary": "O presidente do Senado e do Congresso Nacional, Davi Alcolumbre, defendeu nesta quinta-feira (12) o respeito às divergências políticas e a valorização do Poder Legislativo como fundamentais para o fortalecimento da democracia. Ao encerrar a sessão conjunta des",
+      "source": "Agência Senado",
+      "cat": "politica"
+    },
+    {
+      "title": "Especialistas criticam a exigência de laudo médico para atendimento na educação especial",
+      "link": "https://www.camara.leg.br/noticias/1318988-especialistas-criticam-a-exigencia-de-laudo-medico-para-atendimento-na-educacao-especial",
+      "date": "2026-11-12T17:51:00.000Z",
+      "summary": "Relatora afirma que orientações do MEC impõem barreiras burocráticas excessivas e excludentes",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Comissão debate impactos do contrabando e da falsificação no mercado de bebidas e cigarros",
+      "link": "https://www.camara.leg.br/noticias/1318951-comissao-debate-impactos-do-contrabando-e-da-falsificacao-no-mercado-de-bebidas-e-cigarros",
+      "date": "2026-11-12T17:43:00.000Z",
+      "summary": "Audiência pública vai reunir informações para propor medidas legislativas que reduzam os impactos econômicos da pirataria no setor",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Comissão externa apresenta relatório sobre rompimento da barragem de Fundão",
+      "link": "https://www.camara.leg.br/noticias/1318888-comissao-externa-apresenta-relatorio-sobre-rompimento-da-barragem-de-fundao",
+      "date": "2026-11-12T17:38:00.000Z",
+      "summary": "O rompimento da Barragem de Fundão aconteceu há 11 anos e despejou uma lama de rejeitos de minério de ferro ao longo do Rio Doce, entre Minas Gerais e Espírito Santo",
+      "source": "Agência Câmara",
+      "cat": "politica"
+    },
+    {
+      "title": "Mais 1,8 mil escolas recebem falsas ameaças de bomba na Itália",
+      "link": "https://www.dw.com/pt-br/mais-1-8-mil-escolas-recebem-falsas-ameaças-de-bomba-na-itália/a-79933936?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-12T17:31:00.000Z",
+      "summary": "Governo instruiu instituições a não fecharem as portas após pânico ao redor do país. Casos semelhantes ocorreram em França, Reino Unido e Irlanda.",
+      "source": "DW Brasil",
+      "cat": "internacional"
+    },
+    {
       "title": "Democratas ampliam domínio no Senado nos EUA com vitória no Mississipi",
       "link": "https://www.dw.com/pt-br/democratas-ampliam-domínio-no-senado-nos-eua-com-vitória-no-mississipi/a-79933955?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-12T17:29:00.000Z",
@@ -173,92 +229,12 @@
       "cat": "politica"
     },
     {
-      "title": "Congresso aprova reforço orçamentário para ministérios e Judiciário",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/12/congresso-aprova-reforco-orcamentario-para-ministerios-e-judiciario",
-      "date": "2026-11-12T17:14:58.000Z",
-      "summary": "O Congresso Nacional aprovou nesta quinta-feira (12) dez projetos de lei que liberam recursos para ministérios e para as justiças Federal, Eleitoral e do Trabalho, além da Defensoria Pública da União (DPU), Ministério Público da União (MPU) e Tribunal de Conta",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
-      "title": "Ministério Público, PF e Judiciário tratam das investigações do Banco Master, diz Davi",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/12/ministerio-publico-pf-e-judiciario-tratam-das-investigacoes-do-banco-master-diz-davi",
-      "date": "2026-11-12T17:09:07.000Z",
-      "summary": "O presidente do Congresso Nacional, Davi Alcolumbre, reiterou na sessão conjunta desta quinta-feira (12) que o Ministério Público, a Polícia Federal e o Judiciário estão tratando das investigações relacionadas às fraudes do Banco Master. Questionado sobre a in",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
-      "title": "Congresso aprova créditos orçamentários de R$ 152,4 bilhões no Orçamento de 2026",
-      "link": "https://www.camara.leg.br/noticias/1318963-congresso-aprova-creditos-orcamentarios-de-r-1524-bilhoes-no-orcamento-de-2026",
-      "date": "2026-11-12T17:00:00.000Z",
-      "summary": "Deputados e senadores aprovaram 26 projetos que abrem crédito extra no Orçamento deste ano",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Congresso Nacional aprova R$ 32,8 milhões para o Ministério da Saúde",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/12/congresso-nacional-aprova-r-32-8-milhoes-para-o-ministerio-da-saude",
-      "date": "2026-11-12T16:53:20.000Z",
-      "summary": "O Congresso Nacional aprovou nesta quinta-feira (12) um projeto de lei que destina R$ 39 milhões a ações de órgãos do governo federal e a transferências para estados, Distrito Federal e municípios. A maior parte dessa verba — R$ 32,8 milhões — vai para o Minis",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão de Desenvolvimento Urbano aprova diretriz para segurança de infraestrutura",
-      "link": "https://www.camara.leg.br/noticias/1318858-comissao-de-desenvolvimento-urbano-aprova-diretriz-para-seguranca-de-infraestrutura",
-      "date": "2026-11-12T16:52:00.000Z",
-      "summary": "A Câmara dos Deputados continua discutindo o assunto",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
       "title": "CEO da Nvidia renuncia após caso com suposta espiã chinesa: quem assumirá o comando da empresa?",
       "link": "https://www.bbc.com/portuguese/articles/cx1l053gmq5zo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-12T16:40:11.000Z",
       "summary": "Jensen Huang deixou o cargo nesta quinta-feira (12/11) após vir à tona que ele teria um segundo relacionamento com uma funcionária da empresa. Valor de mercado da companhia despencou desde o início da crise.",
       "source": "BBC News Brasil",
       "cat": "internacional"
-    },
-    {
-      "title": "Recursos para Angra 3 e seis agências reguladoras seguem para sanção",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/12/recursos-para-angra-3-e-seis-agencias-reguladoras-seguem-para-sancao",
-      "date": "2026-11-12T16:36:05.000Z",
-      "summary": "O Congresso Nacional aprovou, em sessão conjunta nesta quinta-feira (12), créditos de R$ 314,4 milhões para a Eletronuclear, responsável pela construção da usina nuclear Angra 3, e para seis agências reguladoras federais. As propostas estão previstas nos Proje",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
-      "title": "Aprovados créditos para educação em Roraima e instituições federais de ensino",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/12/aprovados-creditos-para-educacao-em-roraima-e-instituicoes-federais-de-ensino",
-      "date": "2026-11-12T16:29:26.000Z",
-      "summary": "O Congresso Nacional aprovou, em sessão conjunta nesta quinta-feira (12), dois projetos que abrem créditos especiais para a educação. As propostas destinam R$ 10 milhões para compensar despesas extraordinárias de Roraima com educação, decorrentes do fluxo migr",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão aprova medidas para ampliar regularização fundiária e saneamento em áreas informais",
-      "link": "https://www.camara.leg.br/noticias/1318848-comissao-aprova-medidas-para-ampliar-regularizacao-fundiaria-e-saneamento-em-areas-informais",
-      "date": "2026-11-12T16:23:00.000Z",
-      "summary": "Agora a proposta será analisada pela Comissão de Constituição e Justiça da Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica"
-    },
-    {
-      "title": "Aprovados R$ 522 mi para modernização fiscal e compromissos internacionais",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/12/aprovados-r-522-mi-para-modernizacao-fiscal-e-compromissos-internacionais",
-      "date": "2026-11-12T16:22:19.000Z",
-      "summary": "O Congresso Nacional aprovou, em sessão conjunta nesta quinta-feira (12), dois projetos que somam R$ 522,1 milhões em créditos orçamentários para financiar ações de modernização da gestão fiscal e pagar compromissos do Brasil com organismos financeiros interna",
-      "source": "Agência Senado",
-      "cat": "politica"
-    },
-    {
-      "title": "Comissão aprova proposta com regras para representação legal de provedores de internet no Brasil",
-      "link": "https://www.camara.leg.br/noticias/1318885-comissao-aprova-proposta-com-regras-para-representacao-legal-de-provedores-de-internet-no-brasil",
-      "date": "2026-11-12T16:15:00.000Z",
-      "summary": "Texto segue em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica"
     },
     {
       "title": "Israel ataca hospital em Gaza, apesar de cessar-fogo",
@@ -333,14 +309,6 @@
       "cat": "internacional"
     },
     {
-      "title": "UE está longe da meta de cortar emissões no transporte em 90% até 2050",
-      "link": "https://www.dw.com/pt-br/ue-está-longe-da-meta-de-cortar-emissões-no-transporte-em-90-até-2050/a-79912043?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-11T21:04:00.000Z",
-      "summary": "Frotas mais limpas estão transformando a mobilidade no continente. Mas muitas cidades ainda avançam devagar rumo à sustentabilidade.",
-      "source": "DW Brasil",
-      "cat": "internacional"
-    },
-    {
       "title": "O que colocar na mochila como kit de emergência e por que você deve ter uma — preventivamente",
       "link": "https://www.bbc.com/portuguese/articles/cm62p37dgxzzo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-11T20:53:39.000Z",
@@ -389,5 +357,7 @@
       "cat": "economia"
     }
   ],
-  "errors": []
+  "errors": [
+    "IPCA 12m (SGS 13522): HTTP 304"
+  ]
 }
