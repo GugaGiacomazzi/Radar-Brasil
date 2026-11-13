@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-13T05:55:33.050Z",
+  "updated": "2026-11-13T07:05:55.456Z",
   "market": {
     "ibov": {
       "price": 171324.31,
       "pct": -0.43,
-      "time": "2026-11-13T05:55:26.300Z",
+      "time": "2026-11-13T07:05:48.212Z",
       "history": [
         {
           "d": "2026-10-14",
@@ -145,6 +145,51 @@
   },
   "news": [
     {
+      "title": "Gilmar Mendes sinaliza que reconhecerá Justiça do Trabalho como competente para julgar ações de pejotização",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/gilmar-mendes-sinaliza-que-reconhecera-justica-do-trabalho-como-competente-para-julgar-acoes-de-pejotizacao.shtml",
+      "date": "2026-11-13T07:00:00.000Z",
+      "summary": "O ministro Gilmar Mendes, do STF (Supremo Tribunal Federal), sinalizou que deverá manter a Justiça do Trabalho como instância competente para julgar ações de pejotização. Mendes é relator do tema 1.389, que decidirá sobre fraudes no contrato de PJ (Pessoa Jurí",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Expo Cristã tem pirulito de Jesus, IA para igrejas e Lei Rouanet",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/expo-crista-tem-pirulito-de-jesus-ia-para-igrejas-e-lei-rouanet.shtml",
+      "date": "2026-11-13T07:00:00.000Z",
+      "summary": "A cuidadora de idosos Rachel Sena, 44, quer subir na vida. \"E quem não quer? Assim a gente fica mais pertinho de Deus\", ela diz e ri ao achar graça da própria piada, enquanto sobe uma escadaria cenográfica montada pela JC Rico, empresa especializada na montage",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Crédito climático com juros de 1% bancado pelo governo financia apartamentos de luxo",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/economia-sustentavel/2026/11/credito-climatico-com-juros-de-1-bancado-pelo-governo-financia-apartamentos-de-luxo.shtml",
+      "date": "2026-11-13T07:00:00.000Z",
+      "summary": "Um programa de financiamento climático do governo federal, que oferece recursos públicos a bancos com juros de apenas 1% ao ano, abaixo das taxas praticadas pelo mercado, tem sido usado para financiar a construção de prédios de luxo em várias regiões do país, ",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Fiesp e Senai-SP lançam curso online grátis sobre reforma tributária",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/blogs/que-imposto-e-esse/2026/11/fiesp-e-senai-sp-lancam-curso-online-gratis-sobre-reforma-tributaria.shtml",
+      "date": "2026-11-13T07:00:00.000Z",
+      "summary": "A Fiesp (Federação das Indústrias do Estado de São Paulo) e o Senai-SP estão lançando um curso online e gratuito de preparação para a reforma tributária. Leia mais (11/13/2026 - 04h00)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Tesouro Nacional relata vazamento de dados de 30.000 cadastros",
+      "link": "https://www.poder360.com.br/poder-brasil/tesouro-nacional-relata-vazamento-de-dados-de-30-000-cadastros/",
+      "date": "2026-11-13T06:26:34.000Z",
+      "summary": "Incidente também expôs cerca de 4.000 chaves Pix de beneficiários do governo; órgão diz que não houve impacto financeiro",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "Futuro ministro da Fazenda: veja quem são os cotados e o que está em jogo na escolha de Lula",
       "link": "https://g1.globo.com/economia/noticia/2026/11/13/futuro-ministro-da-fazenda-veja-quem-sao-os-cotados-e-o-que-esta-em-jogo-na-escolha-de-lula.ghtml",
       "date": "2026-11-13T05:00:00.000Z",
@@ -235,30 +280,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Flávio diz para apoiadores se inspirarem em Bolsonaro para “resistir”",
-      "link": "https://www.poder360.com.br/poder-congresso/flavio-diz-para-apoiadores-se-inspirarem-em-bolsonaro-para-resistir/",
-      "date": "2026-11-13T02:56:16.000Z",
-      "summary": "Dos EUA, senador diz que recebe informações sobre o pai pelos irmãos Carlos e Renan e o descreve como “resiliente”",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Nos EUA, Flávio Bolsonaro rejeita apoio a Motta após racha no PL sobre eleição na Câmara",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/nos-eua-flavio-bolsonaro-rejeita-apoio-a-motta-apos-racha-no-pl-sobre-eleicao-na-camara.shtml",
       "date": "2026-11-13T02:45:00.000Z",
       "summary": "O senador Flávio Bolsonaro (PL) afirmou nesta quinta-feira (12), durante uma live em seu canal, que é contrário à reeleição de Hugo Motta (Republicanos-PB) à presidência da Câmara dos Deputados. A declaração ocorre em meio a um racha no PL sobre o apoio ao atu",
       "source": "Folha",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Entidades do agro criticam declarações da direção do Banco do Brasil sobre inadimplência do setor",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/agro/2026/11/entidades-do-agro-criticam-declaracoes-da-direcao-do-banco-do-brasil-sobre-inadimplencia-do-setor.shtml",
-      "date": "2026-11-13T02:30:00.000Z",
-      "summary": "Os comentários da direção do Banco do Brasil sobre os resultados da instituição no terceiro trimestre nesta quinta-feira (12) não repercutiram bem entre entidades do agronegócio. Leia mais (11/12/2026 - 23h30)",
-      "source": "Folha",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -277,33 +304,6 @@
       "summary": "Ex-presidente da UDR (União Democrática Ruralista) e ferrenho apoiador de Jair Bolsonaro, Luiz Antonio Nabhan Garcia diz que a esquerda brasileira é mais verdadeira do que a direita, campo com o qual se identifica. Leia mais (11/12/2026 - 23h00)",
       "source": "Folha",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Bancos têm despesa recorde de R$ 49,9 bilhões no 3º tri para cobrir perdas esperadas com crédito",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/bancos-tem-despesa-recorde-de-r-499-bilhoes-no-3o-tri-para-cobrir-perdas-esperadas-com-credito.shtml",
-      "date": "2026-11-13T02:00:00.000Z",
-      "summary": "A despesa dos quatro maiores bancos de capital aberto no Brasil para cobrir perdas esperadas com calotes no crédito representou mais que o dobro do lucro líquido somado das instituições no terceiro trimestre deste ano. Leia mais (11/12/2026 - 23h00)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Custos, clima e maiores investimentos levam crise ao agronegócio",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/agro/2026/11/custos-clima-e-maiores-investimentos-levam-crise-ao-agronegocio.shtml",
-      "date": "2026-11-13T02:00:00.000Z",
-      "summary": "A crise financeira dentro da porteira é grande. Ela vem de um período de Selic baixa, próxima de 2%, crédito farto, preço elevado das commodities e grandes oportunidades de investimentos em terras e em máquinas. Naquele momento, o produtor investiu muito. Leia",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Entidades empresariais dizem que medidas de Dino para flexibilizar fim da 6x1 não terão efeito prático",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/entidades-empresariais-dizem-que-medidas-de-dino-para-flexibilizar-fim-da-6x1-nao-terao-efeito-pratico.shtml",
-      "date": "2026-11-13T02:00:00.000Z",
-      "summary": "Associações e confederações de diversos setores da economia disseram nesta quinta-feira (12) que a decisão sobre escala 6x1 proferida pelo ministro do STF (Supremo Tribunal Federal) Flávio Dino pouco ameniza o cenário de complexidade para a implementação da no",
-      "source": "Folha",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
