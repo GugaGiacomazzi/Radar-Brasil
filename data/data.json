@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-13T01:50:55.151Z",
+  "updated": "2026-11-13T02:43:39.563Z",
   "market": {
     "ibov": {
       "price": 171324.31,
       "pct": -0.43,
-      "time": "2026-11-13T01:50:49.974Z",
+      "time": "2026-11-13T02:43:33.461Z",
       "history": [
         {
           "d": "2026-10-14",
@@ -145,6 +145,96 @@
   },
   "news": [
     {
+      "title": "Associação pede que governo afaste diretoria da Geap",
+      "link": "https://www.poder360.com.br/poder-saude/associacao-pede-que-governo-afaste-diretoria-da-geap/",
+      "date": "2026-11-13T02:32:05.000Z",
+      "summary": "Pedido da entidade foi motivado por problemas na prestação dos serviços; levantamento indica que 90 hospitais deixaram a rede credenciada da Geap de 2025 a 2026",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Entidades do agro criticam declarações da direção do Banco do Brasil sobre inadimplência do setor",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/agro/2026/11/entidades-do-agro-criticam-declaracoes-da-direcao-do-banco-do-brasil-sobre-inadimplencia-do-setor.shtml",
+      "date": "2026-11-13T02:30:00.000Z",
+      "summary": "Os comentários da direção do Banco do Brasil sobre os resultados da instituição no terceiro trimestre nesta quinta-feira (12) não repercutiram bem entre entidades do agronegócio. Leia mais (11/12/2026 - 23h30)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Marinho diz que governo faz “pedalada fiscal” de R$ 10,5 bilhões",
+      "link": "https://www.poder360.com.br/poder-congresso/marinho-diz-que-governo-faz-pedalada-fiscal-de-r-105-bilhoes/",
+      "date": "2026-11-13T02:23:53.000Z",
+      "summary": "Líder da oposição critica retirada de subsídios da meta fiscal e diz que senadores não tiveram tempo para analisar projeto",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Vice de Nunes admite disputar 2028, critica prefeito e Tarcísio e buscará Bolsonaro",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/vice-de-nunes-admite-disputar-2028-critica-prefeito-e-tarcisio-e-buscara-bolsonaro.shtml",
+      "date": "2026-11-13T02:00:00.000Z",
+      "summary": "No cargo de vice-prefeito de São Paulo por imposição de Jair Bolsonaro (PL), o coronel Mello Araújo (PL), que nesta semana entrou em choque com o prefeito Ricardo Nunes (MDB) ao denunciar supostos desvios na área de Esportes, estende suas críticas ao governo T",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Esquerda é legítima e direita é como uísque falsificado, diz líder rural bolsonarista",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/esquerda-e-legitima-e-direita-e-como-uisque-falsificado-diz-lider-rural-bolsonarista.shtml",
+      "date": "2026-11-13T02:00:00.000Z",
+      "summary": "Ex-presidente da UDR (União Democrática Ruralista) e ferrenho apoiador de Jair Bolsonaro, Luiz Antonio Nabhan Garcia diz que a esquerda brasileira é mais verdadeira do que a direita, campo com o qual se identifica. Leia mais (11/12/2026 - 23h00)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Bancos têm despesa recorde de R$ 49,9 bilhões no 3º tri para cobrir perdas esperadas com crédito",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/bancos-tem-despesa-recorde-de-r-499-bilhoes-no-3o-tri-para-cobrir-perdas-esperadas-com-credito.shtml",
+      "date": "2026-11-13T02:00:00.000Z",
+      "summary": "A despesa dos quatro maiores bancos de capital aberto no Brasil para cobrir perdas esperadas com calotes no crédito representou mais que o dobro do lucro líquido somado das instituições no terceiro trimestre deste ano. Leia mais (11/12/2026 - 23h00)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Custos, clima e maiores investimentos levam crise ao agronegócio",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/agro/2026/11/custos-clima-e-maiores-investimentos-levam-crise-ao-agronegocio.shtml",
+      "date": "2026-11-13T02:00:00.000Z",
+      "summary": "A crise financeira dentro da porteira é grande. Ela vem de um período de Selic baixa, próxima de 2%, crédito farto, preço elevado das commodities e grandes oportunidades de investimentos em terras e em máquinas. Naquele momento, o produtor investiu muito. Leia",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Entidades empresariais dizem que medidas de Dino para flexibilizar fim da 6x1 não terão efeito prático",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/entidades-empresariais-dizem-que-medidas-de-dino-para-flexibilizar-fim-da-6x1-nao-terao-efeito-pratico.shtml",
+      "date": "2026-11-13T02:00:00.000Z",
+      "summary": "Associações e confederações de diversos setores da economia disseram nesta quinta-feira (12) que a decisão sobre escala 6x1 proferida pelo ministro do STF (Supremo Tribunal Federal) Flávio Dino pouco ameniza o cenário de complexidade para a implementação da no",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Marinho propõe ajuste de R$ 75 bilhões sem elevar impostos",
+      "link": "https://www.poder360.com.br/poder-congresso/marinho-propoe-ajuste-de-r-75-bilhoes-sem-elevar-impostos/",
+      "date": "2026-11-13T01:54:49.000Z",
+      "summary": "Líder da oposição apresentará emenda na 3ª feira (17.nov) para conter despesas e evitar adiamento de repasses aos Estados",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Mesmo com urgência, projeto de ajuste fiscal foi alterado por emendas",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/12/mesmo-com-urgencia-projeto-de-ajuste-fiscal-foi-alterado-por-emendas",
+      "date": "2026-11-13T01:54:15.000Z",
+      "summary": "Mesmo com o pouco tempo entre o recebimento do projeto de ajuste fiscal (PLP 299/2026) do senador Jaques Wagner (PT-BA) e a votação, o relatório do senador Eduardo Braga (MDB-AM) acatou mais de 20 emendas dos senadores, seja da base governista, seja da oposiçã",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
       "title": "Marinho diz que governo deu “calote” em Estados com ajuste fiscal",
       "link": "https://www.poder360.com.br/poder-congresso/marinho-diz-que-governo-deu-calote-em-estados-com-ajuste-fiscal/",
       "date": "2026-11-13T01:47:41.000Z",
@@ -154,12 +244,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Braskem tem prejuízo líquido de R$ 1,1 bilhão no 3º tri",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/braskem-tem-prejuizo-liquido-de-r-11-bilhao-no-3o-tri.shtml",
-      "date": "2026-11-13T01:26:00.000Z",
-      "summary": "A petroquímica Braskem, que está em recuperação judicial, teve prejuízo líquido de R$ 1,1 bilhão no terceiro trimestre, piorando seu resultado negativo em relação ao prejuízo de R$ 26 milhões no mesmo período em 2025, segundo dados divulgados nesta quinta-feir",
-      "source": "Folha",
-      "cat": "economia",
+      "title": "Gonet se manifesta contra revisão criminal de Bolsonaro e defende manutenção da pena",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/gonet-se-manifesta-contra-revisao-criminal-de-bolsonaro-e-defende-manutencao-da-pena/",
+      "date": "2026-11-13T01:34:42.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -169,24 +259,6 @@
       "summary": "",
       "source": "Estadão",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Veja como votou cada senador no projeto de lei com medidas de ajuste fiscal",
-      "link": "https://www.estadao.com.br/economia/veja-como-votou-cada-senador-no-projeto-de-lei-com-medidas-de-ajuste-fiscal/",
-      "date": "2026-11-13T01:08:28.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Saiba como cada senador votou no pacote de ajuste fiscal de Lula",
-      "link": "https://www.poder360.com.br/poder-congresso/saiba-como-cada-senador-votou-no-pacote-de-ajuste-fiscal-de-lula/",
-      "date": "2026-11-13T01:02:59.000Z",
-      "summary": "Projeto recebeu 45 votos favoráveis e 31 contrários; 5 senadores não registraram voto na proposta",
-      "source": "Poder360",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -208,39 +280,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Aviso",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/vaivem/2026/11/aviso.shtml",
-      "date": "2026-11-13T00:54:00.000Z",
-      "summary": "Excepcionalmente nesta quinta (12), a coluna não é publicada. Leia mais (11/12/2026 - 21h54)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Ajuste fiscal: entenda, ponto a ponto, o projeto do governo aprovado no Senado",
       "link": "https://www.estadao.com.br/economia/ajuste-fiscal-entenda-ponto-a-ponto-o-projeto-do-governo-aprovado-no-senado/",
       "date": "2026-11-13T00:53:50.000Z",
       "summary": "",
       "source": "Estadão",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Qual é o preço do dólar que vai fazer governo e políticos acordarem? R$ 6?",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2026/11/qual-e-o-preco-do-dolar-que-vai-fazer-governo-e-politicos-acordarem-r-6.shtml",
-      "date": "2026-11-13T00:43:00.000Z",
-      "summary": "Dólar caro costuma causar alerta em políticos. É um indicador \"pop\" de problemas econômicos, um cheiro de queimado. No caso de disparadas, altera humores do eleitorado também, mesmo entre pessoas mais pobres. Dá para perceber a alteração até em pesquisas de co",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Moraes atende a pedido da defesa de Augusto Heleno e impede visita de senadores ao general",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/11/moraes-atende-a-pedido-da-defesa-de-augusto-heleno-e-impede-visita-de-senadores-ao-general.shtml",
-      "date": "2026-11-13T00:39:00.000Z",
-      "summary": "O ministro Alexandre de Moraes, do STF (Supremo Tribunal Federal), acatou a um pedido da defesa do general Augusto Heleno e impediu a visita do senador Magno Malta (PL-ES) e da senadora Damares Alves (Republicanos-DF) por conta do quadro de saúde do ex-ministr",
-      "source": "Folha",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -271,30 +316,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Senado aprova pacote de ajuste fiscal do governo Lula",
-      "link": "https://www.poder360.com.br/poder-congresso/senado-aprova-pacote-de-ajuste-fiscal-do-governo-lula/",
-      "date": "2026-11-13T00:06:58.000Z",
-      "summary": "Proposta limita crescimento dos gastos públicos, reduz benefícios fiscais e busca viabilizar o Orçamento de 2027 com alívio de até R$ 56 bilhões, segundo o Executivo; texto segue para a Câmara",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Senado Federal aprova texto-base de projeto que prevê ajuste fiscal de até R$ 60 bilhões",
       "link": "https://g1.globo.com/politica/noticia/2026/11/12/senado-federal-aprova-ajuste-fiscal-de-ate-r-60-bilhoes.ghtml",
       "date": "2026-11-13T00:05:04.000Z",
       "summary": "Senado Federal aprova texto-base de projeto que prevê ajuste fiscal de até R$ 60 bilhões O Senado Federal aprovou nesta quinta-feira (12) o texto-base da proposta do governo do presidente Luiz Inácio Lula da Silva (PT) para um ajuste fiscal. As mudanças nas co",
       "source": "g1",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Senado aprova texto-base do 'plano Moretti' de ajuste, com medidas para conter gastos e elevar receitas",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/senado-aprova-texto-base-do-plano-moretti-de-ajuste-com-medidas-para-conter-gastos-e-elevar-receitas.shtml",
-      "date": "2026-11-13T00:05:00.000Z",
-      "summary": "O plenário do Senado Federal aprovou nesta quinta-feira (12) o texto-base do plano de ajuste do governo de Luiz Inácio Lula da Silva (PT), com medidas para ajudar a equipe econômica a buscar o centro da meta de resultado primário (diferença entre receitas e de",
-      "source": "Folha",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -307,29 +334,11 @@
       "type": "imprensa"
     },
     {
-      "title": "Inadimplência de empresas vai ao maior número em setembro",
-      "link": "https://www.poder360.com.br/poder-economia/inadimplencia-de-empresas-vai-ao-maior-numero-em-setembro/",
-      "date": "2026-11-13T00:02:20.000Z",
-      "summary": "9,4 milhões de companhias estavam com dívidas negativas, que somavam R$ 247,8 bilhões, segundo Serasa Experian",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "O risco de Andrei Rodrigues é a própria PF, de onde jorram os vazamentos",
       "link": "https://www.estadao.com.br/politica/eliane-cantanhede/o-risco-de-andrei-rodrigues-e-a-propria-pf-de-onde-jorram-os-vazamentos/",
       "date": "2026-11-12T23:34:35.000Z",
       "summary": "",
       "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "PGR se manifesta contra revisão criminal da condenação de Bolsonaro",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/pgr-se-manifesta-contra-revisao-criminal-da-pena-de-bolsonaro.shtml",
-      "date": "2026-11-12T23:19:00.000Z",
-      "summary": "A PGR (Procuradoria-Geral da República) se manifestou nesta quinta-feira (12) contra a revisão criminal da condenação do ex-presidente Jair Bolsonaro, sentenciado a 27 anos de prisão por tentativa de golpe de Estado. Leia mais (11/12/2026 - 20h19)",
-      "source": "Folha",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -348,15 +357,6 @@
       "date": "2026-11-12T23:07:42.000Z",
       "summary": "= Reprodução/Canva Pro A Comissão de Assuntos Sociais (CAS) do Senado confirmou, na quarta-feira (11), a aprovação de um projeto de lei que prevê a inclusão da vacina contra herpes-zóster, doença popularmente conhecida como cobreiro, no calendário nacional de ",
       "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Discurso de Alcolumbre defendendo contrato de iPhones expõe patrimonialismo no Senado",
-      "link": "https://www.estadao.com.br/politica/carlos-andreazza/discurso-de-alcolumbre-defendendo-contrato-de-iphones-expoe-patrimonialismo-no-senado/",
-      "date": "2026-11-12T23:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -400,6 +400,15 @@
       "title": "Senado aprova texto-base do projeto de lei com ajuste fiscal que pode chegar a R$ 56 bi em 2027",
       "link": "https://www.estadao.com.br/economia/senado-projeto-lei-ajuste-fiscal/",
       "date": "2026-11-12T21:56:45.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "6x1: Dino atende pleito de setores ao flexibilizar prazo para folgas e fortalece negociação sindical",
+      "link": "https://www.estadao.com.br/economia/6x1-dino-atende-pleito-de-setores-ao-flexibilizar-prazo-para-folgas-e-fortalece-negociacao-sindical/",
+      "date": "2026-11-12T21:53:35.000Z",
       "summary": "",
       "source": "Estadão",
       "cat": "economia",
