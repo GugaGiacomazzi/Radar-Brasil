@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-13T18:46:07.055Z",
+  "updated": "2026-11-13T19:50:16.018Z",
   "market": {
     "ibov": {
-      "price": 172430.75,
-      "pct": 0.65,
-      "time": "2026-11-13T18:46:01.546Z",
+      "price": 172239.02,
+      "pct": 0.53,
+      "time": "2026-11-13T19:50:09.546Z",
       "history": [
         {
           "d": "2026-10-14",
@@ -92,7 +92,7 @@
         },
         {
           "d": "2026-11-13",
-          "c": 172430.75
+          "c": 172239.0156
         }
       ]
     },
@@ -149,6 +149,159 @@
   },
   "news": [
     {
+      "title": "Governo estuda CNU com prova antes da autorização de vagas, diz ministra",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/governo-estuda-cnu-com-prova-antes-da-autorizacao-de-vagas-diz-ministra.shtml",
+      "date": "2026-11-13T19:45:00.000Z",
+      "summary": "O governo federal estuda aplicar o CNU (Concurso Nacional Unificado) mesmo com poucas vagas autorizadas no momento da prova. A mudança deixaria uma lista de candidatos aptos para serem chamados assim que os órgãos abrissem postos de trabalho. Leia mais (11/13/",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Senado celebra Dia da Consciência Negra em sessão especial na segunda-feira",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/13/senado-celebra-dia-da-consciencia-negra-em-sessao-especial-na-segunda-feira",
+      "date": "2026-11-13T19:40:43.000Z",
+      "summary": "O Dia Nacional de Zumbi e da Consciência Negra, comemorado em 20 de novembro, será lembrado na sessão especial que o Senado promove na próxima segunda-feira (16), a partir das 10h. A homenagem foi solicitada pelo senador Paulo Paim (PT-RS) por meio de um reque",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Preços ao produtor nos EUA voltam a subir em outubro",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/10/25/6568-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post468053",
+      "date": "2026-11-13T19:36:00.000Z",
+      "summary": "Os preços ao produtor nos Estados Unidos registraram novo aumento em outubro, levando ao maior aumento anual em quatro anos e reforçando as expectativas de que o Fed (Federal Reserve) possa continuar elevando a taxa de juros após a alta esperada para o próximo",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Câmara pede que STF suspenda parte das decisões de Dino sobre a 6 X 1",
+      "link": "https://www.poder360.com.br/poder-congresso/camara-pede-que-stf-suspenda-parte-das-decisoes-de-dino-sobre-a-6-x-1/",
+      "date": "2026-11-13T19:34:12.000Z",
+      "summary": "Advocacia da Casa questiona mudanças feitas pelo ministro nas regras de transição e nos prazos de adaptação das empresas",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Comissão aprova proposta que transforma em lei a Política para a Primeira Infância",
+      "link": "https://www.camara.leg.br/noticias/1319429-comissao-aprova-proposta-que-transforma-em-lei-a-politica-para-a-primeira-infancia",
+      "date": "2026-11-13T19:34:00.000Z",
+      "summary": "Texto pode seguir para análise do Senado Federal, a menos que haja recurso para votação no Plenário da Câmara",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Comissão aprova proposta que aumenta penas para saque de cargas após acidentes de trânsito",
+      "link": "https://www.camara.leg.br/noticias/1319386-comissao-aprova-proposta-que-aumenta-penas-para-saque-de-cargas-apos-acidentes-de-transito",
+      "date": "2026-11-13T19:33:00.000Z",
+      "summary": "Projeto segue em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Lula atravessará o Rubicão?",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/marcos-mendes/2026/11/lula-atravessara-o-rubicao.shtml",
+      "date": "2026-11-13T19:30:00.000Z",
+      "summary": "Desde seu primeiro mandato, Lula adota comportamento dúbio na sua relação com o Banco Central. Por um lado, concede autonomia (mesmo antes de estabelecida em lei) para que a autoridade monetária busque o controle da inflação. Por outro, mantém uma política fis",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Enel tenta evitar caducidade com pedido de nova análise na Aneel",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/enel-tenta-evitar-recomendacao-de-caducidade-com-nova-analise-da-aneel.shtml",
+      "date": "2026-11-13T19:25:00.000Z",
+      "summary": "A Enel São Paulo pediu à Aneel (Agência Nacional de Energia Elétrica) que atualize a avaliação de seu desempenho operacional antes de recomendar ao governo federal a caducidade (cancelamento) de sua concessão. Em manifestação protocolada na agência em 10 de no",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "O que está por trás na alta dos registros de violência nas escolas brasileiras?",
+      "link": "https://www.dw.com/pt-br/o-que-está-por-trás-na-alta-dos-registros-de-violência-nas-escolas-brasileiras/a-79942057?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-13T19:23:00.000Z",
+      "summary": "Número de registros de violência, conflitos e outras ocorrências nas escolas estaduais de São Paulo aumentou 73,83% em 2025. Indicadores nacionais mostram que problema também está presente em diferentes regiões do país.",
+      "source": "DW Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "AGU do governo Lula se posiciona contra liminar por segundo turno no RJ",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/agu-do-governo-lula-se-posiciona-contra-liminar-por-segundo-turno-no-rj.shtml",
+      "date": "2026-11-13T19:23:00.000Z",
+      "summary": "A AGU (Advocacia-Geral da União) concordou nesta sexta-feira (13) com a decisão do ministro Cristiano Zanin, do STF (Supremo Tribunal Federal), de negar a liminar solicitada pelo PSD para garantir a realização de um segundo turno na eleição pelo Governo do Rio",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "ICE fez 491 mil prisões em 1 ano, maior número desde sua criação",
+      "link": "https://www.poder360.com.br/poder-internacional/ice-fez-491-mil-prisoes-em-1-ano-maior-numero-desde-sua-criacao/",
+      "date": "2026-11-13T19:19:10.000Z",
+      "summary": "Dado se refere ao ano fiscal de 2026; depois da derrota republicana nas eleições, Trump disse que política de deportações talvez seja “dura demais”",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Fachin suspende prazos processuais após instabilidade da Microsoft",
+      "link": "https://www.poder360.com.br/poder-justica/fachin-suspende-prazos-processuais-apos-instabilidade-da-microsoft/",
+      "date": "2026-11-13T19:07:18.000Z",
+      "summary": "Presidente do CNJ atendeu a pedido da OAB; big tech diz que serviços apresentaram \"recuperação e estabilidade\" nesta 6ª feira (13.nov)",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "CAE: ministro da Fazenda debate alíquota da CBS na terça-feira",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/13/cae-ministro-da-fazenda-debate-aliquota-da-cbs-na-terca-feira",
+      "date": "2026-11-13T19:02:25.000Z",
+      "summary": "O ministro da Fazenda, Dario Durigan, participa nesta terça-feira (17) de audiência pública na Comissão de Assuntos Econômicos do Senado (CAE). O objetivo é discutir o cálculo da alíquota de referência da Contribuição Social sobre Bens e Serviços (CBS) para o ",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Toffoli dá 3 dias para campanha de Lula esclarecer inconsistências nas contas apontadas pelo TSE",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/13/toffoli-da-3-dias-para-campanha-de-lula-esclarecer-inconsistencias-nas-contas-apontadas-pelo-tse.ghtml",
+      "date": "2026-11-13T18:55:15.000Z",
+      "summary": "O ministro Dias Toffoli, do Tribunal Superior Eleitoral (TSE), deu prazo de três dias para a campanha à reeleição da chapa Lula-Alckmin apresentar esclarecimentos sobre inconsistências nas contas apontadas pela área técnica da Corte Eleitoral. Toffoli deu três",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Fachin suspende contagem de prazos processuais em todo País após falhas em serviços da Microsoft",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/fachin-suspende-contagem-de-prazos-processuais-no-stf-apos-falhas-em-servicos-da-microsoft/",
+      "date": "2026-11-13T18:55:10.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Para onde vai a legislação trabalhista?",
+      "link": "https://www12.senado.leg.br/noticias/infomaterias/2026/11/para-onde-vai-a-legislacao-trabalhista",
+      "date": "2026-11-13T18:48:00.000Z",
+      "summary": "",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Primeiras medidas do ajuste fiscal",
+      "link": "https://www12.senado.leg.br/noticias/infomaterias/2026/11/primeiras-medidas-do-ajuste-fiscal",
+      "date": "2026-11-13T18:44:53.000Z",
+      "summary": "",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
       "title": "Comissão aprova aumento de pena para quem usar inocente para dissimular tráfico de drogas",
       "link": "https://www.camara.leg.br/noticias/1319417-comissao-aprova-aumento-de-pena-para-quem-usar-inocente-para-dissimular-trafico-de-drogas",
       "date": "2026-11-13T18:44:00.000Z",
@@ -176,19 +329,10 @@
       "type": "imprensa"
     },
     {
-      "title": "Condomínio pode ter de indenizar por furto após falha na portaria, decide STJ",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/condominio-pode-ter-de-indenizar-por-furto-apos-falha-na-portaria-decide-stj.shtml",
-      "date": "2026-11-13T18:29:00.000Z",
-      "summary": "O STJ (Superior Tribunal de Justiça) decidiu que condomínios podem ser obrigados a indenizar moradores que tiverem seus apartamentos furtados quando ficar comprovado que uma falha no controle de acesso da portaria contribuiu para a entrada dos criminosos. Leia",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Fachin atende a pedido da OAB e suspende prazos processuais em razão de falhas nos sistemas da Microsoft",
       "link": "https://g1.globo.com/politica/noticia/2026/11/13/oab-pede-ao-stf-e-ao-cnj-prorrogacao-de-prazos-em-razao-da-falha-em-plataformas-da-microsoft.ghtml",
       "date": "2026-11-13T18:25:04.000Z",
-      "summary": "O presidente do Conselho Nacional de Justiça (CNJ), ministro Edson Fachin, determinou nesta sexta-feira (13) a suspensão da contagem dos prazos processuais em todo o território nacional nos dias 12 e 13 de novembro de 2026. A medida, que vale também para proce",
+      "summary": "Pane na Microsoft afeta empresas e governos O presidente do Conselho Nacional de Justiça (CNJ), ministro Edson Fachin, determinou nesta sexta-feira (13) a suspensão da contagem dos prazos processuais em todo o país nos dias 12 e 13 de novembro de 2026. A medid",
       "source": "g1",
       "cat": "politica",
       "type": "imprensa"
@@ -293,69 +437,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Derrota de Trump é positiva para o Brasil, diz deputado do PT",
-      "link": "https://www.poder360.com.br/poder-congresso/derrota-de-trump-e-positiva-para-o-brasil-diz-deputado-do-pt/",
-      "date": "2026-11-13T17:43:14.000Z",
-      "summary": "João Paulo Cunha afirma que resultado das eleições nos Estados Unidos pode trazer mais tranquilidade ao cenário internacional",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Aneel decide na 3ª feira se recomenda saída da Enel em São Paulo",
-      "link": "https://www.poder360.com.br/poder-energia/aneel-decide-na-3a-feira-se-recomenda-saida-da-enel-em-sao-paulo/",
-      "date": "2026-11-13T17:43:12.000Z",
-      "summary": "Agência já tem 2 votos a favor da recomendação de caducidade da concessão ao governo; processo retorna à diretoria na próxima semana",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Com novo CEO, Natura enfrenta concorrência e gargalos de logística para reconquistar consumidor",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/com-novo-ceo-natura-enfrenta-concorrencia-e-gargalos-de-logistica-para-reconquistar-consumidor.shtml",
-      "date": "2026-11-13T17:41:00.000Z",
-      "summary": "O novo CEO da Natura, Alessandro Carlucci, tem uma missão: reconduzir a empresa de cosméticos aos tempos áureos em meio à forte concorrência e a desafios internos e externos que dificultam a operação. Leia mais (11/13/2026 - 14h41)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Vice de Nunes quer ouvir Bolsonaro e fala em deixar a Prefeitura de SP",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/vice-de-nunes-quer-ouvir-bolsonaro-e-fala-em-deixar-a-prefeitura-de-sp/",
-      "date": "2026-11-13T17:35:44.000Z",
-      "summary": "Mello Araújo afirma que planeja visitar o ex-presidente para buscar orientações e que vai seguir o que ele falar",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Pane da Microsoft deixa empresas e profissionais com trabalho acumulado",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/tec/2026/11/pane-da-microsoft-deixa-empresas-e-profissionais-com-trabalho-acumulado.shtml",
-      "date": "2026-11-13T17:34:00.000Z",
-      "summary": "A pane nos serviços da Microsoft, que começou na quinta-feira (12) e avançou pela sexta (13), prejudicou a rotina de empresas e trabalhadores que dependem do Outlook para trocar informações e atender clientes. Com a retomada gradual das ferramentas, usuários r",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Chefe do Coaf defende nova lei de crimes financeiros e diz que órgão funciona bem sob o BC",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/chefe-do-coaf-defende-nova-na-lei-de-crimes-financeiros-e-diz-que-orgao-funciona-bem-sob-o-bc.shtml",
-      "date": "2026-11-13T17:31:00.000Z",
-      "summary": "O presidente do Coaf (Conselho de Controle de Atividades Financeiras), Ricardo Saadi, defendeu nesta sexta-feira (13) uma modernização \"total e completa\" da legislação sobre crimes contra o sistema financeiro nacional. Leia mais (11/13/2026 - 14h31)",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Ida de montadoras chinesas para UE é salvação para indústria, diz CEO de siderúrgica",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/ida-de-montadoras-chinesas-para-ue-e-salvacao-para-industria-diz-ceo-de-siderurgica.shtml",
-      "date": "2026-11-13T17:27:00.000Z",
-      "summary": "O diretor-presidente da siderúrgica Voestalpine, Herbert Eibensteiner, afirmou que as montadoras chinesas que estão se expandindo pela Europa oferecerão uma tábua de salvação aos fabricantes afetados pelos cortes das produtoras locais. Leia mais (11/13/2026 - ",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Comissão aprova aumento de pena para feminicídio antecedido por perseguição",
       "link": "https://www.camara.leg.br/noticias/1319262-comissao-aprova-aumento-de-pena-para-feminicidio-antecedido-por-perseguicao",
       "date": "2026-11-13T17:04:00.000Z",
@@ -368,7 +449,7 @@
       "title": "Câmara pede que STF derrube parte das regras fixadas por Dino para escala 5x2",
       "link": "https://g1.globo.com/politica/noticia/2026/11/13/camara-pede-que-stf-derrube-parte-das-regras-fixadas-por-dino-para-escala-5x2.ghtml",
       "date": "2026-11-13T16:42:59.000Z",
-      "summary": "A Câmara dos Deputados se manifestou no Supremo Tribunal Federal (STF) contra parte da decisão do ministro Flávio Dino que definiu regras para a transição da escala 6x1 para a 5x2. Em manifestação enviada à Corte, a Advocacia da Câmara defendeu que o plenário ",
+      "summary": "A Câmara dos Deputados se manifestou ao Supremo Tribunal Federal (STF) contra parte da decisão do ministro Flávio Dino que definiu regras para a transição da escala 6x1 para a 5x2. Em manifestação enviada à Corte, a Advocacia da Câmara defendeu que o plenário ",
       "source": "g1",
       "cat": "politica",
       "type": "imprensa"
@@ -410,15 +491,6 @@
       "type": "imprensa"
     },
     {
-      "title": "727 candidatos seguem sem prestação de contas final do 1º turno no TSE; 222 são suplentes",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/11/13/prestacao-contas-candidatos-eleicoes-2026.ghtml",
-      "date": "2026-11-13T15:41:38.000Z",
-      "summary": "Fachada do prédio do Tribunal Superior Eleitoral (TSE) em Brasília. Fabio Rodrigues Pozzebom/Agência Brasil Entre os cerca de 20 mil candidatos registrados nas eleições deste ano, 727 permanecem sem prestação de contas final do primeiro turno identificada nas ",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Atlas/Bloomberg: 33% dos eleitores de direita querem Tarcísio liderando o campo; 30% preferem Flávio",
       "link": "https://www.estadao.com.br/politica/atlasbloomberg-33-dos-eleitores-de-direita-querem-tarcisio-liderando-o-campo-30-preferem-flavio/",
       "date": "2026-11-13T15:23:11.000Z",
@@ -428,57 +500,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Comissão aprova isenção de imposto para bebidas à base de frutos regionais da Amazônia",
-      "link": "https://www.camara.leg.br/noticias/1319232-comissao-aprova-isencao-de-imposto-para-bebidas-a-base-de-frutos-regionais-da-amazonia",
-      "date": "2026-11-13T15:02:00.000Z",
-      "summary": "Isenção limita-se ao Imposto sobre Produtos Industrializados; a Câmara dos Deputados continua discutindo o assunto",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
       "title": "Gastos elevados e ineficiência da política fiscal",
       "link": "https://www.estadao.com.br/economia/gastos-elevados-e-ineficiencia-da-politica-fiscal/",
       "date": "2026-11-13T15:01:52.000Z",
       "summary": "",
       "source": "Estadão",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Congresso quer aprovar PEC da maioridade penal neste ano para evitar texto mais duro em 2027",
-      "link": "https://www.estadao.com.br/politica/congresso-quer-aprovar-pec-da-maioridade-penal-neste-ano-para-evitar-texto-mais-duro-em-2027/",
-      "date": "2026-11-13T15:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Ajuste fiscal: adiamento de votação dá mais tempo para reflexão, diz Davi",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/13/ajuste-fiscal-adiamento-de-votacao-da-mais-tempo-para-reflexao-diz-davi",
-      "date": "2026-11-13T14:57:48.000Z",
-      "summary": "Adiar a votação dos pontos pendentes do ajuste fiscal do governo (PLP 299/2026) para terça-feira (17) propiciará mais condições para os senadores avaliarem suas posições. Foi o que afirmou o presidente do Senado, Davi Alcolumbre em coletiva de imprensa nesta q",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Comissão aprova proibição de compra de arma por pessoa que seja alvo de medida protetiva",
-      "link": "https://www.camara.leg.br/noticias/1319298-comissao-aprova-proibicao-de-compra-de-arma-por-pessoa-que-seja-alvo-de-medida-protetiva",
-      "date": "2026-11-13T14:27:00.000Z",
-      "summary": "O projeto continua em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Horas antes de pregão, licitação para ampliar reconhecimento facial chinês em SP é suspensa",
-      "link": "https://www.estadao.com.br/politica/horas-antes-de-pregao-licitacao-para-ampliar-reconhecimento-facial-chines-em-sp-e-suspensa/",
-      "date": "2026-11-13T14:25:17.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -504,15 +531,6 @@
       "link": "https://www.dw.com/pt-br/mercedes-suspende-todos-os-investimentos-na-alemanha-e-avalia-fechar-fábricas/a-79935095?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-12T19:15:00.000Z",
       "summary": "Montadora alemã cita custos elevados, queda da demanda, tarifas e concorrência chinesa para justificar a suspensão de investimentos na Alemanha e a possibilidade de fechamento de unidades no país.",
-      "source": "DW Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Como opera a indústria internacional de exércitos de mercenários",
-      "link": "https://www.dw.com/pt-br/como-opera-a-indústria-internacional-de-exércitos-de-mercenários/a-79931353?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-12T18:48:00.000Z",
-      "summary": "A existência de soldados mercenários é tão antiga quanto a própria guerra, mas o conflito na Ucrânia lhes conferiu uma nova visibilidade. Eles operam em várias partes do mundo, entre diferentes níveis de legalidade.",
       "source": "DW Brasil",
       "cat": "internacional",
       "type": "imprensa"
@@ -570,6 +588,15 @@
       "source": "Banco Central",
       "cat": "economia",
       "type": "oficial"
+    },
+    {
+      "title": "Nota de repúdio assinada por mais de 400 protesta contra exposição pública de FHC",
+      "link": "https://www.estadao.com.br/politica/nota-de-repudio-assinada-por-mais-de-400-protesta-contra-exposicao-publica-de-fhc/",
+      "date": "2026-11-12T00:04:32.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
     },
     {
       "title": "O que colocar na mochila como kit de emergência e por que você deve ter uma — preventivamente",
