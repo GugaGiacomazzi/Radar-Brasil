@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-13T02:43:39.563Z",
+  "updated": "2026-11-13T03:49:22.575Z",
   "market": {
     "ibov": {
       "price": 171324.31,
       "pct": -0.43,
-      "time": "2026-11-13T02:43:33.461Z",
+      "time": "2026-11-13T03:49:17.510Z",
       "history": [
         {
           "d": "2026-10-14",
@@ -88,7 +88,7 @@
         },
         {
           "d": "2026-11-12",
-          "c": 171324.3125
+          "c": 171324
         }
       ]
     },
@@ -145,11 +145,101 @@
   },
   "news": [
     {
-      "title": "Associação pede que governo afaste diretoria da Geap",
-      "link": "https://www.poder360.com.br/poder-saude/associacao-pede-que-governo-afaste-diretoria-da-geap/",
-      "date": "2026-11-13T02:32:05.000Z",
-      "summary": "Pedido da entidade foi motivado por problemas na prestação dos serviços; levantamento indica que 90 hospitais deixaram a rede credenciada da Geap de 2025 a 2026",
+      "title": "PL pediu mais tempo de votação, mas esperava negativa, diz Flávio",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/pl-pediu-mais-tempo-de-votacao-mas-esperava-negativa-diz-flavio/",
+      "date": "2026-11-13T03:48:50.000Z",
+      "summary": "PT solicitou ampliação do horário em todo o país; Partido Liberal restringiu requerimento a 3 Estados",
       "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Flávio diz que EUA têm “democracia pujante”, ao contrário do Brasil",
+      "link": "https://www.poder360.com.br/poder-congresso/flavio-diz-que-eua-tem-democracia-pujante-ao-contrario-do-brasil/",
+      "date": "2026-11-13T03:19:05.000Z",
+      "summary": "Senador está nos Estados Unidos desde que fugiu do Brasil, dias depois do 2º turno presidencial",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Senado votará destaques do ajuste fiscal na 3ª feira, diz Alcolumbre",
+      "link": "https://www.poder360.com.br/poder-congresso/senado-votara-destaques-do-ajuste-fiscal-na-3a-feira-diz-alcolumbre/",
+      "date": "2026-11-13T03:15:24.000Z",
+      "summary": "Presidente da Casa adiou análise de alterações ao texto após negociações; proposta ainda precisa passar pela Câmara depois do fim da tramitação no Senado",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Meta bate recorde e recebe meio bilhão de reais nas eleições; PL gasta quase o dobro do PT com a empresa",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/13/meta-bate-recorde-e-recebe-meio-bilhao-de-reais-nas-eleicoes-pl-gasta-quase-o-dobro-do-pt-com-a-empresa.ghtml",
+      "date": "2026-11-13T03:00:01.000Z",
+      "summary": "A Meta, dona do Facebook e do Instagram, recebeu ao menos R$ 522,7 milhões das campanhas eleitorais de 2026, segundo levantamento do g1 com dados do Tribunal Superior Eleitoral (TSE). O valor é recorde, quatro vezes o de 2022, e faz da Meta a empresa que mais ",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lula, Milei e líderes de mais de 20 países defendem que próximo secretário-geral da ONU seja latino",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/13/lula-milei-e-lideres-de-mais-de-20-paises-defendem-que-proximo-secretario-geral-da-onu-seja-latino.ghtml",
+      "date": "2026-11-13T03:00:00.000Z",
+      "summary": "Os presidentes Luiz Inácio Lula da Silva (PT), Javier Milei (Argentina), Miguel Díaz-Canel (Cuba) e Delcy Rodríguez (Venezuela), além de cerca de outros 20 líderes de países da Comunidade dos Estados Latino-Americanos e Caribenhos (Celac), enviaram uma carta a",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Trava extra para gastos, mudanças no piso da saúde e corte em benefícios tributários: entenda ajuste fiscal aprovado pelo Senado",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/13/trava-extra-para-gastos-mudancas-no-piso-da-saude-e-corte-em-beneficios-tributarios-entenda-ajuste-fiscal-aprovado-pelo-senado.ghtml",
+      "date": "2026-11-13T03:00:00.000Z",
+      "summary": "O texto-base do projeto de ajuste fiscal aprovado pelo Senado Federal nesta quinta-feira (12) prevê mudanças nas contas públicas para tentar controlar a dívida pública a partir do próximo ano. Com corte linear de 10% nos benefícios fiscais e mudanças no cálcul",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Outlook e IA da Microsoft seguem instáveis nesta sexta-feira",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/13/outlook-e-ia-da-microsoft-seguem-instaveis-nesta-sexta-feira.ghtml",
+      "date": "2026-11-13T03:00:00.000Z",
+      "summary": "Outlook fora do ar: serviços da Microsoft apresentam instabilidade nesta quinta Desde a tarde de quinta-feira (12), usuários relataram dificuldades para acessar alguns serviços da Microsoft, como o Outlook. As reclamações começaram por volta das 14h30, segundo",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Proclamação da República é feriado ou ponto facultativo? Veja os direitos de quem trabalha",
+      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/13/proclamacao-da-republica-e-feriado.ghtml",
+      "date": "2026-11-13T03:00:00.000Z",
+      "summary": "Região dos Lagos é alvo do turismo no feriado. Divulgação O Brasil celebra o feriado nacional da Proclamação da República no próximo domingo (15). Neste ano, a data cai no fim de semana e não gera, por si só, um dia extra de descanso durante a semana. O dia 15",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "O que pesquisadores propõem para acabar com a pobreza extrema no Brasil?",
+      "link": "https://www.estadao.com.br/economia/o-que-pesquisadores-propoem-para-acabar-com-a-pobreza-extrema-no-brasil/",
+      "date": "2026-11-13T03:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Flávio diz para apoiadores se inspirarem em Bolsonaro para “resistir”",
+      "link": "https://www.poder360.com.br/poder-congresso/flavio-diz-para-apoiadores-se-inspirarem-em-bolsonaro-para-resistir/",
+      "date": "2026-11-13T02:56:16.000Z",
+      "summary": "Dos EUA, senador diz que recebe informações sobre o pai pelos irmãos Carlos e Renan e o descreve como “resiliente”",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Nos EUA, Flávio Bolsonaro rejeita apoio a Motta após racha no PL sobre eleição na Câmara",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/nos-eua-flavio-bolsonaro-rejeita-apoio-a-motta-apos-racha-no-pl-sobre-eleicao-na-camara.shtml",
+      "date": "2026-11-13T02:45:00.000Z",
+      "summary": "O senador Flávio Bolsonaro (PL) afirmou nesta quinta-feira (12), durante uma live em seu canal, que é contrário à reeleição de Hugo Motta (Republicanos-PB) à presidência da Câmara dos Deputados. A declaração ocorre em meio a um racha no PL sobre o apoio ao atu",
+      "source": "Folha",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -160,15 +250,6 @@
       "summary": "Os comentários da direção do Banco do Brasil sobre os resultados da instituição no terceiro trimestre nesta quinta-feira (12) não repercutiram bem entre entidades do agronegócio. Leia mais (11/12/2026 - 23h30)",
       "source": "Folha",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Marinho diz que governo faz “pedalada fiscal” de R$ 10,5 bilhões",
-      "link": "https://www.poder360.com.br/poder-congresso/marinho-diz-que-governo-faz-pedalada-fiscal-de-r-105-bilhoes/",
-      "date": "2026-11-13T02:23:53.000Z",
-      "summary": "Líder da oposição critica retirada de subsídios da meta fiscal e diz que senadores não tiveram tempo para analisar projeto",
-      "source": "Poder360",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -217,15 +298,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Marinho propõe ajuste de R$ 75 bilhões sem elevar impostos",
-      "link": "https://www.poder360.com.br/poder-congresso/marinho-propoe-ajuste-de-r-75-bilhoes-sem-elevar-impostos/",
-      "date": "2026-11-13T01:54:49.000Z",
-      "summary": "Líder da oposição apresentará emenda na 3ª feira (17.nov) para conter despesas e evitar adiamento de repasses aos Estados",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Mesmo com urgência, projeto de ajuste fiscal foi alterado por emendas",
       "link": "https://www12.senado.leg.br/noticias/materias/2026/11/12/mesmo-com-urgencia-projeto-de-ajuste-fiscal-foi-alterado-por-emendas",
       "date": "2026-11-13T01:54:15.000Z",
@@ -233,15 +305,6 @@
       "source": "Agência Senado",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Marinho diz que governo deu “calote” em Estados com ajuste fiscal",
-      "link": "https://www.poder360.com.br/poder-congresso/marinho-diz-que-governo-deu-calote-em-estados-com-ajuste-fiscal/",
-      "date": "2026-11-13T01:47:41.000Z",
-      "summary": "Líder da Oposição critica adiamento de repasses e exclusão de R$ 10,5 bilhões em subsídios ao diesel da meta fiscal",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
     },
     {
       "title": "Gonet se manifesta contra revisão criminal de Bolsonaro e defende manutenção da pena",
@@ -253,28 +316,10 @@
       "type": "imprensa"
     },
     {
-      "title": "STF rejeita recursos de associações, encerrando ação sobre indenização e acordo para poupadores",
-      "link": "https://www.estadao.com.br/economia/stf-rejeita-recursos-de-associacoes-encerrando-acao-sobre-indenizacao-e-acordo-para-poupadores/",
-      "date": "2026-11-13T01:09:29.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Defesa de Vorcaro contesta Fachin e quer que Gilmar decida sobre relatoria do caso Master",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/defesa-de-vorcaro-contesta-fachin-e-quer-que-gilmar-decida-sobre-relatoria-do-caso-master.shtml",
       "date": "2026-11-13T00:59:00.000Z",
       "summary": "A defesa de Daniel Vorcaro decidiu questionar a presença do presidente do STF (Supremo Tribunal Federal), Edson Fachin, à frente do caso do Banco Master. Leia mais (11/12/2026 - 21h59)",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Flávio Bolsonaro vota contra ajuste do governo Lula após ter prometido corte de gastos",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/11/flavio-bolsonaro-vota-contra-ajuste-do-governo-lula-apos-ter-prometido-corte-de-gastos.shtml",
-      "date": "2026-11-13T00:56:00.000Z",
-      "summary": "Depois de perder a eleição para Lula (PT) e fugir para os Estados Unidos, o senador Flávio Bolsonaro (PL-RJ) votou contra, nesta quinta-feira (12), o plano de ajuste do governo federal, conhecido como \"plano Moretti\". Leia mais (11/12/2026 - 21h56)",
       "source": "Folha",
       "cat": "politica",
       "type": "imprensa"
@@ -307,24 +352,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Senado Federal aprova texto-base de projeto que prevê ajuste fiscal: como votaram os senadores e partidos",
-      "link": "https://g1.globo.com/politica/votacoes-no-congresso/noticia/2026/11/12/senado-federal-aprova-texto-base-projeto-ajuste-fiscal-como-votaram-senadores-partidos.ghtml",
-      "date": "2026-11-13T00:16:01.000Z",
-      "summary": "Senado Federal aprova texto-base de projeto que prevê ajuste fiscal de até R$ 60 bilhões O Senado aprovou nesta quinta-feira (12) o texto-base da proposta do governo do presidente Lula (PT) para um ajuste fiscal. As mudanças nas contas públicas tentam controla",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Senado Federal aprova texto-base de projeto que prevê ajuste fiscal de até R$ 60 bilhões",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/12/senado-federal-aprova-ajuste-fiscal-de-ate-r-60-bilhoes.ghtml",
-      "date": "2026-11-13T00:05:04.000Z",
-      "summary": "Senado Federal aprova texto-base de projeto que prevê ajuste fiscal de até R$ 60 bilhões O Senado Federal aprovou nesta quinta-feira (12) o texto-base da proposta do governo do presidente Luiz Inácio Lula da Silva (PT) para um ajuste fiscal. As mudanças nas co",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Mega-Sena 3085 acumula e prêmio vai a R$ 27 milhões; confira os números sorteados",
       "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/12/mega-sena-concurso-3085-confira-os-numeros-sorteados.ghtml",
       "date": "2026-11-13T00:03:17.000Z",
@@ -349,15 +376,6 @@
       "summary": "Tesouro Nacional Ministério da Fazenda/Reprodução Um ataque hacker identificado pelo Tesouro Nacional atingiu cerca de 30 mil cadastros de usuários do portal e-Serviços e 4 mil chaves PIX de beneficiários de pagamentos do governo federal, informou o órgão nest",
       "source": "g1",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Senado aprova inclusão de vacina contra herpes-zóster no SUS; projeto segue para a Câmara",
-      "link": "https://g1.globo.com/saude/noticia/2026/11/12/senado-aprova-inclusao-de-vacina-contra-herpes-zoster-no-sus-projeto-segue-para-a-camara.ghtml",
-      "date": "2026-11-12T23:07:42.000Z",
-      "summary": "= Reprodução/Canva Pro A Comissão de Assuntos Sociais (CAS) do Senado confirmou, na quarta-feira (11), a aprovação de um projeto de lei que prevê a inclusão da vacina contra herpes-zóster, doença popularmente conhecida como cobreiro, no calendário nacional de ",
-      "source": "g1",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -467,24 +485,6 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Ministério da Saúde abre processo seletivo com centenas de vagas e salários de até R$ 10,3 mil",
-      "link": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/11/12/ministerio-da-saude-processo-seletivo.ghtml",
-      "date": "2026-11-12T20:42:59.000Z",
-      "summary": "Sede do Ministério da Saúde em Brasília Rodrigo Coutinho/MS O Ministério da Saúde publicou nesta quinta-feira (12) o edital de um processo seletivo simplificado para contratar profissionais de nível superior em seis áreas. São 300 vagas para contratação imedia",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Produtores de soja rebatem Banco do Brasil sobre dívidas do agro; estatal nega ter culpado todo o setor",
-      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/12/nota-aprosoja.ghtml",
-      "date": "2026-11-12T20:40:36.000Z",
-      "summary": "Produção de soja é marcada por expectativas e desafios em 2026 Divulgação/Aprosoja A Associação Brasileira dos Produtores de Soja (Aprosoja Brasil) rebateu nesta quinta-feira (12) a declaração da presidente do Banco do Brasil, Tarciana Medeiros, de que parte d",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
     },
     {
       "title": "Em que pé está a guerra dos EUA contra o Irã?",
