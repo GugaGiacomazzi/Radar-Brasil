@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-13T16:49:39.683Z",
+  "updated": "2026-11-13T17:46:12.378Z",
   "market": {
     "ibov": {
-      "price": 172551.05,
-      "pct": 0.72,
-      "time": "2026-11-13T16:49:35.353Z",
+      "price": 172253.05,
+      "pct": 0.54,
+      "time": "2026-11-13T17:46:06.710Z",
       "history": [
         {
           "d": "2026-10-14",
@@ -92,7 +92,7 @@
         },
         {
           "d": "2026-11-13",
-          "c": 172551.0469
+          "c": 172234.875
         }
       ]
     },
@@ -149,20 +149,92 @@
   },
   "news": [
     {
-      "title": "Gilmar Mendes diz que emendas impositivas causam embates entre Poderes",
-      "link": "https://www.poder360.com.br/poder-justica/gilmar-mendes-diz-que-emendas-impositivas-causam-embates-entre-poderes/",
-      "date": "2026-11-13T16:45:06.000Z",
-      "summary": "Ministro relaciona disputas sobre o Orçamento federal a conflitos entre Executivo e Legislativo que acabam chegando ao Judiciário",
+      "title": "Derrota de Trump é positiva para o Brasil, diz deputado do PT",
+      "link": "https://www.poder360.com.br/poder-congresso/derrota-de-trump-e-positiva-para-o-brasil-diz-deputado-do-pt/",
+      "date": "2026-11-13T17:43:14.000Z",
+      "summary": "João Paulo Cunha afirma que resultado das eleições nos Estados Unidos pode trazer mais tranquilidade ao cenário internacional",
       "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
     },
     {
-      "title": "Braskem vê margens menores em 2027 e 'segue engajada' em acordo com credores, diz diretoria",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/braskem-ve-margens-menores-em-2027-e-segue-engajada-em-acordo-com-credores-diz-diretoria.shtml",
-      "date": "2026-11-13T16:45:00.000Z",
-      "summary": "Após divulgar prejuízo de R$ 1,1 bilhão no terceiro trimestre, a diretoria da Braskem afirmou nesta sexta-feira (13) que o cenário de margens elevadas na petroquímica impulsionado pela guerra no Irã já passou, e que 2027 deve ser pior do que a média histórica ",
+      "title": "Aneel decide na 3ª feira se recomenda saída da Enel em São Paulo",
+      "link": "https://www.poder360.com.br/poder-energia/aneel-decide-na-3a-feira-se-recomenda-saida-da-enel-em-sao-paulo/",
+      "date": "2026-11-13T17:43:12.000Z",
+      "summary": "Agência já tem 2 votos a favor da recomendação de caducidade da concessão ao governo; processo retorna à diretoria na próxima semana",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Com novo CEO, Natura enfrenta concorrência e gargalos de logística para reconquistar consumidor",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/com-novo-ceo-natura-enfrenta-concorrencia-e-gargalos-de-logistica-para-reconquistar-consumidor.shtml",
+      "date": "2026-11-13T17:41:00.000Z",
+      "summary": "O novo CEO da Natura, Alessandro Carlucci, tem uma missão: reconduzir a empresa de cosméticos aos tempos áureos em meio à forte concorrência e a desafios internos e externos que dificultam a operação. Leia mais (11/13/2026 - 14h41)",
       "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Vice de Nunes quer ouvir Bolsonaro e fala em deixar a Prefeitura de SP",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/vice-de-nunes-quer-ouvir-bolsonaro-e-fala-em-deixar-a-prefeitura-de-sp/",
+      "date": "2026-11-13T17:35:44.000Z",
+      "summary": "Mello Araújo afirma que planeja visitar o ex-presidente para buscar orientações e que vai seguir o que ele falar",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "João Paulo Cunha diz acreditar em aprovação de ajuste fiscal na Câmara",
+      "link": "https://www.poder360.com.br/poder-congresso/joao-paulo-cunha-diz-acreditar-em-aprovacao-de-ajuste-fiscal-na-camara/",
+      "date": "2026-11-13T17:34:07.000Z",
+      "summary": "Deputado federal eleito e ex-presidente da Casa afirma que congressistas reconhecem necessidade de \"união\" para que país tenha resultados positivos em 2027",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Pane da Microsoft deixa empresas e profissionais com trabalho acumulado",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/tec/2026/11/pane-da-microsoft-deixa-empresas-e-profissionais-com-trabalho-acumulado.shtml",
+      "date": "2026-11-13T17:34:00.000Z",
+      "summary": "A pane nos serviços da Microsoft, que começou na quinta-feira (12) e avançou pela sexta (13), prejudicou a rotina de empresas e trabalhadores que dependem do Outlook para trocar informações e atender clientes. Com a retomada gradual das ferramentas, usuários r",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Chefe do Coaf defende nova lei de crimes financeiros e diz que órgão funciona bem sob o BC",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/chefe-do-coaf-defende-nova-na-lei-de-crimes-financeiros-e-diz-que-orgao-funciona-bem-sob-o-bc.shtml",
+      "date": "2026-11-13T17:31:00.000Z",
+      "summary": "O presidente do Coaf (Conselho de Controle de Atividades Financeiras), Ricardo Saadi, defendeu nesta sexta-feira (13) uma modernização \"total e completa\" da legislação sobre crimes contra o sistema financeiro nacional. Leia mais (11/13/2026 - 14h31)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Ida de montadoras chinesas para UE é salvação para indústria, diz CEO de siderúrgica",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/ida-de-montadoras-chinesas-para-ue-e-salvacao-para-industria-diz-ceo-de-siderurgica.shtml",
+      "date": "2026-11-13T17:27:00.000Z",
+      "summary": "O diretor-presidente da siderúrgica Voestalpine, Herbert Eibensteiner, afirmou que as montadoras chinesas que estão se expandindo pela Europa oferecerão uma tábua de salvação aos fabricantes afetados pelos cortes das produtoras locais. Leia mais (11/13/2026 - ",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Ajuste fiscal não é incompatível com promessas do governo Lula 4, diz André Esteves",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/ajuste-fiscal-nao-e-incompativel-com-promessas-do-governo-lula-4-diz-andre-esteves.shtml",
+      "date": "2026-11-13T17:21:00.000Z",
+      "summary": "O ajuste fiscal não é incompatível com as promessas de campanha do quarto mandato de Luiz Inácio Lula da Silva (PT), afirmou o banqueiro André Esteves, presidente do conselho e principal sócio do BTG Pactual, nesta sexta-feira (13). Leia mais (11/13/2026 - 14h",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Fechar uma instituição financeira é um negócio dificílimo no Brasil, diz ex-diretor do BC",
+      "link": "https://www.estadao.com.br/economia/entrevista-renato-gomes-fechar-instituicao-negocio-dificilimo/",
+      "date": "2026-11-13T17:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
       "cat": "economia",
       "type": "imprensa"
     },
@@ -172,15 +244,6 @@
       "date": "2026-11-13T16:42:59.000Z",
       "summary": "A Câmara dos Deputados se manifestou no Supremo Tribunal Federal (STF) contra parte da decisão do ministro Flávio Dino que definiu regras para a transição da escala 6x1 para a 5x2. Em manifestação enviada à Corte, a Advocacia da Câmara defendeu que o plenário ",
       "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Governo adia prazos para emissão de documentos fiscais eletrônicos",
-      "link": "https://www.poder360.com.br/poder-governo/governo-adia-prazos-para-emissao-de-documentos-fiscais-eletronicos/",
-      "date": "2026-11-13T16:41:37.000Z",
-      "summary": "Ato no DOU altera calendário de obrigações do IBS e da CBS; novas datas vão de janeiro a março de 2027",
-      "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -203,39 +266,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Moraes acompanha Dino e vota pelo fim da escala 6x1 em julgamento no STF; entenda a decisão",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/moraes-acompanha-dino-e-vota-pelo-fim-da-escala-6x1-em-julgamento-no-stf.shtml",
-      "date": "2026-11-13T16:32:00.000Z",
-      "summary": "O julgamento pelo fim da escala 6x1 no plenário virtual do STF (Supremo Tribunal Federal) tem dois votos a favor da implantação da mudança a partir de 16 de dezembro, como prevê a emenda constitucional 141. Leia mais (11/13/2026 - 13h32)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Binance diz ter coberto prejuízo de R$ 34 bilhões após maior roubo da história das criptomoedas",
       "link": "https://g1.globo.com/tecnologia/noticia/2026/11/13/binance-criptomoeda-roubo.ghtml",
       "date": "2026-11-13T16:31:56.000Z",
-      "summary": "Logotipo da Binance. Dado Ruvic/Reuters A Binance, maior corretora de criptomoedas do mundo, afirmou nesta sexta-feira (13) que concluiu a cobertura dos ativos afetados pelo ataque hacker que desviou US$ 6,3 bilhões (cerca de R$ 34 bilhões) da plataforma. \"Obr",
+      "summary": "Logotipo da Binance. Dado Ruvic/Reuters A Binance, maior corretora de criptomoedas do mundo, afirmou nesta sexta-feira (13) que concluiu a reposição dos ativos afetados pelo ataque hacker que desviou US$ 6,3 bilhões (cerca de R$ 34 bilhões) da plataforma. \"Obr",
       "source": "g1",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Inquérito das fake news terminou no tempo certo, diz Gilmar",
-      "link": "https://www.poder360.com.br/poder-justica/inquerito-das-fake-news-terminou-no-tempo-certo-diz-gilmar/",
-      "date": "2026-11-13T16:25:23.000Z",
-      "summary": "Ministro do STF afirma que investigação foi importante para proteger as instituições em períodos de tensão",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Brasil tem condições de reduzir juros para 7%, diz André Esteves",
-      "link": "https://www.poder360.com.br/poder-economia/brasil-tem-condicoes-de-reduzir-juros-para-7-diz-andre-esteves/",
-      "date": "2026-11-13T16:23:22.000Z",
-      "summary": "Chairman do BTG Pactual afirma que a redução depende de maior rigor fiscal e defende que governo busque taxas mais baixas",
-      "source": "Poder360",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -284,15 +320,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Após bancos privados, Caixa faz as contas para subir taxa de juros do crédito imobiliário",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/apos-bancos-privados-caixa-faz-as-contas-para-subir-taxa-de-juros-do-credito-imobiliario.shtml",
-      "date": "2026-11-13T16:09:00.000Z",
-      "summary": "A Caixa Econômica Federal faz cálculos para definir se e quando elevará os juros do financiamento imobiliário, diante do aumento do custo de captação de recursos e da disparada das taxas no mercado financeiro. O banco avalia quanto consegue absorver da alta se",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Outlook voltou: por que demorou para Microsoft resolver o problema?",
       "link": "https://g1.globo.com/tecnologia/noticia/2026/11/13/outlook-voltou-por-que-demorou-para-microsoft-resolver-o-problema.ghtml",
       "date": "2026-11-13T15:57:18.000Z",
@@ -302,19 +329,10 @@
       "type": "imprensa"
     },
     {
-      "title": "Binance diz que concluiu reposição de US$ 6,3 bilhões roubados por hackers",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/binance-diz-que-concluiu-reposicao-de-us-63-bilhoes-roubados-por-hackers.shtml",
-      "date": "2026-11-13T15:55:00.000Z",
-      "summary": "A Binance afirmou ter coberto a totalidade dos US$ 6,3 bilhões (R$ 35,59 bilhões) em criptoativos roubados de clientes, encerrando assim a devolução aos clientes atingidos pelo maior roubo cibernético da história. Leia mais (11/13/2026 - 12h55)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Alvo da PF, ex-assessor de Mario Frias nega desvio de emendas e diz que irmão deixou projeto suspeito",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/alvo-da-pf-ex-assessor-de-mario-frias-nega-desvio-de-emendas-e-diz-que-irmao-deixou-projeto-suspeito.shtml",
       "date": "2026-11-13T15:50:00.000Z",
-      "summary": "Alvo de operação da PF (Polícia Federal) nesta sexta-feira (13), Raphael Augusto Azevedo, que foi assessor do deputado federal Mario Frias (PL-SP) de fevereiro de 2023 a fevereiro de 2024, negou à Folha participação em suposto desvio de emendas do parlamentar ",
+      "summary": "Alvo de operação da Polícia Federal nesta sexta-feira (13), Raphael Augusto Azevedo, que foi assessor do deputado federal Mario Frias (PL-SP) de fevereiro de 2023 a fevereiro de 2024, negou à Folha participação em suposto desvio de emendas do parlamentar e afi",
       "source": "Folha",
       "cat": "politica",
       "type": "imprensa"
@@ -347,15 +365,6 @@
       "type": "imprensa"
     },
     {
-      "title": "PSD vê número de senadores encolher de 13 para 3 e tenta filiar parlamentares de outros partidos",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/psd-ve-numero-de-senadores-encolher-de-13-para-3-e-tenta-filiar-parlamentares-de-outros-partidos.shtml",
-      "date": "2026-11-13T15:30:00.000Z",
-      "summary": "O PSD, partido do ex-ministro Gilberto Kassab, tenta aumentar a bancada no Senado Federal diante do fiasco nas últimas eleições, em que só dois senadores foram eleitos. Leia mais (11/13/2026 - 12h30)",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Placar do ajuste fiscal no Senado indica que Lula terá dificuldades para aprovar PECs em 2027",
       "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/13/placar-do-ajuste-fiscal-no-senado-indica-que-o-governo-tera-dificuldades-para-aprovar-pecs-em-2027.ghtml",
       "date": "2026-11-13T15:23:13.000Z",
@@ -383,6 +392,15 @@
       "type": "imprensa"
     },
     {
+      "title": "Congresso quer aprovar PEC da maioridade penal neste ano para evitar texto mais duro em 2027",
+      "link": "https://www.estadao.com.br/politica/congresso-quer-aprovar-pec-da-maioridade-penal-neste-ano-para-evitar-texto-mais-duro-em-2027/",
+      "date": "2026-11-13T15:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "Ajuste fiscal: adiamento de votação dá mais tempo para reflexão, diz Davi.",
       "link": "https://www12.senado.leg.br/noticias/materias/2026/11/13/ajuste-fiscal-adiamento-de-votacao-da-mais-tempo-para-reflexao-diz-davi",
       "date": "2026-11-13T14:57:48.000Z",
@@ -396,33 +414,6 @@
       "link": "https://www12.senado.leg.br/noticias/materias/2026/11/13/lei-amplia-penas-para-abandono-e-maus-tratos-contra-pessoas-idosas",
       "date": "2026-11-13T14:48:09.000Z",
       "summary": "Abandonar pessoas idosas que dependem de assistência, privá-las de alimentação ou cuidados essenciais e submetê-las a situações que coloquem sua saúde em risco podem configurar crimes para os quais a legislação passou a prever penas mais rigorosas. As punições",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Senado aprova fim da 6x1 e garante dois dias de descanso semanal",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/13/senado-aprova-fim-da-6x1-e-garante-dois-dias-de-descanso-semanal",
-      "date": "2026-11-13T14:47:36.000Z",
-      "summary": "Trabalhar cinco dias por semana e ter direito a dois dias de descanso passará a ser a realidade dos trabalhadores abrangidos pela regra constitucional que estabeleceu o fim da escala 6x1 no Brasil. A Emenda Constitucional 141 reduz, de forma gradual, a jornada",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "ECA Digital estabelece regras para proteger crianças e adolescentes",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/13/eca-digital-estabelece-regras-para-proteger-criancas-e-adolescentes",
-      "date": "2026-11-13T14:46:25.000Z",
-      "summary": "A Lei 15.211, de 2025, o chamado Estatuto Digital da Criança e do Adolescente (ECA Digital), estabelece regras para proteger crianças e adolescentes no ambiente digital. A norma incide sobre aplicativos, jogos, redes sociais, sistemas operacionais, lojas virtu",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Nova licença-paternidade amplia tempo para cuidados com recém-nascido",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/13/nova-licenca-paternidade-amplia-tempo-para-cuidados-com-recem-nascido",
-      "date": "2026-11-13T14:45:44.000Z",
-      "summary": "Rodrigo mal havia chegado ao mundo e seus pais já enfrentavam um desafio: como dividir os cuidados com o recém-nascido sem sobrecarregar a mãe, que se recuperava de uma cesariana, e sem contar com uma rede de apoio? Para Roufran dos Santos, o tempo era curto. ",
       "source": "Agência Senado",
       "cat": "politica",
       "type": "oficial"
@@ -453,15 +444,6 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Horas antes de pregão, licitação para ampliar reconhecimento facial chinês em SP é suspensa",
-      "link": "https://www.estadao.com.br/politica/horas-antes-de-pregao-licitacao-para-ampliar-reconhecimento-facial-chines-em-sp-e-suspensa/",
-      "date": "2026-11-13T14:25:17.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
     },
     {
       "title": "EUA desmantelam rede de golpes de criptomoedas da Coreia do Norte, diz FBI",
@@ -498,15 +480,6 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Meta exibe mais de 700 anúncios de bets proibidas, revela levantamento da BBC",
-      "link": "https://www.bbc.com/portuguese/articles/cw4gnvzzdjr7o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-12T21:18:29.000Z",
-      "summary": "Relatório interno do governo obtido pela reportagem já apontava publicidade irregular nas plataformas da empresa; BBC identificou novas peças após a proibição.",
-      "source": "BBC News Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
     },
     {
       "title": "Em que pé está a guerra dos EUA contra o Irã?",
@@ -550,6 +523,15 @@
       "date": "2026-11-12T17:31:00.000Z",
       "summary": "Governo instruiu instituições a não fecharem as portas após pânico ao redor do país. Casos semelhantes ocorreram em França, Reino Unido e Irlanda.",
       "source": "DW Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "CEO da Nvidia renuncia após caso com suposta espiã chinesa: quem assumirá o comando da empresa?",
+      "link": "https://www.bbc.com/portuguese/articles/cx1l053gmq5zo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-12T16:40:11.000Z",
+      "summary": "Jensen Huang deixou o cargo nesta quinta-feira (12/11) após vir à tona que ele teria um segundo relacionamento com uma funcionária da empresa. Valor de mercado da companhia despencou desde o início da crise.",
+      "source": "BBC News Brasil",
       "cat": "internacional",
       "type": "imprensa"
     },
@@ -696,15 +678,6 @@
       "source": "ONU News",
       "cat": "internacional",
       "type": "oficial"
-    },
-    {
-      "title": "De janeiro a setembro, gasto de brasileiros no exterior cresce 17,8%, e de estrangeiros aqui, 9,2%",
-      "link": "https://www.estadao.com.br/viagem/de-janeiro-a-setembro-gasto-de-brasileiros-no-exterior-cresce-178-e-de-estrangeiros-aqui-92/",
-      "date": "2026-10-26T22:51:12.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
     }
   ],
   "errors": [
