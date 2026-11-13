@@ -1,15 +1,11 @@
 {
-  "updated": "2026-11-12T23:22:30.421Z",
+  "updated": "2026-11-13T00:22:11.201Z",
   "market": {
     "ibov": {
       "price": 171324.31,
       "pct": -0.43,
-      "time": "2026-11-12T23:22:26.262Z",
+      "time": "2026-11-13T00:22:05.567Z",
       "history": [
-        {
-          "d": "2026-10-13",
-          "c": 206888
-        },
         {
           "d": "2026-10-14",
           "c": 206506
@@ -149,6 +145,96 @@
   },
   "news": [
     {
+      "title": "ASSISTA: Senado aprova texto-base do projeto de ajuste fiscal",
+      "link": "https://g1.globo.com/politica/ao-vivo/senado-pacote-medidas-fiscais.ghtml",
+      "date": "2026-11-13T00:09:01.000Z",
+      "summary": "ASSISTA: Senado aprova texto-base do projeto de ajuste fiscal O governo defende que o projeto vai estabilizar a dívida pública e preservar os compromissos assumidos pelo presidente Lula durante a campanha. O Senado discute o Projeto de Lei Complementar (PLP) c",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Senado aprova pacote de ajuste fiscal do governo Lula",
+      "link": "https://www.poder360.com.br/poder-congresso/senado-aprova-pacote-de-ajuste-fiscal-do-governo-lula/",
+      "date": "2026-11-13T00:06:58.000Z",
+      "summary": "Proposta limita crescimento dos gastos públicos, reduz benefícios fiscais e busca viabilizar o Orçamento de 2027 com alívio de até R$ 56 bilhões, segundo o Executivo; texto segue para a Câmara",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Senado Federal aprova texto-base de projeto que prevê ajuste fiscal de até R$ 60 bilhões",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/12/senado-federal-aprova-ajuste-fiscal-de-ate-r-60-bilhoes.ghtml",
+      "date": "2026-11-13T00:05:04.000Z",
+      "summary": "Governo Lula apresenta projeto com medidas de ajuste fiscal de até R$ 60 bi em 2027 O Senado Federal aprovou nesta quinta-feira (12) o texto-base da proposta do governo do presidente Luiz Inácio Lula da Silva (PT) para um ajuste fiscal. As mudanças nas contas ",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Senado aprova texto-base do 'plano Moretti' de ajuste, com medidas para conter gastos e elevar receitas",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/senado-aprova-texto-base-do-plano-moretti-de-ajuste-com-medidas-para-conter-gastos-e-elevar-receitas.shtml",
+      "date": "2026-11-13T00:05:00.000Z",
+      "summary": "O plenário do Senado Federal aprovou nesta quinta-feira (12) o texto-base do plano de ajuste do governo de Luiz Inácio Lula da Silva (PT), com medidas para ajudar a equipe econômica a buscar o centro da meta de resultado primário (diferença entre receitas e de",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Mega-Sena, concurso 3085: confira os números sorteados",
+      "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/12/mega-sena-concurso-3085-confira-os-numeros-sorteados.ghtml",
+      "date": "2026-11-13T00:03:17.000Z",
+      "summary": "Como funciona a Mega-Sena? O sorteio do concurso 3.085 da Mega-Sena foi realizado na noite desta quinta-feira (12), em São Paulo. O prêmio para as apostas que acertarem as seis dezenas é de R$ 21.085.616.30. 📱Favorite o g1 no Google e acompanhe as principais ",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Inadimplência de empresas vai ao maior número em setembro",
+      "link": "https://www.poder360.com.br/poder-economia/inadimplencia-de-empresas-vai-ao-maior-numero-em-setembro/",
+      "date": "2026-11-13T00:02:20.000Z",
+      "summary": "9,4 milhões de companhias estavam com dívidas negativas, que somavam R$ 247,8 bilhões, segundo Serasa Experian",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Tesouro Nacional sofre ataque hacker que expõe dados de 30 mil cadastros e 4.000 chaves Pix",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/tec/2026/11/tesouro-nacional-sofre-ataque-hacker-que-expoe-dados-de-30-mil-cadastros-e-4000-chaves-pix.shtml",
+      "date": "2026-11-12T23:57:00.000Z",
+      "summary": "A Secretaria do Tesouro Nacional informou nesta quinta-feira (12) que sofreu um incidente de segurança que expôs dados pessoais de cerca de 30 mil cadastros e 4.000 chaves Pix de beneficiários de pagamentos do governo federal. O acesso não autorizado foi ident",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lucro da B3 fica dentro do esperado no 3º tri, a R$ 1,4 bi",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/lucro-da-b3-fica-dentro-do-esperado-no-3o-tri-a-r-14-bi.shtml",
+      "date": "2026-11-12T23:36:00.000Z",
+      "summary": "A operadora da Bolsa de valores de São Paulo, a B3, divulgou nesta quinta-feira (12) um resultado de terceiro trimestre em linha com expectativas de analistas, com avanço na receita líquida e no desempenho operacional. Leia mais (11/12/2026 - 20h36)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "O risco de Andrei Rodrigues é a própria PF, de onde jorram os vazamentos",
+      "link": "https://www.estadao.com.br/politica/eliane-cantanhede/o-risco-de-andrei-rodrigues-e-a-propria-pf-de-onde-jorram-os-vazamentos/",
+      "date": "2026-11-12T23:34:35.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Natura reverte prejuízo com lucro de R$ 49 milhões no 3° tri",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/natura-reverte-prejuizo-com-lucro-de-r-49-milhoes-no-3-tri.shtml",
+      "date": "2026-11-12T23:30:00.000Z",
+      "summary": "A Natura reverteu um prejuízo líquido de quase R$ 2 bilhões registrado no terceiro trimestre de 2025 com um resultado positivo de R$ 49 milhões para o mesmo período neste ano, segundo balanço divulgado nesta quinta-feira (12) pela fabricante de cosméticos. Lei",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "Fachin não diz como vai encaminhar caso Master nem análise do caso Moraes",
       "link": "https://www.poder360.com.br/poder-justica/fachin-nao-diz-como-vai-encaminhar-caso-master-nem-analise-do-caso-moraes/",
       "date": "2026-11-12T23:20:08.000Z",
@@ -158,19 +244,19 @@
       "type": "imprensa"
     },
     {
-      "title": "PGR se manifesta contra revisão criminal da pena de Bolsonaro",
+      "title": "PGR se manifesta contra revisão criminal da condenação de Bolsonaro",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/pgr-se-manifesta-contra-revisao-criminal-da-pena-de-bolsonaro.shtml",
       "date": "2026-11-12T23:19:00.000Z",
-      "summary": "A PGR (Procuradoria-Geral da República) se manifestou na quinta-feira (12) contra a revisão criminal da pena do ex-presidente Jair Bolsonaro, condenado a 27 anos de prisão por tentativa de golpe de Estado. Leia mais (11/12/2026 - 20h19)",
+      "summary": "A PGR (Procuradoria-Geral da República) se manifestou nesta quinta-feira (12) contra a revisão criminal da condenação do ex-presidente Jair Bolsonaro, sentenciado a 27 anos de prisão por tentativa de golpe de Estado. Leia mais (11/12/2026 - 20h19)",
       "source": "Folha",
       "cat": "politica",
       "type": "imprensa"
     },
     {
-      "title": "Tesouro Nacional identifica acesso indevido a dados de 30 mil cadastros e 4 mil chaves PIX",
+      "title": "Ataque hacker ao Tesouro Nacional expõe dados de 30 mil cadastros e 4 mil chaves PIX",
       "link": "https://g1.globo.com/economia/noticia/2026/11/12/tesouro-nacional-incidente-seguranca.ghtml",
       "date": "2026-11-12T23:13:57.000Z",
-      "summary": "A Secretaria do Tesouro Nacional informou ter identificado um acesso não autorizado a dados pessoais armazenados em seu ambiente tecnológico. O incidente, detectado em 4 de novembro de 2026, atingiu cerca de 30 mil cadastros de usuários do portal e-Serviços e ",
+      "summary": "Tesouro Nacional Ministério da Fazenda/Reprodução Um ataque hacker identificado pelo Tesouro Nacional atingiu cerca de 30 mil cadastros de usuários do portal e-Serviços e 4 mil chaves PIX de beneficiários de pagamentos do governo federal, informou o órgão nest",
       "source": "g1",
       "cat": "economia",
       "type": "imprensa"
@@ -191,24 +277,6 @@
       "summary": "= Reprodução/Canva Pro A Comissão de Assuntos Sociais (CAS) do Senado confirmou, na quarta-feira (11), a aprovação de um projeto de lei que prevê a inclusão da vacina contra herpes-zóster, doença popularmente conhecida como cobreiro, no calendário nacional de ",
       "source": "g1",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Nunes Marques mantém afastamento de Buzzi, mas sem suspensão salarial",
-      "link": "https://www.poder360.com.br/poder-justica/nunes-marques-mantem-afastamento-de-buzzi-mas-sem-suspensao-salarial/",
-      "date": "2026-11-12T23:06:06.000Z",
-      "summary": "Ministro do STJ foi afastado depois de ser investigado por suspeita de importunação sexual",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Lucro da MBRF mais que dobra no 3º tri com melhor resultado em 2 anos para unidade dos EUA",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/lucro-da-mbrf-mais-que-dobra-no-3o-tri-com-melhor-resultado-em-2-anos-para-unidade-dos-eua.shtml",
-      "date": "2026-11-12T23:05:00.000Z",
-      "summary": "A empresa de alimentos MBRF reportou nesta quinta-feira (12) lucro líquido de R$ 210 milhões no terceiro trimestre de 2026, alta de 123,5% em relação ao mesmo período do ano anterior. A operação de bovinos nos Estados Unidos se destacou no período, com o melho",
-      "source": "Folha",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -248,24 +316,6 @@
       "type": "oficial"
     },
     {
-      "title": "Justiça torna Milton Leite réu por promover o PCC no transporte de SP",
-      "link": "https://www.poder360.com.br/poder-justica/justica-torna-milton-leite-reu-por-promover-o-pcc-no-transporte-de-sp/",
-      "date": "2026-11-12T22:52:34.000Z",
-      "summary": "Ex-presidente da Câmara da capital paulista e mais 13 pessoas vão responder por organização criminosa ligada à facção; juiz manda prender todos",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "ASSISTA: Senado discute o projeto de ajuste fiscal; texto pode ser votado ainda hoje",
-      "link": "https://g1.globo.com/politica/ao-vivo/senado-pacote-medidas-fiscais.ghtml",
-      "date": "2026-11-12T22:51:18.000Z",
-      "summary": "ASSISTA: Senado discute o projeto de ajuste fiscal; texto pode ser votado ainda hoje O governo defende que o projeto vai estabilizar a dívida pública e preservar os compromissos assumidos pelo presidente Lula durante a campanha. O Senado discute o Projeto de L",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "PSB aprova início de federação com PDT e pode incluir outros partidos",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/psb-aprova-inicio-de-federacao-com-pdt-e-pode-incluir-outros-partidos.shtml",
       "date": "2026-11-12T22:50:00.000Z",
@@ -281,24 +331,6 @@
       "summary": "",
       "source": "Estadão",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Sucessora de Jensen Huang na Nvidia terá desafio mais difícil do setor de tecnologia",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/jensen-huang-deixa-comando-da-nvidia-e-sucessora-tera-desafio-mais-dificil-da-tecnologia.shtml",
-      "date": "2026-11-12T22:32:00.000Z",
-      "summary": "Duas das empresas mais valiosas do mundo trocaram de comando nos últimos meses. Mas dificilmente poderiam ter feito isso de maneiras mais diferentes. Na Apple, Tim Cook deu lugar a John Ternus em setembro, em um processo que a fabricante do iPhone chamou de \"p",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Estoque de renda fixa na B3 supera R$ 10 tri pela primeira vez",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/estoque-de-renda-fixa-na-b3-supera-r-10-tri-pela-primeira-vez.shtml",
-      "date": "2026-11-12T22:20:00.000Z",
-      "summary": "O estoque de renda fixa registrado na B3 superou pela primeira vez os R$ 10 trilhões no terceiro trimestre de 2026, segundo balanço da companhia divulgado na noite desta quinta-feira (12). Leia mais (11/12/2026 - 19h20)",
-      "source": "Folha",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -329,30 +361,12 @@
       "type": "oficial"
     },
     {
-      "title": "STF nega ampliar alcance de acordo sobre planos econômicos para indenizar poupadores",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/stf-nega-ampliar-alcance-de-acordo-sobre-planos-economicos-para-indenizar-poupadores.shtml",
-      "date": "2026-11-12T21:57:00.000Z",
-      "summary": "O STF (Supremo Tribunal Federal) rejeitou nesta quinta-feira (12) recursos que buscavam rever o alcance de um acordo firmado entre bancos e representantes de poupadores para compensar perdas provocadas pelos planos econômicos Bresser, Verão e Collor 1 e 2, nas",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Senado aprova urgência para votar projeto de lei com ajuste fiscal que pode chegar a R$ 56 bilhões",
       "link": "https://www.estadao.com.br/economia/senado-projeto-lei-ajuste-fiscal/",
       "date": "2026-11-12T21:56:45.000Z",
       "summary": "",
       "source": "Estadão",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Zanin nega pedido de segundo turno no Rio",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/zanin-nega-pedido-de-segundo-turno-no-rio/",
-      "date": "2026-11-12T21:54:57.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -446,21 +460,12 @@
       "type": "imprensa"
     },
     {
-      "title": "‘Produtor rural não é caloteiro’: setor de soja rebate Banco do Brasil sobre dívidas do agro",
+      "title": "Produtores de soja rebatem Branco do Brasil sobre dívidas do agro; estatal nega ter culpado todo o setor",
       "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/12/nota-aprosoja.ghtml",
       "date": "2026-11-12T20:40:36.000Z",
-      "summary": "Produção de soja é marcada por expectativas e desafios em 2026 Divulgação/Aprosoja A Associação Brasileira dos Produtores de Soja (Aprosoja) divulgou uma nota nesta quinta-feira (12) criticando declarações da direção do Banco do Brasil que, segundo a entidade,",
+      "summary": "Produção de soja é marcada por expectativas e desafios em 2026 Divulgação/Aprosoja edA Associação Brasileira dos Produtores de Soja (Aprosoja Brasil) rebateu nesta quinta-feira (12) a declaração da presidente do Banco do Brasil, Tarciana Medeiros, de que parte",
       "source": "g1",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "STF decide que norma que absolve crime patrimonial contra mulher é incompatível com a Constituição",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/12/stf-decide-que-norma-que-absolve-crime-patrimonial-contra-mulher-e-incompativel-com-a-constituicao.ghtml",
-      "date": "2026-11-12T19:53:22.000Z",
-      "summary": "O Supremo Tribunal Federal (STF) decidiu nesta quarta-feira (11), por unanimidade, que é incompatível com a Constituição dispositivo do Código Penal que isentava de pena quem cometia crime patrimonial contra a mulher em contexto de violência doméstica e famili",
-      "source": "g1",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -470,15 +475,6 @@
       "summary": "Embora nenhum dos lados afirme que o conflito tenha terminado formalmente, tensão baixou na região e quadro se assemelha a um \"cessar-fogo virtual\". Para analista, país persa entrou em \"modo de espera\".",
       "source": "DW Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Ex-CEO da Nvidia teve relacionamento extraconjugal com uma terceira mulher, diz agência",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/12/ceo-nvidia-caso.ghtml",
-      "date": "2026-11-12T19:34:08.000Z",
-      "summary": "Ex-CEO da Nvidia teria mantido terceiro relacionamento extraconjugal, diz imprensa O ex-presidente-executivo da Nvidia, Jensen Huang, teria mantido mais um relacionamento íntimo com outra funcionária da empresa, segundo duas fontes ouvidas pela Reuters. Com a ",
-      "source": "g1",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -690,7 +686,6 @@
     }
   ],
   "errors": [
-    "Selic (SGS 432): HTTP 304",
     "feed CNN Brasil: HTTP 404",
     "feed CNN Brasil: HTTP 404"
   ]
