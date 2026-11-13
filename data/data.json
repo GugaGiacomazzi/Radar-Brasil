@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-13T12:38:51.442Z",
+  "updated": "2026-11-13T13:55:06.775Z",
   "market": {
     "ibov": {
-      "price": 171324.31,
-      "pct": -0.43,
-      "time": "2026-11-13T12:38:43.003Z",
+      "price": 172174.1,
+      "pct": 0.5,
+      "time": "2026-11-13T13:55:02.859Z",
       "history": [
         {
           "d": "2026-10-14",
@@ -89,6 +89,10 @@
         {
           "d": "2026-11-12",
           "c": 171324
+        },
+        {
+          "d": "2026-11-13",
+          "c": 172215.2656
         }
       ]
     },
@@ -145,48 +149,165 @@
   },
   "news": [
     {
-      "title": "Lucro da JHSF cresce quase 30% no 3º tri",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/10/25/6568-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post468050",
-      "date": "2026-11-13T12:34:00.000Z",
-      "summary": "A JHSF registrou lucro líquido consolidado de R$391,5 milhões no terceiro trimestre, valor 29% superior ao apurado um ano antes, segundo balanço divulgado na noite de quinta-feira. Leia mais (11/13/2026 - 09h34)",
+      "title": "Falha da Microsoft deixa tribunais federais sem acesso a emails",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/tec/2026/11/falha-da-microsoft-deixa-tribunais-federais-sem-acesso-a-emails.shtml",
+      "date": "2026-11-13T13:52:00.000Z",
+      "summary": "Tribunais regionais federais (TRFs) estão sem acesso a emails após a falha global nos serviços da Microsoft. Os TRFs da 1ª, 3ª e 6ª Região confirmaram o problema à Folha nesta sexta (13). A instabilidade começou na quinta-feira (12). Leia mais (11/13/2026 - 10",
       "source": "Folha",
       "cat": "economia",
       "type": "imprensa"
     },
     {
-      "title": "Lucro da Cemig salta para R$1,7 bi no 3º tri",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/10/25/6568-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post468049",
-      "date": "2026-11-13T12:31:00.000Z",
-      "summary": "A companhia de energia elétrica Cemig teve lucro líquido de R$1,7 bilhão no terceiro trimestre, mais que o dobro do resultado obtido um ano antes, segundo balanço divulgado nesta quinta-feira. Leia mais (11/13/2026 - 09h31)",
+      "title": "Comissão da Câmara aprova uso de recursos digitais para apoiar estudantes com autismo",
+      "link": "https://www.camara.leg.br/noticias/1319230-comissao-da-camara-aprova-uso-de-recursos-digitais-para-apoiar-estudantes-com-autismo",
+      "date": "2026-11-13T13:48:00.000Z",
+      "summary": "O projeto continua em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Presidente do BC critica debate sobre juros: 'parece disputa de torcida organizada e postagem em rede social'",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/13/presidente-do-bc-critica-debate-sobre-juros-parece-disputa-de-torcida-organizada-e-postagem-em-rede-social.ghtml",
+      "date": "2026-11-13T13:42:39.000Z",
+      "summary": "O presidente do Banco Central, Gabriel Galípolo, criticou o debate sobre o nível da taxa de juros na economia brasileira e suas repercussões sobre a dívida pública e, também, a inadimplência e o alto nível de endividamento da população brasileira. Atualmente, ",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Vendas no varejo do Brasil surpreendem com alta de 0,2% em setembro",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/10/25/6568-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post468051",
+      "date": "2026-11-13T13:42:00.000Z",
+      "summary": "As vendas varejistas no Brasil surpreenderam ao aumentar 0,2% em setembro na comparação com o mês anterior, contrapondo-se às perdas da indústria e dos serviços no mês e reforçando um quadro de relativa estabilidade do setor. Leia mais (11/13/2026 - 10h42)",
       "source": "Folha",
       "cat": "economia",
       "type": "imprensa"
     },
     {
-      "title": "Juros altos, eventos climáticos e preço de grãos elevaram dívidas do agro, dizem produtores",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/agro/2026/11/juros-altos-eventos-climaticos-e-preco-de-graos-elevaram-dividas-do-agro-dizem-produtores.shtml",
-      "date": "2026-11-13T12:16:00.000Z",
-      "summary": "O aumento da inadimplência do agronegócio, que trouxe impactos significativos para o balanço do terceiro trimestre do Banco do Brasil e também afetou indicadores de Santander e Bradesco, não foi uma surpresa para produtores rurais, que já prenunciavam os probl",
+      "title": "Sete nomes cotados para substituir Jensen Huang na Nvidia",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/sete-nomes-cotados-para-substituir-jensen-huang-na-nvidia.shtml",
+      "date": "2026-11-13T13:41:00.000Z",
+      "summary": "Encontrar um sucessor para Jensen Huang na Nvidia tem sido comparado à tarefa de substituir Steve Jobs na Apple. Em muitos aspectos, porém, o desafio é ainda maior. Leia mais (11/13/2026 - 10h41)",
       "source": "Folha",
       "cat": "economia",
       "type": "imprensa"
     },
     {
-      "title": "Falha no Outlook, Teams e Copilot rende memes nas redes sociais",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/13/falha-no-outlook-teams-e-copilot-rende-memes-nas-redes-sociais.ghtml",
-      "date": "2026-11-13T12:04:32.000Z",
-      "summary": "Serviços Microsoft caem em 70 países; empresa faz reparos A queda de serviços da Microsoft virou tema de memes nas redes sociais. Usuários têm relatado dificuldades para acessar o Outlook, o Teams e o assistente de inteligência artificial Copilot. Segundo o Do",
+      "title": "Relatório rejeitado na PF cita suspeita de Moraes antecipar voto a Vorcaro",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/relatorio-rejeitado-na-pf-cita-suspeita-de-moraes-antecipar-voto-a-vorcaro.shtml",
+      "date": "2026-11-13T13:30:00.000Z",
+      "summary": "O relatório sobre Alexandre de Moraes e o Banco Master rejeitado pela cúpula da PF (Polícia Federal) cita mensagens indicando que o ministro teria antecipado um voto a Daniel Vorcaro em uma ação no STF (Supremo Tribunal Federal) sobre faculdades de medicina. L",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Microsoft diz que Outlook, Teams e Copilot estão sendo 'gradualmente restaurados'",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/13/servicos-da-microsoft-sofrem-instabilidade-quinta-e-sexta.ghtml",
+      "date": "2026-11-13T13:28:08.000Z",
+      "summary": "Serviços Microsoft caem em 70 países; empresa faz reparos A Microsoft informou nesta sexta-feira (13) que Outlook, Teams e Copilot estão sendo \"gradualmente restaurados\" após a falha que afeta seus serviços desde a tarde de quinta-feira (12). A empresa já desc",
       "source": "g1",
       "cat": "economia",
       "type": "imprensa"
     },
     {
-      "title": "Dólar abre em queda com mercado atento à aprovação do pacote fiscal no Senado e dados do varejo",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/13/dolar-ibovespa.ghtml",
-      "date": "2026-11-13T12:00:00.000Z",
-      "summary": "Entenda o que faz o preço do dólar subir ou cair O dólar abriu em queda nesta sexta-feira (13), com os investidores atentos aos desdobramentos da votação do pacote fiscal no Senado e à divulgação de novos indicadores econômicos no Brasil e no exterior. Por vol",
+      "title": "Banco do Brasil “permanece sólido”, diz presidente da instituição",
+      "link": "https://www.poder360.com.br/poder-economia/banco-do-brasil-permanece-solido-diz-presidente-da-instituicao/",
+      "date": "2026-11-13T13:26:49.000Z",
+      "summary": "Tarciana Medeiros declarou que o banco buscará medidas necessárias para preservar seu capital",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Varejo em setembro repete taxa de crescimento de agosto e reforça quadro de estabilidade do setor",
+      "link": "https://www.estadao.com.br/economia/ibge-varejo-setembro-repete-taxa-reforca-quadro-estabilidade-setor/",
+      "date": "2026-11-13T13:18:44.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Comissão aprova inclusão facultativa de símbolos de acessibilidade em documentos de identidade",
+      "link": "https://www.camara.leg.br/noticias/1319228-comissao-aprova-inclusao-facultativa-de-simbolos-de-acessibilidade-em-documentos-de-identidade",
+      "date": "2026-11-13T13:08:00.000Z",
+      "summary": "A Câmara dos Deputados continua discutindo o assunto",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "CSN tem prejuízo de R$ 1,25 bilhão no 3º trimestre, com pressão de mineração e custos de frete",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/csn-tem-prejuizo-de-r-125-bilhao-no-3o-trimestre-com-pressao-de-mineracao-e-custos-de-frete.shtml",
+      "date": "2026-11-13T13:07:00.000Z",
+      "summary": "A CSN teve prejuízo líquido de R$ 1,25 bilhão no terceiro trimestre, revertendo resultado positivo de R$ 76 milhões obtido no mesmo período de 2025, segundo balanço divulgado na noite de quinta-feira. Leia mais (11/13/2026 - 10h07)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Falha da Microsoft afeta serviços de emergência, empresas e governos em dezenas de países",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/13/microsoft-falha-paises.ghtml",
+      "date": "2026-11-13T13:04:42.000Z",
+      "summary": "Serviços Microsoft caem em 70 países; empresa faz reparos Uma falha global nos serviços da Microsoft afeta empresas, governos e serviços de emergência em dezenas de países. O problema, que começou na quinta-feira (12), continuava nesta sexta-feira (13) e ating",
       "source": "g1",
       "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "'Tropa do Flávio' troca de nome, deputado do PL assume mudança e pede mobilização",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/13/tropa-do-flavio-troca-de-nome.ghtml",
+      "date": "2026-11-13T12:58:13.000Z",
+      "summary": "Flávio Bolsonaro e Gustavo Gayer. Mensagens no canal que agora se chama \"Direita Já\" Reprodução Criado durante o 2º turno da campanha presidencial para divulgar conteúdos a favor do candidato Flávio Bolsonaro (PL), o canal \"Tropa do Flávio\", no WhatsApp, mudou",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Comissão aprova prioridade judicial para investigações de crimes hediondos",
+      "link": "https://www.camara.leg.br/noticias/1319226-comissao-aprova-prioridade-judicial-para-investigacoes-de-crimes-hediondos",
+      "date": "2026-11-13T12:56:00.000Z",
+      "summary": "Tribunais terão que manter plantão judiciário para decidir essas demandas; a Câmara dos Deputados continua discutindo o assunto",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Entidades rebatem BB sobre ‘calote do agro’, e banco nega ter responsabilizado todo o setor",
+      "link": "https://www.estadao.com.br/economia/agronegocios/entidades-rebatem-bb-calote-agro-banco-nega-ter-responsabilizado-todo-setor/",
+      "date": "2026-11-13T12:46:10.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Veja onde buscar atendimento em saúde mental no Rio Grande do Sul",
+      "link": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/11/13/veja-onde-buscar-atendimento-em-saude-mental-no-rio-grande-do-sul.ghtml",
+      "date": "2026-11-13T12:37:15.000Z",
+      "summary": "Imagem aérea mostra ruas alagadas em Canoas, uma das cidades mais afetadas pelas enchentes no Rio Grande do Sul. Série de fotos foi vencedora na categoria Histórias Amanda Perobelli/Reuters via World Press Photo/Divulgação Pessoas afetadas pelas enchentes de 2",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Wesley Oliveira, que filmou FHC acamado, ignora Estatuto do Idoso e nega ter cometido ‘crime’",
+      "link": "https://www.estadao.com.br/politica/wesley-oliveira-que-filmou-fhc-acamado-ignora-estatuto-do-idoso-e-nega-ter-cometido-crime-npr/",
+      "date": "2026-11-13T12:31:42.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Como o líder do governo Lula plantou jabuti em MP sobre agro para tentar liberar exportação de vape",
+      "link": "https://www.estadao.com.br/politica/francisco-leali/como-o-lider-do-governo-lula-plantou-jabuti-em-mp-sobre-agro-para-tentar-liberar-exportacao-de-vape/",
+      "date": "2026-11-13T12:30:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -199,28 +320,10 @@
       "type": "oficial"
     },
     {
-      "title": "Huang e secretário dos EUA são convocados para depor no Congresso sobre suposta espionagem",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/huang-e-secretario-dos-eua-sao-convocados-para-depor-no-congresso-sobre-suposta-espionagem.shtml",
-      "date": "2026-11-13T11:47:00.000Z",
-      "summary": "Parlamentares dos EUA convocaram Jensen Huang, ex-CEO da Nvidia, e o secretário de Comércio dos EUA, Howard Lutnick, para depor em dezembro em um comitê do Senado sobre uma suposta espionagem da qual o executivo teria sido alvo da China. Leia mais (11/13/2026 ",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Parlamento da Espanha aprova medidas que dificultam despejo",
       "link": "https://www.poder360.com.br/poder-internacional/parlamento-da-espanha-aprova-medidas-que-dificultam-despejo/",
       "date": "2026-11-13T11:46:50.000Z",
       "summary": "Votação foi realizada 1 dia depois de greve geral contra a crise da habitação no país europeu",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Saiba como são avaliados os 7 presidentes da América Latina",
-      "link": "https://www.poder360.com.br/poder-internacional/saiba-como-sao-avaliados-os-7-presidentes-da-america-latina/",
-      "date": "2026-11-13T11:30:38.000Z",
-      "summary": "Pesquisa AtlasIntel indica a aprovação dos líderes de Argentina, Brasil, Chile, Colômbia, México, Peru e Venezuela",
       "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
@@ -244,46 +347,10 @@
       "type": "imprensa"
     },
     {
-      "title": "Microsoft descarta ataque hacker após falha global afetar Outlook, Teams e Copilot",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/13/microsoft-descarta-ataque-hacker-apos-falha-global-afetar-outlook-teams-e-copilot.ghtml",
-      "date": "2026-11-13T11:21:38.000Z",
-      "summary": "Serviços Microsoft caem em 70 países; empresa faz reparos A Microsoft descartou nesta sexta-feira (13) que um ataque hacker tenha provocado a falha global que afeta o serviço de e-mail Outlook, o aplicativo Teams e o assistente de IA Copilot. A empresa afirmou",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "O custo do Poder Judiciário no Brasil: a necessidade de real exame comparativo",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/o-custo-do-poder-judiciario-no-brasil-a-necessidade-de-real-exame-comparativo/",
-      "date": "2026-11-13T11:18:27.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Kassab elogia ajuste de Lula aprovado no Senado e sinaliza que PSD quer participar do novo governo",
       "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/13/kassab-elogia-ajuste-de-lula-aprovado-no-senado-e-sinaliza-que-psd-quer-participar-do-novo-governo.ghtml",
       "date": "2026-11-13T11:13:33.000Z",
       "summary": "Kassab elogia ajuste de Lula aprovado no Senado e sinaliza que PSD quer participar do novo governo O presidente nacional do PSD, Gilberto Kassab, sinalizou na noite desta quinta-feira (13) que está disposto a conversar com o presidente Lula (PT) para que a sig",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Como implementar sistemas agroflorestais",
-      "link": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/11/13/como-implementar-sistemas-agroflorestais.ghtml",
-      "date": "2026-11-13T10:59:58.000Z",
-      "summary": "A Empresa de Assistência Técnica e Extensão Rural de Minas Gerais (Emater-MG) disponibiliza uma cartilha gratuita com orientações para quem deseja implantar sistemas agroflorestais (SAFs) em propriedades rurais. A publicação apresenta as principais classificaç",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "PF cumpre mandado contra ex-chefe de gabinete de Mário Frias em operação sobre suposto desvio de emendas do 'Dark Horse'",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/13/pf-cumpre-mandado-de-busca-e-apreensao-em-operacao-sobre-suposto-desvio-de-emendas-parlamentares.ghtml",
-      "date": "2026-11-13T10:56:54.000Z",
-      "summary": "PF faz operação contra suposto desvio de emendas ligadas ao 'Dark Horse' Ainda segundo essas mesmas fontes, a pessoa não exerceria mandato parlamentar, mas seria o ex-chefed do deputado federal Mário Frias (PL-RJ). Um notebook e um celular teriam sido apreendi",
       "source": "g1",
       "cat": "politica",
       "type": "imprensa"
@@ -298,7 +365,7 @@
       "type": "imprensa"
     },
     {
-      "title": "PF deflagra segunda fase de operação para rastrear emendas de Mário Frias ao filme ‘Dark Horse’",
+      "title": "Ex-assessor de Mario Frias é alvo da PF em operação para rastrear emendas ao filme ‘Dark Horse’",
       "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/pf-deflagra-segunda-fase-de-operacao-para-rastrear-emendas-de-mario-frias-ao-filme-dark-horse/",
       "date": "2026-11-13T10:31:35.000Z",
       "summary": "",
@@ -307,26 +374,8 @@
       "type": "imprensa"
     },
     {
-      "title": "Gestão Tarcísio reduz gasto com dívida após acordo com governo Lula, mas contrapartida limita alívio",
-      "link": "https://www.estadao.com.br/politica/gestao-tarcisio-reduz-gasto-com-divida-apos-acordo-com-governo-lula-mas-contrapartida-limita-alivio/",
-      "date": "2026-11-13T08:30:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Governo precisa de medidas adicionais para cumprir meta em 2027, diz economista-chefe do Santander",
       "link": "https://www.estadao.com.br/economia/governo-precisa-de-medidas-adicionais-para-cumprir-meta-em-2027-diz-economista-chefe-do-santander/",
-      "date": "2026-11-13T08:30:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Fim da escala 6x1: veja perguntas e respostas sobre o que Dino definiu e o que continua valendo",
-      "link": "https://www.estadao.com.br/economia/fim-escala-6x1-decisao-dino-perguntas-respostas/",
       "date": "2026-11-13T08:30:00.000Z",
       "summary": "",
       "source": "Estadão",
@@ -352,36 +401,9 @@
       "type": "imprensa"
     },
     {
-      "title": "Centrão exige mais ministérios no governo Lula 4 em troca de cobrança por mais fidelidade no Congresso",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/centrao-exige-mais-ministerios-no-governo-lula-4-em-troca-de-cobranca-por-mais-fidelidade-no-congresso.shtml",
-      "date": "2026-11-13T07:00:00.000Z",
-      "summary": "Os partidos PP e Republicanos pretendem aderir ao governo Lula (PT) na largada da atual gestão e, por isso, esperam ocupar ministérios mais robustos em troca da fidelidade de suas bancadas no Congresso. Leia mais (11/13/2026 - 04h00)",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Secretário de Comércio dos EUA vai depor no Congresso sobre caso Nvidia",
       "link": "https://www.estadao.com.br/economia/secretario-de-comercio-dos-eua-vai-depor-no-congresso-sobre-caso-nvidia-npr/",
       "date": "2026-11-13T06:19:09.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Futuro ministro da Fazenda: veja quem são os cotados e o que está em jogo na escolha de Lula",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/13/futuro-ministro-da-fazenda-veja-quem-sao-os-cotados-e-o-que-esta-em-jogo-na-escolha-de-lula.ghtml",
-      "date": "2026-11-13T05:00:00.000Z",
-      "summary": "Vice-presidente, Geraldo Alckmin; ministro da Fazenda, Dario Durigan; governador do Piauí, Rafael Fonteles; e o ministro do Planejamento, Bruno Moretti. Montagem g1 Após uma virada histórica nas urnas, o presidente Luiz Inácio Lula da Silva (PT) chegará ao seu",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "O que pesquisadores propõem para acabar com a pobreza extrema no Brasil?",
-      "link": "https://www.estadao.com.br/economia/o-que-pesquisadores-propoem-para-acabar-com-a-pobreza-extrema-no-brasil/",
-      "date": "2026-11-13T03:00:00.000Z",
       "summary": "",
       "source": "Estadão",
       "cat": "economia",
@@ -419,33 +441,6 @@
       "link": "https://www.camara.leg.br/noticias/1319043-comissao-de-financas-debate-com-receita-federal-regulamentacao-da-reforma-tributaria",
       "date": "2026-11-12T22:04:00.000Z",
       "summary": "Debate vai abordar alíquotas, Imposto Seletivo e desafios operacionais do novo sistema tributário",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Motta destaca o papel da comunicação e o reconhecimento internacional da TV Câmara",
-      "link": "https://www.camara.leg.br/noticias/1319194-motta-destaca-o-papel-da-comunicacao-e-o-reconhecimento-internacional-da-tv-camara",
-      "date": "2026-11-12T21:58:00.000Z",
-      "summary": "Projetos da emissora foram incluídos em Atlas de Inovação da ONU e concorrem a seis categorias de prêmio latino-americano",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Comissão promove audiência pública sobre direitos das pessoas idosas",
-      "link": "https://www.camara.leg.br/noticias/1319071-comissao-promove-audiencia-publica-sobre-direitos-das-pessoas-idosas",
-      "date": "2026-11-12T21:31:00.000Z",
-      "summary": "Debate vai tratar da convenção interamericana que estabelece diretrizes para a proteção da população idosa",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Projeto cria fundo para agricultura familiar bancado por taxas sobre exportação e grandes propriedades",
-      "link": "https://www.camara.leg.br/noticias/1314167-projeto-cria-fundo-para-agricultura-familiar-bancado-por-taxas-sobre-exportacao-e-grandes-propriedades",
-      "date": "2026-11-12T21:22:00.000Z",
-      "summary": "Proposta prevê nova contribuição sobre exportação de commodities agrícolas e repasse direto a estados e municípios, conforme número de agricultores cadastrados",
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
