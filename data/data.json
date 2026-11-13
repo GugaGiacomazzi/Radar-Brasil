@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-13T04:54:15.387Z",
+  "updated": "2026-11-13T05:55:33.050Z",
   "market": {
     "ibov": {
       "price": 171324.31,
       "pct": -0.43,
-      "time": "2026-11-13T04:54:09.627Z",
+      "time": "2026-11-13T05:55:26.300Z",
       "history": [
         {
           "d": "2026-10-14",
@@ -145,6 +145,24 @@
   },
   "news": [
     {
+      "title": "Futuro ministro da Fazenda: veja quem são os cotados e o que está em jogo na escolha de Lula",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/13/futuro-ministro-da-fazenda-veja-quem-sao-os-cotados-e-o-que-esta-em-jogo-na-escolha-de-lula.ghtml",
+      "date": "2026-11-13T05:00:00.000Z",
+      "summary": "Vice-presidente, Geraldo Alckmin; ministro da Fazenda, Dario Durigan; governador do Piauí, Rafael Fonteles; e o ministro do Planejamento, Bruno Moretti. Montagem g1 Após uma virada histórica nas urnas, o presidente Luiz Inácio Lula da Silva (PT) chegará ao seu",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Rouquidão de Lula: o que pode explicar a voz falha do presidente, dos efeitos do câncer à cirurgia de 2022",
+      "link": "https://g1.globo.com/saude/noticia/2026/11/13/rouquidao-de-lula-o-que-pode-explicar-a-voz-falha-do-presidente-dos-efeitos-do-cancer-a-cirurgia-de-2022.ghtml",
+      "date": "2026-11-13T05:00:00.000Z",
+      "summary": "Lula durante evento na Turquia, às margens da COP31 Ricardo Stuckert/Presidência da República O presidente Luiz Inácio Lula da Silva afirmou nesta quinta-feira (12) que está rouco há mais de 15 dias. Na véspera, durante a COP31, a conferência do clima da Organ",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "PL pediu mais tempo de votação, mas esperava negativa, diz Flávio",
       "link": "https://www.poder360.com.br/poder-eleicoes-2026/pl-pediu-mais-tempo-de-votacao-mas-esperava-negativa-diz-flavio/",
       "date": "2026-11-13T03:48:50.000Z",
@@ -185,15 +203,6 @@
       "link": "https://g1.globo.com/politica/noticia/2026/11/13/lula-milei-e-lideres-de-mais-de-20-paises-defendem-que-proximo-secretario-geral-da-onu-seja-latino.ghtml",
       "date": "2026-11-13T03:00:00.000Z",
       "summary": "Os presidentes Luiz Inácio Lula da Silva (PT), Javier Milei (Argentina), Miguel Díaz-Canel (Cuba) e Delcy Rodríguez (Venezuela), além de cerca de outros 20 líderes de países da Comunidade dos Estados Latino-Americanos e Caribenhos (Celac), enviaram uma carta a",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Trava extra para gastos, mudanças no piso da saúde e corte em benefícios tributários: entenda ajuste fiscal aprovado pelo Senado",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/13/trava-extra-para-gastos-mudancas-no-piso-da-saude-e-corte-em-beneficios-tributarios-entenda-ajuste-fiscal-aprovado-pelo-senado.ghtml",
-      "date": "2026-11-13T03:00:00.000Z",
-      "summary": "O texto-base do projeto de ajuste fiscal aprovado pelo Senado Federal nesta quinta-feira (12) prevê mudanças nas contas públicas para tentar controlar a dívida pública a partir do próximo ano. Com corte linear de 10% nos benefícios fiscais e mudanças no cálcul",
       "source": "g1",
       "cat": "politica",
       "type": "imprensa"
@@ -343,15 +352,6 @@
       "type": "oficial"
     },
     {
-      "title": "Senado aprova texto-base do projeto de ajuste fiscal",
-      "link": "https://g1.globo.com/politica/ao-vivo/senado-pacote-medidas-fiscais.ghtml",
-      "date": "2026-11-13T00:35:23.000Z",
-      "summary": "Senado aprova texto-base do projeto de ajuste fiscal Proposta do governo promove corte de benefícios fiscais e altera cálculo do piso constitucional da saúde. Texto foi aprovado por 45 votos a 31. O Senado aprovou o texto-base do Projeto de Lei Complementar (P",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Mega-Sena 3085 acumula e prêmio vai a R$ 27 milhões; confira os números sorteados",
       "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/12/mega-sena-concurso-3085-confira-os-numeros-sorteados.ghtml",
       "date": "2026-11-13T00:03:17.000Z",
@@ -367,15 +367,6 @@
       "summary": "",
       "source": "Estadão",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Ataque hacker ao Tesouro Nacional expõe dados de 30 mil cadastros e 4 mil chaves PIX",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/12/tesouro-nacional-incidente-seguranca.ghtml",
-      "date": "2026-11-12T23:13:57.000Z",
-      "summary": "Tesouro Nacional Ministério da Fazenda/Reprodução Um ataque hacker identificado pelo Tesouro Nacional atingiu cerca de 30 mil cadastros de usuários do portal e-Serviços e 4 mil chaves PIX de beneficiários de pagamentos do governo federal, informou o órgão nest",
-      "source": "g1",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
