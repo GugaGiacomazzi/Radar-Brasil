@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-13T20:49:25.264Z",
+  "updated": "2026-11-13T21:43:54.295Z",
   "market": {
     "ibov": {
-      "price": 172377.98,
-      "pct": 0.62,
-      "time": "2026-11-13T20:49:19.360Z",
+      "price": 172457.77,
+      "pct": 0.66,
+      "time": "2026-11-13T21:43:46.321Z",
       "history": [
         {
           "d": "2026-10-14",
@@ -92,7 +92,7 @@
         },
         {
           "d": "2026-11-13",
-          "c": 172483.4844
+          "c": 172457.7656
         }
       ]
     },
@@ -149,6 +149,132 @@
   },
   "news": [
     {
+      "title": "Bolsa sobe 0,66% e dólar segue em R$ 5,65 com ajuste fiscal em vista",
+      "link": "https://www.poder360.com.br/poder-economia/bolsa-sobe-066-e-dolar-segue-em-r-565-com-ajuste-fiscal-em-vista/",
+      "date": "2026-11-13T21:39:18.000Z",
+      "summary": "Investidores se dividem sobre medidas econômicas do governo; moeda norte-americana se mantém no maior patamar desde junho de 2025",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "EUA suspendem todas as decolagens de aeroportos do país",
+      "link": "https://www.dw.com/pt-br/eua-suspendem-todas-as-decolagens-de-aeroportos-do-país/a-79945256?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-13T21:39:00.000Z",
+      "summary": "Administração Federal de Aviação dos Estados Unidos determinou a suspensão de decolagens em todos os aeroportos do país.",
+      "source": "DW Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Senadoras acompanham investigação sobre crianças desaparecidas no Maranhão",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/13/senadoras-acompanham-investigacao-sobre-criancas-desaparecidas-no-maranhao",
+      "date": "2026-11-13T21:17:31.000Z",
+      "summary": "Três senadoras — Damares Alves (Republicanos-DF), Eliziane Gama (PT-MA) e Roberta Accioly (Republicanos-RR) — estão no Maranhão para acompanhar a investigação sobre crianças desaparecidas no povoado de São Sebastião dos Pretos, comunidade quilombola na zona ru",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Comissão aprova criação de data para valorizar mulheres que trabalham em setores de infraestrutura",
+      "link": "https://www.camara.leg.br/noticias/1319435-comissao-aprova-criacao-de-data-para-valorizar-mulheres-que-trabalham-em-setores-de-infraestrutura",
+      "date": "2026-11-13T21:15:00.000Z",
+      "summary": "Proposta segue para análise do Senado",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Falha da Microsoft expõe dependência global de big techs",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/tec/2026/11/falha-da-microsoft-expoe-dependencia-global-de-big-techs.shtml",
+      "date": "2026-11-13T21:15:00.000Z",
+      "summary": "Governos, empresas e serviços públicos em mais de 70 países foram afetados por uma interrupção digital nesta semana, enquanto a Microsoft tentava restabelecer os serviços após uma falha que atingiu milhões de usuários. Leia mais (11/13/2026 - 18h15)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Atlas/Bloomberg: 52% acham errada a decisão de Flávio Bolsonaro de deixar o País",
+      "link": "https://www.estadao.com.br/politica/atlasbloomberg-52-acham-errada-a-decisao-de-flavio-bolsonaro-de-deixar-o-pais-nprp/",
+      "date": "2026-11-13T21:13:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Câmara e Senado pedem que plenário do STF rejeite pontos da liminar de Dino sobre escala 6x1",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/camara-e-senado-pedem-que-plenario-do-stf-rejeite-pontos-da-liminar-de-dino-sobre-escala-6x1.shtml",
+      "date": "2026-11-13T21:12:00.000Z",
+      "summary": "A Câmara dos Deputados e o Senado Federal pediram nesta sexta-feira (13) que o plenário do STF (Supremo Tribunal Federal) rejeite as mudanças determinadas pelo ministro Flávio Dino na emenda constitucional que estabelece o fim da escala 6x1. Leia mais (11/13/2",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "É possível investir em ações internacionais sem apostar no dólar?",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/blogs/de-grao-em-grao/2026/11/e-possivel-investir-em-acoes-internacionais-sem-apostar-no-dolar.shtml",
+      "date": "2026-11-13T21:00:00.000Z",
+      "summary": "Quando um brasileiro decide investir em ações internacionais, normalmente imagina que está tomando duas decisões ao mesmo tempo: apostar nas empresas estrangeiras e na valorização do dólar. Entretanto, essas escolhas não precisam caminhar juntas. Leia mais (11",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Recado da semana é o de que ministros do STF não podem ser investigados",
+      "link": "https://www.estadao.com.br/politica/carlos-andreazza/recado-da-semana-e-o-de-que-ministros-do-stf-nao-podem-ser-investigados/",
+      "date": "2026-11-13T21:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Criei com IA um ‘robô’ que acessa a internet; entenda por que humanos já são minoria na web",
+      "link": "https://www.estadao.com.br/economia/negocios/ia-robo-internet-entenda-humanos-minoria-web/",
+      "date": "2026-11-13T21:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Varejo troca mais de 20% das equipes em metade das empresas e enfrenta falta de mão de obra",
+      "link": "https://www.estadao.com.br/economia/varejo-troca-mais-de-20-das-equipes-em-metade-das-empresas-e-enfrenta-falta-de-mao-de-obra/",
+      "date": "2026-11-13T21:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Congresso esvazia corte de supersalários no 'plano Moretti', dizem organizações",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/congresso-esvazia-corte-de-supersalarios-no-plano-moretti-dizem-organizacoes.shtml",
+      "date": "2026-11-13T20:58:00.000Z",
+      "summary": "Um grupo de sete entidades publicou um documento criticando a mudança que o Congresso fez no chamado \"plano Moretti\", o projeto com medidas fiscais do governo e que tramita no Legislativo. Leia mais (11/13/2026 - 17h58)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Atlas/Bloomberg: Governo Lula é ruim ou péssimo para 47,9%, e ótimo ou bom para 39,1%",
+      "link": "https://www.estadao.com.br/politica/atlas-governo-lula-e-ruim-ou-pessimo-para-479-e-otimo-ou-bom-para-391-nprp/",
+      "date": "2026-11-13T20:53:59.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Fachin defende reforma no Judiciário para superar privilégios",
+      "link": "https://www.poder360.com.br/poder-justica/fachin-defende-reforma-no-judiciario-para-superar-privilegios/",
+      "date": "2026-11-13T20:50:21.000Z",
+      "summary": "Presidente do STF diz que reparação histórica deve ser projeto de país; ministro Luis Felipe Salomão, do STJ, cobra ação de juízes contra racismo",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "Fachin defende indicação de mulher negra para o STF",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/fachin-defende-indicacao-de-mulher-negra-para-o-stf.shtml",
       "date": "2026-11-13T20:44:00.000Z",
@@ -176,15 +302,6 @@
       "type": "oficial"
     },
     {
-      "title": "Caixa revê risco no campo e renegocia dívidas após avanço da inadimplência",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/caixa-reve-risco-no-campo-e-renegocia-dividas-apos-avanco-da-inadimplencia.shtml",
-      "date": "2026-11-13T20:30:00.000Z",
-      "summary": "A Caixa Econômica Federal ampliou as provisões para perdas com empréstimos e reduziu a concessão de crédito ao agronegócio diante do avanço da inadimplência no setor, que chegou a 25,44% em setembro. Leia mais (11/13/2026 - 17h30)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Senado tem o maior percentual já registrado de candidatos negros eleitos",
       "link": "https://www12.senado.leg.br/noticias/materias/2026/11/13/senado-tem-o-maior-percentual-ja-registrado-de-candidatos-negros-eleitos",
       "date": "2026-11-13T20:29:52.000Z",
@@ -203,48 +320,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Defesa de Vorcaro questiona competência de Fachin para retirar relatoria do caso de André Mendonça",
-      "link": "https://www.estadao.com.br/politica/defesa-de-vorcaro-questiona-competencia-de-fachin-para-retirar-relatoria-do-caso-de-andre-mendonca-nprp/",
-      "date": "2026-11-13T20:27:17.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "STF tem 3 votos para manter decisão de Dino que flexibiliza folgas após fim da escala 6x1",
       "link": "https://www.estadao.com.br/economia/stf-tem-3-votos-para-manter-decisao-de-dino-que-flexibiliza-folgas-apos-fim-da-escala-6x1/",
       "date": "2026-11-13T20:22:41.000Z",
       "summary": "",
       "source": "Estadão",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Mãe, pai e tio de deputado desviaram emendas de R$ 8,6 milhões com saques e transportadora, diz PF",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/mae-pai-e-tio-de-deputado-desviaram-emendas-de-r-86-milhoes-com-saques-e-transportadora-diz-pf/",
-      "date": "2026-11-13T20:20:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "6x1: Câmara contesta parte da decisão de Dino e pede que STF não referende flexibilização de folgas",
-      "link": "https://www.estadao.com.br/economia/6x1-camara-contesta-parte-da-decisao-de-dino-e-pede-que-stf-nao-referende-flexibilizacao-de-folgas/",
-      "date": "2026-11-13T20:19:51.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Toffoli dá três dias para chapa de Lula explicar indícios de irregularidades em contas de campanha",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/toffoli-da-tres-dias-para-chapa-de-lula-explicar-indicios-de-irregularidades-em-contas-de-campanha/",
-      "date": "2026-11-13T20:18:02.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -257,15 +338,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Galípolo afirma ter 'desafio pedagógico' de explicar política monetária e diz que 'verdade custa caro'",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/galipolo-afirma-ter-desafio-pedagogico-de-explicar-politica-monetaria-e-diz-que-verdade-custa-caro.shtml",
-      "date": "2026-11-13T20:03:00.000Z",
-      "summary": "O presidente do Banco Central, Gabriel Galípolo, afirmou ter \"um desafio pedagógico\" de explicar a política monetária desde que entrou na autarquia. Ele disse nesta sexta-feira (13), durante evento do banco britânico Barclays, que é \"custoso ir atrás da verdad",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Comissão aprova proposta para uso de títulos em concursos de PMs e bombeiros",
       "link": "https://www.camara.leg.br/noticias/1319294-comissao-aprova-proposta-para-uso-de-titulos-em-concursos-de-pms-e-bombeiros",
       "date": "2026-11-13T20:01:00.000Z",
@@ -275,21 +347,12 @@
       "type": "oficial"
     },
     {
-      "title": "Chefe do Tesouro dos EUA culpa Departamento de Comércio por falha em escândalo envolvendo Nvidia",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/10/25/6568-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post468054",
-      "date": "2026-11-13T19:52:00.000Z",
-      "summary": "O secretário do Tesouro dos Estados Unidos, Scott Bessent, culpou nesta sexta-feira (13) o Departamento de Comércio por não ter incluído a Megaspeed, empresa de Singapura no centro de um escândalo que levou à renúncia do presidente-executivo da Nvidia, Jensen ",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Tesouro Nacional derruba sistemas após ataque que roubou dados de beneficiários do governo",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/tesouro-nacional-derruba-sistemas-apos-ataque-que-roubou-dados-de-beneficiarios-do-governo.shtml",
-      "date": "2026-11-13T19:52:00.000Z",
-      "summary": "A Secretaria do Tesouro Nacional informou nesta sexta-feira (13) que mantém parte de seus sistemas fora do ar após um ataque hacker que expôs dados pessoais de usuários e beneficiários de pagamentos do governo federal. A previsão é que os serviços sejam normal",
-      "source": "Folha",
-      "cat": "economia",
+      "title": "Ex-tesoureiro da Caixa é condenado por desviar quase R$ 890 mil",
+      "link": "https://www.poder360.com.br/poder-justica/ex-tesoureiro-da-caixa-e-condenado-por-desviar-quase-r-890-mil/",
+      "date": "2026-11-13T19:57:35.000Z",
+      "summary": "Segundo a sentença, o dinheiro desviado por Irineu Barth Júnior foi utilizado em apostas on-line; defesa diz que ex-tesoureiro tem problemas de saúde mental, não enriqueceu e acumula dívidas",
+      "source": "Poder360",
+      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -343,24 +406,6 @@
       "date": "2026-11-13T19:23:00.000Z",
       "summary": "A AGU (Advocacia-Geral da União) concordou nesta sexta-feira (13) com a decisão do ministro Cristiano Zanin, do STF (Supremo Tribunal Federal), de negar a liminar solicitada pelo PSD para garantir a realização de um segundo turno na eleição pelo Governo do Rio",
       "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "ICE fez 491 mil prisões em 1 ano, maior número desde sua criação",
-      "link": "https://www.poder360.com.br/poder-internacional/ice-fez-491-mil-prisoes-em-1-ano-maior-numero-desde-sua-criacao/",
-      "date": "2026-11-13T19:19:10.000Z",
-      "summary": "Dado se refere ao ano fiscal de 2026; depois da derrota republicana nas eleições, Trump disse que política de deportações talvez seja “dura demais”",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Fachin suspende prazos processuais após instabilidade da Microsoft",
-      "link": "https://www.poder360.com.br/poder-justica/fachin-suspende-prazos-processuais-apos-instabilidade-da-microsoft/",
-      "date": "2026-11-13T19:07:18.000Z",
-      "summary": "Presidente do CNJ atendeu a pedido da OAB; big tech diz que serviços apresentaram \"recuperação e estabilidade\" nesta 6ª feira (13.nov)",
-      "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -455,15 +500,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Pacote fiscal quer gasto crescendo abaixo de 2%, mas sem afetar política do salário mínimo; entenda",
-      "link": "https://www.estadao.com.br/economia/pacote-fiscal-quer-gasto-crescendo-abaixo-de-2-mas-sem-afetar-politica-do-salario-minimo-entenda/",
-      "date": "2026-11-13T18:13:24.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Nvidia avalia CEO de concorrente para substituir Jensen Huang, diz jornal",
       "link": "https://g1.globo.com/tecnologia/noticia/2026/11/13/nvidia-rene-haas-arm-holdings.ghtml",
       "date": "2026-11-13T18:10:29.000Z",
@@ -491,24 +527,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Mercado de petróleo volta a ter oferta acima da demanda, diz IEA",
-      "link": "https://www.poder360.com.br/poder-economia/mercado-de-petroleo-volta-a-ter-oferta-acima-da-demanda-diz-iea/",
-      "date": "2026-11-13T17:56:39.000Z",
-      "summary": "Recuperação das exportações do Golfo elevou a oferta mundial, que deve superar a demanda no 4º trimestre de 2026",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Comissão aprova aumento de pena para feminicídio antecedido por perseguição",
-      "link": "https://www.camara.leg.br/noticias/1319262-comissao-aprova-aumento-de-pena-para-feminicidio-antecedido-por-perseguicao",
-      "date": "2026-11-13T17:04:00.000Z",
-      "summary": "O projeto continua em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
       "title": "Binance diz ter coberto prejuízo de R$ 34 bilhões após maior roubo da história das criptomoedas",
       "link": "https://g1.globo.com/tecnologia/noticia/2026/11/13/binance-criptomoeda-roubo.ghtml",
       "date": "2026-11-13T16:31:56.000Z",
@@ -527,15 +545,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Votação da PEC da Maioridade deve preparar o PT para um ‘racha’ na bancada",
-      "link": "https://www.estadao.com.br/politica/votacao-da-pec-da-maioridade-deve-preparar-o-pt-para-um-racha-na-bancada/",
-      "date": "2026-11-13T15:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "EUA desmantelam rede de golpes de criptomoedas da Coreia do Norte, diz FBI",
       "link": "https://www.dw.com/pt-br/eua-desmantelam-rede-de-golpes-de-criptomoedas-da-coreia-do-norte-diz-fbi/a-79940495?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-13T14:23:00.000Z",
@@ -545,12 +554,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Mercedes suspende todos os investimentos na Alemanha e avalia fechar fábricas",
-      "link": "https://www.dw.com/pt-br/mercedes-suspende-todos-os-investimentos-na-alemanha-e-avalia-fechar-fábricas/a-79935095?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-12T19:15:00.000Z",
-      "summary": "Montadora alemã cita custos elevados, queda da demanda, tarifas e concorrência chinesa para justificar a suspensão de investimentos na Alemanha e a possibilidade de fechamento de unidades no país.",
-      "source": "DW Brasil",
-      "cat": "internacional",
+      "title": "Kassab diz que decisão de Zanin que negou liminar por 2º turno no Rio foi correta e aguarda mérito",
+      "link": "https://www.estadao.com.br/politica/kassab-diz-que-decisao-de-zanin-que-negou-liminar-por-2-turno-no-rio-foi-correta-e-aguarda-merito/",
+      "date": "2026-11-13T13:29:36.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
       "type": "imprensa"
     },
     {
