@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-13T00:22:11.201Z",
+  "updated": "2026-11-13T01:50:55.151Z",
   "market": {
     "ibov": {
       "price": 171324.31,
       "pct": -0.43,
-      "time": "2026-11-13T00:22:05.567Z",
+      "time": "2026-11-13T01:50:49.974Z",
       "history": [
         {
           "d": "2026-10-14",
@@ -145,10 +145,127 @@
   },
   "news": [
     {
-      "title": "ASSISTA: Senado aprova texto-base do projeto de ajuste fiscal",
+      "title": "Marinho diz que governo deu “calote” em Estados com ajuste fiscal",
+      "link": "https://www.poder360.com.br/poder-congresso/marinho-diz-que-governo-deu-calote-em-estados-com-ajuste-fiscal/",
+      "date": "2026-11-13T01:47:41.000Z",
+      "summary": "Líder da Oposição critica adiamento de repasses e exclusão de R$ 10,5 bilhões em subsídios ao diesel da meta fiscal",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Braskem tem prejuízo líquido de R$ 1,1 bilhão no 3º tri",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/braskem-tem-prejuizo-liquido-de-r-11-bilhao-no-3o-tri.shtml",
+      "date": "2026-11-13T01:26:00.000Z",
+      "summary": "A petroquímica Braskem, que está em recuperação judicial, teve prejuízo líquido de R$ 1,1 bilhão no terceiro trimestre, piorando seu resultado negativo em relação ao prejuízo de R$ 26 milhões no mesmo período em 2025, segundo dados divulgados nesta quinta-feir",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "STF rejeita recursos de associações, encerrando ação sobre indenização e acordo para poupadores",
+      "link": "https://www.estadao.com.br/economia/stf-rejeita-recursos-de-associacoes-encerrando-acao-sobre-indenizacao-e-acordo-para-poupadores/",
+      "date": "2026-11-13T01:09:29.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Veja como votou cada senador no projeto de lei com medidas de ajuste fiscal",
+      "link": "https://www.estadao.com.br/economia/veja-como-votou-cada-senador-no-projeto-de-lei-com-medidas-de-ajuste-fiscal/",
+      "date": "2026-11-13T01:08:28.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Saiba como cada senador votou no pacote de ajuste fiscal de Lula",
+      "link": "https://www.poder360.com.br/poder-congresso/saiba-como-cada-senador-votou-no-pacote-de-ajuste-fiscal-de-lula/",
+      "date": "2026-11-13T01:02:59.000Z",
+      "summary": "Projeto recebeu 45 votos favoráveis e 31 contrários; 5 senadores não registraram voto na proposta",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Defesa de Vorcaro contesta Fachin e quer que Gilmar decida sobre relatoria do caso Master",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/defesa-de-vorcaro-contesta-fachin-e-quer-que-gilmar-decida-sobre-relatoria-do-caso-master.shtml",
+      "date": "2026-11-13T00:59:00.000Z",
+      "summary": "A defesa de Daniel Vorcaro decidiu questionar a presença do presidente do STF (Supremo Tribunal Federal), Edson Fachin, à frente do caso do Banco Master. Leia mais (11/12/2026 - 21h59)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Flávio Bolsonaro vota contra ajuste do governo Lula após ter prometido corte de gastos",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/11/flavio-bolsonaro-vota-contra-ajuste-do-governo-lula-apos-ter-prometido-corte-de-gastos.shtml",
+      "date": "2026-11-13T00:56:00.000Z",
+      "summary": "Depois de perder a eleição para Lula (PT) e fugir para os Estados Unidos, o senador Flávio Bolsonaro (PL-RJ) votou contra, nesta quinta-feira (12), o plano de ajuste do governo federal, conhecido como \"plano Moretti\". Leia mais (11/12/2026 - 21h56)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Aviso",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/vaivem/2026/11/aviso.shtml",
+      "date": "2026-11-13T00:54:00.000Z",
+      "summary": "Excepcionalmente nesta quinta (12), a coluna não é publicada. Leia mais (11/12/2026 - 21h54)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Ajuste fiscal: entenda, ponto a ponto, o projeto do governo aprovado no Senado",
+      "link": "https://www.estadao.com.br/economia/ajuste-fiscal-entenda-ponto-a-ponto-o-projeto-do-governo-aprovado-no-senado/",
+      "date": "2026-11-13T00:53:50.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Qual é o preço do dólar que vai fazer governo e políticos acordarem? R$ 6?",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2026/11/qual-e-o-preco-do-dolar-que-vai-fazer-governo-e-politicos-acordarem-r-6.shtml",
+      "date": "2026-11-13T00:43:00.000Z",
+      "summary": "Dólar caro costuma causar alerta em políticos. É um indicador \"pop\" de problemas econômicos, um cheiro de queimado. No caso de disparadas, altera humores do eleitorado também, mesmo entre pessoas mais pobres. Dá para perceber a alteração até em pesquisas de co",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Moraes atende a pedido da defesa de Augusto Heleno e impede visita de senadores ao general",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/11/moraes-atende-a-pedido-da-defesa-de-augusto-heleno-e-impede-visita-de-senadores-ao-general.shtml",
+      "date": "2026-11-13T00:39:00.000Z",
+      "summary": "O ministro Alexandre de Moraes, do STF (Supremo Tribunal Federal), acatou a um pedido da defesa do general Augusto Heleno e impediu a visita do senador Magno Malta (PL-ES) e da senadora Damares Alves (Republicanos-DF) por conta do quadro de saúde do ex-ministr",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Texto principal do ajuste fiscal é aprovado pelo Senado",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/12/texto-principal-do-ajuste-fiscal-e-aprovado-pelo-senado",
+      "date": "2026-11-13T00:35:36.000Z",
+      "summary": "O Plenário do Senado aprovou, nesta quinta-feira (12), o texto principal do projeto de ajuste fiscal do governo (PLP 299/2026). O texto aprovado, por 45 votos a 31, foi um substitutivo do senador Eduardo Braga (MDB-AM) ao projeto apresentado pelo senador Jaque",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Senado aprova texto-base do projeto de ajuste fiscal",
       "link": "https://g1.globo.com/politica/ao-vivo/senado-pacote-medidas-fiscais.ghtml",
-      "date": "2026-11-13T00:09:01.000Z",
-      "summary": "ASSISTA: Senado aprova texto-base do projeto de ajuste fiscal O governo defende que o projeto vai estabilizar a dívida pública e preservar os compromissos assumidos pelo presidente Lula durante a campanha. O Senado discute o Projeto de Lei Complementar (PLP) c",
+      "date": "2026-11-13T00:35:23.000Z",
+      "summary": "Senado aprova texto-base do projeto de ajuste fiscal Proposta do governo promove corte de benefícios fiscais e altera cálculo do piso constitucional da saúde. Texto foi aprovado por 45 votos a 31. O Senado aprovou o texto-base do Projeto de Lei Complementar (P",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Senado Federal aprova texto-base de projeto que prevê ajuste fiscal: como votaram os senadores e partidos",
+      "link": "https://g1.globo.com/politica/votacoes-no-congresso/noticia/2026/11/12/senado-federal-aprova-texto-base-projeto-ajuste-fiscal-como-votaram-senadores-partidos.ghtml",
+      "date": "2026-11-13T00:16:01.000Z",
+      "summary": "Senado Federal aprova texto-base de projeto que prevê ajuste fiscal de até R$ 60 bilhões O Senado aprovou nesta quinta-feira (12) o texto-base da proposta do governo do presidente Lula (PT) para um ajuste fiscal. As mudanças nas contas públicas tentam controla",
       "source": "g1",
       "cat": "politica",
       "type": "imprensa"
@@ -166,7 +283,7 @@
       "title": "Senado Federal aprova texto-base de projeto que prevê ajuste fiscal de até R$ 60 bilhões",
       "link": "https://g1.globo.com/politica/noticia/2026/11/12/senado-federal-aprova-ajuste-fiscal-de-ate-r-60-bilhoes.ghtml",
       "date": "2026-11-13T00:05:04.000Z",
-      "summary": "Governo Lula apresenta projeto com medidas de ajuste fiscal de até R$ 60 bi em 2027 O Senado Federal aprovou nesta quinta-feira (12) o texto-base da proposta do governo do presidente Luiz Inácio Lula da Silva (PT) para um ajuste fiscal. As mudanças nas contas ",
+      "summary": "Senado Federal aprova texto-base de projeto que prevê ajuste fiscal de até R$ 60 bilhões O Senado Federal aprovou nesta quinta-feira (12) o texto-base da proposta do governo do presidente Luiz Inácio Lula da Silva (PT) para um ajuste fiscal. As mudanças nas co",
       "source": "g1",
       "cat": "politica",
       "type": "imprensa"
@@ -181,10 +298,10 @@
       "type": "imprensa"
     },
     {
-      "title": "Mega-Sena, concurso 3085: confira os números sorteados",
+      "title": "Mega-Sena 3085 acumula e prêmio vai a R$ 27 milhões; confira os números sorteados",
       "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/12/mega-sena-concurso-3085-confira-os-numeros-sorteados.ghtml",
       "date": "2026-11-13T00:03:17.000Z",
-      "summary": "Como funciona a Mega-Sena? O sorteio do concurso 3.085 da Mega-Sena foi realizado na noite desta quinta-feira (12), em São Paulo. O prêmio para as apostas que acertarem as seis dezenas é de R$ 21.085.616.30. 📱Favorite o g1 no Google e acompanhe as principais ",
+      "summary": "Concurso 3.085 da Mega-Sena: veja os números sorteados O sorteio do concurso 3.085 da Mega-Sena foi realizado na noite desta quinta-feira (12), em São Paulo. O prêmio para as apostas que acertarem as seis dezenas é de R$ 21.085.616.30. No entanto, ninguém levo",
       "source": "g1",
       "cat": "economia",
       "type": "imprensa"
@@ -199,47 +316,11 @@
       "type": "imprensa"
     },
     {
-      "title": "Tesouro Nacional sofre ataque hacker que expõe dados de 30 mil cadastros e 4.000 chaves Pix",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/tec/2026/11/tesouro-nacional-sofre-ataque-hacker-que-expoe-dados-de-30-mil-cadastros-e-4000-chaves-pix.shtml",
-      "date": "2026-11-12T23:57:00.000Z",
-      "summary": "A Secretaria do Tesouro Nacional informou nesta quinta-feira (12) que sofreu um incidente de segurança que expôs dados pessoais de cerca de 30 mil cadastros e 4.000 chaves Pix de beneficiários de pagamentos do governo federal. O acesso não autorizado foi ident",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Lucro da B3 fica dentro do esperado no 3º tri, a R$ 1,4 bi",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/lucro-da-b3-fica-dentro-do-esperado-no-3o-tri-a-r-14-bi.shtml",
-      "date": "2026-11-12T23:36:00.000Z",
-      "summary": "A operadora da Bolsa de valores de São Paulo, a B3, divulgou nesta quinta-feira (12) um resultado de terceiro trimestre em linha com expectativas de analistas, com avanço na receita líquida e no desempenho operacional. Leia mais (11/12/2026 - 20h36)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "O risco de Andrei Rodrigues é a própria PF, de onde jorram os vazamentos",
       "link": "https://www.estadao.com.br/politica/eliane-cantanhede/o-risco-de-andrei-rodrigues-e-a-propria-pf-de-onde-jorram-os-vazamentos/",
       "date": "2026-11-12T23:34:35.000Z",
       "summary": "",
       "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Natura reverte prejuízo com lucro de R$ 49 milhões no 3° tri",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/natura-reverte-prejuizo-com-lucro-de-r-49-milhoes-no-3-tri.shtml",
-      "date": "2026-11-12T23:30:00.000Z",
-      "summary": "A Natura reverteu um prejuízo líquido de quase R$ 2 bilhões registrado no terceiro trimestre de 2025 com um resultado positivo de R$ 49 milhões para o mesmo período neste ano, segundo balanço divulgado nesta quinta-feira (12) pela fabricante de cosméticos. Lei",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Fachin não diz como vai encaminhar caso Master nem análise do caso Moraes",
-      "link": "https://www.poder360.com.br/poder-justica/fachin-nao-diz-como-vai-encaminhar-caso-master-nem-analise-do-caso-moraes/",
-      "date": "2026-11-12T23:20:08.000Z",
-      "summary": "Pedido de vista de Dino no julgamento de 15 de setembro e a espera pelos relatórios da PF com menções a ministros atrasam os processos",
-      "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -262,38 +343,11 @@
       "type": "imprensa"
     },
     {
-      "title": "Fachin evita dizer o que fará com o processo de afastamento de Andrei da PF",
-      "link": "https://www.poder360.com.br/poder-justica/fachin-evita-dizer-o-que-fara-com-o-processo-de-afastamento-de-andrei-da-pf/",
-      "date": "2026-11-12T23:09:08.000Z",
-      "summary": "Presidente do Supremo manteve o diretor-geral do cargo e pediu manifestação da PGR, mas não dá indícios dos próximos passos",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Senado aprova inclusão de vacina contra herpes-zóster no SUS; projeto segue para a Câmara",
       "link": "https://g1.globo.com/saude/noticia/2026/11/12/senado-aprova-inclusao-de-vacina-contra-herpes-zoster-no-sus-projeto-segue-para-a-camara.ghtml",
       "date": "2026-11-12T23:07:42.000Z",
       "summary": "= Reprodução/Canva Pro A Comissão de Assuntos Sociais (CAS) do Senado confirmou, na quarta-feira (11), a aprovação de um projeto de lei que prevê a inclusão da vacina contra herpes-zóster, doença popularmente conhecida como cobreiro, no calendário nacional de ",
       "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "PGR defende rejeição de novo pedido de revisão criminal que poderia anular a condenação de Jair Bolsonaro",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/12/pgr-diz-se-contra-revisao-criminal-que-poderia-anular-a-condenacao-de-jair-bolsonaro.ghtml",
-      "date": "2026-11-12T23:04:53.000Z",
-      "summary": "O ex-presidente da República, Jair Messias Bolsonaro (PL), fez uma aparição de cerca de 20 minutos no quintal da casa onde ele cumpria prisão domiciliar em 9 de setembro de 2025 Wilton Junior/Estadão Conteúdo O procurador-geral da República, Paulo Gonet, defen",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Chefe da PF diz a ministro da Justiça que agiu conforme a lei após afastar delegados",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/chefe-da-pf-diz-a-ministro-da-justica-que-agiu-conforme-a-lei-apos-afastar-delegados.shtml",
-      "date": "2026-11-12T23:03:00.000Z",
-      "summary": "O diretor-geral da PF (Polícia Federal), Andrei Rodrigues, disse ao ministro da Justiça, Wellington Lima e Silva, estar certo de que agiu conforme a lei ao afastar delegados do caso Master após a confecção de relatórios sobre ministros do STF (Supremo Tribunal",
-      "source": "Folha",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -316,15 +370,6 @@
       "type": "oficial"
     },
     {
-      "title": "PSB aprova início de federação com PDT e pode incluir outros partidos",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/psb-aprova-inicio-de-federacao-com-pdt-e-pode-incluir-outros-partidos.shtml",
-      "date": "2026-11-12T22:50:00.000Z",
-      "summary": "O PSB (Partido Socialista Brasileiro) aprovou nesta quinta-feira (12), por unanimidade, o início da formação de uma federação com o PDT (Partido Democrático Trabalhista). Leia mais (11/12/2026 - 19h50)",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Flávio Dino libera volta do julgamento sobre criminalização de jogos de azar no STF",
       "link": "https://www.estadao.com.br/politica/flavio-dino-libera-volta-do-julgamento-sobre-criminalizacao-de-jogos-de-azar-no-stf-nprp/",
       "date": "2026-11-12T22:46:31.000Z",
@@ -343,15 +388,6 @@
       "type": "oficial"
     },
     {
-      "title": "Mais uma: ex-CEO da Nvidia manteve relacionamento extraconjugal com uma terceira mulher, diz agência",
-      "link": "https://www.estadao.com.br/economia/ex-ceo-nvidia-relacionamento-extraconjugal-terceira-mulher-npr/",
-      "date": "2026-11-12T21:59:26.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Motta destaca o papel da comunicação e o reconhecimento internacional da TV Câmara",
       "link": "https://www.camara.leg.br/noticias/1319194-motta-destaca-o-papel-da-comunicacao-e-o-reconhecimento-internacional-da-tv-camara",
       "date": "2026-11-12T21:58:00.000Z",
@@ -361,18 +397,9 @@
       "type": "oficial"
     },
     {
-      "title": "Senado aprova urgência para votar projeto de lei com ajuste fiscal que pode chegar a R$ 56 bilhões",
+      "title": "Senado aprova texto-base do projeto de lei com ajuste fiscal que pode chegar a R$ 56 bi em 2027",
       "link": "https://www.estadao.com.br/economia/senado-projeto-lei-ajuste-fiscal/",
       "date": "2026-11-12T21:56:45.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "6x1: Dino atende pleito de setores ao flexibilizar prazo para folgas e fortalece negociação sindical",
-      "link": "https://www.estadao.com.br/economia/6x1-dino-atende-pleito-de-setores-ao-flexibilizar-prazo-para-folgas-e-fortalece-negociacao-sindical/",
-      "date": "2026-11-12T21:53:35.000Z",
       "summary": "",
       "source": "Estadão",
       "cat": "economia",
@@ -395,15 +422,6 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Zanin rejeita liminar pedida por PSD por segundo turno no RJ",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/zanin-rejeita-liminar-pedida-por-psd-por-segundo-turno-no-rj.shtml",
-      "date": "2026-11-12T21:25:00.000Z",
-      "summary": "O ministro Cristiano Zanin, do STF (Supremo Tribunal Federal), rejeitou nesta quinta-feira (12) a liminar pedida pelo PSD para tentar garantir a realização de um segundo turno no Rio de Janeiro entre o governador eleito Douglas Ruas (PL) e o ex-prefeito Eduard",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
     },
     {
       "title": "Projeto cria fundo para agricultura familiar bancado por taxas sobre exportação e grandes propriedades",
@@ -433,15 +451,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Pestalozzianos pedem, em sessão especial, atenção à pessoa com deficiência",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/12/pestalozzianos-pedem-em-sessao-especial-atencao-a-pessoa-com-deficiencia",
-      "date": "2026-11-12T20:55:34.000Z",
-      "summary": "Durante sessão especial do Senado nesta quinta-feira (12) para comemorar os 100 anos do Movimento Pestalozziano no Brasil, seus representantes defenderam políticas públicas mais alinhadas às necessidades das pessoas com deficiência. Os pestalozzianos cobraram ",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
       "title": "Projeto proíbe apostas online para devedores de pensão alimentícia",
       "link": "https://www.camara.leg.br/noticias/1312633-projeto-proibe-apostas-online-para-devedores-de-pensao-alimenticia",
       "date": "2026-11-12T20:51:00.000Z",
@@ -460,10 +469,10 @@
       "type": "imprensa"
     },
     {
-      "title": "Produtores de soja rebatem Branco do Brasil sobre dívidas do agro; estatal nega ter culpado todo o setor",
+      "title": "Produtores de soja rebatem Banco do Brasil sobre dívidas do agro; estatal nega ter culpado todo o setor",
       "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/12/nota-aprosoja.ghtml",
       "date": "2026-11-12T20:40:36.000Z",
-      "summary": "Produção de soja é marcada por expectativas e desafios em 2026 Divulgação/Aprosoja edA Associação Brasileira dos Produtores de Soja (Aprosoja Brasil) rebateu nesta quinta-feira (12) a declaração da presidente do Banco do Brasil, Tarciana Medeiros, de que parte",
+      "summary": "Produção de soja é marcada por expectativas e desafios em 2026 Divulgação/Aprosoja A Associação Brasileira dos Produtores de Soja (Aprosoja Brasil) rebateu nesta quinta-feira (12) a declaração da presidente do Banco do Brasil, Tarciana Medeiros, de que parte d",
       "source": "g1",
       "cat": "economia",
       "type": "imprensa"
@@ -529,15 +538,6 @@
       "summary": "Jensen Huang deixou o cargo nesta quinta-feira (12/11) após vir à tona que ele teria um segundo relacionamento com uma funcionária da empresa. Valor de mercado da companhia despencou desde o início da crise.",
       "source": "BBC News Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Como a tecnologia Mini LED transforma a experiência de imagem em telas grandes",
-      "link": "https://www.estadao.com.br/economia/negocios/como-a-tecnologia-mini-led-transforma-a-experiencia-de-imagem-em-telas-grandes/",
-      "date": "2026-11-12T15:50:10.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
