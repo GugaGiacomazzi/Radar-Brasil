@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-13T19:50:16.018Z",
+  "updated": "2026-11-13T20:49:25.264Z",
   "market": {
     "ibov": {
-      "price": 172239.02,
-      "pct": 0.53,
-      "time": "2026-11-13T19:50:09.546Z",
+      "price": 172377.98,
+      "pct": 0.62,
+      "time": "2026-11-13T20:49:19.360Z",
       "history": [
         {
           "d": "2026-10-14",
@@ -92,7 +92,7 @@
         },
         {
           "d": "2026-11-13",
-          "c": 172239.0156
+          "c": 172483.4844
         }
       ]
     },
@@ -149,10 +149,145 @@
   },
   "news": [
     {
-      "title": "Governo estuda CNU com prova antes da autorização de vagas, diz ministra",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/governo-estuda-cnu-com-prova-antes-da-autorizacao-de-vagas-diz-ministra.shtml",
-      "date": "2026-11-13T19:45:00.000Z",
-      "summary": "O governo federal estuda aplicar o CNU (Concurso Nacional Unificado) mesmo com poucas vagas autorizadas no momento da prova. A mudança deixaria uma lista de candidatos aptos para serem chamados assim que os órgãos abrissem postos de trabalho. Leia mais (11/13/",
+      "title": "Fachin defende indicação de mulher negra para o STF",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/fachin-defende-indicacao-de-mulher-negra-para-o-stf.shtml",
+      "date": "2026-11-13T20:44:00.000Z",
+      "summary": "O presidente do STF (Supremo Tribunal Federal), ministro Edson Fachin, defendeu nesta sexta-feira (13) a indicação de uma mulher negra para o tribunal, durante o Encontro Nacional de Juízas e Juízes Negros, no Rio de Janeiro. Leia mais (11/13/2026 - 17h44)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Por que El Salvador tem soldados no Haiti?",
+      "link": "https://www.dw.com/pt-br/por-que-el-salvador-tem-soldados-no-haiti/a-79944865?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-13T20:35:00.000Z",
+      "summary": "O fato de o primeiro-ministro haitiano ter parabenizado o presidente de El Salvador pela repressão a gangues no Haiti colocou em evidência a relação entre os países. Mas o que está acontecendo e qual é a posição dos EUA?",
+      "source": "DW Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Comissão aprova proposta que transforma em lei a Política para a Primeira Infância",
+      "link": "https://www.camara.leg.br/noticias/1319429-comissao-aprova-proposta-que-transforma-em-lei-a-politica-para-a-primeira-infancia",
+      "date": "2026-11-13T20:34:00.000Z",
+      "summary": "Texto pode seguir para análise do Senado Federal, a menos que haja recurso para votação no Plenário da Câmara",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Caixa revê risco no campo e renegocia dívidas após avanço da inadimplência",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/caixa-reve-risco-no-campo-e-renegocia-dividas-apos-avanco-da-inadimplencia.shtml",
+      "date": "2026-11-13T20:30:00.000Z",
+      "summary": "A Caixa Econômica Federal ampliou as provisões para perdas com empréstimos e reduziu a concessão de crédito ao agronegócio diante do avanço da inadimplência no setor, que chegou a 25,44% em setembro. Leia mais (11/13/2026 - 17h30)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Senado tem o maior percentual já registrado de candidatos negros eleitos",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/13/senado-tem-o-maior-percentual-ja-registrado-de-candidatos-negros-eleitos",
+      "date": "2026-11-13T20:29:52.000Z",
+      "summary": "Dos 54 candidatos e candidatas eleitos para o Senado em 2026, 16 se declararam negros (pretos ou pardos). O número equivale a 29,6% do total de eleitos para a Casa — e, de acordo com o Tribunal Superior Eleitoral (TSE), é o maior percentual desde 2014, quando ",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "OpenAI lança carteira digital que permite ao ChatGPT fazer compras e pagamentos pelo usuário",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/13/chat-gpt-wallet.ghtml",
+      "date": "2026-11-13T20:28:07.000Z",
+      "summary": "As preocupações que levaram a OpenAI, do ChatGPT, a abandonar lançamento de novo sistema de IA Andrej Ivanov/AFP via Getty Images A OpenAI anunciou nesta sexta-feira (13) a ChatGPT Wallet, uma carteira digital que permitirá que agentes de inteligência artifici",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Defesa de Vorcaro questiona competência de Fachin para retirar relatoria do caso de André Mendonça",
+      "link": "https://www.estadao.com.br/politica/defesa-de-vorcaro-questiona-competencia-de-fachin-para-retirar-relatoria-do-caso-de-andre-mendonca-nprp/",
+      "date": "2026-11-13T20:27:17.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "STF tem 3 votos para manter decisão de Dino que flexibiliza folgas após fim da escala 6x1",
+      "link": "https://www.estadao.com.br/economia/stf-tem-3-votos-para-manter-decisao-de-dino-que-flexibiliza-folgas-apos-fim-da-escala-6x1/",
+      "date": "2026-11-13T20:22:41.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Mãe, pai e tio de deputado desviaram emendas de R$ 8,6 milhões com saques e transportadora, diz PF",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/mae-pai-e-tio-de-deputado-desviaram-emendas-de-r-86-milhoes-com-saques-e-transportadora-diz-pf/",
+      "date": "2026-11-13T20:20:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "6x1: Câmara contesta parte da decisão de Dino e pede que STF não referende flexibilização de folgas",
+      "link": "https://www.estadao.com.br/economia/6x1-camara-contesta-parte-da-decisao-de-dino-e-pede-que-stf-nao-referende-flexibilizacao-de-folgas/",
+      "date": "2026-11-13T20:19:51.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Toffoli dá três dias para chapa de Lula explicar indícios de irregularidades em contas de campanha",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/toffoli-da-tres-dias-para-chapa-de-lula-explicar-indicios-de-irregularidades-em-contas-de-campanha/",
+      "date": "2026-11-13T20:18:02.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Fachin defende indicação de uma mulher negra para o STF",
+      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/13/fachin-defende-indicacao-de-uma-mulher-negra-para-o-stf.ghtml",
+      "date": "2026-11-13T20:10:44.000Z",
+      "summary": "Fachin defende indicação de uma mulher negra para o STF O presidente do Supremo Tribunal Federal (STF), Edson Fachin, foi aplaudido ao defender, nesta sexta-feira (13), no Rio de Janeiro, a indicação de uma mulher negra para a Corte. A declaração foi feita no ",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Galípolo afirma ter 'desafio pedagógico' de explicar política monetária e diz que 'verdade custa caro'",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/galipolo-afirma-ter-desafio-pedagogico-de-explicar-politica-monetaria-e-diz-que-verdade-custa-caro.shtml",
+      "date": "2026-11-13T20:03:00.000Z",
+      "summary": "O presidente do Banco Central, Gabriel Galípolo, afirmou ter \"um desafio pedagógico\" de explicar a política monetária desde que entrou na autarquia. Ele disse nesta sexta-feira (13), durante evento do banco britânico Barclays, que é \"custoso ir atrás da verdad",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Comissão aprova proposta para uso de títulos em concursos de PMs e bombeiros",
+      "link": "https://www.camara.leg.br/noticias/1319294-comissao-aprova-proposta-para-uso-de-titulos-em-concursos-de-pms-e-bombeiros",
+      "date": "2026-11-13T20:01:00.000Z",
+      "summary": "Texto segue em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Chefe do Tesouro dos EUA culpa Departamento de Comércio por falha em escândalo envolvendo Nvidia",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/10/25/6568-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post468054",
+      "date": "2026-11-13T19:52:00.000Z",
+      "summary": "O secretário do Tesouro dos Estados Unidos, Scott Bessent, culpou nesta sexta-feira (13) o Departamento de Comércio por não ter incluído a Megaspeed, empresa de Singapura no centro de um escândalo que levou à renúncia do presidente-executivo da Nvidia, Jensen ",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Tesouro Nacional derruba sistemas após ataque que roubou dados de beneficiários do governo",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/tesouro-nacional-derruba-sistemas-apos-ataque-que-roubou-dados-de-beneficiarios-do-governo.shtml",
+      "date": "2026-11-13T19:52:00.000Z",
+      "summary": "A Secretaria do Tesouro Nacional informou nesta sexta-feira (13) que mantém parte de seus sistemas fora do ar após um ataque hacker que expôs dados pessoais de usuários e beneficiários de pagamentos do governo federal. A previsão é que os serviços sejam normal",
       "source": "Folha",
       "cat": "economia",
       "type": "imprensa"
@@ -167,11 +302,11 @@
       "type": "oficial"
     },
     {
-      "title": "Preços ao produtor nos EUA voltam a subir em outubro",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/10/25/6568-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post468053",
-      "date": "2026-11-13T19:36:00.000Z",
-      "summary": "Os preços ao produtor nos Estados Unidos registraram novo aumento em outubro, levando ao maior aumento anual em quatro anos e reforçando as expectativas de que o Fed (Federal Reserve) possa continuar elevando a taxa de juros após a alta esperada para o próximo",
-      "source": "Folha",
+      "title": "Reservas para calotes: puxadas pelo BB, provisões de bancos crescem 23% este ano e superam R$ 160 bi",
+      "link": "https://www.estadao.com.br/economia/negocios/reservas-para-calotes-puxadas-pelo-bb-provisoes-crescem-23-este-ano-e-passam-de-r-160-bi/",
+      "date": "2026-11-13T19:38:45.000Z",
+      "summary": "",
+      "source": "Estadão",
       "cat": "economia",
       "type": "imprensa"
     },
@@ -185,15 +320,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Comissão aprova proposta que transforma em lei a Política para a Primeira Infância",
-      "link": "https://www.camara.leg.br/noticias/1319429-comissao-aprova-proposta-que-transforma-em-lei-a-politica-para-a-primeira-infancia",
-      "date": "2026-11-13T19:34:00.000Z",
-      "summary": "Texto pode seguir para análise do Senado Federal, a menos que haja recurso para votação no Plenário da Câmara",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
       "title": "Comissão aprova proposta que aumenta penas para saque de cargas após acidentes de trânsito",
       "link": "https://www.camara.leg.br/noticias/1319386-comissao-aprova-proposta-que-aumenta-penas-para-saque-de-cargas-apos-acidentes-de-transito",
       "date": "2026-11-13T19:33:00.000Z",
@@ -201,24 +327,6 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Lula atravessará o Rubicão?",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/marcos-mendes/2026/11/lula-atravessara-o-rubicao.shtml",
-      "date": "2026-11-13T19:30:00.000Z",
-      "summary": "Desde seu primeiro mandato, Lula adota comportamento dúbio na sua relação com o Banco Central. Por um lado, concede autonomia (mesmo antes de estabelecida em lei) para que a autoridade monetária busque o controle da inflação. Por outro, mantém uma política fis",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Enel tenta evitar caducidade com pedido de nova análise na Aneel",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/enel-tenta-evitar-recomendacao-de-caducidade-com-nova-analise-da-aneel.shtml",
-      "date": "2026-11-13T19:25:00.000Z",
-      "summary": "A Enel São Paulo pediu à Aneel (Agência Nacional de Energia Elétrica) que atualize a avaliação de seu desempenho operacional antes de recomendar ao governo federal a caducidade (cancelamento) de sua concessão. Em manifestação protocolada na agência em 10 de no",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
     },
     {
       "title": "O que está por trás na alta dos registros de violência nas escolas brasileiras?",
@@ -271,15 +379,6 @@
       "date": "2026-11-13T18:55:15.000Z",
       "summary": "O ministro Dias Toffoli, do Tribunal Superior Eleitoral (TSE), deu prazo de três dias para a campanha à reeleição da chapa Lula-Alckmin apresentar esclarecimentos sobre inconsistências nas contas apontadas pela área técnica da Corte Eleitoral. Toffoli deu três",
       "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Fachin suspende contagem de prazos processuais em todo País após falhas em serviços da Microsoft",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/fachin-suspende-contagem-de-prazos-processuais-no-stf-apos-falhas-em-servicos-da-microsoft/",
-      "date": "2026-11-13T18:55:10.000Z",
-      "summary": "",
-      "source": "Estadão",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -347,15 +446,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Juíza manda prefeitura pagar servidores que não votaram no filho e sobrinha de Maranhãozinho",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/juiza-manda-prefeitura-pagar-servidores-que-nao-votaram-no-filho-e-sobrinha-de-maranhaozinho/",
-      "date": "2026-11-13T18:16:09.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Em carta a Lula, coletivos feministas pedem mulheres no STF e paridade de gênero no primeiro escalão do governo",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/em-carta-a-lula-coletivos-feministas-pedem-mulheres-no-stf-e-paridade-de-genero-no-primeiro-escalao-do-governo.shtml",
       "date": "2026-11-13T18:16:00.000Z",
@@ -377,7 +467,7 @@
       "title": "Nvidia avalia CEO de concorrente para substituir Jensen Huang, diz jornal",
       "link": "https://g1.globo.com/tecnologia/noticia/2026/11/13/nvidia-rene-haas-arm-holdings.ghtml",
       "date": "2026-11-13T18:10:29.000Z",
-      "summary": "Jensen Huang e Rene Haas Reuters/Carlos Barria; Reuters/Hasnoor Hussain O conselho da Nvidia abordou o CEO da empresa de chips Arm Holds, Rene Haas, em sua busca por um potencial sucessor para Jensen Huang, informou nesta sexta-feira (13) o Financial Times a p",
+      "summary": "Jensen Huang e Rene Haas Reuters/Carlos Barria; Reuters/Hasnoor Hussain OHuang renunciou ao cargo na quinta-feira (12) após revelações de casos extraconjugais, incluindo um envolvendo uma suposta espiã chinesa, mergulhando a sexta-feira (13) o Financial Times ",
       "source": "g1",
       "cat": "economia",
       "type": "imprensa"
@@ -401,39 +491,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Povo versus Mercado",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/demetriomagnoli/2026/11/povo-versus-mercado.shtml",
-      "date": "2026-11-13T18:00:00.000Z",
-      "summary": "Na doutrina marxista, a dinâmica social expressa-se como luta de classes: proletariado versus burguesia. O pensamento petista inventou uma versão infantil do paradigma: Povo versus Mercado. À primeira vista, trata-se apenas de um recurso eufemístico, troca de ",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Mercado de petróleo volta a ter oferta acima da demanda, diz IEA",
       "link": "https://www.poder360.com.br/poder-economia/mercado-de-petroleo-volta-a-ter-oferta-acima-da-demanda-diz-iea/",
       "date": "2026-11-13T17:56:39.000Z",
       "summary": "Recuperação das exportações do Golfo elevou a oferta mundial, que deve superar a demanda no 4º trimestre de 2026",
       "source": "Poder360",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Metade do ganho do pacote fiscal do governo deve vir de aumento de arrecadação",
-      "link": "https://www.estadao.com.br/economia/pacote-fiscal-governo-aumento-arrecadacao/",
-      "date": "2026-11-13T17:51:35.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Aprovação do ajuste no Senado teve ajuda de Alcolumbre e fogo amigo da esquerda; leia bastidor",
-      "link": "https://www.estadao.com.br/economia/aprovacao-do-ajuste-no-senado-teve-ajuda-de-alcolumbre-e-fogo-amigo-da-esquerda-leia-bastidor/",
-      "date": "2026-11-13T17:50:32.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -446,37 +509,10 @@
       "type": "oficial"
     },
     {
-      "title": "Câmara pede que STF derrube parte das regras fixadas por Dino para escala 5x2",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/13/camara-pede-que-stf-derrube-parte-das-regras-fixadas-por-dino-para-escala-5x2.ghtml",
-      "date": "2026-11-13T16:42:59.000Z",
-      "summary": "A Câmara dos Deputados se manifestou ao Supremo Tribunal Federal (STF) contra parte da decisão do ministro Flávio Dino que definiu regras para a transição da escala 6x1 para a 5x2. Em manifestação enviada à Corte, a Advocacia da Câmara defendeu que o plenário ",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Binance diz ter coberto prejuízo de R$ 34 bilhões após maior roubo da história das criptomoedas",
       "link": "https://g1.globo.com/tecnologia/noticia/2026/11/13/binance-criptomoeda-roubo.ghtml",
       "date": "2026-11-13T16:31:56.000Z",
       "summary": "Logotipo da Binance. Dado Ruvic/Reuters A Binance, maior corretora de criptomoedas do mundo, afirmou nesta sexta-feira (13) que concluiu a reposição dos ativos afetados pelo ataque hacker que desviou US$ 6,3 bilhões (cerca de R$ 34 bilhões) da plataforma. \"Obr",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Comissão aprova proposta para integrar moradia, comércio e serviços nos bairros",
-      "link": "https://www.camara.leg.br/noticias/1319243-comissao-aprova-proposta-para-integrar-moradia-comercio-e-servicos-nos-bairros",
-      "date": "2026-11-13T16:19:00.000Z",
-      "summary": "Texto continua em análise na Câmara",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Além do agro: entenda por que o lucro do Banco do Brasil despencou 66,5% e derrubou as ações",
-      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/13/entenda-por-que-o-lucro-do-banco-do-brasil-despencou-e-derrubou-as-acoes.ghtml",
-      "date": "2026-11-13T16:15:00.000Z",
-      "summary": "Presidente do BB fala sobre crise com o agro A forte queda das ações do Banco do Brasil na quinta-feira (12) refletiu a reação negativa do mercado aos resultados do terceiro trimestre de 2026, divulgados na véspera. Os papéis recuaram 8,35% no Ibovespa, princi",
       "source": "g1",
       "cat": "economia",
       "type": "imprensa"
@@ -491,21 +527,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Atlas/Bloomberg: 33% dos eleitores de direita querem Tarcísio liderando o campo; 30% preferem Flávio",
-      "link": "https://www.estadao.com.br/politica/atlasbloomberg-33-dos-eleitores-de-direita-querem-tarcisio-liderando-o-campo-30-preferem-flavio/",
-      "date": "2026-11-13T15:23:11.000Z",
+      "title": "Votação da PEC da Maioridade deve preparar o PT para um ‘racha’ na bancada",
+      "link": "https://www.estadao.com.br/politica/votacao-da-pec-da-maioridade-deve-preparar-o-pt-para-um-racha-na-bancada/",
+      "date": "2026-11-13T15:00:00.000Z",
       "summary": "",
       "source": "Estadão",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Gastos elevados e ineficiência da política fiscal",
-      "link": "https://www.estadao.com.br/economia/gastos-elevados-e-ineficiencia-da-politica-fiscal/",
-      "date": "2026-11-13T15:01:52.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -513,15 +540,6 @@
       "link": "https://www.dw.com/pt-br/eua-desmantelam-rede-de-golpes-de-criptomoedas-da-coreia-do-norte-diz-fbi/a-79940495?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-13T14:23:00.000Z",
       "summary": "Autoridades apreendem servidores vinculados a esquema que usou videochamadas falsas e deepfakes para roubar mais de 400 milhões de dólares em criptomoedas.",
-      "source": "DW Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Em que pé está a guerra dos EUA contra o Irã?",
-      "link": "https://www.dw.com/pt-br/em-que-pé-está-a-guerra-dos-eua-contra-o-irã/a-79933179?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-12T19:41:00.000Z",
-      "summary": "Embora nenhum dos lados afirme que o conflito tenha terminado formalmente, tensão baixou na região e quadro se assemelha a um \"cessar-fogo virtual\". Para analista, país persa entrou em \"modo de espera\".",
       "source": "DW Brasil",
       "cat": "internacional",
       "type": "imprensa"
@@ -588,15 +606,6 @@
       "source": "Banco Central",
       "cat": "economia",
       "type": "oficial"
-    },
-    {
-      "title": "Nota de repúdio assinada por mais de 400 protesta contra exposição pública de FHC",
-      "link": "https://www.estadao.com.br/politica/nota-de-repudio-assinada-por-mais-de-400-protesta-contra-exposicao-publica-de-fhc/",
-      "date": "2026-11-12T00:04:32.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
     },
     {
       "title": "O que colocar na mochila como kit de emergência e por que você deve ter uma — preventivamente",
