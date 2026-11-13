@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-13T08:28:45.881Z",
+  "updated": "2026-11-13T09:36:01.606Z",
   "market": {
     "ibov": {
       "price": 171324.31,
       "pct": -0.43,
-      "time": "2026-11-13T08:28:41.919Z",
+      "time": "2026-11-13T09:35:54.774Z",
       "history": [
         {
           "d": "2026-10-14",
@@ -145,6 +145,69 @@
   },
   "news": [
     {
+      "title": "Governo Lula: leia a agenda de ministros do governo nesta 6ª feira",
+      "link": "https://www.poder360.com.br/poder-governo/governo-lula-leia-a-agenda-de-ministros-do-governo-nesta-6a-feira-16/",
+      "date": "2026-11-13T09:15:27.000Z",
+      "summary": "Waldez Góes inicia obras hídricas no Rio Grande do Norte; Tomé Franca e André de Paula acompanham Lula nas Filipinas",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Agenda de Lula: leia os compromissos do presidente 6ª feira",
+      "link": "https://www.poder360.com.br/poder-governo/agenda-de-lula-leia-os-compromissos-do-presidente-6a-feira-5/",
+      "date": "2026-11-13T09:15:20.000Z",
+      "summary": "Lula desembarca nas Filipinas para a Cúpula da Asean com 2 ministros e o deputado André Janones",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Saiba quais indicadores e balanços saem nesta 6ª feira",
+      "link": "https://www.poder360.com.br/poder-economia/saiba-quais-indicadores-e-balancos-saem-nesta-6a-feira-13/",
+      "date": "2026-11-13T09:00:17.000Z",
+      "summary": "Comércio no Brasil, prévia do PIB na Europa e na Rússia, inflação e balanço da Cosan movimentam o dia",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Mogi das Cruzes lidera ranking de transparência em SP; veja lista",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/mogi-das-cruzes-lidera-ranking-de-transparencia-em-sp-veja-lista/",
+      "date": "2026-11-13T08:30:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Gestão Tarcísio reduz gasto com dívida após acordo com governo Lula, mas contrapartida limita alívio",
+      "link": "https://www.estadao.com.br/politica/gestao-tarcisio-reduz-gasto-com-divida-apos-acordo-com-governo-lula-mas-contrapartida-limita-alivio/",
+      "date": "2026-11-13T08:30:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Governo precisa de medidas adicionais para cumprir meta em 2027, diz economista-chefe do Santander",
+      "link": "https://www.estadao.com.br/economia/governo-precisa-de-medidas-adicionais-para-cumprir-meta-em-2027-diz-economista-chefe-do-santander/",
+      "date": "2026-11-13T08:30:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Fim da escala 6x1: veja perguntas e respostas sobre o que Dino definiu e o que continua valendo",
+      "link": "https://www.estadao.com.br/economia/fim-escala-6x1-decisao-dino-perguntas-respostas/",
+      "date": "2026-11-13T08:30:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "‘Sobreviver ou pagar ao banco’: o que levou os produtores rurais à inadimplência recorde no Brasil",
       "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/13/o-que-levou-os-produtores-rurais-a-inadimplencia-recorde-no-brasil.ghtml",
       "date": "2026-11-13T08:00:01.000Z",
@@ -226,6 +289,15 @@
       "type": "imprensa"
     },
     {
+      "title": "Secretário de Comércio dos EUA vai depor no Congresso sobre caso Nvidia",
+      "link": "https://www.estadao.com.br/economia/secretario-de-comercio-dos-eua-vai-depor-no-congresso-sobre-caso-nvidia-npr/",
+      "date": "2026-11-13T06:19:09.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "Futuro ministro da Fazenda: veja quem são os cotados e o que está em jogo na escolha de Lula",
       "link": "https://g1.globo.com/economia/noticia/2026/11/13/futuro-ministro-da-fazenda-veja-quem-sao-os-cotados-e-o-que-esta-em-jogo-na-escolha-de-lula.ghtml",
       "date": "2026-11-13T05:00:00.000Z",
@@ -240,33 +312,6 @@
       "date": "2026-11-13T05:00:00.000Z",
       "summary": "Lula durante evento na Turquia, às margens da COP31 Ricardo Stuckert/Presidência da República O presidente Luiz Inácio Lula da Silva afirmou nesta quinta-feira (12) que está rouco há mais de 15 dias. Na véspera, durante a COP31, a conferência do clima da Organ",
       "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "PL pediu mais tempo de votação, mas esperava negativa, diz Flávio",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/pl-pediu-mais-tempo-de-votacao-mas-esperava-negativa-diz-flavio/",
-      "date": "2026-11-13T03:48:50.000Z",
-      "summary": "PT solicitou ampliação do horário em todo o país; Partido Liberal restringiu requerimento a 3 Estados",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Flávio diz que EUA têm “democracia pujante”, ao contrário do Brasil",
-      "link": "https://www.poder360.com.br/poder-congresso/flavio-diz-que-eua-tem-democracia-pujante-ao-contrario-do-brasil/",
-      "date": "2026-11-13T03:19:05.000Z",
-      "summary": "Senador está nos Estados Unidos desde que fugiu do Brasil, dias depois do 2º turno presidencial",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Senado votará destaques do ajuste fiscal na 3ª feira, diz Alcolumbre",
-      "link": "https://www.poder360.com.br/poder-congresso/senado-votara-destaques-do-ajuste-fiscal-na-3a-feira-diz-alcolumbre/",
-      "date": "2026-11-13T03:15:24.000Z",
-      "summary": "Presidente da Casa adiou análise de alterações ao texto após negociações; proposta ainda precisa passar pela Câmara depois do fim da tramitação no Senado",
-      "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -343,15 +388,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Ajuste fiscal: entenda, ponto a ponto, o projeto do governo aprovado no Senado",
-      "link": "https://www.estadao.com.br/economia/ajuste-fiscal-entenda-ponto-a-ponto-o-projeto-do-governo-aprovado-no-senado/",
-      "date": "2026-11-13T00:53:50.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Texto principal do ajuste fiscal é aprovado pelo Senado",
       "link": "https://www12.senado.leg.br/noticias/materias/2026/11/12/texto-principal-do-ajuste-fiscal-e-aprovado-pelo-senado",
       "date": "2026-11-13T00:35:36.000Z",
@@ -379,15 +415,6 @@
       "type": "oficial"
     },
     {
-      "title": "Flávio Dino libera volta do julgamento sobre criminalização de jogos de azar no STF",
-      "link": "https://www.estadao.com.br/politica/flavio-dino-libera-volta-do-julgamento-sobre-criminalizacao-de-jogos-de-azar-no-stf-nprp/",
-      "date": "2026-11-12T22:46:31.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Comissão de Finanças debate com Receita Federal regulamentação da reforma tributária",
       "link": "https://www.camara.leg.br/noticias/1319043-comissao-de-financas-debate-com-receita-federal-regulamentacao-da-reforma-tributaria",
       "date": "2026-11-12T22:04:00.000Z",
@@ -404,24 +431,6 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Senado aprova texto-base do projeto de lei com ajuste fiscal que pode chegar a R$ 56 bi em 2027",
-      "link": "https://www.estadao.com.br/economia/senado-projeto-lei-ajuste-fiscal/",
-      "date": "2026-11-12T21:56:45.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "6x1: Dino atende pleito de setores ao flexibilizar prazo para folgas e fortalece negociação sindical",
-      "link": "https://www.estadao.com.br/economia/6x1-dino-atende-pleito-de-setores-ao-flexibilizar-prazo-para-folgas-e-fortalece-negociacao-sindical/",
-      "date": "2026-11-12T21:53:35.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
     },
     {
       "title": "Congresso aprova R$ 34,9 milhões para datacenter do Serpro",
@@ -457,15 +466,6 @@
       "summary": "Relatório interno do governo obtido pela reportagem já apontava publicidade irregular nas plataformas da empresa; BBC identificou novas peças após a proibição.",
       "source": "BBC News Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "MP-SP pede investigação de contratos de R$21 mi da Virada Esportiva após denúncia do vice-prefeito",
-      "link": "https://www.estadao.com.br/politica/mp-sp-pede-investigacao-de-contratos-de-r21-mi-da-virada-esportiva-apos-denuncia-do-vice-prefeito-nprp/",
-      "date": "2026-11-12T21:17:19.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -532,15 +532,6 @@
       "type": "imprensa"
     },
     {
-      "title": "CEO da Nvidia renuncia após caso com suposta espiã chinesa: quem assumirá o comando da empresa?",
-      "link": "https://www.bbc.com/portuguese/articles/cx1l053gmq5zo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-12T16:40:11.000Z",
-      "summary": "Jensen Huang deixou o cargo nesta quinta-feira (12/11) após vir à tona que ele teria um segundo relacionamento com uma funcionária da empresa. Valor de mercado da companhia despencou desde o início da crise.",
-      "source": "BBC News Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
       "title": "Israel ataca hospital em Gaza, apesar de cessar-fogo",
       "link": "https://www.dw.com/pt-br/israel-ataca-hospital-em-gaza-apesar-de-cessar-fogo/a-79932931?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-12T15:20:00.000Z",
@@ -584,6 +575,15 @@
       "source": "Banco Central",
       "cat": "economia",
       "type": "oficial"
+    },
+    {
+      "title": "O que colocar na mochila como kit de emergência e por que você deve ter uma — preventivamente",
+      "link": "https://www.bbc.com/portuguese/articles/cm62p37dgxzzo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-11T20:53:39.000Z",
+      "summary": "Kits de emergência são importantes e devem ser inseridos na cultura do Brasil, que nunca focou em prevenção, defende especialista.",
+      "source": "BBC News Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
     },
     {
       "title": "​BC divulga IC-Br de outubro",
@@ -687,6 +687,7 @@
   ],
   "errors": [
     "feed CNN Brasil: HTTP 404",
-    "feed CNN Brasil: HTTP 404"
+    "feed CNN Brasil: HTTP 404",
+    "feed Planalto (governo): HTTP 429"
   ]
 }
