@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-13T15:44:13.515Z",
+  "updated": "2026-11-13T16:49:39.683Z",
   "market": {
     "ibov": {
-      "price": 172098.95,
-      "pct": 0.45,
-      "time": "2026-11-13T15:44:07.231Z",
+      "price": 172551.05,
+      "pct": 0.72,
+      "time": "2026-11-13T16:49:35.353Z",
       "history": [
         {
           "d": "2026-10-14",
@@ -92,7 +92,7 @@
         },
         {
           "d": "2026-11-13",
-          "c": 172098.9531
+          "c": 172551.0469
         }
       ]
     },
@@ -149,19 +149,208 @@
   },
   "news": [
     {
-      "title": "PSD vê número de senadores encolher de 13 para 3 e tenta filiar parlamentares de outros partidos",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/psd-ve-numero-de-senadores-encolher-de-13-para-3-e-tenta-filiar-parlamentares-de-outros-partidos.shtml",
-      "date": "2026-11-13T15:30:00.000Z",
-      "summary": "O PSD, partido do ex-ministro Gilberto Kassab, tenta aumentar a bancada no Senado Federal diante do fiasco nas últimas eleições, em que só dois senadores foram eleitos. Leia mais (11/13/2026 - 12h30)",
+      "title": "Gilmar Mendes diz que emendas impositivas causam embates entre Poderes",
+      "link": "https://www.poder360.com.br/poder-justica/gilmar-mendes-diz-que-emendas-impositivas-causam-embates-entre-poderes/",
+      "date": "2026-11-13T16:45:06.000Z",
+      "summary": "Ministro relaciona disputas sobre o Orçamento federal a conflitos entre Executivo e Legislativo que acabam chegando ao Judiciário",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Braskem vê margens menores em 2027 e 'segue engajada' em acordo com credores, diz diretoria",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/braskem-ve-margens-menores-em-2027-e-segue-engajada-em-acordo-com-credores-diz-diretoria.shtml",
+      "date": "2026-11-13T16:45:00.000Z",
+      "summary": "Após divulgar prejuízo de R$ 1,1 bilhão no terceiro trimestre, a diretoria da Braskem afirmou nesta sexta-feira (13) que o cenário de margens elevadas na petroquímica impulsionado pela guerra no Irã já passou, e que 2027 deve ser pior do que a média histórica ",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Câmara pede que STF derrube parte das regras fixadas por Dino para escala 5x2",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/13/camara-pede-que-stf-derrube-parte-das-regras-fixadas-por-dino-para-escala-5x2.ghtml",
+      "date": "2026-11-13T16:42:59.000Z",
+      "summary": "A Câmara dos Deputados se manifestou no Supremo Tribunal Federal (STF) contra parte da decisão do ministro Flávio Dino que definiu regras para a transição da escala 6x1 para a 5x2. Em manifestação enviada à Corte, a Advocacia da Câmara defendeu que o plenário ",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Governo adia prazos para emissão de documentos fiscais eletrônicos",
+      "link": "https://www.poder360.com.br/poder-governo/governo-adia-prazos-para-emissao-de-documentos-fiscais-eletronicos/",
+      "date": "2026-11-13T16:41:37.000Z",
+      "summary": "Ato no DOU altera calendário de obrigações do IBS e da CBS; novas datas vão de janeiro a março de 2027",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Comissão aprova aumento de pena para feminicídio antecedido por perseguição",
+      "link": "https://www.camara.leg.br/noticias/1319262-comissao-aprova-aumento-de-pena-para-feminicidio-antecedido-por-perseguicao",
+      "date": "2026-11-13T16:40:00.000Z",
+      "summary": "O projeto continua em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Gilmar diz que trocas de delegados ocorrem todo dia e endossa fala de Lula para atacar Lava Jato",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/gilmar-diz-que-trocas-de-delegados-ocorrem-todo-dia-e-endossa-fala-de-lula-para-atacar-lava-jato.shtml",
+      "date": "2026-11-13T16:37:00.000Z",
+      "summary": "O ministro Gilmar Mendes, do STF (Supremo Tribunal Federal), afirmou nesta sexta-feira (13) que substituições de delegados fazem parte da rotina, em meio ao desgaste do diretor-geral da Polícia Federal, Andrei Rodrigues, após o afastamento de delegados do caso",
       "source": "Folha",
       "cat": "politica",
       "type": "imprensa"
     },
     {
-      "title": "Vice de Nunes faz dobradinha com petista e recebe apoio de bolsonarista",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/vice-de-nunes-faz-dobradinha-com-petista-e-recebe-apoio-de-bolsonarista.shtml",
-      "date": "2026-11-13T15:27:00.000Z",
-      "summary": "O vice-prefeito de São Paulo, coronel Ricardo Mello Araújo (PL), tem recebido acenos em sua ofensiva contra a gestão Ricardo Nunes (MDB) que vão do petismo ao bolsonarismo. Leia mais (11/13/2026 - 12h27)",
+      "title": "Moraes acompanha Dino e vota pelo fim da escala 6x1 em julgamento no STF; entenda a decisão",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/moraes-acompanha-dino-e-vota-pelo-fim-da-escala-6x1-em-julgamento-no-stf.shtml",
+      "date": "2026-11-13T16:32:00.000Z",
+      "summary": "O julgamento pelo fim da escala 6x1 no plenário virtual do STF (Supremo Tribunal Federal) tem dois votos a favor da implantação da mudança a partir de 16 de dezembro, como prevê a emenda constitucional 141. Leia mais (11/13/2026 - 13h32)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Binance diz ter coberto prejuízo de R$ 34 bilhões após maior roubo da história das criptomoedas",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/13/binance-criptomoeda-roubo.ghtml",
+      "date": "2026-11-13T16:31:56.000Z",
+      "summary": "Logotipo da Binance. Dado Ruvic/Reuters A Binance, maior corretora de criptomoedas do mundo, afirmou nesta sexta-feira (13) que concluiu a cobertura dos ativos afetados pelo ataque hacker que desviou US$ 6,3 bilhões (cerca de R$ 34 bilhões) da plataforma. \"Obr",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Inquérito das fake news terminou no tempo certo, diz Gilmar",
+      "link": "https://www.poder360.com.br/poder-justica/inquerito-das-fake-news-terminou-no-tempo-certo-diz-gilmar/",
+      "date": "2026-11-13T16:25:23.000Z",
+      "summary": "Ministro do STF afirma que investigação foi importante para proteger as instituições em períodos de tensão",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Brasil tem condições de reduzir juros para 7%, diz André Esteves",
+      "link": "https://www.poder360.com.br/poder-economia/brasil-tem-condicoes-de-reduzir-juros-para-7-diz-andre-esteves/",
+      "date": "2026-11-13T16:23:22.000Z",
+      "summary": "Chairman do BTG Pactual afirma que a redução depende de maior rigor fiscal e defende que governo busque taxas mais baixas",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Flávio Bolsonaro rejeita apoio a Hugo Motta em meio à embate no PL sobre presidência da Câmara",
+      "link": "https://www.estadao.com.br/politica/flavio-bolsonaro-rejeita-apoio-a-hugo-motta-em-meio-a-embate-no-pl-sobre-presidencia-da-camara-nprp/",
+      "date": "2026-11-13T16:22:40.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Comissão aprova proposta para integrar moradia, comércio e serviços nos bairros",
+      "link": "https://www.camara.leg.br/noticias/1319243-comissao-aprova-proposta-para-integrar-moradia-comercio-e-servicos-nos-bairros",
+      "date": "2026-11-13T16:19:00.000Z",
+      "summary": "Texto continua em análise na Câmara",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "PF descobre maconha ‘Purple Haze’, anabolizantes e garotas de programa a R$ 5 mil em presídio",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/pf-descobre-maconha-purple-haze-anabolizantes-e-garotas-de-programa-a-r-5-mil-em-presidio/",
+      "date": "2026-11-13T16:17:11.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Além do agro: entenda por que o lucro do Banco do Brasil despencou 66,5% e derrubou as ações",
+      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/13/entenda-por-que-o-lucro-do-banco-do-brasil-despencou-e-derrubou-as-acoes.ghtml",
+      "date": "2026-11-13T16:15:00.000Z",
+      "summary": "Presidente do BB fala sobre crise com o agro A forte queda das ações do Banco do Brasil na quinta-feira (12) refletiu a reação negativa do mercado aos resultados do terceiro trimestre de 2026, divulgados na véspera. Os papéis recuaram 8,35% no Ibovespa, princi",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Sombra do impeachment volta à cena nos EUA após derrota eleitoral de Trump",
+      "link": "https://www.dw.com/pt-br/sombra-do-impeachment-volta-à-cena-nos-eua-após-derrota-eleitoral-de-trump/a-79941835?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-13T16:09:00.000Z",
+      "summary": "Nova maioria democrata no Congresso pode abrir caminho a processos de destituição contra membros do governo Trump e até contra o próprio presidente.",
+      "source": "DW Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Após bancos privados, Caixa faz as contas para subir taxa de juros do crédito imobiliário",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/apos-bancos-privados-caixa-faz-as-contas-para-subir-taxa-de-juros-do-credito-imobiliario.shtml",
+      "date": "2026-11-13T16:09:00.000Z",
+      "summary": "A Caixa Econômica Federal faz cálculos para definir se e quando elevará os juros do financiamento imobiliário, diante do aumento do custo de captação de recursos e da disparada das taxas no mercado financeiro. O banco avalia quanto consegue absorver da alta se",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Outlook voltou: por que demorou para Microsoft resolver o problema?",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/13/outlook-voltou-por-que-demorou-para-microsoft-resolver-o-problema.ghtml",
+      "date": "2026-11-13T15:57:18.000Z",
+      "summary": "Como abrir o Microsoft Teams, Excel, Outlook (e até o LinkedIn) no teclado do Windows Unsplash/Hal Gatewood O serviço de e-mail Outlook começou a ser restabelecido após uma interrupção que já dura mais de 20 horas, mas alguns usuários ainda podem ter dificulda",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Binance diz que concluiu reposição de US$ 6,3 bilhões roubados por hackers",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/binance-diz-que-concluiu-reposicao-de-us-63-bilhoes-roubados-por-hackers.shtml",
+      "date": "2026-11-13T15:55:00.000Z",
+      "summary": "A Binance afirmou ter coberto a totalidade dos US$ 6,3 bilhões (R$ 35,59 bilhões) em criptoativos roubados de clientes, encerrando assim a devolução aos clientes atingidos pelo maior roubo cibernético da história. Leia mais (11/13/2026 - 12h55)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Alvo da PF, ex-assessor de Mario Frias nega desvio de emendas e diz que irmão deixou projeto suspeito",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/alvo-da-pf-ex-assessor-de-mario-frias-nega-desvio-de-emendas-e-diz-que-irmao-deixou-projeto-suspeito.shtml",
+      "date": "2026-11-13T15:50:00.000Z",
+      "summary": "Alvo de operação da PF (Polícia Federal) nesta sexta-feira (13), Raphael Augusto Azevedo, que foi assessor do deputado federal Mario Frias (PL-SP) de fevereiro de 2023 a fevereiro de 2024, negou à Folha participação em suposto desvio de emendas do parlamentar ",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Cotada para ministério, Fátima Bezerra comemora virada no RN e eleição de afilhados políticos após crise",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/cotada-para-ministerio-fatima-bezerra-comemora-virada-no-rn-e-eleicao-de-afilhados-politicos-apos-crise.shtml",
+      "date": "2026-11-13T15:47:00.000Z",
+      "summary": "Fátima Bezerra (PT), 71, saiu vitoriosa das eleições mesmo não se candidatando. A governadora do Rio Grande do Norte ajudou a eleger o seu sucessor Cadu Xavier (PT), que havia terminado o primeiro turno na segunda posição, e também a candidata ao Senado Samand",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "727 candidatos seguem sem prestação de contas final do 1º turno no TSE; 222 são suplentes",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/11/13/prestacao-contas-candidatos-eleicoes-2026.ghtml",
+      "date": "2026-11-13T15:41:38.000Z",
+      "summary": "Fachada do prédio do Tribunal Superior Eleitoral (TSE) em Brasília. Fabio Rodrigues Pozzebom/Agência Brasil Entre os cerca de 20 mil candidatos registrados nas eleições deste ano, 727 permanecem sem prestação de contas final do primeiro turno identificada nas ",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Governo tomará medidas em acréscimo para garantir cenário fiscal benigno, diz Moretti",
+      "link": "https://www.estadao.com.br/economia/governo-medidas-acrescimo-cenario-fiscal-benigno-moretti/",
+      "date": "2026-11-13T15:38:43.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "PSD vê número de senadores encolher de 13 para 3 e tenta filiar parlamentares de outros partidos",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/psd-ve-numero-de-senadores-encolher-de-13-para-3-e-tenta-filiar-parlamentares-de-outros-partidos.shtml",
+      "date": "2026-11-13T15:30:00.000Z",
+      "summary": "O PSD, partido do ex-ministro Gilberto Kassab, tenta aumentar a bancada no Senado Federal diante do fiasco nas últimas eleições, em que só dois senadores foram eleitos. Leia mais (11/13/2026 - 12h30)",
       "source": "Folha",
       "cat": "politica",
       "type": "imprensa"
@@ -172,87 +361,6 @@
       "date": "2026-11-13T15:23:13.000Z",
       "summary": "Senado aprova texto-base do ajuste fiscal por 45 votos a 31 O governo Lula venceu a batalha de aprovação de sua proposta de ajuste fiscal no Senado. O placar, de 45 votos a 31, mostrou, porém, que o Palácio do Planalto terá grandes dificuldades para aprovar um",
       "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Atlas/Bloomberg: 33% dos eleitores de direita querem Tarcísio liderando o campo; 30% preferem Flávio",
-      "link": "https://www.estadao.com.br/politica/atlasbloomberg-33-dos-eleitores-de-direita-querem-tarcisio-liderando-o-campo-30-preferem-flavio/",
-      "date": "2026-11-13T15:23:11.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Volkswagen lucra apenas R$ 75 por veículo vendido, aponta estudo",
-      "link": "https://g1.globo.com/carros/noticia/2026/11/13/volkswagen-lucra-apenas-r-75-por-veiculo-vendido-aponta-estudo.ghtml",
-      "date": "2026-11-13T15:15:24.000Z",
-      "summary": "Volkswagen ID.4 chega ao Brasil, mas sai de linha na Europa A Volkswagen, que atravessa uma grave crise, lucra apenas doze euros (R$ 75) por veículo vendido, segundo uma análise do instituto de pesquisa da indústria automotiva Center of Automotive Management (",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "SpaceX planeja investir US$ 74 bilhões em data centers no Texas e Arizona",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/spacex-planeja-investir-us-74-bilhoes-em-data-centers-no-texas-e-arizona.shtml",
-      "date": "2026-11-13T15:12:00.000Z",
-      "summary": "A SpaceX afirmou nesta quinta-feira (13) que planeja investir US$ 74 bilhões (R$ 417,82 bilhões) na construção de novos complexos de data centers no Arizona e no Texas, enquanto a empresa continua a direcionar recursos para a disputa global pela inteligência a",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Pagamento do 13º salário injeta R$ 339 bilhões na economia; veja calendário e quem recebe",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/pagamento-do-13o-salario-injeta-r-339-bilhoes-na-economia-veja-calendario-e-quem-tem-recebe.shtml",
-      "date": "2026-11-13T15:11:00.000Z",
-      "summary": "O pagamento do 13º salário vai injetar R$ 339,21 bilhões na economia brasileira em 2026, segundo levantamento do Dieese (Departamento Intersindical de Estatística e Estudos Socioeconômicos). O montante equivale a 2,9% do PIB (Produto Interno Bruto). Leia mais ",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Influenciador é condenado a pagar R$ 31 mil à Latam por piada com bomba",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/influenciador-e-condenado-a-pagar-r-31-mil-a-latam-por-piada-com-bomba.shtml",
-      "date": "2026-11-13T15:07:00.000Z",
-      "summary": "A Justiça de Alagoas condenou o influenciador Igor Campioni de Meneses a indenizar a Latam em R$ 31,7 mil pelo cancelamento de dois voos após ele dizer, a bordo, que o amigo (também influenciador, Kel Ferreti) iria explodir uma bomba. A frase foi dita depois q",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Lula posta chegada às Filipinas e fala em ampliar investimentos",
-      "link": "https://www.poder360.com.br/poder-governo/lula-posta-chegada-as-filipinas-e-fala-em-ampliar-investimentos/",
-      "date": "2026-11-13T15:03:09.000Z",
-      "summary": "Presidente brasileiro se reúne com Marcos Jr. no sábado (14.nov) e participa da Cúpula da Asean no domingo (15.nov)",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Faxes, celulares e Bluetooth: queda da Microsoft força empresas a recorrer a soluções antigas",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/13/faxes-celulares-e-bluetooth-queda-da-microsoft.ghtml",
-      "date": "2026-11-13T15:03:08.000Z",
-      "summary": "Microsoft descarta ataque hacker após falha em 70 países A queda mundial dos serviços da Microsoft obrigou empresas de diferentes setores a recorrer a tecnologias tradicionais, como fax, telefone e Bluetooth, para manter suas operações nesta sexta-feira (13). ",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Pane na Microsoft leva empresas, governo e hospitais brasileiros a concentrar comunicação no WhatsApp",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/tec/2026/11/pane-na-microsoft-afeta-mais-de-30-milhoes-de-assinantes-entre-empresas-escolas-e-hospitais.shtml",
-      "date": "2026-11-13T15:03:00.000Z",
-      "summary": "Com o serviço de emails Outlook, da Microsoft, fora do ar desde a tarde de quinta-feira (12), empresas, escolas, hospitais e até o governo brasileiro migraram a comunicação institucional para o WhatsApp e para ligações telefônicas. Leia mais (11/13/2026 - 12h0",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "BB notificou Deltan por causa de posts com ‘desinformação’ e alegou risco de ‘instabilidade social’",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/bb-notificou-deltan-por-causa-de-posts-com-desinformacao-e-alegou-risco-de-instabilidade-social/",
-      "date": "2026-11-13T15:02:41.000Z",
-      "summary": "",
-      "source": "Estadão",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -275,42 +383,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Congresso quer aprovar PEC da maioridade penal neste ano para evitar texto mais duro em 2027",
-      "link": "https://www.estadao.com.br/politica/congresso-quer-aprovar-pec-da-maioridade-penal-neste-ano-para-evitar-texto-mais-duro-em-2027/",
-      "date": "2026-11-13T15:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "O fim do Direito Internacional",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/o-fim-do-direito-internacional/",
-      "date": "2026-11-13T15:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Por risco de incêndio, agência dos EUA orienta donos de 720 mil carros da BMW a estacionar ao ar livre",
-      "link": "https://g1.globo.com/carros/noticia/2026/11/13/recomendacao-modelos-bmw.ghtml",
-      "date": "2026-11-13T14:59:18.000Z",
-      "summary": "BMW Série 3 2016. Divulgação / BMW A agência de segurança viária dos Estados Unidos (NHTSA) orientou os proprietários de 720.796 veículos da BMW a manter os carros ao ar livre, longe de construções e de outros veículos, até que sejam reparados. A informação é ",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Debate sobre juros virou disputa de torcida organizada, diz Galípolo",
-      "link": "https://www.poder360.com.br/poder-economia/debate-sobre-juros-virou-disputa-de-torcida-organizada-diz-galipolo/",
-      "date": "2026-11-13T14:57:56.000Z",
-      "summary": "Presidente do Banco Central declarou que não há atualização a ser feita quanto à política monetária",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Ajuste fiscal: adiamento de votação dá mais tempo para reflexão, diz Davi.",
       "link": "https://www12.senado.leg.br/noticias/materias/2026/11/13/ajuste-fiscal-adiamento-de-votacao-da-mais-tempo-para-reflexao-diz-davi",
       "date": "2026-11-13T14:57:48.000Z",
@@ -320,7 +392,7 @@
       "type": "oficial"
     },
     {
-      "title": "Lei amplia penas para abandono e maus-tratos contra pessoas idosas",
+      "title": "Lei ampliou penas para abandono e maus-tratos contra pessoas idosas",
       "link": "https://www12.senado.leg.br/noticias/materias/2026/11/13/lei-amplia-penas-para-abandono-e-maus-tratos-contra-pessoas-idosas",
       "date": "2026-11-13T14:48:09.000Z",
       "summary": "Abandonar pessoas idosas que dependem de assistência, privá-las de alimentação ou cuidados essenciais e submetê-las a situações que coloquem sua saúde em risco podem configurar crimes para os quais a legislação passou a prever penas mais rigorosas. As punições",
@@ -356,29 +428,11 @@
       "type": "oficial"
     },
     {
-      "title": "Após apagão da Microsoft, OAB pede suspensão de prazos ao STF e ao CNJ",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/apos-apagao-da-microsoft-oab-pede-suspensao-de-prazos-ao-stf-e-ao-cnj.shtml",
-      "date": "2026-11-13T14:41:00.000Z",
-      "summary": "O Conselho Federal da OAB pediu ao presidente do STF (Supremo Tribunal Federal) e do CNJ (Conselho Nacional de Justiça), ministro Edson Fachin, a suspensão dos prazos processuais enquanto durar a instabilidade nos serviços da Microsoft. Leia mais (11/13/2026 -",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Moraes acompanha Dino, e STF tem 2 votos para manter início da escala 5x2 em 16 de dezembro",
       "link": "https://g1.globo.com/politica/noticia/2026/11/13/plenario-virtual-do-stf-comeca-a-analisar-regras-da-escala-5x2-placar-esta-em-2-a-0.ghtml",
       "date": "2026-11-13T14:36:19.000Z",
       "summary": "O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), acompanhou nesta sexta-feira (13) o voto do relator, Flávio Dino, para confirmar as regras definidas pelo ministro para a transição da escala 6x1 para a 5x2. Com o voto de Moraes, o placar está",
       "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Quem é Raphael Azevedo, ex-assessor de Mario Frias alvo da PF",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/quem-e-raphael-azevedo-ex-assessor-de-mario-frias-alvo-da-pf.shtml",
-      "date": "2026-11-13T14:33:00.000Z",
-      "summary": "Raphael Augusto Azevedo, ex-secretário parlamentar do deputado federal Mario Frias (PL-SP), foi alvo de mandado de busca e apreensão da Polícia Federal nesta sexta-feira (13), em Brasília. Leia mais (11/13/2026 - 11h33)",
-      "source": "Folha",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -401,6 +455,15 @@
       "type": "oficial"
     },
     {
+      "title": "Horas antes de pregão, licitação para ampliar reconhecimento facial chinês em SP é suspensa",
+      "link": "https://www.estadao.com.br/politica/horas-antes-de-pregao-licitacao-para-ampliar-reconhecimento-facial-chines-em-sp-e-suspensa/",
+      "date": "2026-11-13T14:25:17.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "EUA desmantelam rede de golpes de criptomoedas da Coreia do Norte, diz FBI",
       "link": "https://www.dw.com/pt-br/eua-desmantelam-rede-de-golpes-de-criptomoedas-da-coreia-do-norte-diz-fbi/a-79940495?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-13T14:23:00.000Z",
@@ -419,29 +482,11 @@
       "type": "oficial"
     },
     {
-      "title": "Conheça os argumentos do governo e da oposição sobre pacote fiscal de Lula",
-      "link": "https://www.poder360.com.br/poder-congresso/conheca-os-argumentos-do-governo-e-da-oposicao-sobre-pacote-fiscal-de-lula/",
-      "date": "2026-11-13T14:12:26.000Z",
-      "summary": "Senadores divergiram sobre mudanças na Lei Kandir, gastos públicos, programas sociais e cenário econômico durante votação",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Flávio Bolsonaro rejeita rótulo de fugitivo e mira Presidência",
-      "link": "https://www.poder360.com.br/poder-internacional/flavio-bolsonaro-rejeita-rotulo-de-fugitivo-e-mira-presidencia/",
-      "date": "2026-11-13T14:07:41.000Z",
-      "summary": "Em entrevista à Reuters, senador diz que está pronto para disputar novamente o Planalto pelo PL",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Pane na Microsoft: governo diz que serviços do gov.br funcionam normalmente; STF, TSE e STJ foram afetados por falha",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/13/servicos-do-govbr-funcionam-normalmente-apesar-de-pane-global-da-microsoft-diz-governo.ghtml",
-      "date": "2026-11-13T13:56:50.000Z",
-      "summary": "Os sistemas à população ligados ao \"gov.br\", plataforma do governo federal, não foram afetado pela falha global nos serviços da Microsoft, segundo informou nesta sexta-feira (13) o Ministério da Gestão e da Inovação em Serviços Públicos (MGI). A assessoria de ",
-      "source": "g1",
+      "title": "Veja as razões apontadas pela PGR para rejeitar a revisão de condenação de Jair Bolsonaro",
+      "link": "https://www.estadao.com.br/politica/veja-as-razoes-da-pgr-para-rejeitar-a-revisao-de-condenacao-de-jair-bolsonaro-nprp/",
+      "date": "2026-11-13T14:00:19.000Z",
+      "summary": "",
+      "source": "Estadão",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -450,42 +495,6 @@
       "link": "https://www.camara.leg.br/noticias/1319264-comissao-aprova-instalacao-obrigatoria-de-dispositivos-de-seguranca-em-piscinas-coletivas",
       "date": "2026-11-13T13:54:00.000Z",
       "summary": "O projeto continua em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "STJ decide que condomínio é responsável por furto se ladrões entrarem após falha na portaria",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/13/stj-decide-que-condominio-e-responsavel-por-furto-se-ladroes-entrarem-apos-falha-na-portaria.ghtml",
-      "date": "2026-11-13T13:52:38.000Z",
-      "summary": "A Terceira Turma do Superior Tribunal de Justiça (STJ) decidiu, por unanimidade, que o condomínio deve indenizar os moradores por furto caso os ladrões consigam acessar os apartamentos após liberação na portaria, mesmo sem autorização dos condôminos. A decisão",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Comissão da Câmara aprova uso de recursos digitais para apoiar estudantes com autismo",
-      "link": "https://www.camara.leg.br/noticias/1319230-comissao-da-camara-aprova-uso-de-recursos-digitais-para-apoiar-estudantes-com-autismo",
-      "date": "2026-11-13T13:48:00.000Z",
-      "summary": "O projeto continua em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Tombo do Banco do Brasil no 3º trimestre aumenta pressão sobre Tarciana Medeiros; leia bastidor",
-      "link": "https://www.estadao.com.br/economia/negocios/tombo-banco-brasil-aumenta-pressao-tarciana-medeiros-leia-bastidor/",
-      "date": "2026-11-13T13:33:18.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Comissão aprova inclusão facultativa de símbolos de acessibilidade em documentos de identidade",
-      "link": "https://www.camara.leg.br/noticias/1319228-comissao-aprova-inclusao-facultativa-de-simbolos-de-acessibilidade-em-documentos-de-identidade",
-      "date": "2026-11-13T13:08:00.000Z",
-      "summary": "A Câmara dos Deputados continua discutindo o assunto",
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
@@ -540,15 +549,6 @@
       "link": "https://www.dw.com/pt-br/mais-3-mil-escolas-recebem-falsas-ameaças-de-bomba-na-itália/a-79933936?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-12T17:31:00.000Z",
       "summary": "Governo instruiu instituições a não fecharem as portas após pânico ao redor do país. Casos semelhantes ocorreram em França, Reino Unido e Irlanda.",
-      "source": "DW Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Israel ataca hospital em Gaza, apesar de cessar-fogo",
-      "link": "https://www.dw.com/pt-br/israel-ataca-hospital-em-gaza-apesar-de-cessar-fogo/a-79932931?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-12T15:20:00.000Z",
-      "summary": "Mísseis atingiram hospital que atende metade da população do enclave, matando seis pessoas. Trégua, que já dura, um ano não conseguiu cessar ataques israelenses nem garantir o desarmamento do Hamas.",
       "source": "DW Brasil",
       "cat": "internacional",
       "type": "imprensa"
@@ -708,8 +708,7 @@
     }
   ],
   "errors": [
-    "IPCA 12m (SGS 13522): HTTP 304",
-    "feed CNN Brasil: HTTP 403",
+    "feed CNN Brasil: HTTP 404",
     "feed CNN Brasil: HTTP 404"
   ]
 }
