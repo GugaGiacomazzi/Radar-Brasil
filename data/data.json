@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-13T22:40:07.830Z",
+  "updated": "2026-11-13T23:23:49.814Z",
   "market": {
     "ibov": {
       "price": 172457.77,
       "pct": 0.66,
-      "time": "2026-11-13T22:39:58.110Z",
+      "time": "2026-11-13T23:23:43.079Z",
       "history": [
         {
           "d": "2026-10-14",
@@ -149,6 +149,96 @@
   },
   "news": [
     {
+      "title": "Paralisação de voos nos EUA: Anac diz monitorar situação e recomenda que passageiros procurem companhias aéreas",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/13/paralisacao-de-voos-nos-eua-anac-diz-monitorar-situacao-e-recomenda-que-passageiros-procurem-companhias-aereas.ghtml",
+      "date": "2026-11-13T23:21:18.000Z",
+      "summary": "A Agência Nacional de Aviação Civil (Anac) informou que está monitorando a situação dos voos paralisados nos EUA E recomenda aos passageiros que busquem as companhias aéreas para verificar a situação do voo ou eventuais alterações. (esta reportagem está em atu",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Paraguai: ex-presidente é acusado de associação criminosa",
+      "link": "https://www.dw.com/pt-br/paraguai-ex-presidente-é-acusado-de-associação-criminosa/a-79945572?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-13T23:18:00.000Z",
+      "summary": "Ministério Público também acusa Santiago Peña de apropriação indébita e administração em benefício próprio, além de lavagem de dinheiro, em investigação sobre a intervenção no escândalo do Ueno Bank.",
+      "source": "DW Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "BC aprova compra de banco pelo Nubank, que passará a ter licença bancária no Brasil",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/bc-aprova-compra-de-banco-pelo-nubank-que-passara-a-ter-licenca-bancaria-no-brasil.shtml",
+      "date": "2026-11-13T23:15:00.000Z",
+      "summary": "O Nubank anunciou nesta sexta-feira (13) que o Banco Central aprovou a compra do Banco Porto Real de Investimentos. Com isso, o maior banco digital da América Latina terá licença bancária no Brasil, cumprindo legislação da autoridade monetária. Leia mais (11/1",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Nubank recebe aval do BC para comprar Banco Porto Real e, assim, obter licença bancária no Brasil",
+      "link": "https://www.estadao.com.br/economia/negocios/nubank-recebe-aval-do-bc-para-comprar-banco-porto-real-e-assim-obter-licenca-bancaria-no-brasil/",
+      "date": "2026-11-13T23:06:26.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Como Trump fracassou na tentativa de conter a China e restaurar a hegemonia americana",
+      "link": "https://www.estadao.com.br/economia/celso-ming/como-trump-fracassou-na-tentativa-de-conter-a-china-e-restaurar-a-hegemonia-americana/",
+      "date": "2026-11-13T23:03:45.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Governo Lula retira subvenção extra de R$ 1,40 por litro de diesel importado",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/governo-lula-retira-subvencao-extra-de-r-140-por-litro-de-diesel-importado.shtml",
+      "date": "2026-11-13T22:55:00.000Z",
+      "summary": "O governo de Luiz Inácio Lula da Silva (PT) decidiu retirar a subvenção extra de R$ 1,40 por litro de diesel importado. O benefício tinha validade por 30 dias desde 13 de outubro, e o Ministério da Fazenda informou nesta sexta-feira (13) que ele não será renov",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "CEO da Anthropic diz não estar muito preocupado com turbulência no mercado antes do IPO",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/ceo-da-anthropic-diz-nao-estar-muito-preocupado-com-turbulencia-no-mercado-antes-do-ipo.shtml",
+      "date": "2026-11-13T22:48:00.000Z",
+      "summary": "A Anthropic \"não está muito preocupada\" com a possibilidade de a volatilidade do mercado atrapalhar o aguardado IPO (oferta pública inicial) do laboratório de inteligência artificial, afirmou o CEO Dario Amodei em entrevista ao presidente do J.P. Morgan, Jamie",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Fazenda deixa vencer subvenção extra de R$ 1,40 ao diesel, mas cita possibilidade de reavaliação",
+      "link": "https://www.estadao.com.br/economia/fazenda-deixa-vencer-subvencao-extra-de-r-140-ao-diesel-mas-cita-possibilidade-de-reavaliacao/",
+      "date": "2026-11-13T22:40:19.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "PGR indica que manterá pedido de R$ 324 milhões extras para bancar penduricalhos",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/13/pgr-indica-que-mantera-pedido-de-r-324-milhoes-extras-para-bancar-penduricalhos.ghtml",
+      "date": "2026-11-13T22:38:29.000Z",
+      "summary": "A Procuradoria-Geral da República (PGR) indicou nesta sexta-feira (13) que vai manter o pedido de um crédito adicional de R$ 324 milhões para despesas do Ministério Público da União. O procurador-geral da República, Paulo Gonet, informou ao Supremo Tribunal Fe",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Projeto fiscal: Setor produtivo ainda vai tentar barrar limite a compensações tributárias no Senado",
+      "link": "https://www.estadao.com.br/economia/projeto-fiscal-setor-produtivo-ainda-vai-tentar-barrar-limite-a-compensacoes-tributarias-no-senado/",
+      "date": "2026-11-13T22:26:34.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "Falha de comunicação suspende voos nos EUA; entenda como funciona o controle aéreo",
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/falha-de-comunicacao-suspende-voos-nos-eua-entenda-como-funciona-o-controle-aereo.shtml",
       "date": "2026-11-13T22:25:00.000Z",
@@ -164,15 +254,6 @@
       "summary": "",
       "source": "Estadão",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Mercedes-Benz vai suspender todos os investimentos futuros na Alemanha",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/mercedes-benz-vai-suspender-todos-os-investimentos-futuros-na-alemanha.shtml",
-      "date": "2026-11-13T22:00:00.000Z",
-      "summary": "A Mercedes-Benz decidiu suspender \"todos os novos investimentos\" na Alemanha. A montadora alemã também disse que o fechamento de fábricas passou a ser uma opção, marcando uma escalada do impasse com os sindicatos em sua tentativa de reduzir os custos trabalhis",
-      "source": "Folha",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -203,7 +284,7 @@
       "type": "imprensa"
     },
     {
-      "title": "Senadoras acompanham investigação sobre crianças desaparecidas no Maranhão",
+      "title": "Senadoras acompanham investigação de crianças desaparecidas no Maranhão",
       "link": "https://www12.senado.leg.br/noticias/materias/2026/11/13/senadoras-acompanham-investigacao-sobre-criancas-desaparecidas-no-maranhao",
       "date": "2026-11-13T21:17:31.000Z",
       "summary": "Três senadoras — Damares Alves (Republicanos-DF), Eliziane Gama (PT-MA) e Roberta Accioly (Republicanos-RR) — estão no Maranhão para acompanhar a investigação sobre crianças desaparecidas no povoado de São Sebastião dos Pretos, comunidade quilombola na zona ru",
@@ -219,51 +300,6 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Falha da Microsoft expõe dependência global de big techs",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/tec/2026/11/falha-da-microsoft-expoe-dependencia-global-de-big-techs.shtml",
-      "date": "2026-11-13T21:15:00.000Z",
-      "summary": "Governos, empresas e serviços públicos em mais de 70 países foram afetados por uma interrupção digital nesta semana, enquanto a Microsoft tentava restabelecer os serviços após uma falha que atingiu milhões de usuários. Leia mais (11/13/2026 - 18h15)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Atlas/Bloomberg: 52% acham errada a decisão de Flávio Bolsonaro de deixar o País",
-      "link": "https://www.estadao.com.br/politica/atlasbloomberg-52-acham-errada-a-decisao-de-flavio-bolsonaro-de-deixar-o-pais-nprp/",
-      "date": "2026-11-13T21:13:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Câmara e Senado pedem que plenário do STF rejeite pontos da liminar de Dino sobre escala 6x1",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/camara-e-senado-pedem-que-plenario-do-stf-rejeite-pontos-da-liminar-de-dino-sobre-escala-6x1.shtml",
-      "date": "2026-11-13T21:12:00.000Z",
-      "summary": "A Câmara dos Deputados e o Senado Federal pediram nesta sexta-feira (13) que o plenário do STF (Supremo Tribunal Federal) rejeite as mudanças determinadas pelo ministro Flávio Dino na emenda constitucional que estabelece o fim da escala 6x1. Leia mais (11/13/2",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Criei com IA um ‘robô’ que acessa a internet; entenda por que humanos já são minoria na web",
-      "link": "https://www.estadao.com.br/economia/negocios/ia-robo-internet-entenda-humanos-minoria-web/",
-      "date": "2026-11-13T21:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Varejo troca mais de 20% das equipes em metade das empresas e enfrenta falta de mão de obra",
-      "link": "https://www.estadao.com.br/economia/varejo-troca-mais-de-20-das-equipes-em-metade-das-empresas-e-enfrenta-falta-de-mao-de-obra/",
-      "date": "2026-11-13T21:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
     },
     {
       "title": "Atlas/Bloomberg: Governo Lula é ruim ou péssimo para 47,9%, e ótimo ou bom para 39,1%",
@@ -329,12 +365,12 @@
       "type": "imprensa"
     },
     {
-      "title": "STF tem 3 votos para manter decisão de Dino que flexibiliza folgas após fim da escala 6x1",
-      "link": "https://www.estadao.com.br/economia/stf-tem-3-votos-para-manter-decisao-de-dino-que-flexibiliza-folgas-apos-fim-da-escala-6x1/",
-      "date": "2026-11-13T20:22:41.000Z",
+      "title": "Cúpula do PT decide apoiar ajuste fiscal do governo e elege Banco Central como culpado por crise",
+      "link": "https://www.estadao.com.br/politica/cupula-do-pt-decide-apoiar-ajuste-fiscal-do-governo-e-elege-banco-central-como-culpado-por-crise/",
+      "date": "2026-11-13T20:11:51.000Z",
       "summary": "",
       "source": "Estadão",
-      "cat": "economia",
+      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -363,15 +399,6 @@
       "source": "Agência Senado",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Reservas para calotes: puxadas pelo BB, provisões de bancos crescem 23% este ano e superam R$ 160 bi",
-      "link": "https://www.estadao.com.br/economia/negocios/reservas-para-calotes-puxadas-pelo-bb-provisoes-crescem-23-este-ano-e-passam-de-r-160-bi/",
-      "date": "2026-11-13T19:38:45.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
     },
     {
       "title": "Comissão aprova proposta que aumenta penas para saque de cargas após acidentes de trânsito",
@@ -509,37 +536,10 @@
       "type": "oficial"
     },
     {
-      "title": "Cármen diz que Bolsonaro violou liberdade de imprensa ao bloquear jornalistas no X quando era presidente",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/13/carmen-diz-que-bolsonaro-violou-liberdade-de-imprensa-ao-bloquear-jornalistas-no-x-quando-era-presidente.ghtml",
-      "date": "2026-11-13T18:02:31.000Z",
-      "summary": "A ministra Cármen Lúcia, do Supremo Tribunal Federal (STF), afirmou, em decisão desta sexta-feira (13), que o ex-presidente Jair Bolsonaro feriu a garantia constitucional da liberdade de imprensa e ofendeu o direito de informação ao bloquear jornalistas na red",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Binance diz ter coberto prejuízo de R$ 34 bilhões após maior roubo da história das criptomoedas",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/13/binance-criptomoeda-roubo.ghtml",
-      "date": "2026-11-13T16:31:56.000Z",
-      "summary": "Logotipo da Binance. Dado Ruvic/Reuters A Binance, maior corretora de criptomoedas do mundo, afirmou nesta sexta-feira (13) que concluiu a reposição dos ativos afetados pelo ataque hacker que desviou US$ 6,3 bilhões (cerca de R$ 34 bilhões) da plataforma. \"Obr",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Sombra do impeachment volta à cena nos EUA após derrota eleitoral de Trump",
       "link": "https://www.dw.com/pt-br/sombra-do-impeachment-volta-à-cena-nos-eua-após-derrota-eleitoral-de-trump/a-79941835?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-13T16:09:00.000Z",
       "summary": "Nova maioria democrata no Congresso pode abrir caminho a processos de destituição contra membros do governo Trump e até contra o próprio presidente.",
-      "source": "DW Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "EUA desmantelam rede de golpes de criptomoedas da Coreia do Norte, diz FBI",
-      "link": "https://www.dw.com/pt-br/eua-desmantelam-rede-de-golpes-de-criptomoedas-da-coreia-do-norte-diz-fbi/a-79940495?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-13T14:23:00.000Z",
-      "summary": "Autoridades apreendem servidores vinculados a esquema que usou videochamadas falsas e deepfakes para roubar mais de 400 milhões de dólares em criptomoedas.",
       "source": "DW Brasil",
       "cat": "internacional",
       "type": "imprensa"
