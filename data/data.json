@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-13T21:43:54.295Z",
+  "updated": "2026-11-13T22:40:07.830Z",
   "market": {
     "ibov": {
       "price": 172457.77,
       "pct": 0.66,
-      "time": "2026-11-13T21:43:46.321Z",
+      "time": "2026-11-13T22:39:58.110Z",
       "history": [
         {
           "d": "2026-10-14",
@@ -149,6 +149,42 @@
   },
   "news": [
     {
+      "title": "Falha de comunicação suspende voos nos EUA; entenda como funciona o controle aéreo",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/falha-de-comunicacao-suspende-voos-nos-eua-entenda-como-funciona-o-controle-aereo.shtml",
+      "date": "2026-11-13T22:25:00.000Z",
+      "summary": "Uma falha de comunicação nos centros de controle de tráfego aéreo dos Estados Unidos levou a FAA (Administração Federal de Aviação dos EUA) a suspender todas as decolagens no país nesta sexta-feira (13). A agência ainda não informou qual equipamento ou sistema",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Nunes diz que Mello Araújo ‘se antecipou’ em denúncia ao MP sobre Virada Esportiva de São Paulo",
+      "link": "https://www.estadao.com.br/politica/nunes-diz-que-mello-araujo-se-antecipou-em-denuncia-ao-mp-sobre-virada-esportiva-de-sao-paulo-nprp/",
+      "date": "2026-11-13T22:09:24.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Mercedes-Benz vai suspender todos os investimentos futuros na Alemanha",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/mercedes-benz-vai-suspender-todos-os-investimentos-futuros-na-alemanha.shtml",
+      "date": "2026-11-13T22:00:00.000Z",
+      "summary": "A Mercedes-Benz decidiu suspender \"todos os novos investimentos\" na Alemanha. A montadora alemã também disse que o fechamento de fábricas passou a ser uma opção, marcando uma escalada do impasse com os sindicatos em sua tentativa de reduzir os custos trabalhis",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Pagamento do 13º salário pode injetar R$ 399,1 bi na economia",
+      "link": "https://www.poder360.com.br/poder-economia/pagamento-do-13o-salario-pode-injetar-r-3991-bi-na-economia/",
+      "date": "2026-11-13T21:45:35.000Z",
+      "summary": "Estudo estima que 99,7 milhões de brasileiros serão beneficiados em 2026, com rendimento adicional médio de R$ 3.720,00",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "Bolsa sobe 0,66% e dólar segue em R$ 5,65 com ajuste fiscal em vista",
       "link": "https://www.poder360.com.br/poder-economia/bolsa-sobe-066-e-dolar-segue-em-r-565-com-ajuste-fiscal-em-vista/",
       "date": "2026-11-13T21:39:18.000Z",
@@ -161,7 +197,7 @@
       "title": "EUA suspendem todas as decolagens de aeroportos do país",
       "link": "https://www.dw.com/pt-br/eua-suspendem-todas-as-decolagens-de-aeroportos-do-país/a-79945256?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-13T21:39:00.000Z",
-      "summary": "Administração Federal de Aviação dos Estados Unidos determinou a suspensão de decolagens em todos os aeroportos do país.",
+      "summary": "Administração Federal de Aviação dos Estados Unidos determinou a suspensão de decolagens em todos os aeroportos do país e que aviões que estavam prestes a partir permaneçam no solo.",
       "source": "DW Brasil",
       "cat": "internacional",
       "type": "imprensa"
@@ -212,24 +248,6 @@
       "type": "imprensa"
     },
     {
-      "title": "É possível investir em ações internacionais sem apostar no dólar?",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/blogs/de-grao-em-grao/2026/11/e-possivel-investir-em-acoes-internacionais-sem-apostar-no-dolar.shtml",
-      "date": "2026-11-13T21:00:00.000Z",
-      "summary": "Quando um brasileiro decide investir em ações internacionais, normalmente imagina que está tomando duas decisões ao mesmo tempo: apostar nas empresas estrangeiras e na valorização do dólar. Entretanto, essas escolhas não precisam caminhar juntas. Leia mais (11",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Recado da semana é o de que ministros do STF não podem ser investigados",
-      "link": "https://www.estadao.com.br/politica/carlos-andreazza/recado-da-semana-e-o-de-que-ministros-do-stf-nao-podem-ser-investigados/",
-      "date": "2026-11-13T21:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Criei com IA um ‘robô’ que acessa a internet; entenda por que humanos já são minoria na web",
       "link": "https://www.estadao.com.br/economia/negocios/ia-robo-internet-entenda-humanos-minoria-web/",
       "date": "2026-11-13T21:00:00.000Z",
@@ -244,15 +262,6 @@
       "date": "2026-11-13T21:00:00.000Z",
       "summary": "",
       "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Congresso esvazia corte de supersalários no 'plano Moretti', dizem organizações",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/congresso-esvazia-corte-de-supersalarios-no-plano-moretti-dizem-organizacoes.shtml",
-      "date": "2026-11-13T20:58:00.000Z",
-      "summary": "Um grupo de sete entidades publicou um documento criticando a mudança que o Congresso fez no chamado \"plano Moretti\", o projeto com medidas fiscais do governo e que tramita no Legislativo. Leia mais (11/13/2026 - 17h58)",
-      "source": "Folha",
       "cat": "economia",
       "type": "imprensa"
     },
@@ -347,15 +356,6 @@
       "type": "oficial"
     },
     {
-      "title": "Ex-tesoureiro da Caixa é condenado por desviar quase R$ 890 mil",
-      "link": "https://www.poder360.com.br/poder-justica/ex-tesoureiro-da-caixa-e-condenado-por-desviar-quase-r-890-mil/",
-      "date": "2026-11-13T19:57:35.000Z",
-      "summary": "Segundo a sentença, o dinheiro desviado por Irineu Barth Júnior foi utilizado em apostas on-line; defesa diz que ex-tesoureiro tem problemas de saúde mental, não enriqueceu e acumula dívidas",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Senado celebra Dia da Consciência Negra em sessão especial na segunda-feira",
       "link": "https://www12.senado.leg.br/noticias/materias/2026/11/13/senado-celebra-dia-da-consciencia-negra-em-sessao-especial-na-segunda-feira",
       "date": "2026-11-13T19:40:43.000Z",
@@ -371,15 +371,6 @@
       "summary": "",
       "source": "Estadão",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Câmara pede que STF suspenda parte das decisões de Dino sobre a 6 X 1",
-      "link": "https://www.poder360.com.br/poder-congresso/camara-pede-que-stf-suspenda-parte-das-decisoes-de-dino-sobre-a-6-x-1/",
-      "date": "2026-11-13T19:34:12.000Z",
-      "summary": "Advocacia da Casa questiona mudanças feitas pelo ministro nas regras de transição e nos prazos de adaptação das empresas",
-      "source": "Poder360",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -413,7 +404,7 @@
       "title": "CAE: ministro da Fazenda debate alíquota da CBS na terça-feira",
       "link": "https://www12.senado.leg.br/noticias/materias/2026/11/13/cae-ministro-da-fazenda-debate-aliquota-da-cbs-na-terca-feira",
       "date": "2026-11-13T19:02:25.000Z",
-      "summary": "O ministro da Fazenda, Dario Durigan, participa nesta terça-feira (17) de audiência pública na Comissão de Assuntos Econômicos do Senado (CAE). O objetivo é discutir o cálculo da alíquota de referência da Contribuição Social sobre Bens e Serviços (CBS) para o ",
+      "summary": "O ministro da Fazenda, Dario Durigan, participa na terça-feira (17) de audiência pública na Comissão de Assuntos Econômicos do Senado (CAE). O objetivo é discutir o cálculo da alíquota de referência da Contribuição Social sobre Bens e Serviços (CBS) para 2027.",
       "source": "Agência Senado",
       "cat": "politica",
       "type": "oficial"
@@ -561,6 +552,15 @@
       "source": "Estadão",
       "cat": "politica",
       "type": "imprensa"
+    },
+    {
+      "title": "Novo chefe do WFP pede fim dos combates no Sudão após visita ao país",
+      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854920",
+      "date": "2026-11-13T12:00:00.000Z",
+      "summary": "Luke J. Lindberg afirma que a paz abre as portas para o alimento, mas a guerra gera fome; agência precisa de US$ 520 milhões para assistir sudaneses até abril do próximo ano; conflito entre o Exército do Sudão e as forças paramilitares RSF começaram em 2023.",
+      "source": "ONU News",
+      "cat": "internacional",
+      "type": "oficial"
     },
     {
       "title": "As acusações de 'festas sexuais em troca de contratos' que levaram à investigação do ex-presidente colombiano Gustavo Petro",
@@ -713,15 +713,6 @@
       "summary": "",
       "source": "Banco Central",
       "cat": "economia",
-      "type": "oficial"
-    },
-    {
-      "title": "Da violência ao clima extremo: O pedido urgente para Moçambique na COP31",
-      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854871",
-      "date": "2026-11-09T12:00:00.000Z",
-      "summary": "OIM afirma que convergência entre conflito e crise climática na província de Cabo Delgado, no extremo norte, exige ação dos líderes mundiais; agência alerta que, sem resposta humanitária e financiamento climático, mais vidas serão perdidas.",
-      "source": "ONU News",
-      "cat": "internacional",
       "type": "oficial"
     }
   ],
