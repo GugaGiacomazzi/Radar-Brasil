@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-13T09:36:01.606Z",
+  "updated": "2026-11-13T10:38:37.738Z",
   "market": {
     "ibov": {
       "price": 171324.31,
       "pct": -0.43,
-      "time": "2026-11-13T09:35:54.774Z",
+      "time": "2026-11-13T10:38:32.481Z",
       "history": [
         {
           "d": "2026-10-14",
@@ -145,6 +145,51 @@
   },
   "news": [
     {
+      "title": "Microsoft tem dificuldades para solucionar falha que deixa Outlook fora do ar e afeta outros serviços; o que se sabe",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/13/microsoft-tem-dificuldades-para-solucionar-falha-que-deixa-outlook-fora-do-ar-e-afeta-outros-servicos-o-que-se-sabe.ghtml",
+      "date": "2026-11-13T10:31:17.000Z",
+      "summary": "Outlook fora do ar: serviços da Microsoft apresentam instabilidade nesta quinta Milhares de usuários da Microsoft continuam sem acesso a serviços como o e-mail Outlook na manhã desta sexta-feira (13). A Microsoft enfrenta dificuldades para solucionar uma grand",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Pane global da Microsoft chega ao segundo dia e trava atividades em empresas e governos",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/tec/2026/11/pane-global-da-microsoft-chega-ao-segundo-dia-e-trava-atividades-em-empresas-e-governos.shtml",
+      "date": "2026-11-13T10:20:00.000Z",
+      "summary": "A Microsoft corre para restabelecer seus serviços em meio a uma pane global que prejudica empresas e órgãos governamentais. Negócios que dependem da tecnologia da Microsoft informaram que não conseguiam realizar suas operações cotidianas nem usar ferramentas e",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Caixa registra lucro líquido de R$ 3,5 bilhões no terceiro trimestre, queda de 7,4%",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/caixa-registra-lucro-liquido-de-r-35-bilhoes-no-terceiro-trimestre-queda-de-74.shtml",
+      "date": "2026-11-13T10:00:00.000Z",
+      "summary": "A Caixa informou nesta quinta-feira (12) que teve um lucro líquido de R$ 3,5 bilhões no terceiro trimestre deste ano, queda de 7,4% na comparação com o mesmo período do ano passado e de 10,4% diante do trimestre anterior. Leia mais (11/13/2026 - 07h00)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Inflação anual da França acelera para 3,4% em outubro",
+      "link": "https://www.poder360.com.br/poder-economia/inflacao-anual-da-franca-acelera-para-34-em-outubro/",
+      "date": "2026-11-13T09:45:29.000Z",
+      "summary": "Preços ao consumidor subiram 0,4% na comparação mensal, depois de uma queda de 0,3% em setembro",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Inflação na Espanha permanece estável em 4,9% em outubro",
+      "link": "https://www.poder360.com.br/poder-economia/inflacao-na-espanha-permanece-estavel-em-49-em-outubro/",
+      "date": "2026-11-13T09:37:54.000Z",
+      "summary": "Custos de habitação subiram 7,6% em termos anuais, por causa do aumento dos preços do gás",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "Governo Lula: leia a agenda de ministros do governo nesta 6ª feira",
       "link": "https://www.poder360.com.br/poder-governo/governo-lula-leia-a-agenda-de-ministros-do-governo-nesta-6a-feira-16/",
       "date": "2026-11-13T09:15:27.000Z",
@@ -163,17 +208,8 @@
       "type": "imprensa"
     },
     {
-      "title": "Saiba quais indicadores e balanços saem nesta 6ª feira",
-      "link": "https://www.poder360.com.br/poder-economia/saiba-quais-indicadores-e-balancos-saem-nesta-6a-feira-13/",
-      "date": "2026-11-13T09:00:17.000Z",
-      "summary": "Comércio no Brasil, prévia do PIB na Europa e na Rússia, inflação e balanço da Cosan movimentam o dia",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Mogi das Cruzes lidera ranking de transparência em SP; veja lista",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/mogi-das-cruzes-lidera-ranking-de-transparencia-em-sp-veja-lista/",
+      "title": "Gestão Tarcísio reduz gasto com dívida após acordo com governo Lula, mas contrapartida limita alívio",
+      "link": "https://www.estadao.com.br/politica/gestao-tarcisio-reduz-gasto-com-divida-apos-acordo-com-governo-lula-mas-contrapartida-limita-alivio/",
       "date": "2026-11-13T08:30:00.000Z",
       "summary": "",
       "source": "Estadão",
@@ -181,8 +217,8 @@
       "type": "imprensa"
     },
     {
-      "title": "Gestão Tarcísio reduz gasto com dívida após acordo com governo Lula, mas contrapartida limita alívio",
-      "link": "https://www.estadao.com.br/politica/gestao-tarcisio-reduz-gasto-com-divida-apos-acordo-com-governo-lula-mas-contrapartida-limita-alivio/",
+      "title": "Mogi das Cruzes lidera ranking de transparência em SP; veja lista",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/mogi-das-cruzes-lidera-ranking-de-transparencia-em-sp-veja-lista/",
       "date": "2026-11-13T08:30:00.000Z",
       "summary": "",
       "source": "Estadão",
@@ -262,33 +298,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Crédito climático com juros de 1% bancado pelo governo financia apartamentos de luxo",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/economia-sustentavel/2026/11/credito-climatico-com-juros-de-1-bancado-pelo-governo-financia-apartamentos-de-luxo.shtml",
-      "date": "2026-11-13T07:00:00.000Z",
-      "summary": "Um programa de financiamento climático do governo federal, que oferece recursos públicos a bancos com juros de apenas 1% ao ano, abaixo das taxas praticadas pelo mercado, tem sido usado para financiar a construção de prédios de luxo em várias regiões do país, ",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Fiesp e Senai-SP lançam curso online grátis sobre reforma tributária",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/blogs/que-imposto-e-esse/2026/11/fiesp-e-senai-sp-lancam-curso-online-gratis-sobre-reforma-tributaria.shtml",
-      "date": "2026-11-13T07:00:00.000Z",
-      "summary": "A Fiesp (Federação das Indústrias do Estado de São Paulo) e o Senai-SP estão lançando um curso online e gratuito de preparação para a reforma tributária. Leia mais (11/13/2026 - 04h00)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Tesouro Nacional relata vazamento de dados de 30.000 cadastros",
-      "link": "https://www.poder360.com.br/poder-brasil/tesouro-nacional-relata-vazamento-de-dados-de-30-000-cadastros/",
-      "date": "2026-11-13T06:26:34.000Z",
-      "summary": "Incidente também expôs cerca de 4.000 chaves Pix de beneficiários do governo; órgão diz que não houve impacto financeiro",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Secretário de Comércio dos EUA vai depor no Congresso sobre caso Nvidia",
       "link": "https://www.estadao.com.br/economia/secretario-de-comercio-dos-eua-vai-depor-no-congresso-sobre-caso-nvidia-npr/",
       "date": "2026-11-13T06:19:09.000Z",
@@ -343,15 +352,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Proclamação da República é feriado ou ponto facultativo? Veja os direitos de quem trabalha",
-      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/13/proclamacao-da-republica-e-feriado.ghtml",
-      "date": "2026-11-13T03:00:00.000Z",
-      "summary": "Região dos Lagos é alvo do turismo no feriado. Divulgação O Brasil celebra o feriado nacional da Proclamação da República no próximo domingo (15). Neste ano, a data cai no fim de semana e não gera, por si só, um dia extra de descanso durante a semana. O dia 15",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "O que pesquisadores propõem para acabar com a pobreza extrema no Brasil?",
       "link": "https://www.estadao.com.br/economia/o-que-pesquisadores-propoem-para-acabar-com-a-pobreza-extrema-no-brasil/",
       "date": "2026-11-13T03:00:00.000Z",
@@ -397,15 +397,6 @@
       "type": "oficial"
     },
     {
-      "title": "O risco de Andrei Rodrigues é a própria PF, de onde jorram os vazamentos",
-      "link": "https://www.estadao.com.br/politica/eliane-cantanhede/o-risco-de-andrei-rodrigues-e-a-propria-pf-de-onde-jorram-os-vazamentos/",
-      "date": "2026-11-12T23:34:35.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Câmara entrega Medalha Rei Pelé a pessoas e instituições ligadas ao esporte",
       "link": "https://www.camara.leg.br/noticias/1319196-camara-entrega-medalha-rei-pele-a-pessoas-e-instituicoes-ligadas-ao-esporte",
       "date": "2026-11-12T22:54:00.000Z",
@@ -431,6 +422,15 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
+    },
+    {
+      "title": "PSB autoriza formar federação com PDT em busca de sobrevivência, mas impõe limites",
+      "link": "https://www.estadao.com.br/politica/psb-autoriza-formar-federacao-com-pdt-em-busca-de-sobrevivencia-mas-impoe-limites/",
+      "date": "2026-11-12T21:57:02.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
     },
     {
       "title": "Congresso aprova R$ 34,9 milhões para datacenter do Serpro",
@@ -687,7 +687,6 @@
   ],
   "errors": [
     "feed CNN Brasil: HTTP 404",
-    "feed CNN Brasil: HTTP 404",
-    "feed Planalto (governo): HTTP 429"
+    "feed CNN Brasil: HTTP 404"
   ]
 }
