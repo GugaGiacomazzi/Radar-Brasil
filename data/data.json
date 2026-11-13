@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-13T07:05:55.456Z",
+  "updated": "2026-11-13T08:28:45.881Z",
   "market": {
     "ibov": {
       "price": 171324.31,
       "pct": -0.43,
-      "time": "2026-11-13T07:05:48.212Z",
+      "time": "2026-11-13T08:28:41.919Z",
       "history": [
         {
           "d": "2026-10-14",
@@ -144,6 +144,42 @@
     ]
   },
   "news": [
+    {
+      "title": "‘Sobreviver ou pagar ao banco’: o que levou os produtores rurais à inadimplência recorde no Brasil",
+      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/13/o-que-levou-os-produtores-rurais-a-inadimplencia-recorde-no-brasil.ghtml",
+      "date": "2026-11-13T08:00:01.000Z",
+      "summary": "O que levou os produtores rurais à inadimplência recorde no Brasil “Eu perdi o controle do endividamento e cortei os pagamentos. Tive que escolher entre a manutenção da minha família e a sobrevivência dos animais ou pagar ao banco”. O relato é do produtor de l",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Cleitinho acumula acenos ao PT em busca de ponte com governo Lula",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/cleitinho-acumula-acenos-ao-pt-em-busca-de-ponte-com-governo-lula.shtml",
+      "date": "2026-11-13T07:00:00.000Z",
+      "summary": "O governador eleito de Minas Gerais, Cleitinho Azevedo (Republicanos), intensificou nesta semana um movimento de acenos ao PT a fim de se aproximar do governo Lula. Um dos objetivos é melhorar as condições para a renegociação da dívida do estado com a União. L",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "MDB e PSDB retomam conversas para federação e fixam prazo até o fim de novembro",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/mdb-e-psdb-retomam-conversas-para-federacao-e-fixam-prazo-ate-o-fim-de-novembro.shtml",
+      "date": "2026-11-13T07:00:00.000Z",
+      "summary": "MDB e PSDB retomaram as conversas para a criação de uma federação entre as duas legendas, com o objetivo de formar uma nova força de centro no cenário partidário. Leia mais (11/13/2026 - 04h00)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Centrão exige mais ministérios no governo Lula 4 em troca de cobrança por mais fidelidade no Congresso",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/centrao-exige-mais-ministerios-no-governo-lula-4-em-troca-de-cobranca-por-mais-fidelidade-no-congresso.shtml",
+      "date": "2026-11-13T07:00:00.000Z",
+      "summary": "Os partidos PP e Republicanos pretendem aderir ao governo Lula (PT) na largada da atual gestão e, por isso, esperam ocupar ministérios mais robustos em troca da fidelidade de suas bancadas no Congresso. Leia mais (11/13/2026 - 04h00)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
     {
       "title": "Gilmar Mendes sinaliza que reconhecerá Justiça do Trabalho como competente para julgar ações de pejotização",
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/gilmar-mendes-sinaliza-que-reconhecera-justica-do-trabalho-como-competente-para-julgar-acoes-de-pejotizacao.shtml",
@@ -289,24 +325,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Vice de Nunes admite disputar 2028, critica prefeito e Tarcísio e buscará Bolsonaro",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/vice-de-nunes-admite-disputar-2028-critica-prefeito-e-tarcisio-e-buscara-bolsonaro.shtml",
-      "date": "2026-11-13T02:00:00.000Z",
-      "summary": "No cargo de vice-prefeito de São Paulo por imposição de Jair Bolsonaro (PL), o coronel Mello Araújo (PL), que nesta semana entrou em choque com o prefeito Ricardo Nunes (MDB) ao denunciar supostos desvios na área de Esportes, estende suas críticas ao governo T",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Esquerda é legítima e direita é como uísque falsificado, diz líder rural bolsonarista",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/esquerda-e-legitima-e-direita-e-como-uisque-falsificado-diz-lider-rural-bolsonarista.shtml",
-      "date": "2026-11-13T02:00:00.000Z",
-      "summary": "Ex-presidente da UDR (União Democrática Ruralista) e ferrenho apoiador de Jair Bolsonaro, Luiz Antonio Nabhan Garcia diz que a esquerda brasileira é mais verdadeira do que a direita, campo com o qual se identifica. Leia mais (11/12/2026 - 23h00)",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Mesmo com urgência, projeto de ajuste fiscal foi alterado por emendas",
       "link": "https://www12.senado.leg.br/noticias/materias/2026/11/12/mesmo-com-urgencia-projeto-de-ajuste-fiscal-foi-alterado-por-emendas",
       "date": "2026-11-13T01:54:15.000Z",
@@ -321,15 +339,6 @@
       "date": "2026-11-13T01:34:42.000Z",
       "summary": "",
       "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Defesa de Vorcaro contesta Fachin e quer que Gilmar decida sobre relatoria do caso Master",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/defesa-de-vorcaro-contesta-fachin-e-quer-que-gilmar-decida-sobre-relatoria-do-caso-master.shtml",
-      "date": "2026-11-13T00:59:00.000Z",
-      "summary": "A defesa de Daniel Vorcaro decidiu questionar a presença do presidente do STF (Supremo Tribunal Federal), Edson Fachin, à frente do caso do Banco Master. Leia mais (11/12/2026 - 21h59)",
-      "source": "Folha",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -350,15 +359,6 @@
       "source": "Agência Senado",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Mega-Sena 3085 acumula e prêmio vai a R$ 27 milhões; confira os números sorteados",
-      "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/12/mega-sena-concurso-3085-confira-os-numeros-sorteados.ghtml",
-      "date": "2026-11-13T00:03:17.000Z",
-      "summary": "Concurso 3.085 da Mega-Sena: veja os números sorteados O sorteio do concurso 3.085 da Mega-Sena foi realizado na noite desta quinta-feira (12), em São Paulo. O prêmio para as apostas que acertarem as seis dezenas é de R$ 21.085.616.30. No entanto, ninguém levo",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
     },
     {
       "title": "O risco de Andrei Rodrigues é a própria PF, de onde jorram os vazamentos",
