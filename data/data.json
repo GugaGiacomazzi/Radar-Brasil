@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-13T10:38:37.738Z",
+  "updated": "2026-11-13T11:36:24.110Z",
   "market": {
     "ibov": {
       "price": 171324.31,
       "pct": -0.43,
-      "time": "2026-11-13T10:38:32.481Z",
+      "time": "2026-11-13T11:36:17.364Z",
       "history": [
         {
           "d": "2026-10-14",
@@ -145,6 +145,114 @@
   },
   "news": [
     {
+      "title": "Saiba como são avaliados os 7 presidentes da América Latina",
+      "link": "https://www.poder360.com.br/poder-internacional/saiba-como-sao-avaliados-os-7-presidentes-da-america-latina/",
+      "date": "2026-11-13T11:30:38.000Z",
+      "summary": "Pesquisa AtlasIntel indica a aprovação dos líderes de Argentina, Brasil, Chile, Colômbia, México, Peru e Venezuela",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "42,2% dizem que houve fraude na eleição presidencial de 2026",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/422-dizem-que-houve-fraude-na-eleicao-presidencial-de-2026/",
+      "date": "2026-11-13T11:30:30.000Z",
+      "summary": "Levantamento AtlasIntel/Bloomberg mostra que 52,7% consideram que o resultado refletiu a vontade dos eleitores",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lula é aprovado por 47,7% e desaprovado por 50,3%, diz AtlasIntel",
+      "link": "https://www.poder360.com.br/poder-pesquisas/lula-e-aprovado-por-477-e-desaprovado-por-503-diz-atlasintel/",
+      "date": "2026-11-13T11:30:26.000Z",
+      "summary": "Levantamento AtlasIntel ouviu 4.946 eleitores do Brasil de 5 a 9 de novembro; margem de erro é de 2 pontos percentuais",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Alckmin na Agricultura poderia melhorar a relação do governo Lula com o agro",
+      "link": "https://g1.globo.com/politica/blog/julia-duailibi/post/2026/11/13/alckmin-agricultura-governo-lula-agro.ghtml",
+      "date": "2026-11-13T11:22:13.000Z",
+      "summary": "Lula e Alckmin antes de viagem à Colômbia Ricardo Stuckert/PR Com a volta de Carlos Fávaro ao Senado, há quem aposte no nome de Geraldo Alckmin para assumir o Ministério da Agricultura. A possibilidade é mencionada em razão da boa relação que ele manteve com o",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Microsoft descarta ataque hacker após falha global afetar Outlook, Teams e Copilot",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/13/microsoft-descarta-ataque-hacker-apos-falha-global-afetar-outlook-teams-e-copilot.ghtml",
+      "date": "2026-11-13T11:21:38.000Z",
+      "summary": "Outlook fora do ar: serviços da Microsoft apresentam instabilidade nesta quinta A Microsoft descartou nesta sexta-feira (13) que um ataque hacker tenha provocado a falha global que afeta o serviço de e-mail Outlook, o aplicativo Teams e o assistente de IA Copi",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Kassab elogia ajuste de Lula aprovado no Senado e sinaliza que PSD quer participar do novo governo",
+      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/13/kassab-elogia-ajuste-de-lula-aprovado-no-senado-e-sinaliza-que-psd-quer-participar-do-novo-governo.ghtml",
+      "date": "2026-11-13T11:13:33.000Z",
+      "summary": "Kassab elogia ajuste de Lula aprovado no Senado e sinaliza que PSD quer participar do novo governo O presidente nacional do PSD, Gilberto Kassab, sinalizou na noite desta quinta-feira (13) que está disposto a conversar com o presidente Lula (PT) para que a sig",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Nubank melhora perspectivas para índice de eficiência de 2026",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/nubank-melhora-perspectivas-para-indice-de-eficiencia-de-2026.shtml",
+      "date": "2026-11-13T11:10:00.000Z",
+      "summary": "O banco digital Nubank divulgou nessa quinta-feira (12) um lucro para o terceiro trimestre em linha com as estimativas dos analistas, ao mesmo tempo em que melhorou suas projeções para o índice de eficiência do ano, em parte devido a uma desaceleração nas cont",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Como implementar sistemas agroflorestais",
+      "link": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/11/13/como-implementar-sistemas-agroflorestais.ghtml",
+      "date": "2026-11-13T10:59:58.000Z",
+      "summary": "A Empresa de Assistência Técnica e Extensão Rural de Minas Gerais (Emater-MG) disponibiliza uma cartilha gratuita com orientações para quem deseja implantar sistemas agroflorestais (SAFs) em propriedades rurais. A publicação apresenta as principais classificaç",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "PF cumpre mandado em operação sobre suposto desvio de emendas ligadas ao filme 'Dark Horse'",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/13/pf-cumpre-mandado-de-busca-e-apreensao-em-operacao-sobre-suposto-desvio-de-emendas-parlamentares.ghtml",
+      "date": "2026-11-13T10:56:54.000Z",
+      "summary": "A Polícia Federal (PF) cumpre nesta sexta-feira (13) um mandado de busca e apreensão, expedido pelo Supremo Tribunal Federal (STF), na segunda fase da operação \"Make Up\", que investiga o suposto desvio de recursos de emendas parlamentares. Segundo interlocutor",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "PIB da Zona do Euro cresce 0,4% no 3º trimestre de 2026",
+      "link": "https://www.poder360.com.br/poder-economia/pib-da-zona-do-euro-cresce-04-no-3o-trimestre-de-2026/",
+      "date": "2026-11-13T10:52:35.000Z",
+      "summary": "Em comparação com o 3º trimestre de 2025, o PIB aumentou 1,3% na Zona do Euro; emprego manteve-se estável",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "PF deflagra nova fase de operação que mira suspeitas de desvios de emendas para 'Dark Horse'",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/pf-faz-nova-fase-de-operacao-que-investiga-desvio-de-emendas-parlamentares.shtml",
+      "date": "2026-11-13T10:47:00.000Z",
+      "summary": "A Polícia Federal deflagrou nesta sexta-feira (13) a segunda fase da Operação Make Up, que investiga suspeitas de desvio de recursos públicos provenientes de emendas parlamentares. Leia mais (11/13/2026 - 07h47)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "PF deflagra segunda fase de operação para rastrear emendas de Mário Frias ao filme ‘Dark Horse’",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/pf-deflagra-segunda-fase-de-operacao-para-rastrear-emendas-de-mario-frias-ao-filme-dark-horse/",
+      "date": "2026-11-13T10:31:35.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "Microsoft tem dificuldades para solucionar falha que deixa Outlook fora do ar e afeta outros serviços; o que se sabe",
       "link": "https://g1.globo.com/tecnologia/noticia/2026/11/13/microsoft-tem-dificuldades-para-solucionar-falha-que-deixa-outlook-fora-do-ar-e-afeta-outros-servicos-o-que-se-sabe.ghtml",
       "date": "2026-11-13T10:31:17.000Z",
@@ -169,42 +277,6 @@
       "summary": "A Caixa informou nesta quinta-feira (12) que teve um lucro líquido de R$ 3,5 bilhões no terceiro trimestre deste ano, queda de 7,4% na comparação com o mesmo período do ano passado e de 10,4% diante do trimestre anterior. Leia mais (11/13/2026 - 07h00)",
       "source": "Folha",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Inflação anual da França acelera para 3,4% em outubro",
-      "link": "https://www.poder360.com.br/poder-economia/inflacao-anual-da-franca-acelera-para-34-em-outubro/",
-      "date": "2026-11-13T09:45:29.000Z",
-      "summary": "Preços ao consumidor subiram 0,4% na comparação mensal, depois de uma queda de 0,3% em setembro",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Inflação na Espanha permanece estável em 4,9% em outubro",
-      "link": "https://www.poder360.com.br/poder-economia/inflacao-na-espanha-permanece-estavel-em-49-em-outubro/",
-      "date": "2026-11-13T09:37:54.000Z",
-      "summary": "Custos de habitação subiram 7,6% em termos anuais, por causa do aumento dos preços do gás",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Governo Lula: leia a agenda de ministros do governo nesta 6ª feira",
-      "link": "https://www.poder360.com.br/poder-governo/governo-lula-leia-a-agenda-de-ministros-do-governo-nesta-6a-feira-16/",
-      "date": "2026-11-13T09:15:27.000Z",
-      "summary": "Waldez Góes inicia obras hídricas no Rio Grande do Norte; Tomé Franca e André de Paula acompanham Lula nas Filipinas",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Agenda de Lula: leia os compromissos do presidente 6ª feira",
-      "link": "https://www.poder360.com.br/poder-governo/agenda-de-lula-leia-os-compromissos-do-presidente-6a-feira-5/",
-      "date": "2026-11-13T09:15:20.000Z",
-      "summary": "Lula desembarca nas Filipinas para a Cúpula da Asean com 2 ministros e o deputado André Janones",
-      "source": "Poder360",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -289,15 +361,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Expo Cristã tem pirulito de Jesus, IA para igrejas e Lei Rouanet",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/expo-crista-tem-pirulito-de-jesus-ia-para-igrejas-e-lei-rouanet.shtml",
-      "date": "2026-11-13T07:00:00.000Z",
-      "summary": "A cuidadora de idosos Rachel Sena, 44, quer subir na vida. \"E quem não quer? Assim a gente fica mais pertinho de Deus\", ela diz e ri ao achar graça da própria piada, enquanto sobe uma escadaria cenográfica montada pela JC Rico, empresa especializada na montage",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Secretário de Comércio dos EUA vai depor no Congresso sobre caso Nvidia",
       "link": "https://www.estadao.com.br/economia/secretario-de-comercio-dos-eua-vai-depor-no-congresso-sobre-caso-nvidia-npr/",
       "date": "2026-11-13T06:19:09.000Z",
@@ -316,57 +379,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Rouquidão de Lula: o que pode explicar a voz falha do presidente, dos efeitos do câncer à cirurgia de 2022",
-      "link": "https://g1.globo.com/saude/noticia/2026/11/13/rouquidao-de-lula-o-que-pode-explicar-a-voz-falha-do-presidente-dos-efeitos-do-cancer-a-cirurgia-de-2022.ghtml",
-      "date": "2026-11-13T05:00:00.000Z",
-      "summary": "Lula durante evento na Turquia, às margens da COP31 Ricardo Stuckert/Presidência da República O presidente Luiz Inácio Lula da Silva afirmou nesta quinta-feira (12) que está rouco há mais de 15 dias. Na véspera, durante a COP31, a conferência do clima da Organ",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Meta bate recorde e recebe meio bilhão de reais nas eleições; PL gasta quase o dobro do PT com a empresa",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/13/meta-bate-recorde-e-recebe-meio-bilhao-de-reais-nas-eleicoes-pl-gasta-quase-o-dobro-do-pt-com-a-empresa.ghtml",
-      "date": "2026-11-13T03:00:01.000Z",
-      "summary": "A Meta, dona do Facebook e do Instagram, recebeu ao menos R$ 522,7 milhões das campanhas eleitorais de 2026, segundo levantamento do g1 com dados do Tribunal Superior Eleitoral (TSE). O valor é recorde, quatro vezes o de 2022, e faz da Meta a empresa que mais ",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Lula, Milei e líderes de mais de 20 países defendem que próximo secretário-geral da ONU seja latino",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/13/lula-milei-e-lideres-de-mais-de-20-paises-defendem-que-proximo-secretario-geral-da-onu-seja-latino.ghtml",
-      "date": "2026-11-13T03:00:00.000Z",
-      "summary": "Os presidentes Luiz Inácio Lula da Silva (PT), Javier Milei (Argentina), Miguel Díaz-Canel (Cuba) e Delcy Rodríguez (Venezuela), além de cerca de outros 20 líderes de países da Comunidade dos Estados Latino-Americanos e Caribenhos (Celac), enviaram uma carta a",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Outlook e IA da Microsoft seguem instáveis nesta sexta-feira",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/13/outlook-e-ia-da-microsoft-seguem-instaveis-nesta-sexta-feira.ghtml",
-      "date": "2026-11-13T03:00:00.000Z",
-      "summary": "Outlook fora do ar: serviços da Microsoft apresentam instabilidade nesta quinta Desde a tarde de quinta-feira (12), usuários relataram dificuldades para acessar alguns serviços da Microsoft, como o Outlook. As reclamações começaram por volta das 14h30, segundo",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "O que pesquisadores propõem para acabar com a pobreza extrema no Brasil?",
       "link": "https://www.estadao.com.br/economia/o-que-pesquisadores-propoem-para-acabar-com-a-pobreza-extrema-no-brasil/",
       "date": "2026-11-13T03:00:00.000Z",
       "summary": "",
       "source": "Estadão",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Nos EUA, Flávio Bolsonaro rejeita apoio a Motta após racha no PL sobre eleição na Câmara",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/nos-eua-flavio-bolsonaro-rejeita-apoio-a-motta-apos-racha-no-pl-sobre-eleicao-na-camara.shtml",
-      "date": "2026-11-13T02:45:00.000Z",
-      "summary": "O senador Flávio Bolsonaro (PL) afirmou nesta quinta-feira (12), durante uma live em seu canal, que é contrário à reeleição de Hugo Motta (Republicanos-PB) à presidência da Câmara dos Deputados. A declaração ocorre em meio a um racha no PL sobre o apoio ao atu",
-      "source": "Folha",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -377,15 +395,6 @@
       "source": "Agência Senado",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Gonet se manifesta contra revisão criminal de Bolsonaro e defende manutenção da pena",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/gonet-se-manifesta-contra-revisao-criminal-de-bolsonaro-e-defende-manutencao-da-pena/",
-      "date": "2026-11-13T01:34:42.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
     },
     {
       "title": "Texto principal do ajuste fiscal é aprovado pelo Senado",
