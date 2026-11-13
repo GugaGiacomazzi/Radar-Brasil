@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-13T14:50:16.737Z",
+  "updated": "2026-11-13T15:44:13.515Z",
   "market": {
     "ibov": {
-      "price": 171957.55,
-      "pct": 0.37,
-      "time": "2026-11-13T14:50:11.033Z",
+      "price": 172098.95,
+      "pct": 0.45,
+      "time": "2026-11-13T15:44:07.231Z",
       "history": [
         {
           "d": "2026-10-14",
@@ -92,7 +92,7 @@
         },
         {
           "d": "2026-11-13",
-          "c": 171957.5469
+          "c": 172098.9531
         }
       ]
     },
@@ -149,21 +149,219 @@
   },
   "news": [
     {
+      "title": "PSD vê número de senadores encolher de 13 para 3 e tenta filiar parlamentares de outros partidos",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/psd-ve-numero-de-senadores-encolher-de-13-para-3-e-tenta-filiar-parlamentares-de-outros-partidos.shtml",
+      "date": "2026-11-13T15:30:00.000Z",
+      "summary": "O PSD, partido do ex-ministro Gilberto Kassab, tenta aumentar a bancada no Senado Federal diante do fiasco nas últimas eleições, em que só dois senadores foram eleitos. Leia mais (11/13/2026 - 12h30)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Vice de Nunes faz dobradinha com petista e recebe apoio de bolsonarista",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/vice-de-nunes-faz-dobradinha-com-petista-e-recebe-apoio-de-bolsonarista.shtml",
+      "date": "2026-11-13T15:27:00.000Z",
+      "summary": "O vice-prefeito de São Paulo, coronel Ricardo Mello Araújo (PL), tem recebido acenos em sua ofensiva contra a gestão Ricardo Nunes (MDB) que vão do petismo ao bolsonarismo. Leia mais (11/13/2026 - 12h27)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Placar do ajuste fiscal no Senado indica que Lula terá dificuldades para aprovar PECs em 2027",
+      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/13/placar-do-ajuste-fiscal-no-senado-indica-que-o-governo-tera-dificuldades-para-aprovar-pecs-em-2027.ghtml",
+      "date": "2026-11-13T15:23:13.000Z",
+      "summary": "Senado aprova texto-base do ajuste fiscal por 45 votos a 31 O governo Lula venceu a batalha de aprovação de sua proposta de ajuste fiscal no Senado. O placar, de 45 votos a 31, mostrou, porém, que o Palácio do Planalto terá grandes dificuldades para aprovar um",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Atlas/Bloomberg: 33% dos eleitores de direita querem Tarcísio liderando o campo; 30% preferem Flávio",
+      "link": "https://www.estadao.com.br/politica/atlasbloomberg-33-dos-eleitores-de-direita-querem-tarcisio-liderando-o-campo-30-preferem-flavio/",
+      "date": "2026-11-13T15:23:11.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Volkswagen lucra apenas R$ 75 por veículo vendido, aponta estudo",
+      "link": "https://g1.globo.com/carros/noticia/2026/11/13/volkswagen-lucra-apenas-r-75-por-veiculo-vendido-aponta-estudo.ghtml",
+      "date": "2026-11-13T15:15:24.000Z",
+      "summary": "Volkswagen ID.4 chega ao Brasil, mas sai de linha na Europa A Volkswagen, que atravessa uma grave crise, lucra apenas doze euros (R$ 75) por veículo vendido, segundo uma análise do instituto de pesquisa da indústria automotiva Center of Automotive Management (",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "SpaceX planeja investir US$ 74 bilhões em data centers no Texas e Arizona",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/spacex-planeja-investir-us-74-bilhoes-em-data-centers-no-texas-e-arizona.shtml",
+      "date": "2026-11-13T15:12:00.000Z",
+      "summary": "A SpaceX afirmou nesta quinta-feira (13) que planeja investir US$ 74 bilhões (R$ 417,82 bilhões) na construção de novos complexos de data centers no Arizona e no Texas, enquanto a empresa continua a direcionar recursos para a disputa global pela inteligência a",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Pagamento do 13º salário injeta R$ 339 bilhões na economia; veja calendário e quem recebe",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/pagamento-do-13o-salario-injeta-r-339-bilhoes-na-economia-veja-calendario-e-quem-tem-recebe.shtml",
+      "date": "2026-11-13T15:11:00.000Z",
+      "summary": "O pagamento do 13º salário vai injetar R$ 339,21 bilhões na economia brasileira em 2026, segundo levantamento do Dieese (Departamento Intersindical de Estatística e Estudos Socioeconômicos). O montante equivale a 2,9% do PIB (Produto Interno Bruto). Leia mais ",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Influenciador é condenado a pagar R$ 31 mil à Latam por piada com bomba",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/influenciador-e-condenado-a-pagar-r-31-mil-a-latam-por-piada-com-bomba.shtml",
+      "date": "2026-11-13T15:07:00.000Z",
+      "summary": "A Justiça de Alagoas condenou o influenciador Igor Campioni de Meneses a indenizar a Latam em R$ 31,7 mil pelo cancelamento de dois voos após ele dizer, a bordo, que o amigo (também influenciador, Kel Ferreti) iria explodir uma bomba. A frase foi dita depois q",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lula posta chegada às Filipinas e fala em ampliar investimentos",
+      "link": "https://www.poder360.com.br/poder-governo/lula-posta-chegada-as-filipinas-e-fala-em-ampliar-investimentos/",
+      "date": "2026-11-13T15:03:09.000Z",
+      "summary": "Presidente brasileiro se reúne com Marcos Jr. no sábado (14.nov) e participa da Cúpula da Asean no domingo (15.nov)",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Faxes, celulares e Bluetooth: queda da Microsoft força empresas a recorrer a soluções antigas",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/13/faxes-celulares-e-bluetooth-queda-da-microsoft.ghtml",
+      "date": "2026-11-13T15:03:08.000Z",
+      "summary": "Microsoft descarta ataque hacker após falha em 70 países A queda mundial dos serviços da Microsoft obrigou empresas de diferentes setores a recorrer a tecnologias tradicionais, como fax, telefone e Bluetooth, para manter suas operações nesta sexta-feira (13). ",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Pane na Microsoft leva empresas, governo e hospitais brasileiros a concentrar comunicação no WhatsApp",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/tec/2026/11/pane-na-microsoft-afeta-mais-de-30-milhoes-de-assinantes-entre-empresas-escolas-e-hospitais.shtml",
+      "date": "2026-11-13T15:03:00.000Z",
+      "summary": "Com o serviço de emails Outlook, da Microsoft, fora do ar desde a tarde de quinta-feira (12), empresas, escolas, hospitais e até o governo brasileiro migraram a comunicação institucional para o WhatsApp e para ligações telefônicas. Leia mais (11/13/2026 - 12h0",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "BB notificou Deltan por causa de posts com ‘desinformação’ e alegou risco de ‘instabilidade social’",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/bb-notificou-deltan-por-causa-de-posts-com-desinformacao-e-alegou-risco-de-instabilidade-social/",
+      "date": "2026-11-13T15:02:41.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Pacote fiscal vai na direção correta, mas é muito pequeno, diz Mansueto Almeida, do BTG",
+      "link": "https://www.estadao.com.br/economia/pacote-fiscal-avaliacao-mansueto-almeida-btg/",
+      "date": "2026-11-13T15:02:07.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Gastos elevados e ineficiência da política fiscal",
+      "link": "https://www.estadao.com.br/economia/gastos-elevados-e-ineficiencia-da-politica-fiscal/",
+      "date": "2026-11-13T15:01:52.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Congresso quer aprovar PEC da maioridade penal neste ano para evitar texto mais duro em 2027",
+      "link": "https://www.estadao.com.br/politica/congresso-quer-aprovar-pec-da-maioridade-penal-neste-ano-para-evitar-texto-mais-duro-em-2027/",
+      "date": "2026-11-13T15:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "O fim do Direito Internacional",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/o-fim-do-direito-internacional/",
+      "date": "2026-11-13T15:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Por risco de incêndio, agência dos EUA orienta donos de 720 mil carros da BMW a estacionar ao ar livre",
+      "link": "https://g1.globo.com/carros/noticia/2026/11/13/recomendacao-modelos-bmw.ghtml",
+      "date": "2026-11-13T14:59:18.000Z",
+      "summary": "BMW Série 3 2016. Divulgação / BMW A agência de segurança viária dos Estados Unidos (NHTSA) orientou os proprietários de 720.796 veículos da BMW a manter os carros ao ar livre, longe de construções e de outros veículos, até que sejam reparados. A informação é ",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Debate sobre juros virou disputa de torcida organizada, diz Galípolo",
+      "link": "https://www.poder360.com.br/poder-economia/debate-sobre-juros-virou-disputa-de-torcida-organizada-diz-galipolo/",
+      "date": "2026-11-13T14:57:56.000Z",
+      "summary": "Presidente do Banco Central declarou que não há atualização a ser feita quanto à política monetária",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Ajuste fiscal: adiamento de votação dá mais tempo para reflexão, diz Davi.",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/13/ajuste-fiscal-adiamento-de-votacao-da-mais-tempo-para-reflexao-diz-davi",
+      "date": "2026-11-13T14:57:48.000Z",
+      "summary": "Adiar a votação dos pontos pendentes do ajuste fiscal do governo (PLP 299/2026) para terça-feira (17) propiciará mais condições para os senadores avaliarem suas posições. Foi o que afirmou o presidente do Senado, Davi Alcolumbre em coletiva de imprensa nesta q",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Lei amplia penas para abandono e maus-tratos contra pessoas idosas",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/13/lei-amplia-penas-para-abandono-e-maus-tratos-contra-pessoas-idosas",
+      "date": "2026-11-13T14:48:09.000Z",
+      "summary": "Abandonar pessoas idosas que dependem de assistência, privá-las de alimentação ou cuidados essenciais e submetê-las a situações que coloquem sua saúde em risco podem configurar crimes para os quais a legislação passou a prever penas mais rigorosas. As punições",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Senado aprova fim da 6x1 e garante dois dias de descanso semanal",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/13/senado-aprova-fim-da-6x1-e-garante-dois-dias-de-descanso-semanal",
+      "date": "2026-11-13T14:47:36.000Z",
+      "summary": "Trabalhar cinco dias por semana e ter direito a dois dias de descanso passará a ser a realidade dos trabalhadores abrangidos pela regra constitucional que estabeleceu o fim da escala 6x1 no Brasil. A Emenda Constitucional 141 reduz, de forma gradual, a jornada",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "ECA Digital estabelece regras para proteger crianças e adolescentes",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/13/eca-digital-estabelece-regras-para-proteger-criancas-e-adolescentes",
+      "date": "2026-11-13T14:46:25.000Z",
+      "summary": "A Lei 15.211, de 2025, o chamado Estatuto Digital da Criança e do Adolescente (ECA Digital), estabelece regras para proteger crianças e adolescentes no ambiente digital. A norma incide sobre aplicativos, jogos, redes sociais, sistemas operacionais, lojas virtu",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Nova licença-paternidade amplia tempo para cuidados com recém-nascido",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/13/nova-licenca-paternidade-amplia-tempo-para-cuidados-com-recem-nascido",
+      "date": "2026-11-13T14:45:44.000Z",
+      "summary": "Rodrigo mal havia chegado ao mundo e seus pais já enfrentavam um desafio: como dividir os cuidados com o recém-nascido sem sobrecarregar a mãe, que se recuperava de uma cesariana, e sem contar com uma rede de apoio? Para Roufran dos Santos, o tempo era curto. ",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
       "title": "Após apagão da Microsoft, OAB pede suspensão de prazos ao STF e ao CNJ",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/apos-apagao-da-microsoft-oab-pede-suspensao-de-prazos-ao-stf-e-ao-cnj.shtml",
       "date": "2026-11-13T14:41:00.000Z",
       "summary": "O Conselho Federal da OAB pediu ao presidente do STF (Supremo Tribunal Federal) e do CNJ (Conselho Nacional de Justiça), ministro Edson Fachin, a suspensão dos prazos processuais enquanto durar a instabilidade nos serviços da Microsoft. Leia mais (11/13/2026 -",
       "source": "Folha",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Pandora leva joias com platina ao Brasil a partir de dezembro e promete custo menor",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/pandora-leva-joias-com-platina-ao-brasil-a-partir-de-dezembro-e-promete-custo-menor.shtml",
-      "date": "2026-11-13T14:38:00.000Z",
-      "summary": "A companhia dinamarquesa de joias Pandora começa a vender no Brasil, em dezembro, uma pulseira e alguns charms (espécie de pingentes de pulseira) com acabamento em platina. Esses serão os primeiros itens no país de uma linha que vai ganhar volume global em 202",
-      "source": "Folha",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -194,15 +392,6 @@
       "type": "oficial"
     },
     {
-      "title": "Lula chega às Filipinas com agenda comercial ampla e tenta reverter veto à carne suína",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/lula-chega-as-filipinas-com-agenda-comercial-ampla-e-tenta-reverter-veto-a-carne-suina.shtml",
-      "date": "2026-11-13T14:30:00.000Z",
-      "summary": "O presidente Luiz Inácio Lula da Silva (PT) chegou às Filipinas nesta sexta-feira (13) para participar da cúpula da Asean (Associação das Nações do Sudeste Asiático) e fazer uma visita de Estado, trazendo na bagagem uma agenda comercial ampla. Um dos objetivos",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Comissão aprova proibição de compra de arma por pessoa que seja alvo de medida protetiva",
       "link": "https://www.camara.leg.br/noticias/1319298-comissao-aprova-proibicao-de-compra-de-arma-por-pessoa-que-seja-alvo-de-medida-protetiva",
       "date": "2026-11-13T14:27:00.000Z",
@@ -230,30 +419,12 @@
       "type": "oficial"
     },
     {
-      "title": "Revista Life voltará às bancas dos EUA em 23 de novembro",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/revista-life-voltara-as-bancas-dos-eua-em-23-de-novembro.shtml",
-      "date": "2026-11-13T14:19:00.000Z",
-      "summary": "Quase duas décadas depois de sua última encarnação chegar ao fim, a revista Life está de volta. Leia mais (11/13/2026 - 11h19)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Conheça os argumentos do governo e da oposição sobre pacote fiscal de Lula",
       "link": "https://www.poder360.com.br/poder-congresso/conheca-os-argumentos-do-governo-e-da-oposicao-sobre-pacote-fiscal-de-lula/",
       "date": "2026-11-13T14:12:26.000Z",
       "summary": "Senadores divergiram sobre mudanças na Lei Kandir, gastos públicos, programas sociais e cenário econômico durante votação",
       "source": "Poder360",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "PF pede interdição de áreas de mina de Lucas Kallas em MG por risco de acidentes fatais",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/infraestrutura/2026/11/pf-pede-interdicao-de-areas-de-mina-de-lucas-kallas-em-mg-por-risco-de-acidentes-fatais.shtml",
-      "date": "2026-11-13T14:11:00.000Z",
-      "summary": "A Polícia Federal pediu a interdição imediata de áreas de risco de uma mina de ferro localizada em Nova Lima (MG), do grupo Cedro, controlado pelo empresário Lucas Kallas. A decisão foi tomada após uma perícia encontrar trabalhadores atuando abaixo de paredões",
-      "source": "Folha",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -266,37 +437,10 @@
       "type": "imprensa"
     },
     {
-      "title": "Hugo Motta pode debater projeto de ajuste fiscal com líderes na Câmara já na próxima semana",
-      "link": "https://g1.globo.com/economia/blog/ana-flor/post/2026/11/13/hugo-motta-pode-debater-projeto-de-ajuste-fiscal-com-lideres-na-camara-ja-na-proxima-semana.ghtml",
-      "date": "2026-11-13T14:03:24.000Z",
-      "summary": "Motta pode debater projeto de ajuste fiscal com líderes na próxima semana O presidente da Câmara dos Deputados, deputado Hugo Motta (Republicanos-PB), disse ao blog que assim que o Senado Federal concluir a votação do texto projeto de ajuste fiscal proposto pe",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Veja as razões apontadas pela PGR para rejeitar a revisão de condenação de Jair Bolsonaro",
-      "link": "https://www.estadao.com.br/politica/veja-as-razoes-da-pgr-para-rejeitar-a-revisao-de-condenacao-de-jair-bolsonaro-nprp/",
-      "date": "2026-11-13T14:00:19.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Violência psicológica contra a mulher e a dificuldade de sua comprovação penal",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/violencia-psicologica-contra-a-mulher-e-a-dificuldade-de-sua-comprovacao-penal/",
-      "date": "2026-11-13T14:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Serviços do gov.br funcionam normalmente apesar de pane global da Microsoft, diz governo",
+      "title": "Pane na Microsoft: governo diz que serviços do gov.br funcionam normalmente; STF, TSE e STJ foram afetados por falha",
       "link": "https://g1.globo.com/politica/noticia/2026/11/13/servicos-do-govbr-funcionam-normalmente-apesar-de-pane-global-da-microsoft-diz-governo.ghtml",
       "date": "2026-11-13T13:56:50.000Z",
-      "summary": "Os sistemas à população ligados ao \"gov.br\", plataforma do governo federal, não foram afetado pela falha global nos serviços da Microsoft, segundo informou nesta sexta-feira (13) o Ministério da Gestão e da Inovação em Serviços Públicos (MGI). De acordo com a ",
+      "summary": "Os sistemas à população ligados ao \"gov.br\", plataforma do governo federal, não foram afetado pela falha global nos serviços da Microsoft, segundo informou nesta sexta-feira (13) o Ministério da Gestão e da Inovação em Serviços Públicos (MGI). A assessoria de ",
       "source": "g1",
       "cat": "politica",
       "type": "imprensa"
@@ -309,15 +453,6 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Presidente do BB explica quem são os produtores que não aderiram à renegociação do banco",
-      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/13/presidente-do-bb-explica-quem-sao-os-produtores-que-nao-aderiram-a-renegociacao-do-banco.ghtml",
-      "date": "2026-11-13T13:54:00.000Z",
-      "summary": "Presidente do BB fala sobre crise com o agro Em entrevista à GloboNews nesta sexta-feira (13), a presidente do Banco do Brasil, Tarciana Medeiros, disse que em \"nenhum instante\", o banco atribuiu o aumento da inadimplência a todo o agronegócio. \"Nós nos referi",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
     },
     {
       "title": "STJ decide que condomínio é responsável por furto se ladrões entrarem após falha na portaria",
@@ -338,63 +473,9 @@
       "type": "oficial"
     },
     {
-      "title": "Presidente do BB diz que 31 mil produtores rurais estão inadimplentes e que 'portas' estão 'abertas' para renegociação",
-      "link": "https://g1.globo.com/politica/blog/camila-bomfim/post/2026/11/13/presidente-do-bb-diz-que-31-mil-produtores-rurais-estao-inadimplentes-e-que-portas-do-banco-estao-abertas-para-renegociacao.ghtml",
-      "date": "2026-11-13T13:47:41.000Z",
-      "summary": "'Banco está de portas abertas para renegociar', diz presidente do BB A presidente do Banco do Brasil, Tarciana Medeiros, afirmou nesta sexta-feira (13) que 31 mil produtores rurais estão inadimplentes com a instituição financeira e que as \"portas\" estão \"abert",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Presidente do BC diz que debate sobre juro está maior que 'disputa de torcida organizada e comentário de postagem em rede social'",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/13/presidente-do-bc-critica-debate-sobre-juros-parece-disputa-de-torcida-organizada-e-postagem-em-rede-social.ghtml",
-      "date": "2026-11-13T13:42:39.000Z",
-      "summary": "O presidente do Banco Central, Gabriel Galípolo, criticou o debate sobre o patama da taxa de juros na economia brasileira, suas repercussões sobre a dívida pública e, também, sobre a inadimplência e o alto nível de endividamento da população brasileira. Ele co",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Tombo do Banco do Brasil no 3º trimestre aumenta pressão sobre Tarciana Medeiros; leia bastidor",
       "link": "https://www.estadao.com.br/economia/negocios/tombo-banco-brasil-aumenta-pressao-tarciana-medeiros-leia-bastidor/",
       "date": "2026-11-13T13:33:18.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Relatório rejeitado na PF cita suspeita de Moraes antecipar voto a Vorcaro",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/relatorio-rejeitado-na-pf-cita-suspeita-de-moraes-antecipar-voto-a-vorcaro.shtml",
-      "date": "2026-11-13T13:30:00.000Z",
-      "summary": "O relatório sobre Alexandre de Moraes e o Banco Master rejeitado pela cúpula da PF (Polícia Federal) cita mensagens indicando que o ministro teria antecipado um voto a Daniel Vorcaro em uma ação no STF (Supremo Tribunal Federal) sobre faculdades de medicina. L",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Microsoft diz que Outlook, Teams e Copilot estão sendo 'gradualmente restaurados'",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/13/servicos-da-microsoft-sofrem-instabilidade-quinta-e-sexta.ghtml",
-      "date": "2026-11-13T13:28:08.000Z",
-      "summary": "Serviços Microsoft caem em 70 países; empresa faz reparos A Microsoft informou nesta sexta-feira (13) que Outlook, Teams e Copilot estão sendo \"gradualmente restaurados\" após a falha que afeta seus serviços desde a tarde de quinta-feira (12). A empresa já desc",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Banco do Brasil “permanece sólido”, diz presidente da instituição",
-      "link": "https://www.poder360.com.br/poder-economia/banco-do-brasil-permanece-solido-diz-presidente-da-instituicao/",
-      "date": "2026-11-13T13:26:49.000Z",
-      "summary": "Tarciana Medeiros declarou que o banco buscará medidas necessárias para preservar seu capital",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Varejo em setembro repete taxa de crescimento de agosto e reforça quadro de estabilidade do setor",
-      "link": "https://www.estadao.com.br/economia/ibge-varejo-setembro-repete-taxa-reforca-quadro-estabilidade-setor/",
-      "date": "2026-11-13T13:18:44.000Z",
       "summary": "",
       "source": "Estadão",
       "cat": "economia",
@@ -408,69 +489,6 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Entidades rebatem BB sobre ‘calote do agro’, e banco nega ter responsabilizado todo o setor",
-      "link": "https://www.estadao.com.br/economia/agronegocios/entidades-rebatem-bb-calote-agro-banco-nega-ter-responsabilizado-todo-setor/",
-      "date": "2026-11-13T12:46:10.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Ajuste fiscal, redução da maioridade penal e nomes para Ministério da Segurança dividem PT",
-      "link": "https://www.estadao.com.br/politica/ajuste-fiscal-reducao-da-maioridade-penal-e-nomes-para-ministerio-da-seguranca-dividem-pt/",
-      "date": "2026-11-13T11:30:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "PF deflagra nova fase de operação que mira suspeitas de desvios de emendas para 'Dark Horse'",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/pf-faz-nova-fase-de-operacao-que-investiga-desvio-de-emendas-parlamentares.shtml",
-      "date": "2026-11-13T10:47:00.000Z",
-      "summary": "A Polícia Federal deflagrou nesta sexta-feira (13) a segunda fase da Operação Make Up, que investiga suspeitas de desvio de recursos públicos provenientes de emendas parlamentares. Leia mais (11/13/2026 - 07h47)",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Secretário de Comércio dos EUA vai depor no Congresso sobre caso Nvidia",
-      "link": "https://www.estadao.com.br/economia/secretario-de-comercio-dos-eua-vai-depor-no-congresso-sobre-caso-nvidia-npr/",
-      "date": "2026-11-13T06:19:09.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Mesmo com urgência, projeto de ajuste fiscal foi alterado por emendas",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/12/mesmo-com-urgencia-projeto-de-ajuste-fiscal-foi-alterado-por-emendas",
-      "date": "2026-11-13T01:54:15.000Z",
-      "summary": "Mesmo com o pouco tempo entre o recebimento do projeto de ajuste fiscal (PLP 299/2026) do senador Jaques Wagner (PT-BA) e a votação, o relatório do senador Eduardo Braga (MDB-AM) acatou mais de 20 emendas dos senadores, seja da base governista, seja da oposiçã",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Texto principal do ajuste fiscal é aprovado pelo Senado",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/12/texto-principal-do-ajuste-fiscal-e-aprovado-pelo-senado",
-      "date": "2026-11-13T00:35:36.000Z",
-      "summary": "O Plenário do Senado aprovou, nesta quinta-feira (12), o texto principal do projeto de ajuste fiscal do governo (PLP 299/2026). O texto aprovado, por 45 votos a 31, foi um substitutivo do senador Eduardo Braga (MDB-AM) ao projeto apresentado pelo senador Jaque",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Líder de entidade dos delegados diz que diretor da PF deve ‘ficar longe’ de investigações sensíveis",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/lider-de-entidade-dos-delegados-diz-que-diretor-da-pf-deve-ficar-longe-de-investigacoes-sensiveis/",
-      "date": "2026-11-12T22:10:52.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
     },
     {
       "title": "Meta exibe mais de 700 anúncios de bets proibidas, revela levantamento da BBC",
@@ -527,10 +545,10 @@
       "type": "imprensa"
     },
     {
-      "title": "Democratas ampliam domínio no Senado nos EUA com vitória no Mississipi",
-      "link": "https://www.dw.com/pt-br/democratas-ampliam-domínio-no-senado-nos-eua-com-vitória-no-mississipi/a-79933955?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-12T17:29:00.000Z",
-      "summary": "Em mais um duro revés para Trump, Scott Colom acrescenta mais uma vitória democrata em bastiões dos republicanos, naquela que pode ter sido a reviravolta mais extraordinária em eleições de meio de mandato.",
+      "title": "Israel ataca hospital em Gaza, apesar de cessar-fogo",
+      "link": "https://www.dw.com/pt-br/israel-ataca-hospital-em-gaza-apesar-de-cessar-fogo/a-79932931?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-12T15:20:00.000Z",
+      "summary": "Mísseis atingiram hospital que atende metade da população do enclave, matando seis pessoas. Trégua, que já dura, um ano não conseguiu cessar ataques israelenses nem garantir o desarmamento do Hamas.",
       "source": "DW Brasil",
       "cat": "internacional",
       "type": "imprensa"
@@ -678,10 +696,20 @@
       "source": "ONU News",
       "cat": "internacional",
       "type": "oficial"
+    },
+    {
+      "title": "De janeiro a setembro, gasto de brasileiros no exterior cresce 17,8%, e de estrangeiros aqui, 9,2%",
+      "link": "https://www.estadao.com.br/viagem/de-janeiro-a-setembro-gasto-de-brasileiros-no-exterior-cresce-178-e-de-estrangeiros-aqui-92/",
+      "date": "2026-10-26T22:51:12.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
     }
   ],
   "errors": [
-    "feed CNN Brasil: HTTP 404",
+    "IPCA 12m (SGS 13522): HTTP 304",
+    "feed CNN Brasil: HTTP 403",
     "feed CNN Brasil: HTTP 404"
   ]
 }
