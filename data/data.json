@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-13T17:46:12.378Z",
+  "updated": "2026-11-13T18:46:07.055Z",
   "market": {
     "ibov": {
-      "price": 172253.05,
-      "pct": 0.54,
-      "time": "2026-11-13T17:46:06.710Z",
+      "price": 172430.75,
+      "pct": 0.65,
+      "time": "2026-11-13T18:46:01.546Z",
       "history": [
         {
           "d": "2026-10-14",
@@ -92,7 +92,7 @@
         },
         {
           "d": "2026-11-13",
-          "c": 172234.875
+          "c": 172430.75
         }
       ]
     },
@@ -125,7 +125,7 @@
     },
     "debtPct": {
       "date": "2026-09-01",
-      "value": 82.93
+      "value": 82.95
     },
     "debt": {
       "value": 11113782530000,
@@ -148,6 +148,150 @@
     ]
   },
   "news": [
+    {
+      "title": "Comissão aprova aumento de pena para quem usar inocente para dissimular tráfico de drogas",
+      "link": "https://www.camara.leg.br/noticias/1319417-comissao-aprova-aumento-de-pena-para-quem-usar-inocente-para-dissimular-trafico-de-drogas",
+      "date": "2026-11-13T18:44:00.000Z",
+      "summary": "Projeto ainda será analisado pelo Plenário da Câmara antes de ir para o Senado",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "O quão próximas são as ligações da AfD com movimentos neonazistas?",
+      "link": "https://www.dw.com/pt-br/o-quão-próximas-são-as-ligações-da-afd-com-movimentos-neonazistas/a-79942648?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-13T18:30:00.000Z",
+      "summary": "Sigla de ultradireita tem crescido nas pesquisas eleitorais, reacendendo o debate sobre o passado de alguns de seus integrantes em organizações neonazistas e movimentos etnonacionalistas.",
+      "source": "DW Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Quem são os produtores inadimplentes do Banco do Brasil? Especialistas explicam a crise no agro",
+      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/13/quem-sao-os-produtores-inadimplentes-do-banco-do-brasil-especialistas-explicam-a-crise-no-agro.ghtml",
+      "date": "2026-11-13T18:30:00.000Z",
+      "summary": "Presidente do BB fala na Globo news sobre inadimplência do agro Especialistas em crédito rural ouvidos pelo g1 afirmam que o aumento da inadimplência no agronegócio foi puxado principalmente por médios e grandes produtores do Centro-Oeste, como apontou o Banco",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Condomínio pode ter de indenizar por furto após falha na portaria, decide STJ",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/condominio-pode-ter-de-indenizar-por-furto-apos-falha-na-portaria-decide-stj.shtml",
+      "date": "2026-11-13T18:29:00.000Z",
+      "summary": "O STJ (Superior Tribunal de Justiça) decidiu que condomínios podem ser obrigados a indenizar moradores que tiverem seus apartamentos furtados quando ficar comprovado que uma falha no controle de acesso da portaria contribuiu para a entrada dos criminosos. Leia",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Fachin atende a pedido da OAB e suspende prazos processuais em razão de falhas nos sistemas da Microsoft",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/13/oab-pede-ao-stf-e-ao-cnj-prorrogacao-de-prazos-em-razao-da-falha-em-plataformas-da-microsoft.ghtml",
+      "date": "2026-11-13T18:25:04.000Z",
+      "summary": "O presidente do Conselho Nacional de Justiça (CNJ), ministro Edson Fachin, determinou nesta sexta-feira (13) a suspensão da contagem dos prazos processuais em todo o território nacional nos dias 12 e 13 de novembro de 2026. A medida, que vale também para proce",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Ministro de Lula diz que pacote fiscal deve ser votado na Câmara 'imediatamente' após fim da análise no Senado",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/11/ministro-de-lula-diz-que-pacote-fiscal-deve-ser-votado-na-camara-imediatamente-apos-fim-da-analise-no-senado.shtml",
+      "date": "2026-11-13T18:23:00.000Z",
+      "summary": "O ministro das Relações Institucionais, José Guimarães, afirmou nesta sexta-feira (13) que o projeto de ajuste fiscal do governo do presidente Luiz Inácio Lula da Silva (PT) deve ser votado na Câmara dos Deputados \"imediatamente\" após o fim da análise do Senad",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Juíza manda prefeitura pagar servidores que não votaram no filho e sobrinha de Maranhãozinho",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/juiza-manda-prefeitura-pagar-servidores-que-nao-votaram-no-filho-e-sobrinha-de-maranhaozinho/",
+      "date": "2026-11-13T18:16:09.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Em carta a Lula, coletivos feministas pedem mulheres no STF e paridade de gênero no primeiro escalão do governo",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/em-carta-a-lula-coletivos-feministas-pedem-mulheres-no-stf-e-paridade-de-genero-no-primeiro-escalao-do-governo.shtml",
+      "date": "2026-11-13T18:16:00.000Z",
+      "summary": "Em uma carta a ser enviada ao presidente Lula (PT), coletivos feministas pedem que o petista nomeie mulheres ao STF (Supremo Tribunal Federal) e para chefiar o Itamaraty e adote a paridade de gênero na definição dos ministros. Leia mais (11/13/2026 - 15h16)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Pacote fiscal quer gasto crescendo abaixo de 2%, mas sem afetar política do salário mínimo; entenda",
+      "link": "https://www.estadao.com.br/economia/pacote-fiscal-quer-gasto-crescendo-abaixo-de-2-mas-sem-afetar-politica-do-salario-minimo-entenda/",
+      "date": "2026-11-13T18:13:24.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Nvidia avalia CEO de concorrente para substituir Jensen Huang, diz jornal",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/13/nvidia-rene-haas-arm-holdings.ghtml",
+      "date": "2026-11-13T18:10:29.000Z",
+      "summary": "Jensen Huang e Rene Haas Reuters/Carlos Barria; Reuters/Hasnoor Hussain O conselho da Nvidia abordou o CEO da empresa de chips Arm Holds, Rene Haas, em sua busca por um potencial sucessor para Jensen Huang, informou nesta sexta-feira (13) o Financial Times a p",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Comissão aprova projeto que proíbe vistoria veicular periódica em razão da idade do veículo",
+      "link": "https://www.camara.leg.br/noticias/1319323-comissao-aprova-projeto-que-proibe-vistoria-veicular-periodica-em-razao-da-idade-do-veiculo",
+      "date": "2026-11-13T18:08:00.000Z",
+      "summary": "Texto segue em análise na Câmara",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Cármen diz que Bolsonaro violou liberdade de imprensa ao bloquear jornalistas no X quando era presidente",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/13/carmen-diz-que-bolsonaro-violou-liberdade-de-imprensa-ao-bloquear-jornalistas-no-x-quando-era-presidente.ghtml",
+      "date": "2026-11-13T18:02:31.000Z",
+      "summary": "A ministra Cármen Lúcia, do Supremo Tribunal Federal (STF), afirmou, em decisão desta sexta-feira (13), que o ex-presidente Jair Bolsonaro feriu a garantia constitucional da liberdade de imprensa e ofendeu o direito de informação ao bloquear jornalistas na red",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Povo versus Mercado",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/demetriomagnoli/2026/11/povo-versus-mercado.shtml",
+      "date": "2026-11-13T18:00:00.000Z",
+      "summary": "Na doutrina marxista, a dinâmica social expressa-se como luta de classes: proletariado versus burguesia. O pensamento petista inventou uma versão infantil do paradigma: Povo versus Mercado. À primeira vista, trata-se apenas de um recurso eufemístico, troca de ",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Mercado de petróleo volta a ter oferta acima da demanda, diz IEA",
+      "link": "https://www.poder360.com.br/poder-economia/mercado-de-petroleo-volta-a-ter-oferta-acima-da-demanda-diz-iea/",
+      "date": "2026-11-13T17:56:39.000Z",
+      "summary": "Recuperação das exportações do Golfo elevou a oferta mundial, que deve superar a demanda no 4º trimestre de 2026",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Metade do ganho do pacote fiscal do governo deve vir de aumento de arrecadação",
+      "link": "https://www.estadao.com.br/economia/pacote-fiscal-governo-aumento-arrecadacao/",
+      "date": "2026-11-13T17:51:35.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Aprovação do ajuste no Senado teve ajuda de Alcolumbre e fogo amigo da esquerda; leia bastidor",
+      "link": "https://www.estadao.com.br/economia/aprovacao-do-ajuste-no-senado-teve-ajuda-de-alcolumbre-e-fogo-amigo-da-esquerda-leia-bastidor/",
+      "date": "2026-11-13T17:50:32.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
     {
       "title": "Derrota de Trump é positiva para o Brasil, diz deputado do PT",
       "link": "https://www.poder360.com.br/poder-congresso/derrota-de-trump-e-positiva-para-o-brasil-diz-deputado-do-pt/",
@@ -185,15 +329,6 @@
       "type": "imprensa"
     },
     {
-      "title": "João Paulo Cunha diz acreditar em aprovação de ajuste fiscal na Câmara",
-      "link": "https://www.poder360.com.br/poder-congresso/joao-paulo-cunha-diz-acreditar-em-aprovacao-de-ajuste-fiscal-na-camara/",
-      "date": "2026-11-13T17:34:07.000Z",
-      "summary": "Deputado federal eleito e ex-presidente da Casa afirma que congressistas reconhecem necessidade de \"união\" para que país tenha resultados positivos em 2027",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Pane da Microsoft deixa empresas e profissionais com trabalho acumulado",
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/tec/2026/11/pane-da-microsoft-deixa-empresas-e-profissionais-com-trabalho-acumulado.shtml",
       "date": "2026-11-13T17:34:00.000Z",
@@ -221,22 +356,13 @@
       "type": "imprensa"
     },
     {
-      "title": "Ajuste fiscal não é incompatível com promessas do governo Lula 4, diz André Esteves",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/ajuste-fiscal-nao-e-incompativel-com-promessas-do-governo-lula-4-diz-andre-esteves.shtml",
-      "date": "2026-11-13T17:21:00.000Z",
-      "summary": "O ajuste fiscal não é incompatível com as promessas de campanha do quarto mandato de Luiz Inácio Lula da Silva (PT), afirmou o banqueiro André Esteves, presidente do conselho e principal sócio do BTG Pactual, nesta sexta-feira (13). Leia mais (11/13/2026 - 14h",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Fechar uma instituição financeira é um negócio dificílimo no Brasil, diz ex-diretor do BC",
-      "link": "https://www.estadao.com.br/economia/entrevista-renato-gomes-fechar-instituicao-negocio-dificilimo/",
-      "date": "2026-11-13T17:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
+      "title": "Comissão aprova aumento de pena para feminicídio antecedido por perseguição",
+      "link": "https://www.camara.leg.br/noticias/1319262-comissao-aprova-aumento-de-pena-para-feminicidio-antecedido-por-perseguicao",
+      "date": "2026-11-13T17:04:00.000Z",
+      "summary": "O projeto continua em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
     },
     {
       "title": "Câmara pede que STF derrube parte das regras fixadas por Dino para escala 5x2",
@@ -244,24 +370,6 @@
       "date": "2026-11-13T16:42:59.000Z",
       "summary": "A Câmara dos Deputados se manifestou no Supremo Tribunal Federal (STF) contra parte da decisão do ministro Flávio Dino que definiu regras para a transição da escala 6x1 para a 5x2. Em manifestação enviada à Corte, a Advocacia da Câmara defendeu que o plenário ",
       "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Comissão aprova aumento de pena para feminicídio antecedido por perseguição",
-      "link": "https://www.camara.leg.br/noticias/1319262-comissao-aprova-aumento-de-pena-para-feminicidio-antecedido-por-perseguicao",
-      "date": "2026-11-13T16:40:00.000Z",
-      "summary": "O projeto continua em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Gilmar diz que trocas de delegados ocorrem todo dia e endossa fala de Lula para atacar Lava Jato",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/gilmar-diz-que-trocas-de-delegados-ocorrem-todo-dia-e-endossa-fala-de-lula-para-atacar-lava-jato.shtml",
-      "date": "2026-11-13T16:37:00.000Z",
-      "summary": "O ministro Gilmar Mendes, do STF (Supremo Tribunal Federal), afirmou nesta sexta-feira (13) que substituições de delegados fazem parte da rotina, em meio ao desgaste do diretor-geral da Polícia Federal, Andrei Rodrigues, após o afastamento de delegados do caso",
-      "source": "Folha",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -275,15 +383,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Flávio Bolsonaro rejeita apoio a Hugo Motta em meio à embate no PL sobre presidência da Câmara",
-      "link": "https://www.estadao.com.br/politica/flavio-bolsonaro-rejeita-apoio-a-hugo-motta-em-meio-a-embate-no-pl-sobre-presidencia-da-camara-nprp/",
-      "date": "2026-11-13T16:22:40.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Comissão aprova proposta para integrar moradia, comércio e serviços nos bairros",
       "link": "https://www.camara.leg.br/noticias/1319243-comissao-aprova-proposta-para-integrar-moradia-comercio-e-servicos-nos-bairros",
       "date": "2026-11-13T16:19:00.000Z",
@@ -291,15 +390,6 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "PF descobre maconha ‘Purple Haze’, anabolizantes e garotas de programa a R$ 5 mil em presídio",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/pf-descobre-maconha-purple-haze-anabolizantes-e-garotas-de-programa-a-r-5-mil-em-presidio/",
-      "date": "2026-11-13T16:17:11.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
     },
     {
       "title": "Além do agro: entenda por que o lucro do Banco do Brasil despencou 66,5% e derrubou as ações",
@@ -320,33 +410,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Outlook voltou: por que demorou para Microsoft resolver o problema?",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/13/outlook-voltou-por-que-demorou-para-microsoft-resolver-o-problema.ghtml",
-      "date": "2026-11-13T15:57:18.000Z",
-      "summary": "Como abrir o Microsoft Teams, Excel, Outlook (e até o LinkedIn) no teclado do Windows Unsplash/Hal Gatewood O serviço de e-mail Outlook começou a ser restabelecido após uma interrupção que já dura mais de 20 horas, mas alguns usuários ainda podem ter dificulda",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Alvo da PF, ex-assessor de Mario Frias nega desvio de emendas e diz que irmão deixou projeto suspeito",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/alvo-da-pf-ex-assessor-de-mario-frias-nega-desvio-de-emendas-e-diz-que-irmao-deixou-projeto-suspeito.shtml",
-      "date": "2026-11-13T15:50:00.000Z",
-      "summary": "Alvo de operação da Polícia Federal nesta sexta-feira (13), Raphael Augusto Azevedo, que foi assessor do deputado federal Mario Frias (PL-SP) de fevereiro de 2023 a fevereiro de 2024, negou à Folha participação em suposto desvio de emendas do parlamentar e afi",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Cotada para ministério, Fátima Bezerra comemora virada no RN e eleição de afilhados políticos após crise",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/cotada-para-ministerio-fatima-bezerra-comemora-virada-no-rn-e-eleicao-de-afilhados-politicos-apos-crise.shtml",
-      "date": "2026-11-13T15:47:00.000Z",
-      "summary": "Fátima Bezerra (PT), 71, saiu vitoriosa das eleições mesmo não se candidatando. A governadora do Rio Grande do Norte ajudou a eleger o seu sucessor Cadu Xavier (PT), que havia terminado o primeiro turno na segunda posição, e também a candidata ao Senado Samand",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "727 candidatos seguem sem prestação de contas final do 1º turno no TSE; 222 são suplentes",
       "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/11/13/prestacao-contas-candidatos-eleicoes-2026.ghtml",
       "date": "2026-11-13T15:41:38.000Z",
@@ -356,31 +419,22 @@
       "type": "imprensa"
     },
     {
-      "title": "Governo tomará medidas em acréscimo para garantir cenário fiscal benigno, diz Moretti",
-      "link": "https://www.estadao.com.br/economia/governo-medidas-acrescimo-cenario-fiscal-benigno-moretti/",
-      "date": "2026-11-13T15:38:43.000Z",
+      "title": "Atlas/Bloomberg: 33% dos eleitores de direita querem Tarcísio liderando o campo; 30% preferem Flávio",
+      "link": "https://www.estadao.com.br/politica/atlasbloomberg-33-dos-eleitores-de-direita-querem-tarcisio-liderando-o-campo-30-preferem-flavio/",
+      "date": "2026-11-13T15:23:11.000Z",
       "summary": "",
       "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Placar do ajuste fiscal no Senado indica que Lula terá dificuldades para aprovar PECs em 2027",
-      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/13/placar-do-ajuste-fiscal-no-senado-indica-que-o-governo-tera-dificuldades-para-aprovar-pecs-em-2027.ghtml",
-      "date": "2026-11-13T15:23:13.000Z",
-      "summary": "Senado aprova texto-base do ajuste fiscal por 45 votos a 31 O governo Lula venceu a batalha de aprovação de sua proposta de ajuste fiscal no Senado. O placar, de 45 votos a 31, mostrou, porém, que o Palácio do Planalto terá grandes dificuldades para aprovar um",
-      "source": "g1",
       "cat": "politica",
       "type": "imprensa"
     },
     {
-      "title": "Pacote fiscal vai na direção correta, mas é muito pequeno, diz Mansueto Almeida, do BTG",
-      "link": "https://www.estadao.com.br/economia/pacote-fiscal-avaliacao-mansueto-almeida-btg/",
-      "date": "2026-11-13T15:02:07.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
+      "title": "Comissão aprova isenção de imposto para bebidas à base de frutos regionais da Amazônia",
+      "link": "https://www.camara.leg.br/noticias/1319232-comissao-aprova-isencao-de-imposto-para-bebidas-a-base-de-frutos-regionais-da-amazonia",
+      "date": "2026-11-13T15:02:00.000Z",
+      "summary": "Isenção limita-se ao Imposto sobre Produtos Industrializados; a Câmara dos Deputados continua discutindo o assunto",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
     },
     {
       "title": "Gastos elevados e ineficiência da política fiscal",
@@ -401,38 +455,11 @@
       "type": "imprensa"
     },
     {
-      "title": "Ajuste fiscal: adiamento de votação dá mais tempo para reflexão, diz Davi.",
+      "title": "Ajuste fiscal: adiamento de votação dá mais tempo para reflexão, diz Davi",
       "link": "https://www12.senado.leg.br/noticias/materias/2026/11/13/ajuste-fiscal-adiamento-de-votacao-da-mais-tempo-para-reflexao-diz-davi",
       "date": "2026-11-13T14:57:48.000Z",
       "summary": "Adiar a votação dos pontos pendentes do ajuste fiscal do governo (PLP 299/2026) para terça-feira (17) propiciará mais condições para os senadores avaliarem suas posições. Foi o que afirmou o presidente do Senado, Davi Alcolumbre em coletiva de imprensa nesta q",
       "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Lei ampliou penas para abandono e maus-tratos contra pessoas idosas",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/13/lei-amplia-penas-para-abandono-e-maus-tratos-contra-pessoas-idosas",
-      "date": "2026-11-13T14:48:09.000Z",
-      "summary": "Abandonar pessoas idosas que dependem de assistência, privá-las de alimentação ou cuidados essenciais e submetê-las a situações que coloquem sua saúde em risco podem configurar crimes para os quais a legislação passou a prever penas mais rigorosas. As punições",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Moraes acompanha Dino, e STF tem 2 votos para manter início da escala 5x2 em 16 de dezembro",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/13/plenario-virtual-do-stf-comeca-a-analisar-regras-da-escala-5x2-placar-esta-em-2-a-0.ghtml",
-      "date": "2026-11-13T14:36:19.000Z",
-      "summary": "O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), acompanhou nesta sexta-feira (13) o voto do relator, Flávio Dino, para confirmar as regras definidas pelo ministro para a transição da escala 6x1 para a 5x2. Com o voto de Moraes, o placar está",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Comissão aprova isenção de imposto para bebidas à base de frutos regionais da Amazônia",
-      "link": "https://www.camara.leg.br/noticias/1319232-comissao-aprova-isencao-de-imposto-para-bebidas-a-base-de-frutos-regionais-da-amazonia",
-      "date": "2026-11-13T14:32:00.000Z",
-      "summary": "Isenção limita-se ao Imposto sobre Produtos Industrializados; a Câmara dos Deputados continua discutindo o assunto",
-      "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
     },
@@ -446,6 +473,15 @@
       "type": "oficial"
     },
     {
+      "title": "Horas antes de pregão, licitação para ampliar reconhecimento facial chinês em SP é suspensa",
+      "link": "https://www.estadao.com.br/politica/horas-antes-de-pregao-licitacao-para-ampliar-reconhecimento-facial-chines-em-sp-e-suspensa/",
+      "date": "2026-11-13T14:25:17.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "EUA desmantelam rede de golpes de criptomoedas da Coreia do Norte, diz FBI",
       "link": "https://www.dw.com/pt-br/eua-desmantelam-rede-de-golpes-de-criptomoedas-da-coreia-do-norte-diz-fbi/a-79940495?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-13T14:23:00.000Z",
@@ -453,33 +489,6 @@
       "source": "DW Brasil",
       "cat": "internacional",
       "type": "imprensa"
-    },
-    {
-      "title": "Comissão aprova projeto que incentiva o uso de cacau na merenda escolar",
-      "link": "https://www.camara.leg.br/noticias/1319280-comissao-aprova-projeto-que-incentiva-o-uso-de-cacau-na-merenda-escolar",
-      "date": "2026-11-13T14:22:00.000Z",
-      "summary": "O projeto continua em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Veja as razões apontadas pela PGR para rejeitar a revisão de condenação de Jair Bolsonaro",
-      "link": "https://www.estadao.com.br/politica/veja-as-razoes-da-pgr-para-rejeitar-a-revisao-de-condenacao-de-jair-bolsonaro-nprp/",
-      "date": "2026-11-13T14:00:19.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Comissão aprova instalação obrigatória de dispositivos de segurança em piscinas coletivas",
-      "link": "https://www.camara.leg.br/noticias/1319264-comissao-aprova-instalacao-obrigatoria-de-dispositivos-de-seguranca-em-piscinas-coletivas",
-      "date": "2026-11-13T13:54:00.000Z",
-      "summary": "O projeto continua em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
     },
     {
       "title": "Em que pé está a guerra dos EUA contra o Irã?",
@@ -514,15 +523,6 @@
       "date": "2026-11-12T18:18:24.000Z",
       "summary": "Uma mulher acusa o ex-presidente Gustavo Petro de ter fornecido contratos com o Estado colombiano em troca de favores sexuais.",
       "source": "BBC News Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Mais 3 mil escolas recebem falsas ameaças de bomba na Itália",
-      "link": "https://www.dw.com/pt-br/mais-3-mil-escolas-recebem-falsas-ameaças-de-bomba-na-itália/a-79933936?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-12T17:31:00.000Z",
-      "summary": "Governo instruiu instituições a não fecharem as portas após pânico ao redor do país. Casos semelhantes ocorreram em França, Reino Unido e Irlanda.",
-      "source": "DW Brasil",
       "cat": "internacional",
       "type": "imprensa"
     },
