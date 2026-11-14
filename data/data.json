@@ -1,15 +1,11 @@
 {
-  "updated": "2026-11-13T23:23:49.814Z",
+  "updated": "2026-11-14T00:17:04.029Z",
   "market": {
     "ibov": {
       "price": 172457.77,
       "pct": 0.66,
-      "time": "2026-11-13T23:23:43.079Z",
+      "time": "2026-11-14T00:16:57.058Z",
       "history": [
-        {
-          "d": "2026-10-14",
-          "c": 206506
-        },
         {
           "d": "2026-10-15",
           "c": 204324
@@ -149,12 +145,102 @@
   },
   "news": [
     {
+      "title": "Desancoragem e risco de reinflação",
+      "link": "https://www.estadao.com.br/economia/fernando-dantas/desancoragem-e-risco-de-reinflacao/",
+      "date": "2026-11-14T00:02:11.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Teste do 'plano Moretti' reforça urgência de novas medidas ainda em 2026",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/adriana-fernandes/2026/11/teste-do-plano-moretti-reforca-urgencia-de-novas-medidas-ainda-em-2026.shtml",
+      "date": "2026-11-14T00:01:00.000Z",
+      "summary": "À frente das negociações, Bruno Moretti, ministro do Planejamento e Orçamento, está em campo para gerenciar as expectativas em torno do plano de novas medidas fiscais, apelidado com o seu nome e que já passou por uma primeira votação no Senado. Leia mais (11/1",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Toffoli dá três dias para campanha de Lula explicar inconsistências em prestação de contas",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/toffoli-da-tres-dias-para-campanha-de-lula-explicar-inconsistencias-em-prestacao-de-contas.shtml",
+      "date": "2026-11-13T23:39:00.000Z",
+      "summary": "O ministro Dias Toffoli, do TSE (Tribunal Superior Eleitoral), deu três dias para a chapa do presidente Lula (PT) esclarecer inconsistências apontadas na prestação de contas da campanha. Leia mais (11/13/2026 - 20h39)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Brasileiro que morreu em prisão isralense é sepultado depois de 1 ano e 8 meses; governo cobra explicação de Israel",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/13/brasileiro-que-morreu-em-prisao-isralense-e-sepultado-depois-de-1-ano-e-8-meses-governo-cobra-explicacao-de-israel.ghtml",
+      "date": "2026-11-13T23:36:19.000Z",
+      "summary": "O Ministério das Relações Exteriores informou nesta sexta-feira (13) que o brasileiro-palestino Walid Khalid Abdalla Ahmad, que morreu em custódia israelense em março de 2025, foi sepultado nesta quinta-feira (12). Como o sepultamento aconteceu 1 ano e 8 meses",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Empresa aérea tem de custear alimentação após duas horas de atraso de voo; conheça os direitos",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/empresa-aerea-tem-de-custear-alimentacao-apos-duas-horas-de-atraso-de-voo-conheca-os-direitos.shtml",
+      "date": "2026-11-13T23:35:00.000Z",
+      "summary": "A FAA, órgão que regula a aviação civil nos EUA, ordenou nesta sexta-feira (13) a suspensão das decolagens em todos os aeroportos do país -há permissão somente para pousos. Leia mais (11/13/2026 - 20h35)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Gilmar rebate Moro e diz que sentença imposta a Lula no caso tríplex foi anulada por suspeição de ex-juiz",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/11/gilmar-rebate-moro-e-diz-que-sentenca-imposta-a-lula-no-caso-triplex-foi-anulada-por-suspeicao-de-ex-juiz.shtml",
+      "date": "2026-11-13T23:34:00.000Z",
+      "summary": "O decano do STF (Supremo Tribunal Federal), Gilmar Mendes, rebateu nesta sexta-feira (13) publicação do ex-juiz federal Sergio Moro (PL-PR) de que o presidente Lula (PT) teve a sua condenação anulada por \"motivos formais\". Em post, Gilmar ressaltou que, na rea",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Fachin defende indicação de ministra negra para o STF",
+      "link": "https://www.poder360.com.br/poder-justica/fachin-defende-indicacao-de-ministra-negra-para-o-stf/",
+      "date": "2026-11-13T23:32:51.000Z",
+      "summary": "Presidente da Corte afirma que há magistradas qualificadas para o cargo; pessoas negras são 15% dos juízes do país",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lula muda rota de viagem e vai à Espanha para encontrar Sánchez",
+      "link": "https://www.poder360.com.br/poder-governo/lula-muda-rota-de-viagem-e-vai-a-espanha-para-encontrar-sanchez/",
+      "date": "2026-11-13T23:29:52.000Z",
+      "summary": "Presidente faz parada de última hora antes de retornar ao Brasil, depois de passagens por Turquia e Filipinas",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "PT defende voto em lista na reforma eleitoral",
+      "link": "https://www.poder360.com.br/poder-partidos-politicos/pt-defende-voto-em-lista-na-reforma-eleitoral/",
+      "date": "2026-11-13T23:23:58.000Z",
+      "summary": "Edinho Silva afirma que mudança deve acompanhar alterações na estrutura dos partidos",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "Paralisação de voos nos EUA: Anac diz monitorar situação e recomenda que passageiros procurem companhias aéreas",
       "link": "https://g1.globo.com/economia/noticia/2026/11/13/paralisacao-de-voos-nos-eua-anac-diz-monitorar-situacao-e-recomenda-que-passageiros-procurem-companhias-aereas.ghtml",
       "date": "2026-11-13T23:21:18.000Z",
-      "summary": "A Agência Nacional de Aviação Civil (Anac) informou que está monitorando a situação dos voos paralisados nos EUA E recomenda aos passageiros que busquem as companhias aéreas para verificar a situação do voo ou eventuais alterações. (esta reportagem está em atu",
+      "summary": "Falha na comunicação causa suspensão de decolagens em todos os aeroportos dos EUA A Agência Nacional de Aviação Civil (Anac) informou que está monitorando a situação dos voos paralisados nos EUA e recomenda aos passageiros que busquem as companhias aéreas para",
       "source": "g1",
       "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "STF declara inconstitucionalidade de emenda que muda regras para eleição de dirigentes de tribunais",
+      "link": "https://www.estadao.com.br/politica/stf-declara-inconstitucionalidade-de-emenda-que-muda-regras-para-eleicao-de-dirigentes-de-tribunais-nprp/",
+      "date": "2026-11-13T23:18:24.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -170,7 +256,7 @@
       "title": "BC aprova compra de banco pelo Nubank, que passará a ter licença bancária no Brasil",
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/bc-aprova-compra-de-banco-pelo-nubank-que-passara-a-ter-licenca-bancaria-no-brasil.shtml",
       "date": "2026-11-13T23:15:00.000Z",
-      "summary": "O Nubank anunciou nesta sexta-feira (13) que o Banco Central aprovou a compra do Banco Porto Real de Investimentos. Com isso, o maior banco digital da América Latina terá licença bancária no Brasil, cumprindo legislação da autoridade monetária. Leia mais (11/1",
+      "summary": "O Nubank anunciou nesta sexta-feira (13) que o Banco Central aprovou a compra do Banco Porto Real de Investimentos. Com a aquisição, o banco digital terá licença bancária no Brasil, cumprindo a legislação que rege o uso da nomenclatura \"banco\" pelas instituiçõ",
       "source": "Folha",
       "cat": "economia",
       "type": "imprensa"
@@ -203,15 +289,6 @@
       "type": "imprensa"
     },
     {
-      "title": "CEO da Anthropic diz não estar muito preocupado com turbulência no mercado antes do IPO",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/ceo-da-anthropic-diz-nao-estar-muito-preocupado-com-turbulencia-no-mercado-antes-do-ipo.shtml",
-      "date": "2026-11-13T22:48:00.000Z",
-      "summary": "A Anthropic \"não está muito preocupada\" com a possibilidade de a volatilidade do mercado atrapalhar o aguardado IPO (oferta pública inicial) do laboratório de inteligência artificial, afirmou o CEO Dario Amodei em entrevista ao presidente do J.P. Morgan, Jamie",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Fazenda deixa vencer subvenção extra de R$ 1,40 ao diesel, mas cita possibilidade de reavaliação",
       "link": "https://www.estadao.com.br/economia/fazenda-deixa-vencer-subvencao-extra-de-r-140-ao-diesel-mas-cita-possibilidade-de-reavaliacao/",
       "date": "2026-11-13T22:40:19.000Z",
@@ -230,24 +307,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Projeto fiscal: Setor produtivo ainda vai tentar barrar limite a compensações tributárias no Senado",
-      "link": "https://www.estadao.com.br/economia/projeto-fiscal-setor-produtivo-ainda-vai-tentar-barrar-limite-a-compensacoes-tributarias-no-senado/",
-      "date": "2026-11-13T22:26:34.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Falha de comunicação suspende voos nos EUA; entenda como funciona o controle aéreo",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/falha-de-comunicacao-suspende-voos-nos-eua-entenda-como-funciona-o-controle-aereo.shtml",
-      "date": "2026-11-13T22:25:00.000Z",
-      "summary": "Uma falha de comunicação nos centros de controle de tráfego aéreo dos Estados Unidos levou a FAA (Administração Federal de Aviação dos EUA) a suspender todas as decolagens no país nesta sexta-feira (13). A agência ainda não informou qual equipamento ou sistema",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Nunes diz que Mello Araújo ‘se antecipou’ em denúncia ao MP sobre Virada Esportiva de São Paulo",
       "link": "https://www.estadao.com.br/politica/nunes-diz-que-mello-araujo-se-antecipou-em-denuncia-ao-mp-sobre-virada-esportiva-de-sao-paulo-nprp/",
       "date": "2026-11-13T22:09:24.000Z",
@@ -257,28 +316,10 @@
       "type": "imprensa"
     },
     {
-      "title": "Pagamento do 13º salário pode injetar R$ 399,1 bi na economia",
-      "link": "https://www.poder360.com.br/poder-economia/pagamento-do-13o-salario-pode-injetar-r-3991-bi-na-economia/",
-      "date": "2026-11-13T21:45:35.000Z",
-      "summary": "Estudo estima que 99,7 milhões de brasileiros serão beneficiados em 2026, com rendimento adicional médio de R$ 3.720,00",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Bolsa sobe 0,66% e dólar segue em R$ 5,65 com ajuste fiscal em vista",
-      "link": "https://www.poder360.com.br/poder-economia/bolsa-sobe-066-e-dolar-segue-em-r-565-com-ajuste-fiscal-em-vista/",
-      "date": "2026-11-13T21:39:18.000Z",
-      "summary": "Investidores se dividem sobre medidas econômicas do governo; moeda norte-americana se mantém no maior patamar desde junho de 2025",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "EUA suspendem todas as decolagens de aeroportos do país",
       "link": "https://www.dw.com/pt-br/eua-suspendem-todas-as-decolagens-de-aeroportos-do-país/a-79945256?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-13T21:39:00.000Z",
-      "summary": "Administração Federal de Aviação dos Estados Unidos determinou a suspensão de decolagens em todos os aeroportos do país e que aviões que estavam prestes a partir permaneçam no solo.",
+      "summary": "Administração Federal de Aviação dos EUA determinou a suspensão de decolagens em todos os aeroportos do país e que aviões que partiriam devem permanecer no solo. Mais de 11 mil voos foram atrasados ou cancelados.",
       "source": "DW Brasil",
       "cat": "internacional",
       "type": "imprensa"
@@ -300,24 +341,6 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Atlas/Bloomberg: Governo Lula é ruim ou péssimo para 47,9%, e ótimo ou bom para 39,1%",
-      "link": "https://www.estadao.com.br/politica/atlas-governo-lula-e-ruim-ou-pessimo-para-479-e-otimo-ou-bom-para-391-nprp/",
-      "date": "2026-11-13T20:53:59.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Fachin defende reforma no Judiciário para superar privilégios",
-      "link": "https://www.poder360.com.br/poder-justica/fachin-defende-reforma-no-judiciario-para-superar-privilegios/",
-      "date": "2026-11-13T20:50:21.000Z",
-      "summary": "Presidente do STF diz que reparação histórica deve ser projeto de país; ministro Luis Felipe Salomão, do STJ, cobra ação de juízes contra racismo",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
     },
     {
       "title": "Fachin defende indicação de mulher negra para o STF",
@@ -488,33 +511,6 @@
       "summary": "Presidente do BB fala na Globo news sobre inadimplência do agro Especialistas em crédito rural ouvidos pelo g1 afirmam que o aumento da inadimplência no agronegócio foi puxado principalmente por médios e grandes produtores do Centro-Oeste, como apontou o Banco",
       "source": "g1",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Fachin atende a pedido da OAB e suspende prazos processuais em razão de falhas nos sistemas da Microsoft",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/13/oab-pede-ao-stf-e-ao-cnj-prorrogacao-de-prazos-em-razao-da-falha-em-plataformas-da-microsoft.ghtml",
-      "date": "2026-11-13T18:25:04.000Z",
-      "summary": "Pane na Microsoft afeta empresas e governos O presidente do Conselho Nacional de Justiça (CNJ), ministro Edson Fachin, determinou nesta sexta-feira (13) a suspensão da contagem dos prazos processuais em todo o país nos dias 12 e 13 de novembro de 2026. A medid",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Ministro de Lula diz que pacote fiscal deve ser votado na Câmara 'imediatamente' após fim da análise no Senado",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/11/ministro-de-lula-diz-que-pacote-fiscal-deve-ser-votado-na-camara-imediatamente-apos-fim-da-analise-no-senado.shtml",
-      "date": "2026-11-13T18:23:00.000Z",
-      "summary": "O ministro das Relações Institucionais, José Guimarães, afirmou nesta sexta-feira (13) que o projeto de ajuste fiscal do governo do presidente Luiz Inácio Lula da Silva (PT) deve ser votado na Câmara dos Deputados \"imediatamente\" após o fim da análise do Senad",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Em carta a Lula, coletivos feministas pedem mulheres no STF e paridade de gênero no primeiro escalão do governo",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/em-carta-a-lula-coletivos-feministas-pedem-mulheres-no-stf-e-paridade-de-genero-no-primeiro-escalao-do-governo.shtml",
-      "date": "2026-11-13T18:16:00.000Z",
-      "summary": "Em uma carta a ser enviada ao presidente Lula (PT), coletivos feministas pedem que o petista nomeie mulheres ao STF (Supremo Tribunal Federal) e para chefiar o Itamaraty e adote a paridade de gênero na definição dos ministros. Leia mais (11/13/2026 - 15h16)",
-      "source": "Folha",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
