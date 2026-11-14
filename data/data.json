@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-14T02:27:50.523Z",
+  "updated": "2026-11-14T03:28:21.147Z",
   "market": {
     "ibov": {
       "price": 172457.77,
       "pct": 0.66,
-      "time": "2026-11-14T02:27:44.537Z",
+      "time": "2026-11-14T03:28:16.271Z",
       "history": [
         {
           "d": "2026-10-15",
@@ -88,7 +88,7 @@
         },
         {
           "d": "2026-11-13",
-          "c": 172457.7656
+          "c": 172458
         }
       ]
     },
@@ -144,6 +144,78 @@
     ]
   },
   "news": [
+    {
+      "title": "Ministério dos Direitos Humanos contabiliza 831 denúncias de assédio eleitoral e violência política",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/ministerio-dos-direitos-humanos-contabiliza-831-denuncias-de-assedio-eleitoral-e-violencia-politica.shtml",
+      "date": "2026-11-14T03:01:00.000Z",
+      "summary": "O MDHC (Ministério dos Direitos Humanos e da Cidadania) contabilizou 831 denúncias de violência política e assédio eleitoral no período de 11 de setembro a 6 de novembro. Leia mais (11/14/2026 - 00h01)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Após eleição de Lula, bancada do agro prioriza acesso ao crédito para produtores",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/14/apos-eleicao-de-lula-bancada-do-agro-prioriza-acesso-ao-credito-para-produtores.ghtml",
+      "date": "2026-11-14T03:00:00.000Z",
+      "summary": "Depois de apoiar Flávio Bolsonaro (PL) na disputa à presidência, a Frente Parlamentar da Agropecuária (FPA) recalcula como irá atuar nos próximos quatro anos sob a presidência de Luiz Inácio Lula da Silva (PT). Um dos principais pontos para recalcular sua posi",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Mercado financeiro prevê juros de dois dígitos até 2030, ao longo dos dois mandatos de Lula",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/14/mercado-financeiro-preve-juros-de-dois-digitos-ate-2030-ao-longo-dos-dois-mandatos-de-lula.ghtml",
+      "date": "2026-11-14T03:00:00.000Z",
+      "summary": "Mercado financeiro prevê juros de dois dígitos até 2030, ao longo dos dois mandatos de Lula Jornal Nacional/ Reprodução No início do terceiro mandato do presidente Luiz Inácio Lula da Silva, em 2023, o mercado financeiro projetava que a taxa básica de juros ca",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Fundo Amazônia completa 18 anos com R$ 5,6 bilhões em doações; veja onde o dinheiro é investido",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/14/fundo-amazonia-completa-18-anos-com-r-56-bilhoes-em-doacoes-veja-onde-o-dinheiro-e-investido.ghtml",
+      "date": "2026-11-14T03:00:00.000Z",
+      "summary": "O Fundo Amazônia completa 18 anos em 2026 com R$ 5,6 bilhões arrecadados em doações e 160 projetos apoiados desde a criação do mecanismo, em 2008. As iniciativas são voltadas à preservação da floresta e ao desenvolvimento sustentável da região. Nesta semana, a",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Casos de violência contra a mulher associados ao vício em apostas crescem 75%, diz ministério",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/14/violencia-contra-a-mulher-apostas.ghtml",
+      "date": "2026-11-14T03:00:00.000Z",
+      "summary": "Casos registrados de violência contra a mulher associados a apostas e jogos de azar cresceram 75% no Brasil em um ano, segundo levantamento da Secretaria Nacional de Segurança Pública (Senasp), do Ministério da Justiça e Segurança Pública (MJSP). Foram 573 oco",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Quais são os próximos feriados de 2026? Veja os dois que restam",
+      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/14/quais-sao-os-proximos-feriados-de-2026.ghtml",
+      "date": "2026-11-14T03:00:00.000Z",
+      "summary": "Praia da Joatinga ficou cheia neste feriado Francisco Fires/Arquivo pessoal Após o feriado da Proclamação da República, no domingo (15), muitos trabalhadores já estão de olho no próximo período de descanso. O próximo feriado nacional será em 20 de novembro, qu",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Cartão, cheque especial ou empréstimo: qual tem os juros mais altos?",
+      "link": "https://g1.globo.com/g1-explica/noticia/2026/11/14/cartao-cheque-especial-ou-emprestimo-qual-tem-os-juros-mais-altos.ghtml",
+      "date": "2026-11-14T03:00:00.000Z",
+      "summary": "Crédito pessoal, consignado ou imobiliário: qual escolher? Nem todo crédito custa a mesma coisa. As taxas de juros variam de acordo com a modalidade, o perfil do cliente e as garantias oferecidas aos bancos. E escolher a opção errada pode fazer uma dívida cres",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Toffoli vota pela preservação definitiva de mensagens sobre a Lava Jato obtidas por hackers",
+      "link": "https://www.estadao.com.br/politica/toffoli-vota-pela-preservacao-definitiva-de-mensagens-sobre-a-lava-jato-obtidas-por-hackers-nprp/",
+      "date": "2026-11-14T02:27:09.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
     {
       "title": "Integrantes da PF veem disputa política em crise com delegados do Master e divergem sobre Andrei",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/integrantes-da-pf-veem-disputa-politica-em-crise-com-delegados-do-master-e-divergem-sobre-andrei.shtml",
@@ -262,24 +334,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Toffoli dá três dias para campanha de Lula explicar inconsistências em prestação de contas",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/toffoli-da-tres-dias-para-campanha-de-lula-explicar-inconsistencias-em-prestacao-de-contas.shtml",
-      "date": "2026-11-13T23:39:00.000Z",
-      "summary": "O ministro Dias Toffoli, do TSE (Tribunal Superior Eleitoral), deu três dias para a chapa do presidente Lula (PT) esclarecer inconsistências apontadas na prestação de contas da campanha. Leia mais (11/13/2026 - 20h39)",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Brasileiro que morreu em prisão isralense é sepultado depois de 1 ano e 8 meses; governo cobra explicação de Israel",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/13/brasileiro-que-morreu-em-prisao-isralense-e-sepultado-depois-de-1-ano-e-8-meses-governo-cobra-explicacao-de-israel.ghtml",
-      "date": "2026-11-13T23:36:19.000Z",
-      "summary": "O Ministério das Relações Exteriores informou nesta sexta-feira (13) que o brasileiro-palestino Walid Khalid Abdalla Ahmad, que morreu em custódia israelense em março de 2025, foi sepultado nesta quinta-feira (12). Como o sepultamento aconteceu 1 ano e 8 meses",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Paralisação de voos nos EUA: Anac diz monitorar situação e recomenda que passageiros procurem companhias aéreas",
       "link": "https://g1.globo.com/economia/noticia/2026/11/13/paralisacao-de-voos-nos-eua-anac-diz-monitorar-situacao-e-recomenda-que-passageiros-procurem-companhias-aereas.ghtml",
       "date": "2026-11-13T23:21:18.000Z",
@@ -289,30 +343,12 @@
       "type": "imprensa"
     },
     {
-      "title": "STF declara inconstitucionalidade de emenda que muda regras para eleição de dirigentes de tribunais",
-      "link": "https://www.estadao.com.br/politica/stf-declara-inconstitucionalidade-de-emenda-que-muda-regras-para-eleicao-de-dirigentes-de-tribunais-nprp/",
-      "date": "2026-11-13T23:18:24.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Paraguai: ex-presidente é acusado de associação criminosa",
       "link": "https://www.dw.com/pt-br/paraguai-ex-presidente-é-acusado-de-associação-criminosa/a-79945572?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-13T23:18:00.000Z",
       "summary": "Ministério Público também acusa Santiago Peña de apropriação indébita e administração em benefício próprio, além de lavagem de dinheiro, em investigação sobre a intervenção no escândalo do Ueno Bank.",
       "source": "DW Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "PGR indica que manterá pedido de R$ 324 milhões extras para bancar penduricalhos",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/13/pgr-indica-que-mantera-pedido-de-r-324-milhoes-extras-para-bancar-penduricalhos.ghtml",
-      "date": "2026-11-13T22:38:29.000Z",
-      "summary": "A Procuradoria-Geral da República (PGR) indicou nesta sexta-feira (13) que vai manter o pedido de um crédito adicional de R$ 324 milhões para despesas do Ministério Público da União. O procurador-geral da República, Paulo Gonet, informou ao Supremo Tribunal Fe",
-      "source": "g1",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -379,29 +415,11 @@
       "type": "oficial"
     },
     {
-      "title": "OpenAI lança carteira digital que permite ao ChatGPT fazer compras e pagamentos pelo usuário",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/13/chat-gpt-wallet.ghtml",
-      "date": "2026-11-13T20:28:07.000Z",
-      "summary": "As preocupações que levaram a OpenAI, do ChatGPT, a abandonar lançamento de novo sistema de IA Andrej Ivanov/AFP via Getty Images A OpenAI anunciou nesta sexta-feira (13) a ChatGPT Wallet, uma carteira digital que permitirá que agentes de inteligência artifici",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Cúpula do PT decide apoiar ajuste fiscal do governo e elege Banco Central como culpado por crise",
       "link": "https://www.estadao.com.br/politica/cupula-do-pt-decide-apoiar-ajuste-fiscal-do-governo-e-elege-banco-central-como-culpado-por-crise/",
       "date": "2026-11-13T20:11:51.000Z",
       "summary": "",
       "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Fachin defende indicação de uma mulher negra para o STF",
-      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/13/fachin-defende-indicacao-de-uma-mulher-negra-para-o-stf.ghtml",
-      "date": "2026-11-13T20:10:44.000Z",
-      "summary": "Fachin defende indicação de uma mulher negra para o STF O presidente do Supremo Tribunal Federal (STF), Edson Fachin, foi aplaudido ao defender, nesta sexta-feira (13), no Rio de Janeiro, a indicação de uma mulher negra para a Corte. A declaração foi feita no ",
-      "source": "g1",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -451,15 +469,6 @@
       "type": "oficial"
     },
     {
-      "title": "Toffoli dá 3 dias para campanha de Lula esclarecer inconsistências nas contas apontadas pelo TSE",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/13/toffoli-da-3-dias-para-campanha-de-lula-esclarecer-inconsistencias-nas-contas-apontadas-pelo-tse.ghtml",
-      "date": "2026-11-13T18:55:15.000Z",
-      "summary": "O ministro Dias Toffoli, do Tribunal Superior Eleitoral (TSE), deu prazo de três dias para a campanha à reeleição da chapa Lula-Alckmin apresentar esclarecimentos sobre inconsistências nas contas apontadas pela área técnica da Corte Eleitoral. Toffoli deu três",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Para onde vai a legislação trabalhista?",
       "link": "https://www12.senado.leg.br/noticias/infomaterias/2026/11/para-onde-vai-a-legislacao-trabalhista",
       "date": "2026-11-13T18:48:00.000Z",
@@ -493,24 +502,6 @@
       "summary": "Sigla de ultradireita tem crescido nas pesquisas eleitorais, reacendendo o debate sobre o passado de alguns de seus integrantes em organizações neonazistas e movimentos etnonacionalistas.",
       "source": "DW Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Quem são os produtores inadimplentes do Banco do Brasil? Especialistas explicam a crise no agro",
-      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/13/quem-sao-os-produtores-inadimplentes-do-banco-do-brasil-especialistas-explicam-a-crise-no-agro.ghtml",
-      "date": "2026-11-13T18:30:00.000Z",
-      "summary": "Presidente do BB fala na Globo news sobre inadimplência do agro Especialistas em crédito rural ouvidos pelo g1 afirmam que o aumento da inadimplência no agronegócio foi puxado principalmente por médios e grandes produtores do Centro-Oeste, como apontou o Banco",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Nvidia avalia CEO de concorrente para substituir Jensen Huang, diz jornal",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/13/nvidia-rene-haas-arm-holdings.ghtml",
-      "date": "2026-11-13T18:10:29.000Z",
-      "summary": "Jensen Huang e Rene Haas Reuters/Carlos Barria; Reuters/Hasnoor Hussain OHuang renunciou ao cargo na quinta-feira (12) após revelações de casos extraconjugais, incluindo um envolvendo uma suposta espiã chinesa, mergulhando a sexta-feira (13) o Financial Times ",
-      "source": "g1",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -696,7 +687,6 @@
   ],
   "errors": [
     "feed CNN Brasil: HTTP 404",
-    "feed CNN Brasil: HTTP 404",
-    "feed Planalto (governo): HTTP 429"
+    "feed CNN Brasil: HTTP 404"
   ]
 }
