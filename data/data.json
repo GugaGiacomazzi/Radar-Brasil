@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-14T06:30:09.943Z",
+  "updated": "2026-11-14T07:42:51.497Z",
   "market": {
     "ibov": {
       "price": 172457.77,
       "pct": 0.66,
-      "time": "2026-11-14T06:30:02.307Z",
+      "time": "2026-11-14T07:42:45.773Z",
       "history": [
         {
           "d": "2026-10-15",
@@ -145,6 +145,69 @@
   },
   "news": [
     {
+      "title": "Um bilhão de refeições no lixo todo dia; como evitar desperdício de alimentos em casa?",
+      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/14/desperdicio-de-alimentos.ghtml",
+      "date": "2026-11-14T07:00:00.000Z",
+      "summary": "A alimentação em casa responde por 60% do desperdício de aliementos, segundo a ONU. REUTERS / Edgar Su \"Nos últimos sete anos, passei a pensar melhor antes de comprar alimentos, levando para casa apenas a quantidade que eu ou as pessoas para quem cozinho vamos",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Free flow: prazo para pagar pedágio atrasado acaba na segunda; veja como fazer e evite multa",
+      "link": "https://g1.globo.com/carros/noticia/2026/11/14/free-flow-prazo-acaba-segunda.ghtml",
+      "date": "2026-11-14T07:00:00.000Z",
+      "summary": "Motoristas têm até 16 de novembro para pagar pedágio Free Flow atrasado Motoristas que passaram pelos pedágios eletrônicos, conhecidos como \"free flow\", até 17 de outubro têm até a próxima segunda-feira (16) para pagar as tarifas em atraso sem receber multa. \ud83d",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Raquel Lyra exonera comissionados do PL e se aproxima de aliados de Lula após eleições",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/raquel-lyra-exonera-comissionados-do-pl-e-se-aproxima-de-aliados-de-lula-apos-eleicoes.shtml",
+      "date": "2026-11-14T07:00:00.000Z",
+      "summary": "A governadora reeleita de Pernambuco, Raquel Lyra (PSD), reuniu-se nesta semana com os senadores eleitos Humberto Costa (PT) e Marília Arraes (PDT), da base de Lula (PT), o que tem sido interpretado como um movimento de aproximação com o governo federal. Leia ",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Metade das condenações por assédio eleitoral no trabalho é de até R$ 10 mil, diz estudo",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/metade-das-condenacoes-por-assedio-eleitoral-no-trabalho-e-de-ate-r-10-mil-diz-estudo.shtml",
+      "date": "2026-11-14T07:00:00.000Z",
+      "summary": "Metade das condenações por assédio eleitoral no ambiente de trabalho identificadas em um levantamento da Turivius, plataforma de inteligência jurídica, resultou em indenizações de até R$ 10 mil. O estudo analisou 500 decisões judiciais relacionadas ao tema e e",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Jovens avançam sobre renda e patrimônio antes concentrados nos idosos",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/jovens-avancam-sobre-renda-e-patrimonio-antes-concentrados-nos-idosos.shtml",
+      "date": "2026-11-14T07:00:00.000Z",
+      "summary": "Os protestos na França deram novo destaque a uma reclamação conhecida: a de que os baby boomers monopolizaram as oportunidades. Depois de carreiras confortáveis, segundo essa queixa, as pessoas nascidas entre meados dos anos 1940 e meados dos anos 1960 ficaram",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Itens de decoração do Master vão a leilão com lote de pedra, porta-papel higiênico e vaso a R$ 2.600",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/itens-de-decoracao-do-master-vao-a-leilao-com-lote-de-pedra-porta-papel-higienico-e-vaso-a-r-2600.shtml",
+      "date": "2026-11-14T07:00:00.000Z",
+      "summary": "Peças decorativas do Banco Master e do Will Bank irão a leilão em novembro e incluem pedra, porta-papel higiênico e vaso decorativo vendido a um preço inicial de R$ 2.600. Leia mais (11/14/2026 - 04h00)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Quem é Lori Huang, que abriu mão da carreira enquanto marido construía a Nvidia",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/quem-e-lori-huang-que-abriu-mao-da-carreira-enquanto-marido-construia-a-nvidia.shtml",
+      "date": "2026-11-14T07:00:00.000Z",
+      "summary": "Lori Mills era uma das poucas mulheres da turma de estudantes de engenharia elétrica da Universidade Estadual do Oregon, nos Estados Unidos, nos anos 1980. Foi ali onde conheceu Jensen Huang, que se tornaria seu marido e fundador da Nvidia. Leia mais (11/14/20",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "Crise na Nvidia: veja em 8 pontos como traições levaram à renúncia de Jensen Huang",
       "link": "https://g1.globo.com/tecnologia/noticia/2026/11/14/cronologia-crise-nvidia.ghtml",
       "date": "2026-11-14T06:00:01.000Z",
@@ -208,15 +271,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Quais são os próximos feriados de 2026? Veja os dois que restam",
-      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/14/quais-sao-os-proximos-feriados-de-2026.ghtml",
-      "date": "2026-11-14T03:00:00.000Z",
-      "summary": "Praia da Joatinga ficou cheia neste feriado Francisco Fires/Arquivo pessoal Após o feriado da Proclamação da República, no domingo (15), muitos trabalhadores já estão de olho no próximo período de descanso. O próximo feriado nacional será em 20 de novembro, qu",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Toffoli vota pela preservação definitiva de mensagens sobre a Lava Jato obtidas por hackers",
       "link": "https://www.estadao.com.br/politica/toffoli-vota-pela-preservacao-definitiva-de-mensagens-sobre-a-lava-jato-obtidas-por-hackers-nprp/",
       "date": "2026-11-14T02:27:09.000Z",
@@ -244,33 +298,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Obra propõe erradicar miséria com os mesmos R$ 331 bi gastos hoje em programas sociais",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/obra-propoe-erradicar-miseria-com-os-mesmos-r-331-bi-gastos-hoje-em-programas-sociais.shtml",
-      "date": "2026-11-14T02:00:00.000Z",
-      "summary": "O Brasil vive um paradoxo na rede de assistência pública. Entre 2015 e 2025, os gastos com programas como Bolsa Família e BPC (Benefício de Prestação Continuada) cresceram 142% em termos reais. Leia mais (11/13/2026 - 23h00)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Lula quer maior relacionamento com o Sudeste Asiático na expectativa de ter status elevado em bloco",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/lula-quer-maior-relacionamento-com-o-sudeste-asiatico-na-expectativa-de-ter-status-elevado-em-bloco.shtml",
-      "date": "2026-11-14T02:00:00.000Z",
-      "summary": "O presidente Luiz Inácio Lula da Silva (PT) foi convidado para participar, pelo segundo ano consecutivo, da cúpula de líderes da Asean (Associação das Nações do Sudeste Asiático, na sigla em inglês), bloco que o Brasil está tentando convencer a elevar seu stat",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Equipe econômica quer propor a Lula PEC para mirar gastos fora dos limites do arcabouço",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/equipe-economica-quer-propor-a-lula-pec-para-mirar-gastos-fora-dos-limites-do-arcabouco.shtml",
-      "date": "2026-11-14T02:00:00.000Z",
-      "summary": "A equipe econômica discute a elaboração de uma PEC (Proposta de Emenda à Constituição) para mirar gastos que hoje estão fora dos limites do arcabouço fiscal. Essa seria uma segunda fase do plano de ajuste do governo de Luiz Inácio Lula da Silva (PT), que começ",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Governo encerra subsídio de R$ 1,40 ao diesel importado",
       "link": "https://www.poder360.com.br/poder-economia/governo-encerra-subsidio-de-r-140-ao-diesel-importado/",
       "date": "2026-11-14T01:22:49.000Z",
@@ -285,15 +312,6 @@
       "date": "2026-11-14T01:02:30.000Z",
       "summary": "",
       "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Justiça condena União a investir R$ 597 milhões em Canudos como reparação por massacre",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/justica-condena-uniao-a-investir-r-597-milhoes-em-canudos-como-reparacao-por-massacre.shtml",
-      "date": "2026-11-14T01:00:00.000Z",
-      "summary": "A Justiça Federal condenou a União a investir R$ 597 milhões em projetos de reparação histórica e desenvolvimento social em Canudos, no sertão da Bahia, pelo massacre promovido pelo Exército durante a guerra de 1896 e 1897, que deixou milhares de mortos. Leia ",
-      "source": "Folha",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -330,15 +348,6 @@
       "date": "2026-11-14T00:02:11.000Z",
       "summary": "",
       "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Teste do 'plano Moretti' reforça urgência de novas medidas ainda em 2026",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/adriana-fernandes/2026/11/teste-do-plano-moretti-reforca-urgencia-de-novas-medidas-ainda-em-2026.shtml",
-      "date": "2026-11-14T00:01:00.000Z",
-      "summary": "À frente das negociações, Bruno Moretti, ministro do Planejamento e Orçamento, está em campo para gerenciar as expectativas em torno do plano de novas medidas fiscais, apelidado com o seu nome e que já passou por uma primeira votação no Senado. Leia mais (11/1",
-      "source": "Folha",
       "cat": "economia",
       "type": "imprensa"
     },
