@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-14T13:47:28.685Z",
+  "updated": "2026-11-14T14:38:47.298Z",
   "market": {
     "ibov": {
       "price": 172457.77,
       "pct": 0.66,
-      "time": "2026-11-14T13:47:24.603Z",
+      "time": "2026-11-14T14:38:40.014Z",
       "history": [
         {
           "d": "2026-10-15",
@@ -145,6 +145,69 @@
   },
   "news": [
     {
+      "title": "MP do Paraguai acusa Santiago Peña de associação criminosa",
+      "link": "https://www.poder360.com.br/poder-justica/mp-do-paraguai-acusa-santiago-pena-de-associacao-criminosa/",
+      "date": "2026-11-14T14:35:32.000Z",
+      "summary": "Ex-presidente é indicado como possível líder de organização investigada por colapso do Ueno Bank",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Centro de Liderança Pública premia representantes do Piauí por gestão e combate à seca",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/centro-de-lideranca-publica-premia-representantes-do-piaui-por-gestao-e-combate-a-seca.shtml",
+      "date": "2026-11-14T14:30:00.000Z",
+      "summary": "O Centro de Liderança Pública (CLP) anuncia neste sábado (14) os vencedores de duas categorias do Prêmio Liderança Pública 2026, iniciativa que reconhece profissionais comprometidos com a melhoria da gestão pública brasileira. Leia mais (11/14/2026 - 11h30)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Jensen Huang, da Nvidia, é convocado por Senado dos EUA",
+      "link": "https://www.poder360.com.br/poder-internacional/jensen-huang-da-nvidia-e-convocado-por-senado-dos-eua/",
+      "date": "2026-11-14T14:24:45.000Z",
+      "summary": "Fundador da fabricante de chips e secretário do Comércio depõem em caso que expõe racha na administração Trump",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Tesla convida clientes para comprar robotáxi para uso pessoal",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/tesla-convida-clientes-para-comprar-robotaxi-para-uso-pessoal.shtml",
+      "date": "2026-11-14T14:19:00.000Z",
+      "summary": "A Tesla informou nessa sexta-feira (13) que estava convidando clientes selecionados a comprar o robotáxi Cybercab para uso pessoal em uma iniciativa para avançar na entrega de veículos totalmente autônomos e projetados para esse fim aos consumidores. Leia mais",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "EUA suspendem todas as decolagens de aeroportos do país",
+      "link": "https://www.dw.com/pt-br/eua-suspendem-todas-as-decolagens-de-aeroportos-do-país/a-79945256?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-14T14:18:00.000Z",
+      "summary": "Governo americano diz que \"levará tempo\" para que a situação volte à normalidade. Quase 6 mil voos foram cancelados.",
+      "source": "DW Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Microsoft alerta sobre tentativas de golpe após falha no Teams e no Outlook",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/14/golpe-microsoft-alerta-outlook.ghtml",
+      "date": "2026-11-14T13:55:00.000Z",
+      "summary": "Logo da Microsoft REUTERS A Microsoft alertou para uma campanha de golpes por e-mail que aproveita a instabilidade registrada no Microsoft 365 na quinta-feira (12) para tentar roubar dados de usuários. Os criminosos enviam mensagens falsas que imitam comunicad",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Nas Filipinas, ministro diz estar 'otimista' com negociações e que restrição à carne suína do Brasil 'é medida de 60 dias'",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/14/nas-filipinas-ministro-diz-estar-otimista-com-negociacoes-e-que-restricao-a-carne-suina-do-brasil-e-medida-de-60-dias.ghtml",
+      "date": "2026-11-14T13:53:13.000Z",
+      "summary": "O ministro da Agricultura e Pecuária, André de Paula, afirmou neste sábado (14) que está \"otimista\" com as negociações do governo brasileiro com autoridades das Filipinas em relação à importação pelo país asiático da carne suína brasileira. 🔎Nesta semana, o g",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "Microsoft diz que serviços foram restabelecidos após pane de mais de 30 horas",
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/tec/2026/11/microsoft-diz-que-servicos-foram-reestabelecidos-apos-pane-de-mais-de-30-horas.shtml",
       "date": "2026-11-14T13:39:00.000Z",
@@ -187,24 +250,6 @@
       "summary": "Justiça de São Paulo proíbe Meta de usar conteúdo jornalístico sem autorização Jornal Nacional/ Reprodução A autoridade de proteção de dados da Itália multou a Meta em € 805 milhões (R$ 5 bilhões) neste sábado (14), sob a acusação de que a empresa acessou foto",
       "source": "g1",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "AGU segue Zanin e é contra nova votação no Rio",
-      "link": "https://www.poder360.com.br/poder-justica/agu-segue-zanin-e-e-contra-nova-votacao-no-rio/",
-      "date": "2026-11-14T12:26:07.000Z",
-      "summary": "Órgão pede ao STF para manter decisão do minisitro contra pedido do PSD para eleição fluminense",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Produzir aço “verde” no Brasil compensa mais que exportar hidrogênio",
-      "link": "https://www.poder360.com.br/poder-sustentavel/produzir-aco-verde-no-brasil-compensa-mais-que-exportar-hidrogenio/",
-      "date": "2026-11-14T12:20:05.000Z",
-      "summary": "Análise apresentada na FAPESP Week Países Baixos mostra que produzir aço no Ceará reduz emissões e custos industriais; a siderurgia \"verde\" cria empregos de maior qualificação no Nordeste, segundo pesquisadora",
-      "source": "Poder360",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -253,15 +298,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Microsoft afirma que serviços foram totalmente restabelecidos após falha global",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/14/microsoft-afirma-que-servicos-foram-totalmente-restabelecidos-apos-falha-global.ghtml",
-      "date": "2026-11-14T11:13:29.000Z",
-      "summary": "Como a falha da Microsoft afetou serviços e eventos em diversas partes do mundo A Microsoft informou neste sábado (14) que seus serviços foram totalmente restabelecidos após uma falha global que durou várias horas. \"Concluímos os trabalhos para resolver a caus",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "'Há total desconexão entre discurso e prática', diz CEO sobre políticas de inclusão nas empresas",
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/ha-total-desconexao-entre-discurso-e-pratica-diz-ceo-sobre-politicas-de-inclusao-nas-empresas.shtml",
       "date": "2026-11-14T10:00:00.000Z",
@@ -307,15 +343,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Pecuária de elite: como uma vaca pode valer R$ 54 milhões e render fortunas com genética e clonagem",
-      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/14/pecuaria-de-elite-como-uma-vaca-pode-render-fortunas-com-genetica-e-clonagem.ghtml",
-      "date": "2026-11-14T08:00:00.000Z",
-      "summary": "Vaca mais cara do mundo é brasileira: entenda por que ela atingiu a marca de R$ 54 milhões \"Por que as pessoas desejam ter uma Mercedes ou uma Ferrari?\" Foi com uma pergunta que o presidente da Associação dos Criadores de Nelore do Brasil (ACNB), Victor Paulo ",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Raquel Lyra exonera comissionados do PL e se aproxima de aliados de Lula após eleições",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/raquel-lyra-exonera-comissionados-do-pl-e-se-aproxima-de-aliados-de-lula-apos-eleicoes.shtml",
       "date": "2026-11-14T07:00:00.000Z",
@@ -329,15 +356,6 @@
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/metade-das-condenacoes-por-assedio-eleitoral-no-trabalho-e-de-ate-r-10-mil-diz-estudo.shtml",
       "date": "2026-11-14T07:00:00.000Z",
       "summary": "Metade das condenações por assédio eleitoral no ambiente de trabalho identificadas em um levantamento da Turivius, plataforma de inteligência jurídica, resultou em indenizações de até R$ 10 mil. O estudo analisou 500 decisões judiciais relacionadas ao tema e e",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Jovens avançam sobre renda e patrimônio antes concentrados nos idosos",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/jovens-avancam-sobre-renda-e-patrimonio-antes-concentrados-nos-idosos.shtml",
-      "date": "2026-11-14T07:00:00.000Z",
-      "summary": "Os protestos na França deram novo destaque a uma reclamação conhecida: a de que os baby boomers monopolizaram as oportunidades. Depois de carreiras confortáveis, segundo essa queixa, as pessoas nascidas entre meados dos anos 1940 e meados dos anos 1960 ficaram",
       "source": "Folha",
       "cat": "economia",
       "type": "imprensa"
@@ -370,29 +388,11 @@
       "type": "imprensa"
     },
     {
-      "title": "Fundo Amazônia completa 18 anos com R$ 5,6 bilhões em doações; veja onde o dinheiro é investido",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/14/fundo-amazonia-completa-18-anos-com-r-56-bilhoes-em-doacoes-veja-onde-o-dinheiro-e-investido.ghtml",
-      "date": "2026-11-14T03:00:00.000Z",
-      "summary": "O Fundo Amazônia completa 18 anos em 2026 com R$ 5,6 bilhões arrecadados em doações e 160 projetos apoiados desde a criação do mecanismo, em 2008. As iniciativas são voltadas à preservação da floresta e ao desenvolvimento sustentável da região. Nesta semana, a",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Toffoli vota pela preservação definitiva de mensagens sobre a Lava Jato obtidas por hackers",
       "link": "https://www.estadao.com.br/politica/toffoli-vota-pela-preservacao-definitiva-de-mensagens-sobre-a-lava-jato-obtidas-por-hackers-nprp/",
       "date": "2026-11-14T02:27:09.000Z",
       "summary": "",
       "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Integrantes da PF veem disputa política em crise com delegados do Master e divergem sobre Andrei",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/integrantes-da-pf-veem-disputa-politica-em-crise-com-delegados-do-master-e-divergem-sobre-andrei.shtml",
-      "date": "2026-11-14T02:00:00.000Z",
-      "summary": "A crise provocada pelo afastamento de dois delegados que atuavam na coordenação das investigações sobre o Banco Master tem servido como combustível na disputa interna vivida na Polícia Federal, segundo integrantes da corporação ouvidos pela Folha. Leia mais (1",
-      "source": "Folha",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -410,15 +410,6 @@
       "link": "https://www.dw.com/pt-br/paraguai-ex-presidente-é-acusado-de-associação-criminosa/a-79945572?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-13T23:18:00.000Z",
       "summary": "Ministério Público também acusa Santiago Peña de apropriação indébita e administração em benefício próprio, além de lavagem de dinheiro, em investigação sobre a intervenção no escândalo do Ueno Bank.",
-      "source": "DW Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "EUA suspendem todas as decolagens de aeroportos do país",
-      "link": "https://www.dw.com/pt-br/eua-suspendem-todas-as-decolagens-de-aeroportos-do-país/a-79945256?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-13T21:39:00.000Z",
-      "summary": "Administração Federal de Aviação dos Estados Unidos determinou a suspensão de decolagens em todos os aeroportos do país, afetando mais de 13 mil voos. Esta foi somente a segunda paralisação desde o 11 de setembro.",
       "source": "DW Brasil",
       "cat": "internacional",
       "type": "imprensa"
@@ -722,7 +713,9 @@
     }
   ],
   "errors": [
+    "IPCA 12m (SGS 13522): HTTP 304",
     "feed CNN Brasil: HTTP 404",
-    "feed CNN Brasil: HTTP 404"
+    "feed CNN Brasil: HTTP 404",
+    "feed Planalto (governo): HTTP 429"
   ]
 }
