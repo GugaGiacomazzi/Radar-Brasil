@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-14T16:59:36.522Z",
+  "updated": "2026-11-14T17:37:45.866Z",
   "market": {
     "ibov": {
       "price": 172457.77,
       "pct": 0.66,
-      "time": "2026-11-14T16:59:30.540Z",
+      "time": "2026-11-14T17:37:39.889Z",
       "history": [
         {
           "d": "2026-10-15",
@@ -145,6 +145,60 @@
   },
   "news": [
     {
+      "title": "Controle de tráfego aéreo dos EUA ainda opera com disquetes; veja como eles funcionam",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/14/controle-de-trafego-aereo-dos-eua-ainda-opera-com-disquetes-veja-como-eles-funcionam.ghtml",
+      "date": "2026-11-14T17:23:56.000Z",
+      "summary": "Armazenamento de disquetes, em foto de julho de 2022 Iswoar/Wikimedia Commons O apagão aéreo da última sexta-feira (13) nos Estados Unidos chamou atenção para as ferramentas usadas no país para controlar o tráfego de aviões. O secretário de Transportes dos EUA",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Projeto isenta policiais e bombeiros militares do Imposto de Renda",
+      "link": "https://www.poder360.com.br/poder-congresso/projeto-isenta-policiais-e-bombeiros-militares-do-imposto-de-renda/",
+      "date": "2026-11-14T17:15:00.000Z",
+      "summary": "Proposta também beneficia guardas municipais; para virar lei, precisa ser aprovada pela Câmara e pelo Senado",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "EUA sugerem que Ucrânia ceda Donbas para entrar na Otan",
+      "link": "https://www.poder360.com.br/poder-internacional/eua-sugerem-que-ucrania-ceda-donbas-para-entrar-na-otan/",
+      "date": "2026-11-14T17:05:07.000Z",
+      "summary": "Zelensky afirmou que proposta norte-americana foi apresentada pela 1ª vez e que eventual decisão caberá à sociedade ucraniana",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Mercado estima impacto do ajuste fiscal abaixo de R$ 60 bilhões",
+      "link": "https://www.poder360.com.br/poder-economia/mercado-estima-impacto-do-ajuste-fiscal-abaixo-de-r-60-bilhoes/",
+      "date": "2026-11-14T17:00:33.000Z",
+      "summary": "Projeções variam de R$ 27,9 bilhões a R$ 56,1 bilhões em 2027; especialistas questionam dependência de receitas",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Entenda como o pacote fiscal limita o crescimento dos gastos",
+      "link": "https://www.poder360.com.br/poder-economia/entenda-como-o-pacote-fiscal-limita-o-crescimento-dos-gastos/",
+      "date": "2026-11-14T17:00:28.000Z",
+      "summary": "Texto-base aprovado no Senado também fixa prazo para discutir supersalários e permite despesas extras com investimentos",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "The Economist: A Europa tem vivido acima das suas possibilidades; agora, as contas chegaram",
+      "link": "https://www.estadao.com.br/economia/the-economist-a-europa-tem-vivido-acima-das-suas-possibilidades-agora-as-contas-chegaram/",
+      "date": "2026-11-14T17:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "Ministro faz defesa do projeto de ajuste fiscal em vídeo divulgado pelo governo",
       "link": "https://www.estadao.com.br/economia/ministro-faz-defesa-do-projeto-de-ajuste-fiscal-em-video-divulgado-pelo-governo/",
       "date": "2026-11-14T16:48:01.000Z",
@@ -157,18 +211,9 @@
       "title": "Zelenski diz que EUA propuseram à Ucrânia ceder território a Moscou para entrar na Otan",
       "link": "https://www.dw.com/pt-br/zelenski-diz-que-eua-propuseram-à-ucrânia-ceder-território-a-moscou-para-entrar-na-otan/a-79949054?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-14T16:47:00.000Z",
-      "summary": "Presidente ucraniano afirmou que em Abu Dhabi, americanos levantaram a possibilidade de admitir seu país na aliança militar, caso Kiev se retire de áreas que ainda controla no Donbass.",
+      "summary": "O presidente ucraniano afirmou que, em Abu Dhabi, americanos levantaram a possibilidade de admitir seu país na aliança militar caso Kiev se retirasse de áreas que ainda controla no Donbass.",
       "source": "DW Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Gilmar Mendes chama de “desfaçatez” fala de Moro sobre triplex",
-      "link": "https://www.poder360.com.br/poder-justica/gilmar-mendes-chama-de-desfacatez-fala-de-moro-sobre-triplex/",
-      "date": "2026-11-14T16:40:56.000Z",
-      "summary": "Decano do STF rebate senador por atribuir a motivos formais e políticos a anulação da condenação de Lula no caso do Guarujá",
-      "source": "Poder360",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -199,19 +244,10 @@
       "type": "imprensa"
     },
     {
-      "title": "China e EUA negociam tarifas antes de cúpula trilateral com Putin",
-      "link": "https://www.poder360.com.br/poder-internacional/china-e-eua-negociam-tarifas-antes-de-cupula-trilateral-com-putin/",
-      "date": "2026-11-14T15:56:46.000Z",
-      "summary": "Países realizaram 1ª reunião do conselho bilateral de comércio antes de cúpula com Trump e Xi Jinping",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Idosos puxam alta do comparecimento no 2º turno e ajudam voto facultativo a atingir maior participação desde 2014",
       "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/11/14/idosos-puxam-alta-do-comparecimento-no-2o-turno-e-ajudam-voto-facultativo-a-atingir-maior-participacao-desde-2014.ghtml",
       "date": "2026-11-14T15:51:31.000Z",
-      "summary": "Eleitor registra voto no 2º turno das Eleições 2026 em Pernambuco Reprodução/TV Globo O comparecimento às urnas aumentou do primeiro para o segundo turno das eleições de 2026, puxado principalmente pelos eleitores que não são obrigados a votar. Segundo dados d",
+      "summary": "Idoso de 82 anos vota para 'conviver com a própria consciência' Gyovanna Soares/g1 O comparecimento às urnas aumentou do primeiro para o segundo turno das eleições de 2026, puxado principalmente pelos eleitores que não são obrigados a votar. Segundo dados do T",
       "source": "g1",
       "cat": "politica",
       "type": "imprensa"
@@ -280,15 +316,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Saiba quais projetos o Congresso deve votar até dezembro de 2026",
-      "link": "https://www.poder360.com.br/poder-congresso/saiba-quais-projetos-o-congresso-deve-votar-ate-dezembro-de-2026/",
-      "date": "2026-11-14T15:00:46.000Z",
-      "summary": "LDO, CBS, categorias da 6 X 1, marco legal da IA e redução da maioridade penal estão no radar de votação da Câmara e do Senado",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Três Poderes: Fachin é o vencedor da semana e PF, a perdedora",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/tres-poderes-fachin-e-o-vencedor-da-semana-e-pf-a-perdedora.shtml",
       "date": "2026-11-14T15:00:00.000Z",
@@ -303,15 +330,6 @@
       "date": "2026-11-14T15:00:00.000Z",
       "summary": "",
       "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "El Niño pode causar perdas de US$ 11 trilhões em 5 anos",
-      "link": "https://www.poder360.com.br/poder-sustentavel/el-nino-pode-causar-perdas-de-us-11-trilhoes-em-5-anos/",
-      "date": "2026-11-14T14:45:19.000Z",
-      "summary": "Estudo divulgado na COP31 mostra que conflitos geopolíticos e variações nos preços de energia ampliam os efeitos climáticos",
-      "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -347,15 +365,6 @@
       "link": "https://g1.globo.com/tecnologia/noticia/2026/11/14/italia-multa-meta.ghtml",
       "date": "2026-11-14T12:32:39.000Z",
       "summary": "Justiça de São Paulo proíbe Meta de usar conteúdo jornalístico sem autorização Jornal Nacional/ Reprodução A autoridade de proteção de dados da Itália multou a Meta em € 805 milhões (R$ 5 bilhões) neste sábado (14), sob a acusação de que a empresa acessou foto",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Dívidas do MEI serão perdoadas automaticamente: veja 10 perguntas e respostas sobre a medida",
-      "link": "https://g1.globo.com/empreendedorismo/noticia/2026/11/14/dividas-do-mei-serao-perdoadas-automaticamente.ghtml",
-      "date": "2026-11-14T12:16:56.000Z",
-      "summary": "Presidente Lula (PT) durante a sanção dos novos limites do MEI e envio de PEC sobre tarifa zero no transporte coletivo aos fins de semana e feriados, no Palácio do Planalto Ricardo Stuckert O perdão de dívidas de microempreendedores individuais (MEIs) será apl",
       "source": "g1",
       "cat": "economia",
       "type": "imprensa"
@@ -640,15 +649,6 @@
       "type": "imprensa"
     },
     {
-      "title": "CNC conquista selo de qualidade do ambiente de trabalho",
-      "link": "https://www.estadao.com.br/economia/cnc-conquista-selo-de-qualidade-do-ambiente-de-trabalho/",
-      "date": "2026-11-10T22:30:41.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Conferência do Clima discute caminhos para o fim dos combustíveis fósseis",
       "link": "https://news.un.org/feed/view/pt/story/2026/11/1854891",
       "date": "2026-11-10T12:00:00.000Z",
@@ -704,6 +704,7 @@
     }
   ],
   "errors": [
+    "IPCA 12m (SGS 13522): fetch failed",
     "feed CNN Brasil: HTTP 404",
     "feed CNN Brasil: HTTP 404"
   ]
