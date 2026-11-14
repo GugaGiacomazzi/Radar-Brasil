@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-14T23:15:52.017Z",
+  "updated": "2026-11-14T23:53:46.680Z",
   "market": {
     "ibov": {
       "price": 172457.77,
       "pct": 0.66,
-      "time": "2026-11-14T23:15:45.873Z",
+      "time": "2026-11-14T23:53:40.808Z",
       "history": [
         {
           "d": "2026-10-15",
@@ -144,6 +144,15 @@
     ]
   },
   "news": [
+    {
+      "title": "Quem fez a cabeça de Dario Amodei, CEO da Anthropic, prestes a realizar o maior IPO da história",
+      "link": "https://www.estadao.com.br/tecmundo/big-techs/quem-e-dario-amodei-o-ceo-da-anthropic-prestes-a-realizar-o-maior-ipo-da-historia-de-wall-street/",
+      "date": "2026-11-14T23:14:10.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
     {
       "title": "Helder pede a Lula auxílio de 2 salários mínimos para pescadores",
       "link": "https://www.poder360.com.br/poder-economia/helder-pede-a-lula-auxilio-de-2-salarios-minimos-para-pescadores/",
@@ -313,15 +322,6 @@
       "summary": "Governo afasta hipótese de ciberataque e reforça apelo por maior financiamento de modernização do espaço aéreo. Investigação apura se houve incompetência de empresa responsável.",
       "source": "DW Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Espionagem, traição e queda: o escândalo da Nvidia que o Vale do Silício não viu chegar",
-      "link": "https://www.estadao.com.br/economia/negocios/espionagem-traicao-e-queda-o-escandalo-da-nvidia-que-o-vale-do-silicio-nao-viu-chegar/",
-      "date": "2026-11-14T18:37:43.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -723,7 +723,6 @@
   ],
   "errors": [
     "feed CNN Brasil: HTTP 404",
-    "feed CNN Brasil: HTTP 404",
-    "feed Planalto (governo): HTTP 429"
+    "feed CNN Brasil: HTTP 404"
   ]
 }
