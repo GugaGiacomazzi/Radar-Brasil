@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-14T12:47:57.254Z",
+  "updated": "2026-11-14T13:47:28.685Z",
   "market": {
     "ibov": {
       "price": 172457.77,
       "pct": 0.66,
-      "time": "2026-11-14T12:47:51.380Z",
+      "time": "2026-11-14T13:47:24.603Z",
       "history": [
         {
           "d": "2026-10-15",
@@ -145,6 +145,42 @@
   },
   "news": [
     {
+      "title": "Microsoft diz que serviços foram restabelecidos após pane de mais de 30 horas",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/tec/2026/11/microsoft-diz-que-servicos-foram-reestabelecidos-apos-pane-de-mais-de-30-horas.shtml",
+      "date": "2026-11-14T13:39:00.000Z",
+      "summary": "A Microsoft informou neste sábado (14) que os serviços do Outlook, Teams, Copilot e de seus outros produtos foram totalmente restabelecidos, encerrando uma interrupção global que paralisou as comunicações online de empresas e governos por mais de 30 horas. Lei",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Mercado espera mais medidas fiscais, mas aliados de Lula resistem",
+      "link": "https://www.poder360.com.br/poder-economia/mercado-espera-mais-medidas-fiscais-mas-aliados-de-lula-resistem/",
+      "date": "2026-11-14T13:00:53.000Z",
+      "summary": "Novas iniciativas podem elevar ajuste a R$ 80 bilhões em 2027; congressistas, governadores e municípios cobram mudanças",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "COP31 na Turquia supera a COP30 do Brasil em número de líderes",
+      "link": "https://www.poder360.com.br/poder-internacional/cop31-na-turquia-supera-a-cop30-do-brasil-em-lideres-presentes/",
+      "date": "2026-11-14T13:00:40.000Z",
+      "summary": "Listas da ONU incluem 53 líderes em Antália: 33 presidentes, 18 primeiros-ministros e 2 monarcas; Belém teve 31",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Escândalo da Nvidia intensifica rivalidade entre China e EUA antes de reunião entre Xi e Trump",
+      "link": "https://www.estadao.com.br/internacional/escandalo-da-nvidia-intensifica-rivalidade-entre-china-e-eua-antes-de-reuniao-entre-xi-e-trump/",
+      "date": "2026-11-14T12:45:20.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "Itália multa Meta em R$ 5 bilhões por acessar fotos e vídeos de usuários sem consentimento",
       "link": "https://g1.globo.com/tecnologia/noticia/2026/11/14/italia-multa-meta.ghtml",
       "date": "2026-11-14T12:32:39.000Z",
@@ -184,7 +220,7 @@
       "title": "Reunião trilateral de Trump, Xi e Putin abordará não proliferação nuclear",
       "link": "https://www.dw.com/pt-br/reunião-trilateral-de-trump-xi-e-putin-abordará-não-proliferação-nuclear/a-79947990?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-14T12:12:00.000Z",
-      "summary": "Confirmado pela Casa Branca, encontro dos presidentes de EUA, Rússia e China deve render foto histórica. Mas especialistas consideram pouco provável que ele traga resultados concretos.",
+      "summary": "Confirmado pela Casa Branca, encontro de líderes de EUA, Rússia e China deve render foto histórica. Mas analistas acham pouco provável que ele traga resultados concretos. Guerra no Oriente Médio também estará na pauta.",
       "source": "DW Brasil",
       "cat": "internacional",
       "type": "imprensa"
@@ -204,24 +240,6 @@
       "date": "2026-11-14T12:00:00.000Z",
       "summary": "",
       "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Nas Filipinas, Lula diz que “colonialismo ficou no passado”",
-      "link": "https://www.poder360.com.br/poder-governo/nas-filipinas-lula-diz-que-colonialismo-ficou-no-passado/",
-      "date": "2026-11-14T11:57:39.000Z",
-      "summary": "Com a voz rouca, presidente faz fala durante almoço de Estado após ter cancelado 2 pronunciamentos no país asiático",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Atalho marítimo pelo Ártico aproxima Seul de Moscou e preocupa a Europa",
-      "link": "https://www.poder360.com.br/poder-internacional/atalho-maritimo-pelo-artico-aproxima-seul-de-moscou-e-preocupa-a-europa/",
-      "date": "2026-11-14T11:50:08.000Z",
-      "summary": "Rota aberta pelo degelo na região pode beneficiar economia sul-coreana e aproximar país do governo de Vladimir Putin; viagem economizou 10 dias com 7.000 km a menos",
-      "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -325,15 +343,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Itens de decoração do Master vão a leilão com lote de pedra, porta-papel higiênico e vaso a R$ 2.600",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/itens-de-decoracao-do-master-vao-a-leilao-com-lote-de-pedra-porta-papel-higienico-e-vaso-a-r-2600.shtml",
-      "date": "2026-11-14T07:00:00.000Z",
-      "summary": "Peças decorativas do Banco Master e do Will Bank irão a leilão em novembro e incluem pedra, porta-papel higiênico e vaso decorativo vendido a um preço inicial de R$ 2.600. Leia mais (11/14/2026 - 04h00)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Ministério dos Direitos Humanos contabiliza 831 denúncias de assédio eleitoral e violência política",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/ministerio-dos-direitos-humanos-contabiliza-831-denuncias-de-assedio-eleitoral-e-violencia-politica.shtml",
       "date": "2026-11-14T03:01:00.000Z",
@@ -385,15 +394,6 @@
       "summary": "A crise provocada pelo afastamento de dois delegados que atuavam na coordenação das investigações sobre o Banco Master tem servido como combustível na disputa interna vivida na Polícia Federal, segundo integrantes da corporação ouvidos pela Folha. Leia mais (1",
       "source": "Folha",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "PT protocola projetos para taxar lucros e dividendos com alíquota de 15% e tributar LCI e LCA",
-      "link": "https://www.estadao.com.br/economia/pt-protocola-projetos-para-taxar-lucros-e-dividendos-com-aliquota-de-15-e-tributar-lci-e-lca/",
-      "date": "2026-11-14T00:59:04.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
