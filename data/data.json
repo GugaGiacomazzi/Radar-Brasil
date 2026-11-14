@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-14T11:17:27.197Z",
+  "updated": "2026-11-14T11:58:33.100Z",
   "market": {
     "ibov": {
       "price": 172457.77,
       "pct": 0.66,
-      "time": "2026-11-14T11:17:20.725Z",
+      "time": "2026-11-14T11:58:27.940Z",
       "history": [
         {
           "d": "2026-10-15",
@@ -145,6 +145,51 @@
   },
   "news": [
     {
+      "title": "Nas Filipinas, Lula diz que “colonialismo ficou no passado”",
+      "link": "https://www.poder360.com.br/poder-governo/nas-filipinas-lula-diz-que-colonialismo-ficou-no-passado/",
+      "date": "2026-11-14T11:57:39.000Z",
+      "summary": "Com a voz rouca, presidente faz fala durante almoço de Estado após ter cancelado 2 pronunciamentos no país asiático",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Atalho marítimo pelo Ártico aproxima Seul de Moscou e preocupa a Europa",
+      "link": "https://www.poder360.com.br/poder-internacional/atalho-maritimo-pelo-artico-aproxima-seul-de-moscou-e-preocupa-a-europa/",
+      "date": "2026-11-14T11:50:08.000Z",
+      "summary": "Rota aberta pelo degelo na região pode beneficiar economia sul-coreana e aproximar país do governo de Vladimir Putin; viagem economizou 10 dias com 7.000 km a menos",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Após horas de blecaute global, Microsoft diz que serviços foram totalmente normalizados",
+      "link": "https://www.dw.com/pt-br/após-horas-de-blecaute-global-microsoft-diz-que-serviços-foram-totalmente-normalizados/a-79947818?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-14T11:23:00.000Z",
+      "summary": "Falha afetou governos e empresas em mais de 70 países, atingindo programa de e-mail Outlook e aplicativo de mensagens Teams. Especialistas alertam para dependência excessiva de tecnologia de uma única empresa.",
+      "source": "DW Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Vendas de carros na China caem 27%; exportações avançam 69%",
+      "link": "https://www.poder360.com.br/poder-china/vendas-de-carros-na-china-caem-27-exportacoes-avancam-69/",
+      "date": "2026-11-14T11:21:51.000Z",
+      "summary": "Varejo doméstico teve 1,6 milhão de vendas em outubro; exportações chegaram a 928 mil unidades",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Microsoft afirma que serviços foram totalmente restabelecidos após falha global",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/14/microsoft-afirma-que-servicos-foram-totalmente-restabelecidos-apos-falha-global.ghtml",
+      "date": "2026-11-14T11:13:29.000Z",
+      "summary": "Como a falha da Microsoft afetou serviços e eventos em diversas partes do mundo A Microsoft informou neste sábado (14) que seus serviços foram totalmente restabelecidos após uma falha global que durou várias horas. \"Concluímos os trabalhos para resolver a caus",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "Exportações da China avançam com força do comércio ligado à IA",
       "link": "https://www.poder360.com.br/poder-china/exportacoes-da-china-avancam-com-forca-do-comercio-ligado-a-ia/",
       "date": "2026-11-14T10:14:02.000Z",
@@ -160,15 +205,6 @@
       "summary": "Desde a eleição de Donald Trump nos Estados Unidos, o mundo vive um retrocesso em suas políticas de inclusão no meio corporativo, segundo Wellington Vitorino, CEO do Instituto Four, voltado à formação de lideranças. Na sua visão, isso acontece porque muitas em",
       "source": "Folha",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Pacote fiscal, nova Esplanada e COP31: “Por Que Isso Importa?”",
-      "link": "https://www.poder360.com.br/poder-videos/pacote-fiscal-nova-esplanada-e-cop31-por-que-isso-importa/",
-      "date": "2026-11-14T09:00:52.000Z",
-      "summary": "Podcast do Poder360 analisa os temas políticos da semana que se encerra e traz o que haverá de mais importante na semana que começa",
-      "source": "Poder360",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -267,15 +303,6 @@
       "date": "2026-11-14T07:00:00.000Z",
       "summary": "Peças decorativas do Banco Master e do Will Bank irão a leilão em novembro e incluem pedra, porta-papel higiênico e vaso decorativo vendido a um preço inicial de R$ 2.600. Leia mais (11/14/2026 - 04h00)",
       "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Crise na Nvidia: veja em 8 pontos como traições levaram à renúncia de Jensen Huang",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/14/cronologia-crise-nvidia.ghtml",
-      "date": "2026-11-14T06:00:01.000Z",
-      "summary": "Jensen Huang, CEO da Nvidia, durante evento em Washington Julia Demaree Nikhinson/AP Photo Na última semana, a fabricante americana de chips Nvidia ficou no centro de uma crise que culminou na renúncia de seu fundador e CEO, Jensen Huang, e em um prejuízo de m",
-      "source": "g1",
       "cat": "economia",
       "type": "imprensa"
     },
@@ -530,15 +557,6 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "EUA desmantelam rede de golpes de criptomoedas da Coreia do Norte, diz FBI",
-      "link": "https://www.dw.com/pt-br/eua-desmantelam-rede-de-golpes-de-criptomoedas-da-coreia-do-norte-diz-fbi/a-79940495?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-13T14:23:00.000Z",
-      "summary": "Autoridades apreendem servidores vinculados a esquema que usou videochamadas falsas e deepfakes para roubar mais de 400 milhões de dólares em criptomoedas.",
-      "source": "DW Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
     },
     {
       "title": "Novo chefe do WFP pede fim dos combates no Sudão após visita ao país",
