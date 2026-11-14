@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-14T20:37:59.345Z",
+  "updated": "2026-11-14T21:17:49.977Z",
   "market": {
     "ibov": {
       "price": 172457.77,
       "pct": 0.66,
-      "time": "2026-11-14T20:37:54.115Z",
+      "time": "2026-11-14T21:17:43.335Z",
       "history": [
         {
           "d": "2026-10-15",
@@ -145,6 +145,42 @@
   },
   "news": [
     {
+      "title": "Musk diz que parte dos acordos da Nvidia está ameaçada por ser só 'aperto de mãos' com Huang",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/musk-diz-que-parte-dos-acordos-da-nvidia-esta-ameacada-por-ser-so-aperto-de-maos-com-huang.shtml",
+      "date": "2026-11-14T21:05:00.000Z",
+      "summary": "O dono da Tesla, X e SpaceX, Elon Musk, afirmou que parte dos acordos feitos pela Nvidia podem estar ameaçados com a saída de Jensen Huang dos cargos de presidente, CEO e integrante do conselho de administração da fabricante de chips. Leia mais (11/14/2026 - 1",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Aliados pedem que Alcolumbre defenda fim de superinquéritos do STF",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/aliados-pedem-que-alcolumbre-defenda-fim-de-superinqueritos-do-stf.shtml",
+      "date": "2026-11-14T21:00:00.000Z",
+      "summary": "Aliados de Davi Alcolumbre (União-AP) afirmam que os acenos que ele tem feito em defesa de uma reforma do Judiciário, como a instituição de mandatos para ministros do STF e idade mínima para indicações, são bem-vindos para conquistar votos de bolsonaristas, ma",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Nunca compre uma ação sem saber disso",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/blogs/de-grao-em-grao/2026/11/nunca-compre-uma-acao-sem-saber-disso.shtml",
+      "date": "2026-11-14T21:00:00.000Z",
+      "summary": "Você compraria uma ação sem saber quanto ela realmente vale? E perceba que não estou falando do preço pelo qual ela é negociada, mas de seu valor. Provavelmente, você concorda que não faz sentido comprar algo sem ter uma estimativa de quanto vale. Leia mais (1",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Fux leva julgamento de transição da 6 X 1 ao plenário físico do STF",
+      "link": "https://www.poder360.com.br/poder-justica/fux-pede-destaque-para-julgamento-de-transicao-da-6-x-1/",
+      "date": "2026-11-14T20:38:30.000Z",
+      "summary": "Três ministros já haviam acompanhado o voto do relator, Flávio Dino, no plenário virtual da Corte; julgamento será reiniciado após medida de Fux",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "Vitória no Brasil serve de lição contra “extrema direita”, diz Lula",
       "link": "https://www.poder360.com.br/poder-governo/vitoria-no-brasil-serve-de-licao-contra-extrema-direita-diz-lula/",
       "date": "2026-11-14T20:34:07.000Z",
@@ -235,15 +271,6 @@
       "type": "imprensa"
     },
     {
-      "title": "O Brasil não conhece o Brasil e quer fazer plano de desenvolvimento econômico",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2026/11/o-brasil-nao-conhece-o-brasil-e-quer-fazer-plano-de-desenvolvimento-economico.shtml",
-      "date": "2026-11-14T19:05:00.000Z",
-      "summary": "O Brasil tem política de desenvolvimento econômico? Tem várias. Tantas que não tem nenhuma. Política econômica é muito mais do que política fiscal (gasto, imposto) e monetária (juros, crédito). São esses os assuntos de que o país tem tratado, tal como discute ",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "PGR mantém pedido de R$ 324 mi extras para bancar penduricalhos",
       "link": "https://www.poder360.com.br/poder-justica/pgr-mantem-pedido-de-r-324-mi-extras-para-bancar-penduricalhos/",
       "date": "2026-11-14T18:59:10.000Z",
@@ -259,15 +286,6 @@
       "summary": "Governo afasta hipótese de ciberataque e reforça apelo por maior financiamento de modernização do espaço aéreo. Investigação apura se houve incompetência de empresa responsável.",
       "source": "DW Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Ala do PT defende ajuste fiscal com mais impostos",
-      "link": "https://www.poder360.com.br/poder-congresso/ala-do-pt-defende-ajuste-fiscal-com-mais-impostos/",
-      "date": "2026-11-14T18:38:52.000Z",
-      "summary": "Deputados apresentam 4 projetos de lei para taxar grandes fortunas, instituir alíquota sobre LCA e LCI e elevar imposto sobre lucros",
-      "source": "Poder360",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -301,18 +319,9 @@
       "title": "Pastores da Universal criticam aproximação de Republicanos com Lula e falam em deixar o partido",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/pastores-da-universal-criticam-aproximacao-de-republicanos-com-lula-e-falam-em-deixar-o-partido.shtml",
       "date": "2026-11-14T18:00:00.000Z",
-      "summary": "A possibilidade de o Republicanos voltar a participar do governo Luiz Inácio Lula da Silva tem gerado reação de pastores da Igreja Universal do Reino de Deus, que é ligada ao partido. Leia mais (11/14/2026 - 15h00)",
+      "summary": "A possibilidade de o Republicanos voltar a participar do governo Luiz Inácio Lula da Silva (PT) tem gerado reação de pastores da Igreja Universal do Reino de Deus, que é ligada ao partido. Leia mais (11/14/2026 - 15h00)",
       "source": "Folha",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Controle aéreo dos EUA usa disquetes e peças vindas do eBay; entenda fragilidades do sistema",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/tec/2026/11/controle-aereo-dos-eua-usa-disquetes-e-pecas-vindas-do-ebay-entenda-fragilidades-do-sistema.shtml",
-      "date": "2026-11-14T17:58:00.000Z",
-      "summary": "Uma semana antes da suspensão das decolagens nos EUA, nesta sexta-feira (13), a FAA (agência de aviação civil americana) havia anunciado que eliminará até 2028 os disquetes usados em instalações de controle de tráfego aéreo do país. Leia mais (11/14/2026 - 14h",
-      "source": "Folha",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -375,15 +384,6 @@
       "date": "2026-11-14T15:32:42.000Z",
       "summary": "Com texto principal aprovado no Senado, o ajuste fiscal abre debate entre setores da esquerda e a direção do PT. Veja os argumentos e as reações ao pacote.",
       "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Nunes esbarra em derrota de Flávio e vice-bomba no caminho para 2030 após aposta no bolsonarismo",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/nunes-esbarra-em-derrota-de-flavio-e-vice-bomba-no-caminho-para-2030-apos-aposta-no-bolsonarismo.shtml",
-      "date": "2026-11-14T15:31:00.000Z",
-      "summary": "Era junho de 2024, meses antes da campanha municipal, em um evento para anunciar obras do Metrô na zona sul de São Paulo. Jornalistas se aglomeravam ao redor do governador Tarcísio de Freitas (Republicanos) e do prefeito Ricardo Nunes (MDB), que buscaria a ree",
-      "source": "Folha",
       "cat": "politica",
       "type": "imprensa"
     },
