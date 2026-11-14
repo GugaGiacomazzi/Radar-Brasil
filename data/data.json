@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-14T17:37:45.866Z",
+  "updated": "2026-11-14T18:16:08.610Z",
   "market": {
     "ibov": {
       "price": 172457.77,
       "pct": 0.66,
-      "time": "2026-11-14T17:37:39.889Z",
+      "time": "2026-11-14T18:15:54.098Z",
       "history": [
         {
           "d": "2026-10-15",
@@ -145,6 +145,60 @@
   },
   "news": [
     {
+      "title": "Como troca de cabos levou ao maior caos aéreo nos EUA desde o 11 de Setembro, segundo o governo Trump",
+      "link": "https://www.bbc.com/portuguese/articles/ckd71ne91y79o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-14T18:06:39.000Z",
+      "summary": "O governo dos Estados Unidos não acredita que a interrupção tenha sido resultado de um ataque cibernético, embora as investigações ainda estejam em andamento.",
+      "source": "BBC News Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Só 3 dos 10 ministros do STF têm contas ativas nas redes sociais",
+      "link": "https://www.poder360.com.br/poder-justica/3-dos-10-ministros-do-stf-tem-contas-ativas-nas-redes-sociais/",
+      "date": "2026-11-14T18:00:59.000Z",
+      "summary": "Alexandre de Moraes desativou seu perfil no X em fevereiro de 2025; Gilmar e Dino fizeram postagens recentes sobre as eleições",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Pastores da Universal criticam aproximação de Republicanos com Lula e falam em deixar o partido",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/pastores-da-universal-criticam-aproximacao-de-republicanos-com-lula-e-falam-em-deixar-o-partido.shtml",
+      "date": "2026-11-14T18:00:00.000Z",
+      "summary": "A possibilidade de o Republicanos voltar a participar do governo Luiz Inácio Lula da Silva tem gerado reação de pastores da Igreja Universal do Reino de Deus, que é ligada ao partido. Leia mais (11/14/2026 - 15h00)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Controle aéreo dos EUA usa disquetes e peças vindas do eBay; entenda fragilidades do sistema",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/tec/2026/11/controle-aereo-dos-eua-usa-disquetes-e-pecas-vindas-do-ebay-entenda-fragilidades-do-sistema.shtml",
+      "date": "2026-11-14T17:58:00.000Z",
+      "summary": "Uma semana antes da suspensão das decolagens nos EUA, nesta sexta-feira (13), a FAA (agência de aviação civil americana) havia anunciado que eliminará até 2028 os disquetes usados em instalações de controle de tráfego aéreo do país. Leia mais (11/14/2026 - 14h",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Janones acusa 'extrema esquerda' de boicote a Lula e a canal no WhatsApp",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/janones-acusa-extrema-esquerda-de-boicote-a-lula-e-a-canal-no-whatsapp.shtml",
+      "date": "2026-11-14T17:55:00.000Z",
+      "summary": "O deputado federal André Janones (Rede-MG), criador do \"Exército do Lula\", acusou quadros de esquerda de promoverem um boicote ao presidente Lula e ao próprio canal do WhatsApp por meio de críticas às medidas adotadas pelo governo após a reeleição do petista. ",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lula cancela discurso e declaração à imprensa nas Filipinas por causa de rouquidão",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/14/lula-cancela-discurso-e-declaracao-a-imprensa-nas-filipinas-por-causa-de-rouquidao.ghtml",
+      "date": "2026-11-14T17:54:37.000Z",
+      "summary": "Nas Filipinas, Lula vai participar como convidado da Cúpula da Asean (Associação dos Países do Sudeste Asiático) O presidente Luiz Inácio Lula da Silva (PT) cancelou dois compromissos oficiais neste sábado (14) em Manila, nas Filipinas, por causa da rouquidão ",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "Controle de tráfego aéreo dos EUA ainda opera com disquetes; veja como eles funcionam",
       "link": "https://g1.globo.com/tecnologia/noticia/2026/11/14/controle-de-trafego-aereo-dos-eua-ainda-opera-com-disquetes-veja-como-eles-funcionam.ghtml",
       "date": "2026-11-14T17:23:56.000Z",
@@ -176,15 +230,6 @@
       "link": "https://www.poder360.com.br/poder-economia/mercado-estima-impacto-do-ajuste-fiscal-abaixo-de-r-60-bilhoes/",
       "date": "2026-11-14T17:00:33.000Z",
       "summary": "Projeções variam de R$ 27,9 bilhões a R$ 56,1 bilhões em 2027; especialistas questionam dependência de receitas",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Entenda como o pacote fiscal limita o crescimento dos gastos",
-      "link": "https://www.poder360.com.br/poder-economia/entenda-como-o-pacote-fiscal-limita-o-crescimento-dos-gastos/",
-      "date": "2026-11-14T17:00:28.000Z",
-      "summary": "Texto-base aprovado no Senado também fixa prazo para discutir supersalários e permite despesas extras com investimentos",
       "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
@@ -280,24 +325,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Moretti está certo, Lindbergh está errado",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/celso-rocha-de-barros/2026/11/moretti-esta-certo-lindbergh-esta-errado.shtml",
-      "date": "2026-11-14T15:30:00.000Z",
-      "summary": "Alguns parlamentares de esquerda, como o deputado Lindbergh Farias, reagiram mal ao ajuste proposto pelo ministro do Planejamento, Bruno Moretti. Eles estão errados. Leia mais (11/14/2026 - 12h30)",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Plano fiscal precisa ir além e mudar regras do mínimo, da saúde e da educação, dizem economistas",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/plano-fiscal-precisa-ir-alem-e-mudar-regras-do-minimo-da-saude-e-da-educacao-dizem-economistas.shtml",
-      "date": "2026-11-14T15:30:00.000Z",
-      "summary": "Embora parte expressiva dos economistas defenda um ajuste fiscal gradual, o plano anunciado pelo governo na última quarta (11), que prevê medidas para entregar um superávit de 0,5% do PIB (Produto Interno Bruto) em 2027, fica aquém das principais propostas em ",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "AfD lança ex-jogador da Alemanha como candidato à Presidência",
       "link": "https://www.dw.com/pt-br/afd-lança-ex-jogador-da-alemanha-como-candidato-à-presidência/a-79948969?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-14T15:27:00.000Z",
@@ -312,15 +339,6 @@
       "date": "2026-11-14T15:24:03.000Z",
       "summary": "O ministro Márcio Elias Rosa (Desenvolvimento, Indústria e Comércio) concede entrevista a jornalistas em Manila, nas Filipinas Reprodução/TV Globo O ministro do Desenvolvimento, Indústria e Comércio, Márcio Elias Rosa, afirmou neste sábado (14) que considera \"",
       "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Três Poderes: Fachin é o vencedor da semana e PF, a perdedora",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/tres-poderes-fachin-e-o-vencedor-da-semana-e-pf-a-perdedora.shtml",
-      "date": "2026-11-14T15:00:00.000Z",
-      "summary": "Vencedor da semana: o presidente do STF (Supremo Tribunal Federal), Edson Fachin, que encerrou o polêmico inquérito das fake news após mais de sete anos. Leia mais (11/14/2026 - 12h00)",
-      "source": "Folha",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -376,15 +394,6 @@
       "summary": "Confirmado pela Casa Branca, encontro de líderes de EUA, Rússia e China deve render foto histórica. Mas analistas acham pouco provável que ele traga resultados concretos. Guerra no Oriente Médio também estará na pauta.",
       "source": "DW Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Lula se encontra com presidente das Filipinas e fala em integrar minerais críticos do Brasil com indústria local de semicondutores",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/14/lula-se-encontra-com-presidente-das-filipinas-e-fala-em-integrar-minerais-criticos-do-brasil-com-industria-local-de-semicondutores.ghtml",
-      "date": "2026-11-14T12:01:08.000Z",
-      "summary": "Lula se encontra com o presidente das Filipinas, Ferdinand Marcos Jr, em Manila Ricardo Stuckert/Presidência da República O presidente Luiz Inácio Lula da Silva (PT) afirmou neste sábado (14) que o Brasil e as Filipinas têm potencial para integrar cadeias prod",
-      "source": "g1",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -704,7 +713,6 @@
     }
   ],
   "errors": [
-    "IPCA 12m (SGS 13522): fetch failed",
     "feed CNN Brasil: HTTP 404",
     "feed CNN Brasil: HTTP 404"
   ]
