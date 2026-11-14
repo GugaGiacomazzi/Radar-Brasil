@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-14T15:20:48.378Z",
+  "updated": "2026-11-14T16:17:33.000Z",
   "market": {
     "ibov": {
       "price": 172457.77,
       "pct": 0.66,
-      "time": "2026-11-14T15:20:43.123Z",
+      "time": "2026-11-14T16:17:26.240Z",
       "history": [
         {
           "d": "2026-10-15",
@@ -145,6 +145,105 @@
   },
   "news": [
     {
+      "title": "State Grid emite R$ 2,5 bi em 'panda bonds' para financiar transmissão de energia no Brasil",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/infraestrutura/2026/11/state-grid-emite-r-25-bi-em-panda-bonds-para-financiar-transmissao-de-energia-no-brasil.shtml",
+      "date": "2026-11-14T16:05:00.000Z",
+      "summary": "A State Grid Brasil emitiu 3 bilhões de yuans (cerca de R$ 2,5 bilhões) em \"panda bonds\" para financiar obras de transmissão de energia em uma linha que liga as regiões Nordeste e Centro-Oeste. A operação consiste na oferta de títulos de dívida por empresas ou",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "China e EUA negociam tarifas antes de cúpula trilateral com Putin",
+      "link": "https://www.poder360.com.br/poder-internacional/china-e-eua-negociam-tarifas-antes-de-cupula-trilateral-com-putin/",
+      "date": "2026-11-14T15:56:46.000Z",
+      "summary": "Países realizaram 1ª reunião do conselho bilateral de comércio antes de cúpula com Trump e Xi Jinping",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Idosos puxam alta do comparecimento no 2º turno e ajudam voto facultativo a atingir maior participação desde 2014",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/11/14/idosos-puxam-alta-do-comparecimento-no-2o-turno-e-ajudam-voto-facultativo-a-atingir-maior-participacao-desde-2014.ghtml",
+      "date": "2026-11-14T15:51:31.000Z",
+      "summary": "Eleitor registra voto no 2º turno das Eleições 2026 em Pernambuco Reprodução/TV Globo O comparecimento às urnas aumentou do primeiro para o segundo turno das eleições de 2026, puxado principalmente pelos eleitores que não são obrigados a votar. Segundo dados d",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Janones chama críticos da esquerda contra o ajuste fiscal de ‘covardes’ e defende ‘Exército do Lula’",
+      "link": "https://www.estadao.com.br/politica/janones-chama-criticos-da-esquerda-contra-o-ajuste-fiscal-de-covardes-e-defende-exercito-do-lula/",
+      "date": "2026-11-14T15:32:42.000Z",
+      "summary": "Com texto principal aprovado no Senado, o ajuste fiscal abre debate entre setores da esquerda e a direção do PT. Veja os argumentos e as reações ao pacote.",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Nunes esbarra em derrota de Flávio e vice-bomba no caminho para 2030 após aposta no bolsonarismo",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/nunes-esbarra-em-derrota-de-flavio-e-vice-bomba-no-caminho-para-2030-apos-aposta-no-bolsonarismo.shtml",
+      "date": "2026-11-14T15:31:00.000Z",
+      "summary": "Era junho de 2024, meses antes da campanha municipal, em um evento para anunciar obras do Metrô na zona sul de São Paulo. Jornalistas se aglomeravam ao redor do governador Tarcísio de Freitas (Republicanos) e do prefeito Ricardo Nunes (MDB), que buscaria a ree",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Quebra-cabeça de Lula 4 na Esplanada envolve R$ 2,6 trilhões, novas pastas e milhares de servidores",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/quebra-cabeca-de-lula-4-na-esplanada-envolve-r-26-trilhoes-novas-pastas-e-milhares-de-servidores.shtml",
+      "date": "2026-11-14T15:30:00.000Z",
+      "summary": "A montagem do ministeriado do quarto mandato do presidente Lula (PT) envolve um orçamento de quase R$ 2,6 trilhões, milhares de servidores e um número de pastas que pode ultrapassar 39 -recorde desde a redemocratização. Leia mais (11/14/2026 - 12h30)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Moretti está certo, Lindbergh está errado",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/celso-rocha-de-barros/2026/11/moretti-esta-certo-lindbergh-esta-errado.shtml",
+      "date": "2026-11-14T15:30:00.000Z",
+      "summary": "Alguns parlamentares de esquerda, como o deputado Lindbergh Farias, reagiram mal ao ajuste proposto pelo ministro do Planejamento, Bruno Moretti. Eles estão errados. Leia mais (11/14/2026 - 12h30)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Plano fiscal precisa ir além e mudar regras do mínimo, da saúde e da educação, dizem economistas",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/plano-fiscal-precisa-ir-alem-e-mudar-regras-do-minimo-da-saude-e-da-educacao-dizem-economistas.shtml",
+      "date": "2026-11-14T15:30:00.000Z",
+      "summary": "Embora parte expressiva dos economistas defenda um ajuste fiscal gradual, o plano anunciado pelo governo na última quarta (11), que prevê medidas para entregar um superávit de 0,5% do PIB (Produto Interno Bruto) em 2027, fica aquém das principais propostas em ",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "AfD lança ex-jogador da Alemanha como candidato à Presidência",
+      "link": "https://www.dw.com/pt-br/afd-lança-ex-jogador-da-alemanha-como-candidato-à-presidência/a-79948969?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-14T15:27:00.000Z",
+      "summary": "Partido de ultradireita apostou em nome \"do centro da sociedade que pode representar todos os alemães\". Cargo provavelmente será ocupado pela primeira vez por uma mulher.",
+      "source": "DW Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Ministro diz que é 'muito provável' que Lula e Trump se encontrem durante G20 nos EUA em dezembro",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/14/ministro-diz-que-e-muito-provavel-que-lula-e-trump-se-encontrem-durante-g20-nos-eua-em-dezembro.ghtml",
+      "date": "2026-11-14T15:24:03.000Z",
+      "summary": "O ministro Márcio Elias Rosa (Desenvolvimento, Indústria e Comércio) concede entrevista a jornalistas em Manila, nas Filipinas Reprodução/TV Globo O ministro do Desenvolvimento, Indústria e Comércio, Márcio Elias Rosa, afirmou neste sábado (14) que considera \"",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Milei recua de medida que congelou contas bancárias e gerou críticas de empresas",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/milei-recua-de-medida-que-congelou-contas-bancarias-e-devastou-empresas.shtml",
+      "date": "2026-11-14T15:19:00.000Z",
+      "summary": "O presidente da Argentina, Javier Milei, gosta de inflamar multidões no país e no exterior com a frase: \"Impostos são roubo, e digo isso como chefe de Estado\". No entanto, as autoridades fiscais do libertário vinham pressionando tantas pequenas empresas a quit",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "Vorcaro lê 'Hamlet' e divide tempo na prisão entre advogados, musculação e jardinagem",
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/vorcaro-le-hamlet-e-divide-tempo-na-prisao-entre-advogados-musculacao-e-jardinagem.shtml",
       "date": "2026-11-14T15:10:00.000Z",
@@ -199,33 +298,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Centro de Liderança Pública premia representantes do Piauí por gestão e combate à seca",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/centro-de-lideranca-publica-premia-representantes-do-piaui-por-gestao-e-combate-a-seca.shtml",
-      "date": "2026-11-14T14:30:00.000Z",
-      "summary": "O Centro de Liderança Pública (CLP) anuncia neste sábado (14) os vencedores de duas categorias do Prêmio Liderança Pública 2026, iniciativa que reconhece profissionais comprometidos com a melhoria da gestão pública brasileira. Leia mais (11/14/2026 - 11h30)",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Jensen Huang, da Nvidia, é convocado por Senado dos EUA",
-      "link": "https://www.poder360.com.br/poder-internacional/jensen-huang-da-nvidia-e-convocado-por-senado-dos-eua/",
-      "date": "2026-11-14T14:24:45.000Z",
-      "summary": "Fundador da fabricante de chips e secretário do Comércio depõem em caso que expõe racha na administração Trump",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Tesla convida clientes para comprar robotáxi para uso pessoal",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/tesla-convida-clientes-para-comprar-robotaxi-para-uso-pessoal.shtml",
-      "date": "2026-11-14T14:19:00.000Z",
-      "summary": "A Tesla informou nessa sexta-feira (13) que estava convidando clientes selecionados a comprar o robotáxi Cybercab para uso pessoal em uma iniciativa para avançar na entrega de veículos totalmente autônomos e projetados para esse fim aos consumidores. Leia mais",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Microsoft alerta sobre tentativas de golpe após falha no Teams e no Outlook",
       "link": "https://g1.globo.com/tecnologia/noticia/2026/11/14/golpe-microsoft-alerta-outlook.ghtml",
       "date": "2026-11-14T13:55:00.000Z",
@@ -241,15 +313,6 @@
       "summary": "O ministro da Agricultura e Pecuária, André de Paula, afirmou neste sábado (14) que está \"otimista\" com as negociações do governo brasileiro com autoridades das Filipinas em relação à importação pelo país asiático da carne suína brasileira. 🔎Nesta semana, o g",
       "source": "g1",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Microsoft diz que serviços foram restabelecidos após pane de mais de 30 horas",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/tec/2026/11/microsoft-diz-que-servicos-foram-reestabelecidos-apos-pane-de-mais-de-30-horas.shtml",
-      "date": "2026-11-14T13:39:00.000Z",
-      "summary": "A Microsoft informou neste sábado (14) que os serviços do Outlook, Teams, Copilot e de seus outros produtos foram totalmente restabelecidos, encerrando uma interrupção global que paralisou as comunicações online de empresas e governos por mais de 30 horas. Lei",
-      "source": "Folha",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -316,66 +379,12 @@
       "type": "imprensa"
     },
     {
-      "title": "'Há total desconexão entre discurso e prática', diz CEO sobre políticas de inclusão nas empresas",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/ha-total-desconexao-entre-discurso-e-pratica-diz-ceo-sobre-politicas-de-inclusao-nas-empresas.shtml",
-      "date": "2026-11-14T10:00:00.000Z",
-      "summary": "Desde a eleição de Donald Trump nos Estados Unidos, o mundo vive um retrocesso em suas políticas de inclusão no meio corporativo, segundo Wellington Vitorino, CEO do Instituto Four, voltado à formação de lideranças. Na sua visão, isso acontece porque muitas em",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Vice de Nunes pediu investigação sobre servidor que usou camisa comunista",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/vice-de-nunes-pediu-investigacao-sobre-servidor-que-usou-camisa-comunista.shtml",
-      "date": "2026-11-14T09:00:00.000Z",
-      "summary": "O vice-prefeito de São Paulo, Ricardo Mello Araújo (PL), formalizou no final de outubro uma denúncia à Controladoria Geral do Município para que investigue a conduta de um servidor que estaria trajando uma camisa com \"símbolos/dizeres de cunho ideológico comun",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Reforma do Judiciário: grupo do STF quer adiar debate para buscar pacto com Executivo e Legislativo",
-      "link": "https://www.estadao.com.br/politica/reforma-do-judiciario-grupo-do-stf-quer-adiar-debate-para-buscar-pacto-com-executivo-e-legislativo/",
-      "date": "2026-11-14T08:30:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "De caixas eletrônicos a prédios de luxo: fim de agências cria negócio para fundos e construtoras",
       "link": "https://www.estadao.com.br/economia/negocios/de-caixas-eletronicos-a-predios-de-luxo-fim-de-agencias-cria-negocio-para-fundos-e-construtoras/",
       "date": "2026-11-14T08:30:00.000Z",
       "summary": "",
       "source": "Estadão",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Raquel Lyra exonera comissionados do PL e se aproxima de aliados de Lula após eleições",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/raquel-lyra-exonera-comissionados-do-pl-e-se-aproxima-de-aliados-de-lula-apos-eleicoes.shtml",
-      "date": "2026-11-14T07:00:00.000Z",
-      "summary": "A governadora reeleita de Pernambuco, Raquel Lyra (PSD), reuniu-se nesta semana com os senadores eleitos Humberto Costa (PT) e Marília Arraes (PDT), da base de Lula (PT), o que tem sido interpretado como um movimento de aproximação com o governo federal. Leia ",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Após eleição de Lula, bancada do agro prioriza acesso ao crédito para produtores",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/14/apos-eleicao-de-lula-bancada-do-agro-prioriza-acesso-ao-credito-para-produtores.ghtml",
-      "date": "2026-11-14T03:00:00.000Z",
-      "summary": "Depois de apoiar Flávio Bolsonaro (PL) na disputa à presidência, a Frente Parlamentar da Agropecuária (FPA) recalcula como irá atuar nos próximos quatro anos sob a presidência de Luiz Inácio Lula da Silva (PT). Um dos principais pontos para recalcular sua posi",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Mercado financeiro prevê juros de dois dígitos até 2030, ao longo dos dois mandatos de Lula",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/14/mercado-financeiro-preve-juros-de-dois-digitos-ate-2030-ao-longo-dos-dois-mandatos-de-lula.ghtml",
-      "date": "2026-11-14T03:00:00.000Z",
-      "summary": "Mercado financeiro prevê juros de dois dígitos até 2030, ao longo dos dois mandatos de Lula Jornal Nacional/ Reprodução No início do terceiro mandato do presidente Luiz Inácio Lula da Silva, em 2023, o mercado financeiro projetava que a taxa básica de juros ca",
-      "source": "g1",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -523,15 +532,6 @@
       "type": "oficial"
     },
     {
-      "title": "O quão próximas são as ligações da AfD com movimentos neonazistas?",
-      "link": "https://www.dw.com/pt-br/o-quão-próximas-são-as-ligações-da-afd-com-movimentos-neonazistas/a-79942648?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-13T18:30:00.000Z",
-      "summary": "Sigla de ultradireita tem crescido nas pesquisas eleitorais, reacendendo o debate sobre o passado de alguns de seus integrantes em organizações neonazistas e movimentos etnonacionalistas.",
-      "source": "DW Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
       "title": "Comissão aprova projeto que proíbe vistoria veicular periódica em razão da idade do veículo",
       "link": "https://www.camara.leg.br/noticias/1319323-comissao-aprova-projeto-que-proibe-vistoria-veicular-periodica-em-razao-da-idade-do-veiculo",
       "date": "2026-11-13T18:08:00.000Z",
@@ -548,15 +548,6 @@
       "source": "ONU News",
       "cat": "internacional",
       "type": "oficial"
-    },
-    {
-      "title": "CEO da Nvidia renuncia após caso com suposta espiã chinesa: quem assumirá o comando da empresa?",
-      "link": "https://www.bbc.com/portuguese/articles/cx1l053gmq5zo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-12T16:40:11.000Z",
-      "summary": "Jensen Huang deixou o cargo nesta quinta-feira (12/11) após vir à tona que ele teria um segundo relacionamento com uma funcionária da empresa. Valor de mercado da companhia despencou desde o início da crise.",
-      "source": "BBC News Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
     },
     {
       "title": "'Há uma guerra entre dois lados no Vaticano em que o abuso sexual se tornou uma arma', diz autor de livro sobre o papa",
@@ -713,6 +704,7 @@
     }
   ],
   "errors": [
+    "IPCA 12m (SGS 13522): HTTP 304",
     "feed CNN Brasil: HTTP 404",
     "feed CNN Brasil: HTTP 404"
   ]
