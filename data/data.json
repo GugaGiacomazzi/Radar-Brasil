@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-14T05:29:31.898Z",
+  "updated": "2026-11-14T06:30:09.943Z",
   "market": {
     "ibov": {
       "price": 172457.77,
       "pct": 0.66,
-      "time": "2026-11-14T05:29:26.574Z",
+      "time": "2026-11-14T06:30:02.307Z",
       "history": [
         {
           "d": "2026-10-15",
@@ -145,6 +145,15 @@
   },
   "news": [
     {
+      "title": "Crise na Nvidia: veja em 8 pontos como traições levaram à renúncia de Jensen Huang",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/14/cronologia-crise-nvidia.ghtml",
+      "date": "2026-11-14T06:00:01.000Z",
+      "summary": "Jensen Huang, CEO da Nvidia, durante evento em Washington Julia Demaree Nikhinson/AP Photo Na última semana, a fabricante americana de chips Nvidia ficou no centro de uma crise que culminou na renúncia de seu fundador e CEO, Jensen Huang, e em um prejuízo de m",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "Ex-manicure começou vendendo caldinhos na rua e hoje fatura R$ 40 mil por mês",
       "link": "https://g1.globo.com/empreendedorismo/pegn/noticia/2026/11/14/ex-manicure-comecou-vendendo-caldinhos-na-rua-e-hoje-fatura-r-40-mil-por-mes.ghtml",
       "date": "2026-11-14T05:00:00.000Z",
@@ -203,15 +212,6 @@
       "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/14/quais-sao-os-proximos-feriados-de-2026.ghtml",
       "date": "2026-11-14T03:00:00.000Z",
       "summary": "Praia da Joatinga ficou cheia neste feriado Francisco Fires/Arquivo pessoal Após o feriado da Proclamação da República, no domingo (15), muitos trabalhadores já estão de olho no próximo período de descanso. O próximo feriado nacional será em 20 de novembro, qu",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Cartão, cheque especial ou empréstimo: qual tem os juros mais altos?",
-      "link": "https://g1.globo.com/g1-explica/noticia/2026/11/14/cartao-cheque-especial-ou-emprestimo-qual-tem-os-juros-mais-altos.ghtml",
-      "date": "2026-11-14T03:00:00.000Z",
-      "summary": "Crédito pessoal, consignado ou imobiliário: qual escolher? Nem todo crédito custa a mesma coisa. As taxas de juros variam de acordo com a modalidade, o perfil do cliente e as garantias oferecidas aos bancos. E escolher a opção errada pode fazer uma dívida cres",
       "source": "g1",
       "cat": "economia",
       "type": "imprensa"
@@ -687,8 +687,6 @@
   ],
   "errors": [
     "feed CNN Brasil: HTTP 404",
-    "feed CNN Brasil: HTTP 404",
-    "feed Planalto (governo): HTTP 429",
-    "feed Gov.br · Economia (governo): fetch failed"
+    "feed CNN Brasil: HTTP 404"
   ]
 }
