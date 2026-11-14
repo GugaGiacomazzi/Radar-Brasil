@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-14T16:17:33.000Z",
+  "updated": "2026-11-14T16:59:36.522Z",
   "market": {
     "ibov": {
       "price": 172457.77,
       "pct": 0.66,
-      "time": "2026-11-14T16:17:26.240Z",
+      "time": "2026-11-14T16:59:30.540Z",
       "history": [
         {
           "d": "2026-10-15",
@@ -145,6 +145,51 @@
   },
   "news": [
     {
+      "title": "Ministro faz defesa do projeto de ajuste fiscal em vídeo divulgado pelo governo",
+      "link": "https://www.estadao.com.br/economia/ministro-faz-defesa-do-projeto-de-ajuste-fiscal-em-video-divulgado-pelo-governo/",
+      "date": "2026-11-14T16:48:01.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Zelenski diz que EUA propuseram à Ucrânia ceder território a Moscou para entrar na Otan",
+      "link": "https://www.dw.com/pt-br/zelenski-diz-que-eua-propuseram-à-ucrânia-ceder-território-a-moscou-para-entrar-na-otan/a-79949054?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-14T16:47:00.000Z",
+      "summary": "Presidente ucraniano afirmou que em Abu Dhabi, americanos levantaram a possibilidade de admitir seu país na aliança militar, caso Kiev se retire de áreas que ainda controla no Donbass.",
+      "source": "DW Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Gilmar Mendes chama de “desfaçatez” fala de Moro sobre triplex",
+      "link": "https://www.poder360.com.br/poder-justica/gilmar-mendes-chama-de-desfacatez-fala-de-moro-sobre-triplex/",
+      "date": "2026-11-14T16:40:56.000Z",
+      "summary": "Decano do STF rebate senador por atribuir a motivos formais e políticos a anulação da condenação de Lula no caso do Guarujá",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Itália multa Meta em US$ 887 milhões por acessar fotos de usuários sem consentimento",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/tec/2026/11/italia-multa-meta-em-us-887-milhoes-por-acessar-fotos-de-usuarios-sem-consentimento.shtml",
+      "date": "2026-11-14T16:36:00.000Z",
+      "summary": "A agência italiana de proteção de dados informou neste sábado (14) que multou a Meta em 805 milhões de euros (US$ 887 milhões ou R$ 5,02 bilhões) após constatar que a empresa acessou fotos e vídeos de usuários do Android sem obter seu consentimento nem informá",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Governo federal vai cancelar financiamentos de prédios de luxo com crédito do Fundo Clima",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/economia-sustentavel/2026/11/governo-federal-vai-cancelar-financiamentos-de-predios-de-luxo-com-credito-do-fundo-clima.shtml",
+      "date": "2026-11-14T16:28:00.000Z",
+      "summary": "O governo federal vai cancelar os repasses públicos feitos por meio do Eco Invest, programa de investimento ligado ao Fundo Clima, usados para bancar a construção de dez prédios de luxo em diversas regiões do país. Leia mais (11/14/2026 - 13h28)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "State Grid emite R$ 2,5 bi em 'panda bonds' para financiar transmissão de energia no Brasil",
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/infraestrutura/2026/11/state-grid-emite-r-25-bi-em-panda-bonds-para-financiar-transmissao-de-energia-no-brasil.shtml",
       "date": "2026-11-14T16:05:00.000Z",
@@ -235,24 +280,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Milei recua de medida que congelou contas bancárias e gerou críticas de empresas",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/milei-recua-de-medida-que-congelou-contas-bancarias-e-devastou-empresas.shtml",
-      "date": "2026-11-14T15:19:00.000Z",
-      "summary": "O presidente da Argentina, Javier Milei, gosta de inflamar multidões no país e no exterior com a frase: \"Impostos são roubo, e digo isso como chefe de Estado\". No entanto, as autoridades fiscais do libertário vinham pressionando tantas pequenas empresas a quit",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Vorcaro lê 'Hamlet' e divide tempo na prisão entre advogados, musculação e jardinagem",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/vorcaro-le-hamlet-e-divide-tempo-na-prisao-entre-advogados-musculacao-e-jardinagem.shtml",
-      "date": "2026-11-14T15:10:00.000Z",
-      "summary": "Um ano depois da operação em que foi preso pela primeira vez e viu seu banco ser liquidado, Daniel Vorcaro, do Master, divide o dia entre reuniões com advogados, cuidados com a horta da unidade onde está detido e uma rotina de musculação. Vorcaro está preso no",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Saiba quais projetos o Congresso deve votar até dezembro de 2026",
       "link": "https://www.poder360.com.br/poder-congresso/saiba-quais-projetos-o-congresso-deve-votar-ate-dezembro-de-2026/",
       "date": "2026-11-14T15:00:46.000Z",
@@ -284,15 +311,6 @@
       "link": "https://www.poder360.com.br/poder-sustentavel/el-nino-pode-causar-perdas-de-us-11-trilhoes-em-5-anos/",
       "date": "2026-11-14T14:45:19.000Z",
       "summary": "Estudo divulgado na COP31 mostra que conflitos geopolíticos e variações nos preços de energia ampliam os efeitos climáticos",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "MP do Paraguai acusa Santiago Peña de associação criminosa",
-      "link": "https://www.poder360.com.br/poder-justica/mp-do-paraguai-acusa-santiago-pena-de-associacao-criminosa/",
-      "date": "2026-11-14T14:35:32.000Z",
-      "summary": "Ex-presidente é indicado como possível líder de organização investigada por colapso do Ueno Bank",
       "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
@@ -397,15 +415,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Desancoragem e risco de reinflação",
-      "link": "https://www.estadao.com.br/economia/fernando-dantas/desancoragem-e-risco-de-reinflacao/",
-      "date": "2026-11-14T00:02:11.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Paraguai: ex-presidente é acusado de associação criminosa",
       "link": "https://www.dw.com/pt-br/paraguai-ex-presidente-é-acusado-de-associação-criminosa/a-79945572?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-13T23:18:00.000Z",
@@ -485,15 +494,6 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "O que está por trás na alta dos registros de violência nas escolas brasileiras?",
-      "link": "https://www.dw.com/pt-br/o-que-está-por-trás-na-alta-dos-registros-de-violência-nas-escolas-brasileiras/a-79942057?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-13T19:23:00.000Z",
-      "summary": "Número de registros de violência, conflitos e outras ocorrências nas escolas estaduais de São Paulo aumentou 73,83% em 2025. Indicadores nacionais mostram que problema também está presente em diferentes regiões do país.",
-      "source": "DW Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
     },
     {
       "title": "CAE: ministro da Fazenda debate alíquota da CBS na terça-feira",
@@ -631,7 +631,7 @@
       "type": "oficial"
     },
     {
-      "title": "Quem vai cuidar dos idosos do Brasil? Por que o envelhecimento acelerado é o 'desafio do século'",
+      "title": "Quem vai cuidar dos idosos do Brasil? Por que envelhecimento acelerado é 'desafio do século'",
       "link": "https://www.bbc.com/portuguese/articles/c60qkxv44pq8o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-11T08:31:43.000Z",
       "summary": "Com menos nascimentos e uma população cada vez mais velha, o país terá de adaptar Previdência, saúde e mercado de trabalho a uma transformação demográfica sem precedentes.",
@@ -704,7 +704,6 @@
     }
   ],
   "errors": [
-    "IPCA 12m (SGS 13522): HTTP 304",
     "feed CNN Brasil: HTTP 404",
     "feed CNN Brasil: HTTP 404"
   ]
