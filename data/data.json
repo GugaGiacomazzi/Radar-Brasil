@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-14T19:57:45.496Z",
+  "updated": "2026-11-14T20:37:59.345Z",
   "market": {
     "ibov": {
       "price": 172457.77,
       "pct": 0.66,
-      "time": "2026-11-14T19:57:38.872Z",
+      "time": "2026-11-14T20:37:54.115Z",
       "history": [
         {
           "d": "2026-10-15",
@@ -145,6 +145,60 @@
   },
   "news": [
     {
+      "title": "Vitória no Brasil serve de lição contra “extrema direita”, diz Lula",
+      "link": "https://www.poder360.com.br/poder-governo/vitoria-no-brasil-serve-de-licao-contra-extrema-direita-diz-lula/",
+      "date": "2026-11-14T20:34:07.000Z",
+      "summary": "Presidente está nas Filipinas para participar da cúpula da Asean como convidado; a um jornal do país, disse que outras nações podem aprender com a mobilização da esquerda brasileira nas eleições",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Cosan troca Marcelo Martins por Guilherme Penin no comando do grupo",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/cosan-troca-marcelo-martins-por-guilherme-penin-no-comando-do-grupo.shtml",
+      "date": "2026-11-14T20:20:00.000Z",
+      "summary": "A Cosan comunicou a saída do CEO Marcelo Martins, executivo há 20 anos no grupo. A partir de janeiro, ele será substituído por Guilherme Penin, hoje vice-presidente, segundo fato relevante publicado na sexta (13). Leia mais (11/14/2026 - 17h20)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Fux interrompe julgamento virtual da escala 6x1 e manda caso para plenário do STF",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/fux-interrompe-julgamento-virtual-da-escala-6x1-e-manda-caso-para-plenario-do-stf.shtml",
+      "date": "2026-11-14T20:06:00.000Z",
+      "summary": "O ministro do STF (Supremo Tribunal Federal) Luiz Fux interrompeu o julgamento do plenário virtual sobre o fim da escala 6x1 e pediu que o caso seja julgado no plenário físico. A ação já contava com quatro votos -do relator Flávio Dino, que foi seguido por Ale",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Um presidente fora da curva",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/dora-kramer/2026/11/um-presidente-fora-da-curva.shtml",
+      "date": "2026-11-14T20:00:00.000Z",
+      "summary": "A presidência de Fernando Henrique Cardoso foi um período excepcional da nossa história -tão notável quanto raro. Assim precisa ser ensinado às novas gerações e merece ser celebrado por quem estava vivo e ativo naqueles oito anos. Leia mais (11/14/2026 - 17h00",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "O futuro em 2 meses: para vencer o ceticismo na economia, o governo dependerá de 3 ações simultâneas",
+      "link": "https://www.estadao.com.br/economia/jose-roberto-mendonca-de-barros/o-futuro-em-2-meses-para-vencer-o-ceticismo-na-economia-o-governo-dependera-de-3-acoes-simultaneas/",
+      "date": "2026-11-14T20:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Terras raras e a tentação da bala de prata",
+      "link": "https://www.estadao.com.br/economia/marcos-jank/terras-raras-e-a-tentacao-da-bala-de-prata/",
+      "date": "2026-11-14T20:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "Fux suspende julgamento sobre escala 5x2 e leva caso para plenário físico do STF",
       "link": "https://g1.globo.com/politica/politico/noticia/2026/11/14/fux-suspende-julgamento-sobre-escala-5x2-e-leva-caso-para-plenario-fisico-do-stf.ghtml",
       "date": "2026-11-14T19:55:35.000Z",
@@ -226,15 +280,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Banco Central aprova compra do Banco Porto Real pelo Nubank",
-      "link": "https://www.poder360.com.br/poder-economia/banco-central-aprova-compra-do-banco-porto-real-pelo-nubank/",
-      "date": "2026-11-14T18:19:47.000Z",
-      "summary": "Aquisição permitirá ao grupo incorporar licença bancária no Brasil e atender às regras para manter “bank” no nome",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Jensen Huang perdeu o cargo na Nvidia e US$ 10 bilhões; um divórcio pode custar muito mais",
       "link": "https://www.estadao.com.br/economia/negocios/jensen-huang-perdeu-o-cargo-na-nvidia-e-us-10-bilhoes-um-divorcio-pode-custar-muito-mais/",
       "date": "2026-11-14T18:07:09.000Z",
@@ -307,48 +352,12 @@
       "type": "imprensa"
     },
     {
-      "title": "The Economist: A Europa tem vivido acima das suas possibilidades; agora, as contas chegaram",
-      "link": "https://www.estadao.com.br/economia/the-economist-a-europa-tem-vivido-acima-das-suas-possibilidades-agora-as-contas-chegaram/",
-      "date": "2026-11-14T17:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Ministro faz defesa do projeto de ajuste fiscal em vídeo divulgado pelo governo",
-      "link": "https://www.estadao.com.br/economia/ministro-faz-defesa-do-projeto-de-ajuste-fiscal-em-video-divulgado-pelo-governo/",
-      "date": "2026-11-14T16:48:01.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Zelenski diz que EUA propuseram à Ucrânia ceder território a Moscou para entrar na Otan",
       "link": "https://www.dw.com/pt-br/zelenski-diz-que-eua-propuseram-à-ucrânia-ceder-território-a-moscou-para-entrar-na-otan/a-79949054?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-14T16:47:00.000Z",
       "summary": "O presidente ucraniano afirmou que, em Abu Dhabi, americanos levantaram a possibilidade de admitir seu país na aliança militar caso Kiev se retirasse de áreas que ainda controla no Donbass.",
       "source": "DW Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Itália multa Meta em US$ 887 milhões por acessar fotos de usuários sem consentimento",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/tec/2026/11/italia-multa-meta-em-us-887-milhoes-por-acessar-fotos-de-usuarios-sem-consentimento.shtml",
-      "date": "2026-11-14T16:36:00.000Z",
-      "summary": "A agência italiana de proteção de dados informou neste sábado (14) que multou a Meta em 805 milhões de euros (US$ 887 milhões ou R$ 5,02 bilhões) após constatar que a empresa acessou fotos e vídeos de usuários do Android sem obter seu consentimento nem informá",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Governo federal vai cancelar financiamentos de prédios de luxo com crédito do Fundo Clima",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/economia-sustentavel/2026/11/governo-federal-vai-cancelar-financiamentos-de-predios-de-luxo-com-credito-do-fundo-clima.shtml",
-      "date": "2026-11-14T16:28:00.000Z",
-      "summary": "O governo federal vai cancelar os repasses públicos feitos por meio do Eco Invest, programa de investimento ligado ao Fundo Clima, usados para bancar a construção de dez prédios de luxo em diversas regiões do país. Leia mais (11/14/2026 - 13h28)",
-      "source": "Folha",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -374,15 +383,6 @@
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/nunes-esbarra-em-derrota-de-flavio-e-vice-bomba-no-caminho-para-2030-apos-aposta-no-bolsonarismo.shtml",
       "date": "2026-11-14T15:31:00.000Z",
       "summary": "Era junho de 2024, meses antes da campanha municipal, em um evento para anunciar obras do Metrô na zona sul de São Paulo. Jornalistas se aglomeravam ao redor do governador Tarcísio de Freitas (Republicanos) e do prefeito Ricardo Nunes (MDB), que buscaria a ree",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Quebra-cabeça de Lula 4 na Esplanada envolve R$ 2,6 trilhões, novas pastas e milhares de servidores",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/quebra-cabeca-de-lula-4-na-esplanada-envolve-r-26-trilhoes-novas-pastas-e-milhares-de-servidores.shtml",
-      "date": "2026-11-14T15:30:00.000Z",
-      "summary": "A montagem do ministeriado do quarto mandato do presidente Lula (PT) envolve um orçamento de quase R$ 2,6 trilhões, milhares de servidores e um número de pastas que pode ultrapassar 39 -recorde desde a redemocratização. Leia mais (11/14/2026 - 12h30)",
       "source": "Folha",
       "cat": "politica",
       "type": "imprensa"
@@ -722,7 +722,6 @@
     }
   ],
   "errors": [
-    "IPCA 12m (SGS 13522): HTTP 304",
     "feed CNN Brasil: HTTP 404",
     "feed CNN Brasil: HTTP 404"
   ]
