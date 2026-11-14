@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-14T10:37:50.636Z",
+  "updated": "2026-11-14T11:17:27.197Z",
   "market": {
     "ibov": {
       "price": 172457.77,
       "pct": 0.66,
-      "time": "2026-11-14T10:37:44.047Z",
+      "time": "2026-11-14T11:17:20.725Z",
       "history": [
         {
           "d": "2026-10-15",
@@ -167,24 +167,6 @@
       "link": "https://www.poder360.com.br/poder-videos/pacote-fiscal-nova-esplanada-e-cop31-por-que-isso-importa/",
       "date": "2026-11-14T09:00:52.000Z",
       "summary": "Podcast do Poder360 analisa os temas políticos da semana que se encerra e traz o que haverá de mais importante na semana que começa",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Painel mostra os distritos informais de 239 deputados eleitos",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/painel-mostra-os-distritos-informais-de-239-deputados-eleitos/",
-      "date": "2026-11-14T09:00:48.000Z",
-      "summary": "Congressistas, que representam 47% da Câmara, tiveram ao menos metade dos apoios em blocos de até 10 cidades vizinhas; dado mostra construção de bases geograficamente delimitadas",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Veja como foi a votação dos 513 deputados por cidade em 2026",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/veja-como-foi-a-votacao-dos-513-deputados-por-cidade-em-2026/",
-      "date": "2026-11-14T09:00:34.000Z",
-      "summary": "Mapas destacam os distritos informais dos congressistas eleitos e trazem listas de apoios dentro da unidade da Federação na qual foram eleitos",
       "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
