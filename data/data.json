@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-14T04:31:56.408Z",
+  "updated": "2026-11-14T05:29:31.898Z",
   "market": {
     "ibov": {
       "price": 172457.77,
       "pct": 0.66,
-      "time": "2026-11-14T04:31:49.168Z",
+      "time": "2026-11-14T05:29:26.574Z",
       "history": [
         {
           "d": "2026-10-15",
@@ -144,6 +144,15 @@
     ]
   },
   "news": [
+    {
+      "title": "Ex-manicure começou vendendo caldinhos na rua e hoje fatura R$ 40 mil por mês",
+      "link": "https://g1.globo.com/empreendedorismo/pegn/noticia/2026/11/14/ex-manicure-comecou-vendendo-caldinhos-na-rua-e-hoje-fatura-r-40-mil-por-mes.ghtml",
+      "date": "2026-11-14T05:00:00.000Z",
+      "summary": "Do caldinho na calçada ao buffet dos grandes eventos do samba O que começou como uma tentativa de aumentar a renda para sustentar duas filhas virou um negócio consolidado no setor de alimentação. No Rio de Janeiro, Bárbara dos Santos, conhecida como \"Nega\", tr",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
     {
       "title": "Ministério dos Direitos Humanos contabiliza 831 denúncias de assédio eleitoral e violência política",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/ministerio-dos-direitos-humanos-contabiliza-831-denuncias-de-assedio-eleitoral-e-violencia-politica.shtml",
@@ -330,15 +339,6 @@
       "date": "2026-11-14T00:01:00.000Z",
       "summary": "À frente das negociações, Bruno Moretti, ministro do Planejamento e Orçamento, está em campo para gerenciar as expectativas em torno do plano de novas medidas fiscais, apelidado com o seu nome e que já passou por uma primeira votação no Senado. Leia mais (11/1",
       "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Paralisação de voos nos EUA: Anac diz monitorar situação e recomenda que passageiros procurem companhias aéreas",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/13/paralisacao-de-voos-nos-eua-anac-diz-monitorar-situacao-e-recomenda-que-passageiros-procurem-companhias-aereas.ghtml",
-      "date": "2026-11-13T23:21:18.000Z",
-      "summary": "Falha na comunicação causa suspensão de decolagens em todos os aeroportos dos EUA A Agência Nacional de Aviação Civil (Anac) informou que está monitorando a situação dos voos paralisados nos EUA e recomenda aos passageiros que busquem as companhias aéreas para",
-      "source": "g1",
       "cat": "economia",
       "type": "imprensa"
     },
@@ -687,6 +687,8 @@
   ],
   "errors": [
     "feed CNN Brasil: HTTP 404",
-    "feed CNN Brasil: HTTP 404"
+    "feed CNN Brasil: HTTP 404",
+    "feed Planalto (governo): HTTP 429",
+    "feed Gov.br · Economia (governo): fetch failed"
   ]
 }
