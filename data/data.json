@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-14T21:57:16.200Z",
+  "updated": "2026-11-14T22:37:16.185Z",
   "market": {
     "ibov": {
       "price": 172457.77,
       "pct": 0.66,
-      "time": "2026-11-14T21:57:10.053Z",
+      "time": "2026-11-14T22:37:09.499Z",
       "history": [
         {
           "d": "2026-10-15",
@@ -145,6 +145,33 @@
   },
   "news": [
     {
+      "title": "Comissão do Senado aprova proibição de obsolescência programada",
+      "link": "https://www.poder360.com.br/poder-congresso/comissao-do-senado-aprova-proibicao-de-obsolescencia-programada/",
+      "date": "2026-11-14T22:15:15.000Z",
+      "summary": "Projeto veta a redução intencional da vida útil de produtos e regulamenta o direito ao reparo; texto vai à Câmara",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Dino defende negociação coletiva na transição para jornada de 5 dias",
+      "link": "https://www.poder360.com.br/poder-justica/dino-defende-negociacao-coletiva-na-transicao-para-jornada-de-5-dias/",
+      "date": "2026-11-14T22:14:03.000Z",
+      "summary": "Relator das ações contra o fim da 6 X 1 cita hospitais e aviação e exige a presença de sindicatos em acordos; julgamento no STF será reiniciado em plenário físico após destaque de Fux",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "COP31 ruma a semana decisiva sob pressão por maior ambição climática",
+      "link": "https://www.dw.com/pt-br/cop31-ruma-a-semana-decisiva-sob-pressão-por-maior-ambição-climática/a-79950292?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-14T22:03:00.000Z",
+      "summary": "Milhares protestaram em Antália, enquanto chefe da ONU para a agenda pediu que países evitem \"atrasos táticos\". Produtores de petróleo estariam bloqueando avanços.",
+      "source": "DW Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
       "title": "Democratas voltam ao poder no Alasca depois de 28 anos",
       "link": "https://www.poder360.com.br/poder-internacional/democratas-voltam-ao-poder-no-alasca-depois-de-28-anos/",
       "date": "2026-11-14T21:22:14.000Z",
@@ -194,15 +221,6 @@
       "link": "https://www.poder360.com.br/poder-justica/fux-pede-destaque-para-julgamento-de-transicao-da-6-x-1/",
       "date": "2026-11-14T20:38:30.000Z",
       "summary": "Três ministros já haviam acompanhado o voto do relator, Flávio Dino, no plenário virtual da Corte; julgamento será reiniciado após medida de Fux",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Vitória no Brasil serve de lição contra “extrema direita”, diz Lula",
-      "link": "https://www.poder360.com.br/poder-governo/vitoria-no-brasil-serve-de-licao-contra-extrema-direita-diz-lula/",
-      "date": "2026-11-14T20:34:07.000Z",
-      "summary": "Presidente está nas Filipinas para participar da cúpula da Asean como convidado; a um jornal do país, disse que outras nações podem aprender com a mobilização da esquerda brasileira nas eleições",
       "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
@@ -258,15 +276,6 @@
       "date": "2026-11-14T19:55:35.000Z",
       "summary": "Ministro Luiz Fux durante julgamento no Supremo Luiz Silveira/STF O ministro Luiz Fux fez um destaque no julgamento sobre a transição da escala 6x1 para a 5x2 e levou o processo para o plenário físico do Supremo Tribunal Federal (STF). Ainda não há data para a",
       "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Corinthians busca acordo com o MP para evitar intervenção judicial",
-      "link": "https://www.poder360.com.br/poder-sportsmkt/corinthians-busca-acordo-com-o-mp-para-evitar-intervencao-judicial/",
-      "date": "2026-11-14T19:54:09.000Z",
-      "summary": "Advogado do clube se reúne com promotores em São Paulo; proposta de acordo ainda não foi formalizada",
-      "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -451,15 +460,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Após horas de blecaute global, Microsoft diz que serviços foram totalmente normalizados",
-      "link": "https://www.dw.com/pt-br/após-horas-de-blecaute-global-microsoft-diz-que-serviços-foram-totalmente-normalizados/a-79947818?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-14T11:23:00.000Z",
-      "summary": "Falha afetou governos e empresas em mais de 70 países, atingindo programa de e-mail Outlook e aplicativo de mensagens Teams. Especialistas alertam para dependência excessiva de tecnologia de uma única empresa.",
-      "source": "DW Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
       "title": "Toffoli vota pela preservação definitiva de mensagens sobre a Lava Jato obtidas por hackers",
       "link": "https://www.estadao.com.br/politica/toffoli-vota-pela-preservacao-definitiva-de-mensagens-sobre-a-lava-jato-obtidas-por-hackers-nprp/",
       "date": "2026-11-14T02:27:09.000Z",
@@ -586,15 +586,6 @@
       "type": "oficial"
     },
     {
-      "title": "'Há uma guerra entre dois lados no Vaticano em que o abuso sexual se tornou uma arma', diz autor de livro sobre o papa",
-      "link": "https://www.bbc.com/portuguese/articles/cvkg5jklzxr5o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-12T12:21:33.000Z",
-      "summary": "O jornalista Santiago Roncagliolo descreve o papa Leão 14 como um religioso preocupado com seus fiéis, mas também como um investigador perspicaz e implacável de abusos.",
-      "source": "BBC News Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
       "title": "Tribunal do Direito do Mar examina controvérsia entre Argentina e Reino Unido",
       "link": "https://news.un.org/feed/view/pt/story/2026/11/1854902",
       "date": "2026-11-12T12:00:00.000Z",
@@ -719,6 +710,15 @@
       "source": "Banco Central",
       "cat": "economia",
       "type": "oficial"
+    },
+    {
+      "title": "'Não falei com Lula. Isso foi plantado para queimar alguém que defendeu a proposta', diz André Lara Resende",
+      "link": "https://www.bbc.com/portuguese/articles/cmly0jeq2q9no?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-05T23:19:37.000Z",
+      "summary": "Economista que presidiu o BNDES e fez parte da diretoria do Banco Central propôs criação de conselho que reduziria taxa Selic a longo prazo; proposta mobilizou mercado financeiro e discussão em Brasília.",
+      "source": "BBC News Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
     }
   ],
   "errors": [
