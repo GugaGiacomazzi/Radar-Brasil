@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-14T00:17:04.029Z",
+  "updated": "2026-11-14T01:29:02.186Z",
   "market": {
     "ibov": {
       "price": 172457.77,
       "pct": 0.66,
-      "time": "2026-11-14T00:16:57.058Z",
+      "time": "2026-11-14T01:28:55.516Z",
       "history": [
         {
           "d": "2026-10-15",
@@ -145,6 +145,60 @@
   },
   "news": [
     {
+      "title": "Governo encerra subsídio de R$ 1,40 ao diesel importado",
+      "link": "https://www.poder360.com.br/poder-economia/governo-encerra-subsidio-de-r-140-ao-diesel-importado/",
+      "date": "2026-11-14T01:22:49.000Z",
+      "summary": "Benefício tinha validade de 30 dias e não foi renovado; subvenção de R$ 2,12 por litro ao diesel rodoviário continua em vigor",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Cármen Lúcia conclui que Jair Bolsonaro feriu liberdade de imprensa ao bloquear jornalistas no X",
+      "link": "https://www.estadao.com.br/politica/carmen-lucia-conclui-que-bolsonaro-feriu-a-liberdade-de-imprensa-ao-bloquear-jornalistas-no-x-nprp/",
+      "date": "2026-11-14T01:02:30.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Justiça condena União a investir R$ 597 milhões em Canudos como reparação por massacre",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/justica-condena-uniao-a-investir-r-597-milhoes-em-canudos-como-reparacao-por-massacre.shtml",
+      "date": "2026-11-14T01:00:00.000Z",
+      "summary": "A Justiça Federal condenou a União a investir R$ 597 milhões em projetos de reparação histórica e desenvolvimento social em Canudos, no sertão da Bahia, pelo massacre promovido pelo Exército durante a guerra de 1896 e 1897, que deixou milhares de mortos. Leia ",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Subsídios criam o modelo Robin Hood às avessas e deixam País com sobra de energia e risco de apagão",
+      "link": "https://www.estadao.com.br/economia/adriano-pires/subsidios-criam-o-modelo-robin-hood-as-avessas-e-deixam-pais-com-sobra-de-energia-e-risco-de-apagao/",
+      "date": "2026-11-14T01:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "‘China verde’: A experiência chinesa mostra que transição energética também é estratégia industrial",
+      "link": "https://www.estadao.com.br/economia/fabio-gallo/china-verde-a-experiencia-chinesa-mostra-que-transicao-energetica-tambem-e-estrategia-industrial/",
+      "date": "2026-11-14T01:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "PT protocola projetos para taxar lucros e dividendos com alíquota de 15% e tributar LCI e LCA",
+      "link": "https://www.estadao.com.br/economia/pt-protocola-projetos-para-taxar-lucros-e-dividendos-com-aliquota-de-15-e-tributar-lci-e-lca/",
+      "date": "2026-11-14T00:59:04.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "Desancoragem e risco de reinflação",
       "link": "https://www.estadao.com.br/economia/fernando-dantas/desancoragem-e-risco-de-reinflacao/",
       "date": "2026-11-14T00:02:11.000Z",
@@ -262,38 +316,11 @@
       "type": "imprensa"
     },
     {
-      "title": "Nubank recebe aval do BC para comprar Banco Porto Real e, assim, obter licença bancária no Brasil",
-      "link": "https://www.estadao.com.br/economia/negocios/nubank-recebe-aval-do-bc-para-comprar-banco-porto-real-e-assim-obter-licenca-bancaria-no-brasil/",
-      "date": "2026-11-13T23:06:26.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Como Trump fracassou na tentativa de conter a China e restaurar a hegemonia americana",
-      "link": "https://www.estadao.com.br/economia/celso-ming/como-trump-fracassou-na-tentativa-de-conter-a-china-e-restaurar-a-hegemonia-americana/",
-      "date": "2026-11-13T23:03:45.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Governo Lula retira subvenção extra de R$ 1,40 por litro de diesel importado",
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/governo-lula-retira-subvencao-extra-de-r-140-por-litro-de-diesel-importado.shtml",
       "date": "2026-11-13T22:55:00.000Z",
       "summary": "O governo de Luiz Inácio Lula da Silva (PT) decidiu retirar a subvenção extra de R$ 1,40 por litro de diesel importado. O benefício tinha validade por 30 dias desde 13 de outubro, e o Ministério da Fazenda informou nesta sexta-feira (13) que ele não será renov",
       "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Fazenda deixa vencer subvenção extra de R$ 1,40 ao diesel, mas cita possibilidade de reavaliação",
-      "link": "https://www.estadao.com.br/economia/fazenda-deixa-vencer-subvencao-extra-de-r-140-ao-diesel-mas-cita-possibilidade-de-reavaliacao/",
-      "date": "2026-11-13T22:40:19.000Z",
-      "summary": "",
-      "source": "Estadão",
       "cat": "economia",
       "type": "imprensa"
     },
@@ -319,7 +346,7 @@
       "title": "EUA suspendem todas as decolagens de aeroportos do país",
       "link": "https://www.dw.com/pt-br/eua-suspendem-todas-as-decolagens-de-aeroportos-do-país/a-79945256?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-13T21:39:00.000Z",
-      "summary": "Administração Federal de Aviação dos EUA determinou a suspensão de decolagens em todos os aeroportos do país e que aviões que partiriam devem permanecer no solo. Mais de 11 mil voos foram atrasados ou cancelados.",
+      "summary": "Administração Federal de Aviação dos Estados Unidos determinou a suspensão de decolagens em todos os aeroportos do país, afetando mais de 13 mil voos. Esta foi somente a segunda paralisação desde o 11 de setembro.",
       "source": "DW Brasil",
       "cat": "internacional",
       "type": "imprensa"
@@ -442,15 +469,6 @@
       "type": "imprensa"
     },
     {
-      "title": "AGU do governo Lula se posiciona contra liminar por segundo turno no RJ",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/agu-do-governo-lula-se-posiciona-contra-liminar-por-segundo-turno-no-rj.shtml",
-      "date": "2026-11-13T19:23:00.000Z",
-      "summary": "A AGU (Advocacia-Geral da União) concordou nesta sexta-feira (13) com a decisão do ministro Cristiano Zanin, do STF (Supremo Tribunal Federal), de negar a liminar solicitada pelo PSD para garantir a realização de um segundo turno na eleição pelo Governo do Rio",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "CAE: ministro da Fazenda debate alíquota da CBS na terça-feira",
       "link": "https://www12.senado.leg.br/noticias/materias/2026/11/13/cae-ministro-da-fazenda-debate-aliquota-da-cbs-na-terca-feira",
       "date": "2026-11-13T19:02:25.000Z",
@@ -538,15 +556,6 @@
       "summary": "Nova maioria democrata no Congresso pode abrir caminho a processos de destituição contra membros do governo Trump e até contra o próprio presidente.",
       "source": "DW Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Kassab diz que decisão de Zanin que negou liminar por 2º turno no Rio foi correta e aguarda mérito",
-      "link": "https://www.estadao.com.br/politica/kassab-diz-que-decisao-de-zanin-que-negou-liminar-por-2-turno-no-rio-foi-correta-e-aguarda-merito/",
-      "date": "2026-11-13T13:29:36.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
