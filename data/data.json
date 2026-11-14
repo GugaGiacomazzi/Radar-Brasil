@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-14T19:09:34.676Z",
+  "updated": "2026-11-14T19:57:45.496Z",
   "market": {
     "ibov": {
       "price": 172457.77,
       "pct": 0.66,
-      "time": "2026-11-14T19:09:30.650Z",
+      "time": "2026-11-14T19:57:38.872Z",
       "history": [
         {
           "d": "2026-10-15",
@@ -145,6 +145,42 @@
   },
   "news": [
     {
+      "title": "Fux suspende julgamento sobre escala 5x2 e leva caso para plenário físico do STF",
+      "link": "https://g1.globo.com/politica/politico/noticia/2026/11/14/fux-suspende-julgamento-sobre-escala-5x2-e-leva-caso-para-plenario-fisico-do-stf.ghtml",
+      "date": "2026-11-14T19:55:35.000Z",
+      "summary": "Ministro Luiz Fux durante julgamento no Supremo Luiz Silveira/STF O ministro Luiz Fux fez um destaque no julgamento sobre a transição da escala 6x1 para a 5x2 e levou o processo para o plenário físico do Supremo Tribunal Federal (STF). Ainda não há data para a",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Corinthians busca acordo com o MP para evitar intervenção judicial",
+      "link": "https://www.poder360.com.br/poder-sportsmkt/corinthians-busca-acordo-com-o-mp-para-evitar-intervencao-judicial/",
+      "date": "2026-11-14T19:54:09.000Z",
+      "summary": "Advogado do clube se reúne com promotores em São Paulo; proposta de acordo ainda não foi formalizada",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Protestos tomam conta de Portugal contra crise habitacional",
+      "link": "https://www.dw.com/pt-br/protestos-tomam-conta-de-portugal-contra-crise-habitacional/a-79949804?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-14T19:46:00.000Z",
+      "summary": "Dezenas de milhares saíram às ruas em mais de 30 cidades. País teve maior aumento da relação entre preços dos imóveis e renda média de toda a UE na última década.",
+      "source": "DW Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Por que o México arrecada tão poucos impostos (e como financia seus crescentes benefícios sociais)",
+      "link": "https://www.bbc.com/portuguese/articles/cmn8077z3xl6o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-14T19:06:17.000Z",
+      "summary": "O México é um dos países que menos arrecadam impostos na América Latina, mas os gastos públicos impulsionam seu consumo interno e são fundamentais no combate à pobreza. Como o governo do país pode solucionar as \"anomalias fiscais\" mexicanas?",
+      "source": "BBC News Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
       "title": "O Brasil não conhece o Brasil e quer fazer plano de desenvolvimento econômico",
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2026/11/o-brasil-nao-conhece-o-brasil-e-quer-fazer-plano-de-desenvolvimento-economico.shtml",
       "date": "2026-11-14T19:05:00.000Z",
@@ -214,15 +250,6 @@
       "summary": "O governo dos Estados Unidos não acredita que a interrupção tenha sido resultado de um ataque cibernético, embora as investigações ainda estejam em andamento.",
       "source": "BBC News Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Só 3 dos 10 ministros do STF têm contas ativas nas redes sociais",
-      "link": "https://www.poder360.com.br/poder-justica/3-dos-10-ministros-do-stf-tem-contas-ativas-nas-redes-sociais/",
-      "date": "2026-11-14T18:00:59.000Z",
-      "summary": "Alexandre de Moraes desativou seu perfil no X em fevereiro de 2025; Gilmar e Dino fizeram postagens recentes sobre as eleições",
-      "source": "Poder360",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -402,7 +429,7 @@
       "date": "2026-11-14T13:53:13.000Z",
       "summary": "O ministro da Agricultura e Pecuária, André de Paula, afirmou neste sábado (14) que está \"otimista\" com as negociações do governo brasileiro com autoridades das Filipinas em relação à importação pelo país asiático da carne suína brasileira. 🔎Nesta semana, o g",
       "source": "g1",
-      "cat": "politica",
+      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -439,15 +466,6 @@
       "summary": "",
       "source": "Estadão",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Paraguai: ex-presidente é acusado de associação criminosa",
-      "link": "https://www.dw.com/pt-br/paraguai-ex-presidente-é-acusado-de-associação-criminosa/a-79945572?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-13T23:18:00.000Z",
-      "summary": "Ministério Público também acusa Santiago Peña de apropriação indébita e administração em benefício próprio, além de lavagem de dinheiro, em investigação sobre a intervenção no escândalo do Ueno Bank.",
-      "source": "DW Brasil",
-      "cat": "internacional",
       "type": "imprensa"
     },
     {
@@ -701,18 +719,10 @@
       "source": "Banco Central",
       "cat": "economia",
       "type": "oficial"
-    },
-    {
-      "title": "'Não falei com Lula. Isso foi plantado para queimar alguém que defendeu a proposta', diz André Lara Resende",
-      "link": "https://www.bbc.com/portuguese/articles/cmly0jeq2q9no?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-05T23:19:37.000Z",
-      "summary": "Economista que presidiu o BNDES e fez parte da diretoria do Banco Central propôs criação de conselho que reduziria taxa Selic a longo prazo; proposta mobilizou mercado financeiro e discussão em Brasília.",
-      "source": "BBC News Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
     }
   ],
   "errors": [
+    "IPCA 12m (SGS 13522): HTTP 304",
     "feed CNN Brasil: HTTP 404",
     "feed CNN Brasil: HTTP 404"
   ]
