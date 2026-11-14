@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-14T07:42:51.497Z",
+  "updated": "2026-11-14T08:45:58.499Z",
   "market": {
     "ibov": {
       "price": 172457.77,
       "pct": 0.66,
-      "time": "2026-11-14T07:42:45.773Z",
+      "time": "2026-11-14T08:45:35.177Z",
       "history": [
         {
           "d": "2026-10-15",
@@ -145,6 +145,33 @@
   },
   "news": [
     {
+      "title": "Reforma do Judiciário: grupo do STF quer adiar debate para buscar pacto com Executivo e Legislativo",
+      "link": "https://www.estadao.com.br/politica/reforma-do-judiciario-grupo-do-stf-quer-adiar-debate-para-buscar-pacto-com-executivo-e-legislativo/",
+      "date": "2026-11-14T08:30:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Ex-Centrão e próximo de Alcolumbre, senador do PL é escalado para virar votos para Rogério Marinho",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/ex-centrao-e-proximo-de-alcolumbre-senador-do-pl-e-escalado-para-virar-votos-para-rogerio-marinho/",
+      "date": "2026-11-14T08:30:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Pecuária de elite: como uma vaca pode valer R$ 54 milhões e render fortunas com genética e clonagem",
+      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/14/pecuaria-de-elite-como-uma-vaca-pode-render-fortunas-com-genetica-e-clonagem.ghtml",
+      "date": "2026-11-14T08:00:00.000Z",
+      "summary": "Vaca mais cara do mundo é brasileira: entenda por que ela atingiu a marca de R$ 54 milhões \"Por que as pessoas desejam ter uma Mercedes ou uma Ferrari?\" Foi com uma pergunta que o presidente da Associação dos Criadores de Nelore do Brasil (ACNB), Victor Paulo ",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "Um bilhão de refeições no lixo todo dia; como evitar desperdício de alimentos em casa?",
       "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/14/desperdicio-de-alimentos.ghtml",
       "date": "2026-11-14T07:00:00.000Z",
@@ -212,15 +239,6 @@
       "link": "https://g1.globo.com/tecnologia/noticia/2026/11/14/cronologia-crise-nvidia.ghtml",
       "date": "2026-11-14T06:00:01.000Z",
       "summary": "Jensen Huang, CEO da Nvidia, durante evento em Washington Julia Demaree Nikhinson/AP Photo Na última semana, a fabricante americana de chips Nvidia ficou no centro de uma crise que culminou na renúncia de seu fundador e CEO, Jensen Huang, e em um prejuízo de m",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Ex-manicure começou vendendo caldinhos na rua e hoje fatura R$ 40 mil por mês",
-      "link": "https://g1.globo.com/empreendedorismo/pegn/noticia/2026/11/14/ex-manicure-comecou-vendendo-caldinhos-na-rua-e-hoje-fatura-r-40-mil-por-mes.ghtml",
-      "date": "2026-11-14T05:00:00.000Z",
-      "summary": "Do caldinho na calçada ao buffet dos grandes eventos do samba O que começou como uma tentativa de aumentar a renda para sustentar duas filhas virou um negócio consolidado no setor de alimentação. No Rio de Janeiro, Bárbara dos Santos, conhecida como \"Nega\", tr",
       "source": "g1",
       "cat": "economia",
       "type": "imprensa"
@@ -307,15 +325,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Cármen Lúcia conclui que Jair Bolsonaro feriu liberdade de imprensa ao bloquear jornalistas no X",
-      "link": "https://www.estadao.com.br/politica/carmen-lucia-conclui-que-bolsonaro-feriu-a-liberdade-de-imprensa-ao-bloquear-jornalistas-no-x-nprp/",
-      "date": "2026-11-14T01:02:30.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Subsídios criam o modelo Robin Hood às avessas e deixam País com sobra de energia e risco de apagão",
       "link": "https://www.estadao.com.br/economia/adriano-pires/subsidios-criam-o-modelo-robin-hood-as-avessas-e-deixam-pais-com-sobra-de-energia-e-risco-de-apagao/",
       "date": "2026-11-14T01:00:00.000Z",
@@ -361,15 +370,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Nunes diz que Mello Araújo ‘se antecipou’ em denúncia ao MP sobre Virada Esportiva de São Paulo",
-      "link": "https://www.estadao.com.br/politica/nunes-diz-que-mello-araujo-se-antecipou-em-denuncia-ao-mp-sobre-virada-esportiva-de-sao-paulo-nprp/",
-      "date": "2026-11-13T22:09:24.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "EUA suspendem todas as decolagens de aeroportos do país",
       "link": "https://www.dw.com/pt-br/eua-suspendem-todas-as-decolagens-de-aeroportos-do-país/a-79945256?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-13T21:39:00.000Z",
@@ -388,15 +388,6 @@
       "type": "oficial"
     },
     {
-      "title": "Comissão aprova criação de data para valorizar mulheres que trabalham em setores de infraestrutura",
-      "link": "https://www.camara.leg.br/noticias/1319435-comissao-aprova-criacao-de-data-para-valorizar-mulheres-que-trabalham-em-setores-de-infraestrutura",
-      "date": "2026-11-13T21:15:00.000Z",
-      "summary": "Proposta segue para análise do Senado",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
       "title": "Por que El Salvador tem soldados no Haiti?",
       "link": "https://www.dw.com/pt-br/por-que-el-salvador-tem-soldados-no-haiti/a-79944865?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-13T20:35:00.000Z",
@@ -404,15 +395,6 @@
       "source": "DW Brasil",
       "cat": "internacional",
       "type": "imprensa"
-    },
-    {
-      "title": "Comissão aprova proposta que transforma em lei a Política para a Primeira Infância",
-      "link": "https://www.camara.leg.br/noticias/1319429-comissao-aprova-proposta-que-transforma-em-lei-a-politica-para-a-primeira-infancia",
-      "date": "2026-11-13T20:34:00.000Z",
-      "summary": "Texto pode seguir para análise do Senado Federal, a menos que haja recurso para votação no Plenário da Câmara",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
     },
     {
       "title": "Senado tem o maior percentual já registrado de candidatos negros eleitos",
@@ -433,29 +415,11 @@
       "type": "imprensa"
     },
     {
-      "title": "Comissão aprova proposta para uso de títulos em concursos de PMs e bombeiros",
-      "link": "https://www.camara.leg.br/noticias/1319294-comissao-aprova-proposta-para-uso-de-titulos-em-concursos-de-pms-e-bombeiros",
-      "date": "2026-11-13T20:01:00.000Z",
-      "summary": "Texto segue em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
       "title": "Senado celebra Dia da Consciência Negra em sessão especial na segunda-feira",
       "link": "https://www12.senado.leg.br/noticias/materias/2026/11/13/senado-celebra-dia-da-consciencia-negra-em-sessao-especial-na-segunda-feira",
       "date": "2026-11-13T19:40:43.000Z",
       "summary": "O Dia Nacional de Zumbi e da Consciência Negra, comemorado em 20 de novembro, será lembrado na sessão especial que o Senado promove na próxima segunda-feira (16), a partir das 10h. A homenagem foi solicitada pelo senador Paulo Paim (PT-RS) por meio de um reque",
       "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Comissão aprova proposta que aumenta penas para saque de cargas após acidentes de trânsito",
-      "link": "https://www.camara.leg.br/noticias/1319386-comissao-aprova-proposta-que-aumenta-penas-para-saque-de-cargas-apos-acidentes-de-transito",
-      "date": "2026-11-13T19:33:00.000Z",
-      "summary": "Projeto segue em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
     },
@@ -496,15 +460,6 @@
       "type": "oficial"
     },
     {
-      "title": "Comissão aprova aumento de pena para quem usar inocente para dissimular tráfico de drogas",
-      "link": "https://www.camara.leg.br/noticias/1319417-comissao-aprova-aumento-de-pena-para-quem-usar-inocente-para-dissimular-trafico-de-drogas",
-      "date": "2026-11-13T18:44:00.000Z",
-      "summary": "Projeto ainda será analisado pelo Plenário da Câmara antes de ir para o Senado",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
       "title": "O quão próximas são as ligações da AfD com movimentos neonazistas?",
       "link": "https://www.dw.com/pt-br/o-quão-próximas-são-as-ligações-da-afd-com-movimentos-neonazistas/a-79942648?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-13T18:30:00.000Z",
@@ -512,15 +467,6 @@
       "source": "DW Brasil",
       "cat": "internacional",
       "type": "imprensa"
-    },
-    {
-      "title": "Comissão aprova projeto que proíbe vistoria veicular periódica em razão da idade do veículo",
-      "link": "https://www.camara.leg.br/noticias/1319323-comissao-aprova-projeto-que-proibe-vistoria-veicular-periodica-em-razao-da-idade-do-veiculo",
-      "date": "2026-11-13T18:08:00.000Z",
-      "summary": "Texto segue em análise na Câmara",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
     },
     {
       "title": "Sombra do impeachment volta à cena nos EUA após derrota eleitoral de Trump",
@@ -696,6 +642,7 @@
   ],
   "errors": [
     "feed CNN Brasil: HTTP 404",
-    "feed CNN Brasil: HTTP 404"
+    "feed CNN Brasil: HTTP 404",
+    "feed Agência Câmara: fetch failed"
   ]
 }
