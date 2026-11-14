@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-14T18:16:08.610Z",
+  "updated": "2026-11-14T19:09:34.676Z",
   "market": {
     "ibov": {
       "price": 172457.77,
       "pct": 0.66,
-      "time": "2026-11-14T18:15:54.098Z",
+      "time": "2026-11-14T19:09:30.650Z",
       "history": [
         {
           "d": "2026-10-15",
@@ -145,6 +145,69 @@
   },
   "news": [
     {
+      "title": "O Brasil não conhece o Brasil e quer fazer plano de desenvolvimento econômico",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2026/11/o-brasil-nao-conhece-o-brasil-e-quer-fazer-plano-de-desenvolvimento-economico.shtml",
+      "date": "2026-11-14T19:05:00.000Z",
+      "summary": "O Brasil tem política de desenvolvimento econômico? Tem várias. Tantas que não tem nenhuma. Política econômica é muito mais do que política fiscal (gasto, imposto) e monetária (juros, crédito). São esses os assuntos de que o país tem tratado, tal como discute ",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "PGR mantém pedido de R$ 324 mi extras para bancar penduricalhos",
+      "link": "https://www.poder360.com.br/poder-justica/pgr-mantem-pedido-de-r-324-mi-extras-para-bancar-penduricalhos/",
+      "date": "2026-11-14T18:59:10.000Z",
+      "summary": "Manifestação reforça pedido do governo para que STF esclareça como cumprir decisões sobre verbas remuneratórias",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "EUA atribuem pane aérea a troca de cabos de cobre por fibra ótica",
+      "link": "https://www.dw.com/pt-br/eua-atribuem-pane-aérea-a-troca-de-cabos-de-cobre-por-fibra-ótica/a-79949623?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-14T18:40:00.000Z",
+      "summary": "Governo afasta hipótese de ciberataque e reforça apelo por maior financiamento de modernização do espaço aéreo. Investigação apura se houve incompetência de empresa responsável.",
+      "source": "DW Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Ala do PT defende ajuste fiscal com mais impostos",
+      "link": "https://www.poder360.com.br/poder-congresso/ala-do-pt-defende-ajuste-fiscal-com-mais-impostos/",
+      "date": "2026-11-14T18:38:52.000Z",
+      "summary": "Deputados apresentam 4 projetos de lei para taxar grandes fortunas, instituir alíquota sobre LCA e LCI e elevar imposto sobre lucros",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Espionagem, traição e queda: o escândalo da Nvidia que o Vale do Silício não viu chegar",
+      "link": "https://www.estadao.com.br/economia/negocios/espionagem-traicao-e-queda-o-escandalo-da-nvidia-que-o-vale-do-silicio-nao-viu-chegar/",
+      "date": "2026-11-14T18:37:43.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Banco Central aprova compra do Banco Porto Real pelo Nubank",
+      "link": "https://www.poder360.com.br/poder-economia/banco-central-aprova-compra-do-banco-porto-real-pelo-nubank/",
+      "date": "2026-11-14T18:19:47.000Z",
+      "summary": "Aquisição permitirá ao grupo incorporar licença bancária no Brasil e atender às regras para manter “bank” no nome",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Jensen Huang perdeu o cargo na Nvidia e US$ 10 bilhões; um divórcio pode custar muito mais",
+      "link": "https://www.estadao.com.br/economia/negocios/jensen-huang-perdeu-o-cargo-na-nvidia-e-us-10-bilhoes-um-divorcio-pode-custar-muito-mais/",
+      "date": "2026-11-14T18:07:09.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "Como troca de cabos levou ao maior caos aéreo nos EUA desde o 11 de Setembro, segundo o governo Trump",
       "link": "https://www.bbc.com/portuguese/articles/ckd71ne91y79o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-14T18:06:39.000Z",
@@ -199,39 +262,21 @@
       "type": "imprensa"
     },
     {
+      "title": "Voto distrital misto volta a ser debatido no Congresso após décadas de tentativas e rejeições",
+      "link": "https://www.estadao.com.br/politica/voce-sabia-curiosidades-politica/voto-distrital-misto-volta-a-ser-debatido-no-congresso-apos-decadas-de-tentativas-e-rejeicoes/",
+      "date": "2026-11-14T17:52:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "Controle de tráfego aéreo dos EUA ainda opera com disquetes; veja como eles funcionam",
       "link": "https://g1.globo.com/tecnologia/noticia/2026/11/14/controle-de-trafego-aereo-dos-eua-ainda-opera-com-disquetes-veja-como-eles-funcionam.ghtml",
       "date": "2026-11-14T17:23:56.000Z",
       "summary": "Armazenamento de disquetes, em foto de julho de 2022 Iswoar/Wikimedia Commons O apagão aéreo da última sexta-feira (13) nos Estados Unidos chamou atenção para as ferramentas usadas no país para controlar o tráfego de aviões. O secretário de Transportes dos EUA",
       "source": "g1",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Projeto isenta policiais e bombeiros militares do Imposto de Renda",
-      "link": "https://www.poder360.com.br/poder-congresso/projeto-isenta-policiais-e-bombeiros-militares-do-imposto-de-renda/",
-      "date": "2026-11-14T17:15:00.000Z",
-      "summary": "Proposta também beneficia guardas municipais; para virar lei, precisa ser aprovada pela Câmara e pelo Senado",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "EUA sugerem que Ucrânia ceda Donbas para entrar na Otan",
-      "link": "https://www.poder360.com.br/poder-internacional/eua-sugerem-que-ucrania-ceda-donbas-para-entrar-na-otan/",
-      "date": "2026-11-14T17:05:07.000Z",
-      "summary": "Zelensky afirmou que proposta norte-americana foi apresentada pela 1ª vez e que eventual decisão caberá à sociedade ucraniana",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Mercado estima impacto do ajuste fiscal abaixo de R$ 60 bilhões",
-      "link": "https://www.poder360.com.br/poder-economia/mercado-estima-impacto-do-ajuste-fiscal-abaixo-de-r-60-bilhoes/",
-      "date": "2026-11-14T17:00:33.000Z",
-      "summary": "Projeções variam de R$ 27,9 bilhões a R$ 56,1 bilhões em 2027; especialistas questionam dependência de receitas",
-      "source": "Poder360",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -280,19 +325,10 @@
       "type": "imprensa"
     },
     {
-      "title": "State Grid emite R$ 2,5 bi em 'panda bonds' para financiar transmissão de energia no Brasil",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/infraestrutura/2026/11/state-grid-emite-r-25-bi-em-panda-bonds-para-financiar-transmissao-de-energia-no-brasil.shtml",
-      "date": "2026-11-14T16:05:00.000Z",
-      "summary": "A State Grid Brasil emitiu 3 bilhões de yuans (cerca de R$ 2,5 bilhões) em \"panda bonds\" para financiar obras de transmissão de energia em uma linha que liga as regiões Nordeste e Centro-Oeste. A operação consiste na oferta de títulos de dívida por empresas ou",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Idosos puxam alta do comparecimento no 2º turno e ajudam voto facultativo a atingir maior participação desde 2014",
       "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/11/14/idosos-puxam-alta-do-comparecimento-no-2o-turno-e-ajudam-voto-facultativo-a-atingir-maior-participacao-desde-2014.ghtml",
       "date": "2026-11-14T15:51:31.000Z",
-      "summary": "Idoso de 82 anos vota para 'conviver com a própria consciência' Gyovanna Soares/g1 O comparecimento às urnas aumentou do primeiro para o segundo turno das eleições de 2026, puxado principalmente pelos eleitores que não são obrigados a votar. Segundo dados do T",
+      "summary": "Idoso de 82 anos vota para 'conviver com a própria consciência' Gyovanna Soares/g1 O comparecimento às urnas aumentou do 1º para o 2º turno das eleições de 2026, impulsionado principalmente pelos eleitores que não são obrigados a votar. Segundo dados do Tribun",
       "source": "g1",
       "cat": "politica",
       "type": "imprensa"
@@ -370,15 +406,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Escândalo da Nvidia intensifica rivalidade entre China e EUA antes de reunião entre Xi e Trump",
-      "link": "https://www.estadao.com.br/internacional/escandalo-da-nvidia-intensifica-rivalidade-entre-china-e-eua-antes-de-reuniao-entre-xi-e-trump/",
-      "date": "2026-11-14T12:45:20.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Itália multa Meta em R$ 5 bilhões por acessar fotos e vídeos de usuários sem consentimento",
       "link": "https://g1.globo.com/tecnologia/noticia/2026/11/14/italia-multa-meta.ghtml",
       "date": "2026-11-14T12:32:39.000Z",
@@ -397,30 +424,12 @@
       "type": "imprensa"
     },
     {
-      "title": "O inquérito e uma antiga lição de Kennedy",
-      "link": "https://www.estadao.com.br/politica/fernando-schuler/o-inquerito-e-uma-antiga-licao-de-kennedy/",
-      "date": "2026-11-14T12:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Após horas de blecaute global, Microsoft diz que serviços foram totalmente normalizados",
       "link": "https://www.dw.com/pt-br/após-horas-de-blecaute-global-microsoft-diz-que-serviços-foram-totalmente-normalizados/a-79947818?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-14T11:23:00.000Z",
       "summary": "Falha afetou governos e empresas em mais de 70 países, atingindo programa de e-mail Outlook e aplicativo de mensagens Teams. Especialistas alertam para dependência excessiva de tecnologia de uma única empresa.",
       "source": "DW Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "De caixas eletrônicos a prédios de luxo: fim de agências cria negócio para fundos e construtoras",
-      "link": "https://www.estadao.com.br/economia/negocios/de-caixas-eletronicos-a-predios-de-luxo-fim-de-agencias-cria-negocio-para-fundos-e-construtoras/",
-      "date": "2026-11-14T08:30:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -458,15 +467,6 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Por que El Salvador tem soldados no Haiti?",
-      "link": "https://www.dw.com/pt-br/por-que-el-salvador-tem-soldados-no-haiti/a-79944865?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-13T20:35:00.000Z",
-      "summary": "O fato de o primeiro-ministro haitiano ter parabenizado o presidente de El Salvador pela repressão a gangues no Haiti colocou em evidência a relação entre os países. Mas o que está acontecendo e qual é a posição dos EUA?",
-      "source": "DW Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
     },
     {
       "title": "Comissão aprova proposta que transforma em lei a Política para a Primeira Infância",
