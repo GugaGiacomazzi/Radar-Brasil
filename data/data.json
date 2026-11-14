@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-14T08:45:58.499Z",
+  "updated": "2026-11-14T09:41:18.701Z",
   "market": {
     "ibov": {
       "price": 172457.77,
       "pct": 0.66,
-      "time": "2026-11-14T08:45:35.177Z",
+      "time": "2026-11-14T09:41:11.951Z",
       "history": [
         {
           "d": "2026-10-15",
@@ -145,6 +145,51 @@
   },
   "news": [
     {
+      "title": "Pacote fiscal, nova Esplanada e COP31: “Por Que Isso Importa?”",
+      "link": "https://www.poder360.com.br/poder-videos/pacote-fiscal-nova-esplanada-e-cop31-por-que-isso-importa/",
+      "date": "2026-11-14T09:00:52.000Z",
+      "summary": "Podcast do Poder360 analisa os temas políticos da semana que se encerra e traz o que haverá de mais importante na semana que começa",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Painel mostra os distritos informais de 239 deputados eleitos",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/painel-mostra-os-distritos-informais-de-239-deputados-eleitos/",
+      "date": "2026-11-14T09:00:48.000Z",
+      "summary": "Congressistas, que representam 47% da Câmara, tiveram ao menos metade dos apoios em blocos de até 10 cidades vizinhas; dado mostra construção de bases geograficamente delimitadas",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Veja como foi a votação dos 513 deputados por cidade em 2026",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/veja-como-foi-a-votacao-dos-513-deputados-por-cidade-em-2026/",
+      "date": "2026-11-14T09:00:34.000Z",
+      "summary": "Mapas destacam os distritos informais dos congressistas eleitos e trazem listas de apoios dentro da unidade da Federação na qual foram eleitos",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Canadá renova compromisso com financiamento federal ao jornalismo",
+      "link": "https://www.poder360.com.br/nieman/canada-renova-compromisso-com-financiamento-federal-ao-jornalismo/",
+      "date": "2026-11-14T09:00:14.000Z",
+      "summary": "O novo Orçamento tornaria programa de jornalismo local permanente e prorrogaria crédito tributário de 35% sobre salários",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Vice de Nunes pediu investigação sobre servidor que usou camisa comunista",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/vice-de-nunes-pediu-investigacao-sobre-servidor-que-usou-camisa-comunista.shtml",
+      "date": "2026-11-14T09:00:00.000Z",
+      "summary": "O vice-prefeito de São Paulo, Ricardo Mello Araújo (PL), formalizou no final de outubro uma denúncia à Controladoria Geral do Município para que investigue a conduta de um servidor que estaria trajando uma camisa com \"símbolos/dizeres de cunho ideológico comun",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "Reforma do Judiciário: grupo do STF quer adiar debate para buscar pacto com Executivo e Legislativo",
       "link": "https://www.estadao.com.br/politica/reforma-do-judiciario-grupo-do-stf-quer-adiar-debate-para-buscar-pacto-com-executivo-e-legislativo/",
       "date": "2026-11-14T08:30:00.000Z",
@@ -160,6 +205,15 @@
       "summary": "",
       "source": "Estadão",
       "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "De caixas eletrônicos a prédios de luxo: fim de agências cria negócio para fundos e construtoras",
+      "link": "https://www.estadao.com.br/economia/negocios/de-caixas-eletronicos-a-predios-de-luxo-fim-de-agencias-cria-negocio-para-fundos-e-construtoras/",
+      "date": "2026-11-14T08:30:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -307,35 +361,8 @@
       "type": "imprensa"
     },
     {
-      "title": "Entenda ação sobre cursos de medicina em que Moraes e Kassio votaram a favor do interesse de Vorcaro",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/entenda-acao-sobre-cursos-de-medicina-em-que-moraes-e-kassio-votaram-a-favor-do-interesse-de-vorcaro.shtml",
-      "date": "2026-11-14T02:00:00.000Z",
-      "summary": "O relatório da PF (Polícia Federal) que foi rejeitado pela cúpula da corporação sobre o ministro Alexandre de Moraes, do STF (Supremo Tribunal Federal), e a sua relação com Daniel Vorcaro, dono do Banco Master, cita mensagens que indicam que ele e o ministro K",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Governo encerra subsídio de R$ 1,40 ao diesel importado",
-      "link": "https://www.poder360.com.br/poder-economia/governo-encerra-subsidio-de-r-140-ao-diesel-importado/",
-      "date": "2026-11-14T01:22:49.000Z",
-      "summary": "Benefício tinha validade de 30 dias e não foi renovado; subvenção de R$ 2,12 por litro ao diesel rodoviário continua em vigor",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Subsídios criam o modelo Robin Hood às avessas e deixam País com sobra de energia e risco de apagão",
       "link": "https://www.estadao.com.br/economia/adriano-pires/subsidios-criam-o-modelo-robin-hood-as-avessas-e-deixam-pais-com-sobra-de-energia-e-risco-de-apagao/",
-      "date": "2026-11-14T01:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "‘China verde’: A experiência chinesa mostra que transição energética também é estratégia industrial",
-      "link": "https://www.estadao.com.br/economia/fabio-gallo/china-verde-a-experiencia-chinesa-mostra-que-transicao-energetica-tambem-e-estrategia-industrial/",
       "date": "2026-11-14T01:00:00.000Z",
       "summary": "",
       "source": "Estadão",
@@ -388,6 +415,15 @@
       "type": "oficial"
     },
     {
+      "title": "Comissão aprova criação de data para valorizar mulheres que trabalham em setores de infraestrutura",
+      "link": "https://www.camara.leg.br/noticias/1319435-comissao-aprova-criacao-de-data-para-valorizar-mulheres-que-trabalham-em-setores-de-infraestrutura",
+      "date": "2026-11-13T21:15:00.000Z",
+      "summary": "Proposta segue para análise do Senado",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
       "title": "Por que El Salvador tem soldados no Haiti?",
       "link": "https://www.dw.com/pt-br/por-que-el-salvador-tem-soldados-no-haiti/a-79944865?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-13T20:35:00.000Z",
@@ -395,6 +431,15 @@
       "source": "DW Brasil",
       "cat": "internacional",
       "type": "imprensa"
+    },
+    {
+      "title": "Comissão aprova proposta que transforma em lei a Política para a Primeira Infância",
+      "link": "https://www.camara.leg.br/noticias/1319429-comissao-aprova-proposta-que-transforma-em-lei-a-politica-para-a-primeira-infancia",
+      "date": "2026-11-13T20:34:00.000Z",
+      "summary": "Texto pode seguir para análise do Senado Federal, a menos que haja recurso para votação no Plenário da Câmara",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
     },
     {
       "title": "Senado tem o maior percentual já registrado de candidatos negros eleitos",
@@ -415,11 +460,29 @@
       "type": "imprensa"
     },
     {
+      "title": "Comissão aprova proposta para uso de títulos em concursos de PMs e bombeiros",
+      "link": "https://www.camara.leg.br/noticias/1319294-comissao-aprova-proposta-para-uso-de-titulos-em-concursos-de-pms-e-bombeiros",
+      "date": "2026-11-13T20:01:00.000Z",
+      "summary": "Texto segue em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
       "title": "Senado celebra Dia da Consciência Negra em sessão especial na segunda-feira",
       "link": "https://www12.senado.leg.br/noticias/materias/2026/11/13/senado-celebra-dia-da-consciencia-negra-em-sessao-especial-na-segunda-feira",
       "date": "2026-11-13T19:40:43.000Z",
       "summary": "O Dia Nacional de Zumbi e da Consciência Negra, comemorado em 20 de novembro, será lembrado na sessão especial que o Senado promove na próxima segunda-feira (16), a partir das 10h. A homenagem foi solicitada pelo senador Paulo Paim (PT-RS) por meio de um reque",
       "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Comissão aprova proposta que aumenta penas para saque de cargas após acidentes de trânsito",
+      "link": "https://www.camara.leg.br/noticias/1319386-comissao-aprova-proposta-que-aumenta-penas-para-saque-de-cargas-apos-acidentes-de-transito",
+      "date": "2026-11-13T19:33:00.000Z",
+      "summary": "Projeto segue em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
     },
@@ -460,6 +523,15 @@
       "type": "oficial"
     },
     {
+      "title": "Comissão aprova aumento de pena para quem usar inocente para dissimular tráfico de drogas",
+      "link": "https://www.camara.leg.br/noticias/1319417-comissao-aprova-aumento-de-pena-para-quem-usar-inocente-para-dissimular-trafico-de-drogas",
+      "date": "2026-11-13T18:44:00.000Z",
+      "summary": "Projeto ainda será analisado pelo Plenário da Câmara antes de ir para o Senado",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
       "title": "O quão próximas são as ligações da AfD com movimentos neonazistas?",
       "link": "https://www.dw.com/pt-br/o-quão-próximas-são-as-ligações-da-afd-com-movimentos-neonazistas/a-79942648?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-13T18:30:00.000Z",
@@ -469,10 +541,19 @@
       "type": "imprensa"
     },
     {
-      "title": "Sombra do impeachment volta à cena nos EUA após derrota eleitoral de Trump",
-      "link": "https://www.dw.com/pt-br/sombra-do-impeachment-volta-à-cena-nos-eua-após-derrota-eleitoral-de-trump/a-79941835?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-13T16:09:00.000Z",
-      "summary": "Nova maioria democrata no Congresso pode abrir caminho a processos de destituição contra membros do governo Trump e até contra o próprio presidente.",
+      "title": "Comissão aprova projeto que proíbe vistoria veicular periódica em razão da idade do veículo",
+      "link": "https://www.camara.leg.br/noticias/1319323-comissao-aprova-projeto-que-proibe-vistoria-veicular-periodica-em-razao-da-idade-do-veiculo",
+      "date": "2026-11-13T18:08:00.000Z",
+      "summary": "Texto segue em análise na Câmara",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "EUA desmantelam rede de golpes de criptomoedas da Coreia do Norte, diz FBI",
+      "link": "https://www.dw.com/pt-br/eua-desmantelam-rede-de-golpes-de-criptomoedas-da-coreia-do-norte-diz-fbi/a-79940495?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-13T14:23:00.000Z",
+      "summary": "Autoridades apreendem servidores vinculados a esquema que usou videochamadas falsas e deepfakes para roubar mais de 400 milhões de dólares em criptomoedas.",
       "source": "DW Brasil",
       "cat": "internacional",
       "type": "imprensa"
@@ -641,8 +722,8 @@
     }
   ],
   "errors": [
+    "IPCA 12m (SGS 13522): HTTP 304",
     "feed CNN Brasil: HTTP 404",
-    "feed CNN Brasil: HTTP 404",
-    "feed Agência Câmara: fetch failed"
+    "feed CNN Brasil: HTTP 404"
   ]
 }
