@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-14T09:41:18.701Z",
+  "updated": "2026-11-14T10:37:50.636Z",
   "market": {
     "ibov": {
       "price": 172457.77,
       "pct": 0.66,
-      "time": "2026-11-14T09:41:11.951Z",
+      "time": "2026-11-14T10:37:44.047Z",
       "history": [
         {
           "d": "2026-10-15",
@@ -145,6 +145,24 @@
   },
   "news": [
     {
+      "title": "Exportações da China avançam com força do comércio ligado à IA",
+      "link": "https://www.poder360.com.br/poder-china/exportacoes-da-china-avancam-com-forca-do-comercio-ligado-a-ia/",
+      "date": "2026-11-14T10:14:02.000Z",
+      "summary": "Remessas ligadas à inteligência artificial compensam desaceleração de carros e elevam exportações para US$ 412,3 bilhões",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "'Há total desconexão entre discurso e prática', diz CEO sobre políticas de inclusão nas empresas",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/ha-total-desconexao-entre-discurso-e-pratica-diz-ceo-sobre-politicas-de-inclusao-nas-empresas.shtml",
+      "date": "2026-11-14T10:00:00.000Z",
+      "summary": "Desde a eleição de Donald Trump nos Estados Unidos, o mundo vive um retrocesso em suas políticas de inclusão no meio corporativo, segundo Wellington Vitorino, CEO do Instituto Four, voltado à formação de lideranças. Na sua visão, isso acontece porque muitas em",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "Pacote fiscal, nova Esplanada e COP31: “Por Que Isso Importa?”",
       "link": "https://www.poder360.com.br/poder-videos/pacote-fiscal-nova-esplanada-e-cop31-por-que-isso-importa/",
       "date": "2026-11-14T09:00:52.000Z",
@@ -167,15 +185,6 @@
       "link": "https://www.poder360.com.br/poder-eleicoes-2026/veja-como-foi-a-votacao-dos-513-deputados-por-cidade-em-2026/",
       "date": "2026-11-14T09:00:34.000Z",
       "summary": "Mapas destacam os distritos informais dos congressistas eleitos e trazem listas de apoios dentro da unidade da Federação na qual foram eleitos",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Canadá renova compromisso com financiamento federal ao jornalismo",
-      "link": "https://www.poder360.com.br/nieman/canada-renova-compromisso-com-financiamento-federal-ao-jornalismo/",
-      "date": "2026-11-14T09:00:14.000Z",
-      "summary": "O novo Orçamento tornaria programa de jornalismo local permanente e prorrogaria crédito tributário de 35% sobre salários",
       "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
@@ -275,15 +284,6 @@
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/itens-de-decoracao-do-master-vao-a-leilao-com-lote-de-pedra-porta-papel-higienico-e-vaso-a-r-2600.shtml",
       "date": "2026-11-14T07:00:00.000Z",
       "summary": "Peças decorativas do Banco Master e do Will Bank irão a leilão em novembro e incluem pedra, porta-papel higiênico e vaso decorativo vendido a um preço inicial de R$ 2.600. Leia mais (11/14/2026 - 04h00)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Quem é Lori Huang, que abriu mão da carreira enquanto marido construía a Nvidia",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/quem-e-lori-huang-que-abriu-mao-da-carreira-enquanto-marido-construia-a-nvidia.shtml",
-      "date": "2026-11-14T07:00:00.000Z",
-      "summary": "Lori Mills era uma das poucas mulheres da turma de estudantes de engenharia elétrica da Universidade Estadual do Oregon, nos Estados Unidos, nos anos 1980. Foi ali onde conheceu Jensen Huang, que se tornaria seu marido e fundador da Nvidia. Leia mais (11/14/20",
       "source": "Folha",
       "cat": "economia",
       "type": "imprensa"
@@ -722,7 +722,6 @@
     }
   ],
   "errors": [
-    "IPCA 12m (SGS 13522): HTTP 304",
     "feed CNN Brasil: HTTP 404",
     "feed CNN Brasil: HTTP 404"
   ]
