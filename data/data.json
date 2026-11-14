@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-14T11:58:33.100Z",
+  "updated": "2026-11-14T12:47:57.254Z",
   "market": {
     "ibov": {
       "price": 172457.77,
       "pct": 0.66,
-      "time": "2026-11-14T11:58:27.940Z",
+      "time": "2026-11-14T12:47:51.380Z",
       "history": [
         {
           "d": "2026-10-15",
@@ -145,6 +145,69 @@
   },
   "news": [
     {
+      "title": "Itália multa Meta em R$ 5 bilhões por acessar fotos e vídeos de usuários sem consentimento",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/14/italia-multa-meta.ghtml",
+      "date": "2026-11-14T12:32:39.000Z",
+      "summary": "Justiça de São Paulo proíbe Meta de usar conteúdo jornalístico sem autorização Jornal Nacional/ Reprodução A autoridade de proteção de dados da Itália multou a Meta em € 805 milhões (R$ 5 bilhões) neste sábado (14), sob a acusação de que a empresa acessou foto",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "AGU segue Zanin e é contra nova votação no Rio",
+      "link": "https://www.poder360.com.br/poder-justica/agu-segue-zanin-e-e-contra-nova-votacao-no-rio/",
+      "date": "2026-11-14T12:26:07.000Z",
+      "summary": "Órgão pede ao STF para manter decisão do minisitro contra pedido do PSD para eleição fluminense",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Produzir aço “verde” no Brasil compensa mais que exportar hidrogênio",
+      "link": "https://www.poder360.com.br/poder-sustentavel/produzir-aco-verde-no-brasil-compensa-mais-que-exportar-hidrogenio/",
+      "date": "2026-11-14T12:20:05.000Z",
+      "summary": "Análise apresentada na FAPESP Week Países Baixos mostra que produzir aço no Ceará reduz emissões e custos industriais; a siderurgia \"verde\" cria empregos de maior qualificação no Nordeste, segundo pesquisadora",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Dívidas do MEI serão perdoadas automaticamente: veja 10 perguntas e respostas sobre a medida",
+      "link": "https://g1.globo.com/empreendedorismo/noticia/2026/11/14/dividas-do-mei-serao-perdoadas-automaticamente.ghtml",
+      "date": "2026-11-14T12:16:56.000Z",
+      "summary": "Presidente Lula (PT) durante a sanção dos novos limites do MEI e envio de PEC sobre tarifa zero no transporte coletivo aos fins de semana e feriados, no Palácio do Planalto Ricardo Stuckert O perdão de dívidas de microempreendedores individuais (MEIs) será apl",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Reunião trilateral de Trump, Xi e Putin abordará não proliferação nuclear",
+      "link": "https://www.dw.com/pt-br/reunião-trilateral-de-trump-xi-e-putin-abordará-não-proliferação-nuclear/a-79947990?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-14T12:12:00.000Z",
+      "summary": "Confirmado pela Casa Branca, encontro dos presidentes de EUA, Rússia e China deve render foto histórica. Mas especialistas consideram pouco provável que ele traga resultados concretos.",
+      "source": "DW Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lula se encontra com presidente das Filipinas e fala em integrar minerais críticos do Brasil com indústria local de semicondutores",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/14/lula-se-encontra-com-presidente-das-filipinas-e-fala-em-integrar-minerais-criticos-do-brasil-com-industria-local-de-semicondutores.ghtml",
+      "date": "2026-11-14T12:01:08.000Z",
+      "summary": "Lula se encontra com o presidente das Filipinas, Ferdinand Marcos Jr, em Manila Ricardo Stuckert/Presidência da República O presidente Luiz Inácio Lula da Silva (PT) afirmou neste sábado (14) que o Brasil e as Filipinas têm potencial para integrar cadeias prod",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "O inquérito e uma antiga lição de Kennedy",
+      "link": "https://www.estadao.com.br/politica/fernando-schuler/o-inquerito-e-uma-antiga-licao-de-kennedy/",
+      "date": "2026-11-14T12:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "Nas Filipinas, Lula diz que “colonialismo ficou no passado”",
       "link": "https://www.poder360.com.br/poder-governo/nas-filipinas-lula-diz-que-colonialismo-ficou-no-passado/",
       "date": "2026-11-14T11:57:39.000Z",
@@ -172,30 +235,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Vendas de carros na China caem 27%; exportações avançam 69%",
-      "link": "https://www.poder360.com.br/poder-china/vendas-de-carros-na-china-caem-27-exportacoes-avancam-69/",
-      "date": "2026-11-14T11:21:51.000Z",
-      "summary": "Varejo doméstico teve 1,6 milhão de vendas em outubro; exportações chegaram a 928 mil unidades",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Microsoft afirma que serviços foram totalmente restabelecidos após falha global",
       "link": "https://g1.globo.com/tecnologia/noticia/2026/11/14/microsoft-afirma-que-servicos-foram-totalmente-restabelecidos-apos-falha-global.ghtml",
       "date": "2026-11-14T11:13:29.000Z",
       "summary": "Como a falha da Microsoft afetou serviços e eventos em diversas partes do mundo A Microsoft informou neste sábado (14) que seus serviços foram totalmente restabelecidos após uma falha global que durou várias horas. \"Concluímos os trabalhos para resolver a caus",
       "source": "g1",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Exportações da China avançam com força do comércio ligado à IA",
-      "link": "https://www.poder360.com.br/poder-china/exportacoes-da-china-avancam-com-forca-do-comercio-ligado-a-ia/",
-      "date": "2026-11-14T10:14:02.000Z",
-      "summary": "Remessas ligadas à inteligência artificial compensam desaceleração de carros e elevam exportações para US$ 412,3 bilhões",
-      "source": "Poder360",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -248,24 +293,6 @@
       "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/14/pecuaria-de-elite-como-uma-vaca-pode-render-fortunas-com-genetica-e-clonagem.ghtml",
       "date": "2026-11-14T08:00:00.000Z",
       "summary": "Vaca mais cara do mundo é brasileira: entenda por que ela atingiu a marca de R$ 54 milhões \"Por que as pessoas desejam ter uma Mercedes ou uma Ferrari?\" Foi com uma pergunta que o presidente da Associação dos Criadores de Nelore do Brasil (ACNB), Victor Paulo ",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Um bilhão de refeições no lixo todo dia; como evitar desperdício de alimentos em casa?",
-      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/14/desperdicio-de-alimentos.ghtml",
-      "date": "2026-11-14T07:00:00.000Z",
-      "summary": "A alimentação em casa responde por 60% do desperdício de aliementos, segundo a ONU. REUTERS / Edgar Su \"Nos últimos sete anos, passei a pensar melhor antes de comprar alimentos, levando para casa apenas a quantidade que eu ou as pessoas para quem cozinho vamos",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Free flow: prazo para pagar pedágio atrasado acaba na segunda; veja como fazer e evite multa",
-      "link": "https://g1.globo.com/carros/noticia/2026/11/14/free-flow-prazo-acaba-segunda.ghtml",
-      "date": "2026-11-14T07:00:00.000Z",
-      "summary": "Motoristas têm até 16 de novembro para pagar pedágio Free Flow atrasado Motoristas que passaram pelos pedágios eletrônicos, conhecidos como \"free flow\", até 17 de outubro têm até a próxima segunda-feira (16) para pagar as tarifas em atraso sem receber multa. \ud83d",
       "source": "g1",
       "cat": "economia",
       "type": "imprensa"
@@ -343,15 +370,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Casos de violência contra a mulher associados ao vício em apostas crescem 75%, diz ministério",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/14/violencia-contra-a-mulher-apostas.ghtml",
-      "date": "2026-11-14T03:00:00.000Z",
-      "summary": "Casos registrados de violência contra a mulher associados a apostas e jogos de azar cresceram 75% no Brasil em um ano, segundo levantamento da Secretaria Nacional de Segurança Pública (Senasp), do Ministério da Justiça e Segurança Pública (MJSP). Foram 573 oco",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Toffoli vota pela preservação definitiva de mensagens sobre a Lava Jato obtidas por hackers",
       "link": "https://www.estadao.com.br/politica/toffoli-vota-pela-preservacao-definitiva-de-mensagens-sobre-a-lava-jato-obtidas-por-hackers-nprp/",
       "date": "2026-11-14T02:27:09.000Z",
@@ -367,15 +385,6 @@
       "summary": "A crise provocada pelo afastamento de dois delegados que atuavam na coordenação das investigações sobre o Banco Master tem servido como combustível na disputa interna vivida na Polícia Federal, segundo integrantes da corporação ouvidos pela Folha. Leia mais (1",
       "source": "Folha",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Subsídios criam o modelo Robin Hood às avessas e deixam País com sobra de energia e risco de apagão",
-      "link": "https://www.estadao.com.br/economia/adriano-pires/subsidios-criam-o-modelo-robin-hood-as-avessas-e-deixam-pais-com-sobra-de-energia-e-risco-de-apagao/",
-      "date": "2026-11-14T01:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -460,15 +469,6 @@
       "type": "oficial"
     },
     {
-      "title": "Cúpula do PT decide apoiar ajuste fiscal do governo e elege Banco Central como culpado por crise",
-      "link": "https://www.estadao.com.br/politica/cupula-do-pt-decide-apoiar-ajuste-fiscal-do-governo-e-elege-banco-central-como-culpado-por-crise/",
-      "date": "2026-11-13T20:11:51.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Comissão aprova proposta para uso de títulos em concursos de PMs e bombeiros",
       "link": "https://www.camara.leg.br/noticias/1319294-comissao-aprova-proposta-para-uso-de-titulos-em-concursos-de-pms-e-bombeiros",
       "date": "2026-11-13T20:01:00.000Z",
@@ -541,15 +541,6 @@
       "type": "oficial"
     },
     {
-      "title": "O quão próximas são as ligações da AfD com movimentos neonazistas?",
-      "link": "https://www.dw.com/pt-br/o-quão-próximas-são-as-ligações-da-afd-com-movimentos-neonazistas/a-79942648?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-13T18:30:00.000Z",
-      "summary": "Sigla de ultradireita tem crescido nas pesquisas eleitorais, reacendendo o debate sobre o passado de alguns de seus integrantes em organizações neonazistas e movimentos etnonacionalistas.",
-      "source": "DW Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
       "title": "Comissão aprova projeto que proíbe vistoria veicular periódica em razão da idade do veículo",
       "link": "https://www.camara.leg.br/noticias/1319323-comissao-aprova-projeto-que-proibe-vistoria-veicular-periodica-em-razao-da-idade-do-veiculo",
       "date": "2026-11-13T18:08:00.000Z",
@@ -566,15 +557,6 @@
       "source": "ONU News",
       "cat": "internacional",
       "type": "oficial"
-    },
-    {
-      "title": "As acusações de 'festas sexuais em troca de contratos' que levaram à investigação do ex-presidente colombiano Gustavo Petro",
-      "link": "https://www.bbc.com/portuguese/articles/cm174ll0nvj9o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-12T18:18:24.000Z",
-      "summary": "Uma mulher acusa o ex-presidente Gustavo Petro de ter fornecido contratos com o Estado colombiano em troca de favores sexuais.",
-      "source": "BBC News Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
     },
     {
       "title": "CEO da Nvidia renuncia após caso com suposta espiã chinesa: quem assumirá o comando da empresa?",
@@ -676,6 +658,15 @@
       "type": "imprensa"
     },
     {
+      "title": "CNC conquista selo de qualidade do ambiente de trabalho",
+      "link": "https://www.estadao.com.br/economia/cnc-conquista-selo-de-qualidade-do-ambiente-de-trabalho/",
+      "date": "2026-11-10T22:30:41.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "Conferência do Clima discute caminhos para o fim dos combustíveis fósseis",
       "link": "https://news.un.org/feed/view/pt/story/2026/11/1854891",
       "date": "2026-11-10T12:00:00.000Z",
@@ -719,6 +710,15 @@
       "source": "Banco Central",
       "cat": "economia",
       "type": "oficial"
+    },
+    {
+      "title": "'Não falei com Lula. Isso foi plantado para queimar alguém que defendeu a proposta', diz André Lara Resende",
+      "link": "https://www.bbc.com/portuguese/articles/cmly0jeq2q9no?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-05T23:19:37.000Z",
+      "summary": "Economista que presidiu o BNDES e fez parte da diretoria do Banco Central propôs criação de conselho que reduziria taxa Selic a longo prazo; proposta mobilizou mercado financeiro e discussão em Brasília.",
+      "source": "BBC News Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
     }
   ],
   "errors": [
