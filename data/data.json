@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-15T17:02:15.803Z",
+  "updated": "2026-11-15T17:54:45.754Z",
   "market": {
     "ibov": {
       "price": 172457.77,
       "pct": 0.66,
-      "time": "2026-11-15T17:02:09.564Z",
+      "time": "2026-11-15T17:54:40.632Z",
       "history": [
         {
           "d": "2026-10-16",
@@ -140,6 +140,33 @@
     ]
   },
   "news": [
+    {
+      "title": "Dependência brasileira de fertilizantes é um risco para a segurança alimentar global",
+      "link": "https://www.estadao.com.br/economia/agronegocios/dependencia-brasileira-de-fertilizantes-e-um-risco-para-a-seguranca-alimentar-global/",
+      "date": "2026-11-15T17:12:33.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Brasil não tem plano B na crise de cibersegurança",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/ronaldolemos/2026/11/brasil-nao-tem-plano-b-na-crise-de-ciberseguranca.shtml",
+      "date": "2026-11-15T17:00:00.000Z",
+      "summary": "Se alguém tinha dúvidas de que a inocência em cibersegurança acabou, os últimos dias deixaram isso claro. Várias infraestruturas críticas do Brasil foram atacadas ou paralisadas por falhas: o Porto de Santos com sistemas fora do ar, vazamento de dados na Caixa",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "The Economist: Para a geração baby boomers, os tempos de prosperidade econômica acabaram",
+      "link": "https://www.estadao.com.br/economia/the-economist-para-a-geracao-baby-boomers-os-tempos-de-prosperidade-economica-acabaram/",
+      "date": "2026-11-15T17:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
     {
       "title": "Folha altera cabeçalho em alusão ao Dia da Proclamação da República",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/folha-altera-cabecalho-em-alusao-ao-dia-da-proclamacao-da-republica.shtml",
@@ -285,15 +312,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Após caso Nvidia, aliados de Trump correm para aprovar restrição a chips para China",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/apos-caso-nvidia-aliados-de-trump-correm-para-aprovar-restricao-a-chips-para-china.shtml",
-      "date": "2026-11-15T14:30:00.000Z",
-      "summary": "Parlamentares dos EUA estão acelerando os esforços para restringir a chegada de chips avançados de IA à China, após revelações de que o fundador da Nvidia, Jensen Huang, teve um caso com uma mulher suspeita de ser espiã chinesa. Leia mais (11/15/2026 - 11h30)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Mega-Sena 3086: prêmio acumula e vai a R$ 34 milhões; confira os números sorteados",
       "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/15/mega-sena-3086-confira-os-numeros-sorteados.ghtml",
       "date": "2026-11-15T14:05:58.000Z",
@@ -375,15 +393,6 @@
       "type": "imprensa"
     },
     {
-      "title": "O Lado Invisível Das Finanças: Quem Decide, a Razão ou a Emoção?",
-      "link": "https://www.estadao.com.br/economia/gestao-e-negocios/o-lado-invisivel-das-financas-quem-decide-a-razao-ou-a-emocao/",
-      "date": "2026-11-15T10:18:01.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Mesmo com fim do inquérito das fake news, Moraes concentra 97% das ações penais e 30% dos inquéritos",
       "link": "https://www.estadao.com.br/politica/mesmo-com-fim-do-inquerito-das-fake-news-moraes-concentra-97-das-acoes-penais-e-30-dos-inqueritos/",
       "date": "2026-11-15T08:30:00.000Z",
@@ -399,15 +408,6 @@
       "summary": "",
       "source": "Estadão",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Fim do ‘ciclo de ouro’ do minério de ferro afeta mineradoras com menor competitividade no Brasil",
-      "link": "https://www.estadao.com.br/economia/negocios/fim-do-ciclo-de-ouro-do-minerio-de-ferro-afeta-mineradoras-com-menor-competitividade-no-brasil/",
-      "date": "2026-11-15T08:30:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -434,15 +434,6 @@
       "date": "2026-11-14T19:46:00.000Z",
       "summary": "Dezenas de milhares saíram às ruas em mais de 30 cidades. País teve maior aumento da relação entre preços dos imóveis e renda média de toda a UE na última década.",
       "source": "DW Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Por que o México arrecada tão poucos impostos (e como financia seus crescentes benefícios sociais)",
-      "link": "https://www.bbc.com/portuguese/articles/cmn8077z3xl6o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-14T19:06:17.000Z",
-      "summary": "O México é um dos países que menos arrecadam impostos na América Latina, mas os gastos públicos impulsionam seu consumo interno e são fundamentais no combate à pobreza. Como o governo do país pode solucionar as \"anomalias fiscais\" mexicanas?",
-      "source": "BBC News Brasil",
       "cat": "internacional",
       "type": "imprensa"
     },
@@ -697,6 +688,15 @@
       "source": "Banco Central",
       "cat": "economia",
       "type": "oficial"
+    },
+    {
+      "title": "'Não falei com Lula. Isso foi plantado para queimar alguém que defendeu a proposta', diz André Lara Resende",
+      "link": "https://www.bbc.com/portuguese/articles/cmly0jeq2q9no?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-05T23:19:37.000Z",
+      "summary": "Economista que presidiu o BNDES e fez parte da diretoria do Banco Central propôs criação de conselho que reduziria taxa Selic a longo prazo; proposta mobilizou mercado financeiro e discussão em Brasília.",
+      "source": "BBC News Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
     }
   ],
   "errors": [
