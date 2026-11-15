@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-15T20:16:32.151Z",
+  "updated": "2026-11-15T20:58:38.528Z",
   "market": {
     "ibov": {
       "price": 172457.77,
       "pct": 0.66,
-      "time": "2026-11-15T20:16:28.606Z",
+      "time": "2026-11-15T20:58:33.267Z",
       "history": [
         {
           "d": "2026-10-16",
@@ -141,6 +141,60 @@
   },
   "news": [
     {
+      "title": "Cármen arquiva ação sobre bloqueios de Bolsonaro a jornalistas no X",
+      "link": "https://www.poder360.com.br/poder-justica/carmen-arquiva-acao-sobre-bloqueios-de-bolsonaro-a-jornalistas-no-x/",
+      "date": "2026-11-15T20:42:49.000Z",
+      "summary": "Ministra diz que medida violou liberdade de imprensa, mas considera que saída do ex-presidente do cargo fez ação perder o objeto",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Trump culpa governo Biden por pane no sistema aéreo dos EUA",
+      "link": "https://www.poder360.com.br/poder-internacional/trump-culpa-governo-biden-por-pane-no-sistema-aereo-dos-eua/",
+      "date": "2026-11-15T20:16:45.000Z",
+      "summary": "Republicano disse que gestão anterior gastou dinheiro de forma inadequada e agravou problemas de um sistema que classificou como “antigo e falho”",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Polonesas driblam veto ao aborto com armário de entrega de pílulas",
+      "link": "https://www.dw.com/pt-br/polonesas-driblam-veto-ao-aborto-com-armário-de-entrega-de-pílulas/a-79953437?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-15T20:07:00.000Z",
+      "summary": "'Abortomat' se inspira em solução para receber encomendas de lojas online. Iniciativa enfrenta oposição de grupos católicos em país com uma das legislações mais restritivas da Europa.",
+      "source": "DW Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Os planos de saúde privados seguem ameaçados",
+      "link": "https://www.estadao.com.br/economia/antonio-penteado-mendonca/os-planos-de-saude-seguem-ameacados/",
+      "date": "2026-11-15T20:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Relutância do governo em ter políticas que não colidam com a monetária acaba por perpetuar os juros",
+      "link": "https://www.estadao.com.br/economia/luis-eduardo-assis/relutancia-do-governo-em-ter-politicas-que-nao-colidam-com-a-monetaria-acaba-por-perpetuar-os-juros/",
+      "date": "2026-11-15T20:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Mãos à obra 2: por que é importante conquistar o grau de investimento?",
+      "link": "https://www.estadao.com.br/economia/luiz-carlos-trabuco-cappi/maos-a-obra-2-por-que-e-importante-conquistar-o-grau-de-investimento/",
+      "date": "2026-11-15T20:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "Correios registram prejuízo de R$ 7,5 bilhões até o terceiro trimestre",
       "link": "https://g1.globo.com/economia/noticia/2026/11/15/correios-registram-prejuizo-de-r-75-bilhoes-no-terceiro-trimestre.ghtml",
       "date": "2026-11-15T19:45:29.000Z",
@@ -163,24 +217,6 @@
       "link": "https://www.poder360.com.br/poder-internacional/russia-confirma-encontro-de-trump-putin-e-xi-jinping-na-china/",
       "date": "2026-11-15T19:26:52.000Z",
       "summary": "Encontro acontecerá na China, durante viagem de Trump e Putin ao país para a reunião de cúpula da Apec",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Milei confirma que disputará reeleição à Presidência em 2027",
-      "link": "https://www.poder360.com.br/poder-internacional/milei-confirma-que-disputara-reeleicao-a-presidencia-em-2027/",
-      "date": "2026-11-15T19:09:23.000Z",
-      "summary": "Presidente anunciou intenção de concorrer no ano que vem e apresentou metas econômicas para um eventual 2º mandato",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Irã ataca o Bahrein e amplia escalada militar no Golfo Pérsico",
-      "link": "https://www.poder360.com.br/poder-internacional/ira-ataca-o-bahrein-e-amplia-escalada-militar-no-golfo-persico/",
-      "date": "2026-11-15T19:01:29.000Z",
-      "summary": "Não há registro de mortos ou feridos; de acordo com o Ministério da Defesa do Bahrein, vários dos drones foram interceptados",
       "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
@@ -236,15 +272,6 @@
       "date": "2026-11-15T17:00:00.000Z",
       "summary": "Se alguém tinha dúvidas de que a inocência em cibersegurança acabou, os últimos dias deixaram isso claro. Várias infraestruturas críticas do Brasil foram atacadas ou paralisadas por falhas: o Porto de Santos com sistemas fora do ar, vazamento de dados na Caixa",
       "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "The Economist: Para a geração baby boomers, os tempos de prosperidade econômica acabaram",
-      "link": "https://www.estadao.com.br/economia/the-economist-para-a-geracao-baby-boomers-os-tempos-de-prosperidade-economica-acabaram/",
-      "date": "2026-11-15T17:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
       "cat": "economia",
       "type": "imprensa"
     },
@@ -393,24 +420,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Banco ABC Brasil compra 40% da Angá Asset e prevê assumir 100% até 2031 por R$ 690 milhões",
-      "link": "https://www.estadao.com.br/economia/banco-abc-brasil-compra-40-da-anga-asset-e-preve-assumir-100-ate-2031-por-r-690-milhoes/",
-      "date": "2026-11-15T13:05:20.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "‘Ao invés de ficar chorando, fomos buscar novos parceiros’, diz Lula, sobre tarifaço de Trump",
-      "link": "https://www.estadao.com.br/economia/ao-inves-de-ficar-chorando-fomos-buscar-novos-parceiros-diz-lula-sobre-tarifaco-de-trump/",
-      "date": "2026-11-15T13:03:14.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Mais de 100 mil vão às ruas em novos protestos na França, mais de 200 são presos",
       "link": "https://www.dw.com/pt-br/mais-de-100-mil-vão-às-ruas-em-novos-protestos-na-frança-mais-de-200-são-presos/a-79951672?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-15T10:36:00.000Z",
@@ -452,15 +461,6 @@
       "date": "2026-11-14T18:06:39.000Z",
       "summary": "O governo dos Estados Unidos não acredita que a interrupção tenha sido resultado de um ataque cibernético, embora as investigações ainda estejam em andamento.",
       "source": "BBC News Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "AfD lança ex-jogador da Alemanha como candidato à Presidência",
-      "link": "https://www.dw.com/pt-br/afd-lança-ex-jogador-da-alemanha-como-candidato-à-presidência/a-79948969?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-14T15:27:00.000Z",
-      "summary": "Partido de ultradireita apostou em nome \"do centro da sociedade que pode representar todos os alemães\". Cargo provavelmente será ocupado pela primeira vez por uma mulher.",
-      "source": "DW Brasil",
       "cat": "internacional",
       "type": "imprensa"
     },
