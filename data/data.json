@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-15T15:23:09.560Z",
+  "updated": "2026-11-15T16:18:45.586Z",
   "market": {
     "ibov": {
       "price": 172457.77,
       "pct": 0.66,
-      "time": "2026-11-15T15:23:04.283Z",
+      "time": "2026-11-15T16:18:39.185Z",
       "history": [
         {
           "d": "2026-10-16",
@@ -141,6 +141,87 @@
   },
   "news": [
     {
+      "title": "Ajuste fiscal mira superavit e mantém programas sociais, diz Alckmin",
+      "link": "https://www.poder360.com.br/poder-educacao/ajuste-fiscal-mira-superavit-e-mantem-programas-sociais-diz-alckmin/",
+      "date": "2026-11-15T16:15:58.000Z",
+      "summary": "Presidente em exercício diz que meta de superavit primário busca reduzir juros; declaração foi dada em visita ao Inep",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "A cláusula de barreira depois da vírgula",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/lara-mesquita/2026/11/a-clausula-de-barreira-depois-da-virgula.shtml",
+      "date": "2026-11-15T16:04:00.000Z",
+      "summary": "Em 2017, o Congresso Nacional aprovou a emenda constitucional 97 com dois objetivos complementares: acabar com as coligações nas eleições proporcionais e restringir o acesso ao fundo partidário e à propaganda partidária e eleitoral gratuita aos partidos com de",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "CNJ aprova regras para negociação de precatórios; entenda",
+      "link": "https://www.poder360.com.br/poder-justica/cnj-aprova-regras-para-negociacao-de-precatorios-entenda/",
+      "date": "2026-11-15T16:02:22.000Z",
+      "summary": "Resolução cria central nacional para controle de cessões, busca prevenir fraudes e proteger credores de dívidas públicas",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Open Finance deveria ter portabilidade salarial, diz Mercado Pago",
+      "link": "https://www.poder360.com.br/poder-economia/open-finance-deveria-ter-portabilidade-salarial-diz-mercado-pago/",
+      "date": "2026-11-15T16:00:54.000Z",
+      "summary": "Instrumento permite o compartilhamento seguro de dados e serviços financeiros entre diferentes instituições",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Ajuste fiscal mostra que vencer eleições exige ambiguidades, omissões e mentiras",
+      "link": "https://www.estadao.com.br/politica/fabiano-lana/ajuste-fiscal-mostra-que-vencer-eleicoes-exige-ambiguidades-omissoes-e-mentiras/",
+      "date": "2026-11-15T16:00:43.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Senadores retomam debate sobre fim da reeleição à Presidência mesmo após derrota de Flávio Bolsonaro",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/senadores-retomam-debate-sobre-fim-da-reeleicao-a-presidencia-mesmo-apos-derrota-de-flavio-bolsonaro.shtml",
+      "date": "2026-11-15T16:00:00.000Z",
+      "summary": "Líderes partidários do Senado discutem levar adiante o fim da reeleição para a Presidência da República, proposta feita pelo senador Flávio Bolsonaro (PL-RJ) na campanha eleitoral deste ano. Leia mais (11/15/2026 - 13h00)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Empresas perdem primeira rodada na Justiça contra imposto sobre imposto na reforma tributária",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/empresas-perdem-primeira-rodada-na-justica-contra-imposto-sobre-imposto-na-reforma-tributaria.shtml",
+      "date": "2026-11-15T15:30:00.000Z",
+      "summary": "Empresas brasileiras contestam no Judiciário a decisão de alguns estados e municípios de incluir os novos tributos sobre bens e serviços (CBS/IBS) na base de cálculo dos seus impostos atuais a partir de 2027. Leia mais (11/15/2026 - 12h30)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Ajuste fiscal: Alckmin afirma que projeto do governo 'vai na direção correta' e diz esperar votação na Câmara nesta semana",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/15/ajuste-fiscal-alckmin-afirma-que-projeto-do-governo-vai-na-direcao-correta-e-diz-esperar-votacao-na-camara-nesta-semana.ghtml",
+      "date": "2026-11-15T15:23:09.000Z",
+      "summary": "O presidente em exercício, Geraldo Alckmin, afirmou neste domingo (15) que o projeto de ajuste fiscal do governo é uma medida tomada \"na direção correta\" e que espera que o Senado termine de votar o texto para que a proposta seja enviada para análise na Câmara",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Irã diz que afundou supernavio com 2 milhões de barris de petróleo",
+      "link": "https://www.dw.com/pt-br/irã-diz-que-afundou-supernavio-com-2-milhões-de-barris-de-petróleo/a-79952899?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-15T15:16:00.000Z",
+      "summary": "Embarcação teria atingido mina e explodido ao navegar sem autorização pelo Estreito de Ormuz. Hidrovia estratégica está no centro da guerra com os Estados Unidos.",
+      "source": "DW Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
       "title": "Canadá anuncia até R$ 2,2 bilhões para fundo de proteção de florestas liderado pelo Brasil",
       "link": "https://g1.globo.com/meio-ambiente/noticia/2026/11/15/canada-fundo-de-protecao-de-florestas-brasil.ghtml",
       "date": "2026-11-15T15:06:28.000Z",
@@ -180,18 +261,9 @@
       "title": "Mega-Sena 3086: prêmio acumula e vai a R$ 34 milhões; confira os números sorteados",
       "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/15/mega-sena-3086-confira-os-numeros-sorteados.ghtml",
       "date": "2026-11-15T14:05:58.000Z",
-      "summary": "O sorteio do concurso 3.086 da Mega-Sena foi realizado na manhã deste domingo (15) em São Paulo. O prêmio caso houvesse o acerto das seis dezenas era de R$ R$ 26.855.904,50. Contudo, ninguém acertou os seis números e o prêmio acumulou para o próximo sorteio, e",
+      "summary": "Concurso 3.086 da Mega-Sena: veja os números sorteados O sorteio do concurso 3.086 da Mega-Sena foi realizado na manhã deste domingo (15) em São Paulo. O prêmio caso houvesse o acerto das seis dezenas era de R$ R$ 26.855.904,50. Contudo, ninguém acertou os sei",
       "source": "g1",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Malharia no Amapá mira contrato com a Petrobras após petróleo",
-      "link": "https://www.poder360.com.br/poder-empreendedor/malharia-no-amapa-mira-contrato-com-petrobras-apos-petroleo/",
-      "date": "2026-11-15T14:00:54.000Z",
-      "summary": "A Gennesys ainda não trabalha com a estatal, mas disse pensar em fornecimento de uniformes e EPIs",
-      "source": "Poder360",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -201,15 +273,6 @@
       "summary": "Preparativos para o primeiro encontro trilateral entre os líderes da China, da Rússia e dos EUA provocaram apreensão na Europa, onde alguns veem paralelos com a divisão do mundo em esferas de influência após a Segunda Guerra Mundial.",
       "source": "BBC News Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Após reunião com Lula, Canadá anuncia US$ 400 mi a fundo de florestas",
-      "link": "https://www.poder360.com.br/poder-sustentavel/apos-reuniao-com-lula-canada-anuncia-us-400-mi-a-fundo-de-florestas/",
-      "date": "2026-11-15T13:50:43.000Z",
-      "summary": "Presidente diz que premiê visitará o Brasil no 1º trimestre de 2027; Lula retribuirá com viagem ao país norte-americano",
-      "source": "Poder360",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -276,30 +339,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Escândalo Nvidia coloca espionagem nos holofotes",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/escandalo-nvidia-coloca-espionagem-nos-holofotes.shtml",
-      "date": "2026-11-15T12:53:00.000Z",
-      "summary": "Acreditava-se que Alice Huang, a executiva chinesa no centro do escândalo de uma suposta espionagem envolvendo a Nvidia, estivesse usando seu caso com o fundador da empresa, Jensen Huang, para ajudar a China a contornar os esforços dos EUA para restringir o ac",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Mais de 100 mil vão às ruas em novos protestos na França, mais de 200 são presos",
       "link": "https://www.dw.com/pt-br/mais-de-100-mil-vão-às-ruas-em-novos-protestos-na-frança-mais-de-200-são-presos/a-79951672?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-15T10:36:00.000Z",
       "summary": "A polícia deteve 219 pessoas no quinto sábado seguido de manifestações contra o alto custo de vida e em defesa de uma melhor educação.",
       "source": "DW Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Hackers invadem subsidiária dos Correios da França e expõem dados de 22 milhões",
-      "link": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/11/15/hackers-invadem-subsidiaria-dos-correios-da-franca-e-expoem-dados-de-22-milhoes.ghtml",
-      "date": "2026-11-15T10:21:11.000Z",
-      "summary": "A cibersegurança continua sendo uma preocupação crescente. Freepik A La Poste, equivalente aos Correios no Brasil e um dos maiores grupos de serviços da França, confirmou no sábado (14) que sua subsidiária Maileva foi vítima de um ataque cibernético em setembr",
-      "source": "g1",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -366,42 +411,6 @@
       "type": "imprensa"
     },
     {
-      "title": "137 anos depois, quem a República deixou de fora?",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/137-anos-depois-quem-a-republica-deixou-de-fora.shtml",
-      "date": "2026-11-15T03:35:00.000Z",
-      "summary": "Desde a Proclamação da República, o Brasil teve seis Constituições republicanas. Apenas a última, promulgada em 1988, quase 100 anos após o fim do Império, consolidou o sufrágio universal e ampliou as garantias de participação política. Leia mais (11/15/2026 -",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Governo lança guia para identificação e direcionamento de famílias em risco de fome para programas sociais",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/15/governo-lanca-guia-para-identificacao-e-direcionamento-de-familias-em-risco-de-fome-para-programas-sociais.ghtml",
-      "date": "2026-11-15T03:00:00.000Z",
-      "summary": "Obesidade é quase 3 vezes maior entre mulheres com insegurança alimentar, aponta estudo Adobe Stock O governo federal lançou esta semana um guia para apoiar estados e municípios a organizar a identificação, o encaminhamento e o acompanhamento de famílias em ri",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Idosos com 70 anos ou mais são 4 em cada 10 novos eleitores no 2º turno",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/idosos-com-70-anos-ou-mais-sao-4-de-cada-10-novos-eleitores-no-2o-turno.shtml",
-      "date": "2026-11-15T02:09:00.000Z",
-      "summary": "Os idosos com 70 anos ou mais não são obrigados a votar, mas foram os eleitores que mais fizeram diferença no segundo turno das eleições de 2026, de acordo com dados divulgados neste sábado (14) pelo TSE (Tribunal Superior Eleitoral). Leia mais (11/14/2026 - 2",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Múcio sai e Vieira deve ficar, articulando o sonho de Lula, o Prêmio Nobel da Paz",
-      "link": "https://www.estadao.com.br/politica/eliane-cantanhede/mucio-sai-e-vieira-deve-ficar-articulando-o-sonho-de-lula-o-premio-nobel-da-paz/",
-      "date": "2026-11-14T23:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "COP31 ruma a semana decisiva sob pressão por maior ambição climática",
       "link": "https://www.dw.com/pt-br/cop31-ruma-a-semana-decisiva-sob-pressão-por-maior-ambição-climática/a-79950292?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-14T22:03:00.000Z",
@@ -443,15 +452,6 @@
       "date": "2026-11-14T18:06:39.000Z",
       "summary": "O governo dos Estados Unidos não acredita que a interrupção tenha sido resultado de um ataque cibernético, embora as investigações ainda estejam em andamento.",
       "source": "BBC News Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Zelenski diz que EUA propuseram à Ucrânia ceder território a Moscou para entrar na Otan",
-      "link": "https://www.dw.com/pt-br/zelenski-diz-que-eua-propuseram-à-ucrânia-ceder-território-a-moscou-para-entrar-na-otan/a-79949054?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-14T16:47:00.000Z",
-      "summary": "O presidente ucraniano afirmou que, em Abu Dhabi, americanos levantaram a possibilidade de admitir seu país na aliança militar caso Kiev se retirasse de áreas que ainda controla no Donbass.",
-      "source": "DW Brasil",
       "cat": "internacional",
       "type": "imprensa"
     },
@@ -691,7 +691,7 @@
     }
   ],
   "errors": [
-    "IPCA 12m (SGS 13522): HTTP 304",
+    "Selic (SGS 432): HTTP 304",
     "feed CNN Brasil: HTTP 404",
     "feed CNN Brasil: HTTP 404"
   ]
