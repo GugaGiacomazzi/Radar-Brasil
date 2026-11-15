@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-15T16:18:45.586Z",
+  "updated": "2026-11-15T17:02:15.803Z",
   "market": {
     "ibov": {
       "price": 172457.77,
       "pct": 0.66,
-      "time": "2026-11-15T16:18:39.185Z",
+      "time": "2026-11-15T17:02:09.564Z",
       "history": [
         {
           "d": "2026-10-16",
@@ -141,6 +141,42 @@
   },
   "news": [
     {
+      "title": "Folha altera cabeçalho em alusão ao Dia da Proclamação da República",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/folha-altera-cabecalho-em-alusao-ao-dia-da-proclamacao-da-republica.shtml",
+      "date": "2026-11-15T16:52:00.000Z",
+      "summary": "A Folha altera neste domingo (15) seu cabeçalho, no topo da Primeira Página e em sua versão digital, com a inclusão da bandeira do Brasil em alusão ao Dia da Proclamação da República. Leia mais (11/15/2026 - 13h52)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Queda do desmatamento garantiu novo repasse da Noruega, diz Alckmin",
+      "link": "https://www.poder360.com.br/poder-governo/queda-do-desmatamento-garantiu-novo-repasse-da-noruega-diz-alckmin/",
+      "date": "2026-11-15T16:47:04.000Z",
+      "summary": "Presidente em exercício cita redução de mais de 40% e anúncio de quase R$ 400 milhões na COP 31; total doado passa de R$ 4 bi",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Projeto de ajuste fiscal vai na direção correta e deve chegar à Câmara nesta semana, diz Alckmin",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/projeto-de-ajuste-fiscal-vai-na-direcao-correta-e-deve-chegar-a-camara-nesta-semana-diz-alckmin.shtml",
+      "date": "2026-11-15T16:41:00.000Z",
+      "summary": "O presidente da República em exercício, Geraldo Alckmin, disse que o governo espera para a terça-feira (17) o término da votação dos destaques à proposta de ajuste fiscal no Senado e o envio do texto à Câmara dos Deputados. Ele considera que o projeto vai na d",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Enem 2026: ministro da Educação cita tentativas de ataques hacker à página do Inep e diz que governo está 'controlando' situação",
+      "link": "https://g1.globo.com/educacao/enem/2026/noticia/2026/11/15/enem-2026-ministro-da-educacao-cita-tentativas-de-ataques-hacker-a-pagina-do-inep-e-diz-que-governo-esta-controlando-situacao.ghtml",
+      "date": "2026-11-15T16:17:26.000Z",
+      "summary": "O ministro da Educação, Leonardo Barchini, apresenta os números do Enem para o presidente em exercício Geraldo Alckmin Reprodução/MEC O ministro da Educação, Leonardo Barchini, disse que a página do Instituto Nacional de Estudos e Pesquisas Educacionais (Inep)",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "Ajuste fiscal mira superavit e mantém programas sociais, diz Alckmin",
       "link": "https://www.poder360.com.br/poder-educacao/ajuste-fiscal-mira-superavit-e-mantem-programas-sociais-diz-alckmin/",
       "date": "2026-11-15T16:15:58.000Z",
@@ -207,7 +243,7 @@
       "title": "Ajuste fiscal: Alckmin afirma que projeto do governo 'vai na direção correta' e diz esperar votação na Câmara nesta semana",
       "link": "https://g1.globo.com/politica/noticia/2026/11/15/ajuste-fiscal-alckmin-afirma-que-projeto-do-governo-vai-na-direcao-correta-e-diz-esperar-votacao-na-camara-nesta-semana.ghtml",
       "date": "2026-11-15T15:23:09.000Z",
-      "summary": "O presidente em exercício, Geraldo Alckmin, afirmou neste domingo (15) que o projeto de ajuste fiscal do governo é uma medida tomada \"na direção correta\" e que espera que o Senado termine de votar o texto para que a proposta seja enviada para análise na Câmara",
+      "summary": "Alckmin visita sede do Inep no 2º dia de provas do Enem O presidente em exercício, Geraldo Alckmin, afirmou neste domingo (15) que o projeto de ajuste fiscal do governo é uma medida tomada \"na direção correta\" e que espera que o Senado termine de votar o texto",
       "source": "g1",
       "cat": "politica",
       "type": "imprensa"
@@ -273,15 +309,6 @@
       "summary": "Preparativos para o primeiro encontro trilateral entre os líderes da China, da Rússia e dos EUA provocaram apreensão na Europa, onde alguns veem paralelos com a divisão do mundo em esferas de influência após a Segunda Guerra Mundial.",
       "source": "BBC News Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "CEOs de empresas de tecnologia defendem Huang e pedem volta do executivo à Nvidia",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/ceos-de-empresas-de-tecnologia-defendem-huang-e-pedem-volta-do-executivo-a-nvidia.shtml",
-      "date": "2026-11-15T13:45:00.000Z",
-      "summary": "Muitos executivos e investidores do Vale do Silício estão se mobilizando em apoio a Jensen Huang, que renunciou ao cargo de CEO da Nvidia na quinta-feira (12) após revelações de que manteve três casos extraconjugais com duas funcionárias e com uma mulher que a",
-      "source": "Folha",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -357,15 +384,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Emendas de Cleitinho bancaram show de Claudia Leitte e festa de prefeitura em MG",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/emendas-de-cleitinho-bancaram-show-de-claudia-leitte-e-festa-de-prefeitura-em-mg.shtml",
-      "date": "2026-11-15T09:00:00.000Z",
-      "summary": "O governador eleito de Minas Gerais, Cleitinho Azevedo (Republicanos), criticou o repasse de verbas do estado para festas em cidades do interior, mas destinou R$ 1,34 milhão em \"emendas Pix\" para custear esse tipo de evento durante seu mandato no Senado. Leia ",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Mesmo com fim do inquérito das fake news, Moraes concentra 97% das ações penais e 30% dos inquéritos",
       "link": "https://www.estadao.com.br/politica/mesmo-com-fim-do-inquerito-das-fake-news-moraes-concentra-97-das-acoes-penais-e-30-dos-inqueritos/",
       "date": "2026-11-15T08:30:00.000Z",
@@ -397,15 +415,6 @@
       "link": "https://g1.globo.com/politica/noticia/2026/11/15/lula-diz-que-buscou-novos-parceiros-em-vez-de-ficar-chorando-apos-tarifaco-dos-eua.ghtml",
       "date": "2026-11-15T06:58:47.000Z",
       "summary": "Lula diz que buscou novos parceiros em vez de 'ficar chorando' após tarifaço dos EUA O presidente Luiz Inácio Lula da Silva (PT) afirmou neste domingo (15) que o Brasil buscou diversificar suas parcerias comerciais após o tarifaço imposto pelos Estados Unidos.",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Lula defende ampliação de parceria com Sudeste Asiático e impõe condição à exploração de minerais críticos",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/15/lula-defende-ampliacao-de-parceria-com-sudeste-asiatico-e-impoe-condicao-a-exploracao-de-minerais-criticos.ghtml",
-      "date": "2026-11-15T06:01:34.000Z",
-      "summary": "Lula defende ampliação de parceria com Sudeste Asiático e impõe condição à exploração de minerais cr O presidente Luiz Inácio Lula da Silva (PT) defendeu neste domingo (15) o aprofundamento das relações comerciais e diplomáticas entre o Brasil e a Associação d",
       "source": "g1",
       "cat": "politica",
       "type": "imprensa"
@@ -691,7 +700,6 @@
     }
   ],
   "errors": [
-    "Selic (SGS 432): HTTP 304",
     "feed CNN Brasil: HTTP 404",
     "feed CNN Brasil: HTTP 404"
   ]
