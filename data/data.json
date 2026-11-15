@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-15T11:02:42.173Z",
+  "updated": "2026-11-15T11:59:18.719Z",
   "market": {
     "ibov": {
       "price": 172457.77,
       "pct": 0.66,
-      "time": "2026-11-15T11:02:37.611Z",
+      "time": "2026-11-15T11:59:12.915Z",
       "history": [
         {
           "d": "2026-10-16",
@@ -141,6 +141,24 @@
   },
   "news": [
     {
+      "title": "Alinhamento de Lula com a China vai fazer o Brasil sofrer, diz Flávio",
+      "link": "https://www.poder360.com.br/poder-congresso/alinhamento-de-lula-com-a-china-vai-fazer-o-brasil-sofrer-diz-flavio/",
+      "date": "2026-11-15T11:54:25.000Z",
+      "summary": "Nos EUA, senador afirma que política externa do presidente reeleito ampliará influência chinesa",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Kraft Heinz troca comando da BR Spices pela primeira vez desde aquisição",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/kraft-heinz-troca-comando-da-br-spices-pela-primeira-vez-desde-aquisicao.shtml",
+      "date": "2026-11-15T11:00:00.000Z",
+      "summary": "A Kraft Heinz Brasil vai trocar o comando da BR Spices, marca de temperos premium que a empresa está usando como laboratório para entrar em novas categorias. É a primeira mudança no comando da empresa desde que ela foi adquirida pela Kraft Heinz em 2021. Leia ",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "Tropas brasileiras patrulharam Faixa de Gaza por 10 anos para evitar guerra",
       "link": "https://www.poder360.com.br/poder-brasil/tropas-brasileiras-patrulharam-faixa-de-gaza-por-10-anos-para-evitar-guerra/",
       "date": "2026-11-15T10:40:05.000Z",
@@ -190,15 +208,6 @@
       "link": "https://www.poder360.com.br/poder-congresso/senado-aprova-incentivo-a-contratacao-de-mulheres-com-cancer-de-mama/",
       "date": "2026-11-15T09:54:52.000Z",
       "summary": "Iniciativa cria o Programa Empresa Rosa com benefícios para empresas e garante flexibilidade de regime de trabalho",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Infrações no inquérito das fake news não podem ser esquecidas, diz Amin",
-      "link": "https://www.poder360.com.br/poder-congresso/infracoes-no-inquerito-das-fake-news-nao-podem-ser-esquecidas-diz-amin/",
-      "date": "2026-11-15T09:25:13.000Z",
-      "summary": "Senador defende que fim da investigação não apaga irregularidades no procedimento que durou 7 anos e 8 meses",
       "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
@@ -288,7 +297,7 @@
       "title": "Lula diz que buscou novos parceiros em vez de 'ficar chorando' após tarifaço dos EUA",
       "link": "https://g1.globo.com/politica/noticia/2026/11/15/lula-diz-que-buscou-novos-parceiros-em-vez-de-ficar-chorando-apos-tarifaco-dos-eua.ghtml",
       "date": "2026-11-15T06:58:47.000Z",
-      "summary": "O presidente brasileiro Luiz Inácio Lula da Silva discursa durante uma coletiva de imprensa no centro de mídia à margem da 49ª Cúpula da Associação das Nações do Sudeste Asiático (ASEAN) e reuniões relacionadas, em Pasay City, Filipinas, em 15 de novembro de 2",
+      "summary": "Lula diz que buscou novos parceiros em vez de 'ficar chorando' após tarifaço dos EUA O presidente Luiz Inácio Lula da Silva (PT) afirmou neste domingo (15) que o Brasil buscou diversificar suas parcerias comerciais após o tarifaço imposto pelos Estados Unidos.",
       "source": "g1",
       "cat": "politica",
       "type": "imprensa"
@@ -306,7 +315,7 @@
       "title": "Lula defende ampliação de parceria com Sudeste Asiático e impõe condição à exploração de minerais críticos",
       "link": "https://g1.globo.com/politica/noticia/2026/11/15/lula-defende-ampliacao-de-parceria-com-sudeste-asiatico-e-impoe-condicao-a-exploracao-de-minerais-criticos.ghtml",
       "date": "2026-11-15T06:01:34.000Z",
-      "summary": "Lula defende ampliação de parceria com Sudeste Asiático e impõe condição à exploração de m O presidente Luiz Inácio Lula da Silva (PT) defendeu neste domingo (15) o aprofundamento das relações comerciais e diplomáticas entre o Brasil e a Associação de Nações d",
+      "summary": "Lula defende ampliação de parceria com Sudeste Asiático e impõe condição à exploração de minerais cr O presidente Luiz Inácio Lula da Silva (PT) defendeu neste domingo (15) o aprofundamento das relações comerciais e diplomáticas entre o Brasil e a Associação d",
       "source": "g1",
       "cat": "politica",
       "type": "imprensa"
@@ -372,15 +381,6 @@
       "summary": "O senador eleito Deltan Dallagnol chegará à Casa com o pé esquerdo, propondo a formação de uma CPI para investigar malfeitorias do governo de Lula. O governo de Lula nem começou e o senador mostra que pretende tocar seu samba de uma nota só. Leia mais (11/14/2",
       "source": "Folha",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Caso Master leva Banco Central ao maior número de liquidações desde 2002",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/caso-master-leva-banco-central-ao-maior-numero-de-liquidacoes-desde-2002.shtml",
-      "date": "2026-11-15T02:00:00.000Z",
-      "summary": "Das 21 liquidações extrajudiciais decretadas pelo Banco Central ao longo deste ano, 11 tinham ligação com o Banco Master, de Daniel Vorcaro. O montante, puxado pelo caso que abalou o sistema financeiro nacional, representa o maior número de instituições com at",
-      "source": "Folha",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
