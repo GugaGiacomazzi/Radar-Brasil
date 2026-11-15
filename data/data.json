@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-15T11:59:18.719Z",
+  "updated": "2026-11-15T12:51:30.862Z",
   "market": {
     "ibov": {
       "price": 172457.77,
       "pct": 0.66,
-      "time": "2026-11-15T11:59:12.915Z",
+      "time": "2026-11-15T12:51:24.379Z",
       "history": [
         {
           "d": "2026-10-16",
@@ -201,15 +201,6 @@
       "summary": "",
       "source": "Estadão",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Senado aprova incentivo à contratação de mulheres com câncer de mama",
-      "link": "https://www.poder360.com.br/poder-congresso/senado-aprova-incentivo-a-contratacao-de-mulheres-com-cancer-de-mama/",
-      "date": "2026-11-15T09:54:52.000Z",
-      "summary": "Iniciativa cria o Programa Empresa Rosa com benefícios para empresas e garante flexibilidade de regime de trabalho",
-      "source": "Poder360",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -719,7 +710,6 @@
   ],
   "errors": [
     "feed CNN Brasil: HTTP 404",
-    "feed CNN Brasil: HTTP 404",
-    "feed Planalto (governo): HTTP 429"
+    "feed CNN Brasil: HTTP 404"
   ]
 }
