@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-15T19:27:55.915Z",
+  "updated": "2026-11-15T20:16:32.151Z",
   "market": {
     "ibov": {
       "price": 172457.77,
       "pct": 0.66,
-      "time": "2026-11-15T19:27:48.183Z",
+      "time": "2026-11-15T20:16:28.606Z",
       "history": [
         {
           "d": "2026-10-16",
@@ -141,6 +141,24 @@
   },
   "news": [
     {
+      "title": "Correios registram prejuízo de R$ 7,5 bilhões até o terceiro trimestre",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/15/correios-registram-prejuizo-de-r-75-bilhoes-no-terceiro-trimestre.ghtml",
+      "date": "2026-11-15T19:45:29.000Z",
+      "summary": "Ponto de Coleta dos Correios em Belém Divulgação Os Correios tiveram prejuízo de R$ 7,5 bilhões até o terceiro trimestre de 2026, segundo o balanço contábil da estatal. O resultado representa um crescimento do rombo registrado no segundo trimestre, quando a es",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lula se encontra com Infantino e marca reunião sobre Copa Feminina",
+      "link": "https://www.poder360.com.br/poder-sportsmkt/lula-se-encontra-com-infantino-e-marca-reuniao-sobre-copa-feminina/",
+      "date": "2026-11-15T19:42:12.000Z",
+      "summary": "Presidente da Fifa deu parabéns ao petista pela reeleição e disse que discutirá os preparativos do torneio de 2027",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "Rússia confirma encontro de Trump, Putin e Xi Jinping na China",
       "link": "https://www.poder360.com.br/poder-internacional/russia-confirma-encontro-de-trump-putin-e-xi-jinping-na-china/",
       "date": "2026-11-15T19:26:52.000Z",
@@ -163,15 +181,6 @@
       "link": "https://www.poder360.com.br/poder-internacional/ira-ataca-o-bahrein-e-amplia-escalada-militar-no-golfo-persico/",
       "date": "2026-11-15T19:01:29.000Z",
       "summary": "Não há registro de mortos ou feridos; de acordo com o Ministério da Defesa do Bahrein, vários dos drones foram interceptados",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Congresso dos EUA quer restringir chips para a China após caso Nvidia",
-      "link": "https://www.poder360.com.br/poder-tech/congresso-dos-eua-quer-restringir-chips-para-a-china-apos-caso-nvidia/",
-      "date": "2026-11-15T18:40:48.000Z",
-      "summary": "Grandes provedores chineses se antecipam e reservam servidores equipados com chips da Nvidia no Sudeste Asiático antes que a restrição entre em vigor",
       "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
