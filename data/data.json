@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-15T14:39:57.108Z",
+  "updated": "2026-11-15T15:23:09.560Z",
   "market": {
     "ibov": {
       "price": 172457.77,
       "pct": 0.66,
-      "time": "2026-11-15T14:39:50.527Z",
+      "time": "2026-11-15T15:23:04.283Z",
       "history": [
         {
           "d": "2026-10-16",
@@ -141,6 +141,24 @@
   },
   "news": [
     {
+      "title": "Canadá anuncia até R$ 2,2 bilhões para fundo de proteção de florestas liderado pelo Brasil",
+      "link": "https://g1.globo.com/meio-ambiente/noticia/2026/11/15/canada-fundo-de-protecao-de-florestas-brasil.ghtml",
+      "date": "2026-11-15T15:06:28.000Z",
+      "summary": "Primeiro-ministro do Canadá, Mark Carney, agradece após discurso no Parlamento europeu em Strasburgo, na França, em 17 de setembro de 2026. REUTERS/Yves Herman O Canadá se comprometeu a contribuir com até 560 milhões de dólares canadenses (US$ 392,5 milhões, o",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Governo de SP vai endurecer regras para destinação de lixo em grandes eventos",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/governo-de-sp-vai-endurecer-regras-para-destinacao-de-lixo-em-grandes-eventos/",
+      "date": "2026-11-15T15:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "Após perder corrida dos transgênicos, Embrapa quer competir na edição gênica",
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/agro/2026/11/apos-perder-corrida-dos-transgenicos-embrapa-quer-competir-na-edicao-genica.shtml",
       "date": "2026-11-15T14:30:00.000Z",
@@ -159,10 +177,10 @@
       "type": "imprensa"
     },
     {
-      "title": "Mega-Sena 3086: confira os números sorteados",
+      "title": "Mega-Sena 3086: prêmio acumula e vai a R$ 34 milhões; confira os números sorteados",
       "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/15/mega-sena-3086-confira-os-numeros-sorteados.ghtml",
       "date": "2026-11-15T14:05:58.000Z",
-      "summary": "O sorteio do concurso 3.086 da Mega-Sena foi realizado na manhã deste domingo (15) em São Paulo. O prêmio para as apostas que acertarem as seis dezenas é de R$ R$ 26.855.904,50. 📱Favorite o g1 no Google e acompanhe as principais notícias do dia Clique aqui pa",
+      "summary": "O sorteio do concurso 3.086 da Mega-Sena foi realizado na manhã deste domingo (15) em São Paulo. O prêmio caso houvesse o acerto das seis dezenas era de R$ R$ 26.855.904,50. Contudo, ninguém acertou os seis números e o prêmio acumulou para o próximo sorteio, e",
       "source": "g1",
       "cat": "economia",
       "type": "imprensa"
@@ -249,24 +267,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Siderúrgicas pedem barreiras a carros e máquinas importados",
-      "link": "https://www.poder360.com.br/poder-infra/siderurgicas-pedem-barreiras-a-carros-e-maquinas-importados/",
-      "date": "2026-11-15T13:00:51.000Z",
-      "summary": "Executivos latino-americanos reunidos no México querem ampliar proteção contra concorrência chinesa a outros setores",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Hidrovia do Paraguai tem conversas avançadas mesmo após troca de poder",
-      "link": "https://www.poder360.com.br/poder-infra/hidrovia-do-paraguai-tem-conversas-avancadas-mesmo-apos-troca-de-poder/",
-      "date": "2026-11-15T13:00:49.000Z",
-      "summary": "Governo brasileiro diz que mudança na Presidência paraguaia não afeta negociações por concessão de trecho de 600 quilômetros",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Governo Tarcísio estuda recriar pasta do Planejamento para acomodar aliada",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/governo-tarcisio-estuda-recriar-pasta-do-planejamento-para-acomodar-aliada.shtml",
       "date": "2026-11-15T13:00:00.000Z",
@@ -344,15 +344,6 @@
       "date": "2026-11-15T08:30:00.000Z",
       "summary": "",
       "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Hidratação nos chifres, 'damas de companhia' e dieta especial: o g1 acompanhou a rotina da vaca mais cara do mundo",
-      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/15/o-g1-acompanhou-a-rotina-da-vaca-mais-cara-do-mundo.ghtml",
-      "date": "2026-11-15T08:00:00.000Z",
-      "summary": "O g1 passou um dia com a vaca mais cara do mundo; veja como foi A vaca mais cara do mundo é brasileira, tem cinco donos e três clones para chamar de seus. Avaliada em R$ 54 milhões, Donna FIV CIAV nasceu no Paraná e hoje vive na fazenda Mata Velha, em Uberaba ",
-      "source": "g1",
       "cat": "economia",
       "type": "imprensa"
     },
@@ -453,15 +444,6 @@
       "summary": "O governo dos Estados Unidos não acredita que a interrupção tenha sido resultado de um ataque cibernético, embora as investigações ainda estejam em andamento.",
       "source": "BBC News Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Voto distrital misto volta a ser debatido no Congresso após décadas de tentativas e rejeições",
-      "link": "https://www.estadao.com.br/politica/voce-sabia-curiosidades-politica/voto-distrital-misto-volta-a-ser-debatido-no-congresso-apos-decadas-de-tentativas-e-rejeicoes/",
-      "date": "2026-11-14T17:52:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -709,6 +691,7 @@
     }
   ],
   "errors": [
+    "IPCA 12m (SGS 13522): HTTP 304",
     "feed CNN Brasil: HTTP 404",
     "feed CNN Brasil: HTTP 404"
   ]
