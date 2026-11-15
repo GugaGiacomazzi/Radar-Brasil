@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-15T17:54:45.754Z",
+  "updated": "2026-11-15T18:39:10.922Z",
   "market": {
     "ibov": {
       "price": 172457.77,
       "pct": 0.66,
-      "time": "2026-11-15T17:54:40.632Z",
+      "time": "2026-11-15T18:39:04.342Z",
       "history": [
         {
           "d": "2026-10-16",
@@ -141,6 +141,42 @@
   },
   "news": [
     {
+      "title": "PIB paulista cresce 1,5% no acumulado de 2026",
+      "link": "https://www.poder360.com.br/poder-economia/pib-paulista-cresce-15-no-acumulado-de-2026/",
+      "date": "2026-11-15T18:05:20.000Z",
+      "summary": "Agropecuária avançou 2,8% e serviços, 2,4%, segundo dados da Fundação Seade",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "PL terá um terço das vagas da Comissão de Constituição e Justiça do Senado",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/pl-tera-um-terco-das-vagas-da-comissao-de-constituicao-e-justica-do-senado.shtml",
+      "date": "2026-11-15T18:00:00.000Z",
+      "summary": "A bancada do PL terá um terço das vagas da CCJ (Comissão de Constituição e Justiça) do Senado na próxima legislatura, de acordo com projeção de assessores técnicos do Legislativo. A divisão é proporcional ao tamanho do grupo, que terá 29 senadores, caso nenhum",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Marx, o javanês institucional e o inquérito do fim do mundo",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/marcus-melo/2026/11/marx-o-javanes-institucional-e-o-inquerito-do-fim-do-mundo.shtml",
+      "date": "2026-11-15T18:00:00.000Z",
+      "summary": "Não é surpresa alguma que o controle da Polícia Federal tenha se convertido na questão central da agenda pública pós-eleições. Alertei sucessivamente neste espaço para uma perversão institucional: o STF robusteceu-se com a jurisdição criminal, especialmente ap",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Ajuste fiscal de Lula é considerado tímido pelo mercado, mas racha esquerda, que enxerga ‘tesouraço’",
+      "link": "https://www.estadao.com.br/politica/ajuste-fiscal-de-lula-e-considerado-timido-pelo-mercado-mas-racha-esquerda-que-enxerga-tesouraco/",
+      "date": "2026-11-15T17:52:35.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "Dependência brasileira de fertilizantes é um risco para a segurança alimentar global",
       "link": "https://www.estadao.com.br/economia/agronegocios/dependencia-brasileira-de-fertilizantes-e-um-risco-para-a-seguranca-alimentar-global/",
       "date": "2026-11-15T17:12:33.000Z",
@@ -198,7 +234,7 @@
       "title": "Enem 2026: ministro da Educação cita tentativas de ataques hacker à página do Inep e diz que governo está 'controlando' situação",
       "link": "https://g1.globo.com/educacao/enem/2026/noticia/2026/11/15/enem-2026-ministro-da-educacao-cita-tentativas-de-ataques-hacker-a-pagina-do-inep-e-diz-que-governo-esta-controlando-situacao.ghtml",
       "date": "2026-11-15T16:17:26.000Z",
-      "summary": "O ministro da Educação, Leonardo Barchini, apresenta os números do Enem para o presidente em exercício Geraldo Alckmin Reprodução/MEC O ministro da Educação, Leonardo Barchini, disse que a página do Instituto Nacional de Estudos e Pesquisas Educacionais (Inep)",
+      "summary": "Alckmin visita sede do Inep no 2º dia de provas do Enem O ministro da Educação, Leonardo Barchini, disse que a página do Instituto Nacional de Estudos e Pesquisas Educacionais (Inep) na internet tem sido alvo de tentativas de ataques hacker neste domingo (15),",
       "source": "g1",
       "cat": "politica",
       "type": "imprensa"
@@ -231,29 +267,11 @@
       "type": "imprensa"
     },
     {
-      "title": "Open Finance deveria ter portabilidade salarial, diz Mercado Pago",
-      "link": "https://www.poder360.com.br/poder-economia/open-finance-deveria-ter-portabilidade-salarial-diz-mercado-pago/",
-      "date": "2026-11-15T16:00:54.000Z",
-      "summary": "Instrumento permite o compartilhamento seguro de dados e serviços financeiros entre diferentes instituições",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Ajuste fiscal mostra que vencer eleições exige ambiguidades, omissões e mentiras",
       "link": "https://www.estadao.com.br/politica/fabiano-lana/ajuste-fiscal-mostra-que-vencer-eleicoes-exige-ambiguidades-omissoes-e-mentiras/",
       "date": "2026-11-15T16:00:43.000Z",
       "summary": "",
       "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Senadores retomam debate sobre fim da reeleição à Presidência mesmo após derrota de Flávio Bolsonaro",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/senadores-retomam-debate-sobre-fim-da-reeleicao-a-presidencia-mesmo-apos-derrota-de-flavio-bolsonaro.shtml",
-      "date": "2026-11-15T16:00:00.000Z",
-      "summary": "Líderes partidários do Senado discutem levar adiante o fim da reeleição para a Presidência da República, proposta feita pelo senador Flávio Bolsonaro (PL-RJ) na campanha eleitoral deste ano. Leia mais (11/15/2026 - 13h00)",
-      "source": "Folha",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -348,7 +366,7 @@
       "type": "imprensa"
     },
     {
-      "title": "15 de novembro é feriado de quê? Por que historiadores acreditam que a monarquia sofreu 'um golpe'",
+      "title": "Por que 15 de novembro é feriado e o que um 'golpe na monarquia' tem a ver com a data?",
       "link": "https://www.bbc.com/portuguese/articles/cqjd7lpvj452o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-15T13:10:42.000Z",
       "summary": "Quase um século e meio depois, tema ainda suscita debates sobre a Proclamação da República. Primeiras críticas apareceram meses após Marechal Deodoro da Fonseca proclamá-la.",
@@ -375,15 +393,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Governo Tarcísio estuda recriar pasta do Planejamento para acomodar aliada",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/governo-tarcisio-estuda-recriar-pasta-do-planejamento-para-acomodar-aliada.shtml",
-      "date": "2026-11-15T13:00:00.000Z",
-      "summary": "Uma das auxiliares mais próximas do governador de São Paulo, Tarcísio de Freitas (Republicanos), Natália Resende deve ser deslocada para uma nova Secretaria de Planejamento, a ser criada a partir do desmembramento da pasta da Fazenda. Leia mais (11/15/2026 - 1",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Mais de 100 mil vão às ruas em novos protestos na França, mais de 200 são presos",
       "link": "https://www.dw.com/pt-br/mais-de-100-mil-vão-às-ruas-em-novos-protestos-na-frança-mais-de-200-são-presos/a-79951672?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-15T10:36:00.000Z",
@@ -395,15 +404,6 @@
     {
       "title": "Mesmo com fim do inquérito das fake news, Moraes concentra 97% das ações penais e 30% dos inquéritos",
       "link": "https://www.estadao.com.br/politica/mesmo-com-fim-do-inquerito-das-fake-news-moraes-concentra-97-das-acoes-penais-e-30-dos-inqueritos/",
-      "date": "2026-11-15T08:30:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "‘Vou estar pronto para trabalhar com qualquer governo’, diz primeiro diplomata indígena do Itamaraty",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/vou-estar-pronto-para-trabalhar-com-qualquer-governo-diz-primeiro-diplomata-indigena-do-itamaraty/",
       "date": "2026-11-15T08:30:00.000Z",
       "summary": "",
       "source": "Estadão",
@@ -438,20 +438,20 @@
       "type": "imprensa"
     },
     {
-      "title": "EUA atribuem pane aérea a troca de cabos de cobre por fibra ótica",
-      "link": "https://www.dw.com/pt-br/eua-atribuem-pane-aérea-a-troca-de-cabos-de-cobre-por-fibra-ótica/a-79949623?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-14T18:40:00.000Z",
-      "summary": "Governo afasta hipótese de ciberataque e reforça apelo por maior financiamento de modernização do espaço aéreo. Investigação apura se houve incompetência de empresa responsável.",
-      "source": "DW Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
       "title": "Como troca de cabos levou ao maior caos aéreo nos EUA desde o 11 de Setembro, segundo o governo Trump",
       "link": "https://www.bbc.com/portuguese/articles/ckd71ne91y79o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-14T18:06:39.000Z",
       "summary": "O governo dos Estados Unidos não acredita que a interrupção tenha sido resultado de um ataque cibernético, embora as investigações ainda estejam em andamento.",
       "source": "BBC News Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "AfD lança ex-jogador da Alemanha como candidato à Presidência",
+      "link": "https://www.dw.com/pt-br/afd-lança-ex-jogador-da-alemanha-como-candidato-à-presidência/a-79948969?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-14T15:27:00.000Z",
+      "summary": "Partido de ultradireita apostou em nome \"do centro da sociedade que pode representar todos os alemães\". Cargo provavelmente será ocupado pela primeira vez por uma mulher.",
+      "source": "DW Brasil",
       "cat": "internacional",
       "type": "imprensa"
     },
