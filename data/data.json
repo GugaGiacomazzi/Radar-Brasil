@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-15T22:19:25.087Z",
+  "updated": "2026-11-15T22:58:53.949Z",
   "market": {
     "ibov": {
       "price": 172457.77,
       "pct": 0.66,
-      "time": "2026-11-15T22:19:19.807Z",
+      "time": "2026-11-15T22:58:47.298Z",
       "history": [
         {
           "d": "2026-10-16",
@@ -141,6 +141,33 @@
   },
   "news": [
     {
+      "title": "Prejuízo dos Correios soma R$ 7,5 bilhões de janeiro a setembro, alta de 27%",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/prejuizo-dos-correios-soma-r-75-bilhoes-de-janeiro-a-setembro-alta-de-27.shtml",
+      "date": "2026-11-15T22:33:00.000Z",
+      "summary": "Os Correios tiveram um prejuízo de R$ 7,48 bilhões até o terceiro trimestre de 2026, um aumento nominal de 27,2% em relação à perda de R$ 5,88 bilhões em igual período de 2025. Entre julho e setembro, o resultado líquido ficou negativo em R$ 1,93 bilhão, alta ",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Transtornos em voos nos EUA devem seguir até 2ª feira, diz governo",
+      "link": "https://www.poder360.com.br/poder-internacional/transtornos-em-voos-nos-eua-devem-seguir-ate-2a-feira-diz-governo/",
+      "date": "2026-11-15T22:17:09.000Z",
+      "summary": "Secretário de Transportes diz que normalização da operação exige tempo; Cirium estima que 1,5 milhão de passageiros foram afetados",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Correios têm prejuízo líquido de R$ 1,9 bi no 3º trimestre; no ano, perdas chegam a R$ 7,5 bi",
+      "link": "https://www.estadao.com.br/economia/correios-tem-prejuizo-liquido-de-r-19-bi-no-3-trimestre-no-ano-perdas-chegam-a-r-75-bi/",
+      "date": "2026-11-15T22:00:18.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "Aeronave elétrica chinesa conclui primeiro voo tripulado; veja vídeo",
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/aeronave-eletrica-chinesa-conclui-primeiro-voo-tripulado.shtml",
       "date": "2026-11-15T21:46:00.000Z",
@@ -165,6 +192,15 @@
       "summary": "Mercado de trabalho deverá ser profundamente afetado, com até 800 mil empregos eliminados em 15 anos. Economistas se dividem sobre viabilidade financeira da proposta para amortecer ruptura.",
       "source": "DW Brasil",
       "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "EUA e países aliados fazem acordo para proteger cadeia de IA da China",
+      "link": "https://www.poder360.com.br/poder-internacional/eua-e-paises-aliados-fazem-acordo-para-proteger-cadeia-de-ia-da-china/",
+      "date": "2026-11-15T21:33:11.000Z",
+      "summary": "Pacto reúne Japão, Austrália, Israel e Reino Unido e busca reduzir dependência de tecnologias e insumos estratégicos chineses",
+      "source": "Poder360",
+      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -195,6 +231,15 @@
       "type": "imprensa"
     },
     {
+      "title": "Cármen arquiva ação sobre bloqueios de Bolsonaro a jornalistas no X",
+      "link": "https://www.poder360.com.br/poder-justica/carmen-arquiva-acao-sobre-bloqueios-de-bolsonaro-a-jornalistas-no-x/",
+      "date": "2026-11-15T20:42:49.000Z",
+      "summary": "Ministra diz que medida violou liberdade de imprensa, mas considera que saída do ex-presidente do cargo fez ação perder o objeto",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "Polonesas driblam veto ao aborto com armário de entrega de pílulas",
       "link": "https://www.dw.com/pt-br/polonesas-driblam-veto-ao-aborto-com-armário-de-entrega-de-pílulas/a-79953437?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-15T20:07:00.000Z",
@@ -215,15 +260,6 @@
     {
       "title": "Relutância do governo em ter políticas que não colidam com a monetária acaba por perpetuar os juros",
       "link": "https://www.estadao.com.br/economia/luis-eduardo-assis/relutancia-do-governo-em-ter-politicas-que-nao-colidam-com-a-monetaria-acaba-por-perpetuar-os-juros/",
-      "date": "2026-11-15T20:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Mãos à obra 2: por que é importante conquistar o grau de investimento?",
-      "link": "https://www.estadao.com.br/economia/luiz-carlos-trabuco-cappi/maos-a-obra-2-por-que-e-importante-conquistar-o-grau-de-investimento/",
       "date": "2026-11-15T20:00:00.000Z",
       "summary": "",
       "source": "Estadão",
@@ -291,15 +327,6 @@
       "summary": "A Folha altera neste domingo (15) seu cabeçalho, no topo da Primeira Página e em sua versão digital, com a inclusão da bandeira do Brasil em alusão ao Dia da Proclamação da República. Leia mais (11/15/2026 - 13h52)",
       "source": "Folha",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Projeto de ajuste fiscal vai na direção correta e deve chegar à Câmara nesta semana, diz Alckmin",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/projeto-de-ajuste-fiscal-vai-na-direcao-correta-e-deve-chegar-a-camara-nesta-semana-diz-alckmin.shtml",
-      "date": "2026-11-15T16:41:00.000Z",
-      "summary": "O presidente da República em exercício, Geraldo Alckmin, disse que o governo espera para a terça-feira (17) o término da votação dos destaques à proposta de ajuste fiscal no Senado e o envio do texto à Câmara dos Deputados. Ele considera que o projeto vai na d",
-      "source": "Folha",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -664,8 +691,7 @@
     }
   ],
   "errors": [
-    "feed CNN Brasil: HTTP 404",
-    "feed CNN Brasil: HTTP 404",
-    "feed Planalto (governo): HTTP 429"
+    "feed CNN Brasil: HTTP 403",
+    "feed CNN Brasil: HTTP 403"
   ]
 }
