@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-15T21:38:35.832Z",
+  "updated": "2026-11-15T22:19:25.087Z",
   "market": {
     "ibov": {
       "price": 172457.77,
       "pct": 0.66,
-      "time": "2026-11-15T21:38:30.475Z",
+      "time": "2026-11-15T22:19:19.807Z",
       "history": [
         {
           "d": "2026-10-16",
@@ -141,12 +141,30 @@
   },
   "news": [
     {
-      "title": "EUA e países aliados fazem acordo para proteger cadeia de IA da China",
-      "link": "https://www.poder360.com.br/poder-internacional/eua-e-paises-aliados-fazem-acordo-para-proteger-cadeia-de-ia-da-china/",
-      "date": "2026-11-15T21:33:11.000Z",
-      "summary": "Pacto reúne Japão, Austrália, Israel e Reino Unido e busca reduzir dependência de tecnologias e insumos estratégicos chineses",
-      "source": "Poder360",
-      "cat": "politica",
+      "title": "Aeronave elétrica chinesa conclui primeiro voo tripulado; veja vídeo",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/aeronave-eletrica-chinesa-conclui-primeiro-voo-tripulado.shtml",
+      "date": "2026-11-15T21:46:00.000Z",
+      "summary": "O CE-25A, aeronave comercial elétrica de 10 toneladas desenvolvida de forma independente na China, concluiu seu primeiro voo de teste tripulado em Binzhou, na província de Shandong, neste sábado (14), segundo informações da agência estatal chinesa China News S",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Na Amazônia, Leão 14 condena \"exploração irresponsável\" da floresta",
+      "link": "https://www.dw.com/pt-br/na-amazônia-leão-14-condena-exploração-irresponsável-da-floresta/a-79953690?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-15T21:41:00.000Z",
+      "summary": "Pontífice citou produção de ouro e petróleo e pediu esclarecimento de assassinatos de lideranças indígenas. Viagem do chefe do Vaticano ao país adotivo causa alvoroço.",
+      "source": "DW Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "IA reacende debate sobre renda básica universal na Alemanha",
+      "link": "https://www.dw.com/pt-br/ia-reacende-debate-sobre-renda-básica-universal-na-alemanha/a-79953150?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-15T21:41:00.000Z",
+      "summary": "Mercado de trabalho deverá ser profundamente afetado, com até 800 mil empregos eliminados em 15 anos. Economistas se dividem sobre viabilidade financeira da proposta para amortecer ruptura.",
+      "source": "DW Brasil",
+      "cat": "internacional",
       "type": "imprensa"
     },
     {
@@ -159,7 +177,7 @@
       "type": "imprensa"
     },
     {
-      "title": "Ataque hacker à subsidiária dos Correios franceses expõe dados de 22 milhões de pessoas",
+      "title": "Ataque hacker a subsidiária dos Correios franceses expõe dados de 22 milhões de pessoas",
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/ataque-hacker-a-subsidiaria-dos-correios-franceses-expoe-dados-de-22-milhoes-de-pessoas.shtml",
       "date": "2026-11-15T21:22:00.000Z",
       "summary": "A Maileva, subsidiária do grupo La Poste, o equivalente francês aos Correios, sofreu em meados de setembro um ciberataque que resultou no roubo dos dados de contato de 22 milhões de pessoas. O caso foi confirmado à agência de notícias AFP neste sábado (14). Le",
@@ -173,24 +191,6 @@
       "date": "2026-11-15T21:14:43.000Z",
       "summary": "",
       "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Cármen arquiva ação sobre bloqueios de Bolsonaro a jornalistas no X",
-      "link": "https://www.poder360.com.br/poder-justica/carmen-arquiva-acao-sobre-bloqueios-de-bolsonaro-a-jornalistas-no-x/",
-      "date": "2026-11-15T20:42:49.000Z",
-      "summary": "Ministra diz que medida violou liberdade de imprensa, mas considera que saída do ex-presidente do cargo fez ação perder o objeto",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Trump culpa governo Biden por pane no sistema aéreo dos EUA",
-      "link": "https://www.poder360.com.br/poder-internacional/trump-culpa-governo-biden-por-pane-no-sistema-aereo-dos-eua/",
-      "date": "2026-11-15T20:16:45.000Z",
-      "summary": "Republicano disse que gestão anterior gastou dinheiro de forma inadequada e agravou problemas de um sistema que classificou como “antigo e falho”",
-      "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -237,15 +237,6 @@
       "summary": "Ponto de Coleta dos Correios em Belém Divulgação Os Correios tiveram prejuízo de R$ 7,5 bilhões até o terceiro trimestre de 2026, segundo o balanço contábil da estatal. O resultado representa um crescimento do rombo registrado no segundo trimestre, quando a es",
       "source": "g1",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Lula se encontra com Infantino e marca reunião sobre Copa Feminina",
-      "link": "https://www.poder360.com.br/poder-sportsmkt/lula-se-encontra-com-infantino-e-marca-reuniao-sobre-copa-feminina/",
-      "date": "2026-11-15T19:42:12.000Z",
-      "summary": "Presidente da Fifa deu parabéns ao petista pela reeleição e disse que discutirá os preparativos do torneio de 2027",
-      "source": "Poder360",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -330,15 +321,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Empresas perdem primeira rodada na Justiça contra imposto sobre imposto na reforma tributária",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/empresas-perdem-primeira-rodada-na-justica-contra-imposto-sobre-imposto-na-reforma-tributaria.shtml",
-      "date": "2026-11-15T15:30:00.000Z",
-      "summary": "Empresas brasileiras contestam no Judiciário a decisão de alguns estados e municípios de incluir os novos tributos sobre bens e serviços (CBS/IBS) na base de cálculo dos seus impostos atuais a partir de 2027. Leia mais (11/15/2026 - 12h30)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Ajuste fiscal: Alckmin afirma que projeto do governo 'vai na direção correta' e diz esperar votação na Câmara nesta semana",
       "link": "https://g1.globo.com/politica/noticia/2026/11/15/ajuste-fiscal-alckmin-afirma-que-projeto-do-governo-vai-na-direcao-correta-e-diz-esperar-votacao-na-camara-nesta-semana.ghtml",
       "date": "2026-11-15T15:23:09.000Z",
@@ -384,15 +366,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Cúpula inédita de Xi, Trump e Putin expõe dilema chinês sobre Moscou",
-      "link": "https://www.dw.com/pt-br/cúpula-inédita-de-xi-trump-e-putin-expõe-dilema-chinês-sobre-moscou/a-79952220?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-15T13:36:00.000Z",
-      "summary": "A imagem do encontro tende a beneficiar Moscou, enquanto Pequim corre o risco de desgastar sua própria posição geopolítica no cenário internacional.",
-      "source": "DW Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
       "title": "15 de novembro é feriado de quê? Por que historiadores acreditam que a monarquia sofreu 'um golpe'",
       "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/15/15-de-novembro-e-feriado-de-que-por-que-historiadores-acreditam-que-a-monarquia-sofreu-um-golpe.ghtml",
       "date": "2026-11-15T13:24:39.000Z",
@@ -426,15 +399,6 @@
       "summary": "Lula diz que buscou novos parceiros em vez de 'ficar chorando' após tarifaço dos EUA O presidente Luiz Inácio Lula da Silva (PT) afirmou neste domingo (15) que o Brasil buscou diversificar suas parcerias comerciais após o tarifaço imposto pelos Estados Unidos.",
       "source": "g1",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "COP31 ruma a semana decisiva sob pressão por maior ambição climática",
-      "link": "https://www.dw.com/pt-br/cop31-ruma-a-semana-decisiva-sob-pressão-por-maior-ambição-climática/a-79950292?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-14T22:03:00.000Z",
-      "summary": "Milhares protestaram em Antália, enquanto chefe da ONU para a agenda pediu que países evitem \"atrasos táticos\". Produtores de petróleo estariam bloqueando avanços.",
-      "source": "DW Brasil",
-      "cat": "internacional",
       "type": "imprensa"
     },
     {
@@ -701,6 +665,7 @@
   ],
   "errors": [
     "feed CNN Brasil: HTTP 404",
-    "feed CNN Brasil: HTTP 404"
+    "feed CNN Brasil: HTTP 404",
+    "feed Planalto (governo): HTTP 429"
   ]
 }
