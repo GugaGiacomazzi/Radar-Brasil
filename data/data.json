@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-15T09:07:58.729Z",
+  "updated": "2026-11-15T10:07:01.984Z",
   "market": {
     "ibov": {
       "price": 172457.77,
       "pct": 0.66,
-      "time": "2026-11-15T09:07:50.242Z",
+      "time": "2026-11-15T10:06:52.858Z",
       "history": [
         {
           "d": "2026-10-16",
@@ -141,6 +141,24 @@
   },
   "news": [
     {
+      "title": "Senado aprova incentivo à contratação de mulheres com câncer de mama",
+      "link": "https://www.poder360.com.br/poder-congresso/senado-aprova-incentivo-a-contratacao-de-mulheres-com-cancer-de-mama/",
+      "date": "2026-11-15T09:54:52.000Z",
+      "summary": "Iniciativa cria o Programa Empresa Rosa com benefícios para empresas e garante flexibilidade de regime de trabalho",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Infrações no inquérito das fake news não podem ser esquecidas, diz Amin",
+      "link": "https://www.poder360.com.br/poder-congresso/infracoes-no-inquerito-das-fake-news-nao-podem-ser-esquecidas-diz-amin/",
+      "date": "2026-11-15T09:25:13.000Z",
+      "summary": "Senador defende que fim da investigação não apaga irregularidades no procedimento que durou 7 anos e 8 meses",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "Emendas de Cleitinho bancaram show de Claudia Leitte e festa de prefeitura em MG",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/emendas-de-cleitinho-bancaram-show-de-claudia-leitte-e-festa-de-prefeitura-em-mg.shtml",
       "date": "2026-11-15T09:00:00.000Z",
@@ -168,8 +186,8 @@
       "type": "imprensa"
     },
     {
-      "title": "Alto Escalão: confira quem mudou de endereço e de cadeira nesta semana",
-      "link": "https://www.estadao.com.br/economia/alto-escalao/alto-escalao-confira-quem-mudou-de-endereco-e-de-cadeira-nesta-semana-2/",
+      "title": "Fim do ‘ciclo de ouro’ do minério de ferro afeta mineradoras com menor competitividade no Brasil",
+      "link": "https://www.estadao.com.br/economia/negocios/fim-do-ciclo-de-ouro-do-minerio-de-ferro-afeta-mineradoras-com-menor-competitividade-no-brasil/",
       "date": "2026-11-15T08:30:00.000Z",
       "summary": "",
       "source": "Estadão",
@@ -177,8 +195,8 @@
       "type": "imprensa"
     },
     {
-      "title": "Fim do ‘ciclo de ouro’ do minério de ferro afeta mineradoras com menor competitividade no Brasil",
-      "link": "https://www.estadao.com.br/economia/negocios/fim-do-ciclo-de-ouro-do-minerio-de-ferro-afeta-mineradoras-com-menor-competitividade-no-brasil/",
+      "title": "Alto Escalão: confira quem mudou de endereço e de cadeira nesta semana",
+      "link": "https://www.estadao.com.br/economia/alto-escalao/alto-escalao-confira-quem-mudou-de-endereco-e-de-cadeira-nesta-semana-2/",
       "date": "2026-11-15T08:30:00.000Z",
       "summary": "",
       "source": "Estadão",
@@ -336,42 +354,6 @@
       "summary": "Das 21 liquidações extrajudiciais decretadas pelo Banco Central ao longo deste ano, 11 tinham ligação com o Banco Master, de Daniel Vorcaro. O montante, puxado pelo caso que abalou o sistema financeiro nacional, representa o maior número de instituições com at",
       "source": "Folha",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Cidadania convoca votação de incorporação pelo Progressistas",
-      "link": "https://www.poder360.com.br/partidos-politicos/cidadania-convoca-votacao-de-incorporacao-pelo-progressistas/",
-      "date": "2026-11-15T00:45:11.000Z",
-      "summary": "Reunião virtual será em 21 de novembro, às 14h; proposta inclui a extinção da Fundação Astrojildo Pereira",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Brasil e Filipinas assinam acordos sobre agro e livre concorrência",
-      "link": "https://www.poder360.com.br/poder-governo/brasil-e-filipinas-assinam-acordos-sobre-agro-e-livre-concorrencia/",
-      "date": "2026-11-15T00:02:52.000Z",
-      "summary": "Documentos foram firmados durante visita de Lula a Manila, após reunião com o presidente Ferdinand Marcos Júnior",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Musk diz que Nvidia pode perder acordos após saída de Jensen Huang",
-      "link": "https://www.poder360.com.br/poder-internacional/musk-diz-que-nvidia-pode-perder-acordos-apos-saida-de-jensen-huang/",
-      "date": "2026-11-14T23:59:36.000Z",
-      "summary": "Dono da Tesla diz que acordos feitos por “aperto de mãos” com ex-CEO da fabricante de chips podem ser perdidos",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Claro vence pregão de R$ 4,96 milhões com iPhones para o Senado",
-      "link": "https://www.poder360.com.br/poder-congresso/claro-vence-pregao-de-r-496-milhoes-com-iphones-para-o-senado/",
-      "date": "2026-11-14T23:53:51.000Z",
-      "summary": "Contrato de telefonia inclui 425 celulares em comodato por 4 anos; aparelhos serão trocados depois de 2 anos",
-      "source": "Poder360",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
