@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-15T20:58:38.528Z",
+  "updated": "2026-11-15T21:38:35.832Z",
   "market": {
     "ibov": {
       "price": 172457.77,
       "pct": 0.66,
-      "time": "2026-11-15T20:58:33.267Z",
+      "time": "2026-11-15T21:38:30.475Z",
       "history": [
         {
           "d": "2026-10-16",
@@ -141,6 +141,42 @@
   },
   "news": [
     {
+      "title": "EUA e países aliados fazem acordo para proteger cadeia de IA da China",
+      "link": "https://www.poder360.com.br/poder-internacional/eua-e-paises-aliados-fazem-acordo-para-proteger-cadeia-de-ia-da-china/",
+      "date": "2026-11-15T21:33:11.000Z",
+      "summary": "Pacto reúne Japão, Austrália, Israel e Reino Unido e busca reduzir dependência de tecnologias e insumos estratégicos chineses",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Cleitinho liga para prefeito que fez show de Claudia Leitte para tirar satisfação",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/cleitinho-liga-para-prefeito-que-fez-show-de-claudia-leitte-para-tirar-satisfacao.shtml",
+      "date": "2026-11-15T21:27:00.000Z",
+      "summary": "O senador Cleitinho Azevedo (Republicanos), governador eleito de Minas Gerais, ligou para o ex-prefeito de Mirabela Luciano Rabelo (Avante) neste domingo (15) para tirar satisfação sobre um show da cantora Claudia Leitte custeado em 2024 com uma emenda dele. L",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Ataque hacker à subsidiária dos Correios franceses expõe dados de 22 milhões de pessoas",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/ataque-hacker-a-subsidiaria-dos-correios-franceses-expoe-dados-de-22-milhoes-de-pessoas.shtml",
+      "date": "2026-11-15T21:22:00.000Z",
+      "summary": "A Maileva, subsidiária do grupo La Poste, o equivalente francês aos Correios, sofreu em meados de setembro um ciberataque que resultou no roubo dos dados de contato de 22 milhões de pessoas. O caso foi confirmado à agência de notícias AFP neste sábado (14). Le",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Aversão do PT ao ajuste fiscal mostra a falta que faz uma direita democrática",
+      "link": "https://www.estadao.com.br/politica/diogo-schelp/aversao-do-pt-ao-ajuste-fiscal-mostra-a-falta-que-faz-uma-direita-democratica/",
+      "date": "2026-11-15T21:14:43.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "Cármen arquiva ação sobre bloqueios de Bolsonaro a jornalistas no X",
       "link": "https://www.poder360.com.br/poder-justica/carmen-arquiva-acao-sobre-bloqueios-de-bolsonaro-a-jornalistas-no-x/",
       "date": "2026-11-15T20:42:49.000Z",
@@ -213,15 +249,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Rússia confirma encontro de Trump, Putin e Xi Jinping na China",
-      "link": "https://www.poder360.com.br/poder-internacional/russia-confirma-encontro-de-trump-putin-e-xi-jinping-na-china/",
-      "date": "2026-11-15T19:26:52.000Z",
-      "summary": "Encontro acontecerá na China, durante viagem de Trump e Putin ao país para a reunião de cúpula da Apec",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Eleição brasileira passa em testes que apontaram fraudes eleitorais na Rússia, Nigéria e Senegal",
       "link": "https://www.estadao.com.br/politica/eleicao-brasileira-passa-em-testes-que-apontaram-fraudes-eleitorais-na-russia-nigeria-e-senegal/",
       "date": "2026-11-15T18:31:00.000Z",
@@ -258,15 +285,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Dependência brasileira de fertilizantes é um risco para a segurança alimentar global",
-      "link": "https://www.estadao.com.br/economia/agronegocios/dependencia-brasileira-de-fertilizantes-e-um-risco-para-a-seguranca-alimentar-global/",
-      "date": "2026-11-15T17:12:33.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Brasil não tem plano B na crise de cibersegurança",
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/ronaldolemos/2026/11/brasil-nao-tem-plano-b-na-crise-de-ciberseguranca.shtml",
       "date": "2026-11-15T17:00:00.000Z",
@@ -299,15 +317,6 @@
       "date": "2026-11-15T16:17:26.000Z",
       "summary": "Alckmin visita sede do Inep no 2º dia de provas do Enem O ministro da Educação, Leonardo Barchini, disse que a página do Instituto Nacional de Estudos e Pesquisas Educacionais (Inep) na internet tem sido alvo de tentativas de ataques hacker neste domingo (15),",
       "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "A cláusula de barreira depois da vírgula",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/lara-mesquita/2026/11/a-clausula-de-barreira-depois-da-virgula.shtml",
-      "date": "2026-11-15T16:04:00.000Z",
-      "summary": "Em 2017, o Congresso Nacional aprovou a emenda constitucional 97 com dois objetivos complementares: acabar com as coligações nas eleições proporcionais e restringir o acesso ao fundo partidário e à propaganda partidária e eleitoral gratuita aos partidos com de",
-      "source": "Folha",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -353,24 +362,6 @@
       "date": "2026-11-15T15:06:28.000Z",
       "summary": "Primeiro-ministro do Canadá, Mark Carney, agradece após discurso no Parlamento europeu em Strasburgo, na França, em 17 de setembro de 2026. REUTERS/Yves Herman O Canadá se comprometeu a contribuir com até 560 milhões de dólares canadenses (US$ 392,5 milhões, o",
       "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Governo de SP vai endurecer regras para destinação de lixo em grandes eventos",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/governo-de-sp-vai-endurecer-regras-para-destinacao-de-lixo-em-grandes-eventos/",
-      "date": "2026-11-15T15:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Após perder corrida dos transgênicos, Embrapa quer competir na edição gênica",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/agro/2026/11/apos-perder-corrida-dos-transgenicos-embrapa-quer-competir-na-edicao-genica.shtml",
-      "date": "2026-11-15T14:30:00.000Z",
-      "summary": "A Embrapa ficou de fora do desenvolvimento dos transgênicos nos últimos anos, em razão dos custos dessa tecnologia e da forte concorrência das multinacionais, o que provocou uma concentração do mercado. A partir de agora, com o advento de novas tecnologias, a ",
-      "source": "Folha",
       "cat": "economia",
       "type": "imprensa"
     },
