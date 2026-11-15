@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-15T04:52:04.690Z",
+  "updated": "2026-11-15T05:49:09.460Z",
   "market": {
     "ibov": {
       "price": 172457.77,
       "pct": 0.66,
-      "time": "2026-11-15T04:51:56.498Z",
+      "time": "2026-11-15T05:49:01.139Z",
       "history": [
         {
           "d": "2026-10-16",
@@ -141,6 +141,33 @@
   },
   "news": [
     {
+      "title": "O executivo que foi grosseiro com motorista e perdeu vaga em multinacional: o 'teste de gentileza' que o Duolingo aplica para altos cargos",
+      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/15/o-executivo-que-foi-grosseiro-com-motorista-e-perdeu-vaga-em-multinacional-o-teste-de-gentileza-que-o-duolingo-aplica-para-altos-cargos.ghtml",
+      "date": "2026-11-15T05:00:00.000Z",
+      "summary": "Consultora de RH dá dicas para montar currículo e se destacar em entrevistas Foi durante um trajeto do aeroporto ao escritório que um candidato ao cargo de diretor financeiro da Duolingo perdeu a vaga sem nem saber, mesmo parecendo perfeito no papel. 🗒️ Tem a",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lula vai regular redes sociais? Por que presidente defende mais regras e o que pode mudar",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/15/lula-vai-regular-redes-sociais-por-que-presidente-defende-mais-regras-e-o-que-pode-mudar.ghtml",
+      "date": "2026-11-15T05:00:00.000Z",
+      "summary": "Lula quer regular big techs até o fim do ano O presidente Luiz Inácio Lula da Silva (PT) já mencionou algumas vezes que pretende regular as redes sociais no Brasil. As falas se intensificaram depois das eleições, que ficaram marcadas por críticas de que as pla",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Casamento de 40 anos e dois filhos: quem é quem na família de Jensen Huang, que deixou Nvidia após casos extraconjugais",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/15/familia-jensen-huang.ghtml",
+      "date": "2026-11-15T05:00:00.000Z",
+      "summary": "Jensen e Lori Huang têm dois filhos: Madison e Spencer Reuters/Carlos Barria; Reuters/Aaron; Divulgação/Nvidia; Divulgação/Nvidia A revelação dos casos extraconjugais do fundador e ex-CEO da Nvidia, Jensen Huang, trouxe atenção à vida pessoal do executivo, que",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "137 anos depois, quem a República deixou de fora?",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/137-anos-depois-quem-a-republica-deixou-de-fora.shtml",
       "date": "2026-11-15T03:35:00.000Z",
@@ -201,24 +228,6 @@
       "summary": "O governo federal começa a operacionalizar em janeiro o chamado \"cashback\" da reforma tributária, mecanismo que prevê a devolução ou abatimento de parte do novo imposto federal sobre o consumo para famílias de baixa renda. Segundo a Receita Federal, as contas ",
       "source": "g1",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "13º salário: o que considerar antes de gastar este dinheiro",
-      "link": "https://g1.globo.com/g1-explica/noticia/2026/11/15/13o-salario-o-que-considerar-antes-de-gastar-este-dinheiro.ghtml",
-      "date": "2026-11-15T03:00:00.000Z",
-      "summary": "Décimo terceiro: gastar, pagar dívidas ou guardar dinheiro? O 13º salário está chegando, e muita gente já começou a fazer planos para usar o dinheiro extra. Entre promoções, viagens e compras de fim de ano, também entram na conta as dívidas acumuladas e as des",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Mega-Sena 3086 pode pagar R$ 27 milhões neste domingo; g1 transmite ao vivo",
-      "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/15/mega-sena-3086-pode-pagar-r-27-milhoes-neste-domingo-g1-transmite-ao-vivo.ghtml",
-      "date": "2026-11-15T03:00:00.000Z",
-      "summary": "Como funciona a Mega-Sena? O concurso 3.086 da Mega-Sena pode pagar um prêmio de R$ 27 milhões para os apostadores que acertarem as seis dezenas. O sorteio ocorre às 11h deste domingo (15), em São Paulo. 📱Favorite o g1 no Google e acompanhe as principais notí",
-      "source": "g1",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
