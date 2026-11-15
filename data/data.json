@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-15T08:02:12.079Z",
+  "updated": "2026-11-15T09:07:58.729Z",
   "market": {
     "ibov": {
       "price": 172457.77,
       "pct": 0.66,
-      "time": "2026-11-15T08:02:04.780Z",
+      "time": "2026-11-15T09:07:50.242Z",
       "history": [
         {
           "d": "2026-10-16",
@@ -141,11 +141,74 @@
   },
   "news": [
     {
+      "title": "Emendas de Cleitinho bancaram show de Claudia Leitte e festa de prefeitura em MG",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/emendas-de-cleitinho-bancaram-show-de-claudia-leitte-e-festa-de-prefeitura-em-mg.shtml",
+      "date": "2026-11-15T09:00:00.000Z",
+      "summary": "O governador eleito de Minas Gerais, Cleitinho Azevedo (Republicanos), criticou o repasse de verbas do estado para festas em cidades do interior, mas destinou R$ 1,34 milhão em \"emendas Pix\" para custear esse tipo de evento durante seu mandato no Senado. Leia ",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Mesmo com fim do inquérito das fake news, Moraes concentra 97% das ações penais e 30% dos inquéritos",
+      "link": "https://www.estadao.com.br/politica/mesmo-com-fim-do-inquerito-das-fake-news-moraes-concentra-97-das-acoes-penais-e-30-dos-inqueritos/",
+      "date": "2026-11-15T08:30:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "‘Vou estar pronto para trabalhar com qualquer governo’, diz primeiro diplomata indígena do Itamaraty",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/vou-estar-pronto-para-trabalhar-com-qualquer-governo-diz-primeiro-diplomata-indigena-do-itamaraty/",
+      "date": "2026-11-15T08:30:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Alto Escalão: confira quem mudou de endereço e de cadeira nesta semana",
+      "link": "https://www.estadao.com.br/economia/alto-escalao/alto-escalao-confira-quem-mudou-de-endereco-e-de-cadeira-nesta-semana-2/",
+      "date": "2026-11-15T08:30:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Fim do ‘ciclo de ouro’ do minério de ferro afeta mineradoras com menor competitividade no Brasil",
+      "link": "https://www.estadao.com.br/economia/negocios/fim-do-ciclo-de-ouro-do-minerio-de-ferro-afeta-mineradoras-com-menor-competitividade-no-brasil/",
+      "date": "2026-11-15T08:30:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "Hidratação nos chifres, 'damas de companhia' e dieta especial: o g1 acompanhou a rotina da vaca mais cara do mundo",
       "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/15/o-g1-acompanhou-a-rotina-da-vaca-mais-cara-do-mundo.ghtml",
       "date": "2026-11-15T08:00:00.000Z",
       "summary": "O g1 passou um dia com a vaca mais cara do mundo; veja como foi A vaca mais cara do mundo é brasileira, tem cinco donos e três clones para chamar de seus. Avaliada em R$ 54 milhões, Donna FIV CIAV nasceu no Paraná e hoje vive na fazenda Mata Velha, em Uberaba ",
       "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Incorporadoras listadas na Bolsa ganham participação de mercado",
+      "link": "https://www.estadao.com.br/economia/coluna-da-broad/incorporadoras-listadas-na-bolsa-ganham-participacao-de-mercado/",
+      "date": "2026-11-15T08:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "BNDES acelera projetos de infraestrutura que usam o próprio ativo como garantia",
+      "link": "https://www.estadao.com.br/economia/coluna-da-broad/bndes-acelera-projetos-de-infraestrutura-que-usam-o-proprio-ativo-como-garantia/",
+      "date": "2026-11-15T07:59:00.000Z",
+      "summary": "",
+      "source": "Estadão",
       "cat": "economia",
       "type": "imprensa"
     },
@@ -267,15 +330,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Tentativa de criar mandato parlamentar sem votos durou menos de duas semanas",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2026/11/tentativa-de-criar-mandato-parlamentar-sem-votos-durou-menos-de-duas-semanas.shtml",
-      "date": "2026-11-15T02:00:00.000Z",
-      "summary": "Durou menos de duas semanas a enésima tentativa de se criar o mandato parlamentar sem votos. Em outras legislaturas ela se disfarçava de reforma política e sobrevivia por meses, até ir para o arquivo. Leia mais (11/14/2026 - 23h00)",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Caso Master leva Banco Central ao maior número de liquidações desde 2002",
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/caso-master-leva-banco-central-ao-maior-numero-de-liquidacoes-desde-2002.shtml",
       "date": "2026-11-15T02:00:00.000Z",
@@ -321,15 +375,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Quem fez a cabeça de Dario Amodei, CEO da Anthropic, prestes a realizar o maior IPO da história",
-      "link": "https://www.estadao.com.br/tecmundo/big-techs/quem-e-dario-amodei-o-ceo-da-anthropic-prestes-a-realizar-o-maior-ipo-da-historia-de-wall-street/",
-      "date": "2026-11-14T23:14:10.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Múcio sai e Vieira deve ficar, articulando o sonho de Lula, o Prêmio Nobel da Paz",
       "link": "https://www.estadao.com.br/politica/eliane-cantanhede/mucio-sai-e-vieira-deve-ficar-articulando-o-sonho-de-lula-o-premio-nobel-da-paz/",
       "date": "2026-11-14T23:00:00.000Z",
@@ -345,33 +390,6 @@
       "summary": "Milhares protestaram em Antália, enquanto chefe da ONU para a agenda pediu que países evitem \"atrasos táticos\". Produtores de petróleo estariam bloqueando avanços.",
       "source": "DW Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Fim da escala 6x1: Fux pede destaque e leva decisão de Dino a julgamento presencial no STF",
-      "link": "https://www.estadao.com.br/economia/fim-da-escala-6x1-fux-pede-destaque-e-leva-decisao-de-dino-a-julgamento-presencial-no-stf-npr/",
-      "date": "2026-11-14T21:03:02.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "O futuro em 2 meses: para vencer o ceticismo na economia, o governo dependerá de 3 ações simultâneas",
-      "link": "https://www.estadao.com.br/economia/jose-roberto-mendonca-de-barros/o-futuro-em-2-meses-para-vencer-o-ceticismo-na-economia-o-governo-dependera-de-3-acoes-simultaneas/",
-      "date": "2026-11-14T20:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Terras raras e a tentação da bala de prata",
-      "link": "https://www.estadao.com.br/economia/marcos-jank/terras-raras-e-a-tentacao-da-bala-de-prata/",
-      "date": "2026-11-14T20:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -429,30 +447,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Janones chama críticos da esquerda contra o ajuste fiscal de ‘covardes’ e defende ‘Exército do Lula’",
-      "link": "https://www.estadao.com.br/politica/janones-chama-criticos-da-esquerda-contra-o-ajuste-fiscal-de-covardes-e-defende-exercito-do-lula/",
-      "date": "2026-11-14T15:32:42.000Z",
-      "summary": "Com texto principal aprovado no Senado, o ajuste fiscal abre debate entre setores da esquerda e a direção do PT. Veja os argumentos e as reações ao pacote.",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "AfD lança ex-jogador da Alemanha como candidato à Presidência",
       "link": "https://www.dw.com/pt-br/afd-lança-ex-jogador-da-alemanha-como-candidato-à-presidência/a-79948969?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-14T15:27:00.000Z",
       "summary": "Partido de ultradireita apostou em nome \"do centro da sociedade que pode representar todos os alemães\". Cargo provavelmente será ocupado pela primeira vez por uma mulher.",
       "source": "DW Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Rodrigo Pacheco é alvo de fogo amigo no PT por suposto ‘corpo mole’ durante campanha de Lula",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/rodrigo-pacheco-e-alvo-de-fogo-amigo-no-pt-por-suposto-corpo-mole-durante-campanha-de-lula/",
-      "date": "2026-11-14T15:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
