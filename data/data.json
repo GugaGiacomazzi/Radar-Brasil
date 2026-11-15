@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-15T03:49:29.141Z",
+  "updated": "2026-11-15T04:52:04.690Z",
   "market": {
     "ibov": {
       "price": 172457.77,
       "pct": 0.66,
-      "time": "2026-11-15T03:48:46.664Z",
+      "time": "2026-11-15T04:51:56.498Z",
       "history": [
         {
           "d": "2026-10-16",
@@ -709,11 +709,7 @@
     }
   ],
   "errors": [
-    "Selic (SGS 432): The operation was aborted due to timeout",
-    "IPCA 12m (SGS 13522): HTTP 304",
-    "Dívida/PIB (SGS 13762): Unexpected token '<', \"<?xml vers\"... is not valid JSON",
     "feed CNN Brasil: HTTP 404",
-    "feed CNN Brasil: HTTP 404",
-    "feed Planalto (governo): HTTP 429"
+    "feed CNN Brasil: HTTP 404"
   ]
 }
