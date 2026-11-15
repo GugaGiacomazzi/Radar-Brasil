@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-15T18:39:10.922Z",
+  "updated": "2026-11-15T19:27:55.915Z",
   "market": {
     "ibov": {
       "price": 172457.77,
       "pct": 0.66,
-      "time": "2026-11-15T18:39:04.342Z",
+      "time": "2026-11-15T19:27:48.183Z",
       "history": [
         {
           "d": "2026-10-16",
@@ -141,11 +141,47 @@
   },
   "news": [
     {
-      "title": "PIB paulista cresce 1,5% no acumulado de 2026",
-      "link": "https://www.poder360.com.br/poder-economia/pib-paulista-cresce-15-no-acumulado-de-2026/",
-      "date": "2026-11-15T18:05:20.000Z",
-      "summary": "Agropecuária avançou 2,8% e serviços, 2,4%, segundo dados da Fundação Seade",
+      "title": "Rússia confirma encontro de Trump, Putin e Xi Jinping na China",
+      "link": "https://www.poder360.com.br/poder-internacional/russia-confirma-encontro-de-trump-putin-e-xi-jinping-na-china/",
+      "date": "2026-11-15T19:26:52.000Z",
+      "summary": "Encontro acontecerá na China, durante viagem de Trump e Putin ao país para a reunião de cúpula da Apec",
       "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Milei confirma que disputará reeleição à Presidência em 2027",
+      "link": "https://www.poder360.com.br/poder-internacional/milei-confirma-que-disputara-reeleicao-a-presidencia-em-2027/",
+      "date": "2026-11-15T19:09:23.000Z",
+      "summary": "Presidente anunciou intenção de concorrer no ano que vem e apresentou metas econômicas para um eventual 2º mandato",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Irã ataca o Bahrein e amplia escalada militar no Golfo Pérsico",
+      "link": "https://www.poder360.com.br/poder-internacional/ira-ataca-o-bahrein-e-amplia-escalada-militar-no-golfo-persico/",
+      "date": "2026-11-15T19:01:29.000Z",
+      "summary": "Não há registro de mortos ou feridos; de acordo com o Ministério da Defesa do Bahrein, vários dos drones foram interceptados",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Congresso dos EUA quer restringir chips para a China após caso Nvidia",
+      "link": "https://www.poder360.com.br/poder-tech/congresso-dos-eua-quer-restringir-chips-para-a-china-apos-caso-nvidia/",
+      "date": "2026-11-15T18:40:48.000Z",
+      "summary": "Grandes provedores chineses se antecipam e reservam servidores equipados com chips da Nvidia no Sudeste Asiático antes que a restrição entre em vigor",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Eleição brasileira passa em testes que apontaram fraudes eleitorais na Rússia, Nigéria e Senegal",
+      "link": "https://www.estadao.com.br/politica/eleicao-brasileira-passa-em-testes-que-apontaram-fraudes-eleitorais-na-russia-nigeria-e-senegal/",
+      "date": "2026-11-15T18:31:00.000Z",
+      "summary": "",
+      "source": "Estadão",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -213,15 +249,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Queda do desmatamento garantiu novo repasse da Noruega, diz Alckmin",
-      "link": "https://www.poder360.com.br/poder-governo/queda-do-desmatamento-garantiu-novo-repasse-da-noruega-diz-alckmin/",
-      "date": "2026-11-15T16:47:04.000Z",
-      "summary": "Presidente em exercício cita redução de mais de 40% e anúncio de quase R$ 400 milhões na COP 31; total doado passa de R$ 4 bi",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Projeto de ajuste fiscal vai na direção correta e deve chegar à Câmara nesta semana, diz Alckmin",
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/projeto-de-ajuste-fiscal-vai-na-direcao-correta-e-deve-chegar-a-camara-nesta-semana-diz-alckmin.shtml",
       "date": "2026-11-15T16:41:00.000Z",
@@ -240,29 +267,11 @@
       "type": "imprensa"
     },
     {
-      "title": "Ajuste fiscal mira superavit e mantém programas sociais, diz Alckmin",
-      "link": "https://www.poder360.com.br/poder-educacao/ajuste-fiscal-mira-superavit-e-mantem-programas-sociais-diz-alckmin/",
-      "date": "2026-11-15T16:15:58.000Z",
-      "summary": "Presidente em exercício diz que meta de superavit primário busca reduzir juros; declaração foi dada em visita ao Inep",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "A cláusula de barreira depois da vírgula",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/lara-mesquita/2026/11/a-clausula-de-barreira-depois-da-virgula.shtml",
       "date": "2026-11-15T16:04:00.000Z",
       "summary": "Em 2017, o Congresso Nacional aprovou a emenda constitucional 97 com dois objetivos complementares: acabar com as coligações nas eleições proporcionais e restringir o acesso ao fundo partidário e à propaganda partidária e eleitoral gratuita aos partidos com de",
       "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "CNJ aprova regras para negociação de precatórios; entenda",
-      "link": "https://www.poder360.com.br/poder-justica/cnj-aprova-regras-para-negociacao-de-precatorios-entenda/",
-      "date": "2026-11-15T16:02:22.000Z",
-      "summary": "Resolução cria central nacional para controle de cessões, busca prevenir fraudes e proteger credores de dívidas públicas",
-      "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -399,15 +408,6 @@
       "summary": "A polícia deteve 219 pessoas no quinto sábado seguido de manifestações contra o alto custo de vida e em defesa de uma melhor educação.",
       "source": "DW Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Mesmo com fim do inquérito das fake news, Moraes concentra 97% das ações penais e 30% dos inquéritos",
-      "link": "https://www.estadao.com.br/politica/mesmo-com-fim-do-inquerito-das-fake-news-moraes-concentra-97-das-acoes-penais-e-30-dos-inqueritos/",
-      "date": "2026-11-15T08:30:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
