@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-15T10:07:01.984Z",
+  "updated": "2026-11-15T11:02:42.173Z",
   "market": {
     "ibov": {
       "price": 172457.77,
       "pct": 0.66,
-      "time": "2026-11-15T10:06:52.858Z",
+      "time": "2026-11-15T11:02:37.611Z",
       "history": [
         {
           "d": "2026-10-16",
@@ -141,6 +141,51 @@
   },
   "news": [
     {
+      "title": "Tropas brasileiras patrulharam Faixa de Gaza por 10 anos para evitar guerra",
+      "link": "https://www.poder360.com.br/poder-brasil/tropas-brasileiras-patrulharam-faixa-de-gaza-por-10-anos-para-evitar-guerra/",
+      "date": "2026-11-15T10:40:05.000Z",
+      "summary": "Missão Batalhão Suez, da ONU, teve 6.000 soldados brasileiros e durou de 1957 a 1967",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Mais de 100 mil vão às ruas em novos protestos na França, mais de 200 são presos",
+      "link": "https://www.dw.com/pt-br/mais-de-100-mil-vão-às-ruas-em-novos-protestos-na-frança-mais-de-200-são-presos/a-79951672?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-15T10:36:00.000Z",
+      "summary": "A polícia deteve 219 pessoas no quinto sábado seguido de manifestações contra o alto custo de vida e em defesa de uma melhor educação.",
+      "source": "DW Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Hackers invadem subsidiária dos Correios da França e expõem dados de 22 milhões",
+      "link": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/11/15/hackers-invadem-subsidiaria-dos-correios-da-franca-e-expoem-dados-de-22-milhoes.ghtml",
+      "date": "2026-11-15T10:21:11.000Z",
+      "summary": "A cibersegurança continua sendo uma preocupação crescente. Freepik A La Poste, equivalente aos Correios no Brasil e um dos maiores grupos de serviços da França, confirmou no sábado (14) que sua subsidiária Maileva foi vítima de um ataque cibernético em setembr",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lula diz que sua eleição criou expectativa global por “salvar a democracia”",
+      "link": "https://www.poder360.com.br/poder-governo/lula-diz-que-sua-eleicao-criou-expectativa-global-por-salvar-a-democracia/",
+      "date": "2026-11-15T10:20:57.000Z",
+      "summary": "Nas Filipinas, presidente exalta diversificação comercial e diz ter convidado Canadá, Singapura e Coreia do Sul ao Brasil",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "O Lado Invisível Das Finanças: Quem Decide, a Razão ou a Emoção?",
+      "link": "https://www.estadao.com.br/economia/gestao-e-negocios/o-lado-invisivel-das-financas-quem-decide-a-razao-ou-a-emocao/",
+      "date": "2026-11-15T10:18:01.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "Senado aprova incentivo à contratação de mulheres com câncer de mama",
       "link": "https://www.poder360.com.br/poder-congresso/senado-aprova-incentivo-a-contratacao-de-mulheres-com-cancer-de-mama/",
       "date": "2026-11-15T09:54:52.000Z",
@@ -222,15 +267,6 @@
       "type": "imprensa"
     },
     {
-      "title": "BNDES acelera projetos de infraestrutura que usam o próprio ativo como garantia",
-      "link": "https://www.estadao.com.br/economia/coluna-da-broad/bndes-acelera-projetos-de-infraestrutura-que-usam-o-proprio-ativo-como-garantia/",
-      "date": "2026-11-15T07:59:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Palha de café e farelos viram fertilizante natural em apenas nove dias e ajudam a enriquecer o solo",
       "link": "https://g1.globo.com/es/espirito-santo/agronegocios/noticia/2026/11/15/palha-de-cafe-e-farelos-viram-fertilizante-natural-em-apenas-nove-dias-e-ajudam-a-enriquecer-o-solo.ghtml",
       "date": "2026-11-15T07:00:01.000Z",
@@ -280,15 +316,6 @@
       "link": "https://g1.globo.com/economia/noticia/2026/11/15/ele-gastou-r-275-mil-em-labubus-e-fez-ate-dentes-inspirados-nos-bonecos-mas-e-agora-que-a-febre-passou.ghtml",
       "date": "2026-11-15T06:00:01.000Z",
       "summary": "Labubu: o que é boneco que virou febre mundial Durante anos, os bonecos Labubu pareceram imparáveis. Colecionadores de todas as idades compravam avidamente as \"caixas surpresa\" — embalagens lacradas que continham esses monstrinhos peculiares —, pagando, muitas",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Quais países estão na mira do Brasil para desenvolver cadeias de minerais críticos e terras raras?",
-      "link": "https://g1.globo.com/inovacao/noticia/2026/11/15/quais-paises-estao-na-mira-do-brasil-para-desenvolver-cadeias-de-minerais-criticos-e-terras-raras.ghtml",
-      "date": "2026-11-15T06:00:00.000Z",
-      "summary": "Terras raras: a disputa global por uma riqueza brasileira Um dos focos do governo Lula 4 é ampliar a exploração de minerais críticos e terras raras no Brasil, que reúne algumas das maiores reservas mundiais de elementos essenciais para a alta tecnologia e a el",
       "source": "g1",
       "cat": "economia",
       "type": "imprensa"
@@ -433,15 +460,6 @@
       "link": "https://www.dw.com/pt-br/afd-lança-ex-jogador-da-alemanha-como-candidato-à-presidência/a-79948969?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-14T15:27:00.000Z",
       "summary": "Partido de ultradireita apostou em nome \"do centro da sociedade que pode representar todos os alemães\". Cargo provavelmente será ocupado pela primeira vez por uma mulher.",
-      "source": "DW Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Reunião trilateral de Trump, Xi e Putin abordará não proliferação nuclear",
-      "link": "https://www.dw.com/pt-br/reunião-trilateral-de-trump-xi-e-putin-abordará-não-proliferação-nuclear/a-79947990?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-14T12:12:00.000Z",
-      "summary": "Confirmado pela Casa Branca, encontro de líderes de EUA, Rússia e China deve render foto histórica. Mas analistas acham pouco provável que ele traga resultados concretos. Guerra no Oriente Médio também estará na pauta.",
       "source": "DW Brasil",
       "cat": "internacional",
       "type": "imprensa"
@@ -701,6 +719,7 @@
   ],
   "errors": [
     "feed CNN Brasil: HTTP 404",
-    "feed CNN Brasil: HTTP 404"
+    "feed CNN Brasil: HTTP 404",
+    "feed Planalto (governo): HTTP 429"
   ]
 }
