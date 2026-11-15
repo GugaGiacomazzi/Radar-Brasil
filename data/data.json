@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-15T22:58:53.949Z",
+  "updated": "2026-11-15T23:45:31.256Z",
   "market": {
     "ibov": {
       "price": 172457.77,
       "pct": 0.66,
-      "time": "2026-11-15T22:58:47.298Z",
+      "time": "2026-11-15T23:45:25.311Z",
       "history": [
         {
           "d": "2026-10-16",
@@ -141,10 +141,28 @@
   },
   "news": [
     {
-      "title": "Prejuízo dos Correios soma R$ 7,5 bilhões de janeiro a setembro, alta de 27%",
+      "title": "Jensen Huang discute volta ao comando da Nvidia com aliados",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/jensen-huang-discute-volta-ao-comando-da-nvidia-com-aliados.shtml",
+      "date": "2026-11-15T23:10:00.000Z",
+      "summary": "Jensen Huang avalia a possibilidade de voltar ao cargo de presidente-executivo da Nvidia, enquanto aliados no Vale do Silício pressionam o conselho da empresa a readmiti-lo poucos dias depois de o executivo renunciar em meio a reportagens de que ele teve casos",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Receita do turismo receptivo da China pode chegar a US$ 470 bi até 2040",
+      "link": "https://www.poder360.com.br/poder-china/receita-do-turismo-receptivo-da-china-pode-chegar-a-us-470-bi-ate-2040/",
+      "date": "2026-11-15T23:04:04.000Z",
+      "summary": "Participação do setor no PIB chinês deve mais que dobrar, impulsionada por acesso sem visto e voos internacionais",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Prejuízo dos Correios soma R$ 7,5 bilhões até o terceiro trimestre de 2026, alta de 27%",
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/prejuizo-dos-correios-soma-r-75-bilhoes-de-janeiro-a-setembro-alta-de-27.shtml",
       "date": "2026-11-15T22:33:00.000Z",
-      "summary": "Os Correios tiveram um prejuízo de R$ 7,48 bilhões até o terceiro trimestre de 2026, um aumento nominal de 27,2% em relação à perda de R$ 5,88 bilhões em igual período de 2025. Entre julho e setembro, o resultado líquido ficou negativo em R$ 1,93 bilhão, alta ",
+      "summary": "Os Correios tiveram um prejuízo de R$ 7,48 bilhões até o terceiro trimestre de 2026, um aumento nominal de 27,2% em relação à perda de R$ 5,88 bilhões em igual período de 2025. Leia mais (11/15/2026 - 19h33)",
       "source": "Folha",
       "cat": "economia",
       "type": "imprensa"
@@ -231,15 +249,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Cármen arquiva ação sobre bloqueios de Bolsonaro a jornalistas no X",
-      "link": "https://www.poder360.com.br/poder-justica/carmen-arquiva-acao-sobre-bloqueios-de-bolsonaro-a-jornalistas-no-x/",
-      "date": "2026-11-15T20:42:49.000Z",
-      "summary": "Ministra diz que medida violou liberdade de imprensa, mas considera que saída do ex-presidente do cargo fez ação perder o objeto",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Polonesas driblam veto ao aborto com armário de entrega de pílulas",
       "link": "https://www.dw.com/pt-br/polonesas-driblam-veto-ao-aborto-com-armário-de-entrega-de-pílulas/a-79953437?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-15T20:07:00.000Z",
@@ -309,15 +318,6 @@
       "summary": "",
       "source": "Estadão",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Brasil não tem plano B na crise de cibersegurança",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/ronaldolemos/2026/11/brasil-nao-tem-plano-b-na-crise-de-ciberseguranca.shtml",
-      "date": "2026-11-15T17:00:00.000Z",
-      "summary": "Se alguém tinha dúvidas de que a inocência em cibersegurança acabou, os últimos dias deixaram isso claro. Várias infraestruturas críticas do Brasil foram atacadas ou paralisadas por falhas: o Porto de Santos com sistemas fora do ar, vazamento de dados na Caixa",
-      "source": "Folha",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -691,7 +691,8 @@
     }
   ],
   "errors": [
-    "feed CNN Brasil: HTTP 403",
-    "feed CNN Brasil: HTTP 403"
+    "IPCA 12m (SGS 13522): HTTP 304",
+    "feed CNN Brasil: HTTP 404",
+    "feed CNN Brasil: HTTP 404"
   ]
 }
