@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-15T12:51:30.862Z",
+  "updated": "2026-11-15T13:49:17.400Z",
   "market": {
     "ibov": {
       "price": 172457.77,
       "pct": 0.66,
-      "time": "2026-11-15T12:51:24.379Z",
+      "time": "2026-11-15T13:49:13.026Z",
       "history": [
         {
           "d": "2026-10-16",
@@ -141,12 +141,102 @@
   },
   "news": [
     {
-      "title": "Alinhamento de Lula com a China vai fazer o Brasil sofrer, diz Flávio",
-      "link": "https://www.poder360.com.br/poder-congresso/alinhamento-de-lula-com-a-china-vai-fazer-o-brasil-sofrer-diz-flavio/",
-      "date": "2026-11-15T11:54:25.000Z",
-      "summary": "Nos EUA, senador afirma que política externa do presidente reeleito ampliará influência chinesa",
+      "title": "CEOs de empresas de tecnologia defendem Huang e pedem volta do executivo à Nvidia",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/ceos-de-empresas-de-tecnologia-defendem-huang-e-pedem-volta-do-executivo-a-nvidia.shtml",
+      "date": "2026-11-15T13:45:00.000Z",
+      "summary": "Muitos executivos e investidores do Vale do Silício estão se mobilizando em apoio a Jensen Huang, que renunciou ao cargo de CEO da Nvidia na quinta-feira (12) após revelações de que manteve três casos extraconjugais com duas funcionárias e com uma mulher que a",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Cúpula inédita de Xi, Trump e Putin expõe dilema chinês sobre Moscou",
+      "link": "https://www.dw.com/pt-br/cúpula-inédita-de-xi-trump-e-putin-expõe-dilema-chinês-sobre-moscou/a-79952220?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-15T13:36:00.000Z",
+      "summary": "A imagem do encontro tende a beneficiar Moscou, enquanto Pequim corre o risco de desgastar sua própria posição geopolítica no cenário internacional.",
+      "source": "DW Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "15 de novembro é feriado de quê? Por que historiadores acreditam que a monarquia sofreu 'um golpe'",
+      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/15/15-de-novembro-e-feriado-de-que-por-que-historiadores-acreditam-que-a-monarquia-sofreu-um-golpe.ghtml",
+      "date": "2026-11-15T13:24:39.000Z",
+      "summary": "O quadro 'Proclamação da República', de Benedito Calixto, retrata a proclamação na imaginação do pintor. Centro Cultural São Paulo via BBC Meses após o Marechal Deodoro da Fonseca enganar a própria mulher, burlar as recomendações médicas e levantar da cama — o",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "15 de novembro é feriado de quê? Por que historiadores acreditam que a monarquia sofreu 'um golpe'",
+      "link": "https://www.bbc.com/portuguese/articles/cqjd7lpvj452o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-15T13:10:42.000Z",
+      "summary": "Quase um século e meio depois, tema ainda suscita debates sobre a Proclamação da República. Primeiras críticas apareceram meses após Marechal Deodoro da Fonseca proclamá-la.",
+      "source": "BBC News Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Banco ABC Brasil compra 40% da Angá Asset e prevê assumir 100% até 2031 por R$ 690 milhões",
+      "link": "https://www.estadao.com.br/economia/banco-abc-brasil-compra-40-da-anga-asset-e-preve-assumir-100-ate-2031-por-r-690-milhoes/",
+      "date": "2026-11-15T13:05:20.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "‘Ao invés de ficar chorando, fomos buscar novos parceiros’, diz Lula, sobre tarifaço de Trump",
+      "link": "https://www.estadao.com.br/economia/ao-inves-de-ficar-chorando-fomos-buscar-novos-parceiros-diz-lula-sobre-tarifaco-de-trump/",
+      "date": "2026-11-15T13:03:14.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Siderúrgicas pedem barreiras a carros e máquinas importados",
+      "link": "https://www.poder360.com.br/poder-infra/siderurgicas-pedem-barreiras-a-carros-e-maquinas-importados/",
+      "date": "2026-11-15T13:00:51.000Z",
+      "summary": "Executivos latino-americanos reunidos no México querem ampliar proteção contra concorrência chinesa a outros setores",
       "source": "Poder360",
       "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Hidrovia do Paraguai tem conversas avançadas mesmo após troca de poder",
+      "link": "https://www.poder360.com.br/poder-infra/hidrovia-do-paraguai-tem-conversas-avancadas-mesmo-apos-troca-de-poder/",
+      "date": "2026-11-15T13:00:49.000Z",
+      "summary": "Governo brasileiro diz que mudança na Presidência paraguaia não afeta negociações por concessão de trecho de 600 quilômetros",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Siderúrgicas latinas defendem parceria com Estados Unidos",
+      "link": "https://www.poder360.com.br/poder-economia/siderurgicas-latinas-defendem-parceria-com-estados-unidos/",
+      "date": "2026-11-15T13:00:13.000Z",
+      "summary": "Setor vê na integração regional uma resposta à concorrência chinesa, apesar das tarifas de até 50% sobre o aço",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Governo Tarcísio estuda recriar pasta do Planejamento para acomodar aliada",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/governo-tarcisio-estuda-recriar-pasta-do-planejamento-para-acomodar-aliada.shtml",
+      "date": "2026-11-15T13:00:00.000Z",
+      "summary": "Uma das auxiliares mais próximas do governador de São Paulo, Tarcísio de Freitas (Republicanos), Natália Resende deve ser deslocada para uma nova Secretaria de Planejamento, a ser criada a partir do desmembramento da pasta da Fazenda. Leia mais (11/15/2026 - 1",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Escândalo Nvidia coloca espionagem nos holofotes",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/escandalo-nvidia-coloca-espionagem-nos-holofotes.shtml",
+      "date": "2026-11-15T12:53:00.000Z",
+      "summary": "Acreditava-se que Alice Huang, a executiva chinesa no centro do escândalo de uma suposta espionagem envolvendo a Nvidia, estivesse usando seu caso com o fundador da empresa, Jensen Huang, para ajudar a China a contornar os esforços dos EUA para restringir o ac",
+      "source": "Folha",
+      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -156,15 +246,6 @@
       "summary": "A Kraft Heinz Brasil vai trocar o comando da BR Spices, marca de temperos premium que a empresa está usando como laboratório para entrar em novas categorias. É a primeira mudança no comando da empresa desde que ela foi adquirida pela Kraft Heinz em 2021. Leia ",
       "source": "Folha",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Tropas brasileiras patrulharam Faixa de Gaza por 10 anos para evitar guerra",
-      "link": "https://www.poder360.com.br/poder-brasil/tropas-brasileiras-patrulharam-faixa-de-gaza-por-10-anos-para-evitar-guerra/",
-      "date": "2026-11-15T10:40:05.000Z",
-      "summary": "Missão Batalhão Suez, da ONU, teve 6.000 soldados brasileiros e durou de 1957 a 1967",
-      "source": "Poder360",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -183,15 +264,6 @@
       "summary": "A cibersegurança continua sendo uma preocupação crescente. Freepik A La Poste, equivalente aos Correios no Brasil e um dos maiores grupos de serviços da França, confirmou no sábado (14) que sua subsidiária Maileva foi vítima de um ataque cibernético em setembr",
       "source": "g1",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Lula diz que sua eleição criou expectativa global por “salvar a democracia”",
-      "link": "https://www.poder360.com.br/poder-governo/lula-diz-que-sua-eleicao-criou-expectativa-global-por-salvar-a-democracia/",
-      "date": "2026-11-15T10:20:57.000Z",
-      "summary": "Nas Filipinas, presidente exalta diversificação comercial e diz ter convidado Canadá, Singapura e Coreia do Sul ao Brasil",
-      "source": "Poder360",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -240,29 +312,11 @@
       "type": "imprensa"
     },
     {
-      "title": "Alto Escalão: confira quem mudou de endereço e de cadeira nesta semana",
-      "link": "https://www.estadao.com.br/economia/alto-escalao/alto-escalao-confira-quem-mudou-de-endereco-e-de-cadeira-nesta-semana-2/",
-      "date": "2026-11-15T08:30:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Hidratação nos chifres, 'damas de companhia' e dieta especial: o g1 acompanhou a rotina da vaca mais cara do mundo",
       "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/15/o-g1-acompanhou-a-rotina-da-vaca-mais-cara-do-mundo.ghtml",
       "date": "2026-11-15T08:00:00.000Z",
       "summary": "O g1 passou um dia com a vaca mais cara do mundo; veja como foi A vaca mais cara do mundo é brasileira, tem cinco donos e três clones para chamar de seus. Avaliada em R$ 54 milhões, Donna FIV CIAV nasceu no Paraná e hoje vive na fazenda Mata Velha, em Uberaba ",
       "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Incorporadoras listadas na Bolsa ganham participação de mercado",
-      "link": "https://www.estadao.com.br/economia/coluna-da-broad/incorporadoras-listadas-na-bolsa-ganham-participacao-de-mercado/",
-      "date": "2026-11-15T08:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
       "cat": "economia",
       "type": "imprensa"
     },
@@ -294,30 +348,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Lula quer salto industrial e retirada do rótulo de país em desenvolvimento no quarto mandato",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/lula-quer-salto-industrial-e-retirada-do-rotulo-de-pais-em-desenvolvimento-no-quarto-mandato.shtml",
-      "date": "2026-11-15T06:54:00.000Z",
-      "summary": "O presidente Luiz Inácio Lula da Silva (PT) afirmou neste domingo (15) que terá como foco do quarto mandato um salto industrial e tecnológico no Brasil, fazendo com que o país deixe de ser uma nação \"eternamente em desenvolvimento\" e se transforme em uma nação",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Lula defende ampliação de parceria com Sudeste Asiático e impõe condição à exploração de minerais críticos",
       "link": "https://g1.globo.com/politica/noticia/2026/11/15/lula-defende-ampliacao-de-parceria-com-sudeste-asiatico-e-impoe-condicao-a-exploracao-de-minerais-criticos.ghtml",
       "date": "2026-11-15T06:01:34.000Z",
       "summary": "Lula defende ampliação de parceria com Sudeste Asiático e impõe condição à exploração de minerais cr O presidente Luiz Inácio Lula da Silva (PT) defendeu neste domingo (15) o aprofundamento das relações comerciais e diplomáticas entre o Brasil e a Associação d",
       "source": "g1",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Ele gastou R$ 275 mil em Labubus e fez até dentes inspirados nos bonecos, mas e agora que a febre passou?",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/15/ele-gastou-r-275-mil-em-labubus-e-fez-ate-dentes-inspirados-nos-bonecos-mas-e-agora-que-a-febre-passou.ghtml",
-      "date": "2026-11-15T06:00:01.000Z",
-      "summary": "Labubu: o que é boneco que virou febre mundial Durante anos, os bonecos Labubu pareceram imparáveis. Colecionadores de todas as idades compravam avidamente as \"caixas surpresa\" — embalagens lacradas que continham esses monstrinhos peculiares —, pagando, muitas",
-      "source": "g1",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -330,15 +366,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Lula diz que concentração das big techs ameaça soberania dos países em discurso nas Filipinas",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/lula-diz-que-concentracao-das-big-techs-ameaca-soberania-dos-paises-em-discurso-nas-filipinas.shtml",
-      "date": "2026-11-15T03:33:00.000Z",
-      "summary": "O presidente Luiz Inácio Lula da Silva (PT) afirmou neste domingo (15) que a concentração de poder das grandes empresas de tecnologia representa uma ameaça à soberania dos países. Em discurso na abertura da cúpula da Asean (Associação das Nações do Sudeste Asi",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Governo lança guia para identificação e direcionamento de famílias em risco de fome para programas sociais",
       "link": "https://g1.globo.com/politica/noticia/2026/11/15/governo-lanca-guia-para-identificacao-e-direcionamento-de-familias-em-risco-de-fome-para-programas-sociais.ghtml",
       "date": "2026-11-15T03:00:00.000Z",
@@ -348,28 +375,10 @@
       "type": "imprensa"
     },
     {
-      "title": "Lula terá 73 indicações para agências reguladoras e BC e ganha espaço para negociar com Centrão",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/15/lula-tera-73-indicacoes-para-agencias-reguladoras-e-bc-e-ganha-espaco-para-negociar-com-centrao.ghtml",
-      "date": "2026-11-15T03:00:00.000Z",
-      "summary": "Em seu quarto mandato, que começa em 5 de janeiro de 2027, o presidente Luiz Inácio Lula da Silva (PT) poderá fazer 73 indicações para postos de direção em agências e órgãos reguladores e no Banco Central (BC). São 62 vagas em agências e órgãos reguladores e 1",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Idosos com 70 anos ou mais são 4 em cada 10 novos eleitores no 2º turno",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/idosos-com-70-anos-ou-mais-sao-4-de-cada-10-novos-eleitores-no-2o-turno.shtml",
       "date": "2026-11-15T02:09:00.000Z",
       "summary": "Os idosos com 70 anos ou mais não são obrigados a votar, mas foram os eleitores que mais fizeram diferença no segundo turno das eleições de 2026, de acordo com dados divulgados neste sábado (14) pelo TSE (Tribunal Superior Eleitoral). Leia mais (11/14/2026 - 2",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Deltan Dallagnol chegará ao Senado com o pé esquerdo",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2026/11/deltan-dallagnol-chegara-ao-senado-com-o-pe-esquerdo.shtml",
-      "date": "2026-11-15T02:00:00.000Z",
-      "summary": "O senador eleito Deltan Dallagnol chegará à Casa com o pé esquerdo, propondo a formação de uma CPI para investigar malfeitorias do governo de Lula. O governo de Lula nem começou e o senador mostra que pretende tocar seu samba de uma nota só. Leia mais (11/14/2",
       "source": "Folha",
       "cat": "politica",
       "type": "imprensa"
@@ -442,15 +451,6 @@
       "link": "https://www.dw.com/pt-br/zelenski-diz-que-eua-propuseram-à-ucrânia-ceder-território-a-moscou-para-entrar-na-otan/a-79949054?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-14T16:47:00.000Z",
       "summary": "O presidente ucraniano afirmou que, em Abu Dhabi, americanos levantaram a possibilidade de admitir seu país na aliança militar caso Kiev se retirasse de áreas que ainda controla no Donbass.",
-      "source": "DW Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "AfD lança ex-jogador da Alemanha como candidato à Presidência",
-      "link": "https://www.dw.com/pt-br/afd-lança-ex-jogador-da-alemanha-como-candidato-à-presidência/a-79948969?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-14T15:27:00.000Z",
-      "summary": "Partido de ultradireita apostou em nome \"do centro da sociedade que pode representar todos os alemães\". Cargo provavelmente será ocupado pela primeira vez por uma mulher.",
       "source": "DW Brasil",
       "cat": "internacional",
       "type": "imprensa"
@@ -697,19 +697,11 @@
       "source": "Banco Central",
       "cat": "economia",
       "type": "oficial"
-    },
-    {
-      "title": "'Não falei com Lula. Isso foi plantado para queimar alguém que defendeu a proposta', diz André Lara Resende",
-      "link": "https://www.bbc.com/portuguese/articles/cmly0jeq2q9no?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-05T23:19:37.000Z",
-      "summary": "Economista que presidiu o BNDES e fez parte da diretoria do Banco Central propôs criação de conselho que reduziria taxa Selic a longo prazo; proposta mobilizou mercado financeiro e discussão em Brasília.",
-      "source": "BBC News Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
     }
   ],
   "errors": [
     "feed CNN Brasil: HTTP 404",
-    "feed CNN Brasil: HTTP 404"
+    "feed CNN Brasil: HTTP 404",
+    "feed Planalto (governo): HTTP 429"
   ]
 }
