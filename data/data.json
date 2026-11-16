@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-16T18:32:31.945Z",
+  "updated": "2026-11-16T19:38:56.452Z",
   "market": {
     "ibov": {
-      "price": 168964.16,
-      "pct": -2.03,
-      "time": "2026-11-16T18:32:26.418Z",
+      "price": 168987.27,
+      "pct": -2.01,
+      "time": "2026-11-16T19:38:51.730Z",
       "history": [
         {
           "d": "2026-10-19",
@@ -84,7 +84,7 @@
         },
         {
           "d": "2026-11-16",
-          "c": 168898.9219
+          "c": 168960.875
         }
       ]
     },
@@ -141,6 +141,114 @@
   },
   "news": [
     {
+      "title": "Prêmio Imprensa de Educação ao Investidor oferece R$ 15 mil para reportagens sobre finanças",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/blogs/novo-em-folha/2026/11/premio-imprensa-de-educacao-ao-investidor-oferece-r-15-mil-para-reportagens-sobre-financas.shtml",
+      "date": "2026-11-16T19:32:00.000Z",
+      "summary": "Estão abertas as inscrições para o 20º Prêmio Imprensa de Educação ao Investidor, organizado pelo Comitê Consultivo de Educação da CVM (Comissão de Valores Mobiliários). Podem concorrer reportagens e entrevistas publicadas entre 1º de janeiro e 31 de dezembro ",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Ibiúna, 1968: Tribunal de SP condena Estado a indenizar prisioneiro do congresso da UNE",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/ibiuna-1968-tribunal-de-sp-condena-estado-a-indenizar-prisioneiro-do-congresso-da-une/",
+      "date": "2026-11-16T19:27:03.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "CNJ manda Meta verificar se desembargadora que liberou bets fez postagens com ofensas a Lula",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/cnj-manda-meta-verificar-se-desembargadora-que-liberou-bets-fez-postagens-com-ofensas-a-lula/",
+      "date": "2026-11-16T19:24:53.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Quaest: Brasileiro defende redução da maioridade penal e câmeras corporais na PM e é contra armas",
+      "link": "https://www.estadao.com.br/politica/quaest-brasileiro-defende-reducao-da-maioridade-penal-e-cameras-corporais-na-pm-e-e-contra-armas-nprp/",
+      "date": "2026-11-16T19:20:30.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "BC projeta Pix por aproximação offline e integração internacional",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/bc-projeta-pix-por-aproximacao-offline-e-integracao-internacional.shtml",
+      "date": "2026-11-16T19:16:00.000Z",
+      "summary": "O Banco Central afirmou nesta segunda-feira (16) que projeta a expansão das funcionalidades do Pix com o desenvolvimento da ferramenta por aproximação em ambiente offline. Leia mais (11/16/2026 - 16h16)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Ajuste fiscal não compromete políticas sociais, garante Humberto Costa",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/16/ajuste-fiscal-nao-compromete-politicas-sociais-garante-humberto-costa",
+      "date": "2026-11-16T19:06:44.000Z",
+      "summary": "O senador Humberto Costa (PT-PE), em pronunciamento no Plenário nesta segunda-feira (16), defendeu o projeto de lei complementar que trata do ajuste fiscal proposto pelo governo federal (PLP 299/2026). O parlamentar afirmou que votou a favor do texto principal",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Projeto estabelece regras para uso de anticoncepcionais hormonais em cadelas e gatas",
+      "link": "https://www.camara.leg.br/noticias/1313139-projeto-estabelece-regras-para-uso-de-anticoncepcionais-hormonais-em-cadelas-e-gatas",
+      "date": "2026-11-16T19:05:00.000Z",
+      "summary": "A Câmara dos Deputados analisa o assunto",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Senado vota nesta quarta mais prazo para escolas usarem verba para internet",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/16/senado-vota-nesta-quarta-mais-prazo-para-escolas-usarem-verba-para-internet",
+      "date": "2026-11-16T18:56:14.000Z",
+      "summary": "Um dos itens pautados para a sessão do Plenário do Senado nesta quarta-feira (18) é o projeto de lei que amplia em dois anos o prazo limite para as escolas públicas usarem as verbas destinadas a garantir acesso à internet em estabelecimentos de ensino. O PL 5.",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "'Arquivo S' ganha novo volume com registro de fatos históricos",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/16/arquivo-s-ganha-novo-volume-com-registro-de-fatos-historicos",
+      "date": "2026-11-16T18:49:15.000Z",
+      "summary": "O Senado lança nesta quarta-feira (18), às 15h, o 11º volume da coleção Arquivo S – O Senado na História do Brasil. A obra reúne reportagens sobre fatos marcantes do país, com base em documentos históricos que estão sob a guarda do Arquivo do Senado. O lançame",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Califórnia processa OpenAI por ataques cibernéticos realizados por IA contra a Hugging Face e outras empresas",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/16/opne-ai-ataque-california.ghtml",
+      "date": "2026-11-16T18:47:59.000Z",
+      "summary": "OpenAI. Reprodução/Fantástico A Procuradoria-Geral da Califórnia, nos Estados Unidos, processou a OpenAI nesta segunda-feira (16), acusando a empresa de desenvolver um produto perigoso sem procedimentos de segurança e mecanismos de fiscalização adequados. A aç",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Janja não volta com Lula e fica na Europa para compromissos com a ONU",
+      "link": "https://www.poder360.com.br/poder-gente/janja-nao-volta-com-lula-e-fica-na-europa-para-compromissos-com-a-onu/",
+      "date": "2026-11-16T18:37:21.000Z",
+      "summary": "Primeira-dama é embaixadora da FAO; ministros Wellington Dias e Fernanda Machiaveli também participam de agendas",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Fachin indica a colegas que deve dar prioridade para julgamento sobre escala 5x2",
+      "link": "https://g1.globo.com/economia/blog/ana-flor/post/2026/11/16/fachin-indica-a-colegas-que-deve-dar-prioridade-para-julgamento-sobre-escala-5x2.ghtml",
+      "date": "2026-11-16T18:36:43.000Z",
+      "summary": "O presidente do STF, Edson Fachin, indicou a colegas que pretende pautar logo o julgamento da escala 5x2, que foi transferido para o plenário físico do STF na última semana a pedido do ministro Luiz Fux. O ponto central da discussão é o adiamento ou não das no",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "Dólar sobe mais de 2% e vai a R$ 5,77; Bolsa cai 1,83%",
       "link": "https://www.poder360.com.br/poder-economia/dolar-sobe-mais-de-2-e-vai-a-r-577-bolsa-cai-183/",
       "date": "2026-11-16T18:15:55.000Z",
@@ -159,29 +267,11 @@
       "type": "oficial"
     },
     {
-      "title": "Defesa de Vorcaro quer tirar Compliance Zero de Fachin e pede retorno dos autos para Mendonça",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/defesa-de-vorcaro-quer-tirar-compliance-zero-de-fachin-e-pede-retorno-dos-autos-para-mendonca/",
-      "date": "2026-11-16T18:12:57.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Nike substituirá Adidas como fornecedora de bolas da Uefa em 2027",
       "link": "https://www.poder360.com.br/poder-sportsmkt/nike-substituira-adidas-como-fornecedora-de-bolas-da-uefa-em-2027/",
       "date": "2026-11-16T18:05:22.000Z",
       "summary": "Acordo será válido até 2031 e abrangerá Champions League, Liga Europa e Conference League",
       "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Quaest: Centro cresce e atinge 39% do eleitorado brasileiro em 20 anos",
-      "link": "https://www.estadao.com.br/politica/quaest-centro-cresce-e-atinge-39-do-eleitorado-brasileiro-em-20-anos-nprp/",
-      "date": "2026-11-16T18:04:47.000Z",
-      "summary": "",
-      "source": "Estadão",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -195,7 +285,7 @@
       "type": "imprensa"
     },
     {
-      "title": "Maior doador da eleição, Pedro Grendene deu R$ 5 mi a governador do PT e financiou o PL; veja ranking",
+      "title": "Maior doador da eleição com R$ 7 mi, Grendene financiou o PL e governador do PT; veja ranking",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/maior-doador-da-eleicao-pedro-grendene-deu-r-5-mi-a-governador-do-pt-e-financiou-o-pl-veja-ranking.shtml",
       "date": "2026-11-16T18:00:00.000Z",
       "summary": "Com R$ 7,03 milhões repassados para candidatos e partidos de diferentes espectros políticos, o empresário Pedro Grendene Bartelle é o maior doador individual de campanhas nas eleições 2026. O ranking considera dados do TSE (Tribunal Superior Eleitoral) atualiz",
@@ -249,30 +339,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Lindbergh critica Moretti e o compara a “vivandeira de quartel”",
-      "link": "https://www.poder360.com.br/poder-congresso/lindbergh-critica-moretti-e-o-compara-a-vivandeira-de-quartel/",
-      "date": "2026-11-16T17:43:36.000Z",
-      "summary": "Petista chamou de \"desonesta\" a entrevista do ministro do Planejamento em que ele cita \"esquerda sectária\"",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Crise na Nvidia expõe dilema da China na corrida pelos chips de IA",
       "link": "https://www.dw.com/pt-br/crise-na-nvidia-expõe-dilema-da-china-na-corrida-pelos-chips-de-ia/a-79961956?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-16T17:36:00.000Z",
       "summary": "Cerca de 600 mil chips H200, da fabricante americana, aguardam em Hong Kong autorização do governo chinês para importação. País asiático se depara com escolha entre comprar dos EUA ou apostar na própria indústria.",
       "source": "DW Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Indústria farmacêutica corre para combater Alzheimer antes do surgimento dos sintomas",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/industria-farmaceutica-corre-para-combater-alzheimer-antes-do-surgimento-dos-sintomas.shtml",
-      "date": "2026-11-16T17:35:00.000Z",
-      "summary": "Carole Greig trabalhava como acompanhante de mulheres com demência quando começou a apresentar problemas de memória de curto prazo. Leia mais (11/16/2026 - 14h35)",
-      "source": "Folha",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -285,10 +357,10 @@
       "type": "oficial"
     },
     {
-      "title": "Centrais descartam ir a ato contra 'plano Moretti' e priorizam protesto contra juros",
+      "title": "Maiores centrais descartam ir a ato contra 'plano Moretti' e priorizam protesto contra juros",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/centrais-descartam-ir-a-ato-contra-plano-moretti-e-priorizam-protesto-contra-juros.shtml",
       "date": "2026-11-16T17:27:00.000Z",
-      "summary": "As centrais sindicais decidiram não participar de uma manifestação marcada para esta terça-feira (17) no Rio de Janeiro contra o \"plano Moretti\", que prevê contingenciamento de despesas do governo. Leia mais (11/16/2026 - 14h27)",
+      "summary": "As principais centrais sindicais decidiram não participar de uma manifestação marcada para esta terça-feira (17) no Rio de Janeiro contra o \"plano Moretti\", que prevê contingenciamento de despesas do governo. Leia mais (11/16/2026 - 14h27)",
       "source": "Folha",
       "cat": "politica",
       "type": "imprensa"
@@ -297,27 +369,18 @@
       "title": "Dia da Consciência Negra: participantes de sessão especial apontam desafios",
       "link": "https://www12.senado.leg.br/noticias/materias/2026/11/16/dia-da-consciencia-negra-participantes-de-sessao-especial-apontam-desafios",
       "date": "2026-11-16T17:25:18.000Z",
-      "summary": "O Senado celebrou em sessão especial o Dia Nacional de Zumbi e da Consciência Negra. Os representantes de movimentos sociais e especialistas convidados apontaram os avanços e desafios em efetivar seus direitos no cotidiano, além de homenagearem o Zumbi dos Pal",
+      "summary": "O Senado celebrou em sessão especial o Dia Nacional de Zumbi e da Consciência Negra. Os representantes de movimentos sociais e especialistas convidados apontaram os avanços e desafios em efetivar seus direitos no cotidiano, além de homenagearem Zumbi dos Palma",
       "source": "Agência Senado",
       "cat": "politica",
       "type": "oficial"
     },
     {
-      "title": "Bets tiraram R$ 40,4 bilhões do orçamento das famílias em 2026, diz Comsefaz",
+      "title": "Bets tiraram R$ 40,4 bilhões do orçamento das famílias até julho de 2026, diz Comsefaz",
       "link": "https://g1.globo.com/economia/noticia/2026/11/16/bets-orcamento-das-familias-2026.ghtml",
       "date": "2026-11-16T17:02:30.000Z",
-      "summary": "Pessoa mexendo no celular Reprodução/ RBS TV O avanço das casas de apostas online segue consumindo uma parcela relevante dos recursos das famílias brasileiras. Nos primeiros sete meses de 2026, a saída líquida de recursos associada às bets foi estimada em R$ 4",
+      "summary": "Pessoa mexendo no celular Reprodução/ RBS TV Desde setembro, o governo Lula proibiu as bets no Brasil. Mas as apostas online consumiram uma parcela significativa do dinheiro das famílias brasileiras nos primeiros sete meses de 2026. A saída líquida de recursos",
       "source": "g1",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Apoio de Lula não garante reeleição de Motta e Alcolumbre",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/dora-kramer/2026/11/apoio-de-lula-nao-garante-reeleicao-de-motta-e-alcolumbre.shtml",
-      "date": "2026-11-16T16:51:00.000Z",
-      "summary": "Se na vida o senso comum consagra a escrita de que a primeira impressão é a que fica, na política isso raramente se confirma. Leia mais (11/16/2026 - 13h51)",
-      "source": "Folha",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -327,6 +390,15 @@
       "summary": "",
       "source": "Estadão",
       "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Andrei nega crise na PF e diz que não será intimidado",
+      "link": "https://www.estadao.com.br/politica/andrei-nega-crise-na-pf-e-diz-que-nao-sera-intimidado-nprp/",
+      "date": "2026-11-16T16:34:52.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -366,38 +438,11 @@
       "type": "oficial"
     },
     {
-      "title": "Comissão debate fiscalização de contratos de concessão de rodovias federais",
-      "link": "https://www.camara.leg.br/noticias/1319624-comissao-debate-fiscalizacao-de-contratos-de-concessao-de-rodovias-federais",
-      "date": "2026-11-16T16:12:00.000Z",
-      "summary": "",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
       "title": "Falha em foguete destrói 40 satélites da Amazon que seriam usados em serviço rival da Starlink",
       "link": "https://g1.globo.com/tecnologia/noticia/2026/11/16/falha-em-foguete-destroi-40-satelites-da-amazon-que-seriam-usados-em-servico-rival-da-starlink.ghtml",
       "date": "2026-11-16T15:31:47.000Z",
       "summary": "Uma carenagem de carga útil da United Launch Alliance (ULA), que transporta uma espaçonave de segurança nacional a ser acoplada a um foguete Vulcan para a missão USSF-87, é transportada por uma via no Centro Espacial Kennedy, em Cabo Canaveral, Flórida (EUA). ",
       "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "A IA é muito perigosa, como a energia nuclear, mas deve trazer benefícios, diz Nobel de Economia",
-      "link": "https://www.estadao.com.br/economia/entrevista-peter-howitt-nobel-economia-ia-perigosa/",
-      "date": "2026-11-16T15:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Bernard Appy defende prorrogação de período de testes para implementação da reforma tributária",
-      "link": "https://www.estadao.com.br/economia/bernard-appy-prorrogacao-periodo-testes-implementacao-reforma-tributaria/",
-      "date": "2026-11-16T14:49:47.000Z",
-      "summary": "",
-      "source": "Estadão",
       "cat": "economia",
       "type": "imprensa"
     },
@@ -420,39 +465,30 @@
       "type": "imprensa"
     },
     {
-      "title": "Tarcísio: Caberá à maioria de centro-direita no Congresso fazer uma oposição responsável a Lula",
-      "link": "https://www.estadao.com.br/politica/tarcisio-cabera-a-maioria-de-centro-direita-no-congresso-fazer-uma-oposicao-responsavel-a-lula/",
-      "date": "2026-11-16T14:17:11.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Andrei diz ser alvo de ataques que não o intimidam e afirma não haver divisão na PF",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/16/andrei-diz-ser-alvo-de-ataques-que-nao-o-intimidam-e-afirma-nao-haver-divisao-na-pf.ghtml",
-      "date": "2026-11-16T14:08:14.000Z",
-      "summary": "Andrei Rodrigues nega crise e reforça autonomia da Polícia Federal O diretor-geral da Polícia Federal, Andrei Rodrigues, afirmou nesta segunda-feira (16) que tanto ele quanto a instituição têm sido alvo de ataques motivados, na avaliação dele, por interesses \"",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Feriado 20 de novembro: veja o que é comemorado na data e por que é feriado nacional",
-      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/16/feriado-20-de-novembro-veja-o-que-e-comemorado-na-data-e-por-que-e-feriado-nacional.ghtml",
-      "date": "2026-11-16T13:22:33.000Z",
-      "summary": "Previsão do tempo orla maceió sol nuvens ensolarado praia Reprodução/TV Asa Branca Alagoas O próximo feriado nacional acontece em 20 de novembro, quando é celebrado o Dia Nacional de Zumbi e da Consciência Negra. A data cairá em uma sexta-feira, formando três ",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "BC divulga o IBC-Br de setembro de 2026",
       "link": "https://www.bcb.gov.br/detalhenoticia/21319/nota",
       "date": "2026-11-16T12:01:20.000Z",
       "summary": "",
       "source": "Banco Central",
       "cat": "economia",
+      "type": "oficial"
+    },
+    {
+      "title": "COP31: Sociedade civil exige ação em meio a forte El Niño e impasses",
+      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854930",
+      "date": "2026-11-16T12:00:00.000Z",
+      "summary": "Negociação na Cúpula do Clima, em Antália, na Turquia, é marcada por barreiras financeiras, omissão sobre combustíveis fósseis e impacto ambiental de centros de dados de inteligência artificial; ativistas do Brasil e Guiné-Bissau dizem à ONU News que jovens qu",
+      "source": "ONU News",
+      "cat": "internacional",
+      "type": "oficial"
+    },
+    {
+      "title": "Guterres pede ação sobre crise em Mianmar durante Cúpula do Sudeste Asiático",
+      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854928",
+      "date": "2026-11-16T12:00:00.000Z",
+      "summary": "Secretário-geral elogiou cooperação do bloco, que inclui nação de língua portuguesa Timor-Leste; líder da ONU também citou guerra na Ucrânia que elevou preço dos alimentos na região; Asean tem 11 Estados-membros, e disse que mundo deve apoiar multilateralismo ",
+      "source": "ONU News",
+      "cat": "internacional",
       "type": "oficial"
     },
     {
@@ -474,6 +510,15 @@
       "type": "imprensa"
     },
     {
+      "title": "Rooftop a 110 metros e piscina de 100 m: novo residencial com assinatura Lindenberg do eixo Berrine",
+      "link": "https://www.estadao.com.br/economia/negocios/rooftop-a-110-metros-e-piscina-de-100-m-novo-residencial-com-assinatura-lindenberg-do-eixo-berrine/",
+      "date": "2026-11-16T10:01:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "Quem é o 1º senador negro do Mississippi em 140 anos e por que tão poucos foram eleitos nos EUA?",
       "link": "https://www.bbc.com/portuguese/articles/cwe9kj4xmy2po?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-16T09:43:38.000Z",
@@ -489,15 +534,6 @@
       "summary": "Em vez de nomes próximos como Flávio Dino e Cristiano Zanin, presidente terá que buscar opções com apoio forte do Centrão, afirmam analistas.",
       "source": "BBC News Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "PSB vê João Campos e Alckmin como certos no Lula 4, mas enfrenta incertezas sobre Tebet e França",
-      "link": "https://www.estadao.com.br/politica/psb-ve-joao-campos-e-alckmin-como-certos-no-lula-4-mas-enfrenta-incertezas-sobre-tebet-e-franca/",
-      "date": "2026-11-16T08:30:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -555,6 +591,15 @@
       "type": "imprensa"
     },
     {
+      "title": "De caixas eletrônicos a prédios de luxo: fim de agências cria negócio para fundos e construtoras",
+      "link": "https://www.estadao.com.br/economia/negocios/de-caixas-eletronicos-a-predios-de-luxo-fim-de-agencias-cria-negocio-para-fundos-e-construtoras/",
+      "date": "2026-11-14T08:30:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "Novo chefe do WFP pede fim dos combates no Sudão após visita ao país",
       "link": "https://news.un.org/feed/view/pt/story/2026/11/1854920",
       "date": "2026-11-13T12:00:00.000Z",
@@ -609,15 +654,6 @@
       "type": "oficial"
     },
     {
-      "title": "Com emissões em nível recorde, COP31 lança meta para eletrificação até 2035",
-      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854895",
-      "date": "2026-11-11T12:00:00.000Z",
-      "summary": "Na abertura de alto nível, secretário-geral António Guterres alertou que planeta segue rumo à destruição; ONU aponta energia limpa como escudo contra a inflação; presidente Lula, do Brasil, advertiu que ação climática está perdendo terreno no mundo.",
-      "source": "ONU News",
-      "cat": "internacional",
-      "type": "oficial"
-    },
-    {
       "title": "Quem vai cuidar dos idosos do Brasil? Por que envelhecimento acelerado é 'desafio do século'",
       "link": "https://www.bbc.com/portuguese/articles/c60qkxv44pq8o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-11T08:31:43.000Z",
@@ -625,15 +661,6 @@
       "source": "BBC News Brasil",
       "cat": "internacional",
       "type": "imprensa"
-    },
-    {
-      "title": "Conferência do Clima discute caminhos para o fim dos combustíveis fósseis",
-      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854891",
-      "date": "2026-11-10T12:00:00.000Z",
-      "summary": "Brasil lançou mapa de rotas para a transição energética e Turquia propôs a meta de 35% de eletrificação até 2035; desafio atual é destravar 2,5 mil gigawatts de energia limpa parados por falta de infraestrutura e juros altos.",
-      "source": "ONU News",
-      "cat": "internacional",
-      "type": "oficial"
     },
     {
       "title": "BC divulga Ata da 282ª reunião do Copom",
@@ -656,6 +683,7 @@
   ],
   "errors": [
     "feed CNN Brasil: HTTP 404",
-    "feed CNN Brasil: HTTP 404"
+    "feed CNN Brasil: HTTP 404",
+    "feed Planalto (governo): HTTP 429"
   ]
 }
