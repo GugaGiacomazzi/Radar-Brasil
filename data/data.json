@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-16T19:38:56.452Z",
+  "updated": "2026-11-16T20:31:21.718Z",
   "market": {
     "ibov": {
-      "price": 168987.27,
-      "pct": -2.01,
-      "time": "2026-11-16T19:38:51.730Z",
+      "price": 168876.2,
+      "pct": -2.08,
+      "time": "2026-11-16T20:31:15.928Z",
       "history": [
         {
           "d": "2026-10-19",
@@ -84,7 +84,7 @@
         },
         {
           "d": "2026-11-16",
-          "c": 168960.875
+          "c": 168876.2031
         }
       ]
     },
@@ -141,6 +141,150 @@
   },
   "news": [
     {
+      "title": "Dólar dispara e fecha a R$ 5,77, maior valor desde abril de 2025",
+      "link": "https://www.poder360.com.br/poder-economia/dolar-dispara-e-fecha-a-r-577-maior-valor-desde-abril-de-2025/",
+      "date": "2026-11-16T20:27:13.000Z",
+      "summary": "Resistência do governo em cortar despesas e possível indicação de Mercadante para a Fazenda pressionaram o real",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Comissão aprova criação de programa para fortalecer conselhos municipais de meio ambiente",
+      "link": "https://www.camara.leg.br/noticias/1319766-comissao-aprova-criacao-de-programa-para-fortalecer-conselhos-municipais-de-meio-ambiente",
+      "date": "2026-11-16T20:27:00.000Z",
+      "summary": "O projeto de lei continua em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Fornecedora de café da Nestlé enfrenta audiência por denúncias de violações trabalhistas",
+      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/16/fornecedora-de-cafe-da-nestle-enfrenta-audiencia-por-denuncias-de-violacoes-trabalhistas.ghtml",
+      "date": "2026-11-16T20:17:37.000Z",
+      "summary": "Uma empilhadeira movimenta grandes sacos de grãos de café no armazém da cooperativa Cooabriel Robusta, em São Gabriel da Palha 23 de setembro de 2025 REUTERS/Alexandre Meneghini A Cooperativa Agrária dos Cafeicultores de São Gabriel (Cooabriel), fornecedora da",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Consciência Negra: Paulo Paim defende cotas e combate ao racismo",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/16/consciencia-negra-paulo-paim-defende-cotas-e-combate-ao-racismo",
+      "date": "2026-11-16T20:15:12.000Z",
+      "summary": "Durante pronunciamento nesta segunda-feira (16), o senador Paulo Paim (PT-RS) defendeu as políticas de cotas e o combate ao racismo. Ao comentar a sessão especial promovida pela manhã no Senado em homenagem ao Dia Nacional de Zumbi e da Consciência Negra (cele",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Comissão debate fiscalização de contratos de concessão de rodovias federais",
+      "link": "https://www.camara.leg.br/noticias/1319624-comissao-debate-fiscalizacao-de-contratos-de-concessao-de-rodovias-federais",
+      "date": "2026-11-16T20:11:00.000Z",
+      "summary": "",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Grupo de países da UE negocia centro para deportados em Ruanda",
+      "link": "https://www.dw.com/pt-br/grupo-de-países-da-ue-negocia-centro-para-deportados-em-ruanda/a-79963673?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-16T20:06:00.000Z",
+      "summary": "Medida valeria para pessoas que tiveram asilo negado. Alemanha e mais quatro nações confirmaram conversas com país africano, cujo governo é acusado de violações de direitos humanos.",
+      "source": "DW Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "O formato do ajuste fiscal importa",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/cecilia-machado/2026/11/o-formato-do-ajuste-fiscal-importa.shtml",
+      "date": "2026-11-16T20:00:00.000Z",
+      "summary": "A discussão sobre o ajuste fiscal necessário começa pelo diagnóstico. De um lado, o déficit primário é pequeno, em 0,5% do PIB (Produto Interno Bruto). De outro, o déficit nominal, que inclui os juros, alcança 9,5% do PIB. Leia mais (11/16/2026 - 17h00)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Esteves: Sinalização de ajuste fiscal evitaria dias como o de hoje, de ansiedade e boataria",
+      "link": "https://www.estadao.com.br/economia/esteves-sinalizacao-de-ajuste-fiscal-evitaria-dias-como-o-de-hoje-de-ansiedade-e-boataria/",
+      "date": "2026-11-16T19:56:44.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "PL dos Mercados Digitais enfrenta resistência e big techs pressionam por adiamento",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/pl-dos-mercados-digitais-enfrenta-resistencia-e-big-techs-pressionam-por-adiamento.shtml",
+      "date": "2026-11-16T19:53:00.000Z",
+      "summary": "O PL dos Mercados Digitais está na pauta do plenário da Câmara dos Deputados desta terça-feira (17), mas ainda não há acordo em torno do texto e vários partidos trabalham contra a proposta. Leia mais (11/16/2026 - 16h53)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Conselho da Nvidia descarta retorno de Jensen Huang ao comando",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/conselho-da-nvidia-descarta-retorno-de-jensen-huang-ao-comando.shtml",
+      "date": "2026-11-16T19:53:00.000Z",
+      "summary": "O conselho de administração da Nvidia não considera reconduzir Jensen Huang ao cargo de presidente-executivo da empresa, segundo pessoas familiarizadas com o assunto, apesar de Donald Trump ter afirmado que estaria aberto à possibilidade após o executivo de te",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Ex- diretor de finanças do Itaú assume área de gestão de riscos da Avenue",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/ex-diretor-de-financas-do-itau-assume-area-de-gestao-de-riscos-da-avenue.shtml",
+      "date": "2026-11-16T19:52:00.000Z",
+      "summary": "O executivo Renato Carvalho acaba de assumir como diretor de Riscos e Compliance na Avenue, corretora do Itaú voltada a investimentos internacionais. Carvalho vai chefiar a área no Brasil e nos Estados Unidos. Leia mais (11/16/2026 - 16h52)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Comissão promove dois debates sobre redução da maioridade penal nesta semana",
+      "link": "https://www.camara.leg.br/noticias/1319616-comissao-promove-dois-debates-sobre-reducao-da-maioridade-penal-nesta-semana",
+      "date": "2026-11-16T19:49:00.000Z",
+      "summary": "",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "TRE-CE forma maioria para manter condenação de Ciro Gomes por violência política de gênero",
+      "link": "https://www.estadao.com.br/politica/tre-ce-forma-maioria-para-manter-condenacao-de-ciro-gomes-por-violencia-politica-de-genero-nprp/",
+      "date": "2026-11-16T19:48:36.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Comissão aprova incentivo a empresas que desenvolvem tecnologias assistivas",
+      "link": "https://www.camara.leg.br/noticias/1319658-comissao-aprova-incentivo-a-empresas-que-desenvolvem-tecnologias-assistivas",
+      "date": "2026-11-16T19:46:00.000Z",
+      "summary": "O projeto segue em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Apple é investigada no Cade por barrar PIX por aproximação no iPhone; entenda a disputa",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/16/apple-e-investigada-no-cade-por-barrar-pix-por-aproximacao-no-iphone-entenda-a-disputa.ghtml",
+      "date": "2026-11-16T19:45:44.000Z",
+      "summary": "Polícia mapeou valor do prejuízo após analisar transferências via PIX do suspeito Bruno Peres/Agência Brasil/Arquivo O Conselho Administrativo de Defesa Econômica (Cade) investiga se a Apple impõe barreiras que dificultam a oferta do PIX por aproximação por ba",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Alemanha se despede da Adidas em último jogo após 77 anos de parceria; Nike assume em 2027",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/16/nike-adidas-alemanha-futebol-parceria.ghtml",
+      "date": "2026-11-16T19:33:20.000Z",
+      "summary": "Nike em Pequim, China REUTERS/Tingshu Wang Após 77 anos e quatro títulos mundiais, Federação Alemã de Futebol (DFB) troca fornecedora compatriota pela Nike como fornecedora de material esportivo. Acordo recorde contrasta com a crise vivida pela nova parceira. ",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "Prêmio Imprensa de Educação ao Investidor oferece R$ 15 mil para reportagens sobre finanças",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/blogs/novo-em-folha/2026/11/premio-imprensa-de-educacao-ao-investidor-oferece-r-15-mil-para-reportagens-sobre-financas.shtml",
       "date": "2026-11-16T19:32:00.000Z",
@@ -162,15 +306,6 @@
       "title": "CNJ manda Meta verificar se desembargadora que liberou bets fez postagens com ofensas a Lula",
       "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/cnj-manda-meta-verificar-se-desembargadora-que-liberou-bets-fez-postagens-com-ofensas-a-lula/",
       "date": "2026-11-16T19:24:53.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Quaest: Brasileiro defende redução da maioridade penal e câmeras corporais na PM e é contra armas",
-      "link": "https://www.estadao.com.br/politica/quaest-brasileiro-defende-reducao-da-maioridade-penal-e-cameras-corporais-na-pm-e-e-contra-armas-nprp/",
-      "date": "2026-11-16T19:20:30.000Z",
       "summary": "",
       "source": "Estadão",
       "cat": "politica",
@@ -208,15 +343,6 @@
       "link": "https://www12.senado.leg.br/noticias/materias/2026/11/16/senado-vota-nesta-quarta-mais-prazo-para-escolas-usarem-verba-para-internet",
       "date": "2026-11-16T18:56:14.000Z",
       "summary": "Um dos itens pautados para a sessão do Plenário do Senado nesta quarta-feira (18) é o projeto de lei que amplia em dois anos o prazo limite para as escolas públicas usarem as verbas destinadas a garantir acesso à internet em estabelecimentos de ensino. O PL 5.",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "'Arquivo S' ganha novo volume com registro de fatos históricos",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/16/arquivo-s-ganha-novo-volume-com-registro-de-fatos-historicos",
-      "date": "2026-11-16T18:49:15.000Z",
-      "summary": "O Senado lança nesta quarta-feira (18), às 15h, o 11º volume da coleção Arquivo S – O Senado na História do Brasil. A obra reúne reportagens sobre fatos marcantes do país, com base em documentos históricos que estão sob a guarda do Arquivo do Senado. O lançame",
       "source": "Agência Senado",
       "cat": "politica",
       "type": "oficial"
@@ -294,47 +420,11 @@
       "type": "imprensa"
     },
     {
-      "title": "Invepar submete ao Cade transferência da Linha Amarela, no Rio, para fundos de pensão",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/infraestrutura/2026/11/invepar-submete-ao-cade-transferencia-da-linha-amarela-no-rio-para-fundos-de-pensao.shtml",
-      "date": "2026-11-16T17:58:00.000Z",
-      "summary": "A Invepar, empresa de infraestrutura que controla a concessionária do Aeroporto Internacional de Guarulhos, em São Paulo, submeteu ao Cade (Conselho Administrativo de Defesa Econômica) uma proposta de transferência de suas participações na Linha Amarela e na T",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Justiça determina que Genial e BTG prestem informações sobre negócio entre os bancos",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/justica-pede-informacoes-sobre-negocio-entre-genial-e-btg.shtml",
-      "date": "2026-11-16T17:55:00.000Z",
-      "summary": "A Justiça do Mato Grosso deu 15 dias para que o Banco Genial e o BTG Pactual prestem informações sobre a operação de compra da área de administração fiduciária do Genial pelo banco de André Esteves, conforme decisão em processo sigiloso a que a coluna teve ace",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "PF prende suspeito em investigação ligada a fraudes em operações de crédito rural no DF e GO",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/agro/2026/11/pf-prende-suspeito-em-investigacao-ligada-a-fraudes-em-operacoes-de-credito-rural-no-df-e-go.shtml",
-      "date": "2026-11-16T17:54:00.000Z",
-      "summary": "A Polícia Federal prendeu uma pessoa e cumpriu três mandados de busca e apreensão na última quinta-feira (12) em uma investigação que apura possíveis fraudes em operações de crédito rural concedido pela Caixa Econômica Federal. A ação mirou financiamentos rura",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Sánchez e Lula conversam sobre a ameaça da extrema direita antes das eleições na Espanha",
       "link": "https://g1.globo.com/mundo/noticia/2026/11/16/sanchez-e-lula-conversam-sobre-a-ameaca-da-extrema-direita-antes-das-eleicoes-na-espanha.ghtml",
       "date": "2026-11-16T17:48:12.000Z",
       "summary": "Lula e primeiro-ministro da Espanha, Pedro Sánchez. Ricardo Stuckert/PR O primeiro-ministro da Espanha, Pedro Sánchez, conversou com o presidente do Brasil, Luiz Inácio Lula da Silva, sobre a defesa da democracia diante da \"ameaça de extrema direita\", durante ",
       "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Tarcísio defende “oposição responsável” da direita a Lula",
-      "link": "https://www.poder360.com.br/poder-eleicoes/tarcisio-defende-oposicao-responsavel-da-direita-a-lula/",
-      "date": "2026-11-16T17:45:20.000Z",
-      "summary": "Governador, considerado por setores da direita como possível candidato em 2030, fala em união do seu campo político em evento do agronegócio",
-      "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -348,51 +438,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Comissão aprova proibição de pesca subaquática e noturna predatória na bacia do rio Paraná",
-      "link": "https://www.camara.leg.br/noticias/1319630-comissao-aprova-proibicao-de-pesca-subaquatica-e-noturna-predatoria-na-bacia-do-rio-parana",
-      "date": "2026-11-16T17:30:00.000Z",
-      "summary": "Proposta segue em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Maiores centrais descartam ir a ato contra 'plano Moretti' e priorizam protesto contra juros",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/centrais-descartam-ir-a-ato-contra-plano-moretti-e-priorizam-protesto-contra-juros.shtml",
-      "date": "2026-11-16T17:27:00.000Z",
-      "summary": "As principais centrais sindicais decidiram não participar de uma manifestação marcada para esta terça-feira (17) no Rio de Janeiro contra o \"plano Moretti\", que prevê contingenciamento de despesas do governo. Leia mais (11/16/2026 - 14h27)",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Dia da Consciência Negra: participantes de sessão especial apontam desafios",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/16/dia-da-consciencia-negra-participantes-de-sessao-especial-apontam-desafios",
-      "date": "2026-11-16T17:25:18.000Z",
-      "summary": "O Senado celebrou em sessão especial o Dia Nacional de Zumbi e da Consciência Negra. Os representantes de movimentos sociais e especialistas convidados apontaram os avanços e desafios em efetivar seus direitos no cotidiano, além de homenagearem Zumbi dos Palma",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Bets tiraram R$ 40,4 bilhões do orçamento das famílias até julho de 2026, diz Comsefaz",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/16/bets-orcamento-das-familias-2026.ghtml",
-      "date": "2026-11-16T17:02:30.000Z",
-      "summary": "Pessoa mexendo no celular Reprodução/ RBS TV Desde setembro, o governo Lula proibiu as bets no Brasil. Mas as apostas online consumiram uma parcela significativa do dinheiro das famílias brasileiras nos primeiros sete meses de 2026. A saída líquida de recursos",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Ajuste fiscal ‘pela metade’ é o principal risco para 2027, diz Zeina Latif",
-      "link": "https://www.estadao.com.br/economia/ajuste-fiscal-pela-metade-principal-risco-2027-zeina-latif/",
-      "date": "2026-11-16T16:44:38.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Andrei nega crise na PF e diz que não será intimidado",
       "link": "https://www.estadao.com.br/politica/andrei-nega-crise-na-pf-e-diz-que-nao-sera-intimidado-nprp/",
       "date": "2026-11-16T16:34:52.000Z",
@@ -402,48 +447,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Comissão aprova incentivos fiscais para empresas que investem em tecnologia assistiva",
-      "link": "https://www.camara.leg.br/noticias/1319658-comissao-aprova-incentivos-fiscais-para-empresas-que-investem-em-tecnologia-assistiva",
-      "date": "2026-11-16T16:34:00.000Z",
-      "summary": "O projeto segue em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
       "title": "4 em cada 10 eleitores que votaram no 2º turno e não votaram no 1° eram idosos",
       "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/11/16/eleitores-idosos-2-turno.ghtml",
       "date": "2026-11-16T16:26:00.000Z",
       "summary": "Dos cerca de 2,96 milhões de eleitores que votaram no segundo turno das eleições de 2026, mas não no primeiro, 1,3 milhão tinham 70 anos ou mais. Isso equivale a 44% do aumento, ou 4 em cada 10, segundo dados do Tribunal Superior Eleitoral (TSE). O peso dos id",
       "source": "g1",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Comissão aprova projeto que obriga a União a custodiar presos federais",
-      "link": "https://www.camara.leg.br/noticias/1319627-comissao-aprova-projeto-que-obriga-a-uniao-a-custodiar-presos-federais",
-      "date": "2026-11-16T16:22:00.000Z",
-      "summary": "O projeto continua em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Comissão aprova proposta que amplia Política de Agricultura Urbana para fortalecer segurança alimentar",
-      "link": "https://www.camara.leg.br/noticias/1319667-comissao-aprova-proposta-que-amplia-politica-de-agricultura-urbana-para-fortalecer-seguranca-alimentar",
-      "date": "2026-11-16T16:15:00.000Z",
-      "summary": "Texto segue em análise na Câmara",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Falha em foguete destrói 40 satélites da Amazon que seriam usados em serviço rival da Starlink",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/16/falha-em-foguete-destroi-40-satelites-da-amazon-que-seriam-usados-em-servico-rival-da-starlink.ghtml",
-      "date": "2026-11-16T15:31:47.000Z",
-      "summary": "Uma carenagem de carga útil da United Launch Alliance (ULA), que transporta uma espaçonave de segurança nacional a ser acoplada a um foguete Vulcan para a missão USSF-87, é transportada por uma via no Centro Espacial Kennedy, em Cabo Canaveral, Flórida (EUA). ",
-      "source": "g1",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -582,15 +591,6 @@
       "type": "oficial"
     },
     {
-      "title": "Protestos tomam conta de Portugal contra crise habitacional",
-      "link": "https://www.dw.com/pt-br/protestos-tomam-conta-de-portugal-contra-crise-habitacional/a-79949804?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-14T19:46:00.000Z",
-      "summary": "Dezenas de milhares saíram às ruas em mais de 30 cidades. País teve maior aumento da relação entre preços dos imóveis e renda média de toda a UE na última década.",
-      "source": "DW Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
       "title": "De caixas eletrônicos a prédios de luxo: fim de agências cria negócio para fundos e construtoras",
       "link": "https://www.estadao.com.br/economia/negocios/de-caixas-eletronicos-a-predios-de-luxo-fim-de-agencias-cria-negocio-para-fundos-e-construtoras/",
       "date": "2026-11-14T08:30:00.000Z",
@@ -683,7 +683,6 @@
   ],
   "errors": [
     "feed CNN Brasil: HTTP 404",
-    "feed CNN Brasil: HTTP 404",
-    "feed Planalto (governo): HTTP 429"
+    "feed CNN Brasil: HTTP 404"
   ]
 }
