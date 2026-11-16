@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-16T01:12:45.355Z",
+  "updated": "2026-11-16T02:30:20.220Z",
   "market": {
     "ibov": {
       "price": 172457.77,
       "pct": 0.66,
-      "time": "2026-11-16T01:12:38.352Z",
+      "time": "2026-11-16T02:30:12.381Z",
       "history": [
         {
           "d": "2026-10-19",
@@ -137,6 +137,87 @@
   },
   "news": [
     {
+      "title": "Com ‘aval e incentivo’ de Bolsonaro, Michelle tira dez dias de descanso",
+      "link": "https://www.estadao.com.br/politica/com-aval-e-incentivo-de-bolsonaro-michelle-tira-dez-dias-de-descanso/",
+      "date": "2026-11-16T02:00:22.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Racismo e machismo também persistem na esquerda, diz Benedita da Silva",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/racismo-e-machismo-tambem-persistem-na-esquerda-diz-benedita-da-silva.shtml",
+      "date": "2026-11-16T02:00:00.000Z",
+      "summary": "Durante décadas, Benedita da Silva (PT-RJ) foi uma presença solitária nos espaços de poder. Uma das primeiras mulheres negras eleitas titulares para o Senado, ao lado de Marina Silva, ela recorda que, em meio a tantos parlamentares, sua presença parecia apenas",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Inspirada por Marighella e psicanálise, guerrilha digital espalha janonismo pelo mundo sem Janones",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/inspirada-por-marighella-e-psicanalise-guerrilha-digital-espalha-janonismo-pelo-mundo-sem-janones.shtml",
+      "date": "2026-11-16T02:00:00.000Z",
+      "summary": "Um manual inspirado nas ações do deputado federal André Janones (Rede-MG) na campanha vitoriosa de Lula (PT) no segundo turno está circulando pelo mundo como exemplo do que a esquerda global pode fazer para derrotar a direita radical no campo digital. Leia mai",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Parlamentares derrotados tentam trava no orçamento para manter emendas",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/parlamentares-derrotados-tentam-trava-no-orcamento-para-manter-emendas.shtml",
+      "date": "2026-11-16T02:00:00.000Z",
+      "summary": "A CMO (Comissão Mista de Orçamento) do Congresso Nacional deve aprovar mudança no projeto da LDO (Lei de Diretrizes Orçamentárias) de 2027 para impedir que os novos parlamentares assumam as emendas ao Orçamento dos que não foram reeleitos. Leia mais (11/15/202",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Ações judiciais podem ampliar base de Lula e influenciar eleição para presidência do Senado",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/acoes-judiciais-podem-ampliar-base-de-lula-e-influenciar-eleicao-para-presidencia-do-senado.shtml",
+      "date": "2026-11-16T02:00:00.000Z",
+      "summary": "Três senadores eleitos pela direita podem perder as vagas devido a ações judiciais, em um movimento de bastidores que ampliaria a base do governo Lula (PT) e poderia influenciar a eleição para a presidência do Senado. As conversas foram relatadas à Folha por p",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Juros altos atrapalham até quem vive disso",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/marcos-de-vasconcellos/2026/11/juros-altos-atrapalham-ate-quem-vive-disso.shtml",
+      "date": "2026-11-16T02:00:00.000Z",
+      "summary": "Um amigo meu, jornalista e bastante interessado em economia, costuma acusar os bancos de serem entusiastas dos juros altos. O raciocínio é simples: se ganham dinheiro emprestando, quanto maiores as taxas, melhor para eles. Insisto que não é assim. E os balanço",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Adesão a consórcios cresce, e especialistas dizem que modalidade 'sem juros' pode sair cara",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/adesao-a-consorcios-cresce-e-especialistas-dizem-que-modalidade-sem-juros-pode-sair-cara.shtml",
+      "date": "2026-11-16T02:00:00.000Z",
+      "summary": "A manutenção dos juros em patamar elevado reacende uma dúvida que é comum entre quem pretende comprar a casa própria ou adquirir um veículo: é melhor recorrer a um financiamento ou a um consórcio? Leia mais (11/15/2026 - 23h00)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Crise da Nvidia afeta investidores brasileiros; entenda",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/crise-da-nvidia-afeta-investidores-brasileiros-entenda.shtml",
+      "date": "2026-11-16T02:00:00.000Z",
+      "summary": "A crise envolvendo Jensen Huang, cofundador e então CEO da Nvidia, provocou perdas nas ações da fabricante de chips e levantou questionamentos sobre os efeitos para investidores expostos à companhia, inclusive no Brasil. Leia mais (11/15/2026 - 23h00)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Esquerda sectária atrasa combate a privilégios ao criticar projeto de ajuste, diz Moretti",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/esquerda-sectaria-atrasa-combate-a-privilegios-ao-criticar-projeto-de-ajuste-diz-moretti.shtml",
+      "date": "2026-11-16T02:00:00.000Z",
+      "summary": "Após o projeto do governo para equilibrar as contas se tornar alvo de críticas do PT, no Congresso e nas redes, o ministro do Planejamento e Orçamento, Bruno Moretti, afirma à Folha que uma fração sectária da esquerda \"atrasa o combate aos privilégios\" ao adot",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "Jensen Huang discute volta ao comando da Nvidia com aliados, diz “FT”",
       "link": "https://www.poder360.com.br/poder-tech/jensen-huang-discute-volta-ao-comando-da-nvidia-com-aliados-diz-ft/",
       "date": "2026-11-16T01:03:25.000Z",
@@ -164,38 +245,11 @@
       "type": "imprensa"
     },
     {
-      "title": "Rogério Correia e Ana Elisa defendem comissão externa para tratar da dívida de MG",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/rogerio-correia-e-ana-elisa-defendem-comissao-externa-para-tratar-da-divida-de-mg.shtml",
-      "date": "2026-11-16T00:00:00.000Z",
-      "summary": "O deputado federal Rogério Correia (PT-MG) e a deputada federal eleita Ana Elisa (PT-MG) vão pedir a criação de uma comissão externa na Câmara dos Deputados para acompanhar a situação da dívida bilionária de Minas Gerais com a União. Leia mais (11/15/2026 - 21",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Michelle diz que vai tirar 10 dias de descanso com 'incentivo e aval' de Bolsonaro",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/11/michelle-diz-que-vai-tirar-10-dias-de-descanso-com-incentivo-e-aval-de-bolsonaro.shtml",
-      "date": "2026-11-15T23:46:00.000Z",
-      "summary": "A ex-primeira-dama Michelle Bolsonaro afirmou nas redes sociais neste domingo (15) que vai tirar dez dias de descanso com 'aval e incentivo' de Jair Bolsonaro antes de assumir o mandato como senadora pelo Distrito Federal. Leia mais (11/15/2026 - 20h46)",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Megaspeed afirma que Alice Huang deixou a empresa em agosto de 2025",
       "link": "https://www.estadao.com.br/tecmundo/big-techs/megaspeed-afirma-que-alice-huang-deixou-a-empresa-em-agosto-de-2025/",
       "date": "2026-11-15T23:40:54.000Z",
       "summary": "",
       "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Jensen Huang discute volta ao comando da Nvidia com aliados",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/jensen-huang-discute-volta-ao-comando-da-nvidia-com-aliados.shtml",
-      "date": "2026-11-15T23:10:00.000Z",
-      "summary": "Jensen Huang avalia a possibilidade de voltar ao cargo de presidente-executivo da Nvidia, enquanto aliados no Vale do Silício pressionam o conselho da empresa a readmiti-lo poucos dias depois de o executivo renunciar em meio a reportagens de que ele teve casos",
-      "source": "Folha",
       "cat": "economia",
       "type": "imprensa"
     },
@@ -209,29 +263,11 @@
       "type": "imprensa"
     },
     {
-      "title": "Prejuízo dos Correios soma R$ 7,5 bilhões até o terceiro trimestre de 2026, alta de 27%",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/prejuizo-dos-correios-soma-r-75-bilhoes-de-janeiro-a-setembro-alta-de-27.shtml",
-      "date": "2026-11-15T22:33:00.000Z",
-      "summary": "Os Correios tiveram um prejuízo de R$ 7,48 bilhões até o terceiro trimestre de 2026, um aumento nominal de 27,2% em relação à perda de R$ 5,88 bilhões em igual período de 2025. Leia mais (11/15/2026 - 19h33)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Correios têm prejuízo líquido de R$ 1,9 bi no 3º trimestre; no ano, perdas chegam a R$ 7,5 bi",
       "link": "https://www.estadao.com.br/economia/correios-tem-prejuizo-liquido-de-r-19-bi-no-3-trimestre-no-ano-perdas-chegam-a-r-75-bi/",
       "date": "2026-11-15T22:00:18.000Z",
       "summary": "",
       "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Aeronave elétrica chinesa conclui primeiro voo tripulado; veja vídeo",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/aeronave-eletrica-chinesa-conclui-primeiro-voo-tripulado.shtml",
-      "date": "2026-11-15T21:46:00.000Z",
-      "summary": "O CE-25A, aeronave comercial elétrica de 10 toneladas desenvolvida de forma independente na China, concluiu seu primeiro voo de teste tripulado em Binzhou, na província de Shandong, neste sábado (14), segundo informações da agência estatal chinesa China News S",
-      "source": "Folha",
       "cat": "economia",
       "type": "imprensa"
     },
@@ -251,24 +287,6 @@
       "summary": "Mercado de trabalho deverá ser profundamente afetado, com até 800 mil empregos eliminados em 15 anos. Economistas se dividem sobre viabilidade financeira da proposta para amortecer ruptura.",
       "source": "DW Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Cleitinho liga para prefeito que fez show de Claudia Leitte para tirar satisfação",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/cleitinho-liga-para-prefeito-que-fez-show-de-claudia-leitte-para-tirar-satisfacao.shtml",
-      "date": "2026-11-15T21:27:00.000Z",
-      "summary": "O senador Cleitinho Azevedo (Republicanos), governador eleito de Minas Gerais, ligou para o ex-prefeito de Mirabela Luciano Rabelo (Avante) neste domingo (15) para tirar satisfação sobre um show da cantora Claudia Leitte custeado em 2024 com uma emenda dele. L",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Ataque hacker a subsidiária dos Correios franceses expõe dados de 22 milhões de pessoas",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/ataque-hacker-a-subsidiaria-dos-correios-franceses-expoe-dados-de-22-milhoes-de-pessoas.shtml",
-      "date": "2026-11-15T21:22:00.000Z",
-      "summary": "A Maileva, subsidiária do grupo La Poste, o equivalente francês aos Correios, sofreu em meados de setembro um ciberataque que resultou no roubo dos dados de contato de 22 milhões de pessoas. O caso foi confirmado à agência de notícias AFP neste sábado (14). Le",
-      "source": "Folha",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -317,15 +335,6 @@
       "type": "imprensa"
     },
     {
-      "title": "PL terá um terço das vagas da Comissão de Constituição e Justiça do Senado",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/pl-tera-um-terco-das-vagas-da-comissao-de-constituicao-e-justica-do-senado.shtml",
-      "date": "2026-11-15T18:00:00.000Z",
-      "summary": "A bancada do PL terá um terço das vagas da CCJ (Comissão de Constituição e Justiça) do Senado na próxima legislatura, de acordo com projeção de assessores técnicos do Legislativo. A divisão é proporcional ao tamanho do grupo, que terá 29 senadores, caso nenhum",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Ajuste fiscal de Lula é considerado tímido pelo mercado, mas racha esquerda, que enxerga ‘tesouraço’",
       "link": "https://www.estadao.com.br/politica/ajuste-fiscal-de-lula-e-considerado-timido-pelo-mercado-mas-racha-esquerda-que-enxerga-tesouraco/",
       "date": "2026-11-15T17:52:35.000Z",
@@ -340,15 +349,6 @@
       "date": "2026-11-15T16:17:26.000Z",
       "summary": "Alckmin visita sede do Inep no 2º dia de provas do Enem O ministro da Educação, Leonardo Barchini, disse que a página do Instituto Nacional de Estudos e Pesquisas Educacionais (Inep) na internet tem sido alvo de tentativas de ataques hacker neste domingo (15),",
       "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Ajuste fiscal mostra que vencer eleições exige ambiguidades, omissões e mentiras",
-      "link": "https://www.estadao.com.br/politica/fabiano-lana/ajuste-fiscal-mostra-que-vencer-eleicoes-exige-ambiguidades-omissoes-e-mentiras/",
-      "date": "2026-11-15T16:00:43.000Z",
-      "summary": "",
-      "source": "Estadão",
       "cat": "politica",
       "type": "imprensa"
     },
