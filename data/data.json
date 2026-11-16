@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-16T14:08:16.157Z",
+  "updated": "2026-11-16T16:19:06.744Z",
   "market": {
     "ibov": {
-      "price": 172457.77,
-      "pct": 0,
-      "time": "2026-11-16T14:08:10.051Z",
+      "price": 169820.66,
+      "pct": -1.53,
+      "time": "2026-11-16T16:19:02.412Z",
       "history": [
         {
           "d": "2026-10-19",
@@ -81,6 +81,10 @@
         {
           "d": "2026-11-13",
           "c": 172458
+        },
+        {
+          "d": "2026-11-16",
+          "c": 169820.6563
         }
       ]
     },
@@ -137,74 +141,299 @@
   },
   "news": [
     {
-      "title": "Fachin propõe rede regional para proteger independência judicial",
-      "link": "https://www.poder360.com.br/poder-justica/fachin-propoe-rede-regional-para-proteger-independencia-judicial/",
-      "date": "2026-11-16T14:05:28.000Z",
-      "summary": "Presidente do STF diz que Direito deve limitar países mais poderosos; união discutiria ações contra corrupção, crime organizado e ameaças cibernéticas",
+      "title": "Comissão aprova proposta que amplia Política de Agricultura Urbana para fortalecer segurança alimentar",
+      "link": "https://www.camara.leg.br/noticias/1319667-comissao-aprova-proposta-que-amplia-politica-de-agricultura-urbana-para-fortalecer-seguranca-alimentar",
+      "date": "2026-11-16T16:15:00.000Z",
+      "summary": "Texto segue em análise na Câmara",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Comissão debate fiscalização de contratos de concessão de rodovias federais",
+      "link": "https://www.camara.leg.br/noticias/1319624-comissao-debate-fiscalizacao-de-contratos-de-concessao-de-rodovias-federais",
+      "date": "2026-11-16T16:12:00.000Z",
+      "summary": "",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "EUA incluem Brasil em lista de países com restrições para comprar chips para data centers",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/eua-incluem-brasil-em-lista-de-paises-com-restricoes-para-comprar-chips-para-data-centers.shtml",
+      "date": "2026-11-16T16:00:00.000Z",
+      "summary": "O governo Donald Trump incluiu o Brasil entre os países que terão restrições para importar chips fabricados nos EUA para data centers. Leia mais (11/16/2026 - 13h00)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Porto de Santos segue com sistemas parcialmente fora do ar dez dias após ataque hacker",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/infraestrutura/2026/11/porto-de-santos-segue-com-sistemas-parcialmente-fora-do-ar-dez-dias-apos-ataque-hacker.shtml",
+      "date": "2026-11-16T15:59:00.000Z",
+      "summary": "Dez dias após um ataque cibernético, o Porto de Santos, no litoral paulista, ainda não recuperou integralmente seus sistemas digitais. A APS (Autoridade Portuária de Santos) informou nesta segunda-feira (16) que os principais sistemas administrativos internos ",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Mercadante fala em ficar no BNDES, mas diz que está à disposição de Lula",
+      "link": "https://www.poder360.com.br/poder-economia/mercadante-fala-em-ficar-no-bndes-mas-diz-que-esta-a-disposicao-de-lula/",
+      "date": "2026-11-16T15:57:09.000Z",
+      "summary": "Presidente do BNDES afirma que não disputa cargo na Esplanada no Lula 4 e espera continuar à frente do banco",
       "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
     },
     {
-      "title": "Cade deve abrir processo administrativo contra Apple por bloqueio ao Pix por aproximação",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/cade-deve-abrir-processo-administrativo-contra-apple-por-bloqueio-ao-pix-por-aproximacao.shtml",
-      "date": "2026-11-16T14:00:00.000Z",
-      "summary": "O Cade (Conselho Administrativo de Defesa Econômica) deve transformar em processo administrativo a investigação contra a Apple por restrições ao acesso de terceiros à tecnologia de pagamento por aproximação nos iPhones. Leia mais (11/16/2026 - 11h00)",
+      "title": "Fim de subsídio ao diesel importado eleva custo e preço deve subir nas bombas",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/fim-de-subsidio-ao-diesel-importado-eleva-custo-e-preco-deve-subir-nas-bombas.shtml",
+      "date": "2026-11-16T15:54:00.000Z",
+      "summary": "O fim da subvenção ao diesel importado eleva o custo do combustível no país em R$ 0,42 por litro, segundo cálculo de uma grande empresa do setor. O repasse às bombas dependerá das políticas comerciais de cada distribuidora e posto de gasolina. Leia mais (11/16",
       "source": "Folha",
       "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Comissão aprova regras mais rígidas para uso de medicamentos manipulados em UTIs neonatais",
+      "link": "https://www.camara.leg.br/noticias/1319633-comissao-aprova-regras-mais-rigidas-para-uso-de-medicamentos-manipulados-em-utis-neonatais",
+      "date": "2026-11-16T15:45:00.000Z",
+      "summary": "O projeto continua em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Debatedores defendem reforço de orçamento para terra ianomâmi",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/16/debatedores-defendem-reforco-de-orcamento-para-terra-ianomami",
+      "date": "2026-11-16T15:39:26.000Z",
+      "summary": "Debatedores defenderam o reforço do financiamento de políticas públicas para os povos indígenas ianomâmis. O tema foi discutido em audiência pública promovida nesta segunda-feira (16) pela Subcomissão Permanente dos Povos Indígenas Yanomami. O objetivo foi deb",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Fachin diz que reforma não pode ser 'contra o Judiciário' e defende diálogo entre Poderes",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/fachin-diz-que-reforma-nao-pode-ser-contra-o-judiciario-e-defende-dialogo-entre-poderes.shtml",
+      "date": "2026-11-16T15:38:00.000Z",
+      "summary": "O presidente do STF (Supremo Tribunal Federal), Edson Fachin, defendeu nesta segunda-feira (16) que qualquer reforma do Judiciário deve ser feita em diálogo com o próprio Poder, afirmando que eventuais alterações não podem ser contra o Judiciário. Leia mais (1",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Trump diz que 'não se importaria' que Jensen Huang voltasse a dirigir a Nvidia",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/trump-diz-que-nao-se-importaria-que-jensen-huang-voltasse-a-dirigir-a-nvidia.shtml",
+      "date": "2026-11-16T15:32:00.000Z",
+      "summary": "O presidente dos Estados Unidos, Donald Trump, disse, nesta segunda-feira (16), que veria com bons olhos que Jensen Huang fosse restituído como diretor-executivo da gigante de chips de inteligência artificial Nvidia, depois que Huang se demitiu na semana passa",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Falha em foguete destrói 40 satélites da Amazon que seriam usados em serviço rival da Starlink",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/16/falha-em-foguete-destroi-40-satelites-da-amazon-que-seriam-usados-em-servico-rival-da-starlink.ghtml",
+      "date": "2026-11-16T15:31:47.000Z",
+      "summary": "Uma carenagem de carga útil da United Launch Alliance (ULA), que transporta uma espaçonave de segurança nacional a ser acoplada a um foguete Vulcan para a missão USSF-87, é transportada por uma via no Centro Espacial Kennedy, em Cabo Canaveral, Flórida (EUA). ",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Operação Fronteira, da Receita, apreende R$ 581 milhões em mercadorias e entorpecentes em 2026",
+      "link": "https://www.estadao.com.br/economia/operacao-fronteira-2026-mercadorias-entorpecentes/",
+      "date": "2026-11-16T15:30:25.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Presidente do PT orienta senadores a pedir garantia de voto em negociações com centrão",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/presidente-do-pt-orienta-senadores-a-pedir-garantia-de-voto-em-negociacoes-com-centrao.shtml",
+      "date": "2026-11-16T15:30:00.000Z",
+      "summary": "O presidente do PT, Edinho Silva, reuniu na semana passada a bancada do PT no Senado e passou orientações sobre como devem ocorrer as negociações com o centrão em torno da participação dos partidos em ministérios do próximo mandato de Lula (PT). Leia mais (11/",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Indicado para chefiar agência de mineração do governo Lula 4 é apadrinhado por senador do PL",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/indicado-para-chefiar-agencia-de-mineracao-do-governo-lula-4-e-apadrinhado-por-senador-do-pl.shtml",
+      "date": "2026-11-16T15:30:00.000Z",
+      "summary": "O nome previsto para chefiar a ANM (Agência Nacional de Mineração) no próximo governo Luiz Inácio Lula da Silva (PT) tem como seu padrinho político um representante da oposição. Leia mais (11/16/2026 - 12h30)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "UE vota fim de embargo às exportações de frango do Brasil",
+      "link": "https://www.poder360.com.br/poder-internacional/ue-vota-fim-de-embargo-as-exportacoes-de-frango-do-brasil/",
+      "date": "2026-11-16T15:23:17.000Z",
+      "summary": "Comissão Europeia analisa se produto, suspenso desde setembro, cumpre requisitos sanitários para retomar exportações",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "STF encerra ação de juíza contra jornalistas por reportagem sobre dívida com empresário",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/stf-encerra-acao-de-juiza-contra-jornalistas-por-reportagem-sobre-divida-com-empresario.shtml",
+      "date": "2026-11-16T15:20:00.000Z",
+      "summary": "A Segunda Turma do STF (Supremo Tribunal Federal) manteve a decisão que livrou dois jornalistas de pagar indenização de R$ 30 mil a uma juíza de Mato Grosso por reportagem sobre uma dívida da magistrada com um empresário que ela julgava. O processo foi encerra",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "PL das Big Techs deve ser votado na 3ª feira",
+      "link": "https://www.poder360.com.br/poder-congresso/pl-das-big-techs-deve-ser-votado-na-3a-feira/",
+      "date": "2026-11-16T15:13:52.000Z",
+      "summary": "Deputado Aliel Machado (PV-PR) conversa com bancadas para tentar garantir votos e aprovar a ampliação dos poderes do Cade",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Operação Fronteira apreende R$ 581 mi em mercadorias e drogas",
+      "link": "https://www.poder360.com.br/poder-economia/operacao-fronteira-apreende-r-581-mi-em-mercadorias-e-drogas/",
+      "date": "2026-11-16T15:08:01.000Z",
+      "summary": "Segundo a Receita Federal, o valor representa alta de 137% ante os R$ 244 mi interceptados pela iniciativa em 2025",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Diretor-geral da PF autoriza investigação contra escrivã que o criticou nas redes sociais",
+      "link": "https://www.estadao.com.br/politica/diretor-geral-da-pf-autoriza-investigacao-contra-escriva-que-o-criticou-nas-redes-sociais/",
+      "date": "2026-11-16T15:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Petrobras, Ambev e Itaú são empresas de capital aberto que mais pagam impostos",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/petrobras-ambev-e-itau-sao-empresas-de-capital-aberto-que-mais-pagam-impostos/",
+      "date": "2026-11-16T15:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "A IA é muito perigosa, como a energia nuclear, mas deve trazer benefícios, diz Nobel de Economia",
+      "link": "https://www.estadao.com.br/economia/entrevista-peter-howitt-nobel-economia-ia-perigosa/",
+      "date": "2026-11-16T15:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "As tarifas destroem o comércio global e matam a inovação, diz Nobel de Economia",
+      "link": "https://www.estadao.com.br/economia/entrevista-peter-howitt-nobel-de-economia-tarifas-comercio-global/",
+      "date": "2026-11-16T15:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "CDH acompanha caso de irmãos desaparecidos em Bacabal (MA)",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/16/cdh-acompanha-caso-de-irmaos-desaparecidos-em-bacabal-ma",
+      "date": "2026-11-16T14:59:46.000Z",
+      "summary": "Encerrou no domingo (15) a diligência da Comissão de Direitos Humanos (CDH) ao Maranhão para acompanhar as investigações sobre o desaparecimento dos irmãos Ágatha Isabelly, de 6 anos, e Allan Michael, de 4 anos, sumidos desde 4 de janeiro de 2026, na zona rura",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Comissão aprova inclusão da empatia e proteção animal na educação ambiental",
+      "link": "https://www.camara.leg.br/noticias/1319636-comissao-aprova-inclusao-da-empatia-e-protecao-animal-na-educacao-ambiental",
+      "date": "2026-11-16T14:58:00.000Z",
+      "summary": "Proposta segue em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Comissão aprova instalação de sensores para prevenir deslizamentos e enchentes",
+      "link": "https://www.camara.leg.br/noticias/1319621-comissao-aprova-instalacao-de-sensores-para-prevenir-deslizamentos-e-enchentes",
+      "date": "2026-11-16T14:52:00.000Z",
+      "summary": "O projeto continua em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Plenário retoma votação de medidas de ajuste fiscal nesta terça",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/16/plenario-retoma-votacao-de-medidas-de-ajuste-fiscal-nesta-terca",
+      "date": "2026-11-16T14:36:40.000Z",
+      "summary": "O Plenário do Senado deve concluir nesta terça-feira (17) a votação do projeto de ajuste fiscal do governo (PLP 299/2026). A proposta permite ampliar o bloqueio de despesas e limitar, em determinadas condições, o crescimento dos gastos públicos acima da inflaç",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Comissão aprova projeto que inclui professores no programa habitacional Habite Seguro",
+      "link": "https://www.camara.leg.br/noticias/1319582-comissao-aprova-projeto-que-inclui-professores-no-programa-habitacional-habite-seguro",
+      "date": "2026-11-16T14:31:00.000Z",
+      "summary": "O projeto continua em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Paim: 40 anos de Congresso Nacional",
+      "link": "https://www12.senado.leg.br/noticias/infomaterias/2026/11/paim-40-anos-de-congresso-nacional",
+      "date": "2026-11-16T14:26:01.000Z",
+      "summary": "",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Receita apreende R$ 581 milhões em operação de combate ao tráfico de drogas e ao contrabando",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/16/receita-federal-apreende-r-581-milhoes-em-operacao-de-combate-ao-trafico-de-drogas-e-ao-contrabando.ghtml",
+      "date": "2026-11-16T14:24:50.000Z",
+      "summary": "A Receita Federal informou nesta segunda-feira (16) que foram apreendidos R$ 581 milhões em mercadorias ilegais e drogas por meio de uma mega operação. Mais de 500 servidores do Fisco e centenas de integrantes de órgãos parceiros participaram da operação Front",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Defesa pede que Mauro Cid termine de cumprir a pena no Rio",
+      "link": "https://www.estadao.com.br/politica/defesa-pede-que-mauro-cid-termine-de-cumprir-a-pena-no-rio-nprp/",
+      "date": "2026-11-16T14:23:05.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Tarcísio: Caberá à maioria de centro-direita no Congresso fazer uma oposição responsável a Lula",
+      "link": "https://www.estadao.com.br/politica/tarcisio-cabera-a-maioria-de-centro-direita-no-congresso-fazer-uma-oposicao-responsavel-a-lula/",
+      "date": "2026-11-16T14:17:11.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Andrei diz ser alvo de ataques que não o intimidam e afirma não haver divisão na PF",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/16/andrei-diz-ser-alvo-de-ataques-que-nao-o-intimidam-e-afirma-nao-haver-divisao-na-pf.ghtml",
+      "date": "2026-11-16T14:08:14.000Z",
+      "summary": "Andrei Rodrigues nega crise e reforça autonomia da Polícia Federal O diretor-geral da Polícia Federal, Andrei Rodrigues, afirmou nesta segunda-feira (16) que tanto ele quanto a instituição têm sido alvo de ataques motivados, na avaliação dele, por interesses \"",
+      "source": "g1",
+      "cat": "politica",
       "type": "imprensa"
     },
     {
       "title": "Corte de gastos, regulação da 6x1 e equipe do novo governo: o que espera Lula na volta de giro internacional",
       "link": "https://g1.globo.com/politica/noticia/2026/11/16/corte-de-gastos-regulacao-da-6x1-e-equipe-do-novo-governo-o-que-espera-lula-na-volta-de-giro-internacional.ghtml",
       "date": "2026-11-16T13:58:25.000Z",
-      "summary": "Após um giro internacional, o presidente Luiz Inácio Lula da Silva (PT) retorna ao país, nesta segunda-feira (16), na reta final dos trabalhos legislativos de 2026. Com poucas semanas até o recesso parlamentar, o governo tenta acelerar a votação de projetos co",
+      "summary": "Após um giro internacional, o presidente Luiz Inácio Lula da Silva (PT) retorna ao país nesta segunda-feira (16), na reta final dos trabalhos legislativos de 2026. Com poucas semanas até o recesso parlamentar, o governo tenta acelerar a votação de projetos con",
       "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Pacote fiscal não mexerá em salário mínimo ou saúde, diz ministro",
-      "link": "https://www.poder360.com.br/poder-economia/pacote-fiscal-nao-mexera-em-salario-minimo-ou-saude-diz-ministro/",
-      "date": "2026-11-16T13:50:45.000Z",
-      "summary": "Bruno Moretti afirma que o texto é equilibrado e defende preservar a \"essência do projeto\" em discussão com o Congresso",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Moraes nega visitas de Tereza Cristina, Rogério Marinho e Valdemar a Bolsonaro",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/moraes-nega-visitas-de-tereza-cristina-rogerio-marinho-e-valdemar-a-bolsonaro.shtml",
-      "date": "2026-11-16T13:46:00.000Z",
-      "summary": "O ministro Alexandre de Moraes, do STF (Supremo Tribunal Federal), negou nesta segunda-feira (16) um pedido feito pela defesa de Jair Bolsonaro (PL) para autorizar visitas dos senadores Rogério Marinho (PL-RN) e Tereza Cristina (PP-MS) e do presidente do PL, V",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Índice de atividade econômica contrai 0,9% no terceiro trimestre, aponta BC",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/indice-de-atividade-economica-contrai-09-no-terceiro-trimestre-aponta-bc.shtml",
-      "date": "2026-11-16T13:38:00.000Z",
-      "summary": "A atividade econômica no Brasil encerrou o terceiro trimestre com retração, de acordo com dados do Banco Central divulgados nesta segunda-feira (16), depois de ter recuado em setembro, evidenciando a desaceleração esperada na segunda metade do ano. Leia mais (",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Mercadante está cotado para comandar Fazenda no Lula 4",
-      "link": "https://www.poder360.com.br/poder-governo/mercadante-esta-cotado-para-comandar-fazenda-no-lula-4/",
-      "date": "2026-11-16T13:33:44.000Z",
-      "summary": "Ideias desenvolvimentistas e defesa de maior participação estatal na economia podem causar reação negativa do mercado à escolha",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Série de operações contra ex-governadores do RJ completa dez anos; veja situação de cada um",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/serie-de-operacoes-contra-ex-governadores-do-rj-completa-dez-anos-veja-situacao-de-cada-um.shtml",
-      "date": "2026-11-16T13:30:00.000Z",
-      "summary": "Há dez anos, o ex-governador do Rio de Janeiro Anthony Garotinho foi preso pela primeira vez, sob acusação de comandar um esquema de compra de votos na eleição em Campos dos Goytacazes (RJ), sua base eleitoral. Leia mais (11/16/2026 - 10h30)",
-      "source": "Folha",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -218,29 +447,11 @@
       "type": "imprensa"
     },
     {
-      "title": "Governo quer preservar texto do projeto de ajuste fiscal, mas está aberto ao diálogo, diz Moretti",
-      "link": "https://www.estadao.com.br/economia/governo-preservar-texto-projeto-ajuste-fiscal-aberto-dialogo-moretti/",
-      "date": "2026-11-16T13:25:16.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Feriado 20 de novembro: veja o que é comemorado na data e por que é feriado nacional",
       "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/16/feriado-20-de-novembro-veja-o-que-e-comemorado-na-data-e-por-que-e-feriado-nacional.ghtml",
       "date": "2026-11-16T13:22:33.000Z",
       "summary": "Previsão do tempo orla maceió sol nuvens ensolarado praia Reprodução/TV Asa Branca Alagoas O próximo feriado nacional acontece em 20 de novembro, quando é celebrado o Dia Nacional de Zumbi e da Consciência Negra. A data cairá em uma sexta-feira, formando três ",
       "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Minerva aprova nova recompra de até 40,8 milhões de ações",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/10/25/6568-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post468057",
-      "date": "2026-11-16T13:20:00.000Z",
-      "summary": "O conselho de administração da Minerva aprovou novo programa de recompra de até 40,86 milhões de ações, com prazo de vigência de 12 meses, segundo comunicado da companhia nesta segunda-feira (16). Leia mais (11/16/2026 - 10h20)",
-      "source": "Folha",
       "cat": "economia",
       "type": "imprensa"
     },
@@ -254,138 +465,21 @@
       "type": "imprensa"
     },
     {
-      "title": "Moraes nega visita de Marinho e Tereza Cristina a Bolsonaro",
-      "link": "https://www.poder360.com.br/poder-justica/moraes-nega-visita-de-marinho-e-tereza-cristina-a-bolsonaro/",
-      "date": "2026-11-16T13:18:20.000Z",
-      "summary": "Ministro afirma que encontro caracterizaria uma possível negociação e articulação política envolvendo o ex-presidente",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Comissão aprova proposta de envio de relatórios sobre veículos recuperados para órgãos de segurança",
-      "link": "https://www.camara.leg.br/noticias/1319555-comissao-aprova-proposta-de-envio-de-relatorios-sobre-veiculos-recuperados-para-orgaos-de-seguranca",
-      "date": "2026-11-16T13:15:00.000Z",
-      "summary": "Texto segue em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Minério de ferro atinge menor valor em 16 meses após dados fracos da China",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/10/25/6568-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post468056",
-      "date": "2026-11-16T13:05:00.000Z",
-      "summary": "Os contratos futuros de minério de ferro na Bolsa de Dalian caíram para o nível mais baixo em mais de 16 meses nesta segunda-feira (16), depois que dados econômicos fracos da China reforçaram as preocupações sobre a demanda por aço no maior mercado consumidor ",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Mello Araújo recusou 75 convites para agendas da prefeitura de SP em 2026",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/mello-araujo-recusou-75-convites-para-agendas-da-prefeitura-de-sp-em-2026.shtml",
-      "date": "2026-11-16T13:00:00.000Z",
-      "summary": "O vice-prefeito de São Paulo, Ricardo Mello Araújo (PL), recusou 75 convites para agendas oficiais da prefeitura em 2026, segundo levantamento obtido pelo Painel. Leia mais (11/16/2026 - 10h00)",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Depois do ajuste fiscal, equipe econômica vai propor medidas para reduzir o crescimento das despesas obrigatórias",
-      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/16/depois-do-ajuste-fiscal-equipe-economica-vai-propor-medidas-para-reduzir-o-crescimento-das-despesas-obrigatorias.ghtml",
-      "date": "2026-11-16T12:57:38.000Z",
-      "summary": "Depois de aprovar o atual ajuste fiscal, a equipe econômica vai propor medidas para reduzir o crescimento das despesas obrigatórias no próximo ano. A avaliação é que o governo terá de dar um segundo passo na contenção de despesas para melhorar o ambiente econô",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "PIX completa seis anos com mais de 1 bilhão de chaves registradas e mirando interligação com outros países",
-      "link": "https://g1.globo.com/economia/pix/noticia/2026/11/16/pix-completa-seis-anos-com-mais-de-1-bilhao-de-chaves-registradas-e-mirando-interligacao-com-outros-paises.ghtml",
-      "date": "2026-11-16T12:52:56.000Z",
-      "summary": "O PIX, sistema de transferências do Banco Central em tempo real, completou seis anos nesta segunda-feira (16) com mais de um bilhão de chaves registradas. Nascido em 2020, o \"ecossistema\" de pagamentos instantâneos passou por um intenso processo de evolução e ",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "IBC-Br: prévia do PIB do BC cai 0,25% em setembro e fecha 3º trimestre com queda de 0,86%",
-      "link": "https://www.estadao.com.br/economia/ibc-br-previa-pib-bc-cai-setembro-terceiro-trimestre-2027-queda/",
-      "date": "2026-11-16T12:50:43.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Moraes barra visitas de Marinho, Tereza Cristina e Valdemar a Bolsonaro: ‘atividades partidárias’",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/moraes-barra-visitas-de-marinho-tereza-cristina-e-valdemar-a-bolsonaro-atividades-partidarias/",
-      "date": "2026-11-16T12:50:21.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Moraes nega pedido de Bolsonaro para receber Valdemar e os pré-candidatos à presidência do Senado Marinho e Tereza",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/16/moraes-nega-pedido-de-bolsonaro-para-receber-valdemar-e-os-pre-candidatos-a-presidencia-do-senado-marinho-e-tereza.ghtml",
-      "date": "2026-11-16T12:43:31.000Z",
-      "summary": "O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), negou nesta segunda-feira (16) um pedido feito pela defesa de Jair Bolsonaro de autorização para que o ex-presidente receba visitas dos senadores Rogério Marinho (PL-RN) e Tereza Cristina (PP-M",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Mercado reduz projeção para inflação e PIB no ano e prevê Selic mais alta em 2027",
-      "link": "https://www.estadao.com.br/economia/mercado-reduz-projecao-inflacao-pib-preve-selic-mais-alta-2027/",
-      "date": "2026-11-16T12:31:38.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "A chantagem feita pelo PCC contra Tarcísio e os candidatos de sua coligação durante as eleições",
-      "link": "https://www.estadao.com.br/politica/marcelo-godoy/a-chantagem-feita-pelo-pcc-contra-tarcisio-e-os-candidatos-de-sua-coligacao-durante-as-eleicoes/",
-      "date": "2026-11-16T12:30:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Qual será o impacto da CBS no bolso do consumidor a partir de janeiro?",
-      "link": "https://www.estadao.com.br/economia/duquesa-de-tax/qual-impacto-cbs-bolso-consumidor-janeiro-2027/",
-      "date": "2026-11-16T12:30:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Violência doméstica e familiar atinge mais mulheres negras, aponta DataSenado",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/16/violencia-domestica-e-familiar-atinge-mais-mulheres-negras-aponta-datasenado",
-      "date": "2026-11-16T12:10:17.000Z",
-      "summary": "Imagine um cenário em que uma em cada três mulheres já sofreu violência doméstica ou familiar. No mesmo cenário, quase todas afirmam que não são tratadas com respeito ou que isso ocorre apenas algumas vezes. Essa realidade, permeada por desigualdades de raça e",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Projeto aumenta pena para crimes sexuais praticados por professores, treinadores e líderes religiosos",
-      "link": "https://www.camara.leg.br/noticias/1310652-projeto-aumenta-pena-para-crimes-sexuais-praticados-por-professores-treinadores-e-lideres-religiosos",
-      "date": "2026-11-16T12:02:00.000Z",
-      "summary": "O texto está em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
       "title": "BC divulga o IBC-Br de setembro de 2026",
       "link": "https://www.bcb.gov.br/detalhenoticia/21319/nota",
       "date": "2026-11-16T12:01:20.000Z",
       "summary": "",
       "source": "Banco Central",
       "cat": "economia",
+      "type": "oficial"
+    },
+    {
+      "title": "ONU pede a Egito que liberte jornalistas após polícia prender redação inteira",
+      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854917",
+      "date": "2026-11-16T12:00:00.000Z",
+      "summary": "Seis profissionais que foram do site egípcio de checagem de fatos *Matsadash* foram levados, na semana passada, pela polícia; Alto Comissariado de Direitos Humanos da ONU alerta para ataques à liberdade de imprensa por parte do governo.",
+      "source": "ONU News",
+      "cat": "internacional",
       "type": "oficial"
     },
     {
@@ -398,30 +492,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Reflexões sobre os novos custos do acesso ao STJ",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/reflexoes-sobre-os-novos-custos-do-acesso-ao-stj/",
-      "date": "2026-11-16T11:14:42.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Quem é o 1º senador negro do Mississippi em 140 anos e por que tão poucos foram eleitos nos EUA?",
       "link": "https://www.bbc.com/portuguese/articles/cwe9kj4xmy2po?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-16T09:43:38.000Z",
       "summary": "Ao vencer a corrida para o Senado no Estado americano do Mississippi, Scott Colom se tornou o primeiro senador negro do Estado desde o século 19. Por que apenas 14 senadores negros haviam sido eleitos até então, em toda a história americana?",
       "source": "BBC News Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Tarcísio promete não se envolver em disputa do PL por presidência da Assembleia",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/tarcisio-promete-nao-se-envolver-em-disputa-do-pl-por-presidencia-da-assembleia.shtml",
-      "date": "2026-11-16T09:00:00.000Z",
-      "summary": "O governador de São Paulo, Tarcísio de Freitas (Republicanos), avisou a aliados que não deve se envolver na disputa entre deputados estaduais do PL pelo comando da Assembleia Legislativa a partir do ano que vem. Leia mais (11/16/2026 - 06h00)",
-      "source": "Folha",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -434,12 +510,12 @@
       "type": "imprensa"
     },
     {
-      "title": "PSB vê João Campos e Alckmin como certos no Lula 4, mas enfrenta incertezas sobre Tebet e França",
-      "link": "https://www.estadao.com.br/politica/psb-ve-joao-campos-e-alckmin-como-certos-no-lula-4-mas-enfrenta-incertezas-sobre-tebet-e-franca/",
+      "title": "Cresce pressão para adiamento do início efetivo da reforma tributária para 2028",
+      "link": "https://www.estadao.com.br/economia/cresce-pressao-para-adiantamento-do-inicio-efetivo-da-reforma-tributaria-para-2028/",
       "date": "2026-11-16T08:30:00.000Z",
       "summary": "",
       "source": "Estadão",
-      "cat": "politica",
+      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -465,15 +541,6 @@
       "link": "https://www.dw.com/pt-br/polonesas-driblam-veto-ao-aborto-com-armário-de-entrega-de-pílulas/a-79953437?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-15T20:07:00.000Z",
       "summary": "'Abortomat' se inspira em solução para receber encomendas de lojas online. Iniciativa enfrenta oposição de grupos católicos em país com uma das legislações mais restritivas da Europa.",
-      "source": "DW Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Irã diz que afundou supernavio com 2 milhões de barris de petróleo",
-      "link": "https://www.dw.com/pt-br/irã-diz-que-afundou-supernavio-com-2-milhões-de-barris-de-petróleo/a-79952899?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-15T15:16:00.000Z",
-      "summary": "Embarcação teria atingido mina e explodido ao navegar sem autorização pelo Estreito de Ormuz. Hidrovia estratégica está no centro da guerra com os Estados Unidos.",
       "source": "DW Brasil",
       "cat": "internacional",
       "type": "imprensa"
@@ -506,49 +573,13 @@
       "type": "imprensa"
     },
     {
-      "title": "Como troca de cabos levou ao maior caos aéreo nos EUA desde o 11 de Setembro, segundo o governo Trump",
-      "link": "https://www.bbc.com/portuguese/articles/ckd71ne91y79o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-14T18:06:39.000Z",
-      "summary": "O governo dos Estados Unidos não acredita que a interrupção tenha sido resultado de um ataque cibernético, embora as investigações ainda estejam em andamento.",
-      "source": "BBC News Brasil",
+      "title": "O que está por trás na alta dos registros de violência nas escolas brasileiras?",
+      "link": "https://www.dw.com/pt-br/o-que-está-por-trás-na-alta-dos-registros-de-violência-nas-escolas-brasileiras/a-79942057?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-13T19:23:00.000Z",
+      "summary": "Número de registros de violência, conflitos e outras ocorrências nas escolas estaduais de São Paulo aumentou 73,83% em 2025. Indicadores nacionais mostram que problema também está presente em diferentes regiões do país.",
+      "source": "DW Brasil",
       "cat": "internacional",
       "type": "imprensa"
-    },
-    {
-      "title": "Comissão aprova criação de data para valorizar mulheres que trabalham em setores de infraestrutura",
-      "link": "https://www.camara.leg.br/noticias/1319435-comissao-aprova-criacao-de-data-para-valorizar-mulheres-que-trabalham-em-setores-de-infraestrutura",
-      "date": "2026-11-13T21:15:00.000Z",
-      "summary": "Proposta segue para análise do Senado",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Comissão aprova proposta que transforma em lei a Política para a Primeira Infância",
-      "link": "https://www.camara.leg.br/noticias/1319429-comissao-aprova-proposta-que-transforma-em-lei-a-politica-para-a-primeira-infancia",
-      "date": "2026-11-13T20:34:00.000Z",
-      "summary": "Texto pode seguir para análise do Senado Federal, a menos que haja recurso para votação no Plenário da Câmara",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Comissão aprova proposta para uso de títulos em concursos de PMs e bombeiros",
-      "link": "https://www.camara.leg.br/noticias/1319294-comissao-aprova-proposta-para-uso-de-titulos-em-concursos-de-pms-e-bombeiros",
-      "date": "2026-11-13T20:01:00.000Z",
-      "summary": "Texto segue em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Comissão aprova proposta que aumenta penas para saque de cargas após acidentes de trânsito",
-      "link": "https://www.camara.leg.br/noticias/1319386-comissao-aprova-proposta-que-aumenta-penas-para-saque-de-cargas-apos-acidentes-de-transito",
-      "date": "2026-11-13T19:33:00.000Z",
-      "summary": "Projeto segue em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
     },
     {
       "title": "Novo chefe do WFP pede fim dos combates no Sudão após visita ao país",
@@ -641,15 +672,6 @@
       "type": "oficial"
     },
     {
-      "title": "Ebola pode avançar na África Central com pessoas em trânsito da RD Congo",
-      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854885",
-      "date": "2026-11-10T12:00:00.000Z",
-      "summary": "Agência da ONU diz que precisa de US$ 60 milhões para conter o surto nos países vizinhos; saída dos congoleses é causada por conflitos e outros fatores; doença já matou 5 mil pessoas, metade do número de casos notificados.",
-      "source": "ONU News",
-      "cat": "internacional",
-      "type": "oficial"
-    },
-    {
       "title": "BC divulga Ata da 282ª reunião do Copom",
       "link": "https://www.bcb.gov.br/detalhenoticia/21312/nota",
       "date": "2026-11-10T11:01:06.000Z",
@@ -657,12 +679,19 @@
       "source": "Banco Central",
       "cat": "economia",
       "type": "oficial"
+    },
+    {
+      "title": "'Não falei com Lula. Isso foi plantado para queimar alguém que defendeu a proposta', diz André Lara Resende",
+      "link": "https://www.bbc.com/portuguese/articles/cmly0jeq2q9no?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-05T23:19:37.000Z",
+      "summary": "Economista que presidiu o BNDES e fez parte da diretoria do Banco Central propôs criação de conselho que reduziria taxa Selic a longo prazo; proposta mobilizou mercado financeiro e discussão em Brasília.",
+      "source": "BBC News Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
     }
   ],
   "errors": [
-    "Selic (SGS 432): HTTP 304",
     "feed CNN Brasil: HTTP 404",
-    "feed CNN Brasil: HTTP 404",
-    "feed Planalto (governo): HTTP 429"
+    "feed CNN Brasil: HTTP 404"
   ]
 }
