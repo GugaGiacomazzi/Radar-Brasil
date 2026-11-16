@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-16T09:58:09.937Z",
+  "updated": "2026-11-16T11:23:49.317Z",
   "market": {
     "ibov": {
       "price": 172457.77,
       "pct": 0.66,
-      "time": "2026-11-16T09:58:02.446Z",
+      "time": "2026-11-16T11:23:44.692Z",
       "history": [
         {
           "d": "2026-10-19",
@@ -137,6 +137,78 @@
   },
   "news": [
     {
+      "title": "Vendas no varejo, produção industrial e investimentos desaceleram na China",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/10/25/6568-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post468055",
+      "date": "2026-11-16T11:09:00.000Z",
+      "summary": "A produção industrial, os investimentos e as vendas no varejo da China desaceleraram mais acentuadamente do que o esperado em outubro, pressionando as autoridades a acelerar os gastos com estímulos para sustentar a fraca demanda interna da economia. Leia mais ",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Governo Trump deve dar a Nvidia selo de empresa campeã nacional, diz jornal",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/governo-trump-deve-dar-a-nvidia-selo-de-empresa-campea-nacional-diz-jornal.shtml",
+      "date": "2026-11-16T11:02:00.000Z",
+      "summary": "O governo Donald Trump pretende incluir a Nvidia em uma lista de mais de 20 empresas que seriam classificadas como campeãs nacionais para enfrentar concorrentes de outros países em seu setor, segundo divulgou o jornal The Wall Street Journal nesse domingo (15)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Governo abre crédito de R$ 33,7 mi a estatais de energia e transporte",
+      "link": "https://www.poder360.com.br/poder-governo/governo-abre-credito-de-r-337-mi-a-estatais-de-energia-e-transporte/",
+      "date": "2026-11-16T10:50:02.000Z",
+      "summary": "Portaria publicada nesta 2ª feira (16.nov) no “Diário Oficial da União” reforça orçamento de 4 empresas federais",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lula chega a Madri para se reunir com Pedro Sánchez",
+      "link": "https://www.poder360.com.br/poder-governo/lula-chega-a-madri-para-se-reunir-com-pedro-sanchez/",
+      "date": "2026-11-16T10:35:23.000Z",
+      "summary": "Presidente desembarca na Espanha para encontrar primeiro-ministro, que está em campanha eleitoral e tem celebrado vitória do petista",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Principais Bolsas da Ásia caem à espera de resultados da Nvidia e IPO da Anthropic",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/principais-bolsas-da-asia-caem-a-espera-de-resultados-da-nvidia-e-ipo-da-anthropic.shtml",
+      "date": "2026-11-16T10:24:00.000Z",
+      "summary": "As Bolsas da China fecharam em queda nesta segunda-feira (16) e estiveram próximas de atingir o menor nível desde julho de 2025, pressionadas pelos papéis de empresas de hardware, à medida que preocupações com a sustentabilidade da alta impulsionada pela intel",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Rooftop a 110 metros e piscina de 100 m: novo residencial com assinatura Lindenberg do eixo Berrine",
+      "link": "https://www.estadao.com.br/economia/negocios/rooftop-a-110-metros-e-piscina-de-100-m-novo-residencial-com-assinatura-lindenberg-do-eixo-berrine/",
+      "date": "2026-11-16T10:01:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Banco BV firma parceria com Ademicon para entrar em consórcios",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/banco-bv-firma-parceria-com-ademicon-para-entrar-em-consorcios.shtml",
+      "date": "2026-11-16T10:00:00.000Z",
+      "summary": "O banco BV firmou uma parceria com a Ademicon para lançar uma modalidade de consórcios. A instituição financeira quer se posicionar como uma alternativa para compras planejadas sem cobrança de juros remuneratórios. Leia mais (11/16/2026 - 07h00)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Medida tímida da Anatel não vai deter telemarketing abusivo",
+      "link": "https://www.estadao.com.br/economia/claudio-considera/medida-timida-da-anatel-nao-vai-deter-telemarketing-abusivo/",
+      "date": "2026-11-16T09:48:51.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "Quem é o 1º senador negro do Mississippi em 140 anos e por que tão poucos foram eleitos nos EUA?",
       "link": "https://www.bbc.com/portuguese/articles/cwe9kj4xmy2po?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-16T09:43:38.000Z",
@@ -164,39 +236,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Governo Lula: leia a agenda de ministros do governo nesta 2ª feira",
-      "link": "https://www.poder360.com.br/poder-governo/governo-lula-leia-a-agenda-de-ministros-do-governo-nesta-2a-feira-11/",
-      "date": "2026-11-16T09:15:31.000Z",
-      "summary": "Ministro da Fazenda, Dario Durigan, tem reunião com a presidência do Banco do Brasil; comitiva que acompanhou Lula ao exterior retorna ao Brasil",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Agenda de Lula: leia os compromissos do presidente nesta 2ª feira",
-      "link": "https://www.poder360.com.br/poder-governo/agenda-de-lula-leia-os-compromissos-do-presidente-nesta-2a-feira-9/",
-      "date": "2026-11-16T09:15:25.000Z",
-      "summary": "Chefe do Executivo encontra-se com Pedro Sánchez na Espanha antes de voltar ao Brasil",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Tarcísio promete não se envolver em disputa do PL por presidência da Assembleia",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/tarcisio-promete-nao-se-envolver-em-disputa-do-pl-por-presidencia-da-assembleia.shtml",
       "date": "2026-11-16T09:00:00.000Z",
       "summary": "O governador de São Paulo, Tarcísio de Freitas (Republicanos), avisou a aliados que não deve se envolver na disputa entre deputados estaduais do PL pelo comando da Assembleia Legislativa a partir do ano que vem. Leia mais (11/16/2026 - 06h00)",
       "source": "Folha",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Suzano consegue financiamento de R$ 98 milhões junto ao BNDES",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/suzano-consegue-financiamento-de-r-98-milhoes-junto-ao-bndes.shtml",
-      "date": "2026-11-16T09:00:00.000Z",
-      "summary": "A Suzano conseguiu aprovação junto ao BNDES (Banco Nacional de Desenvolvimento Econômico e Social) de um financiamento de R$ 97,9 milhões para 47 projetos de pesquisa e desenvolvimento voltados à inovação nas áreas de genética e melhoramento florestal, manejo ",
-      "source": "Folha",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -227,20 +272,11 @@
       "type": "imprensa"
     },
     {
-      "title": "Cresce pressão para adiantamento do início efetivo da reforma tributária para 2028",
+      "title": "Cresce pressão para adiamento do início efetivo da reforma tributária para 2028",
       "link": "https://www.estadao.com.br/economia/cresce-pressao-para-adiantamento-do-inicio-efetivo-da-reforma-tributaria-para-2028/",
       "date": "2026-11-16T08:30:00.000Z",
       "summary": "",
       "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Podcast explica 'plano Moretti', pacote de ajuste fiscal para o governo Lula 4",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/podcasts/2026/11/podcast-explica-plano-moretti-pacote-de-ajuste-fiscal-para-o-governo-lula-4.shtml",
-      "date": "2026-11-16T08:00:00.000Z",
-      "summary": "O Senado volta a discutir nesta semana o pacote fiscal apresentado pelo governo Lula, cujo texto-base foi aprovado na última quinta-feira (12). As medidas incluem a criação de um piso de contingenciamento e pontos como a possibilidade de congelar mais verbas, ",
-      "source": "Folha",
       "cat": "economia",
       "type": "imprensa"
     },
@@ -251,24 +287,6 @@
       "summary": "Durante a campanha, uma das mais importantes críticas do time de Lula a Flávio Bolsonaro era o chamado \"tesouraço\", que foi o nome dado à proposta do senador de corte de até R$ 200 bilhões no Orçamento. Leia mais (11/16/2026 - 04h00)",
       "source": "Folha",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Empresas em recuperação judicial podem negociar ICMS em nova fase do Acordo Paulista",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/blogs/que-imposto-e-esse/2026/11/empresas-em-recuperacao-judicial-podem-negociar-icms-em-nova-fase-do-acordo-paulista.shtml",
-      "date": "2026-11-16T07:00:00.000Z",
-      "summary": "A PGE-SP (Procuradoria-Geral do Estado de São Paulo) lança nesta segunda-feira (16) dois novos editais do Acordo Paulista, para renegociação de débitos de ICMS inscritos na dívida ativa. Um deles é voltado especificamente para empresas em recuperação judicial,",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Ministério da Saúde abre processo seletivo com salários de até R$ 10,3 mil",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/ministerio-da-saude-abre-processo-seletivo-com-salarios-de-ate-r-103-mil.shtml",
-      "date": "2026-11-16T07:00:00.000Z",
-      "summary": "O Ministério da Saúde abriu processo seletivo simplificado para contratar 300 profissionais temporários, com salários de até R$ 10.354,29. A remuneração mais alta é destinada ao cargo de gestor, que exige formação superior em áreas como administração, direito ",
-      "source": "Folha",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -293,7 +311,7 @@
       "title": "Lula se reúne nesta segunda com Sánchez na Espanha e encerra primeiro giro pelo exterior após reeleição",
       "link": "https://g1.globo.com/politica/noticia/2026/11/16/lula-se-reune-nesta-segunda-com-sanchez-na-espanha-e-encerra-primeiro-giro-pelo-exterior-apos-reeleicao.ghtml",
       "date": "2026-11-16T03:00:00.000Z",
-      "summary": "Lula volta a defender o multilateralismo como caminho para a prosperidade e a paz O presidente Luiz Inácio Lula da Silva (PT) se reúne nesta segunda-feira (16) com o primeiro-ministro espanhol, Pedro Sánchez, em Madri, na Espanha. Lula realiza sua primeira via",
+      "summary": "Presidente Lula e o premiê da Espanha, Pedro Sánchez, em 2026. Ricardo Stuckert/PR O presidente Luiz Inácio Lula da Silva (PT) se reúne nesta segunda-feira (16) com o primeiro-ministro espanhol, Pedro Sánchez, em Madri, na Espanha. O petista chegou ao Palácio ",
       "source": "g1",
       "cat": "politica",
       "type": "imprensa"
@@ -353,12 +371,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Correios têm prejuízo líquido de R$ 1,9 bi no 3º trimestre; no ano, perdas chegam a R$ 7,5 bi",
-      "link": "https://www.estadao.com.br/economia/correios-tem-prejuizo-liquido-de-r-19-bi-no-3-trimestre-no-ano-perdas-chegam-a-r-75-bi/",
-      "date": "2026-11-15T22:00:18.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
+      "title": "IA reacende debate sobre renda básica universal na Alemanha",
+      "link": "https://www.dw.com/pt-br/ia-reacende-debate-sobre-renda-básica-universal-na-alemanha/a-79953150?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-15T21:41:00.000Z",
+      "summary": "Mercado de trabalho deverá ser profundamente afetado, com até 800 mil empregos eliminados em 15 anos. Economistas se dividem sobre viabilidade financeira da proposta para amortecer ruptura.",
+      "source": "DW Brasil",
+      "cat": "internacional",
       "type": "imprensa"
     },
     {
@@ -366,15 +384,6 @@
       "link": "https://www.dw.com/pt-br/na-amazônia-leão-14-condena-exploração-irresponsável-da-floresta/a-79953690?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-15T21:41:00.000Z",
       "summary": "Pontífice citou produção de ouro e petróleo e pediu esclarecimento de assassinatos de lideranças indígenas. Viagem do chefe do Vaticano ao país adotivo causa alvoroço.",
-      "source": "DW Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "IA reacende debate sobre renda básica universal na Alemanha",
-      "link": "https://www.dw.com/pt-br/ia-reacende-debate-sobre-renda-básica-universal-na-alemanha/a-79953150?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-15T21:41:00.000Z",
-      "summary": "Mercado de trabalho deverá ser profundamente afetado, com até 800 mil empregos eliminados em 15 anos. Economistas se dividem sobre viabilidade financeira da proposta para amortecer ruptura.",
       "source": "DW Brasil",
       "cat": "internacional",
       "type": "imprensa"
@@ -443,15 +452,6 @@
       "type": "oficial"
     },
     {
-      "title": "Mais de 100 mil vão às ruas em novos protestos na França, mais de 200 são presos",
-      "link": "https://www.dw.com/pt-br/mais-de-100-mil-vão-às-ruas-em-novos-protestos-na-frança-mais-de-200-são-presos/a-79951672?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-15T10:36:00.000Z",
-      "summary": "A polícia deteve 219 pessoas no quinto sábado seguido de manifestações contra o alto custo de vida e em defesa de uma melhor educação.",
-      "source": "DW Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
       "title": "Protestos tomam conta de Portugal contra crise habitacional",
       "link": "https://www.dw.com/pt-br/protestos-tomam-conta-de-portugal-contra-crise-habitacional/a-79949804?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-14T19:46:00.000Z",
@@ -466,6 +466,15 @@
       "date": "2026-11-14T18:06:39.000Z",
       "summary": "O governo dos Estados Unidos não acredita que a interrupção tenha sido resultado de um ataque cibernético, embora as investigações ainda estejam em andamento.",
       "source": "BBC News Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "AfD lança ex-jogador da Alemanha como candidato à Presidência",
+      "link": "https://www.dw.com/pt-br/afd-lança-ex-jogador-da-alemanha-como-candidato-à-presidência/a-79948969?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-14T15:27:00.000Z",
+      "summary": "Partido de ultradireita apostou em nome \"do centro da sociedade que pode representar todos os alemães\". Cargo provavelmente será ocupado pela primeira vez por uma mulher.",
+      "source": "DW Brasil",
       "cat": "internacional",
       "type": "imprensa"
     },
@@ -537,24 +546,6 @@
       "link": "https://www12.senado.leg.br/noticias/materias/2026/11/13/cae-ministro-da-fazenda-debate-aliquota-da-cbs-na-terca-feira",
       "date": "2026-11-13T19:02:25.000Z",
       "summary": "O ministro da Fazenda, Dario Durigan, participa na terça-feira (17) de audiência pública na Comissão de Assuntos Econômicos do Senado (CAE). O objetivo é discutir o cálculo da alíquota de referência da Contribuição Social sobre Bens e Serviços (CBS) para 2027.",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Para onde vai a legislação trabalhista?",
-      "link": "https://www12.senado.leg.br/noticias/infomaterias/2026/11/para-onde-vai-a-legislacao-trabalhista",
-      "date": "2026-11-13T18:48:00.000Z",
-      "summary": "",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Primeiras medidas do ajuste fiscal",
-      "link": "https://www12.senado.leg.br/noticias/infomaterias/2026/11/primeiras-medidas-do-ajuste-fiscal",
-      "date": "2026-11-13T18:44:53.000Z",
-      "summary": "",
       "source": "Agência Senado",
       "cat": "politica",
       "type": "oficial"
@@ -697,7 +688,6 @@
   ],
   "errors": [
     "feed CNN Brasil: HTTP 404",
-    "feed CNN Brasil: HTTP 404",
-    "feed Planalto (governo): HTTP 429"
+    "feed CNN Brasil: HTTP 404"
   ]
 }
