@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-16T21:29:06.857Z",
+  "updated": "2026-11-16T22:27:57.316Z",
   "market": {
     "ibov": {
       "price": 169295.4,
       "pct": -1.83,
-      "time": "2026-11-16T21:29:02.527Z",
+      "time": "2026-11-16T22:27:43.988Z",
       "history": [
         {
           "d": "2026-10-19",
@@ -141,6 +141,96 @@
   },
   "news": [
     {
+      "title": "Comissão aprova classificar Hamas e Hezbollah como grupos terroristas",
+      "link": "https://www.camara.leg.br/noticias/1319821-comissao-aprova-classificar-hamas-e-hezbollah-como-grupos-terroristas",
+      "date": "2026-11-16T22:19:00.000Z",
+      "summary": "Outras 15 entidades também foram incluídas no texto, que segue para a análise da CCJ da Câmara",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "United Airlines enfrenta falha generalizada",
+      "link": "https://g1.globo.com/mundo/noticia/2026/11/16/united-airlines-enfrenta-falha-generalizada.ghtml",
+      "date": "2026-11-16T22:07:46.000Z",
+      "summary": "Imagem de um Boeing da United Airlines Konstantin von Wedelstaedt/Wikipedia Commons A United Airlines informou nesta segunda-feira (16) que está ciente de uma falha generalizada em seus sistemas. A companhia afirmou que equipes trabalham para restabelecer o fu",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "PT reunirá bancada e ouvirá sugestões ao ajuste fiscal",
+      "link": "https://www.poder360.com.br/poder-congresso/pt-reunira-bancada-e-ouvira-sugestoes-ao-ajuste-fiscal/",
+      "date": "2026-11-16T22:00:41.000Z",
+      "summary": "Paulo Pimenta diz que ideias podem ser aprovadas sem a necessidade de o projeto retornar ao Senado; partido enfrenta resistência interna",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Santiago Peña é transferido para prisão militar no Paraguai",
+      "link": "https://www.poder360.com.br/poder-internacional/santiago-pena-e-transferido-para-prisao-militar-no-paraguai/",
+      "date": "2026-11-16T21:54:23.000Z",
+      "summary": "Ex-presidente é investigado por irregularidades no Ueno Bank; crise afetou quase 3 milhões de contas",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Alckmin diz que não há razão para mercado ter oscilações após pacote fiscal: 'Brasil tem segurança jurídica e está trabalhando'",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/16/alckmin-diz-que-nao-ha-razao-para-mercado-ter-oscilacoes-apos-pacote-fiscal-brasil-tem-seguranca-juridica-e-esta-trabalhando.ghtml",
+      "date": "2026-11-16T21:53:07.000Z",
+      "summary": "O presidente em exercício, Geraldo Alckmin, afirmou nesta segunda-feira (16) que não há razão para as oscilações do mercado financeiro após o governo ter apresentado na semana passada pacote que reúne medidas para conter gastos e melhorar as contas públicas, c",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Ex-prefeito que teve conversa exposta por Cleitinho diz que vai processá-lo e que vem sendo atacado",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/ex-prefeito-que-teve-conversa-exposta-por-cleitinho-diz-que-vai-processa-lo-e-que-vem-sendo-atacado.shtml",
+      "date": "2026-11-16T21:40:00.000Z",
+      "summary": "O ex-prefeito de Mirabela (MG) Luciano Rabelo Veloso (Avante), que teve uma ligação com o governador eleito de Minas Gerais, Cleitinho Azevedo (Republicanos), exposta nas redes sociais, diz que vem sendo atacado desde que seu número de telefone apareceu no víd",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "PT deve declarar apoio a 'plano Moretti' apesar de críticas da sigla a ajuste",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/pt-deve-declarar-apoio-a-plano-moretti-apesar-de-criticas-da-sigla-a-ajuste.shtml",
+      "date": "2026-11-16T21:39:00.000Z",
+      "summary": "A bancada do PT na Câmara dos Deputados deve declarar nesta terça-feira (17) voto a favor do projeto de ajuste fiscal proposto pelo ministro do Planejamento e Orçamento, Bruno Moretti, apesar das críticas feitas por parte dos petistas, de acordo com integrante",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Projeto proíbe uso da imagem de empregado em redes sociais da empresa sem previsão contratual",
+      "link": "https://www.camara.leg.br/noticias/1313078-projeto-proibe-uso-da-imagem-de-empregado-em-redes-sociais-da-empresa-sem-previsao-contratual",
+      "date": "2026-11-16T21:35:00.000Z",
+      "summary": "Proposta enquadra a prática como desvio de função quando a atividade for incompatível com as atribuições do cargo contratado",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Jeduca oferece prêmios de até R$ 4.500 para TCCs sobre jornalismo de educação",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/blogs/novo-em-folha/2026/11/jeduca-oferece-premios-de-ate-r-4500-para-tccs-sobre-jornalismo-de-educacao.shtml",
+      "date": "2026-11-16T21:34:00.000Z",
+      "summary": "A Jeduca (Associação de Jornalistas de Educação) abriu nesta segunda-feira (16) as inscrições para o 8º Edital de Jornalismo de Educação. A iniciativa vai premiar três trabalhos de conclusão de curso (TCCs) sobre educação pública brasileira ou jornalismo de ed",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "PagBank aumenta atividade bancária e lucro sobe 7%, para R$ 611 milhões",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/pagbank-aumenta-atividade-bancaria-e-lucro-sobe-7-para-r-611-milhoes.shtml",
+      "date": "2026-11-16T21:28:00.000Z",
+      "summary": "A desaceleração da atividade econômica levou o PagBank a aumentar a aposta nos serviços bancários, especialmente em capital de giro e recebíveis de cartão de crédito. Mais rentáveis, esses produtos impulsionaram a alta de 7% em um ano no lucro líquido ajustado",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "Bolsa cai 1,83% e fecha em 169 mil pontos com temor fiscal",
       "link": "https://www.poder360.com.br/poder-economia/bolsa-cai-183-e-fecha-em-169-mil-pontos-com-temor-fiscal/",
       "date": "2026-11-16T21:27:36.000Z",
@@ -156,6 +246,15 @@
       "summary": "O deputado federal Alencar Santana (PT-SP) e coordenadores do grupo jurídico Prerrogativas, alinhado ao governo Lula, enviaram uma petição ao Supremo Tribunal Federal requerendo a prisão preventiva do senador Flávio Bolsonaro (PL-RJ) e o bloqueio de recursos q",
       "source": "Folha",
       "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Maiores data centers dos EUA já emitem tanto carbono quanto o de países inteiros",
+      "link": "https://www.estadao.com.br/economia/negocios/maiores-data-centers-dos-eua-ja-emitem-tanto-carbono-quanto-o-de-paises-inteiros/",
+      "date": "2026-11-16T21:15:29.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -190,33 +289,6 @@
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/regulacao-concorrencial-das-big-techs-pode-reduzir-custos-em-ate-r-50-bi-ao-ano-projeta-fazenda.shtml",
       "date": "2026-11-16T21:03:00.000Z",
       "summary": "O Ministério da Fazenda estima que o projeto de lei que cria regras concorrenciais para plataformas digitais e big techs possa ter um impacto de entre R$ 15,3 bilhões e R$ 50,6 bilhões em redução de preços para diversos setores econômicos do Brasil, caso aprov",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Lula ganha camisa da seleção de Cabo Verde em parada no país",
-      "link": "https://www.poder360.com.br/poder-governo/lula-ganha-camisa-da-selecao-de-cabo-verde-em-parada-no-pais/",
-      "date": "2026-11-16T21:02:46.000Z",
-      "summary": "Presidente se reuniu com José Maria Neves, reeleito no domingo (15.nov), durante retorno ao Brasil após agenda na Espanha",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Em ano de El Niño, país tem estoques baixos de produtos básicos",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/vaivem/2026/11/em-ano-de-el-nino-pais-tem-estoques-baixos-de-produtos-basicos.shtml",
-      "date": "2026-11-16T21:00:00.000Z",
-      "summary": "Em um período de El Niño intenso, o Brasil inicia o ano com baixos estoques de produtos básicos. Os dados da Conab (Companhia Nacional de Abastecimento) de sexta-feira (13) indicam que arroz e trigo são os mais preocupantes. Em ambos os casos, a produção nacio",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Você pode escolher os melhores investimentos e ainda ter uma carteira ruim?",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/blogs/de-grao-em-grao/2026/11/voce-pode-escolher-os-melhores-investimentos-e-ainda-ter-uma-carteira-ruim.shtml",
-      "date": "2026-11-16T21:00:00.000Z",
-      "summary": "Você pode escolher os melhores fundos, os títulos mais rentáveis e as ações que mais se valorizam e, ainda assim, construir uma carteira de investimentos ruim. Isso acontece porque existe uma decisão que pode ser mais importante do que escolher os produtos: de",
       "source": "Folha",
       "cat": "economia",
       "type": "imprensa"
@@ -258,39 +330,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Robôs dançam e servem café em Shenzhen antes da cúpula da APEC",
-      "link": "https://www.poder360.com.br/poder-tech/robos-dancam-e-servem-cafe-em-shenzhen-antes-da-cupula-da-apec/",
-      "date": "2026-11-16T20:51:11.000Z",
-      "summary": "Máquinas participam de preparativos para a Cúpula de CEOs da Apec de 2026 e a subsequente Reunião Informal de Líderes Econômicos",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Falha técnica afeta serviços de grandes bancos dos Estados Unidos",
       "link": "https://g1.globo.com/mundo/noticia/2026/11/16/grandes-bancos-dos-eua-relatam-interrupcoes-generalizadas-em-seus-servicos.ghtml",
       "date": "2026-11-16T20:48:14.000Z",
       "summary": "Caixa eletrônico mostra mensagem de falha nos EUA LM Otero / AP Photo/LM Otero Milhares de clientes relataram dificuldades para acessar contas bancárias pela internet nesta segunda-feira (16), após um problema técnico em uma instituição financeira provocar um ",
       "source": "g1",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "PF irá entregar na quarta novos relatórios sobre ministros do STF no celular de Vorcaro",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/pf-ira-entregar-na-quarta-novos-relatorios-sobre-ministros-do-stf-no-celular-de-vorcaro.shtml",
-      "date": "2026-11-16T20:47:00.000Z",
-      "summary": "O diretor-geral da Polícia Federal, Andrei Rodrigues, irá entregar na quarta-feira (18) ao ministro Edson Fachin novos relatórios com as menções a ministros do STF (Supremo Tribunal Federal) que constam no celular de Daniel Vorcaro, do Banco Master. Leia mais ",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Moretti criticou teto e defendeu expansão de gastos em 2022",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/moretti-criticou-teto-e-defendeu-expansao-de-gastos-em-2022.shtml",
-      "date": "2026-11-16T20:43:00.000Z",
-      "summary": "Principal responsável por um pacote de ajuste fiscal que prevê maior contenção de despesas, o ministro do Planejamento, Bruno Moretti, criticou o teto fiscal e defendeu expandir despesas do governo, durante o governo de Jair Bolsonaro. Leia mais (11/16/2026 - ",
-      "source": "Folha",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -375,51 +420,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Esteves: Sinalização de ajuste fiscal evitaria dias como o de hoje, de ansiedade e boataria",
-      "link": "https://www.estadao.com.br/economia/esteves-sinalizacao-de-ajuste-fiscal-evitaria-dias-como-o-de-hoje-de-ansiedade-e-boataria/",
-      "date": "2026-11-16T19:56:44.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Comissão promove dois debates sobre redução da maioridade penal nesta semana",
-      "link": "https://www.camara.leg.br/noticias/1319616-comissao-promove-dois-debates-sobre-reducao-da-maioridade-penal-nesta-semana",
-      "date": "2026-11-16T19:49:00.000Z",
-      "summary": "",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Comissão aprova incentivo a empresas que desenvolvem tecnologias assistivas",
-      "link": "https://www.camara.leg.br/noticias/1319658-comissao-aprova-incentivo-a-empresas-que-desenvolvem-tecnologias-assistivas",
-      "date": "2026-11-16T19:46:00.000Z",
-      "summary": "O projeto segue em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Apple é investigada no Cade por barrar PIX por aproximação no iPhone; entenda a disputa",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/16/apple-e-investigada-no-cade-por-barrar-pix-por-aproximacao-no-iphone-entenda-a-disputa.ghtml",
-      "date": "2026-11-16T19:45:44.000Z",
-      "summary": "Polícia mapeou valor do prejuízo após analisar transferências via PIX do suspeito Bruno Peres/Agência Brasil/Arquivo O Conselho Administrativo de Defesa Econômica (Cade) investiga se a Apple impõe barreiras que dificultam a oferta do PIX por aproximação por ba",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Alemanha se despede da Adidas em último jogo após 77 anos de parceria; Nike assume em 2027",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/16/nike-adidas-alemanha-futebol-parceria.ghtml",
-      "date": "2026-11-16T19:33:20.000Z",
-      "summary": "Nike em Pequim, China REUTERS/Tingshu Wang Após 77 anos e quatro títulos mundiais, Federação Alemã de Futebol (DFB) troca fornecedora compatriota pela Nike como fornecedora de material esportivo. Acordo recorde contrasta com a crise vivida pela nova parceira. ",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Ajuste fiscal não compromete políticas sociais, garante Humberto Costa",
       "link": "https://www12.senado.leg.br/noticias/materias/2026/11/16/ajuste-fiscal-nao-compromete-politicas-sociais-garante-humberto-costa",
       "date": "2026-11-16T19:06:44.000Z",
@@ -460,15 +460,6 @@
       "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/11/16/eleitores-idosos-2-turno.ghtml",
       "date": "2026-11-16T16:26:00.000Z",
       "summary": "Dos cerca de 2,96 milhões de eleitores que votaram no segundo turno das eleições de 2026, mas não no primeiro, 1,3 milhão tinham 70 anos ou mais. Isso equivale a 44% do aumento, ou 4 em cada 10, segundo dados do Tribunal Superior Eleitoral (TSE). O peso dos id",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Receita apreende R$ 581 milhões em operação de combate ao tráfico de drogas e ao contrabando",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/16/receita-federal-apreende-r-581-milhoes-em-operacao-de-combate-ao-trafico-de-drogas-e-ao-contrabando.ghtml",
-      "date": "2026-11-16T14:24:50.000Z",
-      "summary": "A Receita Federal informou nesta segunda-feira (16) que foram apreendidos R$ 581 milhões em mercadorias ilegais e drogas por meio de uma mega operação. Mais de 500 servidores do Fisco e centenas de integrantes de órgãos parceiros participaram da operação Front",
       "source": "g1",
       "cat": "politica",
       "type": "imprensa"
