@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-16T05:28:53.055Z",
+  "updated": "2026-11-16T07:18:20.383Z",
   "market": {
     "ibov": {
       "price": 172457.77,
       "pct": 0.66,
-      "time": "2026-11-16T05:28:46.475Z",
+      "time": "2026-11-16T07:18:15.042Z",
       "history": [
         {
           "d": "2026-10-19",
@@ -137,6 +137,69 @@
   },
   "news": [
     {
+      "title": "Tesouraço se volta contra Lula e racha parte da esquerda",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/encaminhado-com-frequencia/2026/11/tesouraco-se-volta-contra-lula-e-racha-parte-da-esquerda.shtml",
+      "date": "2026-11-16T07:00:00.000Z",
+      "summary": "Durante a campanha, uma das mais importantes críticas do time de Lula a Flávio Bolsonaro era o chamado \"tesouraço\", que foi o nome dado à proposta do senador de corte de até R$ 200 bilhões no Orçamento. Leia mais (11/16/2026 - 04h00)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Empresas em recuperação judicial podem negociar ICMS em nova fase do Acordo Paulista",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/blogs/que-imposto-e-esse/2026/11/empresas-em-recuperacao-judicial-podem-negociar-icms-em-nova-fase-do-acordo-paulista.shtml",
+      "date": "2026-11-16T07:00:00.000Z",
+      "summary": "A PGE-SP (Procuradoria-Geral do Estado de São Paulo) lança nesta segunda-feira (16) dois novos editais do Acordo Paulista, para renegociação de débitos de ICMS inscritos na dívida ativa. Um deles é voltado especificamente para empresas em recuperação judicial,",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Ministério da Saúde abre processo seletivo com salários de até R$ 10,3 mil",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/ministerio-da-saude-abre-processo-seletivo-com-salarios-de-ate-r-103-mil.shtml",
+      "date": "2026-11-16T07:00:00.000Z",
+      "summary": "O Ministério da Saúde abriu processo seletivo simplificado para contratar 300 profissionais temporários, com salários de até R$ 10.354,29. A remuneração mais alta é destinada ao cargo de gestor, que exige formação superior em áreas como administração, direito ",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Empresas de energia na UE contratam especialistas em defesa após onda de ataques cibernéticos e com drones",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/infraestrutura/2026/11/empresas-de-energia-na-ue-contratam-especialistas-em-defesa-apos-onda-de-ataques-ciberneticos-e-com-drones.shtml",
+      "date": "2026-11-16T07:00:00.000Z",
+      "summary": "Empresas europeias de energia estão contratando especialistas em defesa e segurança para ajudar a proteger sua infraestrutura contra ataques cibernéticos e possíveis operações de sabotagem patrocinadas por Estados. Leia mais (11/16/2026 - 04h00)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Banco do Brasil quer negociar com BC regra mais flexível para contabilizar perdas com agro",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/banco-do-brasil-quer-negociar-com-bc-regra-mais-flexivel-para-contabilizar-perdas-com-agro.shtml",
+      "date": "2026-11-16T07:00:00.000Z",
+      "summary": "Diante da pior crise da sua história no agronegócio, o Banco do Brasil quer negociar com o Banco Central e com o Ministério da Fazenda uma flexibilização na regra que contabiliza as perdas esperadas com calotes nas operações de crédito do setor. Leia mais (11/",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Moretti diz que “esquerda sectária” atrasa combate a privilégios",
+      "link": "https://www.poder360.com.br/poder-economia/moretti-diz-que-esquerda-sectaria-atrasa-combate-a-privilegios/",
+      "date": "2026-11-16T06:47:23.000Z",
+      "summary": "Ministro defende ajuste fiscal de Lula e afirma que grupos poderosos tentam evitar medidas de contenção de gastos",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Concurso da Câmara dos Deputados encerra inscrições nesta semana; salários chegam a R$ 32 mil",
+      "link": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/11/16/concurso-da-camara-dos-deputados-encerra-inscricoes-nesta-semana-salarios-chegam-a-r-32-mil.ghtml",
+      "date": "2026-11-16T06:00:00.000Z",
+      "summary": "Câmara dos Deputados Divulgação / Câmara dos Deputados As inscrições para o novo concurso da Câmara dos Deputados terminam na próxima terça-feira (17). A seleção reúne 184 oportunidades entre vagas imediatas e cadastro de reserva para profissionais de diferent",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "Gabarito do Enem será divulgado na 4ª; resultado sai em janeiro de 2027",
       "link": "https://www.poder360.com.br/poder-educacao/gabarito-do-enem-sera-divulgado-na-4a-resultado-sai-em-janeiro-de-2027/",
       "date": "2026-11-16T03:12:27.000Z",
@@ -182,15 +245,6 @@
       "type": "imprensa"
     },
     {
-      "title": "O que encontro histórico de Trump, Putin e Xi marcado para esta semana pode significar para o mundo?",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/16/o-que-encontro-historico-de-trump-putin-e-xi-marcado-para-esta-semana-pode-significar-para-o-mundo.ghtml",
-      "date": "2026-11-16T03:00:00.000Z",
-      "summary": "Putin e Xi já se reuniram mais de 40 vezes; Trump e Putin, 7 vezes; e Trump e Xi, 3 vezes; mas os três nunca se encontraram juntos. Ira L. Black/Corbis/Mohd Rasfan/Kristina Solovyova/POOL/AFP/Getty Images via BBC Os preparativos para o primeiro encontro trilat",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Com ‘aval e incentivo’ de Bolsonaro, Michelle tira dez dias de descanso",
       "link": "https://www.estadao.com.br/politica/com-aval-e-incentivo-de-bolsonaro-michelle-tira-dez-dias-de-descanso/",
       "date": "2026-11-16T02:00:22.000Z",
@@ -227,51 +281,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Ações judiciais podem ampliar base de Lula e influenciar eleição para presidência do Senado",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/acoes-judiciais-podem-ampliar-base-de-lula-e-influenciar-eleicao-para-presidencia-do-senado.shtml",
-      "date": "2026-11-16T02:00:00.000Z",
-      "summary": "Três senadores eleitos pela direita podem perder as vagas devido a ações judiciais, em um movimento de bastidores que ampliaria a base do governo Lula (PT) e poderia influenciar a eleição para a presidência do Senado. As conversas foram relatadas à Folha por p",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Juros altos atrapalham até quem vive disso",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/marcos-de-vasconcellos/2026/11/juros-altos-atrapalham-ate-quem-vive-disso.shtml",
-      "date": "2026-11-16T02:00:00.000Z",
-      "summary": "Um amigo meu, jornalista e bastante interessado em economia, costuma acusar os bancos de serem entusiastas dos juros altos. O raciocínio é simples: se ganham dinheiro emprestando, quanto maiores as taxas, melhor para eles. Insisto que não é assim. E os balanço",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Adesão a consórcios cresce, e especialistas dizem que modalidade 'sem juros' pode sair cara",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/adesao-a-consorcios-cresce-e-especialistas-dizem-que-modalidade-sem-juros-pode-sair-cara.shtml",
-      "date": "2026-11-16T02:00:00.000Z",
-      "summary": "A manutenção dos juros em patamar elevado reacende uma dúvida que é comum entre quem pretende comprar a casa própria ou adquirir um veículo: é melhor recorrer a um financiamento ou a um consórcio? Leia mais (11/15/2026 - 23h00)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Crise da Nvidia afeta investidores brasileiros; entenda",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/crise-da-nvidia-afeta-investidores-brasileiros-entenda.shtml",
-      "date": "2026-11-16T02:00:00.000Z",
-      "summary": "A crise envolvendo Jensen Huang, cofundador e então CEO da Nvidia, provocou perdas nas ações da fabricante de chips e levantou questionamentos sobre os efeitos para investidores expostos à companhia, inclusive no Brasil. Leia mais (11/15/2026 - 23h00)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Esquerda sectária atrasa combate a privilégios ao criticar projeto de ajuste, diz Moretti",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/esquerda-sectaria-atrasa-combate-a-privilegios-ao-criticar-projeto-de-ajuste-diz-moretti.shtml",
-      "date": "2026-11-16T02:00:00.000Z",
-      "summary": "Após o projeto do governo para equilibrar as contas se tornar alvo de críticas do PT, no Congresso e nas redes, o ministro do Planejamento e Orçamento, Bruno Moretti, afirma à Folha que uma fração sectária da esquerda \"atrasa o combate aos privilégios\" ao adot",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Jensen Huang discute volta ao comando da Nvidia com aliados, diz “FT”",
       "link": "https://www.poder360.com.br/poder-tech/jensen-huang-discute-volta-ao-comando-da-nvidia-com-aliados-diz-ft/",
       "date": "2026-11-16T01:03:25.000Z",
@@ -285,15 +294,6 @@
       "link": "https://www.poder360.com.br/poder-videos/cleitinho-cobra-ex-prefeito-por-uso-de-emenda-em-show/",
       "date": "2026-11-16T00:49:51.000Z",
       "summary": "Senador diz que destinou R$ 500 mil para obras em Mirabela (MG), mas verba custeou apresentação de Claudia Leitte",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "José Maria é reeleito presidente de Cabo Verde no 1º turno",
-      "link": "https://www.poder360.com.br/poder-internacional/jose-maria-e-reeleito-presidente-de-cabo-verde-no-1o-turno/",
-      "date": "2026-11-16T00:43:48.000Z",
-      "summary": "Com voto facultativo, país registra abstenção de cerca de 67,9%",
       "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
