@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-16T17:38:16.950Z",
+  "updated": "2026-11-16T18:32:31.945Z",
   "market": {
     "ibov": {
-      "price": 169347.31,
-      "pct": -1.8,
-      "time": "2026-11-16T17:38:09.360Z",
+      "price": 168964.16,
+      "pct": -2.03,
+      "time": "2026-11-16T18:32:26.418Z",
       "history": [
         {
           "d": "2026-10-19",
@@ -84,7 +84,7 @@
         },
         {
           "d": "2026-11-16",
-          "c": 169357.2188
+          "c": 168898.9219
         }
       ]
     },
@@ -141,40 +141,148 @@
   },
   "news": [
     {
-      "title": "Tesouro paga R$ 445,3 milhões em dívidas de Estados e municípios",
-      "link": "https://www.poder360.com.br/poder-economia/tesouro-paga-r-4453-milhoes-em-dividas-de-estados-e-municipios/",
-      "date": "2026-11-16T17:36:33.000Z",
-      "summary": "União pagou empréstimos não quitados por governos locais; Rio de Janeiro concentrou 77% do valor em outubro",
+      "title": "Dólar sobe mais de 2% e vai a R$ 5,77; Bolsa cai 1,83%",
+      "link": "https://www.poder360.com.br/poder-economia/dolar-sobe-mais-de-2-e-vai-a-r-577-bolsa-cai-183/",
+      "date": "2026-11-16T18:15:55.000Z",
+      "summary": "Valor foi registrado às 14h40; investidores avaliam dificuldades na aprovação do pacote fiscal, retração da atividade econômica e balanços de empresas no exterior",
       "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
     },
     {
-      "title": "Governo projeta retirar imposto de exportação de petróleo em 2027",
-      "link": "https://www.poder360.com.br/poder-governo/governo-projeta-retirar-imposto-de-exportacao-de-petroleo-em-2027/",
-      "date": "2026-11-16T17:34:21.000Z",
-      "summary": "Ministro Bruno Moretti (Planejamento) afirma que taxa não tem caráter arrecadatório e não consta no Orçamento do ano que vem",
+      "title": "Comissão aprova regra específica para empréstimos concedidos por fundos de pensão",
+      "link": "https://www.camara.leg.br/noticias/1319688-comissao-aprova-regra-especifica-para-emprestimos-concedidos-por-fundos-de-pensao",
+      "date": "2026-11-16T18:14:00.000Z",
+      "summary": "O projeto segue em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Defesa de Vorcaro quer tirar Compliance Zero de Fachin e pede retorno dos autos para Mendonça",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/defesa-de-vorcaro-quer-tirar-compliance-zero-de-fachin-e-pede-retorno-dos-autos-para-mendonca/",
+      "date": "2026-11-16T18:12:57.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Nike substituirá Adidas como fornecedora de bolas da Uefa em 2027",
+      "link": "https://www.poder360.com.br/poder-sportsmkt/nike-substituira-adidas-como-fornecedora-de-bolas-da-uefa-em-2027/",
+      "date": "2026-11-16T18:05:22.000Z",
+      "summary": "Acordo será válido até 2031 e abrangerá Champions League, Liga Europa e Conference League",
       "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
     },
     {
-      "title": "Oposição fala em tentativa de golpe de Netanyahu em Israel",
-      "link": "https://www.poder360.com.br/poder-internacional/oposicao-fala-em-tentativa-de-golpe-de-netanyahu-em-israel/",
-      "date": "2026-11-16T17:31:05.000Z",
-      "summary": "Reportagens sobre prisão de integrantes de partido árabe provocam reação da oposição a Netanyahu",
-      "source": "Poder360",
+      "title": "Quaest: Centro cresce e atinge 39% do eleitorado brasileiro em 20 anos",
+      "link": "https://www.estadao.com.br/politica/quaest-centro-cresce-e-atinge-39-do-eleitorado-brasileiro-em-20-anos-nprp/",
+      "date": "2026-11-16T18:04:47.000Z",
+      "summary": "",
+      "source": "Estadão",
       "cat": "politica",
       "type": "imprensa"
     },
     {
-      "title": "Pix faz 6 anos com 154 mi de usuários e 1 bi de chaves; veja novidades aguardadas",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/pix-faz-6-anos-com-154-mi-de-usuarios-e-1-bi-de-chaves-veja-novidades-aguardadas.shtml",
-      "date": "2026-11-16T17:30:00.000Z",
-      "summary": "O Pix completa seis anos nesta segunda-feira (16), com 154 milhões de usuários pessoas físicas e 14 milhões de empresas ativas. Leia mais (11/16/2026 - 14h30)",
+      "title": "Futura vereadora de SP registra boletim de ocorrência por ameaças",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/futura-vereadora-de-sp-registra-boletim-de-ocorrencia-por-ameacas.shtml",
+      "date": "2026-11-16T18:02:00.000Z",
+      "summary": "A futura vereadora Carol Iara (PSOL), que assumirá uma vaga na Câmara Municipal de São Paulo em fevereiro, diz ter recebido por email ameaças de morte, violência sexual e tortura. Leia mais (11/16/2026 - 15h02)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Maior doador da eleição, Pedro Grendene deu R$ 5 mi a governador do PT e financiou o PL; veja ranking",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/maior-doador-da-eleicao-pedro-grendene-deu-r-5-mi-a-governador-do-pt-e-financiou-o-pl-veja-ranking.shtml",
+      "date": "2026-11-16T18:00:00.000Z",
+      "summary": "Com R$ 7,03 milhões repassados para candidatos e partidos de diferentes espectros políticos, o empresário Pedro Grendene Bartelle é o maior doador individual de campanhas nas eleições 2026. O ranking considera dados do TSE (Tribunal Superior Eleitoral) atualiz",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Invepar submete ao Cade transferência da Linha Amarela, no Rio, para fundos de pensão",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/infraestrutura/2026/11/invepar-submete-ao-cade-transferencia-da-linha-amarela-no-rio-para-fundos-de-pensao.shtml",
+      "date": "2026-11-16T17:58:00.000Z",
+      "summary": "A Invepar, empresa de infraestrutura que controla a concessionária do Aeroporto Internacional de Guarulhos, em São Paulo, submeteu ao Cade (Conselho Administrativo de Defesa Econômica) uma proposta de transferência de suas participações na Linha Amarela e na T",
       "source": "Folha",
       "cat": "economia",
       "type": "imprensa"
+    },
+    {
+      "title": "Justiça determina que Genial e BTG prestem informações sobre negócio entre os bancos",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/justica-pede-informacoes-sobre-negocio-entre-genial-e-btg.shtml",
+      "date": "2026-11-16T17:55:00.000Z",
+      "summary": "A Justiça do Mato Grosso deu 15 dias para que o Banco Genial e o BTG Pactual prestem informações sobre a operação de compra da área de administração fiduciária do Genial pelo banco de André Esteves, conforme decisão em processo sigiloso a que a coluna teve ace",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "PF prende suspeito em investigação ligada a fraudes em operações de crédito rural no DF e GO",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/agro/2026/11/pf-prende-suspeito-em-investigacao-ligada-a-fraudes-em-operacoes-de-credito-rural-no-df-e-go.shtml",
+      "date": "2026-11-16T17:54:00.000Z",
+      "summary": "A Polícia Federal prendeu uma pessoa e cumpriu três mandados de busca e apreensão na última quinta-feira (12) em uma investigação que apura possíveis fraudes em operações de crédito rural concedido pela Caixa Econômica Federal. A ação mirou financiamentos rura",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Sánchez e Lula conversam sobre a ameaça da extrema direita antes das eleições na Espanha",
+      "link": "https://g1.globo.com/mundo/noticia/2026/11/16/sanchez-e-lula-conversam-sobre-a-ameaca-da-extrema-direita-antes-das-eleicoes-na-espanha.ghtml",
+      "date": "2026-11-16T17:48:12.000Z",
+      "summary": "Lula e primeiro-ministro da Espanha, Pedro Sánchez. Ricardo Stuckert/PR O primeiro-ministro da Espanha, Pedro Sánchez, conversou com o presidente do Brasil, Luiz Inácio Lula da Silva, sobre a defesa da democracia diante da \"ameaça de extrema direita\", durante ",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Tarcísio defende “oposição responsável” da direita a Lula",
+      "link": "https://www.poder360.com.br/poder-eleicoes/tarcisio-defende-oposicao-responsavel-da-direita-a-lula/",
+      "date": "2026-11-16T17:45:20.000Z",
+      "summary": "Governador, considerado por setores da direita como possível candidato em 2030, fala em união do seu campo político em evento do agronegócio",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lindbergh critica Moretti e o compara a “vivandeira de quartel”",
+      "link": "https://www.poder360.com.br/poder-congresso/lindbergh-critica-moretti-e-o-compara-a-vivandeira-de-quartel/",
+      "date": "2026-11-16T17:43:36.000Z",
+      "summary": "Petista chamou de \"desonesta\" a entrevista do ministro do Planejamento em que ele cita \"esquerda sectária\"",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Crise na Nvidia expõe dilema da China na corrida pelos chips de IA",
+      "link": "https://www.dw.com/pt-br/crise-na-nvidia-expõe-dilema-da-china-na-corrida-pelos-chips-de-ia/a-79961956?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-16T17:36:00.000Z",
+      "summary": "Cerca de 600 mil chips H200, da fabricante americana, aguardam em Hong Kong autorização do governo chinês para importação. País asiático se depara com escolha entre comprar dos EUA ou apostar na própria indústria.",
+      "source": "DW Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Indústria farmacêutica corre para combater Alzheimer antes do surgimento dos sintomas",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/industria-farmaceutica-corre-para-combater-alzheimer-antes-do-surgimento-dos-sintomas.shtml",
+      "date": "2026-11-16T17:35:00.000Z",
+      "summary": "Carole Greig trabalhava como acompanhante de mulheres com demência quando começou a apresentar problemas de memória de curto prazo. Leia mais (11/16/2026 - 14h35)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Comissão aprova proibição de pesca subaquática e noturna predatória na bacia do rio Paraná",
+      "link": "https://www.camara.leg.br/noticias/1319630-comissao-aprova-proibicao-de-pesca-subaquatica-e-noturna-predatoria-na-bacia-do-rio-parana",
+      "date": "2026-11-16T17:30:00.000Z",
+      "summary": "Proposta segue em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
     },
     {
       "title": "Centrais descartam ir a ato contra 'plano Moretti' e priorizam protesto contra juros",
@@ -195,47 +303,11 @@
       "type": "oficial"
     },
     {
-      "title": "Morgan Stanley vê Brasil como pior mercado da América Latina em 2027",
-      "link": "https://www.poder360.com.br/poder-economia/morgan-stanley-ve-brasil-como-pior-mercado-da-america-latina-em-2027/",
-      "date": "2026-11-16T17:11:15.000Z",
-      "summary": "Banco rebaixou recomendação para ações brasileiras e prevê Ibovespa a 160 mil pontos no próximo ano",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Renault demitirá 1.650 pessoas na França e deve cortar vagas administrativas, diz agência",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/renault-demitira-1650-pessoas-na-franca-e-deve-cortar-vagas-administrativas-diz-agencia.shtml",
-      "date": "2026-11-16T17:09:00.000Z",
-      "summary": "A Renault planeja contratar 1.650 operários em suas fábricas na França até 2028 para atender à demanda por veículos elétricos, ao mesmo tempo em que eliminará até 1.000 postos de trabalho de escritório por meio de demissões em massa voluntárias, afirmaram duas",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Bets tiraram R$ 40,4 bilhões do orçamento das famílias em 2026, diz Comsefaz",
       "link": "https://g1.globo.com/economia/noticia/2026/11/16/bets-orcamento-das-familias-2026.ghtml",
       "date": "2026-11-16T17:02:30.000Z",
-      "summary": "Pessoa mexendo no celular Reprodução/ RBS TV O avanço das casas de apostas online segue consumindo uma parcela relevante dos recursos das famílias brasileiras. Nos primeiros sete meses de 2026, a saída líquida de recursos das famílias associada às bets foi est",
+      "summary": "Pessoa mexendo no celular Reprodução/ RBS TV O avanço das casas de apostas online segue consumindo uma parcela relevante dos recursos das famílias brasileiras. Nos primeiros sete meses de 2026, a saída líquida de recursos associada às bets foi estimada em R$ 4",
       "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Depois de liminar, entidade pede mais tempo para se adaptar às novas regras de VA e VR",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/depois-de-liminar-entidade-pede-mais-tempo-para-se-adaptar-as-novas-regras-de-va-e-vr.shtml",
-      "date": "2026-11-16T16:58:00.000Z",
-      "summary": "Após obter uma liminar judicial que suspendeu os efeitos das novas regras para os vouchers de vale-alimentação (VA) e vale-refeição (VR) na última segunda-feira (9), a ABBT (Associação Brasileira das Empresas de Benefícios ao Trabalhador) fala em \"conciliação\"",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Tarcísio critica 'plano Moretti' e defende possibilidade de adiar reforma tributária",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/tarcisio-critica-plano-moretti-e-defende-possibilidade-de-adiar-reforma-tributaria.shtml",
-      "date": "2026-11-16T16:52:00.000Z",
-      "summary": "O governador de São Paulo, Tarcísio de Freitas (Republicanos), criticou o pacote de ajuste fiscal aprovado pelo Senado Federal na última quinta-feira (12) e defendeu a possibilidade de adiar a reforma tributária durante sua participação no AgroForum SP 2026, e",
-      "source": "Folha",
       "cat": "economia",
       "type": "imprensa"
     },
@@ -255,15 +327,6 @@
       "summary": "",
       "source": "Estadão",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Andrei nega crise na PF e diz que não será intimidado",
-      "link": "https://www.estadao.com.br/politica/andrei-nega-crise-na-pf-e-diz-que-nao-sera-intimidado-nprp/",
-      "date": "2026-11-16T16:34:52.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -312,48 +375,12 @@
       "type": "oficial"
     },
     {
-      "title": "Comissão aprova regras mais rígidas para uso de medicamentos manipulados em UTIs neonatais",
-      "link": "https://www.camara.leg.br/noticias/1319633-comissao-aprova-regras-mais-rigidas-para-uso-de-medicamentos-manipulados-em-utis-neonatais",
-      "date": "2026-11-16T15:45:00.000Z",
-      "summary": "O projeto continua em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Fachin diz que reforma não pode ser 'contra o Judiciário' e defende diálogo entre Poderes",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/fachin-diz-que-reforma-nao-pode-ser-contra-o-judiciario-e-defende-dialogo-entre-poderes.shtml",
-      "date": "2026-11-16T15:38:00.000Z",
-      "summary": "O presidente do STF (Supremo Tribunal Federal), Edson Fachin, defendeu nesta segunda-feira (16) que qualquer reforma do Judiciário deve ser feita em diálogo com o próprio Poder, afirmando que eventuais alterações não podem ser contra o Judiciário. Leia mais (1",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Falha em foguete destrói 40 satélites da Amazon que seriam usados em serviço rival da Starlink",
       "link": "https://g1.globo.com/tecnologia/noticia/2026/11/16/falha-em-foguete-destroi-40-satelites-da-amazon-que-seriam-usados-em-servico-rival-da-starlink.ghtml",
       "date": "2026-11-16T15:31:47.000Z",
       "summary": "Uma carenagem de carga útil da United Launch Alliance (ULA), que transporta uma espaçonave de segurança nacional a ser acoplada a um foguete Vulcan para a missão USSF-87, é transportada por uma via no Centro Espacial Kennedy, em Cabo Canaveral, Flórida (EUA). ",
       "source": "g1",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Presidente do PT orienta senadores a pedir garantia de voto em negociações com centrão",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/presidente-do-pt-orienta-senadores-a-pedir-garantia-de-voto-em-negociacoes-com-centrao.shtml",
-      "date": "2026-11-16T15:30:00.000Z",
-      "summary": "O presidente do PT, Edinho Silva, reuniu na semana passada a bancada do PT no Senado e passou orientações sobre como devem ocorrer as negociações com o centrão em torno da participação dos partidos em ministérios do próximo mandato de Lula (PT). Leia mais (11/",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Diretor-geral da PF autoriza investigação contra escrivã que o criticou nas redes sociais",
-      "link": "https://www.estadao.com.br/politica/diretor-geral-da-pf-autoriza-investigacao-contra-escriva-que-o-criticou-nas-redes-sociais/",
-      "date": "2026-11-16T15:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -366,30 +393,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Comissão aprova inclusão da empatia e proteção animal na educação ambiental",
-      "link": "https://www.camara.leg.br/noticias/1319636-comissao-aprova-inclusao-da-empatia-e-protecao-animal-na-educacao-ambiental",
-      "date": "2026-11-16T14:58:00.000Z",
-      "summary": "Proposta segue em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
       "title": "Bernard Appy defende prorrogação de período de testes para implementação da reforma tributária",
       "link": "https://www.estadao.com.br/economia/bernard-appy-prorrogacao-periodo-testes-implementacao-reforma-tributaria/",
       "date": "2026-11-16T14:49:47.000Z",
       "summary": "",
       "source": "Estadão",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Tereza Cristina diz que pedidos de impeachment de ministros do STF precisam ser analisados",
-      "link": "https://www.estadao.com.br/politica/tereza-cristina-diz-que-pedidos-de-impeachment-de-ministros-do-stf-precisam-ser-analisados/",
-      "date": "2026-11-16T14:39:36.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -411,19 +420,19 @@
       "type": "imprensa"
     },
     {
-      "title": "Andrei diz ser alvo de ataques que não o intimidam e afirma não haver divisão na PF",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/16/andrei-diz-ser-alvo-de-ataques-que-nao-o-intimidam-e-afirma-nao-haver-divisao-na-pf.ghtml",
-      "date": "2026-11-16T14:08:14.000Z",
-      "summary": "Andrei Rodrigues nega crise e reforça autonomia da Polícia Federal O diretor-geral da Polícia Federal, Andrei Rodrigues, afirmou nesta segunda-feira (16) que tanto ele quanto a instituição têm sido alvo de ataques motivados, na avaliação dele, por interesses \"",
-      "source": "g1",
+      "title": "Tarcísio: Caberá à maioria de centro-direita no Congresso fazer uma oposição responsável a Lula",
+      "link": "https://www.estadao.com.br/politica/tarcisio-cabera-a-maioria-de-centro-direita-no-congresso-fazer-uma-oposicao-responsavel-a-lula/",
+      "date": "2026-11-16T14:17:11.000Z",
+      "summary": "",
+      "source": "Estadão",
       "cat": "politica",
       "type": "imprensa"
     },
     {
-      "title": "Corte de gastos, regulação da 6x1 e equipe do novo governo: o que espera Lula na volta de giro internacional",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/16/corte-de-gastos-regulacao-da-6x1-e-equipe-do-novo-governo-o-que-espera-lula-na-volta-de-giro-internacional.ghtml",
-      "date": "2026-11-16T13:58:25.000Z",
-      "summary": "Após um giro internacional, o presidente Luiz Inácio Lula da Silva (PT) retorna ao país nesta segunda-feira (16), na reta final dos trabalhos legislativos de 2026. Com poucas semanas até o recesso parlamentar, o governo tenta acelerar a votação de projetos con",
+      "title": "Andrei diz ser alvo de ataques que não o intimidam e afirma não haver divisão na PF",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/16/andrei-diz-ser-alvo-de-ataques-que-nao-o-intimidam-e-afirma-nao-haver-divisao-na-pf.ghtml",
+      "date": "2026-11-16T14:08:14.000Z",
+      "summary": "Andrei Rodrigues nega crise e reforça autonomia da Polícia Federal O diretor-geral da Polícia Federal, Andrei Rodrigues, afirmou nesta segunda-feira (16) que tanto ele quanto a instituição têm sido alvo de ataques motivados, na avaliação dele, por interesses \"",
       "source": "g1",
       "cat": "politica",
       "type": "imprensa"
@@ -483,12 +492,12 @@
       "type": "imprensa"
     },
     {
-      "title": "IA reacende debate sobre renda básica universal na Alemanha",
-      "link": "https://www.dw.com/pt-br/ia-reacende-debate-sobre-renda-básica-universal-na-alemanha/a-79953150?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-15T21:41:00.000Z",
-      "summary": "Mercado de trabalho deverá ser profundamente afetado, com até 800 mil empregos eliminados em 15 anos. Economistas se dividem sobre viabilidade financeira da proposta para amortecer ruptura.",
-      "source": "DW Brasil",
-      "cat": "internacional",
+      "title": "PSB vê João Campos e Alckmin como certos no Lula 4, mas enfrenta incertezas sobre Tebet e França",
+      "link": "https://www.estadao.com.br/politica/psb-ve-joao-campos-e-alckmin-como-certos-no-lula-4-mas-enfrenta-incertezas-sobre-tebet-e-franca/",
+      "date": "2026-11-16T08:30:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -496,6 +505,15 @@
       "link": "https://www.dw.com/pt-br/na-amazônia-leão-14-condena-exploração-irresponsável-da-floresta/a-79953690?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-15T21:41:00.000Z",
       "summary": "Pontífice citou produção de ouro e petróleo e pediu esclarecimento de assassinatos de lideranças indígenas. Viagem do chefe do Vaticano ao país adotivo causa alvoroço.",
+      "source": "DW Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "IA reacende debate sobre renda básica universal na Alemanha",
+      "link": "https://www.dw.com/pt-br/ia-reacende-debate-sobre-renda-básica-universal-na-alemanha/a-79953150?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-15T21:41:00.000Z",
+      "summary": "Mercado de trabalho deverá ser profundamente afetado, com até 800 mil empregos eliminados em 15 anos. Economistas se dividem sobre viabilidade financeira da proposta para amortecer ruptura.",
       "source": "DW Brasil",
       "cat": "internacional",
       "type": "imprensa"
@@ -528,28 +546,10 @@
       "type": "oficial"
     },
     {
-      "title": "‘Vou estar pronto para trabalhar com qualquer governo’, diz primeiro diplomata indígena do Itamaraty",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/vou-estar-pronto-para-trabalhar-com-qualquer-governo-diz-primeiro-diplomata-indigena-do-itamaraty/",
-      "date": "2026-11-15T08:30:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Protestos tomam conta de Portugal contra crise habitacional",
       "link": "https://www.dw.com/pt-br/protestos-tomam-conta-de-portugal-contra-crise-habitacional/a-79949804?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-14T19:46:00.000Z",
       "summary": "Dezenas de milhares saíram às ruas em mais de 30 cidades. País teve maior aumento da relação entre preços dos imóveis e renda média de toda a UE na última década.",
-      "source": "DW Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "O que está por trás na alta dos registros de violência nas escolas brasileiras?",
-      "link": "https://www.dw.com/pt-br/o-que-está-por-trás-na-alta-dos-registros-de-violência-nas-escolas-brasileiras/a-79942057?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-13T19:23:00.000Z",
-      "summary": "Número de registros de violência, conflitos e outras ocorrências nas escolas estaduais de São Paulo aumentou 73,83% em 2025. Indicadores nacionais mostram que problema também está presente em diferentes regiões do país.",
       "source": "DW Brasil",
       "cat": "internacional",
       "type": "imprensa"
