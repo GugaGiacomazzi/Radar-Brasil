@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-16T22:27:57.316Z",
+  "updated": "2026-11-16T23:24:39.740Z",
   "market": {
     "ibov": {
       "price": 169295.4,
       "pct": -1.83,
-      "time": "2026-11-16T22:27:43.988Z",
+      "time": "2026-11-16T23:24:32.665Z",
       "history": [
         {
           "d": "2026-10-19",
@@ -141,6 +141,87 @@
   },
   "news": [
     {
+      "title": "Falha em sistema da United Airlines atrasa voos nos EUA três dias após pane no país",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/falha-em-sistema-da-united-airlines-atrasa-voos-nos-eua-tres-dias-apos-pane-no-pais.shtml",
+      "date": "2026-11-16T23:20:00.000Z",
+      "summary": "A United Airlines informou nesta segunda-feira (16) que solucionou um problema tecnológico que afetou decolagens da empresa nos Estados Unidos. O caso surge poucos dias após uma falha no controle de tráfego aéreo em todo o país causar transtornos generalizados",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Eleitor idoso foi o que mais aumentou presença no 2º turno",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/eleitor-idoso-foi-o-que-mais-aumentou-presenca-no-2o-turno/",
+      "date": "2026-11-16T23:13:35.000Z",
+      "summary": "Comparecimento cresceu 2,96 milhões de um turno para o outro em 2026; metade da alta veio dos que têm 65 anos ou mais",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Alckmin minimiza reação negativa do mercado com pacote fiscal",
+      "link": "https://www.poder360.com.br/poder-economia/alckmin-minimiza-reacao-negativa-do-mercado-com-pacote-fiscal/",
+      "date": "2026-11-16T23:10:13.000Z",
+      "summary": "Presidente interino foi questionado sobre mudanças em discussão na Câmara que podem desidratar proposta do governo, cuja economia estimada é de até R$ 60 bilhões",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "PF deve entregar na quarta novos relatórios sobre citações a ministros do STF no celular de Vorcaro",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/pf-deve-entregar-na-quarta-novos-relatorios-sobre-citacoes-a-ministros-do-stf-no-celular-de-vorcaro/",
+      "date": "2026-11-16T23:05:53.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Economia circular movimenta até R$ 90,7 bilhões no Brasil, diz CNI",
+      "link": "https://www.poder360.com.br/poder-sustentavel/economia-circular-movimenta-ate-r-907-bilhoes-no-brasil-diz-cni/",
+      "date": "2026-11-16T22:58:09.000Z",
+      "summary": "Estudo estima que setor represente até 10,3% do mercado de finanças sustentáveis do país",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Esteves, do BTG, diz que mercado mostra urgência do ajuste fiscal e Lula entregará o que se espera",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/esteves-do-btg-diz-que-mercado-mostra-urgencia-do-ajuste-fiscal-e-lula-entregara-o-que-se-espera.shtml",
+      "date": "2026-11-16T22:55:00.000Z",
+      "summary": "O presidente do conselho de administração e sócio do BTG Pactual, André Esteves, disse que o mercado financeiro sinalizou nesta segunda-feira (16) que o país demanda urgência no equilíbrio das contas públicas. Leia mais (11/16/2026 - 19h55)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lula diz que Sanchez é o indicado para defender a democracia na Europa",
+      "link": "https://www.poder360.com.br/poder-internacional/lula-diz-que-sanchez-e-o-indicado-para-defender-a-democracia-na-europa/",
+      "date": "2026-11-16T22:35:17.000Z",
+      "summary": "Primeiro-ministro da Espanha, Pedro Sánchez busca a reeleição e o aumento do apoio no Parlamento; ambos líderes se encontraram nesta 2ª feira (16.nov), em Madri",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Integrantes de partidos devem apresentar alternativas a ajuste fiscal que divide esquerda: 'Se podem negociar com o mercado, podem negociar com a gente', diz Lindbergh",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/16/partidos-alternativas-criticas-ajuste-fiscal.ghtml",
+      "date": "2026-11-16T22:35:04.000Z",
+      "summary": "O ministro do Planejamento e Orçamento, Bruno Moretti Fabio Rodrigues Pozzebom/Agência Brasil Lideranças de PT, PCdoB e PSOL devem apresentar ao governo alternativas ao projeto de ajuste fiscal, que enfrenta resistência de setores da esquerda, segundo o deputa",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "STF encerra ação de juíza do Mato Grosso contra jornalistas que denunciaram dívida com empresário",
+      "link": "https://www.estadao.com.br/politica/stf-encerra-acao-de-juiza-do-mato-grosso-contra-jornalistas-que-denunciaram-divida-com-empresario-nprp/",
+      "date": "2026-11-16T22:31:55.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "Comissão aprova classificar Hamas e Hezbollah como grupos terroristas",
       "link": "https://www.camara.leg.br/noticias/1319821-comissao-aprova-classificar-hamas-e-hezbollah-como-grupos-terroristas",
       "date": "2026-11-16T22:19:00.000Z",
@@ -150,30 +231,12 @@
       "type": "oficial"
     },
     {
-      "title": "United Airlines enfrenta falha generalizada",
+      "title": "United Airlines enfrenta falha generalizada, três dias após apagão aéreo",
       "link": "https://g1.globo.com/mundo/noticia/2026/11/16/united-airlines-enfrenta-falha-generalizada.ghtml",
       "date": "2026-11-16T22:07:46.000Z",
-      "summary": "Imagem de um Boeing da United Airlines Konstantin von Wedelstaedt/Wikipedia Commons A United Airlines informou nesta segunda-feira (16) que está ciente de uma falha generalizada em seus sistemas. A companhia afirmou que equipes trabalham para restabelecer o fu",
+      "summary": "Aviões da United Airlines no Aeroporto Internacional George Bush, em Houston, em 14 de novembro, após o apagão aéreo. Ashley Landis/AP A United Airlines enfrentou nesta segunda-feira (16) uma falha generalizada em seus sistemas que provocou atrasos em alguns v",
       "source": "g1",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "PT reunirá bancada e ouvirá sugestões ao ajuste fiscal",
-      "link": "https://www.poder360.com.br/poder-congresso/pt-reunira-bancada-e-ouvira-sugestoes-ao-ajuste-fiscal/",
-      "date": "2026-11-16T22:00:41.000Z",
-      "summary": "Paulo Pimenta diz que ideias podem ser aprovadas sem a necessidade de o projeto retornar ao Senado; partido enfrenta resistência interna",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Santiago Peña é transferido para prisão militar no Paraguai",
-      "link": "https://www.poder360.com.br/poder-internacional/santiago-pena-e-transferido-para-prisao-militar-no-paraguai/",
-      "date": "2026-11-16T21:54:23.000Z",
-      "summary": "Ex-presidente é investigado por irregularidades no Ueno Bank; crise afetou quase 3 milhões de contas",
-      "source": "Poder360",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -231,15 +294,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Bolsa cai 1,83% e fecha em 169 mil pontos com temor fiscal",
-      "link": "https://www.poder360.com.br/poder-economia/bolsa-cai-183-e-fecha-em-169-mil-pontos-com-temor-fiscal/",
-      "date": "2026-11-16T21:27:36.000Z",
-      "summary": "Incertezas sobre ajuste das contas públicas e perdas de ações de commodities, varejo e bancos pressionaram o índice",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Deputado do PT e Prerrogativas pedem ao STF bloqueio de salário de Flávio e verbas como senador",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/deputado-do-pt-e-prerrogativas-pedem-ao-stf-bloqueio-de-salario-de-flavio-e-verbas-como-senador.shtml",
       "date": "2026-11-16T21:19:00.000Z",
@@ -265,51 +319,6 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Presidente do PT sugere gabinete para organizar Lula 4",
-      "link": "https://www.poder360.com.br/poder-partidos-politicos/presidente-do-pt-sugere-gabinete-para-organizar-lula-4/",
-      "date": "2026-11-16T21:12:31.000Z",
-      "summary": "Edinho Silva defende iniciativa para mapear promessas e prioridades de cada ministério; equipe seria menor que a de 2022",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Instituto vai à Justiça para suspender licença a gasoduto de 905 km que ligará SP ao DF",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/instituto-vai-a-justica-para-suspender-licenca-a-gasoduto-de-905-km-que-ligara-sp-ao-df.shtml",
-      "date": "2026-11-16T21:06:00.000Z",
-      "summary": "O Instituto Arayara protocolou ação civil pública na Justiça Federal pedindo a anulação da renovação da licença, concedida pelo Ibama (Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis), em dezembro do ano passado, ao empreendimento Gaso",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Regulação concorrencial das big techs pode reduzir custos em até R$ 50 bi ao ano, projeta Fazenda",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/regulacao-concorrencial-das-big-techs-pode-reduzir-custos-em-ate-r-50-bi-ao-ano-projeta-fazenda.shtml",
-      "date": "2026-11-16T21:03:00.000Z",
-      "summary": "O Ministério da Fazenda estima que o projeto de lei que cria regras concorrenciais para plataformas digitais e big techs possa ter um impacto de entre R$ 15,3 bilhões e R$ 50,6 bilhões em redução de preços para diversos setores econômicos do Brasil, caso aprov",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Advocacia não precisa de porta-voz",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/advocacia-nao-precisa-de-porta-voz/",
-      "date": "2026-11-16T21:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "O inquérito das fake news acabou, mas o império de Alexandre de Moraes continua",
-      "link": "https://www.estadao.com.br/politica/carlos-andreazza/o-inquerito-das-fake-news-acabou-mas-o-imperio-de-alexandre-de-moraes-continua/",
-      "date": "2026-11-16T21:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
     },
     {
       "title": "Defesa de Vorcaro faz novo pedido para que Gilmar decida sobre relatoria do caso Master",
@@ -420,6 +429,15 @@
       "type": "imprensa"
     },
     {
+      "title": "CNJ julga desembargador que pediu prisão de Moraes em acampamento golpista",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/cnj-julga-desembargador-que-pediu-prisao-de-moraes-em-acampamento-golpista/",
+      "date": "2026-11-16T19:07:22.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "Ajuste fiscal não compromete políticas sociais, garante Humberto Costa",
       "link": "https://www12.senado.leg.br/noticias/materias/2026/11/16/ajuste-fiscal-nao-compromete-politicas-sociais-garante-humberto-costa",
       "date": "2026-11-16T19:06:44.000Z",
@@ -453,15 +471,6 @@
       "summary": "Cerca de 600 mil chips H200, da fabricante americana, aguardam em Hong Kong autorização do governo chinês para importação. País asiático se depara com escolha entre comprar dos EUA ou apostar na própria indústria.",
       "source": "DW Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "4 em cada 10 eleitores que votaram no 2º turno e não votaram no 1° eram idosos",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/11/16/eleitores-idosos-2-turno.ghtml",
-      "date": "2026-11-16T16:26:00.000Z",
-      "summary": "Dos cerca de 2,96 milhões de eleitores que votaram no segundo turno das eleições de 2026, mas não no primeiro, 1,3 milhão tinham 70 anos ou mais. Isso equivale a 44% do aumento, ou 4 em cada 10, segundo dados do Tribunal Superior Eleitoral (TSE). O peso dos id",
-      "source": "g1",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -571,15 +580,6 @@
       "source": "ONU News",
       "cat": "internacional",
       "type": "oficial"
-    },
-    {
-      "title": "‘Vou estar pronto para trabalhar com qualquer governo’, diz primeiro diplomata indígena do Itamaraty",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/vou-estar-pronto-para-trabalhar-com-qualquer-governo-diz-primeiro-diplomata-indigena-do-itamaraty/",
-      "date": "2026-11-15T08:30:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
     },
     {
       "title": "Novo chefe do WFP pede fim dos combates no Sudão após visita ao país",
