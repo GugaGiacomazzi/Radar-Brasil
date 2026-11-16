@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-16T16:19:06.744Z",
+  "updated": "2026-11-16T17:38:16.950Z",
   "market": {
     "ibov": {
-      "price": 169820.66,
-      "pct": -1.53,
-      "time": "2026-11-16T16:19:02.412Z",
+      "price": 169347.31,
+      "pct": -1.8,
+      "time": "2026-11-16T17:38:09.360Z",
       "history": [
         {
           "d": "2026-10-19",
@@ -84,7 +84,7 @@
         },
         {
           "d": "2026-11-16",
-          "c": 169820.6563
+          "c": 169357.2188
         }
       ]
     },
@@ -141,6 +141,159 @@
   },
   "news": [
     {
+      "title": "Tesouro paga R$ 445,3 milhões em dívidas de Estados e municípios",
+      "link": "https://www.poder360.com.br/poder-economia/tesouro-paga-r-4453-milhoes-em-dividas-de-estados-e-municipios/",
+      "date": "2026-11-16T17:36:33.000Z",
+      "summary": "União pagou empréstimos não quitados por governos locais; Rio de Janeiro concentrou 77% do valor em outubro",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Governo projeta retirar imposto de exportação de petróleo em 2027",
+      "link": "https://www.poder360.com.br/poder-governo/governo-projeta-retirar-imposto-de-exportacao-de-petroleo-em-2027/",
+      "date": "2026-11-16T17:34:21.000Z",
+      "summary": "Ministro Bruno Moretti (Planejamento) afirma que taxa não tem caráter arrecadatório e não consta no Orçamento do ano que vem",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Oposição fala em tentativa de golpe de Netanyahu em Israel",
+      "link": "https://www.poder360.com.br/poder-internacional/oposicao-fala-em-tentativa-de-golpe-de-netanyahu-em-israel/",
+      "date": "2026-11-16T17:31:05.000Z",
+      "summary": "Reportagens sobre prisão de integrantes de partido árabe provocam reação da oposição a Netanyahu",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Pix faz 6 anos com 154 mi de usuários e 1 bi de chaves; veja novidades aguardadas",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/pix-faz-6-anos-com-154-mi-de-usuarios-e-1-bi-de-chaves-veja-novidades-aguardadas.shtml",
+      "date": "2026-11-16T17:30:00.000Z",
+      "summary": "O Pix completa seis anos nesta segunda-feira (16), com 154 milhões de usuários pessoas físicas e 14 milhões de empresas ativas. Leia mais (11/16/2026 - 14h30)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Centrais descartam ir a ato contra 'plano Moretti' e priorizam protesto contra juros",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/centrais-descartam-ir-a-ato-contra-plano-moretti-e-priorizam-protesto-contra-juros.shtml",
+      "date": "2026-11-16T17:27:00.000Z",
+      "summary": "As centrais sindicais decidiram não participar de uma manifestação marcada para esta terça-feira (17) no Rio de Janeiro contra o \"plano Moretti\", que prevê contingenciamento de despesas do governo. Leia mais (11/16/2026 - 14h27)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Dia da Consciência Negra: participantes de sessão especial apontam desafios",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/16/dia-da-consciencia-negra-participantes-de-sessao-especial-apontam-desafios",
+      "date": "2026-11-16T17:25:18.000Z",
+      "summary": "O Senado celebrou em sessão especial o Dia Nacional de Zumbi e da Consciência Negra. Os representantes de movimentos sociais e especialistas convidados apontaram os avanços e desafios em efetivar seus direitos no cotidiano, além de homenagearem o Zumbi dos Pal",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Morgan Stanley vê Brasil como pior mercado da América Latina em 2027",
+      "link": "https://www.poder360.com.br/poder-economia/morgan-stanley-ve-brasil-como-pior-mercado-da-america-latina-em-2027/",
+      "date": "2026-11-16T17:11:15.000Z",
+      "summary": "Banco rebaixou recomendação para ações brasileiras e prevê Ibovespa a 160 mil pontos no próximo ano",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Renault demitirá 1.650 pessoas na França e deve cortar vagas administrativas, diz agência",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/renault-demitira-1650-pessoas-na-franca-e-deve-cortar-vagas-administrativas-diz-agencia.shtml",
+      "date": "2026-11-16T17:09:00.000Z",
+      "summary": "A Renault planeja contratar 1.650 operários em suas fábricas na França até 2028 para atender à demanda por veículos elétricos, ao mesmo tempo em que eliminará até 1.000 postos de trabalho de escritório por meio de demissões em massa voluntárias, afirmaram duas",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Bets tiraram R$ 40,4 bilhões do orçamento das famílias em 2026, diz Comsefaz",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/16/bets-orcamento-das-familias-2026.ghtml",
+      "date": "2026-11-16T17:02:30.000Z",
+      "summary": "Pessoa mexendo no celular Reprodução/ RBS TV O avanço das casas de apostas online segue consumindo uma parcela relevante dos recursos das famílias brasileiras. Nos primeiros sete meses de 2026, a saída líquida de recursos das famílias associada às bets foi est",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Depois de liminar, entidade pede mais tempo para se adaptar às novas regras de VA e VR",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/depois-de-liminar-entidade-pede-mais-tempo-para-se-adaptar-as-novas-regras-de-va-e-vr.shtml",
+      "date": "2026-11-16T16:58:00.000Z",
+      "summary": "Após obter uma liminar judicial que suspendeu os efeitos das novas regras para os vouchers de vale-alimentação (VA) e vale-refeição (VR) na última segunda-feira (9), a ABBT (Associação Brasileira das Empresas de Benefícios ao Trabalhador) fala em \"conciliação\"",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Tarcísio critica 'plano Moretti' e defende possibilidade de adiar reforma tributária",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/tarcisio-critica-plano-moretti-e-defende-possibilidade-de-adiar-reforma-tributaria.shtml",
+      "date": "2026-11-16T16:52:00.000Z",
+      "summary": "O governador de São Paulo, Tarcísio de Freitas (Republicanos), criticou o pacote de ajuste fiscal aprovado pelo Senado Federal na última quinta-feira (12) e defendeu a possibilidade de adiar a reforma tributária durante sua participação no AgroForum SP 2026, e",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Apoio de Lula não garante reeleição de Motta e Alcolumbre",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/dora-kramer/2026/11/apoio-de-lula-nao-garante-reeleicao-de-motta-e-alcolumbre.shtml",
+      "date": "2026-11-16T16:51:00.000Z",
+      "summary": "Se na vida o senso comum consagra a escrita de que a primeira impressão é a que fica, na política isso raramente se confirma. Leia mais (11/16/2026 - 13h51)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Ajuste fiscal ‘pela metade’ é o principal risco para 2027, diz Zeina Latif",
+      "link": "https://www.estadao.com.br/economia/ajuste-fiscal-pela-metade-principal-risco-2027-zeina-latif/",
+      "date": "2026-11-16T16:44:38.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Andrei nega crise na PF e diz que não será intimidado",
+      "link": "https://www.estadao.com.br/politica/andrei-nega-crise-na-pf-e-diz-que-nao-sera-intimidado-nprp/",
+      "date": "2026-11-16T16:34:52.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Comissão aprova incentivos fiscais para empresas que investem em tecnologia assistiva",
+      "link": "https://www.camara.leg.br/noticias/1319658-comissao-aprova-incentivos-fiscais-para-empresas-que-investem-em-tecnologia-assistiva",
+      "date": "2026-11-16T16:34:00.000Z",
+      "summary": "O projeto segue em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "4 em cada 10 eleitores que votaram no 2º turno e não votaram no 1° eram idosos",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/11/16/eleitores-idosos-2-turno.ghtml",
+      "date": "2026-11-16T16:26:00.000Z",
+      "summary": "Dos cerca de 2,96 milhões de eleitores que votaram no segundo turno das eleições de 2026, mas não no primeiro, 1,3 milhão tinham 70 anos ou mais. Isso equivale a 44% do aumento, ou 4 em cada 10, segundo dados do Tribunal Superior Eleitoral (TSE). O peso dos id",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Comissão aprova projeto que obriga a União a custodiar presos federais",
+      "link": "https://www.camara.leg.br/noticias/1319627-comissao-aprova-projeto-que-obriga-a-uniao-a-custodiar-presos-federais",
+      "date": "2026-11-16T16:22:00.000Z",
+      "summary": "O projeto continua em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
       "title": "Comissão aprova proposta que amplia Política de Agricultura Urbana para fortalecer segurança alimentar",
       "link": "https://www.camara.leg.br/noticias/1319667-comissao-aprova-proposta-que-amplia-politica-de-agricultura-urbana-para-fortalecer-seguranca-alimentar",
       "date": "2026-11-16T16:15:00.000Z",
@@ -159,56 +312,11 @@
       "type": "oficial"
     },
     {
-      "title": "EUA incluem Brasil em lista de países com restrições para comprar chips para data centers",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/eua-incluem-brasil-em-lista-de-paises-com-restricoes-para-comprar-chips-para-data-centers.shtml",
-      "date": "2026-11-16T16:00:00.000Z",
-      "summary": "O governo Donald Trump incluiu o Brasil entre os países que terão restrições para importar chips fabricados nos EUA para data centers. Leia mais (11/16/2026 - 13h00)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Porto de Santos segue com sistemas parcialmente fora do ar dez dias após ataque hacker",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/infraestrutura/2026/11/porto-de-santos-segue-com-sistemas-parcialmente-fora-do-ar-dez-dias-apos-ataque-hacker.shtml",
-      "date": "2026-11-16T15:59:00.000Z",
-      "summary": "Dez dias após um ataque cibernético, o Porto de Santos, no litoral paulista, ainda não recuperou integralmente seus sistemas digitais. A APS (Autoridade Portuária de Santos) informou nesta segunda-feira (16) que os principais sistemas administrativos internos ",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Mercadante fala em ficar no BNDES, mas diz que está à disposição de Lula",
-      "link": "https://www.poder360.com.br/poder-economia/mercadante-fala-em-ficar-no-bndes-mas-diz-que-esta-a-disposicao-de-lula/",
-      "date": "2026-11-16T15:57:09.000Z",
-      "summary": "Presidente do BNDES afirma que não disputa cargo na Esplanada no Lula 4 e espera continuar à frente do banco",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Fim de subsídio ao diesel importado eleva custo e preço deve subir nas bombas",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/fim-de-subsidio-ao-diesel-importado-eleva-custo-e-preco-deve-subir-nas-bombas.shtml",
-      "date": "2026-11-16T15:54:00.000Z",
-      "summary": "O fim da subvenção ao diesel importado eleva o custo do combustível no país em R$ 0,42 por litro, segundo cálculo de uma grande empresa do setor. O repasse às bombas dependerá das políticas comerciais de cada distribuidora e posto de gasolina. Leia mais (11/16",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Comissão aprova regras mais rígidas para uso de medicamentos manipulados em UTIs neonatais",
       "link": "https://www.camara.leg.br/noticias/1319633-comissao-aprova-regras-mais-rigidas-para-uso-de-medicamentos-manipulados-em-utis-neonatais",
       "date": "2026-11-16T15:45:00.000Z",
       "summary": "O projeto continua em análise na Câmara dos Deputados",
       "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Debatedores defendem reforço de orçamento para terra ianomâmi",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/16/debatedores-defendem-reforco-de-orcamento-para-terra-ianomami",
-      "date": "2026-11-16T15:39:26.000Z",
-      "summary": "Debatedores defenderam o reforço do financiamento de políticas públicas para os povos indígenas ianomâmis. O tema foi discutido em audiência pública promovida nesta segunda-feira (16) pela Subcomissão Permanente dos Povos Indígenas Yanomami. O objetivo foi deb",
-      "source": "Agência Senado",
       "cat": "politica",
       "type": "oficial"
     },
@@ -222,29 +330,11 @@
       "type": "imprensa"
     },
     {
-      "title": "Trump diz que 'não se importaria' que Jensen Huang voltasse a dirigir a Nvidia",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/trump-diz-que-nao-se-importaria-que-jensen-huang-voltasse-a-dirigir-a-nvidia.shtml",
-      "date": "2026-11-16T15:32:00.000Z",
-      "summary": "O presidente dos Estados Unidos, Donald Trump, disse, nesta segunda-feira (16), que veria com bons olhos que Jensen Huang fosse restituído como diretor-executivo da gigante de chips de inteligência artificial Nvidia, depois que Huang se demitiu na semana passa",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Falha em foguete destrói 40 satélites da Amazon que seriam usados em serviço rival da Starlink",
       "link": "https://g1.globo.com/tecnologia/noticia/2026/11/16/falha-em-foguete-destroi-40-satelites-da-amazon-que-seriam-usados-em-servico-rival-da-starlink.ghtml",
       "date": "2026-11-16T15:31:47.000Z",
       "summary": "Uma carenagem de carga útil da United Launch Alliance (ULA), que transporta uma espaçonave de segurança nacional a ser acoplada a um foguete Vulcan para a missão USSF-87, é transportada por uma via no Centro Espacial Kennedy, em Cabo Canaveral, Flórida (EUA). ",
       "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Operação Fronteira, da Receita, apreende R$ 581 milhões em mercadorias e entorpecentes em 2026",
-      "link": "https://www.estadao.com.br/economia/operacao-fronteira-2026-mercadorias-entorpecentes/",
-      "date": "2026-11-16T15:30:25.000Z",
-      "summary": "",
-      "source": "Estadão",
       "cat": "economia",
       "type": "imprensa"
     },
@@ -258,62 +348,8 @@
       "type": "imprensa"
     },
     {
-      "title": "Indicado para chefiar agência de mineração do governo Lula 4 é apadrinhado por senador do PL",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/indicado-para-chefiar-agencia-de-mineracao-do-governo-lula-4-e-apadrinhado-por-senador-do-pl.shtml",
-      "date": "2026-11-16T15:30:00.000Z",
-      "summary": "O nome previsto para chefiar a ANM (Agência Nacional de Mineração) no próximo governo Luiz Inácio Lula da Silva (PT) tem como seu padrinho político um representante da oposição. Leia mais (11/16/2026 - 12h30)",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "UE vota fim de embargo às exportações de frango do Brasil",
-      "link": "https://www.poder360.com.br/poder-internacional/ue-vota-fim-de-embargo-as-exportacoes-de-frango-do-brasil/",
-      "date": "2026-11-16T15:23:17.000Z",
-      "summary": "Comissão Europeia analisa se produto, suspenso desde setembro, cumpre requisitos sanitários para retomar exportações",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "STF encerra ação de juíza contra jornalistas por reportagem sobre dívida com empresário",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/stf-encerra-acao-de-juiza-contra-jornalistas-por-reportagem-sobre-divida-com-empresario.shtml",
-      "date": "2026-11-16T15:20:00.000Z",
-      "summary": "A Segunda Turma do STF (Supremo Tribunal Federal) manteve a decisão que livrou dois jornalistas de pagar indenização de R$ 30 mil a uma juíza de Mato Grosso por reportagem sobre uma dívida da magistrada com um empresário que ela julgava. O processo foi encerra",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "PL das Big Techs deve ser votado na 3ª feira",
-      "link": "https://www.poder360.com.br/poder-congresso/pl-das-big-techs-deve-ser-votado-na-3a-feira/",
-      "date": "2026-11-16T15:13:52.000Z",
-      "summary": "Deputado Aliel Machado (PV-PR) conversa com bancadas para tentar garantir votos e aprovar a ampliação dos poderes do Cade",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Operação Fronteira apreende R$ 581 mi em mercadorias e drogas",
-      "link": "https://www.poder360.com.br/poder-economia/operacao-fronteira-apreende-r-581-mi-em-mercadorias-e-drogas/",
-      "date": "2026-11-16T15:08:01.000Z",
-      "summary": "Segundo a Receita Federal, o valor representa alta de 137% ante os R$ 244 mi interceptados pela iniciativa em 2025",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Diretor-geral da PF autoriza investigação contra escrivã que o criticou nas redes sociais",
       "link": "https://www.estadao.com.br/politica/diretor-geral-da-pf-autoriza-investigacao-contra-escriva-que-o-criticou-nas-redes-sociais/",
-      "date": "2026-11-16T15:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Petrobras, Ambev e Itaú são empresas de capital aberto que mais pagam impostos",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/petrobras-ambev-e-itau-sao-empresas-de-capital-aberto-que-mais-pagam-impostos/",
       "date": "2026-11-16T15:00:00.000Z",
       "summary": "",
       "source": "Estadão",
@@ -330,24 +366,6 @@
       "type": "imprensa"
     },
     {
-      "title": "As tarifas destroem o comércio global e matam a inovação, diz Nobel de Economia",
-      "link": "https://www.estadao.com.br/economia/entrevista-peter-howitt-nobel-de-economia-tarifas-comercio-global/",
-      "date": "2026-11-16T15:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "CDH acompanha caso de irmãos desaparecidos em Bacabal (MA)",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/16/cdh-acompanha-caso-de-irmaos-desaparecidos-em-bacabal-ma",
-      "date": "2026-11-16T14:59:46.000Z",
-      "summary": "Encerrou no domingo (15) a diligência da Comissão de Direitos Humanos (CDH) ao Maranhão para acompanhar as investigações sobre o desaparecimento dos irmãos Ágatha Isabelly, de 6 anos, e Allan Michael, de 4 anos, sumidos desde 4 de janeiro de 2026, na zona rura",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
       "title": "Comissão aprova inclusão da empatia e proteção animal na educação ambiental",
       "link": "https://www.camara.leg.br/noticias/1319636-comissao-aprova-inclusao-da-empatia-e-protecao-animal-na-educacao-ambiental",
       "date": "2026-11-16T14:58:00.000Z",
@@ -357,40 +375,31 @@
       "type": "oficial"
     },
     {
-      "title": "Comissão aprova instalação de sensores para prevenir deslizamentos e enchentes",
-      "link": "https://www.camara.leg.br/noticias/1319621-comissao-aprova-instalacao-de-sensores-para-prevenir-deslizamentos-e-enchentes",
-      "date": "2026-11-16T14:52:00.000Z",
-      "summary": "O projeto continua em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Plenário retoma votação de medidas de ajuste fiscal nesta terça",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/16/plenario-retoma-votacao-de-medidas-de-ajuste-fiscal-nesta-terca",
-      "date": "2026-11-16T14:36:40.000Z",
-      "summary": "O Plenário do Senado deve concluir nesta terça-feira (17) a votação do projeto de ajuste fiscal do governo (PLP 299/2026). A proposta permite ampliar o bloqueio de despesas e limitar, em determinadas condições, o crescimento dos gastos públicos acima da inflaç",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Comissão aprova projeto que inclui professores no programa habitacional Habite Seguro",
-      "link": "https://www.camara.leg.br/noticias/1319582-comissao-aprova-projeto-que-inclui-professores-no-programa-habitacional-habite-seguro",
-      "date": "2026-11-16T14:31:00.000Z",
-      "summary": "O projeto continua em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Paim: 40 anos de Congresso Nacional",
-      "link": "https://www12.senado.leg.br/noticias/infomaterias/2026/11/paim-40-anos-de-congresso-nacional",
-      "date": "2026-11-16T14:26:01.000Z",
+      "title": "Bernard Appy defende prorrogação de período de testes para implementação da reforma tributária",
+      "link": "https://www.estadao.com.br/economia/bernard-appy-prorrogacao-periodo-testes-implementacao-reforma-tributaria/",
+      "date": "2026-11-16T14:49:47.000Z",
       "summary": "",
-      "source": "Agência Senado",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Tereza Cristina diz que pedidos de impeachment de ministros do STF precisam ser analisados",
+      "link": "https://www.estadao.com.br/politica/tereza-cristina-diz-que-pedidos-de-impeachment-de-ministros-do-stf-precisam-ser-analisados/",
+      "date": "2026-11-16T14:39:36.000Z",
+      "summary": "",
+      "source": "Estadão",
       "cat": "politica",
-      "type": "oficial"
+      "type": "imprensa"
+    },
+    {
+      "title": "Ricardo Magro, da Refit, tem vida de luxo nos EUA apesar de dívida de R$ 50 bi em impostos no Brasil",
+      "link": "https://www.estadao.com.br/economia/ricardo-magro-refit-vida-de-luxo-eua-divida-50-bi-impostos-brasil-npr/",
+      "date": "2026-11-16T14:24:55.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
     },
     {
       "title": "Receita apreende R$ 581 milhões em operação de combate ao tráfico de drogas e ao contrabando",
@@ -398,24 +407,6 @@
       "date": "2026-11-16T14:24:50.000Z",
       "summary": "A Receita Federal informou nesta segunda-feira (16) que foram apreendidos R$ 581 milhões em mercadorias ilegais e drogas por meio de uma mega operação. Mais de 500 servidores do Fisco e centenas de integrantes de órgãos parceiros participaram da operação Front",
       "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Defesa pede que Mauro Cid termine de cumprir a pena no Rio",
-      "link": "https://www.estadao.com.br/politica/defesa-pede-que-mauro-cid-termine-de-cumprir-a-pena-no-rio-nprp/",
-      "date": "2026-11-16T14:23:05.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Tarcísio: Caberá à maioria de centro-direita no Congresso fazer uma oposição responsável a Lula",
-      "link": "https://www.estadao.com.br/politica/tarcisio-cabera-a-maioria-de-centro-direita-no-congresso-fazer-uma-oposicao-responsavel-a-lula/",
-      "date": "2026-11-16T14:17:11.000Z",
-      "summary": "",
-      "source": "Estadão",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -438,28 +429,10 @@
       "type": "imprensa"
     },
     {
-      "title": "Fachin diz que independência de juízes exige integridade e que não se pode fazer uma reforma 'contra o Judiciário'",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/16/fachin-diz-que-independencia-de-juizes-exige-integridade-e-que-nao-se-pode-fazer-uma-reforma-contra-o-judiciario.ghtml",
-      "date": "2026-11-16T13:27:57.000Z",
-      "summary": "O presidente do Supremo Tribunal Federal, Edson Fachin, defendeu nesta segunda-feira (16) a independência de juízes, mas afirmou que, para serem independentes, os magistrados precisam de \"integridade\". Em meio a discussões sobre mudanças no Poder Judiciário, e",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Feriado 20 de novembro: veja o que é comemorado na data e por que é feriado nacional",
       "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/16/feriado-20-de-novembro-veja-o-que-e-comemorado-na-data-e-por-que-e-feriado-nacional.ghtml",
       "date": "2026-11-16T13:22:33.000Z",
       "summary": "Previsão do tempo orla maceió sol nuvens ensolarado praia Reprodução/TV Asa Branca Alagoas O próximo feriado nacional acontece em 20 de novembro, quando é celebrado o Dia Nacional de Zumbi e da Consciência Negra. A data cairá em uma sexta-feira, formando três ",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Musk e nomes de peso da tecnologia defendem volta de Jensen Huang ao comando da Nvidia",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/16/musk-e-nomes-de-peso-da-tecnologia-defendem-volta-de-ex-ceo-da-nvidia.ghtml",
-      "date": "2026-11-16T13:18:54.000Z",
-      "summary": "O escândalo na Nvidia, com traições e espionagem, parece filme mas é vida real Dias depois de Jensen Huang deixar o comando da Nvidia, empresários, investidores e funcionários da fabricante de chips começaram a se mobilizar para tentar trazê-lo de volta. O exe",
       "source": "g1",
       "cat": "economia",
       "type": "imprensa"
@@ -510,15 +483,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Cresce pressão para adiamento do início efetivo da reforma tributária para 2028",
-      "link": "https://www.estadao.com.br/economia/cresce-pressao-para-adiantamento-do-inicio-efetivo-da-reforma-tributaria-para-2028/",
-      "date": "2026-11-16T08:30:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "IA reacende debate sobre renda básica universal na Alemanha",
       "link": "https://www.dw.com/pt-br/ia-reacende-debate-sobre-renda-básica-universal-na-alemanha/a-79953150?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-15T21:41:00.000Z",
@@ -562,6 +526,15 @@
       "source": "ONU News",
       "cat": "internacional",
       "type": "oficial"
+    },
+    {
+      "title": "‘Vou estar pronto para trabalhar com qualquer governo’, diz primeiro diplomata indígena do Itamaraty",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/vou-estar-pronto-para-trabalhar-com-qualquer-governo-diz-primeiro-diplomata-indigena-do-itamaraty/",
+      "date": "2026-11-15T08:30:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
     },
     {
       "title": "Protestos tomam conta de Portugal contra crise habitacional",
@@ -616,15 +589,6 @@
       "source": "Banco Central",
       "cat": "economia",
       "type": "oficial"
-    },
-    {
-      "title": "O que colocar na mochila como kit de emergência e por que você deve ter uma — preventivamente",
-      "link": "https://www.bbc.com/portuguese/articles/cm62p37dgxzzo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-11T20:53:39.000Z",
-      "summary": "Kits de emergência são importantes e devem ser inseridos na cultura do Brasil, que nunca focou em prevenção, defende especialista.",
-      "source": "BBC News Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
     },
     {
       "title": "​BC divulga IC-Br de outubro",
