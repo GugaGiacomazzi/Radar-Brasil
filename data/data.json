@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-16T20:31:21.718Z",
+  "updated": "2026-11-16T21:29:06.857Z",
   "market": {
     "ibov": {
-      "price": 168876.2,
-      "pct": -2.08,
-      "time": "2026-11-16T20:31:15.928Z",
+      "price": 169295.4,
+      "pct": -1.83,
+      "time": "2026-11-16T21:29:02.527Z",
       "history": [
         {
           "d": "2026-10-19",
@@ -84,7 +84,7 @@
         },
         {
           "d": "2026-11-16",
-          "c": 168876.2031
+          "c": 169295.4063
         }
       ]
     },
@@ -141,12 +141,192 @@
   },
   "news": [
     {
-      "title": "Dólar dispara e fecha a R$ 5,77, maior valor desde abril de 2025",
-      "link": "https://www.poder360.com.br/poder-economia/dolar-dispara-e-fecha-a-r-577-maior-valor-desde-abril-de-2025/",
-      "date": "2026-11-16T20:27:13.000Z",
-      "summary": "Resistência do governo em cortar despesas e possível indicação de Mercadante para a Fazenda pressionaram o real",
+      "title": "Bolsa cai 1,83% e fecha em 169 mil pontos com temor fiscal",
+      "link": "https://www.poder360.com.br/poder-economia/bolsa-cai-183-e-fecha-em-169-mil-pontos-com-temor-fiscal/",
+      "date": "2026-11-16T21:27:36.000Z",
+      "summary": "Incertezas sobre ajuste das contas públicas e perdas de ações de commodities, varejo e bancos pressionaram o índice",
       "source": "Poder360",
       "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Deputado do PT e Prerrogativas pedem ao STF bloqueio de salário de Flávio e verbas como senador",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/deputado-do-pt-e-prerrogativas-pedem-ao-stf-bloqueio-de-salario-de-flavio-e-verbas-como-senador.shtml",
+      "date": "2026-11-16T21:19:00.000Z",
+      "summary": "O deputado federal Alencar Santana (PT-SP) e coordenadores do grupo jurídico Prerrogativas, alinhado ao governo Lula, enviaram uma petição ao Supremo Tribunal Federal requerendo a prisão preventiva do senador Flávio Bolsonaro (PL-RJ) e o bloqueio de recursos q",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Líder do governo afirma que ajuste fiscal não retira recursos da saúde e da educação",
+      "link": "https://www.camara.leg.br/noticias/1319835-lider-do-governo-afirma-que-ajuste-fiscal-nao-retira-recursos-da-saude-e-da-educacao",
+      "date": "2026-11-16T21:15:00.000Z",
+      "summary": "Paulo Pimenta afirma que proposta abre espaço no Orçamento para novos compromissos e mantém subsídios aos combustíveis",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Presidente do PT sugere gabinete para organizar Lula 4",
+      "link": "https://www.poder360.com.br/poder-partidos-politicos/presidente-do-pt-sugere-gabinete-para-organizar-lula-4/",
+      "date": "2026-11-16T21:12:31.000Z",
+      "summary": "Edinho Silva defende iniciativa para mapear promessas e prioridades de cada ministério; equipe seria menor que a de 2022",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Instituto vai à Justiça para suspender licença a gasoduto de 905 km que ligará SP ao DF",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/instituto-vai-a-justica-para-suspender-licenca-a-gasoduto-de-905-km-que-ligara-sp-ao-df.shtml",
+      "date": "2026-11-16T21:06:00.000Z",
+      "summary": "O Instituto Arayara protocolou ação civil pública na Justiça Federal pedindo a anulação da renovação da licença, concedida pelo Ibama (Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis), em dezembro do ano passado, ao empreendimento Gaso",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Regulação concorrencial das big techs pode reduzir custos em até R$ 50 bi ao ano, projeta Fazenda",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/regulacao-concorrencial-das-big-techs-pode-reduzir-custos-em-ate-r-50-bi-ao-ano-projeta-fazenda.shtml",
+      "date": "2026-11-16T21:03:00.000Z",
+      "summary": "O Ministério da Fazenda estima que o projeto de lei que cria regras concorrenciais para plataformas digitais e big techs possa ter um impacto de entre R$ 15,3 bilhões e R$ 50,6 bilhões em redução de preços para diversos setores econômicos do Brasil, caso aprov",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lula ganha camisa da seleção de Cabo Verde em parada no país",
+      "link": "https://www.poder360.com.br/poder-governo/lula-ganha-camisa-da-selecao-de-cabo-verde-em-parada-no-pais/",
+      "date": "2026-11-16T21:02:46.000Z",
+      "summary": "Presidente se reuniu com José Maria Neves, reeleito no domingo (15.nov), durante retorno ao Brasil após agenda na Espanha",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Em ano de El Niño, país tem estoques baixos de produtos básicos",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/vaivem/2026/11/em-ano-de-el-nino-pais-tem-estoques-baixos-de-produtos-basicos.shtml",
+      "date": "2026-11-16T21:00:00.000Z",
+      "summary": "Em um período de El Niño intenso, o Brasil inicia o ano com baixos estoques de produtos básicos. Os dados da Conab (Companhia Nacional de Abastecimento) de sexta-feira (13) indicam que arroz e trigo são os mais preocupantes. Em ambos os casos, a produção nacio",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Você pode escolher os melhores investimentos e ainda ter uma carteira ruim?",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/blogs/de-grao-em-grao/2026/11/voce-pode-escolher-os-melhores-investimentos-e-ainda-ter-uma-carteira-ruim.shtml",
+      "date": "2026-11-16T21:00:00.000Z",
+      "summary": "Você pode escolher os melhores fundos, os títulos mais rentáveis e as ações que mais se valorizam e, ainda assim, construir uma carteira de investimentos ruim. Isso acontece porque existe uma decisão que pode ser mais importante do que escolher os produtos: de",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Advocacia não precisa de porta-voz",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/advocacia-nao-precisa-de-porta-voz/",
+      "date": "2026-11-16T21:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "O inquérito das fake news acabou, mas o império de Alexandre de Moraes continua",
+      "link": "https://www.estadao.com.br/politica/carlos-andreazza/o-inquerito-das-fake-news-acabou-mas-o-imperio-de-alexandre-de-moraes-continua/",
+      "date": "2026-11-16T21:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Defesa de Vorcaro faz novo pedido para que Gilmar decida sobre relatoria do caso Master",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/defesa-de-vorcaro-faz-novo-pedido-para-que-gilmar-decida-sobre-relatoria-do-caso-master.shtml",
+      "date": "2026-11-16T20:57:00.000Z",
+      "summary": "A defesa de Daniel Vorcaro questionou novamente, nesta segunda-feira (16), o ato do presidente do STF (Supremo Tribunal Federal), Edson Fachin, que o colocou temporariamente à frente do caso do Banco Master e afirmou que a medida viola o princípio do juiz natu",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Júlia Zanatta é intimada pelo ministro André Mendonça por chamar advogado de ‘petista roxo’",
+      "link": "https://www.estadao.com.br/politica/julia-zanatta-e-intimada-por-andre-mendonca-por-chamar-um-advogado-de-petista-roxo-nprp/",
+      "date": "2026-11-16T20:52:54.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Robôs dançam e servem café em Shenzhen antes da cúpula da APEC",
+      "link": "https://www.poder360.com.br/poder-tech/robos-dancam-e-servem-cafe-em-shenzhen-antes-da-cupula-da-apec/",
+      "date": "2026-11-16T20:51:11.000Z",
+      "summary": "Máquinas participam de preparativos para a Cúpula de CEOs da Apec de 2026 e a subsequente Reunião Informal de Líderes Econômicos",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Falha técnica afeta serviços de grandes bancos dos Estados Unidos",
+      "link": "https://g1.globo.com/mundo/noticia/2026/11/16/grandes-bancos-dos-eua-relatam-interrupcoes-generalizadas-em-seus-servicos.ghtml",
+      "date": "2026-11-16T20:48:14.000Z",
+      "summary": "Caixa eletrônico mostra mensagem de falha nos EUA LM Otero / AP Photo/LM Otero Milhares de clientes relataram dificuldades para acessar contas bancárias pela internet nesta segunda-feira (16), após um problema técnico em uma instituição financeira provocar um ",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "PF irá entregar na quarta novos relatórios sobre ministros do STF no celular de Vorcaro",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/pf-ira-entregar-na-quarta-novos-relatorios-sobre-ministros-do-stf-no-celular-de-vorcaro.shtml",
+      "date": "2026-11-16T20:47:00.000Z",
+      "summary": "O diretor-geral da Polícia Federal, Andrei Rodrigues, irá entregar na quarta-feira (18) ao ministro Edson Fachin novos relatórios com as menções a ministros do STF (Supremo Tribunal Federal) que constam no celular de Daniel Vorcaro, do Banco Master. Leia mais ",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Moretti criticou teto e defendeu expansão de gastos em 2022",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/moretti-criticou-teto-e-defendeu-expansao-de-gastos-em-2022.shtml",
+      "date": "2026-11-16T20:43:00.000Z",
+      "summary": "Principal responsável por um pacote de ajuste fiscal que prevê maior contenção de despesas, o ministro do Planejamento, Bruno Moretti, criticou o teto fiscal e defendeu expandir despesas do governo, durante o governo de Jair Bolsonaro. Leia mais (11/16/2026 - ",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Inteligência artificial pode transformar a fala na principal forma de usar a internet; entenda",
+      "link": "https://www.estadao.com.br/economia/negocios/inteligencia-artificial-pode-transformar-a-fala-na-principal-forma-de-usar-a-internet-entenda/",
+      "date": "2026-11-16T20:40:40.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Comissões e bancadas estaduais votam suas emendas ao Orçamento de 2027",
+      "link": "https://www.camara.leg.br/noticias/1319815-comissoes-e-bancadas-estaduais-votam-suas-emendas-ao-orcamento-de-2027",
+      "date": "2026-11-16T20:40:00.000Z",
+      "summary": "O prazo para a apresentação de emendas vai até o dia 23 deste mês",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Mentiras, espiões e sexo em escândalo da Nvidia escondem riscos e questões muito maiores; entenda",
+      "link": "https://www.estadao.com.br/economia/mentiras-espioes-e-sexo-em-escandalo-da-nvidia-escondem-riscos-e-questoes-muito-maiores-entenda-npr/",
+      "date": "2026-11-16T20:33:35.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Portobello, de revestimentos cerâmicos, renegocia R$ 1 bilhão de dívidas",
+      "link": "https://www.estadao.com.br/economia/negocios/portobello-de-revestimentos-ceramicos-renegocia-r-1-bilhao-de-dividas/",
+      "date": "2026-11-16T20:27:18.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -195,47 +375,11 @@
       "type": "imprensa"
     },
     {
-      "title": "O formato do ajuste fiscal importa",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/cecilia-machado/2026/11/o-formato-do-ajuste-fiscal-importa.shtml",
-      "date": "2026-11-16T20:00:00.000Z",
-      "summary": "A discussão sobre o ajuste fiscal necessário começa pelo diagnóstico. De um lado, o déficit primário é pequeno, em 0,5% do PIB (Produto Interno Bruto). De outro, o déficit nominal, que inclui os juros, alcança 9,5% do PIB. Leia mais (11/16/2026 - 17h00)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Esteves: Sinalização de ajuste fiscal evitaria dias como o de hoje, de ansiedade e boataria",
       "link": "https://www.estadao.com.br/economia/esteves-sinalizacao-de-ajuste-fiscal-evitaria-dias-como-o-de-hoje-de-ansiedade-e-boataria/",
       "date": "2026-11-16T19:56:44.000Z",
       "summary": "",
       "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "PL dos Mercados Digitais enfrenta resistência e big techs pressionam por adiamento",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/pl-dos-mercados-digitais-enfrenta-resistencia-e-big-techs-pressionam-por-adiamento.shtml",
-      "date": "2026-11-16T19:53:00.000Z",
-      "summary": "O PL dos Mercados Digitais está na pauta do plenário da Câmara dos Deputados desta terça-feira (17), mas ainda não há acordo em torno do texto e vários partidos trabalham contra a proposta. Leia mais (11/16/2026 - 16h53)",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Conselho da Nvidia descarta retorno de Jensen Huang ao comando",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/conselho-da-nvidia-descarta-retorno-de-jensen-huang-ao-comando.shtml",
-      "date": "2026-11-16T19:53:00.000Z",
-      "summary": "O conselho de administração da Nvidia não considera reconduzir Jensen Huang ao cargo de presidente-executivo da empresa, segundo pessoas familiarizadas com o assunto, apesar de Donald Trump ter afirmado que estaria aberto à possibilidade após o executivo de te",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Ex- diretor de finanças do Itaú assume área de gestão de riscos da Avenue",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/ex-diretor-de-financas-do-itau-assume-area-de-gestao-de-riscos-da-avenue.shtml",
-      "date": "2026-11-16T19:52:00.000Z",
-      "summary": "O executivo Renato Carvalho acaba de assumir como diretor de Riscos e Compliance na Avenue, corretora do Itaú voltada a investimentos internacionais. Carvalho vai chefiar a área no Brasil e nos Estados Unidos. Leia mais (11/16/2026 - 16h52)",
-      "source": "Folha",
       "cat": "economia",
       "type": "imprensa"
     },
@@ -247,15 +391,6 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "TRE-CE forma maioria para manter condenação de Ciro Gomes por violência política de gênero",
-      "link": "https://www.estadao.com.br/politica/tre-ce-forma-maioria-para-manter-condenacao-de-ciro-gomes-por-violencia-politica-de-genero-nprp/",
-      "date": "2026-11-16T19:48:36.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
     },
     {
       "title": "Comissão aprova incentivo a empresas que desenvolvem tecnologias assistivas",
@@ -285,42 +420,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Prêmio Imprensa de Educação ao Investidor oferece R$ 15 mil para reportagens sobre finanças",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/blogs/novo-em-folha/2026/11/premio-imprensa-de-educacao-ao-investidor-oferece-r-15-mil-para-reportagens-sobre-financas.shtml",
-      "date": "2026-11-16T19:32:00.000Z",
-      "summary": "Estão abertas as inscrições para o 20º Prêmio Imprensa de Educação ao Investidor, organizado pelo Comitê Consultivo de Educação da CVM (Comissão de Valores Mobiliários). Podem concorrer reportagens e entrevistas publicadas entre 1º de janeiro e 31 de dezembro ",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Ibiúna, 1968: Tribunal de SP condena Estado a indenizar prisioneiro do congresso da UNE",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/ibiuna-1968-tribunal-de-sp-condena-estado-a-indenizar-prisioneiro-do-congresso-da-une/",
-      "date": "2026-11-16T19:27:03.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "CNJ manda Meta verificar se desembargadora que liberou bets fez postagens com ofensas a Lula",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/cnj-manda-meta-verificar-se-desembargadora-que-liberou-bets-fez-postagens-com-ofensas-a-lula/",
-      "date": "2026-11-16T19:24:53.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "BC projeta Pix por aproximação offline e integração internacional",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/bc-projeta-pix-por-aproximacao-offline-e-integracao-internacional.shtml",
-      "date": "2026-11-16T19:16:00.000Z",
-      "summary": "O Banco Central afirmou nesta segunda-feira (16) que projeta a expansão das funcionalidades do Pix com o desenvolvimento da ferramenta por aproximação em ambiente offline. Leia mais (11/16/2026 - 16h16)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Ajuste fiscal não compromete políticas sociais, garante Humberto Costa",
       "link": "https://www12.senado.leg.br/noticias/materias/2026/11/16/ajuste-fiscal-nao-compromete-politicas-sociais-garante-humberto-costa",
       "date": "2026-11-16T19:06:44.000Z",
@@ -330,92 +429,11 @@
       "type": "oficial"
     },
     {
-      "title": "Projeto estabelece regras para uso de anticoncepcionais hormonais em cadelas e gatas",
-      "link": "https://www.camara.leg.br/noticias/1313139-projeto-estabelece-regras-para-uso-de-anticoncepcionais-hormonais-em-cadelas-e-gatas",
-      "date": "2026-11-16T19:05:00.000Z",
-      "summary": "A Câmara dos Deputados analisa o assunto",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Senado vota nesta quarta mais prazo para escolas usarem verba para internet",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/16/senado-vota-nesta-quarta-mais-prazo-para-escolas-usarem-verba-para-internet",
-      "date": "2026-11-16T18:56:14.000Z",
-      "summary": "Um dos itens pautados para a sessão do Plenário do Senado nesta quarta-feira (18) é o projeto de lei que amplia em dois anos o prazo limite para as escolas públicas usarem as verbas destinadas a garantir acesso à internet em estabelecimentos de ensino. O PL 5.",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Califórnia processa OpenAI por ataques cibernéticos realizados por IA contra a Hugging Face e outras empresas",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/16/opne-ai-ataque-california.ghtml",
-      "date": "2026-11-16T18:47:59.000Z",
-      "summary": "OpenAI. Reprodução/Fantástico A Procuradoria-Geral da Califórnia, nos Estados Unidos, processou a OpenAI nesta segunda-feira (16), acusando a empresa de desenvolver um produto perigoso sem procedimentos de segurança e mecanismos de fiscalização adequados. A aç",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Janja não volta com Lula e fica na Europa para compromissos com a ONU",
-      "link": "https://www.poder360.com.br/poder-gente/janja-nao-volta-com-lula-e-fica-na-europa-para-compromissos-com-a-onu/",
-      "date": "2026-11-16T18:37:21.000Z",
-      "summary": "Primeira-dama é embaixadora da FAO; ministros Wellington Dias e Fernanda Machiaveli também participam de agendas",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Fachin indica a colegas que deve dar prioridade para julgamento sobre escala 5x2",
       "link": "https://g1.globo.com/economia/blog/ana-flor/post/2026/11/16/fachin-indica-a-colegas-que-deve-dar-prioridade-para-julgamento-sobre-escala-5x2.ghtml",
       "date": "2026-11-16T18:36:43.000Z",
       "summary": "O presidente do STF, Edson Fachin, indicou a colegas que pretende pautar logo o julgamento da escala 5x2, que foi transferido para o plenário físico do STF na última semana a pedido do ministro Luiz Fux. O ponto central da discussão é o adiamento ou não das no",
       "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Dólar sobe mais de 2% e vai a R$ 5,77; Bolsa cai 1,83%",
-      "link": "https://www.poder360.com.br/poder-economia/dolar-sobe-mais-de-2-e-vai-a-r-577-bolsa-cai-183/",
-      "date": "2026-11-16T18:15:55.000Z",
-      "summary": "Valor foi registrado às 14h40; investidores avaliam dificuldades na aprovação do pacote fiscal, retração da atividade econômica e balanços de empresas no exterior",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Comissão aprova regra específica para empréstimos concedidos por fundos de pensão",
-      "link": "https://www.camara.leg.br/noticias/1319688-comissao-aprova-regra-especifica-para-emprestimos-concedidos-por-fundos-de-pensao",
-      "date": "2026-11-16T18:14:00.000Z",
-      "summary": "O projeto segue em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Nike substituirá Adidas como fornecedora de bolas da Uefa em 2027",
-      "link": "https://www.poder360.com.br/poder-sportsmkt/nike-substituira-adidas-como-fornecedora-de-bolas-da-uefa-em-2027/",
-      "date": "2026-11-16T18:05:22.000Z",
-      "summary": "Acordo será válido até 2031 e abrangerá Champions League, Liga Europa e Conference League",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Futura vereadora de SP registra boletim de ocorrência por ameaças",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/futura-vereadora-de-sp-registra-boletim-de-ocorrencia-por-ameacas.shtml",
-      "date": "2026-11-16T18:02:00.000Z",
-      "summary": "A futura vereadora Carol Iara (PSOL), que assumirá uma vaga na Câmara Municipal de São Paulo em fevereiro, diz ter recebido por email ameaças de morte, violência sexual e tortura. Leia mais (11/16/2026 - 15h02)",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Maior doador da eleição com R$ 7 mi, Grendene financiou o PL e governador do PT; veja ranking",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/maior-doador-da-eleicao-pedro-grendene-deu-r-5-mi-a-governador-do-pt-e-financiou-o-pl-veja-ranking.shtml",
-      "date": "2026-11-16T18:00:00.000Z",
-      "summary": "Com R$ 7,03 milhões repassados para candidatos e partidos de diferentes espectros políticos, o empresário Pedro Grendene Bartelle é o maior doador individual de campanhas nas eleições 2026. O ranking considera dados do TSE (Tribunal Superior Eleitoral) atualiz",
-      "source": "Folha",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -438,30 +456,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Andrei nega crise na PF e diz que não será intimidado",
-      "link": "https://www.estadao.com.br/politica/andrei-nega-crise-na-pf-e-diz-que-nao-sera-intimidado-nprp/",
-      "date": "2026-11-16T16:34:52.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "4 em cada 10 eleitores que votaram no 2º turno e não votaram no 1° eram idosos",
       "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/11/16/eleitores-idosos-2-turno.ghtml",
       "date": "2026-11-16T16:26:00.000Z",
       "summary": "Dos cerca de 2,96 milhões de eleitores que votaram no segundo turno das eleições de 2026, mas não no primeiro, 1,3 milhão tinham 70 anos ou mais. Isso equivale a 44% do aumento, ou 4 em cada 10, segundo dados do Tribunal Superior Eleitoral (TSE). O peso dos id",
       "source": "g1",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Ricardo Magro, da Refit, tem vida de luxo nos EUA apesar de dívida de R$ 50 bi em impostos no Brasil",
-      "link": "https://www.estadao.com.br/economia/ricardo-magro-refit-vida-de-luxo-eua-divida-50-bi-impostos-brasil-npr/",
-      "date": "2026-11-16T14:24:55.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -516,15 +516,6 @@
       "summary": "Perspectivas melhores não alteram problemas estruturais, e economistas alertam contra atraso nas reformas, déficits na produtividade e alto endividamento público.",
       "source": "DW Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Rooftop a 110 metros e piscina de 100 m: novo residencial com assinatura Lindenberg do eixo Berrine",
-      "link": "https://www.estadao.com.br/economia/negocios/rooftop-a-110-metros-e-piscina-de-100-m-novo-residencial-com-assinatura-lindenberg-do-eixo-berrine/",
-      "date": "2026-11-16T10:01:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -591,12 +582,12 @@
       "type": "oficial"
     },
     {
-      "title": "De caixas eletrônicos a prédios de luxo: fim de agências cria negócio para fundos e construtoras",
-      "link": "https://www.estadao.com.br/economia/negocios/de-caixas-eletronicos-a-predios-de-luxo-fim-de-agencias-cria-negocio-para-fundos-e-construtoras/",
-      "date": "2026-11-14T08:30:00.000Z",
+      "title": "‘Vou estar pronto para trabalhar com qualquer governo’, diz primeiro diplomata indígena do Itamaraty",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/vou-estar-pronto-para-trabalhar-com-qualquer-governo-diz-primeiro-diplomata-indigena-do-itamaraty/",
+      "date": "2026-11-15T08:30:00.000Z",
       "summary": "",
       "source": "Estadão",
-      "cat": "economia",
+      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -652,15 +643,6 @@
       "source": "Banco Central",
       "cat": "economia",
       "type": "oficial"
-    },
-    {
-      "title": "Quem vai cuidar dos idosos do Brasil? Por que envelhecimento acelerado é 'desafio do século'",
-      "link": "https://www.bbc.com/portuguese/articles/c60qkxv44pq8o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-11T08:31:43.000Z",
-      "summary": "Com menos nascimentos e uma população cada vez mais velha, o país terá de adaptar Previdência, saúde e mercado de trabalho a uma transformação demográfica sem precedentes.",
-      "source": "BBC News Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
     },
     {
       "title": "BC divulga Ata da 282ª reunião do Copom",
