@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-16T02:30:20.220Z",
+  "updated": "2026-11-16T05:28:53.055Z",
   "market": {
     "ibov": {
       "price": 172457.77,
       "pct": 0.66,
-      "time": "2026-11-16T02:30:12.381Z",
+      "time": "2026-11-16T05:28:46.475Z",
       "history": [
         {
           "d": "2026-10-19",
@@ -137,6 +137,60 @@
   },
   "news": [
     {
+      "title": "Gabarito do Enem será divulgado na 4ª; resultado sai em janeiro de 2027",
+      "link": "https://www.poder360.com.br/poder-educacao/gabarito-do-enem-sera-divulgado-na-4a-resultado-sai-em-janeiro-de-2027/",
+      "date": "2026-11-16T03:12:27.000Z",
+      "summary": "O 2º dia de aplicação da prova terminou “sem intercorrências graves”, segundo o ministro da Educação",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Anac registra 211 casos de indisciplina após regra que pune má conduta de passageiros",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/16/anac-registra-211-casos-de-indisciplina-apos-regra-que-pune-ma-conduta-de-passageiros.ghtml",
+      "date": "2026-11-16T03:00:00.000Z",
+      "summary": "A Agência Nacional de Aviação Civil (Anac) registrou 211 ocorrências envolvendo passageiros indisciplinados desde setembro, quando entraram em vigor as novas regras para punir esse tipo de comportamento no transporte aéreo. Desse total, 179 foram classificados",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lula se reúne nesta segunda com Sánchez na Espanha e encerra primeiro giro pelo exterior após reeleição",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/16/lula-se-reune-nesta-segunda-com-sanchez-na-espanha-e-encerra-primeiro-giro-pelo-exterior-apos-reeleicao.ghtml",
+      "date": "2026-11-16T03:00:00.000Z",
+      "summary": "Lula volta a defender o multilateralismo como caminho para a prosperidade e a paz O presidente Luiz Inácio Lula da Silva (PT) se reúne nesta segunda-feira (16) com o primeiro-ministro espanhol, Pedro Sánchez, em Madri, na Espanha. Lula realiza sua primeira via",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Bolsa Família 2026: pagamentos de novembro começam nesta segunda; veja calendário",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/16/bolsa-familia-2026-pagamentos-de-novembro-comecam-nesta-segunda-veja-calendario.ghtml",
+      "date": "2026-11-16T03:00:00.000Z",
+      "summary": "Governo antecipa pagamento do Bolsa Família A Caixa Econômica Federal inicia os pagamentos de novembro do Bolsa Família 2026 nesta segunda-feira (16). Os primeiros a receber serão os beneficiários com Número de Identificação Social (NIS) com final 1. 📱Baixe o",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Correios têm 16 trimestres de prejuízo; estatal atribui situação à maior concorrência e a atuar em todo o país",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/16/correios-tem-16-trimestres-de-prejuizo-estatal-atribui-situacao-a-maior-concorrencia-e-a-atuar-em-todo-o-pais.ghtml",
+      "date": "2026-11-16T03:00:00.000Z",
+      "summary": "Correios acumula trimestres de prejuízo Jornal Nacional/ Reprodução Com o prejuízo de R$ 7,5 bilhões registrado até o terceiro trimestre de 2026, os Correios chegaram a seu 16º trimestre seguido de contas no vermelho. O valor registrado até setembro de 2026 re",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "O que encontro histórico de Trump, Putin e Xi marcado para esta semana pode significar para o mundo?",
+      "link": "https://g1.globo.com/mundo/noticia/2026/11/16/o-que-encontro-historico-de-trump-putin-e-xi-marcado-para-esta-semana-pode-significar-para-o-mundo.ghtml",
+      "date": "2026-11-16T03:00:00.000Z",
+      "summary": "Putin e Xi já se reuniram mais de 40 vezes; Trump e Putin, 7 vezes; e Trump e Xi, 3 vezes; mas os três nunca se encontraram juntos. Ira L. Black/Corbis/Mohd Rasfan/Kristina Solovyova/POOL/AFP/Getty Images via BBC Os preparativos para o primeiro encontro trilat",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "Com ‘aval e incentivo’ de Bolsonaro, Michelle tira dez dias de descanso",
       "link": "https://www.estadao.com.br/politica/com-aval-e-incentivo-de-bolsonaro-michelle-tira-dez-dias-de-descanso/",
       "date": "2026-11-16T02:00:22.000Z",
@@ -254,15 +308,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Receita do turismo receptivo da China pode chegar a US$ 470 bi até 2040",
-      "link": "https://www.poder360.com.br/poder-china/receita-do-turismo-receptivo-da-china-pode-chegar-a-us-470-bi-ate-2040/",
-      "date": "2026-11-15T23:04:04.000Z",
-      "summary": "Participação do setor no PIB chinês deve mais que dobrar, impulsionada por acesso sem visto e voos internacionais",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Correios têm prejuízo líquido de R$ 1,9 bi no 3º trimestre; no ano, perdas chegam a R$ 7,5 bi",
       "link": "https://www.estadao.com.br/economia/correios-tem-prejuizo-liquido-de-r-19-bi-no-3-trimestre-no-ano-perdas-chegam-a-r-75-bi/",
       "date": "2026-11-15T22:00:18.000Z",
@@ -317,15 +362,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Correios registram prejuízo de R$ 7,5 bilhões até o terceiro trimestre",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/15/correios-registram-prejuizo-de-r-75-bilhoes-no-terceiro-trimestre.ghtml",
-      "date": "2026-11-15T19:45:29.000Z",
-      "summary": "Ponto de Coleta dos Correios em Belém Divulgação Os Correios tiveram prejuízo de R$ 7,5 bilhões até o terceiro trimestre de 2026, segundo o balanço contábil da estatal. O resultado representa um crescimento do rombo registrado no segundo trimestre, quando a es",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Eleição brasileira passa em testes que apontaram fraudes eleitorais na Rússia, Nigéria e Senegal",
       "link": "https://www.estadao.com.br/politica/eleicao-brasileira-passa-em-testes-que-apontaram-fraudes-eleitorais-na-russia-nigeria-e-senegal/",
       "date": "2026-11-15T18:31:00.000Z",
@@ -371,39 +407,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Canadá anuncia até R$ 2,2 bilhões para fundo de proteção de florestas liderado pelo Brasil",
-      "link": "https://g1.globo.com/meio-ambiente/noticia/2026/11/15/canada-fundo-de-protecao-de-florestas-brasil.ghtml",
-      "date": "2026-11-15T15:06:28.000Z",
-      "summary": "Primeiro-ministro do Canadá, Mark Carney, agradece após discurso no Parlamento europeu em Strasburgo, na França, em 17 de setembro de 2026. REUTERS/Yves Herman O Canadá se comprometeu a contribuir com até 560 milhões de dólares canadenses (US$ 392,5 milhões, o",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Mega-Sena 3086: prêmio acumula e vai a R$ 34 milhões; confira os números sorteados",
-      "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/15/mega-sena-3086-confira-os-numeros-sorteados.ghtml",
-      "date": "2026-11-15T14:05:58.000Z",
-      "summary": "Concurso 3.086 da Mega-Sena: veja os números sorteados O sorteio do concurso 3.086 da Mega-Sena foi realizado na manhã deste domingo (15) em São Paulo. O prêmio caso houvesse o acerto das seis dezenas era de R$ R$ 26.855.904,50. Contudo, ninguém acertou os sei",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "O que encontro histórico de Trump, Putin e Xi marcado para esta semana pode significar para o mundo?",
       "link": "https://www.bbc.com/portuguese/articles/cqx2ey1zxjymo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-15T13:53:18.000Z",
       "summary": "Preparativos para o primeiro encontro trilateral entre os líderes da China, da Rússia e dos EUA provocaram apreensão na Europa, onde alguns veem paralelos com a divisão do mundo em esferas de influência após a Segunda Guerra Mundial.",
       "source": "BBC News Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "15 de novembro é feriado de quê? Por que historiadores acreditam que a monarquia sofreu 'um golpe'",
-      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/15/15-de-novembro-e-feriado-de-que-por-que-historiadores-acreditam-que-a-monarquia-sofreu-um-golpe.ghtml",
-      "date": "2026-11-15T13:24:39.000Z",
-      "summary": "O quadro 'Proclamação da República', de Benedito Calixto, retrata a proclamação na imaginação do pintor. Centro Cultural São Paulo via BBC Meses após o Marechal Deodoro da Fonseca enganar a própria mulher, burlar as recomendações médicas e levantar da cama — o",
-      "source": "g1",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -416,21 +425,21 @@
       "type": "imprensa"
     },
     {
+      "title": "Dia Internacional contra Crime Organizado foca em golpes digitais",
+      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854926",
+      "date": "2026-11-15T12:00:00.000Z",
+      "summary": "Alertas de fraude subiram 54% desde 2024, impulsionados por IA e deepfakes; ONU alerta que fechar centrais isoladas não basta: é preciso rastrear o fluxo financeiro das redes criminosas.",
+      "source": "ONU News",
+      "cat": "internacional",
+      "type": "oficial"
+    },
+    {
       "title": "Mais de 100 mil vão às ruas em novos protestos na França, mais de 200 são presos",
       "link": "https://www.dw.com/pt-br/mais-de-100-mil-vão-às-ruas-em-novos-protestos-na-frança-mais-de-200-são-presos/a-79951672?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-15T10:36:00.000Z",
       "summary": "A polícia deteve 219 pessoas no quinto sábado seguido de manifestações contra o alto custo de vida e em defesa de uma melhor educação.",
       "source": "DW Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Lula diz que buscou novos parceiros em vez de 'ficar chorando' após tarifaço dos EUA",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/15/lula-diz-que-buscou-novos-parceiros-em-vez-de-ficar-chorando-apos-tarifaco-dos-eua.ghtml",
-      "date": "2026-11-15T06:58:47.000Z",
-      "summary": "Lula diz que buscou novos parceiros em vez de 'ficar chorando' após tarifaço dos EUA O presidente Luiz Inácio Lula da Silva (PT) afirmou neste domingo (15) que o Brasil buscou diversificar suas parcerias comerciais após o tarifaço imposto pelos Estados Unidos.",
-      "source": "g1",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -654,15 +663,6 @@
       "link": "https://news.un.org/feed/view/pt/story/2026/11/1854885",
       "date": "2026-11-10T12:00:00.000Z",
       "summary": "Agência da ONU diz que precisa de US$ 60 milhões para conter o surto nos países vizinhos; saída dos congoleses é causada por conflitos e outros fatores; doença já matou 5 mil pessoas, metade do número de casos notificados.",
-      "source": "ONU News",
-      "cat": "internacional",
-      "type": "oficial"
-    },
-    {
-      "title": "Unesco marca Dia Mundial da Ciência pela Paz e pelo Desenvolvimento",
-      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854881",
-      "date": "2026-11-10T12:00:00.000Z",
-      "summary": "Celebra faz apelo por conhecimento sem fronteiras e paz sem barreiras; agência da ONU sublinha que, em 2026, diplomacia científica lembra que cooperação é a maior ferramenta para sustentabilidade e paz global.",
       "source": "ONU News",
       "cat": "internacional",
       "type": "oficial"
