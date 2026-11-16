@@ -1,15 +1,11 @@
 {
-  "updated": "2026-11-15T23:45:31.256Z",
+  "updated": "2026-11-16T01:12:45.355Z",
   "market": {
     "ibov": {
       "price": 172457.77,
       "pct": 0.66,
-      "time": "2026-11-15T23:45:25.311Z",
+      "time": "2026-11-16T01:12:38.352Z",
       "history": [
-        {
-          "d": "2026-10-16",
-          "c": 205430
-        },
         {
           "d": "2026-10-19",
           "c": 205079
@@ -141,6 +137,60 @@
   },
   "news": [
     {
+      "title": "Jensen Huang discute volta ao comando da Nvidia com aliados, diz “FT”",
+      "link": "https://www.poder360.com.br/poder-tech/jensen-huang-discute-volta-ao-comando-da-nvidia-com-aliados-diz-ft/",
+      "date": "2026-11-16T01:03:25.000Z",
+      "summary": "Ex-presidente renunciou ao cargo depois que escândalo extraconjugal com suposta espiã chinesa veio a público",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Cleitinho cobra ex-prefeito por uso de emenda em show",
+      "link": "https://www.poder360.com.br/poder-videos/cleitinho-cobra-ex-prefeito-por-uso-de-emenda-em-show/",
+      "date": "2026-11-16T00:49:51.000Z",
+      "summary": "Senador diz que destinou R$ 500 mil para obras em Mirabela (MG), mas verba custeou apresentação de Claudia Leitte",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "José Maria é reeleito presidente de Cabo Verde no 1º turno",
+      "link": "https://www.poder360.com.br/poder-internacional/jose-maria-e-reeleito-presidente-de-cabo-verde-no-1o-turno/",
+      "date": "2026-11-16T00:43:48.000Z",
+      "summary": "Com voto facultativo, país registra abstenção de cerca de 67,9%",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Rogério Correia e Ana Elisa defendem comissão externa para tratar da dívida de MG",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/rogerio-correia-e-ana-elisa-defendem-comissao-externa-para-tratar-da-divida-de-mg.shtml",
+      "date": "2026-11-16T00:00:00.000Z",
+      "summary": "O deputado federal Rogério Correia (PT-MG) e a deputada federal eleita Ana Elisa (PT-MG) vão pedir a criação de uma comissão externa na Câmara dos Deputados para acompanhar a situação da dívida bilionária de Minas Gerais com a União. Leia mais (11/15/2026 - 21",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Michelle diz que vai tirar 10 dias de descanso com 'incentivo e aval' de Bolsonaro",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/11/michelle-diz-que-vai-tirar-10-dias-de-descanso-com-incentivo-e-aval-de-bolsonaro.shtml",
+      "date": "2026-11-15T23:46:00.000Z",
+      "summary": "A ex-primeira-dama Michelle Bolsonaro afirmou nas redes sociais neste domingo (15) que vai tirar dez dias de descanso com 'aval e incentivo' de Jair Bolsonaro antes de assumir o mandato como senadora pelo Distrito Federal. Leia mais (11/15/2026 - 20h46)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Megaspeed afirma que Alice Huang deixou a empresa em agosto de 2025",
+      "link": "https://www.estadao.com.br/tecmundo/big-techs/megaspeed-afirma-que-alice-huang-deixou-a-empresa-em-agosto-de-2025/",
+      "date": "2026-11-15T23:40:54.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "Jensen Huang discute volta ao comando da Nvidia com aliados",
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/jensen-huang-discute-volta-ao-comando-da-nvidia-com-aliados.shtml",
       "date": "2026-11-15T23:10:00.000Z",
@@ -165,15 +215,6 @@
       "summary": "Os Correios tiveram um prejuízo de R$ 7,48 bilhões até o terceiro trimestre de 2026, um aumento nominal de 27,2% em relação à perda de R$ 5,88 bilhões em igual período de 2025. Leia mais (11/15/2026 - 19h33)",
       "source": "Folha",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Transtornos em voos nos EUA devem seguir até 2ª feira, diz governo",
-      "link": "https://www.poder360.com.br/poder-internacional/transtornos-em-voos-nos-eua-devem-seguir-ate-2a-feira-diz-governo/",
-      "date": "2026-11-15T22:17:09.000Z",
-      "summary": "Secretário de Transportes diz que normalização da operação exige tempo; Cirium estima que 1,5 milhão de passageiros foram afetados",
-      "source": "Poder360",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -210,15 +251,6 @@
       "summary": "Mercado de trabalho deverá ser profundamente afetado, com até 800 mil empregos eliminados em 15 anos. Economistas se dividem sobre viabilidade financeira da proposta para amortecer ruptura.",
       "source": "DW Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "EUA e países aliados fazem acordo para proteger cadeia de IA da China",
-      "link": "https://www.poder360.com.br/poder-internacional/eua-e-paises-aliados-fazem-acordo-para-proteger-cadeia-de-ia-da-china/",
-      "date": "2026-11-15T21:33:11.000Z",
-      "summary": "Pacto reúne Japão, Austrália, Israel e Reino Unido e busca reduzir dependência de tecnologias e insumos estratégicos chineses",
-      "source": "Poder360",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -267,15 +299,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Relutância do governo em ter políticas que não colidam com a monetária acaba por perpetuar os juros",
-      "link": "https://www.estadao.com.br/economia/luis-eduardo-assis/relutancia-do-governo-em-ter-politicas-que-nao-colidam-com-a-monetaria-acaba-por-perpetuar-os-juros/",
-      "date": "2026-11-15T20:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Correios registram prejuízo de R$ 7,5 bilhões até o terceiro trimestre",
       "link": "https://g1.globo.com/economia/noticia/2026/11/15/correios-registram-prejuizo-de-r-75-bilhoes-no-terceiro-trimestre.ghtml",
       "date": "2026-11-15T19:45:29.000Z",
@@ -303,29 +326,11 @@
       "type": "imprensa"
     },
     {
-      "title": "Marx, o javanês institucional e o inquérito do fim do mundo",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/marcus-melo/2026/11/marx-o-javanes-institucional-e-o-inquerito-do-fim-do-mundo.shtml",
-      "date": "2026-11-15T18:00:00.000Z",
-      "summary": "Não é surpresa alguma que o controle da Polícia Federal tenha se convertido na questão central da agenda pública pós-eleições. Alertei sucessivamente neste espaço para uma perversão institucional: o STF robusteceu-se com a jurisdição criminal, especialmente ap",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Ajuste fiscal de Lula é considerado tímido pelo mercado, mas racha esquerda, que enxerga ‘tesouraço’",
       "link": "https://www.estadao.com.br/politica/ajuste-fiscal-de-lula-e-considerado-timido-pelo-mercado-mas-racha-esquerda-que-enxerga-tesouraco/",
       "date": "2026-11-15T17:52:35.000Z",
       "summary": "",
       "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Folha altera cabeçalho em alusão ao Dia da Proclamação da República",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/folha-altera-cabecalho-em-alusao-ao-dia-da-proclamacao-da-republica.shtml",
-      "date": "2026-11-15T16:52:00.000Z",
-      "summary": "A Folha altera neste domingo (15) seu cabeçalho, no topo da Primeira Página e em sua versão digital, com a inclusão da bandeira do Brasil em alusão ao Dia da Proclamação da República. Leia mais (11/15/2026 - 13h52)",
-      "source": "Folha",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -691,7 +696,6 @@
     }
   ],
   "errors": [
-    "IPCA 12m (SGS 13522): HTTP 304",
     "feed CNN Brasil: HTTP 404",
     "feed CNN Brasil: HTTP 404"
   ]
