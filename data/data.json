@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-16T07:18:20.383Z",
+  "updated": "2026-11-16T09:58:09.937Z",
   "market": {
     "ibov": {
       "price": 172457.77,
       "pct": 0.66,
-      "time": "2026-11-16T07:18:15.042Z",
+      "time": "2026-11-16T09:58:02.446Z",
       "history": [
         {
           "d": "2026-10-19",
@@ -137,6 +137,114 @@
   },
   "news": [
     {
+      "title": "Quem é o 1º senador negro do Mississippi em 140 anos e por que tão poucos foram eleitos nos EUA?",
+      "link": "https://www.bbc.com/portuguese/articles/cwe9kj4xmy2po?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-16T09:43:38.000Z",
+      "summary": "Ao vencer a corrida para o Senado no Estado americano do Mississippi, Scott Colom se tornou o primeiro senador negro do Estado desde o século 19. Por que apenas 14 senadores negros haviam sido eleitos até então, em toda a história americana?",
+      "source": "BBC News Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Procurador federal alerta senadora democrata sobre fiscalização de Trump",
+      "link": "https://www.poder360.com.br/poder-internacional/procurador-federal-alerta-senadora-democrata-sobre-fiscalizacao-de-trump/",
+      "date": "2026-11-16T09:41:54.000Z",
+      "summary": "Carta a Elizabeth Warren integra reação republicana à agenda de investigações planejada por democratas após vitória eleitoral",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Produção industrial e vendas no varejo da China frustram expectativas",
+      "link": "https://www.poder360.com.br/poder-china/producao-industrial-e-vendas-no-varejo-da-china-frustram-expectativas/",
+      "date": "2026-11-16T09:38:12.000Z",
+      "summary": "Indústria cresceu 4,8% em outubro, abaixo dos 5,3% esperados; varejo avançou 0,4%, metade da estimativa do mercado",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Governo Lula: leia a agenda de ministros do governo nesta 2ª feira",
+      "link": "https://www.poder360.com.br/poder-governo/governo-lula-leia-a-agenda-de-ministros-do-governo-nesta-2a-feira-11/",
+      "date": "2026-11-16T09:15:31.000Z",
+      "summary": "Ministro da Fazenda, Dario Durigan, tem reunião com a presidência do Banco do Brasil; comitiva que acompanhou Lula ao exterior retorna ao Brasil",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Agenda de Lula: leia os compromissos do presidente nesta 2ª feira",
+      "link": "https://www.poder360.com.br/poder-governo/agenda-de-lula-leia-os-compromissos-do-presidente-nesta-2a-feira-9/",
+      "date": "2026-11-16T09:15:25.000Z",
+      "summary": "Chefe do Executivo encontra-se com Pedro Sánchez na Espanha antes de voltar ao Brasil",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Tarcísio promete não se envolver em disputa do PL por presidência da Assembleia",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/tarcisio-promete-nao-se-envolver-em-disputa-do-pl-por-presidencia-da-assembleia.shtml",
+      "date": "2026-11-16T09:00:00.000Z",
+      "summary": "O governador de São Paulo, Tarcísio de Freitas (Republicanos), avisou a aliados que não deve se envolver na disputa entre deputados estaduais do PL pelo comando da Assembleia Legislativa a partir do ano que vem. Leia mais (11/16/2026 - 06h00)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Suzano consegue financiamento de R$ 98 milhões junto ao BNDES",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/suzano-consegue-financiamento-de-r-98-milhoes-junto-ao-bndes.shtml",
+      "date": "2026-11-16T09:00:00.000Z",
+      "summary": "A Suzano conseguiu aprovação junto ao BNDES (Banco Nacional de Desenvolvimento Econômico e Social) de um financiamento de R$ 97,9 milhões para 47 projetos de pesquisa e desenvolvimento voltados à inovação nas áreas de genética e melhoramento florestal, manejo ",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lula vai conseguir emplacar 4 ministros no STF ou ficará refém de Senado bolsonarista?",
+      "link": "https://www.bbc.com/portuguese/articles/c5n49ln0l4xeo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-16T08:46:29.000Z",
+      "summary": "Em vez de nomes próximos como Flávio Dino e Cristiano Zanin, presidente terá que buscar opções com apoio forte do Centrão, afirmam analistas.",
+      "source": "BBC News Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "PSB vê João Campos e Alckmin como certos no Lula 4, mas enfrenta incertezas sobre Tebet e França",
+      "link": "https://www.estadao.com.br/politica/psb-ve-joao-campos-e-alckmin-como-certos-no-lula-4-mas-enfrenta-incertezas-sobre-tebet-e-franca/",
+      "date": "2026-11-16T08:30:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Boom de energia solar traz riscos ao sistema elétrico, alerta estatal",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/boom-de-energia-solar-traz-riscos-ao-sistema-eletrico-alerta-estatal/",
+      "date": "2026-11-16T08:30:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Cresce pressão para adiantamento do início efetivo da reforma tributária para 2028",
+      "link": "https://www.estadao.com.br/economia/cresce-pressao-para-adiantamento-do-inicio-efetivo-da-reforma-tributaria-para-2028/",
+      "date": "2026-11-16T08:30:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Podcast explica 'plano Moretti', pacote de ajuste fiscal para o governo Lula 4",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/podcasts/2026/11/podcast-explica-plano-moretti-pacote-de-ajuste-fiscal-para-o-governo-lula-4.shtml",
+      "date": "2026-11-16T08:00:00.000Z",
+      "summary": "O Senado volta a discutir nesta semana o pacote fiscal apresentado pelo governo Lula, cujo texto-base foi aprovado na última quinta-feira (12). As medidas incluem a criação de um piso de contingenciamento e pontos como a possibilidade de congelar mais verbas, ",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "Tesouraço se volta contra Lula e racha parte da esquerda",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/encaminhado-com-frequencia/2026/11/tesouraco-se-volta-contra-lula-e-racha-parte-da-esquerda.shtml",
       "date": "2026-11-16T07:00:00.000Z",
@@ -164,48 +272,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Empresas de energia na UE contratam especialistas em defesa após onda de ataques cibernéticos e com drones",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/infraestrutura/2026/11/empresas-de-energia-na-ue-contratam-especialistas-em-defesa-apos-onda-de-ataques-ciberneticos-e-com-drones.shtml",
-      "date": "2026-11-16T07:00:00.000Z",
-      "summary": "Empresas europeias de energia estão contratando especialistas em defesa e segurança para ajudar a proteger sua infraestrutura contra ataques cibernéticos e possíveis operações de sabotagem patrocinadas por Estados. Leia mais (11/16/2026 - 04h00)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Banco do Brasil quer negociar com BC regra mais flexível para contabilizar perdas com agro",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/banco-do-brasil-quer-negociar-com-bc-regra-mais-flexivel-para-contabilizar-perdas-com-agro.shtml",
-      "date": "2026-11-16T07:00:00.000Z",
-      "summary": "Diante da pior crise da sua história no agronegócio, o Banco do Brasil quer negociar com o Banco Central e com o Ministério da Fazenda uma flexibilização na regra que contabiliza as perdas esperadas com calotes nas operações de crédito do setor. Leia mais (11/",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Moretti diz que “esquerda sectária” atrasa combate a privilégios",
-      "link": "https://www.poder360.com.br/poder-economia/moretti-diz-que-esquerda-sectaria-atrasa-combate-a-privilegios/",
-      "date": "2026-11-16T06:47:23.000Z",
-      "summary": "Ministro defende ajuste fiscal de Lula e afirma que grupos poderosos tentam evitar medidas de contenção de gastos",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Concurso da Câmara dos Deputados encerra inscrições nesta semana; salários chegam a R$ 32 mil",
       "link": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/11/16/concurso-da-camara-dos-deputados-encerra-inscricoes-nesta-semana-salarios-chegam-a-r-32-mil.ghtml",
       "date": "2026-11-16T06:00:00.000Z",
       "summary": "Câmara dos Deputados Divulgação / Câmara dos Deputados As inscrições para o novo concurso da Câmara dos Deputados terminam na próxima terça-feira (17). A seleção reúne 184 oportunidades entre vagas imediatas e cadastro de reserva para profissionais de diferent",
       "source": "g1",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Gabarito do Enem será divulgado na 4ª; resultado sai em janeiro de 2027",
-      "link": "https://www.poder360.com.br/poder-educacao/gabarito-do-enem-sera-divulgado-na-4a-resultado-sai-em-janeiro-de-2027/",
-      "date": "2026-11-16T03:12:27.000Z",
-      "summary": "O 2º dia de aplicação da prova terminou “sem intercorrências graves”, segundo o ministro da Educação",
-      "source": "Poder360",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -272,33 +344,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Parlamentares derrotados tentam trava no orçamento para manter emendas",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/parlamentares-derrotados-tentam-trava-no-orcamento-para-manter-emendas.shtml",
-      "date": "2026-11-16T02:00:00.000Z",
-      "summary": "A CMO (Comissão Mista de Orçamento) do Congresso Nacional deve aprovar mudança no projeto da LDO (Lei de Diretrizes Orçamentárias) de 2027 para impedir que os novos parlamentares assumam as emendas ao Orçamento dos que não foram reeleitos. Leia mais (11/15/202",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Jensen Huang discute volta ao comando da Nvidia com aliados, diz “FT”",
-      "link": "https://www.poder360.com.br/poder-tech/jensen-huang-discute-volta-ao-comando-da-nvidia-com-aliados-diz-ft/",
-      "date": "2026-11-16T01:03:25.000Z",
-      "summary": "Ex-presidente renunciou ao cargo depois que escândalo extraconjugal com suposta espiã chinesa veio a público",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Cleitinho cobra ex-prefeito por uso de emenda em show",
-      "link": "https://www.poder360.com.br/poder-videos/cleitinho-cobra-ex-prefeito-por-uso-de-emenda-em-show/",
-      "date": "2026-11-16T00:49:51.000Z",
-      "summary": "Senador diz que destinou R$ 500 mil para obras em Mirabela (MG), mas verba custeou apresentação de Claudia Leitte",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Megaspeed afirma que Alice Huang deixou a empresa em agosto de 2025",
       "link": "https://www.estadao.com.br/tecmundo/big-techs/megaspeed-afirma-que-alice-huang-deixou-a-empresa-em-agosto-de-2025/",
       "date": "2026-11-15T23:40:54.000Z",
@@ -353,33 +398,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Os planos de saúde privados seguem ameaçados",
-      "link": "https://www.estadao.com.br/economia/antonio-penteado-mendonca/os-planos-de-saude-seguem-ameacados/",
-      "date": "2026-11-15T20:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Eleição brasileira passa em testes que apontaram fraudes eleitorais na Rússia, Nigéria e Senegal",
-      "link": "https://www.estadao.com.br/politica/eleicao-brasileira-passa-em-testes-que-apontaram-fraudes-eleitorais-na-russia-nigeria-e-senegal/",
-      "date": "2026-11-15T18:31:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Ajuste fiscal de Lula é considerado tímido pelo mercado, mas racha esquerda, que enxerga ‘tesouraço’",
-      "link": "https://www.estadao.com.br/politica/ajuste-fiscal-de-lula-e-considerado-timido-pelo-mercado-mas-racha-esquerda-que-enxerga-tesouraco/",
-      "date": "2026-11-15T17:52:35.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Enem 2026: ministro da Educação cita tentativas de ataques hacker à página do Inep e diz que governo está 'controlando' situação",
       "link": "https://g1.globo.com/educacao/enem/2026/noticia/2026/11/15/enem-2026-ministro-da-educacao-cita-tentativas-de-ataques-hacker-a-pagina-do-inep-e-diz-que-governo-esta-controlando-situacao.ghtml",
       "date": "2026-11-15T16:17:26.000Z",
@@ -411,15 +429,6 @@
       "link": "https://www.bbc.com/portuguese/articles/cqx2ey1zxjymo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-15T13:53:18.000Z",
       "summary": "Preparativos para o primeiro encontro trilateral entre os líderes da China, da Rússia e dos EUA provocaram apreensão na Europa, onde alguns veem paralelos com a divisão do mundo em esferas de influência após a Segunda Guerra Mundial.",
-      "source": "BBC News Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Por que 15 de novembro é feriado e o que um 'golpe na monarquia' tem a ver com a data?",
-      "link": "https://www.bbc.com/portuguese/articles/cqjd7lpvj452o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-15T13:10:42.000Z",
-      "summary": "Quase um século e meio depois, tema ainda suscita debates sobre a Proclamação da República. Primeiras críticas apareceram meses após Marechal Deodoro da Fonseca proclamá-la.",
       "source": "BBC News Brasil",
       "cat": "internacional",
       "type": "imprensa"
@@ -684,19 +693,11 @@
       "source": "Banco Central",
       "cat": "economia",
       "type": "oficial"
-    },
-    {
-      "title": "'Não falei com Lula. Isso foi plantado para queimar alguém que defendeu a proposta', diz André Lara Resende",
-      "link": "https://www.bbc.com/portuguese/articles/cmly0jeq2q9no?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-05T23:19:37.000Z",
-      "summary": "Economista que presidiu o BNDES e fez parte da diretoria do Banco Central propôs criação de conselho que reduziria taxa Selic a longo prazo; proposta mobilizou mercado financeiro e discussão em Brasília.",
-      "source": "BBC News Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
     }
   ],
   "errors": [
     "feed CNN Brasil: HTTP 404",
-    "feed CNN Brasil: HTTP 404"
+    "feed CNN Brasil: HTTP 404",
+    "feed Planalto (governo): HTTP 429"
   ]
 }
