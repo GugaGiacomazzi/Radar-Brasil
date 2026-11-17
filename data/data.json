@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-17T07:12:12.450Z",
+  "updated": "2026-11-17T08:32:18.588Z",
   "market": {
     "ibov": {
       "price": 169295.4,
       "pct": -1.83,
-      "time": "2026-11-17T07:12:02.586Z",
+      "time": "2026-11-17T08:32:12.759Z",
       "history": [
         {
           "d": "2026-10-19",
@@ -141,6 +141,24 @@
   },
   "news": [
     {
+      "title": "Brasileiros têm mais dificuldade para poupar que a média mundial, diz pesquisa; veja o que pesa no bolso",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/17/brasileiros-tem-mais-dificuldade-para-poupar-que-a-media-mundial-diz-pesquisa-veja-o-que-pesa-no-bolso.ghtml",
+      "date": "2026-11-17T08:00:00.000Z",
+      "summary": "Investimentos em renda fixa podem ser alternativa para quem quer poupar Chegar ao fim do mês com algum dinheiro sobrando é uma realidade distante para muitos brasileiros. Quatro em cada 10 pessoas no país dizem que não conseguem poupar ou investir, segundo uma",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Aviões russos violaram espaço aéreo do Japão, diz governo japonês",
+      "link": "https://www.poder360.com.br/poder-internacional/avioes-russos-violaram-espaco-aereo-do-japao-diz-governo-japones/",
+      "date": "2026-11-17T07:50:02.000Z",
+      "summary": "Aeronaves também foram detectadas nesta 3ª feira (17.nov) pelo Ministério da Defesa de Taiwan",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "Caoa Chery Tiggo 9 aposta em luxo e potência para fisgar clientes de SUVs alemães; vale a pena?",
       "link": "https://g1.globo.com/carros/noticia/2026/11/17/caoa-chery-tiggo-9-aposta-em-luxo-e-potencia-para-fisgar-clientes-de-suvs-alemaes-vale-a-pena.ghtml",
       "date": "2026-11-17T07:00:01.000Z",
@@ -246,15 +264,6 @@
       "summary": "Senado aprova texto-base de projeto que prevê ajuste fiscal de até R$ 60 bilhões O Senado Federal deve votar nesta terça-feira (17) propostas de mudanças no projeto de lei complementar (PLP) do ajuste fiscal do governo do presidente Luiz Inácio Lula da Silva (",
       "source": "g1",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Concurso da Câmara: inscrições terminam nesta terça; salário passa de R$ 32 mil",
-      "link": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/11/17/concurso-da-camara-inscricoes-terminam.ghtml",
-      "date": "2026-11-17T03:00:00.000Z",
-      "summary": "Concurso da Câmara dos Deputados tem salários de mais de R$ 32 mil As inscrições para o novo concurso da Câmara dos Deputados terminam nesta terça-feira (17), às 18h (horário de Brasília). A seleção reúne 184 oportunidades, entre vagas imediatas e cadastro de ",
-      "source": "g1",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
