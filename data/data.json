@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-17T21:50:09.010Z",
+  "updated": "2026-11-17T22:50:30.987Z",
   "market": {
     "ibov": {
       "price": 169816.64,
       "pct": 0.31,
-      "time": "2026-11-17T21:49:42.459Z",
+      "time": "2026-11-17T22:50:24.983Z",
       "history": [
         {
           "d": "2026-10-19",
@@ -145,6 +145,141 @@
   },
   "news": [
     {
+      "title": "Governo recusou proposta de R$ 75 bi no ajuste fiscal, diz Marinho",
+      "link": "https://www.poder360.com.br/poder-congresso/governo-recusou-proposta-de-r-75-bi-no-ajuste-fiscal-diz-marinho/",
+      "date": "2026-11-17T22:42:06.000Z",
+      "summary": "Segundo o senador, a contraproposta da oposição combina 3 fontes de espaço fiscal; votação dos destaques do projeto foi adiada para 4ª feira (18.nov)",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lula se reúne com aliados para discutir composição da Esplanada",
+      "link": "https://www.poder360.com.br/poder-governo/lula-se-reune-com-aliados-para-discutir-composicao-da-esplanada/",
+      "date": "2026-11-17T22:41:00.000Z",
+      "summary": "Camilo Santana, Edinho Silva, Rafael Fonteles e Rui Costa se encontram com o presidente no Palácio da Alvorada nesta 3ª feira",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Teresa Leitão defende conclusão da votação de projeto do ajuste fiscal",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/17/teresa-leitao-defende-conclusao-da-votacao-de-projeto-do-ajuste-fiscal",
+      "date": "2026-11-17T22:40:32.000Z",
+      "summary": "A senadora Teresa Leitão (PT-PE), em pronunciamento no Plenário nesta terça-feira (17), defendeu a conclusão da votação do projeto de lei complementar que estabelece medidas para o equilíbrio das contas públicas (PLP 299/2026). O texto-base da proposta já foi ",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "PL tem articulação para lançar Nikolas ao comando da Câmara após racha sobre apoio a Motta",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/pl-tem-articulacao-para-lancar-nikolas-ao-comando-da-camara-apos-racha-sobre-apoio-a-motta.shtml",
+      "date": "2026-11-17T22:35:00.000Z",
+      "summary": "Após um racha na bancada do PL, integrantes do partido articulam o anúncio ainda nesta semana de uma candidatura própria à presidência da Câmara dos Deputados. Leia mais (11/17/2026 - 19h35)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Marcelo Castro defende fim da reeleição para cargos executivos",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/17/marcelo-castro-defende-fim-da-reeleicao-para-cargos-executivos",
+      "date": "2026-11-17T22:33:58.000Z",
+      "summary": "O senador Marcelo Castro (MDB-PI), em pronunciamento no Plenário nesta terça-feira (17), defendeu a aprovação da proposta de emenda à Constituição que acaba com a reeleição para presidente da República, governadores e prefeitos (PEC 12/2022). Relator da matéri",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Justiça deve examinar a verdade por inteiro, diz Fachin",
+      "link": "https://www.poder360.com.br/poder-justica/justica-deve-examinar-a-verdade-por-inteiro-diz-fachin/",
+      "date": "2026-11-17T22:30:40.000Z",
+      "summary": "Presidente do STF participou de inauguração de escultura de Oxê Xangô e recebe na 4ª feira relatórios sobre ministros e Master",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Fachin diz que STF pode julgar ainda neste ano lei que pode reduzir penas de Bolsonaro e aliados se Moraes liberar ações",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/17/fachin-diz-que-stf-pode-julgar-ainda-neste-ano-acoes-contra-lei-da-dosimetria-se-moraes-liberar-caso.ghtml",
+      "date": "2026-11-17T22:27:08.000Z",
+      "summary": "O presidente do Supremo Tribunal Federal (STF), Edson Fachin, afirmou nesta terça-feira (17) que pode ocorrer ainda neste ano o julgamento das ações que questionam a chamada Lei da Dosimetria, que prevê a redução de penas para condenados por atentados golpista",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Roberto Freire acionará Justiça contra incorporação do Cidadania pelo PP",
+      "link": "https://www.poder360.com.br/partidos-politicos/roberto-freire-acionara-justica-contra-incorporacao-do-cidadania-pelo-pp/",
+      "date": "2026-11-17T22:25:44.000Z",
+      "summary": "Ex-ministro da Cultura diz que discorda de processo que associaria Cidadania a partido derivado do Arena, pilar da Ditadura Militar",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Na contramão da concorrência, Inter oferece R$ 4 bilhões em crédito na Black Friday",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/em-meio-a-crise-de-inadimplencia-inter-oferece-r-4-bilhoes-em-credito-na-black-friday.shtml",
+      "date": "2026-11-17T22:16:00.000Z",
+      "summary": "Enquanto a concorrência aperta a cessão de crédito, em meio ao crescimento da inadimplência entre as famílias brasileiras, o Inter decidiu nadar contra a corrente e oferecer R$ 4 bilhões em crédito extra com foco na Black Friday. A oferta, porém, será modulada",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Fim da escala 6x1: Lula assinará decreto de regulamentação na quinta-feira, diz Marinho",
+      "link": "https://www.estadao.com.br/economia/fim-da-escala-6x1-lula-assinara-decreto-de-regulamentacao-na-quinta-feira-diz-marinho/",
+      "date": "2026-11-17T22:14:55.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Camilo Santana diz que governo não tinha votos para barrar desidratação do pacote fiscal",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/17/camilo-santana-diz-que-governo-nao-tinha-votos-para-barrar-desidratacao-do-pacote-fiscal.ghtml",
+      "date": "2026-11-17T22:09:02.000Z",
+      "summary": "Senador Camilo Santana (PT-CE) apresentou emenda prevendo a redução da maioridade penal para 16 anos em casos de crimes hediondos. Waldemir Barreto/Agência Senado O líder do PT no Senado, Camilo Santana (PT-CE), admitiu, após o adiamento da votação do projeto ",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Câmara aprova prêmio para iniciativas em superdotação e dupla excepcionalidade",
+      "link": "https://www.camara.leg.br/noticias/1320407-camara-aprova-premio-para-iniciativas-em-superdotacao-e-dupla-excepcionalidade",
+      "date": "2026-11-17T22:07:00.000Z",
+      "summary": "Resolução prevê homenagem a pessoas jurídicas que contribuam para o atendimento educacional desse público",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Relator admite atenuantes nas penas de jovens de 16 e 17 anos em caso de crimes violentos",
+      "link": "https://www.camara.leg.br/noticias/1320433-relator-admite-atenuantes-nas-penas-de-jovens-de-16-e-17-anos-em-caso-de-crimes-violentos",
+      "date": "2026-11-17T22:06:00.000Z",
+      "summary": "Mendonça Filho pretende apresentar o relatório na primeira semana de dezembro",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Esperidião Amin homenageia sobrevivente de Hiroshima e Nagasaki",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/17/esperidiao-amin-homenageia-sobrevivente-de-hiroshima-e-nagasaki",
+      "date": "2026-11-17T22:04:19.000Z",
+      "summary": "O senador Esperidião Amin (PP-SC), em pronunciamento no Plenário nesta terça-feira (17), homenageou Wataru Ogawa, sobrevivente dos bombardeios de Hiroshima e Nagasaki que morreu nesta terça, aos 97 anos, em Frei Rogério (SC). O parlamentar ressaltou a trajetór",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Durigan: Reforma tributária pode ter ‘pequeno impacto’ na inflação, mas mercado vai ajustar preços",
+      "link": "https://www.estadao.com.br/economia/durigan-reforma-tributaria-pode-ter-pequeno-impacto-na-inflacao-mas-mercado-vai-ajustar-precos/",
+      "date": "2026-11-17T21:46:47.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "Medida que amplia crédito a exportações segue para sanção",
       "link": "https://www12.senado.leg.br/noticias/materias/2026/11/17/medida-que-amplia-credito-a-exportacoes-segue-para-sancao",
       "date": "2026-11-17T21:43:20.000Z",
@@ -152,6 +287,15 @@
       "source": "Agência Senado",
       "cat": "politica",
       "type": "oficial"
+    },
+    {
+      "title": "Milhões enterrados e escândalos abalam círculo de ex-premiê da Hungria",
+      "link": "https://www.dw.com/pt-br/milhões-enterrados-e-escândalos-abalam-círculo-de-ex-premiê-da-hungria/a-79974362?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-17T21:43:00.000Z",
+      "summary": "Ofensiva anticorrupção ameaça legado político do ex-premiê da Hungria. Aliados do círculo mais próximo tiveram prisão decretada recentemente.",
+      "source": "DW Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
     },
     {
       "title": "Vendas da Nvidia dobram no 3º tri em meio à crise após saída de Huang",
@@ -175,16 +319,16 @@
       "title": "Lucro da Nvidia dobra no 3º trimestre, para US$ 65,3 bilhões",
       "link": "https://g1.globo.com/tecnologia/noticia/2026/11/17/balanco-nvidia.ghtml",
       "date": "2026-11-17T21:36:15.000Z",
-      "summary": "Jensen Huang, durante conferência da Nvidia em 17 de março de 2026, e GPU H200, uma das mais avançadas da empresa Reuters/Carlos Barria; Divulgação A gigante americana de chips Nvidia informou nesta terça-feira (17) que registrou lucro líquido de US$ 65,3 bilh",
+      "summary": "Jensen Huang, durante conferência da Nvidia em 17 de março de 2026, e GPU H200, uma das mais avançadas da empresa Reuters/Carlos Barria; Divulgação A fabricante de chips Nvidia afirmou nesta terça-feira (17) que registrou lucro líquido de US$ 65,3 bilhões (R$ ",
       "source": "g1",
       "cat": "economia",
       "type": "imprensa"
     },
     {
-      "title": "Aneel forma maioria para recomendar a antecipação do fim do contrato de concessão da Enel em SP",
+      "title": "Aneel tem 4 votos a favor de recomendar fim da concessão da Enel em SP, mas diretor-geral pede vista",
       "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/17/aneel-forma-maioria-para-recomendar-o-encerramento-antecipado-da-concessao-da-enel-em-sp.ghtml",
       "date": "2026-11-17T21:35:57.000Z",
-      "summary": "Diretos da Aneel durante reunião pública nesta terça (17). Reprodução A diretoria da Agência Nacional de Energia Elétrica (Aneel) formou maioria nesta terça-feira (17) para recomendar o encerramento antecipado da concessão da Enel Distribuição São Paulo, respo",
+      "summary": "Diretos da Aneel durante reunião pública nesta terça (17). Reprodução A diretoria da Agência Nacional de Energia Elétrica (Aneel) teve quatro votos favoráveis à recomendação de encerramento antecipado da concessão da Enel Distribuição São Paulo, responsável pe",
       "source": "g1",
       "cat": "politica",
       "type": "imprensa"
@@ -217,15 +361,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Cid Gomes promete relatório do novo Desenrola para início de dezembro",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/17/cid-gomes-promete-relatorio-do-novo-desenrola-para-inicio-de-dezembro",
-      "date": "2026-11-17T21:21:48.000Z",
-      "summary": "A comissão mista responsável por analisar a Medida Provisória (MP) 1.393/2026, que cria o Desenrola Brasil 3.0, foi instalada nesta terça-feira (17). O deputado Jonas Donizette (PSB-SP) foi eleito presidente do colegiado. Ele designou o senador Cid Gomes (PSB-",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
       "title": "Live Nation zera taxa em shows no Nubank Parque após pressão online",
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/live-nation-zera-taxa-em-shows-no-nubank-parque-apos-pressao-online.shtml",
       "date": "2026-11-17T21:17:00.000Z",
@@ -240,15 +375,6 @@
       "date": "2026-11-17T21:10:28.000Z",
       "summary": "",
       "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "FBI alerta para ataques cibernéticos com IA em menos de 3 horas",
-      "link": "https://www.poder360.com.br/poder-internacional/fbi-alerta-para-ataques-ciberneticos-com-ia-em-menos-de-3-horas/",
-      "date": "2026-11-17T21:09:58.000Z",
-      "summary": "Ferramenta Artex automatiza invasões contra empresas, bancos e governos com mínima intervenção humana, diz boletim",
-      "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -280,15 +406,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Política comercial dos EUA faz Canadá e México procurarem a China",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/vaivem/2026/11/politica-comercial-dos-eua-faz-canada-e-mexico-procurarem-a-china.shtml",
-      "date": "2026-11-17T21:00:00.000Z",
-      "summary": "Donald Trump volta a se encontrar com Xi Jinping, e as exportações agropecuárias entram em pauta novamente. É um assunto que interessa ao Brasil, principalmente no caso da soja. A oleaginosa exportada pelos americanos recebe uma taxa extra de 10% para entrar n",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Usei o ‘Photoshop’ feito por IA e vi que o mercado de software precisa mudar para não morrer",
       "link": "https://www.estadao.com.br/economia/negocios/usei-o-photoshop-feito-por-ia-e-vi-que-o-mercado-de-software-precisa-mudar-para-nao-morrer/",
       "date": "2026-11-17T21:00:00.000Z",
@@ -296,42 +413,6 @@
       "source": "Estadão",
       "cat": "economia",
       "type": "imprensa"
-    },
-    {
-      "title": "Ascensão e queda de Jensen Huang da Nvidia: uma pessoa errada com as ideias certas",
-      "link": "https://www.estadao.com.br/economia/alexandre-chiavegatto-filho/ascensao-queda-jensen-huang-nvidia-pessoa-errada-ideias-certas/",
-      "date": "2026-11-17T21:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Lula acumula 169 dias fora do Brasil no 3º mandato",
-      "link": "https://www.poder360.com.br/poder-governo/lula-acumula-169-dias-fora-do-brasil-no-3o-mandato/",
-      "date": "2026-11-17T20:58:53.000Z",
-      "summary": "Presidente brasileiro fez 50 viagens e visitou 43 países em quase 4 anos de governo",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Debate na CE sugere valorização contínua do Sesc e do Senac",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/17/debate-na-ce-sugere-valorizacao-continua-do-sesc-e-do-senac",
-      "date": "2026-11-17T20:58:42.000Z",
-      "summary": "A Comissão de Educação e Cultura (CE) promoveu nesta terça-feira (17) uma audiência pública para subsidiar a análise do projeto de lei que cria o Dia Nacional de Valorização e Reconhecimento do Serviço Social do Comércio (Sesc) e do Serviço Nacional de Aprendi",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Agosto será mês de combate à desigualdade e à pobreza, aprova Plenário",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/17/agosto-sera-mes-de-combate-a-desigualdade-e-a-pobreza-aprova-plenario",
-      "date": "2026-11-17T20:58:14.000Z",
-      "summary": "Agosto poderá se tornar o Mês Nacional de Combate à Desigualdade Social e de Enfrentamento à Pobreza. A medida está prevista em projeto de lei aprovado pelo Senado nesta terça-feira (17). O PL 4.035/2023 segue para sanção presidencial. O texto estabelece que, ",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
     },
     {
       "title": "Câmara aprova reconhecimento da romaria do Divino Pai Eterno como cultura nacional",
@@ -348,24 +429,6 @@
       "date": "2026-11-17T20:54:00.000Z",
       "summary": "O deputado federal Luiz Philippe de Orléans e Bragança (PL-SP) vai lançar seu nome para disputar a presidência da Câmara dos Deputados em 2027. Leia mais (11/17/2026 - 17h54)",
       "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Lula fez 10 viagens e passou 31 dias fora do Brasil em 2026",
-      "link": "https://www.poder360.com.br/poder-governo/lula-fez-10-viagens-e-passou-31-dias-fora-do-brasil-em-2026/",
-      "date": "2026-11-17T20:48:58.000Z",
-      "summary": "Presidente brasileiro retornou de visitas à Turquia, às Filipinas e à Espanha, onde se reuniu com Pedro Sánchez",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Senado amplia em R$ 13,5 bi o crédito para o Plano Brasil Soberano 3",
-      "link": "https://www.poder360.com.br/poder-congresso/senado-amplia-em-r-135-bi-o-credito-para-o-plano-brasil-soberano-3/",
-      "date": "2026-11-17T20:46:54.000Z",
-      "summary": "Texto busca apoiar empresas afetadas pelo tarifaço imposto pelos Estados Unidos a produtos brasileiros; MP perderia validade na 4ª feira (18.nov)",
-      "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -406,24 +469,6 @@
       "type": "oficial"
     },
     {
-      "title": "Ajuste fiscal: Senado deve discutir nesta quarta-feira (18) propostas de mudanças ao texto do governo",
-      "link": "https://g1.globo.com/politica/ao-vivo/senado-pacote-medidas-fiscais.ghtml",
-      "date": "2026-11-17T20:41:06.000Z",
-      "summary": "Ajuste fiscal: Senado deve discutir nesta quarta-feira (18) propostas de mudanças ao texto do governo Proposta promove corte de benefícios fiscais e altera cálculo do piso constitucional da saúde. Texto-base foi aprovado por 45 votos a 31 na última quinta-feir",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Câmara aprova crédito de R$ 6,5 bi para ajudar exportadores atingidos pelo tarifaço dos EUA",
-      "link": "https://www.camara.leg.br/noticias/1320334-camara-aprova-credito-de-r-65-bi-para-ajudar-exportadores-atingidos-pelo-tarifaco-dos-eua",
-      "date": "2026-11-17T20:37:00.000Z",
-      "summary": "Os senadores ainda precisam votar a proposta",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
       "title": "Sem acordo, Senado adia votação do ajuste fiscal em meio a risco de desidratar impacto de R$ 56 bi",
       "link": "https://www.estadao.com.br/economia/senado-adia-votacao-do-ajuste-fiscal-em-meio-a-risco-de-desidratar-impacto-de-r-56-bi/",
       "date": "2026-11-17T20:32:28.000Z",
@@ -433,29 +478,11 @@
       "type": "imprensa"
     },
     {
-      "title": "Deputados aprovam crédito extra para pagar subvenção aos combustíveis",
-      "link": "https://www.camara.leg.br/noticias/1320331-deputados-aprovam-credito-extra-para-pagar-subvencao-aos-combustiveis",
-      "date": "2026-11-17T20:31:00.000Z",
-      "summary": "O texto será enviado ao Senado",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
       "title": "O que é o ajuste fiscal que o mercado cobra de Lula? Entenda por que ele desagrada muita gente e divide economistas",
       "link": "https://g1.globo.com/economia/noticia/2026/11/17/o-que-e-o-ajuste-fiscal-que-o-mercado-cobra-de-lula-entenda-por-que-ele-desagrada-muita-gente-e-divide-economistas.ghtml",
       "date": "2026-11-17T20:28:31.000Z",
       "summary": "Lula e o atual ministro da Fazenda, Dario Durigan: direção da política econômica no quarto governo do presidente ainda é incógnita. Reuters via BBC A proposta de ajuste fiscal apresentada pela equipe econômica na última semana, enquanto o presidente Luiz Ináci",
       "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Acordo da Stellantis com o RJ reforça disputa por incentivos para fábrica da Land Rover",
-      "link": "https://www.estadao.com.br/jornal-do-carro/marcas-e-estrategias/acordo-da-stellantis-com-o-rj-reforca-disputa-por-incentivos-para-fabrica-da-land-rover/",
-      "date": "2026-11-17T20:21:56.000Z",
-      "summary": "",
-      "source": "Estadão",
       "cat": "economia",
       "type": "imprensa"
     },
@@ -466,15 +493,6 @@
       "summary": "Dados do TSE confirmam agora que os vídeos não eram apenas 'virais' das redes sociais. Foram os idosos - e especialmente as idosas - que mais fizeram o esforço de votar entre o primeiro e o segundo turno, fazendo a abstenção ter a maior queda entre turnos desd",
       "source": "BBC News Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Lula planeja visita a Raoni após cacique ter alta de hospital",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/ambiente/2026/11/lula-planeja-visita-a-raoni-apos-cacique-ter-alta-de-hospital.shtml",
-      "date": "2026-11-17T20:00:00.000Z",
-      "summary": "O presidente Luiz Inácio Lula da Silva (PT) planeja fazer uma visita ao cacique Raoni Metuktire, que está em cuidados paliativos de um câncer do aparelho digestivo, e deve entregar uma balsa para travessia do rio Xingu, no Mato Grosso. Leia mais (11/17/2026 - ",
-      "source": "Folha",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -490,7 +508,7 @@
       "title": "Empresas usaram R$ 200 bilhões em créditos para pagar tributos até setembro; Senado debate restrição no ajuste fiscal",
       "link": "https://g1.globo.com/economia/noticia/2026/11/17/creditos-tributarios-empresas-ajuste-fiscal.ghtml",
       "date": "2026-11-17T18:32:53.000Z",
-      "summary": "Caixa de exportação em indústria calçadista em Franca, SP Jefferson Severiano Neves/EPTV Empresas declararam ter usado R$ 200,1 bilhões em créditos tributários para pagar tributos federais entre janeiro e setembro de 2026, segundo levantamento do g1 com dados ",
+      "summary": "Sem acordo, Senado adia votação de destaques em projeto de ajuste fiscal Empresas declararam ter usado R$ 200,1 bilhões em créditos para pagar tributos federais entre janeiro e setembro de 2026, segundo levantamento do g1 com dados da Receita Federal. O valor ",
       "source": "g1",
       "cat": "economia",
       "type": "imprensa"
@@ -509,15 +527,6 @@
       "link": "https://www.bbc.com/portuguese/articles/cklyw32d9n7vo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-17T15:15:18.000Z",
       "summary": "A proposta de ajuste fiscal divulgada pela equipe econômica na última semana provocou uma série de reações negativas - inclusive dentro da própria esquerda.",
-      "source": "BBC News Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Até onde o dólar pode subir? Por que o real é a moeda que mais perdeu valor desde a reeleição de Lula",
-      "link": "https://www.bbc.com/portuguese/articles/cmj4r9klkqego?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-17T13:42:05.000Z",
-      "summary": "Moeda brasileira sofre pressões tanto do cenário externo como doméstico — onde há indefinição sobre os rumos do ajuste fiscal e sobre quem será o próximo ministro da Fazenda.",
       "source": "BBC News Brasil",
       "cat": "internacional",
       "type": "imprensa"
@@ -554,15 +563,6 @@
       "link": "https://www.dw.com/pt-br/grupo-de-países-da-ue-negocia-centro-para-deportados-em-ruanda/a-79963673?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-16T20:06:00.000Z",
       "summary": "Medida valeria para pessoas que tiveram asilo negado. Alemanha e mais quatro nações confirmaram conversas com país africano, cujo governo é acusado de violações de direitos humanos.",
-      "source": "DW Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Crise na Nvidia expõe dilema da China na corrida pelos chips de IA",
-      "link": "https://www.dw.com/pt-br/crise-na-nvidia-expõe-dilema-da-china-na-corrida-pelos-chips-de-ia/a-79961956?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-16T17:36:00.000Z",
-      "summary": "Cerca de 600 mil chips H200, da fabricante americana, aguardam em Hong Kong autorização do governo chinês para importação. País asiático se depara com escolha entre comprar dos EUA ou apostar na própria indústria.",
       "source": "DW Brasil",
       "cat": "internacional",
       "type": "imprensa"
@@ -695,9 +695,7 @@
     }
   ],
   "errors": [
-    "Dívida/PIB (SGS 13762): The operation was aborted due to timeout",
     "feed CNN Brasil: HTTP 404",
-    "feed CNN Brasil: HTTP 404",
-    "feed Planalto (governo): HTTP 429"
+    "feed CNN Brasil: HTTP 404"
   ]
 }
