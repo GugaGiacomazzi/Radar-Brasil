@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-17T20:49:04.484Z",
+  "updated": "2026-11-17T21:50:09.010Z",
   "market": {
     "ibov": {
-      "price": 169625.31,
-      "pct": 0.19,
-      "time": "2026-11-17T20:48:58.171Z",
+      "price": 169816.64,
+      "pct": 0.31,
+      "time": "2026-11-17T21:49:42.459Z",
       "history": [
         {
           "d": "2026-10-19",
@@ -88,7 +88,7 @@
         },
         {
           "d": "2026-11-17",
-          "c": 169743.3438
+          "c": 169816.6406
         }
       ]
     },
@@ -145,19 +145,226 @@
   },
   "news": [
     {
-      "title": "Senado amplia em R$ 13,5 bi o crédito para o Plano Brasil Soberano 3",
-      "link": "https://www.poder360.com.br/poder-congresso/senado-amplia-em-r-135-bi-o-credito-para-o-plano-brasil-soberano-3/",
-      "date": "2026-11-17T20:46:54.000Z",
-      "summary": "Texto busca apoiar empresas afetadas pelo tarifaço imposto pelos Estados Unidos a produtos brasileiros; MP perderia validade na 4ª feira (18.nov)",
+      "title": "Medida que amplia crédito a exportações segue para sanção",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/17/medida-que-amplia-credito-a-exportacoes-segue-para-sancao",
+      "date": "2026-11-17T21:43:20.000Z",
+      "summary": "O Plenário do Senado aprovou nesta terça-feira (17) projeto derivado da medida provisória (MP) que ampliou em até R$ 13,5 bilhões os recursos do Plano Brasil Soberano destinados a empresas exportadoras prejudicadas pelo “tarifaço” dos Estados Unidos e pelos co",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Vendas da Nvidia dobram no 3º tri em meio à crise após saída de Huang",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/vendas-da-nvidia-dobram-no-3o-tri-em-meio-a-crise-apos-saida-de-huang.shtml",
+      "date": "2026-11-17T21:40:00.000Z",
+      "summary": "A Nvidia informou nesta terça-feira (16) que suas vendas dobraram no terceiro trimestre, apenas cinco dias após seu cofundador, Jensen Huang, renunciar ao cargo de CEO, desencadeando uma crise de liderança. Leia mais (11/17/2026 - 18h40)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "STF inaugura escultura de Oxê de Xangô, símbolo da Justiça, após pedido de líderes religiosos",
+      "link": "https://www.estadao.com.br/politica/stf-inaugura-escultura-oxe-de-xango-simbolo-justica-pedido-lideres-religiosos-npr/",
+      "date": "2026-11-17T21:37:47.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lucro da Nvidia dobra no 3º trimestre, para US$ 65,3 bilhões",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/17/balanco-nvidia.ghtml",
+      "date": "2026-11-17T21:36:15.000Z",
+      "summary": "Jensen Huang, durante conferência da Nvidia em 17 de março de 2026, e GPU H200, uma das mais avançadas da empresa Reuters/Carlos Barria; Divulgação A gigante americana de chips Nvidia informou nesta terça-feira (17) que registrou lucro líquido de US$ 65,3 bilh",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Aneel forma maioria para recomendar a antecipação do fim do contrato de concessão da Enel em SP",
+      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/17/aneel-forma-maioria-para-recomendar-o-encerramento-antecipado-da-concessao-da-enel-em-sp.ghtml",
+      "date": "2026-11-17T21:35:57.000Z",
+      "summary": "Diretos da Aneel durante reunião pública nesta terça (17). Reprodução A diretoria da Agência Nacional de Energia Elétrica (Aneel) formou maioria nesta terça-feira (17) para recomendar o encerramento antecipado da concessão da Enel Distribuição São Paulo, respo",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "BC anuncia leilões de swap cambial tradicional para fins de rolagem dos contratos vincendos em 4 de janeiro de 2027",
+      "link": "https://www.bcb.gov.br/detalhenoticia/21321/nota",
+      "date": "2026-11-17T21:30:21.000Z",
+      "summary": "",
+      "source": "Banco Central",
+      "cat": "economia",
+      "type": "oficial"
+    },
+    {
+      "title": "Votação do projeto de ajuste fiscal no Senado fica para esta quarta-feira",
+      "link": "https://www.camara.leg.br/noticias/1320416-votacao-do-projeto-de-ajuste-fiscal-no-senado-fica-para-esta-quarta-feira",
+      "date": "2026-11-17T21:30:00.000Z",
+      "summary": "Deputados discutiram o tema na sessão de hoje do Plenário",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "O que explica a explosão da inadimplência no agronegócio?",
+      "link": "https://www.dw.com/pt-br/o-que-explica-a-explosão-da-inadimplência-no-agronegócio/a-79975178?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-17T21:22:00.000Z",
+      "summary": "Expansão do crédito rural, queda dos preços das commodities e alta dos juros agravou o endividamento de produtores. Volume é maior em agricultores com renda mais alta.",
+      "source": "DW Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Cid Gomes promete relatório do novo Desenrola para início de dezembro",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/17/cid-gomes-promete-relatorio-do-novo-desenrola-para-inicio-de-dezembro",
+      "date": "2026-11-17T21:21:48.000Z",
+      "summary": "A comissão mista responsável por analisar a Medida Provisória (MP) 1.393/2026, que cria o Desenrola Brasil 3.0, foi instalada nesta terça-feira (17). O deputado Jonas Donizette (PSB-SP) foi eleito presidente do colegiado. Ele designou o senador Cid Gomes (PSB-",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Live Nation zera taxa em shows no Nubank Parque após pressão online",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/live-nation-zera-taxa-em-shows-no-nubank-parque-apos-pressao-online.shtml",
+      "date": "2026-11-17T21:17:00.000Z",
+      "summary": "O processo de comprar ingressos para shows tornou-se assunto polêmico nas redes sociais: fãs se queixam de sites instáveis, ausência de barreira contra cambistas e taxas altas cobradas por tiqueteiras e produtoras no momento da compra. O barulho nas redes soci",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Ipso/Ipec: 45% dos brasileiros aprovam Moraes ter pedido passaporte de Flávio; 44% são contra",
+      "link": "https://www.estadao.com.br/politica/ipsoipec-45-dos-brasileiros-aprovam-moraes-por-pedir-passaporte-de-flavio-nprp/",
+      "date": "2026-11-17T21:10:28.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "FBI alerta para ataques cibernéticos com IA em menos de 3 horas",
+      "link": "https://www.poder360.com.br/poder-internacional/fbi-alerta-para-ataques-ciberneticos-com-ia-em-menos-de-3-horas/",
+      "date": "2026-11-17T21:09:58.000Z",
+      "summary": "Ferramenta Artex automatiza invasões contra empresas, bancos e governos com mínima intervenção humana, diz boletim",
       "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
     },
     {
-      "title": "Senado adia votação de destaques ao ajuste fiscal de Lula",
-      "link": "https://www.poder360.com.br/poder-congresso/senado-adia-votacao-de-destaques-ao-ajuste-fiscal-de-lula/",
-      "date": "2026-11-17T20:46:36.000Z",
-      "summary": "Não houve acordo entre os líderes partidários para a análise da pauta; projeto ficou para a 4ª feira (18.nov)",
+      "title": "Gonet defende prorrogação de 90 dias em investigação contra Flávio Bolsonaro no caso Dark Horse",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/gonet-defende-prorrogacao-de-90-dias-em-investigacao-contra-flavio-bolsonaro/",
+      "date": "2026-11-17T21:08:12.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lula vai às redes defender que 'plano Moretti' não terá cortes para conter insatisfação na esquerda",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/lula-vai-as-redes-defender-que-plano-moretti-nao-tera-cortes-para-conter-insatisfacao-na-esquerda.shtml",
+      "date": "2026-11-17T21:02:00.000Z",
+      "summary": "O presidente Luiz Inácio Lula da Silva (PT) vai gravar um vídeo nesta terça-feira (17) em apoio às medidas de ajuste fiscal de seu governo, em um movimento para enquadrar setores do PT e da esquerda que têm se colocado contra o projeto. A bancada da sigla está",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "'Dark Horse': PGR concorda com pedido para prorrogar inquérito sobre financiamento do filme",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/17/caso-dark-horse-pgr-diz-ao-stf-que-apoia-prorrogar-inquerito-por-90-dias.ghtml",
+      "date": "2026-11-17T21:00:37.000Z",
+      "summary": "A Procuradoria-Geral da República (PGR) concordou com o pedido da Polícia Federal (PF) para prorrogar o inquérito que investiga o financiamento do filme Dark Horse, que trata da história do ex-presidente Jair Bolsonaro (PL), por 90 dias. O pedido de prorrogaçã",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Política comercial dos EUA faz Canadá e México procurarem a China",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/vaivem/2026/11/politica-comercial-dos-eua-faz-canada-e-mexico-procurarem-a-china.shtml",
+      "date": "2026-11-17T21:00:00.000Z",
+      "summary": "Donald Trump volta a se encontrar com Xi Jinping, e as exportações agropecuárias entram em pauta novamente. É um assunto que interessa ao Brasil, principalmente no caso da soja. A oleaginosa exportada pelos americanos recebe uma taxa extra de 10% para entrar n",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Usei o ‘Photoshop’ feito por IA e vi que o mercado de software precisa mudar para não morrer",
+      "link": "https://www.estadao.com.br/economia/negocios/usei-o-photoshop-feito-por-ia-e-vi-que-o-mercado-de-software-precisa-mudar-para-nao-morrer/",
+      "date": "2026-11-17T21:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Ascensão e queda de Jensen Huang da Nvidia: uma pessoa errada com as ideias certas",
+      "link": "https://www.estadao.com.br/economia/alexandre-chiavegatto-filho/ascensao-queda-jensen-huang-nvidia-pessoa-errada-ideias-certas/",
+      "date": "2026-11-17T21:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lula acumula 169 dias fora do Brasil no 3º mandato",
+      "link": "https://www.poder360.com.br/poder-governo/lula-acumula-169-dias-fora-do-brasil-no-3o-mandato/",
+      "date": "2026-11-17T20:58:53.000Z",
+      "summary": "Presidente brasileiro fez 50 viagens e visitou 43 países em quase 4 anos de governo",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Debate na CE sugere valorização contínua do Sesc e do Senac",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/17/debate-na-ce-sugere-valorizacao-continua-do-sesc-e-do-senac",
+      "date": "2026-11-17T20:58:42.000Z",
+      "summary": "A Comissão de Educação e Cultura (CE) promoveu nesta terça-feira (17) uma audiência pública para subsidiar a análise do projeto de lei que cria o Dia Nacional de Valorização e Reconhecimento do Serviço Social do Comércio (Sesc) e do Serviço Nacional de Aprendi",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Agosto será mês de combate à desigualdade e à pobreza, aprova Plenário",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/17/agosto-sera-mes-de-combate-a-desigualdade-e-a-pobreza-aprova-plenario",
+      "date": "2026-11-17T20:58:14.000Z",
+      "summary": "Agosto poderá se tornar o Mês Nacional de Combate à Desigualdade Social e de Enfrentamento à Pobreza. A medida está prevista em projeto de lei aprovado pelo Senado nesta terça-feira (17). O PL 4.035/2023 segue para sanção presidencial. O texto estabelece que, ",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Câmara aprova reconhecimento da romaria do Divino Pai Eterno como cultura nacional",
+      "link": "https://www.camara.leg.br/noticias/1320358-camara-aprova-reconhecimento-da-romaria-do-divino-pai-eterno-como-cultura-nacional",
+      "date": "2026-11-17T20:55:00.000Z",
+      "summary": "Festa reúne milhões de romeiros anualmente em Trindade, em Goiás",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Deputado do PL lança candidatura à presidência da Câmara em oposição a Motta",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/deputado-do-pl-lanca-candidatura-a-presidencia-da-camara-em-oposicao-a-motta.shtml",
+      "date": "2026-11-17T20:54:00.000Z",
+      "summary": "O deputado federal Luiz Philippe de Orléans e Bragança (PL-SP) vai lançar seu nome para disputar a presidência da Câmara dos Deputados em 2027. Leia mais (11/17/2026 - 17h54)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lula fez 10 viagens e passou 31 dias fora do Brasil em 2026",
+      "link": "https://www.poder360.com.br/poder-governo/lula-fez-10-viagens-e-passou-31-dias-fora-do-brasil-em-2026/",
+      "date": "2026-11-17T20:48:58.000Z",
+      "summary": "Presidente brasileiro retornou de visitas à Turquia, às Filipinas e à Espanha, onde se reuniu com Pedro Sánchez",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Senado amplia em R$ 13,5 bi o crédito para o Plano Brasil Soberano 3",
+      "link": "https://www.poder360.com.br/poder-congresso/senado-amplia-em-r-135-bi-o-credito-para-o-plano-brasil-soberano-3/",
+      "date": "2026-11-17T20:46:54.000Z",
+      "summary": "Texto busca apoiar empresas afetadas pelo tarifaço imposto pelos Estados Unidos a produtos brasileiros; MP perderia validade na 4ª feira (18.nov)",
       "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
@@ -170,6 +377,15 @@
       "source": "Folha",
       "cat": "politica",
       "type": "imprensa"
+    },
+    {
+      "title": "Câmara aprova crédito extraordinário de R$ 300 milhões para combate a incêndios na Amazônia",
+      "link": "https://www.camara.leg.br/noticias/1320344-camara-aprova-credito-extraordinario-de-r-300-milhoes-para-combate-a-incendios-na-amazonia",
+      "date": "2026-11-17T20:45:00.000Z",
+      "summary": "Governo apontou aproximação do fogo de áreas urbanas em alguns municípios do Amazonas",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
     },
     {
       "title": "Folha abre vaga de estágio na editoria de Treinamento",
@@ -199,26 +415,8 @@
       "type": "imprensa"
     },
     {
-      "title": "Ipsos/Ipec: 22% dos brasileiros se preocupam com resultado da eleição; 18% sentem esperança",
-      "link": "https://www.estadao.com.br/politica/ipsosipec-22-dos-brasileiros-se-preocupam-com-resultado-da-eleicao-18-sentem-esperanca-nprp/",
-      "date": "2026-11-17T20:39:31.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Coaf em 2027 usará IA e dará retorno a bancos sobre uso de informações contra lavagem de dinheiro",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/coaf-em-2027-usara-ia-e-dara-retorno-a-bancos-sobre-uso-de-informacoes-contra-lavagem-de-dinheiro.shtml",
-      "date": "2026-11-17T20:39:00.000Z",
-      "summary": "O Coaf (Conselho de Controle de Atividades Financeiras) prepara uma reformulação nos sistemas de notificação para o ano que vem, disse o presidente do conselho, Ricardo Saadi, durante evento da Febraban (Federação Brasileira de Bancos), realizado nesta terça-f",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Câmara aprova crédito de R$ 6,5 bi para ajudar exportadores atingidos pelo tarifaço dos EUA; acompanhe",
-      "link": "https://www.camara.leg.br/noticias/1320334-camara-aprova-credito-de-r-65-bi-para-ajudar-exportadores-atingidos-pelo-tarifaco-dos-eua-acompanhe",
+      "title": "Câmara aprova crédito de R$ 6,5 bi para ajudar exportadores atingidos pelo tarifaço dos EUA",
+      "link": "https://www.camara.leg.br/noticias/1320334-camara-aprova-credito-de-r-65-bi-para-ajudar-exportadores-atingidos-pelo-tarifaco-dos-eua",
       "date": "2026-11-17T20:37:00.000Z",
       "summary": "Os senadores ainda precisam votar a proposta",
       "source": "Agência Câmara",
@@ -226,17 +424,17 @@
       "type": "oficial"
     },
     {
-      "title": "Senado aprova regras de qualidade e segurança para implantes cirúrgicos",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/17/senado-aprova-regras-de-qualidade-e-seguranca-para-implantes-cirurgicos",
-      "date": "2026-11-17T20:31:22.000Z",
-      "summary": "A produção nacional de próteses, pinos, parafusos, placas ósseas, marcapassos e outros tipos de implantes cirúrgicos terá que seguir regras para diminuir casos de defeitos de fabricação, uso de materiais inadequados ou problemas de desempenho. É o que determin",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
+      "title": "Sem acordo, Senado adia votação do ajuste fiscal em meio a risco de desidratar impacto de R$ 56 bi",
+      "link": "https://www.estadao.com.br/economia/senado-adia-votacao-do-ajuste-fiscal-em-meio-a-risco-de-desidratar-impacto-de-r-56-bi/",
+      "date": "2026-11-17T20:32:28.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
     },
     {
-      "title": "Deputados aprovam crédito extra para pagar subvenção aos combustíveis; acompanhe",
-      "link": "https://www.camara.leg.br/noticias/1320331-deputados-aprovam-credito-extra-para-pagar-subvencao-aos-combustiveis-acompanhe",
+      "title": "Deputados aprovam crédito extra para pagar subvenção aos combustíveis",
+      "link": "https://www.camara.leg.br/noticias/1320331-deputados-aprovam-credito-extra-para-pagar-subvencao-aos-combustiveis",
       "date": "2026-11-17T20:31:00.000Z",
       "summary": "O texto será enviado ao Senado",
       "source": "Agência Câmara",
@@ -253,33 +451,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Senado adia votação de destaques do 'plano Moretti' de ajuste nas contas",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/senado-adia-votacao-de-destaques-do-plano-moretti-de-ajuste-nas-contas.shtml",
-      "date": "2026-11-17T20:28:00.000Z",
-      "summary": "O Senado adiou na tarde desta terça-feira (17) a votação de quatro possíveis mudanças no chamado \"plano Moretti\", o projeto de ajuste apresentado pelo governo de Luiz Inácio Lula da Silva (PT) para equilibrar as contas públicas. Com medidas para conter despesa",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Senado adia votação de destaques ao projeto de ajuste fiscal do governo para quarta-feira",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/17/senado-adia-votacao-de-destaques-ao-projeto-de-ajuste-fiscal-do-governo-para-quarta-feira.ghtml",
-      "date": "2026-11-17T20:27:07.000Z",
-      "summary": "Senadores devem votar destaques do ajuste fiscal nesta terça (17) O Senado Federal adiou para quarta-feira (18) a votação das propostas de mudanças no projeto de lei complementar (PLP) do ajuste fiscal do governo do presidente Luiz Inácio Lula da Silva (PT) qu",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Lula assina na 5ª feira decreto que regulamenta o fim da 6 X 1",
-      "link": "https://www.poder360.com.br/poder-governo/lula-assina-na-5a-feira-decreto-que-regulamenta-o-fim-da-6-x-1/",
-      "date": "2026-11-17T20:25:10.000Z",
-      "summary": "Ministro do Trabalho diz que todas as questões relativas à redução da escala serão tratadas no decreto, mas não deu detalhes",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Acordo da Stellantis com o RJ reforça disputa por incentivos para fábrica da Land Rover",
       "link": "https://www.estadao.com.br/jornal-do-carro/marcas-e-estrategias/acordo-da-stellantis-com-o-rj-reforca-disputa-por-incentivos-para-fabrica-da-land-rover/",
       "date": "2026-11-17T20:21:56.000Z",
@@ -289,102 +460,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Especialistas pedem mais atenção às políticas de prevenção de doenças cardiovasculares",
-      "link": "https://www.camara.leg.br/noticias/1320244-especialistas-pedem-mais-atencao-as-politicas-de-prevencao-de-doencas-cardiovasculares",
-      "date": "2026-11-17T20:21:00.000Z",
-      "summary": "Debatedores também alertam para a defasagem da tabela do SUS no pagamento de procedimentos do setor",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Senado aprova R$ 13,5 bilhões em crédito a exportadores afetados por tarifas e guerras",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/17/senado-aprova-mp-que-libera-r-135-bilhoes-em-credito-a-exportadores-afetados-por-tarifas-e-guerras.ghtml",
-      "date": "2026-11-17T20:16:08.000Z",
-      "summary": "O Senado Federal aprovou nesta terça-feira (17) a medida provisória que criou o programa Brasil Soberano 3, para minimizar os efeitos das tarifas impostas pelos Estados Unidos sobre produtos brasileiros e também aquelas impactadas pela guerra no Oriente Médio.",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Relator do ajuste fiscal na Câmara quer aprovar projeto sem mudanças",
-      "link": "https://www.poder360.com.br/poder-congresso/relator-do-ajuste-fiscal-na-camara-quer-aprovar-texto-sem-mudancas/",
-      "date": "2026-11-17T20:14:04.000Z",
-      "summary": "Benevides Filho espera texto do Senado e diz que aprimoramentos devem ficar para depois; projeto deve ser votado em ambas casas nesta 3ª feira (17.nov)",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Até onde o dólar pode subir? Por que o real é a moeda que mais perdeu valor desde a reeleição de Lula",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/ate-onde-o-dolar-pode-subir-por-que-o-real-e-a-moeda-que-mais-perdeu-valor-desde-a-reeleicao-de-lula.shtml",
-      "date": "2026-11-17T20:14:00.000Z",
-      "summary": "O real brasileiro foi a moeda, entre as 20 mais usadas no comércio exterior, que mais se desvalorizou no mundo nas últimas semanas - tendo perdido quase 14% do seu valor frente ao dólar americano. Leia mais (11/17/2026 - 17h14)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Câmara aprova crédito de R$ 925 milhões para prevenir efeitos do El Niño; acompanhe",
-      "link": "https://www.camara.leg.br/noticias/1320284-camara-aprova-credito-de-r-925-milhoes-para-prevenir-efeitos-do-el-nino-acompanhe",
-      "date": "2026-11-17T20:11:00.000Z",
-      "summary": "Recursos serão usados para formar estoques públicos de arroz e milho e distribuir alimentos",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Lula fez ajustes e vai assinar decreto que regulamenta 6x1 na quinta-feira (19), diz ministro do Trabalho",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/lula-fez-ajustes-e-vai-assinar-decreto-que-regulamenta-6x1-na-quinta-feira-19-diz-ministro-do-trabalho.shtml",
-      "date": "2026-11-17T20:11:00.000Z",
-      "summary": "O ministro do Trabalho, Luiz Marinho, afirmou nesta terça-feira (17) que o presidente Luiz Inácio Lula da Silva (PT) fez ajustes no decreto que regulamenta o fim da escala 6x1 e deve assiná-lo nesta quinta-feira (19). Leia mais (11/17/2026 - 17h11)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Câmara aprova crédito extra de R$ 360 milhões para ações de defesa civil; acompanhe",
-      "link": "https://www.camara.leg.br/noticias/1320263-camara-aprova-credito-extra-de-r-360-milhoes-para-acoes-de-defesa-civil-acompanhe",
-      "date": "2026-11-17T20:09:00.000Z",
-      "summary": "A proposta será enviada ao Senado",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
       "title": "O 'exército das avós': os números que mostram as responsáveis pelo pico de comparecimento nas eleições",
       "link": "https://www.bbc.com/portuguese/articles/cm9w9lyvv1exo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-17T20:07:30.000Z",
       "summary": "Dados do TSE confirmam agora que os vídeos não eram apenas 'virais' das redes sociais. Foram os idosos - e especialmente as idosas - que mais fizeram o esforço de votar entre o primeiro e o segundo turno, fazendo a abstenção ter a maior queda entre turnos desd",
       "source": "BBC News Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Tarcísio decide manter Roberto Carneiro como substituto de Kassab na articulação política",
-      "link": "https://www.estadao.com.br/politica/tarcisio-decide-manter-roberto-carneiro-como-substituto-de-kassab-na-articulacao-politica/",
-      "date": "2026-11-17T20:05:51.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "No Senado, ministro da Fazenda defende novo tributo sobre o consumo",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/17/no-senado-ministro-da-fazenda-defende-novo-tributo-sobre-o-consumo",
-      "date": "2026-11-17T20:01:38.000Z",
-      "summary": "O ministro da Fazenda, Dario Durigan, previu que a nova Contribuição sobre Bens e Serviços (CBS), criada pela reforma tributária, terá uma alíquota efetiva de 8,5%, beneficiando o consumidor médio. Durigan defendeu a implementação da reforma em audiência públi",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Credor da Lavoro vê irregularidades e pede afastamento de gestores na recuperação judicial",
-      "link": "https://www.estadao.com.br/economia/negocios/credor-da-lavoro-ve-irregularidades-e-pede-afastamento-de-gestores-na-recuperacao-judicial/",
-      "date": "2026-11-17T20:00:40.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -397,40 +478,13 @@
       "type": "imprensa"
     },
     {
-      "title": "Líder do governo no Congresso apresenta projeto para taxar big techs",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/lider-do-governo-no-congresso-apresenta-projeto-para-taxar-big-techs.shtml",
-      "date": "2026-11-17T20:00:00.000Z",
-      "summary": "O líder do governo no Congresso Nacional, senador Randolfe Rodrigues (PT-AP), apresentou projeto para taxar as big techs. A proposta geraria arrecadação extra ao governo federal e é feita no momento em que o governo Lula propõe um ajuste fiscal. Leia mais (11/",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Nikolas Ferreira ameaça sair do PL se partido apoiar reeleição de Motta na Câmara",
-      "link": "https://www.estadao.com.br/politica/nikolas-ferreira-ameaca-sair-do-pl-se-partido-apoiar-reeleicao-de-motta-na-camara-nprp/",
-      "date": "2026-11-17T19:59:22.000Z",
+      "title": "PF perde prazo dado por Fachin para se manifestar sobre inquérito contra Bolsonaro aberto em 2021",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/pf-perde-prazo-dado-por-fachin-para-se-manifestar-sobre-inquerito-contra-bolsonaro-aberto-em-2021/",
+      "date": "2026-11-17T19:37:53.000Z",
       "summary": "",
       "source": "Estadão",
       "cat": "politica",
       "type": "imprensa"
-    },
-    {
-      "title": "A reforma tributária, o ‘ajuste fiscal’ e os desafios para o agronegócio",
-      "link": "https://www.estadao.com.br/economia/agronegocios/a-reforma-tributaria-o-ajuste-fiscal-e-os-desafios-para-o-agronegocio/",
-      "date": "2026-11-17T19:11:44.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Davi e Motta pedem julgamento das ações da Lei da Dosimetria",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/17/davi-e-motta-pedem-julgamento-das-acoes-da-lei-da-dosimetria",
-      "date": "2026-11-17T19:11:06.000Z",
-      "summary": "O presidente do Senado, Davi Alcolumbre, e o presidente da Câmara, Hugo Motta, solicitaram nesta terça-feira (17) ao ministro do Supremo Tribunal Federal Alexandre de Moraes a liberação para votação das ações diretas de inconstitucionalidade que questionam a L",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
     },
     {
       "title": "Empresas usaram R$ 200 bilhões em créditos para pagar tributos até setembro; Senado debate restrição no ajuste fiscal",
@@ -442,48 +496,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Paim relembra comissão que propôs política de valorização do salário mínimo",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/17/paim-relembra-comissao-que-propos-politica-de-valorizacao-do-salario-minimo",
-      "date": "2026-11-17T18:28:54.000Z",
-      "summary": "O senador Paulo Paim (PT-RS) relembrou nesta terça-feira (17) a atuação da Comissão Mista Especial do Salário Mínimo, criada em 2005 para discutir mecanismos permanentes de reajuste do piso nacional. Em pronunciamento no Plenário, Paim destacou a promoção de 1",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Governo Lula retira urgência de projeto de bets para destravar votação de ajuste fiscal na Câmara",
-      "link": "https://www.estadao.com.br/politica/governo-retira-urgencia-de-projeto-de-bets-para-poder-votar-ajuste-fiscal-e-proposta-sobre-big-techs/",
-      "date": "2026-11-17T18:14:39.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "STJ suspende decisão que impedia cobrança de taxa da Uber para motoristas em todo o país",
       "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/17/stj-cobranca-taxa-uber-motoristas.ghtml",
       "date": "2026-11-17T17:56:37.000Z",
       "summary": "Motorista de aplicativo Maksim Goncharenok/Pexels O ministro Raul Araújo, do Superior Tribunal de Justiça (STJ), suspendeu provisoriamente os efeitos da decisão da 9ª Vara do Trabalho de Salvador (BA) que havia determinado a interrupção, em todo o país, do pro",
       "source": "g1",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Na expectativa de votar ajuste fiscal na Câmara, governo retira urgência de projeto sobre criminalização de bets",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/17/na-expectativa-de-votar-ajuste-fiscal-na-camara-governo-retira-urgencia-de-projeto-sobre-criminalizacao-de-bets.ghtml",
-      "date": "2026-11-17T17:24:06.000Z",
-      "summary": "Acesso bloqueado Brasil Sem Bets bets site celular Isabela Ortiz/g1 O governo Lula (PT) retirou nesta terça-feira (17) a urgência do projeto que tipifica os crimes de exploração e divulgação de bets. O texto trancaria, ou seja, impediria outras votações no ple",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Lula se reúne nesta terça-feira com Camilo, Fonteles e Rui Costa para discutir formação do Lula 4",
-      "link": "https://www.estadao.com.br/politica/lula-se-reune-nesta-terca-feira-com-camilo-fonteles-e-rui-costa-para-discutir-formacao-do-lula-4/",
-      "date": "2026-11-17T16:07:16.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -586,15 +604,6 @@
       "type": "oficial"
     },
     {
-      "title": "Economia alemã volta a crescer, mas temores permanecem",
-      "link": "https://www.dw.com/pt-br/economia-alemã-volta-a-crescer-mas-temores-permanecem/a-79957566?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-16T11:43:00.000Z",
-      "summary": "Perspectivas melhores não alteram problemas estruturais, e economistas alertam contra atraso nas reformas, déficits na produtividade e alto endividamento público.",
-      "source": "DW Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
       "title": "Lula vai conseguir emplacar 4 ministros no STF ou ficará refém de Senado bolsonarista?",
       "link": "https://www.bbc.com/portuguese/articles/c5n49ln0l4xeo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-16T08:46:29.000Z",
@@ -676,15 +685,6 @@
       "type": "oficial"
     },
     {
-      "title": "BC divulga Ata da 282ª reunião do Copom",
-      "link": "https://www.bcb.gov.br/detalhenoticia/21312/nota",
-      "date": "2026-11-10T11:01:06.000Z",
-      "summary": "",
-      "source": "Banco Central",
-      "cat": "economia",
-      "type": "oficial"
-    },
-    {
       "title": "'Não falei com Lula. Isso foi plantado para queimar alguém que defendeu a proposta', diz André Lara Resende",
       "link": "https://www.bbc.com/portuguese/articles/cmly0jeq2q9no?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-05T23:19:37.000Z",
@@ -695,7 +695,9 @@
     }
   ],
   "errors": [
+    "Dívida/PIB (SGS 13762): The operation was aborted due to timeout",
     "feed CNN Brasil: HTTP 404",
-    "feed CNN Brasil: HTTP 404"
+    "feed CNN Brasil: HTTP 404",
+    "feed Planalto (governo): HTTP 429"
   ]
 }
