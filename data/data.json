@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-17T05:56:23.419Z",
+  "updated": "2026-11-17T07:12:12.450Z",
   "market": {
     "ibov": {
       "price": 169295.4,
       "pct": -1.83,
-      "time": "2026-11-17T05:56:17.450Z",
+      "time": "2026-11-17T07:12:02.586Z",
       "history": [
         {
           "d": "2026-10-19",
@@ -141,6 +141,78 @@
   },
   "news": [
     {
+      "title": "Caoa Chery Tiggo 9 aposta em luxo e potência para fisgar clientes de SUVs alemães; vale a pena?",
+      "link": "https://g1.globo.com/carros/noticia/2026/11/17/caoa-chery-tiggo-9-aposta-em-luxo-e-potencia-para-fisgar-clientes-de-suvs-alemaes-vale-a-pena.ghtml",
+      "date": "2026-11-17T07:00:01.000Z",
+      "summary": "CAOA Chery Tiggo 9 na versão PHEV. Divulgação / CAOA Chery É raro, mas acontece muito no mundo dos carros: um nome ganha tanta força que fica mais conhecido do que a própria marca. É o caso do Cooper, da Mini, e do Corolla, da Toyota. No Brasil, o nome mais fo",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "'Parece que o rio vem assombrar a gente': ansiedade climática atinge produtores gaúchos que perderam tudo nas enchentes",
+      "link": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/11/17/parece-que-o-rio-vem-assombrar-a-gente-ansiedade-climatica-atinge-produtores-gauchos-que-perderam-tudo-nas-enchentes.ghtml",
+      "date": "2026-11-17T07:00:00.000Z",
+      "summary": "O medo que vem do céu Dois anos e meio após as enchentes de 2024, as terras da produtora de leite Angelita Hermes, em Vera Cruz, no Rio Grande do Sul, estão verdes de novo. Mas houve um tempo em que ela caminhava por ali e não enxergava nada disso. Foi quando ",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Instituto conservador prepara jovens para 'bombar' nas redes com vídeos de confronto político",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/instituto-conservador-prepara-jovens-para-bombar-nas-redes-com-videos-de-confronto-politico.shtml",
+      "date": "2026-11-17T07:00:00.000Z",
+      "summary": "Um grupo ligado à direita tem selecionado jovens para participar de cursos para formar lideranças do campo conservador nas redes sociais. O foco é a produção de vídeos de discussão política, o que inclui episódios de agressão a universitários, manifestantes e ",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Ministro aliado de Alckmin ganha força como possível novo chefe da Defesa",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/ministro-aliado-de-alckmin-ganha-forca-como-possivel-novo-chefe-da-defesa.shtml",
+      "date": "2026-11-17T07:00:00.000Z",
+      "summary": "O nome do ministro do Desenvolvimento, Indústria, Comércio e Serviços, Márcio Elias Rosa, principal aliado do vice-presidente Geraldo Alckmin (PSB), ganhou força nos últimos dias para ocupar o comando da pasta da Defesa no próximo governo Lula (PT). Leia mais ",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Pessoas com burnout e outros transtornos se sobrecarregam ao precisar provar que estão doentes",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/11/pessoas-com-burnout-e-outros-transtornos-se-sobrecarregam-ao-precisar-provar-que-estao-doentes.shtml",
+      "date": "2026-11-17T07:00:00.000Z",
+      "summary": "Não há gesso, curativo ou cicatriz. Quem sofre de doenças mentais, como burnout, depressão ou transtorno de pânico, costuma ter a aparência de quem está bem, e isso pode gerar um problema: a doença precisa ser comprovada não só ao INSS e ao empregador, mas tam",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Santander leiloa 195 imóveis em 20 estados, com lances a partir de R$ 34 mil",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/santander-leiloa-195-imoveis-em-20-estados-com-lances-a-partir-de-r-34-mil.shtml",
+      "date": "2026-11-17T07:00:00.000Z",
+      "summary": "O Santander realiza nesta terça-feira (17) um leilão de 195 imóveis residenciais distribuídos por 20 estados brasileiros. Leia mais (11/17/2026 - 04h00)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Impressoras 3D atraem quem busca renda extra, mas concorrência pressiona lucro",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/impressoras-3d-atraem-quem-busca-renda-extra-mas-concorrencia-pressiona-lucro.shtml",
+      "date": "2026-11-17T07:00:00.000Z",
+      "summary": "A possibilidade de fabricar objetos em casa e vendê-los pela internet transformou a impressão 3D em uma aposta para quem busca renda extra. Mas empreendedores do setor afirmam que a concorrência na venda de produtos genéricos dificulta a obtenção de lucro e ex",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Feirões oferecem descontos de até 99% para renegociar dívidas no fim do ano",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/feiroes-oferecem-descontos-de-ate-99-para-renegociar-dividas-no-fim-do-ano.shtml",
+      "date": "2026-11-17T07:00:00.000Z",
+      "summary": "Com a proximidade do fim do ano, consumidores encontram diferentes campanhas para renegociar dívidas e regularizar pendências financeiras. As iniciativas incluem mutirões de bancos e instituições financeiras e ações próprias de empresas de telefonia ou contas ",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "Os desafios de Lula na volta ao Brasil: formação do ministério e ajuste fiscal - O Assunto #1847",
       "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/11/17/os-desafios-de-lula-na-volta-ao-brasil-formacao-do-ministerio-e-ajuste-fiscal-o-assunto-1847.ghtml",
       "date": "2026-11-17T03:30:01.000Z",
@@ -186,33 +258,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Mega-Sena pode pagar R$ 34 milhões nesta terça-feira; g1 transmite ao vivo",
-      "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/17/mega-sena-pode-pagar-r-34-milhoes-nesta-terca-feira-g1-transmite-ao-vivo.ghtml",
-      "date": "2026-11-17T03:00:00.000Z",
-      "summary": "Como funciona a Mega-Sena? O concurso 3.087 da Mega-Sena pode pagar um prêmio de R$ 34 milhões para os apostadores que acertarem as seis dezenas. O sorteio ocorre às 21h desta terça-feira (17), em São Paulo. 📱Favorite o g1 no Google e acompanhe as principais ",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Aneel pode decidir nesta terça sobre caducidade da concessão da Enel-SP",
-      "link": "https://g1.globo.com/economia/blog/ana-flor/post/2026/11/17/aneel-pode-decidir-nesta-terca-sobre-caducidade-da-concessao-da-enel-sp.ghtml",
-      "date": "2026-11-17T03:00:00.000Z",
-      "summary": "A Agência Nacional de Energia Elétrica (Aneel) volta a se reunir nesta terça-feira (17) para discutir o processo que pode resultar na recomendação de caducidade da concessão da Enel SP, distribuidora responsável pelo fornecimento de energia na capital paulista",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Aluguel continua a subir acima da inflação; veja onde está mais caro",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/aluguel-continua-a-subir-acima-da-inflacao-veja-onde-esta-mais-caro.shtml",
-      "date": "2026-11-17T03:00:00.000Z",
-      "summary": "O aluguel residencial continua a subir em ritmo superior ao da inflação, embora os reajustes tenham perdido força nos últimos meses. Leia mais (11/17/2026 - 00h00)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Marinho e Tereza Cristina criticam Moraes por negar visitas a Bolsonaro",
       "link": "https://www.poder360.com.br/poder-congresso/marinho-e-tereza-cristina-criticam-moraes-por-negar-visitas-a-bolsonaro/",
       "date": "2026-11-17T02:14:44.000Z",
@@ -228,33 +273,6 @@
       "summary": "O ministro Alexandre de Moraes concentra a relatoria de quase metade das ações das cinco classes processuais mais diretamente ligadas à área criminal no STF (Supremo Tribunal Federal) e que não estão sob sigilo. Leia mais (11/16/2026 - 23h00)",
       "source": "Folha",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Bilionários do Vale do Silício se mobilizam pela volta de Jensen Huang à Nvidia",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/bilionarios-do-vale-do-silicio-se-mobilizam-pela-volta-de-jensen-huang-a-nvidia.shtml",
-      "date": "2026-11-17T02:00:00.000Z",
-      "summary": "Bilionários do Vale do Silício se mobilizaram pedindo a volta de Jensen Huang à presidência da Nvidia. Investidores como David Sacks, ex-czar de IA da Casa Branca, e Brad Gerstner, que administra mais de US$ 20 bilhões em capital de risco, afirmaram que não há",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Decreto da 6x1 deve ter regra que torna hora extra mais cara",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/decreto-da-6x1-deve-ter-regra-que-torna-hora-extra-mais-cara.shtml",
-      "date": "2026-11-17T02:00:00.000Z",
-      "summary": "O decreto do Ministério do Trabalho e Emprego para regulamentar a transição do fim da escala 6x1 deve fixar um cálculo que vai elevar o valor das horas extras. Leia mais (11/16/2026 - 23h00)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Um ano após liquidação, como evitar um novo Master continua em discussão; veja o que mudou",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/um-ano-apos-liquidacao-como-evitar-um-novo-master-segue-em-discussao-veja-o-que-mudou.shtml",
-      "date": "2026-11-17T02:00:00.000Z",
-      "summary": "Um ano depois da liquidação do Banco Master, o mercado ainda debate como evitar um novo caso semelhante. Algumas medidas para frear a emissão de CDBs (Certificados de Depósito Bancário) foram tomadas, mas especialistas consideram que outros instrumentos utiliz",
-      "source": "Folha",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -330,15 +348,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Durigan defende combate a supersalários, mas não se manifesta sobre mudança em projeto de ajuste",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/durigan-defende-combate-a-supersalarios-mas-nao-se-manifesta-sobre-mudanca-em-projeto-de-ajuste.shtml",
-      "date": "2026-11-17T00:00:00.000Z",
-      "summary": "O ministro da Fazenda, Dario Durigan, defendeu, em reunião com entidades da sociedade civil, que o governo adote posição firme no combate aos supersalários. Ele evitou, no entanto, se manifestar sobre uma mudança feita no projeto do ajuste fiscal que mantém os",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Equilíbrio fiscal é como a mulher de César, além de ser real, precisa parecer real",
       "link": "https://www.estadao.com.br/politica/eliane-cantanhede/equilibrio-fiscal-e-como-a-mulher-de-cesar-alem-de-ser-real-precisa-parecer-real/",
       "date": "2026-11-16T23:40:14.000Z",
@@ -364,15 +373,6 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Ex-prefeito que teve conversa exposta por Cleitinho diz que vai processá-lo e que vem sendo atacado",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/ex-prefeito-que-teve-conversa-exposta-por-cleitinho-diz-que-vai-processa-lo-e-que-vem-sendo-atacado.shtml",
-      "date": "2026-11-16T21:40:00.000Z",
-      "summary": "O ex-prefeito de Mirabela (MG) Luciano Rabelo Veloso (Avante), que teve uma ligação com o governador eleito de Minas Gerais, Cleitinho Azevedo (Republicanos), exposta nas redes sociais, diz que vem sendo atacado desde que seu número de telefone apareceu no víd",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
     },
     {
       "title": "Projeto proíbe uso da imagem de empregado em redes sociais da empresa sem previsão contratual",
