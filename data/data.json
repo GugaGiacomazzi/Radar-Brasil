@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-17T09:39:43.692Z",
+  "updated": "2026-11-17T10:42:36.323Z",
   "market": {
     "ibov": {
       "price": 169295.4,
       "pct": -1.83,
-      "time": "2026-11-17T09:39:36.533Z",
+      "time": "2026-11-17T10:42:31.004Z",
       "history": [
         {
           "d": "2026-10-19",
@@ -141,6 +141,42 @@
   },
   "news": [
     {
+      "title": "Equipe de Lula manda esquerda parar de atacar ajuste fiscal para evitar derrota no Senado",
+      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/17/equipe-de-lula-manda-esquerda-parar-de-atacar-ajuste-fiscal-para-evitar-derrota-no-senado.ghtml",
+      "date": "2026-11-17T10:30:49.000Z",
+      "summary": "Senado deve votar destaques do ajuste fiscal nesta terça-feira (17) A equipe do presidente Lula determinou que seus aliados na esquerda parem de atacar o ajuste fiscal para evitar uma derrota nesta terça-feira (17) no Senado Federal. A oposição tenta aproveita",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "“Reduzir os juros é a única saída”, diz Lara Resende em novo artigo",
+      "link": "https://www.poder360.com.br/poder-economia/reduzir-os-juros-e-a-unica-saida-diz-lara-resende-em-novo-artigo/",
+      "date": "2026-11-17T10:09:00.000Z",
+      "summary": "Economista volta a defender proposta de limite à Selic, rebate críticos e afirma: “Estado brasileiro gasta mal e gasta muito”",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Japão desloca caças e acusa Rússia de violação de espaço aéreo",
+      "link": "https://www.dw.com/pt-br/japão-desloca-caças-e-acusa-rússia-de-violação-de-espaço-aéreo/a-79966218?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-17T09:40:00.000Z",
+      "summary": "Governo japonês classificou episódio como \"grave violação de soberania\" e exigiu medidas para evitar novos incidentes. Relações entre os dois países seguem deterioradas.",
+      "source": "DW Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "O que Putin exige da Otan e da Europa",
+      "link": "https://www.dw.com/pt-br/o-que-putin-exige-da-otan-e-da-europa/a-79964253?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-17T09:35:00.000Z",
+      "summary": "Kremlin quer a retirada da aliança de grande parte do Leste Europeu como condição para o fim da guerra na Ucrânia. O que está por trás do plano russo e o que isso significaria para a segurança de milhões de europeus?",
+      "source": "DW Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
       "title": "Mercado quer que o povo pobre viva na miséria, diz Lula na Espanha",
       "link": "https://www.poder360.com.br/poder-governo/mercado-quer-que-o-povo-pobre-viva-na-miseria-diz-lula-na-espanha/",
       "date": "2026-11-17T09:23:02.000Z",
@@ -163,15 +199,6 @@
       "link": "https://www.poder360.com.br/poder-governo/governo-lula-leia-a-agenda-de-ministros-do-governo-nesta-3a-feira-16/",
       "date": "2026-11-17T09:15:37.000Z",
       "summary": "Durigan debate reforma tributária no Senado, Moretti se reúne com bancada do PT e ministros estarão em Roma",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Caso Master faz 1 ano com apuração sobre ministros do STF travada",
-      "link": "https://www.poder360.com.br/poder-justica/caso-master-faz-1-ano-com-apuracao-sobre-ministros-do-stf-travada/",
-      "date": "2026-11-17T09:00:55.000Z",
-      "summary": "Relatório da PF aponta 52 mensagens para Moraes; Fachin determinou apuração de citações aos 10 ministros",
       "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
@@ -325,15 +352,6 @@
       "link": "https://g1.globo.com/politica/noticia/2026/11/17/caso-master-completa-um-ano-com-vorcaro-preso-expectativa-de-denuncia-e-crise-no-stf.ghtml",
       "date": "2026-11-17T03:00:00.000Z",
       "summary": "O caso Master completa um ano nesta terça-feira (17), com o banqueiro Daniel Vorcaro preso, a expectativa de uma primeira denúncia pela Procuradoria-Geral da República (PGR) e uma série de apurações ainda em andamento. O caso também avançou sobre políticos e m",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Ajuste fiscal: Senado vota destaques ao projeto do governo nesta terça; veja o que pode mudar no texto",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/17/ajuste-fiscal-senado-vota-destaques-ao-projeto-do-governo-nesta-terca-veja-o-que-pode-mudar-no-texto.ghtml",
-      "date": "2026-11-17T03:00:00.000Z",
-      "summary": "Senado aprova texto-base de projeto que prevê ajuste fiscal de até R$ 60 bilhões O Senado Federal deve votar nesta terça-feira (17) propostas de mudanças no projeto de lei complementar (PLP) do ajuste fiscal do governo do presidente Luiz Inácio Lula da Silva (",
       "source": "g1",
       "cat": "politica",
       "type": "imprensa"
@@ -532,24 +550,6 @@
       "link": "https://www.dw.com/pt-br/na-amazônia-leão-14-condena-exploração-irresponsável-da-floresta/a-79953690?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-15T21:41:00.000Z",
       "summary": "Pontífice citou produção de ouro e petróleo e pediu esclarecimento de assassinatos de lideranças indígenas. Viagem do chefe do Vaticano ao país adotivo causa alvoroço.",
-      "source": "DW Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "IA reacende debate sobre renda básica universal na Alemanha",
-      "link": "https://www.dw.com/pt-br/ia-reacende-debate-sobre-renda-básica-universal-na-alemanha/a-79953150?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-15T21:41:00.000Z",
-      "summary": "Mercado de trabalho deverá ser profundamente afetado, com até 800 mil empregos eliminados em 15 anos. Economistas se dividem sobre viabilidade financeira da proposta para amortecer ruptura.",
-      "source": "DW Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Polonesas driblam veto ao aborto com armário de entrega de pílulas",
-      "link": "https://www.dw.com/pt-br/polonesas-driblam-veto-ao-aborto-com-armário-de-entrega-de-pílulas/a-79953437?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-15T20:07:00.000Z",
-      "summary": "'Abortomat' se inspira em solução para receber encomendas de lojas online. Iniciativa enfrenta oposição de grupos católicos em país com uma das legislações mais restritivas da Europa.",
       "source": "DW Brasil",
       "cat": "internacional",
       "type": "imprensa"
