@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-17T18:30:20.614Z",
+  "updated": "2026-11-17T19:43:41.803Z",
   "market": {
     "ibov": {
-      "price": 170092.92,
-      "pct": 0.47,
-      "time": "2026-11-17T18:30:14.863Z",
+      "price": 169543.16,
+      "pct": 0.15,
+      "time": "2026-11-17T19:43:35.550Z",
       "history": [
         {
           "d": "2026-10-19",
@@ -88,7 +88,7 @@
         },
         {
           "d": "2026-11-17",
-          "c": 170092.9219
+          "c": 169522.1094
         }
       ]
     },
@@ -145,31 +145,220 @@
   },
   "news": [
     {
-      "title": "Comissão aprova criação da Política Nacional Escola da Floresta para comunidades da Amazônia",
-      "link": "https://www.camara.leg.br/noticias/1319930-comissao-aprova-criacao-da-politica-nacional-escola-da-floresta-para-comunidades-da-amazonia",
-      "date": "2026-11-17T18:24:00.000Z",
-      "summary": "O projeto segue em análise na Câmara dos Deputados",
+      "title": "Deputados analisam requerimentos de urgência para diversos projetos; acompanhe",
+      "link": "https://www.camara.leg.br/noticias/1320134-deputados-analisam-requerimentos-de-urgencia-para-diversos-projetos-acompanhe",
+      "date": "2026-11-17T19:38:00.000Z",
+      "summary": "",
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
     },
     {
-      "title": "Comissão aprova projeto com diretrizes para reforçar atenção à saúde mental em regiões isoladas",
-      "link": "https://www.camara.leg.br/noticias/1319941-comissao-aprova-projeto-com-diretrizes-para-reforcar-atencao-a-saude-mental-em-regioes-isoladas",
-      "date": "2026-11-17T18:20:00.000Z",
-      "summary": "Texto segue em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
+      "title": "Amazon e Google terão cerca de 28% da Anthropic após IPO da empresa",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/amazon-e-google-terao-cerca-de-28-da-anthropic-apos-ipo-da-empresa.shtml",
+      "date": "2026-11-17T19:38:00.000Z",
+      "summary": "Dois dos maiores clientes da Anthropic terão, juntos, mais de 28% das ações da empresa após sua abertura de capital, reforçando os laços estreitos entre as companhias que impulsionam o boom da inteligência artificial. Leia mais (11/17/2026 - 16h38)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
     },
     {
-      "title": "Moraes autoriza visita de técnicos da Vivo à casa de Bolsonaro",
-      "link": "https://www.poder360.com.br/poder-justica/moraes-autoriza-visita-de-tecnicos-da-vivo-a-casa-de-bolsonaro/",
-      "date": "2026-11-17T18:17:46.000Z",
-      "summary": "Ministro determinou que os profissionais não poderão usar aparelhos estranhos à atividade técnica; ex-presidente cumpre prisão domiciliar",
+      "title": "Governo Lula monitora restrições dos EUA à venda de chips",
+      "link": "https://www.poder360.com.br/poder-governo/governo-lula-monitora-restricoes-dos-eua-a-venda-de-chips/",
+      "date": "2026-11-17T19:35:27.000Z",
+      "summary": "Medida americana para data centers tem origem doméstica; impacto sobre investimentos brasileiros ainda será medido",
       "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
+    },
+    {
+      "title": "Câmara prioriza ajuste fiscal e adia projeto das big techs",
+      "link": "https://www.poder360.com.br/poder-congresso/camara-prioriza-ajuste-fiscal-e-adia-projeto-das-big-techs/",
+      "date": "2026-11-17T19:35:24.000Z",
+      "summary": "Hugo Motta indica Mauro Benevides Filho para relatar ajuste econômico ainda antes de o texto chegar na Câmara; projeto sobre plataformas fica sem data",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Fundador do Cidadania vai à Justiça contra incorporação do partido pelo PP",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/fundador-do-cidadania-vai-a-justica-contra-incorporacao-do-partido-pelo-pp.shtml",
+      "date": "2026-11-17T19:34:00.000Z",
+      "summary": "Um dos fundadores do Cidadania e seu presidente durante décadas, Roberto Freire afirmou que irá à Justiça contra a incorporação do partido pelo PP. A decisão partiu do atual presidente da sigla, o deputado federal Alex Manente (SP), e abriu uma crise com parte",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Comissão debate propostas para ampliar recursos destinados ao fortalecimento da agropecuária",
+      "link": "https://www.camara.leg.br/noticias/1320163-comissao-debate-propostas-para-ampliar-recursos-destinados-ao-fortalecimento-da-agropecuaria",
+      "date": "2026-11-17T19:26:00.000Z",
+      "summary": "",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Governo Lula avalia impacto de restrição dos EUA à importação de chips de IA",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/governo-lula-avalia-impacto-de-restricao-dos-eua-a-importacao-de-chips-de-ia.shtml",
+      "date": "2026-11-17T19:23:00.000Z",
+      "summary": "O governo Lula (PT) ainda avalia o impacto da restrição imposta pelos Estados Unidos ao Brasil e a outros quatro países às importações de chips desenvolvidos no território americano. Os efeitos econômicos são analisados pelos ministros da Indústria, Márcio Eli",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Comissão aprova proposta que reconhece atividade policial como de risco permanente",
+      "link": "https://www.camara.leg.br/noticias/1320108-comissao-aprova-proposta-que-reconhece-atividade-policial-como-de-risco-permanente",
+      "date": "2026-11-17T19:19:00.000Z",
+      "summary": "O projeto continua em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Lula propôs 2 encontros entre Trump, Putin e Xi sobre guerra na Ucrânia",
+      "link": "https://www.poder360.com.br/poder-governo/lula-propos-2-encontros-entre-trump-putin-e-xi-sobre-guerra-na-ucrania/",
+      "date": "2026-11-17T19:16:48.000Z",
+      "summary": "Presidente sugeriu uma reunião do Conselho de Segurança da ONU e outra entre os 3 líderes; eles vão se encontrar na China, na 5ª feira (19.nov)",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "PT apoiará ajuste fiscal, mas quer barrar cortes extras, diz Uczai",
+      "link": "https://www.poder360.com.br/poder-congresso/pt-apoiara-ajuste-fiscal-mas-quer-barrar-cortes-extras-diz-uczai/",
+      "date": "2026-11-17T19:15:50.000Z",
+      "summary": "Líder petista afirma que bancada votará com governo, apesar de divergências sobre investimentos e o arcabouço fiscal",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Proibição das bets: levantamento do MJ identifica, em 53 dias, 60 mil conteúdos ilegais sobre apostas",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/17/proibicao-das-bets-levantamento-do-mj-identifica-em-53-dias-60-mil-conteudos-ilegais-sobre-apostas.ghtml",
+      "date": "2026-11-17T19:14:13.000Z",
+      "summary": "O Ministério da Justiça enviou nesta terça-feira (17), ao Supremo Tribunal Federal (STF), uma nota técnica em que diz ter contabilizado mais de 60 mil conteúdos ligados à promoção de bets de 25 de setembro a 9 de novembro. São publicações, páginas, perfis em r",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "A reforma tributária, o ‘ajuste fiscal’ e os desafios para o agronegócio",
+      "link": "https://www.estadao.com.br/economia/agronegocios/a-reforma-tributaria-o-ajuste-fiscal-e-os-desafios-para-o-agronegocio/",
+      "date": "2026-11-17T19:11:44.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Davi e Motta pedem julgamento das ações da Lei da Dosimetria",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/17/davi-e-motta-pedem-julgamento-das-acoes-da-lei-da-dosimetria",
+      "date": "2026-11-17T19:11:06.000Z",
+      "summary": "O presidente do Senado, Davi Alcolumbre, e o presidente da Câmara, Hugo Motta, solicitaram nesta terça-feira (17) ao ministro do Supremo Tribunal Federal Alexandre de Moraes a liberação para votação das ações diretas de inconstitucionalidade que questionam a L",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "‘Quebra de confiança’ levou à saída de delegados em meio ao escândalo do Master, diz chefe da PF",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/quebra-de-confianca-levou-a-saida-de-delegados-em-meio-ao-escandalo-do-master-diz-chefe-da-pf/",
+      "date": "2026-11-17T19:10:01.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Governo tira urgência de veto a bets para votar 'plano Moretti' na Câmara, e relator manterá texto do Senado",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/governo-tira-urgencia-de-veto-a-bets-para-votar-plano-moretti-na-camara-e-relator-mantera-texto-do-senado.shtml",
+      "date": "2026-11-17T19:04:00.000Z",
+      "summary": "Tanto o governo Lula (PT) quanto o presidente da Câmara dos Deputados, Hugo Motta (Republicanos-PB), atuam para que a votação do \"plano Moretti\" aconteça ainda nesta terça-feira (17). Leia mais (11/17/2026 - 16h04)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Motta: votação do ajuste fiscal demonstra compromisso com a estabilidade econômica",
+      "link": "https://www.camara.leg.br/noticias/1320220-motta-votacao-do-ajuste-fiscal-demonstra-compromisso-com-a-estabilidade-economica",
+      "date": "2026-11-17T19:02:00.000Z",
+      "summary": "Deputado Mauro Benevides Filho (União-CE) será o relator da proposta na Câmara",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Em meio a dúvidas dos partidos, Câmara dos Deputados adia projeto que regulamenta big techs",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/17/em-meio-a-duvidas-dos-partidos-camara-dos-deputados-adia-projeto-que-regulamenta-big-techs.ghtml",
+      "date": "2026-11-17T18:57:07.000Z",
+      "summary": "O presidente da Câmara dos Deputados, Hugo Motta (Republicanos-PB), afirmou que o plenário não votará o projeto do governo do presidente Luiz Inácio Lula da Silva (PT) que cria um órgão dentro do Conselho Administrativo de Defesa Econômica (Cade) que terá a at",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Corinthians entra com pedido de proteção contra credores e tenta renegociar dívidas de R$ 2,8 bi",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/corinthians-entra-com-pedido-de-tutela-cautelar-para-renegociar-dividas-de-r-28-bi.shtml",
+      "date": "2026-11-17T18:57:00.000Z",
+      "summary": "O Corinthians entrou com um pedido de tutela cautelar nesta terça-feira (17) para mediar a negociação com os credores, um processo que costuma anteceder uma eventual recuperação judicial. Leia mais (11/17/2026 - 15h57)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Ajuste fiscal: Senado deve votar hoje destaques ao texto-base do projeto do governo",
+      "link": "https://g1.globo.com/politica/ao-vivo/senado-pacote-medidas-fiscais.ghtml",
+      "date": "2026-11-17T18:56:09.000Z",
+      "summary": "Ajuste fiscal: Senado deve votar hoje destaques ao texto-base do projeto do governo Proposta promove corte de benefícios fiscais e altera cálculo do piso constitucional da saúde. Texto-base foi aprovado por 45 votos a 31 na última quinta-feira (12) O Senado de",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "STF inaugura símbolo de Xangô, orixá da Justiça, após pedido de líderes de religiões afro-brasileiras",
+      "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/17/stf-inaugura-simbolo-de-xango-orixa-da-justica-apos-pedido-de-liderancas-de-religioes-afro-brasileiras.ghtml",
+      "date": "2026-11-17T18:52:37.000Z",
+      "summary": "Oxê de Xangô, símbolo da Justiça na tradição iorubá e das religiões de matriz africana Idafro/Divulgação O Supremo Tribunal Federal (STF) inaugura, nesta terça-feira (17), uma escultura de Oxê de Xangô, símbolo da Justiça na tradição iorubá e das religiões de ",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Comissão aprova projeto que cria banco de monitoramento de crimes violentos",
+      "link": "https://www.camara.leg.br/noticias/1319998-comissao-aprova-projeto-que-cria-banco-de-monitoramento-de-crimes-violentos",
+      "date": "2026-11-17T18:47:00.000Z",
+      "summary": "Câmara continua analisando o assunto",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Ministra destaca investimentos de R$ 37 bilhões em ciência e tecnologia com lei do setor",
+      "link": "https://www.camara.leg.br/noticias/1320096-ministra-destaca-investimentos-de-r-37-bilhoes-em-ciencia-e-tecnologia-com-lei-do-setor",
+      "date": "2026-11-17T18:35:00.000Z",
+      "summary": "Comissão celebra 35 anos da Lei de TICs e debate futuro do setor tecnológico",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Empresas usaram R$ 200 bilhões em créditos para pagar tributos até setembro; Senado debate restrição no ajuste fiscal",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/17/creditos-tributarios-empresas-ajuste-fiscal.ghtml",
+      "date": "2026-11-17T18:32:53.000Z",
+      "summary": "Caixa de exportação em indústria calçadista em Franca, SP Jefferson Severiano Neves/EPTV Empresas declararam ter usado R$ 200,1 bilhões em créditos tributários para pagar tributos federais entre janeiro e setembro de 2026, segundo levantamento do g1 com dados ",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Paim relembra comissão que propôs política de valorização do salário mínimo",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/17/paim-relembra-comissao-que-propos-politica-de-valorizacao-do-salario-minimo",
+      "date": "2026-11-17T18:28:54.000Z",
+      "summary": "O senador Paulo Paim (PT-RS) relembrou nesta terça-feira (17) a atuação da Comissão Mista Especial do Salário Mínimo, criada em 2005 para discutir mecanismos permanentes de reajuste do piso nacional. Em pronunciamento no Plenário, Paim destacou a promoção de 1",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
     },
     {
       "title": "Governo retira urgência de projeto de bets para poder votar ajuste fiscal e proposta sobre big techs",
@@ -177,26 +366,8 @@
       "date": "2026-11-17T18:14:39.000Z",
       "summary": "",
       "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Corinthians vai à Justiça para negociar dívida com credores",
-      "link": "https://www.poder360.com.br/poder-sportsmkt/corinthians-vai-a-justica-para-negociar-divida-com-credores/",
-      "date": "2026-11-17T18:14:31.000Z",
-      "summary": "Clube pede mediação com supervisão judicial enquanto atrasa acordos e o MP-SP prepara pedido de intervenção",
-      "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
-    },
-    {
-      "title": "Governo quer que o projeto do ajuste fiscal seja votado ainda nesta terça-feira na Câmara",
-      "link": "https://www.camara.leg.br/noticias/1320183-governo-quer-que-o-projeto-do-ajuste-fiscal-seja-votado-ainda-nesta-terca-feira-na-camara",
-      "date": "2026-11-17T18:11:00.000Z",
-      "summary": "",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
     },
     {
       "title": "Senado abre licitação para instalar novo carpete por R$ 3,3 milhões",
@@ -208,56 +379,11 @@
       "type": "imprensa"
     },
     {
-      "title": "Comissão discute desafios para ampliar proteção a mulheres idosas vítimas de violência; participe",
-      "link": "https://www.camara.leg.br/noticias/1320062-comissao-discute-desafios-para-ampliar-protecao-a-mulheres-idosas-vitimas-de-violencia-participe",
-      "date": "2026-11-17T18:05:00.000Z",
-      "summary": "Convidados também vão debater a aplicação dos mecanismos de proteção previstos na Lei Maria da Penha e no Estatuto da Pessoa Idosa",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Randolfe diz que “faltou diálogo da esquerda” sobre ajuste fiscal",
-      "link": "https://www.poder360.com.br/poder-congresso/randolfe-diz-que-faltou-dialogo-da-esquerda-sobre-ajuste-fiscal/",
-      "date": "2026-11-17T18:04:20.000Z",
-      "summary": "Líder do governo no Congresso afirma que reação inicial à proposta dificultou a comunicação do Planalto com a sociedade",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Disney supera previsões de lucro e anuncia aumento de gastos com conteúdo",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/disney-supera-previsoes-de-lucro-e-anuncia-aumento-de-gastos-com-conteudo.shtml",
-      "date": "2026-11-17T18:02:00.000Z",
-      "summary": "A Walt Disney divulgou nesta terça-feira (17) receitas e lucros trimestrais que superaram as expectativas de Wall Street, impulsionados pelo aumento no número de visitantes dos parques temáticos e pela forte audiência da NFL (National Football League) -liga pr",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Depois de Ellen, Cármen e Rosa, o que falta?",
       "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/depois-de-ellen-carmen-e-rosa-o-que-falta/",
       "date": "2026-11-17T18:00:00.000Z",
       "summary": "",
       "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Presidentes da Câmara e do Senado pedem que STF julgue validade da Lei da Dosimetria neste ano",
-      "link": "https://www.camara.leg.br/noticias/1320142-presidentes-da-camara-e-do-senado-pedem-que-stf-julgue-validade-da-lei-da-dosimetria-neste-ano",
-      "date": "2026-11-17T17:58:00.000Z",
-      "summary": "A lei foi promulgada pelo Congresso Nacional em 8 de maio de 2026, após a derrubada de um veto integral do presidente Lula",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Manifesto pede indicação de Regina Helena Costa ao STF",
-      "link": "https://www.poder360.com.br/poder-justica/manifesto-pede-indicacao-de-regina-helena-costa-ao-stf/",
-      "date": "2026-11-17T17:57:08.000Z",
-      "summary": "Associações do direito tributário defendem que a ministra do STJ é o “nome mais bem preparado” para ocupar a cadeira de Barroso",
-      "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -271,75 +397,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Ex-CEO da Nvidia aceita depor no Congresso dos EUA sobre suposto acesso chinês a chips da empresa",
-      "link": "https://www.estadao.com.br/economia/ex-ceo-da-nvidia-aceita-depor-no-congresso-dos-eua-sobre-suposto-acesso-chines-a-chips-da-empresa-npr/",
-      "date": "2026-11-17T17:53:38.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Motta e Alcolumbre pedem a Moraes que plenário do STF analise dosimetria até o final deste ano",
-      "link": "https://www.estadao.com.br/politica/motta-e-alcolumbre-pedem-a-moraes-que-plenario-do-stf-analise-dosimetria-ate-o-final-deste-ano/",
-      "date": "2026-11-17T17:52:02.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Comissão aprova proposta de criação de ronda escolar para pessoas com deficiência",
-      "link": "https://www.camara.leg.br/noticias/1320047-comissao-aprova-proposta-de-criacao-de-ronda-escolar-para-pessoas-com-deficiencia",
-      "date": "2026-11-17T17:50:00.000Z",
-      "summary": "Projeto segue em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Huang diz que se 'arrepende profundamente' de erros e que aceitaria volta à Nvidia",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/huang-diz-que-se-arrepende-profundamente-de-erros-e-que-aceitaria-volta-a-nvidia.shtml",
-      "date": "2026-11-17T17:43:00.000Z",
-      "summary": "Cinco dias após anunciar sua renúncia, Jensen Huang afirmou nesta terça-feira (17) que está disposto a voltar a ocupar os cargos de presidente e CEO da Nvidia caso o conselho de administração peça pelo seu retorno. Porém o conselho descartou o retorno nessa se",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "STJ dá 90 dias para Buzzi deixar imóvel funcional em Brasília",
-      "link": "https://www.estadao.com.br/politica/stj-da-90-dias-para-buzzi-deixar-imovel-funcional-em-brasilia/",
-      "date": "2026-11-17T17:41:17.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Alcolumbre e Motta se reúnem com Moraes e pedem que ministro paute no STF lei que reduz penas de Bolsonaro",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/alcolumbre-e-motta-se-reunem-com-moraes-e-pedem-que-ministro-paute-no-stf-lei-que-reduz-penas-de-bolsonaro.shtml",
       "date": "2026-11-17T17:39:00.000Z",
       "summary": "Os presidentes do Senado, Davi Alcolumbre (União Brasil-AP), e da Câmara dos Deputados, Hugo Motta (Republicanos-PB), pediram nesta terça-feira (17) que o ministro Alexandre de Moraes, do STF (Supremo Tribunal Federal), paute a Lei da Dosimetria, que reduz a p",
       "source": "Folha",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Alíquota da CBS teve impacto de isenções propostas pelo STF, diz Durigan",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/aliquota-da-cbs-teve-impacto-de-isencoes-propostas-pelo-stf-diz-durigan.shtml",
-      "date": "2026-11-17T17:34:00.000Z",
-      "summary": "O ministro Dario Durigan, da Fazenda, disse nesta terça-feira (17) que decisões judiciais ampliando o direito a isenções fiscais têm impacto sobre a alíquota da CBS (Contribuição sobre Bens e Serviços), a primeira dos dois tributos da reforma a entrar em vigor",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "SC flexibiliza restrições em granjas após controlar último foco de doença de Newcastle",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/agro/2026/11/sc-flexibiliza-restricoes-em-granjas-apos-controlar-ultimo-foco-de-doenca-de-newcastle.shtml",
-      "date": "2026-11-17T17:34:00.000Z",
-      "summary": "Santa Catarina flexibilizou as restrições sanitárias impostas após a decretação de emergência zoossanitária no estado devido à identificação de cinco focos da doença de Newcastle em três municípios. Leia mais (11/17/2026 - 14h34)",
-      "source": "Folha",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -352,21 +415,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Alcolumbre e Motta cobram de Moraes julgamento da lei da dosimetria",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/17/alcolumbre-e-motta-cobram-de-moraes-julgamento-da-lei-da-dosimetria.ghtml",
-      "date": "2026-11-17T17:29:01.000Z",
-      "summary": "Alexandre de Moraes em sessão plenária do STF Antonio Augusto/STF O presidente do Senado, Davi Alcolumbre (União-AP), e o presidente da Câmara dos Deputados, Hugo Motta (Republicanos-PB), estiveram nesta terça-feira (17) com o ministro Alxandre de Moraes, do S",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Na expectativa de votar ajuste fiscal na Câmara, governo retira urgência de projeto sobre criminalização de bets",
       "link": "https://g1.globo.com/politica/noticia/2026/11/17/na-expectativa-de-votar-ajuste-fiscal-na-camara-governo-retira-urgencia-de-projeto-sobre-criminalizacao-de-bets.ghtml",
       "date": "2026-11-17T17:24:06.000Z",
       "summary": "Acesso bloqueado Brasil Sem Bets bets site celular Isabela Ortiz/g1 O governo Lula (PT) retirou nesta terça-feira (17) a urgência do projeto que tipifica os crimes de exploração e divulgação de bets. O texto trancaria, ou seja, impediria outras votações no ple",
       "source": "g1",
-      "cat": "politica",
+      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -379,30 +433,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Mais de 7,6 mil candidatos farão novo exame nacional que virou porta de entrada para concursos de cartórios",
+      "title": "ENAC: mais de 7,6 mil candidatos farão exame nacional obrigatório para concursos de cartórios",
       "link": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/11/17/exame-nacional-cartorios-quarta-edicao-prova-novembro.ghtml",
       "date": "2026-11-17T17:21:39.000Z",
-      "summary": "Sede do Conselho Nacional de Justiça (CNJ), em Brasília. Gil Ferreira/CNJ/Divulgação Mais de 7,6 mil candidatos em todo o país vão participar, no próximo domingo (22), da 4ª edição do Exame Nacional dos Cartórios (ENAC), prova que se tornou uma etapa obrigatór",
+      "summary": "Sede do Conselho Nacional de Justiça. Rômulo Serpa/Agência CNJ Mais de 7,6 mil candidatos em todo o país vão participar, no próximo domingo (22), da quarta edição do Exame Nacional dos Cartórios (ENAC), prova que se tornou uma etapa obrigatória para quem desej",
       "source": "g1",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Ajuste fiscal: Senado deve votar hoje destaques ao texto-base do projeto do governo",
-      "link": "https://g1.globo.com/politica/ao-vivo/senado-pacote-medidas-fiscais.ghtml",
-      "date": "2026-11-17T17:13:01.000Z",
-      "summary": "Ajuste fiscal: Senado deve votar hoje destaques ao texto-base do projeto do governo Proposta promove corte de benefícios fiscais e altera cálculo do piso constitucional da saúde. Texto-base foi aprovado por 45 votos a 31 na última quinta-feira (12) O Senado de",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Ministro da Fazenda diz que pacote fiscal é só o 'primeiro passo' e prega ajuste gradual 'sem negacionismo' para baixar juros",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/17/ministro-da-fazenda-que-pacote-e-so-o-primeiro-passo-e-prega-ajuste-gradual-sem-negacionismo-para-baixar-juro.ghtml",
-      "date": "2026-11-17T17:10:51.000Z",
-      "summary": "O ministro da Fazenda, Dario Durigan, afirmou nesta terça-feira (17) que o pacote de ajuste fiscal em análise pelo Congresso é apenas o primeiro passo de um processo mais amplo, que será de forma gradual ao longo do quarto mandato do presidente Luiz Inácio Lul",
-      "source": "g1",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -410,15 +446,6 @@
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/relator-de-projeto-do-mercado-digital-prepara-nova-versao-para-reforcar-que-nao-ha-regulacao-de-conteudo.shtml",
       "date": "2026-11-17T15:33:00.000Z",
       "summary": "O relator do PL dos Mercados Digitais, deputado Aliel Machado (PV-PR), prepara uma nova versão do texto para deixar mais claro que o projeto não prevê a regulação de conteúdo das redes. Este é um dos principais motivos apontados pelas bancadas para votar contr",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Senador vê interferência de Andrei contra delegados e tentativa de acobertamento na PF",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/senador-ve-interferencia-de-andrei-contra-delegados-e-tentativa-de-acobertamento-na-pf.shtml",
-      "date": "2026-11-17T15:30:00.000Z",
-      "summary": "O senador Alessandro Vieira (MDB-SE) vê uma possível interferência política do diretor-geral da Polícia Federal, Andrei Rodrigues, no trabalho dos delegados que elaboraram relatórios sobre as relações de ministros do STF (Supremo Tribunal Federal) com Daniel V",
       "source": "Folha",
       "cat": "politica",
       "type": "imprensa"
@@ -451,15 +478,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Dívida pode superar 100% do PIB se nada for feito nos próximos 4 anos, diz presidente do Itaú",
-      "link": "https://www.estadao.com.br/economia/itau-maluhy-divida-publica-pib-se-nada-for-feito-proximos-4-anos/",
-      "date": "2026-11-17T13:19:50.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Brasil teve 1,6 mil intoxicações por pesticidas europeus em 2025",
       "link": "https://www.dw.com/pt-br/brasil-teve-1-6-mil-intoxicações-por-pesticidas-europeus-em-2025/a-79969105?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-17T13:10:00.000Z",
@@ -484,6 +502,15 @@
       "summary": "Kremlin quer a retirada da aliança de grande parte do Leste Europeu como condição para o fim da guerra na Ucrânia. O que está por trás do plano russo e o que isso significaria para a segurança de milhões de europeus?",
       "source": "DW Brasil",
       "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Inteligência artificial pode transformar a fala na principal forma de usar a internet; entenda",
+      "link": "https://www.estadao.com.br/economia/negocios/inteligencia-artificial-pode-transformar-a-fala-na-principal-forma-de-usar-a-internet-entenda/",
+      "date": "2026-11-16T20:40:40.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -651,6 +678,7 @@
   ],
   "errors": [
     "feed CNN Brasil: HTTP 404",
-    "feed CNN Brasil: HTTP 404"
+    "feed CNN Brasil: HTTP 404",
+    "feed Planalto (governo): HTTP 429"
   ]
 }
