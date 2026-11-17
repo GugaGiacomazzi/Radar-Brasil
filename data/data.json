@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-17T22:50:30.987Z",
+  "updated": "2026-11-17T23:46:33.526Z",
   "market": {
     "ibov": {
       "price": 169816.64,
       "pct": 0.31,
-      "time": "2026-11-17T22:50:24.983Z",
+      "time": "2026-11-17T23:46:26.417Z",
       "history": [
         {
           "d": "2026-10-19",
@@ -145,6 +145,96 @@
   },
   "news": [
     {
+      "title": "Plano de demissão voluntária da GM envolve Onix e 24 meses de convênio médico",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/plano-de-demissao-voluntaria-da-gm-envolve-onix-e-24-meses-de-convenio-medico.shtml",
+      "date": "2026-11-17T23:44:00.000Z",
+      "summary": "A GM (General Motors), dona da marca Chevrolet, apresentou uma proposta de PDV (Plano de Demissão Voluntária) para funcionários da unidade fabril em São José dos Campos (86 km de São Paulo). A proposta, aceita pelos metalúrgicos da unidade, inclui bônus como s",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Câmara aprova mais R$ 6,5 bi para empresas afetadas por tarifaço dos EUA e conflitos no Oriente Médio",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/camara-aprova-mais-r-65-bi-para-empresas-afetadas-por-tarifaco-dos-eua-e-conflitos-no-oriente-medio.shtml",
+      "date": "2026-11-17T23:37:00.000Z",
+      "summary": "A Câmara dos Deputados aprovou nesta terça-feira (17) uma MP (medida provisória) que libera cerca de R$ 6,5 bilhões em crédito extraordinário para ajudar empresas brasileiras afetadas pelas tarifas impostas pelo governo do presidente Donald Trump e pela guerra",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "STF instala na corte escultura de Oxê de Xangô, símbolo de justiça em religiões de matriz africana",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/stf-instala-na-corte-escultura-de-oxe-de-xango-simbolo-de-justica-em-religioes-de-matriz-africana.shtml",
+      "date": "2026-11-17T23:36:00.000Z",
+      "summary": "O STF (Supremo Tribunal Federal) inaugurou nesta terça-feira (17) a instalação de uma escultura de Oxê de Xangô no Salão Nobre da corte. A estátua representa um símbolo de justiça em religiões de matriz africana e na tradição iorubá. Leia mais (11/17/2026 - 20",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Brasil contesta análise europeia de negócio entre Anglo American e MMG, diz agência",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/brasil-contesta-analise-europeia-de-negocio-entre-anglo-american-e-mmg-diz-agencia.shtml",
+      "date": "2026-11-17T23:35:00.000Z",
+      "summary": "O governo brasileiro enviou uma carta à União Europeia contestando a análise em curso de autoridades antitruste do bloco sobre a venda da unidade brasileira de níquel da Anglo American para a MMG, afirmaram duas fontes diplomáticas à agência de notícias Reuter",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Aliados de Motta veem isolamento do PL com candidatura própria",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/aliados-de-motta-veem-isolamento-do-pl-com-candidatura-propria.shtml",
+      "date": "2026-11-17T23:30:00.000Z",
+      "summary": "Aliados do presidente da Câmara, Hugo Motta (Republicanos-PB), afirmam que o PL vai se isolar ainda mais com o lançamento de candidatura própria à presidência da Câmara. Leia mais (11/17/2026 - 20h30)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Jader e Helder Barbalho pedem ao STJ criação de novas seções para o TRF-1",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/jader-e-helder-barbalho-pedem-ao-stj-criacao-de-novas-secoes-para-o-trf-1.shtml",
+      "date": "2026-11-17T23:21:00.000Z",
+      "summary": "O senador Jader Barbalho (MDB-PA) e o senador eleito Helder Barbalho (MDB-PA) entregaram ao presidente do STJ, Luis Felipe Salomão, nesta terça-feira (17), uma sugestão de anteprojeto que cria seções descentralizadas do Tribunal Regional Federal da 1ª Região e",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Tarcísio mantém dirigente do Republicanos na articulação política e confirma outros 4 secretários",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/tarcisio-mantem-dirigente-do-republicanos-na-articulacao-politica-e-confirma-outros-4-secretarios.shtml",
+      "date": "2026-11-17T23:14:00.000Z",
+      "summary": "O governador Tarcísio de Freitas (Republicanos) anunciou, nesta terça-feira (17), a permanência de Roberto Carneiro, presidente estadual de seu partido, como secretário de Governo e Relações Institucionais, em uma iniciativa que busca evitar, no próximo mandat",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Trump minimiza série de falhas tecnológicas nos EUA e diz que 'coisas assim acontecem'",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/tec/2026/11/trump-minimiza-serie-de-falhas-tecnologicas-nos-eua-e-diz-que-coisas-assim-acontecem.shtml",
+      "date": "2026-11-17T23:10:00.000Z",
+      "summary": "O presidente dos Estados Unidos, Donald Trump, minimizou nesta terça-feira (17) uma série de falhas tecnológicas que afetaram o transporte aéreo, o setor bancário e os sistemas de segurança nacional dos EUA nos últimos dias. Leia mais (11/17/2026 - 20h10)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "O que a Comissão Antimáfia da Itália veio ver no Brasil e o que o Congresso pode aprender com ela",
+      "link": "https://www.estadao.com.br/politica/marcelo-godoy/o-que-a-comissao-antimafia-da-italia-veio-ver-no-brasil-e-o-que-o-congresso-pode-aprender-com-ela/",
+      "date": "2026-11-17T23:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "O mercado e o BC tateiam no escuro diante da incerteza sobre a política fiscal do 4º mandato de Lula",
+      "link": "https://www.estadao.com.br/economia/fabio-alves/o-mercado-e-o-bc-tateiam-no-escuro-diante-da-incerteza-sobre-a-politica-fiscal-do-4-mandato-de-lula/",
+      "date": "2026-11-17T23:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "Governo recusou proposta de R$ 75 bi no ajuste fiscal, diz Marinho",
       "link": "https://www.poder360.com.br/poder-congresso/governo-recusou-proposta-de-r-75-bi-no-ajuste-fiscal-diz-marinho/",
       "date": "2026-11-17T22:42:06.000Z",
@@ -172,12 +262,12 @@
       "type": "oficial"
     },
     {
-      "title": "PL tem articulação para lançar Nikolas ao comando da Câmara após racha sobre apoio a Motta",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/pl-tem-articulacao-para-lancar-nikolas-ao-comando-da-camara-apos-racha-sobre-apoio-a-motta.shtml",
-      "date": "2026-11-17T22:35:00.000Z",
-      "summary": "Após um racha na bancada do PL, integrantes do partido articulam o anúncio ainda nesta semana de uma candidatura própria à presidência da Câmara dos Deputados. Leia mais (11/17/2026 - 19h35)",
-      "source": "Folha",
-      "cat": "politica",
+      "title": "Renegociação de dívidas rurais alcança R$ 28 bi em 70 mil operações, aquém do esperado",
+      "link": "https://www.estadao.com.br/economia/agronegocios/renegociacao-de-dividas-rurais-alcanca-r-28-bi-em-r-70-mil-operacoes-aquem-do-esperado/",
+      "date": "2026-11-17T22:37:14.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -199,10 +289,10 @@
       "type": "imprensa"
     },
     {
-      "title": "Fachin diz que STF pode julgar ainda neste ano lei que pode reduzir penas de Bolsonaro e aliados se Moraes liberar ações",
+      "title": "Fachin diz que STF julgará ainda neste ano lei que pode reduzir penas de Bolsonaro e aliados se Moraes liberar ações",
       "link": "https://g1.globo.com/politica/noticia/2026/11/17/fachin-diz-que-stf-pode-julgar-ainda-neste-ano-acoes-contra-lei-da-dosimetria-se-moraes-liberar-caso.ghtml",
       "date": "2026-11-17T22:27:08.000Z",
-      "summary": "O presidente do Supremo Tribunal Federal (STF), Edson Fachin, afirmou nesta terça-feira (17) que pode ocorrer ainda neste ano o julgamento das ações que questionam a chamada Lei da Dosimetria, que prevê a redução de penas para condenados por atentados golpista",
+      "summary": "O presidente do Supremo Tribunal Federal (STF), Edson Fachin, afirmou nesta terça-feira (17) que o julgamento das ações que questionam a chamada Lei da Dosimetria, que prevê a redução de penas para condenados por atentados golpistas no país, pode ocorrer ainda",
       "source": "g1",
       "cat": "politica",
       "type": "imprensa"
@@ -214,24 +304,6 @@
       "summary": "Ex-ministro da Cultura diz que discorda de processo que associaria Cidadania a partido derivado do Arena, pilar da Ditadura Militar",
       "source": "Poder360",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Na contramão da concorrência, Inter oferece R$ 4 bilhões em crédito na Black Friday",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/em-meio-a-crise-de-inadimplencia-inter-oferece-r-4-bilhoes-em-credito-na-black-friday.shtml",
-      "date": "2026-11-17T22:16:00.000Z",
-      "summary": "Enquanto a concorrência aperta a cessão de crédito, em meio ao crescimento da inadimplência entre as famílias brasileiras, o Inter decidiu nadar contra a corrente e oferecer R$ 4 bilhões em crédito extra com foco na Black Friday. A oferta, porém, será modulada",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Fim da escala 6x1: Lula assinará decreto de regulamentação na quinta-feira, diz Marinho",
-      "link": "https://www.estadao.com.br/economia/fim-da-escala-6x1-lula-assinara-decreto-de-regulamentacao-na-quinta-feira-diz-marinho/",
-      "date": "2026-11-17T22:14:55.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -271,15 +343,6 @@
       "type": "oficial"
     },
     {
-      "title": "Durigan: Reforma tributária pode ter ‘pequeno impacto’ na inflação, mas mercado vai ajustar preços",
-      "link": "https://www.estadao.com.br/economia/durigan-reforma-tributaria-pode-ter-pequeno-impacto-na-inflacao-mas-mercado-vai-ajustar-precos/",
-      "date": "2026-11-17T21:46:47.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Medida que amplia crédito a exportações segue para sanção",
       "link": "https://www12.senado.leg.br/noticias/materias/2026/11/17/medida-que-amplia-credito-a-exportacoes-segue-para-sancao",
       "date": "2026-11-17T21:43:20.000Z",
@@ -298,15 +361,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Vendas da Nvidia dobram no 3º tri em meio à crise após saída de Huang",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/vendas-da-nvidia-dobram-no-3o-tri-em-meio-a-crise-apos-saida-de-huang.shtml",
-      "date": "2026-11-17T21:40:00.000Z",
-      "summary": "A Nvidia informou nesta terça-feira (16) que suas vendas dobraram no terceiro trimestre, apenas cinco dias após seu cofundador, Jensen Huang, renunciar ao cargo de CEO, desencadeando uma crise de liderança. Leia mais (11/17/2026 - 18h40)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "STF inaugura escultura de Oxê de Xangô, símbolo da Justiça, após pedido de líderes religiosos",
       "link": "https://www.estadao.com.br/politica/stf-inaugura-escultura-oxe-de-xango-simbolo-justica-pedido-lideres-religiosos-npr/",
       "date": "2026-11-17T21:37:47.000Z",
@@ -316,7 +370,7 @@
       "type": "imprensa"
     },
     {
-      "title": "Lucro da Nvidia dobra no 3º trimestre, para US$ 65,3 bilhões",
+      "title": "Nvidia dobra lucro para US$ 65,3 bilhões em primeiro balanço após saída de Jensen Huang",
       "link": "https://g1.globo.com/tecnologia/noticia/2026/11/17/balanco-nvidia.ghtml",
       "date": "2026-11-17T21:36:15.000Z",
       "summary": "Jensen Huang, durante conferência da Nvidia em 17 de março de 2026, e GPU H200, uma das mais avançadas da empresa Reuters/Carlos Barria; Divulgação A fabricante de chips Nvidia afirmou nesta terça-feira (17) que registrou lucro líquido de US$ 65,3 bilhões (R$ ",
@@ -325,10 +379,10 @@
       "type": "imprensa"
     },
     {
-      "title": "Aneel tem 4 votos a favor de recomendar fim da concessão da Enel em SP, mas diretor-geral pede vista",
+      "title": "Aneel forma maioria para recomendar fim antecipado da concessão da Enel em SP, mas diretor pede vista",
       "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/17/aneel-forma-maioria-para-recomendar-o-encerramento-antecipado-da-concessao-da-enel-em-sp.ghtml",
       "date": "2026-11-17T21:35:57.000Z",
-      "summary": "Diretos da Aneel durante reunião pública nesta terça (17). Reprodução A diretoria da Agência Nacional de Energia Elétrica (Aneel) teve quatro votos favoráveis à recomendação de encerramento antecipado da concessão da Enel Distribuição São Paulo, responsável pe",
+      "summary": "Diretos da Aneel durante reunião pública nesta terça (17). Reprodução A diretoria da Agência Nacional de Energia Elétrica (Aneel) formou maioria nesta terça-feira (17) para recomendar o encerramento antecipado da concessão da Enel Distribuição São Paulo, respo",
       "source": "g1",
       "cat": "politica",
       "type": "imprensa"
@@ -361,15 +415,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Live Nation zera taxa em shows no Nubank Parque após pressão online",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/live-nation-zera-taxa-em-shows-no-nubank-parque-apos-pressao-online.shtml",
-      "date": "2026-11-17T21:17:00.000Z",
-      "summary": "O processo de comprar ingressos para shows tornou-se assunto polêmico nas redes sociais: fãs se queixam de sites instáveis, ausência de barreira contra cambistas e taxas altas cobradas por tiqueteiras e produtoras no momento da compra. O barulho nas redes soci",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Ipso/Ipec: 45% dos brasileiros aprovam Moraes ter pedido passaporte de Flávio; 44% são contra",
       "link": "https://www.estadao.com.br/politica/ipsoipec-45-dos-brasileiros-aprovam-moraes-por-pedir-passaporte-de-flavio-nprp/",
       "date": "2026-11-17T21:10:28.000Z",
@@ -379,21 +424,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Gonet defende prorrogação de 90 dias em investigação contra Flávio Bolsonaro no caso Dark Horse",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/gonet-defende-prorrogacao-de-90-dias-em-investigacao-contra-flavio-bolsonaro/",
-      "date": "2026-11-17T21:08:12.000Z",
+      "title": "Lula quer indicar ministro do STF antes da virada do ano para evitar novo revés no Senado",
+      "link": "https://www.estadao.com.br/politica/vera-rosa/lula-quer-indicar-ministro-do-stf-antes-da-virada-do-ano-para-evitar-novo-reves-no-senado/",
+      "date": "2026-11-17T21:01:17.000Z",
       "summary": "",
       "source": "Estadão",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Lula vai às redes defender que 'plano Moretti' não terá cortes para conter insatisfação na esquerda",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/lula-vai-as-redes-defender-que-plano-moretti-nao-tera-cortes-para-conter-insatisfacao-na-esquerda.shtml",
-      "date": "2026-11-17T21:02:00.000Z",
-      "summary": "O presidente Luiz Inácio Lula da Silva (PT) vai gravar um vídeo nesta terça-feira (17) em apoio às medidas de ajuste fiscal de seu governo, em um movimento para enquadrar setores do PT e da esquerda que têm se colocado contra o projeto. A bancada da sigla está",
-      "source": "Folha",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -406,15 +442,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Usei o ‘Photoshop’ feito por IA e vi que o mercado de software precisa mudar para não morrer",
-      "link": "https://www.estadao.com.br/economia/negocios/usei-o-photoshop-feito-por-ia-e-vi-que-o-mercado-de-software-precisa-mudar-para-nao-morrer/",
-      "date": "2026-11-17T21:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Câmara aprova reconhecimento da romaria do Divino Pai Eterno como cultura nacional",
       "link": "https://www.camara.leg.br/noticias/1320358-camara-aprova-reconhecimento-da-romaria-do-divino-pai-eterno-como-cultura-nacional",
       "date": "2026-11-17T20:55:00.000Z",
@@ -424,24 +451,6 @@
       "type": "oficial"
     },
     {
-      "title": "Deputado do PL lança candidatura à presidência da Câmara em oposição a Motta",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/deputado-do-pl-lanca-candidatura-a-presidencia-da-camara-em-oposicao-a-motta.shtml",
-      "date": "2026-11-17T20:54:00.000Z",
-      "summary": "O deputado federal Luiz Philippe de Orléans e Bragança (PL-SP) vai lançar seu nome para disputar a presidência da Câmara dos Deputados em 2027. Leia mais (11/17/2026 - 17h54)",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "PF conclui inquérito sobre respiradores para Covid não entregues e exclui Rui Costa e esposa",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/pf-conclui-inquerito-sobre-respiradores-para-covid-nao-entregues-e-exclui-rui-costa-e-esposa.shtml",
-      "date": "2026-11-17T20:46:00.000Z",
-      "summary": "A Polícia Federal concluiu no último domingo (15) o inquérito que apurava a compra de respiradores não entregues durante a Covid-19 e que envolvia o ex-governador da Bahia Rui Costa (PT), hoje senador eleito e ex-ministro da Casa Civil. Leia mais (11/17/2026 -",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Câmara aprova crédito extraordinário de R$ 300 milhões para combate a incêndios na Amazônia",
       "link": "https://www.camara.leg.br/noticias/1320344-camara-aprova-credito-extraordinario-de-r-300-milhoes-para-combate-a-incendios-na-amazonia",
       "date": "2026-11-17T20:45:00.000Z",
@@ -449,15 +458,6 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Folha abre vaga de estágio na editoria de Treinamento",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/blogs/novo-em-folha/2026/11/folha-abre-vaga-de-estagio-na-editoria-de-treinamento.shtml",
-      "date": "2026-11-17T20:44:00.000Z",
-      "summary": "A Folha tem uma vaga aberta de estágio na editoria de Treinamento, Seminários e Especiais. Entre os produtos a cargo da área estão a coluna Novo em Folha, o RUF (Ranking Universitário Folha) e o Programa de Treinamento em Jornalismo. Leia mais (11/17/2026 - 17",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
     },
     {
       "title": "Relator defende aprovação do ajuste fiscal sem mudanças para evitar retorno ao Senado",
@@ -493,15 +493,6 @@
       "summary": "Dados do TSE confirmam agora que os vídeos não eram apenas 'virais' das redes sociais. Foram os idosos - e especialmente as idosas - que mais fizeram o esforço de votar entre o primeiro e o segundo turno, fazendo a abstenção ter a maior queda entre turnos desd",
       "source": "BBC News Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "PF perde prazo dado por Fachin para se manifestar sobre inquérito contra Bolsonaro aberto em 2021",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/pf-perde-prazo-dado-por-fachin-para-se-manifestar-sobre-inquerito-contra-bolsonaro-aberto-em-2021/",
-      "date": "2026-11-17T19:37:53.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -602,6 +593,15 @@
       "source": "ONU News",
       "cat": "internacional",
       "type": "oficial"
+    },
+    {
+      "title": "Rooftop a 110 metros e piscina de 100 m: novo residencial com assinatura Lindenberg do eixo Berrine",
+      "link": "https://www.estadao.com.br/economia/negocios/rooftop-a-110-metros-e-piscina-de-100-m-novo-residencial-com-assinatura-lindenberg-do-eixo-berrine/",
+      "date": "2026-11-16T10:01:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
     },
     {
       "title": "Lula vai conseguir emplacar 4 ministros no STF ou ficará refém de Senado bolsonarista?",
