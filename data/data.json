@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-17T10:42:36.323Z",
+  "updated": "2026-11-17T11:46:51.592Z",
   "market": {
     "ibov": {
       "price": 169295.4,
       "pct": -1.83,
-      "time": "2026-11-17T10:42:31.004Z",
+      "time": "2026-11-17T11:46:45.367Z",
       "history": [
         {
           "d": "2026-10-19",
@@ -141,6 +141,132 @@
   },
   "news": [
     {
+      "title": "O que é o ajuste fiscal que o mercado cobra de Lula? Entenda por que ele desagrada muita gente e divide economistas",
+      "link": "https://www.bbc.com/portuguese/articles/cklyw32d9n7vo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-17T11:37:11.000Z",
+      "summary": "A proposta de ajuste fiscal divulgada pela equipe econômica na última semana provocou uma série de reações negativas - inclusive dentro da própria esquerda.",
+      "source": "BBC News Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Comissão debate formação de profissionais e estrutura de apoio à educação inclusiva; participe",
+      "link": "https://www.camara.leg.br/noticias/1319016-comissao-debate-formacao-de-profissionais-e-estrutura-de-apoio-a-educacao-inclusiva-participe",
+      "date": "2026-11-17T11:32:00.000Z",
+      "summary": "",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Novas melhorias para o já valioso Enem",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/novas-melhorias-para-o-ja-valioso-enem/",
+      "date": "2026-11-17T11:30:33.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Comissão debate impactos do contrabando e da falsificação no mercado de bebidas e cigarros",
+      "link": "https://www.camara.leg.br/noticias/1318951-comissao-debate-impactos-do-contrabando-e-da-falsificacao-no-mercado-de-bebidas-e-cigarros",
+      "date": "2026-11-17T11:28:00.000Z",
+      "summary": "Audiência pública vai reunir informações para propor medidas legislativas que reduzam os impactos econômicos da pirataria no setor",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Comissão promove debate sobre redução da maioridade penal nesta terça-feira",
+      "link": "https://www.camara.leg.br/noticias/1319616-comissao-promove-debate-sobre-reducao-da-maioridade-penal-nesta-terca-feira",
+      "date": "2026-11-17T11:25:00.000Z",
+      "summary": "",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Regra antidesmatamento europeia pode encarecer em 12% soja brasileira vendida ao bloco",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/economia-sustentavel/2026/11/regra-antidesmatamento-europeia-pode-encarecer-em-12-soja-brasileira-vendida-ao-bloco.shtml",
+      "date": "2026-11-17T11:24:00.000Z",
+      "summary": "A regra antidesmatamento imposta pela União Europeia a partir de janeiro de 2027 poderá encarecer em cerca de 12% a soja brasileira vendida ao bloco. O aumento é reflexo de custos extras estimados para separar os lotes destinados aos europeus, além de possívei",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Audiência na Câmara debate prevenção e tratamento de doenças cardiovasculares",
+      "link": "https://www.camara.leg.br/noticias/1318857-audiencia-na-camara-debate-prevencao-e-tratamento-de-doencas-cardiovasculares",
+      "date": "2026-11-17T11:22:00.000Z",
+      "summary": "",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Comissão da Câmara comemora os 35 anos da Lei de Informática",
+      "link": "https://www.camara.leg.br/noticias/1318852-comissao-da-camara-comemora-os-35-anos-da-lei-de-informatica",
+      "date": "2026-11-17T11:20:00.000Z",
+      "summary": "Debate vai avaliar os resultados da legislação e discutir os desafios futuros para o desenvolvimento tecnológico brasileiro",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "China recorre a modelos de IA dos EUA para treinar concorrentes nacionais",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/china-recorre-a-modelos-de-ia-dos-eua-para-treinar-concorrentes-nacionais.shtml",
+      "date": "2026-11-17T11:16:00.000Z",
+      "summary": "Documentos revelam que entidades chinesas estão adotando formas cada vez mais sofisticadas de utilizar os resultados dos principais modelos norte-americanos de IA para treinar concorrentes nacionais, à medida que a China busca ampliar sua estratégia de IA e co",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Inflação da Itália acelera para 5,5% em outubro",
+      "link": "https://www.poder360.com.br/poder-internacional/inflacao-da-italia-acelera-para-55-em-outubro/",
+      "date": "2026-11-17T11:09:48.000Z",
+      "summary": "Aceleração dos preços é puxada pela energia, com destaque para a alta de 20,3% nos preços da energia regulada no mês",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Presidente da Mongólia renuncia após ser acusado de corrupção",
+      "link": "https://www.poder360.com.br/poder-internacional/presidente-da-mongolia-renuncia-apos-ser-acusado-de-corrupcao/",
+      "date": "2026-11-17T11:06:02.000Z",
+      "summary": "Político do mesmo partido de Khurelsukh Ukhnaa diz que ele recebeu 25 milhões de dólares ligados a projeto ferroviário",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Talarico e Hamilton ampliam agenda dos cristãos na política dos EUA",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/deborah-bizarria/2026/11/talarico-e-hamilton-ampliam-agenda-dos-cristaos-na-politica-dos-eua.shtml",
+      "date": "2026-11-17T11:00:00.000Z",
+      "summary": "Nas eleições legislativas americanas, acompanhei com interesse as campanhas do presbiteriano James Talarico e do pastor metodista Adam Hamilton, eleitos para o Senado pelo Texas e pelo Kansas, respectivamente. Ao disputarem a linguagem bíblica, contestam a ass",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Talarico e Hamilton ampliam agenda dos cristãos na política dos EUA",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/deborah-bizarria/2026/11/talarico-e-hamilton-ampliam-agenda-dos-cristaos-na-politica-dos-eua.shtml",
+      "date": "2026-11-17T11:00:00.000Z",
+      "summary": "Nas eleições legislativas americanas, acompanhei com interesse as campanhas do presbiteriano James Talarico e do pastor metodista Adam Hamilton, eleitos para o Senado pelo Texas e pelo Kansas, respectivamente. Ao disputarem a linguagem bíblica, contestam a ass",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Samsung investe em data centers para ter cadeia completa de infraestrutura de IA",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/samsung-investe-em-data-centers-para-ter-cadeia-completa-de-infraestrutura-de-ia.shtml",
+      "date": "2026-11-17T11:00:00.000Z",
+      "summary": "Depois de conquistar o mercado de chips de memória, a Samsung quer transformar outras áreas de seu vasto império empresarial em líderes da cadeia de suprimentos de inteligência artificial, mas analistas questionam se o grupo conseguirá reproduzir em outras div",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "Equipe de Lula manda esquerda parar de atacar ajuste fiscal para evitar derrota no Senado",
       "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/17/equipe-de-lula-manda-esquerda-parar-de-atacar-ajuste-fiscal-para-evitar-derrota-no-senado.ghtml",
       "date": "2026-11-17T10:30:49.000Z",
@@ -186,53 +312,8 @@
       "type": "imprensa"
     },
     {
-      "title": "Saiba quais ações estão na pauta do Congresso nesta 3ª feira",
-      "link": "https://www.poder360.com.br/poder-congresso/leia-quais-acoes-estao-na-pauta-do-congresso-nesta-3a-feira/",
-      "date": "2026-11-17T09:15:41.000Z",
-      "summary": "Senado debate ajuste fiscal e crédito à exportação; Câmara discute big techs, CBS e Desenrola 3.0",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Governo Lula: leia a agenda de ministros do governo nesta 3ª feira",
-      "link": "https://www.poder360.com.br/poder-governo/governo-lula-leia-a-agenda-de-ministros-do-governo-nesta-3a-feira-16/",
-      "date": "2026-11-17T09:15:37.000Z",
-      "summary": "Durigan debate reforma tributária no Senado, Moretti se reúne com bancada do PT e ministros estarão em Roma",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Sucesso e fama prejudicam líderes de tecnologia, alerta investidor da Nvidia e da Tesla",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/sucesso-e-fama-prejudicam-lideres-de-tecnologia-alerta-investidor-da-nvidia-e-da-tesla.shtml",
-      "date": "2026-11-17T09:00:00.000Z",
-      "summary": "Um dos investidores de tecnologia mais conhecidos do Reino Unido criticou a predominância de fundadores que concentram poder nas empresas do Vale do Silício. Ele afirmou que o status de celebridade de executivos como Jensen Huang e Elon Musk pode ter \"prejudic",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Fazenda muda critério e esconde documentos da MP das bets, bandeira da campanha de Lula",
       "link": "https://www.estadao.com.br/politica/fazenda-muda-criterio-e-esconde-documentos-da-mp-das-bets-bandeira-da-campanha-de-lula/",
-      "date": "2026-11-17T08:30:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Ex-deputado que coordenou Frente do Aposentado tem pedido de aposentadoria negado pela Câmara",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/ex-deputado-que-coordenou-frente-do-aposentado-tem-pedido-de-aposentadoria-negado-pela-camara/",
-      "date": "2026-11-17T08:30:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Aliados lamentam possibilidade de ‘perder’ Simone Tebet para o STF",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/aliados-lamentam-possibilidade-de-perder-simone-tebet-para-o-stf/",
       "date": "2026-11-17T08:30:00.000Z",
       "summary": "",
       "source": "Estadão",
@@ -303,33 +384,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Pessoas com burnout e outros transtornos se sobrecarregam ao precisar provar que estão doentes",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/11/pessoas-com-burnout-e-outros-transtornos-se-sobrecarregam-ao-precisar-provar-que-estao-doentes.shtml",
-      "date": "2026-11-17T07:00:00.000Z",
-      "summary": "Não há gesso, curativo ou cicatriz. Quem sofre de doenças mentais, como burnout, depressão ou transtorno de pânico, costuma ter a aparência de quem está bem, e isso pode gerar um problema: a doença precisa ser comprovada não só ao INSS e ao empregador, mas tam",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Santander leiloa 195 imóveis em 20 estados, com lances a partir de R$ 34 mil",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/santander-leiloa-195-imoveis-em-20-estados-com-lances-a-partir-de-r-34-mil.shtml",
-      "date": "2026-11-17T07:00:00.000Z",
-      "summary": "O Santander realiza nesta terça-feira (17) um leilão de 195 imóveis residenciais distribuídos por 20 estados brasileiros. Leia mais (11/17/2026 - 04h00)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Impressoras 3D atraem quem busca renda extra, mas concorrência pressiona lucro",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/impressoras-3d-atraem-quem-busca-renda-extra-mas-concorrencia-pressiona-lucro.shtml",
-      "date": "2026-11-17T07:00:00.000Z",
-      "summary": "A possibilidade de fabricar objetos em casa e vendê-los pela internet transformou a impressão 3D em uma aposta para quem busca renda extra. Mas empreendedores do setor afirmam que a concorrência na venda de produtos genéricos dificulta a obtenção de lucro e ex",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Os desafios de Lula na volta ao Brasil: formação do ministério e ajuste fiscal - O Assunto #1847",
       "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/11/17/os-desafios-de-lula-na-volta-ao-brasil-formacao-do-ministerio-e-ajuste-fiscal-o-assunto-1847.ghtml",
       "date": "2026-11-17T03:30:01.000Z",
@@ -366,21 +420,21 @@
       "type": "imprensa"
     },
     {
+      "title": "Justiça determina o bloqueio de R$180 mil da Meta por não apagar vídeo com ataques a Erika Hilton",
+      "link": "https://www.estadao.com.br/politica/justica-determina-o-bloqueio-de-r180-da-meta-por-nao-apagar-video-com-ataques-a-erika-hilton-nprp/",
+      "date": "2026-11-17T01:26:32.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "Renegociar dívida não faz operação voltar a gerar caixa",
       "link": "https://www.estadao.com.br/economia/negocios/renegociar-divida-nao-faz-operacao-voltar-a-gerar-caixa/",
       "date": "2026-11-17T01:00:00.000Z",
       "summary": "",
       "source": "Estadão",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Tradução da Bíblia feita direto do latim ganha nova edição cem anos depois",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/traducao-da-biblia-feita-direto-do-latim-ganha-nova-edicao-cem-anos-depois.shtml",
-      "date": "2026-11-17T00:17:00.000Z",
-      "summary": "Às vésperas de completar cem anos, uma tradução da Bíblia feita pelo padre português Manuel de Matos Soares retorna, em uma nova edição da editora gaúcha especializada Minha Biblioteca Católica (MBC). Leia mais (11/16/2026 - 21h17)",
-      "source": "Folha",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -402,33 +456,6 @@
       "type": "oficial"
     },
     {
-      "title": "Projeto proíbe uso da imagem de empregado em redes sociais da empresa sem previsão contratual",
-      "link": "https://www.camara.leg.br/noticias/1313078-projeto-proibe-uso-da-imagem-de-empregado-em-redes-sociais-da-empresa-sem-previsao-contratual",
-      "date": "2026-11-16T21:35:00.000Z",
-      "summary": "Proposta enquadra a prática como desvio de função quando a atividade for incompatível com as atribuições do cargo contratado",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Líder do governo afirma que ajuste fiscal não retira recursos da saúde e da educação",
-      "link": "https://www.camara.leg.br/noticias/1319835-lider-do-governo-afirma-que-ajuste-fiscal-nao-retira-recursos-da-saude-e-da-educacao",
-      "date": "2026-11-16T21:15:00.000Z",
-      "summary": "Paulo Pimenta afirma que proposta abre espaço no Orçamento para novos compromissos e mantém subsídios aos combustíveis",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Comissões e bancadas estaduais votam suas emendas ao Orçamento de 2027",
-      "link": "https://www.camara.leg.br/noticias/1319815-comissoes-e-bancadas-estaduais-votam-suas-emendas-ao-orcamento-de-2027",
-      "date": "2026-11-16T20:40:00.000Z",
-      "summary": "O prazo para a apresentação de emendas vai até o dia 23 deste mês",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
       "title": "MP Militar faz levantamento para contabilizar casos de assédio a mulheres das Forças Armadas",
       "link": "https://www.estadao.com.br/politica/mp-militar-faz-levantamento-para-contabilizar-casos-de-assedio-a-mulheres-das-forcas-armadas-nprp/",
       "date": "2026-11-16T20:31:35.000Z",
@@ -436,15 +463,6 @@
       "source": "Estadão",
       "cat": "politica",
       "type": "imprensa"
-    },
-    {
-      "title": "Comissão aprova criação de programa para fortalecer conselhos municipais de meio ambiente",
-      "link": "https://www.camara.leg.br/noticias/1319766-comissao-aprova-criacao-de-programa-para-fortalecer-conselhos-municipais-de-meio-ambiente",
-      "date": "2026-11-16T20:27:00.000Z",
-      "summary": "O projeto de lei continua em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
     },
     {
       "title": "Consciência Negra: Paulo Paim defende cotas e combate ao racismo",
@@ -456,15 +474,6 @@
       "type": "oficial"
     },
     {
-      "title": "Comissão debate fiscalização de contratos de concessão de rodovias federais",
-      "link": "https://www.camara.leg.br/noticias/1319624-comissao-debate-fiscalizacao-de-contratos-de-concessao-de-rodovias-federais",
-      "date": "2026-11-16T20:11:00.000Z",
-      "summary": "",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
       "title": "Grupo de países da UE negocia centro para deportados em Ruanda",
       "link": "https://www.dw.com/pt-br/grupo-de-países-da-ue-negocia-centro-para-deportados-em-ruanda/a-79963673?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-16T20:06:00.000Z",
@@ -472,15 +481,6 @@
       "source": "DW Brasil",
       "cat": "internacional",
       "type": "imprensa"
-    },
-    {
-      "title": "Ajuste fiscal não compromete políticas sociais, garante Humberto Costa",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/16/ajuste-fiscal-nao-compromete-politicas-sociais-garante-humberto-costa",
-      "date": "2026-11-16T19:06:44.000Z",
-      "summary": "O senador Humberto Costa (PT-PE), em pronunciamento no Plenário nesta segunda-feira (16), defendeu o projeto de lei complementar que trata do ajuste fiscal proposto pelo governo federal (PLP 299/2026). O parlamentar afirmou que votou a favor do texto principal",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
     },
     {
       "title": "Crise na Nvidia expõe dilema da China na corrida pelos chips de IA",
