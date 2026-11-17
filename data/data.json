@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-17T01:54:57.434Z",
+  "updated": "2026-11-17T02:49:42.591Z",
   "market": {
     "ibov": {
       "price": 169295.4,
       "pct": -1.83,
-      "time": "2026-11-17T01:54:51.782Z",
+      "time": "2026-11-17T02:49:35.216Z",
       "history": [
         {
           "d": "2026-10-19",
@@ -141,7 +141,70 @@
   },
   "news": [
     {
-      "title": "PF cita ‘quebra de confiança’ para afastamento de delegados e nega interferência em investigação",
+      "title": "Marinho e Tereza Cristina criticam Moraes por negar visitas a Bolsonaro",
+      "link": "https://www.poder360.com.br/poder-congresso/marinho-e-tereza-cristina-criticam-moraes-por-negar-visitas-a-bolsonaro/",
+      "date": "2026-11-17T02:14:44.000Z",
+      "summary": "Senadores classificam decisão como arbitrária; ministro do STF diz que prisão domiciliar não pode servir de “escritório político”",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Sob impacto do 8/1, Moraes concentra quase metade dos casos penais no STF e 98% das ações",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/sob-impacto-do-81-moraes-concentra-quase-metade-dos-casos-penais-no-stf-e-98-das-acoes.shtml",
+      "date": "2026-11-17T02:00:00.000Z",
+      "summary": "O ministro Alexandre de Moraes concentra a relatoria de quase metade das ações das cinco classes processuais mais diretamente ligadas à área criminal no STF (Supremo Tribunal Federal) e que não estão sob sigilo. Leia mais (11/16/2026 - 23h00)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Bilionários do Vale do Silício se mobilizam pela volta de Jensen Huang à Nvidia",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/bilionarios-do-vale-do-silicio-se-mobilizam-pela-volta-de-jensen-huang-a-nvidia.shtml",
+      "date": "2026-11-17T02:00:00.000Z",
+      "summary": "Bilionários do Vale do Silício se mobilizaram pedindo a volta de Jensen Huang à presidência da Nvidia. Investidores como David Sacks, ex-czar de IA da Casa Branca, e Brad Gerstner, que administra mais de US$ 20 bilhões em capital de risco, afirmaram que não há",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Decreto da 6x1 deve ter regra que torna hora extra mais cara",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/decreto-da-6x1-deve-ter-regra-que-torna-hora-extra-mais-cara.shtml",
+      "date": "2026-11-17T02:00:00.000Z",
+      "summary": "O decreto do Ministério do Trabalho e Emprego para regulamentar a transição do fim da escala 6x1 deve fixar um cálculo que vai elevar o valor das horas extras. Leia mais (11/16/2026 - 23h00)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Um ano após liquidação, como evitar um novo Master continua em discussão; veja o que mudou",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/um-ano-apos-liquidacao-como-evitar-um-novo-master-segue-em-discussao-veja-o-que-mudou.shtml",
+      "date": "2026-11-17T02:00:00.000Z",
+      "summary": "Um ano depois da liquidação do Banco Master, o mercado ainda debate como evitar um novo caso semelhante. Algumas medidas para frear a emissão de CDBs (Certificados de Depósito Bancário) foram tomadas, mas especialistas consideram que outros instrumentos utiliz",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Cadillac Escalade elétrico disfarça as quatro toneladas com potência e longo alcance",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/cadillac-escalade-eletrico-disfarca-as-quatro-toneladas-com-potencia-e-longo-alcance.shtml",
+      "date": "2026-11-17T02:00:00.000Z",
+      "summary": "As estradas de Detroit pertencem aos motores a combustão. Ainda é raro ver carros elétricos pelas ruas, embora não faltem opções disponíveis no mercado norte-americano. O Cadillac Escalade já faz parte dessa frota a bateria, com destaque para a versão IQL. Ess",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Deputado do PT e Prerrogativas pedem ao STF que Flávio deixe de receber salário de senador",
+      "link": "https://www.estadao.com.br/politica/deputado-do-pt-e-prerrogativas-pedem-ao-stf-que-flavio-deixe-de-receber-salario-de-senador-nprp/",
+      "date": "2026-11-17T01:55:59.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "PF cita 'quebra de confiança' para afastamento de delegados e nega interferência em investigação",
       "link": "https://g1.globo.com/politica/noticia/2026/11/16/pf-cita-quebra-de-confianca-para-afastamento-de-delegados-e-nega-interferencia-em-investigacao.ghtml",
       "date": "2026-11-17T01:37:30.000Z",
       "summary": "Em resposta ao Ministério da Justiça, o diretor-geral da Polícia Federal (PF), Andrei Rodrigues, afirmou que houve uma \"quebra na fundamental relação de confiança\" ao falar sobre o afastamento de dois delegados de suas funções na coordenadoria-geral de repress",
@@ -213,15 +276,6 @@
       "type": "imprensa"
     },
     {
-      "title": "A educação ajuda a legitimar as posições sociais",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/michael-franca/2026/11/a-educacao-ajuda-a-legitimar-as-posicoes-sociais.shtml",
-      "date": "2026-11-17T00:09:00.000Z",
-      "summary": "Para chegar a uma universidade de prestígio, uma jovem de origem desfavorecida estudou à noite depois do trabalho. Outra, de origem abastada, dedicou o dia à preparação para o vestibular. Ambas fizeram a mesma prova. A nota permite ordenar o desempenho. Porém,",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Durigan defende combate a supersalários, mas não se manifesta sobre mudança em projeto de ajuste",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/durigan-defende-combate-a-supersalarios-mas-nao-se-manifesta-sobre-mudanca-em-projeto-de-ajuste.shtml",
       "date": "2026-11-17T00:00:00.000Z",
@@ -231,45 +285,9 @@
       "type": "imprensa"
     },
     {
-      "title": "Califórnia processa OpenAI por ciberataques de modelos de IA contra Hugging Face e outras empresas",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/california-processa-openai-por-ciberataques-de-modelos-de-ia-contra-hugging-face-e-outras-empresas.shtml",
-      "date": "2026-11-16T23:50:00.000Z",
-      "summary": "O procurador-geral da Califórnia, Rob Bonta, processou a OpenAI nesta segunda-feira (16), acusando a empresa de desenvolver um produto perigoso sem procedimentos de segurança ou supervisão adequados, após relatos de que seus modelos de inteligência artificial ",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Equilíbrio fiscal é como a mulher de César, além de ser real, precisa parecer real",
       "link": "https://www.estadao.com.br/politica/eliane-cantanhede/equilibrio-fiscal-e-como-a-mulher-de-cesar-alem-de-ser-real-precisa-parecer-real/",
       "date": "2026-11-16T23:40:14.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "ExxonMobil e Prio arrematam cargas do campo de Búzios em leilão da PPSA",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/exxonmobil-e-prio-arrematam-cargas-do-campo-de-buzios-em-leilao-da-ppsa.shtml",
-      "date": "2026-11-16T23:35:00.000Z",
-      "summary": "A ExxonMobil e a Prio arremataram as cargas do campo de Búzios em leilão spot de petróleo da União realizado na semana passada, informou nesta segunda-feira (16) a estatal PPSA (Pré-Sal Petróleo SA) em comunicado. Leia mais (11/16/2026 - 20h35)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Falha em sistema da United Airlines atrasa voos nos EUA três dias após pane no país",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/falha-em-sistema-da-united-airlines-atrasa-voos-nos-eua-tres-dias-apos-pane-no-pais.shtml",
-      "date": "2026-11-16T23:20:00.000Z",
-      "summary": "A United Airlines informou nesta segunda-feira (16) que solucionou um problema tecnológico que afetou decolagens da empresa nos Estados Unidos. O caso surge poucos dias após uma falha no controle de tráfego aéreo em todo o país causar transtornos generalizados",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "PF deve entregar na quarta novos relatórios sobre citações a ministros do STF no celular de Vorcaro",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/pf-deve-entregar-na-quarta-novos-relatorios-sobre-citacoes-a-ministros-do-stf-no-celular-de-vorcaro/",
-      "date": "2026-11-16T23:05:53.000Z",
       "summary": "",
       "source": "Estadão",
       "cat": "politica",
@@ -337,15 +355,6 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Jeduca oferece prêmios de até R$ 4.500 para TCCs sobre jornalismo de educação",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/blogs/novo-em-folha/2026/11/jeduca-oferece-premios-de-ate-r-4500-para-tccs-sobre-jornalismo-de-educacao.shtml",
-      "date": "2026-11-16T21:34:00.000Z",
-      "summary": "A Jeduca (Associação de Jornalistas de Educação) abriu nesta segunda-feira (16) as inscrições para o 8º Edital de Jornalismo de Educação. A iniciativa vai premiar três trabalhos de conclusão de curso (TCCs) sobre educação pública brasileira ou jornalismo de ed",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
     },
     {
       "title": "Líder do governo afirma que ajuste fiscal não retira recursos da saúde e da educação",
