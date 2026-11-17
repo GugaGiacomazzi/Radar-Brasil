@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-17T16:19:10.281Z",
+  "updated": "2026-11-17T17:26:57.852Z",
   "market": {
     "ibov": {
-      "price": 171241.19,
-      "pct": 1.15,
-      "time": "2026-11-17T16:19:04.513Z",
+      "price": 170663.9,
+      "pct": 0.81,
+      "time": "2026-11-17T17:26:48.852Z",
       "history": [
         {
           "d": "2026-10-19",
@@ -88,7 +88,7 @@
         },
         {
           "d": "2026-11-17",
-          "c": 171205.2969
+          "c": 170663.9063
         }
       ]
     },
@@ -145,65 +145,191 @@
   },
   "news": [
     {
-      "title": "Brookfield critica revisão de tarifas de gasodutos e vê risco a investimento no Brasil",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/infraestrutura/2026/11/brookfield-eleva-pressao-sobre-anp-e-ve-risco-a-investimento-no-brasil.shtml",
-      "date": "2026-11-17T16:08:00.000Z",
-      "summary": "O fundo canadense Brookfield subiu o tom contra a ANP (Agência Nacional do Petróleo, Gás Natural e Biocombustíveis) e afirma que a revisão das tarifas de gasodutos brasileiros pode afugentar investidores em infraestrutura do país. Leia mais (11/17/2026 - 13h08",
+      "title": "Tributária pode provocar “pequeno impacto na inflação”, diz Durigan",
+      "link": "https://www.poder360.com.br/poder-economia/tributaria-pode-provocar-pequeno-impacto-na-inflacao-diz-durigan/",
+      "date": "2026-11-17T17:23:22.000Z",
+      "summary": "Ministro disse que esse efeito diminuirá à medida que as empresas ajustarem a precificação de produtos e serviços",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Anglo diz que eventual veto da UE a acordo com MMG deve afetar fornecimento de ferroníquel",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/infraestrutura/2026/11/anglo-diz-que-eventual-veto-da-ue-a-acordo-com-mmg-deve-afetar-fornecimento-de-ferroniquel.shtml",
+      "date": "2026-11-17T17:23:00.000Z",
+      "summary": "A Anglo American alertou seus principais clientes de ferroníquel que uma rejeição pela Comissão Europeia da venda de seus negócios no Brasil à rival MMG, listada na Bolsa de Hong Kong, afetaria o abastecimento deles. Leia mais (11/17/2026 - 14h23)",
       "source": "Folha",
       "cat": "economia",
       "type": "imprensa"
     },
     {
-      "title": "China ameaça retaliar contra EUA por restrições a chips de IA que também afetam o Brasil",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/17/china-ameaca-retaliar-contra-eua-por-restricoes-a-chips-de-ia-que-tambem-afetam-o-brasil.ghtml",
-      "date": "2026-11-17T16:05:00.000Z",
-      "summary": "O presidente dos EUA, Donald Trump, fala com membros da imprensa ao partir para sua viagem às Filipinas e à China, na Casa Branca, em Washington, DC, EUA, em 16 de novembro de 2026 REUTERS/Kevin Lamarque O governo da China afirmou nesta terça-feira (17) que se",
-      "source": "g1",
-      "cat": "economia",
+      "title": "O 'exército das avós': os números que mostram as responsáveis pelo pico de comparecimento nas eleições",
+      "link": "https://www.bbc.com/portuguese/articles/cm9w9lyvv1exo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-17T17:22:00.000Z",
+      "summary": "Dados do TSE confirmam agora que os vídeos não eram apenas 'virais' das redes sociais. Foram os idosos - e especialmente as idosas - que mais fizeram o esforço de votar entre o primeiro e o segundo turno, fazendo a abstenção ter a maior queda entre turnos desd",
+      "source": "BBC News Brasil",
+      "cat": "internacional",
       "type": "imprensa"
     },
     {
-      "title": "Bancos buscam reduzir exposição a dívidas ligadas à inteligência artificial",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/bancos-buscam-reduzir-exposicao-a-dividas-ligadas-a-inteligencia-artificial.shtml",
-      "date": "2026-11-17T15:59:00.000Z",
-      "summary": "Bancos que emprestaram bilhões de dólares para financiar o boom da infraestrutura de inteligência artificial estão buscando reduzir sua exposição a riscos, que passou a ser alvo de maior escrutínio após a vitória expressiva dos democratas nas eleições de meio ",
-      "source": "Folha",
-      "cat": "economia",
+      "title": "Relator atende à oposição e põe ressalva sobre conteúdo de big techs",
+      "link": "https://www.poder360.com.br/poder-congresso/relator-atende-a-oposicao-e-poe-ressalva-sobre-conteudo-de-big-techs/",
+      "date": "2026-11-17T17:17:26.000Z",
+      "summary": "Texto trata de mercado, mas deixará claro que não regula redes; medida é incomum em projetos e funciona como aceno político",
+      "source": "Poder360",
+      "cat": "politica",
       "type": "imprensa"
     },
     {
-      "title": "Ajuste fiscal: Senado deve votar hoje mudanças no projeto do governo",
+      "title": "China diz que adotará contramedidas após restrição dos EUA a chips",
+      "link": "https://www.poder360.com.br/poder-internacional/china-diz-que-adotara-contramedidas-apos-restricao-dos-eua-a-chips/",
+      "date": "2026-11-17T17:14:39.000Z",
+      "summary": "Governo chinês afirma que medidas norte-americanas prejudicam a cadeia global de semicondutores",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Ajuste fiscal: Senado deve votar hoje destaques ao texto-base do projeto do governo",
       "link": "https://g1.globo.com/politica/ao-vivo/senado-pacote-medidas-fiscais.ghtml",
-      "date": "2026-11-17T15:56:22.000Z",
-      "summary": "Ajuste fiscal: Senado deve votar hoje mudanças no projeto do governo Proposta promove corte de benefícios fiscais e altera cálculo do piso constitucional da saúde. Texto-base foi aprovado por 45 votos a 31. O Senado deve votar, nesta terça-feira (17), proposta",
+      "date": "2026-11-17T17:13:01.000Z",
+      "summary": "Ajuste fiscal: Senado deve votar hoje destaques ao texto-base do projeto do governo Proposta promove corte de benefícios fiscais e altera cálculo do piso constitucional da saúde. Texto-base foi aprovado por 45 votos a 31 na última quinta-feira (12) O Senado de",
       "source": "g1",
       "cat": "politica",
       "type": "imprensa"
     },
     {
-      "title": "Dólar chega a R$ 5,81 à espera de votação do plano Moretti no Senado; Bolsa sobe",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/dolar-abre-em-alta-e-chega-a-r-579-com-mercado-a-espera-de-votacao-de-projeto-fiscal-no-senado.shtml",
-      "date": "2026-11-17T15:55:00.000Z",
-      "summary": "O dólar oscila nesta terça-feira (17), enquanto o mercado acompanha o andamento da votação do projeto de ajuste fiscal do governo no Senado. Após subir durante parte da manhã, a moeda chegou a R$ 5,811, maior valor intradiário desde 17 de abril de 2025. Às 12h",
-      "source": "Folha",
-      "cat": "economia",
+      "title": "Ministro da Fazenda que pacote é só o 'primeiro passo' e prega ajuste gradual 'sem negacionismo' para baixar juro",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/17/ministro-da-fazenda-que-pacote-e-so-o-primeiro-passo-e-prega-ajuste-gradual-sem-negacionismo-para-baixar-juro.ghtml",
+      "date": "2026-11-17T17:10:51.000Z",
+      "summary": "O ministro da Fazenda, Dario Durigan, afirmou nesta terça-feira (17) que o pacote de ajuste fiscal em análise pelo Legislativo é apenas o primeiro passo de um processo mais amplo, que ocorrerá de forma gradual. A expectativa é que o Senado deve conclua ainda n",
+      "source": "g1",
+      "cat": "politica",
       "type": "imprensa"
     },
     {
-      "title": "Carro voador com representante brasileiro recebe autorização nos EUA",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/carro-voador-com-representante-brasileiro-recebe-autorizacao-nos-eua.shtml",
-      "date": "2026-11-17T15:53:00.000Z",
-      "summary": "A Beta Technologies recebeu autorização da FAA (Administração Federal de Aviação dos Estados Unidos) para realizar voos de demonstração com potenciais clientes a bordo de seu carro voador ALIA A250. O modelo elétrico de decolagem e pouso vertical, conhecido co",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "De volta, Lula retoma articulações sobre ministérios e ajuste fiscal",
-      "link": "https://www.poder360.com.br/poder-governo/de-volta-lula-retoma-articulacoes-sobre-ministerios-e-ajuste-fiscal/",
-      "date": "2026-11-17T15:46:56.000Z",
-      "summary": "Após 8 dias em viagem internacional, presidente recebe ministros e aliados para discutir a reorganização do governo",
+      "title": "Doria acertou contrato de R$ 220 mil ao mês com Vorcaro",
+      "link": "https://www.poder360.com.br/poder-economia/doria-acertou-contrato-de-r-220-mil-ao-mes-com-vorcaro/",
+      "date": "2026-11-17T17:03:12.000Z",
+      "summary": "Ex-governador diz que \"não havia nenhum fator que pudesse ser considerado inadequado\" em 2022, quando fechou acordo por serviços de consultoria",
       "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Separação de R$ 550 mil de filho de Lula e médica foi feita por ‘advogada sem OAB’ e acabou em golpe",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/separacao-de-r-550-mil-de-filho-de-lula-e-medica-foi-feita-por-advogada-sem-oab-e-acabou-em-golpe/",
+      "date": "2026-11-17T16:59:27.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Durigan diz que reforma tributária pode ter 'pequeno impacto' na inflação e quer reduzir tributo sobre a folha de pagamentos",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/17/durigan-diz-que-reforma-tributaria-pode-ter-pequeno-impacto-na-inflacao-e-quer-reduzir-tributo-sobre-a-folha-de-pagamentos.ghtml",
+      "date": "2026-11-17T16:53:38.000Z",
+      "summary": "O ministro da Fazenda, Dario Durigan, admitiu nesta terça-feira (17) que a reforma tributária sobre o consumo, cujos efeitos começam em janeiro com o início do imposto federal sobre o consumo, pode gerar um \"pequeno impacto\" na inflação. Durante audiência públ",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Dívida pública elevada em países como o Brasil será o grande desafio global, diz ex-FMI",
+      "link": "https://www.estadao.com.br/economia/divida-publica-elevada-desafio-global-maurice-obstfeld/",
+      "date": "2026-11-17T16:53:19.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Rede de comunicação interna de agência de inteligência dos EUA está fora do ar, diz CNN",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/rede-de-comunicacao-interna-de-agencia-de-inteligencia-dos-eua-esta-fora-do-ar-diz-cnn.shtml",
+      "date": "2026-11-17T16:47:00.000Z",
+      "summary": "A rede interna de comunicações da Agência de Segurança Nacional dos Estados Unidos (NSA, na sigla em inglês), responsável pela inteligência e proteção de sistemas de comunicação do governo americano, está fora do ar, segundo informações divulgadas pela CNN nes",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Ex-CEO da Nvidia pede desculpas por erros pessoais e diz que aceitaria voltar ao comando: 'Assumo meus erros'",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/17/ex-ceo-nvidia-diz-que-aceitaria-voltar-ao-cargo.ghtml",
+      "date": "2026-11-17T16:45:04.000Z",
+      "summary": "O fundador e CEO da Nvidia, Jensen Huang, conversa com jornalistas antes de uma reunião com o Comitê Bancário do Senado dos Estados Unidos, no Capitólio, em Washington, em 3 de dezembro de 2025. Evelyn Hockstein / Reuters O ex-presidente executivo da Nvidia, J",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Housi entra no mercado de estadias corporativas com a Onfly",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/housi-entra-no-mercado-de-estadias-corporativas-com-a-onfly.shtml",
+      "date": "2026-11-17T16:38:00.000Z",
+      "summary": "A Housi, plataforma de moradia flexível, fechou parceria com a Onfly, empresa especializada em gestão de viagens a trabalho. O acordo, que abre uma nova frente de atuação para a Housi no mercado de estadias corporativas, prevê que unidades geridas pela companh",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Durigan diz que reduzir privilégios para equilibrar contas públicas é ‘único caminho’ para o País",
+      "link": "https://www.estadao.com.br/economia/durigan-reduzir-privilegios-caminho-equilibrar-contas/",
+      "date": "2026-11-17T16:36:18.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Reforma tributária: apuração 'assistida', a declaração pré-preenchida das empresas, será liberada nesta semana, diz Receita",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/17/reforma-tributaria-apuracao-assistida-a-declaracao-pre-preenchida-das-empresas-sera-liberada-nesta-semana-diz-receita.ghtml",
+      "date": "2026-11-17T16:33:11.000Z",
+      "summary": "O secretário da Receita Federal, Robinson Barreirinhas, informou nesta terça-feira (17) que a chamada \"apuração assistida\" da reforma tributária, que ele classificou como declaração pré-preenchida, será liberada para todas as empresas do país ainda nesta seman",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Deutsche Bank vazou dados de conta de Trump e movimentou US$ 592 mi de Epstein",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/deutsche-bank-vazou-dados-de-conta-de-trump-e-movimentou-us-592-mi-de-epstein.shtml",
+      "date": "2026-11-17T16:33:00.000Z",
+      "summary": "O Deutsche Bank vazou acidentalmente declarações fiscais do presidente dos EUA, Donald Trump, em seu primeiro mandato presidencial, mas manteve o erro em segredo da Casa Branca. O atual CEO do banco, Christian Sewing, estava ciente da condução da crise. Leia m",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Projeto busca ampliar acesso a serviços públicos em locais isolados",
+      "link": "https://www.camara.leg.br/noticias/1320074-projeto-busca-ampliar-acesso-a-servicos-publicos-em-locais-isolados",
+      "date": "2026-11-17T16:29:00.000Z",
+      "summary": "Para virar lei, proposta precisa ser aprovada por deputados e senadores",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Zambelli diz à Interpol que Moraes é parcial e pede exclusão de seu nome da lista de procurados",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/zambelli-diz-a-interpol-que-moraes-e-parcial-e-pede-exclusao-de-seu-nome-da-lista-de-procurados/",
+      "date": "2026-11-17T16:13:39.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Associação de empresas do setor eólico entra com ação para suspender leilões de baterias",
+      "link": "https://www.estadao.com.br/economia/associacao-setor-eolico-acao-suspender-leiloes-baterias/",
+      "date": "2026-11-17T16:11:51.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lula se reúne nesta terça-feira com Camilo, Fonteles e Rui Costa para discutir formação do Lula 4",
+      "link": "https://www.estadao.com.br/politica/lula-se-reune-nesta-terca-feira-com-camilo-fonteles-e-rui-costa-para-discutir-formacao-do-lula-4/",
+      "date": "2026-11-17T16:07:16.000Z",
+      "summary": "",
+      "source": "Estadão",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -215,15 +341,6 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Diretor da Aneel paralisa processo sobre postes para aguardar Congresso",
-      "link": "https://www.poder360.com.br/poder-infra/diretor-da-aneel-paralisa-processo-sobre-postes-para-aguardar-congresso/",
-      "date": "2026-11-17T15:37:19.000Z",
-      "summary": "Agência de energia elétrica e Anatel tentam encerrar impasse de anos sobre compartilhamento de estruturas",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
     },
     {
       "title": "Sessão especial destaca atuação da CNseg no setor de seguros",
@@ -250,60 +367,6 @@
       "summary": "O senador Alessandro Vieira (MDB-SE) vê uma possível interferência política do diretor-geral da Polícia Federal, Andrei Rodrigues, no trabalho dos delegados que elaboraram relatórios sobre as relações de ministros do STF (Supremo Tribunal Federal) com Daniel V",
       "source": "Folha",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Cidadania vai votar incorporação ao PP e extinção do partido",
-      "link": "https://www.estadao.com.br/politica/cidadania-vai-votar-incorporacao-ao-pp-e-extincao-do-partido-nprp/",
-      "date": "2026-11-17T15:30:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Com medidas do governo, Saúde pode deixar de receber R$ 9 bilhões em 2027 e ter alta limitada até 2030; organizações sociais reagem",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/17/com-medidas-do-governo-saude-pode-deixar-de-receber-r-9-bilhoes-em-2027-e-ter-alta-limitada-ate-2030-organizacoes-sociais-reagem.ghtml",
-      "date": "2026-11-17T15:25:28.000Z",
-      "summary": "A área de Saúde pode deixar de receber cerca de R$ 9 bilhões em 2027 por conta de medidas do governo, incluindo o pacote fiscal que está sendo analisado pelo Congresso Nacional. A estimativa foi feita pela Consultoria de Orçamentos, Fiscalização e Controle do ",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "“Não há licença para gasto indiscriminado dos Três Poderes”, diz Durigan",
-      "link": "https://www.poder360.com.br/poder-congresso/nao-ha-licenca-para-gasto-indiscriminado-dos-3-poderes-diz-durigan/",
-      "date": "2026-11-17T15:24:43.000Z",
-      "summary": "Ministro da Fazenda disse em comissão do Senado que equilíbrio das contas depende de todos os Poderes, incluindo o STF",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Nossa posição é de não adiar a reforma tributária, diz Durigan",
-      "link": "https://www.poder360.com.br/poder-economia/nossa-posicao-e-de-nao-adiar-a-reforma-tributaria-diz-durigan/",
-      "date": "2026-11-17T15:20:51.000Z",
-      "summary": "Ministro da Fazenda declarou que “é preciso avançar no que é melhor para as empresas e para as pessoas”",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "TCU não escolheu alíquota que gostaria, mas cumpriu o que a lei lhe atribuiu, diz Vital do Rêgo",
-      "link": "https://www.estadao.com.br/economia/tcu-aliquota-reforma-tributaria-cumpriu-lei-vital-rego/",
-      "date": "2026-11-17T15:20:23.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Ataque usa páginas de sites famosos para roubar criptomoedas e infectar celulares; entenda",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/17/ataque-usa-paginas-de-sites-famosos-para-roubar-criptomoedas-e-infectar-celulares.ghtml",
-      "date": "2026-11-17T15:18:19.000Z",
-      "summary": "Ataque hacker afeta emissão de boletos de impostos em MG; sistema já foi restabelecido Sites de algumas das maiores empresas do mundo foram usados em uma campanha de ataques cibernéticos que tentava roubar criptomoedas, capturar dados de cartões bancários e in",
-      "source": "g1",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -334,38 +397,11 @@
       "type": "oficial"
     },
     {
-      "title": "Presidente do STJ dá prazo para Buzzi desocupar apartamento funcional e determina devolução de equipamentos",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/17/presidente-do-stj-da-prazo-para-buzzi-desocupar-apartamento-funcional-e-determina-devolucao-de-equipamentos.ghtml",
-      "date": "2026-11-17T15:06:53.000Z",
-      "summary": "O presidente do Superior Tribunal de Justiça (STJ), ministro Luis Felipe Salomão, determinou que o ministro afastado Marco Buzzi desocupe o apartamento funcional situado na Asa Sul, em Brasília, no prazo de 90 dias. Além da devolução do imóvel, a decisão desta",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Lula propõe nova engenharia para atrair maioria no Parlamento",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/dora-kramer/2026/11/lula-propoe-nova-engenharia-para-atrair-maioria-no-parlamento.shtml",
       "date": "2026-11-17T15:01:00.000Z",
       "summary": "Governar em minoria no Parlamento tem sido um desafio permanente e uma fonte de problemas para o PT, que de novo se vê às voltas com a mesma questão: conciliar o ideário de esquerda do Executivo com a orientação de centro e direita predominante no Legislativo.",
       "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Arminio Fraga: ‘Ainda existe uma visão muito atrasada de crescimento a qualquer custo’; assista",
-      "link": "https://www.estadao.com.br/economia/arminio-fraga-ainda-existe-uma-visao-muito-atrasada-de-crescimento-a-qualquer-custo-assista/",
-      "date": "2026-11-17T15:00:07.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Jones X Janones: deputado do PSOL vira alvo de apoiadores de Lula por críticas ao ajuste fiscal",
-      "link": "https://www.estadao.com.br/politica/eleicoes/jones-x-janones-deputado-do-psol-vira-alvo-de-apoiadores-de-lula-por-criticas-ao-ajuste-fiscal/",
-      "date": "2026-11-17T15:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -379,42 +415,6 @@
       "type": "imprensa"
     },
     {
-      "title": "CDR aprova apoio da União a municípios para elaboração de planos diretores",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/17/cdr-aprova-apoio-da-uniao-a-municipios-para-elaboracao-de-planos-diretores",
-      "date": "2026-11-17T14:54:23.000Z",
-      "summary": "Municípios que comprovarem não ter meios para elaborar ou manter atualizados seus planos diretores poderão receber assistência técnica e financeira da União. A medida está prevista em projeto aprovado nesta terça-feira (17) pela Comissão de Desenvolvimento Reg",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Globo anuncia Rafael Bergman como novo diretor de finanças e serviços compartilhados",
-      "link": "https://g1.globo.com/economia/midia-e-marketing/noticia/2026/11/17/globo-anuncia-rafael-bergman-como-novo-diretor-de-financas-e-servicos-compartilhados.ghtml",
-      "date": "2026-11-17T14:42:26.000Z",
-      "summary": "Rafael Bergman, novo diretor de Finanças e Serviços Compartilhados da Globo. Divulgação A Globo anunciou nesta terça-feira (17) a contratação de Rafael Bergman como novo diretor de Finanças e Serviços Compartilhados (CSC). Bergman tem 30 anos de experiência na",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Governo anuncia acordo com Motta para votar projeto do ajuste nesta terça sem novas alterações",
-      "link": "https://www.estadao.com.br/economia/governo-acordo-motta-votar-projeto-ajuste-sem-novas-alteracoes/",
-      "date": "2026-11-17T14:39:43.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "CDR aprova ampliação de áreas de livre comércio no Acre",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/17/cdr-aprova-ampliacao-de-areas-de-livre-comercio-no-acre",
-      "date": "2026-11-17T14:36:12.000Z",
-      "summary": "A Comissão de Desenvolvimento Regional (CDR) aprovou nesta terça-feira (17) projeto que estende as áreas de livre comércio aos municípios de Assis Brasil, Mâncio Lima e Rodrigues Alves, no Acre. Essas áreas permitem operações de exportação e importação com reg",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
       "title": "Comissão de Cultura aprova proposta que cria Política de Coleções Biológicas",
       "link": "https://www.camara.leg.br/noticias/1319841-comissao-de-cultura-aprova-proposta-que-cria-politica-de-colecoes-biologicas",
       "date": "2026-11-17T14:32:00.000Z",
@@ -422,15 +422,6 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Diretor da PF sinaliza que não vai ao Senado nesta quarta esclarecer mudança de relatório sobre ministros do STF",
-      "link": "https://g1.globo.com/politica/blog/gerson-camarotti/post/2026/11/17/diretor-da-pf-sinaliza-que-nao-vai-ao-senado-nesta-quarta-para-esclarecer-mudanca-de-relatorio-sobre-ministros-do-stf.ghtml",
-      "date": "2026-11-17T14:19:51.000Z",
-      "summary": "O diretor-geral da Polícia Federal, Andrei Rodrigues, sinalizou para interlocutores próximos que não vai ao Senado nesta quarta-feira (18) para prestar esclarecimentos sobre troca de delegados da corporação. O convite, aprovado por senadores de duas comissões,",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
     },
     {
       "title": "Comissão aprova projeto que garante plano de saúde para PMs e bombeiros militares",
@@ -469,15 +460,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Advogadas suspeitas de aplicar golpe em filho de Lula são alvo da Polícia em SP",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/advogados-suspeitos-de-aplicar-golpe-em-filho-de-lula-sao-alvo-da-policia-em-sp/",
-      "date": "2026-11-17T12:16:14.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Comissão debate formação de profissionais e estrutura de apoio à educação inclusiva; participe",
       "link": "https://www.camara.leg.br/noticias/1319016-comissao-debate-formacao-de-profissionais-e-estrutura-de-apoio-a-educacao-inclusiva-participe",
       "date": "2026-11-17T11:32:00.000Z",
@@ -491,15 +473,6 @@
       "link": "https://www.camara.leg.br/noticias/1318951-comissao-debate-impactos-do-contrabando-e-da-falsificacao-no-mercado-de-bebidas-e-cigarros",
       "date": "2026-11-17T11:28:00.000Z",
       "summary": "Audiência pública vai reunir informações para propor medidas legislativas que reduzam os impactos econômicos da pirataria no setor",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Comissão promove debate sobre redução da maioridade penal nesta terça-feira",
-      "link": "https://www.camara.leg.br/noticias/1319616-comissao-promove-debate-sobre-reducao-da-maioridade-penal-nesta-terca-feira",
-      "date": "2026-11-17T11:25:00.000Z",
-      "summary": "",
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
