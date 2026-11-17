@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-17T11:46:51.592Z",
+  "updated": "2026-11-17T12:57:57.268Z",
   "market": {
     "ibov": {
       "price": 169295.4,
       "pct": -1.83,
-      "time": "2026-11-17T11:46:45.367Z",
+      "time": "2026-11-17T12:57:51.560Z",
       "history": [
         {
           "d": "2026-10-19",
@@ -141,6 +141,123 @@
   },
   "news": [
     {
+      "title": "PF entrega nesta quarta relatório com ministros citados em mensagens de Vorcaro e crise no STF pode voltar a esquentar",
+      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/17/pf-entrega-nesta-quarta-relatorio-com-todos-ministros-citados-em-mensagens-de-vorcaro-e-crise-no-stf-pode-voltar-a-esquentar.ghtml",
+      "date": "2026-11-17T12:47:01.000Z",
+      "summary": "O diretor-geral da Polícia Federal (PF), Andrei Passos Rodrigues, vai entregar nesta quarta-feira (18) ao presidente do Supremo Tribunal Federal (STF), ministro Edson Fachin, o relatório citando todos os ministros do tribunal mencionados ou que trocaram mensag",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Dólar abre em alta e chega a R$ 5,79 com mercado à espera de votação de projeto fiscal no Senado",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/dolar-abre-em-alta-e-chega-a-r-579-com-mercado-a-espera-de-votacao-de-projeto-fiscal-no-senado.shtml",
+      "date": "2026-11-17T12:47:00.000Z",
+      "summary": "O dólar começou a manhã em alta nesta terça-feira (17), enquanto o mercado acompanha a conclusão da votação do projeto de ajuste fiscal do governo no Senado. Às 9h45, a moeda subia 0,33%, a R$ 5,795. Leia mais (11/17/2026 - 09h47)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Deutsche Bank falhou no controle e prevenção à lavagem de dinheiro, mostram documentos vazados",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/deutsche-bank-falhou-em-controle-e-prevencao-a-lavagem-de-dinheiro-mostram-documentos-vazados.shtml",
+      "date": "2026-11-17T12:47:00.000Z",
+      "summary": "Uma investigação baseada em mais de 15 milhões de documentos vazados aponta que o Deutsche Bank manteve falhas na prevenção à lavagem de dinheiro, na avaliação de clientes e na comunicação com investidores durante anos de promessas de mudança. Leia mais (11/17",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Na COP31, Federação das Indústrias de MG leva dados que apontam alta cobertura natural em áreas mineradas",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/na-cop31-federacao-das-industrias-de-mg-leva-dados-que-apontam-alta-cobertura-natural-em-areas-mineradas.shtml",
+      "date": "2026-11-17T12:32:00.000Z",
+      "summary": "Em apresentação na COP31, a Federação das Indústrias do Estado de Minas Gerais (Fiemg) apontou uma proporção de 7,4 hectares de cobertura natural para cada hectare de mineração em área analisada no estado de MG. Leia mais (11/17/2026 - 09h32)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Governo cria sistema de satélites para defesa e comunicações",
+      "link": "https://www.poder360.com.br/poder-governo/governo-cria-sistema-de-satelites-para-defesa-e-comunicacoes/",
+      "date": "2026-11-17T12:17:59.000Z",
+      "summary": "Decreto estabelece governança para projetos espaciais, prevê transferência de tecnologia e inclui Telebras na operação",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Advogados suspeitos de aplicar golpe em filho de Lula são alvo da Polícia em SP",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/advogados-suspeitos-de-aplicar-golpe-em-filho-de-lula-sao-alvo-da-policia-em-sp/",
+      "date": "2026-11-17T12:16:14.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Nvidia cria comitê para supervisionar segurança nacional e controles de exportação",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/17/nvidia-cria-comite-para-supervisionar-seguranca-nacional-e-controles-de-exportacao.ghtml",
+      "date": "2026-11-17T12:11:34.000Z",
+      "summary": "Chips da Nvidia são usados ​​para criar e executar aplicações de IA Annegret Hilse/REUTERS A Nvidia anunciou nesta terça-feira (17) a criação de um novo comitê ligado ao conselho de administração para supervisionar suas políticas de segurança nacional, o cumpr",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "UE acusa Temu de violar lei digital por venda de itens ilegais",
+      "link": "https://www.poder360.com.br/poder-internacional/ue-acusa-temu-de-violar-lei-digital-por-venda-de-itens-ilegais/",
+      "date": "2026-11-17T12:11:30.000Z",
+      "summary": "Comissão Europeia diz que plataforma não impede venda de itens inseguros e cita 3 falhas estruturais nos controles",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Elon Musk quer fundir Tesla e SpaceX, e negócios de ambas já se sobrepõem",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/elon-musk-quer-fundir-tesla-e-spacex-e-negocios-de-ambas-ja-se-sobrepoem.shtml",
+      "date": "2026-11-17T12:08:00.000Z",
+      "summary": "Há quase uma década, Elon Musk deu à equipe de design da Tesla uma tarefa incomum: construir um carro esportivo capaz de voar. Leia mais (11/17/2026 - 09h08)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Dólar oscila na abertura, à espera de balanço da Nvidia e de olho em dados dos EUA",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/17/dolar-ibovespa.ghtml",
+      "date": "2026-11-17T12:00:34.000Z",
+      "summary": "Entenda o que faz o preço do dólar subir ou cair O dólar abriu a sessão desta terça-feira (17) com volatilidade e marcava uma leve alta de 0,02% perto das 9h, cotado a R$ 5,7778. Já as negociações do Ibovespa, principal índice da bolsa brasileira, começam às 1",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Grupo de investidores negocia aporte maior pela SAF do Fluminense em nova proposta",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/grupo-de-investidores-negocia-aporte-maior-pela-saf-do-fluminense-em-nova-proposta.shtml",
+      "date": "2026-11-17T12:00:00.000Z",
+      "summary": "O grupo que negocia a compra da SAF (Sociedade Anônima do Futebol) do Fluminense -que inclui nomes como o do banqueiro André Esteves, do BTG Pactual- deve aumentar o valor da proposta em dinheiro diante da maior necessidade de recursos para reequilibrar as fin",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Mais de 276 mil trabalhadores ainda não sacaram o abono salarial; veja como receber",
+      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/17/mais-de-276-mil-trabalhadores-ainda-nao-sacaram-o-abono-salarial-veja-como-receber.ghtml",
+      "date": "2026-11-17T11:54:41.000Z",
+      "summary": "Abono salarial do PIS: economista dá dicas para usar o benefício Mais de 276 mil trabalhadores ainda não sacaram o abono salarial de 2026. Ao todo, R$ 304,8 milhões estão disponíveis para retirada, segundo levantamento do Ministério do Trabalho e Emprego (MTE)",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "UNE realiza atos em 13 cidades contra ajuste fiscal de Lula",
+      "link": "https://www.poder360.com.br/poder-congresso/une-realiza-atos-em-13-cidades-contra-ajuste-fiscal-de-lula/",
+      "date": "2026-11-17T11:54:28.000Z",
+      "summary": "Organização cobra mais investimentos públicos; mobilização é feita em meio a críticas de aliados do presidente à proposta",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "O que é o ajuste fiscal que o mercado cobra de Lula? Entenda por que ele desagrada muita gente e divide economistas",
       "link": "https://www.bbc.com/portuguese/articles/cklyw32d9n7vo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-17T11:37:11.000Z",
@@ -157,15 +274,6 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Novas melhorias para o já valioso Enem",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/novas-melhorias-para-o-ja-valioso-enem/",
-      "date": "2026-11-17T11:30:33.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
     },
     {
       "title": "Comissão debate impactos do contrabando e da falsificação no mercado de bebidas e cigarros",
@@ -186,15 +294,6 @@
       "type": "oficial"
     },
     {
-      "title": "Regra antidesmatamento europeia pode encarecer em 12% soja brasileira vendida ao bloco",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/economia-sustentavel/2026/11/regra-antidesmatamento-europeia-pode-encarecer-em-12-soja-brasileira-vendida-ao-bloco.shtml",
-      "date": "2026-11-17T11:24:00.000Z",
-      "summary": "A regra antidesmatamento imposta pela União Europeia a partir de janeiro de 2027 poderá encarecer em cerca de 12% a soja brasileira vendida ao bloco. O aumento é reflexo de custos extras estimados para separar os lotes destinados aos europeus, além de possívei",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Audiência na Câmara debate prevenção e tratamento de doenças cardiovasculares",
       "link": "https://www.camara.leg.br/noticias/1318857-audiencia-na-camara-debate-prevencao-e-tratamento-de-doencas-cardiovasculares",
       "date": "2026-11-17T11:22:00.000Z",
@@ -213,28 +312,10 @@
       "type": "oficial"
     },
     {
-      "title": "China recorre a modelos de IA dos EUA para treinar concorrentes nacionais",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/china-recorre-a-modelos-de-ia-dos-eua-para-treinar-concorrentes-nacionais.shtml",
-      "date": "2026-11-17T11:16:00.000Z",
-      "summary": "Documentos revelam que entidades chinesas estão adotando formas cada vez mais sofisticadas de utilizar os resultados dos principais modelos norte-americanos de IA para treinar concorrentes nacionais, à medida que a China busca ampliar sua estratégia de IA e co",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Inflação da Itália acelera para 5,5% em outubro",
       "link": "https://www.poder360.com.br/poder-internacional/inflacao-da-italia-acelera-para-55-em-outubro/",
       "date": "2026-11-17T11:09:48.000Z",
       "summary": "Aceleração dos preços é puxada pela energia, com destaque para a alta de 20,3% nos preços da energia regulada no mês",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Presidente da Mongólia renuncia após ser acusado de corrupção",
-      "link": "https://www.poder360.com.br/poder-internacional/presidente-da-mongolia-renuncia-apos-ser-acusado-de-corrupcao/",
-      "date": "2026-11-17T11:06:02.000Z",
-      "summary": "Político do mesmo partido de Khurelsukh Ukhnaa diz que ele recebeu 25 milhões de dólares ligados a projeto ferroviário",
       "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
@@ -249,38 +330,11 @@
       "type": "imprensa"
     },
     {
-      "title": "Talarico e Hamilton ampliam agenda dos cristãos na política dos EUA",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/deborah-bizarria/2026/11/talarico-e-hamilton-ampliam-agenda-dos-cristaos-na-politica-dos-eua.shtml",
-      "date": "2026-11-17T11:00:00.000Z",
-      "summary": "Nas eleições legislativas americanas, acompanhei com interesse as campanhas do presbiteriano James Talarico e do pastor metodista Adam Hamilton, eleitos para o Senado pelo Texas e pelo Kansas, respectivamente. Ao disputarem a linguagem bíblica, contestam a ass",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Samsung investe em data centers para ter cadeia completa de infraestrutura de IA",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/samsung-investe-em-data-centers-para-ter-cadeia-completa-de-infraestrutura-de-ia.shtml",
-      "date": "2026-11-17T11:00:00.000Z",
-      "summary": "Depois de conquistar o mercado de chips de memória, a Samsung quer transformar outras áreas de seu vasto império empresarial em líderes da cadeia de suprimentos de inteligência artificial, mas analistas questionam se o grupo conseguirá reproduzir em outras div",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Equipe de Lula manda esquerda parar de atacar ajuste fiscal para evitar derrota no Senado",
       "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/17/equipe-de-lula-manda-esquerda-parar-de-atacar-ajuste-fiscal-para-evitar-derrota-no-senado.ghtml",
       "date": "2026-11-17T10:30:49.000Z",
-      "summary": "Senado deve votar destaques do ajuste fiscal nesta terça-feira (17) A equipe do presidente Lula determinou que seus aliados na esquerda parem de atacar o ajuste fiscal para evitar uma derrota nesta terça-feira (17) no Senado Federal. A oposição tenta aproveita",
+      "summary": "Senadores devem votar destaques do ajuste fiscal nesta terça (17) A equipe do presidente Lula determinou que seus aliados na esquerda parem de atacar o ajuste fiscal para evitar uma derrota nesta terça-feira (17) no Senado Federal. A oposição tenta aproveitar ",
       "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "“Reduzir os juros é a única saída”, diz Lara Resende em novo artigo",
-      "link": "https://www.poder360.com.br/poder-economia/reduzir-os-juros-e-a-unica-saida-diz-lara-resende-em-novo-artigo/",
-      "date": "2026-11-17T10:09:00.000Z",
-      "summary": "Economista volta a defender proposta de limite à Selic, rebate críticos e afirma: “Estado brasileiro gasta mal e gasta muito”",
-      "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -300,24 +354,6 @@
       "summary": "Kremlin quer a retirada da aliança de grande parte do Leste Europeu como condição para o fim da guerra na Ucrânia. O que está por trás do plano russo e o que isso significaria para a segurança de milhões de europeus?",
       "source": "DW Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Mercado quer que o povo pobre viva na miséria, diz Lula na Espanha",
-      "link": "https://www.poder360.com.br/poder-governo/mercado-quer-que-o-povo-pobre-viva-na-miseria-diz-lula-na-espanha/",
-      "date": "2026-11-17T09:23:02.000Z",
-      "summary": "Em Madri para apoiar reeleição de Sánchez, presidente disse que precisa fazer do seu 4º mandato \"o mais responsável\"",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Fazenda muda critério e esconde documentos da MP das bets, bandeira da campanha de Lula",
-      "link": "https://www.estadao.com.br/politica/fazenda-muda-criterio-e-esconde-documentos-da-mp-das-bets-bandeira-da-campanha-de-lula/",
-      "date": "2026-11-17T08:30:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -343,24 +379,6 @@
       "link": "https://g1.globo.com/economia/noticia/2026/11/17/brasileiros-tem-mais-dificuldade-para-poupar-que-a-media-mundial-diz-pesquisa-veja-o-que-pesa-no-bolso.ghtml",
       "date": "2026-11-17T08:00:00.000Z",
       "summary": "Investimentos em renda fixa podem ser alternativa para quem quer poupar Chegar ao fim do mês com algum dinheiro sobrando é uma realidade distante para muitos brasileiros. Quatro em cada 10 pessoas no país dizem que não conseguem poupar ou investir, segundo uma",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Caoa Chery Tiggo 9 aposta em luxo e potência para fisgar clientes de SUVs alemães; vale a pena?",
-      "link": "https://g1.globo.com/carros/noticia/2026/11/17/caoa-chery-tiggo-9-aposta-em-luxo-e-potencia-para-fisgar-clientes-de-suvs-alemaes-vale-a-pena.ghtml",
-      "date": "2026-11-17T07:00:01.000Z",
-      "summary": "CAOA Chery Tiggo 9 na versão PHEV. Divulgação / CAOA Chery É raro, mas acontece muito no mundo dos carros: um nome ganha tanta força que fica mais conhecido do que a própria marca. É o caso do Cooper, da Mini, e do Corolla, da Toyota. No Brasil, o nome mais fo",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "'Parece que o rio vem assombrar a gente': ansiedade climática atinge produtores gaúchos que perderam tudo nas enchentes",
-      "link": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/11/17/parece-que-o-rio-vem-assombrar-a-gente-ansiedade-climatica-atinge-produtores-gauchos-que-perderam-tudo-nas-enchentes.ghtml",
-      "date": "2026-11-17T07:00:00.000Z",
-      "summary": "O medo que vem do céu Dois anos e meio após as enchentes de 2024, as terras da produtora de leite Angelita Hermes, em Vera Cruz, no Rio Grande do Sul, estão verdes de novo. Mas houve um tempo em que ela caminhava por ali e não enxergava nada disso. Foi quando ",
       "source": "g1",
       "cat": "economia",
       "type": "imprensa"
@@ -402,25 +420,16 @@
       "type": "imprensa"
     },
     {
-      "title": "Caso Master completa um ano com Vorcaro preso, expectativa de denúncia e crise no STF",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/17/caso-master-completa-um-ano-com-vorcaro-preso-expectativa-de-denuncia-e-crise-no-stf.ghtml",
-      "date": "2026-11-17T03:00:00.000Z",
-      "summary": "O caso Master completa um ano nesta terça-feira (17), com o banqueiro Daniel Vorcaro preso, a expectativa de uma primeira denúncia pela Procuradoria-Geral da República (PGR) e uma série de apurações ainda em andamento. O caso também avançou sobre políticos e m",
-      "source": "g1",
+      "title": "Deputado do PT e Prerrogativas pedem ao STF que Flávio deixe de receber salário de senador",
+      "link": "https://www.estadao.com.br/politica/deputado-do-pt-e-prerrogativas-pedem-ao-stf-que-flavio-deixe-de-receber-salario-de-senador-nprp/",
+      "date": "2026-11-17T01:55:59.000Z",
+      "summary": "",
+      "source": "Estadão",
       "cat": "politica",
       "type": "imprensa"
     },
     {
-      "title": "Sob impacto do 8/1, Moraes concentra quase metade dos casos penais no STF e 98% das ações",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/sob-impacto-do-81-moraes-concentra-quase-metade-dos-casos-penais-no-stf-e-98-das-acoes.shtml",
-      "date": "2026-11-17T02:00:00.000Z",
-      "summary": "O ministro Alexandre de Moraes concentra a relatoria de quase metade das ações das cinco classes processuais mais diretamente ligadas à área criminal no STF (Supremo Tribunal Federal) e que não estão sob sigilo. Leia mais (11/16/2026 - 23h00)",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Justiça determina o bloqueio de R$180 mil da Meta por não apagar vídeo com ataques a Erika Hilton",
+      "title": "Justiça determina o bloqueio de R$ 180 mil da Meta por não apagar vídeo com ataques a Erika Hilton",
       "link": "https://www.estadao.com.br/politica/justica-determina-o-bloqueio-de-r180-da-meta-por-nao-apagar-video-com-ataques-a-erika-hilton-nprp/",
       "date": "2026-11-17T01:26:32.000Z",
       "summary": "",
@@ -454,15 +463,6 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "MP Militar faz levantamento para contabilizar casos de assédio a mulheres das Forças Armadas",
-      "link": "https://www.estadao.com.br/politica/mp-militar-faz-levantamento-para-contabilizar-casos-de-assedio-a-mulheres-das-forcas-armadas-nprp/",
-      "date": "2026-11-16T20:31:35.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
     },
     {
       "title": "Consciência Negra: Paulo Paim defende cotas e combate ao racismo",
@@ -571,6 +571,15 @@
       "source": "ONU News",
       "cat": "internacional",
       "type": "oficial"
+    },
+    {
+      "title": "Cármen Lúcia conclui que Jair Bolsonaro feriu liberdade de imprensa ao bloquear jornalistas no X",
+      "link": "https://www.estadao.com.br/politica/carmen-lucia-conclui-que-bolsonaro-feriu-a-liberdade-de-imprensa-ao-bloquear-jornalistas-no-x-nprp/",
+      "date": "2026-11-14T01:02:30.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
     },
     {
       "title": "Novo chefe do WFP pede fim dos combates no Sudão após visita ao país",
