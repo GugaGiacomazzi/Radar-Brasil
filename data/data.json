@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-17T02:49:42.591Z",
+  "updated": "2026-11-17T03:50:50.197Z",
   "market": {
     "ibov": {
       "price": 169295.4,
       "pct": -1.83,
-      "time": "2026-11-17T02:49:35.216Z",
+      "time": "2026-11-17T03:50:43.296Z",
       "history": [
         {
           "d": "2026-10-19",
@@ -84,7 +84,7 @@
         },
         {
           "d": "2026-11-16",
-          "c": 169295.4063
+          "c": 169295
         }
       ]
     },
@@ -141,6 +141,78 @@
   },
   "news": [
     {
+      "title": "Os desafios de Lula na volta ao Brasil: formação do ministério e ajuste fiscal - O Assunto #1847",
+      "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/11/17/os-desafios-de-lula-na-volta-ao-brasil-formacao-do-ministerio-e-ajuste-fiscal-o-assunto-1847.ghtml",
+      "date": "2026-11-17T03:30:01.000Z",
+      "summary": "No domingo (15), o vice-presidente Geraldo Alckmin afirmou que, ao voltar para o Brasil, o presidente Lula vai trabalhar na formação do ministério para o próximo governo. Lula fez seu primeiro giro internacional pós-reeleição sem nenhuma indicação para a Espla",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Adolescentes vão mais às urnas e registram maior comparecimento desde 2014",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/11/17/eleicoes-2026-comparecimento-adolescentes-segundo-turno-20214.ghtml",
+      "date": "2026-11-17T03:00:01.000Z",
+      "summary": "Brasília (DF) 25/10/2026 Eleitores votam em colégio da Cidade Estrutural, Região Administrativa de Brasília. Foto: Fabio Rodrigues-Pozzebom/ Agência Brasil Fabio Rodrigues-Pozzebom/ Agênc / Fotográfo/Agência Brasil Adolescentes de 16 a 17 anos foram mais às ur",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Caso Master completa um ano com Vorcaro preso, expectativa de denúncia e crise no STF",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/17/caso-master-completa-um-ano-com-vorcaro-preso-expectativa-de-denuncia-e-crise-no-stf.ghtml",
+      "date": "2026-11-17T03:00:00.000Z",
+      "summary": "O caso Master completa um ano nesta terça-feira (17), com o banqueiro Daniel Vorcaro preso, a expectativa de uma primeira denúncia pela Procuradoria-Geral da República (PGR) e uma série de apurações ainda em andamento. O caso também avançou sobre políticos e m",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Ajuste fiscal: Senado vota destaques ao projeto do governo nesta terça; veja o que pode mudar no texto",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/17/ajuste-fiscal-senado-vota-destaques-ao-projeto-do-governo-nesta-terca-veja-o-que-pode-mudar-no-texto.ghtml",
+      "date": "2026-11-17T03:00:00.000Z",
+      "summary": "Senado aprova texto-base de projeto que prevê ajuste fiscal de até R$ 60 bilhões O Senado Federal deve votar nesta terça-feira (17) propostas de mudanças no projeto de lei complementar (PLP) do ajuste fiscal do governo do presidente Luiz Inácio Lula da Silva (",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Concurso da Câmara: inscrições terminam nesta terça; salário passa de R$ 32 mil",
+      "link": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/11/17/concurso-da-camara-inscricoes-terminam.ghtml",
+      "date": "2026-11-17T03:00:00.000Z",
+      "summary": "Concurso da Câmara dos Deputados tem salários de mais de R$ 32 mil As inscrições para o novo concurso da Câmara dos Deputados terminam nesta terça-feira (17), às 18h (horário de Brasília). A seleção reúne 184 oportunidades, entre vagas imediatas e cadastro de ",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Mega-Sena pode pagar R$ 34 milhões nesta terça-feira; g1 transmite ao vivo",
+      "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/17/mega-sena-pode-pagar-r-34-milhoes-nesta-terca-feira-g1-transmite-ao-vivo.ghtml",
+      "date": "2026-11-17T03:00:00.000Z",
+      "summary": "Como funciona a Mega-Sena? O concurso 3.087 da Mega-Sena pode pagar um prêmio de R$ 34 milhões para os apostadores que acertarem as seis dezenas. O sorteio ocorre às 21h desta terça-feira (17), em São Paulo. 📱Favorite o g1 no Google e acompanhe as principais ",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Aneel pode decidir nesta terça sobre caducidade da concessão da Enel-SP",
+      "link": "https://g1.globo.com/economia/blog/ana-flor/post/2026/11/17/aneel-pode-decidir-nesta-terca-sobre-caducidade-da-concessao-da-enel-sp.ghtml",
+      "date": "2026-11-17T03:00:00.000Z",
+      "summary": "A Agência Nacional de Energia Elétrica (Aneel) volta a se reunir nesta terça-feira (17) para discutir o processo que pode resultar na recomendação de caducidade da concessão da Enel SP, distribuidora responsável pelo fornecimento de energia na capital paulista",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Aluguel continua a subir acima da inflação; veja onde está mais caro",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/aluguel-continua-a-subir-acima-da-inflacao-veja-onde-esta-mais-caro.shtml",
+      "date": "2026-11-17T03:00:00.000Z",
+      "summary": "O aluguel residencial continua a subir em ritmo superior ao da inflação, embora os reajustes tenham perdido força nos últimos meses. Leia mais (11/17/2026 - 00h00)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "Marinho e Tereza Cristina criticam Moraes por negar visitas a Bolsonaro",
       "link": "https://www.poder360.com.br/poder-congresso/marinho-e-tereza-cristina-criticam-moraes-por-negar-visitas-a-bolsonaro/",
       "date": "2026-11-17T02:14:44.000Z",
@@ -186,29 +258,11 @@
       "type": "imprensa"
     },
     {
-      "title": "Cadillac Escalade elétrico disfarça as quatro toneladas com potência e longo alcance",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/cadillac-escalade-eletrico-disfarca-as-quatro-toneladas-com-potencia-e-longo-alcance.shtml",
-      "date": "2026-11-17T02:00:00.000Z",
-      "summary": "As estradas de Detroit pertencem aos motores a combustão. Ainda é raro ver carros elétricos pelas ruas, embora não faltem opções disponíveis no mercado norte-americano. O Cadillac Escalade já faz parte dessa frota a bateria, com destaque para a versão IQL. Ess",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Deputado do PT e Prerrogativas pedem ao STF que Flávio deixe de receber salário de senador",
       "link": "https://www.estadao.com.br/politica/deputado-do-pt-e-prerrogativas-pedem-ao-stf-que-flavio-deixe-de-receber-salario-de-senador-nprp/",
       "date": "2026-11-17T01:55:59.000Z",
       "summary": "",
       "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "PF cita 'quebra de confiança' para afastamento de delegados e nega interferência em investigação",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/16/pf-cita-quebra-de-confianca-para-afastamento-de-delegados-e-nega-interferencia-em-investigacao.ghtml",
-      "date": "2026-11-17T01:37:30.000Z",
-      "summary": "Em resposta ao Ministério da Justiça, o diretor-geral da Polícia Federal (PF), Andrei Rodrigues, afirmou que houve uma \"quebra na fundamental relação de confiança\" ao falar sobre o afastamento de dois delegados de suas funções na coordenadoria-geral de repress",
-      "source": "g1",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -294,15 +348,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Integrantes de partidos devem apresentar alternativas a ajuste fiscal que divide esquerda: 'Se podem negociar com o mercado, podem negociar com a gente', diz Lindbergh",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/16/partidos-alternativas-criticas-ajuste-fiscal.ghtml",
-      "date": "2026-11-16T22:35:04.000Z",
-      "summary": "O ministro do Planejamento e Orçamento, Bruno Moretti Fabio Rodrigues Pozzebom/Agência Brasil Lideranças de PT, PCdoB e PSOL devem apresentar ao governo alternativas ao projeto de ajuste fiscal, que enfrenta resistência de setores da esquerda, segundo o deputa",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "STF encerra ação de juíza do Mato Grosso contra jornalistas que denunciaram dívida com empresário",
       "link": "https://www.estadao.com.br/politica/stf-encerra-acao-de-juiza-do-mato-grosso-contra-jornalistas-que-denunciaram-divida-com-empresario-nprp/",
       "date": "2026-11-16T22:31:55.000Z",
@@ -319,24 +364,6 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "United Airlines enfrenta falha generalizada, três dias após apagão aéreo",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/16/united-airlines-enfrenta-falha-generalizada.ghtml",
-      "date": "2026-11-16T22:07:46.000Z",
-      "summary": "Aviões da United Airlines no Aeroporto Internacional George Bush, em Houston, em 14 de novembro, após o apagão aéreo. Ashley Landis/AP A United Airlines enfrentou nesta segunda-feira (16) uma falha generalizada em seus sistemas que provocou atrasos em alguns v",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Alckmin diz que não há razão para mercado ter oscilações após pacote fiscal: 'Brasil tem segurança jurídica e está trabalhando'",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/16/alckmin-diz-que-nao-ha-razao-para-mercado-ter-oscilacoes-apos-pacote-fiscal-brasil-tem-seguranca-juridica-e-esta-trabalhando.ghtml",
-      "date": "2026-11-16T21:53:07.000Z",
-      "summary": "O presidente em exercício, Geraldo Alckmin, afirmou nesta segunda-feira (16) que não há razão para as oscilações do mercado financeiro após o governo ter apresentado na semana passada pacote que reúne medidas para conter gastos e melhorar as contas públicas, c",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
     },
     {
       "title": "Ex-prefeito que teve conversa exposta por Cleitinho diz que vai processá-lo e que vem sendo atacado",
@@ -366,15 +393,6 @@
       "type": "oficial"
     },
     {
-      "title": "Falha técnica afeta serviços de grandes bancos dos Estados Unidos",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/16/grandes-bancos-dos-eua-relatam-interrupcoes-generalizadas-em-seus-servicos.ghtml",
-      "date": "2026-11-16T20:48:14.000Z",
-      "summary": "Caixa eletrônico mostra mensagem de falha nos EUA LM Otero / AP Photo/LM Otero Milhares de clientes relataram dificuldades para acessar contas bancárias pela internet nesta segunda-feira (16), após um problema técnico em uma instituição financeira provocar um ",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Comissões e bancadas estaduais votam suas emendas ao Orçamento de 2027",
       "link": "https://www.camara.leg.br/noticias/1319815-comissoes-e-bancadas-estaduais-votam-suas-emendas-ao-orcamento-de-2027",
       "date": "2026-11-16T20:40:00.000Z",
@@ -391,15 +409,6 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Fornecedora de café da Nestlé enfrenta audiência por denúncias de violações trabalhistas",
-      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/16/fornecedora-de-cafe-da-nestle-enfrenta-audiencia-por-denuncias-de-violacoes-trabalhistas.ghtml",
-      "date": "2026-11-16T20:17:37.000Z",
-      "summary": "Uma empilhadeira movimenta grandes sacos de grãos de café no armazém da cooperativa Cooabriel Robusta, em São Gabriel da Palha 23 de setembro de 2025 REUTERS/Alexandre Meneghini A Cooperativa Agrária dos Cafeicultores de São Gabriel (Cooabriel), fornecedora da",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
     },
     {
       "title": "Consciência Negra: Paulo Paim defende cotas e combate ao racismo",
@@ -436,15 +445,6 @@
       "source": "Agência Senado",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Fachin indica a colegas que deve dar prioridade para julgamento sobre escala 5x2",
-      "link": "https://g1.globo.com/economia/blog/ana-flor/post/2026/11/16/fachin-indica-a-colegas-que-deve-dar-prioridade-para-julgamento-sobre-escala-5x2.ghtml",
-      "date": "2026-11-16T18:36:43.000Z",
-      "summary": "O presidente do STF, Edson Fachin, indicou a colegas que pretende pautar logo o julgamento da escala 5x2, que foi transferido para o plenário físico do STF na última semana a pedido do ministro Luiz Fux. O ponto central da discussão é o adiamento ou não das no",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
     },
     {
       "title": "Crise na Nvidia expõe dilema da China na corrida pelos chips de IA",
@@ -638,6 +638,7 @@
   ],
   "errors": [
     "feed CNN Brasil: HTTP 404",
-    "feed CNN Brasil: HTTP 404"
+    "feed CNN Brasil: HTTP 404",
+    "feed Planalto (governo): HTTP 429"
   ]
 }
