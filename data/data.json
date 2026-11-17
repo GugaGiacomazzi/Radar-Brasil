@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-17T15:15:28.708Z",
+  "updated": "2026-11-17T16:19:10.281Z",
   "market": {
     "ibov": {
-      "price": 171266.3,
-      "pct": 1.16,
-      "time": "2026-11-17T15:15:21.815Z",
+      "price": 171241.19,
+      "pct": 1.15,
+      "time": "2026-11-17T16:19:04.513Z",
       "history": [
         {
           "d": "2026-10-19",
@@ -88,7 +88,7 @@
         },
         {
           "d": "2026-11-17",
-          "c": 171313.3281
+          "c": 171205.2969
         }
       ]
     },
@@ -145,56 +145,200 @@
   },
   "news": [
     {
-      "title": "Governo tenta conter ala do PT contrária ao ajuste fiscal",
-      "link": "https://www.poder360.com.br/poder-governo/governo-tenta-conter-ala-do-pt-contraria-ao-ajuste-fiscal/",
-      "date": "2026-11-17T15:15:04.000Z",
-      "summary": "Planalto rebate críticas de petistas ao projeto, enquanto a bancada na Câmara apresenta propostas para taxar os mais ricos",
+      "title": "Brookfield critica revisão de tarifas de gasodutos e vê risco a investimento no Brasil",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/infraestrutura/2026/11/brookfield-eleva-pressao-sobre-anp-e-ve-risco-a-investimento-no-brasil.shtml",
+      "date": "2026-11-17T16:08:00.000Z",
+      "summary": "O fundo canadense Brookfield subiu o tom contra a ANP (Agência Nacional do Petróleo, Gás Natural e Biocombustíveis) e afirma que a revisão das tarifas de gasodutos brasileiros pode afugentar investidores em infraestrutura do país. Leia mais (11/17/2026 - 13h08",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "China ameaça retaliar contra EUA por restrições a chips de IA que também afetam o Brasil",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/17/china-ameaca-retaliar-contra-eua-por-restricoes-a-chips-de-ia-que-tambem-afetam-o-brasil.ghtml",
+      "date": "2026-11-17T16:05:00.000Z",
+      "summary": "O presidente dos EUA, Donald Trump, fala com membros da imprensa ao partir para sua viagem às Filipinas e à China, na Casa Branca, em Washington, DC, EUA, em 16 de novembro de 2026 REUTERS/Kevin Lamarque O governo da China afirmou nesta terça-feira (17) que se",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Bancos buscam reduzir exposição a dívidas ligadas à inteligência artificial",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/bancos-buscam-reduzir-exposicao-a-dividas-ligadas-a-inteligencia-artificial.shtml",
+      "date": "2026-11-17T15:59:00.000Z",
+      "summary": "Bancos que emprestaram bilhões de dólares para financiar o boom da infraestrutura de inteligência artificial estão buscando reduzir sua exposição a riscos, que passou a ser alvo de maior escrutínio após a vitória expressiva dos democratas nas eleições de meio ",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Ajuste fiscal: Senado deve votar hoje mudanças no projeto do governo",
+      "link": "https://g1.globo.com/politica/ao-vivo/senado-pacote-medidas-fiscais.ghtml",
+      "date": "2026-11-17T15:56:22.000Z",
+      "summary": "Ajuste fiscal: Senado deve votar hoje mudanças no projeto do governo Proposta promove corte de benefícios fiscais e altera cálculo do piso constitucional da saúde. Texto-base foi aprovado por 45 votos a 31. O Senado deve votar, nesta terça-feira (17), proposta",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Dólar chega a R$ 5,81 à espera de votação do plano Moretti no Senado; Bolsa sobe",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/dolar-abre-em-alta-e-chega-a-r-579-com-mercado-a-espera-de-votacao-de-projeto-fiscal-no-senado.shtml",
+      "date": "2026-11-17T15:55:00.000Z",
+      "summary": "O dólar oscila nesta terça-feira (17), enquanto o mercado acompanha o andamento da votação do projeto de ajuste fiscal do governo no Senado. Após subir durante parte da manhã, a moeda chegou a R$ 5,811, maior valor intradiário desde 17 de abril de 2025. Às 12h",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Carro voador com representante brasileiro recebe autorização nos EUA",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/carro-voador-com-representante-brasileiro-recebe-autorizacao-nos-eua.shtml",
+      "date": "2026-11-17T15:53:00.000Z",
+      "summary": "A Beta Technologies recebeu autorização da FAA (Administração Federal de Aviação dos Estados Unidos) para realizar voos de demonstração com potenciais clientes a bordo de seu carro voador ALIA A250. O modelo elétrico de decolagem e pouso vertical, conhecido co",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "De volta, Lula retoma articulações sobre ministérios e ajuste fiscal",
+      "link": "https://www.poder360.com.br/poder-governo/de-volta-lula-retoma-articulacoes-sobre-ministerios-e-ajuste-fiscal/",
+      "date": "2026-11-17T15:46:56.000Z",
+      "summary": "Após 8 dias em viagem internacional, presidente recebe ministros e aliados para discutir a reorganização do governo",
       "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
     },
     {
+      "title": "Comissão aprova proposta de uso de fundo nacional para indenizar vítimas de crimes e policiais",
+      "link": "https://www.camara.leg.br/noticias/1319919-comissao-aprova-proposta-de-uso-de-fundo-nacional-para-indenizar-vitimas-de-crimes-e-policiais",
+      "date": "2026-11-17T15:38:00.000Z",
+      "summary": "Texto segue em análise na Câmara",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Diretor da Aneel paralisa processo sobre postes para aguardar Congresso",
+      "link": "https://www.poder360.com.br/poder-infra/diretor-da-aneel-paralisa-processo-sobre-postes-para-aguardar-congresso/",
+      "date": "2026-11-17T15:37:19.000Z",
+      "summary": "Agência de energia elétrica e Anatel tentam encerrar impasse de anos sobre compartilhamento de estruturas",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Sessão especial destaca atuação da CNseg no setor de seguros",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/17/senado-celebra-os-75-anos-da-cnseg-pelo-desenvolvimento-dos-seguros-privados",
+      "date": "2026-11-17T15:35:07.000Z",
+      "summary": "Desenvolver o sistema de seguros privados no Brasil e expandir a cultura de proteção pessoal e patrimonial são diretrizes da Confederação Nacional das Empresas de Seguros Gerais, Previdência Privada e Vida, Saúde Suplementar e Capitalização (CNseg). A entidade",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Relator de projeto do mercado digital prepara nova versão para reforçar que não há regulação de conteúdo",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/relator-de-projeto-do-mercado-digital-prepara-nova-versao-para-reforcar-que-nao-ha-regulacao-de-conteudo.shtml",
+      "date": "2026-11-17T15:33:00.000Z",
+      "summary": "O relator do PL dos Mercados Digitais, deputado Aliel Machado (PV-PR), prepara uma nova versão do texto para deixar mais claro que o projeto não prevê a regulação de conteúdo das redes. Este é um dos principais motivos apontados pelas bancadas para votar contr",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Senador vê interferência de Andrei contra delegados e tentativa de acobertamento na PF",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/senador-ve-interferencia-de-andrei-contra-delegados-e-tentativa-de-acobertamento-na-pf.shtml",
+      "date": "2026-11-17T15:30:00.000Z",
+      "summary": "O senador Alessandro Vieira (MDB-SE) vê uma possível interferência política do diretor-geral da Polícia Federal, Andrei Rodrigues, no trabalho dos delegados que elaboraram relatórios sobre as relações de ministros do STF (Supremo Tribunal Federal) com Daniel V",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Cidadania vai votar incorporação ao PP e extinção do partido",
+      "link": "https://www.estadao.com.br/politica/cidadania-vai-votar-incorporacao-ao-pp-e-extincao-do-partido-nprp/",
+      "date": "2026-11-17T15:30:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Com medidas do governo, Saúde pode deixar de receber R$ 9 bilhões em 2027 e ter alta limitada até 2030; organizações sociais reagem",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/17/com-medidas-do-governo-saude-pode-deixar-de-receber-r-9-bilhoes-em-2027-e-ter-alta-limitada-ate-2030-organizacoes-sociais-reagem.ghtml",
+      "date": "2026-11-17T15:25:28.000Z",
+      "summary": "A área de Saúde pode deixar de receber cerca de R$ 9 bilhões em 2027 por conta de medidas do governo, incluindo o pacote fiscal que está sendo analisado pelo Congresso Nacional. A estimativa foi feita pela Consultoria de Orçamentos, Fiscalização e Controle do ",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "“Não há licença para gasto indiscriminado dos Três Poderes”, diz Durigan",
+      "link": "https://www.poder360.com.br/poder-congresso/nao-ha-licenca-para-gasto-indiscriminado-dos-3-poderes-diz-durigan/",
+      "date": "2026-11-17T15:24:43.000Z",
+      "summary": "Ministro da Fazenda disse em comissão do Senado que equilíbrio das contas depende de todos os Poderes, incluindo o STF",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Nossa posição é de não adiar a reforma tributária, diz Durigan",
+      "link": "https://www.poder360.com.br/poder-economia/nossa-posicao-e-de-nao-adiar-a-reforma-tributaria-diz-durigan/",
+      "date": "2026-11-17T15:20:51.000Z",
+      "summary": "Ministro da Fazenda declarou que “é preciso avançar no que é melhor para as empresas e para as pessoas”",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "TCU não escolheu alíquota que gostaria, mas cumpriu o que a lei lhe atribuiu, diz Vital do Rêgo",
+      "link": "https://www.estadao.com.br/economia/tcu-aliquota-reforma-tributaria-cumpriu-lei-vital-rego/",
+      "date": "2026-11-17T15:20:23.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Ataque usa páginas de sites famosos para roubar criptomoedas e infectar celulares; entenda",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/17/ataque-usa-paginas-de-sites-famosos-para-roubar-criptomoedas-e-infectar-celulares.ghtml",
+      "date": "2026-11-17T15:18:19.000Z",
+      "summary": "Ataque hacker afeta emissão de boletos de impostos em MG; sistema já foi restabelecido Sites de algumas das maiores empresas do mundo foram usados em uma campanha de ataques cibernéticos que tentava roubar criptomoedas, capturar dados de cartões bancários e in",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "O que é o ajuste fiscal que o mercado cobra de Lula? Entenda por que ele desagrada muita gente e divide economistas",
       "link": "https://www.bbc.com/portuguese/articles/cklyw32d9n7vo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-17T15:12:47.000Z",
+      "date": "2026-11-17T15:15:18.000Z",
       "summary": "A proposta de ajuste fiscal divulgada pela equipe econômica na última semana provocou uma série de reações negativas - inclusive dentro da própria esquerda.",
       "source": "BBC News Brasil",
       "cat": "internacional",
       "type": "imprensa"
     },
     {
-      "title": "CEO interina, Colette Kress, estreia no cargo em divulgação dos balanços da Nvidia",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/ceo-interina-colette-kress-estreia-no-cargo-em-divulgacao-dos-balancos-da-nvidia.shtml",
-      "date": "2026-11-17T15:10:00.000Z",
-      "summary": "A sucessora interina de Jensen Huang, Colette Kress, sairá pela primeira vez da sombra do desacreditado executivo da Nvidia nesta terça-feira (17), ao tentar tranquilizar Wall Street de que a fabricante de chips para inteligência artificial pode manter seu cre",
+      "title": "Mapas mostram voto em Lula por escolaridade, religião e renda; veja vídeo",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/mapas-mostram-voto-em-lula-por-escolaridade-religiao-e-renda-veja-video.shtml",
+      "date": "2026-11-17T15:13:00.000Z",
+      "summary": "O presidente Lula (PT) conquistou maior votação em áreas de maioria negra, de menor renda, rurais e católicas, mostra levantamento que cruza dados eleitorais dos locais de votação no segundo turno com informações demográficas do Censo de 2022. Flávio Bolsonaro",
       "source": "Folha",
-      "cat": "economia",
+      "cat": "politica",
       "type": "imprensa"
     },
     {
-      "title": "Não queremos prejudicar empresas com reforma tributária, diz Durigan",
-      "link": "https://www.poder360.com.br/poder-economia/nao-queremos-prejudicar-empresas-com-reforma-tributaria-diz-durigan/",
-      "date": "2026-11-17T15:07:50.000Z",
-      "summary": "Ministro da Fazenda afirmou que a reforma visa a melhorar a produtividade da economia brasileira",
-      "source": "Poder360",
+      "title": "Indústria e acordo ambiental serão temas de audiências na CRE",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/17/industria-e-acordo-ambiental-serao-temas-de-audiencias-na-cre",
+      "date": "2026-11-17T15:08:34.000Z",
+      "summary": "A Comissão de Relações Exteriores (CRE) aprovou três requerimentos para a realização de audiências públicas sobre os desafios da indústria brasileira diante da concorrência internacional e os possíveis impactos do Acordo de Escazú. Os pedidos, apresentados pel",
+      "source": "Agência Senado",
       "cat": "politica",
-      "type": "imprensa"
+      "type": "oficial"
     },
     {
       "title": "Presidente do STJ dá prazo para Buzzi desocupar apartamento funcional e determina devolução de equipamentos",
       "link": "https://g1.globo.com/politica/noticia/2026/11/17/presidente-do-stj-da-prazo-para-buzzi-desocupar-apartamento-funcional-e-determina-devolucao-de-equipamentos.ghtml",
       "date": "2026-11-17T15:06:53.000Z",
-      "summary": "",
+      "summary": "O presidente do Superior Tribunal de Justiça (STJ), ministro Luis Felipe Salomão, determinou que o ministro afastado Marco Buzzi desocupe o apartamento funcional situado na Asa Sul, em Brasília, no prazo de 90 dias. Além da devolução do imóvel, a decisão desta",
       "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Reforma foi o maior ganho de produtividade em 40 anos, diz Durigan",
-      "link": "https://www.poder360.com.br/poder-economia/reforma-foi-o-maior-ganho-de-produtividade-em-40-anos-diz-durigan/",
-      "date": "2026-11-17T15:04:05.000Z",
-      "summary": "Ministro chamou sistema tributário do Brasil de pior do mundo e defendeu alíquota de 11,3% fixada pelo TCU para a CBS",
-      "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -208,6 +352,15 @@
       "type": "imprensa"
     },
     {
+      "title": "Arminio Fraga: ‘Ainda existe uma visão muito atrasada de crescimento a qualquer custo’; assista",
+      "link": "https://www.estadao.com.br/economia/arminio-fraga-ainda-existe-uma-visao-muito-atrasada-de-crescimento-a-qualquer-custo-assista/",
+      "date": "2026-11-17T15:00:07.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "Jones X Janones: deputado do PSOL vira alvo de apoiadores de Lula por críticas ao ajuste fiscal",
       "link": "https://www.estadao.com.br/politica/eleicoes/jones-x-janones-deputado-do-psol-vira-alvo-de-apoiadores-de-lula-por-criticas-ao-ajuste-fiscal/",
       "date": "2026-11-17T15:00:00.000Z",
@@ -217,21 +370,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Sem prestação de contas, a República é só um feriado",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/sem-prestacao-de-contas-a-republica-e-so-um-feriado/",
+      "title": "As lojas com aluguel mais caro de SP: por que a Avenida Paulista desbancou a Oscar Freire",
+      "link": "https://www.estadao.com.br/economia/negocios/lojas-aluguel-mais-caro-paulista-oscar-freire/",
       "date": "2026-11-17T15:00:00.000Z",
       "summary": "",
       "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "É preciso enfrentar privilégios para organizar contas, diz Durigan",
-      "link": "https://www.poder360.com.br/poder-economia/e-preciso-enfrentar-privilegios-para-organizar-contas-diz-durigan/",
-      "date": "2026-11-17T14:57:24.000Z",
-      "summary": "Ministro da Fazenda afirmou que reforma tributária trará justiça tributária e produtividade à economia nacional",
-      "source": "Poder360",
-      "cat": "politica",
+      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -242,15 +386,6 @@
       "source": "Agência Senado",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Crime organizado começou a usar IA para lavagem de dinheiro, diz diretora do BC",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/crime-organizado-comecou-a-usar-ia-para-lavagem-de-dinheiro-diz-diretora-do-bc.shtml",
-      "date": "2026-11-17T14:54:00.000Z",
-      "summary": "As facções evoluíram da lavagem de dinheiro com o uso de engenharia social para a adoção de inteligência artificial visando identificar brechas para o crime, segundo Izabela Corrêa, diretora de cidadania e supervisão de conduta do Banco Central. Leia mais (11/",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
     },
     {
       "title": "Globo anuncia Rafael Bergman como novo diretor de finanças e serviços compartilhados",
@@ -267,24 +402,6 @@
       "date": "2026-11-17T14:39:43.000Z",
       "summary": "",
       "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Ataque a sites de grandes empresas tenta roubar criptomoedas e infectar iPhones",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/tec/2026/11/ataque-a-sites-de-grandes-empresas-tenta-roubar-criptomoedas-e-infectar-iphones.shtml",
-      "date": "2026-11-17T14:39:00.000Z",
-      "summary": "Alguns dos sites mais acessados do mundo, incluindo páginas da Zoom, HSBC, Equifax, CNN, Salesforce e Ikea, foram apontados como possíveis alvos de uma tentativa de roubo de criptomoedas e infecção de iPhones. Segundo um pesquisador de segurança digital, códig",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Dólar chega a R$ 5,81 à espera de votação do plano Moretti no Senado; Bolsa sobe",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/dolar-abre-em-alta-e-chega-a-r-579-com-mercado-a-espera-de-votacao-de-projeto-fiscal-no-senado.shtml",
-      "date": "2026-11-17T14:39:00.000Z",
-      "summary": "O dólar oscila nesta terça-feira (17), enquanto o mercado acompanha o andamento da votação do projeto de ajuste fiscal do governo no Senado. Após subir durante parte da manhã, a moeda chegou a R$ 5,811, maior valor intradiário desde 17 de abril de 2025. Às 11h",
-      "source": "Folha",
       "cat": "economia",
       "type": "imprensa"
     },
@@ -325,75 +442,12 @@
       "type": "oficial"
     },
     {
-      "title": "Dino dá 14 dias para manifestações antes de liberar julgamento sobre fim da escala 6x1",
-      "link": "https://www.estadao.com.br/economia/dino-prazo-manifestacoes-liberar-julgamento-fim-escala-6x1/",
-      "date": "2026-11-17T14:13:19.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Até onde o dólar pode subir? Por que o real é a moeda que mais perdeu valor desde a reeleição de Lula",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/17/ate-onde-o-dolar-pode-subir-por-que-o-real-e-a-moeda-que-mais-perdeu-valor-desde-a-reeleicao-de-lula.ghtml",
-      "date": "2026-11-17T14:01:47.000Z",
-      "summary": "Notas de Dólar x Real BCC O real brasileiro foi a moeda, entre as 20 mais usadas no comércio exterior, que mais se desvalorizou no mundo nas últimas semanas — tendo perdido quase 14% do seu valor frente ao dólar americano. Na segunda-feira, a moeda brasileira ",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Ajuste fiscal: Moretti e base do governo se reúnem antes de votação para tentar evitar ‘fogo amigo’",
-      "link": "https://www.estadao.com.br/economia/ajuste-fiscal-moretti-base-governo-se-reunem-antes-votacao-evitar-fogo-amigo/",
-      "date": "2026-11-17T14:00:14.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Meta lança app de compra e venda de produtos usados no Brasil para concorrer com Enjoei",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/17/meta-lanca-app-de-compra-e-venda-de-produtos-usados-no-brasil-para-concorrer-com-enjoei.ghtml",
-      "date": "2026-11-17T14:00:00.000Z",
-      "summary": "Meta lança app de compra e venda de produtos usados no Brasil para concorrer com Enjoei Divulgação/Meta A Meta, dona do Instagram, do WhatsApp e do Facebook, lançou nesta terça-feira (17) um aplicativo de compra e venda de produtos usados para concorrer com o ",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "UE adia reunião que poderia liberar exportações de frango e mel do Brasil",
-      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/17/ue-adia-reuniao-que-poderia-liberar-exportacoes-de-frango-e-mel-do-brasil.ghtml",
-      "date": "2026-11-17T13:51:28.000Z",
-      "summary": "União Europeia adia decisão sobre a compra de frango e mel do Brasil A União Europeia adiou para o início de dezembro a reunião prevista para esta terça-feira (17) que decidiria sobre a volta do Brasil ao grupo de países autorizados a exportar carne de frango ",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Governo quer aprovar projeto de ajuste fiscal no Senado e na Câmara ainda nesta terça, diz ministro",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/17/governo-quer-aprovar-ajuste-fiscal-no-senado-e-na-camara-ainda-nesta-terca-diz-ministro.ghtml",
-      "date": "2026-11-17T13:42:30.000Z",
-      "summary": "Governo quer aprovar ajuste fiscal no Senado e na Câmara ainda nesta terça, diz ministro na semana passada, por 45 votos a 31. Mas, ainda falta a votação de quatro destaques (propostas de mudanças no texto) previstos para serem analisados nesta tarde, antes de",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Até onde o dólar pode subir? Por que o real é a moeda que mais perdeu valor desde a reeleição de Lula",
       "link": "https://www.bbc.com/portuguese/articles/cmj4r9klkqego?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-17T13:42:05.000Z",
       "summary": "Moeda brasileira sofre pressões tanto do cenário externo como doméstico — onde há indefinição sobre os rumos do ajuste fiscal e sobre quem será o próximo ministro da Fazenda.",
       "source": "BBC News Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Lula faz reunião com Camilo, Rui Costa e Fonteles para retomar conversas sobre formação de governo",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/lula-faz-reuniao-com-camilo-rui-costa-e-fonteles-para-retomar-conversas-sobre-formacao-de-governo.shtml",
-      "date": "2026-11-17T13:40:00.000Z",
-      "summary": "O presidente Lula (PT), de volta ao Brasil depois de viagem à Ásia e à Europa, receberá aliados para reunião nesta terça-feira (17), em que retomará as conversas sobre a formação de seu novo governo. Leia mais (11/17/2026 - 10h40)",
-      "source": "Folha",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -406,29 +460,11 @@
       "type": "imprensa"
     },
     {
-      "title": "União Europeia adia decisão sobre reinclusão do Brasil como fornecedor de frango e mel",
-      "link": "https://www.estadao.com.br/economia/agronegocios/uniao-europeia-adia-decisao-reinclusao-brasil-fornecedor-frango-mel/",
-      "date": "2026-11-17T12:56:51.000Z",
+      "title": "Justiça do DF condena candidata a deputada federal a pagar indenização a Flávio Bolsonaro",
+      "link": "https://www.estadao.com.br/politica/eleicoes/justica-do-df-condena-candidata-a-deputada-federal-a-pagar-indenizacao-a-flavio-bolsonaro-nprp/",
+      "date": "2026-11-17T13:03:33.000Z",
       "summary": "",
       "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Dino decide julgar mérito de ações que questionam escala 5x2, diz que liminar segue valendo e dá prazo para partes se manifestarem",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/17/escala-5x2-decisao-dino.ghtml",
-      "date": "2026-11-17T12:53:38.000Z",
-      "summary": "Início da escala 5x2: Dino dá prazo para Congresso O ministro Flávio Dino, do Supremo Tribunal Federal (STF), determinou nesta terça-feira (17) que as ações que questionam pontos da transição da jornada de trabalho 5x2 sigam direto para o julgamento definitivo",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Na COP31, Federação das Indústrias de MG leva dados que apontam alta cobertura natural em áreas mineradas",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/na-cop31-federacao-das-industrias-de-mg-leva-dados-que-apontam-alta-cobertura-natural-em-areas-mineradas.shtml",
-      "date": "2026-11-17T12:32:00.000Z",
-      "summary": "Em apresentação na COP31, a Federação das Indústrias do Estado de Minas Gerais (Fiemg) apontou uma proporção de 7,4 hectares de cobertura natural para cada hectare de mineração em área analisada no estado de MG. Leia mais (11/17/2026 - 09h32)",
-      "source": "Folha",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -469,24 +505,6 @@
       "type": "oficial"
     },
     {
-      "title": "Audiência na Câmara debate prevenção e tratamento de doenças cardiovasculares",
-      "link": "https://www.camara.leg.br/noticias/1318857-audiencia-na-camara-debate-prevencao-e-tratamento-de-doencas-cardiovasculares",
-      "date": "2026-11-17T11:22:00.000Z",
-      "summary": "",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Talarico e Hamilton ampliam agenda dos cristãos na política dos EUA",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/deborah-bizarria/2026/11/talarico-e-hamilton-ampliam-agenda-dos-cristaos-na-politica-dos-eua.shtml",
-      "date": "2026-11-17T11:00:00.000Z",
-      "summary": "Nas eleições legislativas americanas, acompanhei com interesse as campanhas do presbiteriano James Talarico e do pastor metodista Adam Hamilton, eleitos para o Senado pelo Texas e pelo Kansas, respectivamente. Ao disputarem a linguagem bíblica, contestam a ass",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Japão desloca caças e acusa Rússia de violação de espaço aéreo",
       "link": "https://www.dw.com/pt-br/japão-desloca-caças-e-acusa-rússia-de-violação-de-espaço-aéreo/a-79966218?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-17T09:40:00.000Z",
@@ -511,15 +529,6 @@
       "summary": "Medida valeria para pessoas que tiveram asilo negado. Alemanha e mais quatro nações confirmaram conversas com país africano, cujo governo é acusado de violações de direitos humanos.",
       "source": "DW Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Câmara do Rio mantém homenagem a Eduarda Campopiano, deputada de SP que assume em 2027; entenda",
-      "link": "https://www.estadao.com.br/politica/camara-do-rio-mantem-homenagem-a-eduarda-campopiano-deputada-de-sp-que-assume-em-2027-entenda-npr/",
-      "date": "2026-11-16T20:05:43.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
