@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-17T08:32:18.588Z",
+  "updated": "2026-11-17T09:39:43.692Z",
   "market": {
     "ibov": {
       "price": 169295.4,
       "pct": -1.83,
-      "time": "2026-11-17T08:32:12.759Z",
+      "time": "2026-11-17T09:39:36.533Z",
       "history": [
         {
           "d": "2026-10-19",
@@ -141,21 +141,102 @@
   },
   "news": [
     {
+      "title": "Mercado quer que o povo pobre viva na miséria, diz Lula na Espanha",
+      "link": "https://www.poder360.com.br/poder-governo/mercado-quer-que-o-povo-pobre-viva-na-miseria-diz-lula-na-espanha/",
+      "date": "2026-11-17T09:23:02.000Z",
+      "summary": "Em Madri para apoiar reeleição de Sánchez, presidente disse que precisa fazer do seu 4º mandato \"o mais responsável\"",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Saiba quais ações estão na pauta do Congresso nesta 3ª feira",
+      "link": "https://www.poder360.com.br/poder-congresso/leia-quais-acoes-estao-na-pauta-do-congresso-nesta-3a-feira/",
+      "date": "2026-11-17T09:15:41.000Z",
+      "summary": "Senado debate ajuste fiscal e crédito à exportação; Câmara discute big techs, CBS e Desenrola 3.0",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Governo Lula: leia a agenda de ministros do governo nesta 3ª feira",
+      "link": "https://www.poder360.com.br/poder-governo/governo-lula-leia-a-agenda-de-ministros-do-governo-nesta-3a-feira-16/",
+      "date": "2026-11-17T09:15:37.000Z",
+      "summary": "Durigan debate reforma tributária no Senado, Moretti se reúne com bancada do PT e ministros estarão em Roma",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Caso Master faz 1 ano com apuração sobre ministros do STF travada",
+      "link": "https://www.poder360.com.br/poder-justica/caso-master-faz-1-ano-com-apuracao-sobre-ministros-do-stf-travada/",
+      "date": "2026-11-17T09:00:55.000Z",
+      "summary": "Relatório da PF aponta 52 mensagens para Moraes; Fachin determinou apuração de citações aos 10 ministros",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Sucesso e fama prejudicam líderes de tecnologia, alerta investidor da Nvidia e da Tesla",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/sucesso-e-fama-prejudicam-lideres-de-tecnologia-alerta-investidor-da-nvidia-e-da-tesla.shtml",
+      "date": "2026-11-17T09:00:00.000Z",
+      "summary": "Um dos investidores de tecnologia mais conhecidos do Reino Unido criticou a predominância de fundadores que concentram poder nas empresas do Vale do Silício. Ele afirmou que o status de celebridade de executivos como Jensen Huang e Elon Musk pode ter \"prejudic",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Fazenda muda critério e esconde documentos da MP das bets, bandeira da campanha de Lula",
+      "link": "https://www.estadao.com.br/politica/fazenda-muda-criterio-e-esconde-documentos-da-mp-das-bets-bandeira-da-campanha-de-lula/",
+      "date": "2026-11-17T08:30:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Ex-deputado que coordenou Frente do Aposentado tem pedido de aposentadoria negado pela Câmara",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/ex-deputado-que-coordenou-frente-do-aposentado-tem-pedido-de-aposentadoria-negado-pela-camara/",
+      "date": "2026-11-17T08:30:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Aliados lamentam possibilidade de ‘perder’ Simone Tebet para o STF",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/aliados-lamentam-possibilidade-de-perder-simone-tebet-para-o-stf/",
+      "date": "2026-11-17T08:30:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Inflação: efeitos do El Niño nos preços devem se intensificar em 2027, com impacto nos juros",
+      "link": "https://www.estadao.com.br/economia/inflacao-efeitos-do-el-nino-nos-precos-devem-se-intensificar-em-2027-com-impacto-nos-juros/",
+      "date": "2026-11-17T08:30:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Senado termina de votar ajuste nesta terça sob pressão de empresas para barrar medida; veja qual",
+      "link": "https://www.estadao.com.br/economia/senado-termina-de-votar-ajuste-nesta-terca-sob-pressao-de-empresas-para-barrar-medida-veja-qual/",
+      "date": "2026-11-17T08:30:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "Brasileiros têm mais dificuldade para poupar que a média mundial, diz pesquisa; veja o que pesa no bolso",
       "link": "https://g1.globo.com/economia/noticia/2026/11/17/brasileiros-tem-mais-dificuldade-para-poupar-que-a-media-mundial-diz-pesquisa-veja-o-que-pesa-no-bolso.ghtml",
       "date": "2026-11-17T08:00:00.000Z",
       "summary": "Investimentos em renda fixa podem ser alternativa para quem quer poupar Chegar ao fim do mês com algum dinheiro sobrando é uma realidade distante para muitos brasileiros. Quatro em cada 10 pessoas no país dizem que não conseguem poupar ou investir, segundo uma",
       "source": "g1",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Aviões russos violaram espaço aéreo do Japão, diz governo japonês",
-      "link": "https://www.poder360.com.br/poder-internacional/avioes-russos-violaram-espaco-aereo-do-japao-diz-governo-japones/",
-      "date": "2026-11-17T07:50:02.000Z",
-      "summary": "Aeronaves também foram detectadas nesta 3ª feira (17.nov) pelo Ministério da Defesa de Taiwan",
-      "source": "Poder360",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -222,15 +303,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Feirões oferecem descontos de até 99% para renegociar dívidas no fim do ano",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/feiroes-oferecem-descontos-de-ate-99-para-renegociar-dividas-no-fim-do-ano.shtml",
-      "date": "2026-11-17T07:00:00.000Z",
-      "summary": "Com a proximidade do fim do ano, consumidores encontram diferentes campanhas para renegociar dívidas e regularizar pendências financeiras. As iniciativas incluem mutirões de bancos e instituições financeiras e ações próprias de empresas de telefonia ou contas ",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Os desafios de Lula na volta ao Brasil: formação do ministério e ajuste fiscal - O Assunto #1847",
       "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/11/17/os-desafios-de-lula-na-volta-ao-brasil-formacao-do-ministerio-e-ajuste-fiscal-o-assunto-1847.ghtml",
       "date": "2026-11-17T03:30:01.000Z",
@@ -267,15 +339,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Marinho e Tereza Cristina criticam Moraes por negar visitas a Bolsonaro",
-      "link": "https://www.poder360.com.br/poder-congresso/marinho-e-tereza-cristina-criticam-moraes-por-negar-visitas-a-bolsonaro/",
-      "date": "2026-11-17T02:14:44.000Z",
-      "summary": "Senadores classificam decisão como arbitrária; ministro do STF diz que prisão domiciliar não pode servir de “escritório político”",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Sob impacto do 8/1, Moraes concentra quase metade dos casos penais no STF e 98% das ações",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/sob-impacto-do-81-moraes-concentra-quase-metade-dos-casos-penais-no-stf-e-98-das-acoes.shtml",
       "date": "2026-11-17T02:00:00.000Z",
@@ -285,53 +348,8 @@
       "type": "imprensa"
     },
     {
-      "title": "Deputado do PT e Prerrogativas pedem ao STF que Flávio deixe de receber salário de senador",
-      "link": "https://www.estadao.com.br/politica/deputado-do-pt-e-prerrogativas-pedem-ao-stf-que-flavio-deixe-de-receber-salario-de-senador-nprp/",
-      "date": "2026-11-17T01:55:59.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Justiça determina o bloqueio de R$180 mil da Meta por não apagar vídeo com ataques a Erika Hilton",
-      "link": "https://www.estadao.com.br/politica/justica-determina-o-bloqueio-de-r180-da-meta-por-nao-apagar-video-com-ataques-a-erika-hilton-nprp/",
-      "date": "2026-11-17T01:26:32.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Uefa escolhe francês Philippe Diallo para disputar eleição da Fifa",
-      "link": "https://www.poder360.com.br/poder-sportsmkt/uefa-escolhe-frances-philippe-diallo-para-disputar-eleicao-da-fifa/",
-      "date": "2026-11-17T01:23:12.000Z",
-      "summary": "Federações europeias apoiaram por unanimidade o presidente da FFF para enfrentar Gianni Infantino em março de 2027",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Renegociar dívida não faz operação voltar a gerar caixa",
       "link": "https://www.estadao.com.br/economia/negocios/renegociar-divida-nao-faz-operacao-voltar-a-gerar-caixa/",
-      "date": "2026-11-17T01:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Pane da Microsoft e a do controle aéreo nos EUA mostram o valor de centros de processamento de dados",
-      "link": "https://www.estadao.com.br/economia/demi-getschko/pane-da-microsoft-e-a-do-controle-aereo-nos-eua-mostram-o-valor-de-centros-de-processamento-de-dados/",
-      "date": "2026-11-17T01:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Cotada para entrar na B3, Amil deve ter resultado bilionário no ano",
-      "link": "https://www.estadao.com.br/economia/coluna-da-broad/cotada-para-entrar-na-b3-amil-deve-ter-resultado-bilionario-no-ano/",
       "date": "2026-11-17T01:00:00.000Z",
       "summary": "",
       "source": "Estadão",
@@ -354,24 +372,6 @@
       "summary": "",
       "source": "Estadão",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Equilíbrio fiscal é como a mulher de César, além de ser real, precisa parecer real",
-      "link": "https://www.estadao.com.br/politica/eliane-cantanhede/equilibrio-fiscal-e-como-a-mulher-de-cesar-alem-de-ser-real-precisa-parecer-real/",
-      "date": "2026-11-16T23:40:14.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "STF encerra ação de juíza do Mato Grosso contra jornalistas que denunciaram dívida com empresário",
-      "link": "https://www.estadao.com.br/politica/stf-encerra-acao-de-juiza-do-mato-grosso-contra-jornalistas-que-denunciaram-divida-com-empresario-nprp/",
-      "date": "2026-11-16T22:31:55.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -409,6 +409,15 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
+    },
+    {
+      "title": "MP Militar faz levantamento para contabilizar casos de assédio a mulheres das Forças Armadas",
+      "link": "https://www.estadao.com.br/politica/mp-militar-faz-levantamento-para-contabilizar-casos-de-assedio-a-mulheres-das-forcas-armadas-nprp/",
+      "date": "2026-11-16T20:31:35.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
     },
     {
       "title": "Comissão aprova criação de programa para fortalecer conselhos municipais de meio ambiente",
@@ -506,15 +515,6 @@
       "date": "2026-11-16T11:43:00.000Z",
       "summary": "Perspectivas melhores não alteram problemas estruturais, e economistas alertam contra atraso nas reformas, déficits na produtividade e alto endividamento público.",
       "source": "DW Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Quem é o 1º senador negro do Mississippi em 140 anos e por que tão poucos foram eleitos nos EUA?",
-      "link": "https://www.bbc.com/portuguese/articles/cwe9kj4xmy2po?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-16T09:43:38.000Z",
-      "summary": "Ao vencer a corrida para o Senado no Estado americano do Mississippi, Scott Colom se tornou o primeiro senador negro do Estado desde o século 19. Por que apenas 14 senadores negros haviam sido eleitos até então, em toda a história americana?",
-      "source": "BBC News Brasil",
       "cat": "internacional",
       "type": "imprensa"
     },
