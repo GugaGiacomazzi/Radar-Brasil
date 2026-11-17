@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-17T00:24:14.158Z",
+  "updated": "2026-11-17T01:54:57.434Z",
   "market": {
     "ibov": {
       "price": 169295.4,
       "pct": -1.83,
-      "time": "2026-11-17T00:24:09.109Z",
+      "time": "2026-11-17T01:54:51.782Z",
       "history": [
         {
           "d": "2026-10-19",
@@ -141,6 +141,60 @@
   },
   "news": [
     {
+      "title": "PF cita ‘quebra de confiança’ para afastamento de delegados e nega interferência em investigação",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/16/pf-cita-quebra-de-confianca-para-afastamento-de-delegados-e-nega-interferencia-em-investigacao.ghtml",
+      "date": "2026-11-17T01:37:30.000Z",
+      "summary": "Em resposta ao Ministério da Justiça, o diretor-geral da Polícia Federal (PF), Andrei Rodrigues, afirmou que houve uma \"quebra na fundamental relação de confiança\" ao falar sobre o afastamento de dois delegados de suas funções na coordenadoria-geral de repress",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Justiça determina o bloqueio de R$180 mil da Meta por não apagar vídeo com ataques a Erika Hilton",
+      "link": "https://www.estadao.com.br/politica/justica-determina-o-bloqueio-de-r180-da-meta-por-nao-apagar-video-com-ataques-a-erika-hilton-nprp/",
+      "date": "2026-11-17T01:26:32.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Uefa escolhe francês Philippe Diallo para disputar eleição da Fifa",
+      "link": "https://www.poder360.com.br/poder-sportsmkt/uefa-escolhe-frances-philippe-diallo-para-disputar-eleicao-da-fifa/",
+      "date": "2026-11-17T01:23:12.000Z",
+      "summary": "Federações europeias apoiaram por unanimidade o presidente da FFF para enfrentar Gianni Infantino em março de 2027",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Renegociar dívida não faz operação voltar a gerar caixa",
+      "link": "https://www.estadao.com.br/economia/negocios/renegociar-divida-nao-faz-operacao-voltar-a-gerar-caixa/",
+      "date": "2026-11-17T01:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Pane da Microsoft e a do controle aéreo nos EUA mostram o valor de centros de processamento de dados",
+      "link": "https://www.estadao.com.br/economia/demi-getschko/pane-da-microsoft-e-a-do-controle-aereo-nos-eua-mostram-o-valor-de-centros-de-processamento-de-dados/",
+      "date": "2026-11-17T01:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Cotada para entrar na B3, Amil deve ter resultado bilionário no ano",
+      "link": "https://www.estadao.com.br/economia/coluna-da-broad/cotada-para-entrar-na-b3-amil-deve-ter-resultado-bilionario-no-ano/",
+      "date": "2026-11-17T01:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "Tradução da Bíblia feita direto do latim ganha nova edição cem anos depois",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/traducao-da-biblia-feita-direto-do-latim-ganha-nova-edicao-cem-anos-depois.shtml",
       "date": "2026-11-17T00:17:00.000Z",
@@ -168,15 +222,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Falha de software afeta serviços do JPMorgan Chase e de outros bancos nos EUA",
-      "link": "https://www.estadao.com.br/economia/falha-software-afeta-servicos-jpmorgan-chase-outros-bancos-eua-npr/",
-      "date": "2026-11-17T00:07:07.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Durigan defende combate a supersalários, mas não se manifesta sobre mudança em projeto de ajuste",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/durigan-defende-combate-a-supersalarios-mas-nao-se-manifesta-sobre-mudanca-em-projeto-de-ajuste.shtml",
       "date": "2026-11-17T00:00:00.000Z",
@@ -191,15 +236,6 @@
       "date": "2026-11-16T23:50:00.000Z",
       "summary": "O procurador-geral da Califórnia, Rob Bonta, processou a OpenAI nesta segunda-feira (16), acusando a empresa de desenvolver um produto perigoso sem procedimentos de segurança ou supervisão adequados, após relatos de que seus modelos de inteligência artificial ",
       "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Projeto que regula concorrência de big techs pode gerar ganho de até R$ 50 bi por ano, diz Fazenda",
-      "link": "https://www.estadao.com.br/economia/projeto-que-regula-concorrencia-de-big-techs-pode-gerar-ganho-de-ate-r-50-bi-por-ano-diz-fazenda/",
-      "date": "2026-11-16T23:49:25.000Z",
-      "summary": "",
-      "source": "Estadão",
       "cat": "economia",
       "type": "imprensa"
     },
@@ -222,15 +258,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Tribunais dos números: quem deve decidir os números que governam nossas vidas?",
-      "link": "https://www.estadao.com.br/economia/pedro-fernando-nery/tribunais-dos-numeros-quem-deve-decidir-os-numeros-que-governam-nossas-vidas/",
-      "date": "2026-11-16T23:20:14.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Falha em sistema da United Airlines atrasa voos nos EUA três dias após pane no país",
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/falha-em-sistema-da-united-airlines-atrasa-voos-nos-eua-tres-dias-apos-pane-no-pais.shtml",
       "date": "2026-11-16T23:20:00.000Z",
@@ -240,38 +267,11 @@
       "type": "imprensa"
     },
     {
-      "title": "Eleitor idoso foi o que mais aumentou presença no 2º turno",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/eleitor-idoso-foi-o-que-mais-aumentou-presenca-no-2o-turno/",
-      "date": "2026-11-16T23:13:35.000Z",
-      "summary": "Comparecimento cresceu 2,96 milhões de um turno para o outro em 2026; metade da alta veio dos que têm 65 anos ou mais",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Alckmin minimiza reação negativa do mercado com pacote fiscal",
-      "link": "https://www.poder360.com.br/poder-economia/alckmin-minimiza-reacao-negativa-do-mercado-com-pacote-fiscal/",
-      "date": "2026-11-16T23:10:13.000Z",
-      "summary": "Presidente interino foi questionado sobre mudanças em discussão na Câmara que podem desidratar proposta do governo, cuja economia estimada é de até R$ 60 bilhões",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "PF deve entregar na quarta novos relatórios sobre citações a ministros do STF no celular de Vorcaro",
       "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/pf-deve-entregar-na-quarta-novos-relatorios-sobre-citacoes-a-ministros-do-stf-no-celular-de-vorcaro/",
       "date": "2026-11-16T23:05:53.000Z",
       "summary": "",
       "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Economia circular movimenta até R$ 90,7 bilhões no Brasil, diz CNI",
-      "link": "https://www.poder360.com.br/poder-sustentavel/economia-circular-movimenta-ate-r-907-bilhoes-no-brasil-diz-cni/",
-      "date": "2026-11-16T22:58:09.000Z",
-      "summary": "Estudo estima que setor represente até 10,3% do mercado de finanças sustentáveis do país",
-      "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -420,15 +420,6 @@
       "type": "imprensa"
     },
     {
-      "title": "CNJ julga desembargador que pediu prisão de Moraes em acampamento golpista",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/cnj-julga-desembargador-que-pediu-prisao-de-moraes-em-acampamento-golpista/",
-      "date": "2026-11-16T19:07:22.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Ajuste fiscal não compromete políticas sociais, garante Humberto Costa",
       "link": "https://www12.senado.leg.br/noticias/materias/2026/11/16/ajuste-fiscal-nao-compromete-politicas-sociais-garante-humberto-costa",
       "date": "2026-11-16T19:06:44.000Z",
@@ -442,15 +433,6 @@
       "link": "https://g1.globo.com/economia/blog/ana-flor/post/2026/11/16/fachin-indica-a-colegas-que-deve-dar-prioridade-para-julgamento-sobre-escala-5x2.ghtml",
       "date": "2026-11-16T18:36:43.000Z",
       "summary": "O presidente do STF, Edson Fachin, indicou a colegas que pretende pautar logo o julgamento da escala 5x2, que foi transferido para o plenário físico do STF na última semana a pedido do ministro Luiz Fux. O ponto central da discussão é o adiamento ou não das no",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Sánchez e Lula conversam sobre a ameaça da extrema direita antes das eleições na Espanha",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/16/sanchez-e-lula-conversam-sobre-a-ameaca-da-extrema-direita-antes-das-eleicoes-na-espanha.ghtml",
-      "date": "2026-11-16T17:48:12.000Z",
-      "summary": "Lula e primeiro-ministro da Espanha, Pedro Sánchez. Ricardo Stuckert/PR O primeiro-ministro da Espanha, Pedro Sánchez, conversou com o presidente do Brasil, Luiz Inácio Lula da Silva, sobre a defesa da democracia diante da \"ameaça de extrema direita\", durante ",
       "source": "g1",
       "cat": "politica",
       "type": "imprensa"
@@ -647,7 +629,6 @@
   ],
   "errors": [
     "feed CNN Brasil: HTTP 404",
-    "feed CNN Brasil: HTTP 404",
-    "feed Planalto (governo): HTTP 429"
+    "feed CNN Brasil: HTTP 404"
   ]
 }
