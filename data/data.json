@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-17T03:50:50.197Z",
+  "updated": "2026-11-17T04:55:01.566Z",
   "market": {
     "ibov": {
       "price": 169295.4,
       "pct": -1.83,
-      "time": "2026-11-17T03:50:43.296Z",
+      "time": "2026-11-17T04:54:54.503Z",
       "history": [
         {
           "d": "2026-10-19",
@@ -638,7 +638,6 @@
   ],
   "errors": [
     "feed CNN Brasil: HTTP 404",
-    "feed CNN Brasil: HTTP 404",
-    "feed Planalto (governo): HTTP 429"
+    "feed CNN Brasil: HTTP 404"
   ]
 }
