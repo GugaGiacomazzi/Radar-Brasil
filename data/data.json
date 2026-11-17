@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-16T23:24:39.740Z",
+  "updated": "2026-11-17T00:24:14.158Z",
   "market": {
     "ibov": {
       "price": 169295.4,
       "pct": -1.83,
-      "time": "2026-11-16T23:24:32.665Z",
+      "time": "2026-11-17T00:24:09.109Z",
       "history": [
         {
           "d": "2026-10-19",
@@ -141,6 +141,96 @@
   },
   "news": [
     {
+      "title": "Tradução da Bíblia feita direto do latim ganha nova edição cem anos depois",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/traducao-da-biblia-feita-direto-do-latim-ganha-nova-edicao-cem-anos-depois.shtml",
+      "date": "2026-11-17T00:17:00.000Z",
+      "summary": "Às vésperas de completar cem anos, uma tradução da Bíblia feita pelo padre português Manuel de Matos Soares retorna, em uma nova edição da editora gaúcha especializada Minha Biblioteca Católica (MBC). Leia mais (11/16/2026 - 21h17)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Governo Lula descarta medidas de socorro ao Banco do Brasil e vê capacidade de recuperação gradual",
+      "link": "https://www.estadao.com.br/economia/governo-lula-descarta-medidas-de-socorro-ao-banco-do-brasil-e-ve-capacidade-de-recuperacao-gradual/",
+      "date": "2026-11-17T00:09:05.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "A educação ajuda a legitimar as posições sociais",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/michael-franca/2026/11/a-educacao-ajuda-a-legitimar-as-posicoes-sociais.shtml",
+      "date": "2026-11-17T00:09:00.000Z",
+      "summary": "Para chegar a uma universidade de prestígio, uma jovem de origem desfavorecida estudou à noite depois do trabalho. Outra, de origem abastada, dedicou o dia à preparação para o vestibular. Ambas fizeram a mesma prova. A nota permite ordenar o desempenho. Porém,",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Falha de software afeta serviços do JPMorgan Chase e de outros bancos nos EUA",
+      "link": "https://www.estadao.com.br/economia/falha-software-afeta-servicos-jpmorgan-chase-outros-bancos-eua-npr/",
+      "date": "2026-11-17T00:07:07.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Durigan defende combate a supersalários, mas não se manifesta sobre mudança em projeto de ajuste",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/durigan-defende-combate-a-supersalarios-mas-nao-se-manifesta-sobre-mudanca-em-projeto-de-ajuste.shtml",
+      "date": "2026-11-17T00:00:00.000Z",
+      "summary": "O ministro da Fazenda, Dario Durigan, defendeu, em reunião com entidades da sociedade civil, que o governo adote posição firme no combate aos supersalários. Ele evitou, no entanto, se manifestar sobre uma mudança feita no projeto do ajuste fiscal que mantém os",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Califórnia processa OpenAI por ciberataques de modelos de IA contra Hugging Face e outras empresas",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/california-processa-openai-por-ciberataques-de-modelos-de-ia-contra-hugging-face-e-outras-empresas.shtml",
+      "date": "2026-11-16T23:50:00.000Z",
+      "summary": "O procurador-geral da Califórnia, Rob Bonta, processou a OpenAI nesta segunda-feira (16), acusando a empresa de desenvolver um produto perigoso sem procedimentos de segurança ou supervisão adequados, após relatos de que seus modelos de inteligência artificial ",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Projeto que regula concorrência de big techs pode gerar ganho de até R$ 50 bi por ano, diz Fazenda",
+      "link": "https://www.estadao.com.br/economia/projeto-que-regula-concorrencia-de-big-techs-pode-gerar-ganho-de-ate-r-50-bi-por-ano-diz-fazenda/",
+      "date": "2026-11-16T23:49:25.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Equilíbrio fiscal é como a mulher de César, além de ser real, precisa parecer real",
+      "link": "https://www.estadao.com.br/politica/eliane-cantanhede/equilibrio-fiscal-e-como-a-mulher-de-cesar-alem-de-ser-real-precisa-parecer-real/",
+      "date": "2026-11-16T23:40:14.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "ExxonMobil e Prio arrematam cargas do campo de Búzios em leilão da PPSA",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/exxonmobil-e-prio-arrematam-cargas-do-campo-de-buzios-em-leilao-da-ppsa.shtml",
+      "date": "2026-11-16T23:35:00.000Z",
+      "summary": "A ExxonMobil e a Prio arremataram as cargas do campo de Búzios em leilão spot de petróleo da União realizado na semana passada, informou nesta segunda-feira (16) a estatal PPSA (Pré-Sal Petróleo SA) em comunicado. Leia mais (11/16/2026 - 20h35)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Tribunais dos números: quem deve decidir os números que governam nossas vidas?",
+      "link": "https://www.estadao.com.br/economia/pedro-fernando-nery/tribunais-dos-numeros-quem-deve-decidir-os-numeros-que-governam-nossas-vidas/",
+      "date": "2026-11-16T23:20:14.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "Falha em sistema da United Airlines atrasa voos nos EUA três dias após pane no país",
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/falha-em-sistema-da-united-airlines-atrasa-voos-nos-eua-tres-dias-apos-pane-no-pais.shtml",
       "date": "2026-11-16T23:20:00.000Z",
@@ -181,24 +271,6 @@
       "link": "https://www.poder360.com.br/poder-sustentavel/economia-circular-movimenta-ate-r-907-bilhoes-no-brasil-diz-cni/",
       "date": "2026-11-16T22:58:09.000Z",
       "summary": "Estudo estima que setor represente até 10,3% do mercado de finanças sustentáveis do país",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Esteves, do BTG, diz que mercado mostra urgência do ajuste fiscal e Lula entregará o que se espera",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/esteves-do-btg-diz-que-mercado-mostra-urgencia-do-ajuste-fiscal-e-lula-entregara-o-que-se-espera.shtml",
-      "date": "2026-11-16T22:55:00.000Z",
-      "summary": "O presidente do conselho de administração e sócio do BTG Pactual, André Esteves, disse que o mercado financeiro sinalizou nesta segunda-feira (16) que o país demanda urgência no equilíbrio das contas públicas. Leia mais (11/16/2026 - 19h55)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Lula diz que Sanchez é o indicado para defender a democracia na Europa",
-      "link": "https://www.poder360.com.br/poder-internacional/lula-diz-que-sanchez-e-o-indicado-para-defender-a-democracia-na-europa/",
-      "date": "2026-11-16T22:35:17.000Z",
-      "summary": "Primeiro-ministro da Espanha, Pedro Sánchez busca a reeleição e o aumento do apoio no Parlamento; ambos líderes se encontraram nesta 2ª feira (16.nov), em Madri",
       "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
@@ -258,15 +330,6 @@
       "type": "imprensa"
     },
     {
-      "title": "PT deve declarar apoio a 'plano Moretti' apesar de críticas da sigla a ajuste",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/pt-deve-declarar-apoio-a-plano-moretti-apesar-de-criticas-da-sigla-a-ajuste.shtml",
-      "date": "2026-11-16T21:39:00.000Z",
-      "summary": "A bancada do PT na Câmara dos Deputados deve declarar nesta terça-feira (17) voto a favor do projeto de ajuste fiscal proposto pelo ministro do Planejamento e Orçamento, Bruno Moretti, apesar das críticas feitas por parte dos petistas, de acordo com integrante",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Projeto proíbe uso da imagem de empregado em redes sociais da empresa sem previsão contratual",
       "link": "https://www.camara.leg.br/noticias/1313078-projeto-proibe-uso-da-imagem-de-empregado-em-redes-sociais-da-empresa-sem-previsao-contratual",
       "date": "2026-11-16T21:35:00.000Z",
@@ -285,33 +348,6 @@
       "type": "imprensa"
     },
     {
-      "title": "PagBank aumenta atividade bancária e lucro sobe 7%, para R$ 611 milhões",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/pagbank-aumenta-atividade-bancaria-e-lucro-sobe-7-para-r-611-milhoes.shtml",
-      "date": "2026-11-16T21:28:00.000Z",
-      "summary": "A desaceleração da atividade econômica levou o PagBank a aumentar a aposta nos serviços bancários, especialmente em capital de giro e recebíveis de cartão de crédito. Mais rentáveis, esses produtos impulsionaram a alta de 7% em um ano no lucro líquido ajustado",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Deputado do PT e Prerrogativas pedem ao STF bloqueio de salário de Flávio e verbas como senador",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/deputado-do-pt-e-prerrogativas-pedem-ao-stf-bloqueio-de-salario-de-flavio-e-verbas-como-senador.shtml",
-      "date": "2026-11-16T21:19:00.000Z",
-      "summary": "O deputado federal Alencar Santana (PT-SP) e coordenadores do grupo jurídico Prerrogativas, alinhado ao governo Lula, enviaram uma petição ao Supremo Tribunal Federal requerendo a prisão preventiva do senador Flávio Bolsonaro (PL-RJ) e o bloqueio de recursos q",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Maiores data centers dos EUA já emitem tanto carbono quanto o de países inteiros",
-      "link": "https://www.estadao.com.br/economia/negocios/maiores-data-centers-dos-eua-ja-emitem-tanto-carbono-quanto-o-de-paises-inteiros/",
-      "date": "2026-11-16T21:15:29.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Líder do governo afirma que ajuste fiscal não retira recursos da saúde e da educação",
       "link": "https://www.camara.leg.br/noticias/1319835-lider-do-governo-afirma-que-ajuste-fiscal-nao-retira-recursos-da-saude-e-da-educacao",
       "date": "2026-11-16T21:15:00.000Z",
@@ -319,24 +355,6 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Defesa de Vorcaro faz novo pedido para que Gilmar decida sobre relatoria do caso Master",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/defesa-de-vorcaro-faz-novo-pedido-para-que-gilmar-decida-sobre-relatoria-do-caso-master.shtml",
-      "date": "2026-11-16T20:57:00.000Z",
-      "summary": "A defesa de Daniel Vorcaro questionou novamente, nesta segunda-feira (16), o ato do presidente do STF (Supremo Tribunal Federal), Edson Fachin, que o colocou temporariamente à frente do caso do Banco Master e afirmou que a medida viola o princípio do juiz natu",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Júlia Zanatta é intimada pelo ministro André Mendonça por chamar advogado de ‘petista roxo’",
-      "link": "https://www.estadao.com.br/politica/julia-zanatta-e-intimada-por-andre-mendonca-por-chamar-um-advogado-de-petista-roxo-nprp/",
-      "date": "2026-11-16T20:52:54.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
     },
     {
       "title": "Falha técnica afeta serviços de grandes bancos dos Estados Unidos",
@@ -348,15 +366,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Inteligência artificial pode transformar a fala na principal forma de usar a internet; entenda",
-      "link": "https://www.estadao.com.br/economia/negocios/inteligencia-artificial-pode-transformar-a-fala-na-principal-forma-de-usar-a-internet-entenda/",
-      "date": "2026-11-16T20:40:40.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Comissões e bancadas estaduais votam suas emendas ao Orçamento de 2027",
       "link": "https://www.camara.leg.br/noticias/1319815-comissoes-e-bancadas-estaduais-votam-suas-emendas-ao-orcamento-de-2027",
       "date": "2026-11-16T20:40:00.000Z",
@@ -364,24 +373,6 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Mentiras, espiões e sexo em escândalo da Nvidia escondem riscos e questões muito maiores; entenda",
-      "link": "https://www.estadao.com.br/economia/mentiras-espioes-e-sexo-em-escandalo-da-nvidia-escondem-riscos-e-questoes-muito-maiores-entenda-npr/",
-      "date": "2026-11-16T20:33:35.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Portobello, de revestimentos cerâmicos, renegocia R$ 1 bilhão de dívidas",
-      "link": "https://www.estadao.com.br/economia/negocios/portobello-de-revestimentos-ceramicos-renegocia-r-1-bilhao-de-dividas/",
-      "date": "2026-11-16T20:27:18.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
     },
     {
       "title": "Comissão aprova criação de programa para fortalecer conselhos municipais de meio ambiente",
@@ -656,6 +647,7 @@
   ],
   "errors": [
     "feed CNN Brasil: HTTP 404",
-    "feed CNN Brasil: HTTP 404"
+    "feed CNN Brasil: HTTP 404",
+    "feed Planalto (governo): HTTP 429"
   ]
 }
