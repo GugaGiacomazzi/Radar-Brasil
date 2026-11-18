@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-18T02:24:31.325Z",
+  "updated": "2026-11-18T03:33:20.785Z",
   "market": {
     "ibov": {
       "price": 169816.64,
       "pct": 0.31,
-      "time": "2026-11-18T02:24:25.043Z",
+      "time": "2026-11-18T03:33:13.291Z",
       "history": [
         {
           "d": "2026-10-19",
@@ -88,7 +88,7 @@
         },
         {
           "d": "2026-11-17",
-          "c": 169816.6406
+          "c": 169817
         }
       ]
     },
@@ -145,21 +145,129 @@
   },
   "news": [
     {
-      "title": "Projeto da base de Lula propõe taxar dividendos em até 25%",
-      "link": "https://www.poder360.com.br/poder-congresso/projeto-da-base-de-lula-propoe-taxar-dividendos-em-ate-25/",
-      "date": "2026-11-18T02:17:02.000Z",
-      "summary": "Texto de deputados do PT, Psol e PC do B isenta valores de até R$ 5.000 e estabelece alíquotas progressivas",
+      "title": "Correios, Banco do Brasil e Petrobras: a saúde financeira das estatais - O Assunto #1848",
+      "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/11/18/correios-banco-do-brasil-e-petrobras-a-saude-financeira-das-estatais-o-assunto-1848.ghtml",
+      "date": "2026-11-18T03:30:00.000Z",
+      "summary": "O mais recente balanço dos Correios indica que a estatal registrou o 16º trimestre seguido com as contas no vermelho – apenas entre janeiro e setembro deste ano, o prejuízo chegou a R$ 7,5 bilhões. O último resultado do Banco do Brasil também marca um tombo de",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "PF indicia grupo por fraude em respiradores na pandemia",
+      "link": "https://www.poder360.com.br/poder-seguranca-publica/pf-indicia-grupo-por-fraude-em-respiradores-na-pandemia/",
+      "date": "2026-11-18T03:21:21.000Z",
+      "summary": "Consórcio Nordeste pagou R$ 48,7 milhões por 300 aparelhos não entregues; relatório enviado ao STJ não inclui Rui Costa, presidente do consórcio à época",
       "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
     },
     {
-      "title": "UNE protesta contra ajuste fiscal, mas reafirma apoio a Lula",
-      "link": "https://www.poder360.com.br/poder-brasil/une-protesta-contra-ajuste-fiscal-mas-reafirma-apoio-a-lula/",
-      "date": "2026-11-18T02:08:31.000Z",
-      "summary": "Presidente da UNE diz que ato busca pressionar governo a ampliar investimentos em saúde e educação; manifestação foi realizada na Faria Lima, em São Paulo",
+      "title": "Procurador-geral do Paraguai renuncia ante iminência de impeachment",
+      "link": "https://www.poder360.com.br/poder-internacional/procurador-geral-do-paraguai-renuncia-ante-iminencia-de-impeachment/",
+      "date": "2026-11-18T03:08:32.000Z",
+      "summary": "Emiliano Rolón deixou posto frente a uma articulação da oposição para sua destituição por omissão no caso do Ueno Bank",
       "source": "Poder360",
       "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Diferença da carga tributária entre Brasil e OCDE dobrou em 7 anos",
+      "link": "https://www.poder360.com.br/poder-economia/diferenca-da-carga-tributaria-entre-brasil-e-ocde-dobrou-em-7-anos/",
+      "date": "2026-11-18T03:01:02.000Z",
+      "summary": "Tributos pagos pelo setor privado chegaram a 17,5% do PIB em 2025, 2,8 pontos percentuais acima da referência da OCDE",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Custo Brasil chega a R$ 3,5 trilhões por ano, aponta estudo",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/custo-brasil-chega-a-r-35-trilhoes-por-ano-aponta-estudo.shtml",
+      "date": "2026-11-18T03:01:00.000Z",
+      "summary": "O chamado custo Brasil chega a R$ 3,5 trilhões por ano, o equivalente a 27,5% do PIB (Produto Interno Bruto) de 2025, segundo estudo que será apresentado nesta quarta-feira (18) pelo grupo de empresários MBC (Movimento Brasil Competitivo). Leia mais (11/18/202",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Custo Brasil é de R$ 3,5 trilhões por ano, 27,5% do PIB, estima novo estudo; veja o que pesa mais",
+      "link": "https://www.estadao.com.br/economia/custo-brasil-e-de-r-35-trilhoes-por-ano-275-do-pib-estima-novo-estudo-veja-o-que-pesa-mais/",
+      "date": "2026-11-18T03:01:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Senado deve ouvir nesta quarta ministro da Justiça sobre troca de delegados; diretor da PF não confirma presença",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/18/senado-deve-ouvir-nesta-quarta-ministro-da-justica-sobre-troca-de-delegados-diretor-da-pf-nao-confirma-presenca.ghtml",
+      "date": "2026-11-18T03:00:01.000Z",
+      "summary": "A Comissão de Constituição e Justiça (CCJ) e a Comissão de Segurança Pública (CSP) do Senado devem ouvir nesta quarta-feira (18) o ministro da Justiça e Segurança Pública, Wellington Lima e Silva, sobre o afastamento de delegados da Polícia Federal. Na semana ",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Fachin recebe nesta quarta relatório da PF sobre ministros no caso Master e deve avaliar modelo para definir próximos passos",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/18/fachin-recebe-nesta-quarta-relatorio-da-pf-sobre-ministros-no-caso-master-e-deve-avaliar-modelo-para-definir-proximos-passos.ghtml",
+      "date": "2026-11-18T03:00:01.000Z",
+      "summary": "O presidente do Supremo Tribunal Federal (STF), ministro Edson Fachin, deve receber nesta quarta-feira (18) os relatórios produzidos pela Polícia Federal, com menções a ministros do Supremo Tribunal Federal (STF) e parentes no caso Master. O formato do materia",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Crise do Master: um ano depois, clientes relatam perdas e desconfiança; veja o que mudou no mercado",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/18/crise-do-master-um-ano-depois-clientes-relatam-perdas-e-desconfianca-veja-o-que-mudou-no-mercado.ghtml",
+      "date": "2026-11-18T03:00:01.000Z",
+      "summary": "Escândalo do Banco Master: uma ano após a liquidação, investidores ainda sentem efeitos Há um ano, o Banco Central (BC) decretou a liquidação extrajudicial do Banco Master, dando início ao maior acionamento da história do Fundo Garantidor de Créditos (FGC). A ",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Secretários defendem ministro da Segurança com experiência na 'linha de frente' e sem indicação política e querem combate a líderes de facções",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/18/secretarios-defendem-ministro-da-seguranca-com-experiencia-na-linha-de-frente.ghtml",
+      "date": "2026-11-18T03:00:00.000Z",
+      "summary": "Comando Vermelho domina o crime na maior parte do Amazonas Divulgação Secretários estaduais de Segurança Pública defendem que o futuro Ministério da Segurança Pública seja comandado por um profissional com experiência na área e capacidade de diálogo com govern",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Edir Macedo aporta R$ 1,7 bi no Digimais, que tem novo diretor-presidente",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/edir-macedo-aporta-r-17-bi-no-digimais-que-tem-novo-diretor-presidente.shtml",
+      "date": "2026-11-18T02:26:00.000Z",
+      "summary": "O bispo Edir Macedo, dono da Igreja Universal, fez dois aportes no Digimais no mês passado que totalizaram R$ 1,714 bilhão. O volume investido foi citado no balanço do primeiro semestre do banco. Leia mais (11/17/2026 - 23h26)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Jeff Bezos rejeita imagem de big techs como vilãs e diz que Trump é presidente mais acessível",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/jeff-bezos-rejeita-imagem-de-big-techs-como-vilas-e-diz-que-trump-e-presidente-mais-acessivel.shtml",
+      "date": "2026-11-18T02:25:00.000Z",
+      "summary": "\"As big techs estão sendo retratadas como vilãs, mas esse não é um retrato verdadeiro\", garantiu um Jeff Bezos bronzeado e sorridente para uma plateia amigável de dezenas de CEOs de empresas de tecnologia que fizeram fila para prestigiá-lo, na conferência Sili",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Câmara deve votar ajuste fiscal mesmo sem acordo, diz Randolfe",
+      "link": "https://www.poder360.com.br/poder-congresso/camara-deve-votar-ajuste-fiscal-mesmo-sem-acordo-diz-randolfe/",
+      "date": "2026-11-18T02:24:38.000Z",
+      "summary": "Acolumbre sinaliza que irá conversar com Motta para pautar o texto na Casa Baixa; deputado viaja para o Gilmarpalooza na Argentina",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Câmara aprova R$ 6,5 bi em crédito a empresas atingidas por tarifaço de Trump e guerras",
+      "link": "https://www.estadao.com.br/economia/camara-aprova-r-65-bi-em-credito-a-empresas-atingidas-por-tarifaco-de-trump-e-guerras/",
+      "date": "2026-11-18T02:06:12.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -199,24 +307,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Veja cronologia do caso Master, da negociação com o BRB ao indiciamento de Vorcaro",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/veja-cronologia-do-caso-master-da-negociacao-com-o-brb-ao-indiciamento-de-vorcaro.shtml",
-      "date": "2026-11-18T02:00:00.000Z",
-      "summary": "Das negociações para compra de ativos pelo BRB (Banco de Brasília) até o indiciamento de Daniel Vorcaro pela Polícia Federal, relembre os principais momentos do caso do Banco Master, cuja liquidação pelo Banco Central completa um ano nesta quarta-feira (18). L",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Um ano após liquidação, entenda o caso do Banco Master",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/um-ano-apos-liquidacao-entenda-o-caso-do-banco-master.shtml",
-      "date": "2026-11-18T02:00:00.000Z",
-      "summary": "Em 18 de novembro de 2025, o Banco Central decretou a liquidação extrajudicial do Banco Master, controlado pelo empresário Daniel Vorcaro -hoje, preso. Leia mais (11/17/2026 - 23h00)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Senado aprova crédito de até R$ 13,5 bi a empresas afetadas por tarifaço de Trump e guerras",
       "link": "https://www.estadao.com.br/economia/senado-aprova-credito-de-ate-r-135-bi-a-empresas-afetadas-por-tarifaco-de-trump-e-guerras/",
       "date": "2026-11-18T01:44:18.000Z",
@@ -232,24 +322,6 @@
       "summary": "",
       "source": "Estadão",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "BC anuncia leilões de linha no total de US$1 bilhão para quarta-feira (18)",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/10/25/6568-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post468058",
-      "date": "2026-11-18T01:20:00.000Z",
-      "summary": "O Banco Central realizará nesta quarta-feira (18) dois leilões de venda de dólares com compromisso de recompra no valor total de até US$ 1 bilhão, segundo comunicado divulgado pela autarquia nesta terça-feira (17). Leia mais (11/17/2026 - 22h20)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Bispo Edir Macedo coloca R$ 1,7 bi para capitalizar o Banco Digimais",
-      "link": "https://www.estadao.com.br/economia/negocios/bispo-edir-macedo-coloca-r-17-bi-para-capitalizar-o-banco-digimais/",
-      "date": "2026-11-18T01:14:54.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -280,15 +352,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Após tentativa de compra da Amil, Advent e Bain avaliam ativos da Hapvida",
-      "link": "https://www.estadao.com.br/economia/coluna-da-broad/apos-tentativa-de-compra-da-amil-advent-e-bain-avaliam-ativos-da-hapvida/",
-      "date": "2026-11-18T01:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "O que é o ajuste fiscal que o mercado cobra de Lula? Entenda por que ele desagrada muita gente e divide economistas",
       "link": "https://www.bbc.com/portuguese/articles/cklyw32d9n7vo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-18T00:31:56.000Z",
@@ -298,30 +361,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Ato na Faria Lima contra o ajuste fiscal termina em confronto com a PM",
-      "link": "https://www.poder360.com.br/poder-seguranca-publica/ato-na-faria-lima-contra-o-ajuste-fiscal-termina-em-confronto-com-a-pm/",
-      "date": "2026-11-18T00:18:15.000Z",
-      "summary": "Protesto com o lema “O mercado não manda no Brasil” durou menos de uma hora na capital paulista; parte dos manifestantes queimou bandeiras de Israel e dos Estados Unidos",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Mega-Sena 3087 acumula e prêmio vai a R$ 40 milhões; confira os números sorteados",
       "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/17/mega-sena-concurso-3087-confira-os-numeros-sorteados.ghtml",
       "date": "2026-11-18T00:05:09.000Z",
       "summary": "Mega-Sena, concurso 3.087: confira os números sorteados O sorteio do concurso 3.087 da Mega-Sena foi realizado na noite desta terça-feira (17), em São Paulo. O prêmio para as apostas que acertassem as seis dezenas era de R$ 32,1 milhões. No entanto, ninguém le",
       "source": "g1",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Governo recusou proposta de R$ 75 bi no ajuste fiscal, diz Marinho",
-      "link": "https://www.poder360.com.br/poder-congresso/governo-recusou-proposta-de-r-75-bi-no-ajuste-fiscal-diz-marinho/",
-      "date": "2026-11-17T22:42:06.000Z",
-      "summary": "Segundo o senador, a contraproposta da oposição combina 3 fontes de espaço fiscal; votação dos destaques do projeto foi adiada para 4ª feira (18.nov)",
-      "source": "Poder360",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -341,24 +386,6 @@
       "source": "Agência Senado",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Fachin diz que STF julgará ainda neste ano lei que pode reduzir penas de Bolsonaro e aliados se Moraes liberar ações",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/17/fachin-diz-que-stf-pode-julgar-ainda-neste-ano-acoes-contra-lei-da-dosimetria-se-moraes-liberar-caso.ghtml",
-      "date": "2026-11-17T22:27:08.000Z",
-      "summary": "O presidente do Supremo Tribunal Federal (STF), Edson Fachin, afirmou nesta terça-feira (17) que o julgamento das ações que questionam a chamada Lei da Dosimetria, que prevê a redução de penas para condenados por atentados golpistas no país, pode ocorrer ainda",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Camilo Santana diz que governo não tinha votos para barrar desidratação do pacote fiscal",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/17/camilo-santana-diz-que-governo-nao-tinha-votos-para-barrar-desidratacao-do-pacote-fiscal.ghtml",
-      "date": "2026-11-17T22:09:02.000Z",
-      "summary": "Senador Camilo Santana (PT-CE) apresentou emenda prevendo a redução da maioridade penal para 16 anos em casos de crimes hediondos. Waldemir Barreto/Agência Senado O líder do PT no Senado, Camilo Santana (PT-CE), admitiu, após o adiamento da votação do projeto ",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
     },
     {
       "title": "Câmara aprova prêmio para iniciativas em superdotação e dupla excepcionalidade",
@@ -424,15 +451,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Aneel forma maioria para recomendar fim antecipado da concessão da Enel em SP, mas diretor pede vista",
-      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/17/aneel-forma-maioria-para-recomendar-o-encerramento-antecipado-da-concessao-da-enel-em-sp.ghtml",
-      "date": "2026-11-17T21:35:57.000Z",
-      "summary": "Diretos da Aneel durante reunião pública nesta terça (17). Reprodução A diretoria da Agência Nacional de Energia Elétrica (Aneel) formou maioria nesta terça-feira (17) para recomendar o encerramento antecipado da concessão da Enel Distribuição São Paulo, respo",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "BC anuncia leilões de swap cambial tradicional para fins de rolagem dos contratos vincendos em 4 de janeiro de 2027",
       "link": "https://www.bcb.gov.br/detalhenoticia/21321/nota",
       "date": "2026-11-17T21:30:21.000Z",
@@ -465,15 +483,6 @@
       "date": "2026-11-17T21:01:17.000Z",
       "summary": "",
       "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "'Dark Horse': PGR concorda com pedido para prorrogar inquérito sobre financiamento do filme",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/17/caso-dark-horse-pgr-diz-ao-stf-que-apoia-prorrogar-inquerito-por-90-dias.ghtml",
-      "date": "2026-11-17T21:00:37.000Z",
-      "summary": "A Procuradoria-Geral da República (PGR) concordou com o pedido da Polícia Federal (PF) para prorrogar o inquérito que investiga o financiamento do filme Dark Horse, que trata da história do ex-presidente Jair Bolsonaro (PL), por 90 dias. O pedido de prorrogaçã",
-      "source": "g1",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -520,15 +529,6 @@
       "summary": "Dados do TSE confirmam agora que os vídeos não eram apenas 'virais' das redes sociais. Foram os idosos - e especialmente as idosas - que mais fizeram o esforço de votar entre o primeiro e o segundo turno, fazendo a abstenção ter a maior queda entre turnos desd",
       "source": "BBC News Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Empresas usaram R$ 200 bilhões em créditos para pagar tributos até setembro; Senado debate restrição no ajuste fiscal",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/17/creditos-tributarios-empresas-ajuste-fiscal.ghtml",
-      "date": "2026-11-17T18:32:53.000Z",
-      "summary": "Sem acordo, Senado adia votação de destaques em projeto de ajuste fiscal Empresas declararam ter usado R$ 200,1 bilhões em créditos para pagar tributos federais entre janeiro e setembro de 2026, segundo levantamento do g1 com dados da Receita Federal. O valor ",
-      "source": "g1",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
