@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-18T14:14:48.703Z",
+  "updated": "2026-11-18T15:17:40.852Z",
   "market": {
     "ibov": {
-      "price": 169781.83,
-      "pct": -0.02,
-      "time": "2026-11-18T14:14:43.146Z",
+      "price": 169312.94,
+      "pct": -0.3,
+      "time": "2026-11-18T15:17:35.113Z",
       "history": [
         {
           "d": "2026-10-19",
@@ -92,7 +92,7 @@
         },
         {
           "d": "2026-11-18",
-          "c": 169793.3438
+          "c": 169025.0625
         }
       ]
     },
@@ -149,22 +149,202 @@
   },
   "news": [
     {
-      "title": "Diretor da PF Andrei Rodrigues fala hoje ao Senado sobre troca de delegados",
-      "link": "https://g1.globo.com/politica/ao-vivo/diretor-pf-andrei-rodrigues-senado-crise-policia-federal-troca-delegados.ghtml",
-      "date": "2026-11-18T14:08:24.000Z",
-      "summary": "Diretor da PF Andrei Rodrigues fala hoje ao Senado sobre troca de delegados",
+      "title": "Brasileiros gastaram mais de R$ 40 bilhões com bets até julho de 2026",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/brasileiros-gastaram-mais-de-r-40-bilhoes-com-bets-ate-julho-de-2026.shtml",
+      "date": "2026-11-18T15:12:00.000Z",
+      "summary": "Com o aumento das apostas online no país nos primeiros sete meses deste ano, os brasileiros gastaram mais de R$ 40 bilhões com bets. É o que aponta um estudo do Comsefaz (Comitê Nacional de Secretários de Fazenda, Finanças, Receita ou Tributação dos Estados e ",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Economista elogia Plano Moretti e estima impacto de R$ 51 bi em 2027",
+      "link": "https://www.poder360.com.br/poder-economia/economista-elogia-plano-moretti-e-estima-impacto-de-r-51-bi-em-2027/",
+      "date": "2026-11-18T15:09:08.000Z",
+      "summary": "Felipe Salto, da Warren, considera medidas um 1º passo para equilibrar as contas públicas",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Dicionário Cambridge escolhe 'humano' como palavra do ano de 2026, em reação à IA",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/tec/2026/11/dicionario-cambridge-escolhe-humano-como-palavra-do-ano-de-2026-em-reacao-a-ia.shtml",
+      "date": "2026-11-18T15:05:00.000Z",
+      "summary": "A palavra \"human\" (humano, em inglês) foi escolhida como a palavra do ano de 2026 pelo dicionário Cambridge. A seleção busca refletir que, em meio à enxurrada de textos, imagens, vídeos e até músicas produzidas por inteligência artificial, aquilo que é feito p",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Análise: por que encontro histórico com Xi e Trump já é uma vitória para Putin",
+      "link": "https://www.bbc.com/portuguese/articles/cvp86k97y0g8o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-18T15:00:56.000Z",
+      "summary": "O encontro entre os líderes dos EUA, China e Rússia dará a Vladimir Putin uma grande plataforma, mas não o aproximará da vitória na guerra na Ucrânia.",
+      "source": "BBC News Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Conheça a Anthropic e entenda por que a empresa chega ao IPO avaliada em US$ 1,4 trilhão",
+      "link": "https://www.estadao.com.br/economia/negocios/conheca-a-anthropic-e-entenda-por-que-a-empresa-chega-ao-ipo-avaliada-em-us-14-trilhao/",
+      "date": "2026-11-18T15:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Comissão aprova destinação de 10% de patrocínios públicos ao futebol feminino",
+      "link": "https://www.camara.leg.br/noticias/1320589-comissao-aprova-destinacao-de-10-de-patrocinios-publicos-ao-futebol-feminino",
+      "date": "2026-11-18T14:55:00.000Z",
+      "summary": "O texto poderá seguir para o Senado, a menos que haja recurso para análise no Plenário da Câmara",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Reunião de Trump, Putin e Xi pode dividir o mundo em três? Por que cúpula preocupa a Europa",
+      "link": "https://www.bbc.com/portuguese/articles/cqx2ey1zxjymo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-18T14:54:26.000Z",
+      "summary": "Preparativos para o primeiro encontro trilateral entre os líderes da China, da Rússia e dos EUA provocaram apreensão na Europa, onde alguns veem paralelos com a divisão do mundo em esferas de influência após a Segunda Guerra Mundial.",
+      "source": "BBC News Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Como a antiga Alemanha Oriental ajudou o Vietnã a virar uma potência do café",
+      "link": "https://www.dw.com/pt-br/como-a-antiga-alemanha-oriental-ajudou-o-vietnã-a-virar-uma-potência-do-café/a-79982188?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-18T14:48:00.000Z",
+      "summary": "Nos anos 1970, sem dinheiro para importar café, regime comunista passou a oferecer mistura à base de chicória, provocando revolta popular. Busca por solução ajudou Vietnã a se tornar 2° maior produtor mundial.",
+      "source": "DW Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Advogado disse a Vorcaro ter informações de chefe da PF sobre inquérito",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/advogado-disse-a-vorcaro-ter-informacoes-de-chefe-da-pf-sobre-inquerito.shtml",
+      "date": "2026-11-18T14:47:00.000Z",
+      "summary": "O advogado Walfrido Warde, que atuava para o Banco Master, afirmou ao banqueiro Daniel Vorcaro ter obtido informações sobre a atuação do diretor-geral da PF (Polícia Federal), Andrei Rodrigues, em um inquérito contra o banco. Leia mais (11/18/2026 - 11h47)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Projeto acaba com a obrigatoriedade da separação de bens em casamento de maiores de 70 anos",
+      "link": "https://www.camara.leg.br/noticias/1313158-projeto-acaba-com-a-obrigatoriedade-da-separacao-de-bens-em-casamento-de-maiores-de-70-anos",
+      "date": "2026-11-18T14:43:00.000Z",
+      "summary": "Código Civil determina separação obrigatória de bens",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Edir Macedo injeta R$ 1,7 bilhão em banco após perder R$ 581,4 mi",
+      "link": "https://www.poder360.com.br/poder-gente/edir-macedo-injeta-r-17-bilhao-em-banco-apos-perder-r-5814-mi/",
+      "date": "2026-11-18T14:42:20.000Z",
+      "summary": "Capitalização ainda depende de aval do Banco Central; auditoria aponta risco à continuidade das operações do Digimais",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Ministro nega fusão dos Ministérios dos Transportes e Portos e Aeroportos",
+      "link": "https://www.poder360.com.br/poder-governo/ministro-nega-fusao-dos-ministerios-dos-transportes-e-portos-e-aeroportos/",
+      "date": "2026-11-18T14:38:12.000Z",
+      "summary": "Sucessor de Renan Filho (MDB), George Santoro afirma que partido ainda discute com PT participação no próximo governo Lula",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Justiça atende Nikolas e suspende pregão para iPhones do Senado",
+      "link": "https://www.poder360.com.br/poder-congresso/justica-atende-nikolas-e-suspende-pregao-para-iphones-do-senado/",
+      "date": "2026-11-18T14:34:26.000Z",
+      "summary": "Edital determinou compra de aparelhos topo de linha por R$ 6 milhões; juiz citou violação aos princípios da moralidade",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Aliados de Alcolumbre dão como certo julgamento da Lei da Dosimetria depois de encontro com Moraes",
+      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/18/aliados-de-alcolumbre-dao-como-certo-julgamento-da-lei-da-dosimetria-depois-de-encontro-com-moraes.ghtml",
+      "date": "2026-11-18T14:32:42.000Z",
+      "summary": "Depois de ter se reunido com Alexandre de Moraes, o presidente do Senado, Davi Alcolumbre (União-AP), disse a interlocutores estar confiante de que o ministro do STF vai liberar para julgamento a constitucionalidade da Lei da Dosimetria, depois de segurar desd",
       "source": "g1",
       "cat": "politica",
       "type": "imprensa"
     },
     {
-      "title": "Novas regras de Trump para chips de IA preocupam Sudeste Asiático",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/novas-regras-de-trump-para-chips-de-ia-preocupam-sudeste-asiatico.shtml",
-      "date": "2026-11-18T14:08:00.000Z",
-      "summary": "A proposta do governo Trump de restringir o acesso da China a chips avançados de inteligência artificial no exterior provocou apreensão no Sudeste Asiático nesta terça-feira (18). As medidas ameaçam um boom de investimentos em data centers impulsionado por emp",
+      "title": "CI aprova proteção a aeroclubes e uso gratuito de áreas em aeroportos",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/18/ci-aprova-protecao-a-aeroclubes-e-uso-gratuito-de-areas-em-aeroportos",
+      "date": "2026-11-18T14:26:46.000Z",
+      "summary": "A Comissão de Infraestrutura (CI) aprovou nesta quarta-feira (18) projeto que garante a aeroclubes instalados há mais de dez anos em aeroportos públicos o uso gratuito das áreas essenciais às suas atividades. A proposta também estabelece regras para impedir a ",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Diretor do BC defende atualização na lei de liquidação de bancos",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/diretor-do-bc-defende-atualizacao-na-lei-de-liquidacao-de-bancos.shtml",
+      "date": "2026-11-18T14:25:00.000Z",
+      "summary": "Ailton de Aquino, diretor de fiscalização do Banco Central, defende a atualização na lei que rege a intervenção em bancos, que aguarda deliberação no plenário da Câmara dos Deputados. Leia mais (11/18/2026 - 11h25)",
       "source": "Folha",
       "cat": "economia",
       "type": "imprensa"
+    },
+    {
+      "title": "Justiça Federal aceita ação de Nikolas Ferreira e suspende licitação de iPhones 18 Pro no Senado",
+      "link": "https://www.estadao.com.br/politica/justica-federal-aceita-acao-de-nikolas-ferreira-e-suspende-licitacao-de-iphones-18-pro-no-senado/",
+      "date": "2026-11-18T14:23:58.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Aumento do número de desembargadores do TRT18 (GO) vai a Plenário",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/18/aumento-do-numero-de-desembargadores-do-trt18-go-vai-a-plenario",
+      "date": "2026-11-18T14:21:21.000Z",
+      "summary": "Projeto que transforma cargos vagos de juiz do trabalho substituto em cargos de desembargador, no quadro permanente do Tribunal Regional do Trabalho (TRT) da 18ª Região (GO), teve o relatório aprovado nesta quarta-feira (18) pela Comissão de Constituição e Jus",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Diretor-geral da PF Andrei Rodrigues fala hoje ao Senado sobre troca de delegados",
+      "link": "https://g1.globo.com/politica/ao-vivo/diretor-pf-andrei-rodrigues-senado-crise-policia-federal-troca-delegados.ghtml",
+      "date": "2026-11-18T14:20:28.000Z",
+      "summary": "Diretor-geral da PF Andrei Rodrigues fala hoje ao Senado sobre troca de delegados Eles foram afastados de suas funções após elaboração de relatórios sobre o envolvimento de ministros do STF com Daniel Vorcaro, dono do Master. Diretor-geral da PF Andrei Rodrigu",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Anthropic deve anunciar preço de ações para IPO nesta quarta-feira",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/anthropic-deve-anunciar-preco-de-acoes-para-ipo-nesta-quarta-feira.shtml",
+      "date": "2026-11-18T14:17:00.000Z",
+      "summary": "A Anthropic anunciará nesta quarta-feira (18) o valor de suas ações para o IPO (oferta pública inicial de ações) que ocorre nesta quinta-feira (19) na Nasdaq. Leia mais (11/18/2026 - 11h17)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Toyota do Brasil mostra a picape Corolla Deck",
+      "link": "https://g1.globo.com/carros/noticia/2026/11/18/toyota-mostra-novo-produto.ghtml",
+      "date": "2026-11-18T14:12:02.000Z",
+      "summary": "Toyota mostra nova picape Corolla Deck. Carlos Cereijo / g1 A Toyota apresentou nesta quarta-feira (18) a nova picape baseada na plataforma do Corolla. O modelo vai ser montado na nova linha de produção da empresa em Sorocaba (SP). Na apresentação, a Toyota de",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Projeto institui em lei o Sistema Nacional de Trilhas Ecológicas",
+      "link": "https://www.camara.leg.br/noticias/1313141-projeto-institui-em-lei-o-sistema-nacional-de-trilhas-ecologicas",
+      "date": "2026-11-18T14:12:00.000Z",
+      "summary": "Proposta estabelece regras nacionais para planejar, gerir e padronizar rotas ambientais, com adesão voluntária de órgãos públicos e privados",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
     },
     {
       "title": "Conversa com Lula faz Andrei mudar de posição e confirmar presença no Senado",
@@ -203,21 +383,21 @@
       "type": "imprensa"
     },
     {
-      "title": "Transmissoras de energia querem evitar dividir receita de leilão de baterias com consumidores",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/economia-sustentavel/2026/11/transmissoras-de-energia-querem-evitar-dividir-receita-de-leilao-de-baterias-com-consumidores.shtml",
+      "title": "O trigo tropical pode mudar o jogo",
+      "link": "https://www.estadao.com.br/economia/celso-moretti/trigo-tropical-pode-mudar-jogo/",
       "date": "2026-11-18T14:00:00.000Z",
-      "summary": "Empresas de transmissão de energia elétrica estão pressionando a Aneel (Agência Nacional de Energia Elétrica) para garantir que não terão de dividir com os consumidores parte do dinheiro que venham a receber dos investimentos que fizeram nos sistemas de bateri",
-      "source": "Folha",
+      "summary": "",
+      "source": "Estadão",
       "cat": "economia",
       "type": "imprensa"
     },
     {
-      "title": "Previ acumula perda bilionária com queda das ações do Banco do Brasil",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/previ-acumula-perda-bilionaria-com-queda-das-acoes-do-banco-do-brasil.shtml",
-      "date": "2026-11-18T14:00:00.000Z",
-      "summary": "Uma das principais acionistas do Banco do Brasil, a Previ acumula uma perda da ordem de R$ 2,5 bilhões no valor de sua participação com a queda das ações depois do segundo turno das eleições e após a divulgação do resultado do terceiro trimestre muito abaixo d",
-      "source": "Folha",
-      "cat": "economia",
+      "title": "Novo anuncia candidatura de Paulo Martins à presidência da Câmara",
+      "link": "https://www.estadao.com.br/politica/novo-anuncia-candidatura-de-paulo-martins-a-presidencia-da-camara-nprp/",
+      "date": "2026-11-18T13:59:24.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -230,37 +410,10 @@
       "type": "oficial"
     },
     {
-      "title": "Lançamento de 'GTA 6' aquece varejo e empresas dão folgas para funcionários",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/tec/2026/11/lancamento-de-gta-6-aquece-varejo-e-empresas-dao-folgas-a-funcionarios-para-jogar.shtml",
-      "date": "2026-11-18T13:58:00.000Z",
-      "summary": "Uma empresa de tecnologia em Lajeado, no interior do Rio Grande do Sul, vai liberar os funcionários para se dedicarem, no feriadão desta semana, ao lançamento de GTA 6 (Grand Theft Auto VI). O novo título da Rockstar Games chega aos consoles de videogame na ma",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Trump, Putin e Xi se reúnem em jantar na China antes de cúpula",
-      "link": "https://www.poder360.com.br/poder-internacional/trump-putin-e-xi-se-reunem-em-jantar-na-china-antes-de-cupula/",
-      "date": "2026-11-18T13:48:09.000Z",
-      "summary": "Líderes dos EUA, Rússia e China terão encontro trilateral na 5ª feira (19.nov) para discutir segurança global",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Crise na PF: associação pede ao Ministério da Justiça para ouvir delegados afastados",
+      "title": "Crise na PF: associação pede que Ministério da Justiça ouça delegados afastados",
       "link": "https://g1.globo.com/politica/blog/camila-bomfim/post/2026/11/18/crise-na-pf-associacao-pede-ao-ministerio-da-justica-para-ouvir-delegados-afastados.ghtml",
       "date": "2026-11-18T13:48:05.000Z",
-      "summary": "A Associação Nacional dos Delegados de Polícia Federal (ADPF) solicitou ao Ministério da Justiça (MJ) que ouça diretamente os delegados da PF afastados da produção de relatórios ligados ao caso Master, em nome da \"autonomia técnica\" garantida por lei. Em ofíci",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "CCJ do Senado aprova aumento de penas para motoristas que provocam acidentes graves sob efeito de álcool ou drogas",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/18/ccj-do-senado-aprova-aumento-de-penas-para-motoristas-que-provocam-acidentes-graves-sob-efeito-de-alcool-ou-drogas.ghtml",
-      "date": "2026-11-18T13:45:04.000Z",
-      "summary": "A Comissão de Constituição e Justiça (CCJ) do Senado aprovou nesta quarta-feira (18) um projeto que prevê o aumento das penas para motoristas que causarem mortes ou lesões corporais graves no trânsito sob efeito de álcool ou drogas. As penas também serão mais ",
+      "summary": "Fachin deve receber relatório da PF sobre ministros no caso Master A Associação Nacional dos Delegados de Polícia Federal (ADPF) solicitou ao Ministério da Justiça (MJ) que ouça diretamente os delegados da PF afastados da produção de relatórios ligados ao caso",
       "source": "g1",
       "cat": "politica",
       "type": "imprensa"
@@ -275,72 +428,9 @@
       "type": "oficial"
     },
     {
-      "title": "Crime de fraude contábil no mercado de valores avança na CCJ",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/18/crime-de-fraude-contabil-no-mercado-de-valores-avanca-na-ccj",
-      "date": "2026-11-18T13:44:21.000Z",
-      "summary": "A Comissão de Constituição e Justiça (CCJ) aprovou nesta quarta-feira (18), em primeiro turno, substitutivo (texto alternativo) ao projeto que tipifica a fraude contábil no mercado de valores mobiliários. O texto também altera a definição do crime de indução o",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Parcela de petróleo da União no pré-sal cresce 67% em 1 ano",
-      "link": "https://www.poder360.com.br/poder-energia/parcela-de-petroleo-da-uniao-no-pre-sal-cresce-67-em-1-ano/",
-      "date": "2026-11-18T13:40:22.000Z",
-      "summary": "Produção total nos campos do pré-sal atinge 1,95 milhão de barris por dia em setembro",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Sargento Reginauro critica projeto de ajuste fiscal do governo",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/18/sargento-reginauro-critica-projeto-de-ajuste-fiscal-do-governo",
-      "date": "2026-11-18T13:38:51.000Z",
-      "summary": "O senador Sargento Reginauro (PSDB-CE) criticou em pronunciamento no Plenário nesta terça-feira (17) as medidas de ajuste fiscal propostas pelo governo. Ele disse que o ajuste fiscal pode afetar recursos destinados à saúde, à educação e a programas sociais e d",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
       "title": "Dois em cada três desempregados no Brasil são pretos ou pardos, aponta IBGE",
       "link": "https://www.estadao.com.br/economia/ibge-desempregados-brasil-pretos-pardos/",
       "date": "2026-11-18T13:38:13.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Quem é Natália Resende, secretária empoderada por Tarcísio e cotada para sucedê-lo em 2030",
-      "link": "https://www.estadao.com.br/politica/quem-e-natalia-resende-secretaria-empoderada-por-tarcisio-e-cotada-para-sucede-lo-em-2030/",
-      "date": "2026-11-18T13:32:49.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Juros e tributos andaram na direção errada, diz conselheiro do Bradesco",
-      "link": "https://www.poder360.com.br/poder-economia/juros-e-tributos-andaram-na-direcao-errada-diz-conselheiro-do-bradesco/",
-      "date": "2026-11-18T13:27:20.000Z",
-      "summary": "Luiz Carlos Trabuco afirma que a piora nos custos logísticos e encargos trabalhistas supera avanços na escolaridade",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "PT propõe a Moretti taxar super-ricos e mudar autonomia do BC",
-      "link": "https://www.poder360.com.br/poder-congresso/pt-propoe-a-moretti-taxar-super-ricos-e-mudar-autonomia-do-bc/",
-      "date": "2026-11-18T13:24:18.000Z",
-      "summary": "Deputados entregam ao ministro 7 projetos fiscais para taxar lucros, dividendos e títulos isentos, além de rever o teto de gastos",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Dívida das famílias pode frear consumo em 2027",
-      "link": "https://www.estadao.com.br/economia/fernando-dantas/divida-das-familias-pode-frear-consumo-em-2027/",
-      "date": "2026-11-18T13:16:52.000Z",
       "summary": "",
       "source": "Estadão",
       "cat": "economia",
@@ -377,27 +467,9 @@
       "title": "Pretos e pardos ganham menos, são maioria entre trabalhadores desocupados e entre vítimas de homicídio, mostra IBGE",
       "link": "https://g1.globo.com/economia/noticia/2026/11/18/desigualdades-sociais-cor-raca-ibge.ghtml",
       "date": "2026-11-18T13:00:00.000Z",
-      "summary": "As pessoas pretas e pardas são maioria entre os trabalhadores desocupados e subutilizados do país, recebem menos por hora trabalhada, estão mais expostas à pobreza e continuam sendo as principais vítimas da violência letal no Brasil. É o que mostra a terceira ",
+      "summary": "Pretos e pardos ganham menos e são maioria entre vítimas de assassinatos As pessoas pretas e pardas são maioria entre os trabalhadores desocupados e subutilizados do país, recebem menos por hora trabalhada, estão mais expostas à pobreza e continuam sendo as pr",
       "source": "g1",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "A sustentabilidade financeira como preceito fundamental da Constituição",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/a-sustentabilidade-financeira-como-preceito-fundamental-da-constituicao/",
-      "date": "2026-11-18T13:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Fachin sinaliza que STF pode julgar Lei da Dosimetria ainda neste ano",
-      "link": "https://www.estadao.com.br/politica/fachin-sinaliza-que-stf-pode-julgar-lei-da-dosimetria-ainda-neste-ano-nprp/",
-      "date": "2026-11-18T12:56:31.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -405,15 +477,6 @@
       "link": "https://g1.globo.com/economia/noticia/2026/11/18/um-ano-depois-fraude-do-banco-master-deixou-prejuizo-de-r-76-bilhoes.ghtml",
       "date": "2026-11-18T12:42:37.000Z",
       "summary": "Fachada do Banco Master no Itaim Bibi, na Zona Sul de São Paulo, no dia 19 de novembro de 2025 Rovena Rosa/Agência Brasil Na tarde de 18 de novembro de 2025, o Banco Central anunciou a decretação da liquidação extrajudicial do Banco Master e de várias institui",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Rede D'Or vende SulAmérica Investimentos para a BlackRock por R$ 850 milhões",
-      "link": "https://g1.globo.com/economia/negocios/noticia/2026/11/18/rede-dor-sulamerica-investimentos.ghtml",
-      "date": "2026-11-18T12:38:06.000Z",
-      "summary": "Rede D'Or acerta incorporação da Sul América Divulgação A Rede D'Or anunciou nesta quarta-feira (18) um acordo para vender a SulAmérica Investimentos à BlackRock Brasil, subsidiária da gestora americana BlackRock, em uma operação avaliada em aproximadamente R$",
       "source": "g1",
       "cat": "economia",
       "type": "imprensa"
@@ -437,24 +500,6 @@
       "type": "oficial"
     },
     {
-      "title": "Almino Affonso e Educafro receberão Prêmio USP de Direitos Humanos",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/almino-affonso-e-educafro-receberao-premio-usp-de-direitos-humanos.shtml",
-      "date": "2026-11-18T12:06:00.000Z",
-      "summary": "A Comissão de Direitos Humanos da USP homenageará o ex-ministro Almino Affonso e a Educafro na edição deste ano do Prêmio USP de Direitos Humanos \"dr. José Gregori\". Leia mais (11/18/2026 - 09h06)",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Comissão promove debate sobre redução da maioridade penal nesta quarta-feira",
-      "link": "https://www.camara.leg.br/noticias/1319616-comissao-promove-debate-sobre-reducao-da-maioridade-penal-nesta-quarta-feira",
-      "date": "2026-11-18T12:01:00.000Z",
-      "summary": "",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
       "title": "Governos anunciam mais de 230 promessas para evitar violência a menores",
       "link": "https://news.un.org/feed/view/pt/story/2026/11/1854946",
       "date": "2026-11-18T12:00:00.000Z",
@@ -464,31 +509,13 @@
       "type": "oficial"
     },
     {
-      "title": "Reunião de Trump, Putin e Xi pode dividir o mundo em três? Por que cúpula preocupa a Europa",
-      "link": "https://www.bbc.com/portuguese/articles/cqx2ey1zxjymo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-18T11:59:17.000Z",
-      "summary": "Preparativos para o primeiro encontro trilateral entre os líderes da China, da Rússia e dos EUA provocaram apreensão na Europa, onde alguns veem paralelos com a divisão do mundo em esferas de influência após a Segunda Guerra Mundial.",
-      "source": "BBC News Brasil",
-      "cat": "internacional",
+      "title": "Tarcísio escolhe Natália Resende para ‘supersecretaria’ de Planejamento, Orçamento e Investimentos",
+      "link": "https://www.estadao.com.br/politica/tarcisio-escolhe-natalia-resende-para-supersecretaria-de-planejamento-orcamento-e-investimentos/",
+      "date": "2026-11-18T11:48:39.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
       "type": "imprensa"
-    },
-    {
-      "title": "Comissão discute desafios para ampliar proteção a mulheres idosas vítimas de violência; participe",
-      "link": "https://www.camara.leg.br/noticias/1320062-comissao-discute-desafios-para-ampliar-protecao-a-mulheres-idosas-vitimas-de-violencia-participe",
-      "date": "2026-11-18T11:53:00.000Z",
-      "summary": "Convidados também vão debater a aplicação dos mecanismos de proteção previstos na Lei Maria da Penha e no Estatuto da Pessoa Idosa",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Comissão externa apresenta relatório sobre rompimento da barragem de Fundão",
-      "link": "https://www.camara.leg.br/noticias/1318888-comissao-externa-apresenta-relatorio-sobre-rompimento-da-barragem-de-fundao",
-      "date": "2026-11-18T11:50:00.000Z",
-      "summary": "O rompimento da Barragem de Fundão aconteceu há 11 anos e despejou uma lama de rejeitos de minério de ferro ao longo do Rio Doce, entre Minas Gerais e Espírito Santo",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
     },
     {
       "title": "Bets: Justiça bloqueia 5 aeronaves e iate de R$ 40 milhões em ação da PF contra Esportes da Sorte",
@@ -497,15 +524,6 @@
       "summary": "",
       "source": "Estadão",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Dexco investe em experiências proprietárias e celebra os 80 anos da Deca em 2027",
-      "link": "https://www.estadao.com.br/economia/negocios/dexco-investe-em-experiencias-proprietarias-e-celebra-os-80-anos-da-deca-em-2027/",
-      "date": "2026-11-18T11:01:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -576,15 +594,6 @@
       "link": "https://www.dw.com/pt-br/brasil-teve-1-6-mil-intoxicações-por-pesticidas-europeus-em-2025/a-79969105?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-17T13:10:00.000Z",
       "summary": "Agrotóxicos são vendidos por gigantes do setor sediadas na Alemanha e Suíça, segundo investigação do Greenpeace e Public Eye. Brasil é um dos grandes importadores de substâncias vetadas na UE.",
-      "source": "DW Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "O que Putin exige da Otan e da Europa",
-      "link": "https://www.dw.com/pt-br/o-que-putin-exige-da-otan-e-da-europa/a-79964253?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-17T09:35:00.000Z",
-      "summary": "Kremlin quer a retirada da aliança de grande parte do Leste Europeu como condição para o fim da guerra na Ucrânia. O que está por trás do plano russo e o que isso significaria para a segurança de milhões de europeus?",
       "source": "DW Brasil",
       "cat": "internacional",
       "type": "imprensa"
@@ -687,18 +696,10 @@
       "source": "Banco Central",
       "cat": "economia",
       "type": "oficial"
-    },
-    {
-      "title": "'Não falei com Lula. Isso foi plantado para queimar alguém que defendeu a proposta', diz André Lara Resende",
-      "link": "https://www.bbc.com/portuguese/articles/cmly0jeq2q9no?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-05T23:19:37.000Z",
-      "summary": "Economista que presidiu o BNDES e fez parte da diretoria do Banco Central propôs criação de conselho que reduziria taxa Selic a longo prazo; proposta mobilizou mercado financeiro e discussão em Brasília.",
-      "source": "BBC News Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
     }
   ],
   "errors": [
+    "IPCA 12m (SGS 13522): HTTP 304",
     "feed CNN Brasil: HTTP 404",
     "feed CNN Brasil: HTTP 404"
   ]
