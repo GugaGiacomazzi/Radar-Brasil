@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-18T11:39:57.389Z",
+  "updated": "2026-11-18T12:42:46.288Z",
   "market": {
     "ibov": {
       "price": 169816.64,
       "pct": 0.31,
-      "time": "2026-11-18T11:39:51.197Z",
+      "time": "2026-11-18T12:42:42.176Z",
       "history": [
         {
           "d": "2026-10-19",
@@ -145,6 +145,114 @@
   },
   "news": [
     {
+      "title": "Janones defende ajuste fiscal e critica “acusações irresponsáveis”",
+      "link": "https://www.poder360.com.br/poder-governo/janones-defende-ajuste-fiscal-e-critica-acusacoes-irresponsaveis/",
+      "date": "2026-11-18T12:34:36.000Z",
+      "summary": "Deputado afirma que Lula precisa lidar com o Congresso, restrições orçamentárias e com “forças políticas”",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Dólar avança e chega a R$ 5,82 à espera de leilões do BC e votação de ajuste fiscal",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/dolar-abre-em-alta-nesta-quarta-com-mercado-a-espera-de-leilao-do-bc-e-votacao-sobre-ajuste-fiscal.shtml",
+      "date": "2026-11-18T12:33:00.000Z",
+      "summary": "O dólar abriu em alta nesta quarta-feira (18), com investidores à espera dos leilões programados pelo BC (Banco Central) e atentos à tramitação do pacote de ajuste fiscal no Congresso. Às 9h36, a moeda subia 0,65%, cotada a R$ 5,820. Leia mais (11/18/2026 - 09",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "BC divulga estudo sobre os canais de transmissão da política monetária por meio do crédito",
+      "link": "https://www.bcb.gov.br/detalhenoticia/21322/nota",
+      "date": "2026-11-18T12:30:49.000Z",
+      "summary": "",
+      "source": "Banco Central",
+      "cat": "economia",
+      "type": "oficial"
+    },
+    {
+      "title": "Projeto considera ato atentatório à Justiça uso de comandos ocultos para manipular IA em processos judiciais",
+      "link": "https://www.camara.leg.br/noticias/1320543-projeto-considera-ato-atentatorio-a-justica-uso-de-comandos-ocultos-para-manipular-ia-em-processos-judiciais",
+      "date": "2026-11-18T12:28:00.000Z",
+      "summary": "A proposta altera o Código de Processo Civil e está em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Desemprego cai em 8 das 27 unidades da Federação no 3º trimestre",
+      "link": "https://www.poder360.com.br/poder-economia/desemprego-cai-em-8-das-27-unidades-da-federacao-no-3o-trimestre/",
+      "date": "2026-11-18T12:21:36.000Z",
+      "summary": "Taxa nacional recuou para 5,2%, ante 5,4% no trimestre anterior; rendimento médio chegou a R$ 3.790",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "IBGE mostra queda do desemprego em oito estados no terceiro trimestre",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/ibge-mostra-queda-do-desemprego-em-oito-estados-no-terceiro-trimestre.shtml",
+      "date": "2026-11-18T12:21:00.000Z",
+      "summary": "A taxa de desemprego caiu em oito unidades da Federação no terceiro trimestre de 2026, apontam dados divulgados nesta sexta-feira (14) pelo IBGE (Instituto Brasileiro de Geografia e Estatística). Leia mais (11/18/2026 - 09h21)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Errei ao não investir na Anthropic, afirma fundador do SoftBank",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/errei-ao-nao-investir-na-anthropic-afirma-fundador-do-softbank.shtml",
+      "date": "2026-11-18T12:13:00.000Z",
+      "summary": "O fundador do SoftBank, Masayoshi Son, afirmou que lamenta não ter investido na Anthropic antes de seu aguardado IPO (oferta pública inicial de ações), classificando como um erro ter deixado passar a oportunidade de apoiar o laboratório de IA por já ter começa",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Henrique Vorcaro, pai do dono do Master, fez operações suspeitas com alvo da PF e fundo de gestora mineira",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/18/henrique-vorcaro-pai-do-dono-do-master-fez-operacoes-suspeitas-com-alvo-da-pf-e-fundo-de-gestora-mineira.ghtml",
+      "date": "2026-11-18T12:07:15.000Z",
+      "summary": "Henrique Vorcaro, pai de Daniel Vorcaro Reprodução O empresário Henrique Vorcaro, pai do banqueiro Daniel Vorcaro, do Master, realizou operações financeiras suspeitas com um alvo da Polícia Federal e um fundo de investimentos de uma gestora de Belo Horizonte. ",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Almino Affonso e Educafro receberão Prêmio USP de Direitos Humanos",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/almino-affonso-e-educafro-receberao-premio-usp-de-direitos-humanos.shtml",
+      "date": "2026-11-18T12:06:00.000Z",
+      "summary": "A Comissão de Direitos Humanos da USP homenageará o ex-ministro Almino Affonso e a Educafro na edição deste ano do Prêmio USP de Direitos Humanos \"dr. José Gregori\". Leia mais (11/18/2026 - 09h06)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Comissão promove debate sobre redução da maioridade penal nesta quarta-feira",
+      "link": "https://www.camara.leg.br/noticias/1319616-comissao-promove-debate-sobre-reducao-da-maioridade-penal-nesta-quarta-feira",
+      "date": "2026-11-18T12:01:00.000Z",
+      "summary": "",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Dólar abre em alta e vai a R$ 5,80, de olho em ajuste fiscal e ata do Fed",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/18/dolar-ibovespa.ghtml",
+      "date": "2026-11-18T12:01:00.000Z",
+      "summary": "Entenda o que faz o preço do dólar subir ou cair O dólar abriu a sessão desta quarta-feira (18) em alta, com um avanço de 0,48% perto das 9h, cotado a R$ 5,8095. Já as negociações do Ibovespa, principal índice da bolsa brasileira, começam às 10h. A ata da últi",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Desemprego cai em 8 estados e fica em 5,2% no Brasil no 3º trimestre de 2026, diz IBGE",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/18/desemprego-estados-pnad.ghtml",
+      "date": "2026-11-18T12:00:29.000Z",
+      "summary": "Carteira de Trabalho Digital Gil Leonardi/ImprensaMG A taxa de desemprego caiu em 8 estados brasileiros no terceiro trimestre de 2026, de acordo com a Pesquisa Nacional por Amostra de Domicílios (Pnad) Contínua Trimestral, divulgada nesta quarta-feira (18) pel",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "Governos anunciam mais de 230 promessas para evitar violência a menores",
       "link": "https://news.un.org/feed/view/pt/story/2026/11/1854946",
       "date": "2026-11-18T12:00:00.000Z",
@@ -152,6 +260,105 @@
       "source": "ONU News",
       "cat": "internacional",
       "type": "oficial"
+    },
+    {
+      "title": "Reunião de Trump, Putin e Xi pode dividir o mundo em três? Por que cúpula preocupa a Europa",
+      "link": "https://www.bbc.com/portuguese/articles/cqx2ey1zxjymo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-18T11:59:17.000Z",
+      "summary": "Preparativos para o primeiro encontro trilateral entre os líderes da China, da Rússia e dos EUA provocaram apreensão na Europa, onde alguns veem paralelos com a divisão do mundo em esferas de influência após a Segunda Guerra Mundial.",
+      "source": "BBC News Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Comissão discute desafios para ampliar proteção a mulheres idosas vítimas de violência; participe",
+      "link": "https://www.camara.leg.br/noticias/1320062-comissao-discute-desafios-para-ampliar-protecao-a-mulheres-idosas-vitimas-de-violencia-participe",
+      "date": "2026-11-18T11:53:00.000Z",
+      "summary": "Convidados também vão debater a aplicação dos mecanismos de proteção previstos na Lei Maria da Penha e no Estatuto da Pessoa Idosa",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Efeito eleitoral levou Goldman, Morgan Stanley, UBS e JPMorgan a rebaixar Brasil",
+      "link": "https://www.poder360.com.br/poder-economia/efeito-eleitoral-levou-goldman-morgan-stanley-ubs-e-jpmorgan-a-rebaixar-brasil/",
+      "date": "2026-11-18T11:52:58.000Z",
+      "summary": "Bancos internacionais decidiram reduzir a recomendação para investidores comprarem ações de empresas brasileiras por causa da incerteza fiscal no 4º mandato de Lula",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Comissão externa apresenta relatório sobre rompimento da barragem de Fundão",
+      "link": "https://www.camara.leg.br/noticias/1318888-comissao-externa-apresenta-relatorio-sobre-rompimento-da-barragem-de-fundao",
+      "date": "2026-11-18T11:50:00.000Z",
+      "summary": "O rompimento da Barragem de Fundão aconteceu há 11 anos e despejou uma lama de rejeitos de minério de ferro ao longo do Rio Doce, entre Minas Gerais e Espírito Santo",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Tarcísio escolhe Natália Resende para ‘supersecretaria’ de Planejamento, Orçamento e Investimentos",
+      "link": "https://www.estadao.com.br/politica/tarcisio-escolhe-natalia-resende-para-supersecretaria-de-planejamento-orcamento-e-investimentos/",
+      "date": "2026-11-18T11:48:39.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Fórum da Liberdade completa 40 edições com presença de Campos Neto e homenagem ao avô",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/forum-da-liberdade-completa-40-edicoes-com-presenca-de-campos-neto-e-homenagem-a-seu-avo.shtml",
+      "date": "2026-11-18T11:44:00.000Z",
+      "summary": "Principal evento liberal do país, o Fórum da Liberdade chegará à 40ª edição em 2027 com a presença do ex-presidente do Banco Central Roberto Campos Neto e uma homenagem ao avô dele, que esteve na primeira edição do evento, em 1988. Leia mais (11/18/2026 - 08h4",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "A liberdade de associação fortalece a advocacia",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/a-liberdade-de-associacao-fortalece-a-advocacia/",
+      "date": "2026-11-18T11:42:27.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Comissão debate propostas para ampliar recursos destinados ao fortalecimento da agropecuária",
+      "link": "https://www.camara.leg.br/noticias/1320163-comissao-debate-propostas-para-ampliar-recursos-destinados-ao-fortalecimento-da-agropecuaria",
+      "date": "2026-11-18T11:40:00.000Z",
+      "summary": "",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Justiça bloqueia cinco aeronaves, iate de R$ 40 milhões e cobertura em SP em ação da PF contra bets",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/justica-bloqueia-cinco-aeronaves-iate-de-r-40-milhoes-e-cobertura-em-sp-em-acao-da-pf-contra-bets/",
+      "date": "2026-11-18T11:39:36.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Comissão debate fiscalização de contratos de concessão de rodovias federais",
+      "link": "https://www.camara.leg.br/noticias/1319624-comissao-debate-fiscalizacao-de-contratos-de-concessao-de-rodovias-federais",
+      "date": "2026-11-18T11:38:00.000Z",
+      "summary": "",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Nvidia interrompe envio de chips Hopper para a China em meio à crise por espionagem",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/18/nvidia-interrompe-envio-de-chips-hopper-para-a-china-em-meio-a-crise-por-espionagem.ghtml",
+      "date": "2026-11-18T11:37:17.000Z",
+      "summary": "EUA anunciam restrição a exportações de chips da Nvidia para cinco países, Brasil aparece na lista A americana Nvidia, abalada por um escândalo envolvendo suspeitas de espionagem, anunciou na terça-feira (18) que deixou de fornecer à China seus chips de inteli",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
     },
     {
       "title": "Câmara deve votar ajuste fiscal de Lula só na próxima 3ª feira",
@@ -172,15 +379,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Projeto inclui educação para o trânsito no currículo escolar",
-      "link": "https://www.camara.leg.br/noticias/1310168-projeto-inclui-educacao-para-o-transito-no-curriculo-escolar",
-      "date": "2026-11-18T11:27:00.000Z",
-      "summary": "Tema deverá ser desenvolvido de forma transversal e interdisciplinar; proposta está em análise na Câmara",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
       "title": "Risco de derrota no ajuste fiscal mostra que Lula terá de ceder mais espaço ao Centrão e partidos da Frente Ampla",
       "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/18/risco-de-derrota-no-ajuste-fiscal-mostra-que-lula-tera-de-ceder-mais-espaco-ao-centrao-e-partidos-da-frente-ampla.ghtml",
       "date": "2026-11-18T11:25:25.000Z",
@@ -196,33 +394,6 @@
       "summary": "Fachin deve receber relatório da PF sobre ministros no caso Master O diretor-geral da Polícia Federal (PF), Andrei Rodrigues, confirmou nesta quarta-feira (18) que atenderá aos convites das comissões do Senado para prestar esclarecimentos sobre as recentes tro",
       "source": "g1",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Binance diz que negocia entrada em cinco países da Ásia após sofrer roubo bilionário",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/binance-diz-que-negocia-entrada-em-cinco-paises-da-asia-apos-sofrer-roubo-bilionario.shtml",
-      "date": "2026-11-18T11:10:00.000Z",
-      "summary": "A Binance planeja a expansão para cinco mercados asiáticos no próximo ano sem precisar captar recursos, mesmo após ter sofrido um furto recorde de US$ 6,3 bilhões em um ataque hacker no mês passado. Leia mais (11/18/2026 - 08h10)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Operação mira suspeitas de lavagem do grupo Esportes da Sorte, e Justiça determina bloqueio de R$ 2 bi",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/operacao-mira-suspeitas-de-lavagem-do-grupo-esportes-da-sorte-e-justica-determina-bloqueio-de-r-2-bi.shtml",
-      "date": "2026-11-18T11:07:00.000Z",
-      "summary": "A Polícia Federal cumpre 59 mandados de busca e apreensão nesta quarta-feira (18) em uma operação sobre suspeitas relacionadas ao grupo Esportes da Sorte, que atua no segmento das bets e é suspeito de lavagem de dinheiro, de sonegação e de exploração ilegal de",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Números da Nvidia impressionam, mas investidores temem sucessão de Huang",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/numeros-da-nvidia-impressionam-mas-investidores-temem-sucessao-de-huang.shtml",
-      "date": "2026-11-18T11:07:00.000Z",
-      "summary": "A previsão robusta da Nvidia para o próximo trimestre -de novembro de 2026 a janeiro de 2027- acalmou, por ora, os temores dos investidores quanto à sustentabilidade da demanda por inteligência artificial. No entanto, a sucessão de Jensen Huang no cargo de CEO",
-      "source": "Folha",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -253,51 +424,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Reunião de Trump, Putin e Xi pode dividir o mundo em três? Por que cúpula preocupa a Europa",
-      "link": "https://www.bbc.com/portuguese/articles/cqx2ey1zxjymo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-18T10:53:21.000Z",
-      "summary": "Preparativos para o primeiro encontro trilateral entre os líderes da China, da Rússia e dos EUA provocaram apreensão na Europa, onde alguns veem paralelos com a divisão do mundo em esferas de influência após a Segunda Guerra Mundial.",
-      "source": "BBC News Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Nvidia descarta volta de Jensen Huang ao comando da empresa e promete acelerar busca por novo CEO",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/18/nvidia-descarta-volta-de-jensen-huang-ao-comando-da-empresa-e-promete-acelerar-busca-por-novo-ceo.ghtml",
-      "date": "2026-11-18T10:50:58.000Z",
-      "summary": "Ex-CEO da Nvidia se pronuncia pela primeira vez após deixar o cargo: 'Cometi erros graves' O presidente do conselho da Nvidia, Harvey Jones, abriu uma teleconferência com investidores na terça-feira (18) afirmando que a empresa não recontrataria o cofundador J",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Inflação na Zona do Euro sobe para 4% ao ano em outubro",
-      "link": "https://www.poder360.com.br/poder-internacional/inflacao-na-zona-do-euro-sobe-para-4-ao-ano-em-outubro/",
-      "date": "2026-11-18T10:50:33.000Z",
-      "summary": "Preços sobem pelo 3º mês seguido, impulsionados por energia; Romênia, Lituânia e Bulgária registram maiores taxas",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Cid Gomes promete relatório do novo Desenrola para início de dezembro",
-      "link": "https://www.camara.leg.br/noticias/1320466-cid-gomes-promete-relatorio-do-novo-desenrola-para-inicio-de-dezembro",
-      "date": "2026-11-18T10:49:00.000Z",
-      "summary": "Comissão mista que analisa a medida provisória foi instalada nesta terça-feira",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Nikolas ameaça deixar PL se partido apoiar Hugo Motta",
-      "link": "https://www.poder360.com.br/poder-congresso/nikolas-ameaca-deixar-pl-se-partido-apoiar-hugo-motta/",
-      "date": "2026-11-18T10:40:25.000Z",
-      "summary": "Deputado diz que permanência na sigla seria “insustentável” caso legenda declare apoio à reeleição do presidente da Câmara",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Análise: Por que Alcolumbre pressiona Moraes pelo julgamento da Lei da Dosimetria?",
       "link": "https://g1.globo.com/politica/blog/julia-duailibi/post/2026/11/18/analise-alcolumbre-moraes-dosimetria.ghtml",
       "date": "2026-11-18T10:38:51.000Z",
@@ -316,24 +442,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Fazenda de SP demite ex-corregedor fiscal pego com R$ 330 mil e R$ 2 milhões em moedas digitais",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/fazenda-de-sp-demite-ex-corregedor-fiscal-pego-com-r-330-mil-e-r-2-milhoes-em-moedas-digitais/",
-      "date": "2026-11-18T10:26:39.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "CBF projeta perda de mais de R$ 2 bi até 2030 com proibição de bets",
-      "link": "https://www.poder360.com.br/poder-sportsmkt/cbf-projeta-perda-de-mais-de-r-2-bi-ate-2030-com-proibicao-de-bets/",
-      "date": "2026-11-18T10:12:42.000Z",
-      "summary": "Confederação estima impacto de R$ 420 milhões em 2027, equivalente a 16% do orçamento projetado para o ano",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Ucrânia, tarifas e Irã devem pautar encontro inédito entre Trump, Xi e Putin",
       "link": "https://www.dw.com/pt-br/ucrânia-tarifas-e-irã-devem-pautar-encontro-inédito-entre-trump-xi-e-putin/a-79975529?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-18T09:25:00.000Z",
@@ -348,24 +456,6 @@
       "date": "2026-11-18T09:00:00.000Z",
       "summary": "A possibilidade de Erika Hilton (PSOL) migrar para o PT e se colocar como candidata à Prefeitura de São Paulo antecipou o debate interno sobre a eleição municipal de 2028. Leia mais (11/18/2026 - 06h00)",
       "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Os filhos que lutam na Justiça para apagar nomes de pais ausentes ou abusivos dos documentos: 'Só quero por um ponto final nesta história'",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/18/os-filhos-que-lutam-na-justica-para-apagar-nomes-de-pais-ausentes-ou-abusivos-dos-documentos-so-quero-por-um-ponto-final-nesta-historia.ghtml",
-      "date": "2026-11-18T08:41:07.000Z",
-      "summary": "Marcello Casal Jr/Agência Brasil Aos 30 anos, a catarinense Isabella Pertsch decidiu recorrer à Justiça para tentar apagar dos seus documentos um registro de alguém que ela considera que nunca representou cuidado, presença ou carinho para ela. Isabella não que",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Governo Lula usa sigilo mais do que gestão Bolsonaro para negar pedidos de acesso à informação",
-      "link": "https://www.estadao.com.br/politica/governo-lula-usa-sigilo-mais-do-que-gestao-bolsonaro-para-negar-pedidos-de-acesso-a-informacao/",
-      "date": "2026-11-18T08:30:00.000Z",
-      "summary": "",
-      "source": "Estadão",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -388,66 +478,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Por que empresas têm dificuldade para contratar enquanto trabalhadores rejeitam vagas?",
-      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/18/empresas-dificuldade-contratar-trabalhadores.ghtml",
-      "date": "2026-11-18T06:00:00.000Z",
-      "summary": "O Relatório Mercado de Trabalho 2027, da Gupy, revela um cenário complexo em que salários, benefícios e tecnologia influenciam a conexão entre empresas e candidatos no país. Andrea Piacquadio/Pexels Empresas relatam dificuldades para preencher vagas. Trabalhad",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Tomate, arroz e carne encarecem cesta básica em todas as capitais; veja o valor e quanto subiu",
-      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/18/tomate-arroz-e-carne-encarecem-cesta-basica-em-todas-as-capitais-veja-o-valor-e-quanto-subiu.ghtml",
-      "date": "2026-11-18T06:00:00.000Z",
-      "summary": "Por que o preço do tomate disparou 90% este ano? Tomate, arroz e carne bovina de primeira foram os principais produtos responsáveis pela alta da cesta básica nas 27 capitais do país em outubro, mostra um relatório do Departamento Intersindical de Estatística e",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Câmara aprova R$ 6,5 bi em crédito a empresas atingidas por tarifaço de Trump e guerras",
       "link": "https://www.estadao.com.br/economia/camara-aprova-r-65-bi-em-credito-a-empresas-atingidas-por-tarifaco-de-trump-e-guerras/",
       "date": "2026-11-18T02:06:12.000Z",
       "summary": "",
       "source": "Estadão",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Lula gasta R$ 133 mi na eleição e Flávio, R$ 115 mi; marketing, redes sociais e viagens lideram despesas",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/lula-gasta-r-133-mi-na-eleicao-e-flavio-r-115-mi-marketing-redes-sociais-e-viagens-lideram-despesas.shtml",
-      "date": "2026-11-18T02:00:00.000Z",
-      "summary": "A campanha vitoriosa do presidente Lula (PT) à reeleição recebeu e gastou mais do que a do senador Flávio Bolsonaro (PL), segundo balanço final do TSE (Tribunal Superior Eleitoral). Os dois candidatos, que se enfrentaram no segundo turno, registraram os maiore",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "O cônsul, o cardeal e a tigrada",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2026/11/o-consul-o-cardeal-e-a-tigrada.shtml",
-      "date": "2026-11-18T02:00:00.000Z",
-      "summary": "Em outubro de 1976 o surto terrorista havia sido dominado, a última guerrilheira do Araguaia havia sido capturada e assassinada. O general Ednardo d'Ávila Melo havia sido demitido do comando da guarnição de São Paulo, e no seu lugar estava o colega Dilermando ",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Moraes arquiva processo contra o ex-deputado Daniel Silveira por descumprir medidas cautelares",
-      "link": "https://www.estadao.com.br/politica/moraes-arquiva-processo-contra-o-ex-deputado-daniel-silveira-por-descumprir-decisao-judicial-nprp/",
-      "date": "2026-11-18T01:28:18.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "CNJ forma maioria para rejeitar presença da OAB em correição de precatórios",
-      "link": "https://www.estadao.com.br/politica/cnj-formou-maioria-para-rejeitar-presenca-da-oab-em-correicao-de-precatorios-nprp/",
-      "date": "2026-11-18T01:05:29.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -464,42 +500,6 @@
       "link": "https://www12.senado.leg.br/noticias/materias/2026/11/17/teresa-leitao-defende-conclusao-da-votacao-de-projeto-do-ajuste-fiscal",
       "date": "2026-11-17T22:40:32.000Z",
       "summary": "A senadora Teresa Leitão (PT-PE), em pronunciamento no Plenário nesta terça-feira (17), defendeu a conclusão da votação do projeto de lei complementar que estabelece medidas para o equilíbrio das contas públicas (PLP 299/2026). O texto-base da proposta já foi ",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Marcelo Castro defende fim da reeleição para cargos executivos",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/17/marcelo-castro-defende-fim-da-reeleicao-para-cargos-executivos",
-      "date": "2026-11-17T22:33:58.000Z",
-      "summary": "O senador Marcelo Castro (MDB-PI), em pronunciamento no Plenário nesta terça-feira (17), defendeu a aprovação da proposta de emenda à Constituição que acaba com a reeleição para presidente da República, governadores e prefeitos (PEC 12/2022). Relator da matéri",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Câmara aprova prêmio para iniciativas em superdotação e dupla excepcionalidade",
-      "link": "https://www.camara.leg.br/noticias/1320407-camara-aprova-premio-para-iniciativas-em-superdotacao-e-dupla-excepcionalidade",
-      "date": "2026-11-17T22:07:00.000Z",
-      "summary": "Resolução prevê homenagem a pessoas jurídicas que contribuam para o atendimento educacional desse público",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Relator admite atenuantes nas penas de jovens de 16 e 17 anos em caso de crimes violentos",
-      "link": "https://www.camara.leg.br/noticias/1320433-relator-admite-atenuantes-nas-penas-de-jovens-de-16-e-17-anos-em-caso-de-crimes-violentos",
-      "date": "2026-11-17T22:06:00.000Z",
-      "summary": "Mendonça Filho pretende apresentar o relatório na primeira semana de dezembro",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Esperidião Amin homenageia sobrevivente de Hiroshima e Nagasaki",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/17/esperidiao-amin-homenageia-sobrevivente-de-hiroshima-e-nagasaki",
-      "date": "2026-11-17T22:04:19.000Z",
-      "summary": "O senador Esperidião Amin (PP-SC), em pronunciamento no Plenário nesta terça-feira (17), homenageou Wataru Ogawa, sobrevivente dos bombardeios de Hiroshima e Nagasaki que morreu nesta terça, aos 97 anos, em Frei Rogério (SC). O parlamentar ressaltou a trajetór",
       "source": "Agência Senado",
       "cat": "politica",
       "type": "oficial"
@@ -523,15 +523,6 @@
       "type": "oficial"
     },
     {
-      "title": "Votação do projeto de ajuste fiscal no Senado fica para esta quarta-feira",
-      "link": "https://www.camara.leg.br/noticias/1320416-votacao-do-projeto-de-ajuste-fiscal-no-senado-fica-para-esta-quarta-feira",
-      "date": "2026-11-17T21:30:00.000Z",
-      "summary": "Deputados discutiram o tema na sessão de hoje do Plenário",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
       "title": "O que explica a explosão da inadimplência no agronegócio?",
       "link": "https://www.dw.com/pt-br/o-que-explica-a-explosão-da-inadimplência-no-agronegócio/a-79975178?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-17T21:22:00.000Z",
@@ -541,21 +532,21 @@
       "type": "imprensa"
     },
     {
-      "title": "Câmara aprova reconhecimento da romaria do Divino Pai Eterno como cultura nacional",
-      "link": "https://www.camara.leg.br/noticias/1320358-camara-aprova-reconhecimento-da-romaria-do-divino-pai-eterno-como-cultura-nacional",
-      "date": "2026-11-17T20:55:00.000Z",
-      "summary": "Festa reúne milhões de romeiros anualmente em Trindade, em Goiás",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
       "title": "O 'exército das avós': os números que mostram as responsáveis pelo pico de comparecimento nas eleições",
       "link": "https://www.bbc.com/portuguese/articles/cm9w9lyvv1exo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-17T20:07:30.000Z",
       "summary": "Dados do TSE confirmam agora que os vídeos não eram apenas 'virais' das redes sociais. Foram os idosos - e especialmente as idosas - que mais fizeram o esforço de votar entre o primeiro e o segundo turno, fazendo a abstenção ter a maior queda entre turnos desd",
       "source": "BBC News Brasil",
       "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Tarcísio decide manter Roberto Carneiro como substituto de Kassab na articulação política",
+      "link": "https://www.estadao.com.br/politica/tarcisio-decide-manter-roberto-carneiro-como-substituto-de-kassab-na-articulacao-politica/",
+      "date": "2026-11-17T20:05:51.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -676,15 +667,6 @@
       "type": "oficial"
     },
     {
-      "title": "BC divulga Relatório de Poupança de outubro",
-      "link": "https://www.bcb.gov.br/detalhenoticia/21315/nota",
-      "date": "2026-11-11T12:00:19.000Z",
-      "summary": "",
-      "source": "Banco Central",
-      "cat": "economia",
-      "type": "oficial"
-    },
-    {
       "title": "'Não falei com Lula. Isso foi plantado para queimar alguém que defendeu a proposta', diz André Lara Resende",
       "link": "https://www.bbc.com/portuguese/articles/cmly0jeq2q9no?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-05T23:19:37.000Z",
@@ -696,7 +678,6 @@
   ],
   "errors": [
     "feed CNN Brasil: HTTP 404",
-    "feed CNN Brasil: HTTP 404",
-    "feed Planalto (governo): HTTP 429"
+    "feed CNN Brasil: HTTP 404"
   ]
 }
