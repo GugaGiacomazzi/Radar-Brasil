@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-18T01:02:18.881Z",
+  "updated": "2026-11-18T02:24:31.325Z",
   "market": {
     "ibov": {
       "price": 169816.64,
       "pct": 0.31,
-      "time": "2026-11-18T01:02:12.623Z",
+      "time": "2026-11-18T02:24:25.043Z",
       "history": [
         {
           "d": "2026-10-19",
@@ -145,20 +145,146 @@
   },
   "news": [
     {
-      "title": "CEO da Amazon diz que EUA precisam construir data centers para não serem superados pela China em IA",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/ceo-da-amazon-diz-que-eua-precisam-construir-data-centers-para-nao-serem-superados-pela-china-em-ia.shtml",
-      "date": "2026-11-18T00:45:00.000Z",
-      "summary": "O CEO da Amazon, Andy Jassy, afirmou nesta terça-feira (17) que os Estados Unidos precisam continuar a construir data centers, senão serão ultrapassados pela China na disputa pela primazia na inteligência artificial. Leia mais (11/17/2026 - 21h45)",
+      "title": "Projeto da base de Lula propõe taxar dividendos em até 25%",
+      "link": "https://www.poder360.com.br/poder-congresso/projeto-da-base-de-lula-propoe-taxar-dividendos-em-ate-25/",
+      "date": "2026-11-18T02:17:02.000Z",
+      "summary": "Texto de deputados do PT, Psol e PC do B isenta valores de até R$ 5.000 e estabelece alíquotas progressivas",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "UNE protesta contra ajuste fiscal, mas reafirma apoio a Lula",
+      "link": "https://www.poder360.com.br/poder-brasil/une-protesta-contra-ajuste-fiscal-mas-reafirma-apoio-a-lula/",
+      "date": "2026-11-18T02:08:31.000Z",
+      "summary": "Presidente da UNE diz que ato busca pressionar governo a ampliar investimentos em saúde e educação; manifestação foi realizada na Faria Lima, em São Paulo",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lula gasta R$ 133 mi na eleição e Flávio, R$ 115 mi; marketing, redes sociais e viagens lideram despesas",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/lula-gasta-r-133-mi-na-eleicao-e-flavio-r-115-mi-marketing-redes-sociais-e-viagens-lideram-despesas.shtml",
+      "date": "2026-11-18T02:00:00.000Z",
+      "summary": "A campanha vitoriosa do presidente Lula (PT) à reeleição recebeu e gastou mais do que a do senador Flávio Bolsonaro (PL), segundo balanço final do TSE (Tribunal Superior Eleitoral). Os dois candidatos, que se enfrentaram no segundo turno, registraram os maiore",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "O cônsul, o cardeal e a tigrada",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2026/11/o-consul-o-cardeal-e-a-tigrada.shtml",
+      "date": "2026-11-18T02:00:00.000Z",
+      "summary": "Em outubro de 1976 o surto terrorista havia sido dominado, a última guerrilheira do Araguaia havia sido capturada e assassinada. O general Ednardo d'Ávila Melo havia sido demitido do comando da guarnição de São Paulo, e no seu lugar estava o colega Dilermando ",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Símbolo africano no STF é sinalização de Fachin contra racismo no Judiciário, diz fundador de instituto",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/simbolo-africano-no-stf-e-sinalizacao-de-fachin-contra-racismo-no-judiciario-diz-fundador-de-instituto.shtml",
+      "date": "2026-11-18T02:00:00.000Z",
+      "summary": "Para o advogado Hédio Silva Júnior, fundador do Idafro (Instituto de Defesa dos Direitos das Religiões Afro-brasileiras), o STF (Supremo Tribunal Federal) deu passo importante ao instalar na corte um símbolo africano da Justiça, ação que, na opinião de Hédio, ",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Vorcaro vivia rotina de luxo enquanto buscava dinheiro para fechar contas do Master",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/vorcaro-vivia-rotina-de-luxo-enquanto-buscava-dinheiro-para-fechar-contas-do-master.shtml",
+      "date": "2026-11-18T02:00:00.000Z",
+      "summary": "No início de julho de 2025, Daniel Vorcaro e a então noiva, Martha Graeff, estavam em um iate entre as cidades italianas de Nápoles e Capri. A rotina contrastava com a situação do Banco Master, que enfrentava dificuldade diária de fechar as contas. Leia mais (",
       "source": "Folha",
       "cat": "economia",
       "type": "imprensa"
     },
     {
-      "title": "Moretti e Lindbergh fazem as pazes após atritos por causa de ajuste fiscal e posam juntos para foto",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/moretti-e-lindbergh-fazem-as-pazes-apos-atritos-por-causa-de-ajuste-fiscal-e-posam-juntos-para-foto.shtml",
-      "date": "2026-11-18T00:42:00.000Z",
-      "summary": "O ministro do Planejamento e Orçamento, Bruno Moretti, e o deputado federal Lindbergh Farias (PT-RJ) fizeram as pazes e posaram abraçados para fotos durante reunião do partido que selou o apoio dos petistas à proposta de ajuste fiscal defendida pelo governo Lu",
+      "title": "Veja cronologia do caso Master, da negociação com o BRB ao indiciamento de Vorcaro",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/veja-cronologia-do-caso-master-da-negociacao-com-o-brb-ao-indiciamento-de-vorcaro.shtml",
+      "date": "2026-11-18T02:00:00.000Z",
+      "summary": "Das negociações para compra de ativos pelo BRB (Banco de Brasília) até o indiciamento de Daniel Vorcaro pela Polícia Federal, relembre os principais momentos do caso do Banco Master, cuja liquidação pelo Banco Central completa um ano nesta quarta-feira (18). L",
       "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Um ano após liquidação, entenda o caso do Banco Master",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/um-ano-apos-liquidacao-entenda-o-caso-do-banco-master.shtml",
+      "date": "2026-11-18T02:00:00.000Z",
+      "summary": "Em 18 de novembro de 2025, o Banco Central decretou a liquidação extrajudicial do Banco Master, controlado pelo empresário Daniel Vorcaro -hoje, preso. Leia mais (11/17/2026 - 23h00)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Senado aprova crédito de até R$ 13,5 bi a empresas afetadas por tarifaço de Trump e guerras",
+      "link": "https://www.estadao.com.br/economia/senado-aprova-credito-de-ate-r-135-bi-a-empresas-afetadas-por-tarifaco-de-trump-e-guerras/",
+      "date": "2026-11-18T01:44:18.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Moraes arquiva processo contra o ex-deputado Daniel Silveira por descumprir medidas cautelares",
+      "link": "https://www.estadao.com.br/politica/moraes-arquiva-processo-contra-o-ex-deputado-daniel-silveira-por-descumprir-decisao-judicial-nprp/",
+      "date": "2026-11-18T01:28:18.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "BC anuncia leilões de linha no total de US$1 bilhão para quarta-feira (18)",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/10/25/6568-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post468058",
+      "date": "2026-11-18T01:20:00.000Z",
+      "summary": "O Banco Central realizará nesta quarta-feira (18) dois leilões de venda de dólares com compromisso de recompra no valor total de até US$ 1 bilhão, segundo comunicado divulgado pela autarquia nesta terça-feira (17). Leia mais (11/17/2026 - 22h20)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Bispo Edir Macedo coloca R$ 1,7 bi para capitalizar o Banco Digimais",
+      "link": "https://www.estadao.com.br/economia/negocios/bispo-edir-macedo-coloca-r-17-bi-para-capitalizar-o-banco-digimais/",
+      "date": "2026-11-18T01:14:54.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "CNJ forma maioria para rejeitar presença da OAB em correição de precatórios",
+      "link": "https://www.estadao.com.br/politica/cnj-formou-maioria-para-rejeitar-presenca-da-oab-em-correicao-de-precatorios-nprp/",
+      "date": "2026-11-18T01:05:29.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Moraes é alvo de pressão e indica a parlamentares que vai liberar ação que reduz pena de Bolsonaro",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/moraes-e-alvo-de-pressao-e-indica-a-parlamentares-que-vai-liberar-acao-que-reduz-pena-de-bolsonaro.shtml",
+      "date": "2026-11-18T01:01:00.000Z",
+      "summary": "O ministro Alexandre de Moraes, do STF (Supremo Tribunal Federal), indicou a parlamentares que vai liberar para julgamento a ação que pode diminuir a pena do ex-presidente Jair Bolsonaro (PL) e dos demais condenados pela trama golpista e pelos ataques de 8 de ",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "A empresa que entrar em 2027 sabendo exatamente quanto fôlego tem vai negociar em posição de força",
+      "link": "https://www.estadao.com.br/economia/negocios/a-empresa-que-entrar-em-2027-sabendo-exatamente-quanto-folego-tem-vai-negociar-em-posicao-de-forca/",
+      "date": "2026-11-18T01:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Após tentativa de compra da Amil, Advent e Bain avaliam ativos da Hapvida",
+      "link": "https://www.estadao.com.br/economia/coluna-da-broad/apos-tentativa-de-compra-da-amil-advent-e-bain-avaliam-ativos-da-hapvida/",
+      "date": "2026-11-18T01:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
       "cat": "economia",
       "type": "imprensa"
     },
@@ -172,39 +298,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Goldman Sachs rebaixa o Brasil para ‘neutro’ na Bolsa e coloca incerteza fiscal como principal risco",
-      "link": "https://www.estadao.com.br/economia/goldman-sachs-rebaixa-o-brasil-para-neutro-na-bolsa-e-coloca-incerteza-fiscal-como-principal-risco/",
-      "date": "2026-11-18T00:24:52.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Ato na Faria Lima contra o ajuste fiscal termina em confronto com a PM",
       "link": "https://www.poder360.com.br/poder-seguranca-publica/ato-na-faria-lima-contra-o-ajuste-fiscal-termina-em-confronto-com-a-pm/",
       "date": "2026-11-18T00:18:15.000Z",
       "summary": "Protesto com o lema “O mercado não manda no Brasil” durou menos de uma hora na capital paulista; parte dos manifestantes queimou bandeiras de Israel e dos Estados Unidos",
       "source": "Poder360",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Senado aprova crédito de até R$ 13,5 bi para empresas afetadas por tarifaços dos EUA",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/senado-aprova-credito-de-ate-r-135-bi-para-empresas-afetadas-por-tarifacos-dos-eua.shtml",
-      "date": "2026-11-18T00:17:00.000Z",
-      "summary": "O Senado aprovou nesta terça-feira (17) a MP (medida provisória) que libera até R$ 13,5 bilhões em crédito para empresas afetadas pelo tarifaço de 25% imposto pelo governo do presidente dos Estados Unidos, Donald Trump, sobre produtos brasileiros. Leia mais (1",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Líder do governo no congresso, Randolfe Rodrigues apresenta projeto para taxar big techs em 3%",
-      "link": "https://www.estadao.com.br/economia/lider-do-governo-no-congresso-randolfe-rodrigues-apresenta-projeto-para-taxar-big-techs-em-3/",
-      "date": "2026-11-18T00:14:15.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -217,82 +316,10 @@
       "type": "imprensa"
     },
     {
-      "title": "Em meio a racha na esquerda, líder do governo diz que PT votará unificado por ajuste fiscal",
-      "link": "https://www.estadao.com.br/economia/em-meio-a-racha-na-esquerda-lider-do-governo-diz-que-pt-votara-unificado-por-ajuste-fiscal/",
-      "date": "2026-11-17T23:52:51.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "GM anuncia plano de demissão voluntária e oferece Onix e 24 meses de convênio médico",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/plano-de-demissao-voluntaria-da-gm-envolve-onix-e-24-meses-de-convenio-medico.shtml",
-      "date": "2026-11-17T23:44:00.000Z",
-      "summary": "A GM (General Motors), dona da marca Chevrolet, apresentou uma proposta de PDV (Plano de Demissão Voluntária) para funcionários da unidade fabril em São José dos Campos (86 km de São Paulo). A proposta, aceita pelos metalúrgicos da unidade, inclui bônus como s",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "STF instala na corte escultura de Oxê de Xangô, símbolo de justiça em religiões de matriz africana",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/stf-instala-na-corte-escultura-de-oxe-de-xango-simbolo-de-justica-em-religioes-de-matriz-africana.shtml",
-      "date": "2026-11-17T23:36:00.000Z",
-      "summary": "O STF (Supremo Tribunal Federal) inaugurou nesta terça-feira (17) a instalação de uma escultura de Oxê de Xangô no Salão Nobre da corte. A estátua representa um símbolo de justiça em religiões de matriz africana e na tradição iorubá. Leia mais (11/17/2026 - 20",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Aliados de Motta veem isolamento do PL com candidatura própria",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/aliados-de-motta-veem-isolamento-do-pl-com-candidatura-propria.shtml",
-      "date": "2026-11-17T23:30:00.000Z",
-      "summary": "Aliados do presidente da Câmara, Hugo Motta (Republicanos-PB), afirmam que o PL vai se isolar ainda mais com o lançamento de candidatura própria à presidência da Câmara. Leia mais (11/17/2026 - 20h30)",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Jader e Helder Barbalho pedem ao STJ criação de novas seções para o TRF-1",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/jader-e-helder-barbalho-pedem-ao-stj-criacao-de-novas-secoes-para-o-trf-1.shtml",
-      "date": "2026-11-17T23:21:00.000Z",
-      "summary": "O senador Jader Barbalho (MDB-PA) e o senador eleito Helder Barbalho (MDB-PA) entregaram ao presidente do STJ, Luis Felipe Salomão, nesta terça-feira (17), uma sugestão de anteprojeto que cria seções descentralizadas do Tribunal Regional Federal da 1ª Região e",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Tarcísio mantém dirigente do Republicanos na articulação política e confirma outros 4 secretários",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/tarcisio-mantem-dirigente-do-republicanos-na-articulacao-politica-e-confirma-outros-4-secretarios.shtml",
-      "date": "2026-11-17T23:14:00.000Z",
-      "summary": "O governador Tarcísio de Freitas (Republicanos) anunciou, nesta terça-feira (17), a permanência de Roberto Carneiro, presidente estadual de seu partido, como secretário de Governo e Relações Institucionais, em uma iniciativa que busca evitar, no próximo mandat",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "O que a Comissão Antimáfia da Itália veio ver no Brasil e o que o Congresso pode aprender com ela",
-      "link": "https://www.estadao.com.br/politica/marcelo-godoy/o-que-a-comissao-antimafia-da-italia-veio-ver-no-brasil-e-o-que-o-congresso-pode-aprender-com-ela/",
-      "date": "2026-11-17T23:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Governo recusou proposta de R$ 75 bi no ajuste fiscal, diz Marinho",
       "link": "https://www.poder360.com.br/poder-congresso/governo-recusou-proposta-de-r-75-bi-no-ajuste-fiscal-diz-marinho/",
       "date": "2026-11-17T22:42:06.000Z",
       "summary": "Segundo o senador, a contraproposta da oposição combina 3 fontes de espaço fiscal; votação dos destaques do projeto foi adiada para 4ª feira (18.nov)",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Lula se reúne com aliados para discutir composição da Esplanada",
-      "link": "https://www.poder360.com.br/poder-governo/lula-se-reune-com-aliados-para-discutir-composicao-da-esplanada/",
-      "date": "2026-11-17T22:41:00.000Z",
-      "summary": "Camilo Santana, Edinho Silva, Rafael Fonteles e Rui Costa se encontram com o presidente no Palácio da Alvorada nesta 3ª feira",
       "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
@@ -314,15 +341,6 @@
       "source": "Agência Senado",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Justiça deve examinar a verdade por inteiro, diz Fachin",
-      "link": "https://www.poder360.com.br/poder-justica/justica-deve-examinar-a-verdade-por-inteiro-diz-fachin/",
-      "date": "2026-11-17T22:30:40.000Z",
-      "summary": "Presidente do STF participou de inauguração de escultura de Oxê Xangô e recebe na 4ª feira relatórios sobre ministros e Master",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
     },
     {
       "title": "Fachin diz que STF julgará ainda neste ano lei que pode reduzir penas de Bolsonaro e aliados se Moraes liberar ações",
@@ -442,15 +460,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Ipso/Ipec: 45% dos brasileiros aprovam Moraes ter pedido passaporte de Flávio; 44% são contra",
-      "link": "https://www.estadao.com.br/politica/ipsoipec-45-dos-brasileiros-aprovam-moraes-por-pedir-passaporte-de-flavio-nprp/",
-      "date": "2026-11-17T21:10:28.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Lula quer indicar ministro do STF antes da virada do ano para evitar novo revés no Senado",
       "link": "https://www.estadao.com.br/politica/vera-rosa/lula-quer-indicar-ministro-do-stf-antes-da-virada-do-ano-para-evitar-novo-reves-no-senado/",
       "date": "2026-11-17T21:01:17.000Z",
@@ -494,15 +503,6 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Sem acordo, Senado adia votação do ajuste fiscal em meio a risco de desidratar impacto de R$ 56 bi",
-      "link": "https://www.estadao.com.br/economia/senado-adia-votacao-do-ajuste-fiscal-em-meio-a-risco-de-desidratar-impacto-de-r-56-bi/",
-      "date": "2026-11-17T20:32:28.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
     },
     {
       "title": "O que é o ajuste fiscal que o mercado cobra de Lula? Entenda por que ele desagrada muita gente e divide economistas",
@@ -696,7 +696,6 @@
   ],
   "errors": [
     "feed CNN Brasil: HTTP 404",
-    "feed CNN Brasil: HTTP 404",
-    "feed Planalto (governo): HTTP 429"
+    "feed CNN Brasil: HTTP 404"
   ]
 }
