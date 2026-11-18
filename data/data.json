@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-18T21:50:03.863Z",
+  "updated": "2026-11-18T22:49:12.365Z",
   "market": {
     "ibov": {
       "price": 167537.95,
       "pct": -1.34,
-      "time": "2026-11-18T21:49:48.222Z",
+      "time": "2026-11-18T22:49:07.607Z",
       "history": [
         {
           "d": "2026-10-19",
@@ -149,13 +149,220 @@
   },
   "news": [
     {
-      "title": "ASSISTA: Senado analisa e vota destaques e emendas apresentadas ao texto do ajuste fiscal",
-      "link": "https://g1.globo.com/politica/ao-vivo/senado-pacote-medidas-fiscais.ghtml",
-      "date": "2026-11-18T21:48:16.000Z",
-      "summary": "ASSISTA: Senado analisa e vota destaques e emendas apresentadas ao texto do ajuste fiscal Proposta promove corte de benefícios fiscais e altera cálculo do piso constitucional da saúde. Texto-base foi aprovado por 45 votos a 31 na última quinta-feira (12) O Sen",
+      "title": "Arco Norte e etanol incentivam investimentos no milho, diz banco",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/vaivem/2026/11/arco-norte-e-etanol-incentivam-investimentos-no-milho-diz-banco.shtml",
+      "date": "2026-11-18T22:45:00.000Z",
+      "summary": "A indústria de etanol e a saída pelos portos do Arco Norte continuam dando uma nova dinâmica à cultura do milho. Há uma competição maior pelo grão, os preços se fortalecem nas regiões produtoras e os descontos históricos diminuíram. O consumo doméstico aumenta",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Quem são os sete jovens fundadores da Anthropic que estão prestes a se tornarem multibilionários",
+      "link": "https://www.bbc.com/portuguese/articles/cmn0dykxex82o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-18T22:42:02.000Z",
+      "summary": "A empresa de inteligência artificial por trás do Claude está prestes a vender suas ações na Bolsa dos EUA, tornando seus fundadores muito ricos.",
+      "source": "BBC News Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Especialistas apresentam alertas a favor e contra a redução da maioridade penal",
+      "link": "https://www.camara.leg.br/noticias/1320869-especialistas-apresentam-alertas-a-favor-e-contra-a-reducao-da-maioridade-penal",
+      "date": "2026-11-18T22:40:00.000Z",
+      "summary": "Comissão que analisa a PEC se reuniu nesta quarta-feira",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "PGR denuncia Flávio Bolsonaro por calúnia contra Lula",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/18/pgr-denuncia-flavio-bolsonaro-por-calunia-contra-lula.ghtml",
+      "date": "2026-11-18T22:38:11.000Z",
+      "summary": "Presidente reeleito Lula e o candidato derrotado Flávio Bolsonaro Paulo Pinto e Joédson Alves/Agencia Brasil A Procuradoria-Geral da República (PGR) denunciou o senador Flávio Bolsonaro (PL-RJ) por calúnia contra o presidente Luiz Inácio Lula da Silva (PT). Em",
       "source": "g1",
       "cat": "politica",
       "type": "imprensa"
+    },
+    {
+      "title": "Ibovespa cai 1,34% e fecha aos 168 mil pontos com incerteza fiscal",
+      "link": "https://www.poder360.com.br/poder-economia/ibovespa-cai-134-e-fecha-aos-168-mil-pontos-com-incerteza-fiscal/",
+      "date": "2026-11-18T22:35:30.000Z",
+      "summary": "Dúvidas sobre o ajuste das contas públicas e a política econômica de 2027 pressionaram a Bolsa; dólar atingiu R$ 5,87",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Diretor-geral da PF entrega relatórios sobre citações a ministros do STF no celular de Vorcaro",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/diretor-geral-da-pf-entrega-relatorios-sobre-citacoes-a-ministros-do-stf-no-celular-de-vorcaro/",
+      "date": "2026-11-18T22:31:06.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Moro anuncia ex-procurador da Lava Jato para comandar futura secretaria Anticorrupção no Paraná",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/moro-anuncia-ex-procurador-da-lava-jato-para-comandar-futura-secretaria-anticorrupcao-no-parana.shtml",
+      "date": "2026-11-18T22:31:00.000Z",
+      "summary": "O governador eleito do Paraná, Sergio Moro (PL), anunciou nesta quarta-feira (18) o nome do advogado Carlos Fernando dos Santos Lima como futuro secretário Anticorrupção. Ele é procurador da República aposentado e ficou conhecido pela atuação na Operação Lava ",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Andrei se reúne com Fachin para entregar relatórios sobre ministros citados em mensagens de Vorcaro",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/18/andrei-fachin-relatorios-ministros-mensagens-vorcaro.ghtml",
+      "date": "2026-11-18T22:26:55.000Z",
+      "summary": "O diretor-geral da Polícia Federal, Andrei Rodrigues, se reúne na noite desta quarta-feira (18) com o presidente do Supremo Tribunal federal (STF), ministro Edson Fachin, para entregar o relatório citando todos os ministros do tribunal mencionados ou que troca",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "A febre do dólar expõe a infecção que ameaça a economia brasileira",
+      "link": "https://www.estadao.com.br/economia/celso-ming/a-febre-do-dolar-expoe-a-infeccao-que-ameaca-a-economia-brasileira/",
+      "date": "2026-11-18T22:25:04.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Senado faz acordo sobre Lei Kandir e aprova ajuste fiscal de Lula",
+      "link": "https://www.poder360.com.br/poder-congresso/senado-faz-acordo-sobre-lei-kandir-e-aprova-ajuste-fiscal-de-lula/",
+      "date": "2026-11-18T22:24:51.000Z",
+      "summary": "Oposição tentou derrubar medidas sobre créditos tributários, limite de gastos e compensações previdenciárias; texto vai à Câmara",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Chinesa Jetour terá fábrica de R$ 400 milhões no RJ e montagem na Colômbia",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/chinesa-jetour-tera-fabrica-de-r-400-milhoes-no-rj-e-montagem-na-colombia.shtml",
+      "date": "2026-11-18T22:15:00.000Z",
+      "summary": "A chinesa Jetour anunciou nesta quarta-feira (18) investimento de R$ 400 milhões na produção de veículos eletrificados em fábrica no Rio de Janeiro. Leia mais (11/18/2026 - 19h15)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Jetour produzirá T1 e T2 no RJ, mas não confirma compra de fábrica da Land Rover",
+      "link": "https://www.estadao.com.br/jornal-do-carro/jetour-produzira-t1-e-t2-no-rj-mas-nao-confirma-compra-de-fabrica-da-land-rover/",
+      "date": "2026-11-18T22:15:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Senado aprova texto final do ajuste fiscal; proposta segue para Câmara",
+      "link": "https://g1.globo.com/politica/ao-vivo/senado-pacote-medidas-fiscais.ghtml",
+      "date": "2026-11-18T22:14:26.000Z",
+      "summary": "Senado aprova texto final do ajuste fiscal; proposta segue para Câmara",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Comissão debate recursos para ampliar castração e proteção de cães e gatos em todo o país",
+      "link": "https://www.camara.leg.br/noticias/1320874-comissao-debate-recursos-para-ampliar-castracao-e-protecao-de-caes-e-gatos-em-todo-o-pais",
+      "date": "2026-11-18T22:09:00.000Z",
+      "summary": "",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "EUA e Venezuela assinam acordo de cooperação militar",
+      "link": "https://www.poder360.com.br/poder-internacional/eua-e-venezuela-assinam-acordo-de-cooperacao-militar/",
+      "date": "2026-11-18T22:05:29.000Z",
+      "summary": "Presidente interina diz que acordo reforça treinamento e equipamentos para as Forças Armadas venezuelanas",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "EUA e Venezuela assinam acordo de cooperação militar",
+      "link": "https://www.dw.com/pt-br/eua-e-venezuela-assinam-acordo-de-cooperação-militar/a-79986275?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-18T22:03:00.000Z",
+      "summary": "Durante visita surpresa a Caracas, chefe do Pentágono, Pete Hegseth, firma acordo que marca a retomada da parceria em defesa entre os dois países.",
+      "source": "DW Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Mantido por Tarcísio, secretário de Segurança promete priorizar combate à violência contra a mulher",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/mantido-por-tarcisio-secretario-de-seguranca-promete-priorizar-combate-a-violencia-contra-a-mulher.shtml",
+      "date": "2026-11-18T22:00:00.000Z",
+      "summary": "O secretário de Segurança Pública de São Paulo, Osvaldo Nico, afirma que vai priorizar o combate à violência contra a mulher no segundo mandato de Tarcísio de Freitas (Republicanos). Sua manutenção no cargo foi confirmada pelo governador nesta quarta-feira (18",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "99 é alvo de ação por cobrar de motoristas para liberar corridas sem taxas; MPT pede R$ 100 milhões",
+      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/18/99-acao-mpt-taxa-zero.ghtml",
+      "date": "2026-11-18T21:56:30.000Z",
+      "summary": "Motorista de aplicativo Maksim Goncharenok/Pexels O Ministério Público do Trabalho (MPT) entrou na Justiça contra a 99 Tecnologia para pedir a suspensão imediata do programa Taxa Zero, a devolução dos valores pagos por motoristas e o pagamento de uma indenizaç",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Senado conclui votação de ajuste após aceno a governadores para preservar impacto fiscal",
+      "link": "https://www.estadao.com.br/economia/senado-conclui-votacao-de-ajuste-apos-aceno-a-governadores-para-preservar-impacto-fiscal/",
+      "date": "2026-11-18T21:55:42.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Presidente do Paraguai destitui diretor de Itaipu após crise do Ueno Bank",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/presidente-do-paraguai-destitui-diretor-de-itaipu-apos-crise-do-ueno-bank.shtml",
+      "date": "2026-11-18T21:55:00.000Z",
+      "summary": "O presidente do Paraguai, Pedro Alliana, destituiu nesta quarta-feira (18) o diretor paraguaio da hidrelétrica de Itaipu, compartilhada com o Brasil, por sua atuação na crise bancária que resultou na destituição e prisão do então presidente do país, Santiago P",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "TCU identifica falhas que dificultam avaliar resultados de políticas públicas",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/18/tcu-identifica-falhas-que-dificultam-avaliar-resultados-de-politicas-publicas",
+      "date": "2026-11-18T21:53:58.000Z",
+      "summary": "O Tribunal de Contas da União (TCU) apresentou nesta quarta-feira (18) à Comissão Mista de Orçamento (CMO) o Relatório de Fiscalizações em Políticas e Programas de Governo de 2026. Segundo o documento, alguns programas analisados não têm os resultados devidame",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Anthropic precifica ação do IPO em US$ 83, acima do esperado",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/anthropic-precifica-acao-do-ipo-em-us-83.shtml",
+      "date": "2026-11-18T21:48:00.000Z",
+      "summary": "A Anthropic fixou nesta quarta-feira (18) o preço de sua oferta pública inicial de ações (IPO) em US$ 83 por papel, acima da faixa prevista de US$ 70 a US$ 78, em uma das maiores operações do tipo já registradas, disse uma fonte a par do assunto, citando que o",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Morte de Zumbi: luta dos africanos escravizados",
+      "link": "https://www12.senado.leg.br/noticias/infomaterias/2026/11/morte-de-zumbi-luta-dos-africanos-escravizados",
+      "date": "2026-11-18T21:46:03.000Z",
+      "summary": "",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Lançado novo volume da coleção Arquivo S, com reportagens sobre história do país",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/18/lancado-novo-volume-da-colecao-arquivo-s-com-reportagens-sobre-historia-do-pais",
+      "date": "2026-11-18T21:44:38.000Z",
+      "summary": "O Senado lançou nesta quarta-feira (18) o 11º volume da coleção Arquivo S — O Senado na História do Brasil, produzida pela Agência Senado. Transmitido ao vivo no programa Leituras, da TV Senado, o lançamento contou com a participação do jornalista Ricardo West",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
     },
     {
       "title": "Novo lança Paulo Martins na disputa pela presidência da Câmara contra Motta",
@@ -167,75 +374,21 @@
       "type": "imprensa"
     },
     {
+      "title": "STJ torna réus magistrados do Maranhão suspeitos de vender sentenças",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/stj-torna-reus-magistrados-do-maranhao-suspeitos-de-vender-sentencas/",
+      "date": "2026-11-18T21:37:43.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "Multiplan inaugura expansão de R$ 320 mi no ParkShopping, em Brasília",
       "link": "https://www.poder360.com.br/poder-economia/multiplan-inaugura-expansao-de-r-320-mi-no-parkshopping-em-brasilia/",
       "date": "2026-11-18T21:34:08.000Z",
       "summary": "Ampliação acrescenta quase 9.000 m² de área locável e 60 operações ao empreendimento na capital federal; empresa conclui ciclo de quase R$ 2 bilhões em investimentos",
       "source": "Poder360",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Multiplan entra em compasso de espera diante de incertezas, diz CEO",
-      "link": "https://www.poder360.com.br/poder-economia/multiplan-entra-em-compasso-de-espera-diante-de-incertezas-diz-ceo/",
-      "date": "2026-11-18T21:32:19.000Z",
-      "summary": "Eduardo Peres diz que depois de 7 expansões em 3 anos, empresa priorizará a consolidação dos empreendimentos e aguardará sinais sobre o consumo e os rumos da economia para definir novos investimentos",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Caldeira explode em fábrica da Klabin em SC e dez trabalhadores são hospitalizados",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/caldeira-explode-em-fabrica-da-klabin-em-sc-e-dez-trabalhadores-sao-hospitalizados.shtml",
-      "date": "2026-11-18T21:32:00.000Z",
-      "summary": "A explosão de uma caldeira levou pelo menos dez trabalhadores da Klabin em Otacílio Costa (SC) a serem hospitalizados nesta quarta-feira (18), segundo informações do Corpo de Bombeiros e da companhia. Leia mais (11/18/2026 - 18h32)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Em audiência, chefe da PF e ministro negam interferência em investigações",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/18/em-audiencia-chefe-da-pf-e-ministro-negam-interferencia-em-investigacoes",
-      "date": "2026-11-18T21:27:56.000Z",
-      "summary": "O ministro da Justiça, Wellington Lima, e o diretor-geral da Polícia Federal, Andrei Rodrigues, afirmaram que não há qualquer tipo de interferência política nos trabalhos da PF. Eles responderam questionamentos de senadores em audiência pública no Senado nesta",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "PGR se manifesta favoravelmente à prorrogação de investigações contra Jaques Wagner no Caso Master",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/pgr-se-manifesta-favoravelmente-a-prorrogacao-de-investigacoes-contra-jaques-wagner-no-caso-master/",
-      "date": "2026-11-18T21:24:33.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Comissão define próximos passos para análise da reforma do Código Civil",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/18/comissao-define-proximos-passos-para-analise-da-reforma-do-codigo-civil",
-      "date": "2026-11-18T21:24:32.000Z",
-      "summary": "A Comissão Temporária para Reforma do Código Civil (CTCivil) discutiu nesta quarta-feira (18) um novo cronograma para a análise do projeto (PL 4/2025). A proposta prevê a entrega dos sub-relatórios temáticos até o fim de janeiro e a votação do relatório final ",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Sigma Lithium tem penhora de direitos minerários ordenada pela Justiça do Trabalho de Minas Gerais",
-      "link": "https://www.estadao.com.br/economia/negocios/sigma-lithium-tem-penhora-de-direitos-minerarios-ordenada-pela-justica-do-trabalho-de-minas-gerais/",
-      "date": "2026-11-18T21:21:37.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Setor nuclear cobra espaço nas metas climáticas da COP31",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/setor-nuclear-cobra-espaco-nas-metas-climaticas-da-cop31.shtml",
-      "date": "2026-11-18T21:16:00.000Z",
-      "summary": "Uma mobilização do setor nuclear está cobrando que a energia atômica tenha espaço nas decisões sobre metas climáticas durante a COP31 (31ª Conferência das Nações Unidas sobre Mudanças Climáticas), que acontece em Antália, na Turquia, até 20 de novembro. Repres",
-      "source": "Folha",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -257,65 +410,11 @@
       "type": "imprensa"
     },
     {
-      "title": "Bastidores: Lula cobra pente-fino nos pedidos de cargos do Centrão para evitar novas traições",
-      "link": "https://www.estadao.com.br/politica/bastidores-lula-cobra-pente-fino-nos-pedidos-de-cargos-do-centrao-para-evitar-novas-traicoes/",
-      "date": "2026-11-18T21:12:14.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Defesa de Zambelli pede ao STF a anulação de condenação por perseguição armada a jornalista",
-      "link": "https://www.estadao.com.br/politica/defesa-de-zambelli-pede-ao-stf-a-anulacao-de-condenacao-por-perseguicao-armada-a-jornalista-nprp/",
-      "date": "2026-11-18T21:11:12.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Ter uma carteira para cada objetivo pode ser um erro?",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/blogs/de-grao-em-grao/2026/11/ter-uma-carteira-para-cada-objetivo-pode-ser-um-erro.shtml",
-      "date": "2026-11-18T21:00:00.000Z",
-      "summary": "Você começou a guardar dinheiro para a faculdade do seu filho e decidiu abrir uma conta de investimentos exclusivamente para isso. Parece uma decisão organizada e responsável. Mas será que separar esse dinheiro do restante do patrimônio é realmente a melhor ma",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Ele largou um trabalho com carteira assinada para jogar GTA 6",
-      "link": "https://www.estadao.com.br/economia/negocios/ele-largou-um-trabalho-com-carteira-assinada-para-jogar-gta-6/",
-      "date": "2026-11-18T21:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Por que o GTA importa: jogo vira fenômeno além dos videogames e impacta indústria da atenção",
-      "link": "https://www.estadao.com.br/economia/por-que-o-gta-importa-jogo-vira-fenomeno-alem-dos-videogames-e-impacta-industria-da-atencao/",
-      "date": "2026-11-18T21:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "TCU identifica falhas no monitoramento dos resultados das políticas públicas do governo",
       "link": "https://www.camara.leg.br/noticias/1320816-tcu-identifica-falhas-no-monitoramento-dos-resultados-das-politicas-publicas-do-governo",
       "date": "2026-11-18T20:55:00.000Z",
       "summary": "Relatório também aponta desigualdade entre estados e regiões na implementação de programas",
       "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Agro pede menos contingenciamento de recursos no Orçamento de 2027",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/18/agro-pede-menos-contingenciamento-de-recursos-no-orcamento-de-2027",
-      "date": "2026-11-18T20:54:53.000Z",
-      "summary": "O setor agropecuário apresentou, por meio de parlamentares, cerca de R$ 1 bilhão em emendas ao projeto de lei orçamentária de 2027 (PLN 24/2026). O dado foi revelado pela assessora da Confederação da Agricultura e Pecuária do Brasil (CNA) Isabel Mendes de Fari",
-      "source": "Agência Senado",
       "cat": "politica",
       "type": "oficial"
     },
@@ -347,56 +446,11 @@
       "type": "imprensa"
     },
     {
-      "title": "Meta lança Achados, aplicativo que reúne vendas do Facebook e Instagram",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/meta-lanca-achados-aplicativo-que-reune-vendas-do-facebook-e-instagram.shtml",
-      "date": "2026-11-18T20:48:00.000Z",
-      "summary": "A Meta lançou nesta terça-feira (17) no Brasil o Achados, aplicativo que reúne anúncios de produtos novos e usados publicados no Facebook Marketplace, em grupos do Facebook e no Instagram. A ferramenta permite buscar itens por categoria, preço e distância e co",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Eleição para presidente da Câmara causa divisão no PL, e Nikolas ameaça deixar partido",
       "link": "https://g1.globo.com/politica/noticia/2026/11/18/eleicao-para-presidente-da-camara-causa-divisao-no-pl-e-nikolas-ameaca-deixar-partido.ghtml",
       "date": "2026-11-18T20:44:21.000Z",
       "summary": "O presidente da Câmara dos Deputados, Hugo Motta (Republicanos-PB), e o deputado federal Nikolas Ferreira (PL-MG) arte g1/Câmara dos Deputados A disputa pela presidência da Câmara dos Deputados provocou uma divisão no PL entre apoiar a reeleição de Hugo Motta ",
       "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "“Loucura”, diz Valdemar sobre Nikolas na presidência da Câmara",
-      "link": "https://www.poder360.com.br/poder-congresso/loucura-diz-valdemar-sobre-nikolas-na-presidencia-camara/",
-      "date": "2026-11-18T20:42:30.000Z",
-      "summary": "Presidente do PL afirma que deputado de 30 anos não tem idade mínima para assumir o posto na linha sucessória da Presidência da Casa",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "PF investiga vazamento de informações sobre relatórios citando ministros do STF",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/18/pf-investiga-vazamento-de-informacoes-sobre-relatorios-citando-ministros-do-stf.ghtml",
-      "date": "2026-11-18T20:32:59.000Z",
-      "summary": "Andrei Rodrigues explica quebra de confiança com delegados e diz que ordem interna foi descumprida O vazamento de informações sobre relatórios da Polícia Federal (PF) citando ministros do Supremo Tribunal Federal (STF) é alvo de uma investigação dentro da próp",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Câmara aprova projeto que pune político que não colaborar com transição entre governos",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/18/camara-aprova-projeto-que-pune-politico-que-nao-colaborar-com-transicao-entre-governos.ghtml",
-      "date": "2026-11-18T20:25:41.000Z",
-      "summary": "A Câmara dos Deputados aprovou nesta quarta-feira (18) projeto de lei que regulamenta o processo de transição administrativa entre governos — o governo em exercício e um novo governo eleito. As regras valem tanto para o presidente da República, quanto governad",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "O Master e o brasileiro desconfiado",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/maria-herminia-tavares/2026/11/o-master-e-o-brasileiro-desconfiado.shtml",
-      "date": "2026-11-18T20:18:00.000Z",
-      "summary": "Para entender a ascensão da extrema-direita na América Latina é preciso recuar no tempo e considerar o sentimento popular que por aqui pouco se alterou em mais de três décadas de experiência democrática. Eis o recado da economista chilena Marta Lagos aos parti",
-      "source": "Folha",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -410,15 +464,6 @@
       "type": "oficial"
     },
     {
-      "title": "Politizar a reforma do Judiciário",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2026/11/e-preciso-politizar-a-reforma-do-judiciario.shtml",
-      "date": "2026-11-18T20:15:00.000Z",
-      "summary": "Dizem que reformar o Judiciário não é tarefa para qualquer um: \"Não se deve promover uma reforma contra o Poder Judiciário, mas construir reformas com o Poder Judiciário, em diálogo com os demais Poderes, com as funções essenciais à Justiça, com a academia e c",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Câmara dos EUA deverá ter 1º presidente negro após indicação do Partido Democrata",
       "link": "https://www.dw.com/pt-br/câmara-dos-eua-deverá-ter-1º-presidente-negro-após-indicação-do-partido-democrata/a-79986132?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-18T20:13:00.000Z",
@@ -428,24 +473,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Dólar bate R$ 5,87 e segue no maior patamar desde abril de 2025",
-      "link": "https://www.poder360.com.br/poder-economia/dolar-bate-r-586-e-segue-no-maior-patamar-desde-abril-de-2025/",
-      "date": "2026-11-18T20:08:19.000Z",
-      "summary": "Moeda brasileira é pressionada por impasse na votação do pacote fiscal; dólar avançou 1,46% na sessão",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Câmara aprova tratado de assistência penal entre Brasil e Japão",
-      "link": "https://www.camara.leg.br/noticias/1320788-camara-aprova-tratado-de-assistencia-penal-entre-brasil-e-japao",
-      "date": "2026-11-18T20:03:00.000Z",
-      "summary": "Relator afirma que tratado fortalece combate à criminalidade transnacional",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
       "title": "Como a economia verde pode ajudar a reverter as mudanças climáticas",
       "link": "https://www.dw.com/pt-br/como-a-economia-verde-pode-ajudar-a-reverter-as-mudanças-climáticas/a-79983684?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-18T19:56:00.000Z",
@@ -453,15 +480,6 @@
       "source": "DW Brasil",
       "cat": "internacional",
       "type": "imprensa"
-    },
-    {
-      "title": "Câmara analisa tratado de assistência jurídica penal entre Brasil e Japão; acompanhe",
-      "link": "https://www.camara.leg.br/noticias/1320777-camara-analisa-tratado-de-assistencia-juridica-penal-entre-brasil-e-japao-acompanhe",
-      "date": "2026-11-18T19:41:00.000Z",
-      "summary": "",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
     },
     {
       "title": "Banco do Brasil alerta clientes sobre vazamento de dados pessoais; veja o que foi exposto",
@@ -479,6 +497,15 @@
       "summary": "Operação militar causou graves danos à estrutura que liga a península à Rússia. Além de dificultar logística do exército de Moscou, ofensiva prejudica imagem do líder do Kremlin.",
       "source": "DW Brasil",
       "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Andrei justifica afastamento de delegados da PF do caso Master: ‘Houve quebra de confiança’",
+      "link": "https://www.estadao.com.br/politica/andrei-justifica-afastamento-de-delegados-da-pf-do-caso-master-houve-quebra-de-confianca/",
+      "date": "2026-11-18T18:45:33.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -509,29 +536,11 @@
       "type": "oficial"
     },
     {
-      "title": "Quem são os sete jovens fundadores da Anthropic que estão prestes a se tornarem multibilionários",
-      "link": "https://g1.globo.com/inovacao/noticia/2026/11/18/quem-sao-os-sete-jovens-fundadores-da-anthropic-que-estao-prestes-a-se-tornarem-multibilionarios.ghtml",
-      "date": "2026-11-18T17:24:59.000Z",
-      "summary": "Os irmãos Dario e Daniela Amodei fundaram juntos a empresa. David Paul Morris/Bloomberg/Getty Images via BBC Em apenas cinco anos, a Anthropic passou de uma startup desconhecida a uma gigante da tecnologia, avaliada em mais de US$ 1 trilhão. A empresa por trás",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Bunker da 2° Guerra vai a leilão em Berlim",
       "link": "https://www.dw.com/pt-br/bunker-da-2°-guerra-vai-a-leilão-em-berlim/a-79983864?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-18T17:01:00.000Z",
       "summary": "Abrigo subterrâneo de mais de 600 metros fica embaixo de prédio em área nobre da capital alemã e abrigou centenas de pessoas durante a guerra. Lance inicial é de 398 mil euros.",
       "source": "DW Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Quem são os sete jovens fundadores da Anthropic que estão prestes a se tornarem multibilionários",
-      "link": "https://www.bbc.com/portuguese/articles/cmn0dykxex82o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-18T16:53:08.000Z",
-      "summary": "A empresa de inteligência artificial por trás do Claude está prestes a vender suas ações na Bolsa dos EUA, tornando seus fundadores muito ricos.",
-      "source": "BBC News Brasil",
       "cat": "internacional",
       "type": "imprensa"
     },
@@ -595,15 +604,6 @@
       "date": "2026-11-18T10:34:23.000Z",
       "summary": "Em meio aos trabalhos do Congresso sobre a nova constituição em 1988, 'É' se tornou um sucesso instantâneo e um dos maiores êxitos da carreira de Gonzaguinha.",
       "source": "BBC News Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Ucrânia, tarifas e Irã devem pautar encontro inédito entre Trump, Xi e Putin",
-      "link": "https://www.dw.com/pt-br/ucrânia-tarifas-e-irã-devem-pautar-encontro-inédito-entre-trump-xi-e-putin/a-79975529?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-18T09:25:00.000Z",
-      "summary": "Líderes se reúnem pela primeira vez durante cúpula da Apec. Encontro é marcado por diferentes expectativas. Trump chega enfraquecido após eleições nos EUA.",
-      "source": "DW Brasil",
       "cat": "internacional",
       "type": "imprensa"
     },
