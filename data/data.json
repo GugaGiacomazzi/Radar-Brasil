@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-18T12:42:46.288Z",
+  "updated": "2026-11-18T14:14:48.703Z",
   "market": {
     "ibov": {
-      "price": 169816.64,
-      "pct": 0.31,
-      "time": "2026-11-18T12:42:42.176Z",
+      "price": 169781.83,
+      "pct": -0.02,
+      "time": "2026-11-18T14:14:43.146Z",
       "history": [
         {
           "d": "2026-10-19",
@@ -89,6 +89,10 @@
         {
           "d": "2026-11-17",
           "c": 169817
+        },
+        {
+          "d": "2026-11-18",
+          "c": 169793.3438
         }
       ]
     },
@@ -145,20 +149,272 @@
   },
   "news": [
     {
-      "title": "Janones defende ajuste fiscal e critica “acusações irresponsáveis”",
-      "link": "https://www.poder360.com.br/poder-governo/janones-defende-ajuste-fiscal-e-critica-acusacoes-irresponsaveis/",
-      "date": "2026-11-18T12:34:36.000Z",
-      "summary": "Deputado afirma que Lula precisa lidar com o Congresso, restrições orçamentárias e com “forças políticas”",
+      "title": "Diretor da PF Andrei Rodrigues fala hoje ao Senado sobre troca de delegados",
+      "link": "https://g1.globo.com/politica/ao-vivo/diretor-pf-andrei-rodrigues-senado-crise-policia-federal-troca-delegados.ghtml",
+      "date": "2026-11-18T14:08:24.000Z",
+      "summary": "Diretor da PF Andrei Rodrigues fala hoje ao Senado sobre troca de delegados",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Novas regras de Trump para chips de IA preocupam Sudeste Asiático",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/novas-regras-de-trump-para-chips-de-ia-preocupam-sudeste-asiatico.shtml",
+      "date": "2026-11-18T14:08:00.000Z",
+      "summary": "A proposta do governo Trump de restringir o acesso da China a chips avançados de inteligência artificial no exterior provocou apreensão no Sudeste Asiático nesta terça-feira (18). As medidas ameaçam um boom de investimentos em data centers impulsionado por emp",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Conversa com Lula faz Andrei mudar de posição e confirmar presença no Senado",
+      "link": "https://g1.globo.com/politica/blog/gerson-camarotti/post/2026/11/18/conversa-com-lula-faz-andrei-mudar-de-posicao-e-confirmar-presenca-no-senado.ghtml",
+      "date": "2026-11-18T14:02:20.000Z",
+      "summary": "Depois de ter negado que iria nesta quarta-feira (18) a uma audiência com comissões do Senado, o diretor da Polícia Federal, Andrei Rodrigues, mudou de posição. A mudança ocorreu após reunião com o presidente Luiz Inácio Lula da Silva na noite de terça-feira (",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Boato de 'apagão mundial' e onda de ataques hackers: o que aconteceu no mundo nas últimas semanas",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/18/boato-de-apagao-mundial-e-onda-de-ataques-hackers-o-que-aconteceu-no-mundo-nas-ultimas-semanas.ghtml",
+      "date": "2026-11-18T14:00:43.000Z",
+      "summary": "Boato de 'apagão mundial' e onda de ataques hackers: o que aconteceu no mundo nas últimas semanas Reuters/Divulgação/Reprodução O mundo, de novo, não acabou. Mas a previsão de um \"apagão mundial\" dominou as redes sociais na terça-feira (17), em meio a uma onda",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Governo negocia dois ministérios para União Brasil e quer PP com Comunicações e Ciência",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/governo-negocia-dois-ministerios-para-uniao-brasil-e-quer-pp-com-comunicacoes-e-ciencia.shtml",
+      "date": "2026-11-18T14:00:00.000Z",
+      "summary": "O presidente do PT, Edinho Silva, sugeriu ao União Brasil que o partido continue no comando dos ministérios do Desenvolvimento Regional e do Turismo no governo Lula 4, mas que o das Comunicações, hoje ocupado pela sigla, seja redirecionado para o PP, que també",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "TSE apresenta sistema de auditoria das urnas eletrônicas em congresso no México",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/tse-apresenta-sistema-de-auditoria-das-urnas-eletronicas-em-congresso-no-mexico.shtml",
+      "date": "2026-11-18T14:00:00.000Z",
+      "summary": "Após as eleições de 2026, o TSE (Tribunal Superior Eleitoral) apresenta nesta quarta-feira (18) o modelo brasileiro de fiscalização das urnas eletrônicas no 4º Congresso Internacional de Tecnologia Eleitoral, na Cidade do México. Leia mais (11/18/2026 - 11h00)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Transmissoras de energia querem evitar dividir receita de leilão de baterias com consumidores",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/economia-sustentavel/2026/11/transmissoras-de-energia-querem-evitar-dividir-receita-de-leilao-de-baterias-com-consumidores.shtml",
+      "date": "2026-11-18T14:00:00.000Z",
+      "summary": "Empresas de transmissão de energia elétrica estão pressionando a Aneel (Agência Nacional de Energia Elétrica) para garantir que não terão de dividir com os consumidores parte do dinheiro que venham a receber dos investimentos que fizeram nos sistemas de bateri",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Previ acumula perda bilionária com queda das ações do Banco do Brasil",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/previ-acumula-perda-bilionaria-com-queda-das-acoes-do-banco-do-brasil.shtml",
+      "date": "2026-11-18T14:00:00.000Z",
+      "summary": "Uma das principais acionistas do Banco do Brasil, a Previ acumula uma perda da ordem de R$ 2,5 bilhões no valor de sua participação com a queda das ações depois do segundo turno das eleições e após a divulgação do resultado do terceiro trimestre muito abaixo d",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "BR-319 é 'indispensável à segurança nacional', aprova Comissão de Infraestrutura",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/18/br-319-e-indispensavel-a-seguranca-nacional-aprova-comissao-de-infraestrutura",
+      "date": "2026-11-18T13:59:09.000Z",
+      "summary": "A Comissão de Serviços de Infraestrutura (CI) aprovou nesta quarta-feira (18) projeto que reconhece a BR-319, rodovia que liga Porto Velho a Manaus, como \"infraestrutura crítica indispensável à segurança nacional\". Essa classificação é atribuída a estruturas c",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Lançamento de 'GTA 6' aquece varejo e empresas dão folgas para funcionários",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/tec/2026/11/lancamento-de-gta-6-aquece-varejo-e-empresas-dao-folgas-a-funcionarios-para-jogar.shtml",
+      "date": "2026-11-18T13:58:00.000Z",
+      "summary": "Uma empresa de tecnologia em Lajeado, no interior do Rio Grande do Sul, vai liberar os funcionários para se dedicarem, no feriadão desta semana, ao lançamento de GTA 6 (Grand Theft Auto VI). O novo título da Rockstar Games chega aos consoles de videogame na ma",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Trump, Putin e Xi se reúnem em jantar na China antes de cúpula",
+      "link": "https://www.poder360.com.br/poder-internacional/trump-putin-e-xi-se-reunem-em-jantar-na-china-antes-de-cupula/",
+      "date": "2026-11-18T13:48:09.000Z",
+      "summary": "Líderes dos EUA, Rússia e China terão encontro trilateral na 5ª feira (19.nov) para discutir segurança global",
       "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
     },
     {
-      "title": "Dólar avança e chega a R$ 5,82 à espera de leilões do BC e votação de ajuste fiscal",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/dolar-abre-em-alta-nesta-quarta-com-mercado-a-espera-de-leilao-do-bc-e-votacao-sobre-ajuste-fiscal.shtml",
-      "date": "2026-11-18T12:33:00.000Z",
-      "summary": "O dólar abriu em alta nesta quarta-feira (18), com investidores à espera dos leilões programados pelo BC (Banco Central) e atentos à tramitação do pacote de ajuste fiscal no Congresso. Às 9h36, a moeda subia 0,65%, cotada a R$ 5,820. Leia mais (11/18/2026 - 09",
+      "title": "Crise na PF: associação pede ao Ministério da Justiça para ouvir delegados afastados",
+      "link": "https://g1.globo.com/politica/blog/camila-bomfim/post/2026/11/18/crise-na-pf-associacao-pede-ao-ministerio-da-justica-para-ouvir-delegados-afastados.ghtml",
+      "date": "2026-11-18T13:48:05.000Z",
+      "summary": "A Associação Nacional dos Delegados de Polícia Federal (ADPF) solicitou ao Ministério da Justiça (MJ) que ouça diretamente os delegados da PF afastados da produção de relatórios ligados ao caso Master, em nome da \"autonomia técnica\" garantida por lei. Em ofíci",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "CCJ do Senado aprova aumento de penas para motoristas que provocam acidentes graves sob efeito de álcool ou drogas",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/18/ccj-do-senado-aprova-aumento-de-penas-para-motoristas-que-provocam-acidentes-graves-sob-efeito-de-alcool-ou-drogas.ghtml",
+      "date": "2026-11-18T13:45:04.000Z",
+      "summary": "A Comissão de Constituição e Justiça (CCJ) do Senado aprovou nesta quarta-feira (18) um projeto que prevê o aumento das penas para motoristas que causarem mortes ou lesões corporais graves no trânsito sob efeito de álcool ou drogas. As penas também serão mais ",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Projeto prevê atividades sobre trabalho escravo em escolas públicas",
+      "link": "https://www.camara.leg.br/noticias/1311970-projeto-preve-atividades-sobre-trabalho-escravo-em-escolas-publicas",
+      "date": "2026-11-18T13:45:00.000Z",
+      "summary": "As atividades deverão ser interdisciplinares e adequadas à faixa etária; a Câmara dos Deputados analisa a proposta",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Crime de fraude contábil no mercado de valores avança na CCJ",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/18/crime-de-fraude-contabil-no-mercado-de-valores-avanca-na-ccj",
+      "date": "2026-11-18T13:44:21.000Z",
+      "summary": "A Comissão de Constituição e Justiça (CCJ) aprovou nesta quarta-feira (18), em primeiro turno, substitutivo (texto alternativo) ao projeto que tipifica a fraude contábil no mercado de valores mobiliários. O texto também altera a definição do crime de indução o",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Parcela de petróleo da União no pré-sal cresce 67% em 1 ano",
+      "link": "https://www.poder360.com.br/poder-energia/parcela-de-petroleo-da-uniao-no-pre-sal-cresce-67-em-1-ano/",
+      "date": "2026-11-18T13:40:22.000Z",
+      "summary": "Produção total nos campos do pré-sal atinge 1,95 milhão de barris por dia em setembro",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Sargento Reginauro critica projeto de ajuste fiscal do governo",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/18/sargento-reginauro-critica-projeto-de-ajuste-fiscal-do-governo",
+      "date": "2026-11-18T13:38:51.000Z",
+      "summary": "O senador Sargento Reginauro (PSDB-CE) criticou em pronunciamento no Plenário nesta terça-feira (17) as medidas de ajuste fiscal propostas pelo governo. Ele disse que o ajuste fiscal pode afetar recursos destinados à saúde, à educação e a programas sociais e d",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Dois em cada três desempregados no Brasil são pretos ou pardos, aponta IBGE",
+      "link": "https://www.estadao.com.br/economia/ibge-desempregados-brasil-pretos-pardos/",
+      "date": "2026-11-18T13:38:13.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Quem é Natália Resende, secretária empoderada por Tarcísio e cotada para sucedê-lo em 2030",
+      "link": "https://www.estadao.com.br/politica/quem-e-natalia-resende-secretaria-empoderada-por-tarcisio-e-cotada-para-sucede-lo-em-2030/",
+      "date": "2026-11-18T13:32:49.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Juros e tributos andaram na direção errada, diz conselheiro do Bradesco",
+      "link": "https://www.poder360.com.br/poder-economia/juros-e-tributos-andaram-na-direcao-errada-diz-conselheiro-do-bradesco/",
+      "date": "2026-11-18T13:27:20.000Z",
+      "summary": "Luiz Carlos Trabuco afirma que a piora nos custos logísticos e encargos trabalhistas supera avanços na escolaridade",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "PT propõe a Moretti taxar super-ricos e mudar autonomia do BC",
+      "link": "https://www.poder360.com.br/poder-congresso/pt-propoe-a-moretti-taxar-super-ricos-e-mudar-autonomia-do-bc/",
+      "date": "2026-11-18T13:24:18.000Z",
+      "summary": "Deputados entregam ao ministro 7 projetos fiscais para taxar lucros, dividendos e títulos isentos, além de rever o teto de gastos",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Dívida das famílias pode frear consumo em 2027",
+      "link": "https://www.estadao.com.br/economia/fernando-dantas/divida-das-familias-pode-frear-consumo-em-2027/",
+      "date": "2026-11-18T13:16:52.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Rede D’Or vende participação em empresas da SulAmérica Investimentos para a BlackRock por R$ 850 mi",
+      "link": "https://www.estadao.com.br/economia/negocios/rede-dor-vende-participacao-empresas-sulamerica-blackrock-npr/",
+      "date": "2026-11-18T13:15:56.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Deputados podem votar novas regras para educação integral e monitoramento de agressores",
+      "link": "https://www.camara.leg.br/noticias/1320550-deputados-podem-votar-novas-regras-para-educacao-integral-e-monitoramento-de-agressores",
+      "date": "2026-11-18T13:04:00.000Z",
+      "summary": "",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "'Supersecretária' de Tarcísio ganha nova pasta no governo de SP e cuidará de orçamento e investimentos",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/supersecretaria-de-tarcisio-ganha-nova-pasta-no-governo-de-sp-e-cuidara-de-orcamento-e-investimentos.shtml",
+      "date": "2026-11-18T13:04:00.000Z",
+      "summary": "A secretária estadual de Meio Ambiente, Infraestrutura e Logística, Natália Resende, vai chefiar a partir do ano que vem uma nova pasta no governo Tarcísio de Freitas (Republicanos), responsável pelas áreas de Planejamento, Orçamento e Investimentos. Leia mais",
       "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Pretos e pardos ganham menos, são maioria entre trabalhadores desocupados e entre vítimas de homicídio, mostra IBGE",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/18/desigualdades-sociais-cor-raca-ibge.ghtml",
+      "date": "2026-11-18T13:00:00.000Z",
+      "summary": "As pessoas pretas e pardas são maioria entre os trabalhadores desocupados e subutilizados do país, recebem menos por hora trabalhada, estão mais expostas à pobreza e continuam sendo as principais vítimas da violência letal no Brasil. É o que mostra a terceira ",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "A sustentabilidade financeira como preceito fundamental da Constituição",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/a-sustentabilidade-financeira-como-preceito-fundamental-da-constituicao/",
+      "date": "2026-11-18T13:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Fachin sinaliza que STF pode julgar Lei da Dosimetria ainda neste ano",
+      "link": "https://www.estadao.com.br/politica/fachin-sinaliza-que-stf-pode-julgar-lei-da-dosimetria-ainda-neste-ano-nprp/",
+      "date": "2026-11-18T12:56:31.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Um ano depois, fraude do Banco Master deixou prejuízo de R$ 76 bilhões",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/18/um-ano-depois-fraude-do-banco-master-deixou-prejuizo-de-r-76-bilhoes.ghtml",
+      "date": "2026-11-18T12:42:37.000Z",
+      "summary": "Fachada do Banco Master no Itaim Bibi, na Zona Sul de São Paulo, no dia 19 de novembro de 2025 Rovena Rosa/Agência Brasil Na tarde de 18 de novembro de 2025, o Banco Central anunciou a decretação da liquidação extrajudicial do Banco Master e de várias institui",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Rede D'Or vende SulAmérica Investimentos para a BlackRock por R$ 850 milhões",
+      "link": "https://g1.globo.com/economia/negocios/noticia/2026/11/18/rede-dor-sulamerica-investimentos.ghtml",
+      "date": "2026-11-18T12:38:06.000Z",
+      "summary": "Rede D'Or acerta incorporação da Sul América Divulgação A Rede D'Or anunciou nesta quarta-feira (18) um acordo para vender a SulAmérica Investimentos à BlackRock Brasil, subsidiária da gestora americana BlackRock, em uma operação avaliada em aproximadamente R$",
+      "source": "g1",
       "cat": "economia",
       "type": "imprensa"
     },
@@ -181,42 +437,6 @@
       "type": "oficial"
     },
     {
-      "title": "Desemprego cai em 8 das 27 unidades da Federação no 3º trimestre",
-      "link": "https://www.poder360.com.br/poder-economia/desemprego-cai-em-8-das-27-unidades-da-federacao-no-3o-trimestre/",
-      "date": "2026-11-18T12:21:36.000Z",
-      "summary": "Taxa nacional recuou para 5,2%, ante 5,4% no trimestre anterior; rendimento médio chegou a R$ 3.790",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "IBGE mostra queda do desemprego em oito estados no terceiro trimestre",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/ibge-mostra-queda-do-desemprego-em-oito-estados-no-terceiro-trimestre.shtml",
-      "date": "2026-11-18T12:21:00.000Z",
-      "summary": "A taxa de desemprego caiu em oito unidades da Federação no terceiro trimestre de 2026, apontam dados divulgados nesta sexta-feira (14) pelo IBGE (Instituto Brasileiro de Geografia e Estatística). Leia mais (11/18/2026 - 09h21)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Errei ao não investir na Anthropic, afirma fundador do SoftBank",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/errei-ao-nao-investir-na-anthropic-afirma-fundador-do-softbank.shtml",
-      "date": "2026-11-18T12:13:00.000Z",
-      "summary": "O fundador do SoftBank, Masayoshi Son, afirmou que lamenta não ter investido na Anthropic antes de seu aguardado IPO (oferta pública inicial de ações), classificando como um erro ter deixado passar a oportunidade de apoiar o laboratório de IA por já ter começa",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Henrique Vorcaro, pai do dono do Master, fez operações suspeitas com alvo da PF e fundo de gestora mineira",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/18/henrique-vorcaro-pai-do-dono-do-master-fez-operacoes-suspeitas-com-alvo-da-pf-e-fundo-de-gestora-mineira.ghtml",
-      "date": "2026-11-18T12:07:15.000Z",
-      "summary": "Henrique Vorcaro, pai de Daniel Vorcaro Reprodução O empresário Henrique Vorcaro, pai do banqueiro Daniel Vorcaro, do Master, realizou operações financeiras suspeitas com um alvo da Polícia Federal e um fundo de investimentos de uma gestora de Belo Horizonte. ",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Almino Affonso e Educafro receberão Prêmio USP de Direitos Humanos",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/almino-affonso-e-educafro-receberao-premio-usp-de-direitos-humanos.shtml",
       "date": "2026-11-18T12:06:00.000Z",
@@ -233,24 +453,6 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Dólar abre em alta e vai a R$ 5,80, de olho em ajuste fiscal e ata do Fed",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/18/dolar-ibovespa.ghtml",
-      "date": "2026-11-18T12:01:00.000Z",
-      "summary": "Entenda o que faz o preço do dólar subir ou cair O dólar abriu a sessão desta quarta-feira (18) em alta, com um avanço de 0,48% perto das 9h, cotado a R$ 5,8095. Já as negociações do Ibovespa, principal índice da bolsa brasileira, começam às 10h. A ata da últi",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Desemprego cai em 8 estados e fica em 5,2% no Brasil no 3º trimestre de 2026, diz IBGE",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/18/desemprego-estados-pnad.ghtml",
-      "date": "2026-11-18T12:00:29.000Z",
-      "summary": "Carteira de Trabalho Digital Gil Leonardi/ImprensaMG A taxa de desemprego caiu em 8 estados brasileiros no terceiro trimestre de 2026, de acordo com a Pesquisa Nacional por Amostra de Domicílios (Pnad) Contínua Trimestral, divulgada nesta quarta-feira (18) pel",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
     },
     {
       "title": "Governos anunciam mais de 230 promessas para evitar violência a menores",
@@ -280,15 +482,6 @@
       "type": "oficial"
     },
     {
-      "title": "Efeito eleitoral levou Goldman, Morgan Stanley, UBS e JPMorgan a rebaixar Brasil",
-      "link": "https://www.poder360.com.br/poder-economia/efeito-eleitoral-levou-goldman-morgan-stanley-ubs-e-jpmorgan-a-rebaixar-brasil/",
-      "date": "2026-11-18T11:52:58.000Z",
-      "summary": "Bancos internacionais decidiram reduzir a recomendação para investidores comprarem ações de empresas brasileiras por causa da incerteza fiscal no 4º mandato de Lula",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Comissão externa apresenta relatório sobre rompimento da barragem de Fundão",
       "link": "https://www.camara.leg.br/noticias/1318888-comissao-externa-apresenta-relatorio-sobre-rompimento-da-barragem-de-fundao",
       "date": "2026-11-18T11:50:00.000Z",
@@ -298,101 +491,11 @@
       "type": "oficial"
     },
     {
-      "title": "Tarcísio escolhe Natália Resende para ‘supersecretaria’ de Planejamento, Orçamento e Investimentos",
-      "link": "https://www.estadao.com.br/politica/tarcisio-escolhe-natalia-resende-para-supersecretaria-de-planejamento-orcamento-e-investimentos/",
-      "date": "2026-11-18T11:48:39.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Fórum da Liberdade completa 40 edições com presença de Campos Neto e homenagem ao avô",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/forum-da-liberdade-completa-40-edicoes-com-presenca-de-campos-neto-e-homenagem-a-seu-avo.shtml",
-      "date": "2026-11-18T11:44:00.000Z",
-      "summary": "Principal evento liberal do país, o Fórum da Liberdade chegará à 40ª edição em 2027 com a presença do ex-presidente do Banco Central Roberto Campos Neto e uma homenagem ao avô dele, que esteve na primeira edição do evento, em 1988. Leia mais (11/18/2026 - 08h4",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "A liberdade de associação fortalece a advocacia",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/a-liberdade-de-associacao-fortalece-a-advocacia/",
-      "date": "2026-11-18T11:42:27.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Comissão debate propostas para ampliar recursos destinados ao fortalecimento da agropecuária",
-      "link": "https://www.camara.leg.br/noticias/1320163-comissao-debate-propostas-para-ampliar-recursos-destinados-ao-fortalecimento-da-agropecuaria",
-      "date": "2026-11-18T11:40:00.000Z",
-      "summary": "",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Justiça bloqueia cinco aeronaves, iate de R$ 40 milhões e cobertura em SP em ação da PF contra bets",
+      "title": "Bets: Justiça bloqueia 5 aeronaves e iate de R$ 40 milhões em ação da PF contra Esportes da Sorte",
       "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/justica-bloqueia-cinco-aeronaves-iate-de-r-40-milhoes-e-cobertura-em-sp-em-acao-da-pf-contra-bets/",
       "date": "2026-11-18T11:39:36.000Z",
       "summary": "",
       "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Comissão debate fiscalização de contratos de concessão de rodovias federais",
-      "link": "https://www.camara.leg.br/noticias/1319624-comissao-debate-fiscalizacao-de-contratos-de-concessao-de-rodovias-federais",
-      "date": "2026-11-18T11:38:00.000Z",
-      "summary": "",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Nvidia interrompe envio de chips Hopper para a China em meio à crise por espionagem",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/18/nvidia-interrompe-envio-de-chips-hopper-para-a-china-em-meio-a-crise-por-espionagem.ghtml",
-      "date": "2026-11-18T11:37:17.000Z",
-      "summary": "EUA anunciam restrição a exportações de chips da Nvidia para cinco países, Brasil aparece na lista A americana Nvidia, abalada por um escândalo envolvendo suspeitas de espionagem, anunciou na terça-feira (18) que deixou de fornecer à China seus chips de inteli",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Câmara deve votar ajuste fiscal de Lula só na próxima 3ª feira",
-      "link": "https://www.poder360.com.br/poder-congresso/camara-deve-votar-ajuste-fiscal-de-lula-so-na-proxima-3a-feira/",
-      "date": "2026-11-18T11:28:15.000Z",
-      "summary": "O relator do projeto diz que tentará votar a proposta na tarde de 5ªfeira (19.nov), mas a votação deve ficar para a próxima semana, já que Hugo Motta viajou a Buenos Aires",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Credores da Braskem resistem a oferta e discutem contraproposta",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/credores-da-braskem-resistem-a-oferta-e-discutem-contraproposta.shtml",
-      "date": "2026-11-18T11:28:00.000Z",
-      "summary": "Credores da Braskem resistiram à proposta mais recente da empresa para reestruturar suas dívidas, segundo pessoas a par do assunto, restando poucos dias para que as partes cheguem a um acordo e evitem um pedido de recuperação judicial. Leia mais (11/18/2026 - ",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Risco de derrota no ajuste fiscal mostra que Lula terá de ceder mais espaço ao Centrão e partidos da Frente Ampla",
-      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/18/risco-de-derrota-no-ajuste-fiscal-mostra-que-lula-tera-de-ceder-mais-espaco-ao-centrao-e-partidos-da-frente-ampla.ghtml",
-      "date": "2026-11-18T11:25:25.000Z",
-      "summary": "Senado adia votação dos destaques do pacote de ajuste fiscal O risco de derrota na votação do ajuste fiscal no Senado é um sinal de alerta para o presidente Lula na montagem de sua equipe para o seu quarto mandato. Aliados do petista defendem que ele ceda mais",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Diretor da PF confirma que irá ao Senado prestar esclarecimentos sobre troca de delegados",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/18/diretor-da-pf-confirma-que-ira-ao-senado-prestar-esclarecimentos-sobre-troca-de-delegados.ghtml",
-      "date": "2026-11-18T11:13:56.000Z",
-      "summary": "Fachin deve receber relatório da PF sobre ministros no caso Master O diretor-geral da Polícia Federal (PF), Andrei Rodrigues, confirmou nesta quarta-feira (18) que atenderá aos convites das comissões do Senado para prestar esclarecimentos sobre as recentes tro",
-      "source": "g1",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -403,33 +506,6 @@
       "summary": "",
       "source": "Estadão",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Maioria dos trabalhadores não está engajada; veja motivos e quais jornadas têm piores índices",
-      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/18/maioria-dos-trabalhadores-nao-esta-engajada-veja-motivos-e-quais-jornadas-tem-piores-indices.ghtml",
-      "date": "2026-11-18T11:00:01.000Z",
-      "summary": "Como se identifica o adoecimento mental no trabalho Seis em cada dez trabalhadores brasileiros não estão engajados no trabalho. É o que mostra a 4ª edição do estudo Engaja S/A, realizado pela Flash em parceria com a FGV EAESP: apenas 39% dos profissionais se c",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Trabalhadores desmotivados podem custar R$ 74,1 bilhões para as empresas, revela pesquisa",
-      "link": "https://www.estadao.com.br/economia/trabalhadores-desmotivados-podem-custar-r-741-bilhoes-para-as-empresas-revela-pesquisa/",
-      "date": "2026-11-18T11:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Análise: Por que Alcolumbre pressiona Moraes pelo julgamento da Lei da Dosimetria?",
-      "link": "https://g1.globo.com/politica/blog/julia-duailibi/post/2026/11/18/analise-alcolumbre-moraes-dosimetria.ghtml",
-      "date": "2026-11-18T10:38:51.000Z",
-      "summary": "Davi Alcolumbre, Alexandre de Moraes e Hugo Motta Carlos Moura/Agência Senado, Antonio Augusto/STF e Marina Ramos / Câmara dos Deputados A movimentação dos presidentes do Senado Federal e da Câmara dos Deputados em relação ao ministro Alexandre de Moraes não é",
-      "source": "g1",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -451,42 +527,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Petistas reagem a Erika Hilton e jogam decisão sobre Prefeitura de SP em 2028 para Lula",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/petistas-reagem-a-erika-hilton-e-jogam-decisao-sobre-prefeitura-de-sp-em-2028-para-lula.shtml",
-      "date": "2026-11-18T09:00:00.000Z",
-      "summary": "A possibilidade de Erika Hilton (PSOL) migrar para o PT e se colocar como candidata à Prefeitura de São Paulo antecipou o debate interno sobre a eleição municipal de 2028. Leia mais (11/18/2026 - 06h00)",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Juros altos, dívida, crédito: por que a crise das empresas pode se agravar em 2027",
-      "link": "https://www.estadao.com.br/economia/juros-altos-divida-credito-por-que-a-crise-das-empresas-pode-se-agravar-em-2027/",
-      "date": "2026-11-18T08:30:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Tarcísio avalia manter delegado Nico na Segurança Pública, e PM vê riscos à implementação de PEC",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/tarcisio-avalia-manter-delegado-nico-na-seguranca-publica-e-pm-ve-riscos-a-implementacao-de-pec.shtml",
-      "date": "2026-11-18T07:00:00.000Z",
-      "summary": "A provável permanência de Osvaldo Nico Gonçalves, o \"doutor Nico\", na Secretaria da Segurança Pública de Tarcísio de Freitas (Republicanos) preocupa oficiais da Polícia Militar paulista, que veem risco de entraves em São Paulo a uma das mudanças previstas na P",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Câmara aprova R$ 6,5 bi em crédito a empresas atingidas por tarifaço de Trump e guerras",
-      "link": "https://www.estadao.com.br/economia/camara-aprova-r-65-bi-em-credito-a-empresas-atingidas-por-tarifaco-de-trump-e-guerras/",
-      "date": "2026-11-18T02:06:12.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "O que é o ajuste fiscal que o mercado cobra de Lula? Entenda por que ele desagrada muita gente e divide economistas",
       "link": "https://www.bbc.com/portuguese/articles/cklyw32d9n7vo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-18T00:31:56.000Z",
@@ -494,15 +534,6 @@
       "source": "BBC News Brasil",
       "cat": "internacional",
       "type": "imprensa"
-    },
-    {
-      "title": "Teresa Leitão defende conclusão da votação de projeto do ajuste fiscal",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/17/teresa-leitao-defende-conclusao-da-votacao-de-projeto-do-ajuste-fiscal",
-      "date": "2026-11-17T22:40:32.000Z",
-      "summary": "A senadora Teresa Leitão (PT-PE), em pronunciamento no Plenário nesta terça-feira (17), defendeu a conclusão da votação do projeto de lei complementar que estabelece medidas para o equilíbrio das contas públicas (PLP 299/2026). O texto-base da proposta já foi ",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
     },
     {
       "title": "Milhões enterrados e escândalos abalam círculo de ex-premiê da Hungria",
@@ -538,15 +569,6 @@
       "summary": "Dados do TSE confirmam agora que os vídeos não eram apenas 'virais' das redes sociais. Foram os idosos - e especialmente as idosas - que mais fizeram o esforço de votar entre o primeiro e o segundo turno, fazendo a abstenção ter a maior queda entre turnos desd",
       "source": "BBC News Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Tarcísio decide manter Roberto Carneiro como substituto de Kassab na articulação política",
-      "link": "https://www.estadao.com.br/politica/tarcisio-decide-manter-roberto-carneiro-como-substituto-de-kassab-na-articulacao-politica/",
-      "date": "2026-11-17T20:05:51.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
