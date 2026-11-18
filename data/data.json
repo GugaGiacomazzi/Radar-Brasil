@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-18T17:36:37.047Z",
+  "updated": "2026-11-18T18:29:59.718Z",
   "market": {
     "ibov": {
-      "price": 167364.4,
-      "pct": -1.44,
-      "time": "2026-11-18T17:36:31.569Z",
+      "price": 168049.39,
+      "pct": -1.04,
+      "time": "2026-11-18T18:29:53.709Z",
       "history": [
         {
           "d": "2026-10-19",
@@ -92,7 +92,7 @@
         },
         {
           "d": "2026-11-18",
-          "c": 167414.3281
+          "c": 168094
         }
       ]
     },
@@ -149,13 +149,139 @@
   },
   "news": [
     {
+      "title": "Revisão dos relatórios foi necessária porque pedido de Fachin foi feito à direção da PF, diz Andrei",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/18/revisao-dos-relatorios-foi-necessaria-porque-pedido-de-fachin-foi-feito-a-direcao-da-pf-diz-andrei.ghtml",
+      "date": "2026-11-18T18:21:36.000Z",
+      "summary": "Andrei Rodrigues, diretor-feral da Polícia Federal, fala em CPI Andressa Anholete/Agência Senado O diretor-geral da Polícia Federal (PF), Andrei Rodrigues, disse que pediu a reformulação dos relatórios que identificavam conexões entre ministros do Supremo Trib",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Tencent diz que novas restrições dos EUA podem desacelerar treinamento de modelos",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/tencent-diz-que-novas-restricoes-dos-eua-podem-desacelerar-treinamento-de-modelos.shtml",
+      "date": "2026-11-18T18:03:00.000Z",
+      "summary": "A chinesa Tencent afirmou nesta quarta-feira (18) que as novas restrições dos EUA para importação de chips avançados de IA não prejudicariam substancialmente sua receita de nuvem, embora provavelmente retardassem o desenvolvimento de seu próximo modelo de IA. ",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Debatedores atribuem avanço do crime organizado nos mercados de bebidas e cigarros a impostos altos",
+      "link": "https://www.camara.leg.br/noticias/1320671-debatedores-atribuem-avanco-do-crime-organizado-nos-mercados-de-bebidas-e-cigarros-a-impostos-altos",
+      "date": "2026-11-18T18:02:00.000Z",
+      "summary": "Baixa fiscalização e punições brandas também foram apontadas como causas do problema durante debate na Comissão Externa de Combate à Pirataria",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Relatórios da Polícia Federal sobre ministros do STF no caso Master provocam tensão no tribunal",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/18/relatorios-da-policia-federal-sobre-ministros-do-stf-no-caso-master-provocam-tensao-no-tribunal.ghtml",
+      "date": "2026-11-18T18:01:09.000Z",
+      "summary": "A confirmação da reunião entre o diretor-geral da Polícia Federal (PF), Andrei Rodrigues, e o presidente do Supremo Tribunal Federal (STF), ministro Edson Fachin para a entrega dos relatórios da PF sobre ministros no caso Master provocou um clima de tensão no ",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Ex-alunos viram réus após criticar professor-juiz que pediu para servidora aplicar prova de ética na UFRJ",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/ex-alunos-viram-reus-apos-criticar-professor-juiz-que-pediu-para-servidora-aplicar-prova-de-etica-na-ufrj.shtml",
+      "date": "2026-11-18T18:00:00.000Z",
+      "summary": "O embate entre um juiz do Rio de Janeiro que dava aulas de ética na Faculdade Nacional de Direito da UFRJ (Universidade Federal do Rio de Janeiro) e alunos insatisfeitos com a condução da disciplina foi parar na Justiça, que tornou réus dois integrantes da tur",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Aplicativo 'Senado Notícias' amplia recursos de acesso à cobertura do Senado",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/18/aplicativo-senado-noticias-amplia-recursos-de-acesso-a-cobertura-do-senado",
+      "date": "2026-11-18T17:58:20.000Z",
+      "summary": "Criado em 2021 por iniciativa da Agência Senado, o aplicativo Senado Notícias foi atualizado e passou a oferecer novos recursos de acesso à cobertura jornalística da Agência, da Rádio e da TV Senado. Disponível para celulares e tablets, a plataforma reúne notí",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "“Humano” é a palavra do ano do dicionário Cambridge",
+      "link": "https://www.poder360.com.br/poder-internacional/humano-e-a-palavra-do-ano-do-dicionario-cambridge/",
+      "date": "2026-11-18T17:56:07.000Z",
+      "summary": "Dicionário define termo como aquilo que \"possui as qualidades, defeitos e sentimentos das pessoas em oposição a máquinas\"",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "‘Metrópoles’ recebeu mais de R$ 15 mi do governo Cláudio Castro, no Rio, por 3 eventos, diz revista",
+      "link": "https://www.estadao.com.br/economia/metropoles-recebeu-15-mi-governo-claudio-castro-rio-eventos-revista-piaui/",
+      "date": "2026-11-18T17:55:59.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Ministério dos Direitos Humanos abre licitação para massagens ao custo de R$ 722 mil e depois desiste",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/ministerio-dos-direitos-humanos-abre-licitacao-para-massagens-ao-custo-de-r-722-mil-e-depois-desiste.shtml",
+      "date": "2026-11-18T17:52:00.000Z",
+      "summary": "O Ministério dos Direitos Humanos abriu licitação para contratar um serviço de massagem para os funcionários da pasta ao custo de R$ 722 mil por cinco anos. Após questionamento do Painel, a pasta informou nesta terça-feira (17) que cancelou o pregão. Leia mais",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Andrei diz que PF segue Constituição e que afastamento de delegados do caso Master foi legal",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/andrei-diz-que-pf-segue-constituicao-e-que-afastamento-de-delegados-do-caso-master-foi-legal.shtml",
+      "date": "2026-11-18T17:45:00.000Z",
+      "summary": "O diretor-presidente da Polícia Federal, Andrei Rodrigues, disse que a corporação segue a Constituição Federal e defendeu a legalidade de todos os atos do órgão, inclusive a decisão de afastar dois delegados da coordenação de investigações relacionadas ao Banc",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Um ajuste didático: ao invés de reformar o Estado, governo joga o custo para as empresas",
+      "link": "https://www.estadao.com.br/politica/fernando-schuler/um-ajuste-didatico-ao-inves-de-reformar-o-estado-governo-joga-o-custo-para-as-empresas/",
+      "date": "2026-11-18T17:44:35.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Tarcísio diz que ajuste fiscal não ataca raízes da dívida e dos gastos",
+      "link": "https://www.poder360.com.br/poder-economia/tarcisio-diz-que-ajuste-fiscal-nao-ataca-raizes-da-divida-e-dos-gastos/",
+      "date": "2026-11-18T17:44:30.000Z",
+      "summary": "Governador critica impacto das medidas sobre Estados e municípios e cobra controle estrutural dos gastos públicos",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "Ajuste fiscal: Senado deve discutir nesta quarta-feira (18) propostas de mudanças ao texto do governo",
       "link": "https://g1.globo.com/politica/ao-vivo/senado-pacote-medidas-fiscais.ghtml",
-      "date": "2026-11-18T17:34:23.000Z",
+      "date": "2026-11-18T17:35:34.000Z",
       "summary": "Ajuste fiscal: Senado deve discutir nesta quarta-feira (18) propostas de mudanças ao texto do governo Proposta promove corte de benefícios fiscais e altera cálculo do piso constitucional da saúde. Texto-base foi aprovado por 45 votos a 31 na última quinta-feir",
       "source": "g1",
       "cat": "politica",
       "type": "imprensa"
+    },
+    {
+      "title": "Diretor-geral da PF Andrei Rodrigues fala ao Senado sobre troca de delegados; ASSISTA",
+      "link": "https://g1.globo.com/politica/ao-vivo/diretor-pf-andrei-rodrigues-senado-crise-policia-federal-troca-delegados.ghtml",
+      "date": "2026-11-18T17:35:19.000Z",
+      "summary": "Diretor-geral da PF Andrei Rodrigues fala ao Senado sobre troca de delegados; ASSISTA Eles foram afastados de suas funções após elaboração de relatórios sobre o envolvimento de ministros do STF com Daniel Vorcaro, dono do Master. Diretor-geral da PF Andrei Rod",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Visita ao Congresso tem filme 'O Sonho de Abdias' pelo Dia da Consciência Negra",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/18/visita-ao-congresso-tem-filme-o-sonho-de-abdias-pelo-dia-da-consciencia-negra",
+      "date": "2026-11-18T17:33:25.000Z",
+      "summary": "Em celebração ao 20 de novembro, Dia Nacional de Zumbi e da Consciência Negra, o programa Visite o Congresso exibirá nos dias 20, 21 e 22 o curta-metragem em realidade virtual O Sonho de Abdias. A atividade é gratuita, com agendamento prévio neste link. No fil",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
     },
     {
       "title": "BC divulga Fluxo cambial mensal",
@@ -165,6 +291,15 @@
       "source": "Banco Central",
       "cat": "economia",
       "type": "oficial"
+    },
+    {
+      "title": "Renda versus democracia?",
+      "link": "https://www.estadao.com.br/politica/carlos-pereira/renda-versus-democracia/",
+      "date": "2026-11-18T17:30:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
     },
     {
       "title": "Quem são os sete jovens fundadores da Anthropic que estão prestes a se tornarem multibilionários",
@@ -218,15 +353,6 @@
       "summary": "",
       "source": "Estadão",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Diretor-geral da PF Andrei Rodrigues fala daqui a pouco ao Senado sobre troca de delegados; ASSISTA",
-      "link": "https://g1.globo.com/politica/ao-vivo/diretor-pf-andrei-rodrigues-senado-crise-policia-federal-troca-delegados.ghtml",
-      "date": "2026-11-18T17:11:22.000Z",
-      "summary": "Diretor-geral da PF Andrei Rodrigues fala daqui a pouco ao Senado sobre troca de delegados; ASSISTA Eles foram afastados de suas funções após elaboração de relatórios sobre o envolvimento de ministros do STF com Daniel Vorcaro, dono do Master. Diretor-geral da",
-      "source": "g1",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -320,24 +446,6 @@
       "type": "imprensa"
     },
     {
-      "title": "CDH aprova projeto que obriga faculdades a terem programa contra assédio",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/18/cdh-aprova-projeto-que-obriga-faculdades-a-terem-programa-contra-assedio",
-      "date": "2026-11-18T16:47:24.000Z",
-      "summary": "Proposta que obriga instituições de ensino superior públicas e privadas a adotar programas de prevenção e enfrentamento ao assédio sexual foi aprovada pela Comissão de Direitos Humanos (CDH) nesta quarta-feira (18). Apresentado pela ex-senadora Augusta Brito (",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Congresso Nacional celebra 30 anos de criação da Aneel",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/18/congresso-nacional-celebra-30-anos-de-criacao-da-aneel",
-      "date": "2026-11-18T16:43:50.000Z",
-      "summary": "O Congresso Nacional homenageou nesta quarta-feira (18), em sessão solene, à Agência Nacional de Energia Elétrica (Aneel) pelos seus 30 anos. O então senador Rodrigo Pacheco (PSB-MG), hoje ministro do Tribunal de Contas da União (TCU), propôs a homenagem (REQ ",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
       "title": "Comissão aprova medidas para tornar agricultura mais resiliente a adversidades climáticas",
       "link": "https://www.camara.leg.br/noticias/1320600-comissao-aprova-medidas-para-tornar-agricultura-mais-resiliente-a-adversidades-climaticas",
       "date": "2026-11-18T16:42:00.000Z",
@@ -347,39 +455,12 @@
       "type": "oficial"
     },
     {
-      "title": "Brasil pode poupar R$ 40 bi por ano ao ampliar uso de ferrovias, diz associação",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/infraestrutura/2026/11/brasil-pode-poupar-r-40-bi-por-ano-ao-ampliar-uso-de-ferrovias-diz-associacao.shtml",
-      "date": "2026-11-18T16:35:00.000Z",
-      "summary": "O Brasil poderia economizar R$ 40 bilhões anuais com fretes de cargas se elevasse a participação das ferrovias no transporte dos atuais 20% para 35%. Mas, para isso, é preciso que o sistema ferroviário seja tratado como uma política de Estado, não de governo. ",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Durigan diz que projeto de ajuste é ‘primeiro passo’ e que governo deve apresentar novas medidas",
-      "link": "https://www.estadao.com.br/economia/durigan-projeto-ajuste-primeiro-passo-governo-novas-medidas/",
-      "date": "2026-11-18T16:34:53.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Vazamento de documentos expõe relações do Deutsche Bank com Epstein, Trump e oligarcas russos",
       "link": "https://g1.globo.com/economia/noticia/2026/11/18/vazamento-de-documentos-expoe-relacoes-do-deutsche-bank-com-epstein-trump-e-oligarcas-russos.ghtml",
       "date": "2026-11-18T16:30:56.000Z",
       "summary": "Vazamento de documentos expõe relações do Deutsche Bank com Epstein, Trump e oligarcas russos REUTERS/Yves Herman Uma investigação jornalística baseada em milhões de documentos vazados revelou, na terça-feira (17), como o Deutsche Bank priorizou seus interesse",
       "source": "g1",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Atlético-MG estreia patrocínio máster na final da Sul-Americana",
-      "link": "https://www.poder360.com.br/poder-sportsmkt/atletico-mg-estreia-patrocinio-master-na-final-da-sul-americana/",
-      "date": "2026-11-18T16:18:50.000Z",
-      "summary": "Acordo com Torcedor Premiado terá duração de 3 anos e pode render até R$ 75 milhões ao clube, conforme adesão da torcida",
-      "source": "Poder360",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -397,42 +478,15 @@
       "date": "2026-11-18T16:11:29.000Z",
       "summary": "O ministro da Fazenda, Dario Durigan, afirmou nesta quarta-feira (18) que tem preocupações com a desaceleração da economia prevista para 2027, mas afirmou não acreditar em um cenário de recessão na economia brasileira no próximo ano. Em um cenário de juros alt",
       "source": "g1",
-      "cat": "politica",
+      "cat": "economia",
       "type": "imprensa"
     },
     {
-      "title": "A geografia da polarização na eleição presidencial: o empate nacional que o interior não vivencia",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/18/a-geografia-da-polarizacao-na-eleicao-presidencial.ghtml",
-      "date": "2026-11-18T16:07:30.000Z",
-      "summary": "Desde 2018, os resultados das eleições para a Presidência da República têm sido interpretados como uma expressão direta da chamada polarização política do Brasil. A chave dessa leitura reside, quase sempre, na distribuição agregada dos percentuais dos segundos",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Ao vivo: Senado ouve ministro e PF sobre delegados do caso Master",
-      "link": "https://www.poder360.com.br/poder-congresso/ao-vivo-ministro-fala-ao-senado-sobre-saida-de-delegados-do-caso-master/",
-      "date": "2026-11-18T16:00:58.000Z",
-      "summary": "Wellington César Lima e Andrei Rodrigues participam de sessão da Comissão de Constituição, Justiça e Cidadania",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Racha na esquerda após anúncio de 'plano Moretti' envolve sombra de 2013 e novo exército digital",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/racha-na-esquerda-apos-anuncio-de-plano-moretti-envolve-sombra-de-2013-e-novo-exercito-digital.shtml",
-      "date": "2026-11-18T16:00:00.000Z",
-      "summary": "O anúncio do projeto de ajuste fiscal do ministro do Planejamento e Orçamento, Bruno Moretti, levou a um racha na esquerda que envolve o medo da repetição das manifestações de 2013, a adesão a um novo exército digital liderado pela esquerda radical e a tentati",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Relatórios da PF sobre ministros do STF e Master causam apreensão e incerteza sobre reação de Fachin",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/relatorios-da-pf-sobre-ministros-do-stf-e-master-causam-apreensao-e-incerteza-sobre-reacao-de-fachin.shtml",
-      "date": "2026-11-18T16:00:00.000Z",
-      "summary": "A previsão da entrega dos relatórios sobre a relação dos ministros do STF (Supremo Tribunal Federal) com Daniel Vorcaro, ex-dono do Banco Master, pela Polícia Federal tem causado apreensão na corte pelo conteúdo dos documentos e pela incerteza sobre como o pre",
-      "source": "Folha",
+      "title": "Diretor da PF leva hoje a Fachin relatório sobre relações de ministros do STF com Vorcaro",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/diretor-da-pf-leva-hoje-a-fachin-relatorio-sobre-relacoes-de-ministros-do-stf-com-vorcaro/",
+      "date": "2026-11-18T16:01:27.000Z",
+      "summary": "",
+      "source": "Estadão",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -442,15 +496,6 @@
       "date": "2026-11-18T15:49:26.000Z",
       "summary": "",
       "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Lula deve encontrar Alcolumbre hoje para tratar de STF e composição do governo",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/11/lula-deve-encontrar-alcolumbre-hoje-para-tratar-de-stf-e-composicao-do-governo.shtml",
-      "date": "2026-11-18T15:42:00.000Z",
-      "summary": "O presidente Lula (PT) deve se encontrar nesta quarta (18) com o presidente do Senado, Davi Alcolumbre (União Brasil-AP), de acordo com um aliado. Na reunião, segundo relatos, eles vão tratar da indicação para o STF (Supremo Tribunal Federal) e da montagem do ",
-      "source": "Folha",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -473,15 +518,6 @@
       "type": "oficial"
     },
     {
-      "title": "Lula e Senado têm pressa para definir indicações a autarquias antes da nova bancada assumir",
-      "link": "https://www.estadao.com.br/politica/lula-e-senado-tem-pressa-para-definir-indicacoes-a-autarquias-antes-da-nova-bancada-assumir/",
-      "date": "2026-11-18T15:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Reunião pode dividir o mundo em três? Por que cúpula entre Trump, Xi e Putin deixa a Europa preocupada",
       "link": "https://www.bbc.com/portuguese/articles/cqx2ey1zxjymo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-18T14:54:26.000Z",
@@ -500,15 +536,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Projeto acaba com a obrigatoriedade da separação de bens em casamento de maiores de 70 anos",
-      "link": "https://www.camara.leg.br/noticias/1313158-projeto-acaba-com-a-obrigatoriedade-da-separacao-de-bens-em-casamento-de-maiores-de-70-anos",
-      "date": "2026-11-18T14:43:00.000Z",
-      "summary": "Código Civil determina separação obrigatória de bens",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
       "title": "BC divulga estudo sobre os canais de transmissão da política monetária por meio do crédito",
       "link": "https://www.bcb.gov.br/detalhenoticia/21322/nota",
       "date": "2026-11-18T12:30:49.000Z",
@@ -525,24 +552,6 @@
       "source": "ONU News",
       "cat": "internacional",
       "type": "oficial"
-    },
-    {
-      "title": "Tarcísio escolhe Natália Resende para ‘supersecretaria’ de Planejamento, Orçamento e Investimentos",
-      "link": "https://www.estadao.com.br/politica/tarcisio-escolhe-natalia-resende-para-supersecretaria-de-planejamento-orcamento-e-investimentos/",
-      "date": "2026-11-18T11:48:39.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Bets: Justiça bloqueia 5 aeronaves e iate de R$ 40 milhões em ação da PF contra Esportes da Sorte",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/justica-bloqueia-cinco-aeronaves-iate-de-r-40-milhoes-e-cobertura-em-sp-em-acao-da-pf-contra-bets/",
-      "date": "2026-11-18T11:39:36.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
     },
     {
       "title": "'A gente não tem cara de panaca': como samba-enredo inspirado na Constituinte de 1988 virou último sucesso de Gonzaguinha",
