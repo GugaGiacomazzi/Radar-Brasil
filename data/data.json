@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-18T22:49:12.365Z",
+  "updated": "2026-11-18T23:47:22.200Z",
   "market": {
     "ibov": {
       "price": 167537.95,
       "pct": -1.34,
-      "time": "2026-11-18T22:49:07.607Z",
+      "time": "2026-11-18T23:47:13.396Z",
       "history": [
         {
           "d": "2026-10-19",
@@ -149,6 +149,177 @@
   },
   "news": [
     {
+      "title": "Andrei entrega a Fachin relatórios sobre ministros do STF e Master",
+      "link": "https://www.poder360.com.br/poder-justica/andrei-entrega-a-fachin-relatorios-sobre-ministros-do-stf-e-master/",
+      "date": "2026-11-18T23:41:24.000Z",
+      "summary": "Presidente do Supremo pediu a produção dos documentos para esclarecimentos “sem qualquer exceção de fato ou de pessoa”",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Senado aprova férias escolares flexíveis para Copa do Mundo de 2027",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/18/senado-aprova-calendario-escolar-flexivel-para-copa-do-mundo-de-2027",
+      "date": "2026-11-18T23:39:09.000Z",
+      "summary": "O Senado aprovou nesta quarta-feira (18) projeto de lei que permite aos sistemas de ensino decidirem se ajustam ou não o calendário escolar por conta da Copa do Mundo Feminina de 2027, que será no Brasil de 24 de junho a 25 de julho. O PL 3.481/2026 retira a o",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Vai à sanção campanha anual pelo fim da violência e do racismo contra mulheres",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/18/vai-a-sancao-campanha-anual-pelo-fim-da-violencia-e-do-racismo-contra-mulheres",
+      "date": "2026-11-18T23:38:41.000Z",
+      "summary": "O Senado aprovou nesta quarta-feira (18) um projeto de lei que institui campanha nacional de enfrentamento à violência contra a mulher e à desigualdade racial. O PL 6.222/2025 oficializa a celebração, de forma permanente, da Mobilização Nacional dos 21 Dias de",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "PGR denuncia Flávio Bolsonaro sob acusação de calúnia contra Lula em postagem sobre Maduro",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/pgr-denuncia-flavio-bolsonaro-sob-acusacao-de-calunia-contra-lula-em-postagem-sobre-maduro.shtml",
+      "date": "2026-11-18T23:34:00.000Z",
+      "summary": "A PGR (Procuradoria-Geral da República) denunciou, nesta segunda-feira (16), o senador Flávio Bolsonaro (PL-RJ) pela acusação de crime de calúnia contra o presidente Luiz Inácio Lula da Silva (PT). Leia mais (11/18/2026 - 20h34)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lula começa a tirar 'plano Moretti' do fogo amigo",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/adriana-fernandes/2026/11/lula-comeca-a-tirar-plano-moretti-do-fogo-amigo.shtml",
+      "date": "2026-11-18T23:30:00.000Z",
+      "summary": "O debate sobre o ajuste fiscal revela a incapacidade e a falta de vontade dos atores sociais e políticos de pensar de forma pragmática e construir acordos mínimos em torno de medidas que sejam positivas tanto para equilibrar as contas públicas quanto para melh",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Vorcaro tratou de ingressos da F1 para filho de diretor da PF, diz site",
+      "link": "https://www.estadao.com.br/politica/vorcaro-tratou-de-ingressos-da-f1-para-filho-de-diretor-da-pf-diz-site/",
+      "date": "2026-11-18T23:27:37.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Audiência aponta abandono e negligência como principais violências contra mulheres idosas no Brasil",
+      "link": "https://www.camara.leg.br/noticias/1320884-audiencia-aponta-abandono-e-negligencia-como-principais-violencias-contra-mulheres-idosas-no-brasil",
+      "date": "2026-11-18T23:24:00.000Z",
+      "summary": "Cerca de 65% das denúncias de violência contra idosos registradas no país envolvem mulheres; muitas vezes, agressões são praticadas por filhos e netos",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Andrei entrega a Fachin relatórios da PF com menções a ministros do STF no caso Master",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/andrei-entrega-a-fachin-relatorios-da-pf-com-mencoes-a-ministros-do-stf-no-caso-master.shtml",
+      "date": "2026-11-18T23:23:00.000Z",
+      "summary": "O diretor-geral da Polícia Federal, Andrei Rodrigues, entregou nesta quarta-feira (18) ao presidente do STF (Supremo Tribunal Federal), Edson Fachin, os relatórios com as menções sobre cada um dos ministros da corte encontradas no celular de Daniel Vorcaro, ex",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Valdemar diz que Nikolas não tem idade para concorrer à presidência da Câmara",
+      "link": "https://www.estadao.com.br/politica/valdemar-diz-que-nikolas-nao-tem-idade-para-concorrer-a-presidencia-da-camara-nprp/",
+      "date": "2026-11-18T23:20:21.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Banco do Brasil alerta clientes sobre vazamento de dados pessoais",
+      "link": "https://www.estadao.com.br/economia/banco-do-brasil-alerta-clientes-sobre-vazamento-de-dados-pessoais-npr/",
+      "date": "2026-11-18T23:12:14.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Parte da esquerda não entendeu o básico na economia e tenta induzir Lula ao erro",
+      "link": "https://www.estadao.com.br/economia/alvaro-gribel/parte-da-esquerda-nao-entendeu-o-basico-na-economia-e-tenta-induzir-lula-ao-erro/",
+      "date": "2026-11-18T23:10:11.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Jetour anuncia fábrica no Brasil, investimento de R$ 400 milhões e novo SUV elétrico",
+      "link": "https://g1.globo.com/carros/noticia/2026/11/18/jetour-carro-lancamento.ghtml",
+      "date": "2026-11-18T23:05:06.000Z",
+      "summary": "Jetour investe R$ 400 milhões para produzir SUVs no Brasil e anuncia novo modelo Reprodução/Jetour A montadora chinesa Jetour anunciou nesta quarta-feira (18) um investimento adicional de R$ 400 milhões no Brasil para iniciar a produção nacional dos SUVs T1 e ",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Senado completa votação, e ajuste fiscal segue para a Câmara",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/18/senado-completa-votacao-e-ajuste-fiscal-segue-para-a-camara",
+      "date": "2026-11-18T23:04:07.000Z",
+      "summary": "O Senado completou, nesta quarta-feira (18), a votação do projeto do ajuste fiscal (PLP 299/2026). O texto principal já havia sido aprovado na última quinta-feira (12). A matéria, aprovada em turno suplementar com 69 votos a favor e dois contrários, segue agor",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Aprovado prazo maior para uso de verba de internet nas escolas públicas",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/18/aprovado-prazo-maior-para-uso-de-verba-de-internet-nas-escolas-publicas",
+      "date": "2026-11-18T23:02:11.000Z",
+      "summary": "O Senado aprovou nesta quarta-feira (18) nova ampliação no prazo para que os estados e o Distrito Federal usem recursos da União na melhoria da conectividade das escolas, com a aquisição de equipamentos para estudantes e professores da rede pública de ensino. ",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Lula quer ampliar participação popular nas decisões do governo",
+      "link": "https://www.poder360.com.br/poder-governo/lula-quer-ampliar-participacao-popular-nas-decisoes-do-governo/",
+      "date": "2026-11-18T23:01:46.000Z",
+      "summary": "Encontro em Brasília busca mobilizar o “Exército do Lula” e aproximar movimentos sociais das decisões sobre políticas públicas e Orçamento",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "TCU mantém Correios em lista de estatais da administração federal com riscos fiscais",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/18/tcu-mantem-correios-em-lista-de-estatais-da-administracao-federal-com-riscos-fiscais.ghtml",
+      "date": "2026-11-18T23:00:18.000Z",
+      "summary": "O Tribunal de Contas da União (TCU) manteve os Correios na lista de alto risco da administração pública federal diante do \"severo agravamento\" da situação econômico-financeira da estatal, que acumula prejuízos líquidos nos últimos anos. A lista é divulgada a c",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Atingidos por rompimento de barragem da Vale exigem retomada do auxílio emergencial",
+      "link": "https://www.camara.leg.br/noticias/1320885-atingidos-por-rompimento-de-barragem-da-vale-exigem-retomada-do-auxilio-emergencial",
+      "date": "2026-11-18T23:00:00.000Z",
+      "summary": "",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "O lado bom e o lado ruim da política climática",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/martinwolf/2026/11/o-lado-bom-e-o-lado-ruim-da-politica-climatica.shtml",
+      "date": "2026-11-18T23:00:00.000Z",
+      "summary": "A humanidade é brilhante na inovação e péssima para lidar com desafios políticos globais. Isso não surpreende. A inovação responde a incentivos nos níveis individual e nacional; já os desafios políticos globais inevitavelmente geram enormes falhas de cooperaçã",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "PSB e PDT oficializam federação partidária; entenda como funciona a união",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/18/psb-pdt-federacao-entenda.ghtml",
+      "date": "2026-11-18T22:56:40.000Z",
+      "summary": "Carlos Lupi (PDT) e Tabata Amaral (PSB-SP) em meio à federação PSB e PDT oficializada em 18 de novembro de 2026. Ton Molina/FotoArena/Estadão Conteúdo; Vinicius Loures/Câmara dos Deputados O Partido Socialista Brasileiro (PSB) e o Partido Democrático Trabalhis",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "Arco Norte e etanol incentivam investimentos no milho, diz banco",
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/vaivem/2026/11/arco-norte-e-etanol-incentivam-investimentos-no-milho-diz-banco.shtml",
       "date": "2026-11-18T22:45:00.000Z",
@@ -179,7 +350,7 @@
       "title": "PGR denuncia Flávio Bolsonaro por calúnia contra Lula",
       "link": "https://g1.globo.com/politica/noticia/2026/11/18/pgr-denuncia-flavio-bolsonaro-por-calunia-contra-lula.ghtml",
       "date": "2026-11-18T22:38:11.000Z",
-      "summary": "Presidente reeleito Lula e o candidato derrotado Flávio Bolsonaro Paulo Pinto e Joédson Alves/Agencia Brasil A Procuradoria-Geral da República (PGR) denunciou o senador Flávio Bolsonaro (PL-RJ) por calúnia contra o presidente Luiz Inácio Lula da Silva (PT). Em",
+      "summary": "Presidente reeleito Lula e o candidato derrotado Flávio Bolsonaro Paulo Pinto e Joédson Alves/Agencia Brasil A Procuradoria-Geral da República (PGR) denunciou o senador Flávio Bolsonaro (PL-RJ) por calúnia contra o presidente Luiz Inácio Lula da Silva (PT) ao ",
       "source": "g1",
       "cat": "politica",
       "type": "imprensa"
@@ -212,21 +383,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Andrei se reúne com Fachin para entregar relatórios sobre ministros citados em mensagens de Vorcaro",
+      "title": "Andrei entrega a Fachin relatórios sobre ministros citados em mensagens de Vorcaro",
       "link": "https://g1.globo.com/politica/noticia/2026/11/18/andrei-fachin-relatorios-ministros-mensagens-vorcaro.ghtml",
       "date": "2026-11-18T22:26:55.000Z",
-      "summary": "O diretor-geral da Polícia Federal, Andrei Rodrigues, se reúne na noite desta quarta-feira (18) com o presidente do Supremo Tribunal federal (STF), ministro Edson Fachin, para entregar o relatório citando todos os ministros do tribunal mencionados ou que troca",
+      "summary": "Andrei se reúne com Fachin para entregar relatórios sobre ministros citados em mensagens de Vorcaro O diretor-geral da Polícia Federal, Andrei Rodrigues, se reuniu na noite desta quarta-feira (18) com o presidente do Supremo Tribunal federal (STF), ministro Ed",
       "source": "g1",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "A febre do dólar expõe a infecção que ameaça a economia brasileira",
-      "link": "https://www.estadao.com.br/economia/celso-ming/a-febre-do-dolar-expoe-a-infeccao-que-ameaca-a-economia-brasileira/",
-      "date": "2026-11-18T22:25:04.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -276,15 +438,6 @@
     },
     {
       "title": "EUA e Venezuela assinam acordo de cooperação militar",
-      "link": "https://www.poder360.com.br/poder-internacional/eua-e-venezuela-assinam-acordo-de-cooperacao-militar/",
-      "date": "2026-11-18T22:05:29.000Z",
-      "summary": "Presidente interina diz que acordo reforça treinamento e equipamentos para as Forças Armadas venezuelanas",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "EUA e Venezuela assinam acordo de cooperação militar",
       "link": "https://www.dw.com/pt-br/eua-e-venezuela-assinam-acordo-de-cooperação-militar/a-79986275?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-18T22:03:00.000Z",
       "summary": "Durante visita surpresa a Caracas, chefe do Pentágono, Pete Hegseth, firma acordo que marca a retomada da parceria em defesa entre os dois países.",
@@ -320,15 +473,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Presidente do Paraguai destitui diretor de Itaipu após crise do Ueno Bank",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/presidente-do-paraguai-destitui-diretor-de-itaipu-apos-crise-do-ueno-bank.shtml",
-      "date": "2026-11-18T21:55:00.000Z",
-      "summary": "O presidente do Paraguai, Pedro Alliana, destituiu nesta quarta-feira (18) o diretor paraguaio da hidrelétrica de Itaipu, compartilhada com o Brasil, por sua atuação na crise bancária que resultou na destituição e prisão do então presidente do país, Santiago P",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "TCU identifica falhas que dificultam avaliar resultados de políticas públicas",
       "link": "https://www12.senado.leg.br/noticias/materias/2026/11/18/tcu-identifica-falhas-que-dificultam-avaliar-resultados-de-politicas-publicas",
       "date": "2026-11-18T21:53:58.000Z",
@@ -336,78 +480,6 @@
       "source": "Agência Senado",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Anthropic precifica ação do IPO em US$ 83, acima do esperado",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/anthropic-precifica-acao-do-ipo-em-us-83.shtml",
-      "date": "2026-11-18T21:48:00.000Z",
-      "summary": "A Anthropic fixou nesta quarta-feira (18) o preço de sua oferta pública inicial de ações (IPO) em US$ 83 por papel, acima da faixa prevista de US$ 70 a US$ 78, em uma das maiores operações do tipo já registradas, disse uma fonte a par do assunto, citando que o",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Morte de Zumbi: luta dos africanos escravizados",
-      "link": "https://www12.senado.leg.br/noticias/infomaterias/2026/11/morte-de-zumbi-luta-dos-africanos-escravizados",
-      "date": "2026-11-18T21:46:03.000Z",
-      "summary": "",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Lançado novo volume da coleção Arquivo S, com reportagens sobre história do país",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/18/lancado-novo-volume-da-colecao-arquivo-s-com-reportagens-sobre-historia-do-pais",
-      "date": "2026-11-18T21:44:38.000Z",
-      "summary": "O Senado lançou nesta quarta-feira (18) o 11º volume da coleção Arquivo S — O Senado na História do Brasil, produzida pela Agência Senado. Transmitido ao vivo no programa Leituras, da TV Senado, o lançamento contou com a participação do jornalista Ricardo West",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Novo lança Paulo Martins na disputa pela presidência da Câmara contra Motta",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/11/novo-lanca-paulo-martins-na-disputa-pela-presidencia-da-camara-contra-motta.shtml",
-      "date": "2026-11-18T21:38:00.000Z",
-      "summary": "O Novo lançou nesta quarta-feira (18) Paulo Martins (PR), que voltará a assumir uma vaga de deputado federal a partir de 2027, para disputar a presidência da Câmara. A eleição será realizada em fevereiro do próximo ano. O anúncio foi feito em coletiva de impre",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "STJ torna réus magistrados do Maranhão suspeitos de vender sentenças",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/stj-torna-reus-magistrados-do-maranhao-suspeitos-de-vender-sentencas/",
-      "date": "2026-11-18T21:37:43.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Multiplan inaugura expansão de R$ 320 mi no ParkShopping, em Brasília",
-      "link": "https://www.poder360.com.br/poder-economia/multiplan-inaugura-expansao-de-r-320-mi-no-parkshopping-em-brasilia/",
-      "date": "2026-11-18T21:34:08.000Z",
-      "summary": "Ampliação acrescenta quase 9.000 m² de área locável e 60 operações ao empreendimento na capital federal; empresa conclui ciclo de quase R$ 2 bilhões em investimentos",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Comissão aprova convocação de Mauro Vieira para que explique atraso de salários no Itamaraty",
-      "link": "https://www.estadao.com.br/politica/comissao-aprova-convocacao-de-mauro-vieira-para-que-explique-atraso-de-salarios-no-itamaraty-nprp/",
-      "date": "2026-11-18T21:14:08.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Em vitória para governo Lula, Senado mantém dispositivo que preserva até R$ 18,3 bi do ajuste fiscal",
-      "link": "https://www.estadao.com.br/economia/senado-votacao-destaques-projeto-ajuste-fiscal/",
-      "date": "2026-11-18T21:13:09.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
     },
     {
       "title": "TCU identifica falhas no monitoramento dos resultados das políticas públicas do governo",
@@ -423,42 +495,6 @@
       "link": "https://www.camara.leg.br/noticias/1311401-projeto-preve-parcelamento-de-dividas-e-perdao-de-debitos-para-entidades-sem-fins-lucrativos",
       "date": "2026-11-18T20:54:00.000Z",
       "summary": "Proposta prevê descontos de até 100% em juros e multas e parcelamento em até 240 meses",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Comissão aprova projeto que proíbe homenagens a condenados por violência contra mulheres",
-      "link": "https://www.camara.leg.br/noticias/1320630-comissao-aprova-projeto-que-proibe-homenagens-a-condenados-por-violencia-contra-mulheres",
-      "date": "2026-11-18T20:48:00.000Z",
-      "summary": "Proibição também abrange crimes contra instituições ou bens públicos, programas, prêmios e medalhas; proposta segue em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "'Plano Moretti' reduz incentivo do Programa de Alimentação do Trabalhador e pressiona vale-refeição",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/plano-moretti-reduz-incentivo-do-programa-de-alimentacao-do-trabalhador-e-pressiona-vale-refeicao.shtml",
-      "date": "2026-11-18T20:48:00.000Z",
-      "summary": "O ajuste fiscal proposto pelo governo, que ficou conhecido como \"plano Moretti\", vai afetar diretamente o PAT (Programa de Alimentação do Trabalhador), que garante benefícios fiscais às empresas que oferecem vale-refeição aos funcionários. Leia mais (11/18/202",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Eleição para presidente da Câmara causa divisão no PL, e Nikolas ameaça deixar partido",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/18/eleicao-para-presidente-da-camara-causa-divisao-no-pl-e-nikolas-ameaca-deixar-partido.ghtml",
-      "date": "2026-11-18T20:44:21.000Z",
-      "summary": "O presidente da Câmara dos Deputados, Hugo Motta (Republicanos-PB), e o deputado federal Nikolas Ferreira (PL-MG) arte g1/Câmara dos Deputados A disputa pela presidência da Câmara dos Deputados provocou uma divisão no PL entre apoiar a reeleição de Hugo Motta ",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Câmara aprova criação de selo de respeito à voz do cidadão",
-      "link": "https://www.camara.leg.br/noticias/1320807-camara-aprova-criacao-de-selo-de-respeito-a-voz-do-cidadao",
-      "date": "2026-11-18T20:15:00.000Z",
-      "summary": "Resolução reconhece iniciativas de inovação em ouvidorias, transparência e participação cidadã",
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
@@ -506,24 +542,6 @@
       "summary": "",
       "source": "Estadão",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Toyota confirma chegada da picape Tacoma híbrida ao Brasil; modelo será fabricado na Argentina",
-      "link": "https://g1.globo.com/carros/noticia/2026/11/18/toyota-tacoma-feita-na-argentina-sera-vendida-no-brasil.ghtml",
-      "date": "2026-11-18T18:32:32.000Z",
-      "summary": "Toyota Tacoma feita na Argentina será vendida no Brasil Reprodução/Toyota Durante a inauguração da fábrica da Toyota em Sorocaba (SP), nesta quarta-feira (18), o presidente da montadora no Brasil, Evandro Maggio, confirmou que a picape Tacoma híbrida será vend",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Reforma tributária: alíquota de 11,3% da CBS pode valer só em 2027 e mudar depois; entenda",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/18/tributaria-aliquota-de-113percent-para-imposto-federal-valera-so-em-2027-e-segundo-receita-pode-subir-ou-descer-depois-entenda.ghtml",
-      "date": "2026-11-18T18:28:42.000Z",
-      "summary": "Secretário especial da Receita Federal do Brasil, Robinson Sakiyama Barreirinhas Saulo Cruz/Agência Senado O secretário da Receita Federal, Robinson Barreirinhas, lembrou nesta quarta-feira (18) que, pelas regras da reforma tributária sobre o consumo, a alíquo",
-      "source": "g1",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
