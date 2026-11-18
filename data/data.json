@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-17T23:46:33.526Z",
+  "updated": "2026-11-18T01:02:18.881Z",
   "market": {
     "ibov": {
       "price": 169816.64,
       "pct": 0.31,
-      "time": "2026-11-17T23:46:26.417Z",
+      "time": "2026-11-18T01:02:12.623Z",
       "history": [
         {
           "d": "2026-10-19",
@@ -145,19 +145,91 @@
   },
   "news": [
     {
-      "title": "Plano de demissão voluntária da GM envolve Onix e 24 meses de convênio médico",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/plano-de-demissao-voluntaria-da-gm-envolve-onix-e-24-meses-de-convenio-medico.shtml",
-      "date": "2026-11-17T23:44:00.000Z",
-      "summary": "A GM (General Motors), dona da marca Chevrolet, apresentou uma proposta de PDV (Plano de Demissão Voluntária) para funcionários da unidade fabril em São José dos Campos (86 km de São Paulo). A proposta, aceita pelos metalúrgicos da unidade, inclui bônus como s",
+      "title": "CEO da Amazon diz que EUA precisam construir data centers para não serem superados pela China em IA",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/ceo-da-amazon-diz-que-eua-precisam-construir-data-centers-para-nao-serem-superados-pela-china-em-ia.shtml",
+      "date": "2026-11-18T00:45:00.000Z",
+      "summary": "O CEO da Amazon, Andy Jassy, afirmou nesta terça-feira (17) que os Estados Unidos precisam continuar a construir data centers, senão serão ultrapassados pela China na disputa pela primazia na inteligência artificial. Leia mais (11/17/2026 - 21h45)",
       "source": "Folha",
       "cat": "economia",
       "type": "imprensa"
     },
     {
-      "title": "Câmara aprova mais R$ 6,5 bi para empresas afetadas por tarifaço dos EUA e conflitos no Oriente Médio",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/camara-aprova-mais-r-65-bi-para-empresas-afetadas-por-tarifaco-dos-eua-e-conflitos-no-oriente-medio.shtml",
-      "date": "2026-11-17T23:37:00.000Z",
-      "summary": "A Câmara dos Deputados aprovou nesta terça-feira (17) uma MP (medida provisória) que libera cerca de R$ 6,5 bilhões em crédito extraordinário para ajudar empresas brasileiras afetadas pelas tarifas impostas pelo governo do presidente Donald Trump e pela guerra",
+      "title": "Moretti e Lindbergh fazem as pazes após atritos por causa de ajuste fiscal e posam juntos para foto",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/moretti-e-lindbergh-fazem-as-pazes-apos-atritos-por-causa-de-ajuste-fiscal-e-posam-juntos-para-foto.shtml",
+      "date": "2026-11-18T00:42:00.000Z",
+      "summary": "O ministro do Planejamento e Orçamento, Bruno Moretti, e o deputado federal Lindbergh Farias (PT-RJ) fizeram as pazes e posaram abraçados para fotos durante reunião do partido que selou o apoio dos petistas à proposta de ajuste fiscal defendida pelo governo Lu",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "O que é o ajuste fiscal que o mercado cobra de Lula? Entenda por que ele desagrada muita gente e divide economistas",
+      "link": "https://www.bbc.com/portuguese/articles/cklyw32d9n7vo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-18T00:31:56.000Z",
+      "summary": "A proposta de ajuste fiscal divulgada pela equipe econômica na última semana provocou uma série de reações negativas - inclusive dentro da própria esquerda.",
+      "source": "BBC News Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Goldman Sachs rebaixa o Brasil para ‘neutro’ na Bolsa e coloca incerteza fiscal como principal risco",
+      "link": "https://www.estadao.com.br/economia/goldman-sachs-rebaixa-o-brasil-para-neutro-na-bolsa-e-coloca-incerteza-fiscal-como-principal-risco/",
+      "date": "2026-11-18T00:24:52.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Ato na Faria Lima contra o ajuste fiscal termina em confronto com a PM",
+      "link": "https://www.poder360.com.br/poder-seguranca-publica/ato-na-faria-lima-contra-o-ajuste-fiscal-termina-em-confronto-com-a-pm/",
+      "date": "2026-11-18T00:18:15.000Z",
+      "summary": "Protesto com o lema “O mercado não manda no Brasil” durou menos de uma hora na capital paulista; parte dos manifestantes queimou bandeiras de Israel e dos Estados Unidos",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Senado aprova crédito de até R$ 13,5 bi para empresas afetadas por tarifaços dos EUA",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/senado-aprova-credito-de-ate-r-135-bi-para-empresas-afetadas-por-tarifacos-dos-eua.shtml",
+      "date": "2026-11-18T00:17:00.000Z",
+      "summary": "O Senado aprovou nesta terça-feira (17) a MP (medida provisória) que libera até R$ 13,5 bilhões em crédito para empresas afetadas pelo tarifaço de 25% imposto pelo governo do presidente dos Estados Unidos, Donald Trump, sobre produtos brasileiros. Leia mais (1",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Líder do governo no congresso, Randolfe Rodrigues apresenta projeto para taxar big techs em 3%",
+      "link": "https://www.estadao.com.br/economia/lider-do-governo-no-congresso-randolfe-rodrigues-apresenta-projeto-para-taxar-big-techs-em-3/",
+      "date": "2026-11-18T00:14:15.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Mega-Sena 3087 acumula e prêmio vai a R$ 40 milhões; confira os números sorteados",
+      "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/17/mega-sena-concurso-3087-confira-os-numeros-sorteados.ghtml",
+      "date": "2026-11-18T00:05:09.000Z",
+      "summary": "Mega-Sena, concurso 3.087: confira os números sorteados O sorteio do concurso 3.087 da Mega-Sena foi realizado na noite desta terça-feira (17), em São Paulo. O prêmio para as apostas que acertassem as seis dezenas era de R$ 32,1 milhões. No entanto, ninguém le",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Em meio a racha na esquerda, líder do governo diz que PT votará unificado por ajuste fiscal",
+      "link": "https://www.estadao.com.br/economia/em-meio-a-racha-na-esquerda-lider-do-governo-diz-que-pt-votara-unificado-por-ajuste-fiscal/",
+      "date": "2026-11-17T23:52:51.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "GM anuncia plano de demissão voluntária e oferece Onix e 24 meses de convênio médico",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/plano-de-demissao-voluntaria-da-gm-envolve-onix-e-24-meses-de-convenio-medico.shtml",
+      "date": "2026-11-17T23:44:00.000Z",
+      "summary": "A GM (General Motors), dona da marca Chevrolet, apresentou uma proposta de PDV (Plano de Demissão Voluntária) para funcionários da unidade fabril em São José dos Campos (86 km de São Paulo). A proposta, aceita pelos metalúrgicos da unidade, inclui bônus como s",
       "source": "Folha",
       "cat": "economia",
       "type": "imprensa"
@@ -169,15 +241,6 @@
       "summary": "O STF (Supremo Tribunal Federal) inaugurou nesta terça-feira (17) a instalação de uma escultura de Oxê de Xangô no Salão Nobre da corte. A estátua representa um símbolo de justiça em religiões de matriz africana e na tradição iorubá. Leia mais (11/17/2026 - 20",
       "source": "Folha",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Brasil contesta análise europeia de negócio entre Anglo American e MMG, diz agência",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/brasil-contesta-analise-europeia-de-negocio-entre-anglo-american-e-mmg-diz-agencia.shtml",
-      "date": "2026-11-17T23:35:00.000Z",
-      "summary": "O governo brasileiro enviou uma carta à União Europeia contestando a análise em curso de autoridades antitruste do bloco sobre a venda da unidade brasileira de níquel da Anglo American para a MMG, afirmaram duas fontes diplomáticas à agência de notícias Reuter",
-      "source": "Folha",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -208,30 +271,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Trump minimiza série de falhas tecnológicas nos EUA e diz que 'coisas assim acontecem'",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/tec/2026/11/trump-minimiza-serie-de-falhas-tecnologicas-nos-eua-e-diz-que-coisas-assim-acontecem.shtml",
-      "date": "2026-11-17T23:10:00.000Z",
-      "summary": "O presidente dos Estados Unidos, Donald Trump, minimizou nesta terça-feira (17) uma série de falhas tecnológicas que afetaram o transporte aéreo, o setor bancário e os sistemas de segurança nacional dos EUA nos últimos dias. Leia mais (11/17/2026 - 20h10)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "O que a Comissão Antimáfia da Itália veio ver no Brasil e o que o Congresso pode aprender com ela",
       "link": "https://www.estadao.com.br/politica/marcelo-godoy/o-que-a-comissao-antimafia-da-italia-veio-ver-no-brasil-e-o-que-o-congresso-pode-aprender-com-ela/",
       "date": "2026-11-17T23:00:00.000Z",
       "summary": "",
       "source": "Estadão",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "O mercado e o BC tateiam no escuro diante da incerteza sobre a política fiscal do 4º mandato de Lula",
-      "link": "https://www.estadao.com.br/economia/fabio-alves/o-mercado-e-o-bc-tateiam-no-escuro-diante-da-incerteza-sobre-a-politica-fiscal-do-4-mandato-de-lula/",
-      "date": "2026-11-17T23:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -262,15 +307,6 @@
       "type": "oficial"
     },
     {
-      "title": "Renegociação de dívidas rurais alcança R$ 28 bi em 70 mil operações, aquém do esperado",
-      "link": "https://www.estadao.com.br/economia/agronegocios/renegociacao-de-dividas-rurais-alcanca-r-28-bi-em-r-70-mil-operacoes-aquem-do-esperado/",
-      "date": "2026-11-17T22:37:14.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Marcelo Castro defende fim da reeleição para cargos executivos",
       "link": "https://www12.senado.leg.br/noticias/materias/2026/11/17/marcelo-castro-defende-fim-da-reeleicao-para-cargos-executivos",
       "date": "2026-11-17T22:33:58.000Z",
@@ -294,15 +330,6 @@
       "date": "2026-11-17T22:27:08.000Z",
       "summary": "O presidente do Supremo Tribunal Federal (STF), Edson Fachin, afirmou nesta terça-feira (17) que o julgamento das ações que questionam a chamada Lei da Dosimetria, que prevê a redução de penas para condenados por atentados golpistas no país, pode ocorrer ainda",
       "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Roberto Freire acionará Justiça contra incorporação do Cidadania pelo PP",
-      "link": "https://www.poder360.com.br/partidos-politicos/roberto-freire-acionara-justica-contra-incorporacao-do-cidadania-pelo-pp/",
-      "date": "2026-11-17T22:25:44.000Z",
-      "summary": "Ex-ministro da Cultura diz que discorda de processo que associaria Cidadania a partido derivado do Arena, pilar da Ditadura Militar",
-      "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -505,24 +532,6 @@
       "type": "imprensa"
     },
     {
-      "title": "STJ suspende decisão que impedia cobrança de taxa da Uber para motoristas em todo o país",
-      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/17/stj-cobranca-taxa-uber-motoristas.ghtml",
-      "date": "2026-11-17T17:56:37.000Z",
-      "summary": "Motorista de aplicativo Maksim Goncharenok/Pexels O ministro Raul Araújo, do Superior Tribunal de Justiça (STJ), suspendeu provisoriamente os efeitos da decisão da 9ª Vara do Trabalho de Salvador (BA) que havia determinado a interrupção, em todo o país, do pro",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "O que é o ajuste fiscal que o mercado cobra de Lula? Entenda por que ele desagrada muita gente e divide economistas",
-      "link": "https://www.bbc.com/portuguese/articles/cklyw32d9n7vo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-17T15:15:18.000Z",
-      "summary": "A proposta de ajuste fiscal divulgada pela equipe econômica na última semana provocou uma série de reações negativas - inclusive dentro da própria esquerda.",
-      "source": "BBC News Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
       "title": "Brasil teve 1,6 mil intoxicações por pesticidas europeus em 2025",
       "link": "https://www.dw.com/pt-br/brasil-teve-1-6-mil-intoxicações-por-pesticidas-europeus-em-2025/a-79969105?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-17T13:10:00.000Z",
@@ -593,15 +602,6 @@
       "source": "ONU News",
       "cat": "internacional",
       "type": "oficial"
-    },
-    {
-      "title": "Rooftop a 110 metros e piscina de 100 m: novo residencial com assinatura Lindenberg do eixo Berrine",
-      "link": "https://www.estadao.com.br/economia/negocios/rooftop-a-110-metros-e-piscina-de-100-m-novo-residencial-com-assinatura-lindenberg-do-eixo-berrine/",
-      "date": "2026-11-16T10:01:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
     },
     {
       "title": "Lula vai conseguir emplacar 4 ministros no STF ou ficará refém de Senado bolsonarista?",
@@ -696,6 +696,7 @@
   ],
   "errors": [
     "feed CNN Brasil: HTTP 404",
-    "feed CNN Brasil: HTTP 404"
+    "feed CNN Brasil: HTTP 404",
+    "feed Planalto (governo): HTTP 429"
   ]
 }
