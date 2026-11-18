@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-18T07:07:38.017Z",
+  "updated": "2026-11-18T08:32:53.801Z",
   "market": {
     "ibov": {
       "price": 169816.64,
       "pct": 0.31,
-      "time": "2026-11-18T07:07:32.757Z",
+      "time": "2026-11-18T08:32:49.785Z",
       "history": [
         {
           "d": "2026-10-19",
@@ -154,6 +154,24 @@
       "type": "oficial"
     },
     {
+      "title": "Após vitória no Alasca, democratas ampliam maioria no Senado dos EUA",
+      "link": "https://www.poder360.com.br/poder-internacional/apos-vitoria-no-alasca-democratas-ampliam-maioria-no-senado-dos-eua/",
+      "date": "2026-11-18T08:21:40.000Z",
+      "summary": "Mary Peltola derrotou Dan Sullivan e garantiu ao partido vantagem de 56 cadeiras contra 44 dos republicanos",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Inflação anual do Reino Unido sobe para 3,6% em outubro",
+      "link": "https://www.poder360.com.br/poder-internacional/inflacao-anual-do-reino-unido-sobe-para-36-em-outubro/",
+      "date": "2026-11-18T07:37:17.000Z",
+      "summary": "Alta foi impulsionada pelos preços recordes do diesel, que atingiram o maior nível desde 1996",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "Goldman Sachs rebaixa recomendação de ações brasileiras para neutro",
       "link": "https://www.poder360.com.br/poder-economia/goldman-sachs-rebaixa-recomendacao-de-acoes-brasileiras-para-neutro/",
       "date": "2026-11-18T07:01:06.000Z",
@@ -249,24 +267,6 @@
       "date": "2026-11-18T03:30:00.000Z",
       "summary": "O mais recente balanço dos Correios indica que a estatal registrou o 16º trimestre seguido com as contas no vermelho – apenas entre janeiro e setembro deste ano, o prejuízo chegou a R$ 7,5 bilhões. O último resultado do Banco do Brasil também marca um tombo de",
       "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "PF indicia grupo por fraude em respiradores na pandemia",
-      "link": "https://www.poder360.com.br/poder-seguranca-publica/pf-indicia-grupo-por-fraude-em-respiradores-na-pandemia/",
-      "date": "2026-11-18T03:21:21.000Z",
-      "summary": "Consórcio Nordeste pagou R$ 48,7 milhões por 300 aparelhos não entregues; relatório enviado ao STJ não inclui Rui Costa, presidente do consórcio à época",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Procurador-geral do Paraguai renuncia ante iminência de impeachment",
-      "link": "https://www.poder360.com.br/poder-internacional/procurador-geral-do-paraguai-renuncia-ante-iminencia-de-impeachment/",
-      "date": "2026-11-18T03:08:32.000Z",
-      "summary": "Emiliano Rolón deixou posto frente a uma articulação da oposição para sua destituição por omissão no caso do Ueno Bank",
-      "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
     },
