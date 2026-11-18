@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-18T04:39:49.433Z",
+  "updated": "2026-11-18T05:44:33.041Z",
   "market": {
     "ibov": {
       "price": 169816.64,
       "pct": 0.31,
-      "time": "2026-11-18T04:39:44.884Z",
+      "time": "2026-11-18T05:44:26.210Z",
       "history": [
         {
           "d": "2026-10-19",
@@ -145,6 +145,15 @@
   },
   "news": [
     {
+      "title": "'Identidade e memória': entenda por que o STF agora tem uma escultura de Xangô no acesso ao plenário",
+      "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/18/identidade-e-memoria-entenda-por-que-o-stf-agora-tem-uma-escultura-de-xango-no-acesso-ao-plenario.ghtml",
+      "date": "2026-11-18T05:00:00.000Z",
+      "summary": "STF inaugura escultura de Xangô em Brasília Erika Mendes/g1 DF O Supremo Tribunal Federal (STF) inaugurou nesta terça-feira (17), uma escultura de Oxê de Xangô, símbolo da Justiça na tradição iorubá e das religiões de matriz africana. A peça foi instalada no h",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "A renda parou, a tarifa não",
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/mauricio-portugal-ribeiro/2026/11/a-renda-parou-a-tarifa-nao.shtml",
       "date": "2026-11-18T04:35:00.000Z",
@@ -232,15 +241,6 @@
       "summary": "Escândalo do Banco Master: uma ano após a liquidação, investidores ainda sentem efeitos Há um ano, o Banco Central (BC) decretou a liquidação extrajudicial do Banco Master, dando início ao maior acionamento da história do Fundo Garantidor de Créditos (FGC). A ",
       "source": "g1",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Secretários defendem ministro da Segurança com experiência na 'linha de frente' e sem indicação política e querem combate a líderes de facções",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/18/secretarios-defendem-ministro-da-seguranca-com-experiencia-na-linha-de-frente.ghtml",
-      "date": "2026-11-18T03:00:00.000Z",
-      "summary": "Comando Vermelho domina o crime na maior parte do Amazonas Divulgação Secretários estaduais de Segurança Pública defendem que o futuro Ministério da Segurança Pública seja comandado por um profissional com experiência na área e capacidade de diálogo com govern",
-      "source": "g1",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -687,6 +687,7 @@
   ],
   "errors": [
     "feed CNN Brasil: HTTP 404",
-    "feed CNN Brasil: HTTP 404"
+    "feed CNN Brasil: HTTP 404",
+    "feed Planalto (governo): HTTP 429"
   ]
 }
