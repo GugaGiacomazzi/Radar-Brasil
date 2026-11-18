@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-18T20:51:03.489Z",
+  "updated": "2026-11-18T21:50:03.863Z",
   "market": {
     "ibov": {
-      "price": 167719.2,
-      "pct": -1.24,
-      "time": "2026-11-18T20:50:55.765Z",
+      "price": 167537.95,
+      "pct": -1.34,
+      "time": "2026-11-18T21:49:48.222Z",
       "history": [
         {
           "d": "2026-10-19",
@@ -92,7 +92,7 @@
         },
         {
           "d": "2026-11-18",
-          "c": 167719.2031
+          "c": 167537.9531
         }
       ]
     },
@@ -149,16 +149,223 @@
   },
   "news": [
     {
-      "title": "Eleição para presidente da Câmara causa divisão no PL, e Nikolas ameaça deixar partido",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/18/eleicao-para-presidente-da-camara-causa-divisao-no-pl-e-nikolas-ameaca-deixar-partido.ghtml",
-      "date": "2026-11-18T20:44:21.000Z",
-      "summary": "O presidente do PL, Valdemar Costa Neto, e o deputado federal Nikolas Ferreira (PL-MG) Agência Brasil/Câmara dos Deputados A disputa pela presidência da Câmara dos Deputados provocou uma divisão no PL entre apoiar a reeleição de Hugo Motta (Republicanos-PB) ou",
+      "title": "ASSISTA: Senado analisa e vota destaques e emendas apresentadas ao texto do ajuste fiscal",
+      "link": "https://g1.globo.com/politica/ao-vivo/senado-pacote-medidas-fiscais.ghtml",
+      "date": "2026-11-18T21:48:16.000Z",
+      "summary": "ASSISTA: Senado analisa e vota destaques e emendas apresentadas ao texto do ajuste fiscal Proposta promove corte de benefícios fiscais e altera cálculo do piso constitucional da saúde. Texto-base foi aprovado por 45 votos a 31 na última quinta-feira (12) O Sen",
       "source": "g1",
       "cat": "politica",
       "type": "imprensa"
     },
     {
-      "title": "“Loucura”, diz Valdemar sobre Nikolas na presidência Câmara",
+      "title": "Novo lança Paulo Martins na disputa pela presidência da Câmara contra Motta",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/11/novo-lanca-paulo-martins-na-disputa-pela-presidencia-da-camara-contra-motta.shtml",
+      "date": "2026-11-18T21:38:00.000Z",
+      "summary": "O Novo lançou nesta quarta-feira (18) Paulo Martins (PR), que voltará a assumir uma vaga de deputado federal a partir de 2027, para disputar a presidência da Câmara. A eleição será realizada em fevereiro do próximo ano. O anúncio foi feito em coletiva de impre",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Multiplan inaugura expansão de R$ 320 mi no ParkShopping, em Brasília",
+      "link": "https://www.poder360.com.br/poder-economia/multiplan-inaugura-expansao-de-r-320-mi-no-parkshopping-em-brasilia/",
+      "date": "2026-11-18T21:34:08.000Z",
+      "summary": "Ampliação acrescenta quase 9.000 m² de área locável e 60 operações ao empreendimento na capital federal; empresa conclui ciclo de quase R$ 2 bilhões em investimentos",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Multiplan entra em compasso de espera diante de incertezas, diz CEO",
+      "link": "https://www.poder360.com.br/poder-economia/multiplan-entra-em-compasso-de-espera-diante-de-incertezas-diz-ceo/",
+      "date": "2026-11-18T21:32:19.000Z",
+      "summary": "Eduardo Peres diz que depois de 7 expansões em 3 anos, empresa priorizará a consolidação dos empreendimentos e aguardará sinais sobre o consumo e os rumos da economia para definir novos investimentos",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Caldeira explode em fábrica da Klabin em SC e dez trabalhadores são hospitalizados",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/caldeira-explode-em-fabrica-da-klabin-em-sc-e-dez-trabalhadores-sao-hospitalizados.shtml",
+      "date": "2026-11-18T21:32:00.000Z",
+      "summary": "A explosão de uma caldeira levou pelo menos dez trabalhadores da Klabin em Otacílio Costa (SC) a serem hospitalizados nesta quarta-feira (18), segundo informações do Corpo de Bombeiros e da companhia. Leia mais (11/18/2026 - 18h32)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Em audiência, chefe da PF e ministro negam interferência em investigações",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/18/em-audiencia-chefe-da-pf-e-ministro-negam-interferencia-em-investigacoes",
+      "date": "2026-11-18T21:27:56.000Z",
+      "summary": "O ministro da Justiça, Wellington Lima, e o diretor-geral da Polícia Federal, Andrei Rodrigues, afirmaram que não há qualquer tipo de interferência política nos trabalhos da PF. Eles responderam questionamentos de senadores em audiência pública no Senado nesta",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "PGR se manifesta favoravelmente à prorrogação de investigações contra Jaques Wagner no Caso Master",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/pgr-se-manifesta-favoravelmente-a-prorrogacao-de-investigacoes-contra-jaques-wagner-no-caso-master/",
+      "date": "2026-11-18T21:24:33.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Comissão define próximos passos para análise da reforma do Código Civil",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/18/comissao-define-proximos-passos-para-analise-da-reforma-do-codigo-civil",
+      "date": "2026-11-18T21:24:32.000Z",
+      "summary": "A Comissão Temporária para Reforma do Código Civil (CTCivil) discutiu nesta quarta-feira (18) um novo cronograma para a análise do projeto (PL 4/2025). A proposta prevê a entrega dos sub-relatórios temáticos até o fim de janeiro e a votação do relatório final ",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Sigma Lithium tem penhora de direitos minerários ordenada pela Justiça do Trabalho de Minas Gerais",
+      "link": "https://www.estadao.com.br/economia/negocios/sigma-lithium-tem-penhora-de-direitos-minerarios-ordenada-pela-justica-do-trabalho-de-minas-gerais/",
+      "date": "2026-11-18T21:21:37.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Setor nuclear cobra espaço nas metas climáticas da COP31",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/setor-nuclear-cobra-espaco-nas-metas-climaticas-da-cop31.shtml",
+      "date": "2026-11-18T21:16:00.000Z",
+      "summary": "Uma mobilização do setor nuclear está cobrando que a energia atômica tenha espaço nas decisões sobre metas climáticas durante a COP31 (31ª Conferência das Nações Unidas sobre Mudanças Climáticas), que acontece em Antália, na Turquia, até 20 de novembro. Repres",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Comissão aprova convocação de Mauro Vieira para que explique atraso de salários no Itamaraty",
+      "link": "https://www.estadao.com.br/politica/comissao-aprova-convocacao-de-mauro-vieira-para-que-explique-atraso-de-salarios-no-itamaraty-nprp/",
+      "date": "2026-11-18T21:14:08.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Em vitória para governo Lula, Senado mantém dispositivo que preserva até R$ 18,3 bi do ajuste fiscal",
+      "link": "https://www.estadao.com.br/economia/senado-votacao-destaques-projeto-ajuste-fiscal/",
+      "date": "2026-11-18T21:13:09.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Bastidores: Lula cobra pente-fino nos pedidos de cargos do Centrão para evitar novas traições",
+      "link": "https://www.estadao.com.br/politica/bastidores-lula-cobra-pente-fino-nos-pedidos-de-cargos-do-centrao-para-evitar-novas-traicoes/",
+      "date": "2026-11-18T21:12:14.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Defesa de Zambelli pede ao STF a anulação de condenação por perseguição armada a jornalista",
+      "link": "https://www.estadao.com.br/politica/defesa-de-zambelli-pede-ao-stf-a-anulacao-de-condenacao-por-perseguicao-armada-a-jornalista-nprp/",
+      "date": "2026-11-18T21:11:12.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Ter uma carteira para cada objetivo pode ser um erro?",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/blogs/de-grao-em-grao/2026/11/ter-uma-carteira-para-cada-objetivo-pode-ser-um-erro.shtml",
+      "date": "2026-11-18T21:00:00.000Z",
+      "summary": "Você começou a guardar dinheiro para a faculdade do seu filho e decidiu abrir uma conta de investimentos exclusivamente para isso. Parece uma decisão organizada e responsável. Mas será que separar esse dinheiro do restante do patrimônio é realmente a melhor ma",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Ele largou um trabalho com carteira assinada para jogar GTA 6",
+      "link": "https://www.estadao.com.br/economia/negocios/ele-largou-um-trabalho-com-carteira-assinada-para-jogar-gta-6/",
+      "date": "2026-11-18T21:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Por que o GTA importa: jogo vira fenômeno além dos videogames e impacta indústria da atenção",
+      "link": "https://www.estadao.com.br/economia/por-que-o-gta-importa-jogo-vira-fenomeno-alem-dos-videogames-e-impacta-industria-da-atencao/",
+      "date": "2026-11-18T21:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "TCU identifica falhas no monitoramento dos resultados das políticas públicas do governo",
+      "link": "https://www.camara.leg.br/noticias/1320816-tcu-identifica-falhas-no-monitoramento-dos-resultados-das-politicas-publicas-do-governo",
+      "date": "2026-11-18T20:55:00.000Z",
+      "summary": "Relatório também aponta desigualdade entre estados e regiões na implementação de programas",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Agro pede menos contingenciamento de recursos no Orçamento de 2027",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/18/agro-pede-menos-contingenciamento-de-recursos-no-orcamento-de-2027",
+      "date": "2026-11-18T20:54:53.000Z",
+      "summary": "O setor agropecuário apresentou, por meio de parlamentares, cerca de R$ 1 bilhão em emendas ao projeto de lei orçamentária de 2027 (PLN 24/2026). O dado foi revelado pela assessora da Confederação da Agricultura e Pecuária do Brasil (CNA) Isabel Mendes de Fari",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Projeto prevê parcelamento de dívidas e perdão de débitos para entidades sem fins lucrativos",
+      "link": "https://www.camara.leg.br/noticias/1311401-projeto-preve-parcelamento-de-dividas-e-perdao-de-debitos-para-entidades-sem-fins-lucrativos",
+      "date": "2026-11-18T20:54:00.000Z",
+      "summary": "Proposta prevê descontos de até 100% em juros e multas e parcelamento em até 240 meses",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Comissão aprova projeto que proíbe homenagens a condenados por violência contra mulheres",
+      "link": "https://www.camara.leg.br/noticias/1320630-comissao-aprova-projeto-que-proibe-homenagens-a-condenados-por-violencia-contra-mulheres",
+      "date": "2026-11-18T20:48:00.000Z",
+      "summary": "Proibição também abrange crimes contra instituições ou bens públicos, programas, prêmios e medalhas; proposta segue em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "'Plano Moretti' reduz incentivo do Programa de Alimentação do Trabalhador e pressiona vale-refeição",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/plano-moretti-reduz-incentivo-do-programa-de-alimentacao-do-trabalhador-e-pressiona-vale-refeicao.shtml",
+      "date": "2026-11-18T20:48:00.000Z",
+      "summary": "O ajuste fiscal proposto pelo governo, que ficou conhecido como \"plano Moretti\", vai afetar diretamente o PAT (Programa de Alimentação do Trabalhador), que garante benefícios fiscais às empresas que oferecem vale-refeição aos funcionários. Leia mais (11/18/202",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Meta lança Achados, aplicativo que reúne vendas do Facebook e Instagram",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/meta-lanca-achados-aplicativo-que-reune-vendas-do-facebook-e-instagram.shtml",
+      "date": "2026-11-18T20:48:00.000Z",
+      "summary": "A Meta lançou nesta terça-feira (17) no Brasil o Achados, aplicativo que reúne anúncios de produtos novos e usados publicados no Facebook Marketplace, em grupos do Facebook e no Instagram. A ferramenta permite buscar itens por categoria, preço e distância e co",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Eleição para presidente da Câmara causa divisão no PL, e Nikolas ameaça deixar partido",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/18/eleicao-para-presidente-da-camara-causa-divisao-no-pl-e-nikolas-ameaca-deixar-partido.ghtml",
+      "date": "2026-11-18T20:44:21.000Z",
+      "summary": "O presidente da Câmara dos Deputados, Hugo Motta (Republicanos-PB), e o deputado federal Nikolas Ferreira (PL-MG) arte g1/Câmara dos Deputados A disputa pela presidência da Câmara dos Deputados provocou uma divisão no PL entre apoiar a reeleição de Hugo Motta ",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "“Loucura”, diz Valdemar sobre Nikolas na presidência da Câmara",
       "link": "https://www.poder360.com.br/poder-congresso/loucura-diz-valdemar-sobre-nikolas-na-presidencia-camara/",
       "date": "2026-11-18T20:42:30.000Z",
       "summary": "Presidente do PL afirma que deputado de 30 anos não tem idade mínima para assumir o posto na linha sucessória da Presidência da Casa",
@@ -176,49 +383,13 @@
       "type": "imprensa"
     },
     {
-      "title": "ASSISTA: Senado discute propostas de mudanças no texto do ajuste fiscal",
-      "link": "https://g1.globo.com/politica/ao-vivo/senado-pacote-medidas-fiscais.ghtml",
-      "date": "2026-11-18T20:31:12.000Z",
-      "summary": "ASSISTA: Senado discute propostas de mudanças no texto do ajuste fiscal Proposta promove corte de benefícios fiscais e altera cálculo do piso constitucional da saúde. Texto-base foi aprovado por 45 votos a 31 na última quinta-feira (12) O Senado discute propos",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "CTFC vai apurar possíveis fraudes na Previdência e no crédito consignado",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/18/ctfc-vai-apurar-possiveis-fraudes-na-previdencia-e-no-credito-consignado",
-      "date": "2026-11-18T20:30:11.000Z",
-      "summary": "A Comissão de Fiscalização e Controle (CTFC) deverá apurar, com o auxílio do Tribunal de Contas da União (TCU), possíveis fraudes estruturadas no pagamento de benefícios previdenciários e na contratação de crédito consignado. A proposta de fiscalização (PFS 2/",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Beleza concentra 34% das marcas com crescimento mais acelerado no Brasil",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/beleza-concentra-34-das-marcas-com-crescimento-mais-acelerado-no-brasil.shtml",
-      "date": "2026-11-18T20:30:00.000Z",
-      "summary": "O setor de beleza e cuidados pessoais representa 34% das marcas insurgentes (com crescimento mais acelerado) identificadas no Brasil pela Bain &amp; Company. Das 53 empresas mapeadas na primeira edição nacional do estudo Insurgent Brands Brasil, 18 pertencem a",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Câmara aprova projeto que pune político que não colaborar com transição entre governos",
       "link": "https://g1.globo.com/politica/noticia/2026/11/18/camara-aprova-projeto-que-pune-politico-que-nao-colaborar-com-transicao-entre-governos.ghtml",
       "date": "2026-11-18T20:25:41.000Z",
-      "summary": "A Câmara dos Deputados aprovou nesta quarta-feira (18) projeto de lei que regulamenta o processo de transição administrativa entre governos - o governo em exercício e um novo governo eleito. As regras valem tanto para o presidente da República, quanto governad",
+      "summary": "A Câmara dos Deputados aprovou nesta quarta-feira (18) projeto de lei que regulamenta o processo de transição administrativa entre governos — o governo em exercício e um novo governo eleito. As regras valem tanto para o presidente da República, quanto governad",
       "source": "g1",
       "cat": "politica",
       "type": "imprensa"
-    },
-    {
-      "title": "CAE debate redução da sonegação como saída para baixar alíquota da futura CBS",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/18/cae-debate-reducao-da-sonegacao-como-saida-para-baixar-aliquota-da-futura-cbs",
-      "date": "2026-11-18T20:20:25.000Z",
-      "summary": "Até que ponto a reforma tributária sobre o consumo diminuirá a sonegação, melhorando a arrecadação? A Comissão de Assuntos Econômicos (CAE) debateu nesta quarta-feira (18) essa possibilidade, apontada como caminho para reduzir a alíquota de 11,3% proposta pelo",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
     },
     {
       "title": "O Master e o brasileiro desconfiado",
@@ -266,15 +437,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Humberto cobra decisão sobre trecho da Transnordestina em Pernambuco",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/18/humberto-cobra-decisao-sobre-trecho-da-transnordestina-em-pernambuco",
-      "date": "2026-11-18T20:03:37.000Z",
-      "summary": "Em pronunciamento no Plenário nesta quarta-feira (18), o senador Humberto Costa (PT-PE) cobrou do Tribunal de Contas da União (TCU) uma decisão sobre a retomada das obras da Ferrovia Transnordestina no trecho entre Salgueiro, no Sertão pernambucano, e o Porto ",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
       "title": "Câmara aprova tratado de assistência penal entre Brasil e Japão",
       "link": "https://www.camara.leg.br/noticias/1320788-camara-aprova-tratado-de-assistencia-penal-entre-brasil-e-japao",
       "date": "2026-11-18T20:03:00.000Z",
@@ -284,57 +446,12 @@
       "type": "oficial"
     },
     {
-      "title": "ANP rejeita pedidos para suspender processo de revisão das tarifas de gasodutos",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/anp-rejeita-pedidos-para-suspender-processo-de-revisao-das-tarifas-de-gasodutos.shtml",
-      "date": "2026-11-18T20:00:00.000Z",
-      "summary": "A ANP (Agência Nacional do Petróleo, Gás Natural e Biocombustíveis) decidiu nesta quarta-feira (18) seguir com a revisão das tarifas dos gasodutos brasileiros, apesar dos protestos de investidores do setor. Leia mais (11/18/2026 - 17h00)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Como a economia verde pode ajudar a reverter as mudanças climáticas",
       "link": "https://www.dw.com/pt-br/como-a-economia-verde-pode-ajudar-a-reverter-as-mudanças-climáticas/a-79983684?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-18T19:56:00.000Z",
       "summary": "O chamado crescimento verde promete um futuro no qual países possam prosperar sem destruir o meio ambiente. Mas essa seria uma perspectiva realista?",
       "source": "DW Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Farmacêuticas conseguem revisão na Justiça de multas milionárias pela venda de medicamentos acima do teto",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/farmaceuticas-conseguem-revisao-na-justica-de-multas-milionarias-pela-venda-de-medicamentos-acima-do-teto.shtml",
-      "date": "2026-11-18T19:47:00.000Z",
-      "summary": "Empresas farmacêuticas têm conseguido, junto a tribunais federais, a revisão de multas milionárias aplicadas pela Cmed (Câmara de Regulação do Mercado de Medicamentos), órgão ligado à Anvisa (Agência Nacional de Vigilância Sanitária), por venda de remédios aci",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Moro critica projeto de ajuste fiscal e aponta perdas para os estados",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/18/moro-critica-projeto-de-ajuste-fiscal-e-aponta-perdas-para-os-estados",
-      "date": "2026-11-18T19:43:38.000Z",
-      "summary": "O senador Sergio Moro (PL-PR), em pronunciamento no Plenário nesta quarta-feira (18), criticou o projeto de lei complementar que estabelece medidas para o ajuste das contas públicas. O parlamentar se posicionou contra a redução de repasses relacionados à Lei K",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Ata do Fed mostra preocupação com inflação e possibilidade de novas altas de juros",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/ata-do-fed-mostra-preocupacao-com-inflacao-e-possibilidade-de-novas-altas-de-juros.shtml",
-      "date": "2026-11-18T19:43:00.000Z",
-      "summary": "Autoridades do banco central dos Estados Unidos, o Fed (Federal Reserve) perceberam, no mês passado, um risco crescente de que talvez seja necessário intensificar seus esforços para controlar a inflação, mesmo tendo concordado em manter as taxas de juros estáv",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Ressurge movimentação por ex-superintendente do Cade Alexandre Barreto no comando do BB",
-      "link": "https://www.estadao.com.br/economia/ressurge-movimentacao-por-ex-superintendente-do-cade-alexandre-barreto-no-comando-do-bb/",
-      "date": "2026-11-18T19:43:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -347,56 +464,11 @@
       "type": "oficial"
     },
     {
-      "title": "Fed alerta para dívida ligada à IA e propõe novas altas de juros",
-      "link": "https://www.poder360.com.br/poder-economia/fed-alerta-para-divida-ligada-a-ia-e-propoe-novas-altas-de-juros/",
-      "date": "2026-11-18T19:40:16.000Z",
-      "summary": "Ata do banco central dos EUA aponta riscos no financiamento de centros de dados e indica aperto monetário contra inflação",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Lula visitará cacique Raoni na 5ª feira em Mato Grosso",
-      "link": "https://www.poder360.com.br/poder-governo/lula-visitara-cacique-raoni-na-5a-feira-em-mato-grosso/",
-      "date": "2026-11-18T19:37:28.000Z",
-      "summary": "Presidente irá à casa do líder indígena, em Peixoto de Azevedo, acompanhado do ministro dos Povos Indígenas, Eloy Terena; Raoni se recupera de uma infecção pulmonar e trata de um câncer no aparelho digestório",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Projeto aumenta penas para crimes ligados ao não pagamento de dívidas e comissões",
-      "link": "https://www.camara.leg.br/noticias/1310607-projeto-aumenta-penas-para-crimes-ligados-ao-nao-pagamento-de-dividas-e-comissoes",
-      "date": "2026-11-18T19:37:00.000Z",
-      "summary": "Texto também estabelece regras de segurança para contratos de intermediação de negócios de alto valor",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Comissão do Senado vai fiscalizar atuação de órgãos reguladores no caso Master",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/18/comissao-do-senado-vai-fiscalizar-atuacao-de-orgaos-reguladores-no-caso-master",
-      "date": "2026-11-18T19:34:00.000Z",
-      "summary": "A Comissão de Fiscalização e Controle (CTFC) aprovou, nesta quarta-feira (18), proposta para investigar possíveis irregularidades relacionadas à liquidação extrajudicial do Banco Master, decretada pelo Banco Central em novembro de 2025. De iniciativa do senado",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
       "title": "Banco do Brasil alerta clientes sobre vazamento de dados pessoais; veja o que foi exposto",
       "link": "https://g1.globo.com/tecnologia/noticia/2026/11/18/banco-do-brasil-dados.ghtml",
       "date": "2026-11-18T19:30:01.000Z",
-      "summary": "O Banco do Brasil (BB) soma R$ 1,64 bilhão em valores relacionados à renegociação de dívidas rurais em Mato Grosso Reprodução O Banco do Brasil informou nesta quinta-feira (18) que identificou, em 12 de novembro, um acesso não autorizado a dados pessoais de se",
+      "summary": "O Banco do Brasil (BB) soma R$ 1,64 bilhão em valores relacionados à renegociação de dívidas rurais em Mato Grosso Reprodução O Banco do Brasil informou nesta quarta-feira (18) que identificou, em 12 de novembro, um acesso não autorizado a dados pessoais de se",
       "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Cannes Lions aproxima marcas e agências em imersão executiva em São Paulo",
-      "link": "https://www.estadao.com.br/economia/negocios/cannes-lions-aproxima-marcas-agencias-imersao-executiva/",
-      "date": "2026-11-18T19:24:18.000Z",
-      "summary": "",
-      "source": "Estadão",
       "cat": "economia",
       "type": "imprensa"
     },
@@ -410,48 +482,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Andrei justifica afastamento de delegados da PF do caso Master: ‘Houve quebra de confiança’",
-      "link": "https://www.estadao.com.br/politica/andrei-justifica-afastamento-de-delegados-da-pf-do-caso-master-houve-quebra-de-confianca/",
-      "date": "2026-11-18T18:45:33.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Ajuste fiscal: Alcolumbre calcula que governo tem votos para manter texto; oposição aposta em revés",
-      "link": "https://www.estadao.com.br/economia/ajuste-fiscal-alcolumbre-calcula-que-governo-tem-votos-para-manter-texto-oposicao-aposta-em-reves/",
-      "date": "2026-11-18T18:41:09.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Setor agropecuário defende aumento de recursos no Orçamento de 2027",
-      "link": "https://www.camara.leg.br/noticias/1320734-setor-agropecuario-defende-aumento-de-recursos-no-orcamento-de-2027",
-      "date": "2026-11-18T18:41:00.000Z",
-      "summary": "Deputados criticam fala da presidente do Banco do Brasil sobre a inadimplência no meio rural",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
       "title": "Toyota confirma chegada da picape Tacoma híbrida ao Brasil; modelo será fabricado na Argentina",
       "link": "https://g1.globo.com/carros/noticia/2026/11/18/toyota-tacoma-feita-na-argentina-sera-vendida-no-brasil.ghtml",
       "date": "2026-11-18T18:32:32.000Z",
       "summary": "Toyota Tacoma feita na Argentina será vendida no Brasil Reprodução/Toyota Durante a inauguração da fábrica da Toyota em Sorocaba (SP), nesta quarta-feira (18), o presidente da montadora no Brasil, Evandro Maggio, confirmou que a picape Tacoma híbrida será vend",
       "source": "g1",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "TCM-SP lança cartilha sobre violência contra a mulher e mira selo de qualidade",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/tcm-sp-lanca-cartilha-sobre-violencia-contra-a-mulher-e-mira-selo-de-qualidade.shtml",
-      "date": "2026-11-18T18:30:00.000Z",
-      "summary": "O Tribunal de Contas do Município de São Paulo (TCM-SP) lançou uma cartilha com conteúdo de enfrentamento à violência contra as mulheres. O material é um dos passos para que a corte obtenha o Selo Nós por Elas, da Associação Brasileira de Normas Técnicas (ABNT",
-      "source": "Folha",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -464,42 +500,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Debatedores atribuem avanço do crime organizado nos mercados de bebidas e cigarros a impostos altos",
-      "link": "https://www.camara.leg.br/noticias/1320671-debatedores-atribuem-avanco-do-crime-organizado-nos-mercados-de-bebidas-e-cigarros-a-impostos-altos",
-      "date": "2026-11-18T18:02:00.000Z",
-      "summary": "Baixa fiscalização e punições brandas também foram apontadas como causas do problema durante debate na Comissão Externa de Combate à Pirataria",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Ex-alunos viram réus após criticar professor-juiz que pediu para servidora aplicar prova de ética na UFRJ",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/ex-alunos-viram-reus-apos-criticar-professor-juiz-que-pediu-para-servidora-aplicar-prova-de-etica-na-ufrj.shtml",
-      "date": "2026-11-18T18:00:00.000Z",
-      "summary": "O embate entre um juiz do Rio de Janeiro que dava aulas de ética na Faculdade Nacional de Direito da UFRJ (Universidade Federal do Rio de Janeiro) e alunos insatisfeitos com a condução da disciplina foi parar na Justiça, que tornou réus dois integrantes da tur",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "‘Metrópoles’ recebeu mais de R$ 15 mi do governo Cláudio Castro, no Rio, por 3 eventos, diz revista",
-      "link": "https://www.estadao.com.br/economia/metropoles-recebeu-15-mi-governo-claudio-castro-rio-eventos-revista-piaui/",
-      "date": "2026-11-18T17:55:59.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Um ajuste didático: ao invés de reformar o Estado, governo joga o custo para as empresas",
-      "link": "https://www.estadao.com.br/politica/fernando-schuler/um-ajuste-didatico-ao-inves-de-reformar-o-estado-governo-joga-o-custo-para-as-empresas/",
-      "date": "2026-11-18T17:44:35.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "BC divulga Fluxo cambial mensal",
       "link": "https://www.bcb.gov.br/detalhenoticia/21323/nota",
       "date": "2026-11-18T17:31:13.000Z",
@@ -507,15 +507,6 @@
       "source": "Banco Central",
       "cat": "economia",
       "type": "oficial"
-    },
-    {
-      "title": "Renda versus democracia?",
-      "link": "https://www.estadao.com.br/politica/carlos-pereira/renda-versus-democracia/",
-      "date": "2026-11-18T17:30:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
     },
     {
       "title": "Quem são os sete jovens fundadores da Anthropic que estão prestes a se tornarem multibilionários",
@@ -560,15 +551,6 @@
       "summary": "O encontro entre os líderes dos EUA, China e Rússia dará a Vladimir Putin uma grande plataforma, mas não o aproximará da vitória na guerra na Ucrânia.",
       "source": "BBC News Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Diretor da PF leva hoje a Fachin relatório sobre relações de ministros do STF com Vorcaro",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/diretor-da-pf-leva-hoje-a-fachin-relatorio-sobre-relacoes-de-ministros-do-stf-com-vorcaro/",
-      "date": "2026-11-18T16:01:27.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
