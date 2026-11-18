@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-18T10:39:58.426Z",
+  "updated": "2026-11-18T11:39:57.389Z",
   "market": {
     "ibov": {
       "price": 169816.64,
       "pct": 0.31,
-      "time": "2026-11-18T10:39:51.686Z",
+      "time": "2026-11-18T11:39:51.197Z",
       "history": [
         {
           "d": "2026-10-19",
@@ -154,12 +154,156 @@
       "type": "oficial"
     },
     {
+      "title": "Câmara deve votar ajuste fiscal de Lula só na próxima 3ª feira",
+      "link": "https://www.poder360.com.br/poder-congresso/camara-deve-votar-ajuste-fiscal-de-lula-so-na-proxima-3a-feira/",
+      "date": "2026-11-18T11:28:15.000Z",
+      "summary": "O relator do projeto diz que tentará votar a proposta na tarde de 5ªfeira (19.nov), mas a votação deve ficar para a próxima semana, já que Hugo Motta viajou a Buenos Aires",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Credores da Braskem resistem a oferta e discutem contraproposta",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/credores-da-braskem-resistem-a-oferta-e-discutem-contraproposta.shtml",
+      "date": "2026-11-18T11:28:00.000Z",
+      "summary": "Credores da Braskem resistiram à proposta mais recente da empresa para reestruturar suas dívidas, segundo pessoas a par do assunto, restando poucos dias para que as partes cheguem a um acordo e evitem um pedido de recuperação judicial. Leia mais (11/18/2026 - ",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Projeto inclui educação para o trânsito no currículo escolar",
+      "link": "https://www.camara.leg.br/noticias/1310168-projeto-inclui-educacao-para-o-transito-no-curriculo-escolar",
+      "date": "2026-11-18T11:27:00.000Z",
+      "summary": "Tema deverá ser desenvolvido de forma transversal e interdisciplinar; proposta está em análise na Câmara",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Risco de derrota no ajuste fiscal mostra que Lula terá de ceder mais espaço ao Centrão e partidos da Frente Ampla",
+      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/18/risco-de-derrota-no-ajuste-fiscal-mostra-que-lula-tera-de-ceder-mais-espaco-ao-centrao-e-partidos-da-frente-ampla.ghtml",
+      "date": "2026-11-18T11:25:25.000Z",
+      "summary": "Senado adia votação dos destaques do pacote de ajuste fiscal O risco de derrota na votação do ajuste fiscal no Senado é um sinal de alerta para o presidente Lula na montagem de sua equipe para o seu quarto mandato. Aliados do petista defendem que ele ceda mais",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Diretor da PF confirma que irá ao Senado prestar esclarecimentos sobre troca de delegados",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/18/diretor-da-pf-confirma-que-ira-ao-senado-prestar-esclarecimentos-sobre-troca-de-delegados.ghtml",
+      "date": "2026-11-18T11:13:56.000Z",
+      "summary": "Fachin deve receber relatório da PF sobre ministros no caso Master O diretor-geral da Polícia Federal (PF), Andrei Rodrigues, confirmou nesta quarta-feira (18) que atenderá aos convites das comissões do Senado para prestar esclarecimentos sobre as recentes tro",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Binance diz que negocia entrada em cinco países da Ásia após sofrer roubo bilionário",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/binance-diz-que-negocia-entrada-em-cinco-paises-da-asia-apos-sofrer-roubo-bilionario.shtml",
+      "date": "2026-11-18T11:10:00.000Z",
+      "summary": "A Binance planeja a expansão para cinco mercados asiáticos no próximo ano sem precisar captar recursos, mesmo após ter sofrido um furto recorde de US$ 6,3 bilhões em um ataque hacker no mês passado. Leia mais (11/18/2026 - 08h10)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Operação mira suspeitas de lavagem do grupo Esportes da Sorte, e Justiça determina bloqueio de R$ 2 bi",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/operacao-mira-suspeitas-de-lavagem-do-grupo-esportes-da-sorte-e-justica-determina-bloqueio-de-r-2-bi.shtml",
+      "date": "2026-11-18T11:07:00.000Z",
+      "summary": "A Polícia Federal cumpre 59 mandados de busca e apreensão nesta quarta-feira (18) em uma operação sobre suspeitas relacionadas ao grupo Esportes da Sorte, que atua no segmento das bets e é suspeito de lavagem de dinheiro, de sonegação e de exploração ilegal de",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Números da Nvidia impressionam, mas investidores temem sucessão de Huang",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/numeros-da-nvidia-impressionam-mas-investidores-temem-sucessao-de-huang.shtml",
+      "date": "2026-11-18T11:07:00.000Z",
+      "summary": "A previsão robusta da Nvidia para o próximo trimestre -de novembro de 2026 a janeiro de 2027- acalmou, por ora, os temores dos investidores quanto à sustentabilidade da demanda por inteligência artificial. No entanto, a sucessão de Jensen Huang no cargo de CEO",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Dexco investe em experiências proprietárias e celebra os 80 anos da Deca em 2027",
+      "link": "https://www.estadao.com.br/economia/negocios/dexco-investe-em-experiencias-proprietarias-e-celebra-os-80-anos-da-deca-em-2027/",
+      "date": "2026-11-18T11:01:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Maioria dos trabalhadores não está engajada; veja motivos e quais jornadas têm piores índices",
+      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/18/maioria-dos-trabalhadores-nao-esta-engajada-veja-motivos-e-quais-jornadas-tem-piores-indices.ghtml",
+      "date": "2026-11-18T11:00:01.000Z",
+      "summary": "Como se identifica o adoecimento mental no trabalho Seis em cada dez trabalhadores brasileiros não estão engajados no trabalho. É o que mostra a 4ª edição do estudo Engaja S/A, realizado pela Flash em parceria com a FGV EAESP: apenas 39% dos profissionais se c",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Trabalhadores desmotivados podem custar R$ 74,1 bilhões para as empresas, revela pesquisa",
+      "link": "https://www.estadao.com.br/economia/trabalhadores-desmotivados-podem-custar-r-741-bilhoes-para-as-empresas-revela-pesquisa/",
+      "date": "2026-11-18T11:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "Reunião de Trump, Putin e Xi pode dividir o mundo em três? Por que cúpula preocupa a Europa",
       "link": "https://www.bbc.com/portuguese/articles/cqx2ey1zxjymo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-18T10:39:10.000Z",
+      "date": "2026-11-18T10:53:21.000Z",
       "summary": "Preparativos para o primeiro encontro trilateral entre os líderes da China, da Rússia e dos EUA provocaram apreensão na Europa, onde alguns veem paralelos com a divisão do mundo em esferas de influência após a Segunda Guerra Mundial.",
       "source": "BBC News Brasil",
       "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Nvidia descarta volta de Jensen Huang ao comando da empresa e promete acelerar busca por novo CEO",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/18/nvidia-descarta-volta-de-jensen-huang-ao-comando-da-empresa-e-promete-acelerar-busca-por-novo-ceo.ghtml",
+      "date": "2026-11-18T10:50:58.000Z",
+      "summary": "Ex-CEO da Nvidia se pronuncia pela primeira vez após deixar o cargo: 'Cometi erros graves' O presidente do conselho da Nvidia, Harvey Jones, abriu uma teleconferência com investidores na terça-feira (18) afirmando que a empresa não recontrataria o cofundador J",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Inflação na Zona do Euro sobe para 4% ao ano em outubro",
+      "link": "https://www.poder360.com.br/poder-internacional/inflacao-na-zona-do-euro-sobe-para-4-ao-ano-em-outubro/",
+      "date": "2026-11-18T10:50:33.000Z",
+      "summary": "Preços sobem pelo 3º mês seguido, impulsionados por energia; Romênia, Lituânia e Bulgária registram maiores taxas",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Cid Gomes promete relatório do novo Desenrola para início de dezembro",
+      "link": "https://www.camara.leg.br/noticias/1320466-cid-gomes-promete-relatorio-do-novo-desenrola-para-inicio-de-dezembro",
+      "date": "2026-11-18T10:49:00.000Z",
+      "summary": "Comissão mista que analisa a medida provisória foi instalada nesta terça-feira",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Nikolas ameaça deixar PL se partido apoiar Hugo Motta",
+      "link": "https://www.poder360.com.br/poder-congresso/nikolas-ameaca-deixar-pl-se-partido-apoiar-hugo-motta/",
+      "date": "2026-11-18T10:40:25.000Z",
+      "summary": "Deputado diz que permanência na sigla seria “insustentável” caso legenda declare apoio à reeleição do presidente da Câmara",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Análise: Por que Alcolumbre pressiona Moraes pelo julgamento da Lei da Dosimetria?",
+      "link": "https://g1.globo.com/politica/blog/julia-duailibi/post/2026/11/18/analise-alcolumbre-moraes-dosimetria.ghtml",
+      "date": "2026-11-18T10:38:51.000Z",
+      "summary": "Davi Alcolumbre, Alexandre de Moraes e Hugo Motta Carlos Moura/Agência Senado, Antonio Augusto/STF e Marina Ramos / Câmara dos Deputados A movimentação dos presidentes do Senado Federal e da Câmara dos Deputados em relação ao ministro Alexandre de Moraes não é",
+      "source": "g1",
+      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -172,21 +316,21 @@
       "type": "imprensa"
     },
     {
+      "title": "Fazenda de SP demite ex-corregedor fiscal pego com R$ 330 mil e R$ 2 milhões em moedas digitais",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/fazenda-de-sp-demite-ex-corregedor-fiscal-pego-com-r-330-mil-e-r-2-milhoes-em-moedas-digitais/",
+      "date": "2026-11-18T10:26:39.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "CBF projeta perda de mais de R$ 2 bi até 2030 com proibição de bets",
       "link": "https://www.poder360.com.br/poder-sportsmkt/cbf-projeta-perda-de-mais-de-r-2-bi-ate-2030-com-proibicao-de-bets/",
       "date": "2026-11-18T10:12:42.000Z",
       "summary": "Confederação estima impacto de R$ 420 milhões em 2027, equivalente a 16% do orçamento projetado para o ano",
       "source": "Poder360",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Quem paga a passagem",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/mauricio-portugal-ribeiro/2026/11/quem-paga-a-passagem.shtml",
-      "date": "2026-11-18T10:00:00.000Z",
-      "summary": "Na travessia que os gregos imaginaram para depois da vida, o barqueiro Caronte cobrava uma moeda. Eram os vivos que a davam, no momento da despedida. Quem chegava ao rio sem ela ficava do lado de cá, vagando pela margem, vendo os outros atravessar. Leia mais (",
-      "source": "Folha",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -199,48 +343,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Saiba quais ações estão na pauta do Congresso nesta 4ª feira",
-      "link": "https://www.poder360.com.br/poder-congresso/saiba-quais-acoes-estao-na-pauta-do-congresso-nesta-4a-feira-4/",
-      "date": "2026-11-18T09:15:58.000Z",
-      "summary": "Senado debate Estatuto do Aprendiz e uso de postes; Câmara discute tornozeleiras e caso Master",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Governo Lula: leia a agenda de ministros do governo nesta 4ª feira",
-      "link": "https://www.poder360.com.br/poder-governo/governo-lula-leia-a-agenda-de-ministros-do-governo-nesta-4a-feira-17/",
-      "date": "2026-11-18T09:15:49.000Z",
-      "summary": "Debate caso Master, evento sobre integridade e missão brasileira participa de evento na FAO movimentam o dia",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Agenda de Lula: leia os compromissos do presidente 4ª feira",
-      "link": "https://www.poder360.com.br/poder-governo/agenda-de-lula-leia-os-compromissos-do-presidente-4a-feira-3/",
-      "date": "2026-11-18T09:15:26.000Z",
-      "summary": "Reuniões no Palácio da Alvorada e encontros com o secretário de Assuntos Jurídicos e com a ministra da Casa Civil movimentam o dia",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Petistas reagem a Erika Hilton e jogam decisão sobre Prefeitura de SP em 2028 para Lula",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/petistas-reagem-a-erika-hilton-e-jogam-decisao-sobre-prefeitura-de-sp-em-2028-para-lula.shtml",
       "date": "2026-11-18T09:00:00.000Z",
       "summary": "A possibilidade de Erika Hilton (PSOL) migrar para o PT e se colocar como candidata à Prefeitura de São Paulo antecipou o debate interno sobre a eleição municipal de 2028. Leia mais (11/18/2026 - 06h00)",
       "source": "Folha",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Pré-Black Friday tem recuo de vendas no Brasil, mostra Itaú",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/pre-black-friday-tem-recuo-de-vendas-no-brasil-mostra-itau.shtml",
-      "date": "2026-11-18T09:00:00.000Z",
-      "summary": "Apesar das expectativas de alta nas vendas durante a Black Friday por parte de diversas empresas, o período que marca o esquenta da data, no qual algumas companhias já começam a oferecer descontos, mostrou um desempenho tímido neste ano no país. Leia mais (11/",
-      "source": "Folha",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -262,35 +370,8 @@
       "type": "imprensa"
     },
     {
-      "title": "Fachin aguardará reunião com PF para definir rito sobre ministros citados no celular de Vorcaro",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/fachin-aguardara-reuniao-com-pf-para-definir-rito-sobre-ministros-citados-no-celular-de-vorcaro/",
-      "date": "2026-11-18T08:30:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Fim das bets: Dois meses após Lula proibir apostas, comissão do Congresso ainda não foi instalada",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/fim-das-bets-dois-meses-apos-lula-proibir-apostas-comissao-do-congresso-ainda-nao-foi-instalada/",
-      "date": "2026-11-18T08:30:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Juros altos, dívida, crédito: por que a crise das empresas pode se agravar em 2027",
       "link": "https://www.estadao.com.br/economia/juros-altos-divida-credito-por-que-a-crise-das-empresas-pode-se-agravar-em-2027/",
-      "date": "2026-11-18T08:30:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "GTA 6 lidera o Game Awards; a Nintendo leva o prêmio do negócio",
-      "link": "https://www.estadao.com.br/economia/camila-farani/gta-6-lidera-o-game-awards-a-nintendo-leva-o-premio-do-negocio/",
       "date": "2026-11-18T08:30:00.000Z",
       "summary": "",
       "source": "Estadão",
@@ -307,24 +388,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Estudo mostra que um terço das cidades têm eletropostos públicos, mas há falhas na distribuição",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/eduardosodre/2026/11/estudo-mostra-que-um-terco-das-cidades-tem-eletropostos-publicos-mas-ha-falhas-na-distribuicao.shtml",
-      "date": "2026-11-18T07:00:00.000Z",
-      "summary": "A rede de pontos de recarga para veículos elétricos e híbridos plug-in segue em expansão no Brasil, mas a distribuição irregular entre as regiões é um problema diante do aumento das vendas. É o que mostra o estudo Eletromobilidade no Brasil, desenvolvido pelo ",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "INSS adotará prazo maior para análise de pedidos de BPC e outros benefícios; entenda",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/inss-adotara-prazo-maior-para-analise-de-pedidos-de-bpc-e-outros-beneficios-entenda.shtml",
-      "date": "2026-11-18T07:00:00.000Z",
-      "summary": "O INSS (Instituto Nacional do Seguro Social) prepara para 2027 uma normativa em que altera procedimentos para analisar a fila de benefícios atrasados. Hoje, são considerados em atraso os pedidos que estão sem conclusão há mais de 45 dias, sem distinção do tipo",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Por que empresas têm dificuldade para contratar enquanto trabalhadores rejeitam vagas?",
       "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/18/empresas-dificuldade-contratar-trabalhadores.ghtml",
       "date": "2026-11-18T06:00:00.000Z",
@@ -338,51 +401,6 @@
       "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/18/tomate-arroz-e-carne-encarecem-cesta-basica-em-todas-as-capitais-veja-o-valor-e-quanto-subiu.ghtml",
       "date": "2026-11-18T06:00:00.000Z",
       "summary": "Por que o preço do tomate disparou 90% este ano? Tomate, arroz e carne bovina de primeira foram os principais produtos responsáveis pela alta da cesta básica nas 27 capitais do país em outubro, mostra um relatório do Departamento Intersindical de Estatística e",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "'Identidade e memória': entenda por que o STF agora tem uma escultura de Xangô no acesso ao plenário",
-      "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/18/identidade-e-memoria-entenda-por-que-o-stf-agora-tem-uma-escultura-de-xango-no-acesso-ao-plenario.ghtml",
-      "date": "2026-11-18T05:00:00.000Z",
-      "summary": "STF inaugura escultura de Xangô em Brasília Erika Mendes/g1 DF O Supremo Tribunal Federal (STF) inaugurou nesta terça-feira (17), uma escultura de Oxê de Xangô, símbolo da Justiça na tradição iorubá e das religiões de matriz africana. A peça foi instalada no h",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Correios, Banco do Brasil e Petrobras: a saúde financeira das estatais - O Assunto #1848",
-      "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/11/18/correios-banco-do-brasil-e-petrobras-a-saude-financeira-das-estatais-o-assunto-1848.ghtml",
-      "date": "2026-11-18T03:30:00.000Z",
-      "summary": "O mais recente balanço dos Correios indica que a estatal registrou o 16º trimestre seguido com as contas no vermelho – apenas entre janeiro e setembro deste ano, o prejuízo chegou a R$ 7,5 bilhões. O último resultado do Banco do Brasil também marca um tombo de",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Custo Brasil é de R$ 3,5 trilhões por ano, 27,5% do PIB, estima novo estudo; veja o que pesa mais",
-      "link": "https://www.estadao.com.br/economia/custo-brasil-e-de-r-35-trilhoes-por-ano-275-do-pib-estima-novo-estudo-veja-o-que-pesa-mais/",
-      "date": "2026-11-18T03:01:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Senado deve ouvir nesta quarta ministro da Justiça sobre troca de delegados; diretor da PF não confirma presença",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/18/senado-deve-ouvir-nesta-quarta-ministro-da-justica-sobre-troca-de-delegados-diretor-da-pf-nao-confirma-presenca.ghtml",
-      "date": "2026-11-18T03:00:01.000Z",
-      "summary": "A Comissão de Constituição e Justiça (CCJ) e a Comissão de Segurança Pública (CSP) do Senado devem ouvir nesta quarta-feira (18) o ministro da Justiça e Segurança Pública, Wellington Lima e Silva, sobre o afastamento de delegados da Polícia Federal. Na semana ",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Crise do Master: um ano depois, clientes relatam perdas e desconfiança; veja o que mudou no mercado",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/18/crise-do-master-um-ano-depois-clientes-relatam-perdas-e-desconfianca-veja-o-que-mudou-no-mercado.ghtml",
-      "date": "2026-11-18T03:00:01.000Z",
-      "summary": "Escândalo do Banco Master: uma ano após a liquidação, investidores ainda sentem efeitos Há um ano, o Banco Central (BC) decretou a liquidação extrajudicial do Banco Master, dando início ao maior acionamento da história do Fundo Garantidor de Créditos (FGC). A ",
       "source": "g1",
       "cat": "economia",
       "type": "imprensa"
@@ -418,6 +436,15 @@
       "title": "Moraes arquiva processo contra o ex-deputado Daniel Silveira por descumprir medidas cautelares",
       "link": "https://www.estadao.com.br/politica/moraes-arquiva-processo-contra-o-ex-deputado-daniel-silveira-por-descumprir-decisao-judicial-nprp/",
       "date": "2026-11-18T01:28:18.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "CNJ forma maioria para rejeitar presença da OAB em correição de precatórios",
+      "link": "https://www.estadao.com.br/politica/cnj-formou-maioria-para-rejeitar-presenca-da-oab-em-correicao-de-precatorios-nprp/",
+      "date": "2026-11-18T01:05:29.000Z",
       "summary": "",
       "source": "Estadão",
       "cat": "politica",
@@ -478,15 +505,6 @@
       "type": "oficial"
     },
     {
-      "title": "Medida que amplia crédito a exportações segue para sanção",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/17/medida-que-amplia-credito-a-exportacoes-segue-para-sancao",
-      "date": "2026-11-17T21:43:20.000Z",
-      "summary": "O Plenário do Senado aprovou nesta terça-feira (17) projeto derivado da medida provisória (MP) que ampliou em até R$ 13,5 bilhões os recursos do Plano Brasil Soberano destinados a empresas exportadoras prejudicadas pelo “tarifaço” dos Estados Unidos e pelos co",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
       "title": "Milhões enterrados e escândalos abalam círculo de ex-premiê da Hungria",
       "link": "https://www.dw.com/pt-br/milhões-enterrados-e-escândalos-abalam-círculo-de-ex-premiê-da-hungria/a-79974362?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-17T21:43:00.000Z",
@@ -527,24 +545,6 @@
       "link": "https://www.camara.leg.br/noticias/1320358-camara-aprova-reconhecimento-da-romaria-do-divino-pai-eterno-como-cultura-nacional",
       "date": "2026-11-17T20:55:00.000Z",
       "summary": "Festa reúne milhões de romeiros anualmente em Trindade, em Goiás",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Câmara aprova crédito extraordinário de R$ 300 milhões para combate a incêndios na Amazônia",
-      "link": "https://www.camara.leg.br/noticias/1320344-camara-aprova-credito-extraordinario-de-r-300-milhoes-para-combate-a-incendios-na-amazonia",
-      "date": "2026-11-17T20:45:00.000Z",
-      "summary": "Governo apontou aproximação do fogo de áreas urbanas em alguns municípios do Amazonas",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Relator defende aprovação do ajuste fiscal sem mudanças para evitar retorno ao Senado",
-      "link": "https://www.camara.leg.br/noticias/1320366-relator-defende-aprovacao-do-ajuste-fiscal-sem-mudancas-para-evitar-retorno-ao-senado",
-      "date": "2026-11-17T20:43:00.000Z",
-      "summary": "Mauro Benevides Filho afirma que a proposta preserva benefícios sociais como Bolsa Família, BPC e seguro-desemprego",
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
@@ -696,6 +696,7 @@
   ],
   "errors": [
     "feed CNN Brasil: HTTP 404",
-    "feed CNN Brasil: HTTP 404"
+    "feed CNN Brasil: HTTP 404",
+    "feed Planalto (governo): HTTP 429"
   ]
 }
