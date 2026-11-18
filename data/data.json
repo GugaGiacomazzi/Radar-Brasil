@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-18T03:33:20.785Z",
+  "updated": "2026-11-18T04:39:49.433Z",
   "market": {
     "ibov": {
       "price": 169816.64,
       "pct": 0.31,
-      "time": "2026-11-18T03:33:13.291Z",
+      "time": "2026-11-18T04:39:44.884Z",
       "history": [
         {
           "d": "2026-10-19",
@@ -144,6 +144,15 @@
     ]
   },
   "news": [
+    {
+      "title": "A renda parou, a tarifa não",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/mauricio-portugal-ribeiro/2026/11/a-renda-parou-a-tarifa-nao.shtml",
+      "date": "2026-11-18T04:35:00.000Z",
+      "summary": "Em 2013, no auge da ascensão da classe C, Anitta lançou \"Show das Poderosas\" e virou o rosto dessa subida. Em 2025, a moto mais vendida do Brasil é a CG 160 do entregador que roda doze horas por dia. Entre a poderosa e o motoboy está a história que Renato Meir",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
     {
       "title": "Correios, Banco do Brasil e Petrobras: a saúde financeira das estatais - O Assunto #1848",
       "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/11/18/correios-banco-do-brasil-e-petrobras-a-saude-financeira-das-estatais-o-assunto-1848.ghtml",
@@ -295,15 +304,6 @@
       "summary": "Para o advogado Hédio Silva Júnior, fundador do Idafro (Instituto de Defesa dos Direitos das Religiões Afro-brasileiras), o STF (Supremo Tribunal Federal) deu passo importante ao instalar na corte um símbolo africano da Justiça, ação que, na opinião de Hédio, ",
       "source": "Folha",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Vorcaro vivia rotina de luxo enquanto buscava dinheiro para fechar contas do Master",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/vorcaro-vivia-rotina-de-luxo-enquanto-buscava-dinheiro-para-fechar-contas-do-master.shtml",
-      "date": "2026-11-18T02:00:00.000Z",
-      "summary": "No início de julho de 2025, Daniel Vorcaro e a então noiva, Martha Graeff, estavam em um iate entre as cidades italianas de Nápoles e Capri. A rotina contrastava com a situação do Banco Master, que enfrentava dificuldade diária de fechar as contas. Leia mais (",
-      "source": "Folha",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -512,15 +512,6 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "O que é o ajuste fiscal que o mercado cobra de Lula? Entenda por que ele desagrada muita gente e divide economistas",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/17/o-que-e-o-ajuste-fiscal-que-o-mercado-cobra-de-lula-entenda-por-que-ele-desagrada-muita-gente-e-divide-economistas.ghtml",
-      "date": "2026-11-17T20:28:31.000Z",
-      "summary": "Lula e o atual ministro da Fazenda, Dario Durigan: direção da política econômica no quarto governo do presidente ainda é incógnita. Reuters via BBC A proposta de ajuste fiscal apresentada pela equipe econômica na última semana, enquanto o presidente Luiz Ináci",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
     },
     {
       "title": "O 'exército das avós': os números que mostram as responsáveis pelo pico de comparecimento nas eleições",
