@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-18T15:17:40.852Z",
+  "updated": "2026-11-18T16:24:06.600Z",
   "market": {
     "ibov": {
-      "price": 169312.94,
-      "pct": -0.3,
-      "time": "2026-11-18T15:17:35.113Z",
+      "price": 167806.1,
+      "pct": -1.18,
+      "time": "2026-11-18T16:24:01.688Z",
       "history": [
         {
           "d": "2026-10-19",
@@ -92,7 +92,7 @@
         },
         {
           "d": "2026-11-18",
-          "c": 169025.0625
+          "c": 167806.0938
         }
       ]
     },
@@ -149,6 +149,168 @@
   },
   "news": [
     {
+      "title": "Atlético-MG estreia patrocínio máster na final da Sul-Americana",
+      "link": "https://www.poder360.com.br/poder-sportsmkt/atletico-mg-estreia-patrocinio-master-na-final-da-sul-americana/",
+      "date": "2026-11-18T16:18:50.000Z",
+      "summary": "Acordo com Torcedor Premiado terá duração de 3 anos e pode render até R$ 75 milhões ao clube, conforme adesão da torcida",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Receita mais otimista com queda da sonegação pode reduzir alíquota da reforma tributária",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/blogs/que-imposto-e-esse/2026/11/receita-mais-otimista-com-queda-da-sonegacao-pode-reduzir-aliquota-da-reforma-tributaria.shtml",
+      "date": "2026-11-18T16:15:00.000Z",
+      "summary": "O Senado avalia que a Receita Federal está muito pessimista em relação à contribuição da reforma tributária para reduzir a sonegação, a inadimplência e os planejamentos empresariais para pagar menos impostos. Essa se tornou a principal dúvida para definir qual",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Por que encontro histórico com Xi e Trump já é uma vitória para Putin",
+      "link": "https://www.bbc.com/portuguese/articles/cvp86k97y0g8o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-18T16:14:08.000Z",
+      "summary": "O encontro entre os líderes dos EUA, China e Rússia dará a Vladimir Putin uma grande plataforma, mas não o aproximará da vitória na guerra na Ucrânia.",
+      "source": "BBC News Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Durigan vê economia deve crescer em 'patamar menor' em 2027, descarta recessão e diz acreditar em aprovação de pacote fiscal",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/18/durigan-ve-economia-deve-crescer-em-patamar-menor-em-2027-descarta-recessao-e-diz-acreditar-em-aprovacao-de-pacote-fiscal.ghtml",
+      "date": "2026-11-18T16:11:29.000Z",
+      "summary": "O ministro da Fazenda, Dario Durigan, afirmou nesta quarta-feira (18) que tem preocupações com a desaceleração da economia prevista para 2027, mas afirmou não acreditar em um cenário de recessão na economia brasileira no próximo ano. Em um cenário de juros alt",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "A geografia da polarização na eleição presidencial: o empate nacional que o interior não vivencia",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/18/a-geografia-da-polarizacao-na-eleicao-presidencial.ghtml",
+      "date": "2026-11-18T16:07:30.000Z",
+      "summary": "Desde 2018, os resultados das eleições para a Presidência da República têm sido interpretados como uma expressão direta da chamada polarização política do Brasil. A chave dessa leitura reside, quase sempre, na distribuição agregada dos percentuais dos segundos",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Ao vivo: ministro fala ao Senado sobre saída de delegados do caso Master",
+      "link": "https://www.poder360.com.br/brasil/ao-vivo-ministro-fala-ao-senado-sobre-saida-de-delegados-do-caso-master/",
+      "date": "2026-11-18T16:00:58.000Z",
+      "summary": "O titular da Justiça, Wellington César Lima, participa de sessão da Comissão de Constituição, Justiça e Cidadania",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Ao vivo: Senado vota destaques do ajuste fiscal",
+      "link": "https://www.poder360.com.br/poder-congresso/ao-vivo-senado-vota-destaques-do-ajuste-fiscal/",
+      "date": "2026-11-18T16:00:48.000Z",
+      "summary": "O texto principal foi aprovado pelos senadores em 12 de novembro; proposta resulta em alívio de até R$ 56,1 bilhões",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Ao vivo: STF retoma julgamento sobre piso salarial dos professores",
+      "link": "https://www.poder360.com.br/poder-justica/ao-vivo-stf-retoma-julgamento-sobre-piso-salarial-dos-professores/",
+      "date": "2026-11-18T16:00:03.000Z",
+      "summary": "Ministros analisam se reajustes do piso nacional devem ser aplicados aos salários iniciais e às demais faixas da carreira docente",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Racha na esquerda após anúncio de 'plano Moretti' envolve sombra de 2013 e novo exército digital",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/racha-na-esquerda-apos-anuncio-de-plano-moretti-envolve-sombra-de-2013-e-novo-exercito-digital.shtml",
+      "date": "2026-11-18T16:00:00.000Z",
+      "summary": "O anúncio do projeto de ajuste fiscal do ministro do Planejamento e Orçamento, Bruno Moretti, levou a um racha na esquerda que envolve o medo da repetição das manifestações de 2013, a adesão a um novo exército digital liderado pela esquerda radical e a tentati",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Relatórios da PF sobre ministros do STF e Master causam apreensão e incerteza sobre reação de Fachin",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/relatorios-da-pf-sobre-ministros-do-stf-e-master-causam-apreensao-e-incerteza-sobre-reacao-de-fachin.shtml",
+      "date": "2026-11-18T16:00:00.000Z",
+      "summary": "A previsão da entrega dos relatórios sobre a relação dos ministros do STF (Supremo Tribunal Federal) com Daniel Vorcaro, ex-dono do Banco Master, pela Polícia Federal tem causado apreensão na corte pelo conteúdo dos documentos e pela incerteza sobre como o pre",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Alvo da PF, Esportes da Sorte cresceu no futebol e liderou entre as bets de origem brasileira",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/alvo-da-pf-esportes-da-sorte-cresceu-no-futebol-e-liderou-entre-as-bets-de-origem-brasileira.shtml",
+      "date": "2026-11-18T15:55:00.000Z",
+      "summary": "Quando o Corinthians contratou o holandês Memphis Depay, em setembro de 2024, R$ 57 milhões da conta ficaram a cargo de uma casa de apostas do Recife. Era o dinheiro que a Esportes da Sorte havia reservado para um reforço no acordo que fechou com o clube dois ",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Área técnica do TCU vê indícios de irregularidades em pronunciamento de Lula na TV",
+      "link": "https://www.estadao.com.br/politica/area-tecnica-do-tcu-ve-indicios-de-irregularidades-em-pronunciamento-de-lula-na-tv/",
+      "date": "2026-11-18T15:49:26.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "CI aprova nome de Raul Anselmo Randon para trecho da BR-116",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/18/ci-aprova-nome-de-raul-anselmo-randon-para-trecho-da-br-116",
+      "date": "2026-11-18T15:49:21.000Z",
+      "summary": "Trecho da BR-116 entre o município de Caxias do Sul (RS) e a divisa com Santa Catarina poderá receber o nome de Rodovia Raul Anselmo Randon. A proposta foi aprovada nesta quarta-feira (18) pela Comissão de Infraestrutura (CI). O PL 2.071/2022 denomina oficialm",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Lula deve encontrar Alcolumbre hoje para tratar de STF e composição do governo",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/11/lula-deve-encontrar-alcolumbre-hoje-para-tratar-de-stf-e-composicao-do-governo.shtml",
+      "date": "2026-11-18T15:42:00.000Z",
+      "summary": "O presidente Lula (PT) deve se encontrar nesta quarta (18) com o presidente do Senado, Davi Alcolumbre (União Brasil-AP), de acordo com um aliado. Na reunião, segundo relatos, eles vão tratar da indicação para o STF (Supremo Tribunal Federal) e da montagem do ",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Morre Paulo Gallotti, ministro aposentado do STJ, aos 81 anos",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/morre-paulo-gallotti-ministro-aposentado-do-stj-aos-81-anos.shtml",
+      "date": "2026-11-18T15:39:00.000Z",
+      "summary": "Morreu nesta quarta-feira (18), em Florianópolis, o ministro aposentado do STJ (Superior Tribunal de Justiça) Paulo Gallotti, aos 81 anos. Leia mais (11/18/2026 - 12h39)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Wall Street prevê que crescimento dos lucros das empresas cairá pela metade em 2027",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/wall-street-preve-que-crescimento-dos-lucros-das-empresas-caira-pela-metade-em-2027.shtml",
+      "date": "2026-11-18T15:37:00.000Z",
+      "summary": "Bancos de Wall Street esperam que o crescimento dos lucros das empresas globais desacelere acentuadamente no próximo ano, à medida que o ritmo acelerado dos investimentos em inteligência artificial, que impulsionou a alta das bolsas, começa a perder força. Lei",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "PF pede prorrogação de inquérito sobre influenciadores contratados para atacar BC e defender Master",
+      "link": "https://www.estadao.com.br/economia/pf-pede-prorrogacao-de-inquerito-sobre-influenciadores-contratados-para-atacar-bc-e-defender-master-npr/",
+      "date": "2026-11-18T15:36:50.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "CCT aprova 37 projetos de radiodifusão",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/18/cct-aprova-37-projetos-de-radiodifusao",
+      "date": "2026-11-18T15:32:48.000Z",
+      "summary": "A Comissão de Ciência, Tecnologia e Inovação (CCT) aprovou, nesta quarta-feira (18), 37 projetos de decreto legislativo (PDLs) relativos à outorga e à renovação de serviços de radiodifusão em 16 estados. Do total, 16 tratam de rádios comunitárias e 21 de emiss",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
       "title": "Brasileiros gastaram mais de R$ 40 bilhões com bets até julho de 2026",
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/brasileiros-gastaram-mais-de-r-40-bilhoes-com-bets-ate-julho-de-2026.shtml",
       "date": "2026-11-18T15:12:00.000Z",
@@ -158,30 +320,21 @@
       "type": "imprensa"
     },
     {
-      "title": "Economista elogia Plano Moretti e estima impacto de R$ 51 bi em 2027",
-      "link": "https://www.poder360.com.br/poder-economia/economista-elogia-plano-moretti-e-estima-impacto-de-r-51-bi-em-2027/",
-      "date": "2026-11-18T15:09:08.000Z",
-      "summary": "Felipe Salto, da Warren, considera medidas um 1º passo para equilibrar as contas públicas",
-      "source": "Poder360",
+      "title": "Esquema de bet investigada é ‘modus operandi espalhado pelo setor de apostas’, diz chefe da Receita",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/esquema-de-bet-investigada-e-modus-operandi-espalhado-pelo-setor-de-apostas-diz-chefe-da-receita/",
+      "date": "2026-11-18T15:09:36.000Z",
+      "summary": "",
+      "source": "Estadão",
       "cat": "politica",
       "type": "imprensa"
     },
     {
-      "title": "Dicionário Cambridge escolhe 'humano' como palavra do ano de 2026, em reação à IA",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/tec/2026/11/dicionario-cambridge-escolhe-humano-como-palavra-do-ano-de-2026-em-reacao-a-ia.shtml",
-      "date": "2026-11-18T15:05:00.000Z",
-      "summary": "A palavra \"human\" (humano, em inglês) foi escolhida como a palavra do ano de 2026 pelo dicionário Cambridge. A seleção busca refletir que, em meio à enxurrada de textos, imagens, vídeos e até músicas produzidas por inteligência artificial, aquilo que é feito p",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Análise: por que encontro histórico com Xi e Trump já é uma vitória para Putin",
-      "link": "https://www.bbc.com/portuguese/articles/cvp86k97y0g8o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-18T15:00:56.000Z",
-      "summary": "O encontro entre os líderes dos EUA, China e Rússia dará a Vladimir Putin uma grande plataforma, mas não o aproximará da vitória na guerra na Ucrânia.",
-      "source": "BBC News Brasil",
-      "cat": "internacional",
+      "title": "Justiça suspende licitação que previa gasto de R$ 6 milhões com iPhones e outros celulares para parlamentares e servidores do Senado",
+      "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/18/justica-suspende-licitacao-que-previa-gasto-de-r-6-milhoes-com-celulares-para-parlamentares-e-servidores-do-senado.ghtml",
+      "date": "2026-11-18T15:03:31.000Z",
+      "summary": "Sadi diz que compra de celulares no Senado 'é escárnio com o dinheiro público' A Justiça Federal suspendeu, nesta quarta-feira (18), a licitação de R$ 6 milhões com serviços de telefonia para o Senado, que incluía o fornecimento de iPhones para parlamentares e",
+      "source": "g1",
+      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -203,7 +356,7 @@
       "type": "oficial"
     },
     {
-      "title": "Reunião de Trump, Putin e Xi pode dividir o mundo em três? Por que cúpula preocupa a Europa",
+      "title": "Reunião pode dividir o mundo em três? Por que cúpula entre Trump, Xi e Putin deixa a Europa preocupada",
       "link": "https://www.bbc.com/portuguese/articles/cqx2ey1zxjymo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-18T14:54:26.000Z",
       "summary": "Preparativos para o primeiro encontro trilateral entre os líderes da China, da Rússia e dos EUA provocaram apreensão na Europa, onde alguns veem paralelos com a divisão do mundo em esferas de influência após a Segunda Guerra Mundial.",
@@ -221,15 +374,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Advogado disse a Vorcaro ter informações de chefe da PF sobre inquérito",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/advogado-disse-a-vorcaro-ter-informacoes-de-chefe-da-pf-sobre-inquerito.shtml",
-      "date": "2026-11-18T14:47:00.000Z",
-      "summary": "O advogado Walfrido Warde, que atuava para o Banco Master, afirmou ao banqueiro Daniel Vorcaro ter obtido informações sobre a atuação do diretor-geral da PF (Polícia Federal), Andrei Rodrigues, em um inquérito contra o banco. Leia mais (11/18/2026 - 11h47)",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Projeto acaba com a obrigatoriedade da separação de bens em casamento de maiores de 70 anos",
       "link": "https://www.camara.leg.br/noticias/1313158-projeto-acaba-com-a-obrigatoriedade-da-separacao-de-bens-em-casamento-de-maiores-de-70-anos",
       "date": "2026-11-18T14:43:00.000Z",
@@ -237,33 +381,6 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Edir Macedo injeta R$ 1,7 bilhão em banco após perder R$ 581,4 mi",
-      "link": "https://www.poder360.com.br/poder-gente/edir-macedo-injeta-r-17-bilhao-em-banco-apos-perder-r-5814-mi/",
-      "date": "2026-11-18T14:42:20.000Z",
-      "summary": "Capitalização ainda depende de aval do Banco Central; auditoria aponta risco à continuidade das operações do Digimais",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Ministro nega fusão dos Ministérios dos Transportes e Portos e Aeroportos",
-      "link": "https://www.poder360.com.br/poder-governo/ministro-nega-fusao-dos-ministerios-dos-transportes-e-portos-e-aeroportos/",
-      "date": "2026-11-18T14:38:12.000Z",
-      "summary": "Sucessor de Renan Filho (MDB), George Santoro afirma que partido ainda discute com PT participação no próximo governo Lula",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Justiça atende Nikolas e suspende pregão para iPhones do Senado",
-      "link": "https://www.poder360.com.br/poder-congresso/justica-atende-nikolas-e-suspende-pregao-para-iphones-do-senado/",
-      "date": "2026-11-18T14:34:26.000Z",
-      "summary": "Edital determinou compra de aparelhos topo de linha por R$ 6 milhões; juiz citou violação aos princípios da moralidade",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
     },
     {
       "title": "Aliados de Alcolumbre dão como certo julgamento da Lei da Dosimetria depois de encontro com Moraes",
@@ -275,64 +392,10 @@
       "type": "imprensa"
     },
     {
-      "title": "CI aprova proteção a aeroclubes e uso gratuito de áreas em aeroportos",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/18/ci-aprova-protecao-a-aeroclubes-e-uso-gratuito-de-areas-em-aeroportos",
-      "date": "2026-11-18T14:26:46.000Z",
-      "summary": "A Comissão de Infraestrutura (CI) aprovou nesta quarta-feira (18) projeto que garante a aeroclubes instalados há mais de dez anos em aeroportos públicos o uso gratuito das áreas essenciais às suas atividades. A proposta também estabelece regras para impedir a ",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Diretor do BC defende atualização na lei de liquidação de bancos",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/diretor-do-bc-defende-atualizacao-na-lei-de-liquidacao-de-bancos.shtml",
-      "date": "2026-11-18T14:25:00.000Z",
-      "summary": "Ailton de Aquino, diretor de fiscalização do Banco Central, defende a atualização na lei que rege a intervenção em bancos, que aguarda deliberação no plenário da Câmara dos Deputados. Leia mais (11/18/2026 - 11h25)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Justiça Federal aceita ação de Nikolas Ferreira e suspende licitação de iPhones 18 Pro no Senado",
-      "link": "https://www.estadao.com.br/politica/justica-federal-aceita-acao-de-nikolas-ferreira-e-suspende-licitacao-de-iphones-18-pro-no-senado/",
-      "date": "2026-11-18T14:23:58.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Aumento do número de desembargadores do TRT18 (GO) vai a Plenário",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/18/aumento-do-numero-de-desembargadores-do-trt18-go-vai-a-plenario",
-      "date": "2026-11-18T14:21:21.000Z",
-      "summary": "Projeto que transforma cargos vagos de juiz do trabalho substituto em cargos de desembargador, no quadro permanente do Tribunal Regional do Trabalho (TRT) da 18ª Região (GO), teve o relatório aprovado nesta quarta-feira (18) pela Comissão de Constituição e Jus",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Diretor-geral da PF Andrei Rodrigues fala hoje ao Senado sobre troca de delegados",
-      "link": "https://g1.globo.com/politica/ao-vivo/diretor-pf-andrei-rodrigues-senado-crise-policia-federal-troca-delegados.ghtml",
-      "date": "2026-11-18T14:20:28.000Z",
-      "summary": "Diretor-geral da PF Andrei Rodrigues fala hoje ao Senado sobre troca de delegados Eles foram afastados de suas funções após elaboração de relatórios sobre o envolvimento de ministros do STF com Daniel Vorcaro, dono do Master. Diretor-geral da PF Andrei Rodrigu",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Anthropic deve anunciar preço de ações para IPO nesta quarta-feira",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/anthropic-deve-anunciar-preco-de-acoes-para-ipo-nesta-quarta-feira.shtml",
-      "date": "2026-11-18T14:17:00.000Z",
-      "summary": "A Anthropic anunciará nesta quarta-feira (18) o valor de suas ações para o IPO (oferta pública inicial de ações) que ocorre nesta quinta-feira (19) na Nasdaq. Leia mais (11/18/2026 - 11h17)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Toyota do Brasil mostra a picape Corolla Deck",
+      "title": "Toyota do Brasil apresenta a Corolla Deck; picape tem motor híbrido flex e chega em 2027",
       "link": "https://g1.globo.com/carros/noticia/2026/11/18/toyota-mostra-novo-produto.ghtml",
       "date": "2026-11-18T14:12:02.000Z",
-      "summary": "Toyota mostra nova picape Corolla Deck. Carlos Cereijo / g1 A Toyota apresentou nesta quarta-feira (18) a nova picape baseada na plataforma do Corolla. O modelo vai ser montado na nova linha de produção da empresa em Sorocaba (SP). Na apresentação, a Toyota de",
+      "summary": "Toyota Corolla Deck. Divulgação / Toyota A Toyota anunciou nesta quarta-feira (18) a Corolla Deck, picape híbrida flex da família Corolla que será vendida exclusivamente na América Latina. A produção está prevista para o primeiro semestre de 2027 na nova fábri",
       "source": "g1",
       "cat": "economia",
       "type": "imprensa"
@@ -347,39 +410,12 @@
       "type": "oficial"
     },
     {
-      "title": "Conversa com Lula faz Andrei mudar de posição e confirmar presença no Senado",
-      "link": "https://g1.globo.com/politica/blog/gerson-camarotti/post/2026/11/18/conversa-com-lula-faz-andrei-mudar-de-posicao-e-confirmar-presenca-no-senado.ghtml",
-      "date": "2026-11-18T14:02:20.000Z",
-      "summary": "Depois de ter negado que iria nesta quarta-feira (18) a uma audiência com comissões do Senado, o diretor da Polícia Federal, Andrei Rodrigues, mudou de posição. A mudança ocorreu após reunião com o presidente Luiz Inácio Lula da Silva na noite de terça-feira (",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Boato de 'apagão mundial' e onda de ataques hackers: o que aconteceu no mundo nas últimas semanas",
       "link": "https://g1.globo.com/tecnologia/noticia/2026/11/18/boato-de-apagao-mundial-e-onda-de-ataques-hackers-o-que-aconteceu-no-mundo-nas-ultimas-semanas.ghtml",
       "date": "2026-11-18T14:00:43.000Z",
       "summary": "Boato de 'apagão mundial' e onda de ataques hackers: o que aconteceu no mundo nas últimas semanas Reuters/Divulgação/Reprodução O mundo, de novo, não acabou. Mas a previsão de um \"apagão mundial\" dominou as redes sociais na terça-feira (17), em meio a uma onda",
       "source": "g1",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Governo negocia dois ministérios para União Brasil e quer PP com Comunicações e Ciência",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/governo-negocia-dois-ministerios-para-uniao-brasil-e-quer-pp-com-comunicacoes-e-ciencia.shtml",
-      "date": "2026-11-18T14:00:00.000Z",
-      "summary": "O presidente do PT, Edinho Silva, sugeriu ao União Brasil que o partido continue no comando dos ministérios do Desenvolvimento Regional e do Turismo no governo Lula 4, mas que o das Comunicações, hoje ocupado pela sigla, seja redirecionado para o PP, que també",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "TSE apresenta sistema de auditoria das urnas eletrônicas em congresso no México",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/tse-apresenta-sistema-de-auditoria-das-urnas-eletronicas-em-congresso-no-mexico.shtml",
-      "date": "2026-11-18T14:00:00.000Z",
-      "summary": "Após as eleições de 2026, o TSE (Tribunal Superior Eleitoral) apresenta nesta quarta-feira (18) o modelo brasileiro de fiscalização das urnas eletrônicas no 4º Congresso Internacional de Tecnologia Eleitoral, na Cidade do México. Leia mais (11/18/2026 - 11h00)",
-      "source": "Folha",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -401,24 +437,6 @@
       "type": "imprensa"
     },
     {
-      "title": "BR-319 é 'indispensável à segurança nacional', aprova Comissão de Infraestrutura",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/18/br-319-e-indispensavel-a-seguranca-nacional-aprova-comissao-de-infraestrutura",
-      "date": "2026-11-18T13:59:09.000Z",
-      "summary": "A Comissão de Serviços de Infraestrutura (CI) aprovou nesta quarta-feira (18) projeto que reconhece a BR-319, rodovia que liga Porto Velho a Manaus, como \"infraestrutura crítica indispensável à segurança nacional\". Essa classificação é atribuída a estruturas c",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Crise na PF: associação pede que Ministério da Justiça ouça delegados afastados",
-      "link": "https://g1.globo.com/politica/blog/camila-bomfim/post/2026/11/18/crise-na-pf-associacao-pede-ao-ministerio-da-justica-para-ouvir-delegados-afastados.ghtml",
-      "date": "2026-11-18T13:48:05.000Z",
-      "summary": "Fachin deve receber relatório da PF sobre ministros no caso Master A Associação Nacional dos Delegados de Polícia Federal (ADPF) solicitou ao Ministério da Justiça (MJ) que ouça diretamente os delegados da PF afastados da produção de relatórios ligados ao caso",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Projeto prevê atividades sobre trabalho escravo em escolas públicas",
       "link": "https://www.camara.leg.br/noticias/1311970-projeto-preve-atividades-sobre-trabalho-escravo-em-escolas-publicas",
       "date": "2026-11-18T13:45:00.000Z",
@@ -426,15 +444,6 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Dois em cada três desempregados no Brasil são pretos ou pardos, aponta IBGE",
-      "link": "https://www.estadao.com.br/economia/ibge-desempregados-brasil-pretos-pardos/",
-      "date": "2026-11-18T13:38:13.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
     },
     {
       "title": "Rede D’Or vende participação em empresas da SulAmérica Investimentos para a BlackRock por R$ 850 mi",
@@ -455,28 +464,10 @@
       "type": "oficial"
     },
     {
-      "title": "'Supersecretária' de Tarcísio ganha nova pasta no governo de SP e cuidará de orçamento e investimentos",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/supersecretaria-de-tarcisio-ganha-nova-pasta-no-governo-de-sp-e-cuidara-de-orcamento-e-investimentos.shtml",
-      "date": "2026-11-18T13:04:00.000Z",
-      "summary": "A secretária estadual de Meio Ambiente, Infraestrutura e Logística, Natália Resende, vai chefiar a partir do ano que vem uma nova pasta no governo Tarcísio de Freitas (Republicanos), responsável pelas áreas de Planejamento, Orçamento e Investimentos. Leia mais",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Pretos e pardos ganham menos, são maioria entre trabalhadores desocupados e entre vítimas de homicídio, mostra IBGE",
       "link": "https://g1.globo.com/economia/noticia/2026/11/18/desigualdades-sociais-cor-raca-ibge.ghtml",
       "date": "2026-11-18T13:00:00.000Z",
       "summary": "Pretos e pardos ganham menos e são maioria entre vítimas de assassinatos As pessoas pretas e pardas são maioria entre os trabalhadores desocupados e subutilizados do país, recebem menos por hora trabalhada, estão mais expostas à pobreza e continuam sendo as pr",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Um ano depois, fraude do Banco Master deixou prejuízo de R$ 76 bilhões",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/18/um-ano-depois-fraude-do-banco-master-deixou-prejuizo-de-r-76-bilhoes.ghtml",
-      "date": "2026-11-18T12:42:37.000Z",
-      "summary": "Fachada do Banco Master no Itaim Bibi, na Zona Sul de São Paulo, no dia 19 de novembro de 2025 Rovena Rosa/Agência Brasil Na tarde de 18 de novembro de 2025, o Banco Central anunciou a decretação da liquidação extrajudicial do Banco Master e de várias institui",
       "source": "g1",
       "cat": "economia",
       "type": "imprensa"
@@ -507,15 +498,6 @@
       "source": "ONU News",
       "cat": "internacional",
       "type": "oficial"
-    },
-    {
-      "title": "Tarcísio escolhe Natália Resende para ‘supersecretaria’ de Planejamento, Orçamento e Investimentos",
-      "link": "https://www.estadao.com.br/politica/tarcisio-escolhe-natalia-resende-para-supersecretaria-de-planejamento-orcamento-e-investimentos/",
-      "date": "2026-11-18T11:48:39.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
     },
     {
       "title": "Bets: Justiça bloqueia 5 aeronaves e iate de R$ 40 milhões em ação da PF contra Esportes da Sorte",
@@ -699,7 +681,6 @@
     }
   ],
   "errors": [
-    "IPCA 12m (SGS 13522): HTTP 304",
     "feed CNN Brasil: HTTP 404",
     "feed CNN Brasil: HTTP 404"
   ]
