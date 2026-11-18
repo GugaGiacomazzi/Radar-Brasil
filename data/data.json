@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-18T09:37:43.640Z",
+  "updated": "2026-11-18T10:39:58.426Z",
   "market": {
     "ibov": {
       "price": 169816.64,
       "pct": 0.31,
-      "time": "2026-11-18T09:37:37.520Z",
+      "time": "2026-11-18T10:39:51.686Z",
       "history": [
         {
           "d": "2026-10-19",
@@ -154,6 +154,42 @@
       "type": "oficial"
     },
     {
+      "title": "Reunião de Trump, Putin e Xi pode dividir o mundo em três? Por que cúpula preocupa a Europa",
+      "link": "https://www.bbc.com/portuguese/articles/cqx2ey1zxjymo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-18T10:39:10.000Z",
+      "summary": "Preparativos para o primeiro encontro trilateral entre os líderes da China, da Rússia e dos EUA provocaram apreensão na Europa, onde alguns veem paralelos com a divisão do mundo em esferas de influência após a Segunda Guerra Mundial.",
+      "source": "BBC News Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "'A gente não tem cara de panaca': como samba-enredo inspirado na Constituinte de 1988 virou último sucesso de Gonzaguinha",
+      "link": "https://www.bbc.com/portuguese/articles/c6kgr9zp38xgo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-18T10:34:23.000Z",
+      "summary": "Em meio aos trabalhos do Congresso sobre a nova constituição em 1988, 'É' se tornou um sucesso instantâneo e um dos maiores êxitos da carreira de Gonzaguinha.",
+      "source": "BBC News Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "CBF projeta perda de mais de R$ 2 bi até 2030 com proibição de bets",
+      "link": "https://www.poder360.com.br/poder-sportsmkt/cbf-projeta-perda-de-mais-de-r-2-bi-ate-2030-com-proibicao-de-bets/",
+      "date": "2026-11-18T10:12:42.000Z",
+      "summary": "Confederação estima impacto de R$ 420 milhões em 2027, equivalente a 16% do orçamento projetado para o ano",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Quem paga a passagem",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/mauricio-portugal-ribeiro/2026/11/quem-paga-a-passagem.shtml",
+      "date": "2026-11-18T10:00:00.000Z",
+      "summary": "Na travessia que os gregos imaginaram para depois da vida, o barqueiro Caronte cobrava uma moeda. Eram os vivos que a davam, no momento da despedida. Quem chegava ao rio sem ela ficava do lado de cá, vagando pela margem, vendo os outros atravessar. Leia mais (",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "Ucrânia, tarifas e Irã devem pautar encontro inédito entre Trump, Xi e Putin",
       "link": "https://www.dw.com/pt-br/ucrânia-tarifas-e-irã-devem-pautar-encontro-inédito-entre-trump-xi-e-putin/a-79975529?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-18T09:25:00.000Z",
@@ -185,15 +221,6 @@
       "link": "https://www.poder360.com.br/poder-governo/agenda-de-lula-leia-os-compromissos-do-presidente-4a-feira-3/",
       "date": "2026-11-18T09:15:26.000Z",
       "summary": "Reuniões no Palácio da Alvorada e encontros com o secretário de Assuntos Jurídicos e com a ministra da Casa Civil movimentam o dia",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Governo Lula quer contratar 3 empresas por R$ 75 mi para comunicação",
-      "link": "https://www.poder360.com.br/poder-governo/governo-lula-quer-contratar-3-empresas-por-r-75-mi-para-comunicacao/",
-      "date": "2026-11-18T09:00:41.000Z",
-      "summary": "Licitação tem contrato inicial de 12 meses, prorrogável por até 10 anos; serviços incluem produção de conteúdo, atendimento à imprensa e audiovisual",
       "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
@@ -298,15 +325,6 @@
       "type": "imprensa"
     },
     {
-      "title": "O custo da transformação digital na advocacia",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/blogs/que-imposto-e-esse/2026/11/o-custo-da-transformacao-digital-na-advocacia.shtml",
-      "date": "2026-11-18T07:00:00.000Z",
-      "summary": "A tecnologia transformou a vida das pessoas antes de transformar a rotina dos escritórios de Advocacia. Clientes que hoje procuram Advogadas e Advogados são os mesmos que realizam pagamentos instantâneos, assinam documentos digitalmente e acessam serviços pelo",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Por que empresas têm dificuldade para contratar enquanto trabalhadores rejeitam vagas?",
       "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/18/empresas-dificuldade-contratar-trabalhadores.ghtml",
       "date": "2026-11-18T06:00:00.000Z",
@@ -370,6 +388,15 @@
       "type": "imprensa"
     },
     {
+      "title": "Câmara aprova R$ 6,5 bi em crédito a empresas atingidas por tarifaço de Trump e guerras",
+      "link": "https://www.estadao.com.br/economia/camara-aprova-r-65-bi-em-credito-a-empresas-atingidas-por-tarifaco-de-trump-e-guerras/",
+      "date": "2026-11-18T02:06:12.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "Lula gasta R$ 133 mi na eleição e Flávio, R$ 115 mi; marketing, redes sociais e viagens lideram despesas",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/lula-gasta-r-133-mi-na-eleicao-e-flavio-r-115-mi-marketing-redes-sociais-e-viagens-lideram-despesas.shtml",
       "date": "2026-11-18T02:00:00.000Z",
@@ -385,15 +412,6 @@
       "summary": "Em outubro de 1976 o surto terrorista havia sido dominado, a última guerrilheira do Araguaia havia sido capturada e assassinada. O general Ednardo d'Ávila Melo havia sido demitido do comando da guarnição de São Paulo, e no seu lugar estava o colega Dilermando ",
       "source": "Folha",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Senado aprova crédito de até R$ 13,5 bi a empresas afetadas por tarifaço de Trump e guerras",
-      "link": "https://www.estadao.com.br/economia/senado-aprova-credito-de-ate-r-135-bi-a-empresas-afetadas-por-tarifaco-de-trump-e-guerras/",
-      "date": "2026-11-18T01:44:18.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -550,19 +568,19 @@
       "type": "imprensa"
     },
     {
-      "title": "Japão desloca caças e acusa Rússia de violação de espaço aéreo",
-      "link": "https://www.dw.com/pt-br/japão-desloca-caças-e-acusa-rússia-de-violação-de-espaço-aéreo/a-79966218?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-17T09:40:00.000Z",
-      "summary": "Governo japonês classificou episódio como \"grave violação de soberania\" e exigiu medidas para evitar novos incidentes. Relações entre os dois países seguem deterioradas.",
+      "title": "O que Putin exige da Otan e da Europa",
+      "link": "https://www.dw.com/pt-br/o-que-putin-exige-da-otan-e-da-europa/a-79964253?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-17T09:35:00.000Z",
+      "summary": "Kremlin quer a retirada da aliança de grande parte do Leste Europeu como condição para o fim da guerra na Ucrânia. O que está por trás do plano russo e o que isso significaria para a segurança de milhões de europeus?",
       "source": "DW Brasil",
       "cat": "internacional",
       "type": "imprensa"
     },
     {
-      "title": "O que Putin exige da Otan e da Europa",
-      "link": "https://www.dw.com/pt-br/o-que-putin-exige-da-otan-e-da-europa/a-79964253?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-17T09:35:00.000Z",
-      "summary": "Kremlin quer a retirada da aliança de grande parte do Leste Europeu como condição para o fim da guerra na Ucrânia. O que está por trás do plano russo e o que isso significaria para a segurança de milhões de europeus?",
+      "title": "Grupo de países da UE negocia centro para deportados em Ruanda",
+      "link": "https://www.dw.com/pt-br/grupo-de-países-da-ue-negocia-centro-para-deportados-em-ruanda/a-79963673?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-16T20:06:00.000Z",
+      "summary": "Medida valeria para pessoas que tiveram asilo negado. Alemanha e mais quatro nações confirmaram conversas com país africano, cujo governo é acusado de violações de direitos humanos.",
       "source": "DW Brasil",
       "cat": "internacional",
       "type": "imprensa"
@@ -608,15 +626,6 @@
       "link": "https://www.bbc.com/portuguese/articles/c5n49ln0l4xeo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-16T08:46:29.000Z",
       "summary": "Em vez de nomes próximos como Flávio Dino e Cristiano Zanin, presidente terá que buscar opções com apoio forte do Centrão, afirmam analistas.",
-      "source": "BBC News Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "O que encontro histórico de Trump, Putin e Xi marcado para esta semana pode significar para o mundo?",
-      "link": "https://www.bbc.com/portuguese/articles/cqx2ey1zxjymo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-15T13:53:18.000Z",
-      "summary": "Preparativos para o primeiro encontro trilateral entre os líderes da China, da Rússia e dos EUA provocaram apreensão na Europa, onde alguns veem paralelos com a divisão do mundo em esferas de influência após a Segunda Guerra Mundial.",
       "source": "BBC News Brasil",
       "cat": "internacional",
       "type": "imprensa"
