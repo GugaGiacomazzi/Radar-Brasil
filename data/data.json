@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-19T18:55:19.169Z",
+  "updated": "2026-11-19T19:59:20.264Z",
   "market": {
     "ibov": {
-      "price": 166409.69,
+      "price": 166416.78,
       "pct": -0.67,
-      "time": "2026-11-19T18:55:11.791Z",
+      "time": "2026-11-19T19:59:15.612Z",
       "history": [
         {
           "d": "2026-10-20",
@@ -92,7 +92,7 @@
         },
         {
           "d": "2026-11-19",
-          "c": 166438.2656
+          "c": 166315.4375
         }
       ]
     },
@@ -149,11 +149,182 @@
   },
   "news": [
     {
+      "title": "Obras em presídios e combate ao crime na Amazônia terão mais recursos",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/19/obras-em-presidios-e-combate-ao-crime-na-amazonia-legal-terao-mais-recursos",
+      "date": "2026-11-19T19:49:25.000Z",
+      "summary": "A Presidência da República sancionou nesta quinta-feira (19) três leis que destinam cerca de R$ 141,6 milhões em recursos para as áreas de segurança, educação, transportes e desenvolvimento econômico. As leis foram publicadas no Diário Oficial da União e decor",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Lula diz que criará ministério voltado à população idosa e cita apoio na eleição",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/11/lula-diz-que-criara-ministerio-voltado-a-populacao-idosa-e-cita-apoio-na-eleicao.shtml",
+      "date": "2026-11-19T19:40:00.000Z",
+      "summary": "O presidente Lula (PT) disse nesta quinta-feira (19) que criará um ministério voltado à população idosa. O chefe do governo também afirmou ser grato ao eleitorado mais velho pelo apoio que deu à sua candidatura de reeleição. Leia mais (11/19/2026 - 16h40)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Paes cobra que TSE julgue recurso sobre segundo turno no Rio",
+      "link": "https://www.estadao.com.br/politica/paes-cobra-que-tse-julgue-recurso-sobre-segundo-turno-no-rio-nprp/",
+      "date": "2026-11-19T19:36:35.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Comissão aprova tarifa social de luz para idoso de baixa renda sem exigência de CadÚnico",
+      "link": "https://www.camara.leg.br/noticias/1321208-comissao-aprova-tarifa-social-de-luz-para-idoso-de-baixa-renda-sem-exigencia-de-cadunico",
+      "date": "2026-11-19T19:34:00.000Z",
+      "summary": "Projeto continua em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Juro alto no Brasil e o que nos separa de México e África do Sul",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/braulio-borges/2026/11/juro-alto-no-brasil-e-o-que-nos-separa-de-mexico-e-africa-do-sul.shtml",
+      "date": "2026-11-19T19:30:00.000Z",
+      "summary": "Na semana passada, mostrei aqui que o juro real brasileiro fica uns três pontos percentuais acima do de outros emergentes, mesmo descontando o juro americano e o risco-país, e que a execução da política fiscal, expansionista ou contracionista, explica razoavel",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Participantes de audiência defendem ratificação de convenção sobre direitos das pessoas idosas",
+      "link": "https://www.camara.leg.br/noticias/1321321-participantes-de-audiencia-defendem-ratificacao-de-convencao-sobre-direitos-das-pessoas-idosas",
+      "date": "2026-11-19T19:29:00.000Z",
+      "summary": "Segundo especialistas, tratado pode fortalecer a aplicação dos direitos já reconhecidos e ampliar a responsabilização do Estado pelo cumprimento dessas garantias",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Mercado de câmbio trava após fala de Lula sobre escolha de ministros e BC intervém com leilão de dólar",
+      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/19/mercado-de-cambio-trava-apos-fala-de-lula-sobre-escolha-de-ministros-e-bc-intervem-com-leilao-de-dolar.ghtml",
+      "date": "2026-11-19T19:28:15.000Z",
+      "summary": "Mercado de câmbio trava após Lula sobre escolha de ministros e BC intervém Mesmo com a aprovação do ajuste fiscal pelo Senado Federal, o mercado cambial segue pressionado nesta quinta-feira (19) por causa de declarações do presidente Luiz Inácio Lula da Silva ",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Senadores comemoram assinatura de decreto que regulamenta escala 5x2",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/19/senadores-comemoram-assinatura-de-decreto-que-regulamenta-escala-5x2",
+      "date": "2026-11-19T19:26:43.000Z",
+      "summary": "O governo federal publicou nesta quinta-feira (19) decreto do presidente Luiz Inácio Lula da Silva que regulamenta o fim da escala de trabalho 6x1, extinta pela Emenda Constitucional 141, promulgada pelo Congresso no mês passado. A mudança vai beneficiar empre",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Audiência discute a criação da Comissão Nacional Indígena da Verdade",
+      "link": "https://www.camara.leg.br/noticias/1321051-audiencia-discute-a-criacao-da-comissao-nacional-indigena-da-verdade",
+      "date": "2026-11-19T19:24:00.000Z",
+      "summary": "Debate na Câmara está marcado para esta terça-feira (24), às 15h30, no plenário 12",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Senadores apresentam PEC para transferir para STJ julgamento de autoridades",
+      "link": "https://www.estadao.com.br/politica/senadores-apresentam-pec-para-transferir-para-stj-julgamento-de-autoridades-nprp/",
+      "date": "2026-11-19T19:22:39.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Comissão aprova proposta que declara o jiu-jitsu brasileiro como manifestação cultural",
+      "link": "https://www.camara.leg.br/noticias/1321274-comissao-aprova-proposta-que-declara-o-jiu-jitsu-brasileiro-como-manifestacao-cultural",
+      "date": "2026-11-19T19:17:00.000Z",
+      "summary": "Outros seis textos foram aprovados e seguem para o Senado, a menos no caso de recurso para análise pelo Plenário da Câmara",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Câmara cobra devolução de R$ 5,5 mil de Alexandre Ramagem por ‘recebimentos indevidos’",
+      "link": "https://www.estadao.com.br/politica/camara-cobra-devolucao-de-r-55-mil-de-alexandre-ramagem-por-recebimentos-indevidos-nprp/",
+      "date": "2026-11-19T19:16:17.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Empresários pedem mais tempo para adaptação à escala 5x2 com 42 horas semanais",
+      "link": "https://www.camara.leg.br/noticias/1321259-empresarios-pedem-mais-tempo-para-adaptacao-a-escala-5x2-com-42-horas-semanais",
+      "date": "2026-11-19T19:11:00.000Z",
+      "summary": "O início da vigência da escala 5x2, assim como a carga de trabalho de 42 horas semanais, está previsto para 16 de dezembro próximo",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Comissão aprova prioridade e prorrogação em estágio obrigatório para gestantes",
+      "link": "https://www.camara.leg.br/noticias/1321217-comissao-aprova-prioridade-e-prorrogacao-em-estagio-obrigatorio-para-gestantes",
+      "date": "2026-11-19T19:02:00.000Z",
+      "summary": "Proposta segue em análise na Câmara",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Governo supera meta de cota racial em cargos de confiança, mas não mostra detalhes de hierarquia",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/governo-supera-meta-de-cota-racial-em-cargos-de-confianca-mas-nao-mostra-detalhes-de-hierarquia.shtml",
+      "date": "2026-11-19T19:00:00.000Z",
+      "summary": "A economista Tereza Cleise de Assis assumiu a primeira vaga como concursada no serviço público federal em 2006, no Ministério das Cidades. Depois disso, foi aprovada novamente, dessa vez na AGU (Advocacia-Geral da União). Passados cerca de oito anos no cargo, ",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Leis destinam R$ 522 milhões para gestão fiscal e encargos de fundos internacionais",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/19/leis-destinam-r-522-milhoes-para-gestao-fiscal-e-encargos-de-fundos-internacionais",
+      "date": "2026-11-19T18:59:36.000Z",
+      "summary": "O presidente Luiz Inácio Lula da Silva sancionou duas leis que destinam R$ 522,1 milhões à implantação de soluções tecnológicas para a reforma tributária e à participação do Brasil no capital de instituições financeiras internacionais. As medidas estão previst",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Bancos esperam crédito restrito e alta da inadimplência em 2026",
+      "link": "https://www.poder360.com.br/poder-economia/bancos-esperam-credito-restrito-e-alta-da-inadimplencia-em-2026/",
+      "date": "2026-11-19T18:57:30.000Z",
+      "summary": "Pesquisa do Banco Central indica piora nas condições de financiamento; pequenas e médias empresas concentram riscos",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "Capital de giro sustenta demanda das empresas por empréstimos",
       "link": "https://www.poder360.com.br/poder-economia/capital-de-giro-sustenta-demanda-das-empresas-por-emprestimos/",
       "date": "2026-11-19T18:53:47.000Z",
       "summary": "Pesquisa do BC mostra que necessidade de investimentos em ativos fixos tem efeito negativo sobre a procura por crédito",
       "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Show da Virada na Paulista terá Pericles com participação de pagodeiros dos anos 90",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/show-da-virada-na-paulista-tera-pericles-com-participacao-de-pagodeiros-dos-anos-90.shtml",
+      "date": "2026-11-19T18:53:00.000Z",
+      "summary": "O Show da Virada na avenida Paulista, promovido pela Prefeitura de São Paulo, terá como atração o cantor Péricles, com participação especial de um trio de pagodeiros que despontaram nos anos 90: Marcinho (ex-Art Popular), Salgadinho (Katinguelê) e Netinho de P",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Defesa diz que Bolsonaro não vota na eleição do Senado e recorre para que ex-presidente receba visita de Marinho",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/19/defesa-diz-que-bolsonaro-nao-tem-voto-na-eleicao-do-senado-e-recorre-para-que-ex-presidente-receba-marinho.ghtml",
+      "date": "2026-11-19T18:51:18.000Z",
+      "summary": "A defesa de Jair Bolsonaro recorreu nesta quinta-feira (19) contra a decisão do ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), que não autorizou visita do senador Rogério Marinho (PL-RN) ao ex-presidente, que cumpre pena de 27 anos em regime ",
+      "source": "g1",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -170,19 +341,10 @@
       "title": "BC erra ao intervir na cotação do dólar, diz ex-chefe de departamento da autarquia",
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/bc-erra-ao-intervir-na-cotacao-do-dolar-diz-ex-chefe-de-departamento-da-autarquia.shtml",
       "date": "2026-11-19T18:45:00.000Z",
-      "summary": "O ex-chefe do departamento de mercado aberto do Banco Central, Sérgio Goldstein, avalia que o órgão errou ao intervir no mercado de câmbio nesta quinta-feira (19), e diz que a alta do dólar nos últimos dias é decorrência da \"inércia\" do presidente Lula de defi",
+      "summary": "O ex-chefe do departamento de mercado aberto do Banco Central, Sérgio Goldenstein, avalia que o órgão errou ao intervir no mercado de câmbio nesta quinta-feira (19), e diz que a alta do dólar nos últimos dias é decorrência da \"inércia\" do presidente Lula de de",
       "source": "Folha",
       "cat": "economia",
       "type": "imprensa"
-    },
-    {
-      "title": "Comissão aprova medidas contra discriminação de pessoas com HIV no trabalho",
-      "link": "https://www.camara.leg.br/noticias/1321144-comissao-aprova-medidas-contra-discriminacao-de-pessoas-com-hiv-no-trabalho",
-      "date": "2026-11-19T18:44:00.000Z",
-      "summary": "Proposta ainda será analisada pela CCJ da Câmara antes de ir para o Senado",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
     },
     {
       "title": "Depois do fim da 6 X 1, Lula reafirma promessa de aumentar gasto social",
@@ -230,15 +392,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Comissão de Saúde debate roubos e furtos de canetas emagrecedoras",
-      "link": "https://www.camara.leg.br/noticias/1320979-comissao-de-saude-debate-roubos-e-furtos-de-canetas-emagrecedoras",
-      "date": "2026-11-19T18:21:00.000Z",
-      "summary": "Audiência pública discutirá impactos econômicos, sanitários e de segurança causados pelo mercado ilegal desses medicamentos",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
       "title": "O que está por trás do acirramento da disputa entre Airbus e Boeing",
       "link": "https://www.dw.com/pt-br/o-que-está-por-trás-do-acirramento-da-disputa-entre-airbus-e-boeing/a-79993144?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-19T18:21:00.000Z",
@@ -257,15 +410,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Comissão aprova medida para garantir acessibilidade de idosos em atividades esportivas",
-      "link": "https://www.camara.leg.br/noticias/1321181-comissao-aprova-medida-para-garantir-acessibilidade-de-idosos-em-atividades-esportivas",
-      "date": "2026-11-19T18:13:00.000Z",
-      "summary": "Proposta segue em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
       "title": "Justiça autoriza Senado a retomar gasto de R$ 6 milhões com iPhones e celulares para parlamentares",
       "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/19/justica-autoriza-senado-a-retomar-licitacao-de-r-6-milhoes-para-comprar-iphones-para-parlamentares.ghtml",
       "date": "2026-11-19T18:09:32.000Z",
@@ -275,33 +419,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Van Hattem diz que pode virar réu e ser preso por fala na Câmara",
-      "link": "https://www.poder360.com.br/poder-justica/van-hattem-diz-que-pode-virar-reu-e-ser-preso-por-fala-na-camara/",
-      "date": "2026-11-19T18:09:10.000Z",
-      "summary": "Deputado foi denunciado pela PGR por criticar delegado da Polícia Federal; caso vai para plenário virtual da 1ª Turma do STF",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Comissão aprova regras de prevenção e enfrentamento ao bullying e ao cyberbullying",
-      "link": "https://www.camara.leg.br/noticias/1321149-comissao-aprova-regras-de-prevencao-e-enfrentamento-ao-bullying-e-ao-cyberbullying",
-      "date": "2026-11-19T18:09:00.000Z",
-      "summary": "O projeto continua em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Comissão especial pode votar parecer sobre ampliação do limite de faturamento para o MEI",
-      "link": "https://www.camara.leg.br/noticias/1321031-comissao-especial-pode-votar-parecer-sobre-ampliacao-do-limite-de-faturamento-para-o-mei",
-      "date": "2026-11-19T18:07:00.000Z",
-      "summary": "",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
       "title": "Maioria dos brasileiros deixaria IA comparar preços, mas só 7% autorizariam a pagar sozinha",
       "link": "https://www.estadao.com.br/economia/maioria-brasileiros-ia-comparar-precos-pagar-sozinha/",
       "date": "2026-11-19T18:06:03.000Z",
@@ -309,15 +426,6 @@
       "source": "Estadão",
       "cat": "economia",
       "type": "imprensa"
-    },
-    {
-      "title": "Comissão aprova custeio pela empresa de cursos obrigatórios para profissionais da segurança privada",
-      "link": "https://www.camara.leg.br/noticias/1321040-comissao-aprova-custeio-pela-empresa-de-cursos-obrigatorios-para-profissionais-da-seguranca-privada",
-      "date": "2026-11-19T18:03:00.000Z",
-      "summary": "Proposta segue em análise na Câmara",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
     },
     {
       "title": "iFood sofre ataque hacker que expõe dados de clientes, entregadores e representantes de restaurantes",
@@ -338,48 +446,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Empresas do setor financeiro do Reino Unido terão de reforçar segurança digital",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/empresas-do-setor-financeiro-do-reino-unido-terao-de-reforcar-seguranca-digital.shtml",
-      "date": "2026-11-19T17:59:00.000Z",
-      "summary": "Empresas do setor financeiro devem reforçar suas defesas contra ataques cibernéticos e criar sistemas de backup em nível de hardware, separados da internet. As recomendações foram feitas por reguladores do Reino Unido, que alertaram para um aumento de 50% nas ",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Ministros do STM gastam R$ 1 milhão em viagem de 15 dias ao Japão e pernoites em Dubai",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/ministros-do-stm-gastam-r-1-milhao-em-viagem-de-15-dias-ao-japao-e-pernoites-em-dubai/",
-      "date": "2026-11-19T17:43:16.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Borussia Dortmund cede à pressão da torcida e rompe com a Rheinmetall",
       "link": "https://www.dw.com/pt-br/borussia-dortmund-cede-à-pressão-da-torcida-e-rompe-com-a-rheinmetall/a-79995824?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-19T17:41:00.000Z",
       "summary": "Após protestos da segunda maior torcida alemã, clube rescinde contrato de patrocínio com a maior fabricante de armas da Alemanha. Time não é o primeiro da Bundesliga a sofrer conflito entre interesses comerciais e fãs.",
       "source": "DW Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Senado encomenda novo retrato de Davi Alcolumbre por R$ 11,4 mil",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/11/senado-encomenda-novo-retrato-de-davi-alcolumbre-por-r-114-mil.shtml",
-      "date": "2026-11-19T17:38:00.000Z",
-      "summary": "O Senado Federal encomendou, no início de novembro, um novo retrato a óleo do presidente Davi Alcolumbre (União Brasil-AP) para ser exposto no Salão Nobre da Casa, em Brasília, pelo valor de R$ 11,4 mil. Leia mais (11/19/2026 - 14h38)",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Fim da escala 6x1 aumenta a hora extra; veja tabela com novos valores",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/fim-da-escala-6x1-aumenta-a-hora-extra-veja-tabela-com-novos-valores.shtml",
-      "date": "2026-11-19T17:36:00.000Z",
-      "summary": "A redução da jornada semanal de trabalho vai aumentar o valor pago pelas horas extras, mesmo para quem continuar recebendo o mesmo salário mensal. O divisor utilizado para calcular o salário-hora dos trabalhadores mensalistas cairá de 220 para 210, a partir do",
-      "source": "Folha",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -401,51 +473,6 @@
       "type": "oficial"
     },
     {
-      "title": "Área destinada à reparação de danos ambientais em SP triplica nos últimos três anos",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/area-destinada-a-reparacao-de-danos-ambientais-em-sp-triplica-nos-ultimos-tres-anos.shtml",
-      "date": "2026-11-19T17:24:00.000Z",
-      "summary": "A área destinada à reparação de danos ambientais em São Paulo mais que triplicou desde 2023. Em três anos, a extensão passou de 4,5 mil para 14,7 mil hectares, um aumento de 223%. Leia mais (11/19/2026 - 14h24)",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Anthropic entra para grupo das empresas mais valiosas do mundo; veja ranking",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/19/anthropic-valor-de-mercado.ghtml",
-      "date": "2026-11-19T17:16:05.000Z",
-      "summary": "Anthropic estreia na bolsa avaliada em US$ 1,5 trilhão A Anthropic, criadora do chatbot de inteligência artificial (IA) Claude, chegou à sexta posição entre as empresas mais valiosas do mundo em sua estreia na Nasdaq, bolsa americana que reúne algumas das maio",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Ministro aposentado do STJ, Paulo Gallotti morre aos 81 anos",
-      "link": "https://www.estadao.com.br/politica/ministro-aposentado-do-stj-paulo-gallotti-morre-aos-81-anos-nprp/",
-      "date": "2026-11-19T17:14:35.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "IFI alerta que 'bondades' de Lula na eleição apertam máquina pública e pede ajuste 'profundo'",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/19/orgao-do-senado-alerta-que-bondades-de-lula-nas-eleicoes-apertam-maquina-publica-e-pede-ajuste-fiscal-profundo.ghtml",
-      "date": "2026-11-19T16:37:06.000Z",
-      "summary": "A Instituição Fiscal Independente (IFI), ligada ao Senado, alertou nesta quinta-feira (19) que as medidas anunciadas pelo presidente Luiz Inácio Lula da Silva (PT) durante as eleições presidenciais comprimem os chamados gastos livres do governo e, com isso, di",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Ministro afirma que pacote fiscal dará segurança ao mercado, mas admite possíveis novas medidas para cumprir metas",
-      "link": "https://g1.globo.com/politica/blog/camila-bomfim/post/2026/11/19/moreti-fiscal-mercado.ghtml",
-      "date": "2026-11-19T16:05:13.000Z",
-      "summary": "Pacote fiscal dará segurança ao mercado, afirma Bruno Moretti Um dia depois de o Senado concluir a votação do pacote de ajuste fiscal do governo, o ministro do Planejamento e Orçamento, Bruno Moretti, defendeu que as medidas darão mais segurança ao mercado sob",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Quase uma em cada quatro crianças no mundo vivem em áreas de conflito",
       "link": "https://www.dw.com/pt-br/quase-uma-em-cada-quatro-crianças-no-mundo-vivem-em-áreas-de-conflito/a-79991426?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-19T15:58:00.000Z",
@@ -455,21 +482,21 @@
       "type": "imprensa"
     },
     {
-      "title": "Lula diz que não tem pressa para indicar ministros e promete criar Ministério dos Idosos",
-      "link": "https://www.estadao.com.br/politica/lula-diz-que-nao-tem-pressa-para-indicar-ministros-e-promete-criar-ministerio-dos-idosos/",
-      "date": "2026-11-19T14:51:23.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Anthropic dispara na estreia na bolsa e chega a valer R$ 11 trilhões: empresa pode evitar estouro da bolha da IA?",
       "link": "https://www.bbc.com/portuguese/articles/cm782wyv0153o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-19T14:39:39.000Z",
       "summary": "Ações começaram a ser negociadas com alta de 34%, mas recuaram depois, de US$ 111,50 para cerca de US$ 100.",
       "source": "BBC News Brasil",
       "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lula assina decreto que regulamenta fim da escala 6x1 em meio a disputa no STF",
+      "link": "https://www.estadao.com.br/economia/lula-assina-decreto-que-regulamenta-fim-da-escala-6x1-em-meio-a-disputa-no-stf/",
+      "date": "2026-11-19T14:38:57.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -545,24 +572,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Quem são os sete jovens fundadores da Anthropic que se tornaram multibilionários com estreia na bolsa",
-      "link": "https://www.bbc.com/portuguese/articles/cmn0dykxex82o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-19T08:35:48.000Z",
-      "summary": "A empresa de inteligência artificial por trás do Claude está fazendo sua estreia na bolsa dos EUA, tornando seus fundadores muito ricos.",
-      "source": "BBC News Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Sigma Lithium tem penhora de direitos minerários ordenada pela Justiça do Trabalho de Minas Gerais",
-      "link": "https://www.estadao.com.br/economia/negocios/sigma-lithium-tem-penhora-de-direitos-minerarios-ordenada-pela-justica-do-trabalho-de-minas-gerais/",
-      "date": "2026-11-18T21:21:37.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Ressurge movimentação por ex-superintendente do Cade Alexandre Barreto no comando do BB",
       "link": "https://www.estadao.com.br/economia/ressurge-movimentacao-por-ex-superintendente-do-cade-alexandre-barreto-no-comando-do-bb/",
       "date": "2026-11-18T19:43:00.000Z",
@@ -579,6 +588,15 @@
       "source": "Banco Central",
       "cat": "economia",
       "type": "oficial"
+    },
+    {
+      "title": "Conferência de Yalta: o que foi o encontro que redesenhou o mundo há 81 anos — e por que ele é comparado à reunião de Trump, Putin e Xi",
+      "link": "https://www.bbc.com/portuguese/articles/c5vg2mrwyjr2o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-18T16:46:01.000Z",
+      "summary": "Winston Churchill, Franklin Roosevelt e Joseph Stálin eram os 'Três Grandes' que se reuniram em Yalta para definir o mapa de influências da Europa no pós-guerra",
+      "source": "BBC News Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
     },
     {
       "title": "Por que encontro histórico com Xi e Trump já é uma vitória para Putin",
