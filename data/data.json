@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-19T16:44:18.699Z",
+  "updated": "2026-11-19T17:52:11.769Z",
   "market": {
     "ibov": {
-      "price": 166547.84,
-      "pct": -0.59,
-      "time": "2026-11-19T16:44:13.683Z",
+      "price": 166560.69,
+      "pct": -0.58,
+      "time": "2026-11-19T17:52:06.946Z",
       "history": [
         {
           "d": "2026-10-20",
@@ -92,7 +92,7 @@
         },
         {
           "d": "2026-11-19",
-          "c": 166547.8438
+          "c": 166496.9375
         }
       ]
     },
@@ -149,57 +149,201 @@
   },
   "news": [
     {
-      "title": "Lula diz que vai criar o Ministério das Pessoas Idosas",
-      "link": "https://www.poder360.com.br/poder-governo/lula-diz-que-vai-criar-o-ministerio-das-pessoas-idosas/",
-      "date": "2026-11-19T16:41:00.000Z",
-      "summary": "Presidente afirmou que medida visa a “dar vida e respeitabilidade” à população idosa",
+      "title": "Ministros do STM gastam R$ 1 milhão em viagem de 15 dias ao Japão e pernoites em Dubai",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/ministros-do-stm-gastam-r-1-milhao-em-viagem-de-15-dias-ao-japao-e-pernoites-em-dubai/",
+      "date": "2026-11-19T17:43:16.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Borussia Dortmund cede à pressão da torcida e rompe com a Rheinmetall",
+      "link": "https://www.dw.com/pt-br/borussia-dortmund-cede-à-pressão-da-torcida-e-rompe-com-a-rheinmetall/a-79995824?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-19T17:41:00.000Z",
+      "summary": "Após protestos da segunda maior torcida alemã, clube rescinde contrato de patrocínio com a maior fabricante de armas da Alemanha. Time não é o primeiro da Bundesliga a sofrer conflito entre interesses comerciais e fãs.",
+      "source": "DW Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Senado encomenda novo retrato de Davi Alcolumbre por R$ 11,4 mil",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/11/senado-encomenda-novo-retrato-de-davi-alcolumbre-por-r-114-mil.shtml",
+      "date": "2026-11-19T17:38:00.000Z",
+      "summary": "O Senado Federal encomendou, no início de novembro, um novo retrato a óleo do presidente Davi Alcolumbre (União Brasil-AP) para ser exposto no Salão Nobre da Casa, em Brasília, pelo valor de R$ 11,4 mil. Leia mais (11/19/2026 - 14h38)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Copel é privada e não sofrerá interferência de governos, diz CEO",
+      "link": "https://www.poder360.com.br/poder-energia/copel-e-privada-e-nao-sofrera-interferencia-de-governos-diz-ceo/",
+      "date": "2026-11-19T17:36:09.000Z",
+      "summary": "Daniel Slaviero apresentou plano de investimentos da companhia para investidores na Bolsa de Valores de Nova York",
       "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
     },
     {
-      "title": "Órgão do Senado alerta que 'bondades' de Lula nas eleições apertam máquina pública e pede ajuste fiscal profundo",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/19/orgao-do-senado-alerta-que-bondades-de-lula-nas-eleicoes-apertam-maquina-publica-e-pede-ajuste-fiscal-profundo.ghtml",
-      "date": "2026-11-19T16:37:06.000Z",
-      "summary": "A Instituição Fiscal Independente (IFI), do Senado Federal, alertou nesta quinta-feira (19) que as medidas anunciadas pelo presidente Luiz Inácio Lula da Silva durante o segundo turno das eleições presidenciais comprimiram os chamados gastos livres do governo ",
+      "title": "Fim da escala 6x1 aumenta a hora extra; veja tabela com novos valores",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/fim-da-escala-6x1-aumenta-a-hora-extra-veja-tabela-com-novos-valores.shtml",
+      "date": "2026-11-19T17:36:00.000Z",
+      "summary": "A redução da jornada semanal de trabalho vai aumentar o valor pago pelas horas extras, mesmo para quem continuar recebendo o mesmo salário mensal. O divisor utilizado para calcular o salário-hora dos trabalhadores mensalistas cairá de 220 para 210, a partir do",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Fachin nega pedido de liberdade e mantém primo de Vorcaro preso",
+      "link": "https://www.poder360.com.br/poder-justica/fachin-nega-pedido-de-liberdade-e-mantem-primo-de-vorcaro-preso/",
+      "date": "2026-11-19T17:33:41.000Z",
+      "summary": "Na decisão, o presidente do Supremo argumenta que a prisão preventiva de Felipe Vorcaro segue “adequada e indispensável”",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lula exonera Wellington Dias, ministro do Desenvolvimento Social",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/19/lula-exonera-wellington-dias-ministro-do-desenvolvimento-social.ghtml",
+      "date": "2026-11-19T17:32:20.000Z",
+      "summary": "Ministro do Desenvolvimento Social Wellington Dias ao lado do presidente Lula Evaristo Sá/AFP O presidente Luiz Inácio Lula da Silva (PT) exonerou o Wellington Dias do cargo de ministro do Desenvolvimento Social. A exoneração foi publicada no Diário Oficial da",
       "source": "g1",
       "cat": "politica",
       "type": "imprensa"
     },
     {
-      "title": "Fachin mantém prisão de primo de Vorcaro por risco de ingerência na investigação do caso Master",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/fachin-mantem-prisao-de-primo-de-vorcaro-por-risco-de-ingerencia-na-investigacao.shtml",
-      "date": "2026-11-19T16:36:00.000Z",
-      "summary": "O presidente do STF (Supremo Tribunal Federal), ministro Edson Fachin, decidiu nesta quinta-feira (19) manter a prisão preventiva de Felipe Vorcaro, primo do ex-banqueiro Daniel Vorcaro, por risco de novos crimes. Leia mais (11/19/2026 - 13h36)",
+      "title": "BC publica Pesquisa Trimestral de Condições de Crédito (PTC)",
+      "link": "https://www.bcb.gov.br/detalhenoticia/21324/nota",
+      "date": "2026-11-19T17:31:41.000Z",
+      "summary": "",
+      "source": "Banco Central",
+      "cat": "economia",
+      "type": "oficial"
+    },
+    {
+      "title": "Área destinada à reparação de danos ambientais em SP triplica nos últimos três anos",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/area-destinada-a-reparacao-de-danos-ambientais-em-sp-triplica-nos-ultimos-tres-anos.shtml",
+      "date": "2026-11-19T17:24:00.000Z",
+      "summary": "A área destinada à reparação de danos ambientais em São Paulo mais que triplicou desde 2023. Em três anos, a extensão passou de 4,5 mil para 14,7 mil hectares, um aumento de 223%. Leia mais (11/19/2026 - 14h24)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Empresas dos EUA recorrem a robôs para enfrentar falta de mão de obra",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/empresas-dos-eua-recorrem-a-robos-para-enfrentar-falta-de-mao-de-obra.shtml",
+      "date": "2026-11-19T17:22:00.000Z",
+      "summary": "Empresas americanas correm para instalar mais robôs industriais em fábricas e armazéns, enquanto o aumento dos custos e o agravamento da escassez de mão de obra ameaçam sufocar um incipiente avanço da indústria manufatureira dos Estados Unidos. Leia mais (11/1",
       "source": "Folha",
       "cat": "economia",
       "type": "imprensa"
     },
     {
-      "title": "Mercado vê Selic em 15%; juros futuros sobem cerca de 30 pontos-base",
-      "link": "https://www.poder360.com.br/poder-economia/mercado-ve-selic-em-15-juros-futuros-sobem-cerca-de-30-pontos-base/",
-      "date": "2026-11-19T16:30:55.000Z",
-      "summary": "Os juros futuros são taxas negociadas no mercado que indicam quanto os investidores esperam receber de juros naquele período",
+      "title": "Ao vivo: STF julga dispensa de honorários em acordos fiscais",
+      "link": "https://www.poder360.com.br/poder-congresso/ao-vivo-stf-julga-dispensa-de-honorarios-em-acordos-fiscais/",
+      "date": "2026-11-19T17:18:50.000Z",
+      "summary": "OAB contesta leis que livram devedores de pagar advogados em parcelamentos",
       "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
     },
     {
-      "title": "UE adia aplicação de lei contra o metano para 2029",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/economia-sustentavel/2026/11/ue-adia-aplicacao-de-lei-contra-o-metano-para-2029.shtml",
-      "date": "2026-11-19T16:28:00.000Z",
-      "summary": "A União Europeia concordou em adiar por dois anos, até 2029, a aplicação de uma lei contra o metano, um gás de efeito estufa altamente poluente, anunciaram os 27 países-membros em um comunicado. Leia mais (11/19/2026 - 13h28)",
+      "title": "Anthropic entra para grupo das empresas mais valiosas do mundo; veja ranking",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/19/anthropic-valor-de-mercado.ghtml",
+      "date": "2026-11-19T17:16:05.000Z",
+      "summary": "Anthropic estreia na bolsa avaliada em US$ 1,5 trilhão A Anthropic, criadora do chatbot de inteligência artificial (IA) Claude, chegou à sexta posição entre as empresas mais valiosas do mundo em sua estreia na Nasdaq, bolsa americana que reúne algumas das maio",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Ministro aposentado do STJ, Paulo Gallotti morre aos 81 anos",
+      "link": "https://www.estadao.com.br/politica/ministro-aposentado-do-stj-paulo-gallotti-morre-aos-81-anos-nprp/",
+      "date": "2026-11-19T17:14:35.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Entidades apresentam dados alarmantes na Câmara sobre fim da escala 6x1",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/entidades-apresentam-dados-alarmantes-na-camara-sobre-fim-da-escala-6x1.shtml",
+      "date": "2026-11-19T17:13:00.000Z",
+      "summary": "Associações setoriais apresentaram na Câmara dos Deputados, nesta quinta-feira (19), dados alarmantes, que expressam o temor das empresas de incapacidade de aplicação da nova escala de trabalho, após o fim da 6x1. Entidades de alguns setores mostram estudos so",
       "source": "Folha",
       "cat": "economia",
       "type": "imprensa"
     },
     {
-      "title": "“Quem deseja controle fiscal sou eu, não o mercado”, diz Lula",
-      "link": "https://www.poder360.com.br/poder-governo/quem-deseja-controle-fiscal-sou-eu-nao-o-mercado-diz-lula/",
-      "date": "2026-11-19T16:23:34.000Z",
-      "summary": "O presidente participou nesta 5ª feira (19.nov) da cerimônia de assinatura do decreto que regulamenta o fim da escala de trabalho 6 X 1",
+      "title": "Copel vê nova era para hidrelétricas com avanço da energia solar e eólica",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/infraestrutura/2026/11/copel-ve-nova-era-para-hidreletricas-com-avanco-da-energia-solar-e-eolica.shtml",
+      "date": "2026-11-19T17:12:00.000Z",
+      "summary": "O avanço acelerado da geração solar e eólica no Brasil ampliou as oportunidades de negócios para o setor mais tradicional da geração de energia no país, o das hidrelétricas. Essa perspectiva foi a tônica da apresentação do Copel Day, encontro de executivos da ",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Manifestantes jogam cinzas em comissário europeu em protesto contra agrotóxicos; VÍDEO",
+      "link": "https://g1.globo.com/saude/noticia/2026/11/19/manifestantes-jogam-cinzas-em-comissario-europeu-em-protesto-contra-agrotoxicos-video.ghtml",
+      "date": "2026-11-19T17:11:29.000Z",
+      "summary": "Pacientes de câncer jogam cinzas em autoridade em protesto contra pesticidas na Europa Dois manifestantes jogaram um pó cinza contra o comissário europeu da Saúde, Olivér Várhelyi, durante a Cúpula Europeia do Câncer, em Bruxelas, nesta quinta-feira (19). O pr",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Setor de mineração articula apoio para aliado de Alckmin chefiar ANM",
+      "link": "https://www.poder360.com.br/poder-infra/setor-de-mineracao-articula-apoio-para-aliado-de-alckmin-chefiar-anm/",
+      "date": "2026-11-19T17:10:01.000Z",
+      "summary": "Nome de Pedro Guerra, chefe de gabinete da vice-presidência, ganha força e pode ser indicado para cargo de diretor-geral",
       "source": "Poder360",
       "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Comissão aprova projeto que obriga empresas a informarem resultado de processo seletivo aos candidatos",
+      "link": "https://www.camara.leg.br/noticias/1320999-comissao-aprova-projeto-que-obriga-empresas-a-informarem-resultado-de-processo-seletivo-aos-candidatos",
+      "date": "2026-11-19T17:00:00.000Z",
+      "summary": "A proposta continua em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Projeto obriga empresas de segurança privada a pagar por cursos e capacitação de vigilantes",
+      "link": "https://www.camara.leg.br/noticias/1321038-projeto-obriga-empresas-de-seguranca-privada-a-pagar-por-cursos-e-capacitacao-de-vigilantes",
+      "date": "2026-11-19T16:59:00.000Z",
+      "summary": "Proposta proíbe o repasse de custos ao trabalhador e garante remuneração integral durante cursos de capacitação",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Anthropic abre a US$ 111,50 por ação, alta de 34,3%; valor da empresa chega a US$ 2 trilhões",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/19/acoes-anthropic-nasdaq.ghtml",
+      "date": "2026-11-19T16:51:36.000Z",
+      "summary": "Anthropic estreia na bolsa avaliada em US$ 1,5 trilhão As ações da Anthropic, empresa americana responsável pelo desenvolvimento do assistente de inteligência artificial Claude, estrearam na bolsa Nasdaq nesta quinta-feira (19), sob o código ANT. No primeiro n",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "IFI alerta que 'bondades' de Lula na eleição apertam máquina pública e pede ajuste 'profundo'",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/19/orgao-do-senado-alerta-que-bondades-de-lula-nas-eleicoes-apertam-maquina-publica-e-pede-ajuste-fiscal-profundo.ghtml",
+      "date": "2026-11-19T16:37:06.000Z",
+      "summary": "A Instituição Fiscal Independente (IFI), ligada ao Senado, alertou nesta quinta-feira (19) que as medidas anunciadas pelo presidente Luiz Inácio Lula da Silva (PT) durante as eleições presidenciais comprimem os chamados gastos livres do governo e, com isso, di",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Pacaembu tem operação de R$ 515 mi frustrada e dona de concessionária pede Recuperação Extrajudicial",
+      "link": "https://www.estadao.com.br/esportes/futebol/pacaembu-tem-operacao-de-r-515-mi-frustrada-e-dona-de-concessionaria-pede-recuperacao-extrajudicial/",
+      "date": "2026-11-19T16:30:27.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -208,15 +352,6 @@
       "date": "2026-11-19T16:23:00.000Z",
       "summary": "Tarcísio de Freitas gosta de se apresentar como um administrador competente, moderado e preocupado com critérios técnicos. Nada disso se sustenta diante da escolha de Ricardo Salles para a Secretaria da Justiça e Cidadania de São Paulo. Trata-se de um escárnio",
       "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Lula faz piada com lente de fotógrafo no Planalto: “Canhão”",
-      "link": "https://www.poder360.com.br/poder-governo/lula-faz-piada-com-lente-de-fotografo-no-planalto-canhao/",
-      "date": "2026-11-19T16:19:47.000Z",
-      "summary": "Presidente brincou ao fazer um comentário sobre o equipamento de um profissional durante cerimônia no Planalto",
-      "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -239,39 +374,12 @@
       "type": "oficial"
     },
     {
-      "title": "Fachin nega soltura de primo de Vorcaro apontado pela PF como ‘ponte’ para propina a senador",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/fachin-nega-soltura-de-primo-de-vorcaro-apontado-pela-pf-como-ponte-para-propina-a-senador/",
-      "date": "2026-11-19T16:12:24.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Toyota quer ampliar mercado de mobilidade para PCDs no Brasil com programa criado no Canadá",
-      "link": "https://www.estadao.com.br/economia/governanca/toyota-ampliar-mercado-mobilidade-pcds-brasil-programa-canada/",
-      "date": "2026-11-19T16:10:18.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Ministro afirma que pacote fiscal dará segurança ao mercado, mas admite possíveis novas medidas para cumprir metas",
       "link": "https://g1.globo.com/politica/blog/camila-bomfim/post/2026/11/19/moreti-fiscal-mercado.ghtml",
       "date": "2026-11-19T16:05:13.000Z",
       "summary": "Pacote fiscal dará segurança ao mercado, afirma Bruno Moretti Um dia depois de o Senado concluir a votação do pacote de ajuste fiscal do governo, o ministro do Planejamento e Orçamento, Bruno Moretti, defendeu que as medidas darão mais segurança ao mercado sob",
       "source": "g1",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Anthropic: fortunas de fundadores disparam e somam R$ 817,5 bilhões com estreia na bolsa; veja ranking",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/19/anthropic-fortunas-de-fundadores-disparam-apos-estreia-na-bolsa-veja-ranking.ghtml",
-      "date": "2026-11-19T16:02:12.000Z",
-      "summary": "Dario Amodei, CEO da Anthropic Reuters/Carlos Barria Os sete cofundadores da Anthropic, criadora do chatbot de inteligência artificial (IA) Claude, viram suas fortunas crescerem 40,2% e atingirem, juntas, US$ 139,5 bilhões (R$ 817,5 bilhões) nesta quinta-feira",
-      "source": "g1",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -302,120 +410,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Anthropic estreia na Nasdaq com IPO recorde de US$ 81 bilhões e testa apetite de investidores por IA",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/19/anthropic-estreia-na-nasdaq-investidores.ghtml",
-      "date": "2026-11-19T15:51:37.000Z",
-      "summary": "Anthropic estreia na bolsa avaliada em US$ 1,5 trilhão A Anthropic, empresa americana responsável pelo desenvolvimento do chatbot Claude, estreou na bolsa Nasdaq nesta quinta-feira (19) com uma oferta pública inicial de ações (IPO, na sigla em inglês) avaliada",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Fachin autoriza PF a acessar documentos de empresa de serviço de luxo relacionados a viagens pagas por Vorcaro",
       "link": "https://g1.globo.com/politica/noticia/2026/11/19/fachin-autoriza-pf-a-acessar-documentos-de-empresa-de-servicos-de-luxo-sobre-viagens-pagas-por-vorcaro.ghtml",
       "date": "2026-11-19T15:48:58.000Z",
       "summary": "O presidente do Supremo Tribunal Federal (STF), Edson Fachin, autorizou nesta quinta-feira (19) a Polícia Federal a acessar a íntegra de documentos da empresa Signature Luxury Services relacionados viagens pagas pelo ex-banqueiro Daniel Vorcaro, do Master. Com",
       "source": "g1",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "CE aprova incentivo a creches em institutos federais",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/19/ce-aprova-incentivo-a-creches-em-institutos-federais",
-      "date": "2026-11-19T15:44:01.000Z",
-      "summary": "A Comissão de Educação e Cultura (CE) aprovou, na quarta-feira (18), projeto que incentiva a construção e a manutenção de creches e pré-escolas para filhos de estudantes de instituições federais de ensino superior e de educação profissional. A votação foi unân",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Com El Niño, Bradesco Seguros registra alta de 37,5% nos casos de prejuízos ligados ao clima",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/economia-sustentavel/2026/11/com-el-nino-bradesco-seguros-registra-alta-de-375-nos-casos-de-prejuizos-ligados-ao-clima.shtml",
-      "date": "2026-11-19T15:44:00.000Z",
-      "summary": "Prejuízos gerados por eventos climáticos a clientes da Bradesco Seguros nos primeiros dez meses de 2026 já são mais numerosos que o total registrado em 2025, afirma a companhia. Leia mais (11/19/2026 - 12h44)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Compliance Zero: Fachin mantém prisão de Felipe Vorcaro, primo do ex-dono do Master",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/19/compliance-zero-fachin-mantem-prisao-de-felipe-vorcaro-primo-do-ex-dono-do-master.ghtml",
-      "date": "2026-11-19T15:39:09.000Z",
-      "summary": "O presidente do Supremo Tribunal Federal (STF), ministro Edson Fachin, negou o pedido de liberdade e manteve a prisão preventiva de Felipe Vorcaro, primo de Daniel Vorcaro, ex-dono do Banco Master. A decisão foi assinada nesta quarta-feira (18). Felipe Vorcaro",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Consórcio dos EUA vence disputa por minerais estratégicos no Quênia",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/consorcio-dos-eua-vence-disputa-por-minerais-estrategicos-no-quenia.shtml",
-      "date": "2026-11-19T15:36:00.000Z",
-      "summary": "Um consórcio americano, a Frontier Minerals, venceu nesta quinta-feira (19) a licitação para um projeto de mineração de minerais estratégicos em Mrima Hill, no Quênia. A área era disputada por empresas chinesas e australianas. Leia mais (11/19/2026 - 12h36)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Não quero ir embora do Brasil, quero trabalhar pelo país, diz Tereza Cristina sobre futuro da direita",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/nao-quero-ir-embora-do-brasil-quero-trabalhar-pelo-pais-diz-tereza-cristina-sobre-futuro-da-direita.shtml",
-      "date": "2026-11-19T15:34:00.000Z",
-      "summary": "A senadora e ex-ministra da Agricultura Tereza Cristina (PP-MS) diz que não se constrange nem se arrepende de ter apoiado a candidatura a presidente de Flávio Bolsonaro (PL-RJ), mas que, passadas as eleições, é hora de cuidar do Brasil -de onde não quer sair. ",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Sessão solene marca os 60 anos da Embratur",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/19/sessao-solene-marca-os-60-anos-da-embratur",
-      "date": "2026-11-19T15:28:07.000Z",
-      "summary": "O Congresso Nacional celebrou em sessão solene os 60 anos da Agência Brasileira de Promoção Internacional do Turismo (Embratur), responsável pela promoção do Brasil como destino turístico no exterior. A homenagem desta quinta-feira (19) foi requerida pelo sena",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "‘Não é o mercado que deseja o controle fiscal; quem deseja sou eu’, diz Lula",
-      "link": "https://www.estadao.com.br/economia/lula-mercado-controle-fiscal-quem-deseja-sou-eu/",
-      "date": "2026-11-19T15:23:20.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Cobrança federal pelo uso da água do Rio Paranapanema preocupa produtores de SP e PR; leia bastidor",
-      "link": "https://www.estadao.com.br/economia/agronegocios/cobranca-federal-agua-paranapanema-produtores-sp-pr/",
-      "date": "2026-11-19T15:02:20.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Lula critica especulações sobre ministérios e diz que indicará nomes na hora que quiser",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/lula-critica-especulacoes-sobre-ministerio-e-diz-que-quem-senta-na-cadeira-antes-cai-antes-de-sentar.shtml",
-      "date": "2026-11-19T15:02:00.000Z",
-      "summary": "O presidente Lula (PT) criticou nesta quinta-feira (19) as especulações em torno de quem serão os ministros indicados para o seu quarto mandato. Ele afirmou que irá apontar os nomes para as pastas do governo na \"hora que quiser\". Leia mais (11/19/2026 - 12h02)",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Cleitinho se equilibra entre PL e acenos ao PT e quer reunião com Lula para discutir dívida de MG",
-      "link": "https://www.estadao.com.br/politica/cleitinho-se-equilibra-entre-pl-e-acenos-ao-pt-e-quer-reuniao-com-lula-para-discutir-divida-de-mg/",
-      "date": "2026-11-19T15:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Se o câmbio ficar nesse patamar por quatro meses, 2027 será ainda mais difícil, diz CEO do Bradesco",
-      "link": "https://www.estadao.com.br/economia/entrevista-marcelo-noronha-bradesco-primeiro-ano-governo-cambio-ajuste/",
-      "date": "2026-11-19T15:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -428,30 +428,21 @@
       "type": "imprensa"
     },
     {
-      "title": "Vai à CDH política de combate a desigualdade racial nas escolas",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/19/vai-a-cdh-politica-de-combate-a-desigualdade-racial-nas-escolas",
-      "date": "2026-11-19T14:46:22.000Z",
-      "summary": "A Comissão de Educação (CE) aprovou, na quarta-feira (18), a Política Nacional para as Relações Étnico-Raciais e Educação Quilombola, destinada a combater o racismo e as desigualdades raciais nas escolas. O PL 4.978/2026 segue agora análise da Comissão de Dire",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Reconhecimento oficial de línguas indígenas em estados e municípios avança",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/19/reconhecimento-oficial-de-linguas-indigenas-em-estados-e-municipios-avanca",
-      "date": "2026-11-19T14:43:04.000Z",
-      "summary": "A Comissão de Educação e Cultura (CE) aprovou, na quarta-feira (18), projeto que reforça a possibilidade de estados e municípios considerarem oficiais línguas indígenas, juntamente com o português. A proposta segue para análise da Comissão de Constituição e Ju",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
       "title": "Avaliada em R$ 8,8 tri, Anthropic bate recorde em estreia na bolsa: empresa pode evitar o estouro da bolha da IA?",
       "link": "https://www.bbc.com/portuguese/articles/cm782wyv0153o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-19T14:39:39.000Z",
-      "summary": "O preço inicial da ação será de US$ 83 quando começar a ser negociada nesta quinta-feira. Com esse preço, o valor de mercado da Anthropic é estimado em US$ 1,5 trilhão.",
+      "summary": "As ações foram oferecidas a US$ 83 cada. Quando começaram a ser negociadas na Nasdaq, porém, os papéis chegaram a US$ 110, uma alta de mais de 30% em relação ao preço da oferta.",
       "source": "BBC News Brasil",
       "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lula assina decreto que regulamenta fim da escala 6x1 em meio a disputa no STF",
+      "link": "https://www.estadao.com.br/economia/lula-assina-decreto-que-regulamenta-fim-da-escala-6x1-em-meio-a-disputa-no-stf/",
+      "date": "2026-11-19T14:38:57.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -482,31 +473,13 @@
       "type": "oficial"
     },
     {
-      "title": "Comissão de Constituição e Justiça aprova proposta sobre capacitação contra câncer infantil",
-      "link": "https://www.camara.leg.br/noticias/1321000-comissao-de-constituicao-e-justica-aprova-proposta-sobre-capacitacao-contra-cancer-infantil",
-      "date": "2026-11-19T14:04:00.000Z",
-      "summary": "Texto poderá seguir para a análise do Senado",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Investigar ou arquivar? Entenda o que a PGR pode fazer com os relatórios sobre ministros do STF",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/investigar-ou-arquivar-entenda-o-que-a-pgr-pode-fazer-com-os-relatorios-sobre-ministros-do-stf/",
-      "date": "2026-11-19T13:22:24.000Z",
+      "title": "Projeto de ajuste aprovado vai dar mais segurança para cumprimento da meta, diz Moretti",
+      "link": "https://www.estadao.com.br/economia/projeto-ajuste-mais-seguranca-cumprimento-meta-moretti/",
+      "date": "2026-11-19T13:32:26.000Z",
       "summary": "",
       "source": "Estadão",
-      "cat": "politica",
+      "cat": "economia",
       "type": "imprensa"
-    },
-    {
-      "title": "Projeto cria fundo para custear defesa jurídica de agentes de segurança",
-      "link": "https://www.camara.leg.br/noticias/1312404-projeto-cria-fundo-para-custear-defesa-juridica-de-agentes-de-seguranca",
-      "date": "2026-11-19T13:18:00.000Z",
-      "summary": "A proposta em análise na Câmara prevê assistência jurídica em processos relacionados ao exercício da função",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
     },
     {
       "title": "Trump, Xi e Putin em encontro histórico na China: o que cada um falou e quer na cúpula",
@@ -516,6 +489,33 @@
       "source": "BBC News Brasil",
       "cat": "internacional",
       "type": "imprensa"
+    },
+    {
+      "title": "ONU quer libertação de funcionários e abertura de estradas para ajudar Iêmen",
+      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854961",
+      "date": "2026-11-19T12:00:00.000Z",
+      "summary": "Subsecretário-geral Tom Fletcher falou com presidente do Conselho de Liderança Presidencial em meio à piora da crise; conflito desaloja mais de 350 mil pessoas e impacto sobre crianças e serviços essenciais atinge níveis alarmantes.",
+      "source": "ONU News",
+      "cat": "internacional",
+      "type": "oficial"
+    },
+    {
+      "title": "Projeto em Timor-Leste usa agricultura local para reforçar merenda escolar",
+      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854955",
+      "date": "2026-11-19T12:00:00.000Z",
+      "summary": "Com investimentos da Coreia do Sul, iniciativa vai alcançar mais de 85 mil alunos em quase 500 escolas; Governo timorense e Programa Mundial de Alimentos da ONU são parceiros no esforço, que inclui construção de 30 novas cozinhas e refeitórios.",
+      "source": "ONU News",
+      "cat": "internacional",
+      "type": "oficial"
+    },
+    {
+      "title": "Estudo sobre defesa do consumidor digital apresenta retrato da Argentina",
+      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854959",
+      "date": "2026-11-19T12:00:00.000Z",
+      "summary": "A proteção do consumidor é essencial para mercados estáveis e transparentes, destaca a Unctad em revisão sobre o país; apesar dos avanços, fatores como fosso digital, crédito online e disparidades regionais são desafios à inclusão.&nbsp;",
+      "source": "ONU News",
+      "cat": "internacional",
+      "type": "oficial"
     },
     {
       "title": "Israel realiza maior ofensiva terrestre na Faixa de Gaza desde o cessar-fogo",
@@ -545,6 +545,15 @@
       "type": "imprensa"
     },
     {
+      "title": "Moraes arquiva investigação contra Zambelli por defender intervenção militar",
+      "link": "https://www.estadao.com.br/politica/alexandre-de-moraes-arquiva-investigacao-contra-zambelli-por-defender-intervencao-militar-nprp/",
+      "date": "2026-11-19T01:24:30.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "EUA e Venezuela assinam acordo de cooperação militar",
       "link": "https://www.dw.com/pt-br/eua-e-venezuela-assinam-acordo-de-cooperação-militar/a-79986275?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-18T22:03:00.000Z",
@@ -554,12 +563,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Como a economia verde pode ajudar a reverter as mudanças climáticas",
-      "link": "https://www.dw.com/pt-br/como-a-economia-verde-pode-ajudar-a-reverter-as-mudanças-climáticas/a-79983684?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-18T19:56:00.000Z",
-      "summary": "O chamado crescimento verde promete um futuro no qual países possam prosperar sem destruir o meio ambiente. Mas essa seria uma perspectiva realista?",
-      "source": "DW Brasil",
-      "cat": "internacional",
+      "title": "Sigma Lithium tem penhora de direitos minerários ordenada pela Justiça do Trabalho de Minas Gerais",
+      "link": "https://www.estadao.com.br/economia/negocios/sigma-lithium-tem-penhora-de-direitos-minerarios-ordenada-pela-justica-do-trabalho-de-minas-gerais/",
+      "date": "2026-11-18T21:21:37.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -576,6 +585,15 @@
       "link": "https://www.bbc.com/portuguese/articles/cvp86k97y0g8o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-18T16:14:08.000Z",
       "summary": "O encontro entre os líderes dos EUA, China e Rússia dará a Vladimir Putin uma grande plataforma, mas não o aproximará da vitória na guerra na Ucrânia.",
+      "source": "BBC News Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Reunião pode dividir o mundo em três? Por que cúpula entre Trump, Xi e Putin deixa a Europa preocupada",
+      "link": "https://www.bbc.com/portuguese/articles/cqx2ey1zxjymo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-18T14:54:26.000Z",
+      "summary": "Preparativos para o primeiro encontro trilateral entre os líderes da China, da Rússia e dos EUA provocaram apreensão na Europa, onde alguns veem paralelos com a divisão do mundo em esferas de influência após a Segunda Guerra Mundial.",
       "source": "BBC News Brasil",
       "cat": "internacional",
       "type": "imprensa"
@@ -617,15 +635,6 @@
       "type": "oficial"
     },
     {
-      "title": "O 'exército das avós': os números que mostram as responsáveis pelo pico de comparecimento nas eleições",
-      "link": "https://www.bbc.com/portuguese/articles/cm9w9lyvv1exo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-17T20:07:30.000Z",
-      "summary": "Dados do TSE confirmam agora que os vídeos não eram apenas 'virais' das redes sociais. Foram os idosos - e especialmente as idosas - que mais fizeram o esforço de votar entre o primeiro e o segundo turno, fazendo a abstenção ter a maior queda entre turnos desd",
-      "source": "BBC News Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
       "title": "BC divulga o IBC-Br de setembro de 2026",
       "link": "https://www.bcb.gov.br/detalhenoticia/21319/nota",
       "date": "2026-11-16T12:01:20.000Z",
@@ -653,45 +662,9 @@
       "type": "oficial"
     },
     {
-      "title": "ONU pede a Egito que liberte jornalistas após polícia prender redação inteira",
-      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854917",
-      "date": "2026-11-16T12:00:00.000Z",
-      "summary": "Seis profissionais que foram do site egípcio de checagem de fatos *Matsadash* foram levados, na semana passada, pela polícia; Alto Comissariado de Direitos Humanos da ONU alerta para ataques à liberdade de imprensa por parte do governo.",
-      "source": "ONU News",
-      "cat": "internacional",
-      "type": "oficial"
-    },
-    {
-      "title": "Dia Internacional contra Crime Organizado foca em golpes digitais",
-      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854926",
-      "date": "2026-11-15T12:00:00.000Z",
-      "summary": "Alertas de fraude subiram 54% desde 2024, impulsionados por IA e deepfakes; ONU alerta que fechar centrais isoladas não basta: é preciso rastrear o fluxo financeiro das redes criminosas.",
-      "source": "ONU News",
-      "cat": "internacional",
-      "type": "oficial"
-    },
-    {
-      "title": "Novo chefe do WFP pede fim dos combates no Sudão após visita ao país",
-      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854920",
-      "date": "2026-11-13T12:00:00.000Z",
-      "summary": "Luke J. Lindberg afirma que a paz abre as portas para o alimento, mas a guerra gera fome; agência precisa de US$ 520 milhões para assistir sudaneses até abril do próximo ano; conflito entre o Exército do Sudão e as forças paramilitares RSF começaram em 2023.",
-      "source": "ONU News",
-      "cat": "internacional",
-      "type": "oficial"
-    },
-    {
       "title": "Banco Central decreta Liquidação Extrajudicial da Cooperativa Administradora de Consórcios Roma",
       "link": "https://www.bcb.gov.br/detalhenoticia/21318/nota",
       "date": "2026-11-12T11:30:13.000Z",
-      "summary": "",
-      "source": "Banco Central",
-      "cat": "economia",
-      "type": "oficial"
-    },
-    {
-      "title": "Banco Central decreta liquidação extrajudicial de Cooperativa de Crédito Rural do Agreste Alagoano – Cooperagre",
-      "link": "https://www.bcb.gov.br/detalhenoticia/21317/nota",
-      "date": "2026-11-12T11:25:25.000Z",
       "summary": "",
       "source": "Banco Central",
       "cat": "economia",
