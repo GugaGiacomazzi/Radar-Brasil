@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-19T22:45:35.031Z",
+  "updated": "2026-11-19T23:40:25.606Z",
   "market": {
     "ibov": {
       "price": 166376.44,
       "pct": -0.69,
-      "time": "2026-11-19T22:45:30.189Z",
+      "time": "2026-11-19T23:40:18.307Z",
       "history": [
         {
           "d": "2026-10-20",
@@ -149,6 +149,87 @@
   },
   "news": [
     {
+      "title": "Em comunicado, líderes empresariais pedem que COP31 apoie eletrificação",
+      "link": "https://www.poder360.com.br/poder-energia/em-comunicado-lideres-empresariais-pedem-que-cop31-apoie-eletrificacao/",
+      "date": "2026-11-19T23:38:56.000Z",
+      "summary": "Documento assinado por empresas como Siemens, Volvo e Nestlé pede sinalização política para destravar investimentos e acelerar a transição energética",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Autodeclaração racial revela preconceitos e combate desigualdades",
+      "link": "https://www12.senado.leg.br/noticias/infomaterias/2026/11/autodeclaracao-racial-revela-preconceitos-e-combate-desigualdades",
+      "date": "2026-11-19T23:34:19.000Z",
+      "summary": "",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Em reunião, países reiteram apoio à Ucrânia e pressão sobre a Rússia",
+      "link": "https://www.poder360.com.br/poder-internacional/em-reuniao-paises-reiteram-apoio-a-ucrania-e-pressao-sobre-a-russia/",
+      "date": "2026-11-19T23:12:05.000Z",
+      "summary": "Em declaração conjunta, líderes detalham reforço da defesa aérea e novas sanções contra Moscou",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Anthropic sobe 17% em estreia na Bolsa e chega a US$ 1,27 trilhão",
+      "link": "https://www.poder360.com.br/poder-economia/anthropic-sobe-17-em-estreia-na-bolsa-e-chega-a-us-127-trilhao/",
+      "date": "2026-11-19T23:08:21.000Z",
+      "summary": "Criadora do Claude fechou o 1º pregão a US$ 97,17 por ação e passou a ocupar a 12ª posição entre as empresas mais valiosas do mundo",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Cabe a Fachin dar foco às investigações do Master no Supremo",
+      "link": "https://www.estadao.com.br/politica/raquel-landim/cabe-a-fachin-dar-foco-as-investigacoes-do-master-no-supremo/",
+      "date": "2026-11-19T23:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Aqui não! Queixa diante de nova vizinhança ignora benefício da cidade densa: convívio entre classes",
+      "link": "https://www.estadao.com.br/economia/elena-landau/aqui-nao-queixa-diante-de-nova-vizinhanca-ignora-beneficio-da-cidade-densa-convivio-entre-classes/",
+      "date": "2026-11-19T23:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Leia a íntegra do relatório de Moraes sobre o 8 de Janeiro",
+      "link": "https://www.poder360.com.br/poder-justica/leia-a-integra-do-relatorio-de-moraes-sobre-o-8-de-janeiro/",
+      "date": "2026-11-19T22:59:53.000Z",
+      "summary": "Ministro liberou ações contra a Lei da Dosimetria para julgamento de 4 a 15 de dezembro",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Justiça aprova parcelamento de R$ 139 milhões em execuções trabalhistas do Grupo Pão de Açúcar",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/justica-aprova-parcelamento-de-r-139-milhoes-em-execucoes-trabalhistas-do-grupo-pao-de-acucar.shtml",
+      "date": "2026-11-19T22:46:00.000Z",
+      "summary": "O Grupo Pão de Açúcar informou nesta quinta-feira (19) que o TRT-2 (Tribunal Regional do Trabalho da 2ª Região) aprovou um plano para reorganizar o pagamento de R$ 139 milhões em execuções trabalhistas da companhia. Leia mais (11/19/2026 - 19h46)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "PCdoB deve votar a favor do plano Moretti, mas apresenta projeto alternativo para reduzir juros",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/pcdob-deve-votar-a-favor-do-plano-moretti-mas-apresenta-projeto-alternativo-para-reduzir-juros.shtml",
+      "date": "2026-11-19T22:43:00.000Z",
+      "summary": "O PCdoB deve votar a favor do plano Moretti, que prevê um ajuste nas contas públicas e deve ser votado na Câmara dos Deputados na próxima semana. Mas, assim como o PT, a legenda decidiu apresentar vários projetos alternativos ao ajuste, com foco na redução dos",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "Comissão aprova proposta de política para pessoas com altas habilidades",
       "link": "https://www.camara.leg.br/noticias/1321312-comissao-aprova-proposta-de-politica-para-pessoas-com-altas-habilidades",
       "date": "2026-11-19T22:40:00.000Z",
@@ -156,6 +237,15 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
+    },
+    {
+      "title": "OAB-RJ barra intermediação irregular por plataformas digitais na contratação de advogados",
+      "link": "https://www.estadao.com.br/politica/oab-rj-barrar-intermediacao-irregular-por-plataformas-digitais-na-contratacao-de-advogados-nprp/",
+      "date": "2026-11-19T22:39:16.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
     },
     {
       "title": "Europa luta para não ficar à margem do futuro da Ucrânia",
@@ -170,8 +260,17 @@
       "title": "Fachin envia à PGR relatórios sobre Moraes, Kassio, Toffoli e Mendonça após citações no caso Master",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/fachin-envia-a-pgr-relatorios-sobre-moraes-kassio-toffoli-e-mendonca-apos-citacoes-no-caso-master.shtml",
       "date": "2026-11-19T22:31:00.000Z",
-      "summary": "O presidente do STF (Supremo Tribunal Federal), Edson Fachin, enviou nesta quinta-feira (19) aos gabinetes de ministros citados os relatórios da Polícia Federal sobre a relação do ex-banqueiro Daniel Vorcaro com magistrados da corte. Leia mais (11/19/2026 - 19",
+      "summary": "O presidente do STF (Supremo Tribunal Federal), Edson Fachin, enviou para a análise da PGR (Procuradoria-Geral da República), nesta quinta-feira (19), quatro relatórios produzidos pela Polícia Federal com citações aos ministros Alexandre de Moraes, Kassio Nune",
       "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "PF pede apuração dos casos de 4 ministros do STF ligados a Vorcaro",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/pf-pede-avaliacao-dos-casos-de-4-ministros-do-stf-ligados-a-vorcaro/",
+      "date": "2026-11-19T22:23:27.000Z",
+      "summary": "",
+      "source": "Estadão",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -183,15 +282,6 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Agora a escala é 5x2; qual impacto ela provocará em cada setor ou perfil de empresa?",
-      "link": "https://www.estadao.com.br/economia/celso-ming/agora-a-escala-e-5x2-qual-impacto-ela-provocara-em-cada-setor-ou-perfil-de-empresa/",
-      "date": "2026-11-19T22:16:50.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
     },
     {
       "title": "Juíza foi alertada por servidora e mentiu sobre decisão a favor de sobrinho em leilão de R$ 20 mi",
@@ -212,16 +302,7 @@
       "type": "imprensa"
     },
     {
-      "title": "MDB trabalha para manter Cidades e Transportes no Lula 4",
-      "link": "https://www.poder360.com.br/poder-partidos-politicos/mdb-trabalha-para-manter-cidades-e-transportes-no-lula-4/",
-      "date": "2026-11-19T22:05:32.000Z",
-      "summary": "Partido quer preservar espaço em ministérios com forte capilaridade na Esplanada e já iniciou conversas com o presidente do PT",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Moraes libera ação que trata da lei da dosimetria para julgamento no plenário virtual do STF",
+      "title": "Moraes libera ação para STF julgar lei da dosimetria que pode beneficiar Bolsonaro",
       "link": "https://www.estadao.com.br/politica/moraes-libera-acao-que-trata-da-lei-da-dosimetria-para-julgamento-no-plenario-virtual-do-stf/",
       "date": "2026-11-19T21:57:50.000Z",
       "summary": "",
@@ -239,30 +320,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Reforma do Judiciário deve ser feita com a cabeça, diz Salomão",
-      "link": "https://www.poder360.com.br/poder-justica/reforma-do-judiciario-deve-ser-feita-com-a-cabeca-diz-salomao/",
-      "date": "2026-11-19T21:46:11.000Z",
-      "summary": "Presidente do STJ critica ameaças de impeachment de ministros do STF e defende mudanças para reduzir a morosidade da Justiça",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Distração e a arte de resolver problemas",
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/distracao-e-a-arte-de-resolver-problemas.shtml",
       "date": "2026-11-19T21:38:00.000Z",
       "summary": "Diante de um desafio que parece impossível de superar, algo tão intimidante que até mesmo dar o primeiro passo parece inviável, o que fazer? Essa pode parecer uma situação enfrentada por alguns dos grandes pensadores da história: o matemático que se vê diante ",
       "source": "Folha",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Justiça derruba liminar que proibiu licitação de iPhones para o Senado",
-      "link": "https://www.estadao.com.br/politica/justica-derruba-liminar-que-proibiu-licitacao-de-iphones-para-o-senado-nprp/",
-      "date": "2026-11-19T21:37:30.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -284,28 +347,10 @@
       "type": "oficial"
     },
     {
-      "title": "Ibovespa cai 0,69% com incertezas sobre ajuste fiscal do governo",
-      "link": "https://www.poder360.com.br/poder-economia/ibovespa-cai-069-com-incertezas-sobre-ajuste-fiscal-do-governo/",
-      "date": "2026-11-19T21:34:31.000Z",
-      "summary": "Principal índice da B3 recuou a 166.376 pontos; alta do dólar e dos juros futuros pressionou o mercado acionário",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Moretti diz que supersalários serão regulamentados em 60 dias",
-      "link": "https://www.poder360.com.br/poder-economia/moretti-diz-que-supersalarios-serao-regulamentados-em-60-dias/",
-      "date": "2026-11-19T21:33:08.000Z",
-      "summary": "Prazo começa a contar depois da sanção do pacote de ajuste fiscal; ministro defende combate a privilégios no funcionalismo",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Moraes marca para 4 de dezembro julgamento sobre dosimetria que pode beneficiar Bolsonaro",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/moraes-marca-julgamento-sobre-dosimetria-que-pode-beneficiar-bolsonaro-para-4-de-dezembro.shtml",
       "date": "2026-11-19T21:28:00.000Z",
-      "summary": "O ministro Alexandre de Moraes, do STF (Supremo Tribunal Federal), marcou para 4 de dezembro o começo do julgamento de quatro ações referentes à Lei da Dosimetria, que permite a redução da pena de condenados pelo 8 de Janeiro e pela trama golpista, como é o ca",
+      "summary": "O ministro Alexandre de Moraes, do STF (Supremo Tribunal Federal), marcou para dezembro o começo do julgamento de quatro ações referentes à Lei da Dosimetria, que permite a redução da pena de condenados pelo 8 de Janeiro e pela trama golpista, como é o caso do",
       "source": "Folha",
       "cat": "politica",
       "type": "imprensa"
@@ -356,15 +401,6 @@
       "type": "oficial"
     },
     {
-      "title": "Amazon vai desativar venda de bebidas alcoólicas sem imagem do rótulo",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/amazon-vai-desativar-venda-de-bebidas-alcoolicas-sem-imagem-do-rotulo.shtml",
-      "date": "2026-11-19T21:20:00.000Z",
-      "summary": "A Amazon comunicou as empresas parceiras que vai desativar as ofertas de bebidas alcoólicas sem imagens de rótulos a partir de 11 de janeiro, conforme informativo a que a coluna teve acesso. Leia mais (11/19/2026 - 18h20)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Damares defende protocolo nacional para desaparecimento de crianças",
       "link": "https://www12.senado.leg.br/noticias/materias/2026/11/19/damares-defende-protocolo-nacional-para-desaparecimento-de-criancas",
       "date": "2026-11-19T21:14:51.000Z",
@@ -392,39 +428,12 @@
       "type": "oficial"
     },
     {
-      "title": "‘Mais importante que a cifra do ajuste é a confiança de que ele será executado’, diz CEO da Ultrapar",
-      "link": "https://www.estadao.com.br/economia/mais-importante-que-a-cifra-do-ajuste-e-a-confianca-de-que-ele-sera-executado-diz-ceo-da-ultrapar/",
-      "date": "2026-11-19T21:03:08.000Z",
+      "title": "Oposição defende mudar ajuste fiscal na Câmara, mas esbarra em acordo de Motta com governo",
+      "link": "https://www.estadao.com.br/economia/oposicao-defende-mudar-ajuste-fiscal-na-camara-mas-esbarra-em-acordo-de-motta-com-governo/",
+      "date": "2026-11-19T21:11:06.000Z",
       "summary": "",
       "source": "Estadão",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Campos Neto diz que Esteves, do BTG, levantou suspeitas sobre Master, mas diretor do BC as descartou",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/campos-neto-diz-que-esteves-do-btg-levantou-suspeitas-sobre-master-mas-diretor-do-bc-as-descartou/",
-      "date": "2026-11-19T20:43:44.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Presidente do PSOL diz que partido está unido contra pressão do mercado sobre Lula",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/presidente-do-psol-diz-que-partido-esta-unido-contra-pressao-do-mercado-sobre-lula.shtml",
-      "date": "2026-11-19T20:41:00.000Z",
-      "summary": "A presidente nacional do PSOL, Paula Coradi, diz que o partido está unido para resistir à pressão econômica do mercado sobre o próximo governo de Luiz Inácio Lula da Silva. Leia mais (11/19/2026 - 17h41)",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "André Esteves depõe à PF: ‘Master era um banco muito pequeno, inexpressivo’",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/andre-esteves-depoe-a-pf-master-era-um-banco-muito-pequeno-inexpressivo/",
-      "date": "2026-11-19T20:36:42.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -536,21 +545,21 @@
       "type": "imprensa"
     },
     {
+      "title": "Cobrança federal pelo uso da água do Rio Paranapanema preocupa produtores de SP e PR; leia bastidor",
+      "link": "https://www.estadao.com.br/economia/agronegocios/cobranca-federal-agua-paranapanema-produtores-sp-pr/",
+      "date": "2026-11-19T15:02:20.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "Anthropic dispara na estreia na bolsa e chega a valer R$ 11 trilhões: empresa pode evitar estouro da bolha da IA?",
       "link": "https://www.bbc.com/portuguese/articles/cm782wyv0153o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-19T14:39:39.000Z",
       "summary": "Ações começaram a ser negociadas com alta de 34%, mas recuaram depois, de US$ 111,50 para cerca de US$ 100.",
       "source": "BBC News Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Lula assina decreto que regulamenta fim da escala 6x1 em meio a disputa no STF",
-      "link": "https://www.estadao.com.br/economia/lula-assina-decreto-que-regulamenta-fim-da-escala-6x1-em-meio-a-disputa-no-stf/",
-      "date": "2026-11-19T14:38:57.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -690,7 +699,6 @@
     }
   ],
   "errors": [
-    "Selic (SGS 432): HTTP 304",
     "feed CNN Brasil: HTTP 404",
     "feed CNN Brasil: HTTP 404"
   ]
