@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-19T19:59:20.264Z",
+  "updated": "2026-11-19T20:54:29.567Z",
   "market": {
     "ibov": {
-      "price": 166416.78,
-      "pct": -0.67,
-      "time": "2026-11-19T19:59:15.612Z",
+      "price": 166226.12,
+      "pct": -0.78,
+      "time": "2026-11-19T20:54:21.484Z",
       "history": [
         {
           "d": "2026-10-20",
@@ -92,7 +92,7 @@
         },
         {
           "d": "2026-11-19",
-          "c": 166315.4375
+          "c": 166300.8438
         }
       ]
     },
@@ -149,6 +149,195 @@
   },
   "news": [
     {
+      "title": "STJ mantém anulação da condenação de Adriana Villela no Crime da 113",
+      "link": "https://www.poder360.com.br/poder-justica/stj-mantem-anulacao-da-condenacao-de-adriana-villela-no-crime-da-113/",
+      "date": "2026-11-19T20:47:55.000Z",
+      "summary": "Julgamento terminou empatado em 2 a 2; ministros mantiveram decisão que identificou irregularidades no processo",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Campos Neto diz que Esteves, do BTG, levantou suspeitas sobre Master, mas diretor do BC as descartou",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/campos-neto-diz-que-esteves-do-btg-levantou-suspeitas-sobre-master-mas-diretor-do-bc-as-descartou/",
+      "date": "2026-11-19T20:43:44.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Presidente do PSOL diz que partido está unido contra pressão do mercado sobre Lula",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/presidente-do-psol-diz-que-partido-esta-unido-contra-pressao-do-mercado-sobre-lula.shtml",
+      "date": "2026-11-19T20:41:00.000Z",
+      "summary": "A presidente nacional do PSOL, Paula Coradi, diz que o partido está unido para resistir à pressão econômica do mercado sobre o próximo governo de Luiz Inácio Lula da Silva. Leia mais (11/19/2026 - 17h41)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Pesquisa científica e datacenter do Serpro terão mais R$ 48,1 milhões",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/19/pesquisa-cientifica-e-datacenter-do-serpro-terao-mais-r-48-1-milhoes",
+      "date": "2026-11-19T20:39:53.000Z",
+      "summary": "O governo federal autorizou a abertura de créditos orçamentários que somam R$ 48,1 milhões para pesquisa e desenvolvimento científico e para demandas de datacenter. Os recursos estão previstos nas Leis 15.531 e 15.544, sancionadas pelo presidente Luiz Inácio L",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "André Esteves depõe à PF: ‘Master era um banco muito pequeno, inexpressivo’",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/andre-esteves-depoe-a-pf-master-era-um-banco-muito-pequeno-inexpressivo/",
+      "date": "2026-11-19T20:36:42.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Combustíveis fósseis: o que são e por que importam",
+      "link": "https://www.dw.com/pt-br/combustíveis-fósseis-o-que-são-e-por-que-importam/a-79994658?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-19T20:35:00.000Z",
+      "summary": "Dos motores da Revolução Industrial à crise climática: entenda como carvão, petróleo e gás natural moldaram o mundo moderno e por que cientistas defendem sua substituição para conter o aquecimento global.",
+      "source": "DW Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Deputado aciona TCU contra licitação do Senado para contratar TV a cabo em gabinetes e casa de Davi",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/deputado-aciona-tcu-contra-licitacao-do-senado-para-contratar-tv-a-cabo-em-gabinetes-e-casa-de-davi/",
+      "date": "2026-11-19T20:32:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Justiça libera pregão de R$ 6 milhões para iPhones do Senado",
+      "link": "https://www.poder360.com.br/poder-congresso/justica-libera-pregao-de-r-6-milhoes-para-iphones-do-senado/",
+      "date": "2026-11-19T20:31:00.000Z",
+      "summary": "Decisão da presidente do TRF-1, juíza federal Maria do Carmo Cardoso, derruba liminar concedida a pedido de Nikolas Ferreira (PL)",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Vieira e Mauricio Lyrio devem comandar Itamaraty no 4º mandato de Lula",
+      "link": "https://www.poder360.com.br/poder-governo/vieira-e-lyrio-devem-comandar-itamaraty-no-4o-mandato-de-lula/",
+      "date": "2026-11-19T20:29:15.000Z",
+      "summary": "Ministro deve ficar no cargo por 2 anos; secretário de Clima deve se tornar secretário-geral e passar ao posto principal em 2029",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Participantes de audiência defendem ratificação de convenção sobre direitos das pessoas idosas",
+      "link": "https://www.camara.leg.br/noticias/1321321-participantes-de-audiencia-defendem-ratificacao-de-convencao-sobre-direitos-das-pessoas-idosas",
+      "date": "2026-11-19T20:29:00.000Z",
+      "summary": "Segundo especialistas, tratado pode fortalecer a aplicação dos direitos já reconhecidos e ampliar a responsabilização do Estado pelo cumprimento dessas garantias",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Dólar vai a R$ 5,93 e renova máxima do ano apesar de leilão do BC",
+      "link": "https://www.poder360.com.br/poder-economia/dolar-vai-a-r-593-e-renova-maxima-do-ano-apesar-de-leilao-do-bc/",
+      "date": "2026-11-19T20:28:11.000Z",
+      "summary": "Moeda norte-americana fechou com alta de 1,15%; BC fez leilão extraordinário de US$ 1 bilhão no mercado à vista para reduzir a pressão sobre o câmbio, mas não foi suficiente",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Galípolo diz à PF que informações vazavam para o Master logo após reuniões internas do BC",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/galipolo-diz-a-pf-que-informacoes-vazavam-para-o-master-logo-apos-reunioes-internas-do-bc/",
+      "date": "2026-11-19T20:25:36.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Presidente do TRF-1 derruba liminar e libera pregão do Senado com gasto de R$ 2,66 milhões em iPhones",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/presidente-do-trf-1-derruba-liminar-e-libera-pregao-do-senado-com-gasto-de-r-266-milhoes-em-iphones.shtml",
+      "date": "2026-11-19T20:21:00.000Z",
+      "summary": "O TRF-1 (Tribunal Regional Federal da 1ª Região) restabeleceu nesta quinta-feira (19) o pregão do Senado para contratar serviços de telefonia móvel por quatro anos, ao custo estimado de R$ 6 milhões. A decisão da presidente da corte, Maria do Carmo Cardoso, su",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Mercado brasileiro de games deve movimentar US$ 3,1 bi até 2030, estima PwC; salto poderia ser maior",
+      "link": "https://www.estadao.com.br/economia/negocios/mercado-brasileiro-de-games-deve-movimentar-us-31-bi-ate-2030-estima-pwc-salto-poderia-ser-maior/",
+      "date": "2026-11-19T20:18:07.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Empresas que ignoram alerta sobre proteção de dados são os maiores alvos de multas pela ANPD",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/empresas-que-ignoram-alerta-sobre-protecao-de-dados-sao-os-maiores-alvos-de-multas-pela-anpd.shtml",
+      "date": "2026-11-19T20:16:00.000Z",
+      "summary": "Uma análise sobre 190 processos no âmbito da ANPD (Agência Nacional de Proteção de Dados) realizada pelo escritório Prado Vidigal Advogados concluiu que o que mais leva empresas a serem punidas é ignorar alertas do órgão. Essa infração ultrapassou, inclusive, ",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Rockstar deve quebrar recordes de vendas com lançamento de GTA 6",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/rockstar-deve-quebrar-recordes-de-vendas-com-lancamento-de-gta-6.shtml",
+      "date": "2026-11-19T20:12:00.000Z",
+      "summary": "A aventura da dupla de criminosos Lucia e Jason por Vice City em \"GTA 6\" deve ajudar a Take-Two Interactive a arrecadar cerca de US$ 2 bilhões (R$ 11,86 bilhões) em vendas estimadas no primeiro dia de lançamento do game. Leia mais (11/19/2026 - 17h12)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Agora é lei: mudanças no Orçamento incluem Copa Feminina e nomeações",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/19/agora-e-lei-mudancas-no-orcamento-incluem-copa-feminina-e-nomeacoes",
+      "date": "2026-11-19T20:10:59.000Z",
+      "summary": "Três leis que alteram regras do Orçamento da União de 2026 foram publicadas no Diário Oficial da União nesta quinta-feira (19). As medidas ampliam as possibilidades de remanejamento de recursos pelo governo federal, flexibilizam exigências orçamentárias para a",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Apesar de ansiedade do mercado, Lula 4 não assume em ambiente de terra arrasada, diz André Esteves",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/apesar-de-ansiedade-do-mercado-lula-4-nao-assume-em-ambiente-de-terra-arrasada-diz-andre-esteves.shtml",
+      "date": "2026-11-19T20:09:00.000Z",
+      "summary": "O presidente do conselho de administração do BTG Pactual, André Esteves, afirmou nesta quinta-feira (19) que, apesar da ansiedade do mercado nos últimos dias, o quarto mandato de Luiz Inácio Lula da Silva (PT) não começa com um cenário de terra arrasada, como ",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Qual país tem a maior carga tributária do mundo? Brasil pode chegar ao topo até 2050",
+      "link": "https://www.estadao.com.br/economia/pedro-fernando-nery/qual-pais-tem-a-maior-carga-tributaria-do-mundo/",
+      "date": "2026-11-19T20:03:29.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Durigan defende novo imposto no Senado",
+      "link": "https://www12.senado.leg.br/noticias/infomaterias/2026/11/durigan-defende-novo-imposto-no-senado",
+      "date": "2026-11-19T20:02:26.000Z",
+      "summary": "",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Escolas secretas educam crianças ucranianas sob ocupação russa",
+      "link": "https://www.dw.com/pt-br/escolas-secretas-educam-crianças-ucranianas-sob-ocupação-russa/a-79981727?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-19T19:58:00.000Z",
+      "summary": "Estudantes buscam alternativa às aulas obrigatórias impostas pelo Kremlin, onde se exibe propaganda de guerra. Famílias enfrentam risco de separação ou até detenção.",
+      "source": "DW Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
       "title": "Obras em presídios e combate ao crime na Amazônia terão mais recursos",
       "link": "https://www12.senado.leg.br/noticias/materias/2026/11/19/obras-em-presidios-e-combate-ao-crime-na-amazonia-legal-terao-mais-recursos",
       "date": "2026-11-19T19:49:25.000Z",
@@ -163,15 +352,6 @@
       "date": "2026-11-19T19:40:00.000Z",
       "summary": "O presidente Lula (PT) disse nesta quinta-feira (19) que criará um ministério voltado à população idosa. O chefe do governo também afirmou ser grato ao eleitorado mais velho pelo apoio que deu à sua candidatura de reeleição. Leia mais (11/19/2026 - 16h40)",
       "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Paes cobra que TSE julgue recurso sobre segundo turno no Rio",
-      "link": "https://www.estadao.com.br/politica/paes-cobra-que-tse-julgue-recurso-sobre-segundo-turno-no-rio-nprp/",
-      "date": "2026-11-19T19:36:35.000Z",
-      "summary": "",
-      "source": "Estadão",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -194,15 +374,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Participantes de audiência defendem ratificação de convenção sobre direitos das pessoas idosas",
-      "link": "https://www.camara.leg.br/noticias/1321321-participantes-de-audiencia-defendem-ratificacao-de-convencao-sobre-direitos-das-pessoas-idosas",
-      "date": "2026-11-19T19:29:00.000Z",
-      "summary": "Segundo especialistas, tratado pode fortalecer a aplicação dos direitos já reconhecidos e ampliar a responsabilização do Estado pelo cumprimento dessas garantias",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
       "title": "Mercado de câmbio trava após fala de Lula sobre escolha de ministros e BC intervém com leilão de dólar",
       "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/19/mercado-de-cambio-trava-apos-fala-de-lula-sobre-escolha-de-ministros-e-bc-intervem-com-leilao-de-dolar.ghtml",
       "date": "2026-11-19T19:28:15.000Z",
@@ -210,15 +381,6 @@
       "source": "g1",
       "cat": "politica",
       "type": "imprensa"
-    },
-    {
-      "title": "Senadores comemoram assinatura de decreto que regulamenta escala 5x2",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/19/senadores-comemoram-assinatura-de-decreto-que-regulamenta-escala-5x2",
-      "date": "2026-11-19T19:26:43.000Z",
-      "summary": "O governo federal publicou nesta quinta-feira (19) decreto do presidente Luiz Inácio Lula da Silva que regulamenta o fim da escala de trabalho 6x1, extinta pela Emenda Constitucional 141, promulgada pelo Congresso no mês passado. A mudança vai beneficiar empre",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
     },
     {
       "title": "Audiência discute a criação da Comissão Nacional Indígena da Verdade",
@@ -230,15 +392,6 @@
       "type": "oficial"
     },
     {
-      "title": "Senadores apresentam PEC para transferir para STJ julgamento de autoridades",
-      "link": "https://www.estadao.com.br/politica/senadores-apresentam-pec-para-transferir-para-stj-julgamento-de-autoridades-nprp/",
-      "date": "2026-11-19T19:22:39.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Comissão aprova proposta que declara o jiu-jitsu brasileiro como manifestação cultural",
       "link": "https://www.camara.leg.br/noticias/1321274-comissao-aprova-proposta-que-declara-o-jiu-jitsu-brasileiro-como-manifestacao-cultural",
       "date": "2026-11-19T19:17:00.000Z",
@@ -246,15 +399,6 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Câmara cobra devolução de R$ 5,5 mil de Alexandre Ramagem por ‘recebimentos indevidos’",
-      "link": "https://www.estadao.com.br/politica/camara-cobra-devolucao-de-r-55-mil-de-alexandre-ramagem-por-recebimentos-indevidos-nprp/",
-      "date": "2026-11-19T19:16:17.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
     },
     {
       "title": "Empresários pedem mais tempo para adaptação à escala 5x2 com 42 horas semanais",
@@ -275,42 +419,6 @@
       "type": "oficial"
     },
     {
-      "title": "Governo supera meta de cota racial em cargos de confiança, mas não mostra detalhes de hierarquia",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/governo-supera-meta-de-cota-racial-em-cargos-de-confianca-mas-nao-mostra-detalhes-de-hierarquia.shtml",
-      "date": "2026-11-19T19:00:00.000Z",
-      "summary": "A economista Tereza Cleise de Assis assumiu a primeira vaga como concursada no serviço público federal em 2006, no Ministério das Cidades. Depois disso, foi aprovada novamente, dessa vez na AGU (Advocacia-Geral da União). Passados cerca de oito anos no cargo, ",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Leis destinam R$ 522 milhões para gestão fiscal e encargos de fundos internacionais",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/19/leis-destinam-r-522-milhoes-para-gestao-fiscal-e-encargos-de-fundos-internacionais",
-      "date": "2026-11-19T18:59:36.000Z",
-      "summary": "O presidente Luiz Inácio Lula da Silva sancionou duas leis que destinam R$ 522,1 milhões à implantação de soluções tecnológicas para a reforma tributária e à participação do Brasil no capital de instituições financeiras internacionais. As medidas estão previst",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Bancos esperam crédito restrito e alta da inadimplência em 2026",
-      "link": "https://www.poder360.com.br/poder-economia/bancos-esperam-credito-restrito-e-alta-da-inadimplencia-em-2026/",
-      "date": "2026-11-19T18:57:30.000Z",
-      "summary": "Pesquisa do Banco Central indica piora nas condições de financiamento; pequenas e médias empresas concentram riscos",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Capital de giro sustenta demanda das empresas por empréstimos",
-      "link": "https://www.poder360.com.br/poder-economia/capital-de-giro-sustenta-demanda-das-empresas-por-emprestimos/",
-      "date": "2026-11-19T18:53:47.000Z",
-      "summary": "Pesquisa do BC mostra que necessidade de investimentos em ativos fixos tem efeito negativo sobre a procura por crédito",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Show da Virada na Paulista terá Pericles com participação de pagodeiros dos anos 90",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/show-da-virada-na-paulista-tera-pericles-com-participacao-de-pagodeiros-dos-anos-90.shtml",
       "date": "2026-11-19T18:53:00.000Z",
@@ -329,66 +437,12 @@
       "type": "imprensa"
     },
     {
-      "title": "iFood informa vazamento de dados de clientes, entregadores e restaurantes",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/ifood-informa-vazamento-de-dados-de-clientes-entregadores-e-restaurantes.shtml",
-      "date": "2026-11-19T18:47:00.000Z",
-      "summary": "O iFood informou nesta quinta-feira (19) que dados cadastrais de clientes, entregadores e restaurantes parceiros foram acessados indevidamente no último dia 14 de novembro. Leia mais (11/19/2026 - 15h47)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "BC erra ao intervir na cotação do dólar, diz ex-chefe de departamento da autarquia",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/bc-erra-ao-intervir-na-cotacao-do-dolar-diz-ex-chefe-de-departamento-da-autarquia.shtml",
-      "date": "2026-11-19T18:45:00.000Z",
-      "summary": "O ex-chefe do departamento de mercado aberto do Banco Central, Sérgio Goldenstein, avalia que o órgão errou ao intervir no mercado de câmbio nesta quinta-feira (19), e diz que a alta do dólar nos últimos dias é decorrência da \"inércia\" do presidente Lula de de",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Depois do fim da 6 X 1, Lula reafirma promessa de aumentar gasto social",
-      "link": "https://www.poder360.com.br/poder-governo/depois-do-fim-da-6-x-1-lula-reafirma-promessa-de-aumentar-gasto-social/",
-      "date": "2026-11-19T18:39:03.000Z",
-      "summary": "Presidente retomou propostas de transporte coletivo gratuito aos fins de semana e de criação de um ministério para idosos",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Reforma do Judiciário tem que ser feita com a cabeça, não com o fígado, diz presidente do STJ",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/reforma-do-judiciario-tem-que-ser-feita-com-a-cabeca-nao-com-o-figado-diz-presidente-do-stj.shtml",
-      "date": "2026-11-19T18:36:00.000Z",
-      "summary": "O presidente do STJ (Superior Tribunal de Justiça), Luis Felipe Salomão, afirmou nesta quinta-feira (19) que uma reforma do Judiciário \"tem que ser feita com a cabeça, não com o fígado\", e que não vê ameaças de retrocesso democrático com a iniciativa. Leia mai",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Wellington Dias deixa o Ministério do Desenvolvimento Social",
-      "link": "https://www.poder360.com.br/poder-governo/wellington-dias-deixa-o-ministerio-do-desenvolvimento-social/",
-      "date": "2026-11-19T18:35:07.000Z",
-      "summary": "Saída foi oficializada em edição extra do Diário Oficial da União; tem mandato no Senado por mais 4 anos",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Trump comprou até US$ 265 mil em ações da Nvidia enquanto governo avaliava regras para chips",
       "link": "https://g1.globo.com/economia/noticia/2026/11/19/trump-acoes-nvidia.ghtml",
       "date": "2026-11-19T18:34:26.000Z",
       "summary": "Escândalo de espionagem envolvendo a Nvidia chega ao alto escalão do governo Trump O presidente dos Estados Unidos, Donald Trump, comprou até US$ 265 mil (R$ 1,57 milhão) em ações da Nvidia em setembro e vendeu até US$ 15 mil em papéis da empresa no mesmo mês,",
       "source": "g1",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Lula exonera ministro do Desenvolvimento Social a pedido",
-      "link": "https://www.estadao.com.br/politica/lula-exonera-ministro-do-desenvolvimento-social-a-pedido-nprp/",
-      "date": "2026-11-19T18:26:11.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -419,30 +473,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Maioria dos brasileiros deixaria IA comparar preços, mas só 7% autorizariam a pagar sozinha",
-      "link": "https://www.estadao.com.br/economia/maioria-brasileiros-ia-comparar-precos-pagar-sozinha/",
-      "date": "2026-11-19T18:06:03.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "iFood sofre ataque hacker que expõe dados de clientes, entregadores e representantes de restaurantes",
       "link": "https://g1.globo.com/tecnologia/noticia/2026/11/19/ifood-sofre-invasao-que-expoe-dados-de-clientes-entregadores-e-representantes-de-restaurantes.ghtml",
       "date": "2026-11-19T18:00:00.000Z",
       "summary": "Entregador de aplicativo com bag do iFood. Celso Tavares/G1 O iFood informou nesta quinta-feira (19) que criminosos invadiram seus sistemas e acessaram dados de clientes, representantes de restaurantes e entregadores. Ao g1, a empresa disse que ainda investiga",
       "source": "g1",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Crise no Supremo tem origem na atividade de juízes empresários",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/blogs/frederico-vasconcelos/2026/11/crise-no-supremo-tem-origem-na-atividade-de-juizes-empresarios.shtml",
-      "date": "2026-11-19T18:00:00.000Z",
-      "summary": "Alexandre de Moraes, Dias Toffoli, Kassio Nunes Marques, Gilmar Mendes, Luiz Fux e André Mendonça poderão ficar mais expostos se novos documentos reforçarem a promiscuidade de ministros do Supremo Tribunal Federal com o ex-banqueiro Daniel Vorcaro. Leia mais (",
-      "source": "Folha",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -509,15 +545,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Projeto de ajuste aprovado vai dar mais segurança para cumprimento da meta, diz Moretti",
-      "link": "https://www.estadao.com.br/economia/projeto-ajuste-mais-seguranca-cumprimento-meta-moretti/",
-      "date": "2026-11-19T13:32:26.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Trump, Xi e Putin em encontro histórico na China: o que cada um falou e quer na cúpula",
       "link": "https://www.bbc.com/portuguese/articles/cjvg2922e50qo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-19T12:15:29.000Z",
@@ -552,24 +579,6 @@
       "source": "ONU News",
       "cat": "internacional",
       "type": "oficial"
-    },
-    {
-      "title": "Israel realiza maior ofensiva terrestre na Faixa de Gaza desde o cessar-fogo",
-      "link": "https://www.dw.com/pt-br/israel-realiza-maior-ofensiva-terrestre-na-faixa-de-gaza-desde-o-cessar-fogo/a-79989088?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-19T11:33:00.000Z",
-      "summary": "Exército diz que operação em área controlada pelo Hamas visava eliminar ameaças às forças israelenses. Grupo palestino denuncia violação dos termos do cessar-fogo, em meio a uma grave crise humanitária no enclave.",
-      "source": "DW Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Anthropic estreia na bolsa com avaliação de US$ 1,5 trilhão",
-      "link": "https://www.dw.com/pt-br/anthropic-estreia-na-bolsa-com-avaliação-de-us-1-5-trilhão/a-79989133?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-19T10:18:00.000Z",
-      "summary": "Empresa de inteligência artificial que criou o Claude captou 81,3 bilhões de dólares em IPO, superando a estreia da SpaceX no mercado. Ação ocorre em momento desafiador para empresas de tecnologia.",
-      "source": "DW Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
     },
     {
       "title": "Ressurge movimentação por ex-superintendente do Cade Alexandre Barreto no comando do BB",
