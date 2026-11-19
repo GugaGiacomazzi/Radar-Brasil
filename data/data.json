@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-19T13:11:02.887Z",
+  "updated": "2026-11-19T14:28:30.935Z",
   "market": {
     "ibov": {
-      "price": 167537.95,
-      "pct": -1.34,
-      "time": "2026-11-19T13:10:57.581Z",
+      "price": 167899.16,
+      "pct": 0.22,
+      "time": "2026-11-19T14:28:26.300Z",
       "history": [
         {
           "d": "2026-10-20",
@@ -89,6 +89,10 @@
         {
           "d": "2026-11-18",
           "c": 167538
+        },
+        {
+          "d": "2026-11-19",
+          "c": 167781.6563
         }
       ]
     },
@@ -145,21 +149,237 @@
   },
   "news": [
     {
-      "title": "TST confirma indenização a cabeleireira alvo de racismo em salão do Rio",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/tst-confirma-indenizacao-a-cabeleireira-alvo-de-racismo-em-salao-do-rio.shtml",
-      "date": "2026-11-19T13:07:00.000Z",
-      "summary": "Um salão de beleza no Rio de Janeiro foi condenado a pagar indenização de R$ 50 mil a uma cabeleireira que teve seu cabelo ridicularizado por ser crespo. A Sétima Turma do TST (Tribunal Superior do Trabalho) confirmou condenação de instâncias inferiores que en",
+      "title": "Comissão aprova porte de arma para agentes socioeducativos e oficiais de Justiça",
+      "link": "https://www.camara.leg.br/noticias/1320975-comissao-aprova-porte-de-arma-para-agentes-socioeducativos-e-oficiais-de-justica",
+      "date": "2026-11-19T14:24:00.000Z",
+      "summary": "Texto poderá seguir para sanção presidencial, a menos que haja recurso para que seja votado pelo Plenário da Câmara",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "André Janones perde recurso e terá de se desculpar e pagar R$ 30 mil a Carlos Vereza",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/andre-janones-perde-recurso-e-tera-de-se-desculpar-e-pagar-r-30-mil-a-carlos-vereza.shtml",
+      "date": "2026-11-19T14:22:00.000Z",
+      "summary": "A Justiça do Rio de Janeiro rejeitou recurso apresentado pelo deputado federal André Janones (Rede-MG) e ele terá de pagar R$ 30 mil ao ator Carlos Vereza, 88, além de publicar um pedido de desculpas em suas redes sociais. Leia mais (11/19/2026 - 11h22)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Comissão aprova proposta com prazo máximo de 60 dias para processos disciplinares na segurança pública",
+      "link": "https://www.camara.leg.br/noticias/1320952-comissao-aprova-proposta-com-prazo-maximo-de-60-dias-para-processos-disciplinares-na-seguranca-publica",
+      "date": "2026-11-19T14:12:00.000Z",
+      "summary": "Texto segue em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Alcolumbre vai se reunir com Lula nos próximos dias para debater indicação ao STF e montagem do novo governo",
+      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/19/alcolumbre-vai-se-reunir-com-lula-nos-proximos-dias-para-debater-indicacao-ao-stf-e-montagem-do-novo-governo.ghtml",
+      "date": "2026-11-19T14:11:25.000Z",
+      "summary": "Depois de garantir seguidas vitórias para o governo no Senado, o presidente da Casa, Davi Alcolumbre (União-AP), tem um encontro com o presidente Lula previsto para os próximos dias. Na conversa, o senador deve falar com Lula sobre o nome que indicará para o S",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Comissão de Constituição e Justiça aprova proposta sobre capacitação contra câncer infantil",
+      "link": "https://www.camara.leg.br/noticias/1321000-comissao-de-constituicao-e-justica-aprova-proposta-sobre-capacitacao-contra-cancer-infantil",
+      "date": "2026-11-19T14:04:00.000Z",
+      "summary": "Texto poderá seguir para a análise do Senado",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "WhatsApp libera agendamento de mensagens para mais pessoas; veja como funciona",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/19/whatsapp-libera-agendamento-de-mensagens-para-mais-pessoas-veja-como-funciona.ghtml",
+      "date": "2026-11-19T14:03:49.000Z",
+      "summary": "WhatsApp libera agendamento de mensagens para mais pessoas Brett Jordan/Unsplash/Reprodução/Redes sociais O WhatsApp está liberando para alguns usuários no Brasil um recurso que permite escolher o dia e a hora em que uma mensagem será enviada. O g1 identificou",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Ao vivo: BNDES apresenta resultados do 3º trimestre de 2026",
+      "link": "https://www.poder360.com.br/poder-economia/ao-vivo-bndes-apresenta-resultados-do-3o-trimestre-de-2026/",
+      "date": "2026-11-19T14:00:01.000Z",
+      "summary": "Banco é presidido por Aloizio Mercadante, cotado para assumir o Ministério da Fazenda no próximo governo Lula",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Ataque cibernético com IA atingiu Comissão Europeia em outubro",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/ataque-cibernetico-com-ia-atingiu-comissao-europeia-em-outubro.shtml",
+      "date": "2026-11-19T14:00:00.000Z",
+      "summary": "A Comissão Europeia afirmou nesta quinta-feira (19) que foi alvo de uma campanha de ataques cibernéticos com auxílio de inteligência artificial em outubro. Um porta-voz disse, porém, que o bloco não acredita que tenha ocorrido um vazamento de dados \"nesta fase",
       "source": "Folha",
       "cat": "economia",
       "type": "imprensa"
     },
     {
-      "title": "'GTA 6' supera recordes com 17 mi de unidades vendidas e US$ 1,5 bi arrecadado",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/tec/2026/11/gta-6-supera-recordes-com-17-mi-de-unidades-vendidas-e-us-15-bi-arrecadado.shtml",
-      "date": "2026-11-19T13:01:00.000Z",
-      "summary": "O lançamento do jogo \"GTA 6\" nesta quinta-feira (19) deve bater alguns dos principais recordes do setor. Estimativas da Sensor Tower, consultoria especializada na área, apontam que 17 milhões de unidades do game foram vendidas na pré-venda, sendo que três quar",
+      "title": "O Brasil venceu uma batalha contra a fome; pode liderar a próxima?",
+      "link": "https://www.estadao.com.br/economia/renata-piazzon/o-brasil-venceu-uma-batalha-contra-a-fome-pode-liderar-a-proxima/",
+      "date": "2026-11-19T14:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "The Economist destaca dez tendências para ficar de olho em 2027; veja quais",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/the-economist-destaca-dez-tendencias-para-ficar-de-olho-em-2027-veja-quais.shtml",
+      "date": "2026-11-19T13:59:00.000Z",
+      "summary": "A vida moderna pode dar a sensação de estar em uma história de ficção científica. Um magnata dos foguetes que quer colocar computadores no espaço tornou-se o primeiro trilionário do mundo. Leia mais (11/19/2026 - 10h59)",
       "source": "Folha",
       "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Perdas do Ueno Bank se aproximam de US$ 1 bilhão, diz Banco Central do Paraguai",
+      "link": "https://www.estadao.com.br/economia/perdas-do-ueno-bank-se-aproximam-de-1-bilhao-diz-banco-central-do-paraguai-npr/",
+      "date": "2026-11-19T13:56:52.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Morre Paulo Gallotti, ministro aposentado do STJ, aos 81 anos",
+      "link": "https://www.poder360.com.br/poder-justica/morre-paulo-gallotti-ministro-aposentado-do-stj-aos-81-anos/",
+      "date": "2026-11-19T13:51:20.000Z",
+      "summary": "Juiz integrou a Corte de 1999 a 2009 e presidiu entidades de classe; velório foi realizado em Florianópolis",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Ajuste fiscal, amarras de Lula e soluções mágicas",
+      "link": "https://www.estadao.com.br/economia/fernando-dantas/ajuste-fiscal-amarras-de-lula-e-solucoes-magicas/",
+      "date": "2026-11-19T13:46:33.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Caneta emagrecedora muda consumo de comida e bebida de 1 em cada 3 adultos no Brasil, diz pesquisa",
+      "link": "https://www.estadao.com.br/economia/canetinhas-mudam-consumo-comida-bebida-adultos-brasil-pesquisa/",
+      "date": "2026-11-19T13:44:24.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Anthropic estreia na B3 e permite compra de ações por cerca de R$ 60",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/anthropic-estreia-na-b3-e-permite-compra-de-bdrs-por-cerca-de-r-60.shtml",
+      "date": "2026-11-19T13:44:00.000Z",
+      "summary": "Brasileiros que querem investir na Anthropic, gigante do setor de inteligência artificial, poderão comprar BDRs (Brazilian Depositary Receipts) da empresa por cerca de R$ 60 a partir desta quinta-feira (19). Leia mais (11/19/2026 - 10h44)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lula assina decreto que regulamenta o fim da escala 6x1, com hora-extra mais cara; acompanhe",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/lula-assina-decreto-que-regulamenta-o-fim-da-escala-6x1-acompanhe.shtml",
+      "date": "2026-11-19T13:43:00.000Z",
+      "summary": "O presidente Luiz Inácio Lula da Silva (PT) assinou nesta quinta-feira (19) o decreto do governo que regulamenta a transição e a implementação do fim da escala 6x1. Leia mais (11/19/2026 - 10h43)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Mulheres aparecem como última opção ao STF",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/dora-kramer/2026/11/mulheres-aparecem-como-ultima-opcao-ao-stf.shtml",
+      "date": "2026-11-19T13:38:00.000Z",
+      "summary": "Reaberta a discussão sobre a cadeira vaga no Supremo Tribunal Federal (STF), voltam as especulações a respeito de quem, como e quando o presidente Luiz Inácio da Silva (PT) indicará. Leia mais (11/19/2026 - 10h38)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lula assina decreto com regras para o fim da escala 6x1; ASSISTA",
+      "link": "https://g1.globo.com/politica/ao-vivo/lula-decreto-regras-fim-da-escala-6x1.ghtml",
+      "date": "2026-11-19T13:34:46.000Z",
+      "summary": "Lula assina decreto com regras para o fim da escala 6x1; ASSISTA Transição para a jornada 5x2 está prevista para começar em 16 de dezembro, com dois dias de folga por semana e redução da carga horária sem corte salarial. Lula deve assinar nesta quinta-feira (1",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lula assina regulamentação da escala 5x2; medida está prevista para começar a valer em dezembro",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/19/lula-assina-regulamentacao-da-escala-5x2-medida-esta-prevista-para-comecar-a-valer-em-dezembro.ghtml",
+      "date": "2026-11-19T13:33:23.000Z",
+      "summary": "Lula assina decreto que regulamenta jornada 5x2 Reprodução O presidente Luiz Inácio Lula da Silva (PT) assinou, nesta quinta-feira (19), o decreto que regulamenta o fim da escala 6x1. O texto traz as regras para transição do regime atual para a jornada 5x2. A ",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Ministro afirma que pacote fiscal dará segurança ao mercado, mas admite possíveis novas medidas para cumprir metas",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/19/moreti-fiscal-mercado.ghtml",
+      "date": "2026-11-19T13:29:11.000Z",
+      "summary": "Pacote fiscal dará segurança ao mercado, afirma Bruno Moretti Um dia depois de o Senado concluir a votação do pacote de ajuste fiscal do governo, o ministro do Planejamento e Orçamento, Bruno Moretti, defendeu que as medidas darão mais segurança ao mercado sob",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Corinthians fecha acordo para leiloar camisas usadas em jogos",
+      "link": "https://www.poder360.com.br/poder-sportsmkt/corinthians-fecha-acordo-para-leiloar-camisas-usadas-em-jogos/",
+      "date": "2026-11-19T13:28:03.000Z",
+      "summary": "Parceria com Play For a Cause vai até 2027; o clube terá receita mínima de R$ 500 mil e receberá 75% da arrecadação, segundo o ge",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Investigar ou arquivar? Entenda o que a PGR pode fazer com os relatórios sobre ministros do STF",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/investigar-ou-arquivar-entenda-o-que-a-pgr-pode-fazer-com-os-relatorios-sobre-ministros-do-stf/",
+      "date": "2026-11-19T13:22:24.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Anthropic estreia na bolsa nesta quinta; saiba quanto custa investir na criadora do Claude pelo Brasil",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/19/anthropic-estreia-bolsa-como-investir-brasil.ghtml",
+      "date": "2026-11-19T13:21:29.000Z",
+      "summary": "Anthropic estreia na bolsa avaliada em US$ 1,5 trilhão A Anthropic, criadora do chatbot de inteligência artificial (IA) Claude, estreia nesta quinta-feira (19) na Nasdaq, bolsa americana que reúne algumas das maiores empresas de tecnologia do mundo. No Brasil,",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Ataque com uso de IA leva Comissão Europeia a tirar aplicativos do ar",
+      "link": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/11/19/comissao-europeia-ataque-hacker.ghtml",
+      "date": "2026-11-19T13:18:13.000Z",
+      "summary": "Bandeiras da União Europeia Stephanie Lecocq/Reuters A Comissão Europeia confirmou nesta quinta-feira (19) que foi alvo de um ataque cibernético com o uso de ferramentas de inteligência artificial (IA). Segundo a Comissão, ainda é difícil avaliar a dimensão do",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Projeto cria fundo para custear defesa jurídica de agentes de segurança",
+      "link": "https://www.camara.leg.br/noticias/1312404-projeto-cria-fundo-para-custear-defesa-juridica-de-agentes-de-seguranca",
+      "date": "2026-11-19T13:18:00.000Z",
+      "summary": "A proposta em análise na Câmara prevê assistência jurídica em processos relacionados ao exercício da função",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Senado aprova regras para uso de postes após adiamento na Aneel",
+      "link": "https://www.poder360.com.br/poder-congresso/senado-aprova-regras-para-uso-de-postes-apos-adiamento-na-aneel/",
+      "date": "2026-11-19T13:17:28.000Z",
+      "summary": "Agência interrompeu análise de regras para compartilhamento das estruturas para aguardar decisão do Congresso; texto vai à sanção",
+      "source": "Poder360",
+      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -172,38 +392,11 @@
       "type": "imprensa"
     },
     {
-      "title": "Pix é integrado a Alipay+ e WeChat, superapps chineses que somam 3 bi de usuários",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/pix-e-integrado-a-alipay-e-wechat-superapps-chineses-que-somam-3-bi-de-usuarios.shtml",
-      "date": "2026-11-19T12:59:00.000Z",
-      "summary": "As duas maiores plataformas de pagamento digital do mundo em número de usuários, o Alipay+ e o WeChat, estão integradas ao Pix. As empresas passaram a oferecer nesta semana a opção de pagamento com a tecnologia brasileira. Leia mais (11/19/2026 - 09h59)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Na China, Trump pede cautela com IA, mas rejeita regulamentação",
-      "link": "https://www.poder360.com.br/poder-internacional/na-china-trump-pede-cautela-com-ia-mas-rejeita-regulamentacao/",
-      "date": "2026-11-19T12:58:58.000Z",
-      "summary": "Presidente dos EUA diz que tecnologia tem elementos ruins, mas se opõe a medidas que possam “sufocar seu potencial”",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Dívida pública deve se estabilizar em dois ou três anos, afirma ministro do Planejamento",
+      "title": "Ministro do Planejamento prevê estabilizar dívida pública em até 3 anos; economistas acham pacote insuficiente",
       "link": "https://g1.globo.com/politica/blog/camila-bomfim/post/2026/11/19/divida-publica-deve-se-estabilizar-em-dois-ou-tres-anos-diz-moretti.ghtml",
       "date": "2026-11-19T12:51:49.000Z",
-      "summary": "O ministro do Planejamento, Bruno Morreti, afirmou nesta quinta-feira (19) que a dívida pública deve se estabilizar nos próximos dois ou três anos, segundo a trajetória prevista na Lei de Diretrizes Orçamentárias (LDO). Segundo ele, o governo pretende manter o",
+      "summary": "Pacote fiscal dará segurança ao mercado, afirma Bruno Moretti O ministro do Planejamento, Bruno Moretti, afirmou nesta quinta-feira (19) que trabalha com a previsão da estabilização da dívida pública em até 3 anos, segundo a trajetória prevista na Lei de Diret",
       "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Célia Xakriabá ironiza Bilynskyj: “Sonho do senhor é ser mulher”",
-      "link": "https://www.poder360.com.br/poder-congresso/celia-xakriaba-ironiza-bilynskyj-sonho-do-senhor-e-ser-mulher/",
-      "date": "2026-11-19T12:48:43.000Z",
-      "summary": "Deputada do Psol acusou integrante do PL de violência contra ex-companheira; ele negou e disse que registraria BO por calúnia",
-      "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -215,24 +408,6 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Dólar abre em alta e supera R$ 5,91 após aprovação de pacote fiscal no Senado",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/dolar-abre-em-alta-e-supera-r-591-apos-aprovacao-de-pacote-fiscal-no-senado.shtml",
-      "date": "2026-11-19T12:39:00.000Z",
-      "summary": "O dólar abriu em alta e superou R$ 5,91 nesta quinta-feira (19), após a votação do pacote fiscal apelidado de 'plano Moretti' ser concluída na noite de quarta-feira (18). Leia mais (11/19/2026 - 09h39)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Depois da vitória no Senado, líderes governistas revelam que Lula fará novo ajuste nas contas públicas",
-      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/19/depois-da-vitoria-no-senado-lideres-governistas-revelam-que-lula-fara-novo-ajuste-nas-contas-publicas.ghtml",
-      "date": "2026-11-19T12:33:37.000Z",
-      "summary": "O presidente brasileiro Luiz Inácio Lula da Silva conversa após reunião com o Conselho Nacional de Política Energética (CNPE) em Brasília, Brasil, em 6 de novembro de 2026 REUTERS/Diego Herculano Logo depois da vitória no Senado na votação do ajuste fiscal, lí",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
     },
     {
       "title": "Federação PSB e PDT terá 8ª maior bancada; veja as 10 maiores",
@@ -253,42 +428,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Veja as quatro piores propostas para equilibrar as contas do governo",
-      "link": "https://www.estadao.com.br/economia/duquesa-de-tax/quatro-piores-propostas-equilibrar-contas-governo/",
-      "date": "2026-11-19T12:30:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "100 maiores doadores das eleições de 2026 destinaram R$ 163,4 milhões a campanhas e partidos; veja quem são",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/11/19/maiores-doadores-eleicoes-2026.ghtml",
-      "date": "2026-11-19T12:27:58.000Z",
-      "summary": "Da esquerda para a direita, Pedro Grendene Bartelle, Rubens Ometto Silveira Mello, Carlos Seabra Suarez, Alexandre Grendene Bartelle e José Ricardo Rezek, os cinco maiores doadores individuais das eleições de 2026. Juntos, eles doaram R$ 29,6 milhões a candida",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Dólar abre em alta e vai a R$ 5,90",
-      "link": "https://www.poder360.com.br/poder-economia/dolar-abre-em-alta-e-vai-a-r-590/",
-      "date": "2026-11-19T12:25:09.000Z",
-      "summary": "Cotação da moeda norte-americana subia 0,61% na manhã desta 5ª feira (19.nov)",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "PGR denuncia Flávio Bolsonaro por calúnia contra Lula",
-      "link": "https://www.poder360.com.br/poder-justica/pgr-denuncia-flavio-bolsonaro-por-calunia-contra-lula/",
-      "date": "2026-11-19T12:20:40.000Z",
-      "summary": "Senador associou o presidente a Nicolás Maduro e a crimes como tráfico de drogas; caso deve ser analisado pela 1ª Turma do STF",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Projeto valida mandado de busca com erro material no endereço",
       "link": "https://www.camara.leg.br/noticias/1308070-projeto-valida-mandado-de-busca-com-erro-material-no-endereco",
       "date": "2026-11-19T12:18:00.000Z",
@@ -298,57 +437,12 @@
       "type": "oficial"
     },
     {
-      "title": "BC e FGC tentam no STF evitar que fundo seja obrigado a socorrer o BRB",
-      "link": "https://www.estadao.com.br/economia/bc-fgc-stf-evitar-fundo-obrigado-socorrer-brb/",
-      "date": "2026-11-19T12:16:19.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Trump, Xi e Putin em encontro histórico na China: o que cada um falou e quer na cúpula",
       "link": "https://www.bbc.com/portuguese/articles/cjvg2922e50qo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-19T12:15:29.000Z",
       "summary": "Antes da conversa a três, Trump se reuniu separadamente com os presidentes russo e chinês. Trump chamou Putin de 'amigo' e disse que os dois têm uma 'ótima relação'.",
       "source": "BBC News Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Presidente do Paraguai demite diretor de Itaipu após polêmica sobre depósitos de quase R$ 1 bilhão no Ueno Bank",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/19/paraguai-itaipu-ueno-presidente.ghtml",
-      "date": "2026-11-19T12:07:16.000Z",
-      "summary": "Caso Ueno Bank: Polícia tenta abrir porta blindada escondida em casa de Santiago Peña O presidente do Paraguai, Pedro Alliana, demitiu nesta quarta-feira (18) o diretor paraguaio da usina de Itaipu, Justo Zacarías, em meio à polêmica sobre depósitos milionário",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Lula assina nesta quinta decreto com regras para o fim da escala 6x1",
-      "link": "https://g1.globo.com/politica/ao-vivo/lula-decreto-regras-fim-da-escala-6x1.ghtml",
-      "date": "2026-11-19T12:04:35.000Z",
-      "summary": "Lula assina nesta quinta decreto com regras para o fim da escala 6x1 Transição para a jornada 5x2 está prevista para começar em 16 de dezembro, com dois dias de folga por semana e redução da carga horária sem corte salarial. Lula deve assinar nesta quinta-feir",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Dólar abre em alta e vai a R$ 5,91, com foco no pacote fiscal e na estreia da Anthropic em Wall Street",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/19/dolar-ibovespa.ghtml",
-      "date": "2026-11-19T12:00:24.000Z",
-      "summary": "Entenda o que faz o preço do dólar subir ou cair O dólar abriu em alta nesta quinta-feira (19), véspera de feriado no Brasil. Perto das 9h20, a moeda subia 0,78%, cotada a R$ 5,9124. Já as negociações do Ibovespa, principal índice da bolsa brasileira, começam ",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Como implementar sistemas agroflorestais",
-      "link": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/11/19/como-implementar-sistemas-agroflorestais.ghtml",
-      "date": "2026-11-19T11:39:05.000Z",
-      "summary": "A Empresa de Assistência Técnica e Extensão Rural de Minas Gerais (Emater-MG) disponibiliza uma cartilha gratuita com orientações para quem deseja implantar sistemas agroflorestais (SAFs) em propriedades rurais. A publicação apresenta as principais classificaç",
-      "source": "g1",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -367,24 +461,6 @@
       "summary": "A revista descreve a vitória de Lula nas urnas como impressionante e resume assim o que espera do próximo mandato: 'Governar será mais difícil'.",
       "source": "BBC News Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Comissão debate recursos para ampliar castração e proteção de cães e gatos em todo o país",
-      "link": "https://www.camara.leg.br/noticias/1320874-comissao-debate-recursos-para-ampliar-castracao-e-protecao-de-caes-e-gatos-em-todo-o-pais",
-      "date": "2026-11-19T11:30:00.000Z",
-      "summary": "",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Se a Enel vier ao mercado, temos obrigação de analisar, diz presidente da Copel",
-      "link": "https://www.estadao.com.br/economia/negocios/entrevista-daniel-slaviero-copel-enel-mercado-obrigacao-analisar/",
-      "date": "2026-11-19T11:08:30.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -433,51 +509,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Stedile, do MST, chama ajuste fiscal de enganação e defende ministros mais jovens e representativos",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/stedile-do-mst-chama-ajuste-fiscal-de-enganacao-e-defende-ministros-mais-jovens-e-representativos.shtml",
-      "date": "2026-11-19T07:00:00.000Z",
-      "summary": "Fundador e líder histórico do MST (Movimento dos Trabalhadores Rurais Sem Terra), João Pedro Stedile afirma que a proposta apresentada pelo governo de um ajuste fiscal é uma enganação. \"Não entendo por que colocar esta discussão agora na mesa, ainda mais sem u",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Com novas funções, 'supersecretária' de Tarcísio promete fortalecer controle de concessões",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/com-novas-funcoes-supersecretaria-de-tarcisio-promete-fortalecer-controle-de-concessoes.shtml",
-      "date": "2026-11-19T02:00:00.000Z",
-      "summary": "Com leilões de infraestrutura na bolsa de valores como marca do primeiro mandato, Tarcísio de Freitas (Republicanos) pretende fortalecer nos próximos quatro anos o controle sobre as concessões públicas que promoveu, segundo a nova secretária de Planejamento, O",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Proposta de ajuste fiscal entra na pauta de sessão extraordinária da Câmara na próxima segunda-feira",
-      "link": "https://www.camara.leg.br/noticias/1320935-proposta-de-ajuste-fiscal-entra-na-pauta-de-sessao-extraordinaria-da-camara-na-proxima-segunda-feira",
-      "date": "2026-11-19T00:50:00.000Z",
-      "summary": "Anúncio foi feito em Buenos Aires pelo presidente da Câmara, Hugo Motta; ele destacou a maturidade e a solidez da democracia brasileira",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Audiência aponta abandono e negligência como principais violências contra mulheres idosas no Brasil",
-      "link": "https://www.camara.leg.br/noticias/1320884-audiencia-aponta-abandono-e-negligencia-como-principais-violencias-contra-mulheres-idosas-no-brasil",
-      "date": "2026-11-18T23:24:00.000Z",
-      "summary": "Cerca de 65% das denúncias de violência contra idosos registradas no país envolvem mulheres; muitas vezes, agressões são praticadas por filhos e netos",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Atingidos por rompimento de barragem da Vale exigem retomada do auxílio emergencial",
-      "link": "https://www.camara.leg.br/noticias/1320885-atingidos-por-rompimento-de-barragem-da-vale-exigem-retomada-do-auxilio-emergencial",
-      "date": "2026-11-18T23:00:00.000Z",
-      "summary": "",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
       "title": "EUA e Venezuela assinam acordo de cooperação militar",
       "link": "https://www.dw.com/pt-br/eua-e-venezuela-assinam-acordo-de-cooperação-militar/a-79986275?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-18T22:03:00.000Z",
@@ -505,30 +536,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Cannes Lions aproxima marcas e agências em imersão executiva em São Paulo",
-      "link": "https://www.estadao.com.br/economia/negocios/cannes-lions-aproxima-marcas-agencias-imersao-executiva/",
-      "date": "2026-11-18T19:24:18.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "O impacto do ataque à Ponte da Crimeia na guerra na Ucrânia",
       "link": "https://www.dw.com/pt-br/o-impacto-do-ataque-à-ponte-da-crimeia-na-guerra-na-ucrânia/a-79985782?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-18T19:18:00.000Z",
       "summary": "Operação militar causou graves danos à estrutura que liga a península à Rússia. Além de dificultar logística do exército de Moscou, ofensiva prejudica imagem do líder do Kremlin.",
       "source": "DW Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Andrei justifica afastamento de delegados da PF do caso Master: ‘Houve quebra de confiança’",
-      "link": "https://www.estadao.com.br/politica/andrei-justifica-afastamento-de-delegados-da-pf-do-caso-master-houve-quebra-de-confianca/",
-      "date": "2026-11-18T18:45:33.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -659,6 +672,7 @@
     }
   ],
   "errors": [
+    "Selic (SGS 432): HTTP 304",
     "feed CNN Brasil: HTTP 404",
     "feed CNN Brasil: HTTP 404"
   ]
