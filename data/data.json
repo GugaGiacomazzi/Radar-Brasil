@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-19T07:14:21.024Z",
+  "updated": "2026-11-19T08:37:01.519Z",
   "market": {
     "ibov": {
       "price": 167537.95,
       "pct": -1.34,
-      "time": "2026-11-19T07:14:15.483Z",
+      "time": "2026-11-19T08:36:56.868Z",
       "history": [
         {
           "d": "2026-10-20",
@@ -145,6 +145,33 @@
   },
   "news": [
     {
+      "title": "Quem são os sete jovens fundadores da Anthropic que se tornaram multibilionários com estreia na bolsa",
+      "link": "https://www.bbc.com/portuguese/articles/cmn0dykxex82o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-19T08:35:48.000Z",
+      "summary": "A empresa de inteligência artificial por trás do Claude está fazendo sua estreia na bolsa dos EUA, tornando seus fundadores muito ricos.",
+      "source": "BBC News Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Recorde da Anthropic em estreia na bolsa conseguirá impedir o estouro da bolha da IA?",
+      "link": "https://www.bbc.com/portuguese/articles/cm782wyv0153o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-19T08:28:25.000Z",
+      "summary": "O preço inicial da ação será de US$ 83 quando começar a ser negociada nesta quinta-feira. Com esse preço, o valor de mercado da Anthropic é estimado em US$ 1,5 trilhão.",
+      "source": "BBC News Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "É #FAKE que MP do 'imposto do pecado' aumentará em 30% carga tributária sobre carros em 2027",
+      "link": "https://g1.globo.com/fato-ou-fake/noticia/2026/11/19/e-fake-que-mp-do-imposto-do-pecado-aumentara-em-30percent-carga-tributaria-sobre-carros-em-2027.ghtml",
+      "date": "2026-11-19T08:00:00.000Z",
+      "summary": "Valor de 30% não é um aumento porcentual sobre o impost oatual, nem a taxa que incidiará sobre todos os veículos g1 Circulam nas redes publicações sugerindo que o Imposto Seletivo (IS), conhecido como \"imposto do pecado\", aumentará em 30% a carga tributária so",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "Integrantes do STF esperam que relatórios da PF esvaziem parte da discussão na corte sobre caso Master",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/integrantes-do-stf-esperam-que-relatorios-da-pf-esvaziem-parte-da-discussao-na-corte-sobre-caso-master.shtml",
       "date": "2026-11-19T07:00:00.000Z",
@@ -266,15 +293,6 @@
       "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/19/consciencia-negra-feriado.ghtml",
       "date": "2026-11-19T03:00:00.000Z",
       "summary": "Desde 2024, o Dia da Consciência Negra é feriado nacional. Frederico Dávila/TV Globo Na próxima sexta-feira (20), é celebrado o Dia Nacional de Zumbi e da Consciência Negra, data que marca a morte do líder quilombola Zumbi dos Palmares. Desde 2024, a data é fe",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Anthropic, dona do Claude, estreia na bolsa avaliada em US$ 1,5 trilhão; conheça a empresa",
-      "link": "https://g1.globo.com/inovacao/noticia/2026/11/19/anthropic-dona-do-claude-estreia-na-bolsa-conheca-a-empresa.ghtml",
-      "date": "2026-11-19T03:00:00.000Z",
-      "summary": "Ilustração mostra o logotipo da Anthropic e um teclado. Dado Ruvic/ Reuters A Anthropic, startup de inteligência artificial responsável pelo Claude, deve estrear nesta quinta-feira (19) na Nasdaq, bolsa americana que reúne algumas das maiores empresas de tecno",
       "source": "g1",
       "cat": "economia",
       "type": "imprensa"
@@ -460,15 +478,6 @@
       "type": "oficial"
     },
     {
-      "title": "Quem são os sete jovens fundadores da Anthropic que estão prestes a se tornarem multibilionários",
-      "link": "https://www.bbc.com/portuguese/articles/cmn0dykxex82o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-18T22:42:02.000Z",
-      "summary": "A empresa de inteligência artificial por trás do Claude está prestes a vender suas ações na Bolsa dos EUA, tornando seus fundadores muito ricos.",
-      "source": "BBC News Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
       "title": "Especialistas apresentam alertas a favor e contra a redução da maioridade penal",
       "link": "https://www.camara.leg.br/noticias/1320869-especialistas-apresentam-alertas-a-favor-e-contra-a-reducao-da-maioridade-penal",
       "date": "2026-11-18T22:40:00.000Z",
@@ -564,15 +573,6 @@
       "date": "2026-11-18T17:01:00.000Z",
       "summary": "Abrigo subterrâneo de mais de 600 metros fica embaixo de prédio em área nobre da capital alemã e abrigou centenas de pessoas durante a guerra. Lance inicial é de 398 mil euros.",
       "source": "DW Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Conferência de Yalta: o que foi o encontro que redesenhou o mundo há 81 anos — e por que ele é comparado à reunião de Trump, Putin e Xi",
-      "link": "https://www.bbc.com/portuguese/articles/c5vg2mrwyjr2o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-18T16:46:01.000Z",
-      "summary": "Winston Churchill, Franklin Roosevelt e Joseph Stálin eram os 'Três Grandes' que se reuniram em Yalta para definir o mapa de influências da Europa no pós-guerra",
-      "source": "BBC News Brasil",
       "cat": "internacional",
       "type": "imprensa"
     },
