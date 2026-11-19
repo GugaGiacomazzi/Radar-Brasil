@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-19T14:28:30.935Z",
+  "updated": "2026-11-19T15:37:46.675Z",
   "market": {
     "ibov": {
-      "price": 167899.16,
-      "pct": 0.22,
-      "time": "2026-11-19T14:28:26.300Z",
+      "price": 166978.12,
+      "pct": -0.33,
+      "time": "2026-11-19T15:37:39.078Z",
       "history": [
         {
           "d": "2026-10-20",
@@ -92,7 +92,7 @@
         },
         {
           "d": "2026-11-19",
-          "c": 167781.6563
+          "c": 167010.2188
         }
       ]
     },
@@ -149,6 +149,249 @@
   },
   "news": [
     {
+      "title": "Haverá confusão na regulamentação da 6 X 1, diz Lula",
+      "link": "https://www.poder360.com.br/poder-governo/havera-confusao-na-regulamentacao-da-6-x-1-diz-lula/",
+      "date": "2026-11-19T15:33:19.000Z",
+      "summary": "Presidente afirma que dirigente sindical “tem que se preparar”; ações sobre o fim da escala estão no STF",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "PGR estuda adiar parte da acusação de 1ª denúncia contra Vorcaro para não enfraquecer outros casos",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/pgr-estuda-adiar-parte-da-acusacao-de-1a-denuncia-contra-vorcaro-para-nao-enfraquecer-outros-casos.shtml",
+      "date": "2026-11-19T15:30:00.000Z",
+      "summary": "A PGR (Procuradoria-Geral da República) estuda excluir o crime de gestão fraudulenta da primeira denúncia contra Daniel Vorcaro, do Banco Master, a ser apresentada ao STF (Supremo Tribunal Federal), e deixar o tema para uma acusação posterior. Leia mais (11/19",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Sessão solene marca os 60 anos da Embratur",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/19/sessao-solene-marca-os-60-anos-da-embratur",
+      "date": "2026-11-19T15:28:07.000Z",
+      "summary": "O Congresso Nacional celebrou em sessão solene os 60 anos da Agência Brasileira de Promoção Internacional do Turismo (Embratur), responsável pela promoção do Brasil como destino turístico no exterior. A homenagem desta quinta-feira (19) foi requerida pelo sena",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Não é o momento de discutir medidas fiscais adicionais, diz Moretti",
+      "link": "https://www.poder360.com.br/poder-economia/nao-e-o-momento-de-discutir-medidas-fiscais-adicionais-diz-moretti/",
+      "date": "2026-11-19T15:26:28.000Z",
+      "summary": "Ministro do Planejamento declara que o Governo avaliará novos ajustes só caso necessário; meta é de superavit de 1,5%",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "IPO da Anthropic pode criar 2.800 milionários entre funcionários e ex-funcionários",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/19/ipo-da-anthropic-pode-criar-2800-milionarios-entre-funcionarios-e-ex-funcionarios.ghtml",
+      "date": "2026-11-19T15:20:09.000Z",
+      "summary": "CEO da Anthropic Dario Amodei, Presidente e cofundadora da Anthropic Daniela Amodei, Cofundador e Diretor Científico da Anthropic Jared Kaplan, Cofundador e Chefe de Benefícios Públicos da Anthropic Jack Clark comemoram enquanto a Anthropic, PBC (ANT) realiza ",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Sou eu que vou indicar os ministros, não a imprensa, diz Lula",
+      "link": "https://www.poder360.com.br/poder-governo/sou-eu-que-vou-indicar-os-ministros-nao-a-imprensa-diz-lula/",
+      "date": "2026-11-19T15:19:49.000Z",
+      "summary": "Presidente afirma que fica “revoltado” ao ler sobre “pessoas reivindicando” nomes e que não fala com \"ninguém\" sobre o tema",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "É #FAKE que vídeo de descarte de tomates no Rio tenha a ver com alta de preços em 2026; cena ocorreu em dezembro do ano passado",
+      "link": "https://g1.globo.com/fato-ou-fake/noticia/2026/11/19/e-fake-que-video-de-descarte-de-tomates-no-rio-tenha-a-ver-com-alta-de-precos-em-2026-cena-ocorreu-em-dezembro-do-ano-passado.ghtml",
+      "date": "2026-11-19T15:19:45.000Z",
+      "summary": "Vídeo de descarte de tomates no Rio não é recente g1 Circulam nas redes sociais publicações exibindo um vídeo em que um comerciante joga 50 caixas de tomate fora devido à recente alta de preços do produto. É #FAKE. ✅ Siga o canal de Fato ou Fake no WhatsApp Se",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "O auge na oferta de carne bovina está acabando, e o preço sobe",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/vaivem/2026/11/o-auge-na-oferta-de-carne-bovina-esta-acabando-e-o-preco-sobe.shtml",
+      "date": "2026-11-19T15:15:00.000Z",
+      "summary": "Líder mundial na produção e na exportação de carne bovina, o Brasil mostra sinais de desaceleração na oferta dessa proteína. No terceiro trimestre deste ano, o país abateu 9,82 milhões de cabeças de gado, 13,4% a menos do que em igual período de 2025. Os dados",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Proposta de ajuste fiscal deve passar na Câmara sem alterações substanciais",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/proposta-de-ajuste-fiscal-deve-passar-na-camara-sem-alteracoes-substanciais.shtml",
+      "date": "2026-11-19T15:13:00.000Z",
+      "summary": "A proposta de ajuste fiscal do governo que foi aprovado pelo Senado na última quarta-feira (18) deve ter uma tramitação rápida e sem alterações substanciais do texto na Câmara, conforme relataram à coluna parlamentares da base e da oposição. Eles disseram que ",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Cobrança federal pelo uso da água do Rio Paranapanema preocupa produtores de SP e PR; leia bastidor",
+      "link": "https://www.estadao.com.br/economia/agronegocios/cobranca-federal-agua-paranapanema-produtores-sp-pr/",
+      "date": "2026-11-19T15:02:20.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lula critica especulações sobre ministério e diz que 'quem senta na cadeira antes cai antes de sentar'",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/lula-critica-especulacoes-sobre-ministerio-e-diz-que-quem-senta-na-cadeira-antes-cai-antes-de-sentar.shtml",
+      "date": "2026-11-19T15:02:00.000Z",
+      "summary": "O presidente Lula (PT) criticou nesta quinta-feira (19) as especulações em torno de quem serão os ministros indicados para o seu quarto mandato. Ele afirmou que irá apontar os nomes para as pastas do governo na \"hora que quiser\". Leia mais (11/19/2026 - 12h02)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Diretor da Aneel é questionado por Nunes sobre Enel e diz que vai liberar voto sobre caducidade em breve",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/diretor-da-aneel-e-questionado-por-nunes-sobre-enel-e-diz-que-vai-liberar-voto-sobre-caducidade-em-breve.shtml",
+      "date": "2026-11-19T15:01:00.000Z",
+      "summary": "O diretor-presidente da Aneel (Agência Nacional de Energia Elétrica), Sandoval Feitosa, foi cobrado pelo prefeito de São Paulo, Ricardo Nunes (MDB), em tom amistoso, sobre o processo de caducidade da Enel, em um evento na noite desta quarta-feira (18). Leia ma",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Como se preparar para o próximo grande apagão das big techs?",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/tec/2026/11/como-se-preparar-para-o-proximo-grande-apagao-das-big-techs.shtml",
+      "date": "2026-11-19T15:00:00.000Z",
+      "summary": "Após uma série de falhas tecnológicas preocupantes abalar passageiros de companhias aéreas e outros consumidores nos últimos dias, muita gente pode estar se perguntando se há algo que possa fazer para se preparar para a próxima interrupção. Leia mais (11/19/20",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Cleitinho se equilibra entre PL e acenos ao PT e quer reunião com Lula para discutir dívida de MG",
+      "link": "https://www.estadao.com.br/politica/cleitinho-se-equilibra-entre-pl-e-acenos-ao-pt-e-quer-reuniao-com-lula-para-discutir-divida-de-mg/",
+      "date": "2026-11-19T15:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Se o câmbio ficar nesse patamar por quatro meses, 2027 será ainda mais difícil, diz CEO do Bradesco",
+      "link": "https://www.estadao.com.br/economia/entrevista-marcelo-noronha-bradesco-primeiro-ano-governo-cambio-ajuste/",
+      "date": "2026-11-19T15:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lula diz que não tem pressa para indicar ministros e promete criar Ministério dos Idosos",
+      "link": "https://www.estadao.com.br/politica/lula-diz-que-nao-tem-pressa-para-indicar-ministros-e-promete-criar-ministerio-dos-idosos/",
+      "date": "2026-11-19T14:51:23.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Tudo o que você precisa saber sobre o fim da escala 6x1 após Lula assinar decreto da mudança",
+      "link": "https://www.estadao.com.br/economia/tudo-o-que-voce-precisa-saber-sobre-o-fim-da-escala-6x1-apos-lula-assinar-decreto-da-mudanca-npr/",
+      "date": "2026-11-19T14:47:59.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Vai à CDH política de combate a desigualdade racial nas escolas",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/19/vai-a-cdh-politica-de-combate-a-desigualdade-racial-nas-escolas",
+      "date": "2026-11-19T14:46:22.000Z",
+      "summary": "A Comissão de Educação (CE) aprovou, na quarta-feira (18), a Política Nacional para as Relações Étnico-Raciais e Educação Quilombola, destinada a combater o racismo e as desigualdades raciais nas escolas. O PL 4.978/2026 segue agora análise da Comissão de Dire",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Saiba o que foi discutido na trilateral entre Trump, Xi e Putin",
+      "link": "https://www.poder360.com.br/poder-internacional/saiba-o-que-foi-discutido-na-reuniao-entre-trump-xi-e-putin/",
+      "date": "2026-11-19T14:46:11.000Z",
+      "summary": "Líderes formalizam compromissos em segurança, energia e controle nuclear durante a cúpula inédita em Shenzhen, na China",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Reconhecimento oficial de línguas indígenas em estados e municípios avança",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/19/reconhecimento-oficial-de-linguas-indigenas-em-estados-e-municipios-avanca",
+      "date": "2026-11-19T14:43:04.000Z",
+      "summary": "A Comissão de Educação e Cultura (CE) aprovou, na quarta-feira (18), projeto que reforça a possibilidade de estados e municípios considerarem oficiais línguas indígenas, juntamente com o português. A proposta segue para análise da Comissão de Constituição e Ju",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Avaliada em R$ 8,8 tri, Anthropic bate recorde em estreia na bolsa: empresa pode evitar o estouro da bolha da IA?",
+      "link": "https://www.bbc.com/portuguese/articles/cm782wyv0153o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-19T14:39:39.000Z",
+      "summary": "O preço inicial da ação será de US$ 83 quando começar a ser negociada nesta quinta-feira. Com esse preço, o valor de mercado da Anthropic é estimado em US$ 1,5 trilhão.",
+      "source": "BBC News Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lula assina decreto que regulamenta fim da escala 6x1 em meio a disputa no STF",
+      "link": "https://www.estadao.com.br/economia/lula-assina-decreto-que-regulamenta-fim-da-escala-6x1-em-meio-a-disputa-no-stf/",
+      "date": "2026-11-19T14:38:57.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Com regulamentação da escala 5x2, hora extra ficará mais cara; entenda",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/19/com-regulamentacao-da-escala-5x2-hora-extra-ficara-mais-cara-entenda.ghtml",
+      "date": "2026-11-19T14:38:33.000Z",
+      "summary": "Lula assina decreto com regras para o fim da escala 6x1 O ministro do Trabalho, Luiz Marinho, explicou nesta quinta-feira (19) que as horas extras ficarão mais caras a partir de 16 de dezembro, quando começa a valer a redução da jornada prevista na nova escala",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lula assina decreto com regras para o fim da escala 6x1; ASSISTA",
+      "link": "https://g1.globo.com/politica/ao-vivo/lula-decreto-regras-fim-da-escala-6x1.ghtml",
+      "date": "2026-11-19T14:34:49.000Z",
+      "summary": "Lula assina decreto com regras para o fim da escala 6x1; ASSISTA Transição para a jornada 5x2 está prevista para começar em 16 de dezembro, com dois dias de folga por semana e redução da carga horária sem corte salarial. Lula assinou nesta quinta-feira (19) o ",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Pressionado a apresentar nomes da equipe econômica, Lula diz que vai indicar ministros 'quando quiser'",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/19/pressionado-a-apresentar-nomes-da-equipe-economica-lula-diz-que-vai-indicar-ministerios-quando-quiser.ghtml",
+      "date": "2026-11-19T14:29:39.000Z",
+      "summary": "Lula diz que vai indicar ministros 'quando quiser' O presidente Luiz Inácio Lula da Silva (PT) afirmou nesta quinta-feira (19) que os nomes para compor os ministérios do seu quarto mandato serão indicados \"no dia\" que ele \"quiser\". O petista deu a declaração d",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Musk diz que se sente \"tolo\" por doar milhões para candidatos republicanos",
+      "link": "https://www.dw.com/pt-br/musk-diz-que-se-sente-tolo-por-doar-milhões-para-candidatos-republicanos/a-79990728?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-19T14:25:00.000Z",
+      "summary": "Bilionário teria doado 445 milhões de dólares aos republicanos na campanha eleitoral deste ano. Democratas, porém, obtiveram ampla vitória no pleito, conquistando o controle do Congresso dos EUA.",
+      "source": "DW Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Após regulamentação da escala 5x2, Lula diz que vai articular transporte gratuito no fim de semana",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/19/apos-regulamentacao-da-escala-5x2-lula-diz-que-vai-articular-transporte-gratuito-no-fim-de-semana.ghtml",
+      "date": "2026-11-19T14:24:45.000Z",
+      "summary": "Lula diz que vai discutir transporte gratuito no fim de semana O presidente Luiz Inácio Lula da Silva (PT) afirmou nesta quinta-feira (19) que o governo vai articular nos próximos meses a possibilidade de estabelecimento de transporte público gratuito no fim d",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "Comissão aprova porte de arma para agentes socioeducativos e oficiais de Justiça",
       "link": "https://www.camara.leg.br/noticias/1320975-comissao-aprova-porte-de-arma-para-agentes-socioeducativos-e-oficiais-de-justica",
       "date": "2026-11-19T14:24:00.000Z",
@@ -176,15 +419,6 @@
       "type": "oficial"
     },
     {
-      "title": "Alcolumbre vai se reunir com Lula nos próximos dias para debater indicação ao STF e montagem do novo governo",
-      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/19/alcolumbre-vai-se-reunir-com-lula-nos-proximos-dias-para-debater-indicacao-ao-stf-e-montagem-do-novo-governo.ghtml",
-      "date": "2026-11-19T14:11:25.000Z",
-      "summary": "Depois de garantir seguidas vitórias para o governo no Senado, o presidente da Casa, Davi Alcolumbre (União-AP), tem um encontro com o presidente Lula previsto para os próximos dias. Na conversa, o senador deve falar com Lula sobre o nome que indicará para o S",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Comissão de Constituição e Justiça aprova proposta sobre capacitação contra câncer infantil",
       "link": "https://www.camara.leg.br/noticias/1321000-comissao-de-constituicao-e-justica-aprova-proposta-sobre-capacitacao-contra-cancer-infantil",
       "date": "2026-11-19T14:04:00.000Z",
@@ -203,137 +437,11 @@
       "type": "imprensa"
     },
     {
-      "title": "Ao vivo: BNDES apresenta resultados do 3º trimestre de 2026",
-      "link": "https://www.poder360.com.br/poder-economia/ao-vivo-bndes-apresenta-resultados-do-3o-trimestre-de-2026/",
-      "date": "2026-11-19T14:00:01.000Z",
-      "summary": "Banco é presidido por Aloizio Mercadante, cotado para assumir o Ministério da Fazenda no próximo governo Lula",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Ataque cibernético com IA atingiu Comissão Europeia em outubro",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/ataque-cibernetico-com-ia-atingiu-comissao-europeia-em-outubro.shtml",
-      "date": "2026-11-19T14:00:00.000Z",
-      "summary": "A Comissão Europeia afirmou nesta quinta-feira (19) que foi alvo de uma campanha de ataques cibernéticos com auxílio de inteligência artificial em outubro. Um porta-voz disse, porém, que o bloco não acredita que tenha ocorrido um vazamento de dados \"nesta fase",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "O Brasil venceu uma batalha contra a fome; pode liderar a próxima?",
-      "link": "https://www.estadao.com.br/economia/renata-piazzon/o-brasil-venceu-uma-batalha-contra-a-fome-pode-liderar-a-proxima/",
-      "date": "2026-11-19T14:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "The Economist destaca dez tendências para ficar de olho em 2027; veja quais",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/the-economist-destaca-dez-tendencias-para-ficar-de-olho-em-2027-veja-quais.shtml",
-      "date": "2026-11-19T13:59:00.000Z",
-      "summary": "A vida moderna pode dar a sensação de estar em uma história de ficção científica. Um magnata dos foguetes que quer colocar computadores no espaço tornou-se o primeiro trilionário do mundo. Leia mais (11/19/2026 - 10h59)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Perdas do Ueno Bank se aproximam de US$ 1 bilhão, diz Banco Central do Paraguai",
-      "link": "https://www.estadao.com.br/economia/perdas-do-ueno-bank-se-aproximam-de-1-bilhao-diz-banco-central-do-paraguai-npr/",
-      "date": "2026-11-19T13:56:52.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Morre Paulo Gallotti, ministro aposentado do STJ, aos 81 anos",
-      "link": "https://www.poder360.com.br/poder-justica/morre-paulo-gallotti-ministro-aposentado-do-stj-aos-81-anos/",
-      "date": "2026-11-19T13:51:20.000Z",
-      "summary": "Juiz integrou a Corte de 1999 a 2009 e presidiu entidades de classe; velório foi realizado em Florianópolis",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Ajuste fiscal, amarras de Lula e soluções mágicas",
-      "link": "https://www.estadao.com.br/economia/fernando-dantas/ajuste-fiscal-amarras-de-lula-e-solucoes-magicas/",
-      "date": "2026-11-19T13:46:33.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Caneta emagrecedora muda consumo de comida e bebida de 1 em cada 3 adultos no Brasil, diz pesquisa",
-      "link": "https://www.estadao.com.br/economia/canetinhas-mudam-consumo-comida-bebida-adultos-brasil-pesquisa/",
-      "date": "2026-11-19T13:44:24.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Anthropic estreia na B3 e permite compra de ações por cerca de R$ 60",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/anthropic-estreia-na-b3-e-permite-compra-de-bdrs-por-cerca-de-r-60.shtml",
-      "date": "2026-11-19T13:44:00.000Z",
-      "summary": "Brasileiros que querem investir na Anthropic, gigante do setor de inteligência artificial, poderão comprar BDRs (Brazilian Depositary Receipts) da empresa por cerca de R$ 60 a partir desta quinta-feira (19). Leia mais (11/19/2026 - 10h44)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Lula assina decreto que regulamenta o fim da escala 6x1, com hora-extra mais cara; acompanhe",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/lula-assina-decreto-que-regulamenta-o-fim-da-escala-6x1-acompanhe.shtml",
-      "date": "2026-11-19T13:43:00.000Z",
-      "summary": "O presidente Luiz Inácio Lula da Silva (PT) assinou nesta quinta-feira (19) o decreto do governo que regulamenta a transição e a implementação do fim da escala 6x1. Leia mais (11/19/2026 - 10h43)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Mulheres aparecem como última opção ao STF",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/dora-kramer/2026/11/mulheres-aparecem-como-ultima-opcao-ao-stf.shtml",
       "date": "2026-11-19T13:38:00.000Z",
       "summary": "Reaberta a discussão sobre a cadeira vaga no Supremo Tribunal Federal (STF), voltam as especulações a respeito de quem, como e quando o presidente Luiz Inácio da Silva (PT) indicará. Leia mais (11/19/2026 - 10h38)",
       "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Lula assina decreto com regras para o fim da escala 6x1; ASSISTA",
-      "link": "https://g1.globo.com/politica/ao-vivo/lula-decreto-regras-fim-da-escala-6x1.ghtml",
-      "date": "2026-11-19T13:34:46.000Z",
-      "summary": "Lula assina decreto com regras para o fim da escala 6x1; ASSISTA Transição para a jornada 5x2 está prevista para começar em 16 de dezembro, com dois dias de folga por semana e redução da carga horária sem corte salarial. Lula deve assinar nesta quinta-feira (1",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Lula assina regulamentação da escala 5x2; medida está prevista para começar a valer em dezembro",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/19/lula-assina-regulamentacao-da-escala-5x2-medida-esta-prevista-para-comecar-a-valer-em-dezembro.ghtml",
-      "date": "2026-11-19T13:33:23.000Z",
-      "summary": "Lula assina decreto que regulamenta jornada 5x2 Reprodução O presidente Luiz Inácio Lula da Silva (PT) assinou, nesta quinta-feira (19), o decreto que regulamenta o fim da escala 6x1. O texto traz as regras para transição do regime atual para a jornada 5x2. A ",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Ministro afirma que pacote fiscal dará segurança ao mercado, mas admite possíveis novas medidas para cumprir metas",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/19/moreti-fiscal-mercado.ghtml",
-      "date": "2026-11-19T13:29:11.000Z",
-      "summary": "Pacote fiscal dará segurança ao mercado, afirma Bruno Moretti Um dia depois de o Senado concluir a votação do pacote de ajuste fiscal do governo, o ministro do Planejamento e Orçamento, Bruno Moretti, defendeu que as medidas darão mais segurança ao mercado sob",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Corinthians fecha acordo para leiloar camisas usadas em jogos",
-      "link": "https://www.poder360.com.br/poder-sportsmkt/corinthians-fecha-acordo-para-leiloar-camisas-usadas-em-jogos/",
-      "date": "2026-11-19T13:28:03.000Z",
-      "summary": "Parceria com Play For a Cause vai até 2027; o clube terá receita mínima de R$ 500 mil e receberá 75% da arrecadação, segundo o ge",
-      "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -347,24 +455,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Anthropic estreia na bolsa nesta quinta; saiba quanto custa investir na criadora do Claude pelo Brasil",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/19/anthropic-estreia-bolsa-como-investir-brasil.ghtml",
-      "date": "2026-11-19T13:21:29.000Z",
-      "summary": "Anthropic estreia na bolsa avaliada em US$ 1,5 trilhão A Anthropic, criadora do chatbot de inteligência artificial (IA) Claude, estreia nesta quinta-feira (19) na Nasdaq, bolsa americana que reúne algumas das maiores empresas de tecnologia do mundo. No Brasil,",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Ataque com uso de IA leva Comissão Europeia a tirar aplicativos do ar",
-      "link": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/11/19/comissao-europeia-ataque-hacker.ghtml",
-      "date": "2026-11-19T13:18:13.000Z",
-      "summary": "Bandeiras da União Europeia Stephanie Lecocq/Reuters A Comissão Europeia confirmou nesta quinta-feira (19) que foi alvo de um ataque cibernético com o uso de ferramentas de inteligência artificial (IA). Segundo a Comissão, ainda é difícil avaliar a dimensão do",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Projeto cria fundo para custear defesa jurídica de agentes de segurança",
       "link": "https://www.camara.leg.br/noticias/1312404-projeto-cria-fundo-para-custear-defesa-juridica-de-agentes-de-seguranca",
       "date": "2026-11-19T13:18:00.000Z",
@@ -372,33 +462,6 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Senado aprova regras para uso de postes após adiamento na Aneel",
-      "link": "https://www.poder360.com.br/poder-congresso/senado-aprova-regras-para-uso-de-postes-apos-adiamento-na-aneel/",
-      "date": "2026-11-19T13:17:28.000Z",
-      "summary": "Agência interrompeu análise de regras para compartilhamento das estruturas para aguardar decisão do Congresso; texto vai à sanção",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Camus, Sísifo e o combate ao crime organizado",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/camus-sisifo-e-o-combate-ao-crime-organizado/",
-      "date": "2026-11-19T13:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Ministro do Planejamento prevê estabilizar dívida pública em até 3 anos; economistas acham pacote insuficiente",
-      "link": "https://g1.globo.com/politica/blog/camila-bomfim/post/2026/11/19/divida-publica-deve-se-estabilizar-em-dois-ou-tres-anos-diz-moretti.ghtml",
-      "date": "2026-11-19T12:51:49.000Z",
-      "summary": "Pacote fiscal dará segurança ao mercado, afirma Bruno Moretti O ministro do Planejamento, Bruno Moretti, afirmou nesta quinta-feira (19) que trabalha com a previsão da estabilização da dívida pública em até 3 anos, segundo a trajetória prevista na Lei de Diret",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
     },
     {
       "title": "Comissão aprova proposta que regulamenta a profissão de trabalhador manual",
@@ -413,15 +476,6 @@
       "title": "Federação PSB e PDT terá 8ª maior bancada; veja as 10 maiores",
       "link": "https://www.estadao.com.br/politica/federacao-psb-e-pdt-tera-8-maior-bancada-veja-as-10-maiores-nprp/",
       "date": "2026-11-19T12:30:17.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Disputas na esquerda e direita são ensaios para os duelos pelo espólio político de Lula e Bolsonaro",
-      "link": "https://www.estadao.com.br/politica/ricardo-correa/disputas-na-esquerda-e-direita-sao-ensaios-para-os-duelos-pelo-espolio-politico-de-lula-e-bolsonaro/",
-      "date": "2026-11-19T12:30:00.000Z",
       "summary": "",
       "source": "Estadão",
       "cat": "politica",
@@ -455,24 +509,6 @@
       "type": "imprensa"
     },
     {
-      "title": "O que a The Economist prevê para o quarto mandato de Lula",
-      "link": "https://www.bbc.com/portuguese/articles/c85y1430dql0o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-19T11:32:08.000Z",
-      "summary": "A revista descreve a vitória de Lula nas urnas como impressionante e resume assim o que espera do próximo mandato: 'Governar será mais difícil'.",
-      "source": "BBC News Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Tarcísio decide manter secretário da Habitação no seu segundo mandato",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/tarcisio-decide-manter-secretario-da-habitacao-no-seu-segundo-mandato.shtml",
-      "date": "2026-11-19T11:06:00.000Z",
-      "summary": "O governador de São Paulo, Tarcísio de Freitas (Republicanos), decidiu manter no segundo mandato o secretário de Desenvolvimento Urbano e Habitação, Marcelo Branco. Leia mais (11/19/2026 - 08h06)",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Anthropic estreia na bolsa com avaliação de US$ 1,5 trilhão",
       "link": "https://www.dw.com/pt-br/anthropic-estreia-na-bolsa-com-avaliação-de-us-1-5-trilhão/a-79989133?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-19T10:18:00.000Z",
@@ -491,37 +527,10 @@
       "type": "imprensa"
     },
     {
-      "title": "Recorde da Anthropic em estreia na bolsa conseguirá impedir o estouro da bolha da IA?",
-      "link": "https://www.bbc.com/portuguese/articles/cm782wyv0153o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-19T08:28:25.000Z",
-      "summary": "O preço inicial da ação será de US$ 83 quando começar a ser negociada nesta quinta-feira. Com esse preço, o valor de mercado da Anthropic é estimado em US$ 1,5 trilhão.",
-      "source": "BBC News Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Integrantes do STF esperam que relatórios da PF esvaziem parte da discussão na corte sobre caso Master",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/integrantes-do-stf-esperam-que-relatorios-da-pf-esvaziem-parte-da-discussao-na-corte-sobre-caso-master.shtml",
-      "date": "2026-11-19T07:00:00.000Z",
-      "summary": "Interlocutores de ministros do STF (Supremo Tribunal Federal) têm avaliado como baixas as chances de o presidente Edson Fachin submeter todos os novos relatórios da Polícia Federal com as menções a integrantes da corte ao plenário. Leia mais (11/19/2026 - 04h0",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "EUA e Venezuela assinam acordo de cooperação militar",
       "link": "https://www.dw.com/pt-br/eua-e-venezuela-assinam-acordo-de-cooperação-militar/a-79986275?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-18T22:03:00.000Z",
       "summary": "Durante visita surpresa a Caracas, chefe do Pentágono, Pete Hegseth, firma acordo que marca a retomada da parceria em defesa entre os dois países.",
-      "source": "DW Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Câmara dos EUA deverá ter 1º presidente negro após indicação do Partido Democrata",
-      "link": "https://www.dw.com/pt-br/câmara-dos-eua-deverá-ter-1º-presidente-negro-após-indicação-do-partido-democrata/a-79986132?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-18T20:13:00.000Z",
-      "summary": "Hakeem Jeffries foi escolhido em votação interna do Partido Democrata. Confirmação ocorrerá em janeiro em eleição no plenário da Casa, onde os democratas obtiveram ampla maioria.",
       "source": "DW Brasil",
       "cat": "internacional",
       "type": "imprensa"
@@ -552,6 +561,15 @@
       "source": "Banco Central",
       "cat": "economia",
       "type": "oficial"
+    },
+    {
+      "title": "Por que encontro histórico com Xi e Trump já é uma vitória para Putin",
+      "link": "https://www.bbc.com/portuguese/articles/cvp86k97y0g8o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-18T16:14:08.000Z",
+      "summary": "O encontro entre os líderes dos EUA, China e Rússia dará a Vladimir Putin uma grande plataforma, mas não o aproximará da vitória na guerra na Ucrânia.",
+      "source": "BBC News Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
     },
     {
       "title": "BC divulga estudo sobre os canais de transmissão da política monetária por meio do crédito",
