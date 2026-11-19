@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-19T10:57:06.164Z",
+  "updated": "2026-11-19T11:57:02.504Z",
   "market": {
     "ibov": {
       "price": 167537.95,
       "pct": -1.34,
-      "time": "2026-11-19T10:57:01.009Z",
+      "time": "2026-11-19T11:56:57.104Z",
       "history": [
         {
           "d": "2026-10-20",
@@ -145,6 +145,150 @@
   },
   "news": [
     {
+      "title": "Xi pede cooperação dos EUA para manter IA sobre controle humano; Trump recusa regulamentação mundial",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/xi-pede-cooperacao-dos-eua-para-manter-ia-sobre-controle-humano-trump-recusa-regulamentacao-mundial.shtml",
+      "date": "2026-11-19T11:44:00.000Z",
+      "summary": "O líder da China, Xi Jinping, afirmou nesta quinta-feira (19) ao presidente dos EUA, Donald Trump, que os dois países deveriam cooperar para manter a IA \"sob controle humano\", de acordo com informações da agência chinesa de notícias Xinhua. Leia mais (11/19/20",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Como implementar sistemas agroflorestais",
+      "link": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/11/19/como-implementar-sistemas-agroflorestais.ghtml",
+      "date": "2026-11-19T11:39:05.000Z",
+      "summary": "A Empresa de Assistência Técnica e Extensão Rural de Minas Gerais (Emater-MG) disponibiliza uma cartilha gratuita com orientações para quem deseja implantar sistemas agroflorestais (SAFs) em propriedades rurais. A publicação apresenta as principais classificaç",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lula fará visita ao cacique Raoni durante viagem a Mato Grosso nesta quinta",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/19/lula-viaja-a-mato-grosso-nesta-quinta-feira-e-visita-cacique-raoni.ghtml",
+      "date": "2026-11-19T11:33:52.000Z",
+      "summary": "O presidente Luiz Inácio Lula da Silva (PT) viaja para Mato Grosso nesta quinta-feira (19), e fará uma visita ao cacique Raoni Metuktire. O líder indígena teve alta no último sábado (15), após ficar internado para tratar uma infecção pulmonar. A agenda do pres",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Israel realiza maior ofensiva terrestre na Faixa de Gaza desde o cessar-fogo",
+      "link": "https://www.dw.com/pt-br/israel-realiza-maior-ofensiva-terrestre-na-faixa-de-gaza-desde-o-cessar-fogo/a-79989088?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-19T11:33:00.000Z",
+      "summary": "Exército diz que operação em área controlada pelo Hamas visava eliminar ameaças às forças israelenses. Grupo palestino denuncia violação dos termos do cessar-fogo, em meio a uma grave crise humanitária no enclave.",
+      "source": "DW Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "O fim dos compartimentos na advocacia",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/o-fim-dos-compartimentos-na-advocacia/",
+      "date": "2026-11-19T11:32:17.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Com juros altos e Congresso mais à direita, quarto mandato de Lula será mais difícil, diz The Economist",
+      "link": "https://www.bbc.com/portuguese/articles/c85y1430dql0o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-19T11:32:08.000Z",
+      "summary": "A revista descreve a vitória de Lula nas urnas como impressionante e resume assim o que espera do próximo mandato: 'Governar será mais difícil'.",
+      "source": "BBC News Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Comissão debate recursos para ampliar castração e proteção de cães e gatos em todo o país",
+      "link": "https://www.camara.leg.br/noticias/1320874-comissao-debate-recursos-para-ampliar-castracao-e-protecao-de-caes-e-gatos-em-todo-o-pais",
+      "date": "2026-11-19T11:30:00.000Z",
+      "summary": "",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Vou para a rua se governo der dinheiro a clubes, diz Casagrande",
+      "link": "https://www.poder360.com.br/poder-sportsmkt/vou-para-a-rua-se-governo-der-dinheiro-a-clubes-diz-casagrande/",
+      "date": "2026-11-19T11:19:52.000Z",
+      "summary": "Ex-jogador critica pedido de ajuda financeira de clubes ao governo Lula e responsabiliza dirigentes pela crise do Corinthians",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Vitória no Senado mostra margem de negociação em momento crítico para agenda econômica",
+      "link": "https://www.estadao.com.br/politica/silvio-cascione/vitoria-no-senado-mostra-margem-de-negociacao-em-momento-critico-para-agenda-economica/",
+      "date": "2026-11-19T11:17:40.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Se a Enel vier ao mercado, temos obrigação de analisar, diz presidente da Copel",
+      "link": "https://www.estadao.com.br/economia/negocios/entrevista-daniel-slaviero-copel-enel-mercado-obrigacao-analisar/",
+      "date": "2026-11-19T11:08:30.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Tarcísio decide manter secretário da Habitação no seu segundo mandato",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/tarcisio-decide-manter-secretario-da-habitacao-no-seu-segundo-mandato.shtml",
+      "date": "2026-11-19T11:06:00.000Z",
+      "summary": "O governador de São Paulo, Tarcísio de Freitas (Republicanos), decidiu manter no segundo mandato o secretário de Desenvolvimento Urbano e Habitação, Marcelo Branco. Leia mais (11/19/2026 - 08h06)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Perdas do Ueno Bank se aproximam de US$ 1 bilhão, estima BC do Paraguai",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/perdas-do-ueno-bank-se-aproximam-de-us-1-bilhao-estima-bc-do-paraguai.shtml",
+      "date": "2026-11-19T11:05:00.000Z",
+      "summary": "O novo presidente do BCP (Banco Central do Paraguai), José Luis Schreiner, afirmou nesta quinta-feira (19) que as perdas causadas pela quebra do Ueno Bank podem chegar a cerca de US$ 1 bilhão (R$ 5,8 bilhões), no pior cenário. Leia mais (11/19/2026 - 08h05)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Governo regulamenta o fim da 6 X 1 nesta 5ª feira",
+      "link": "https://www.poder360.com.br/poder-governo/governo-regulamenta-o-fim-da-6-x-1-nesta-5a-feira/",
+      "date": "2026-11-19T11:03:34.000Z",
+      "summary": "Lula assina decreto; medida foi uma das bandeiras de campanha para a reeleição do petista",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Trump, Xi e Putin em encontro histórico na China: o que cada um falou e quer na cúpula",
+      "link": "https://www.bbc.com/portuguese/articles/cjvg2922e50qo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-19T11:02:03.000Z",
+      "summary": "Antes da conversa a três, Trump se reuniu separadamente com os presidentes russo e chinês. Trump chamou Putin de 'amigo' e disse que os dois têm uma 'ótima relação'.",
+      "source": "BBC News Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Brasil é 3º entre países com maior exposição frequente a tentativas de golpe, aponta pesquisa",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/brasil-e-3o-entre-paises-com-maior-exposicao-frequente-a-tentativas-de-golpe-aponta-pesquisa.shtml",
+      "date": "2026-11-19T11:01:00.000Z",
+      "summary": "O Brasil aparece empatado na terceira posição entre 42 países na proporção de adultos que afirmam receber tentativas de golpe várias vezes ao dia, segundo relatório global da GASA (Aliança Global Antigolpes) divulgado nesta quinta-feira (19). 17% dos brasileir",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Conselho da ANPD rejeita recurso e mantém suspensas transmissões ao vivo do Discord no Brasil",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/19/conselho-da-anpd-rejeita-recurso-e-mantem-suspensas-transmissoes-ao-vivo-do-discord-no-brasil.ghtml",
+      "date": "2026-11-19T11:00:00.000Z",
+      "summary": "Conselho da ANPD rejeita recurso e mantém suspensas transmissões ao vivo do Discord no Brasil O Conselho Diretor da Agência Nacional de Proteção de Dados (ANPD) rejeitou um recurso do Discord e manteve suspensas no Brasil as transmissões ao vivo pela plataform",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "Perdas do Ueno Bank se aproximam de US$ 1 bilhão, segundo Banco Central do Paraguai",
       "link": "https://g1.globo.com/economia/noticia/2026/11/19/perdas-do-ueno-bank-se-aproximam-de-us-1-bilhao-segundo-banco-central.ghtml",
       "date": "2026-11-19T10:39:16.000Z",
@@ -190,48 +334,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Justiça penhora prêmio do Inter na Copa do Brasil Feminina",
-      "link": "https://www.poder360.com.br/poder-sportsmkt/justica-penhora-premio-do-inter-na-copa-do-brasil-feminina/",
-      "date": "2026-11-19T10:04:01.000Z",
-      "summary": "Ordem atinge até R$ 1,23 milhão para pagar dívida com o Atlético Monte Azul pela contratação de Patrick para o time masculino",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Eurofarma leva Dermage ao Chile e amplia operação externa",
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/eurofarma-leva-dermage-ao-chile-e-amplia-operacao-externa.shtml",
       "date": "2026-11-19T10:00:00.000Z",
       "summary": "A Eurofarma está levando a Dermage, marca de dermocosméticos que adquiriu em março de 2025, ao Chile, surfando a onda de popularidade dos produtos de skincare na América Latina. Leia mais (11/19/2026 - 07h00)",
       "source": "Folha",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Os japoneses chegaram ao Brasil antes do que imaginamos",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/rodrigo-tavares/2026/11/os-japoneses-chegaram-ao-brasil-antes-do-que-imaginamos.shtml",
-      "date": "2026-11-19T10:00:00.000Z",
-      "summary": "Em 2011, pedi a alguns funcionários do governo de São Paulo, com quem trabalhava na época, que dedicassem o tempo que fosse necessário a uma missão no Arquivo Público do Estado. Eles tinham de encontrar o documento original do primeiro acordo celebrado entre o",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Ânima aposta em faculdades de medicina e parcerias com empresas para acelerar expansão, diz CEO",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/c-level-entrevista/2026/11/anima-aposta-em-faculdades-de-medicina-e-parcerias-com-empresas-para-acelerar-expansao-diz-ceo.shtml",
-      "date": "2026-11-19T10:00:00.000Z",
-      "summary": "Após um período de desconfiança do mercado, causada pela recompra da FMU (Faculdades Metropolitanas Unidas) e por um contrato de assessoria acadêmica selado com o Einstein Hospital Israelita, a Ânima Educação se prepara para novas oportunidades no médio prazo.",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Brasil pede à OMC para julgar tarifaço imposto pelos EUA",
-      "link": "https://www.poder360.com.br/poder-economia/brasil-pede-a-omc-para-julgar-tarifaco-imposto-pelos-eua/",
-      "date": "2026-11-19T09:40:32.000Z",
-      "summary": "Governo brasileiro diz em documento que, após realizadas consultas em 25 de setembro, não houve avanço nas negociações",
-      "source": "Poder360",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -246,24 +354,6 @@
     {
       "title": "Lula 4: aliada de Múcio cotada para assumir Defesa tem apoio de militares e resistência de ala do PT",
       "link": "https://www.estadao.com.br/politica/lula-4-principal-cotada-para-assumir-defesa-tem-apoio-de-militares-e-resistencia-de-ala-do-pt/",
-      "date": "2026-11-19T08:30:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Cotada para suceder Tarcísio, Natália Resende desconversa sobre política: ‘Foco 120% nas entregas’",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/cotada-para-suceder-tarcisio-natalia-resende-desconversa-sobre-politica-foco-120-nas-entregas/",
-      "date": "2026-11-19T08:30:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "10,3 milhões de mulheres lideram pequenos negócios, alta de 27% na década",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/103-milhoes-de-mulheres-lideram-pequenos-negocios-alta-de-27-na-decada/",
       "date": "2026-11-19T08:30:00.000Z",
       "summary": "",
       "source": "Estadão",
@@ -316,24 +406,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Veja quais são os direitos de quem trabalha no feriado da Consciência Negra",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/veja-quais-sao-os-direitos-de-quem-trabalha-no-feriado-da-consciencia-negra.shtml",
-      "date": "2026-11-19T07:00:00.000Z",
-      "summary": "O feriado do Dia da Consciência Negra, comemorado nesta sexta-feira (20), pode proporcionar uma folga que emenda com o fim desemana para muitos brasileiros. A regra geral da legislação para quem for convocado para trabalhar prevê o direito de receber o dia em ",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "13º salário: calculadora mostra quanto você vai receber, com descontos e novas regras do IR",
-      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/19/13o-salario-calculadora-mostra-quanto-voce-vai-receber-com-descontos-e-novas-regras-do-ir.ghtml",
-      "date": "2026-11-19T06:00:00.000Z",
-      "summary": "Décimo terceiro: gastar, pagar dívidas ou guardar dinheiro? O pagamento do 13º salário está se aproximando e, neste ano, milhões de trabalhadores podem receber um valor maior do que nos anos anteriores. Isso porque as novas regras do Imposto de Renda passaram ",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Machado de Xangô, crucifixos e Cristo de madeira: veja símbolos religiosos já instalados nas sedes dos Três Poderes, em Brasília",
       "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/19/machado-de-xango-crucifixos-e-cristo-de-madeira-veja-simbolos-religiosos-ja-instalados-nas-sedes-dos-tres-poderes-em-brasilia.ghtml",
       "date": "2026-11-19T05:00:02.000Z",
@@ -352,24 +424,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Governo regulamenta jornada 5x2 nesta quinta-feira; Lula assina decreto com novas regras",
-      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/19/governo-regulamenta-da-jornada-5x2-nesta-quinta-feira-lula-assina-decreto-com-novas-regras.ghtml",
-      "date": "2026-11-19T03:00:00.000Z",
-      "summary": "O presidente Luiz Inácio Lula da Silva (PT) deve assinar nesta quinta-feira (19) o decreto que regulamenta o fim da escala 6x1. O texto vai definir as regras de transição do regime atual para a jornada 5x2. Na terça-feira (17), o presidente se reuniu com o min",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Posse de Lula: com hotéis caros e cheios, Planalto e governo do DF discutem camping para caravanas",
-      "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/19/posse-de-lula-com-hoteis-caros-e-cheios-planalto-e-governo-do-df-discutem-camping-para-caravanas.ghtml",
-      "date": "2026-11-19T03:00:00.000Z",
-      "summary": "Setor Hoteleiro Norte, em Brasília TV Globo/Reprodução O governo federal e o governo do Distrito Federal passaram a debater a reserva de espaços públicos, como escolas e parques, para abrigar caravanas de apoiadores do presidente Luiz Inácio Lula da Silva (PT)",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Com novas funções, 'supersecretária' de Tarcísio promete fortalecer controle de concessões",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/com-novas-funcoes-supersecretaria-de-tarcisio-promete-fortalecer-controle-de-concessoes.shtml",
       "date": "2026-11-19T02:00:00.000Z",
@@ -379,11 +433,11 @@
       "type": "imprensa"
     },
     {
-      "title": "Presidente do Memorial da América Latina pede a Lula que avalie federalizar complexo",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/presidente-do-memorial-da-america-latina-pede-a-lula-que-avalie-federalizar-complexo.shtml",
-      "date": "2026-11-19T02:00:00.000Z",
-      "summary": "O diretor-presidente do Memorial da América Latina, Pedro Machado Mastrobuono, enviou uma carta ao presidente Luiz Inácio Lula da Silva sugerindo a possível transferência do equipamento do governo estadual para o federal. Leia mais (11/18/2026 - 23h00)",
-      "source": "Folha",
+      "title": "PSB e PDT oficializam federação; João Campos será o presidente da união entre os partidos",
+      "link": "https://www.estadao.com.br/politica/psd-e-pdt-oficializam-federacao-joao-campos-sera-o-presidente-da-uniao-entre-os-partidos-nprp/",
+      "date": "2026-11-19T00:54:47.000Z",
+      "summary": "",
+      "source": "Estadão",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -442,29 +496,11 @@
       "type": "oficial"
     },
     {
-      "title": "Vai à sanção campanha anual pelo fim da violência e do racismo contra mulheres",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/18/vai-a-sancao-campanha-anual-pelo-fim-da-violencia-e-do-racismo-contra-mulheres",
-      "date": "2026-11-18T23:38:41.000Z",
-      "summary": "O Senado aprovou nesta quarta-feira (18) um projeto de lei que institui campanha nacional de enfrentamento à violência contra a mulher e à desigualdade racial. O PL 6.222/2025 oficializa a celebração, de forma permanente, da Mobilização Nacional dos 21 Dias de",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
       "title": "Audiência aponta abandono e negligência como principais violências contra mulheres idosas no Brasil",
       "link": "https://www.camara.leg.br/noticias/1320884-audiencia-aponta-abandono-e-negligencia-como-principais-violencias-contra-mulheres-idosas-no-brasil",
       "date": "2026-11-18T23:24:00.000Z",
       "summary": "Cerca de 65% das denúncias de violência contra idosos registradas no país envolvem mulheres; muitas vezes, agressões são praticadas por filhos e netos",
       "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Senado completa votação, e ajuste fiscal segue para a Câmara",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/18/senado-completa-votacao-e-ajuste-fiscal-segue-para-a-camara",
-      "date": "2026-11-18T23:04:07.000Z",
-      "summary": "O Senado completou, nesta quarta-feira (18), a votação do projeto do ajuste fiscal (PLP 299/2026). O texto principal já havia sido aprovado na última quinta-feira (12). A matéria, aprovada em turno suplementar com 69 votos a favor e dois contrários, segue agor",
-      "source": "Agência Senado",
       "cat": "politica",
       "type": "oficial"
     },
@@ -496,30 +532,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Comissão debate recursos para ampliar castração e proteção de cães e gatos em todo o país",
-      "link": "https://www.camara.leg.br/noticias/1320874-comissao-debate-recursos-para-ampliar-castracao-e-protecao-de-caes-e-gatos-em-todo-o-pais",
-      "date": "2026-11-18T22:09:00.000Z",
-      "summary": "",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
       "title": "EUA e Venezuela assinam acordo de cooperação militar",
       "link": "https://www.dw.com/pt-br/eua-e-venezuela-assinam-acordo-de-cooperação-militar/a-79986275?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-18T22:03:00.000Z",
       "summary": "Durante visita surpresa a Caracas, chefe do Pentágono, Pete Hegseth, firma acordo que marca a retomada da parceria em defesa entre os dois países.",
       "source": "DW Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Senado conclui votação de ajuste após aceno a governadores para preservar impacto fiscal",
-      "link": "https://www.estadao.com.br/economia/senado-conclui-votacao-de-ajuste-apos-aceno-a-governadores-para-preservar-impacto-fiscal/",
-      "date": "2026-11-18T21:55:42.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -530,15 +548,6 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Fachin recebe parecer técnico com propostas para a remuneração da magistratura",
-      "link": "https://www.estadao.com.br/politica/fachin-recebe-parecer-tecnico-com-propostas-para-a-remuneracao-da-magistratura-nprp/",
-      "date": "2026-11-18T20:48:05.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
     },
     {
       "title": "Câmara dos EUA deverá ter 1º presidente negro após indicação do Partido Democrata",
@@ -575,33 +584,6 @@
       "source": "Banco Central",
       "cat": "economia",
       "type": "oficial"
-    },
-    {
-      "title": "Bunker da 2° Guerra vai a leilão em Berlim",
-      "link": "https://www.dw.com/pt-br/bunker-da-2°-guerra-vai-a-leilão-em-berlim/a-79983864?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-18T17:01:00.000Z",
-      "summary": "Abrigo subterrâneo de mais de 600 metros fica embaixo de prédio em área nobre da capital alemã e abrigou centenas de pessoas durante a guerra. Lance inicial é de 398 mil euros.",
-      "source": "DW Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Por que encontro histórico com Xi e Trump já é uma vitória para Putin",
-      "link": "https://www.bbc.com/portuguese/articles/cvp86k97y0g8o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-18T16:14:08.000Z",
-      "summary": "O encontro entre os líderes dos EUA, China e Rússia dará a Vladimir Putin uma grande plataforma, mas não o aproximará da vitória na guerra na Ucrânia.",
-      "source": "BBC News Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Reunião pode dividir o mundo em três? Por que cúpula entre Trump, Xi e Putin deixa a Europa preocupada",
-      "link": "https://www.bbc.com/portuguese/articles/cqx2ey1zxjymo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-18T14:54:26.000Z",
-      "summary": "Preparativos para o primeiro encontro trilateral entre os líderes da China, da Rússia e dos EUA provocaram apreensão na Europa, onde alguns veem paralelos com a divisão do mundo em esferas de influência após a Segunda Guerra Mundial.",
-      "source": "BBC News Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
     },
     {
       "title": "BC divulga estudo sobre os canais de transmissão da política monetária por meio do crédito",
@@ -723,6 +705,7 @@
   ],
   "errors": [
     "feed CNN Brasil: HTTP 404",
-    "feed CNN Brasil: HTTP 404"
+    "feed CNN Brasil: HTTP 404",
+    "feed Planalto (governo): HTTP 429"
   ]
 }
