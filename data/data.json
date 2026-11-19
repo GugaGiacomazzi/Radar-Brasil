@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-19T01:01:46.481Z",
+  "updated": "2026-11-19T02:24:16.459Z",
   "market": {
     "ibov": {
       "price": 167537.95,
       "pct": -1.34,
-      "time": "2026-11-19T01:01:41.910Z",
+      "time": "2026-11-19T02:24:10.821Z",
       "history": [
         {
           "d": "2026-10-20",
@@ -145,12 +145,120 @@
   },
   "news": [
     {
-      "title": "Dias difíceis neste início de Lula 4",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2026/11/dias-dificeis-neste-inicio-de-lula-4.shtml",
-      "date": "2026-11-19T00:55:00.000Z",
-      "summary": "A animação da vitória extraordinária de Luiz Inácio Lula da Silva perdeu brilho rápido, nublada por ambiente financeiro ruim, conflitos na esquerda e falta de rumo de Lula 4, que não tem sentido de urgência e planos maiores de mudança, o que já se notava na ca",
+      "title": "Acordo apenas reduziu prejuízo do ajuste fiscal, diz Marinho",
+      "link": "https://www.poder360.com.br/poder-congresso/acordo-apenas-reduziu-prejuizo-do-ajuste-fiscal-diz-marinho/",
+      "date": "2026-11-19T02:14:12.000Z",
+      "summary": "Senador criticou Davi Alcolumbre por suspender votação na 3ª feira e o chamou de “líder informal” do Planalto; governo e oposição chegaram a entendimento sobre a Lei Kandir",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Com novas funções, 'supersecretária' de Tarcísio promete fortalecer controle de concessões",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/com-novas-funcoes-supersecretaria-de-tarcisio-promete-fortalecer-controle-de-concessoes.shtml",
+      "date": "2026-11-19T02:00:00.000Z",
+      "summary": "Com leilões de infraestrutura na bolsa de valores como marca do primeiro mandato, Tarcísio de Freitas (Republicanos) pretende fortalecer nos próximos quatro anos o controle sobre as concessões públicas que promoveu, segundo a nova secretária de Planejamento, O",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Presidente do Memorial da América Latina pede a Lula que avalie federalizar complexo",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/presidente-do-memorial-da-america-latina-pede-a-lula-que-avalie-federalizar-complexo.shtml",
+      "date": "2026-11-19T02:00:00.000Z",
+      "summary": "O diretor-presidente do Memorial da América Latina, Pedro Machado Mastrobuono, enviou uma carta ao presidente Luiz Inácio Lula da Silva sugerindo a possível transferência do equipamento do governo estadual para o federal. Leia mais (11/18/2026 - 23h00)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Vorcaro negociava com Esteves nos bastidores enquanto o acusava de atrapalhar Master",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/vorcaro-negociava-com-esteves-nos-bastidores-enquanto-o-acusava-de-atrapalhar-master.shtml",
+      "date": "2026-11-19T02:00:00.000Z",
+      "summary": "Daniel Vorcaro discutiu com o banqueiro André Esteves, do BTG Pactual, um resgate privado para o Master quase um ano antes da liquidação da instituição, que completou um ano nesta quarta-feira (18). Os dois tinham conversas frequentes, negociavam a compra e a ",
       "source": "Folha",
       "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Regulação das big techs pode repetir erros da intervenção no setor elétrico",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/marcos-lisboa/2026/11/regulacao-das-big-techs-pode-repetir-erros-da-intervencao-no-setor-eletrico.shtml",
+      "date": "2026-11-19T02:00:00.000Z",
+      "summary": "A discussão sobre regulação das big techs virou tema comum em muitos países. As abordagens, contudo, têm sido bastante distintas. Leia mais (11/18/2026 - 23h00)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Copel não investirá em novos parques eólicos enquanto houver cortes de geração, diz CEO da companhia",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/economia-sustentavel/2026/11/copel-nao-investira-em-novos-parques-eolicos-enquanto-houver-cortes-de-geracao-diz-ceo-da-companhia.shtml",
+      "date": "2026-11-19T02:00:00.000Z",
+      "summary": "A Copel não pretende fazer novos investimentos na expansão de parques eólicos enquanto persistirem os cortes de geração de energia para conter o excesso de oferta, conhecidos como \"curtailment\". Em entrevista à Folha, o presidente da companhia, Daniel Slaviero",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "IPO da Anthropic pode criar milhares de novos milionários no Vale do Silício",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/ipo-da-anthropic-pode-criar-milhares-de-novos-milionarios-no-vale-do-silicio.shtml",
+      "date": "2026-11-19T02:00:00.000Z",
+      "summary": "A oferta pública inicial de ações (IPO, na sigla em inglês) da Anthropic deve criar milhares de milionários no papel entre funcionários atuais e antigos da empresa, em um dos maiores ganhos de patrimônio para trabalhadores da história do Vale do Silício. Leia ",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Cid Gomes chama Galípolo de “cavalo de Troia do mercado”",
+      "link": "https://www.poder360.com.br/poder-congresso/cid-gomes-chama-galipolo-de-cavalo-de-troia-do-mercado/",
+      "date": "2026-11-19T01:40:22.000Z",
+      "summary": "Durante votação do ajuste fiscal, senador afirmou que custo da dívida ofusca corte de gastos e criticou a política de juros do BC",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Alexandre de Moraes arquiva investigação contra Zambelli por defender intervenção militar",
+      "link": "https://www.estadao.com.br/politica/alexandre-de-moraes-arquiva-investigacao-contra-zambelli-por-defender-intervencao-militar-nprp/",
+      "date": "2026-11-19T01:24:30.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lula tenta acertar com Alcolumbre vaga no STF e espaço no governo",
+      "link": "https://www.poder360.com.br/poder-governo/lula-tenta-acertar-com-alcolumbre-vaga-no-stf-e-espaco-no-governo/",
+      "date": "2026-11-19T01:12:18.000Z",
+      "summary": "Resistência a Messias e preferência por Pacheco pesam na negociação, que também envolve o Ministério de Minas e Energia",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Motta diz que pediu para Moraes liberar ação sobre dosimetria para virar página do 8/1",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/motta-diz-que-pediu-para-moraes-liberar-acao-sobre-dosimetria-para-virar-pagina-do-81.shtml",
+      "date": "2026-11-19T01:11:00.000Z",
+      "summary": "O presidente da Câmara dos Deputados, Hugo Motta (Republicanos-PB), afirmou nesta quarta-feira (18) ter pedido ao ministro do STF (Supremo Tribunal Federal) Alexandre de Moraes que paute a Lei da Dosimetria, que permite a redução da pena de condenados pelo 8 d",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Pioneira em emissões na China, Suzano hoje dá lições à Vale e ao Tesouro",
+      "link": "https://www.estadao.com.br/economia/coluna-da-broad/pioneira-em-emissoes-na-china-suzano-hoje-da-licoes-a-vale-e-ao-tesouro/",
+      "date": "2026-11-19T01:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "PSB e PDT oficializam federação; João Campos será o presidente da união entre os partidos",
+      "link": "https://www.estadao.com.br/politica/psd-e-pdt-oficializam-federacao-joao-campos-sera-o-presidente-da-uniao-entre-os-partidos-nprp/",
+      "date": "2026-11-19T00:54:47.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -172,55 +280,19 @@
       "type": "imprensa"
     },
     {
+      "title": "PGR denuncia Flávio Bolsonaro ao STF por calúnia contra Lula em postagem",
+      "link": "https://www.estadao.com.br/politica/pgr-denuncia-flavio-bolsonaro-ao-stf-por-calunia-contra-lula-em-postagem/",
+      "date": "2026-11-19T00:42:25.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "Câmara inicia votação de ajuste fiscal na 2ª feira",
       "link": "https://www.poder360.com.br/poder-congresso/camara-inicia-votacao-de-ajuste-fiscal-na-2a-feira/",
       "date": "2026-11-19T00:40:48.000Z",
       "summary": "Sessão extraordinária foi anunciada por Hugo Motta depois de o Senado aprovar emendas do texto nesta 4ª feira",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Veja como votou cada senador nos destaques do projeto de ajuste fiscal do governo Lula",
-      "link": "https://www.estadao.com.br/economia/veja-como-votou-cada-senador-destaques-projeto-ajuste-fiscal-lula/",
-      "date": "2026-11-19T00:28:06.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Impacto do ajuste fiscal caiu de R$ 56 bi para R$ 50 bi, diz Braga",
-      "link": "https://www.poder360.com.br/poder-congresso/impacto-do-ajuste-fiscal-caiu-de-r-56-bi-para-r-50-bi-diz-braga/",
-      "date": "2026-11-19T00:18:31.000Z",
-      "summary": "Redução na projeção decorre de acordo sobre repasses aos Estados; projeto aprovado no Senado vai à Câmara",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Fachin vai enviar à PGR relatórios sobre ministros do STF e Master",
-      "link": "https://www.poder360.com.br/poder-justica/fachin-vai-enviar-a-pgr-relatorios-sobre-ministros-do-stf-e-master/",
-      "date": "2026-11-19T00:09:39.000Z",
-      "summary": "Presidente do Supremo dará prazo de 15 dias para manifestação da Procuradoria; os documentos entregues pela PF seguem, por ora, sob sigilo",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Motta afirma que Câmara iniciará discussão do 'plano Moretti' na próxima segunda (23)",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/motta-afirma-que-camara-iniciara-discussao-do-plano-moretti-na-proxima-segunda-23.shtml",
-      "date": "2026-11-19T00:02:00.000Z",
-      "summary": "O presidente da Câmara dos Deputados, Hugo Motta (Republicanos-PB), afirmou nesta quarta-feira (18) que convocará uma sessão extraordinária para a próxima segunda-feira (23) para iniciar as discussões sobre o \"plano Moretti\", pacote de ajuste fiscal do governo",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Governo Lula tenta preservar acordo do ajuste fiscal na Câmara",
-      "link": "https://www.poder360.com.br/poder-governo/governo-lula-tenta-preservar-acordo-do-ajuste-fiscal-na-camara/",
-      "date": "2026-11-19T00:01:03.000Z",
-      "summary": "Planalto tenta preservar texto aprovado no Senado, com Guimarães cobrando rapidez e Moretti e Sidônio na articulação da proposta",
       "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
@@ -298,12 +370,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Lula começa a tirar 'plano Moretti' do fogo amigo",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/adriana-fernandes/2026/11/lula-comeca-a-tirar-plano-moretti-do-fogo-amigo.shtml",
-      "date": "2026-11-18T23:30:00.000Z",
-      "summary": "O debate sobre o ajuste fiscal revela a incapacidade e a falta de vontade dos atores sociais e políticos de pensar de forma pragmática e construir acordos mínimos em torno de medidas que sejam positivas tanto para equilibrar as contas públicas quanto para melh",
-      "source": "Folha",
-      "cat": "economia",
+      "title": "Vorcaro tratou de ingressos da F1 para filho de diretor da PF, diz site",
+      "link": "https://www.estadao.com.br/politica/vorcaro-tratou-de-ingressos-da-f1-para-filho-de-diretor-da-pf-diz-site/",
+      "date": "2026-11-18T23:27:37.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -314,24 +386,6 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "PF entrega relatórios sobre citações a ministros do STF no caso Master, e Fachin anuncia envio à PGR",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/andrei-entrega-a-fachin-relatorios-da-pf-com-mencoes-a-ministros-do-stf-no-caso-master.shtml",
-      "date": "2026-11-18T23:23:00.000Z",
-      "summary": "O presidente do STF (Supremo Tribunal Federal), ministro Edson Fachin, recebeu nesta quarta-feira (18) os relatórios da PF (Polícia Federal) sobre a relação do ex-banqueiro Daniel Vorcaro com os ministros da corte. Ele informou que encaminhará o material para ",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Valdemar diz que Nikolas não tem idade para concorrer à presidência da Câmara",
-      "link": "https://www.estadao.com.br/politica/valdemar-diz-que-nikolas-nao-tem-idade-para-concorrer-a-presidencia-da-camara-nprp/",
-      "date": "2026-11-18T23:20:21.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
     },
     {
       "title": "Jetour anuncia fábrica no Brasil, investimento de R$ 400 milhões e novo SUV elétrico",
@@ -370,19 +424,10 @@
       "type": "oficial"
     },
     {
-      "title": "O lado bom e o lado ruim da política climática",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/martinwolf/2026/11/o-lado-bom-e-o-lado-ruim-da-politica-climatica.shtml",
-      "date": "2026-11-18T23:00:00.000Z",
-      "summary": "A humanidade é brilhante na inovação e péssima para lidar com desafios políticos globais. Isso não surpreende. A inovação responde a incentivos nos níveis individual e nacional; já os desafios políticos globais inevitavelmente geram enormes falhas de cooperaçã",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "PSB e PDT oficializam federação partidária; entenda como funciona a união",
       "link": "https://g1.globo.com/politica/noticia/2026/11/18/psb-pdt-federacao-entenda.ghtml",
       "date": "2026-11-18T22:56:40.000Z",
-      "summary": "Carlos Lupi (PDT) e Tabata Amaral (PSB-SP) em meio à federação PSB e PDT oficializada em 18 de novembro de 2026. Ton Molina/FotoArena/Estadão Conteúdo; Vinicius Loures/Câmara dos Deputados O Partido Socialista Brasileiro (PSB) e o Partido Democrático Trabalhis",
+      "summary": "Lideranças do PSB e PDT oficializam federação em 18 de novembro de 2026. Cléia Viana/Divulgação O Partido Socialista Brasileiro (PSB) e o Partido Democrático Trabalhista (PDT) oficializaram nesta quarta-feira (18) a formação de uma federação partidária a nível",
       "source": "g1",
       "cat": "politica",
       "type": "imprensa"
@@ -415,21 +460,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Diretor-geral da PF entrega relatórios sobre citações a ministros do STF no celular de Vorcaro",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/diretor-geral-da-pf-entrega-relatorios-sobre-citacoes-a-ministros-do-stf-no-celular-de-vorcaro/",
-      "date": "2026-11-18T22:31:06.000Z",
+      "title": "Jetour produzirá T1 e T2 no RJ, mas não confirma compra de fábrica da Land Rover",
+      "link": "https://www.estadao.com.br/jornal-do-carro/jetour-produzira-t1-e-t2-no-rj-mas-nao-confirma-compra-de-fabrica-da-land-rover/",
+      "date": "2026-11-18T22:15:00.000Z",
       "summary": "",
       "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Moro anuncia ex-procurador da Lava Jato para comandar futura secretaria Anticorrupção no Paraná",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/moro-anuncia-ex-procurador-da-lava-jato-para-comandar-futura-secretaria-anticorrupcao-no-parana.shtml",
-      "date": "2026-11-18T22:31:00.000Z",
-      "summary": "O governador eleito do Paraná, Sergio Moro (PL), anunciou nesta quarta-feira (18) o nome do advogado Carlos Fernando dos Santos Lima como futuro secretário Anticorrupção. Ele é procurador da República aposentado e ficou conhecido pela atuação na Operação Lava ",
-      "source": "Folha",
-      "cat": "politica",
+      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -451,15 +487,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Mantido por Tarcísio, secretário de Segurança promete priorizar combate à violência contra a mulher",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/mantido-por-tarcisio-secretario-de-seguranca-promete-priorizar-combate-a-violencia-contra-a-mulher.shtml",
-      "date": "2026-11-18T22:00:00.000Z",
-      "summary": "O secretário de Segurança Pública de São Paulo, Osvaldo Nico, afirma que vai priorizar o combate à violência contra a mulher no segundo mandato de Tarcísio de Freitas (Republicanos). Sua manutenção no cargo foi confirmada pelo governador nesta quarta-feira (18",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "99 é alvo de ação por cobrar de motoristas para liberar corridas sem taxas; MPT pede R$ 100 milhões",
       "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/18/99-acao-mpt-taxa-zero.ghtml",
       "date": "2026-11-18T21:56:30.000Z",
@@ -475,15 +502,6 @@
       "summary": "",
       "source": "Estadão",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Bastidores: Lula cobra pente-fino nos pedidos de cargos do Centrão para evitar novas traições",
-      "link": "https://www.estadao.com.br/politica/bastidores-lula-cobra-pente-fino-nos-pedidos-de-cargos-do-centrao-para-evitar-novas-traicoes/",
-      "date": "2026-11-18T21:12:14.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -613,15 +631,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Governo Lula usa sigilo mais do que gestão Bolsonaro para negar pedidos de acesso à informação",
-      "link": "https://www.estadao.com.br/politica/governo-lula-usa-sigilo-mais-do-que-gestao-bolsonaro-para-negar-pedidos-de-acesso-a-informacao/",
-      "date": "2026-11-18T08:30:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "BC anuncia leilões de swap cambial tradicional para fins de rolagem dos contratos vincendos em 4 de janeiro de 2027",
       "link": "https://www.bcb.gov.br/detalhenoticia/21321/nota",
       "date": "2026-11-17T21:30:21.000Z",
@@ -710,15 +719,6 @@
       "source": "Banco Central",
       "cat": "economia",
       "type": "oficial"
-    },
-    {
-      "title": "Empresas devem enfrentar novo ciclo de reestruturações em 2027 com juros altos e crédito restrito",
-      "link": "https://www.estadao.com.br/economia/empresas-devem-enfrentar-novo-ciclo-de-reestruturacoes-em-2027-com-juros-altos-e-credito-restrito/",
-      "date": "2026-11-12T08:30:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
     }
   ],
   "errors": [
