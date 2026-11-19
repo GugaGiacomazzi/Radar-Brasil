@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-19T11:57:02.504Z",
+  "updated": "2026-11-19T13:11:02.887Z",
   "market": {
     "ibov": {
       "price": 167537.95,
       "pct": -1.34,
-      "time": "2026-11-19T11:56:57.104Z",
+      "time": "2026-11-19T13:10:57.581Z",
       "history": [
         {
           "d": "2026-10-20",
@@ -145,11 +145,200 @@
   },
   "news": [
     {
-      "title": "Xi pede cooperação dos EUA para manter IA sobre controle humano; Trump recusa regulamentação mundial",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/xi-pede-cooperacao-dos-eua-para-manter-ia-sobre-controle-humano-trump-recusa-regulamentacao-mundial.shtml",
-      "date": "2026-11-19T11:44:00.000Z",
-      "summary": "O líder da China, Xi Jinping, afirmou nesta quinta-feira (19) ao presidente dos EUA, Donald Trump, que os dois países deveriam cooperar para manter a IA \"sob controle humano\", de acordo com informações da agência chinesa de notícias Xinhua. Leia mais (11/19/20",
+      "title": "TST confirma indenização a cabeleireira alvo de racismo em salão do Rio",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/tst-confirma-indenizacao-a-cabeleireira-alvo-de-racismo-em-salao-do-rio.shtml",
+      "date": "2026-11-19T13:07:00.000Z",
+      "summary": "Um salão de beleza no Rio de Janeiro foi condenado a pagar indenização de R$ 50 mil a uma cabeleireira que teve seu cabelo ridicularizado por ser crespo. A Sétima Turma do TST (Tribunal Superior do Trabalho) confirmou condenação de instâncias inferiores que en",
       "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "'GTA 6' supera recordes com 17 mi de unidades vendidas e US$ 1,5 bi arrecadado",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/tec/2026/11/gta-6-supera-recordes-com-17-mi-de-unidades-vendidas-e-us-15-bi-arrecadado.shtml",
+      "date": "2026-11-19T13:01:00.000Z",
+      "summary": "O lançamento do jogo \"GTA 6\" nesta quinta-feira (19) deve bater alguns dos principais recordes do setor. Estimativas da Sensor Tower, consultoria especializada na área, apontam que 17 milhões de unidades do game foram vendidas na pré-venda, sendo que três quar",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Camus, Sísifo e o combate ao crime organizado",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/camus-sisifo-e-o-combate-ao-crime-organizado/",
+      "date": "2026-11-19T13:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Pix é integrado a Alipay+ e WeChat, superapps chineses que somam 3 bi de usuários",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/pix-e-integrado-a-alipay-e-wechat-superapps-chineses-que-somam-3-bi-de-usuarios.shtml",
+      "date": "2026-11-19T12:59:00.000Z",
+      "summary": "As duas maiores plataformas de pagamento digital do mundo em número de usuários, o Alipay+ e o WeChat, estão integradas ao Pix. As empresas passaram a oferecer nesta semana a opção de pagamento com a tecnologia brasileira. Leia mais (11/19/2026 - 09h59)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Na China, Trump pede cautela com IA, mas rejeita regulamentação",
+      "link": "https://www.poder360.com.br/poder-internacional/na-china-trump-pede-cautela-com-ia-mas-rejeita-regulamentacao/",
+      "date": "2026-11-19T12:58:58.000Z",
+      "summary": "Presidente dos EUA diz que tecnologia tem elementos ruins, mas se opõe a medidas que possam “sufocar seu potencial”",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Dívida pública deve se estabilizar em dois ou três anos, afirma ministro do Planejamento",
+      "link": "https://g1.globo.com/politica/blog/camila-bomfim/post/2026/11/19/divida-publica-deve-se-estabilizar-em-dois-ou-tres-anos-diz-moretti.ghtml",
+      "date": "2026-11-19T12:51:49.000Z",
+      "summary": "O ministro do Planejamento, Bruno Morreti, afirmou nesta quinta-feira (19) que a dívida pública deve se estabilizar nos próximos dois ou três anos, segundo a trajetória prevista na Lei de Diretrizes Orçamentárias (LDO). Segundo ele, o governo pretende manter o",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Célia Xakriabá ironiza Bilynskyj: “Sonho do senhor é ser mulher”",
+      "link": "https://www.poder360.com.br/poder-congresso/celia-xakriaba-ironiza-bilynskyj-sonho-do-senhor-e-ser-mulher/",
+      "date": "2026-11-19T12:48:43.000Z",
+      "summary": "Deputada do Psol acusou integrante do PL de violência contra ex-companheira; ele negou e disse que registraria BO por calúnia",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Comissão aprova proposta que regulamenta a profissão de trabalhador manual",
+      "link": "https://www.camara.leg.br/noticias/1320957-comissao-aprova-proposta-que-regulamenta-a-profissao-de-trabalhador-manual",
+      "date": "2026-11-19T12:48:00.000Z",
+      "summary": "Texto poderá seguir ao Senado, caso não haja recurso para votação pelo Plenário da Câmara",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Dólar abre em alta e supera R$ 5,91 após aprovação de pacote fiscal no Senado",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/dolar-abre-em-alta-e-supera-r-591-apos-aprovacao-de-pacote-fiscal-no-senado.shtml",
+      "date": "2026-11-19T12:39:00.000Z",
+      "summary": "O dólar abriu em alta e superou R$ 5,91 nesta quinta-feira (19), após a votação do pacote fiscal apelidado de 'plano Moretti' ser concluída na noite de quarta-feira (18). Leia mais (11/19/2026 - 09h39)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Depois da vitória no Senado, líderes governistas revelam que Lula fará novo ajuste nas contas públicas",
+      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/19/depois-da-vitoria-no-senado-lideres-governistas-revelam-que-lula-fara-novo-ajuste-nas-contas-publicas.ghtml",
+      "date": "2026-11-19T12:33:37.000Z",
+      "summary": "O presidente brasileiro Luiz Inácio Lula da Silva conversa após reunião com o Conselho Nacional de Política Energética (CNPE) em Brasília, Brasil, em 6 de novembro de 2026 REUTERS/Diego Herculano Logo depois da vitória no Senado na votação do ajuste fiscal, lí",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Federação PSB e PDT terá 8ª maior bancada; veja as 10 maiores",
+      "link": "https://www.estadao.com.br/politica/federacao-psb-e-pdt-tera-8-maior-bancada-veja-as-10-maiores-nprp/",
+      "date": "2026-11-19T12:30:17.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Disputas na esquerda e direita são ensaios para os duelos pelo espólio político de Lula e Bolsonaro",
+      "link": "https://www.estadao.com.br/politica/ricardo-correa/disputas-na-esquerda-e-direita-sao-ensaios-para-os-duelos-pelo-espolio-politico-de-lula-e-bolsonaro/",
+      "date": "2026-11-19T12:30:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Veja as quatro piores propostas para equilibrar as contas do governo",
+      "link": "https://www.estadao.com.br/economia/duquesa-de-tax/quatro-piores-propostas-equilibrar-contas-governo/",
+      "date": "2026-11-19T12:30:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "100 maiores doadores das eleições de 2026 destinaram R$ 163,4 milhões a campanhas e partidos; veja quem são",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/11/19/maiores-doadores-eleicoes-2026.ghtml",
+      "date": "2026-11-19T12:27:58.000Z",
+      "summary": "Da esquerda para a direita, Pedro Grendene Bartelle, Rubens Ometto Silveira Mello, Carlos Seabra Suarez, Alexandre Grendene Bartelle e José Ricardo Rezek, os cinco maiores doadores individuais das eleições de 2026. Juntos, eles doaram R$ 29,6 milhões a candida",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Dólar abre em alta e vai a R$ 5,90",
+      "link": "https://www.poder360.com.br/poder-economia/dolar-abre-em-alta-e-vai-a-r-590/",
+      "date": "2026-11-19T12:25:09.000Z",
+      "summary": "Cotação da moeda norte-americana subia 0,61% na manhã desta 5ª feira (19.nov)",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "PGR denuncia Flávio Bolsonaro por calúnia contra Lula",
+      "link": "https://www.poder360.com.br/poder-justica/pgr-denuncia-flavio-bolsonaro-por-calunia-contra-lula/",
+      "date": "2026-11-19T12:20:40.000Z",
+      "summary": "Senador associou o presidente a Nicolás Maduro e a crimes como tráfico de drogas; caso deve ser analisado pela 1ª Turma do STF",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Projeto valida mandado de busca com erro material no endereço",
+      "link": "https://www.camara.leg.br/noticias/1308070-projeto-valida-mandado-de-busca-com-erro-material-no-endereco",
+      "date": "2026-11-19T12:18:00.000Z",
+      "summary": "Para virar lei, proposta precisa ser aprovada por deputados e senadores",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "BC e FGC tentam no STF evitar que fundo seja obrigado a socorrer o BRB",
+      "link": "https://www.estadao.com.br/economia/bc-fgc-stf-evitar-fundo-obrigado-socorrer-brb/",
+      "date": "2026-11-19T12:16:19.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Trump, Xi e Putin em encontro histórico na China: o que cada um falou e quer na cúpula",
+      "link": "https://www.bbc.com/portuguese/articles/cjvg2922e50qo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-19T12:15:29.000Z",
+      "summary": "Antes da conversa a três, Trump se reuniu separadamente com os presidentes russo e chinês. Trump chamou Putin de 'amigo' e disse que os dois têm uma 'ótima relação'.",
+      "source": "BBC News Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Presidente do Paraguai demite diretor de Itaipu após polêmica sobre depósitos de quase R$ 1 bilhão no Ueno Bank",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/19/paraguai-itaipu-ueno-presidente.ghtml",
+      "date": "2026-11-19T12:07:16.000Z",
+      "summary": "Caso Ueno Bank: Polícia tenta abrir porta blindada escondida em casa de Santiago Peña O presidente do Paraguai, Pedro Alliana, demitiu nesta quarta-feira (18) o diretor paraguaio da usina de Itaipu, Justo Zacarías, em meio à polêmica sobre depósitos milionário",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lula assina nesta quinta decreto com regras para o fim da escala 6x1",
+      "link": "https://g1.globo.com/politica/ao-vivo/lula-decreto-regras-fim-da-escala-6x1.ghtml",
+      "date": "2026-11-19T12:04:35.000Z",
+      "summary": "Lula assina nesta quinta decreto com regras para o fim da escala 6x1 Transição para a jornada 5x2 está prevista para começar em 16 de dezembro, com dois dias de folga por semana e redução da carga horária sem corte salarial. Lula deve assinar nesta quinta-feir",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Dólar abre em alta e vai a R$ 5,91, com foco no pacote fiscal e na estreia da Anthropic em Wall Street",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/19/dolar-ibovespa.ghtml",
+      "date": "2026-11-19T12:00:24.000Z",
+      "summary": "Entenda o que faz o preço do dólar subir ou cair O dólar abriu em alta nesta quinta-feira (19), véspera de feriado no Brasil. Perto das 9h20, a moeda subia 0,78%, cotada a R$ 5,9124. Já as negociações do Ibovespa, principal índice da bolsa brasileira, começam ",
+      "source": "g1",
       "cat": "economia",
       "type": "imprensa"
     },
@@ -163,15 +352,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Lula fará visita ao cacique Raoni durante viagem a Mato Grosso nesta quinta",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/19/lula-viaja-a-mato-grosso-nesta-quinta-feira-e-visita-cacique-raoni.ghtml",
-      "date": "2026-11-19T11:33:52.000Z",
-      "summary": "O presidente Luiz Inácio Lula da Silva (PT) viaja para Mato Grosso nesta quinta-feira (19), e fará uma visita ao cacique Raoni Metuktire. O líder indígena teve alta no último sábado (15), após ficar internado para tratar uma infecção pulmonar. A agenda do pres",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Israel realiza maior ofensiva terrestre na Faixa de Gaza desde o cessar-fogo",
       "link": "https://www.dw.com/pt-br/israel-realiza-maior-ofensiva-terrestre-na-faixa-de-gaza-desde-o-cessar-fogo/a-79989088?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-19T11:33:00.000Z",
@@ -181,16 +361,7 @@
       "type": "imprensa"
     },
     {
-      "title": "O fim dos compartimentos na advocacia",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/o-fim-dos-compartimentos-na-advocacia/",
-      "date": "2026-11-19T11:32:17.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Com juros altos e Congresso mais à direita, quarto mandato de Lula será mais difícil, diz The Economist",
+      "title": "O que a The Economist prevê para o quarto mandato de Lula",
       "link": "https://www.bbc.com/portuguese/articles/c85y1430dql0o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-19T11:32:08.000Z",
       "summary": "A revista descreve a vitória de Lula nas urnas como impressionante e resume assim o que espera do próximo mandato: 'Governar será mais difícil'.",
@@ -206,24 +377,6 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Vou para a rua se governo der dinheiro a clubes, diz Casagrande",
-      "link": "https://www.poder360.com.br/poder-sportsmkt/vou-para-a-rua-se-governo-der-dinheiro-a-clubes-diz-casagrande/",
-      "date": "2026-11-19T11:19:52.000Z",
-      "summary": "Ex-jogador critica pedido de ajuda financeira de clubes ao governo Lula e responsabiliza dirigentes pela crise do Corinthians",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Vitória no Senado mostra margem de negociação em momento crítico para agenda econômica",
-      "link": "https://www.estadao.com.br/politica/silvio-cascione/vitoria-no-senado-mostra-margem-de-negociacao-em-momento-critico-para-agenda-economica/",
-      "date": "2026-11-19T11:17:40.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
     },
     {
       "title": "Se a Enel vier ao mercado, temos obrigação de analisar, diz presidente da Copel",
@@ -244,102 +397,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Perdas do Ueno Bank se aproximam de US$ 1 bilhão, estima BC do Paraguai",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/perdas-do-ueno-bank-se-aproximam-de-us-1-bilhao-estima-bc-do-paraguai.shtml",
-      "date": "2026-11-19T11:05:00.000Z",
-      "summary": "O novo presidente do BCP (Banco Central do Paraguai), José Luis Schreiner, afirmou nesta quinta-feira (19) que as perdas causadas pela quebra do Ueno Bank podem chegar a cerca de US$ 1 bilhão (R$ 5,8 bilhões), no pior cenário. Leia mais (11/19/2026 - 08h05)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Governo regulamenta o fim da 6 X 1 nesta 5ª feira",
-      "link": "https://www.poder360.com.br/poder-governo/governo-regulamenta-o-fim-da-6-x-1-nesta-5a-feira/",
-      "date": "2026-11-19T11:03:34.000Z",
-      "summary": "Lula assina decreto; medida foi uma das bandeiras de campanha para a reeleição do petista",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Trump, Xi e Putin em encontro histórico na China: o que cada um falou e quer na cúpula",
-      "link": "https://www.bbc.com/portuguese/articles/cjvg2922e50qo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-19T11:02:03.000Z",
-      "summary": "Antes da conversa a três, Trump se reuniu separadamente com os presidentes russo e chinês. Trump chamou Putin de 'amigo' e disse que os dois têm uma 'ótima relação'.",
-      "source": "BBC News Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Brasil é 3º entre países com maior exposição frequente a tentativas de golpe, aponta pesquisa",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/brasil-e-3o-entre-paises-com-maior-exposicao-frequente-a-tentativas-de-golpe-aponta-pesquisa.shtml",
-      "date": "2026-11-19T11:01:00.000Z",
-      "summary": "O Brasil aparece empatado na terceira posição entre 42 países na proporção de adultos que afirmam receber tentativas de golpe várias vezes ao dia, segundo relatório global da GASA (Aliança Global Antigolpes) divulgado nesta quinta-feira (19). 17% dos brasileir",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Conselho da ANPD rejeita recurso e mantém suspensas transmissões ao vivo do Discord no Brasil",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/19/conselho-da-anpd-rejeita-recurso-e-mantem-suspensas-transmissoes-ao-vivo-do-discord-no-brasil.ghtml",
-      "date": "2026-11-19T11:00:00.000Z",
-      "summary": "Conselho da ANPD rejeita recurso e mantém suspensas transmissões ao vivo do Discord no Brasil O Conselho Diretor da Agência Nacional de Proteção de Dados (ANPD) rejeitou um recurso do Discord e manteve suspensas no Brasil as transmissões ao vivo pela plataform",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Perdas do Ueno Bank se aproximam de US$ 1 bilhão, segundo Banco Central do Paraguai",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/19/perdas-do-ueno-bank-se-aproximam-de-us-1-bilhao-segundo-banco-central.ghtml",
-      "date": "2026-11-19T10:39:16.000Z",
-      "summary": "O Escândalo do banco Ueno no Paraguai As perdas causadas pela quebra do banco paraguaio Ueno podem chegar a cerca de US$ 1 bilhão (R$ 5,8 bilhões), no pior cenário, estimou o novo presidente do Banco Central do Paraguai (BCP), Jorge Luis Schreiner, em entrevis",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "“Precisamos de socorro do governo”, diz presidente do Corinthians",
-      "link": "https://www.poder360.com.br/poder-sportsmkt/precisamos-de-socorro-do-governo-diz-presidente-do-corinthians/",
-      "date": "2026-11-19T10:34:15.000Z",
-      "summary": "Osmar Stabile cita quase R$ 500 milhões em contratos afetados pela proibição das casas de apostas",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Musk diz que não é “Maga” e se arrepende de gastos eleitorais",
-      "link": "https://www.poder360.com.br/poder-internacional/musk-diz-que-nao-e-maga-e-se-arrepende-de-gastos-eleitorais/",
-      "date": "2026-11-19T10:32:04.000Z",
-      "summary": "Após se declarar “Maga das trevas” em 2024, dono da SpaceX diz não saber exatamente o que significa o movimento pró-Trump",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Recorde da Anthropic em estreia na bolsa de valores conseguirá impedir o estouro da bolha da IA?",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/19/recorde-da-anthropic-em-estreia-na-bolsa-de-valores-conseguira-impedir-o-estouro-da-bolha-da-ia.ghtml",
-      "date": "2026-11-19T10:25:04.000Z",
-      "summary": "Por que tanta gente está falando do Claude? Conheça a IA mais perigosa do mundo Foi em novembro de 2020 que, em algum lugar de São Francisco, nos Estados Unidos, uma mulher chamada Daniela Amodei telefonou para uma amiga, pedindo conselhos. Daniela supervision",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Anthropic estreia na bolsa com avaliação de US$ 1,5 trilhão",
       "link": "https://www.dw.com/pt-br/anthropic-estreia-na-bolsa-com-avaliação-de-us-1-5-trilhão/a-79989133?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-19T10:18:00.000Z",
       "summary": "Empresa de inteligência artificial que criou o Claude captou 81,3 bilhões de dólares em IPO, superando a estreia da SpaceX no mercado. Ação ocorre em momento desafiador para empresas de tecnologia.",
       "source": "DW Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Eurofarma leva Dermage ao Chile e amplia operação externa",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/eurofarma-leva-dermage-ao-chile-e-amplia-operacao-externa.shtml",
-      "date": "2026-11-19T10:00:00.000Z",
-      "summary": "A Eurofarma está levando a Dermage, marca de dermocosméticos que adquiriu em março de 2025, ao Chile, surfando a onda de popularidade dos produtos de skincare na América Latina. Leia mais (11/19/2026 - 07h00)",
-      "source": "Folha",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -352,39 +415,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Lula 4: aliada de Múcio cotada para assumir Defesa tem apoio de militares e resistência de ala do PT",
-      "link": "https://www.estadao.com.br/politica/lula-4-principal-cotada-para-assumir-defesa-tem-apoio-de-militares-e-resistencia-de-ala-do-pt/",
-      "date": "2026-11-19T08:30:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Distratos, calotes e estoques maiores chacoalham balanços das incorporadoras",
-      "link": "https://www.estadao.com.br/economia/distratos-calotes-e-estoques-maiores-chacoalham-balancos-das-incorporadoras/",
-      "date": "2026-11-19T08:30:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Recorde da Anthropic em estreia na bolsa conseguirá impedir o estouro da bolha da IA?",
       "link": "https://www.bbc.com/portuguese/articles/cm782wyv0153o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-19T08:28:25.000Z",
       "summary": "O preço inicial da ação será de US$ 83 quando começar a ser negociada nesta quinta-feira. Com esse preço, o valor de mercado da Anthropic é estimado em US$ 1,5 trilhão.",
       "source": "BBC News Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "É #FAKE que MP do 'imposto do pecado' aumentará em 30% carga tributária sobre carros em 2027",
-      "link": "https://g1.globo.com/fato-ou-fake/noticia/2026/11/19/e-fake-que-mp-do-imposto-do-pecado-aumentara-em-30percent-carga-tributaria-sobre-carros-em-2027.ghtml",
-      "date": "2026-11-19T08:00:00.000Z",
-      "summary": "Valor de 30% não é um aumento porcentual sobre o impost oatual, nem a taxa que incidiará sobre todos os veículos g1 Circulam nas redes publicações sugerindo que o Imposto Seletivo (IS), conhecido como \"imposto do pecado\", aumentará em 30% a carga tributária so",
-      "source": "g1",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -406,24 +442,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Machado de Xangô, crucifixos e Cristo de madeira: veja símbolos religiosos já instalados nas sedes dos Três Poderes, em Brasília",
-      "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/19/machado-de-xango-crucifixos-e-cristo-de-madeira-veja-simbolos-religiosos-ja-instalados-nas-sedes-dos-tres-poderes-em-brasilia.ghtml",
-      "date": "2026-11-19T05:00:02.000Z",
-      "summary": "Machado de Xangô, crucifixos e Cristo na cruz: veja símbolos religiosos já instalados nas sedes dos Três Poderes, em Brasília Montagem/g1 Símbolos de diferentes tradições religiosas estão presentes nas sedes dos Três Poderes, em Brasília. Crucifixos, uma escul",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Ajuste fiscal: Moretti diz que texto aprovado pelo Senado preserva políticas sociais essenciais em 2027",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/19/ajuste-fiscal-moretti-diz-que-texto-aprovado-pelo-senado-preserva-politicas-sociais-essenciais-em-2027.ghtml",
-      "date": "2026-11-19T03:00:00.000Z",
-      "summary": "Bruno Moretti, ministro do Planejamento e Orçamento Edilson Rodrigues/Agência Senado O ministro do Planejamento, Bruno Moretti, disse nesta quarta-feira (18) que o pacote fiscal aprovado pelo Senado manteve a essência da proposta do governo de equilibrar as co",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Com novas funções, 'supersecretária' de Tarcísio promete fortalecer controle de concessões",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/com-novas-funcoes-supersecretaria-de-tarcisio-promete-fortalecer-controle-de-concessoes.shtml",
       "date": "2026-11-19T02:00:00.000Z",
@@ -433,65 +451,11 @@
       "type": "imprensa"
     },
     {
-      "title": "PSB e PDT oficializam federação; João Campos será o presidente da união entre os partidos",
-      "link": "https://www.estadao.com.br/politica/psd-e-pdt-oficializam-federacao-joao-campos-sera-o-presidente-da-uniao-entre-os-partidos-nprp/",
-      "date": "2026-11-19T00:54:47.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Proposta de ajuste fiscal entra na pauta de sessão extraordinária da Câmara na próxima segunda-feira",
       "link": "https://www.camara.leg.br/noticias/1320935-proposta-de-ajuste-fiscal-entra-na-pauta-de-sessao-extraordinaria-da-camara-na-proxima-segunda-feira",
       "date": "2026-11-19T00:50:00.000Z",
       "summary": "Anúncio foi feito em Buenos Aires pelo presidente da Câmara, Hugo Motta; ele destacou a maturidade e a solidez da democracia brasileira",
       "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Empresa de genro de Trump investe US$ 33,5 milhões no Nubank",
-      "link": "https://www.estadao.com.br/economia/negocios/empresa-de-genro-de-trump-investe-us-335-milhoes-no-nubank/",
-      "date": "2026-11-19T00:44:18.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Vai à sanção prazo maior para pedir reparação por crime sexual na infância",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/18/prazo-maior-para-pedir-reparacao-por-crime-sexual-na-infancia-vai-a-sancao",
-      "date": "2026-11-18T23:59:50.000Z",
-      "summary": "O Plenário do Senado aprovou nesta quarta-feira (18), em regime de urgência, projeto de lei da Câmara dos Deputados que fixa em 20 anos o prazo para recorrer à Justiça para pedir reparação civil por crimes sexuais sofridos na infância ou adolescência. Aprovado",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Senador Paulo Paim será homenageado em sessão especial",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/18/senador-paulo-paim-sera-homenageado-em-sessao-especial",
-      "date": "2026-11-18T23:56:49.000Z",
-      "summary": "O Senador Paulo Paim (PT-RS), que se despede do Senado no início de 2027, após 40 anos como parlamentar, será homenageado em sessão do Senado. O requerimento para a homenagem (RQS 794/2026), apresentado pelo senador Alessandro Vieira (MDB-SE), foi aprovado nes",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Aprovadas regras de uso compartilhado de postes; texto vai à sanção",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/18/aprovadas-regras-de-uso-compartilhado-de-postes-texto-vai-a-sancao",
-      "date": "2026-11-18T23:55:29.000Z",
-      "summary": "O Plenário aprovou nesta quarta-feira (18) o projeto que cria regras para o compartilhamento de postes entre distribuidoras de energia e empresas de telecomunicações (PL 3.220/2019). O relator, senador Esperidião Amin (PP-SC), manteve a maior parte das mudança",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Senado aprova férias escolares flexíveis para Copa do Mundo de 2027",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/18/senado-aprova-calendario-escolar-flexivel-para-copa-do-mundo-de-2027",
-      "date": "2026-11-18T23:39:09.000Z",
-      "summary": "O Senado aprovou nesta quarta-feira (18) projeto de lei que permite aos sistemas de ensino decidirem se ajustam ou não o calendário escolar por conta da Copa do Mundo Feminina de 2027, que será no Brasil de 24 de junho a 25 de julho. O PL 3.481/2026 retira a o",
-      "source": "Agência Senado",
       "cat": "politica",
       "type": "oficial"
     },
@@ -514,24 +478,6 @@
       "type": "oficial"
     },
     {
-      "title": "Especialistas apresentam alertas a favor e contra a redução da maioridade penal",
-      "link": "https://www.camara.leg.br/noticias/1320869-especialistas-apresentam-alertas-a-favor-e-contra-a-reducao-da-maioridade-penal",
-      "date": "2026-11-18T22:40:00.000Z",
-      "summary": "Comissão que analisa a PEC se reuniu nesta quarta-feira",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Jetour produzirá T1 e T2 no RJ, mas não confirma compra de fábrica da Land Rover",
-      "link": "https://www.estadao.com.br/jornal-do-carro/jetour-produzira-t1-e-t2-no-rj-mas-nao-confirma-compra-de-fabrica-da-land-rover/",
-      "date": "2026-11-18T22:15:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "EUA e Venezuela assinam acordo de cooperação militar",
       "link": "https://www.dw.com/pt-br/eua-e-venezuela-assinam-acordo-de-cooperação-militar/a-79986275?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-18T22:03:00.000Z",
@@ -539,15 +485,6 @@
       "source": "DW Brasil",
       "cat": "internacional",
       "type": "imprensa"
-    },
-    {
-      "title": "TCU identifica falhas no monitoramento dos resultados das políticas públicas do governo",
-      "link": "https://www.camara.leg.br/noticias/1320816-tcu-identifica-falhas-no-monitoramento-dos-resultados-das-politicas-publicas-do-governo",
-      "date": "2026-11-18T20:55:00.000Z",
-      "summary": "Relatório também aponta desigualdade entre estados e regiões na implementação de programas",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
     },
     {
       "title": "Câmara dos EUA deverá ter 1º presidente negro após indicação do Partido Democrata",
@@ -568,12 +505,30 @@
       "type": "imprensa"
     },
     {
+      "title": "Cannes Lions aproxima marcas e agências em imersão executiva em São Paulo",
+      "link": "https://www.estadao.com.br/economia/negocios/cannes-lions-aproxima-marcas-agencias-imersao-executiva/",
+      "date": "2026-11-18T19:24:18.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "O impacto do ataque à Ponte da Crimeia na guerra na Ucrânia",
       "link": "https://www.dw.com/pt-br/o-impacto-do-ataque-à-ponte-da-crimeia-na-guerra-na-ucrânia/a-79985782?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-18T19:18:00.000Z",
       "summary": "Operação militar causou graves danos à estrutura que liga a península à Rússia. Além de dificultar logística do exército de Moscou, ofensiva prejudica imagem do líder do Kremlin.",
       "source": "DW Brasil",
       "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Andrei justifica afastamento de delegados da PF do caso Master: ‘Houve quebra de confiança’",
+      "link": "https://www.estadao.com.br/politica/andrei-justifica-afastamento-de-delegados-da-pf-do-caso-master-houve-quebra-de-confianca/",
+      "date": "2026-11-18T18:45:33.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -705,7 +660,6 @@
   ],
   "errors": [
     "feed CNN Brasil: HTTP 404",
-    "feed CNN Brasil: HTTP 404",
-    "feed Planalto (governo): HTTP 429"
+    "feed CNN Brasil: HTTP 404"
   ]
 }
