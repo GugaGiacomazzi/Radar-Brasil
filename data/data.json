@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-19T17:52:11.769Z",
+  "updated": "2026-11-19T18:55:19.169Z",
   "market": {
     "ibov": {
-      "price": 166560.69,
-      "pct": -0.58,
-      "time": "2026-11-19T17:52:06.946Z",
+      "price": 166409.69,
+      "pct": -0.67,
+      "time": "2026-11-19T18:55:11.791Z",
       "history": [
         {
           "d": "2026-10-20",
@@ -92,7 +92,7 @@
         },
         {
           "d": "2026-11-19",
-          "c": 166496.9375
+          "c": 166438.2656
         }
       ]
     },
@@ -149,6 +149,204 @@
   },
   "news": [
     {
+      "title": "Capital de giro sustenta demanda das empresas por empréstimos",
+      "link": "https://www.poder360.com.br/poder-economia/capital-de-giro-sustenta-demanda-das-empresas-por-emprestimos/",
+      "date": "2026-11-19T18:53:47.000Z",
+      "summary": "Pesquisa do BC mostra que necessidade de investimentos em ativos fixos tem efeito negativo sobre a procura por crédito",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "iFood informa vazamento de dados de clientes, entregadores e restaurantes",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/ifood-informa-vazamento-de-dados-de-clientes-entregadores-e-restaurantes.shtml",
+      "date": "2026-11-19T18:47:00.000Z",
+      "summary": "O iFood informou nesta quinta-feira (19) que dados cadastrais de clientes, entregadores e restaurantes parceiros foram acessados indevidamente no último dia 14 de novembro. Leia mais (11/19/2026 - 15h47)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "BC erra ao intervir na cotação do dólar, diz ex-chefe de departamento da autarquia",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/bc-erra-ao-intervir-na-cotacao-do-dolar-diz-ex-chefe-de-departamento-da-autarquia.shtml",
+      "date": "2026-11-19T18:45:00.000Z",
+      "summary": "O ex-chefe do departamento de mercado aberto do Banco Central, Sérgio Goldstein, avalia que o órgão errou ao intervir no mercado de câmbio nesta quinta-feira (19), e diz que a alta do dólar nos últimos dias é decorrência da \"inércia\" do presidente Lula de defi",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Comissão aprova medidas contra discriminação de pessoas com HIV no trabalho",
+      "link": "https://www.camara.leg.br/noticias/1321144-comissao-aprova-medidas-contra-discriminacao-de-pessoas-com-hiv-no-trabalho",
+      "date": "2026-11-19T18:44:00.000Z",
+      "summary": "Proposta ainda será analisada pela CCJ da Câmara antes de ir para o Senado",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Depois do fim da 6 X 1, Lula reafirma promessa de aumentar gasto social",
+      "link": "https://www.poder360.com.br/poder-governo/depois-do-fim-da-6-x-1-lula-reafirma-promessa-de-aumentar-gasto-social/",
+      "date": "2026-11-19T18:39:03.000Z",
+      "summary": "Presidente retomou propostas de transporte coletivo gratuito aos fins de semana e de criação de um ministério para idosos",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Reforma do Judiciário tem que ser feita com a cabeça, não com o fígado, diz presidente do STJ",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/reforma-do-judiciario-tem-que-ser-feita-com-a-cabeca-nao-com-o-figado-diz-presidente-do-stj.shtml",
+      "date": "2026-11-19T18:36:00.000Z",
+      "summary": "O presidente do STJ (Superior Tribunal de Justiça), Luis Felipe Salomão, afirmou nesta quinta-feira (19) que uma reforma do Judiciário \"tem que ser feita com a cabeça, não com o fígado\", e que não vê ameaças de retrocesso democrático com a iniciativa. Leia mai",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Wellington Dias deixa o Ministério do Desenvolvimento Social",
+      "link": "https://www.poder360.com.br/poder-governo/wellington-dias-deixa-o-ministerio-do-desenvolvimento-social/",
+      "date": "2026-11-19T18:35:07.000Z",
+      "summary": "Saída foi oficializada em edição extra do Diário Oficial da União; tem mandato no Senado por mais 4 anos",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Trump comprou até US$ 265 mil em ações da Nvidia enquanto governo avaliava regras para chips",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/19/trump-acoes-nvidia.ghtml",
+      "date": "2026-11-19T18:34:26.000Z",
+      "summary": "Escândalo de espionagem envolvendo a Nvidia chega ao alto escalão do governo Trump O presidente dos Estados Unidos, Donald Trump, comprou até US$ 265 mil (R$ 1,57 milhão) em ações da Nvidia em setembro e vendeu até US$ 15 mil em papéis da empresa no mesmo mês,",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lula exonera ministro do Desenvolvimento Social a pedido",
+      "link": "https://www.estadao.com.br/politica/lula-exonera-ministro-do-desenvolvimento-social-a-pedido-nprp/",
+      "date": "2026-11-19T18:26:11.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Comissão de Saúde debate roubos e furtos de canetas emagrecedoras",
+      "link": "https://www.camara.leg.br/noticias/1320979-comissao-de-saude-debate-roubos-e-furtos-de-canetas-emagrecedoras",
+      "date": "2026-11-19T18:21:00.000Z",
+      "summary": "Audiência pública discutirá impactos econômicos, sanitários e de segurança causados pelo mercado ilegal desses medicamentos",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "O que está por trás do acirramento da disputa entre Airbus e Boeing",
+      "link": "https://www.dw.com/pt-br/o-que-está-por-trás-do-acirramento-da-disputa-entre-airbus-e-boeing/a-79993144?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-19T18:21:00.000Z",
+      "summary": "EUA dizem que financiamento recorde de 3 bilhões de euros para empresa europeia ameaça trégua transatlântica sobre subsídios ao setor aéreo. UE insiste estar agindo em conformidade com as regras de mercado.",
+      "source": "DW Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Visa, Mastercard e JPMorgan dizem que fornecedores foram alvo de ataque cibernético",
+      "link": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/11/19/instituicoes-financeiras-ataque-cibernetico.ghtml",
+      "date": "2026-11-19T18:15:51.000Z",
+      "summary": "Visa e Mastercard dizem que ataque cibernético não afetou clientes. REUTERS / Dado Ruvic O JPMorgan Chase, maior banco dos Estados Unidos, informou nesta quinta-feira (19) que empresas que prestam serviços à instituição foram alvo de um ataque cibernético. Vis",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Comissão aprova medida para garantir acessibilidade de idosos em atividades esportivas",
+      "link": "https://www.camara.leg.br/noticias/1321181-comissao-aprova-medida-para-garantir-acessibilidade-de-idosos-em-atividades-esportivas",
+      "date": "2026-11-19T18:13:00.000Z",
+      "summary": "Proposta segue em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Justiça autoriza Senado a retomar gasto de R$ 6 milhões com iPhones e celulares para parlamentares",
+      "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/19/justica-autoriza-senado-a-retomar-licitacao-de-r-6-milhoes-para-comprar-iphones-para-parlamentares.ghtml",
+      "date": "2026-11-19T18:09:32.000Z",
+      "summary": "Sadi diz que compra de celulares no Senado 'é escárnio com o dinheiro público' A Justiça Federal autorizou nesta quinta-feira (19) a retomada da licitação do Senado que prevê gasto de até R$ 6 milhões com linhas telefônicas e celulares, incluindo iPhones, para",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Van Hattem diz que pode virar réu e ser preso por fala na Câmara",
+      "link": "https://www.poder360.com.br/poder-justica/van-hattem-diz-que-pode-virar-reu-e-ser-preso-por-fala-na-camara/",
+      "date": "2026-11-19T18:09:10.000Z",
+      "summary": "Deputado foi denunciado pela PGR por criticar delegado da Polícia Federal; caso vai para plenário virtual da 1ª Turma do STF",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Comissão aprova regras de prevenção e enfrentamento ao bullying e ao cyberbullying",
+      "link": "https://www.camara.leg.br/noticias/1321149-comissao-aprova-regras-de-prevencao-e-enfrentamento-ao-bullying-e-ao-cyberbullying",
+      "date": "2026-11-19T18:09:00.000Z",
+      "summary": "O projeto continua em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Comissão especial pode votar parecer sobre ampliação do limite de faturamento para o MEI",
+      "link": "https://www.camara.leg.br/noticias/1321031-comissao-especial-pode-votar-parecer-sobre-ampliacao-do-limite-de-faturamento-para-o-mei",
+      "date": "2026-11-19T18:07:00.000Z",
+      "summary": "",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Maioria dos brasileiros deixaria IA comparar preços, mas só 7% autorizariam a pagar sozinha",
+      "link": "https://www.estadao.com.br/economia/maioria-brasileiros-ia-comparar-precos-pagar-sozinha/",
+      "date": "2026-11-19T18:06:03.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Comissão aprova custeio pela empresa de cursos obrigatórios para profissionais da segurança privada",
+      "link": "https://www.camara.leg.br/noticias/1321040-comissao-aprova-custeio-pela-empresa-de-cursos-obrigatorios-para-profissionais-da-seguranca-privada",
+      "date": "2026-11-19T18:03:00.000Z",
+      "summary": "Proposta segue em análise na Câmara",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "iFood sofre ataque hacker que expõe dados de clientes, entregadores e representantes de restaurantes",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/19/ifood-sofre-invasao-que-expoe-dados-de-clientes-entregadores-e-representantes-de-restaurantes.ghtml",
+      "date": "2026-11-19T18:00:00.000Z",
+      "summary": "Entregador de aplicativo com bag do iFood. Celso Tavares/G1 O iFood informou nesta quinta-feira (19) que criminosos invadiram seus sistemas e acessaram dados de clientes, representantes de restaurantes e entregadores. Ao g1, a empresa disse que ainda investiga",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Crise no Supremo tem origem na atividade de juízes empresários",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/blogs/frederico-vasconcelos/2026/11/crise-no-supremo-tem-origem-na-atividade-de-juizes-empresarios.shtml",
+      "date": "2026-11-19T18:00:00.000Z",
+      "summary": "Alexandre de Moraes, Dias Toffoli, Kassio Nunes Marques, Gilmar Mendes, Luiz Fux e André Mendonça poderão ficar mais expostos se novos documentos reforçarem a promiscuidade de ministros do Supremo Tribunal Federal com o ex-banqueiro Daniel Vorcaro. Leia mais (",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Empresas do setor financeiro do Reino Unido terão de reforçar segurança digital",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/empresas-do-setor-financeiro-do-reino-unido-terao-de-reforcar-seguranca-digital.shtml",
+      "date": "2026-11-19T17:59:00.000Z",
+      "summary": "Empresas do setor financeiro devem reforçar suas defesas contra ataques cibernéticos e criar sistemas de backup em nível de hardware, separados da internet. As recomendações foram feitas por reguladores do Reino Unido, que alertaram para um aumento de 50% nas ",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "Ministros do STM gastam R$ 1 milhão em viagem de 15 dias ao Japão e pernoites em Dubai",
       "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/ministros-do-stm-gastam-r-1-milhao-em-viagem-de-15-dias-ao-japao-e-pernoites-em-dubai/",
       "date": "2026-11-19T17:43:16.000Z",
@@ -176,15 +374,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Copel é privada e não sofrerá interferência de governos, diz CEO",
-      "link": "https://www.poder360.com.br/poder-energia/copel-e-privada-e-nao-sofrera-interferencia-de-governos-diz-ceo/",
-      "date": "2026-11-19T17:36:09.000Z",
-      "summary": "Daniel Slaviero apresentou plano de investimentos da companhia para investidores na Bolsa de Valores de Nova York",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Fim da escala 6x1 aumenta a hora extra; veja tabela com novos valores",
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/fim-da-escala-6x1-aumenta-a-hora-extra-veja-tabela-com-novos-valores.shtml",
       "date": "2026-11-19T17:36:00.000Z",
@@ -194,19 +383,10 @@
       "type": "imprensa"
     },
     {
-      "title": "Fachin nega pedido de liberdade e mantém primo de Vorcaro preso",
-      "link": "https://www.poder360.com.br/poder-justica/fachin-nega-pedido-de-liberdade-e-mantem-primo-de-vorcaro-preso/",
-      "date": "2026-11-19T17:33:41.000Z",
-      "summary": "Na decisão, o presidente do Supremo argumenta que a prisão preventiva de Felipe Vorcaro segue “adequada e indispensável”",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Lula exonera Wellington Dias, ministro do Desenvolvimento Social",
       "link": "https://g1.globo.com/politica/noticia/2026/11/19/lula-exonera-wellington-dias-ministro-do-desenvolvimento-social.ghtml",
       "date": "2026-11-19T17:32:20.000Z",
-      "summary": "Ministro do Desenvolvimento Social Wellington Dias ao lado do presidente Lula Evaristo Sá/AFP O presidente Luiz Inácio Lula da Silva (PT) exonerou o Wellington Dias do cargo de ministro do Desenvolvimento Social. A exoneração foi publicada no Diário Oficial da",
+      "summary": "Ministro do Desenvolvimento Social Wellington Dias ao lado do presidente Lula Evaristo Sá/AFP O presidente Luiz Inácio Lula da Silva (PT) exonerou o Wellington Dias do cargo de ministro do Desenvolvimento e Assistência Social, Família e Combate à Fome (MDS). A",
       "source": "g1",
       "cat": "politica",
       "type": "imprensa"
@@ -230,24 +410,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Empresas dos EUA recorrem a robôs para enfrentar falta de mão de obra",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/empresas-dos-eua-recorrem-a-robos-para-enfrentar-falta-de-mao-de-obra.shtml",
-      "date": "2026-11-19T17:22:00.000Z",
-      "summary": "Empresas americanas correm para instalar mais robôs industriais em fábricas e armazéns, enquanto o aumento dos custos e o agravamento da escassez de mão de obra ameaçam sufocar um incipiente avanço da indústria manufatureira dos Estados Unidos. Leia mais (11/1",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Ao vivo: STF julga dispensa de honorários em acordos fiscais",
-      "link": "https://www.poder360.com.br/poder-congresso/ao-vivo-stf-julga-dispensa-de-honorarios-em-acordos-fiscais/",
-      "date": "2026-11-19T17:18:50.000Z",
-      "summary": "OAB contesta leis que livram devedores de pagar advogados em parcelamentos",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Anthropic entra para grupo das empresas mais valiosas do mundo; veja ranking",
       "link": "https://g1.globo.com/economia/noticia/2026/11/19/anthropic-valor-de-mercado.ghtml",
       "date": "2026-11-19T17:16:05.000Z",
@@ -266,69 +428,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Entidades apresentam dados alarmantes na Câmara sobre fim da escala 6x1",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/entidades-apresentam-dados-alarmantes-na-camara-sobre-fim-da-escala-6x1.shtml",
-      "date": "2026-11-19T17:13:00.000Z",
-      "summary": "Associações setoriais apresentaram na Câmara dos Deputados, nesta quinta-feira (19), dados alarmantes, que expressam o temor das empresas de incapacidade de aplicação da nova escala de trabalho, após o fim da 6x1. Entidades de alguns setores mostram estudos so",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Copel vê nova era para hidrelétricas com avanço da energia solar e eólica",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/infraestrutura/2026/11/copel-ve-nova-era-para-hidreletricas-com-avanco-da-energia-solar-e-eolica.shtml",
-      "date": "2026-11-19T17:12:00.000Z",
-      "summary": "O avanço acelerado da geração solar e eólica no Brasil ampliou as oportunidades de negócios para o setor mais tradicional da geração de energia no país, o das hidrelétricas. Essa perspectiva foi a tônica da apresentação do Copel Day, encontro de executivos da ",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Manifestantes jogam cinzas em comissário europeu em protesto contra agrotóxicos; VÍDEO",
-      "link": "https://g1.globo.com/saude/noticia/2026/11/19/manifestantes-jogam-cinzas-em-comissario-europeu-em-protesto-contra-agrotoxicos-video.ghtml",
-      "date": "2026-11-19T17:11:29.000Z",
-      "summary": "Pacientes de câncer jogam cinzas em autoridade em protesto contra pesticidas na Europa Dois manifestantes jogaram um pó cinza contra o comissário europeu da Saúde, Olivér Várhelyi, durante a Cúpula Europeia do Câncer, em Bruxelas, nesta quinta-feira (19). O pr",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Setor de mineração articula apoio para aliado de Alckmin chefiar ANM",
-      "link": "https://www.poder360.com.br/poder-infra/setor-de-mineracao-articula-apoio-para-aliado-de-alckmin-chefiar-anm/",
-      "date": "2026-11-19T17:10:01.000Z",
-      "summary": "Nome de Pedro Guerra, chefe de gabinete da vice-presidência, ganha força e pode ser indicado para cargo de diretor-geral",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Comissão aprova projeto que obriga empresas a informarem resultado de processo seletivo aos candidatos",
-      "link": "https://www.camara.leg.br/noticias/1320999-comissao-aprova-projeto-que-obriga-empresas-a-informarem-resultado-de-processo-seletivo-aos-candidatos",
-      "date": "2026-11-19T17:00:00.000Z",
-      "summary": "A proposta continua em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Projeto obriga empresas de segurança privada a pagar por cursos e capacitação de vigilantes",
-      "link": "https://www.camara.leg.br/noticias/1321038-projeto-obriga-empresas-de-seguranca-privada-a-pagar-por-cursos-e-capacitacao-de-vigilantes",
-      "date": "2026-11-19T16:59:00.000Z",
-      "summary": "Proposta proíbe o repasse de custos ao trabalhador e garante remuneração integral durante cursos de capacitação",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Anthropic abre a US$ 111,50 por ação, alta de 34,3%; valor da empresa chega a US$ 2 trilhões",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/19/acoes-anthropic-nasdaq.ghtml",
-      "date": "2026-11-19T16:51:36.000Z",
-      "summary": "Anthropic estreia na bolsa avaliada em US$ 1,5 trilhão As ações da Anthropic, empresa americana responsável pelo desenvolvimento do assistente de inteligência artificial Claude, estrearam na bolsa Nasdaq nesta quinta-feira (19), sob o código ANT. No primeiro n",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "IFI alerta que 'bondades' de Lula na eleição apertam máquina pública e pede ajuste 'profundo'",
       "link": "https://g1.globo.com/economia/noticia/2026/11/19/orgao-do-senado-alerta-que-bondades-de-lula-nas-eleicoes-apertam-maquina-publica-e-pede-ajuste-fiscal-profundo.ghtml",
       "date": "2026-11-19T16:37:06.000Z",
@@ -336,42 +435,6 @@
       "source": "g1",
       "cat": "politica",
       "type": "imprensa"
-    },
-    {
-      "title": "Pacaembu tem operação de R$ 515 mi frustrada e dona de concessionária pede Recuperação Extrajudicial",
-      "link": "https://www.estadao.com.br/esportes/futebol/pacaembu-tem-operacao-de-r-515-mi-frustrada-e-dona-de-concessionaria-pede-recuperacao-extrajudicial/",
-      "date": "2026-11-19T16:30:27.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Salles na Justiça é escárnio de Tarcísio com São Paulo",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/marcosaugustogoncalves/2026/11/salles-na-justica-e-escarnio-de-tarcisio-com-sao-paulo.shtml",
-      "date": "2026-11-19T16:23:00.000Z",
-      "summary": "Tarcísio de Freitas gosta de se apresentar como um administrador competente, moderado e preocupado com critérios técnicos. Nada disso se sustenta diante da escolha de Ricardo Salles para a Secretaria da Justiça e Cidadania de São Paulo. Trata-se de um escárnio",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Na CMO, debatedores defendem recursos permanentes para proteção animal",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/19/na-cmo-debatedores-defendem-recursos-permanentes-para-protecao-animal",
-      "date": "2026-11-19T16:19:12.000Z",
-      "summary": "A Comissão Mista de Orçamento (CMO) debateu, nesta quinta-feira (19), alternativas para garantir recursos no Orçamento da União de 2027 destinados ao Programa Nacional de Proteção e Manejo Populacional Ético de Cães e Gatos (ProPatinhas) e ao fortalecimento do",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Comissão debate dados sobre violência sexual contra crianças e adolescentes",
-      "link": "https://www.camara.leg.br/noticias/1320990-comissao-debate-dados-sobre-violencia-sexual-contra-criancas-e-adolescentes",
-      "date": "2026-11-19T16:15:00.000Z",
-      "summary": "",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
     },
     {
       "title": "Ministro afirma que pacote fiscal dará segurança ao mercado, mas admite possíveis novas medidas para cumprir metas",
@@ -383,39 +446,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Comissão convoca ministro para explicar a crise financeira do Itamaraty",
-      "link": "https://www.camara.leg.br/noticias/1321063-comissao-convoca-ministro-para-explicar-a-crise-financeira-do-itamaraty",
-      "date": "2026-11-19T16:00:00.000Z",
-      "summary": "Ainda não foi definida data para o comparecimento do ministro",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
       "title": "Quase uma em cada quatro crianças no mundo vivem em áreas de conflito",
       "link": "https://www.dw.com/pt-br/quase-uma-em-cada-quatro-crianças-no-mundo-vivem-em-áreas-de-conflito/a-79991426?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-19T15:58:00.000Z",
       "summary": "Relatório da Save the Children aponta recorde de 589 milhões de crianças vivendo em zonas de conflito. Enquanto mortes, sequestros e ataques aumentam, bloqueios à ajuda humanitária batem níveis sem precedentes.",
       "source": "DW Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Câmara de SP aponta R$ 5 bi em dívidas renegociadas desde 2025",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/camara-de-sp-diz-que-fiscalizacao-rendeu-mais-de-r-5-bi-em-dividas-renegociadas.shtml",
-      "date": "2026-11-19T15:58:00.000Z",
-      "summary": "A Câmara Municipal de São Paulo afirma ter obtido acordos bilionários em benefícios aos cofres públicos em suas ações de fiscalizações entre 2025 e 2026. Leia mais (11/19/2026 - 12h58)",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Fachin autoriza PF a acessar documentos de empresa de serviço de luxo relacionados a viagens pagas por Vorcaro",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/19/fachin-autoriza-pf-a-acessar-documentos-de-empresa-de-servicos-de-luxo-sobre-viagens-pagas-por-vorcaro.ghtml",
-      "date": "2026-11-19T15:48:58.000Z",
-      "summary": "O presidente do Supremo Tribunal Federal (STF), Edson Fachin, autorizou nesta quinta-feira (19) a Polícia Federal a acessar a íntegra de documentos da empresa Signature Luxury Services relacionados viagens pagas pelo ex-banqueiro Daniel Vorcaro, do Master. Com",
-      "source": "g1",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -428,21 +464,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Avaliada em R$ 8,8 tri, Anthropic bate recorde em estreia na bolsa: empresa pode evitar o estouro da bolha da IA?",
+      "title": "Anthropic dispara na estreia na bolsa e chega a valer R$ 11 trilhões: empresa pode evitar estouro da bolha da IA?",
       "link": "https://www.bbc.com/portuguese/articles/cm782wyv0153o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-19T14:39:39.000Z",
-      "summary": "As ações foram oferecidas a US$ 83 cada. Quando começaram a ser negociadas na Nasdaq, porém, os papéis chegaram a US$ 110, uma alta de mais de 30% em relação ao preço da oferta.",
+      "summary": "Ações começaram a ser negociadas com alta de 34%, mas recuaram depois, de US$ 111,50 para cerca de US$ 100.",
       "source": "BBC News Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Lula assina decreto que regulamenta fim da escala 6x1 em meio a disputa no STF",
-      "link": "https://www.estadao.com.br/economia/lula-assina-decreto-que-regulamenta-fim-da-escala-6x1-em-meio-a-disputa-no-stf/",
-      "date": "2026-11-19T14:38:57.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -453,24 +480,6 @@
       "source": "DW Brasil",
       "cat": "internacional",
       "type": "imprensa"
-    },
-    {
-      "title": "Comissão aprova porte de arma para agentes socioeducativos e oficiais de Justiça",
-      "link": "https://www.camara.leg.br/noticias/1320975-comissao-aprova-porte-de-arma-para-agentes-socioeducativos-e-oficiais-de-justica",
-      "date": "2026-11-19T14:24:00.000Z",
-      "summary": "Texto poderá seguir para sanção presidencial, a menos que haja recurso para que seja votado pelo Plenário da Câmara",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Comissão aprova proposta com prazo máximo de 60 dias para processos disciplinares na segurança pública",
-      "link": "https://www.camara.leg.br/noticias/1320952-comissao-aprova-proposta-com-prazo-maximo-de-60-dias-para-processos-disciplinares-na-seguranca-publica",
-      "date": "2026-11-19T14:12:00.000Z",
-      "summary": "Texto segue em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
     },
     {
       "title": "Projeto de ajuste aprovado vai dar mais segurança para cumprimento da meta, diz Moretti",
@@ -545,27 +554,18 @@
       "type": "imprensa"
     },
     {
-      "title": "Moraes arquiva investigação contra Zambelli por defender intervenção militar",
-      "link": "https://www.estadao.com.br/politica/alexandre-de-moraes-arquiva-investigacao-contra-zambelli-por-defender-intervencao-militar-nprp/",
-      "date": "2026-11-19T01:24:30.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "EUA e Venezuela assinam acordo de cooperação militar",
-      "link": "https://www.dw.com/pt-br/eua-e-venezuela-assinam-acordo-de-cooperação-militar/a-79986275?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-18T22:03:00.000Z",
-      "summary": "Durante visita surpresa a Caracas, chefe do Pentágono, Pete Hegseth, firma acordo que marca a retomada da parceria em defesa entre os dois países.",
-      "source": "DW Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
       "title": "Sigma Lithium tem penhora de direitos minerários ordenada pela Justiça do Trabalho de Minas Gerais",
       "link": "https://www.estadao.com.br/economia/negocios/sigma-lithium-tem-penhora-de-direitos-minerarios-ordenada-pela-justica-do-trabalho-de-minas-gerais/",
       "date": "2026-11-18T21:21:37.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Ressurge movimentação por ex-superintendente do Cade Alexandre Barreto no comando do BB",
+      "link": "https://www.estadao.com.br/economia/ressurge-movimentacao-por-ex-superintendente-do-cade-alexandre-barreto-no-comando-do-bb/",
+      "date": "2026-11-18T19:43:00.000Z",
       "summary": "",
       "source": "Estadão",
       "cat": "economia",
