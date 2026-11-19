@@ -1,15 +1,11 @@
 {
-  "updated": "2026-11-18T23:47:22.200Z",
+  "updated": "2026-11-19T01:01:46.481Z",
   "market": {
     "ibov": {
       "price": 167537.95,
       "pct": -1.34,
-      "time": "2026-11-18T23:47:13.396Z",
+      "time": "2026-11-19T01:01:41.910Z",
       "history": [
-        {
-          "d": "2026-10-19",
-          "c": 205079
-        },
         {
           "d": "2026-10-20",
           "c": 208296
@@ -149,11 +145,128 @@
   },
   "news": [
     {
-      "title": "Andrei entrega a Fachin relatórios sobre ministros do STF e Master",
-      "link": "https://www.poder360.com.br/poder-justica/andrei-entrega-a-fachin-relatorios-sobre-ministros-do-stf-e-master/",
-      "date": "2026-11-18T23:41:24.000Z",
-      "summary": "Presidente do Supremo pediu a produção dos documentos para esclarecimentos “sem qualquer exceção de fato ou de pessoa”",
+      "title": "Dias difíceis neste início de Lula 4",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2026/11/dias-dificeis-neste-inicio-de-lula-4.shtml",
+      "date": "2026-11-19T00:55:00.000Z",
+      "summary": "A animação da vitória extraordinária de Luiz Inácio Lula da Silva perdeu brilho rápido, nublada por ambiente financeiro ruim, conflitos na esquerda e falta de rumo de Lula 4, que não tem sentido de urgência e planos maiores de mudança, o que já se notava na ca",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Proposta de ajuste fiscal entra na pauta de sessão extraordinária da Câmara na próxima segunda-feira",
+      "link": "https://www.camara.leg.br/noticias/1320935-proposta-de-ajuste-fiscal-entra-na-pauta-de-sessao-extraordinaria-da-camara-na-proxima-segunda-feira",
+      "date": "2026-11-19T00:50:00.000Z",
+      "summary": "Anúncio foi feito em Buenos Aires pelo presidente da Câmara, Hugo Motta; ele destacou a maturidade e a solidez da democracia brasileira",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Empresa de genro de Trump investe US$ 33,5 milhões no Nubank",
+      "link": "https://www.estadao.com.br/economia/negocios/empresa-de-genro-de-trump-investe-us-335-milhoes-no-nubank/",
+      "date": "2026-11-19T00:44:18.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Câmara inicia votação de ajuste fiscal na 2ª feira",
+      "link": "https://www.poder360.com.br/poder-congresso/camara-inicia-votacao-de-ajuste-fiscal-na-2a-feira/",
+      "date": "2026-11-19T00:40:48.000Z",
+      "summary": "Sessão extraordinária foi anunciada por Hugo Motta depois de o Senado aprovar emendas do texto nesta 4ª feira",
       "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Veja como votou cada senador nos destaques do projeto de ajuste fiscal do governo Lula",
+      "link": "https://www.estadao.com.br/economia/veja-como-votou-cada-senador-destaques-projeto-ajuste-fiscal-lula/",
+      "date": "2026-11-19T00:28:06.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Impacto do ajuste fiscal caiu de R$ 56 bi para R$ 50 bi, diz Braga",
+      "link": "https://www.poder360.com.br/poder-congresso/impacto-do-ajuste-fiscal-caiu-de-r-56-bi-para-r-50-bi-diz-braga/",
+      "date": "2026-11-19T00:18:31.000Z",
+      "summary": "Redução na projeção decorre de acordo sobre repasses aos Estados; projeto aprovado no Senado vai à Câmara",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Fachin vai enviar à PGR relatórios sobre ministros do STF e Master",
+      "link": "https://www.poder360.com.br/poder-justica/fachin-vai-enviar-a-pgr-relatorios-sobre-ministros-do-stf-e-master/",
+      "date": "2026-11-19T00:09:39.000Z",
+      "summary": "Presidente do Supremo dará prazo de 15 dias para manifestação da Procuradoria; os documentos entregues pela PF seguem, por ora, sob sigilo",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Motta afirma que Câmara iniciará discussão do 'plano Moretti' na próxima segunda (23)",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/motta-afirma-que-camara-iniciara-discussao-do-plano-moretti-na-proxima-segunda-23.shtml",
+      "date": "2026-11-19T00:02:00.000Z",
+      "summary": "O presidente da Câmara dos Deputados, Hugo Motta (Republicanos-PB), afirmou nesta quarta-feira (18) que convocará uma sessão extraordinária para a próxima segunda-feira (23) para iniciar as discussões sobre o \"plano Moretti\", pacote de ajuste fiscal do governo",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Governo Lula tenta preservar acordo do ajuste fiscal na Câmara",
+      "link": "https://www.poder360.com.br/poder-governo/governo-lula-tenta-preservar-acordo-do-ajuste-fiscal-na-camara/",
+      "date": "2026-11-19T00:01:03.000Z",
+      "summary": "Planalto tenta preservar texto aprovado no Senado, com Guimarães cobrando rapidez e Moretti e Sidônio na articulação da proposta",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Vai à sanção prazo maior para pedir reparação por crime sexual na infância",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/18/prazo-maior-para-pedir-reparacao-por-crime-sexual-na-infancia-vai-a-sancao",
+      "date": "2026-11-18T23:59:50.000Z",
+      "summary": "O Plenário do Senado aprovou nesta quarta-feira (18), em regime de urgência, projeto de lei da Câmara dos Deputados que fixa em 20 anos o prazo para recorrer à Justiça para pedir reparação civil por crimes sexuais sofridos na infância ou adolescência. Aprovado",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Senador Paulo Paim será homenageado em sessão especial",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/18/senador-paulo-paim-sera-homenageado-em-sessao-especial",
+      "date": "2026-11-18T23:56:49.000Z",
+      "summary": "O Senador Paulo Paim (PT-RS), que se despede do Senado no início de 2027, após 40 anos como parlamentar, será homenageado em sessão do Senado. O requerimento para a homenagem (RQS 794/2026), apresentado pelo senador Alessandro Vieira (MDB-SE), foi aprovado nes",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Aprovadas regras de uso compartilhado de postes; texto vai à sanção",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/18/aprovadas-regras-de-uso-compartilhado-de-postes-texto-vai-a-sancao",
+      "date": "2026-11-18T23:55:29.000Z",
+      "summary": "O Plenário aprovou nesta quarta-feira (18) o projeto que cria regras para o compartilhamento de postes entre distribuidoras de energia e empresas de telecomunicações (PL 3.220/2019). O relator, senador Esperidião Amin (PP-SC), manteve a maior parte das mudança",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Fachin encaminhará relatórios da PF sobre ministros citados em mensagens de Vorcaro para PGR",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/18/fachin-relatorios-da-pf-sobre-ministros-citados-em-mensagens-de-vorcaro-pgr.ghtml",
+      "date": "2026-11-18T23:50:04.000Z",
+      "summary": "Andrei se reúne com Fachin para entregar relatórios sobre ministros citados em mensagens de Vorcaro A presidência do Supremo Tribunal Federal (STF) informou que vai encaminhar à Procuradoria-Geral da República (PGR) os relatórios que a Polícia Federal entregou",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Motta diz que vai convocar sessão para votar ajuste fiscal na segunda-feira",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/18/motta-convoca-sessao-para-votar-ajuste-fiscal-na-segunda-feira.ghtml",
+      "date": "2026-11-18T23:41:54.000Z",
+      "summary": "Hugo Motta, presidente da Câmara dos Deputados Ton Molina/Fotoarena/Estadão Conteúdo O presidente da Câmara, Hugo Motta (Republicanos-PB), disse em Buenos Aires, na Argentina, onde participa de um evento, que convocará uma sessão extraordinária na segunda-feir",
+      "source": "g1",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -194,15 +307,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Vorcaro tratou de ingressos da F1 para filho de diretor da PF, diz site",
-      "link": "https://www.estadao.com.br/politica/vorcaro-tratou-de-ingressos-da-f1-para-filho-de-diretor-da-pf-diz-site/",
-      "date": "2026-11-18T23:27:37.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Audiência aponta abandono e negligência como principais violências contra mulheres idosas no Brasil",
       "link": "https://www.camara.leg.br/noticias/1320884-audiencia-aponta-abandono-e-negligencia-como-principais-violencias-contra-mulheres-idosas-no-brasil",
       "date": "2026-11-18T23:24:00.000Z",
@@ -212,10 +316,10 @@
       "type": "oficial"
     },
     {
-      "title": "Andrei entrega a Fachin relatórios da PF com menções a ministros do STF no caso Master",
+      "title": "PF entrega relatórios sobre citações a ministros do STF no caso Master, e Fachin anuncia envio à PGR",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/andrei-entrega-a-fachin-relatorios-da-pf-com-mencoes-a-ministros-do-stf-no-caso-master.shtml",
       "date": "2026-11-18T23:23:00.000Z",
-      "summary": "O diretor-geral da Polícia Federal, Andrei Rodrigues, entregou nesta quarta-feira (18) ao presidente do STF (Supremo Tribunal Federal), Edson Fachin, os relatórios com as menções sobre cada um dos ministros da corte encontradas no celular de Daniel Vorcaro, ex",
+      "summary": "O presidente do STF (Supremo Tribunal Federal), ministro Edson Fachin, recebeu nesta quarta-feira (18) os relatórios da PF (Polícia Federal) sobre a relação do ex-banqueiro Daniel Vorcaro com os ministros da corte. Ele informou que encaminhará o material para ",
       "source": "Folha",
       "cat": "politica",
       "type": "imprensa"
@@ -227,24 +331,6 @@
       "summary": "",
       "source": "Estadão",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Banco do Brasil alerta clientes sobre vazamento de dados pessoais",
-      "link": "https://www.estadao.com.br/economia/banco-do-brasil-alerta-clientes-sobre-vazamento-de-dados-pessoais-npr/",
-      "date": "2026-11-18T23:12:14.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Parte da esquerda não entendeu o básico na economia e tenta induzir Lula ao erro",
-      "link": "https://www.estadao.com.br/economia/alvaro-gribel/parte-da-esquerda-nao-entendeu-o-basico-na-economia-e-tenta-induzir-lula-ao-erro/",
-      "date": "2026-11-18T23:10:11.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -264,24 +350,6 @@
       "source": "Agência Senado",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Aprovado prazo maior para uso de verba de internet nas escolas públicas",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/18/aprovado-prazo-maior-para-uso-de-verba-de-internet-nas-escolas-publicas",
-      "date": "2026-11-18T23:02:11.000Z",
-      "summary": "O Senado aprovou nesta quarta-feira (18) nova ampliação no prazo para que os estados e o Distrito Federal usem recursos da União na melhoria da conectividade das escolas, com a aquisição de equipamentos para estudantes e professores da rede pública de ensino. ",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Lula quer ampliar participação popular nas decisões do governo",
-      "link": "https://www.poder360.com.br/poder-governo/lula-quer-ampliar-participacao-popular-nas-decisoes-do-governo/",
-      "date": "2026-11-18T23:01:46.000Z",
-      "summary": "Encontro em Brasília busca mobilizar o “Exército do Lula” e aproximar movimentos sociais das decisões sobre políticas públicas e Orçamento",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
     },
     {
       "title": "TCU mantém Correios em lista de estatais da administração federal com riscos fiscais",
@@ -320,15 +388,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Arco Norte e etanol incentivam investimentos no milho, diz banco",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/vaivem/2026/11/arco-norte-e-etanol-incentivam-investimentos-no-milho-diz-banco.shtml",
-      "date": "2026-11-18T22:45:00.000Z",
-      "summary": "A indústria de etanol e a saída pelos portos do Arco Norte continuam dando uma nova dinâmica à cultura do milho. Há uma competição maior pelo grão, os preços se fortalecem nas regiões produtoras e os descontos históricos diminuíram. O consumo doméstico aumenta",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Quem são os sete jovens fundadores da Anthropic que estão prestes a se tornarem multibilionários",
       "link": "https://www.bbc.com/portuguese/articles/cmn0dykxex82o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-18T22:42:02.000Z",
@@ -356,15 +415,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Ibovespa cai 1,34% e fecha aos 168 mil pontos com incerteza fiscal",
-      "link": "https://www.poder360.com.br/poder-economia/ibovespa-cai-134-e-fecha-aos-168-mil-pontos-com-incerteza-fiscal/",
-      "date": "2026-11-18T22:35:30.000Z",
-      "summary": "Dúvidas sobre o ajuste das contas públicas e a política econômica de 2027 pressionaram a Bolsa; dólar atingiu R$ 5,87",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Diretor-geral da PF entrega relatórios sobre citações a ministros do STF no celular de Vorcaro",
       "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/diretor-geral-da-pf-entrega-relatorios-sobre-citacoes-a-ministros-do-stf-no-celular-de-vorcaro/",
       "date": "2026-11-18T22:31:06.000Z",
@@ -379,51 +429,6 @@
       "date": "2026-11-18T22:31:00.000Z",
       "summary": "O governador eleito do Paraná, Sergio Moro (PL), anunciou nesta quarta-feira (18) o nome do advogado Carlos Fernando dos Santos Lima como futuro secretário Anticorrupção. Ele é procurador da República aposentado e ficou conhecido pela atuação na Operação Lava ",
       "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Andrei entrega a Fachin relatórios sobre ministros citados em mensagens de Vorcaro",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/18/andrei-fachin-relatorios-ministros-mensagens-vorcaro.ghtml",
-      "date": "2026-11-18T22:26:55.000Z",
-      "summary": "Andrei se reúne com Fachin para entregar relatórios sobre ministros citados em mensagens de Vorcaro O diretor-geral da Polícia Federal, Andrei Rodrigues, se reuniu na noite desta quarta-feira (18) com o presidente do Supremo Tribunal federal (STF), ministro Ed",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Senado faz acordo sobre Lei Kandir e aprova ajuste fiscal de Lula",
-      "link": "https://www.poder360.com.br/poder-congresso/senado-faz-acordo-sobre-lei-kandir-e-aprova-ajuste-fiscal-de-lula/",
-      "date": "2026-11-18T22:24:51.000Z",
-      "summary": "Oposição tentou derrubar medidas sobre créditos tributários, limite de gastos e compensações previdenciárias; texto vai à Câmara",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Chinesa Jetour terá fábrica de R$ 400 milhões no RJ e montagem na Colômbia",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/chinesa-jetour-tera-fabrica-de-r-400-milhoes-no-rj-e-montagem-na-colombia.shtml",
-      "date": "2026-11-18T22:15:00.000Z",
-      "summary": "A chinesa Jetour anunciou nesta quarta-feira (18) investimento de R$ 400 milhões na produção de veículos eletrificados em fábrica no Rio de Janeiro. Leia mais (11/18/2026 - 19h15)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Jetour produzirá T1 e T2 no RJ, mas não confirma compra de fábrica da Land Rover",
-      "link": "https://www.estadao.com.br/jornal-do-carro/jetour-produzira-t1-e-t2-no-rj-mas-nao-confirma-compra-de-fabrica-da-land-rover/",
-      "date": "2026-11-18T22:15:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Senado aprova texto final do ajuste fiscal; proposta segue para Câmara",
-      "link": "https://g1.globo.com/politica/ao-vivo/senado-pacote-medidas-fiscais.ghtml",
-      "date": "2026-11-18T22:14:26.000Z",
-      "summary": "Senado aprova texto final do ajuste fiscal; proposta segue para Câmara",
-      "source": "g1",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -473,28 +478,19 @@
       "type": "imprensa"
     },
     {
-      "title": "TCU identifica falhas que dificultam avaliar resultados de políticas públicas",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/18/tcu-identifica-falhas-que-dificultam-avaliar-resultados-de-politicas-publicas",
-      "date": "2026-11-18T21:53:58.000Z",
-      "summary": "O Tribunal de Contas da União (TCU) apresentou nesta quarta-feira (18) à Comissão Mista de Orçamento (CMO) o Relatório de Fiscalizações em Políticas e Programas de Governo de 2026. Segundo o documento, alguns programas analisados não têm os resultados devidame",
-      "source": "Agência Senado",
+      "title": "Bastidores: Lula cobra pente-fino nos pedidos de cargos do Centrão para evitar novas traições",
+      "link": "https://www.estadao.com.br/politica/bastidores-lula-cobra-pente-fino-nos-pedidos-de-cargos-do-centrao-para-evitar-novas-traicoes/",
+      "date": "2026-11-18T21:12:14.000Z",
+      "summary": "",
+      "source": "Estadão",
       "cat": "politica",
-      "type": "oficial"
+      "type": "imprensa"
     },
     {
       "title": "TCU identifica falhas no monitoramento dos resultados das políticas públicas do governo",
       "link": "https://www.camara.leg.br/noticias/1320816-tcu-identifica-falhas-no-monitoramento-dos-resultados-das-politicas-publicas-do-governo",
       "date": "2026-11-18T20:55:00.000Z",
       "summary": "Relatório também aponta desigualdade entre estados e regiões na implementação de programas",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Projeto prevê parcelamento de dívidas e perdão de débitos para entidades sem fins lucrativos",
-      "link": "https://www.camara.leg.br/noticias/1311401-projeto-preve-parcelamento-de-dividas-e-perdao-de-debitos-para-entidades-sem-fins-lucrativos",
-      "date": "2026-11-18T20:54:00.000Z",
-      "summary": "Proposta prevê descontos de até 100% em juros e multas e parcelamento em até 240 meses",
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
@@ -533,15 +529,6 @@
       "summary": "Operação militar causou graves danos à estrutura que liga a península à Rússia. Além de dificultar logística do exército de Moscou, ofensiva prejudica imagem do líder do Kremlin.",
       "source": "DW Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Andrei justifica afastamento de delegados da PF do caso Master: ‘Houve quebra de confiança’",
-      "link": "https://www.estadao.com.br/politica/andrei-justifica-afastamento-de-delegados-da-pf-do-caso-master-houve-quebra-de-confianca/",
-      "date": "2026-11-18T18:45:33.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -623,6 +610,15 @@
       "summary": "Em meio aos trabalhos do Congresso sobre a nova constituição em 1988, 'É' se tornou um sucesso instantâneo e um dos maiores êxitos da carreira de Gonzaguinha.",
       "source": "BBC News Brasil",
       "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Governo Lula usa sigilo mais do que gestão Bolsonaro para negar pedidos de acesso à informação",
+      "link": "https://www.estadao.com.br/politica/governo-lula-usa-sigilo-mais-do-que-gestao-bolsonaro-para-negar-pedidos-de-acesso-a-informacao/",
+      "date": "2026-11-18T08:30:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -714,6 +710,15 @@
       "source": "Banco Central",
       "cat": "economia",
       "type": "oficial"
+    },
+    {
+      "title": "Empresas devem enfrentar novo ciclo de reestruturações em 2027 com juros altos e crédito restrito",
+      "link": "https://www.estadao.com.br/economia/empresas-devem-enfrentar-novo-ciclo-de-reestruturacoes-em-2027-com-juros-altos-e-credito-restrito/",
+      "date": "2026-11-12T08:30:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
     }
   ],
   "errors": [
