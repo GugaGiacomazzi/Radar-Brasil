@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-19T09:40:28.901Z",
+  "updated": "2026-11-19T10:57:06.164Z",
   "market": {
     "ibov": {
       "price": 167537.95,
       "pct": -1.34,
-      "time": "2026-11-19T09:40:22.167Z",
+      "time": "2026-11-19T10:57:01.009Z",
       "history": [
         {
           "d": "2026-10-20",
@@ -145,37 +145,91 @@
   },
   "news": [
     {
-      "title": "Resultado confirma 56 democratas no Senado; Câmara ainda tem 6 indefinições",
-      "link": "https://www.poder360.com.br/poder-internacional/resultado-confirma-56-democratas-no-senado-camara-ainda-tem-6-indefinicoes/",
-      "date": "2026-11-19T09:38:30.000Z",
-      "summary": "Partido conquista maioria no Senado e na Câmara, mas 4 distritos ainda contam votos para deputados e 2 terão 2º turno",
+      "title": "Perdas do Ueno Bank se aproximam de US$ 1 bilhão, segundo Banco Central do Paraguai",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/19/perdas-do-ueno-bank-se-aproximam-de-us-1-bilhao-segundo-banco-central.ghtml",
+      "date": "2026-11-19T10:39:16.000Z",
+      "summary": "O Escândalo do banco Ueno no Paraguai As perdas causadas pela quebra do banco paraguaio Ueno podem chegar a cerca de US$ 1 bilhão (R$ 5,8 bilhões), no pior cenário, estimou o novo presidente do Banco Central do Paraguai (BCP), Jorge Luis Schreiner, em entrevis",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "“Precisamos de socorro do governo”, diz presidente do Corinthians",
+      "link": "https://www.poder360.com.br/poder-sportsmkt/precisamos-de-socorro-do-governo-diz-presidente-do-corinthians/",
+      "date": "2026-11-19T10:34:15.000Z",
+      "summary": "Osmar Stabile cita quase R$ 500 milhões em contratos afetados pela proibição das casas de apostas",
       "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
     },
     {
-      "title": "Putin e Xi defendem ampliar parceria entre Rússia e China",
-      "link": "https://www.poder360.com.br/poder-internacional/putin-e-xi-defendem-ampliar-parceria-entre-russia-e-china/",
-      "date": "2026-11-19T09:35:32.000Z",
-      "summary": "Presidentes discutem comércio, energia e educação durante cúpula da Ásia-Pacífico",
+      "title": "Musk diz que não é “Maga” e se arrepende de gastos eleitorais",
+      "link": "https://www.poder360.com.br/poder-internacional/musk-diz-que-nao-e-maga-e-se-arrepende-de-gastos-eleitorais/",
+      "date": "2026-11-19T10:32:04.000Z",
+      "summary": "Após se declarar “Maga das trevas” em 2024, dono da SpaceX diz não saber exatamente o que significa o movimento pró-Trump",
       "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
     },
     {
-      "title": "Agenda de Lula: leia os compromissos do presidente nesta 5ª",
-      "link": "https://www.poder360.com.br/poder-governo/agenda-de-lula-leia-os-compromissos-do-presidente-nesta-5a-2/",
-      "date": "2026-11-19T09:15:47.000Z",
-      "summary": "Presidente assina decreto sobre o fim da escala 6 X 1 e viaja a Mato Grosso para compromisso sobre terra indígena e visita a Raoni",
+      "title": "Recorde da Anthropic em estreia na bolsa de valores conseguirá impedir o estouro da bolha da IA?",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/19/recorde-da-anthropic-em-estreia-na-bolsa-de-valores-conseguira-impedir-o-estouro-da-bolha-da-ia.ghtml",
+      "date": "2026-11-19T10:25:04.000Z",
+      "summary": "Por que tanta gente está falando do Claude? Conheça a IA mais perigosa do mundo Foi em novembro de 2020 que, em algum lugar de São Francisco, nos Estados Unidos, uma mulher chamada Daniela Amodei telefonou para uma amiga, pedindo conselhos. Daniela supervision",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Anthropic estreia na bolsa com avaliação de US$ 1,5 trilhão",
+      "link": "https://www.dw.com/pt-br/anthropic-estreia-na-bolsa-com-avaliação-de-us-1-5-trilhão/a-79989133?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-19T10:18:00.000Z",
+      "summary": "Empresa de inteligência artificial que criou o Claude captou 81,3 bilhões de dólares em IPO, superando a estreia da SpaceX no mercado. Ação ocorre em momento desafiador para empresas de tecnologia.",
+      "source": "DW Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Justiça penhora prêmio do Inter na Copa do Brasil Feminina",
+      "link": "https://www.poder360.com.br/poder-sportsmkt/justica-penhora-premio-do-inter-na-copa-do-brasil-feminina/",
+      "date": "2026-11-19T10:04:01.000Z",
+      "summary": "Ordem atinge até R$ 1,23 milhão para pagar dívida com o Atlético Monte Azul pela contratação de Patrick para o time masculino",
       "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
     },
     {
-      "title": "Governo Lula: leia a agenda de ministros do governo nesta 5ª feira",
-      "link": "https://www.poder360.com.br/poder-governo/governo-lula-leia-a-agenda-de-ministros-do-governo-nesta-5a-feira-17/",
-      "date": "2026-11-19T09:15:30.000Z",
-      "summary": "Reunião do CMN, entrega de máquinas agrícolas e ações de combate ao racismo estão entre os compromissos dos integrantes do Executivo",
+      "title": "Eurofarma leva Dermage ao Chile e amplia operação externa",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/eurofarma-leva-dermage-ao-chile-e-amplia-operacao-externa.shtml",
+      "date": "2026-11-19T10:00:00.000Z",
+      "summary": "A Eurofarma está levando a Dermage, marca de dermocosméticos que adquiriu em março de 2025, ao Chile, surfando a onda de popularidade dos produtos de skincare na América Latina. Leia mais (11/19/2026 - 07h00)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Os japoneses chegaram ao Brasil antes do que imaginamos",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/rodrigo-tavares/2026/11/os-japoneses-chegaram-ao-brasil-antes-do-que-imaginamos.shtml",
+      "date": "2026-11-19T10:00:00.000Z",
+      "summary": "Em 2011, pedi a alguns funcionários do governo de São Paulo, com quem trabalhava na época, que dedicassem o tempo que fosse necessário a uma missão no Arquivo Público do Estado. Eles tinham de encontrar o documento original do primeiro acordo celebrado entre o",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Ânima aposta em faculdades de medicina e parcerias com empresas para acelerar expansão, diz CEO",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/c-level-entrevista/2026/11/anima-aposta-em-faculdades-de-medicina-e-parcerias-com-empresas-para-acelerar-expansao-diz-ceo.shtml",
+      "date": "2026-11-19T10:00:00.000Z",
+      "summary": "Após um período de desconfiança do mercado, causada pela recompra da FMU (Faculdades Metropolitanas Unidas) e por um contrato de assessoria acadêmica selado com o Einstein Hospital Israelita, a Ânima Educação se prepara para novas oportunidades no médio prazo.",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Brasil pede à OMC para julgar tarifaço imposto pelos EUA",
+      "link": "https://www.poder360.com.br/poder-economia/brasil-pede-a-omc-para-julgar-tarifaco-imposto-pelos-eua/",
+      "date": "2026-11-19T09:40:32.000Z",
+      "summary": "Governo brasileiro diz em documento que, após realizadas consultas em 25 de setembro, não houve avanço nas negociações",
       "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
@@ -271,33 +325,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Abertura do mercado de energia traz liberdade para escolher e segurança para decidir",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/abertura-do-mercado-de-energia-traz-liberdade-para-escolher-e-seguranca-para-decidir.shtml",
-      "date": "2026-11-19T07:00:00.000Z",
-      "summary": "A abertura do mercado livre de energia representa muito mais do que uma mudança regulatória: inaugura uma nova relação entre o consumidor e o setor elétrico. Leia mais (11/19/2026 - 04h00)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Folha tem maior venda de assinaturas em cinco anos",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/folha-tem-maior-venda-de-assinaturas-em-cinco-anos.shtml",
-      "date": "2026-11-19T07:00:00.000Z",
-      "summary": "Impulsionada pelas eleições, a Folha teve em outubro o melhor mês de venda de assinaturas em mais de cinco anos. Assim, o jornal se consolida como o maior do país, com 887 mil assinantes ?os números da Folha são auditados pela empresa BDO. Leia mais (11/19/202",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Acionista da concessionária do estádio Pacaembu pede recuperação extrajudicial",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/acionista-da-concessionaria-do-estadio-pacaembu-pede-recuperacao-extrajudicial.shtml",
-      "date": "2026-11-19T07:00:00.000Z",
-      "summary": "A Progen S.A., empresa que detém 50% da Allegra, concessionária da Mercado Livre Arena Pacaembu, entrou com pedido de recuperação extrajudicial. O grupo acumula mais de R$ 900 milhões em dívidas com bancos e investidores, segundo balanço de junho deste ano. So",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "13º salário: calculadora mostra quanto você vai receber, com descontos e novas regras do IR",
       "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/19/13o-salario-calculadora-mostra-quanto-voce-vai-receber-com-descontos-e-novas-regras-do-ir.ghtml",
       "date": "2026-11-19T06:00:00.000Z",
@@ -316,19 +343,19 @@
       "type": "imprensa"
     },
     {
-      "title": "Black Friday: por que comprar com desconto dá prazer, mesmo quando gastamos mais?",
-      "link": "https://g1.globo.com/g1-explica/noticia/2026/11/19/black-friday-por-que-comprar-com-desconto-da-prazer-mesmo-quando-gastamos-mais.ghtml",
-      "date": "2026-11-19T05:00:00.000Z",
-      "summary": "Black Friday: por que descontos dão prazer, mesmo gastando mais? Comprar um produto por um preço menor do que o esperado pode aumentar a satisfação do consumidor. O fenômeno é explicado pela “utilidade da transação”, conceito apresentado em 1985 pelo economist",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Ajuste fiscal: Moretti diz que texto aprovado pelo Senado preserva políticas sociais essenciais em 2027",
       "link": "https://g1.globo.com/politica/noticia/2026/11/19/ajuste-fiscal-moretti-diz-que-texto-aprovado-pelo-senado-preserva-politicas-sociais-essenciais-em-2027.ghtml",
       "date": "2026-11-19T03:00:00.000Z",
       "summary": "Bruno Moretti, ministro do Planejamento e Orçamento Edilson Rodrigues/Agência Senado O ministro do Planejamento, Bruno Moretti, disse nesta quarta-feira (18) que o pacote fiscal aprovado pelo Senado manteve a essência da proposta do governo de equilibrar as co",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Governo regulamenta jornada 5x2 nesta quinta-feira; Lula assina decreto com novas regras",
+      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/19/governo-regulamenta-da-jornada-5x2-nesta-quinta-feira-lula-assina-decreto-com-novas-regras.ghtml",
+      "date": "2026-11-19T03:00:00.000Z",
+      "summary": "O presidente Luiz Inácio Lula da Silva (PT) deve assinar nesta quinta-feira (19) o decreto que regulamenta o fim da escala 6x1. O texto vai definir as regras de transição do regime atual para a jornada 5x2. Na terça-feira (17), o presidente se reuniu com o min",
       "source": "g1",
       "cat": "politica",
       "type": "imprensa"
@@ -340,24 +367,6 @@
       "summary": "Setor Hoteleiro Norte, em Brasília TV Globo/Reprodução O governo federal e o governo do Distrito Federal passaram a debater a reserva de espaços públicos, como escolas e parques, para abrigar caravanas de apoiadores do presidente Luiz Inácio Lula da Silva (PT)",
       "source": "g1",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "PGR terá que analisar relatórios da PF sobre relação de Vorcaro com ministros do STF e apontar providências cabíveis; entenda",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/19/pgr-tera-que-analisar-relatorios-da-pf-sobre-relacao-de-vorcaro-com-ministros-do-stf-e-apontar-providencias-cabiveis-entenda.ghtml",
-      "date": "2026-11-19T03:00:00.000Z",
-      "summary": "A Procuradoria-Geral da República (PGR) vai ter que apontar ao Supremo Tribunal Federal (STF) quais as providências cabíveis em relação a cada relatório produzido pela Polícia Federal sobre a relação do ex-banqueiro Daniel Vorcaro com os ministros da Corte. Ne",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Consciência Negra será o último feriadão antes do Natal; veja as regras para quem trabalha",
-      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/19/consciencia-negra-feriado.ghtml",
-      "date": "2026-11-19T03:00:00.000Z",
-      "summary": "Desde 2024, o Dia da Consciência Negra é feriado nacional. Frederico Dávila/TV Globo Na próxima sexta-feira (20), é celebrado o Dia Nacional de Zumbi e da Consciência Negra, data que marca a morte do líder quilombola Zumbi dos Palmares. Desde 2024, a data é fe",
-      "source": "g1",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -595,15 +604,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Como a antiga Alemanha Oriental ajudou o Vietnã a virar uma potência do café",
-      "link": "https://www.dw.com/pt-br/como-a-antiga-alemanha-oriental-ajudou-o-vietnã-a-virar-uma-potência-do-café/a-79982188?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-18T14:48:00.000Z",
-      "summary": "Nos anos 1970, sem dinheiro para importar café, regime comunista passou a oferecer mistura à base de chicória, provocando revolta popular. Busca por solução ajudou Vietnã a se tornar 2° maior produtor mundial.",
-      "source": "DW Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
       "title": "BC divulga estudo sobre os canais de transmissão da política monetária por meio do crédito",
       "link": "https://www.bcb.gov.br/detalhenoticia/21322/nota",
       "date": "2026-11-18T12:30:49.000Z",
@@ -723,7 +723,6 @@
   ],
   "errors": [
     "feed CNN Brasil: HTTP 404",
-    "feed CNN Brasil: HTTP 404",
-    "feed Planalto (governo): HTTP 429"
+    "feed CNN Brasil: HTTP 404"
   ]
 }
