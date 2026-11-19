@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-19T08:37:01.519Z",
+  "updated": "2026-11-19T09:40:28.901Z",
   "market": {
     "ibov": {
       "price": 167537.95,
       "pct": -1.34,
-      "time": "2026-11-19T08:36:56.868Z",
+      "time": "2026-11-19T09:40:22.167Z",
       "history": [
         {
           "d": "2026-10-20",
@@ -145,12 +145,84 @@
   },
   "news": [
     {
+      "title": "Resultado confirma 56 democratas no Senado; Câmara ainda tem 6 indefinições",
+      "link": "https://www.poder360.com.br/poder-internacional/resultado-confirma-56-democratas-no-senado-camara-ainda-tem-6-indefinicoes/",
+      "date": "2026-11-19T09:38:30.000Z",
+      "summary": "Partido conquista maioria no Senado e na Câmara, mas 4 distritos ainda contam votos para deputados e 2 terão 2º turno",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Putin e Xi defendem ampliar parceria entre Rússia e China",
+      "link": "https://www.poder360.com.br/poder-internacional/putin-e-xi-defendem-ampliar-parceria-entre-russia-e-china/",
+      "date": "2026-11-19T09:35:32.000Z",
+      "summary": "Presidentes discutem comércio, energia e educação durante cúpula da Ásia-Pacífico",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Agenda de Lula: leia os compromissos do presidente nesta 5ª",
+      "link": "https://www.poder360.com.br/poder-governo/agenda-de-lula-leia-os-compromissos-do-presidente-nesta-5a-2/",
+      "date": "2026-11-19T09:15:47.000Z",
+      "summary": "Presidente assina decreto sobre o fim da escala 6 X 1 e viaja a Mato Grosso para compromisso sobre terra indígena e visita a Raoni",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Governo Lula: leia a agenda de ministros do governo nesta 5ª feira",
+      "link": "https://www.poder360.com.br/poder-governo/governo-lula-leia-a-agenda-de-ministros-do-governo-nesta-5a-feira-17/",
+      "date": "2026-11-19T09:15:30.000Z",
+      "summary": "Reunião do CMN, entrega de máquinas agrícolas e ações de combate ao racismo estão entre os compromissos dos integrantes do Executivo",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "Quem são os sete jovens fundadores da Anthropic que se tornaram multibilionários com estreia na bolsa",
       "link": "https://www.bbc.com/portuguese/articles/cmn0dykxex82o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-19T08:35:48.000Z",
       "summary": "A empresa de inteligência artificial por trás do Claude está fazendo sua estreia na bolsa dos EUA, tornando seus fundadores muito ricos.",
       "source": "BBC News Brasil",
       "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lula 4: aliada de Múcio cotada para assumir Defesa tem apoio de militares e resistência de ala do PT",
+      "link": "https://www.estadao.com.br/politica/lula-4-principal-cotada-para-assumir-defesa-tem-apoio-de-militares-e-resistencia-de-ala-do-pt/",
+      "date": "2026-11-19T08:30:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Cotada para suceder Tarcísio, Natália Resende desconversa sobre política: ‘Foco 120% nas entregas’",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/cotada-para-suceder-tarcisio-natalia-resende-desconversa-sobre-politica-foco-120-nas-entregas/",
+      "date": "2026-11-19T08:30:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "10,3 milhões de mulheres lideram pequenos negócios, alta de 27% na década",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/103-milhoes-de-mulheres-lideram-pequenos-negocios-alta-de-27-na-decada/",
+      "date": "2026-11-19T08:30:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Distratos, calotes e estoques maiores chacoalham balanços das incorporadoras",
+      "link": "https://www.estadao.com.br/economia/distratos-calotes-e-estoques-maiores-chacoalham-balancos-das-incorporadoras/",
+      "date": "2026-11-19T08:30:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -226,15 +298,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Trump e Putin discutem Ucrânia antes de trilateral com Xi",
-      "link": "https://www.poder360.com.br/poder-internacional/trump-e-putin-se-encontram-na-china-antes-de-trilateral/",
-      "date": "2026-11-19T06:47:05.000Z",
-      "summary": "\"Temos uma ótima relação há muitos anos\", disse o presidente dos EUA ao cumprimentar o líder russo",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "13º salário: calculadora mostra quanto você vai receber, com descontos e novas regras do IR",
       "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/19/13o-salario-calculadora-mostra-quanto-voce-vai-receber-com-descontos-e-novas-regras-do-ir.ghtml",
       "date": "2026-11-19T06:00:00.000Z",
@@ -298,33 +361,6 @@
       "type": "imprensa"
     },
     {
-      "title": "PSB e PDT oficializam federação e João Campos será o presidente",
-      "link": "https://www.poder360.com.br/poder-partidos-politicos/psb-e-pdt-oficializam-federacao-e-joao-campos-sera-o-presidente/",
-      "date": "2026-11-19T02:41:40.000Z",
-      "summary": "Configuração é válida por pelo menos 4 anos e permite que candidatos com menos votos sejam beneficiados; aliança fortalece a centro-esquerda",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Saiba como votou cada senador nos destaques do ajuste fiscal",
-      "link": "https://www.poder360.com.br/poder-congresso/saiba-como-votou-cada-senador-nos-destaques-do-ajuste-fiscal/",
-      "date": "2026-11-19T02:25:14.000Z",
-      "summary": "Plenário derrubou 3 propostas da oposição sobre gastos, previdência e tributos; texto segue para a Câmara",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Acordo apenas reduziu prejuízo do ajuste fiscal, diz Marinho",
-      "link": "https://www.poder360.com.br/poder-congresso/acordo-apenas-reduziu-prejuizo-do-ajuste-fiscal-diz-marinho/",
-      "date": "2026-11-19T02:14:12.000Z",
-      "summary": "Senador criticou Davi Alcolumbre por suspender votação na 3ª feira e o chamou de “líder informal” do Planalto; governo e oposição chegaram a entendimento sobre a Lei Kandir",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Com novas funções, 'supersecretária' de Tarcísio promete fortalecer controle de concessões",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/com-novas-funcoes-supersecretaria-de-tarcisio-promete-fortalecer-controle-de-concessoes.shtml",
       "date": "2026-11-19T02:00:00.000Z",
@@ -339,33 +375,6 @@
       "date": "2026-11-19T02:00:00.000Z",
       "summary": "O diretor-presidente do Memorial da América Latina, Pedro Machado Mastrobuono, enviou uma carta ao presidente Luiz Inácio Lula da Silva sugerindo a possível transferência do equipamento do governo estadual para o federal. Leia mais (11/18/2026 - 23h00)",
       "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Alexandre de Moraes arquiva investigação contra Zambelli por defender intervenção militar",
-      "link": "https://www.estadao.com.br/politica/alexandre-de-moraes-arquiva-investigacao-contra-zambelli-por-defender-intervencao-militar-nprp/",
-      "date": "2026-11-19T01:24:30.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Pioneira em emissões na China, Suzano hoje dá lições à Vale e ao Tesouro",
-      "link": "https://www.estadao.com.br/economia/coluna-da-broad/pioneira-em-emissoes-na-china-suzano-hoje-da-licoes-a-vale-e-ao-tesouro/",
-      "date": "2026-11-19T01:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "PSB e PDT oficializam federação; João Campos será o presidente da união entre os partidos",
-      "link": "https://www.estadao.com.br/politica/psd-e-pdt-oficializam-federacao-joao-campos-sera-o-presidente-da-uniao-entre-os-partidos-nprp/",
-      "date": "2026-11-19T00:54:47.000Z",
-      "summary": "",
-      "source": "Estadão",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -385,15 +394,6 @@
       "summary": "",
       "source": "Estadão",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "PGR denuncia Flávio Bolsonaro ao STF por calúnia contra Lula em postagem",
-      "link": "https://www.estadao.com.br/politica/pgr-denuncia-flavio-bolsonaro-ao-stf-por-calunia-contra-lula-em-postagem/",
-      "date": "2026-11-19T00:42:25.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -440,15 +440,6 @@
       "source": "Agência Senado",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Vorcaro tratou de ingressos da F1 para filho de diretor da PF, diz site",
-      "link": "https://www.estadao.com.br/politica/vorcaro-tratou-de-ingressos-da-f1-para-filho-de-diretor-da-pf-diz-site/",
-      "date": "2026-11-18T23:27:37.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
     },
     {
       "title": "Audiência aponta abandono e negligência como principais violências contra mulheres idosas no Brasil",
@@ -530,6 +521,15 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
+    },
+    {
+      "title": "Fachin recebe parecer técnico com propostas para a remuneração da magistratura",
+      "link": "https://www.estadao.com.br/politica/fachin-recebe-parecer-tecnico-com-propostas-para-a-remuneracao-da-magistratura-nprp/",
+      "date": "2026-11-18T20:48:05.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
     },
     {
       "title": "Câmara dos EUA deverá ter 1º presidente negro após indicação do Partido Democrata",
@@ -723,6 +723,7 @@
   ],
   "errors": [
     "feed CNN Brasil: HTTP 404",
-    "feed CNN Brasil: HTTP 404"
+    "feed CNN Brasil: HTTP 404",
+    "feed Planalto (governo): HTTP 429"
   ]
 }
