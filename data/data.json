@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-19T21:46:30.959Z",
+  "updated": "2026-11-19T22:45:35.031Z",
   "market": {
     "ibov": {
       "price": 166376.44,
       "pct": -0.69,
-      "time": "2026-11-19T21:46:20.227Z",
+      "time": "2026-11-19T22:45:30.189Z",
       "history": [
         {
           "d": "2026-10-20",
@@ -149,12 +149,120 @@
   },
   "news": [
     {
+      "title": "Comissão aprova proposta de política para pessoas com altas habilidades",
+      "link": "https://www.camara.leg.br/noticias/1321312-comissao-aprova-proposta-de-politica-para-pessoas-com-altas-habilidades",
+      "date": "2026-11-19T22:40:00.000Z",
+      "summary": "Projeto segue em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Europa luta para não ficar à margem do futuro da Ucrânia",
+      "link": "https://www.dw.com/pt-br/europa-luta-para-não-ficar-à-margem-do-futuro-da-ucrânia/a-79997957?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-19T22:36:00.000Z",
+      "summary": "Berlim reuniu aliados de Kiev em cúpula para cobrar espaço nas negociações de paz, enquanto Trump, Putin e Xi se encontravam paralelamente na China.",
+      "source": "DW Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Fachin envia à PGR relatórios sobre Moraes, Kassio, Toffoli e Mendonça após citações no caso Master",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/fachin-envia-a-pgr-relatorios-sobre-moraes-kassio-toffoli-e-mendonca-apos-citacoes-no-caso-master.shtml",
+      "date": "2026-11-19T22:31:00.000Z",
+      "summary": "O presidente do STF (Supremo Tribunal Federal), Edson Fachin, enviou nesta quinta-feira (19) aos gabinetes de ministros citados os relatórios da Polícia Federal sobre a relação do ex-banqueiro Daniel Vorcaro com magistrados da corte. Leia mais (11/19/2026 - 19",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Comissão aprova proposta que proíbe inclusão do nome de novo cônjuge em anotação de divórcio na certidão de casamento anterior",
+      "link": "https://www.camara.leg.br/noticias/1321382-comissao-aprova-proposta-que-proibe-inclusao-do-nome-de-novo-conjuge-em-anotacao-de-divorcio-na-certidao-de-casamento-anterior",
+      "date": "2026-11-19T22:22:00.000Z",
+      "summary": "Proposta segue em análise na Câmara",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Agora a escala é 5x2; qual impacto ela provocará em cada setor ou perfil de empresa?",
+      "link": "https://www.estadao.com.br/economia/celso-ming/agora-a-escala-e-5x2-qual-impacto-ela-provocara-em-cada-setor-ou-perfil-de-empresa/",
+      "date": "2026-11-19T22:16:50.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Juíza foi alertada por servidora e mentiu sobre decisão a favor de sobrinho em leilão de R$ 20 mi",
+      "link": "https://www.estadao.com.br/economia/juiza-foi-alertada-por-servidora-e-mentiu-sobre-decisao-a-favor-de-sobrinho-em-leilao-de-r-20-mi/",
+      "date": "2026-11-19T22:12:35.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Debate sobre plano Moretti é só o aperitivo da disputa da esquerda no Lula 4; veja vídeo",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/debate-sobre-plano-moretti-e-so-o-aperitivo-da-disputa-da-esquerda-no-lula-4-veja-video.shtml",
+      "date": "2026-11-19T22:11:00.000Z",
+      "summary": "Passada a euforia com a vitória suada de Lula, a esquerda voltou ao que sabe fazer de melhor, que é discutir a relação. Leia mais (11/19/2026 - 19h11)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "MDB trabalha para manter Cidades e Transportes no Lula 4",
+      "link": "https://www.poder360.com.br/poder-partidos-politicos/mdb-trabalha-para-manter-cidades-e-transportes-no-lula-4/",
+      "date": "2026-11-19T22:05:32.000Z",
+      "summary": "Partido quer preservar espaço em ministérios com forte capilaridade na Esplanada e já iniciou conversas com o presidente do PT",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Moraes libera ação que trata da lei da dosimetria para julgamento no plenário virtual do STF",
+      "link": "https://www.estadao.com.br/politica/moraes-libera-acao-que-trata-da-lei-da-dosimetria-para-julgamento-no-plenario-virtual-do-stf/",
+      "date": "2026-11-19T21:57:50.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Governo Trump liberou quase 900 mil chips avançados de IA para empresas chinesas, diz comitê dos EUA",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/19/governo-trump-liberou-quase-900-mil-chips-avancados-de-ia-para-empresas-chinesas-diz-comite-dos-eua.ghtml",
+      "date": "2026-11-19T21:50:15.000Z",
+      "summary": "O Presidente dos EUA, Donald Trump, entrega a Medalha Nacional da Ciência ao CEO da Nvidia, Jensen Huang, durante a cúpula \"Uma Nova Era de Ouro\" no Instituto da Paz dos EUA, renomeado Instituto da Paz Donald J. Trump pela administração Trump, em Washington, D",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Reforma do Judiciário deve ser feita com a cabeça, diz Salomão",
+      "link": "https://www.poder360.com.br/poder-justica/reforma-do-judiciario-deve-ser-feita-com-a-cabeca-diz-salomao/",
+      "date": "2026-11-19T21:46:11.000Z",
+      "summary": "Presidente do STJ critica ameaças de impeachment de ministros do STF e defende mudanças para reduzir a morosidade da Justiça",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "Distração e a arte de resolver problemas",
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/distracao-e-a-arte-de-resolver-problemas.shtml",
       "date": "2026-11-19T21:38:00.000Z",
       "summary": "Diante de um desafio que parece impossível de superar, algo tão intimidante que até mesmo dar o primeiro passo parece inviável, o que fazer? Essa pode parecer uma situação enfrentada por alguns dos grandes pensadores da história: o matemático que se vê diante ",
       "source": "Folha",
       "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Justiça derruba liminar que proibiu licitação de iPhones para o Senado",
+      "link": "https://www.estadao.com.br/politica/justica-derruba-liminar-que-proibiu-licitacao-de-iphones-para-o-senado-nprp/",
+      "date": "2026-11-19T21:37:30.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -197,7 +305,7 @@
       "title": "Moraes marca para 4 de dezembro julgamento sobre dosimetria que pode beneficiar Bolsonaro",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/moraes-marca-julgamento-sobre-dosimetria-que-pode-beneficiar-bolsonaro-para-4-de-dezembro.shtml",
       "date": "2026-11-19T21:28:00.000Z",
-      "summary": "O ministro Alexandre de Moraes, do STF (Supremo Tribunal Federal), marcou para 4 de dezembro o começo do julgamento de quatro ações referentes à Lei da Dosimetria, que permite a redução da pena de condenados pela trama golpista e pelo 8 de Janeiro. Leia mais (",
+      "summary": "O ministro Alexandre de Moraes, do STF (Supremo Tribunal Federal), marcou para 4 de dezembro o começo do julgamento de quatro ações referentes à Lei da Dosimetria, que permite a redução da pena de condenados pelo 8 de Janeiro e pela trama golpista, como é o ca",
       "source": "Folha",
       "cat": "politica",
       "type": "imprensa"
@@ -210,15 +318,6 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Moraes autoriza ministro do TCU a visitar Bolsonaro",
-      "link": "https://www.poder360.com.br/poder-justica/moraes-autoriza-ministro-do-tcu-a-visitar-bolsonaro/",
-      "date": "2026-11-19T21:25:26.000Z",
-      "summary": "Encontro com Jorge Oliveira, vice‑presidente do TCU está marcado para 28 de novembro e segue regras do sistema prisional do DF",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
     },
     {
       "title": "JPMorgan, Visa e Mastercard relatam ataques cibernéticos a fornecedores",
@@ -293,33 +392,6 @@
       "type": "oficial"
     },
     {
-      "title": "Câmara aprova regras para transição entre mandatos da Presidência da República",
-      "link": "https://www.estadao.com.br/politica/camara-aprova-regras-para-transicao-entre-mandatos-do-presidente-titular-e-eleito-nprp/",
-      "date": "2026-11-19T21:11:24.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Oposição defende mudar ajuste fiscal na Câmara, mas esbarra em acordo de Motta com governo",
-      "link": "https://www.estadao.com.br/economia/oposicao-defende-mudar-ajuste-fiscal-na-camara-mas-esbarra-em-acordo-de-motta-com-governo/",
-      "date": "2026-11-19T21:11:06.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "PSD recorre de decisão de Zanin e volta a pedir 2º turno no Rio",
-      "link": "https://www.poder360.com.br/poder-justica/psd-recorre-de-decisao-de-zanin-e-volta-a-pedir-2o-turno-no-rio/",
-      "date": "2026-11-19T21:10:54.000Z",
-      "summary": "Partido quer que votos anulados de Garotinho sejam considerados e pede nova votação antes da diplomação de Ruas",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "‘Mais importante que a cifra do ajuste é a confiança de que ele será executado’, diz CEO da Ultrapar",
       "link": "https://www.estadao.com.br/economia/mais-importante-que-a-cifra-do-ajuste-e-a-confianca-de-que-ele-sera-executado-diz-ceo-da-ultrapar/",
       "date": "2026-11-19T21:03:08.000Z",
@@ -365,15 +437,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Deputado aciona TCU contra licitação do Senado para contratar TV a cabo em gabinetes e casa de Davi",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/deputado-aciona-tcu-contra-licitacao-do-senado-para-contratar-tv-a-cabo-em-gabinetes-e-casa-de-davi/",
-      "date": "2026-11-19T20:32:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Participantes de audiência defendem ratificação de convenção sobre direitos das pessoas idosas",
       "link": "https://www.camara.leg.br/noticias/1321321-participantes-de-audiencia-defendem-ratificacao-de-convencao-sobre-direitos-das-pessoas-idosas",
       "date": "2026-11-19T20:29:00.000Z",
@@ -381,24 +444,6 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Presidente do TRF-1 derruba liminar e libera pregão do Senado com gasto de R$ 2,66 milhões em iPhones",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/presidente-do-trf-1-derruba-liminar-e-libera-pregao-do-senado-com-gasto-de-r-266-milhoes-em-iphones.shtml",
-      "date": "2026-11-19T20:21:00.000Z",
-      "summary": "O TRF-1 (Tribunal Regional Federal da 1ª Região) restabeleceu nesta quinta-feira (19) o pregão do Senado para contratar serviços de telefonia móvel por quatro anos, ao custo estimado de R$ 6 milhões. A decisão da presidente da corte, Maria do Carmo Cardoso, su",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Mercado brasileiro de games deve movimentar US$ 3,1 bi até 2030, estima PwC; salto poderia ser maior",
-      "link": "https://www.estadao.com.br/economia/negocios/mercado-brasileiro-de-games-deve-movimentar-us-31-bi-ate-2030-estima-pwc-salto-poderia-ser-maior/",
-      "date": "2026-11-19T20:18:07.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
     },
     {
       "title": "Escolas secretas educam crianças ucranianas sob ocupação russa",
@@ -410,24 +455,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Lula diz que criará ministério voltado à população idosa e cita apoio na eleição",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/11/lula-diz-que-criara-ministerio-voltado-a-populacao-idosa-e-cita-apoio-na-eleicao.shtml",
-      "date": "2026-11-19T19:40:00.000Z",
-      "summary": "O presidente Lula (PT) disse nesta quinta-feira (19) que criará um ministério voltado à população idosa. O chefe do governo também afirmou ser grato ao eleitorado mais velho pelo apoio que deu à sua candidatura de reeleição. Leia mais (11/19/2026 - 16h40)",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Comissão aprova tarifa social de luz para idoso de baixa renda sem exigência de CadÚnico",
-      "link": "https://www.camara.leg.br/noticias/1321208-comissao-aprova-tarifa-social-de-luz-para-idoso-de-baixa-renda-sem-exigencia-de-cadunico",
-      "date": "2026-11-19T19:34:00.000Z",
-      "summary": "Projeto continua em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
       "title": "Mercado de câmbio trava após fala de Lula sobre escolha de ministros e BC intervém com leilão de dólar",
       "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/19/mercado-de-cambio-trava-apos-fala-de-lula-sobre-escolha-de-ministros-e-bc-intervem-com-leilao-de-dolar.ghtml",
       "date": "2026-11-19T19:28:15.000Z",
@@ -435,15 +462,6 @@
       "source": "g1",
       "cat": "politica",
       "type": "imprensa"
-    },
-    {
-      "title": "Audiência discute a criação da Comissão Nacional Indígena da Verdade",
-      "link": "https://www.camara.leg.br/noticias/1321051-audiencia-discute-a-criacao-da-comissao-nacional-indigena-da-verdade",
-      "date": "2026-11-19T19:24:00.000Z",
-      "summary": "Debate na Câmara está marcado para esta terça-feira (24), às 15h30, no plenário 12",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
     },
     {
       "title": "Defesa diz que Bolsonaro não vota na eleição do Senado e recorre para que ex-presidente receba visita de Marinho",
@@ -491,15 +509,6 @@
       "type": "imprensa"
     },
     {
-      "title": "iFood sofre ataque hacker que expõe dados de clientes, entregadores e representantes de restaurantes",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/19/ifood-sofre-invasao-que-expoe-dados-de-clientes-entregadores-e-representantes-de-restaurantes.ghtml",
-      "date": "2026-11-19T18:00:00.000Z",
-      "summary": "Entregador de aplicativo com bag do iFood. Celso Tavares/G1 O iFood informou nesta quinta-feira (19) que criminosos invadiram seus sistemas e acessaram dados de clientes, representantes de restaurantes e entregadores. Ao g1, a empresa disse que ainda investiga",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Borussia Dortmund cede à pressão da torcida e rompe com a Rheinmetall",
       "link": "https://www.dw.com/pt-br/borussia-dortmund-cede-à-pressão-da-torcida-e-rompe-com-a-rheinmetall/a-79995824?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-19T17:41:00.000Z",
@@ -542,15 +551,6 @@
       "summary": "",
       "source": "Estadão",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Musk diz que se sente \"tolo\" por doar milhões para candidatos republicanos",
-      "link": "https://www.dw.com/pt-br/musk-diz-que-se-sente-tolo-por-doar-milhões-para-candidatos-republicanos/a-79990728?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-19T14:25:00.000Z",
-      "summary": "Bilionário teria doado 445 milhões de dólares aos republicanos na campanha eleitoral deste ano. Democratas, porém, obtiveram ampla vitória no pleito, conquistando o controle do Congresso dos EUA.",
-      "source": "DW Brasil",
-      "cat": "internacional",
       "type": "imprensa"
     },
     {
@@ -690,6 +690,7 @@
     }
   ],
   "errors": [
+    "Selic (SGS 432): HTTP 304",
     "feed CNN Brasil: HTTP 404",
     "feed CNN Brasil: HTTP 404"
   ]
