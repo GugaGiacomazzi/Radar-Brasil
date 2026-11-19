@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-19T20:54:29.567Z",
+  "updated": "2026-11-19T21:46:30.959Z",
   "market": {
     "ibov": {
-      "price": 166226.12,
-      "pct": -0.78,
-      "time": "2026-11-19T20:54:21.484Z",
+      "price": 166376.44,
+      "pct": -0.69,
+      "time": "2026-11-19T21:46:20.227Z",
       "history": [
         {
           "d": "2026-10-20",
@@ -92,7 +92,7 @@
         },
         {
           "d": "2026-11-19",
-          "c": 166300.8438
+          "c": 166376.4375
         }
       ]
     },
@@ -149,12 +149,183 @@
   },
   "news": [
     {
-      "title": "STJ mantém anulação da condenação de Adriana Villela no Crime da 113",
-      "link": "https://www.poder360.com.br/poder-justica/stj-mantem-anulacao-da-condenacao-de-adriana-villela-no-crime-da-113/",
-      "date": "2026-11-19T20:47:55.000Z",
-      "summary": "Julgamento terminou empatado em 2 a 2; ministros mantiveram decisão que identificou irregularidades no processo",
+      "title": "Distração e a arte de resolver problemas",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/distracao-e-a-arte-de-resolver-problemas.shtml",
+      "date": "2026-11-19T21:38:00.000Z",
+      "summary": "Diante de um desafio que parece impossível de superar, algo tão intimidante que até mesmo dar o primeiro passo parece inviável, o que fazer? Essa pode parecer uma situação enfrentada por alguns dos grandes pensadores da história: o matemático que se vê diante ",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Tesouro Direto chega a suspender negociações em dia de forte estresse no mercado",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/tesouro-direto-chega-a-suspender-negociacoes-em-dia-de-forte-estresse-no-mercado.shtml",
+      "date": "2026-11-19T21:37:00.000Z",
+      "summary": "As negociações de títulos públicos pelo Tesouro Direto foram suspensas temporariamente durante a tarde desta quinta-feira (19), em meio à forte volatilidade nas taxas de juros negociadas no mercado. A interrupção atingiu parte dos papéis e ocorreu em um dia de",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Desenvolvimento regional, cultura e cidadania contam com novos recursos",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/19/desenvolvimento-regional-cultura-e-cidadania-contam-com-novos-recursos",
+      "date": "2026-11-19T21:35:11.000Z",
+      "summary": "Duas leis sancionadas pelo presidente Luiz Inácio Lula da Silva asseguram recursos complementares do Orçamento para ações de desenvolvimento regional, cultura e cidadania. As Leis 15.543 e 15.537 foram publicadas no Diário Oficial da União (DOU) nesta quinta-f",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Ibovespa cai 0,69% com incertezas sobre ajuste fiscal do governo",
+      "link": "https://www.poder360.com.br/poder-economia/ibovespa-cai-069-com-incertezas-sobre-ajuste-fiscal-do-governo/",
+      "date": "2026-11-19T21:34:31.000Z",
+      "summary": "Principal índice da B3 recuou a 166.376 pontos; alta do dólar e dos juros futuros pressionou o mercado acionário",
       "source": "Poder360",
       "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Moretti diz que supersalários serão regulamentados em 60 dias",
+      "link": "https://www.poder360.com.br/poder-economia/moretti-diz-que-supersalarios-serao-regulamentados-em-60-dias/",
+      "date": "2026-11-19T21:33:08.000Z",
+      "summary": "Prazo começa a contar depois da sanção do pacote de ajuste fiscal; ministro defende combate a privilégios no funcionalismo",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Moraes marca para 4 de dezembro julgamento sobre dosimetria que pode beneficiar Bolsonaro",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/moraes-marca-julgamento-sobre-dosimetria-que-pode-beneficiar-bolsonaro-para-4-de-dezembro.shtml",
+      "date": "2026-11-19T21:28:00.000Z",
+      "summary": "O ministro Alexandre de Moraes, do STF (Supremo Tribunal Federal), marcou para 4 de dezembro o começo do julgamento de quatro ações referentes à Lei da Dosimetria, que permite a redução da pena de condenados pela trama golpista e pelo 8 de Janeiro. Leia mais (",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Câmara dos Deputados reconhece boas iniciativas na educação brasileira com Prêmio Darcy Ribeiro",
+      "link": "https://www.camara.leg.br/noticias/1321375-camara-dos-deputados-reconhece-boas-iniciativas-na-educacao-brasileira-com-premio-darcy-ribeiro",
+      "date": "2026-11-19T21:26:00.000Z",
+      "summary": "Instituto Ayrton Senna, Instituto Alana e Escola Nacional Florestan Fernandes foram agraciados neste ano",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Moraes autoriza ministro do TCU a visitar Bolsonaro",
+      "link": "https://www.poder360.com.br/poder-justica/moraes-autoriza-ministro-do-tcu-a-visitar-bolsonaro/",
+      "date": "2026-11-19T21:25:26.000Z",
+      "summary": "Encontro com Jorge Oliveira, vice‑presidente do TCU está marcado para 28 de novembro e segue regras do sistema prisional do DF",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "JPMorgan, Visa e Mastercard relatam ataques cibernéticos a fornecedores",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/jpmorgan-visa-e-mastercard-relatam-ataques-ciberneticos-a-fornecedores.shtml",
+      "date": "2026-11-19T21:24:00.000Z",
+      "summary": "O JPMorgan Chase, maior banco dos Estados Unidos, afirmou nesta quinta-feira (19) que terceiros que prestam serviços à instituição foram alvo de um ataque cibernético. Leia mais (11/19/2026 - 18h24)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Comissão aprova fim de carência para salário-maternidade de três categorias",
+      "link": "https://www.camara.leg.br/noticias/1321151-comissao-aprova-fim-de-carencia-para-salario-maternidade-de-tres-categorias",
+      "date": "2026-11-19T21:23:00.000Z",
+      "summary": "O projeto continua em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Moraes libera ações sobre Lei da Dosimetria para julgamento no STF; caso será analisado em dezembro",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/19/moraes-libera-acoes-sobre-lei-da-dosimetria-para-julgamento-no-stf.ghtml",
+      "date": "2026-11-19T21:20:39.000Z",
+      "summary": "Moraes libera ações sobre lei da dosimetria para julgamento no STF O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), liberou nesta quinta-feira (19) para julgamento ações que questionam a chamada Lei da Dosimetria, que prevê a redução de penas",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Comissão aprova criação de centros de acolhimento de curta permanência para idosos",
+      "link": "https://www.camara.leg.br/noticias/1321363-comissao-aprova-criacao-de-centros-de-acolhimento-de-curta-permanencia-para-idosos",
+      "date": "2026-11-19T21:20:00.000Z",
+      "summary": "O projeto continua em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Amazon vai desativar venda de bebidas alcoólicas sem imagem do rótulo",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/amazon-vai-desativar-venda-de-bebidas-alcoolicas-sem-imagem-do-rotulo.shtml",
+      "date": "2026-11-19T21:20:00.000Z",
+      "summary": "A Amazon comunicou as empresas parceiras que vai desativar as ofertas de bebidas alcoólicas sem imagens de rótulos a partir de 11 de janeiro, conforme informativo a que a coluna teve acesso. Leia mais (11/19/2026 - 18h20)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Damares defende protocolo nacional para desaparecimento de crianças",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/19/damares-defende-protocolo-nacional-para-desaparecimento-de-criancas",
+      "date": "2026-11-19T21:14:51.000Z",
+      "summary": "A presidente da Comissão de Direitos Humanos (CDH), senadora Damares Alves (Republicanos-DF), defendeu nesta quinta-feira (19) a adoção de um protocolo unificado nacional em caso de desaparecimento de crianças. Ela está no Rio de Janeiro (RJ) para acompanhar a",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "BC aperfeiçoa norma sobre a participação em operações no mercado aberto",
+      "link": "https://www.bcb.gov.br/detalhenoticia/21326/nota",
+      "date": "2026-11-19T21:14:32.000Z",
+      "summary": "",
+      "source": "Banco Central",
+      "cat": "economia",
+      "type": "oficial"
+    },
+    {
+      "title": "Comissões propõem R$ 85,9 bilhões em emendas ao Orçamento de 2027",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/19/comissoes-propoem-r-85-9-bilhoes-em-emendas-ao-orcamento-de-2027",
+      "date": "2026-11-19T21:12:59.000Z",
+      "summary": "Dezesseis comissões do Senado e do Congresso Nacional aprovaram, na terça-feira (17) e na quarta-feira (18), emendas aos projetos do Orçamento e da Lei de Diretrizes Orçamentárias de 2027. As 96 emendas de apropriação somam R$ 85,9 bilhões e propõem recursos p",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Câmara aprova regras para transição entre mandatos da Presidência da República",
+      "link": "https://www.estadao.com.br/politica/camara-aprova-regras-para-transicao-entre-mandatos-do-presidente-titular-e-eleito-nprp/",
+      "date": "2026-11-19T21:11:24.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Oposição defende mudar ajuste fiscal na Câmara, mas esbarra em acordo de Motta com governo",
+      "link": "https://www.estadao.com.br/economia/oposicao-defende-mudar-ajuste-fiscal-na-camara-mas-esbarra-em-acordo-de-motta-com-governo/",
+      "date": "2026-11-19T21:11:06.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "PSD recorre de decisão de Zanin e volta a pedir 2º turno no Rio",
+      "link": "https://www.poder360.com.br/poder-justica/psd-recorre-de-decisao-de-zanin-e-volta-a-pedir-2o-turno-no-rio/",
+      "date": "2026-11-19T21:10:54.000Z",
+      "summary": "Partido quer que votos anulados de Garotinho sejam considerados e pede nova votação antes da diplomação de Ruas",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "‘Mais importante que a cifra do ajuste é a confiança de que ele será executado’, diz CEO da Ultrapar",
+      "link": "https://www.estadao.com.br/economia/mais-importante-que-a-cifra-do-ajuste-e-a-confianca-de-que-ele-sera-executado-diz-ceo-da-ultrapar/",
+      "date": "2026-11-19T21:03:08.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -174,15 +345,6 @@
       "source": "Folha",
       "cat": "politica",
       "type": "imprensa"
-    },
-    {
-      "title": "Pesquisa científica e datacenter do Serpro terão mais R$ 48,1 milhões",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/19/pesquisa-cientifica-e-datacenter-do-serpro-terao-mais-r-48-1-milhoes",
-      "date": "2026-11-19T20:39:53.000Z",
-      "summary": "O governo federal autorizou a abertura de créditos orçamentários que somam R$ 48,1 milhões para pesquisa e desenvolvimento científico e para demandas de datacenter. Os recursos estão previstos nas Leis 15.531 e 15.544, sancionadas pelo presidente Luiz Inácio L",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
     },
     {
       "title": "André Esteves depõe à PF: ‘Master era um banco muito pequeno, inexpressivo’",
@@ -212,24 +374,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Justiça libera pregão de R$ 6 milhões para iPhones do Senado",
-      "link": "https://www.poder360.com.br/poder-congresso/justica-libera-pregao-de-r-6-milhoes-para-iphones-do-senado/",
-      "date": "2026-11-19T20:31:00.000Z",
-      "summary": "Decisão da presidente do TRF-1, juíza federal Maria do Carmo Cardoso, derruba liminar concedida a pedido de Nikolas Ferreira (PL)",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Vieira e Mauricio Lyrio devem comandar Itamaraty no 4º mandato de Lula",
-      "link": "https://www.poder360.com.br/poder-governo/vieira-e-lyrio-devem-comandar-itamaraty-no-4o-mandato-de-lula/",
-      "date": "2026-11-19T20:29:15.000Z",
-      "summary": "Ministro deve ficar no cargo por 2 anos; secretário de Clima deve se tornar secretário-geral e passar ao posto principal em 2029",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Participantes de audiência defendem ratificação de convenção sobre direitos das pessoas idosas",
       "link": "https://www.camara.leg.br/noticias/1321321-participantes-de-audiencia-defendem-ratificacao-de-convencao-sobre-direitos-das-pessoas-idosas",
       "date": "2026-11-19T20:29:00.000Z",
@@ -237,24 +381,6 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Dólar vai a R$ 5,93 e renova máxima do ano apesar de leilão do BC",
-      "link": "https://www.poder360.com.br/poder-economia/dolar-vai-a-r-593-e-renova-maxima-do-ano-apesar-de-leilao-do-bc/",
-      "date": "2026-11-19T20:28:11.000Z",
-      "summary": "Moeda norte-americana fechou com alta de 1,15%; BC fez leilão extraordinário de US$ 1 bilhão no mercado à vista para reduzir a pressão sobre o câmbio, mas não foi suficiente",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Galípolo diz à PF que informações vazavam para o Master logo após reuniões internas do BC",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/galipolo-diz-a-pf-que-informacoes-vazavam-para-o-master-logo-apos-reunioes-internas-do-bc/",
-      "date": "2026-11-19T20:25:36.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
     },
     {
       "title": "Presidente do TRF-1 derruba liminar e libera pregão do Senado com gasto de R$ 2,66 milhões em iPhones",
@@ -275,60 +401,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Empresas que ignoram alerta sobre proteção de dados são os maiores alvos de multas pela ANPD",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/empresas-que-ignoram-alerta-sobre-protecao-de-dados-sao-os-maiores-alvos-de-multas-pela-anpd.shtml",
-      "date": "2026-11-19T20:16:00.000Z",
-      "summary": "Uma análise sobre 190 processos no âmbito da ANPD (Agência Nacional de Proteção de Dados) realizada pelo escritório Prado Vidigal Advogados concluiu que o que mais leva empresas a serem punidas é ignorar alertas do órgão. Essa infração ultrapassou, inclusive, ",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Rockstar deve quebrar recordes de vendas com lançamento de GTA 6",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/rockstar-deve-quebrar-recordes-de-vendas-com-lancamento-de-gta-6.shtml",
-      "date": "2026-11-19T20:12:00.000Z",
-      "summary": "A aventura da dupla de criminosos Lucia e Jason por Vice City em \"GTA 6\" deve ajudar a Take-Two Interactive a arrecadar cerca de US$ 2 bilhões (R$ 11,86 bilhões) em vendas estimadas no primeiro dia de lançamento do game. Leia mais (11/19/2026 - 17h12)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Agora é lei: mudanças no Orçamento incluem Copa Feminina e nomeações",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/19/agora-e-lei-mudancas-no-orcamento-incluem-copa-feminina-e-nomeacoes",
-      "date": "2026-11-19T20:10:59.000Z",
-      "summary": "Três leis que alteram regras do Orçamento da União de 2026 foram publicadas no Diário Oficial da União nesta quinta-feira (19). As medidas ampliam as possibilidades de remanejamento de recursos pelo governo federal, flexibilizam exigências orçamentárias para a",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Apesar de ansiedade do mercado, Lula 4 não assume em ambiente de terra arrasada, diz André Esteves",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/apesar-de-ansiedade-do-mercado-lula-4-nao-assume-em-ambiente-de-terra-arrasada-diz-andre-esteves.shtml",
-      "date": "2026-11-19T20:09:00.000Z",
-      "summary": "O presidente do conselho de administração do BTG Pactual, André Esteves, afirmou nesta quinta-feira (19) que, apesar da ansiedade do mercado nos últimos dias, o quarto mandato de Luiz Inácio Lula da Silva (PT) não começa com um cenário de terra arrasada, como ",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Qual país tem a maior carga tributária do mundo? Brasil pode chegar ao topo até 2050",
-      "link": "https://www.estadao.com.br/economia/pedro-fernando-nery/qual-pais-tem-a-maior-carga-tributaria-do-mundo/",
-      "date": "2026-11-19T20:03:29.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Durigan defende novo imposto no Senado",
-      "link": "https://www12.senado.leg.br/noticias/infomaterias/2026/11/durigan-defende-novo-imposto-no-senado",
-      "date": "2026-11-19T20:02:26.000Z",
-      "summary": "",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
       "title": "Escolas secretas educam crianças ucranianas sob ocupação russa",
       "link": "https://www.dw.com/pt-br/escolas-secretas-educam-crianças-ucranianas-sob-ocupação-russa/a-79981727?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-19T19:58:00.000Z",
@@ -336,15 +408,6 @@
       "source": "DW Brasil",
       "cat": "internacional",
       "type": "imprensa"
-    },
-    {
-      "title": "Obras em presídios e combate ao crime na Amazônia terão mais recursos",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/19/obras-em-presidios-e-combate-ao-crime-na-amazonia-legal-terao-mais-recursos",
-      "date": "2026-11-19T19:49:25.000Z",
-      "summary": "A Presidência da República sancionou nesta quinta-feira (19) três leis que destinam cerca de R$ 141,6 milhões em recursos para as áreas de segurança, educação, transportes e desenvolvimento econômico. As leis foram publicadas no Diário Oficial da União e decor",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
     },
     {
       "title": "Lula diz que criará ministério voltado à população idosa e cita apoio na eleição",
@@ -365,15 +428,6 @@
       "type": "oficial"
     },
     {
-      "title": "Juro alto no Brasil e o que nos separa de México e África do Sul",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/braulio-borges/2026/11/juro-alto-no-brasil-e-o-que-nos-separa-de-mexico-e-africa-do-sul.shtml",
-      "date": "2026-11-19T19:30:00.000Z",
-      "summary": "Na semana passada, mostrei aqui que o juro real brasileiro fica uns três pontos percentuais acima do de outros emergentes, mesmo descontando o juro americano e o risco-país, e que a execução da política fiscal, expansionista ou contracionista, explica razoavel",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Mercado de câmbio trava após fala de Lula sobre escolha de ministros e BC intervém com leilão de dólar",
       "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/19/mercado-de-cambio-trava-apos-fala-de-lula-sobre-escolha-de-ministros-e-bc-intervem-com-leilao-de-dolar.ghtml",
       "date": "2026-11-19T19:28:15.000Z",
@@ -390,42 +444,6 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Comissão aprova proposta que declara o jiu-jitsu brasileiro como manifestação cultural",
-      "link": "https://www.camara.leg.br/noticias/1321274-comissao-aprova-proposta-que-declara-o-jiu-jitsu-brasileiro-como-manifestacao-cultural",
-      "date": "2026-11-19T19:17:00.000Z",
-      "summary": "Outros seis textos foram aprovados e seguem para o Senado, a menos no caso de recurso para análise pelo Plenário da Câmara",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Empresários pedem mais tempo para adaptação à escala 5x2 com 42 horas semanais",
-      "link": "https://www.camara.leg.br/noticias/1321259-empresarios-pedem-mais-tempo-para-adaptacao-a-escala-5x2-com-42-horas-semanais",
-      "date": "2026-11-19T19:11:00.000Z",
-      "summary": "O início da vigência da escala 5x2, assim como a carga de trabalho de 42 horas semanais, está previsto para 16 de dezembro próximo",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Comissão aprova prioridade e prorrogação em estágio obrigatório para gestantes",
-      "link": "https://www.camara.leg.br/noticias/1321217-comissao-aprova-prioridade-e-prorrogacao-em-estagio-obrigatorio-para-gestantes",
-      "date": "2026-11-19T19:02:00.000Z",
-      "summary": "Proposta segue em análise na Câmara",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Show da Virada na Paulista terá Pericles com participação de pagodeiros dos anos 90",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/show-da-virada-na-paulista-tera-pericles-com-participacao-de-pagodeiros-dos-anos-90.shtml",
-      "date": "2026-11-19T18:53:00.000Z",
-      "summary": "O Show da Virada na avenida Paulista, promovido pela Prefeitura de São Paulo, terá como atração o cantor Péricles, com participação especial de um trio de pagodeiros que despontaram nos anos 90: Marcinho (ex-Art Popular), Salgadinho (Katinguelê) e Netinho de P",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
     },
     {
       "title": "Defesa diz que Bolsonaro não vota na eleição do Senado e recorre para que ex-presidente receba visita de Marinho",
@@ -488,15 +506,6 @@
       "summary": "Após protestos da segunda maior torcida alemã, clube rescinde contrato de patrocínio com a maior fabricante de armas da Alemanha. Time não é o primeiro da Bundesliga a sofrer conflito entre interesses comerciais e fãs.",
       "source": "DW Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Lula exonera Wellington Dias, ministro do Desenvolvimento Social",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/19/lula-exonera-wellington-dias-ministro-do-desenvolvimento-social.ghtml",
-      "date": "2026-11-19T17:32:20.000Z",
-      "summary": "Ministro do Desenvolvimento Social Wellington Dias ao lado do presidente Lula Evaristo Sá/AFP O presidente Luiz Inácio Lula da Silva (PT) exonerou o Wellington Dias do cargo de ministro do Desenvolvimento e Assistência Social, Família e Combate à Fome (MDS). A",
-      "source": "g1",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -579,15 +588,6 @@
       "source": "ONU News",
       "cat": "internacional",
       "type": "oficial"
-    },
-    {
-      "title": "Ressurge movimentação por ex-superintendente do Cade Alexandre Barreto no comando do BB",
-      "link": "https://www.estadao.com.br/economia/ressurge-movimentacao-por-ex-superintendente-do-cade-alexandre-barreto-no-comando-do-bb/",
-      "date": "2026-11-18T19:43:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
     },
     {
       "title": "BC divulga Fluxo cambial mensal",
@@ -686,15 +686,6 @@
       "summary": "Secretário-geral elogiou cooperação do bloco, que inclui nação de língua portuguesa Timor-Leste; líder da ONU também citou guerra na Ucrânia que elevou preço dos alimentos na região; Asean tem 11 Estados-membros, e disse que mundo deve apoiar multilateralismo ",
       "source": "ONU News",
       "cat": "internacional",
-      "type": "oficial"
-    },
-    {
-      "title": "Banco Central decreta Liquidação Extrajudicial da Cooperativa Administradora de Consórcios Roma",
-      "link": "https://www.bcb.gov.br/detalhenoticia/21318/nota",
-      "date": "2026-11-12T11:30:13.000Z",
-      "summary": "",
-      "source": "Banco Central",
-      "cat": "economia",
       "type": "oficial"
     }
   ],
