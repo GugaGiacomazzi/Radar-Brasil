@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-20T18:55:10.285Z",
+  "updated": "2026-11-20T19:56:51.053Z",
   "market": {
     "ibov": {
       "price": 166376.44,
       "pct": -0.69,
-      "time": "2026-11-20T18:55:03.360Z",
+      "time": "2026-11-20T19:56:41.078Z",
       "history": [
         {
           "d": "2026-10-21",
@@ -145,6 +145,96 @@
   },
   "news": [
     {
+      "title": "Faria e Vorcaro brincam sobre criar instituto para Moraes em Londres",
+      "link": "https://www.poder360.com.br/poder-justica/faria-e-vorcaro-brincam-sobre-criar-instituto-para-moraes-em-londres/",
+      "date": "2026-11-20T19:41:38.000Z",
+      "summary": "Mensagens de março de 2024 têm risadas e ironias sobre a criação de entidades por ministros do Supremo",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Trump ameaça impor taxas pesadas a empresas dos EUA que construírem data centers no exterior",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/trump-ameaca-impor-taxas-pesadas-a-empresas-dos-eua-que-construirem-data-centers-no-exterior.shtml",
+      "date": "2026-11-20T19:36:00.000Z",
+      "summary": "O presidente dos Estados Unidos, Donald Trump, afirmou nesta sexta-feira (20) que pretende impor taxas elevadas a empresas americanas que construírem data centers em outros países. A medida, ainda não formalizada, faz parte da estratégia do republicano de conc",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Até onde estratégia de Trump contra o Irã depende de China e Rússia",
+      "link": "https://www.dw.com/pt-br/até-onde-estratégia-de-trump-contra-o-irã-depende-de-china-e-rússia/a-80005164?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-20T19:32:00.000Z",
+      "summary": "Pequim compra a maior parte do petróleo iraniano e Moscou oferece apoio político ao reg, mas as duas potências calculam cuidadosamente até onde vale a pena ajudar Teerã.",
+      "source": "DW Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Executivo faz fortuna com IPO da Anthropic, mas ganho poderia ser maior",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/executivo-faz-fortuna-com-ipo-da-anthropic-mas-ganho-poderia-ser-maior.shtml",
+      "date": "2026-11-20T19:29:00.000Z",
+      "summary": "A oferta pública inicial de ações (IPO) da Anthropic renderá fortunas a uma série de conhecidos investidores do Vale do Silício, investidores de capital de risco e primeiros funcionários que tiveram a sorte de identificar o potencial da startup de inteligência",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Trump diz que Filipinas compravam mais produtos do agro brasileiro e agora comprarão apenas dos EUA",
+      "link": "https://www.estadao.com.br/economia/agronegocios/trump-filipinas-produtos-agro-brasileiro-compras-eua/",
+      "date": "2026-11-20T19:28:39.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Trump ameaça taxar empresas que construírem data centers fora dos EUA",
+      "link": "https://www.poder360.com.br/poder-internacional/trump-ameaca-taxar-empresas-que-construirem-data-centers-fora-dos-eua/",
+      "date": "2026-11-20T19:28:24.000Z",
+      "summary": "Presidente quer concentrar nos Estados Unidos estruturas usadas para processar dados e desenvolver IA",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Trump chama Fed de “político” e reclama de juros altos",
+      "link": "https://www.poder360.com.br/poder-internacional/trump-chama-fed-de-politico-e-reclama-de-juros-altos/",
+      "date": "2026-11-20T19:16:45.000Z",
+      "summary": "Presidente diz que instituição deveria reduzir taxas diante dos bons resultados da economia dos EUA",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Trump diz que convenceu Filipinas a substituir produtos agrícolas do Brasil pelos dos EUA",
+      "link": "https://g1.globo.com/mundo/noticia/2026/11/20/trump-brasil-filipinas.ghtml",
+      "date": "2026-11-20T19:16:23.000Z",
+      "summary": "Trump diz que Filipinas vão trocar Brasil pelos EUA na agricultura O presidente dos Estados Unidos, Donald Trump, afirmou nesta sexta-feira (20) que teria firmado um acordo com as Filipinas para assegurar a preferência de produtos agrícolas norte-americanos no",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Bitcoin fica abaixo de US$ 60 mil pela 1ª vez desde julho",
+      "link": "https://www.poder360.com.br/poder-economia/bitcoin-fica-abaixo-de-us-60-mil-pela-1a-vez-desde-julho/",
+      "date": "2026-11-20T19:10:15.000Z",
+      "summary": "Criptomoeda caminha para 7ª semana consecutiva de queda; saques de ETFs e expectativa de alta dos juros nos EUA pressionam mercado",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Itália permite carros autonômos da Tesla antes de aprovação na União Europeia",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/italia-permite-carros-autonomos-da-tesla-antes-de-aprovacao-na-uniao-europeia.shtml",
+      "date": "2026-11-20T18:59:00.000Z",
+      "summary": "A Itália concedeu aprovação provisória ao Sistema de Direção Assistida da Tesla (TAD, na sigla em inglês), informou nesta sexta-feira (20) o ministro dos Transportes, Matteo Salvini. Leia mais (11/20/2026 - 15h59)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "A tecnologia prometeu facilidade. Agora está deixando muitos americanos apreensivos",
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/a-tecnologia-prometeu-facilidade-agora-esta-deixando-muitos-americanos-apreensivos.shtml",
       "date": "2026-11-20T18:48:00.000Z",
@@ -154,21 +244,21 @@
       "type": "imprensa"
     },
     {
-      "title": "Trump diz que Filipinas deixarão de comprar produtos agrícolas do Brasil",
-      "link": "https://www.poder360.com.br/poder-internacional/trump-diz-que-filipinas-deixarao-de-comprar-produtos-agricolas-do-brasil/",
-      "date": "2026-11-20T18:36:01.000Z",
-      "summary": "Presidente afirma que país asiático passará a adquirir 100% dessas mercadorias dos EUA a partir de janeiro",
-      "source": "Poder360",
-      "cat": "politica",
+      "title": "Ações da Nvidia têm pior sequência de quedas na bolsa desde 2008",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/20/acoes-da-nvidia-tem-pior-sequencia-de-quedas-na-bolsa-desde-2008.ghtml",
+      "date": "2026-11-20T18:47:51.000Z",
+      "summary": "Chips da Nvidia são usados ​​para criar e executar aplicações de IA Annegret Hilse/REUTERS Com uma queda que supera 7% nesta sexta-feira (20) na Nasdaq, as ações da fabricante de chips Nvidia encaminham a sétima semana consecutiva de perdas. Trata-se do pior d",
+      "source": "g1",
+      "cat": "economia",
       "type": "imprensa"
     },
     {
-      "title": "BTG desistiu de comprar Master por falta de garantias, diz Esteves",
-      "link": "https://www.poder360.com.br/poder-economia/btg-desistiu-de-comprar-master-por-falta-de-garantias-diz-esteves/",
-      "date": "2026-11-20T18:23:40.000Z",
-      "summary": "Banqueiro afirmou à PF que alertou o Banco Central sobre dúvidas quanto à qualidade dos ativos da instituição em 2024",
-      "source": "Poder360",
-      "cat": "politica",
+      "title": "Trump ameaça taxar empresas dos EUA que construírem data centers fora do país",
+      "link": "https://www.estadao.com.br/economia/trump-ameaca-taxar-empresas-eua-construirem-data-centers-fora/",
+      "date": "2026-11-20T18:40:59.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -181,56 +271,11 @@
       "type": "imprensa"
     },
     {
-      "title": "De trabalhadores informais a magnatas, China busca dinheiro em todos os bolsos",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/de-trabalhadores-informais-a-magnatas-china-busca-dinheiro-em-todos-os-bolsos.shtml",
-      "date": "2026-11-20T18:21:00.000Z",
-      "summary": "Uma nova piada vem circulando pela internet chinesa. Leia mais (11/20/2026 - 15h21)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Praga mortal que ameaça gado avança nos EUA, e moscas estéreis viram aposta contra parasita",
       "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/20/praga-mortal-que-ameaca-gado-avanca-nos-eua-e-moscas-estereis-viram-aposta-contra-parasita.ghtml",
       "date": "2026-11-20T18:14:28.000Z",
       "summary": "Imagem de uma mosca-da-bicheira (Cochliomyia hominivorax). Departamento de Agricultura dos EUA. Os surtos da mosca-da-bicheira do Novo Mundo nos Estados Unidos aumentaram devido ao clima úmido e quente no sudoeste do país, segundo o Departamento de Agricultura",
       "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Relatório da PF sobre André Mendonça contém só citações de terceiros",
-      "link": "https://www.poder360.com.br/poder-justica/relatorio-da-pf-sobre-andre-mendonca-contem-so-citacoes-de-terceiros/",
-      "date": "2026-11-20T18:14:19.000Z",
-      "summary": "Andrei Rodrigues tem interesse em afastar Mendonça do caso e adotou critério distinto do usado para outros ministros, que também só são citados em mensagens fortuitas e a PF não recomendou mais investigações",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Estilhaços de drones russos atingem Embaixada do Brasil na Ucrânia",
-      "link": "https://www.poder360.com.br/poder-internacional/estilhacos-de-drones-russos-atingem-embaixada-do-brasil-na-ucrania/",
-      "date": "2026-11-20T18:06:22.000Z",
-      "summary": "Chanceler ucraniano afirma que não houve feridos nem danos estruturais e relata ataques a outras missões diplomáticas",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "'Não queremos morrer': manifestantes criticam criadora do Claude, Anthropic, após IPO",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/nao-queremos-morrer-manifestantes-criticam-criadora-do-claude-anthropic-apos-ipo.shtml",
-      "date": "2026-11-20T18:03:00.000Z",
-      "summary": "Cerca de cem pessoas enfrentaram a chuva na quinta-feira (19) para protestar em frente aos escritórios da Anthropic, em São Francisco, no mesmo dia em que o laboratório de inteligência artificial (IA) abriu seu capital, denunciando sua corrida para desenvolver",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Ações sobre cotas raciais em concursos públicos têm alta, mostram levantamentos",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/acoes-sobre-cotas-raciais-em-concursos-publicos-tem-alta-mostram-levantamentos.shtml",
-      "date": "2026-11-20T18:00:00.000Z",
-      "summary": "Dois levantamentos diferentes mostram que o número de processos sobre aplicação das cotas raciais em concursos públicos na Justiça tem aumentado significativamente nos últimos anos. Leia mais (11/20/2026 - 15h00)",
-      "source": "Folha",
       "cat": "economia",
       "type": "imprensa"
     },
@@ -361,46 +406,10 @@
       "type": "imprensa"
     },
     {
-      "title": "'Robôs assassinos' já são usados em guerras, mas países não chegam a acordo sobre limites na ONU",
-      "link": "https://g1.globo.com/inovacao/noticia/2026/11/20/robos-assassinos-ja-sao-usados-em-guerras-mas-paises-nao-chegam-a-acordo-sobre-limites-na-onu.ghtml",
-      "date": "2026-11-20T14:00:27.000Z",
-      "summary": "Um homem está em meio aos escombros de um prédio de escritórios que pegou fogo após ser atingido durante ataques russos com mísseis e drones, em meio à ofensiva da Rússia contra a Ucrânia, em Kiev. REUTERS/Thomas Peter A conferência da ONU sobre os chamados \"r",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Financiamento climático: quem paga essa conta?",
-      "link": "https://www.estadao.com.br/economia/teresa-vendramini/financiamento-climatico-quem-paga-essa-conta/",
-      "date": "2026-11-20T14:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Impasse sobre guerra e gastos militares ameaça paralisar governo dos EUA",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/20/impasse-sobre-guerra-e-gastos-militares-ameaca-paralisar-governo-dos-eua.ghtml",
-      "date": "2026-11-20T13:34:36.000Z",
-      "summary": "O governo dos Estados Unidos corre o risco de paralisar parte de suas atividades antes do Natal, caso republicanos e democratas não cheguem a um acordo sobre o financiamento de órgãos federais. O impasse envolve divergências sobre a guerra com o Irã e o pedido",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Tropas de 11 países ensaiam possível missão militar na Ucrânia pós-guerra",
       "link": "https://www.dw.com/pt-br/tropas-de-11-países-ensaiam-possível-missão-militar-na-ucrânia-pós-guerra/a-80001724?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-20T13:01:00.000Z",
       "summary": "Milhares de tropas europeias estão participando de um exercício militar no sudeste da Polônia. Liderada por França e Reino Unido, força multinacional avalia capacidade de mobilização na Ucrânia após o fim da guerra.",
-      "source": "DW Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Gasto dos EUA na guerra contra Irã chega a US$ 48 bilhões e amplia pressão sobre o Pentágono",
-      "link": "https://www.dw.com/pt-br/gasto-dos-eua-na-guerra-contra-irã-chega-a-us-48-bilhões-e-amplia-pressão-sobre-o-pentágono/a-80001454?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-20T12:43:00.000Z",
-      "summary": "Oposição democrata critica falta de transparência e pede que o governo Trump libere estimativa de prejuízos em bases americanas no Oriente Médio, que estão fora da conta atual.",
       "source": "DW Brasil",
       "cat": "internacional",
       "type": "imprensa"
@@ -413,6 +422,15 @@
       "source": "g1",
       "cat": "politica",
       "type": "imprensa"
+    },
+    {
+      "title": "COP31: Países exigem acordo climático mais robusto na reta final das negociações",
+      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854976",
+      "date": "2026-11-20T12:00:00.000Z",
+      "summary": "Grupo de nações de diversas regiões exigiu nesta sexta-feira referência direta ao fim dos combustíveis fósseis no acordo final da conferência, que decorre em Antália, na Turquia; ativistas alertam que resultado caminha para o fracasso.",
+      "source": "ONU News",
+      "cat": "internacional",
+      "type": "oficial"
     },
     {
       "title": "WFP lança plano para salvar 91 milhões de pessoas da fome",
@@ -448,15 +466,6 @@
       "summary": "O relatório da Polícia Federal com menções ao ministro André Mendonça, do Supremo Tribunal Federal (STF), detalha tentativas de aproximação do ex-banqueiro Daniel Vorcaro, e de pessoas próximas ao dono do Master, ao magistrado da Suprema Corte. Nesta sexta-fei",
       "source": "g1",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Influenciadores negros recebem R$ 68 a cada R$ 100 pagos a brancos; o que essa lacuna revela?",
-      "link": "https://www.estadao.com.br/economia/governanca/influenciadores-negros-recebem-r-68-a-cada-r-100-pagos-a-brancos-o-que-essa-lacuna-revela/",
-      "date": "2026-11-20T11:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -617,15 +626,6 @@
       "link": "https://news.un.org/feed/view/pt/story/2026/11/1854955",
       "date": "2026-11-19T12:00:00.000Z",
       "summary": "Com investimentos da Coreia do Sul, iniciativa vai alcançar mais de 85 mil alunos em quase 500 escolas; Governo timorense e Programa Mundial de Alimentos da ONU são parceiros no esforço, que inclui construção de 30 novas cozinhas e refeitórios.",
-      "source": "ONU News",
-      "cat": "internacional",
-      "type": "oficial"
-    },
-    {
-      "title": "Estudo sobre defesa do consumidor digital apresenta retrato da Argentina",
-      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854959",
-      "date": "2026-11-19T12:00:00.000Z",
-      "summary": "A proteção do consumidor é essencial para mercados estáveis e transparentes, destaca a Unctad em revisão sobre o país; apesar dos avanços, fatores como fosso digital, crédito online e disparidades regionais são desafios à inclusão.&nbsp;",
       "source": "ONU News",
       "cat": "internacional",
       "type": "oficial"
