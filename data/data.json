@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-20T06:38:04.730Z",
+  "updated": "2026-11-20T07:57:58.126Z",
   "market": {
     "ibov": {
       "price": 166376.44,
       "pct": -0.69,
-      "time": "2026-11-20T06:38:01.205Z",
+      "time": "2026-11-20T07:57:51.199Z",
       "history": [
         {
           "d": "2026-10-21",
@@ -145,37 +145,82 @@
   },
   "news": [
     {
-      "title": "Um salário mínimo compra 23 kg de acém a menos do que em 2007; entenda o preço da carne",
-      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/20/um-salario-minimo-compra-23-kg-de-acem-a-menos-do-que-em-2007-entenda-o-preco-da-carne.ghtml",
-      "date": "2026-11-20T06:00:22.000Z",
-      "summary": "Brasil nunca produziu tanta carne bovina, mas brasileiro come cada vez menos Com um salário mínimo, um trabalhador brasileiro consegue comprar hoje cerca de 39 kg de acém, um dos cortes bovinos mais baratos do açougue. Há 19 anos, a mesma renda levava para cas",
+      "title": "Produção mundial de vinho deve ficar perto do menor nível em 65 anos, com seca e calor na Europa",
+      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/20/producao-mundial-de-vinho-deve-ficar-perto-do-menor-nivel-em-65-anos-com-seca-e-calor-na-europa.ghtml",
+      "date": "2026-11-20T07:00:01.000Z",
+      "summary": "Como harmonizar os diferentes tipos de vinho com comida A produção mundial de vinho deve cair em 2026 e se aproximar do menor nível dos últimos 65 anos, segundo estimativa divulgada na quarta-feira (18) pela Organização Internacional da Vinha e do Vinho (OIV).",
       "source": "g1",
       "cat": "economia",
       "type": "imprensa"
     },
     {
-      "title": "Anthropic x OpenAI: como a rivalidade entre os CEOs virou símbolo da corrida pelo domínio da IA",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/20/anthropic-x-openai-como-a-rivalidade-entre-os-ceos-virou-simbolo-da-corrida-pelo-dominio-da-ia.ghtml",
-      "date": "2026-11-20T06:00:00.000Z",
-      "summary": "Sam Altman, CEO da Open AI, e Dario Amodei, CEO da Anthropic Reuters/Manuel Orbegozo; Reuters/Bhawika Chhabra A estreia da Anthropic, dona do assistente Claude, na bolsa de valores na quinta-feira (19) marcou um novo capítulo na disputa com a OpenAI, responsáv",
+      "title": "É #FAKE que Pix MEI de até R$ 5 mil terá de baixar para R$ 363 para 'caber' no orçamento reservado pelo governo",
+      "link": "https://g1.globo.com/fato-ou-fake/noticia/2026/11/20/e-fake-que-pix-mei-de-ate-r-5-mil-tera-de-baixar-para-r-363-para-caber-no-orcamento-reservado-pelo-governo.ghtml",
+      "date": "2026-11-20T07:00:01.000Z",
+      "summary": "Não é verdde que assistência a MEIs será reduzida de R$ 5 mil para R$ 363 g1 Circulam nas redes sociais publicações sugerindo que o Pix MEI, proposta de incentivo financeiro de até R$ 5 mil a microempreendedores individuais anunciada por Lula (PT) durante a ca",
       "source": "g1",
       "cat": "economia",
       "type": "imprensa"
     },
     {
-      "title": "Justiça manda seguir processo de Trump contra The New York Times",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/justica-manda-seguir-processo-de-trump-contra-the-new-york-times.shtml",
-      "date": "2026-11-20T05:42:00.000Z",
-      "summary": "A Justiça Federal dos Estados Unidos permitiu que sigam adiante partes de um processo por difamação movido pelo presidente Donald Trump contra o The New York Times e quatro de seus repórteres, segundo reportagem do site The Hollywood Reporter. A ação pede inde",
+      "title": "'Não podíamos pagar uma casa para nossa família, então decidimos comprar uma junto com desconhecidos'",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/20/nao-podiamos-pagar-uma-casa-para-nossa-familia-entao-decidimos-comprar-uma-junto-com-desconhecidos.ghtml",
+      "date": "2026-11-20T07:00:00.000Z",
+      "summary": "A família Pullman, à esquerda, e a família Wilcox compraram uma casa juntas, pouco depois que se conheceram. Elizabeth Wilcox/Arquivo pessoal via BBC Elizabeth e Tom Wilcox subitamente perceberam que nunca conseguiriam comprar a casa que eles queriam, para o c",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Livro do filho resgata dúvidas sobre morte de Jango durante a ditadura",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/livro-do-filho-resgata-duvidas-sobre-morte-de-jango-durante-a-ditadura.shtml",
+      "date": "2026-11-20T07:00:00.000Z",
+      "summary": "Sabotadores de carros, especialistas em assassinatos por envenenamento, agentes duplos, codinomes, voos secretos e um grampo na casa de um ex-presidente que está exilado no país vizinho. A história parece romance de espionagem, mas é um resgate que João Vicent",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Distratos de imóveis disparam e atingem até um quarto das vendas de incorporadoras do país",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/distratos-de-imoveis-disparam-e-atingem-ate-um-quarto-das-vendas-de-incorporadoras-do-pais.shtml",
+      "date": "2026-11-20T07:00:00.000Z",
+      "summary": "Os distratos de imóveis já equivalem a até um quarto das vendas brutas de algumas das maiores incorporadoras listadas na B3, mostram os balanços do terceiro trimestre de 2026. Leia mais (11/20/2026 - 04h00)",
       "source": "Folha",
       "cat": "economia",
       "type": "imprensa"
     },
     {
-      "title": "Dívidas viraram uma bola de neve? Entenda os riscos da inadimplência e como sair dela",
-      "link": "https://g1.globo.com/g1-explica/noticia/2026/11/20/dividas-viraram-uma-bola-de-neve-entenda-os-riscos-da-inadimplencia-e-como-sair-dela.ghtml",
-      "date": "2026-11-20T05:00:00.000Z",
-      "summary": "Dívida e inadimplência: entenda a diferença e como escapar da bola de neve Ter dívidas faz parte da vida financeira da maioria das pessoas. O problema começa quando elas deixam de ser pagas e viram inadimplência — sinal de que a dívida cresceu além da capacida",
+      "title": "Governo ainda precisa encontrar espaço no Orçamento para R$ 20 bi de promessas de campanha, diz IFI",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/governo-ainda-precisa-encontrar-espaco-no-orcamento-para-r-20-bi-de-promessas-de-campanha-diz-ifi.shtml",
+      "date": "2026-11-20T07:00:00.000Z",
+      "summary": "O governo ainda precisa encontrar espaço no Orçamento de 2027 para bancar despesas de medidas anunciadas pelo presidente Luiz Inácio Lula da Silva (PT) durante a campanha eleitoral. Segundo a IFI (Instituição Fiscal Independente), órgão ligado ao Senado, não e",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Empresas de diferentes setores e portes usam 'GTA 6' para ampliar vendas ou fortalecer marca",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/empresas-de-diferentes-setores-e-portes-usam-gta-6-para-ampliar-vendas-ou-fortalecer-marca.shtml",
+      "date": "2026-11-20T07:00:00.000Z",
+      "summary": "O lançamento de \"GTA 6\" nesta quinta-feira (19) extrapolou o mercado dos jogos eletrônicos, levando empresas de diferentes setores e portes para a euforia em torno da franquia. Leia mais (11/20/2026 - 04h00)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Regras para categorias específicas e descanso remunerado com fim da 6x1 saem a partir de segunda (23)",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/regras-para-categorias-especificas-e-descanso-remunerado-com-fim-da-6x1-saem-a-partir-de-segunda-23.shtml",
+      "date": "2026-11-20T07:00:00.000Z",
+      "summary": "O Ministério do Trabalho vai publicar na próxima segunda-feira (23) a primeira de uma série de portarias com regras sobre como implementar o fim da escala 6x1. Leia mais (11/20/2026 - 04h00)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Um salário mínimo compra 23 kg de acém a menos do que em 2007; entenda o preço da carne",
+      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/20/um-salario-minimo-compra-23-kg-de-acem-a-menos-do-que-em-2007-entenda-o-preco-da-carne.ghtml",
+      "date": "2026-11-20T06:00:22.000Z",
+      "summary": "Brasil nunca produziu tanta carne bovina, mas brasileiro come cada vez menos Com um salário mínimo, um trabalhador brasileiro consegue comprar hoje cerca de 39 kg de acém, um dos cortes bovinos mais baratos do açougue. Há 19 anos, a mesma renda levava para cas",
       "source": "g1",
       "cat": "economia",
       "type": "imprensa"
@@ -253,15 +298,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Entidades criticam decreto de Lula que regulamenta fim da escala 6x1 e falam em falta de informações",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/entidades-criticam-decreto-de-lula-que-regulamenta-fim-da-escala-6x1-e-falam-em-falta-de-informacoes.shtml",
-      "date": "2026-11-20T02:00:00.000Z",
-      "summary": "Associações que representam diversos setores da economia estão insatisfeitas com o decreto do governo Lula (PT) que regulamenta o fim da escala 6x1. A jornada será substituída pela 5x2, com duas folgas, em 16 de dezembro de 2026. Entidades empresariais, no ent",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "TSE mantem a inelegibilidade de Alfredo Kaefer; ex-deputado tentou disputar vaga na Câmara",
       "link": "https://www.estadao.com.br/politica/tse-mantem-a-inelegibilidade-de-alfredo-kaefer-ex-deputado-tentou-disputar-vaga-na-camara/",
       "date": "2026-11-20T01:57:21.000Z",
@@ -277,24 +313,6 @@
       "summary": "Documentos citam Moraes, Mendonça, Nunes Marques e Toffoli em mensagens encontradas no celular de Vorcaro; Paulo Gonet avaliará o material",
       "source": "Poder360",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Presidente do Memorial da América Latina diz que eventual federalização terá participação do governo de SP",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/presidente-do-memorial-da-america-latina-diz-que-eventual-federalizacao-tera-participacao-do-governo-de-sp.shtml",
-      "date": "2026-11-20T01:00:00.000Z",
-      "summary": "O presidente do Memorial da América Latina, Pedro Mastrobuono, promete abrir um diálogo formal com o governo de São Paulo sobre a possível federalização do espaço cultural, hipótese que ele mencionou em duas cartas enviadas à gestão federal no início do mês. L",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Trump comprou até US$ 265 mil em ações da Nvidia em setembro",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/trump-comprou-ate-us-265-mil-em-acoes-da-nvidia-em-setembro.shtml",
-      "date": "2026-11-20T01:00:00.000Z",
-      "summary": "O presidente dos Estados Unidos, Donald Trump, comprou até US$ 265 mil (R$ 1,5 mi) em ações da Nvidia em setembro, antes de vender até US$ 15 mil (R$ 89 mil) dessas ações no mesmo mês, aponta a declaração financeira de Trump divulgada nesta quinta-feira (19). ",
-      "source": "Folha",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -334,24 +352,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Aviso",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2026/11/aviso-do-colunista.shtml",
-      "date": "2026-11-20T00:45:00.000Z",
-      "summary": "Excepcionalmente, a coluna não será publicada nesta quinta-feira (19). Leia mais (11/19/2026 - 21h45)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Mega-Sena 3088 acumula e prêmio vai a R$ 45 milhões; confira os números sorteados",
-      "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/19/mega-sena-concurso-3088-confira-os-numeros-sorteados.ghtml",
-      "date": "2026-11-20T00:08:26.000Z",
-      "summary": "Mega-Sena, concurso 3088: confira os números sorteados O sorteio do concurso 3.088 da Mega-Sena foi realizado na noite desta quinta-feira (19), em São Paulo. O prêmio para as apostas que acertassem as seis dezenas era de R$ 37,7 milhões. No entanto, ninguém le",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Milhares protestam contra a reforma tributária na Colômbia",
       "link": "https://www.poder360.com.br/poder-internacional/milhares-protestam-contra-a-reforma-tributaria-na-colombia/",
       "date": "2026-11-20T00:05:21.000Z",
@@ -377,6 +377,15 @@
       "source": "Agência Senado",
       "cat": "politica",
       "type": "oficial"
+    },
+    {
+      "title": "Band realiza a 1ª edição do ‘Prêmio Inspira SP’ para celebrar destaques de 2026; veja como será",
+      "link": "https://www.estadao.com.br/economia/negocios/band-realiza-a-1-edicao-do-premio-inspira-sp-para-celebrar-destaques-de-2026-veja-como-sera/",
+      "date": "2026-11-19T22:45:28.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
     },
     {
       "title": "Comissão aprova proposta de política para pessoas com altas habilidades",
@@ -539,15 +548,6 @@
       "source": "Banco Central",
       "cat": "economia",
       "type": "oficial"
-    },
-    {
-      "title": "Toyota quer ampliar mercado de mobilidade para PCDs no Brasil com programa criado no Canadá",
-      "link": "https://www.estadao.com.br/economia/governanca/toyota-ampliar-mercado-mobilidade-pcds-brasil-programa-canada/",
-      "date": "2026-11-19T16:10:18.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
     },
     {
       "title": "Quase uma em cada quatro crianças no mundo vivem em áreas de conflito",
