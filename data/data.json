@@ -1,15 +1,11 @@
 {
-  "updated": "2026-11-19T23:40:25.606Z",
+  "updated": "2026-11-20T00:56:02.497Z",
   "market": {
     "ibov": {
       "price": 166376.44,
       "pct": -0.69,
-      "time": "2026-11-19T23:40:18.307Z",
+      "time": "2026-11-20T00:55:57.456Z",
       "history": [
-        {
-          "d": "2026-10-20",
-          "c": 208296
-        },
         {
           "d": "2026-10-21",
           "c": 206495
@@ -149,11 +145,74 @@
   },
   "news": [
     {
+      "title": "Aviso",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2026/11/aviso-do-colunista.shtml",
+      "date": "2026-11-20T00:45:00.000Z",
+      "summary": "Excepcionalmente, a coluna não será publicada nesta quinta-feira (19). Leia mais (11/19/2026 - 21h45)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "PSB e PDT desistem de federação com legendas médias por serem mais à direita",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/psb-e-pdt-desistem-de-federacao-com-legendas-medias-por-serem-mais-a-direita.shtml",
+      "date": "2026-11-20T00:30:00.000Z",
+      "summary": "Ao oficializar uma nova federação, o PSB e o PDT desistiram de incluir no arranjo outros partidos menores, como Solidariedade, PRD e Avante. O que pesou na decisão, segundo um dirigente, é o fato de esses partidos terem \"os dois pés na direita\". Leia mais (11/",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Mega-Sena 3088 acumula e prêmio vai a R$ 45 milhões; confira os números sorteados",
+      "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/19/mega-sena-concurso-3088-confira-os-numeros-sorteados.ghtml",
+      "date": "2026-11-20T00:08:26.000Z",
+      "summary": "Mega-Sena, concurso 3088: confira os números sorteados O sorteio do concurso 3.088 da Mega-Sena foi realizado na noite desta quinta-feira (19), em São Paulo. O prêmio para as apostas que acertassem as seis dezenas era de R$ 37,7 milhões. No entanto, ninguém le",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Ministros do STF recebem cópia do relatório da PF em que são citados sobre relações com Vorcaro",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/19/ministros-do-stf-recebem-copia-do-relatorio-da-pf-em-que-sao-citados-sobre-relacoes-com-vorcaro.ghtml",
+      "date": "2026-11-20T00:06:16.000Z",
+      "summary": "O presidente do Supremo Tribunal Federal (STF), Edson Fachin, enviou uma cópia dos relatórios produzidos pela Polícia Federal (PF) sobre as relações do banqueiro Daniel Vorcaro, ex-dono do Banco Master, aos ministros que foram citados no material. Ao menos cin",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Milhares protestam contra a reforma tributária na Colômbia",
+      "link": "https://www.poder360.com.br/poder-internacional/milhares-protestam-contra-a-reforma-tributaria-na-colombia/",
+      "date": "2026-11-20T00:05:21.000Z",
+      "summary": "Sindicatos e oposição protestam contra ajuste fiscal proposto pelo atual presidente, Abelardo de la Espriella",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Correios: R$ 7,5 bi de prejuízo e o custo da ideologia",
+      "link": "https://www.estadao.com.br/politica/fernando-schuler/correios-r-75-bi-de-prejuizo-e-o-custo-da-ideologia/",
+      "date": "2026-11-19T23:56:52.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "Em comunicado, líderes empresariais pedem que COP31 apoie eletrificação",
       "link": "https://www.poder360.com.br/poder-energia/em-comunicado-lideres-empresariais-pedem-que-cop31-apoie-eletrificacao/",
       "date": "2026-11-19T23:38:56.000Z",
       "summary": "Documento assinado por empresas como Siemens, Volvo e Nestlé pede sinalização política para destravar investimentos e acelerar a transição energética",
       "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Relator do ajuste fiscal na Câmara mantém texto do Senado; projeto deve ser votado na segunda-feira",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/19/relator-do-ajuste-fiscal-na-camara-mantem-texto-do-senado-projeto-deve-ser-votado-segunda-feira.ghtml",
+      "date": "2026-11-19T23:37:50.000Z",
+      "summary": "Projeto de ajuste fiscal segue para Câmara dos Deputados O relator do projeto de ajuste fiscal do governo Lula (PT) na Câmara dos Deputados, Mauro Benevides (União Brasil-CE), apresentou nesta quinta-feira (19) seu parecer para a proposta. Benevides manteve o ",
+      "source": "g1",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -203,15 +262,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Leia a íntegra do relatório de Moraes sobre o 8 de Janeiro",
-      "link": "https://www.poder360.com.br/poder-justica/leia-a-integra-do-relatorio-de-moraes-sobre-o-8-de-janeiro/",
-      "date": "2026-11-19T22:59:53.000Z",
-      "summary": "Ministro liberou ações contra a Lei da Dosimetria para julgamento de 4 a 15 de dezembro",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Justiça aprova parcelamento de R$ 139 milhões em execuções trabalhistas do Grupo Pão de Açúcar",
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/justica-aprova-parcelamento-de-r-139-milhoes-em-execucoes-trabalhistas-do-grupo-pao-de-acucar.shtml",
       "date": "2026-11-19T22:46:00.000Z",
@@ -239,15 +289,6 @@
       "type": "oficial"
     },
     {
-      "title": "OAB-RJ barra intermediação irregular por plataformas digitais na contratação de advogados",
-      "link": "https://www.estadao.com.br/politica/oab-rj-barrar-intermediacao-irregular-por-plataformas-digitais-na-contratacao-de-advogados-nprp/",
-      "date": "2026-11-19T22:39:16.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Europa luta para não ficar à margem do futuro da Ucrânia",
       "link": "https://www.dw.com/pt-br/europa-luta-para-não-ficar-à-margem-do-futuro-da-ucrânia/a-79997957?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-19T22:36:00.000Z",
@@ -266,8 +307,8 @@
       "type": "imprensa"
     },
     {
-      "title": "PF pede apuração dos casos de 4 ministros do STF ligados a Vorcaro",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/pf-pede-avaliacao-dos-casos-de-4-ministros-do-stf-ligados-a-vorcaro/",
+      "title": "PF inclui Mendonça em pedido de apuração sobre relação com Vorcaro após interferência de Andrei",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/pf-pede-apuracao-dos-casos-de-4-ministros-do-stf-citados-no-celular-de-vorcaro/",
       "date": "2026-11-19T22:23:27.000Z",
       "summary": "",
       "source": "Estadão",
@@ -347,15 +388,6 @@
       "type": "oficial"
     },
     {
-      "title": "Moraes marca para 4 de dezembro julgamento sobre dosimetria que pode beneficiar Bolsonaro",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/moraes-marca-julgamento-sobre-dosimetria-que-pode-beneficiar-bolsonaro-para-4-de-dezembro.shtml",
-      "date": "2026-11-19T21:28:00.000Z",
-      "summary": "O ministro Alexandre de Moraes, do STF (Supremo Tribunal Federal), marcou para dezembro o começo do julgamento de quatro ações referentes à Lei da Dosimetria, que permite a redução da pena de condenados pelo 8 de Janeiro e pela trama golpista, como é o caso do",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Câmara dos Deputados reconhece boas iniciativas na educação brasileira com Prêmio Darcy Ribeiro",
       "link": "https://www.camara.leg.br/noticias/1321375-camara-dos-deputados-reconhece-boas-iniciativas-na-educacao-brasileira-com-premio-darcy-ribeiro",
       "date": "2026-11-19T21:26:00.000Z",
@@ -363,15 +395,6 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "JPMorgan, Visa e Mastercard relatam ataques cibernéticos a fornecedores",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/jpmorgan-visa-e-mastercard-relatam-ataques-ciberneticos-a-fornecedores.shtml",
-      "date": "2026-11-19T21:24:00.000Z",
-      "summary": "O JPMorgan Chase, maior banco dos Estados Unidos, afirmou nesta quinta-feira (19) que terceiros que prestam serviços à instituição foram alvo de um ataque cibernético. Leia mais (11/19/2026 - 18h24)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
     },
     {
       "title": "Comissão aprova fim de carência para salário-maternidade de três categorias",
@@ -473,48 +496,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Defesa diz que Bolsonaro não vota na eleição do Senado e recorre para que ex-presidente receba visita de Marinho",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/19/defesa-diz-que-bolsonaro-nao-tem-voto-na-eleicao-do-senado-e-recorre-para-que-ex-presidente-receba-marinho.ghtml",
-      "date": "2026-11-19T18:51:18.000Z",
-      "summary": "A defesa de Jair Bolsonaro recorreu nesta quinta-feira (19) contra a decisão do ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), que não autorizou visita do senador Rogério Marinho (PL-RN) ao ex-presidente, que cumpre pena de 27 anos em regime ",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Trump comprou até US$ 265 mil em ações da Nvidia enquanto governo avaliava regras para chips",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/19/trump-acoes-nvidia.ghtml",
-      "date": "2026-11-19T18:34:26.000Z",
-      "summary": "Escândalo de espionagem envolvendo a Nvidia chega ao alto escalão do governo Trump O presidente dos Estados Unidos, Donald Trump, comprou até US$ 265 mil (R$ 1,57 milhão) em ações da Nvidia em setembro e vendeu até US$ 15 mil em papéis da empresa no mesmo mês,",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "O que está por trás do acirramento da disputa entre Airbus e Boeing",
       "link": "https://www.dw.com/pt-br/o-que-está-por-trás-do-acirramento-da-disputa-entre-airbus-e-boeing/a-79993144?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-19T18:21:00.000Z",
       "summary": "EUA dizem que financiamento recorde de 3 bilhões de euros para empresa europeia ameaça trégua transatlântica sobre subsídios ao setor aéreo. UE insiste estar agindo em conformidade com as regras de mercado.",
       "source": "DW Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Visa, Mastercard e JPMorgan dizem que fornecedores foram alvo de ataque cibernético",
-      "link": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/11/19/instituicoes-financeiras-ataque-cibernetico.ghtml",
-      "date": "2026-11-19T18:15:51.000Z",
-      "summary": "Visa e Mastercard dizem que ataque cibernético não afetou clientes. REUTERS / Dado Ruvic O JPMorgan Chase, maior banco dos Estados Unidos, informou nesta quinta-feira (19) que empresas que prestam serviços à instituição foram alvo de um ataque cibernético. Vis",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Justiça autoriza Senado a retomar gasto de R$ 6 milhões com iPhones e celulares para parlamentares",
-      "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/19/justica-autoriza-senado-a-retomar-licitacao-de-r-6-milhoes-para-comprar-iphones-para-parlamentares.ghtml",
-      "date": "2026-11-19T18:09:32.000Z",
-      "summary": "Sadi diz que compra de celulares no Senado 'é escárnio com o dinheiro público' A Justiça Federal autorizou nesta quinta-feira (19) a retomada da licitação do Senado que prevê gasto de até R$ 6 milhões com linhas telefônicas e celulares, incluindo iPhones, para",
-      "source": "g1",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
