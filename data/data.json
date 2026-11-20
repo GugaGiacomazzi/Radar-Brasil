@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-20T19:56:51.053Z",
+  "updated": "2026-11-20T20:49:16.908Z",
   "market": {
     "ibov": {
       "price": 166376.44,
       "pct": -0.69,
-      "time": "2026-11-20T19:56:41.078Z",
+      "time": "2026-11-20T20:49:11.169Z",
       "history": [
         {
           "d": "2026-10-21",
@@ -145,12 +145,138 @@
   },
   "news": [
     {
-      "title": "Faria e Vorcaro brincam sobre criar instituto para Moraes em Londres",
-      "link": "https://www.poder360.com.br/poder-justica/faria-e-vorcaro-brincam-sobre-criar-instituto-para-moraes-em-londres/",
-      "date": "2026-11-20T19:41:38.000Z",
-      "summary": "Mensagens de março de 2024 têm risadas e ironias sobre a criação de entidades por ministros do Supremo",
+      "title": "Custo de vida e guerras mobilizam jovens em diversos países da Europa",
+      "link": "https://www.poder360.com.br/poder-internacional/custo-de-vida-e-guerras-mobilizam-jovens-em-diversos-paises-da-europa/",
+      "date": "2026-11-20T20:47:19.000Z",
+      "summary": "Manifestantes criticam gastos militares, crise habitacional e cortes em educação e serviços públicos",
       "source": "Poder360",
       "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Governo prepara regras para limitar benefícios a importados",
+      "link": "https://www.poder360.com.br/poder-economia/governo-prepara-regras-para-limitar-beneficios-a-importados/",
+      "date": "2026-11-20T20:46:54.000Z",
+      "summary": "Consulta recebe sugestões até 3 de dezembro; proposta detalha como aplicar medidas de proteção à indústria",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Trump diz ter exigido que Filipinas comprem produtos agrícolas dos EUA e cancelem negócios com Brasil",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/agro/2026/11/trump-diz-ter-exigido-que-filipinas-comprem-produtos-agricolas-dos-eua-e-cancelem-negocios-com-brasil.shtml",
+      "date": "2026-11-20T20:39:00.000Z",
+      "summary": "O presidente dos Estados Unidos, Donald Trump, afirmou nesta sexta-feira (20) ter exigido que as Filipinas deixassem de comprar produtos agrícolas de países como o Brasil e passassem a adquirir exclusivamente mercadorias americanas a partir de 1º de janeiro. L",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Maksoud Plaza: hotel de luxo fechado em 2021 pode virar condomínio com 398 apartamentos residenciais",
+      "link": "https://www.estadao.com.br/economia/negocios/maksoud-plaza-hotel-de-luxo-fechado-em-2021-pode-virar-condominio-com-398-apartamentos-residenciais/",
+      "date": "2026-11-20T20:33:58.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Títulos soberanos da Argentina caem mais de US$ 0,02 em Nova York",
+      "link": "https://www.poder360.com.br/poder-internacional/titulos-soberanos-da-argentina-caem-mais-de-us-002-em-nova-york/",
+      "date": "2026-11-20T20:33:28.000Z",
+      "summary": "Risco-país deve fechar acima de 1.000 pontos nesta 6ª feira (20.nov), segundo a Bloomberg; mercado teme agenda econômica",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Bolsonaro vai a hospital depois de sentir dores abdominais",
+      "link": "https://www.poder360.com.br/poder-justica/bolsonaro-vai-a-hospital-depois-de-sentir-dores-abdominais/",
+      "date": "2026-11-20T20:29:58.000Z",
+      "summary": "Ex-presidente faz exames nesta 6ª feira; seu filho Carlos Bolsonaro confirmou a informação e acompanha o pai no hospital",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Jair Bolsonaro dá entrada em hospital após dores abdominais, diz Carlos",
+      "link": "https://www.estadao.com.br/politica/jair-bolsonaro-da-entrada-em-hospital-apos-dores-abdominais-diz-carlos/",
+      "date": "2026-11-20T20:24:30.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Moraes vota para manter restrições à venda da Celepar e cita risco à proteção de dados no PR",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/moraes-vota-para-manter-restricoes-a-venda-da-celepar-e-cita-risco-a-protecao-de-dados-no-pr.shtml",
+      "date": "2026-11-20T20:19:00.000Z",
+      "summary": "O ministro do STF (Supremo Tribunal Federal) Alexandre de Moraes votou para manter as restrições à privatização da Celepar, a estatal paranaense de tecnologia. Leia mais (11/20/2026 - 17h19)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Bolsonaro é levado a hospital após sentir dores abdominais",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/20/bolsonaro-hospital-apos-sentir-dores-abdominais.ghtml",
+      "date": "2026-11-20T20:15:13.000Z",
+      "summary": "Bolsonaro é levado a hospital por dor abdominal O ex-presidente Jair Bolsonaro foi levado na tarde desta sexta-feira (20) para o hospital para realizar exames após sentir dores abdominais. A informação foi confirmada pelo médico do ex-presidente, Brasil Caiado",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Presidente do Novo condena voto de Dino contra Van Hattem: 'anormalidade democrática'",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/presidente-do-novo-condena-voto-de-dino-contra-van-hattem-anormalidade-democratica.shtml",
+      "date": "2026-11-20T20:13:00.000Z",
+      "summary": "O presidente do Novo, Eduardo Ribeiro, disse que o voto do ministro do STF (Supremo Tribunal Federal) Flávio Dino para abrir uma ação penal contra o deputado federal e senador eleito Marcel Van Hattem (Novo-RS) por calúnia e injúria abre um \"precedente extrema",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Ialta 2.0 premiou a guerra de Putin",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/demetriomagnoli/2026/11/ialta-20-premiou-a-guerra-de-putin.shtml",
+      "date": "2026-11-20T20:05:00.000Z",
+      "summary": "Ecos de Ialta. A cúpula das três grandes potências nucleares, em Shenzhen (China), foi apresentada como Ialta 2.0, uma reedição da conferência que, em fevereiro de 1945, esboçou as esferas de influência na Europa do pós-guerra. Aquela conferência ganhou uma ca",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "TJ de SP investiga viagens de juíza pagas com ‘sacola de dinheiro deixada na porta de agência’",
+      "link": "https://www.estadao.com.br/economia/tjsp-investiga-viagens-juiza-pagas-sacola-dinheiro/",
+      "date": "2026-11-20T20:02:08.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Míssil russo atinge a Polônia e primeiro-ministro fala em 'provocação'",
+      "link": "https://www.bbc.com/portuguese/articles/c699en8vvy34o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-20T19:59:14.000Z",
+      "summary": "Artefafos caíram no país um dia antes da visita do secretário-geral da Otan, Mark Rutt, a Varsóvia; ministros da Defesa da Coalizão dos Dispostos visitaram local",
+      "source": "BBC News Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "'Mosca-da-bicheira': parasita que devora animais vivos avança pelos EUA e alerta pecuaristas",
+      "link": "https://g1.globo.com/mundo/noticia/2026/11/20/mosca-da-bicheira-parasita-que-devora-animais-vivos-avanca-pelos-eua-e-alerta-pecuaristas.ghtml",
+      "date": "2026-11-20T19:58:52.000Z",
+      "summary": "Duas moscas-da-bicheira do Novo Mundo no Laboratório de Pesquisa de Insetos Pecuários Knipling-Bushland, em Kerrville, Texas, EUA. REUTERS/Kaylee Greenlee Os surtos nos Estados Unidos (EUA) da chamada mosca-da-bicheira do Novo Mundo aumentaram drasticamente de",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "TJ descobre que administradores judiciais escreveram decisões que definiram seus próprios honorários",
+      "link": "https://www.estadao.com.br/economia/tj-descobre-que-administradores-judiciais-escreveram-decisoes-que-definiram-seus-proprios-honorarios/",
+      "date": "2026-11-20T19:57:58.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -160,6 +286,15 @@
       "summary": "O presidente dos Estados Unidos, Donald Trump, afirmou nesta sexta-feira (20) que pretende impor taxas elevadas a empresas americanas que construírem data centers em outros países. A medida, ainda não formalizada, faz parte da estratégia do republicano de conc",
       "source": "Folha",
       "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Deputados questionam gasto de R$ 3,3 milhões do Senado com troca de carpetes",
+      "link": "https://www.estadao.com.br/politica/deputados-questionam-gasto-de-r-33-milhoes-do-senado-com-troca-de-carpetes/",
+      "date": "2026-11-20T19:34:22.000Z",
+      "summary": "A licitação de R$ 3,3 milhões para trocar os carpetes de áreas do Senado virou alvo de críticas dos deputados Nikolas Ferreira e Duarte Jr., que questionam a necessidade e o alto custo da contratação. Ambos acionaram a Justiça e o TCU para tentar barrar a desp",
+      "source": "Estadão",
+      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -190,24 +325,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Trump ameaça taxar empresas que construírem data centers fora dos EUA",
-      "link": "https://www.poder360.com.br/poder-internacional/trump-ameaca-taxar-empresas-que-construirem-data-centers-fora-dos-eua/",
-      "date": "2026-11-20T19:28:24.000Z",
-      "summary": "Presidente quer concentrar nos Estados Unidos estruturas usadas para processar dados e desenvolver IA",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Trump chama Fed de “político” e reclama de juros altos",
-      "link": "https://www.poder360.com.br/poder-internacional/trump-chama-fed-de-politico-e-reclama-de-juros-altos/",
-      "date": "2026-11-20T19:16:45.000Z",
-      "summary": "Presidente diz que instituição deveria reduzir taxas diante dos bons resultados da economia dos EUA",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Trump diz que convenceu Filipinas a substituir produtos agrícolas do Brasil pelos dos EUA",
       "link": "https://g1.globo.com/mundo/noticia/2026/11/20/trump-brasil-filipinas.ghtml",
       "date": "2026-11-20T19:16:23.000Z",
@@ -217,47 +334,11 @@
       "type": "imprensa"
     },
     {
-      "title": "Bitcoin fica abaixo de US$ 60 mil pela 1ª vez desde julho",
-      "link": "https://www.poder360.com.br/poder-economia/bitcoin-fica-abaixo-de-us-60-mil-pela-1a-vez-desde-julho/",
-      "date": "2026-11-20T19:10:15.000Z",
-      "summary": "Criptomoeda caminha para 7ª semana consecutiva de queda; saques de ETFs e expectativa de alta dos juros nos EUA pressionam mercado",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Itália permite carros autonômos da Tesla antes de aprovação na União Europeia",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/italia-permite-carros-autonomos-da-tesla-antes-de-aprovacao-na-uniao-europeia.shtml",
-      "date": "2026-11-20T18:59:00.000Z",
-      "summary": "A Itália concedeu aprovação provisória ao Sistema de Direção Assistida da Tesla (TAD, na sigla em inglês), informou nesta sexta-feira (20) o ministro dos Transportes, Matteo Salvini. Leia mais (11/20/2026 - 15h59)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "A tecnologia prometeu facilidade. Agora está deixando muitos americanos apreensivos",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/a-tecnologia-prometeu-facilidade-agora-esta-deixando-muitos-americanos-apreensivos.shtml",
-      "date": "2026-11-20T18:48:00.000Z",
-      "summary": "A tecnologia prometeu facilidade. Agora está deixando muitos americanos apreensivos. Leia mais (11/20/2026 - 15h48)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Ações da Nvidia têm pior sequência de quedas na bolsa desde 2008",
       "link": "https://g1.globo.com/tecnologia/noticia/2026/11/20/acoes-da-nvidia-tem-pior-sequencia-de-quedas-na-bolsa-desde-2008.ghtml",
       "date": "2026-11-20T18:47:51.000Z",
       "summary": "Chips da Nvidia são usados ​​para criar e executar aplicações de IA Annegret Hilse/REUTERS Com uma queda que supera 7% nesta sexta-feira (20) na Nasdaq, as ações da fabricante de chips Nvidia encaminham a sétima semana consecutiva de perdas. Trata-se do pior d",
       "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Trump ameaça taxar empresas dos EUA que construírem data centers fora do país",
-      "link": "https://www.estadao.com.br/economia/trump-ameaca-taxar-empresas-eua-construirem-data-centers-fora/",
-      "date": "2026-11-20T18:40:59.000Z",
-      "summary": "",
-      "source": "Estadão",
       "cat": "economia",
       "type": "imprensa"
     },
@@ -289,15 +370,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Após falhas que afetaram Microsoft e suspenderam voos, Trump demite diretor de segurança cibernética",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/20/apos-falhas-que-afetaram-microsoft-e-suspenderam-voos-trump-demite-diretor-de-seguranca-cibernetica.ghtml",
-      "date": "2026-11-20T17:36:52.000Z",
-      "summary": "Diretor Nacional de Cibernética dos EUA, Sean Cairncross, conversa com o presidente dos EUA, Donald Trump REUTERS/Jonathan Ernst/File Photo O diretor nacional de segurança cibernética da Casa Branca, Sean Cairncross, foi demitido do cargo, segundo uma fonte pr",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Ex-presidente do BRB disse que não pediu para votar na prisão porque pensou que já estaria solto",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/ex-presidente-do-brb-disse-que-nao-pediu-para-votar-na-prisao-porque-pensou-que-ja-estaria-solto.shtml",
       "date": "2026-11-20T17:10:00.000Z",
@@ -313,60 +385,6 @@
       "summary": "Candidata a presidente do Senado, Tereza Cristina (PP-MS) afirma que a ex-primeira-dama e senadora eleita Michelle Bolsonaro (PL-DF) disse ficar muito feliz por ter uma mulher na briga pela vaga. Leia mais (11/20/2026 - 13h37)",
       "source": "Folha",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Quem vai ocupar os empregos da economia verde no Brasil?",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/quem-vai-ocupar-os-empregos-da-economia-verde-no-brasil/",
-      "date": "2026-11-20T16:27:31.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Ameaças, insultos, acordos: como Jensen Huang transformou a humilhação em rotina na Nvidia",
-      "link": "https://www.estadao.com.br/economia/negocios/ameacas-insultos-acordos-jensen-huang-transformou-humilhacao-rotina/",
-      "date": "2026-11-20T16:18:40.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Entenda o que se sabe sobre relatórios da PF a respeito de ministros do STF e o que acontece agora",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/entenda-o-que-se-sabe-sobre-relatorios-da-pf-a-respeito-de-ministros-do-stf-e-o-que-acontece-agora.shtml",
-      "date": "2026-11-20T16:13:00.000Z",
-      "summary": "O presidente do STF (Supremo Tribunal Federal), Edson Fachin, retirou nesta sexta-feira (20) o sigilo do relatório da Polícia Federal sobre as menções ao ministro André Mendonça no caso do Banco Master. A decisão atendeu a um pedido do próprio Mendonça. O docu",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Moraes vota no STF para manter passaportes de Flávio Bolsonaro cancelados",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/moraes-vota-no-stf-para-manter-passaportes-de-flavio-bolsonaro-cancelados.shtml",
-      "date": "2026-11-20T15:42:00.000Z",
-      "summary": "O ministro do STF (Supremo Tribunal Federal) Alexandre de Moraes votou nesta sexta-feira (20) para manter o cancelamento dos passaportes de Flávio Bolsonaro (PL) e proibição de que o senador deixe o país. O voto foi em resposta a defesa de Flávio, que pediu à ",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Relatório da PF tem diálogos de Vorcaro sobre Mendonça, mas não aponta conversa direta com ministro",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/encontro-em-sp-e-evento-em-minas-veja-o-que-diz-o-relatorio-da-pf-sobre-andre-mendonca-e-vorcaro/",
-      "date": "2026-11-20T15:15:42.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Novo supercomputador da Petrobras e do Cesar busca soberania em inteligência artificial; entenda",
-      "link": "https://www.estadao.com.br/economia/negocios/novo-supercomputador-da-petrobras-e-do-cesar-busca-soberania-em-inteligencia-artificial-entenda/",
-      "date": "2026-11-20T15:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -458,15 +476,6 @@
       "source": "ONU News",
       "cat": "internacional",
       "type": "oficial"
-    },
-    {
-      "title": "Master: relatório da PF sobre Mendonça cita tentativas de aproximação de Vorcaro ao ministro do STF",
-      "link": "https://g1.globo.com/economia/blog/ana-flor/post/2026/11/20/master-relatorio-da-pf-sobre-mendonca-cita-tentativas-de-aproximacao-de-vorcaro-ao-ministro-do-stf.ghtml",
-      "date": "2026-11-20T11:43:51.000Z",
-      "summary": "O relatório da Polícia Federal com menções ao ministro André Mendonça, do Supremo Tribunal Federal (STF), detalha tentativas de aproximação do ex-banqueiro Daniel Vorcaro, e de pessoas próximas ao dono do Master, ao magistrado da Suprema Corte. Nesta sexta-fei",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
     },
     {
       "title": "Mendonça reage à inclusão de seu nome em relatório da PF e abre mão de sigilo imposto por Fachin",
@@ -677,6 +686,7 @@
     }
   ],
   "errors": [
+    "Selic (SGS 432): HTTP 304",
     "feed CNN Brasil: HTTP 404",
     "feed CNN Brasil: HTTP 404"
   ]
