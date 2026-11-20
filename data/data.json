@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-20T03:07:20.204Z",
+  "updated": "2026-11-20T04:18:20.824Z",
   "market": {
     "ibov": {
       "price": 166376.44,
       "pct": -0.69,
-      "time": "2026-11-20T03:07:12.704Z",
+      "time": "2026-11-20T04:18:14.514Z",
       "history": [
         {
           "d": "2026-10-21",
@@ -704,6 +704,7 @@
     }
   ],
   "errors": [
+    "Selic (SGS 432): HTTP 304",
     "feed CNN Brasil: HTTP 404",
     "feed CNN Brasil: HTTP 404"
   ]
