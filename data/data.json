@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-20T10:03:50.369Z",
+  "updated": "2026-11-20T11:20:04.914Z",
   "market": {
     "ibov": {
       "price": 166376.44,
       "pct": -0.69,
-      "time": "2026-11-20T10:03:43.888Z",
+      "time": "2026-11-20T11:20:00.483Z",
       "history": [
         {
           "d": "2026-10-21",
@@ -145,38 +145,110 @@
   },
   "news": [
     {
-      "title": "Revisão fiscal eleva investimentos de SP a recorde de R$ 44,7 bi em 2027",
-      "link": "https://www.poder360.com.br/?p=2646184",
-      "date": "2026-11-20T10:00:56.000Z",
-      "summary": "Proposta orçamentária estima volume da história do Estado, mais de 4 vezes o registrado em 2019; corte de isenções abriu espaço de quase R$ 10 bi ao ano",
+      "title": "Líder do MST chama ajuste fiscal de enganação e pede jovens no governo",
+      "link": "https://www.poder360.com.br/poder-governo/lider-do-mst-chama-ajuste-fiscal-de-enganacao-e-pede-jovens-no-governo/",
+      "date": "2026-11-20T11:18:00.000Z",
+      "summary": "Stedile defende mudança geracional na Esplanada: “Quando o PT, a CUT e o MST foram fundados, éramos jovens. Agora, estamos acomodados”",
       "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
     },
     {
-      "title": "Ajuste fiscal é transformador para o país, diz economista do Insper",
-      "link": "https://www.poder360.com.br/poder-economia/ajuste-fiscal-e-transformador-para-o-pais-diz-economista-do-insper/",
-      "date": "2026-11-20T09:00:59.000Z",
-      "summary": "Sérgio Firpo diz que sociedade precisa se envolver em debate sobre corte de receita e de isenções",
+      "title": "Decisões judiciais sobre bets cresceram 122% em 2026 antes de proibição",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/decisoes-judiciais-sobre-bets-cresceram-122-em-2026-antes-de-proibicao.shtml",
+      "date": "2026-11-20T11:14:00.000Z",
+      "summary": "Antes da MP (medida provisória) do presidente Lula que proíbe o funcionamento das bets no Brasil, as decisões judiciais envolvendo as plataformas de apostas online cresceram 122% de janeiro a setembro de 2026, em relação ao mesmo período de 2025, passando de 2",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Reino Unido encontra solução para vulnerabilidade em geladeiras e freezers após ataques cibernéticos na Europa",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/reino-unido-encontra-solucao-para-vulnerabilidade-em-geladeiras-e-freezers-apos-ataques-ciberneticos-na-europa.shtml",
+      "date": "2026-11-20T11:14:00.000Z",
+      "summary": "Uma operação britânica de segurança cibernética corrigiu uma falha nos sistemas operacionais de geladeiras e freezers comerciais usados por supermercados, armazéns e restaurantes, ajudando a protegê-los de ataques cibernéticos que atingiram vários países europ",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Comissões pedem R$ 85,9 bilhões em emendas ao Orçamento de 2027",
+      "link": "https://www.poder360.com.br/poder-congresso/comissoes-pedem-r-859-bilhoes-em-emendas-ao-orcamento-de-2027/",
+      "date": "2026-11-20T11:13:46.000Z",
+      "summary": "Propostas de 16 colegiados ainda dependem de análise da Comissão Mista de Orçamento e de aprovação pelo Congresso",
       "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
     },
     {
-      "title": "Real perde 7,50% em 2026 e tem 5º pior desempenho ante o dólar",
-      "link": "https://www.poder360.com.br/poder-economia/real-perde-752-em-2026-e-tem-5o-pior-desempenho-ante-o-dolar/",
-      "date": "2026-11-20T09:00:53.000Z",
-      "summary": "Moeda norte-americana subiu 15,3% de 23 de outubro a 18 de novembro, período que teve o impacto da reeleição de Lula",
+      "title": "Casa Branca demite diretor de Cibersegurança após falhas tecnológicas",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/casa-branca-demite-diretor-de-ciberseguranca-apos-falhas-tecnologicas.shtml",
+      "date": "2026-11-20T11:05:00.000Z",
+      "summary": "O diretor nacional de Cibersegurança da Casa Branca, Sean Cairncross, foi demitido, informou nesta quinta-feira (19) uma fonte próxima do governo americano, após falhas tecnológicas afetarem vários serviços e causarem preocupação. Leia mais (11/20/2026 - 08h05",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Caso Master: Mendonça pede à presidência do STF que torne público relatório da PF com menções a ele",
+      "link": "https://g1.globo.com/politica/blog/camila-bomfim/post/2026/11/20/caso-master-mendonca-pede-a-presidencia-do-stf-que-torne-publico-relatorio-da-pf-com-mencoes-a-ele.ghtml",
+      "date": "2026-11-20T11:01:26.000Z",
+      "summary": "O ministro André Mendonça , do Supremo Tribunal Federal, pediu nesta sexta-feira (20) ao presidente da Corte, ministro Edson Fachin, que \"dê ampla publicidade\" ao relatório da Polícia Federal com menções a ele no caso Master. Este relatório, assim como outros ",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Bolsas de Tóquio e Seul caem após Anthropic não conseguir dissipar temores sobre a IA",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/bolsas-de-toquio-e-seul-caem-apos-anthropic-nao-conseguir-dissipar-temores-sobre-a-ia.shtml",
+      "date": "2026-11-20T10:58:00.000Z",
+      "summary": "As bolsas de Tóquio e Seul fecharam esta sexta-feira (20) em queda, em linha com Wall Street, onde a estreia bem-sucedida do gigante americano Anthropic no mercado acionário não conseguiu dissipar as preocupações com a inteligência artificial. Leia mais (11/20",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Leia a íntegra do pedido da OAB para Van Hattem ser julgado no plenário",
+      "link": "https://www.poder360.com.br/poder-flash/leia-a-integra-do-pedido-da-oab-para-van-hattem-ser-julgado-no-plenario/",
+      "date": "2026-11-20T10:46:17.000Z",
+      "summary": "Entidade solicita que Dino reconsidere decisão que manteve o caso no ambiente virtual; deputado foi denunciado por calúnia e injúria",
       "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
     },
     {
-      "title": "Mercado cobra Lula e IA mexe com ações: “Por Que Isso Importa?”",
-      "link": "https://www.poder360.com.br/poder-videos/mercado-cobra-lula-e-ia-mexe-com-acoes-por-que-isso-importa/",
-      "date": "2026-11-20T08:59:39.000Z",
-      "summary": "Podcast do Poder360 analisa os temas políticos da semana que se encerra e traz o que haverá de mais importante na semana que começa",
+      "title": "OAB discorda de Dino e pede que STF julgue Van Hattem presencialmente",
+      "link": "https://www.poder360.com.br/poder-justica/oab-discorda-de-dino-e-pede-que-stf-julgue-van-hattem-presencialmente/",
+      "date": "2026-11-20T10:45:55.000Z",
+      "summary": "Entidade quer reverter decisão do ministro e assegurar manifestação dos advogados em tempo real",
       "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Governo Tarcísio chega a 161 convênios com cidades da região de São José dos Campos",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/governo-tarcisio-chega-a-161-convenios-com-cidades-da-regiao-de-sao-jose-dos-campos.shtml",
+      "date": "2026-11-20T10:45:00.000Z",
+      "summary": "O governo Tarcísio de Freitas (Republicanos) assinou 161 convênios com prefeituras da região administrativa de São José dos Campos desde 2023. Os acordos foram viabilizados pela Secretaria de Governo. Leia mais (11/20/2026 - 07h45)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "​Mendonça abre mão de sigilo e solicita a Fachin que torne público relatório da PF que cita seu nome",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/mendonca-abre-mao-de-sigilo-e-solicita-a-fachin-que-torne-publico-relatorio-da-pf-que-cita-seu-nome/",
+      "date": "2026-11-20T10:40:01.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Após embates, Nunes e Pavanato trocam elogios e se aproximam",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/apos-embates-nunes-e-pavanato-trocam-elogios-e-se-aproximam.shtml",
+      "date": "2026-11-20T10:18:00.000Z",
+      "summary": "O prefeito Ricardo Nunes (MDB) e o vereador e deputado federal eleito Lucas Pavanato (PL) têm se aproximado após divergências e críticas no ano passado. Leia mais (11/20/2026 - 07h18)",
+      "source": "Folha",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -192,15 +264,6 @@
     {
       "title": "Governo avalia veto integral ao projeto da renegociação das dívidas rurais",
       "link": "https://www.estadao.com.br/politica/coluna-do-estadao/governo-avalia-veto-integral-ao-projeto-da-renegociacao-das-dividas-rurais/",
-      "date": "2026-11-20T08:30:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Bruno Moretti ganha força no Planalto, mas comando da Fazenda é considerado pouco provável",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/bruno-moretti-ganha-forca-no-planalto-mas-comando-da-fazenda-e-considerado-pouco-provavel/",
       "date": "2026-11-20T08:30:00.000Z",
       "summary": "",
       "source": "Estadão",
@@ -253,42 +316,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Distratos de imóveis disparam e atingem até um quarto das vendas de incorporadoras do país",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/distratos-de-imoveis-disparam-e-atingem-ate-um-quarto-das-vendas-de-incorporadoras-do-pais.shtml",
-      "date": "2026-11-20T07:00:00.000Z",
-      "summary": "Os distratos de imóveis já equivalem a até um quarto das vendas brutas de algumas das maiores incorporadoras listadas na B3, mostram os balanços do terceiro trimestre de 2026. Leia mais (11/20/2026 - 04h00)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Governo ainda precisa encontrar espaço no Orçamento para R$ 20 bi de promessas de campanha, diz IFI",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/governo-ainda-precisa-encontrar-espaco-no-orcamento-para-r-20-bi-de-promessas-de-campanha-diz-ifi.shtml",
-      "date": "2026-11-20T07:00:00.000Z",
-      "summary": "O governo ainda precisa encontrar espaço no Orçamento de 2027 para bancar despesas de medidas anunciadas pelo presidente Luiz Inácio Lula da Silva (PT) durante a campanha eleitoral. Segundo a IFI (Instituição Fiscal Independente), órgão ligado ao Senado, não e",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Empresas de diferentes setores e portes usam 'GTA 6' para ampliar vendas ou fortalecer marca",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/empresas-de-diferentes-setores-e-portes-usam-gta-6-para-ampliar-vendas-ou-fortalecer-marca.shtml",
-      "date": "2026-11-20T07:00:00.000Z",
-      "summary": "O lançamento de \"GTA 6\" nesta quinta-feira (19) extrapolou o mercado dos jogos eletrônicos, levando empresas de diferentes setores e portes para a euforia em torno da franquia. Leia mais (11/20/2026 - 04h00)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Regras para categorias específicas e descanso remunerado com fim da 6x1 saem a partir de segunda (23)",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/regras-para-categorias-especificas-e-descanso-remunerado-com-fim-da-6x1-saem-a-partir-de-segunda-23.shtml",
-      "date": "2026-11-20T07:00:00.000Z",
-      "summary": "O Ministério do Trabalho vai publicar na próxima segunda-feira (23) a primeira de uma série de portarias com regras sobre como implementar o fim da escala 6x1. Leia mais (11/20/2026 - 04h00)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Um salário mínimo compra 23 kg de acém a menos do que em 2007; entenda o preço da carne",
       "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/20/um-salario-minimo-compra-23-kg-de-acem-a-menos-do-que-em-2007-entenda-o-preco-da-carne.ghtml",
       "date": "2026-11-20T06:00:22.000Z",
@@ -319,16 +346,7 @@
       "title": "Galípolo diz que ligou para PF para alertar sobre possível fuga de Vorcaro",
       "link": "https://g1.globo.com/politica/noticia/2026/11/20/galipolo-diz-que-ligou-para-pf-para-alertar-sobre-possivel-fuga-de-vorcaro.ghtml",
       "date": "2026-11-20T03:00:00.000Z",
-      "summary": "O presidente do Banco Central, Gabriel Galípolo, afirmou à Polícia Federal que alertou a corporação sobre a suspeita de que Daniel Vorcaro, ex-dono do Banco Master, poderia tentar fugir do país. Em depoimento à Polícia Federal em outubro deste ano, Galípolo di",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Marina Silva, Fachin e Erika Hilton ampliam pressão sobre Lula por ministra negra no STF: 'Abismo social e estrutural'",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/20/marina-silva-fachin-e-erika-hilton-lula-ministra-negra-no-stf.ghtml",
-      "date": "2026-11-20T03:00:00.000Z",
-      "summary": "As deputadas federais Erika Hilton (PSOL-SP), Marina Silva (Rede-SP) e o presidente do STF, Edson Fachin, pedem que Lula indique uma mulher negra para o STF. STF/Reprodução Marina Silva (Rede-SP), ex-ministra do Meio Ambiente e deputada federal, aderiu na últi",
+      "summary": "Galípolo diz ter alertado PF sobre possível fuga de Vorcaro O presidente do Banco Central, Gabriel Galípolo, afirmou à Polícia Federal que alertou a corporação sobre a suspeita de que Daniel Vorcaro, ex-dono do Banco Master, poderia tentar fugir do país. Em de",
       "source": "g1",
       "cat": "politica",
       "type": "imprensa"
@@ -339,33 +357,6 @@
       "date": "2026-11-20T02:03:00.000Z",
       "summary": "A PGR (Procuradoria-Geral da República) terá um núcleo formado por ao menos quatro procuradores da cúpula da instituição para avaliar os relatórios entregues pela Polícia Federal com citações aos nomes de ministros do STF (Supremo Tribunal Federal) nas investi",
       "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Lula diz que quer evitar erros do atual mandato com ministros e que busca equipe sólida",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/lula-diz-que-quer-evitar-erros-do-atual-mandato-com-ministros-e-que-busca-equipe-solida.shtml",
-      "date": "2026-11-20T02:00:00.000Z",
-      "summary": "O presidente Lula (PT) tem dito a aliados que não tem pressa para definir os futuros ministros do governo porque quer evitar erros da atual gestão e manter indicados nos respectivos cargos por mais tempo. A referência é às trocas que o presidente precisou faze",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Jornais negros surgiram há quase 200 anos para reivindicar cidadania e denunciar racismo",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/jornais-negros-surgiram-ha-quase-200-anos-para-reivindicar-cidadania-e-denunciar-racismo.shtml",
-      "date": "2026-11-20T02:00:00.000Z",
-      "summary": "O primeiro jornal feito por pessoas negras foi publicado em 1833, em um Brasil que ainda vivia sob o regime da escravidão. O Homem de Cor reivindicava a cidadania da população preta e parda, questionava a discriminação racial e a exclusão de direitos básicos. ",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "TSE mantem a inelegibilidade de Alfredo Kaefer; ex-deputado tentou disputar vaga na Câmara",
-      "link": "https://www.estadao.com.br/politica/tse-mantem-a-inelegibilidade-de-alfredo-kaefer-ex-deputado-tentou-disputar-vaga-na-camara/",
-      "date": "2026-11-20T01:57:21.000Z",
-      "summary": "",
-      "source": "Estadão",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -421,6 +412,15 @@
       "summary": "Berlim reuniu aliados de Kiev em cúpula para cobrar espaço nas negociações de paz, enquanto Trump, Putin e Xi se encontravam paralelamente na China.",
       "source": "DW Brasil",
       "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "PF inclui Mendonça em pedido de apuração sobre relação com Vorcaro após interferência de Andrei",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/pf-pede-apuracao-dos-casos-de-4-ministros-do-stf-citados-no-celular-de-vorcaro/",
+      "date": "2026-11-19T22:23:27.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
       "type": "imprensa"
     },
     {
