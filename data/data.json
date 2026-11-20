@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-20T17:53:55.498Z",
+  "updated": "2026-11-20T18:55:10.285Z",
   "market": {
     "ibov": {
       "price": 166376.44,
       "pct": -0.69,
-      "time": "2026-11-20T17:53:47.364Z",
+      "time": "2026-11-20T18:55:03.360Z",
       "history": [
         {
           "d": "2026-10-21",
@@ -145,21 +145,102 @@
   },
   "news": [
     {
-      "title": "Citi subestimou ativos de risco em US$35 bi após registrar incorretamente operações, dizem fontes",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/citi-subestimou-ativos-de-risco-em-us35-bi-apos-registrar-incorretamente-operacoes-dizem-fontes.shtml",
-      "date": "2026-11-20T17:42:00.000Z",
-      "summary": "O Citigroup subestimou seus ativos ponderados pelo risco após um erro no registro de algumas operações, segundo fontes a par do assunto, o que forçou a instituição financeira norte-americana a injetar capital em uma subsidiária. Leia mais (11/20/2026 - 14h42)",
+      "title": "A tecnologia prometeu facilidade. Agora está deixando muitos americanos apreensivos",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/a-tecnologia-prometeu-facilidade-agora-esta-deixando-muitos-americanos-apreensivos.shtml",
+      "date": "2026-11-20T18:48:00.000Z",
+      "summary": "A tecnologia prometeu facilidade. Agora está deixando muitos americanos apreensivos. Leia mais (11/20/2026 - 15h48)",
       "source": "Folha",
       "cat": "economia",
       "type": "imprensa"
     },
     {
-      "title": "COP31 é prorrogada após impasse sobre combustíveis fósseis",
-      "link": "https://www.poder360.com.br/poder-internacional/cop31-e-prorrogada-apos-impasse-sobre-combustiveis-fosseis/",
-      "date": "2026-11-20T17:39:02.000Z",
-      "summary": "Países produtores de petróleo resistem à inclusão de metas no acordo final; financiamento climático também divide delegações",
+      "title": "Trump diz que Filipinas deixarão de comprar produtos agrícolas do Brasil",
+      "link": "https://www.poder360.com.br/poder-internacional/trump-diz-que-filipinas-deixarao-de-comprar-produtos-agricolas-do-brasil/",
+      "date": "2026-11-20T18:36:01.000Z",
+      "summary": "Presidente afirma que país asiático passará a adquirir 100% dessas mercadorias dos EUA a partir de janeiro",
       "source": "Poder360",
       "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "BTG desistiu de comprar Master por falta de garantias, diz Esteves",
+      "link": "https://www.poder360.com.br/poder-economia/btg-desistiu-de-comprar-master-por-falta-de-garantias-diz-esteves/",
+      "date": "2026-11-20T18:23:40.000Z",
+      "summary": "Banqueiro afirmou à PF que alertou o Banco Central sobre dúvidas quanto à qualidade dos ativos da instituição em 2024",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Diferença salarial na UE: Mulheres trabalharão \"de graça\" até o fim do ano",
+      "link": "https://www.dw.com/pt-br/diferença-salarial-na-ue-mulheres-trabalharão-de-graça-até-o-fim-do-ano/a-80005998?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-20T18:22:00.000Z",
+      "summary": "Diferença média de remuneração entre homens e mulheres na UE é de 11,1%; Alemanha registra índice ainda maior e é cobrada por atrasar regras de transparência salarial.",
+      "source": "DW Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "De trabalhadores informais a magnatas, China busca dinheiro em todos os bolsos",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/de-trabalhadores-informais-a-magnatas-china-busca-dinheiro-em-todos-os-bolsos.shtml",
+      "date": "2026-11-20T18:21:00.000Z",
+      "summary": "Uma nova piada vem circulando pela internet chinesa. Leia mais (11/20/2026 - 15h21)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Praga mortal que ameaça gado avança nos EUA, e moscas estéreis viram aposta contra parasita",
+      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/20/praga-mortal-que-ameaca-gado-avanca-nos-eua-e-moscas-estereis-viram-aposta-contra-parasita.ghtml",
+      "date": "2026-11-20T18:14:28.000Z",
+      "summary": "Imagem de uma mosca-da-bicheira (Cochliomyia hominivorax). Departamento de Agricultura dos EUA. Os surtos da mosca-da-bicheira do Novo Mundo nos Estados Unidos aumentaram devido ao clima úmido e quente no sudoeste do país, segundo o Departamento de Agricultura",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Relatório da PF sobre André Mendonça contém só citações de terceiros",
+      "link": "https://www.poder360.com.br/poder-justica/relatorio-da-pf-sobre-andre-mendonca-contem-so-citacoes-de-terceiros/",
+      "date": "2026-11-20T18:14:19.000Z",
+      "summary": "Andrei Rodrigues tem interesse em afastar Mendonça do caso e adotou critério distinto do usado para outros ministros, que também só são citados em mensagens fortuitas e a PF não recomendou mais investigações",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Estilhaços de drones russos atingem Embaixada do Brasil na Ucrânia",
+      "link": "https://www.poder360.com.br/poder-internacional/estilhacos-de-drones-russos-atingem-embaixada-do-brasil-na-ucrania/",
+      "date": "2026-11-20T18:06:22.000Z",
+      "summary": "Chanceler ucraniano afirma que não houve feridos nem danos estruturais e relata ataques a outras missões diplomáticas",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "'Não queremos morrer': manifestantes criticam criadora do Claude, Anthropic, após IPO",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/nao-queremos-morrer-manifestantes-criticam-criadora-do-claude-anthropic-apos-ipo.shtml",
+      "date": "2026-11-20T18:03:00.000Z",
+      "summary": "Cerca de cem pessoas enfrentaram a chuva na quinta-feira (19) para protestar em frente aos escritórios da Anthropic, em São Francisco, no mesmo dia em que o laboratório de inteligência artificial (IA) abriu seu capital, denunciando sua corrida para desenvolver",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Ações sobre cotas raciais em concursos públicos têm alta, mostram levantamentos",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/acoes-sobre-cotas-raciais-em-concursos-publicos-tem-alta-mostram-levantamentos.shtml",
+      "date": "2026-11-20T18:00:00.000Z",
+      "summary": "Dois levantamentos diferentes mostram que o número de processos sobre aplicação das cotas raciais em concursos públicos na Justiça tem aumentado significativamente nos últimos anos. Leia mais (11/20/2026 - 15h00)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Tusk vê provocação russa após queda de mísseis na Polônia e critica reação dos EUA",
+      "link": "https://www.dw.com/pt-br/tusk-vê-provocação-russa-após-queda-de-mísseis-na-polônia-e-critica-reação-dos-eua/a-80005937?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-20T17:56:00.000Z",
+      "summary": "Premiê polonês diz que dois mísseis e um drone russos atingiram o país de forma deliberada, perto de exercícios militares da Otan; Washington adotou tom cauteloso e evitou falar em provocação.",
+      "source": "DW Brasil",
+      "cat": "internacional",
       "type": "imprensa"
     },
     {
@@ -172,56 +253,11 @@
       "type": "imprensa"
     },
     {
-      "title": "Justiça autoriza Pão de Açúcar a parcelar dívida trabalhista em 72 vezes",
-      "link": "https://www.poder360.com.br/poder-economia/justica-autoriza-pao-de-acucar-a-parcelar-divida-trabalhista-em-72-vezes/",
-      "date": "2026-11-20T17:30:00.000Z",
-      "summary": "Plano abrange R$ 140 milhões em execuções e define pagamentos mensais corrigidos pela Selic",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Lagarde, do BCE, diz que ameaças cibernéticas ampliadas pela IA são sua principal preocupação",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/lagarde-do-bce-diz-que-ameacas-ciberneticas-ampliadas-pela-ia-sao-sua-principal-preocupacao.shtml",
-      "date": "2026-11-20T17:29:00.000Z",
-      "summary": "O maior desafio imediato que o mundo das finanças enfrenta pode ser a ameaça cibernética, potencializada por agentes de IA (inteligência artificial) cada vez mais sofisticados, afirmou na sexta-feira a presidente do Banco Central Europeu, Christine Lagarde. Le",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Lindbergh vê “acordão” para reduzir penas de Bolsonaro",
-      "link": "https://www.poder360.com.br/poder-congresso/lindbergh-ve-acordao-para-reduzir-penas-de-bolsonaro/",
-      "date": "2026-11-20T17:17:51.000Z",
-      "summary": "STF analisará Lei da Dosimetria, que pode beneficiar ex-presidente; petista sugere que há troca de apoio antes das eleições no Congresso",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Ex-presidente do BRB disse que não pediu para votar na prisão porque pensou que já estaria solto",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/ex-presidente-do-brb-disse-que-nao-pediu-para-votar-na-prisao-porque-pensou-que-ja-estaria-solto.shtml",
       "date": "2026-11-20T17:10:00.000Z",
       "summary": "O ex-presidente do BRB (Banco de Brasília) Paulo Henrique Costa deu uma explicação para pessoas que o perguntaram sobre a decisão de não votar nas eleições: pensou que já estaria solto em outubro. Leia mais (11/20/2026 - 14h10)",
       "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Brasil tem quarta pior proficiência em inglês na América Latina, diz levantamento",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/brasil-tem-quarta-pior-proficiencia-em-ingles-na-america-latina-diz-levantamento.shtml",
-      "date": "2026-11-20T17:10:00.000Z",
-      "summary": "O Brasil apresenta o quarto pior nível de proficiência em inglês na América Latina, afirma o levantamento EF English Proficiency Index 2026, elaborado pelo grupo Education First, que administra cursos de idiomas. Leia mais (11/20/2026 - 14h10)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Governo espera definição de vaga no STF para soltar nomeações de agências",
-      "link": "https://www.poder360.com.br/poder-governo/governo-espera-definir-vaga-no-stf-para-soltar-nomeacoes-de-agencias/",
-      "date": "2026-11-20T17:00:23.000Z",
-      "summary": "Pacote de nomes para reguladoras deve ser enviado ao Senado assim que indicação para o Supremo for “resolvida”",
-      "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -232,15 +268,6 @@
       "summary": "Candidata a presidente do Senado, Tereza Cristina (PP-MS) afirma que a ex-primeira-dama e senadora eleita Michelle Bolsonaro (PL-DF) disse ficar muito feliz por ter uma mulher na briga pela vaga. Leia mais (11/20/2026 - 13h37)",
       "source": "Folha",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Proibição da União Europeia às exportações de resíduos plásticos entra em vigor",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/proibicao-da-uniao-europeia-as-exportacoes-de-residuos-plasticos-entra-em-vigor.shtml",
-      "date": "2026-11-20T16:29:00.000Z",
-      "summary": "Uma proibição da União Europeia à exportação de resíduos plásticos para países que não fazem parte da OCDE (Organização para a Cooperação e Desenvolvimento Econômico) entrará em vigor no sábado (21), juntamente com regras mais rígidas para as exportações desti",
-      "source": "Folha",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -283,15 +310,6 @@
       "title": "Relatório da PF tem diálogos de Vorcaro sobre Mendonça, mas não aponta conversa direta com ministro",
       "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/encontro-em-sp-e-evento-em-minas-veja-o-que-diz-o-relatorio-da-pf-sobre-andre-mendonca-e-vorcaro/",
       "date": "2026-11-20T15:15:42.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "‘Exército do Lula’ perde 1,4 milhão de seguidores e Janones é criticado por desprezar queixas",
-      "link": "https://www.estadao.com.br/politica/exercito-do-lula-perde-14-milhao-de-seguidores-e-janones-e-criticado-por-desprezar-queixas/",
-      "date": "2026-11-20T15:00:00.000Z",
       "summary": "",
       "source": "Estadão",
       "cat": "politica",
@@ -397,15 +415,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Vorcaro e Faria planejaram instituto para Moraes com aval do ministro, indicam diálogos",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/vorcaro-e-faria-planejaram-instituto-para-moraes-com-aval-do-ministro-indicam-dialogos/",
-      "date": "2026-11-20T12:16:33.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "WFP lança plano para salvar 91 milhões de pessoas da fome",
       "link": "https://news.un.org/feed/view/pt/story/2026/11/1854971",
       "date": "2026-11-20T12:00:00.000Z",
@@ -442,21 +451,21 @@
       "type": "imprensa"
     },
     {
-      "title": "Mercedes e Volks em crise: há salvação para indústria de carros alemã?",
-      "link": "https://www.dw.com/pt-br/mercedes-e-volks-em-crise-há-salvação-para-indústria-de-carros-alemã/a-80000175?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-20T11:24:00.000Z",
-      "summary": "Montadoras da Alemanha cortam investimentos, lançando nova onda de preocupação quanto ao futuro do setor. Alguns analistas creem ainda ser possível reverter tendência de queda. Mas como?",
-      "source": "DW Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
       "title": "Influenciadores negros recebem R$ 68 a cada R$ 100 pagos a brancos; o que essa lacuna revela?",
       "link": "https://www.estadao.com.br/economia/governanca/influenciadores-negros-recebem-r-68-a-cada-r-100-pagos-a-brancos-o-que-essa-lacuna-revela/",
       "date": "2026-11-20T11:00:00.000Z",
       "summary": "",
       "source": "Estadão",
       "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Mendonça reage à inclusão de seu nome em relatório da PF e abre mão de sigilo imposto por Fachin",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/mendonca-abre-mao-de-sigilo-e-solicita-a-fachin-que-torne-publico-relatorio-da-pf-que-cita-seu-nome/",
+      "date": "2026-11-20T10:40:01.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -476,15 +485,6 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Europa luta para não ficar à margem do futuro da Ucrânia",
-      "link": "https://www.dw.com/pt-br/europa-luta-para-não-ficar-à-margem-do-futuro-da-ucrânia/a-79997957?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-19T22:36:00.000Z",
-      "summary": "Berlim reuniu aliados de Kiev em cúpula para cobrar espaço nas negociações de paz, enquanto Trump, Putin e Xi se encontravam paralelamente na China.",
-      "source": "DW Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
     },
     {
       "title": "Comissão aprova proposta que proíbe inclusão do nome de novo cônjuge em anotação de divórcio na certidão de casamento anterior",
@@ -638,6 +638,15 @@
       "source": "Banco Central",
       "cat": "economia",
       "type": "oficial"
+    },
+    {
+      "title": "Quem é Natália Resende, secretária empoderada por Tarcísio e cotada para sucedê-lo em 2030",
+      "link": "https://www.estadao.com.br/politica/quem-e-natalia-resende-secretaria-empoderada-por-tarcisio-e-cotada-para-sucede-lo-em-2030/",
+      "date": "2026-11-18T13:32:49.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
     },
     {
       "title": "BC divulga estudo sobre os canais de transmissão da política monetária por meio do crédito",
