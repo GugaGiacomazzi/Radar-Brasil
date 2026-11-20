@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-20T16:54:51.951Z",
+  "updated": "2026-11-20T17:53:55.498Z",
   "market": {
     "ibov": {
       "price": 166376.44,
       "pct": -0.69,
-      "time": "2026-11-20T16:54:44.431Z",
+      "time": "2026-11-20T17:53:47.364Z",
       "history": [
         {
           "d": "2026-10-21",
@@ -145,10 +145,82 @@
   },
   "news": [
     {
-      "title": "Milhares protestam na Itália em greve geral contra governo Meloni",
-      "link": "https://www.poder360.com.br/poder-internacional/milhares-protestam-na-italia-em-greve-geral-contra-governo-meloni/",
-      "date": "2026-11-20T16:48:58.000Z",
-      "summary": "Trabalhadores e estudantes reivindicam reajustes salariais e mais verbas para educação e saúde",
+      "title": "Citi subestimou ativos de risco em US$35 bi após registrar incorretamente operações, dizem fontes",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/citi-subestimou-ativos-de-risco-em-us35-bi-apos-registrar-incorretamente-operacoes-dizem-fontes.shtml",
+      "date": "2026-11-20T17:42:00.000Z",
+      "summary": "O Citigroup subestimou seus ativos ponderados pelo risco após um erro no registro de algumas operações, segundo fontes a par do assunto, o que forçou a instituição financeira norte-americana a injetar capital em uma subsidiária. Leia mais (11/20/2026 - 14h42)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "COP31 é prorrogada após impasse sobre combustíveis fósseis",
+      "link": "https://www.poder360.com.br/poder-internacional/cop31-e-prorrogada-apos-impasse-sobre-combustiveis-fosseis/",
+      "date": "2026-11-20T17:39:02.000Z",
+      "summary": "Países produtores de petróleo resistem à inclusão de metas no acordo final; financiamento climático também divide delegações",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Após falhas que afetaram Microsoft e suspenderam voos, Trump demite diretor de segurança cibernética",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/20/apos-falhas-que-afetaram-microsoft-e-suspenderam-voos-trump-demite-diretor-de-seguranca-cibernetica.ghtml",
+      "date": "2026-11-20T17:36:52.000Z",
+      "summary": "Diretor Nacional de Cibernética dos EUA, Sean Cairncross, conversa com o presidente dos EUA, Donald Trump REUTERS/Jonathan Ernst/File Photo O diretor nacional de segurança cibernética da Casa Branca, Sean Cairncross, foi demitido do cargo, segundo uma fonte pr",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Justiça autoriza Pão de Açúcar a parcelar dívida trabalhista em 72 vezes",
+      "link": "https://www.poder360.com.br/poder-economia/justica-autoriza-pao-de-acucar-a-parcelar-divida-trabalhista-em-72-vezes/",
+      "date": "2026-11-20T17:30:00.000Z",
+      "summary": "Plano abrange R$ 140 milhões em execuções e define pagamentos mensais corrigidos pela Selic",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lagarde, do BCE, diz que ameaças cibernéticas ampliadas pela IA são sua principal preocupação",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/lagarde-do-bce-diz-que-ameacas-ciberneticas-ampliadas-pela-ia-sao-sua-principal-preocupacao.shtml",
+      "date": "2026-11-20T17:29:00.000Z",
+      "summary": "O maior desafio imediato que o mundo das finanças enfrenta pode ser a ameaça cibernética, potencializada por agentes de IA (inteligência artificial) cada vez mais sofisticados, afirmou na sexta-feira a presidente do Banco Central Europeu, Christine Lagarde. Le",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lindbergh vê “acordão” para reduzir penas de Bolsonaro",
+      "link": "https://www.poder360.com.br/poder-congresso/lindbergh-ve-acordao-para-reduzir-penas-de-bolsonaro/",
+      "date": "2026-11-20T17:17:51.000Z",
+      "summary": "STF analisará Lei da Dosimetria, que pode beneficiar ex-presidente; petista sugere que há troca de apoio antes das eleições no Congresso",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Ex-presidente do BRB disse que não pediu para votar na prisão porque pensou que já estaria solto",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/ex-presidente-do-brb-disse-que-nao-pediu-para-votar-na-prisao-porque-pensou-que-ja-estaria-solto.shtml",
+      "date": "2026-11-20T17:10:00.000Z",
+      "summary": "O ex-presidente do BRB (Banco de Brasília) Paulo Henrique Costa deu uma explicação para pessoas que o perguntaram sobre a decisão de não votar nas eleições: pensou que já estaria solto em outubro. Leia mais (11/20/2026 - 14h10)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Brasil tem quarta pior proficiência em inglês na América Latina, diz levantamento",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/brasil-tem-quarta-pior-proficiencia-em-ingles-na-america-latina-diz-levantamento.shtml",
+      "date": "2026-11-20T17:10:00.000Z",
+      "summary": "O Brasil apresenta o quarto pior nível de proficiência em inglês na América Latina, afirma o levantamento EF English Proficiency Index 2026, elaborado pelo grupo Education First, que administra cursos de idiomas. Leia mais (11/20/2026 - 14h10)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Governo espera definição de vaga no STF para soltar nomeações de agências",
+      "link": "https://www.poder360.com.br/poder-governo/governo-espera-definir-vaga-no-stf-para-soltar-nomeacoes-de-agencias/",
+      "date": "2026-11-20T17:00:23.000Z",
+      "summary": "Pacote de nomes para reguladoras deve ser enviado ao Senado assim que indicação para o Supremo for “resolvida”",
       "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
@@ -181,38 +253,11 @@
       "type": "imprensa"
     },
     {
-      "title": "Diretores da Kitchens processam sócias e pedem explicações sobre afastamento e dívidas",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/diretores-da-kitchens-processam-socias-e-pedem-explicacoes-sobre-afastamento-e-dividas.shtml",
-      "date": "2026-11-20T16:23:00.000Z",
-      "summary": "Três diretores e acionistas minoritários da Kitchens, fabricante de móveis de luxo, iniciaram ação judicial contra as sócias majoritárias e as quatro empresas do grupo, que teve deferido o pedido de recuperação judicial. Leia mais (11/20/2026 - 13h23)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Lula e aliados falam de igualdade racial no Dia da Consciência Negra",
-      "link": "https://www.poder360.com.br/poder-governo/lula-e-aliados-falam-de-igualdade-racial-no-dia-da-consciencia-negra/",
-      "date": "2026-11-20T16:19:01.000Z",
-      "summary": "Presidente cita 91 títulos de territórios quilombolas, ampliação de cotas e programa com 217 ações para jovens negros",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Ameaças, insultos, acordos: como Jensen Huang transformou a humilhação em rotina na Nvidia",
       "link": "https://www.estadao.com.br/economia/negocios/ameacas-insultos-acordos-jensen-huang-transformou-humilhacao-rotina/",
       "date": "2026-11-20T16:18:40.000Z",
       "summary": "",
       "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "'Um mal necessário': como a Anthropic conseguiu realizar seu IPO",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/um-mal-necessario-como-a-anthropic-conseguiu-realizar-seu-ipo.shtml",
-      "date": "2026-11-20T16:15:00.000Z",
-      "summary": "Depois de arquitetar a maior oferta pública inicial da história, Dario Amodei incentivou sua equipe a tirar um cochilo e voltar ao trabalho. Leia mais (11/20/2026 - 13h15)",
-      "source": "Folha",
       "cat": "economia",
       "type": "imprensa"
     },
@@ -226,38 +271,11 @@
       "type": "imprensa"
     },
     {
-      "title": "Editora L&PM vai à Justiça contra OpenAI por suposta violação de direitos autorais",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/editora-lpm-vai-a-justica-contra-openai-por-suposta-violacao-de-direitos-autorais.shtml",
-      "date": "2026-11-20T16:10:00.000Z",
-      "summary": "A editora de livros L&amp;PM abriu um pedido de notificação judicial contra a OpenAI em que exige explicações sobre suposta violação de direitos autorais. Leia mais (11/20/2026 - 13h10)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Galípolo diz que alertou PF sobre possível fuga de Vorcaro",
-      "link": "https://www.poder360.com.br/poder-justica/galipolo-diz-que-alertou-pf-sobre-possivel-fuga-de-vorcaro/",
-      "date": "2026-11-20T15:44:53.000Z",
-      "summary": "Presidente do Banco Central desconfiou de pedido urgente de reunião feito pelo Banco Master no dia da prisão do ex-banqueiro",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Moraes vota no STF para manter passaportes de Flávio Bolsonaro cancelados",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/moraes-vota-no-stf-para-manter-passaportes-de-flavio-bolsonaro-cancelados.shtml",
       "date": "2026-11-20T15:42:00.000Z",
       "summary": "O ministro do STF (Supremo Tribunal Federal) Alexandre de Moraes votou nesta sexta-feira (20) para manter o cancelamento dos passaportes de Flávio Bolsonaro (PL) e proibição de que o senador deixe o país. O voto foi em resposta a defesa de Flávio, que pediu à ",
       "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Moraes vota para manter passaportes de Flávio cancelados",
-      "link": "https://www.poder360.com.br/poder-justica/moraes-vota-para-manter-passaportes-de-flavio-cancelados/",
-      "date": "2026-11-20T15:35:35.000Z",
-      "summary": "Ministro afirma que saída do senador do país reforçou risco de obstrução; defesa nega irregularidades e pede devolução",
-      "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -298,7 +316,7 @@
       "type": "imprensa"
     },
     {
-      "title": "Dino vota para tornar Van Hattem réu por calúnia e injúria contra delegado da Polícia Federal",
+      "title": "Dino vota para tornar Van Hattem réu por calúnia e injúria contra delegado da PF; Zanin leva caso ao plenário físico do STF",
       "link": "https://g1.globo.com/politica/noticia/2026/11/20/dino-vota-para-tornar-van-hattem-reu-por-calunia-e-injuria-contra-delegado-da-policia-federal.ghtml",
       "date": "2026-11-20T14:21:48.000Z",
       "summary": "O ministro Flávio Dino, do Supremo Tribunal Federal (STF), votou pelo recebimento da denúncia apresentada pela Procuradoria-Geral da República (PGR) contra o deputado federal Marcel Van Hattem (Novo-RS) pelos crimes de calúnia e injúria contra um delegado da P",
@@ -352,15 +370,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Projeto que impede depoimentos como os de Suzane von Richthofen trava na Alesp",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/projeto-que-impede-depoimentos-como-os-de-suzane-von-richthofen-trava-na-alesp.shtml",
-      "date": "2026-11-20T13:30:00.000Z",
-      "summary": "O deputado estadual paulista Rafa Zimbaldi (União Brasil) espera que a repercussão negativa do pagamento de R$ 500 mil a Suzane von Richthofen para participar de um documentário da Netflix sobre o assassinato de seus pais, em 2002, ajude a destravar um projeto",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Tropas de 11 países ensaiam possível missão militar na Ucrânia pós-guerra",
       "link": "https://www.dw.com/pt-br/tropas-de-11-países-ensaiam-possível-missão-militar-na-ucrânia-pós-guerra/a-80001724?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-20T13:01:00.000Z",
@@ -395,6 +404,15 @@
       "source": "Estadão",
       "cat": "politica",
       "type": "imprensa"
+    },
+    {
+      "title": "WFP lança plano para salvar 91 milhões de pessoas da fome",
+      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854971",
+      "date": "2026-11-20T12:00:00.000Z",
+      "summary": "Agência alerta para surgimento da terceira grande crise alimentar em seis anos, impulsionada por conflitos e fenômeno climático El Niño; estratégia contra a fome foca nas populações mais vulneráveis e aposta em ação antecipada e inteligência artificial.&nbsp;",
+      "source": "ONU News",
+      "cat": "internacional",
+      "type": "oficial"
     },
     {
       "title": "FAO: El Niño e tensão geopolítica pressionam mercados de alimentos para 2027",
@@ -438,15 +456,6 @@
       "date": "2026-11-20T11:00:00.000Z",
       "summary": "",
       "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Produção mundial de vinho deve ficar perto do menor nível em 65 anos, com seca e calor na Europa",
-      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/20/producao-mundial-de-vinho-deve-ficar-perto-do-menor-nivel-em-65-anos-com-seca-e-calor-na-europa.ghtml",
-      "date": "2026-11-20T07:00:01.000Z",
-      "summary": "Como harmonizar os diferentes tipos de vinho com comida A produção mundial de vinho deve cair em 2026 e se aproximar do menor nível dos últimos 65 anos, segundo estimativa divulgada na quarta-feira (18) pela Organização Internacional da Vinha e do Vinho (OIV).",
-      "source": "g1",
       "cat": "economia",
       "type": "imprensa"
     },
@@ -638,24 +647,6 @@
       "source": "Banco Central",
       "cat": "economia",
       "type": "oficial"
-    },
-    {
-      "title": "Governos anunciam mais de 230 promessas para evitar violência a menores",
-      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854946",
-      "date": "2026-11-18T12:00:00.000Z",
-      "summary": "Documento entregue à Conferência Ministerial Global sobre o Fim da Violência a Crianças, em Manila, nas Filipinas, inclui cuidados com saúde mental e proteção online; mais de 1 bilhão de crianças sofrem violência no mundo; Brasil e Moçambique apresentarão prop",
-      "source": "ONU News",
-      "cat": "internacional",
-      "type": "oficial"
-    },
-    {
-      "title": "'A gente não tem cara de panaca': como samba-enredo inspirado na Constituinte de 1988 virou último sucesso de Gonzaguinha",
-      "link": "https://www.bbc.com/portuguese/articles/c6kgr9zp38xgo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-18T10:34:23.000Z",
-      "summary": "Em meio aos trabalhos do Congresso sobre a nova constituição em 1988, 'É' se tornou um sucesso instantâneo e um dos maiores êxitos da carreira de Gonzaguinha.",
-      "source": "BBC News Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
     },
     {
       "title": "BC anuncia leilões de swap cambial tradicional para fins de rolagem dos contratos vincendos em 4 de janeiro de 2027",
