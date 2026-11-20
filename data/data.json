@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-20T07:57:58.126Z",
+  "updated": "2026-11-20T09:00:13.733Z",
   "market": {
     "ibov": {
       "price": 166376.44,
       "pct": -0.69,
-      "time": "2026-11-20T07:57:51.199Z",
+      "time": "2026-11-20T09:00:03.647Z",
       "history": [
         {
           "d": "2026-10-21",
@@ -144,6 +144,42 @@
     ]
   },
   "news": [
+    {
+      "title": "Reforma no Judiciário é tema de 25 projetos no Congresso, que pode ter consenso por código de ética",
+      "link": "https://www.estadao.com.br/politica/reforma-no-judiciario-e-tema-de-25-projetos-no-congresso-que-pode-ter-consenso-por-codigo-de-etica/",
+      "date": "2026-11-20T08:30:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Governo avalia veto integral ao projeto da renegociação das dívidas rurais",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/governo-avalia-veto-integral-ao-projeto-da-renegociacao-das-dividas-rurais/",
+      "date": "2026-11-20T08:30:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Bruno Moretti ganha força no Planalto, mas comando da Fazenda é considerado pouco provável",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/bruno-moretti-ganha-forca-no-planalto-mas-comando-da-fazenda-e-considerado-pouco-provavel/",
+      "date": "2026-11-20T08:30:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Como as construtoras estão se preparando para reduzir o impacto do fim da escala 6x1",
+      "link": "https://www.estadao.com.br/economia/como-as-construtoras-estao-se-preparando-para-reduzir-o-impacto-do-fim-da-escala-6x1/",
+      "date": "2026-11-20T08:30:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
     {
       "title": "Produção mundial de vinho deve ficar perto do menor nível em 65 anos, com seca e calor na Europa",
       "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/20/producao-mundial-de-vinho-deve-ficar-perto-do-menor-nivel-em-65-anos-com-seca-e-calor-na-europa.ghtml",
@@ -334,24 +370,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Exportação aos países árabes salta em outubro com demanda para o Ramadã",
-      "link": "https://www.estadao.com.br/economia/coluna-da-broad/exportacao-aos-paises-arabes-salta-em-outubro-com-demanda-para-o-ramada/",
-      "date": "2026-11-20T00:59:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "PSD recorre de decisão de Zanin e volta a pedir 2º turno no Rio de Janeiro",
-      "link": "https://www.estadao.com.br/politica/psd-recorre-de-decisao-de-decisao-de-zanin-e-volta-a-pedir-2-turno-no-rio-de-janeiro-nprp/",
-      "date": "2026-11-20T00:48:45.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Milhares protestam contra a reforma tributária na Colômbia",
       "link": "https://www.poder360.com.br/poder-internacional/milhares-protestam-contra-a-reforma-tributaria-na-colombia/",
       "date": "2026-11-20T00:05:21.000Z",
@@ -406,15 +424,6 @@
       "type": "imprensa"
     },
     {
-      "title": "PF inclui Mendonça em pedido de apuração sobre relação com Vorcaro após interferência de Andrei",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/pf-pede-apuracao-dos-casos-de-4-ministros-do-stf-citados-no-celular-de-vorcaro/",
-      "date": "2026-11-19T22:23:27.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Comissão aprova proposta que proíbe inclusão do nome de novo cônjuge em anotação de divórcio na certidão de casamento anterior",
       "link": "https://www.camara.leg.br/noticias/1321382-comissao-aprova-proposta-que-proibe-inclusao-do-nome-de-novo-conjuge-em-anotacao-de-divorcio-na-certidao-de-casamento-anterior",
       "date": "2026-11-19T22:22:00.000Z",
@@ -431,6 +440,15 @@
       "source": "Agência Senado",
       "cat": "politica",
       "type": "oficial"
+    },
+    {
+      "title": "Cinco formas surpreendentes de aumentar seus níveis de ferro sem depender da carne",
+      "link": "https://www.bbc.com/portuguese/articles/ckwy97l71v07o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-19T21:26:14.000Z",
+      "summary": "Fermentação natural, cozimento com água, regar com limão. Quando o assunto é a absorção de ferro, o importante não é só o que comemos, mas a forma de preparar e servir os alimentos.",
+      "source": "BBC News Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
     },
     {
       "title": "Câmara dos Deputados reconhece boas iniciativas na educação brasileira com Prêmio Darcy Ribeiro",
@@ -485,15 +503,6 @@
       "source": "Agência Senado",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Campos Neto diz que Esteves, do BTG, levantou suspeitas sobre Master, mas diretor do BC as descartou",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/campos-neto-diz-que-esteves-do-btg-levantou-suspeitas-sobre-master-mas-diretor-do-bc-as-descartou/",
-      "date": "2026-11-19T20:43:44.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
     },
     {
       "title": "Combustíveis fósseis: o que são e por que importam",
@@ -617,24 +626,6 @@
       "link": "https://www.bbc.com/portuguese/articles/c5vg2mrwyjr2o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-18T16:46:01.000Z",
       "summary": "Winston Churchill, Franklin Roosevelt e Joseph Stálin eram os 'Três Grandes' que se reuniram em Yalta para definir o mapa de influências da Europa no pós-guerra",
-      "source": "BBC News Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Por que encontro histórico com Xi e Trump já é uma vitória para Putin",
-      "link": "https://www.bbc.com/portuguese/articles/cvp86k97y0g8o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-18T16:14:08.000Z",
-      "summary": "O encontro entre os líderes dos EUA, China e Rússia dará a Vladimir Putin uma grande plataforma, mas não o aproximará da vitória na guerra na Ucrânia.",
-      "source": "BBC News Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Reunião pode dividir o mundo em três? Por que cúpula entre Trump, Xi e Putin deixa a Europa preocupada",
-      "link": "https://www.bbc.com/portuguese/articles/cqx2ey1zxjymo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-18T14:54:26.000Z",
-      "summary": "Preparativos para o primeiro encontro trilateral entre os líderes da China, da Rússia e dos EUA provocaram apreensão na Europa, onde alguns veem paralelos com a divisão do mundo em esferas de influência após a Segunda Guerra Mundial.",
       "source": "BBC News Brasil",
       "cat": "internacional",
       "type": "imprensa"
