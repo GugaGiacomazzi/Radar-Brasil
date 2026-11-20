@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-20T12:20:17.726Z",
+  "updated": "2026-11-20T13:55:03.446Z",
   "market": {
     "ibov": {
       "price": 166376.44,
       "pct": -0.69,
-      "time": "2026-11-20T12:20:12.298Z",
+      "time": "2026-11-20T13:54:58.801Z",
       "history": [
         {
           "d": "2026-10-21",
@@ -145,6 +145,150 @@
   },
   "news": [
     {
+      "title": "Dólar caminha para quarta alta semanal, apoiado por expectativas de aperto do Fed e busca por proteção impulsionada pela IA",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/dolar-caminha-para-quarta-alta-semanal-apoiado-por-expectativas-de-aperto-do-fed-e-busca-por-protecao-impulsionada-pela-ia.shtml",
+      "date": "2026-11-20T13:38:00.000Z",
+      "summary": "O dólar operava estável nesta sexta-feira (20) e caminhava para subir pela quarta semana consecutiva, à medida que as expectativas de um novo aperto monetário pelo Fed (Federal Reserve, o BC americano) sustentavam a moeda americana e as preocupações com as neg",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Fachin nega prisão domiciliar a policial federal da ‘turma’ de Daniel Vorcaro",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/fachin-nega-prisao-domiciliar-a-policial-federal-da-turma-de-daniel-vorcaro/",
+      "date": "2026-11-20T13:37:25.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Impasse sobre guerra e gastos militares ameaça paralisar governo dos EUA",
+      "link": "https://g1.globo.com/mundo/noticia/2026/11/20/impasse-sobre-guerra-e-gastos-militares-ameaca-paralisar-governo-dos-eua.ghtml",
+      "date": "2026-11-20T13:34:36.000Z",
+      "summary": "O governo dos Estados Unidos corre o risco de paralisar parte de suas atividades antes do Natal, caso republicanos e democratas não cheguem a um acordo sobre o financiamento de órgãos federais. O impasse envolve divergências sobre a guerra com o Irã e o pedido",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Projeto que impede depoimentos como os de Suzane von Richthofen trava na Alesp",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/projeto-que-impede-depoimentos-como-os-de-suzane-von-richthofen-trava-na-alesp.shtml",
+      "date": "2026-11-20T13:30:00.000Z",
+      "summary": "O deputado estadual paulista Rafa Zimbaldi (União Brasil) espera que a repercussão negativa do pagamento de R$ 500 mil a Suzane von Richthofen para participar de um documentário da Netflix sobre o assassinato de seus pais, em 2002, ajude a destravar um projeto",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Fachin rejeita pedido da defesa e mantém prisão preventiva de Vorcaro",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/fachin-rejeita-pedido-da-defesa-e-mantem-prisao-preventiva-de-vorcaro.shtml",
+      "date": "2026-11-20T13:28:00.000Z",
+      "summary": "O presidente do STF, Edson Fachin, negou nesta sexta-feira (20) o pedido de revisão da prisão preventiva do ex-banqueiro Daniel Vorcaro, dono do Banco Master. Leia mais (11/20/2026 - 10h28)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Black Friday nos EUA coloca gastos do consumidor no foco em mercado abalado pela IA",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/black-friday-nos-eua-coloca-gastos-do-consumidor-no-foco-em-mercado-abalado-pela-ia.shtml",
+      "date": "2026-11-20T13:05:00.000Z",
+      "summary": "Os investidores voltarão sua atenção, na próxima semana, para a força dos gastos do consumidor, na esperança de que sinais de um cenário econômico amplamente sólido possam dar estabilidade ao mercado acionário dos Estados Unidos, abalado pelas apreensões em to",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Potência na extração, Amazônia busca verticalizar mineração",
+      "link": "https://www.poder360.com.br/poder-infra/potencia-na-extracao-amazonia-busca-verticalizar-mineracao/",
+      "date": "2026-11-20T13:03:59.000Z",
+      "summary": "Pará concentra um terço do valor da mineração brasileira, mas ainda exporta a maior parte de sua produção sem transformação industrial",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Tropas de 11 países ensaiam possível missão militar na Ucrânia pós-guerra",
+      "link": "https://www.dw.com/pt-br/tropas-de-11-países-ensaiam-possível-missão-militar-na-ucrânia-pós-guerra/a-80001724?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-20T13:01:00.000Z",
+      "summary": "Milhares de tropas europeias estão participando de um exercício militar no sudeste da Polônia. Liderada por França e Reino Unido, força multinacional avalia capacidade de mobilização na Ucrânia após o fim da guerra.",
+      "source": "DW Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "PSD recorre ao STF e volta a pedir segundo turno entre Paes e Ruas no Rio",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/psd-recorre-ao-stf-e-volta-a-pedir-segundo-turno-entre-paes-e-ruas-no-rio.shtml",
+      "date": "2026-11-20T13:01:00.000Z",
+      "summary": "O PSD recorreu ao STF (Supremo Tribunal Federal) para pedir um segundo turno entre Douglas Ruas (PL) e Eduardo Paes (PSD) na eleição para governador do Rio de Janeiro. Em 12 de novembro, o ministro Cristiano Zanin havia negado o pedido de liminar do partido. L",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Campanhas pagaram R$ 113 milhões a beneficiários do Bolsa Família",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/campanhas-pagaram-r-113-milhoes-a-beneficiarios-do-bolsa-familia/",
+      "date": "2026-11-20T13:00:57.000Z",
+      "summary": "Ao menos 78.831 beneficiários trabalharam para candidatos em 2026, mostra cruzamento de dados; números sugerem irregularidade em alguns casos",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Fachin derruba sigilo de relatório da PF sobre Mendonça",
+      "link": "https://www.poder360.com.br/poder-justica/fachin-derruba-sigilo-de-relatorio-da-pf-sobre-mendonca/",
+      "date": "2026-11-20T12:49:46.000Z",
+      "summary": "Decisão atende a pedido do ministro; documento reúne conversas de terceiros no celular de Daniel Vorcaro",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Gasto dos EUA na guerra contra Irã chega a US$ 48 bilhões e amplia pressão sobre o Pentágono",
+      "link": "https://www.dw.com/pt-br/gasto-dos-eua-na-guerra-contra-irã-chega-a-us-48-bilhões-e-amplia-pressão-sobre-o-pentágono/a-80001454?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-20T12:43:00.000Z",
+      "summary": "Oposição democrata critica falta de transparência e pede que o governo Trump libere estimativa de prejuízos em bases americanas no Oriente Médio, que estão fora da conta atual.",
+      "source": "DW Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Fachin nega pedido de Daniel Vorcaro e mantém banqueiro em prisão preventiva",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/fachin-nega-pedido-de-daniel-vorcaro-e-mantem-banqueiro-em-prisao-preventiva/",
+      "date": "2026-11-20T12:36:55.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Antigo hotel Maksoud Plaza pode virar condomínio com 398 apartamentos em SP",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/antigo-hotel-maksoud-plaza-pode-virar-condominio-com-398-apartamentos-em-sp.shtml",
+      "date": "2026-11-20T12:31:00.000Z",
+      "summary": "O antigo hotel Maksoud Plaza, na Bela Vista, região central de São Paulo, poderá dar lugar a um empreendimento de uso misto com 398 unidades residenciais, 152 unidades destinadas a serviços de hospedagem e lojas. O projeto prevê uma torre de 26 pavimentos, alé",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Fachin retira sigilo de relatório da PF sobre Mendonça após pedido do ministro",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/fachin-retira-sigilo-de-relatorio-da-pf-sobre-mendonca-apos-pedido-do-ministro.shtml",
+      "date": "2026-11-20T12:27:00.000Z",
+      "summary": "O presidente do STF (Supremo Tribunal Federal), Edson Fachin, retirou nesta sexta-feira (20) o sigilo sobre o relatórios da Polícia Federal que reúne informações sobre o ministro André Mendonça com o caso do Banco Master. A decisão de Fachin atende a pedido de",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Caso Master: Fachin mantém prisão do ex-banqueiro Daniel Vorcaro",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/20/caso-master-fachin-mantem-prisao-do-ex-banqueiro-daniel-vorcaro.ghtml",
+      "date": "2026-11-20T12:25:23.000Z",
+      "summary": "Fachin mantém prisão de Daniel Vorcaro O presidente do Supremo Tribunal Federal (STF), Edson Fachin, manteve nesta quinta-feira (19) a prisão do ex-banqueiro Daniel Vorcaro, do Master, alvo da Operação Compliance Zero. Ele está preso desde 4 de março. Atualmen",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "Vorcaro e Faria planejaram instituto para Moraes com aval do ministro, indicam diálogos",
       "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/vorcaro-e-faria-planejaram-instituto-para-moraes-com-aval-do-ministro-indicam-dialogos/",
       "date": "2026-11-20T12:16:33.000Z",
@@ -154,56 +298,11 @@
       "type": "imprensa"
     },
     {
-      "title": "Meta está reavaliando sua meta de zerar emissões diante do boom da IA",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/economia-sustentavel/2026/11/meta-esta-reavaliando-sua-meta-de-zerar-emissoes-diante-do-boom-da-ia.shtml",
-      "date": "2026-11-20T12:06:00.000Z",
-      "summary": "A Meta, controladora de Facebook, Instagram e WhatsApp, informou nesta quinta-feira (19) que está reavaliando sua meta de alcançar a neutralidade de carbono até 2030 diante da expansão da IA (inteligência artificial). Leia mais (11/20/2026 - 09h06)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Brasil simplifica exportação de cosméticos para a América Latina",
-      "link": "https://www.poder360.com.br/poder-economia/brasil-simplifica-exportacao-de-cosmeticos-para-a-america-latina/",
-      "date": "2026-11-20T12:00:53.000Z",
-      "summary": "Decreto assinado na 3ª feira (17.nov.2026) reduz exigências regulatórias e custos para empresas do setor",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "SP vai restaurar 17 imóveis tombados no Novo Centro Administrativo",
-      "link": "https://www.poder360.com.br/poder-infra/sp-vai-restaurar-17-imoveis-tombados-no-centro/",
-      "date": "2026-11-20T12:00:51.000Z",
-      "summary": "Edifícios históricos no entorno do Novo Centro Administrativo na capital terão uso social e cultural; investimento total do projeto é de R$ 6 bilhões",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Justiça reconhece racismo em 68% dos casos, diz levantamento",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/justica-reconhece-racismo-em-68-dos-casos-diz-levantamento/",
+      "title": "Block no tigrinho? Influenciadores driblam governo e Meta para divulgar bets ilegais; veja vídeo",
+      "link": "https://www.estadao.com.br/economia/block-no-tigrinho-influenciadores-driblam-governo-e-meta-para-divulgar-bets-ilegais-veja-video/",
       "date": "2026-11-20T12:00:00.000Z",
       "summary": "",
       "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "TikTok lança ferramenta para ajudar figuras públicas a detectar deepfakes",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/tiktok-lanca-ferramenta-para-ajudar-figuras-publicas-a-detectar-deepfakes.shtml",
-      "date": "2026-11-20T11:58:00.000Z",
-      "summary": "O TikTok anunciou nesta sexta-feira (20) o lançamento global de sua ferramenta de detecção de deepfakes para figuras públicas, enquanto a plataforma de mídia social busca conter a desinformação gerada por inteligência artificial antes de uma série de eleições ",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Ações da Anthropic caem enquanto temores sobre o boom da IA dominam os mercados",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/acoes-da-anthropic-caem-enquanto-temores-sobre-o-boom-da-ia-dominam-os-mercados.shtml",
-      "date": "2026-11-20T11:48:00.000Z",
-      "summary": "As ações da Anthropic caíram 6% nas negociações do pré-mercado nesta sexta-feira (20), apagando parte dos ganhos de sua estreia espetacular, enquanto os temores dos investidores sobre a durabilidade do boom da IA continuavam a dominar os mercados acionários gl",
-      "source": "Folha",
       "cat": "economia",
       "type": "imprensa"
     },
@@ -226,15 +325,6 @@
       "type": "imprensa"
     },
     {
-      "title": "TSMC endurece restrições a chips de IA da China após novas regras dos EUA fecharem brecha na fabricação, dizem fontes",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/tsmc-endurece-restricoes-a-chips-de-ia-da-china-apos-novas-regras-dos-eua-fecharem-brecha-na-fabricacao-dizem-fontes.shtml",
-      "date": "2026-11-20T11:33:00.000Z",
-      "summary": "A taiwanesa TSMC está endurecendo as restrições impostas a projetistas chineses de chips, suspendendo alguns pedidos de fabricação avançada anteriormente permitidos e, de modo geral, limitando os clientes afetados a tecnologias mais antigas de produção de semi",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Mercedes e Volks em crise: há salvação para indústria de carros alemã?",
       "link": "https://www.dw.com/pt-br/mercedes-e-volks-em-crise-há-salvação-para-indústria-de-carros-alemã/a-80000175?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-20T11:24:00.000Z",
@@ -244,25 +334,7 @@
       "type": "imprensa"
     },
     {
-      "title": "Líder do MST chama ajuste fiscal de enganação e pede jovens no governo",
-      "link": "https://www.poder360.com.br/poder-governo/lider-do-mst-chama-ajuste-fiscal-de-enganacao-e-pede-jovens-no-governo/",
-      "date": "2026-11-20T11:18:00.000Z",
-      "summary": "Stedile defende mudança geracional na Esplanada: “Quando o PT, a CUT e o MST foram fundados, éramos jovens. Agora, estamos acomodados”",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Comissões pedem R$ 85,9 bilhões em emendas ao Orçamento de 2027",
-      "link": "https://www.poder360.com.br/poder-congresso/comissoes-pedem-r-859-bilhoes-em-emendas-ao-orcamento-de-2027/",
-      "date": "2026-11-20T11:13:46.000Z",
-      "summary": "Propostas de 16 colegiados ainda dependem de análise da Comissão Mista de Orçamento e de aprovação pelo Congresso",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Caso Master: Mendonça pede à presidência do STF que torne público relatório da PF com menções a ele",
+      "title": "Caso Master: Mendonça pede, e Fachin torna público relatório da PF com menções ao ministro do STF",
       "link": "https://g1.globo.com/politica/blog/camila-bomfim/post/2026/11/20/caso-master-mendonca-pede-a-presidencia-do-stf-que-torne-publico-relatorio-da-pf-com-mencoes-a-ele.ghtml",
       "date": "2026-11-20T11:01:26.000Z",
       "summary": "Mendonça abre mão de sigilo de documentos O ministro André Mendonça , do Supremo Tribunal Federal (STF), pediu nesta sexta-feira (20) ao presidente da Corte, Edson Fachin, que \"dê ampla publicidade\" ao relatório da Polícia Federal com menções a Mendonça no cas",
@@ -277,33 +349,6 @@
       "summary": "",
       "source": "Estadão",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Governo Tarcísio chega a 161 convênios com cidades da região de São José dos Campos",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/governo-tarcisio-chega-a-161-convenios-com-cidades-da-regiao-de-sao-jose-dos-campos.shtml",
-      "date": "2026-11-20T10:45:00.000Z",
-      "summary": "O governo Tarcísio de Freitas (Republicanos) assinou 161 convênios com prefeituras da região administrativa de São José dos Campos desde 2023. Os acordos foram viabilizados pela Secretaria de Governo. Leia mais (11/20/2026 - 07h45)",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Fachin tira sigilo de relatório da PF sobre Mendonça no caso Master a pedido do ministro",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/mendonca-abre-mao-de-sigilo-e-solicita-a-fachin-que-torne-publico-relatorio-da-pf-que-cita-seu-nome/",
-      "date": "2026-11-20T10:40:01.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Após embates, Nunes e Pavanato trocam elogios e se aproximam",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/apos-embates-nunes-e-pavanato-trocam-elogios-e-se-aproximam.shtml",
-      "date": "2026-11-20T10:18:00.000Z",
-      "summary": "O prefeito Ricardo Nunes (MDB) e o vereador e deputado federal eleito Lucas Pavanato (PL) têm se aproximado após divergências e críticas no ano passado. Leia mais (11/20/2026 - 07h18)",
-      "source": "Folha",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -334,37 +379,10 @@
       "type": "imprensa"
     },
     {
-      "title": "'Não podíamos pagar uma casa para nossa família, então decidimos comprar uma junto com desconhecidos'",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/20/nao-podiamos-pagar-uma-casa-para-nossa-familia-entao-decidimos-comprar-uma-junto-com-desconhecidos.ghtml",
-      "date": "2026-11-20T07:00:00.000Z",
-      "summary": "A família Pullman, à esquerda, e a família Wilcox compraram uma casa juntas, pouco depois que se conheceram. Elizabeth Wilcox/Arquivo pessoal via BBC Elizabeth e Tom Wilcox subitamente perceberam que nunca conseguiriam comprar a casa que eles queriam, para o c",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Livro do filho resgata dúvidas sobre morte de Jango durante a ditadura",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/livro-do-filho-resgata-duvidas-sobre-morte-de-jango-durante-a-ditadura.shtml",
-      "date": "2026-11-20T07:00:00.000Z",
-      "summary": "Sabotadores de carros, especialistas em assassinatos por envenenamento, agentes duplos, codinomes, voos secretos e um grampo na casa de um ex-presidente que está exilado no país vizinho. A história parece romance de espionagem, mas é um resgate que João Vicent",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Pessoas negras representaram 45% dos novos servidores públicos nos últimos quatro anos",
       "link": "https://g1.globo.com/politica/noticia/2026/11/20/pessoas-negras-representaram-45percent-dos-novos-servidores-publicos-nos-ultimos-quatro-anos.ghtml",
       "date": "2026-11-20T03:00:01.000Z",
       "summary": "Pessoas negras representaram 45% dos novos ingressos na administração pública federal nos últimos quatro anos. Entre 2023 e outubro de 2026, a administração pública federal registrou 11.543 vínculos a mais de pessoas negras. Segundo o governo, o percentual de ",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Briga na esquerda menos de um mês após eleição expõe divergências sobre rumos do governo Lula 4",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/20/briga-na-esquerda-e-governo-lula-4.ghtml",
-      "date": "2026-11-20T03:00:01.000Z",
-      "summary": "Presidente Lula durante cerimônia no Palácio do Planalto nesta quinta-feira (19). Adriano Machado/Reuters Menos de um mês após a vitória de Lula (PT) sobre Flávio Bolsonaro (PL) no segundo turno, uma briga pública entre aliados do presidente expôs divergências",
       "source": "g1",
       "cat": "politica",
       "type": "imprensa"
@@ -379,15 +397,6 @@
       "type": "oficial"
     },
     {
-      "title": "Band realiza a 1ª edição do ‘Prêmio Inspira SP’ para celebrar destaques de 2026; veja como será",
-      "link": "https://www.estadao.com.br/economia/negocios/band-realiza-a-1-edicao-do-premio-inspira-sp-para-celebrar-destaques-de-2026-veja-como-sera/",
-      "date": "2026-11-19T22:45:28.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Comissão aprova proposta de política para pessoas com altas habilidades",
       "link": "https://www.camara.leg.br/noticias/1321312-comissao-aprova-proposta-de-politica-para-pessoas-com-altas-habilidades",
       "date": "2026-11-19T22:40:00.000Z",
@@ -395,6 +404,15 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
+    },
+    {
+      "title": "OAB-RJ barra intermediação irregular por plataformas digitais na contratação de advogados",
+      "link": "https://www.estadao.com.br/politica/oab-rj-barrar-intermediacao-irregular-por-plataformas-digitais-na-contratacao-de-advogados-nprp/",
+      "date": "2026-11-19T22:39:16.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
     },
     {
       "title": "Europa luta para não ficar à margem do futuro da Ucrânia",
@@ -514,24 +532,6 @@
       "type": "imprensa"
     },
     {
-      "title": "O que está por trás do acirramento da disputa entre Airbus e Boeing",
-      "link": "https://www.dw.com/pt-br/o-que-está-por-trás-do-acirramento-da-disputa-entre-airbus-e-boeing/a-79993144?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-19T18:21:00.000Z",
-      "summary": "EUA dizem que financiamento recorde de 3 bilhões de euros para empresa europeia ameaça trégua transatlântica sobre subsídios ao setor aéreo. UE insiste estar agindo em conformidade com as regras de mercado.",
-      "source": "DW Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Borussia Dortmund cede à pressão da torcida e rompe com a Rheinmetall",
-      "link": "https://www.dw.com/pt-br/borussia-dortmund-cede-à-pressão-da-torcida-e-rompe-com-a-rheinmetall/a-79995824?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-19T17:41:00.000Z",
-      "summary": "Após protestos da segunda maior torcida alemã, clube rescinde contrato de patrocínio com a maior fabricante de armas da Alemanha. Time não é o primeiro da Bundesliga a sofrer conflito entre interesses comerciais e fãs.",
-      "source": "DW Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
       "title": "BC publica Pesquisa Trimestral de Condições de Crédito (PTC)",
       "link": "https://www.bcb.gov.br/detalhenoticia/21324/nota",
       "date": "2026-11-19T17:31:41.000Z",
@@ -547,15 +547,6 @@
       "summary": "Ações começaram a ser negociadas com alta de 34%, mas recuaram depois, de US$ 111,50 para cerca de US$ 100.",
       "source": "BBC News Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Investigar ou arquivar? Entenda o que a PGR pode fazer com os relatórios sobre ministros do STF",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/investigar-ou-arquivar-entenda-o-que-a-pgr-pode-fazer-com-os-relatorios-sobre-ministros-do-stf/",
-      "date": "2026-11-19T13:22:24.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
