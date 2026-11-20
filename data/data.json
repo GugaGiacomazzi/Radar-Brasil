@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-20T02:06:20.876Z",
+  "updated": "2026-11-20T03:07:20.204Z",
   "market": {
     "ibov": {
       "price": 166376.44,
       "pct": -0.69,
-      "time": "2026-11-20T02:06:13.225Z",
+      "time": "2026-11-20T03:07:12.704Z",
       "history": [
         {
           "d": "2026-10-21",
@@ -88,7 +88,7 @@
         },
         {
           "d": "2026-11-19",
-          "c": 166376.4375
+          "c": 166376
         }
       ]
     },
@@ -145,12 +145,93 @@
   },
   "news": [
     {
+      "title": "Pessoas negras representaram 45% dos novos servidores públicos nos últimos quatro anos",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/20/pessoas-negras-representaram-45percent-dos-novos-servidores-publicos-nos-ultimos-quatro-anos.ghtml",
+      "date": "2026-11-20T03:00:01.000Z",
+      "summary": "Pessoas negras representaram 45% dos novos ingressos na administração pública federal nos últimos quatro anos. Entre 2023 e outubro de 2026, a administração pública federal registrou 11.543 vínculos a mais de pessoas negras. Segundo o governo, o percentual de ",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Briga na esquerda menos de um mês após eleição expõe divergências sobre rumos do governo Lula 4",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/20/briga-na-esquerda-e-governo-lula-4.ghtml",
+      "date": "2026-11-20T03:00:01.000Z",
+      "summary": "Presidente Lula durante cerimônia no Palácio do Planalto nesta quinta-feira (19). Adriano Machado/Reuters Menos de um mês após a vitória de Lula (PT) sobre Flávio Bolsonaro (PL) no segundo turno, uma briga pública entre aliados do presidente expôs divergências",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Galípolo diz que ligou para PF para alertar sobre possível fuga de Vorcaro",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/20/galipolo-diz-que-ligou-para-pf-para-alertar-sobre-possivel-fuga-de-vorcaro.ghtml",
+      "date": "2026-11-20T03:00:00.000Z",
+      "summary": "O presidente do Banco Central, Gabriel Galípolo, afirmou à Polícia Federal que alertou a corporação sobre a suspeita de que Daniel Vorcaro, ex-dono do Banco Master, poderia tentar fugir do país. Em depoimento à Polícia Federal em outubro deste ano, Galípolo di",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Marina Silva, Fachin e Erika Hilton ampliam pressão sobre Lula por ministra negra no STF: 'Abismo social e estrutural'",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/20/marina-silva-fachin-e-erika-hilton-lula-ministra-negra-no-stf.ghtml",
+      "date": "2026-11-20T03:00:00.000Z",
+      "summary": "As deputadas federais Erika Hilton (PSOL-SP), Marina Silva (Rede-SP) e o presidente do STF, Edson Fachin, pedem que Lula indique uma mulher negra para o STF. STF/Reprodução Marina Silva (Rede-SP), ex-ministra do Meio Ambiente e deputada federal, aderiu na últi",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Bukele anuncia candidatura ao 3º mandato em El Salvador",
+      "link": "https://www.poder360.com.br/poder-internacional/bukele-anuncia-candidatura-ao-3o-mandato-em-el-salvador/",
+      "date": "2026-11-20T02:23:16.000Z",
+      "summary": "Presidente disputará eleição em fevereiro de 2027 após reforma que permitiu reeleições ilimitadas; pesquisas indicam favoritismo",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "PGR terá núcleo com Gonet para avaliar relatórios sobre ministros do STF e deve superar prazo de 15 dias",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/pgr-tera-nucleo-com-gonet-para-avaliar-relatorios-sobre-ministros-do-stf-e-deve-superar-prazo-de-15-dias.shtml",
+      "date": "2026-11-20T02:03:00.000Z",
+      "summary": "A PGR (Procuradoria-Geral da República) terá um núcleo formado por ao menos quatro procuradores da cúpula da instituição para avaliar os relatórios entregues pela Polícia Federal com citações aos nomes de ministros do STF (Supremo Tribunal Federal) nas investi",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lula diz que quer evitar erros do atual mandato com ministros e que busca equipe sólida",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/lula-diz-que-quer-evitar-erros-do-atual-mandato-com-ministros-e-que-busca-equipe-solida.shtml",
+      "date": "2026-11-20T02:00:00.000Z",
+      "summary": "O presidente Lula (PT) tem dito a aliados que não tem pressa para definir os futuros ministros do governo porque quer evitar erros da atual gestão e manter indicados nos respectivos cargos por mais tempo. A referência é às trocas que o presidente precisou faze",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Jornais negros surgiram há quase 200 anos para reivindicar cidadania e denunciar racismo",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/jornais-negros-surgiram-ha-quase-200-anos-para-reivindicar-cidadania-e-denunciar-racismo.shtml",
+      "date": "2026-11-20T02:00:00.000Z",
+      "summary": "O primeiro jornal feito por pessoas negras foi publicado em 1833, em um Brasil que ainda vivia sob o regime da escravidão. O Homem de Cor reivindicava a cidadania da população preta e parda, questionava a discriminação racial e a exclusão de direitos básicos. ",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "Entidades criticam decreto de Lula que regulamenta fim da escala 6x1 e falam em falta de informações",
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/entidades-criticam-decreto-de-lula-que-regulamenta-fim-da-escala-6x1-e-falam-em-falta-de-informacoes.shtml",
       "date": "2026-11-20T02:00:00.000Z",
       "summary": "Associações que representam diversos setores da economia estão insatisfeitas com o decreto do governo Lula (PT) que regulamenta o fim da escala 6x1. A jornada será substituída pela 5x2, com duas folgas, em 16 de dezembro de 2026. Entidades empresariais, no ent",
       "source": "Folha",
       "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "TSE mantem a inelegibilidade de Alfredo Kaefer; ex-deputado tentou disputar vaga na Câmara",
+      "link": "https://www.estadao.com.br/politica/tse-mantem-a-inelegibilidade-de-alfredo-kaefer-ex-deputado-tentou-disputar-vaga-na-camara/",
+      "date": "2026-11-20T01:57:21.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -226,30 +307,12 @@
       "type": "imprensa"
     },
     {
-      "title": "PSB e PDT desistem de federação com legendas médias por serem mais à direita",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/psb-e-pdt-desistem-de-federacao-com-legendas-medias-por-serem-mais-a-direita.shtml",
-      "date": "2026-11-20T00:30:00.000Z",
-      "summary": "Ao oficializar uma nova federação, o PSB e o PDT desistiram de incluir no arranjo outros partidos menores, como Solidariedade, PRD e Avante. O que pesou na decisão, segundo um dirigente, é o fato de esses partidos terem \"os dois pés na direita\". Leia mais (11/",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Mega-Sena 3088 acumula e prêmio vai a R$ 45 milhões; confira os números sorteados",
       "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/19/mega-sena-concurso-3088-confira-os-numeros-sorteados.ghtml",
       "date": "2026-11-20T00:08:26.000Z",
       "summary": "Mega-Sena, concurso 3088: confira os números sorteados O sorteio do concurso 3.088 da Mega-Sena foi realizado na noite desta quinta-feira (19), em São Paulo. O prêmio para as apostas que acertassem as seis dezenas era de R$ 37,7 milhões. No entanto, ninguém le",
       "source": "g1",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Ministros do STF recebem cópia do relatório da PF em que são citados sobre relações com Vorcaro",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/19/ministros-do-stf-recebem-copia-do-relatorio-da-pf-em-que-sao-citados-sobre-relacoes-com-vorcaro.ghtml",
-      "date": "2026-11-20T00:06:16.000Z",
-      "summary": "O presidente do Supremo Tribunal Federal (STF), Edson Fachin, enviou uma cópia dos relatórios produzidos pela Polícia Federal (PF) sobre as relações do banqueiro Daniel Vorcaro, ex-dono do Banco Master, aos ministros que foram citados no material. Ao menos cin",
-      "source": "g1",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -276,7 +339,7 @@
       "date": "2026-11-19T23:37:50.000Z",
       "summary": "Projeto de ajuste fiscal segue para Câmara dos Deputados O relator do projeto de ajuste fiscal do governo Lula (PT) na Câmara dos Deputados, Mauro Benevides (União Brasil-CE), apresentou nesta quinta-feira (19) seu parecer para a proposta. Benevides manteve o ",
       "source": "g1",
-      "cat": "politica",
+      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -289,39 +352,12 @@
       "type": "oficial"
     },
     {
-      "title": "Em reunião, países reiteram apoio à Ucrânia e pressão sobre a Rússia",
-      "link": "https://www.poder360.com.br/poder-internacional/em-reuniao-paises-reiteram-apoio-a-ucrania-e-pressao-sobre-a-russia/",
-      "date": "2026-11-19T23:12:05.000Z",
-      "summary": "Em declaração conjunta, líderes detalham reforço da defesa aérea e novas sanções contra Moscou",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Cabe a Fachin dar foco às investigações do Master no Supremo",
-      "link": "https://www.estadao.com.br/politica/raquel-landim/cabe-a-fachin-dar-foco-as-investigacoes-do-master-no-supremo/",
-      "date": "2026-11-19T23:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Justiça aprova parcelamento de R$ 139 milhões em execuções trabalhistas do Grupo Pão de Açúcar",
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/justica-aprova-parcelamento-de-r-139-milhoes-em-execucoes-trabalhistas-do-grupo-pao-de-acucar.shtml",
       "date": "2026-11-19T22:46:00.000Z",
       "summary": "O Grupo Pão de Açúcar informou nesta quinta-feira (19) que o TRT-2 (Tribunal Regional do Trabalho da 2ª Região) aprovou um plano para reorganizar o pagamento de R$ 139 milhões em execuções trabalhistas da companhia. Leia mais (11/19/2026 - 19h46)",
       "source": "Folha",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "PCdoB deve votar a favor do plano Moretti, mas apresenta projeto alternativo para reduzir juros",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/pcdob-deve-votar-a-favor-do-plano-moretti-mas-apresenta-projeto-alternativo-para-reduzir-juros.shtml",
-      "date": "2026-11-19T22:43:00.000Z",
-      "summary": "O PCdoB deve votar a favor do plano Moretti, que prevê um ajuste nas contas públicas e deve ser votado na Câmara dos Deputados na próxima semana. Mas, assim como o PT, a legenda decidiu apresentar vários projetos alternativos ao ajuste, com foco na redução dos",
-      "source": "Folha",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -340,15 +376,6 @@
       "summary": "Berlim reuniu aliados de Kiev em cúpula para cobrar espaço nas negociações de paz, enquanto Trump, Putin e Xi se encontravam paralelamente na China.",
       "source": "DW Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Fachin envia à PGR relatórios sobre Moraes, Kassio, Toffoli e Mendonça após citações no caso Master",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/fachin-envia-a-pgr-relatorios-sobre-moraes-kassio-toffoli-e-mendonca-apos-citacoes-no-caso-master.shtml",
-      "date": "2026-11-19T22:31:00.000Z",
-      "summary": "O presidente do STF (Supremo Tribunal Federal), Edson Fachin, enviou para a análise da PGR (Procuradoria-Geral da República), nesta quinta-feira (19), quatro relatórios produzidos pela Polícia Federal com citações aos ministros Alexandre de Moraes, Kassio Nune",
-      "source": "Folha",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -404,15 +431,6 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Moraes libera ações sobre Lei da Dosimetria para julgamento no STF; caso será analisado em dezembro",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/19/moraes-libera-acoes-sobre-lei-da-dosimetria-para-julgamento-no-stf.ghtml",
-      "date": "2026-11-19T21:20:39.000Z",
-      "summary": "Moraes libera ações sobre lei da dosimetria para julgamento no STF O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), liberou nesta quinta-feira (19) para julgamento ações que questionam a chamada Lei da Dosimetria, que prevê a redução de penas",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
     },
     {
       "title": "Comissão aprova criação de centros de acolhimento de curta permanência para idosos",
@@ -492,7 +510,7 @@
       "date": "2026-11-19T19:28:15.000Z",
       "summary": "Mercado de câmbio trava após Lula sobre escolha de ministros e BC intervém Mesmo com a aprovação do ajuste fiscal pelo Senado Federal, o mercado cambial segue pressionado nesta quinta-feira (19) por causa de declarações do presidente Luiz Inácio Lula da Silva ",
       "source": "g1",
-      "cat": "politica",
+      "cat": "economia",
       "type": "imprensa"
     },
     {
