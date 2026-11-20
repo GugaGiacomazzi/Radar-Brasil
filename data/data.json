@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-20T15:53:33.066Z",
+  "updated": "2026-11-20T16:54:51.951Z",
   "market": {
     "ibov": {
       "price": 166376.44,
       "pct": -0.69,
-      "time": "2026-11-20T15:53:27.108Z",
+      "time": "2026-11-20T16:54:44.431Z",
       "history": [
         {
           "d": "2026-10-21",
@@ -145,6 +145,96 @@
   },
   "news": [
     {
+      "title": "Milhares protestam na Itália em greve geral contra governo Meloni",
+      "link": "https://www.poder360.com.br/poder-internacional/milhares-protestam-na-italia-em-greve-geral-contra-governo-meloni/",
+      "date": "2026-11-20T16:48:58.000Z",
+      "summary": "Trabalhadores e estudantes reivindicam reajustes salariais e mais verbas para educação e saúde",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Michelle Bolsonaro disse ficar feliz por ter uma mulher candidata no Senado, afirma Tereza Cristina",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/michelle-bolsonaro-disse-ficar-feliz-por-ter-uma-mulher-candidata-no-senado-afirma-tereza-cristina.shtml",
+      "date": "2026-11-20T16:37:00.000Z",
+      "summary": "Candidata a presidente do Senado, Tereza Cristina (PP-MS) afirma que a ex-primeira-dama e senadora eleita Michelle Bolsonaro (PL-DF) disse ficar muito feliz por ter uma mulher na briga pela vaga. Leia mais (11/20/2026 - 13h37)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Proibição da União Europeia às exportações de resíduos plásticos entra em vigor",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/proibicao-da-uniao-europeia-as-exportacoes-de-residuos-plasticos-entra-em-vigor.shtml",
+      "date": "2026-11-20T16:29:00.000Z",
+      "summary": "Uma proibição da União Europeia à exportação de resíduos plásticos para países que não fazem parte da OCDE (Organização para a Cooperação e Desenvolvimento Econômico) entrará em vigor no sábado (21), juntamente com regras mais rígidas para as exportações desti",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Quem vai ocupar os empregos da economia verde no Brasil?",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/quem-vai-ocupar-os-empregos-da-economia-verde-no-brasil/",
+      "date": "2026-11-20T16:27:31.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Diretores da Kitchens processam sócias e pedem explicações sobre afastamento e dívidas",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/diretores-da-kitchens-processam-socias-e-pedem-explicacoes-sobre-afastamento-e-dividas.shtml",
+      "date": "2026-11-20T16:23:00.000Z",
+      "summary": "Três diretores e acionistas minoritários da Kitchens, fabricante de móveis de luxo, iniciaram ação judicial contra as sócias majoritárias e as quatro empresas do grupo, que teve deferido o pedido de recuperação judicial. Leia mais (11/20/2026 - 13h23)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lula e aliados falam de igualdade racial no Dia da Consciência Negra",
+      "link": "https://www.poder360.com.br/poder-governo/lula-e-aliados-falam-de-igualdade-racial-no-dia-da-consciencia-negra/",
+      "date": "2026-11-20T16:19:01.000Z",
+      "summary": "Presidente cita 91 títulos de territórios quilombolas, ampliação de cotas e programa com 217 ações para jovens negros",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Ameaças, insultos, acordos: como Jensen Huang transformou a humilhação em rotina na Nvidia",
+      "link": "https://www.estadao.com.br/economia/negocios/ameacas-insultos-acordos-jensen-huang-transformou-humilhacao-rotina/",
+      "date": "2026-11-20T16:18:40.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "'Um mal necessário': como a Anthropic conseguiu realizar seu IPO",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/um-mal-necessario-como-a-anthropic-conseguiu-realizar-seu-ipo.shtml",
+      "date": "2026-11-20T16:15:00.000Z",
+      "summary": "Depois de arquitetar a maior oferta pública inicial da história, Dario Amodei incentivou sua equipe a tirar um cochilo e voltar ao trabalho. Leia mais (11/20/2026 - 13h15)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Entenda o que se sabe sobre relatórios da PF a respeito de ministros do STF e o que acontece agora",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/entenda-o-que-se-sabe-sobre-relatorios-da-pf-a-respeito-de-ministros-do-stf-e-o-que-acontece-agora.shtml",
+      "date": "2026-11-20T16:13:00.000Z",
+      "summary": "O presidente do STF (Supremo Tribunal Federal), Edson Fachin, retirou nesta sexta-feira (20) o sigilo do relatório da Polícia Federal sobre as menções ao ministro André Mendonça no caso do Banco Master. A decisão atendeu a um pedido do próprio Mendonça. O docu",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Editora L&PM vai à Justiça contra OpenAI por suposta violação de direitos autorais",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/editora-lpm-vai-a-justica-contra-openai-por-suposta-violacao-de-direitos-autorais.shtml",
+      "date": "2026-11-20T16:10:00.000Z",
+      "summary": "A editora de livros L&amp;PM abriu um pedido de notificação judicial contra a OpenAI em que exige explicações sobre suposta violação de direitos autorais. Leia mais (11/20/2026 - 13h10)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "Galípolo diz que alertou PF sobre possível fuga de Vorcaro",
       "link": "https://www.poder360.com.br/poder-justica/galipolo-diz-que-alertou-pf-sobre-possivel-fuga-de-vorcaro/",
       "date": "2026-11-20T15:44:53.000Z",
@@ -172,66 +262,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Final da Copa Sul-Americana deve movimentar R$ 1,4 bi na Colômbia",
-      "link": "https://www.poder360.com.br/poder-sportsmkt/final-da-copa-sul-americana-deve-movimentar-r-14-bi-na-colombia/",
-      "date": "2026-11-20T15:30:58.000Z",
-      "summary": "Decisão entre Atlético-MG e Boca Juniors no sábado (21.nov) impulsiona turismo, empregos e comércio em Barranquilla",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Reino Unido e União Europeia iniciam reaproximação após brexit com acordos sobre alimentos e mobilidade",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/reino-unido-e-uniao-europeia-iniciam-reaproximacao-apos-brexit-com-acordos-sobre-alimentos-e-mobilidade.shtml",
-      "date": "2026-11-20T15:28:00.000Z",
-      "summary": "O Reino Unido e a União Europeia fecharam acordos para facilitar o comércio de alimentos e ampliar a mobilidade de jovens em uma cúpula realizada nesta sexta-feira (20), reaproximando as partes e abrindo discussões mais amplas sobre seu relacionamento de longo",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Encontro em SP e evento em Minas: veja o que diz o relatório da PF sobre André Mendonça e Vorcaro",
+      "title": "Relatório da PF tem diálogos de Vorcaro sobre Mendonça, mas não aponta conversa direta com ministro",
       "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/encontro-em-sp-e-evento-em-minas-veja-o-que-diz-o-relatorio-da-pf-sobre-andre-mendonca-e-vorcaro/",
       "date": "2026-11-20T15:15:42.000Z",
       "summary": "",
       "source": "Estadão",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Fachin nega pedido de liberdade e mantém Daniel Vorcaro preso",
-      "link": "https://www.poder360.com.br/poder-justica/fachin-nega-pedido-de-liberdade-e-mantem-daniel-vorcaro-preso/",
-      "date": "2026-11-20T15:15:40.000Z",
-      "summary": "Presidente do Supremo seguiu parecer da Procuradoria Geral da República e citou risco à ordem pública e às investigações",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Linha 6-Laranja do metrô de SP terá usina solar para ajudar na demanda por energia",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/linha-6-laranja-de-metro-de-sp-tera-usina-solar-para-ajudar-na-demanda-por-energia.shtml",
-      "date": "2026-11-20T15:00:00.000Z",
-      "summary": "O Pátio Morro Grande, centro de operação, manutenção e administrativo da Linha 6-Laranja do metrô de São Paulo, começou a receber a instalação de painéis solares para a construção de uma usina fotovoltaica, que vai suprir parte da demanda de energia da infraes",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Brasil perde investimentos bilionários em data centers por falta de política para o setor, diz VP da Scala",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/c-level-entrevista/2026/11/brasil-perde-investimentos-bilionarios-em-data-centers-por-falta-de-politica-para-o-setor-diz-vp-da-scala.shtml",
-      "date": "2026-11-20T15:00:00.000Z",
-      "summary": "O Brasil está perdendo investimentos bilionários em data centers para outros países por falta de uma política coordenada para o setor e de condições mais competitivas para atrair grandes empresas de tecnologia. Leia mais (11/20/2026 - 12h00)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Entenda o que atrai data centers ao Brasil e o que dificulta sua expansão",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/entenda-o-que-atrai-data-centers-ao-brasil-e-o-que-dificulta-sua-expansao.shtml",
-      "date": "2026-11-20T15:00:00.000Z",
-      "summary": "O Congresso fez o Brasil perder investimentos bilionários em data centers ao demorar para aprovar o Redata, programa de incentivos fiscais para o setor, afirma Luciano Fialho, vice-presidente sênior da Scala Data Centers, em entrevista ao C-Level. O executivo ",
-      "source": "Folha",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -250,15 +286,6 @@
       "summary": "",
       "source": "Estadão",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Moraes vota para deixar Flávio Bolsonaro sem passaportes e proibido de ter contato com Willer Tomaz",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/moraes-vota-para-deixar-flavio-bolsonaro-sem-passaportes-e-proibido-de-ter-contato-com-willer-tomaz/",
-      "date": "2026-11-20T14:50:48.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -343,30 +370,12 @@
       "type": "imprensa"
     },
     {
-      "title": "PSD recorre ao STF e volta a pedir segundo turno entre Paes e Ruas no RJ",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/psd-recorre-ao-stf-e-volta-a-pedir-segundo-turno-entre-paes-e-ruas-no-rio.shtml",
-      "date": "2026-11-20T13:01:00.000Z",
-      "summary": "O PSD recorreu ao STF (Supremo Tribunal Federal) para pedir um segundo turno entre Douglas Ruas (PL) e Eduardo Paes (PSD) na eleição para governador do Rio de Janeiro. Em 12 de novembro, o ministro Cristiano Zanin havia negado o pedido de liminar do partido. L",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Gasto dos EUA na guerra contra Irã chega a US$ 48 bilhões e amplia pressão sobre o Pentágono",
       "link": "https://www.dw.com/pt-br/gasto-dos-eua-na-guerra-contra-irã-chega-a-us-48-bilhões-e-amplia-pressão-sobre-o-pentágono/a-80001454?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-20T12:43:00.000Z",
       "summary": "Oposição democrata critica falta de transparência e pede que o governo Trump libere estimativa de prejuízos em bases americanas no Oriente Médio, que estão fora da conta atual.",
       "source": "DW Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Fachin retira sigilo de relatório da PF sobre Mendonça após pedido do ministro",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/fachin-retira-sigilo-de-relatorio-da-pf-sobre-mendonca-apos-pedido-do-ministro.shtml",
-      "date": "2026-11-20T12:27:00.000Z",
-      "summary": "O presidente do STF (Supremo Tribunal Federal), Edson Fachin, retirou nesta sexta-feira (20) o sigilo sobre o relatório da Polícia Federal que reúne informações sobre o ministro André Mendonça com o caso do Banco Master. A decisão de Fachin atende a pedido do ",
-      "source": "Folha",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -404,15 +413,6 @@
       "source": "ONU News",
       "cat": "internacional",
       "type": "oficial"
-    },
-    {
-      "title": "Block no tigrinho? Influenciadores driblam governo e Meta para divulgar bets ilegais; veja vídeo",
-      "link": "https://www.estadao.com.br/economia/block-no-tigrinho-influenciadores-driblam-governo-e-meta-para-divulgar-bets-ilegais-veja-video/",
-      "date": "2026-11-20T12:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
     },
     {
       "title": "Master: relatório da PF sobre Mendonça cita tentativas de aproximação de Vorcaro ao ministro do STF",
