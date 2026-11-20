@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-20T14:51:12.269Z",
+  "updated": "2026-11-20T15:53:33.066Z",
   "market": {
     "ibov": {
       "price": 166376.44,
       "pct": -0.69,
-      "time": "2026-11-20T14:51:05.393Z",
+      "time": "2026-11-20T15:53:27.108Z",
       "history": [
         {
           "d": "2026-10-21",
@@ -145,55 +145,136 @@
   },
   "news": [
     {
-      "title": "Marcelo Castro defende fim da reeleição para cargos executivos",
-      "link": "https://www.poder360.com.br/poder-congresso/marcelo-castro-defende-fim-da-reeleicao-para-cargos-executivos/",
-      "date": "2026-11-20T14:45:13.000Z",
-      "summary": "Proposta de emenda constitucional de senador estabelece mandatos de 5 anos e unificação das eleições a partir de 2034",
+      "title": "Galípolo diz que alertou PF sobre possível fuga de Vorcaro",
+      "link": "https://www.poder360.com.br/poder-justica/galipolo-diz-que-alertou-pf-sobre-possivel-fuga-de-vorcaro/",
+      "date": "2026-11-20T15:44:53.000Z",
+      "summary": "Presidente do Banco Central desconfiou de pedido urgente de reunião feito pelo Banco Master no dia da prisão do ex-banqueiro",
       "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
     },
     {
-      "title": "Projeto cria fundo para agricultura familiar pago por exportadores",
-      "link": "https://www.poder360.com.br/poder-congresso/projeto-cria-fundo-para-agricultura-familiar-pago-por-exportadores/",
-      "date": "2026-11-20T14:36:16.000Z",
-      "summary": "Contribuição de 1% sobre a exportação de commodities agrícolas incidirá só sobre empresas com receita anual acima de R$ 500 milhões",
+      "title": "Moraes vota no STF para manter passaportes de Flávio Bolsonaro cancelados",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/moraes-vota-no-stf-para-manter-passaportes-de-flavio-bolsonaro-cancelados.shtml",
+      "date": "2026-11-20T15:42:00.000Z",
+      "summary": "O ministro do STF (Supremo Tribunal Federal) Alexandre de Moraes votou nesta sexta-feira (20) para manter o cancelamento dos passaportes de Flávio Bolsonaro (PL) e proibição de que o senador deixe o país. O voto foi em resposta a defesa de Flávio, que pediu à ",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Moraes vota para manter passaportes de Flávio cancelados",
+      "link": "https://www.poder360.com.br/poder-justica/moraes-vota-para-manter-passaportes-de-flavio-cancelados/",
+      "date": "2026-11-20T15:35:35.000Z",
+      "summary": "Ministro afirma que saída do senador do país reforçou risco de obstrução; defesa nega irregularidades e pede devolução",
       "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
     },
     {
-      "title": "Executivo do Deutsche Bank foi repreendido por tratamento dado a denunciante",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/executivo-do-deutsche-bank-foi-repreendido-por-tratamento-dado-a-denunciante.shtml",
-      "date": "2026-11-20T14:32:00.000Z",
-      "summary": "Um dos executivos mais graduados do Deutsche Bank, Stefan Hoops, foi repreendido pelo tratamento dado a um denunciante que revelou um escândalo de longa data envolvendo a venda inadequada de produtos financeiros e acusou o banco alemão de retaliação. Leia mais",
+      "title": "Final da Copa Sul-Americana deve movimentar R$ 1,4 bi na Colômbia",
+      "link": "https://www.poder360.com.br/poder-sportsmkt/final-da-copa-sul-americana-deve-movimentar-r-14-bi-na-colombia/",
+      "date": "2026-11-20T15:30:58.000Z",
+      "summary": "Decisão entre Atlético-MG e Boca Juniors no sábado (21.nov) impulsiona turismo, empregos e comércio em Barranquilla",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Reino Unido e União Europeia iniciam reaproximação após brexit com acordos sobre alimentos e mobilidade",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/reino-unido-e-uniao-europeia-iniciam-reaproximacao-apos-brexit-com-acordos-sobre-alimentos-e-mobilidade.shtml",
+      "date": "2026-11-20T15:28:00.000Z",
+      "summary": "O Reino Unido e a União Europeia fecharam acordos para facilitar o comércio de alimentos e ampliar a mobilidade de jovens em uma cúpula realizada nesta sexta-feira (20), reaproximando as partes e abrindo discussões mais amplas sobre seu relacionamento de longo",
       "source": "Folha",
       "cat": "economia",
       "type": "imprensa"
     },
     {
-      "title": "Previdência e Bolsa Família terão crédito de R$ 149 bi após aval do Congresso",
-      "link": "https://www.poder360.com.br/poder-congresso/previdencia-e-bolsa-familia-terao-credito-de-r-149-bi-apos-aval-do-congresso/",
-      "date": "2026-11-20T14:30:21.000Z",
-      "summary": "Medida custeia aposentadorias, pensões e Bolsa Família; texto aprovado na Câmara e Senado segue para sanção",
+      "title": "Encontro em SP e evento em Minas: veja o que diz o relatório da PF sobre André Mendonça e Vorcaro",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/encontro-em-sp-e-evento-em-minas-veja-o-que-diz-o-relatorio-da-pf-sobre-andre-mendonca-e-vorcaro/",
+      "date": "2026-11-20T15:15:42.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Fachin nega pedido de liberdade e mantém Daniel Vorcaro preso",
+      "link": "https://www.poder360.com.br/poder-justica/fachin-nega-pedido-de-liberdade-e-mantem-daniel-vorcaro-preso/",
+      "date": "2026-11-20T15:15:40.000Z",
+      "summary": "Presidente do Supremo seguiu parecer da Procuradoria Geral da República e citou risco à ordem pública e às investigações",
       "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
     },
     {
-      "title": "Credores tentam impedir SpaceX de lançar US$ 40 bilhões em chips em órbita",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/credores-tentam-impedir-spacex-de-lancar-us-40-bilhoes-em-chips-em-orbita.shtml",
-      "date": "2026-11-20T14:25:00.000Z",
-      "summary": "Os credores que apoiam o mais recente pacote de dívida de US$ 43 bilhões da SpaceX, garantido por seus avançados chips de inteligência artificial, tentaram impedir Elon Musk de enviar a garantia ao espaço como parte de seu plano para centros de dados orbitais.",
+      "title": "Linha 6-Laranja do metrô de SP terá usina solar para ajudar na demanda por energia",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/linha-6-laranja-de-metro-de-sp-tera-usina-solar-para-ajudar-na-demanda-por-energia.shtml",
+      "date": "2026-11-20T15:00:00.000Z",
+      "summary": "O Pátio Morro Grande, centro de operação, manutenção e administrativo da Linha 6-Laranja do metrô de São Paulo, começou a receber a instalação de painéis solares para a construção de uma usina fotovoltaica, que vai suprir parte da demanda de energia da infraes",
       "source": "Folha",
       "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Brasil perde investimentos bilionários em data centers por falta de política para o setor, diz VP da Scala",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/c-level-entrevista/2026/11/brasil-perde-investimentos-bilionarios-em-data-centers-por-falta-de-politica-para-o-setor-diz-vp-da-scala.shtml",
+      "date": "2026-11-20T15:00:00.000Z",
+      "summary": "O Brasil está perdendo investimentos bilionários em data centers para outros países por falta de uma política coordenada para o setor e de condições mais competitivas para atrair grandes empresas de tecnologia. Leia mais (11/20/2026 - 12h00)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Entenda o que atrai data centers ao Brasil e o que dificulta sua expansão",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/entenda-o-que-atrai-data-centers-ao-brasil-e-o-que-dificulta-sua-expansao.shtml",
+      "date": "2026-11-20T15:00:00.000Z",
+      "summary": "O Congresso fez o Brasil perder investimentos bilionários em data centers ao demorar para aprovar o Redata, programa de incentivos fiscais para o setor, afirma Luciano Fialho, vice-presidente sênior da Scala Data Centers, em entrevista ao C-Level. O executivo ",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "‘Exército do Lula’ perde 1,4 milhão de seguidores e Janones é criticado por desprezar queixas",
+      "link": "https://www.estadao.com.br/politica/exercito-do-lula-perde-14-milhao-de-seguidores-e-janones-e-criticado-por-desprezar-queixas/",
+      "date": "2026-11-20T15:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Novo supercomputador da Petrobras e do Cesar busca soberania em inteligência artificial; entenda",
+      "link": "https://www.estadao.com.br/economia/negocios/novo-supercomputador-da-petrobras-e-do-cesar-busca-soberania-em-inteligencia-artificial-entenda/",
+      "date": "2026-11-20T15:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Moraes vota para deixar Flávio Bolsonaro sem passaportes e proibido de ter contato com Willer Tomaz",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/moraes-vota-para-deixar-flavio-bolsonaro-sem-passaportes-e-proibido-de-ter-contato-com-willer-tomaz/",
+      "date": "2026-11-20T14:50:48.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Febre de GTA 6 invade a política da Alemanha, e montagem com Merz é alvo de zombaria",
+      "link": "https://www.dw.com/pt-br/febre-de-gta-6-invade-a-política-da-alemanha-e-montagem-com-merz-é-alvo-de-zombaria/a-80003058?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-20T14:49:00.000Z",
+      "summary": "Conservadores criam campanha mostrando chefe de governo da Alemanha como personagem de game para exaltar medidas do governo. Mas peças geram reações irônicas por parte da oposição.",
+      "source": "DW Brasil",
+      "cat": "internacional",
       "type": "imprensa"
     },
     {
       "title": "Dino vota para tornar Van Hattem réu por calúnia e injúria contra delegado da Polícia Federal",
       "link": "https://g1.globo.com/politica/noticia/2026/11/20/dino-vota-para-tornar-van-hattem-reu-por-calunia-e-injuria-contra-delegado-da-policia-federal.ghtml",
       "date": "2026-11-20T14:21:48.000Z",
-      "summary": "O ministro do Supremo Tribunal Federal (STF) Flávio Dino votou pelo recebimento da denúncia apresentada pela Procuradoria-Geral da República (PGR) contra o deputado federal Marcel Van Hattem (Novo-RS) pelos crimes de calúnia e injúria. Caso o voto do relator s",
+      "summary": "O ministro Flávio Dino, do Supremo Tribunal Federal (STF), votou pelo recebimento da denúncia apresentada pela Procuradoria-Geral da República (PGR) contra o deputado federal Marcel Van Hattem (Novo-RS) pelos crimes de calúnia e injúria contra um delegado da P",
       "source": "g1",
       "cat": "politica",
       "type": "imprensa"
@@ -211,17 +292,8 @@
       "title": "Moraes diz que fuga de Flávio para os EUA é tentativa de obstruir investigações e vota para manter restrições a senador",
       "link": "https://g1.globo.com/politica/noticia/2026/11/20/moraes-diz-que-fuga-de-flavio-para-os-eua-e-tentativa-de-obstruir-investigacao-e-vota-para-manter-restricoes-a-senador.ghtml",
       "date": "2026-11-20T14:17:49.000Z",
-      "summary": "O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), afirmou que a fuga do senador Flávio Bolsonaro (PL-RJ) do Brasil demonstra atuação com potencial para obstruir investigações em curso sobre suposta lavagem de dinheiro e votou para manter as me",
+      "summary": "Moraes vota para manter restrições a Flávio Bolsonaro após fuga para os EUA O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), afirmou que a fuga do senador Flávio Bolsonaro (PL-RJ) do Brasil demonstra atuação com potencial para obstruir invest",
       "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Brasil gasta R$ 14,5 bilhões por ano com guerra às drogas",
-      "link": "https://www.poder360.com.br/poder-seguranca-publica/brasil-gasta-r-145-bilhoes-por-ano-com-guerra-as-drogas/",
-      "date": "2026-11-20T14:12:59.000Z",
-      "summary": "Montante foi usado em 2024 para custear polícias, defensorias públicas, ministérios públicos, sistema prisional e órgãos da Justiça",
-      "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -241,33 +313,6 @@
       "summary": "",
       "source": "Estadão",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "IA confundiu pacote de Doritos com arma, afirma ação movida por adolescentes",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/ia-confundiu-pacote-de-doritos-com-arma-afirma-acao-movida-por-adolescentes.shtml",
-      "date": "2026-11-20T13:54:00.000Z",
-      "summary": "Quatro alunos e ex-alunos de uma escola de ensino médio de Baltimore afirmaram, em um processo protocolado na terça-feira (17), que seus direitos civis foram violados quando um sistema de vigilância por inteligência artificial alertou a polícia sobre uma arma ",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Dólar caminha para quarta alta semanal, apoiado por expectativas de aperto do Fed e busca por proteção impulsionada pela IA",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/dolar-caminha-para-quarta-alta-semanal-apoiado-por-expectativas-de-aperto-do-fed-e-busca-por-protecao-impulsionada-pela-ia.shtml",
-      "date": "2026-11-20T13:38:00.000Z",
-      "summary": "O dólar operava estável nesta sexta-feira (20) e caminhava para subir pela quarta semana consecutiva, à medida que as expectativas de um novo aperto monetário pelo Fed (Federal Reserve, o BC americano) sustentavam a moeda americana e as preocupações com as neg",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Fachin nega prisão domiciliar a policial federal da ‘turma’ de Daniel Vorcaro",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/fachin-nega-prisao-domiciliar-a-policial-federal-da-turma-de-daniel-vorcaro/",
-      "date": "2026-11-20T13:37:25.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -298,7 +343,7 @@
       "type": "imprensa"
     },
     {
-      "title": "PSD recorre ao STF e volta a pedir segundo turno entre Paes e Ruas no Rio",
+      "title": "PSD recorre ao STF e volta a pedir segundo turno entre Paes e Ruas no RJ",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/psd-recorre-ao-stf-e-volta-a-pedir-segundo-turno-entre-paes-e-ruas-no-rio.shtml",
       "date": "2026-11-20T13:01:00.000Z",
       "summary": "O PSD recorreu ao STF (Supremo Tribunal Federal) para pedir um segundo turno entre Douglas Ruas (PL) e Eduardo Paes (PSD) na eleição para governador do Rio de Janeiro. Em 12 de novembro, o ministro Cristiano Zanin havia negado o pedido de liminar do partido. L",
@@ -313,15 +358,6 @@
       "summary": "Oposição democrata critica falta de transparência e pede que o governo Trump libere estimativa de prejuízos em bases americanas no Oriente Médio, que estão fora da conta atual.",
       "source": "DW Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Fachin nega pedido de Daniel Vorcaro e mantém banqueiro em prisão preventiva",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/fachin-nega-pedido-de-daniel-vorcaro-e-mantem-banqueiro-em-prisao-preventiva/",
-      "date": "2026-11-20T12:36:55.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -352,21 +388,30 @@
       "type": "imprensa"
     },
     {
+      "title": "FAO: El Niño e tensão geopolítica pressionam mercados de alimentos para 2027",
+      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854966",
+      "date": "2026-11-20T12:00:00.000Z",
+      "summary": "Agência da ONU cita bloqueios no Mar Negro como uma das ameaças que podem encarecer itens básicos como arroz, açúcar e oleaginosas; enquanto o Brasil sustenta a oferta de grãos, países como Angola, Cabo Verde e Moçambique enfrentam maiores riscos.&nbsp;",
+      "source": "ONU News",
+      "cat": "internacional",
+      "type": "oficial"
+    },
+    {
+      "title": "Veículos elétricos, chips e energia limpa podem acelerar desenvolvimento africano",
+      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854968",
+      "date": "2026-11-20T12:00:00.000Z",
+      "summary": "Em data que reforça ideal de Industrialização da África, líder da ONU afirma que setores em rápido crescimento representam grandes oportunidades para o continente; por outro lado, peso da dívida pública limita investimentos em infraestrutura.&nbsp;",
+      "source": "ONU News",
+      "cat": "internacional",
+      "type": "oficial"
+    },
+    {
       "title": "Block no tigrinho? Influenciadores driblam governo e Meta para divulgar bets ilegais; veja vídeo",
       "link": "https://www.estadao.com.br/economia/block-no-tigrinho-influenciadores-driblam-governo-e-meta-para-divulgar-bets-ilegais-veja-video/",
       "date": "2026-11-20T12:00:00.000Z",
       "summary": "",
       "source": "Estadão",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "André Mendonça pede ao STF abertura de sigilo de relatório da PF sobre ele",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/andre-mendonca-pede-ao-stf-abertura-de-sigilo-de-relatorio-da-pf-sobre-ele.shtml",
-      "date": "2026-11-20T11:44:00.000Z",
-      "summary": "O ministro André Mendonça, do STF (Supremo Tribunal Federal), pediu nesta sexta-feira (20) que seja retirado o sigilo do relatório da Polícia Federal que reúne informações sobre ele no caso Banco Master. O magistrado afirmou que renuncia expressamente ao sigil",
-      "source": "Folha",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -422,15 +467,6 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "OAB-RJ barra intermediação irregular por plataformas digitais na contratação de advogados",
-      "link": "https://www.estadao.com.br/politica/oab-rj-barrar-intermediacao-irregular-por-plataformas-digitais-na-contratacao-de-advogados-nprp/",
-      "date": "2026-11-19T22:39:16.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
     },
     {
       "title": "Europa luta para não ficar à margem do futuro da Ucrânia",
@@ -521,15 +557,6 @@
       "source": "Agência Senado",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Combustíveis fósseis: o que são e por que importam",
-      "link": "https://www.dw.com/pt-br/combustíveis-fósseis-o-que-são-e-por-que-importam/a-79994658?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-19T20:35:00.000Z",
-      "summary": "Dos motores da Revolução Industrial à crise climática: entenda como carvão, petróleo e gás natural moldaram o mundo moderno e por que cientistas defendem sua substituição para conter o aquecimento global.",
-      "source": "DW Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
     },
     {
       "title": "Participantes de audiência defendem ratificação de convenção sobre direitos das pessoas idosas",
@@ -647,33 +674,6 @@
       "source": "Banco Central",
       "cat": "economia",
       "type": "oficial"
-    },
-    {
-      "title": "COP31: Sociedade civil exige ação em meio a forte El Niño e impasses",
-      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854930",
-      "date": "2026-11-16T12:00:00.000Z",
-      "summary": "Negociação na Cúpula do Clima, em Antália, na Turquia, é marcada por barreiras financeiras, omissão sobre combustíveis fósseis e impacto ambiental de centros de dados de inteligência artificial; ativistas do Brasil e Guiné-Bissau dizem à ONU News que jovens qu",
-      "source": "ONU News",
-      "cat": "internacional",
-      "type": "oficial"
-    },
-    {
-      "title": "Guterres pede ação sobre crise em Mianmar durante Cúpula do Sudeste Asiático",
-      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854928",
-      "date": "2026-11-16T12:00:00.000Z",
-      "summary": "Secretário-geral elogiou cooperação do bloco, que inclui nação de língua portuguesa Timor-Leste; líder da ONU também citou guerra na Ucrânia que elevou preço dos alimentos na região; Asean tem 11 Estados-membros, e disse que mundo deve apoiar multilateralismo ",
-      "source": "ONU News",
-      "cat": "internacional",
-      "type": "oficial"
-    },
-    {
-      "title": "Movimento propõe meta: 50% de criadores de conteúdo negros em todas as faixas de influência até 2030",
-      "link": "https://www.estadao.com.br/midia-mkt/movimento-propoe-meta-50-de-criadores-de-conteudo-negros-em-todas-as-faixas-de-influencia-ate-2030/",
-      "date": "2026-11-06T17:46:15.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
     }
   ],
   "errors": [
