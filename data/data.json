@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-20T04:18:20.824Z",
+  "updated": "2026-11-20T05:26:40.428Z",
   "market": {
     "ibov": {
       "price": 166376.44,
       "pct": -0.69,
-      "time": "2026-11-20T04:18:14.514Z",
+      "time": "2026-11-20T05:26:34.782Z",
       "history": [
         {
           "d": "2026-10-21",
@@ -144,6 +144,15 @@
     ]
   },
   "news": [
+    {
+      "title": "Dívidas viraram uma bola de neve? Entenda os riscos da inadimplência e como sair dela",
+      "link": "https://g1.globo.com/g1-explica/noticia/2026/11/20/dividas-viraram-uma-bola-de-neve-entenda-os-riscos-da-inadimplencia-e-como-sair-dela.ghtml",
+      "date": "2026-11-20T05:00:00.000Z",
+      "summary": "Dívida e inadimplência: entenda a diferença e como escapar da bola de neve Ter dívidas faz parte da vida financeira da maioria das pessoas. O problema começa quando elas deixam de ser pagas e viram inadimplência — sinal de que a dívida cresceu além da capacida",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
     {
       "title": "Pessoas negras representaram 45% dos novos servidores públicos nos últimos quatro anos",
       "link": "https://g1.globo.com/politica/noticia/2026/11/20/pessoas-negras-representaram-45percent-dos-novos-servidores-publicos-nos-ultimos-quatro-anos.ghtml",
@@ -505,15 +514,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Mercado de câmbio trava após fala de Lula sobre escolha de ministros e BC intervém com leilão de dólar",
-      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/19/mercado-de-cambio-trava-apos-fala-de-lula-sobre-escolha-de-ministros-e-bc-intervem-com-leilao-de-dolar.ghtml",
-      "date": "2026-11-19T19:28:15.000Z",
-      "summary": "Mercado de câmbio trava após Lula sobre escolha de ministros e BC intervém Mesmo com a aprovação do ajuste fiscal pelo Senado Federal, o mercado cambial segue pressionado nesta quinta-feira (19) por causa de declarações do presidente Luiz Inácio Lula da Silva ",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "O que está por trás do acirramento da disputa entre Airbus e Boeing",
       "link": "https://www.dw.com/pt-br/o-que-está-por-trás-do-acirramento-da-disputa-entre-airbus-e-boeing/a-79993144?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-19T18:21:00.000Z",
@@ -706,6 +706,7 @@
   "errors": [
     "Selic (SGS 432): HTTP 304",
     "feed CNN Brasil: HTTP 404",
-    "feed CNN Brasil: HTTP 404"
+    "feed CNN Brasil: HTTP 404",
+    "feed Planalto (governo): HTTP 429"
   ]
 }
