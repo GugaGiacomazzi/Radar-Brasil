@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-20T00:56:02.497Z",
+  "updated": "2026-11-20T02:06:20.876Z",
   "market": {
     "ibov": {
       "price": 166376.44,
       "pct": -0.69,
-      "time": "2026-11-20T00:55:57.456Z",
+      "time": "2026-11-20T02:06:13.225Z",
       "history": [
         {
           "d": "2026-10-21",
@@ -145,6 +145,78 @@
   },
   "news": [
     {
+      "title": "Entidades criticam decreto de Lula que regulamenta fim da escala 6x1 e falam em falta de informações",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/entidades-criticam-decreto-de-lula-que-regulamenta-fim-da-escala-6x1-e-falam-em-falta-de-informacoes.shtml",
+      "date": "2026-11-20T02:00:00.000Z",
+      "summary": "Associações que representam diversos setores da economia estão insatisfeitas com o decreto do governo Lula (PT) que regulamenta o fim da escala 6x1. A jornada será substituída pela 5x2, com duas folgas, em 16 de dezembro de 2026. Entidades empresariais, no ent",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Fachin envia à PGR 4 relatórios da PF sobre ministros do STF",
+      "link": "https://www.poder360.com.br/poder-justica/fachin-envia-a-pgr-4-relatorios-da-pf-sobre-ministros-do-stf/",
+      "date": "2026-11-20T01:15:37.000Z",
+      "summary": "Documentos citam Moraes, Mendonça, Nunes Marques e Toffoli em mensagens encontradas no celular de Vorcaro; Paulo Gonet avaliará o material",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Presidente do Memorial da América Latina diz que eventual federalização terá participação do governo de SP",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/presidente-do-memorial-da-america-latina-diz-que-eventual-federalizacao-tera-participacao-do-governo-de-sp.shtml",
+      "date": "2026-11-20T01:00:00.000Z",
+      "summary": "O presidente do Memorial da América Latina, Pedro Mastrobuono, promete abrir um diálogo formal com o governo de São Paulo sobre a possível federalização do espaço cultural, hipótese que ele mencionou em duas cartas enviadas à gestão federal no início do mês. L",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Trump comprou até US$ 265 mil em ações da Nvidia em setembro",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/trump-comprou-ate-us-265-mil-em-acoes-da-nvidia-em-setembro.shtml",
+      "date": "2026-11-20T01:00:00.000Z",
+      "summary": "O presidente dos Estados Unidos, Donald Trump, comprou até US$ 265 mil (R$ 1,5 mi) em ações da Nvidia em setembro, antes de vender até US$ 15 mil (R$ 89 mil) dessas ações no mesmo mês, aponta a declaração financeira de Trump divulgada nesta quinta-feira (19). ",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Bancos se voltam para grandes empresas contra piora do crédito",
+      "link": "https://www.estadao.com.br/economia/coluna-da-broad/bancos-se-voltam-para-grandes-empresas-contra-piora-do-credito/",
+      "date": "2026-11-20T01:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Uma herança maldita: a que o Lula 3 deixará ao Lula 4; populista começa a se dar conta dela",
+      "link": "https://www.estadao.com.br/economia/rogerio-werneck/uma-heranca-maldita-a-que-o-lula-3-deixara-ao-lula-4-populista-comeca-a-se-dar-conta-dela/",
+      "date": "2026-11-20T01:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Exportação aos países árabes salta em outubro com demanda para o Ramadã",
+      "link": "https://www.estadao.com.br/economia/coluna-da-broad/exportacao-aos-paises-arabes-salta-em-outubro-com-demanda-para-o-ramada/",
+      "date": "2026-11-20T00:59:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "PSD recorre de decisão de Zanin e volta a pedir 2º turno no Rio de Janeiro",
+      "link": "https://www.estadao.com.br/politica/psd-recorre-de-decisao-de-decisao-de-zanin-e-volta-a-pedir-2-turno-no-rio-de-janeiro-nprp/",
+      "date": "2026-11-20T00:48:45.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "Aviso",
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2026/11/aviso-do-colunista.shtml",
       "date": "2026-11-20T00:45:00.000Z",
@@ -190,15 +262,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Correios: R$ 7,5 bi de prejuízo e o custo da ideologia",
-      "link": "https://www.estadao.com.br/politica/fernando-schuler/correios-r-75-bi-de-prejuizo-e-o-custo-da-ideologia/",
-      "date": "2026-11-19T23:56:52.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Em comunicado, líderes empresariais pedem que COP31 apoie eletrificação",
       "link": "https://www.poder360.com.br/poder-energia/em-comunicado-lideres-empresariais-pedem-que-cop31-apoie-eletrificacao/",
       "date": "2026-11-19T23:38:56.000Z",
@@ -235,30 +298,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Anthropic sobe 17% em estreia na Bolsa e chega a US$ 1,27 trilhão",
-      "link": "https://www.poder360.com.br/poder-economia/anthropic-sobe-17-em-estreia-na-bolsa-e-chega-a-us-127-trilhao/",
-      "date": "2026-11-19T23:08:21.000Z",
-      "summary": "Criadora do Claude fechou o 1º pregão a US$ 97,17 por ação e passou a ocupar a 12ª posição entre as empresas mais valiosas do mundo",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Cabe a Fachin dar foco às investigações do Master no Supremo",
       "link": "https://www.estadao.com.br/politica/raquel-landim/cabe-a-fachin-dar-foco-as-investigacoes-do-master-no-supremo/",
       "date": "2026-11-19T23:00:00.000Z",
       "summary": "",
       "source": "Estadão",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Aqui não! Queixa diante de nova vizinhança ignora benefício da cidade densa: convívio entre classes",
-      "link": "https://www.estadao.com.br/economia/elena-landau/aqui-nao-queixa-diante-de-nova-vizinhanca-ignora-beneficio-da-cidade-densa-convivio-entre-classes/",
-      "date": "2026-11-19T23:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -325,56 +370,11 @@
       "type": "oficial"
     },
     {
-      "title": "Juíza foi alertada por servidora e mentiu sobre decisão a favor de sobrinho em leilão de R$ 20 mi",
-      "link": "https://www.estadao.com.br/economia/juiza-foi-alertada-por-servidora-e-mentiu-sobre-decisao-a-favor-de-sobrinho-em-leilao-de-r-20-mi/",
-      "date": "2026-11-19T22:12:35.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Debate sobre plano Moretti é só o aperitivo da disputa da esquerda no Lula 4; veja vídeo",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/debate-sobre-plano-moretti-e-so-o-aperitivo-da-disputa-da-esquerda-no-lula-4-veja-video.shtml",
-      "date": "2026-11-19T22:11:00.000Z",
-      "summary": "Passada a euforia com a vitória suada de Lula, a esquerda voltou ao que sabe fazer de melhor, que é discutir a relação. Leia mais (11/19/2026 - 19h11)",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Moraes libera ação para STF julgar lei da dosimetria que pode beneficiar Bolsonaro",
-      "link": "https://www.estadao.com.br/politica/moraes-libera-acao-que-trata-da-lei-da-dosimetria-para-julgamento-no-plenario-virtual-do-stf/",
-      "date": "2026-11-19T21:57:50.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Governo Trump liberou quase 900 mil chips avançados de IA para empresas chinesas, diz comitê dos EUA",
       "link": "https://g1.globo.com/tecnologia/noticia/2026/11/19/governo-trump-liberou-quase-900-mil-chips-avancados-de-ia-para-empresas-chinesas-diz-comite-dos-eua.ghtml",
       "date": "2026-11-19T21:50:15.000Z",
       "summary": "O Presidente dos EUA, Donald Trump, entrega a Medalha Nacional da Ciência ao CEO da Nvidia, Jensen Huang, durante a cúpula \"Uma Nova Era de Ouro\" no Instituto da Paz dos EUA, renomeado Instituto da Paz Donald J. Trump pela administração Trump, em Washington, D",
       "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Distração e a arte de resolver problemas",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/distracao-e-a-arte-de-resolver-problemas.shtml",
-      "date": "2026-11-19T21:38:00.000Z",
-      "summary": "Diante de um desafio que parece impossível de superar, algo tão intimidante que até mesmo dar o primeiro passo parece inviável, o que fazer? Essa pode parecer uma situação enfrentada por alguns dos grandes pensadores da história: o matemático que se vê diante ",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Tesouro Direto chega a suspender negociações em dia de forte estresse no mercado",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/tesouro-direto-chega-a-suspender-negociacoes-em-dia-de-forte-estresse-no-mercado.shtml",
-      "date": "2026-11-19T21:37:00.000Z",
-      "summary": "As negociações de títulos públicos pelo Tesouro Direto foram suspensas temporariamente durante a tarde desta quinta-feira (19), em meio à forte volatilidade nas taxas de juros negociadas no mercado. A interrupção atingiu parte dos papéis e ocorreu em um dia de",
-      "source": "Folha",
       "cat": "economia",
       "type": "imprensa"
     },
@@ -451,12 +451,12 @@
       "type": "oficial"
     },
     {
-      "title": "Oposição defende mudar ajuste fiscal na Câmara, mas esbarra em acordo de Motta com governo",
-      "link": "https://www.estadao.com.br/economia/oposicao-defende-mudar-ajuste-fiscal-na-camara-mas-esbarra-em-acordo-de-motta-com-governo/",
-      "date": "2026-11-19T21:11:06.000Z",
+      "title": "Campos Neto diz que Esteves, do BTG, levantou suspeitas sobre Master, mas diretor do BC as descartou",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/campos-neto-diz-que-esteves-do-btg-levantou-suspeitas-sobre-master-mas-diretor-do-bc-as-descartou/",
+      "date": "2026-11-19T20:43:44.000Z",
       "summary": "",
       "source": "Estadão",
-      "cat": "economia",
+      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -523,21 +523,21 @@
       "type": "oficial"
     },
     {
+      "title": "Toyota quer ampliar mercado de mobilidade para PCDs no Brasil com programa criado no Canadá",
+      "link": "https://www.estadao.com.br/economia/governanca/toyota-ampliar-mercado-mobilidade-pcds-brasil-programa-canada/",
+      "date": "2026-11-19T16:10:18.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "Quase uma em cada quatro crianças no mundo vivem em áreas de conflito",
       "link": "https://www.dw.com/pt-br/quase-uma-em-cada-quatro-crianças-no-mundo-vivem-em-áreas-de-conflito/a-79991426?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-19T15:58:00.000Z",
       "summary": "Relatório da Save the Children aponta recorde de 589 milhões de crianças vivendo em zonas de conflito. Enquanto mortes, sequestros e ataques aumentam, bloqueios à ajuda humanitária batem níveis sem precedentes.",
       "source": "DW Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Cobrança federal pelo uso da água do Rio Paranapanema preocupa produtores de SP e PR; leia bastidor",
-      "link": "https://www.estadao.com.br/economia/agronegocios/cobranca-federal-agua-paranapanema-produtores-sp-pr/",
-      "date": "2026-11-19T15:02:20.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
