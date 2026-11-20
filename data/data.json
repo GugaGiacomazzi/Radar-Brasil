@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-20T13:55:03.446Z",
+  "updated": "2026-11-20T14:51:12.269Z",
   "market": {
     "ibov": {
       "price": 166376.44,
       "pct": -0.69,
-      "time": "2026-11-20T13:54:58.801Z",
+      "time": "2026-11-20T14:51:05.393Z",
       "history": [
         {
           "d": "2026-10-21",
@@ -145,6 +145,114 @@
   },
   "news": [
     {
+      "title": "Marcelo Castro defende fim da reeleição para cargos executivos",
+      "link": "https://www.poder360.com.br/poder-congresso/marcelo-castro-defende-fim-da-reeleicao-para-cargos-executivos/",
+      "date": "2026-11-20T14:45:13.000Z",
+      "summary": "Proposta de emenda constitucional de senador estabelece mandatos de 5 anos e unificação das eleições a partir de 2034",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Projeto cria fundo para agricultura familiar pago por exportadores",
+      "link": "https://www.poder360.com.br/poder-congresso/projeto-cria-fundo-para-agricultura-familiar-pago-por-exportadores/",
+      "date": "2026-11-20T14:36:16.000Z",
+      "summary": "Contribuição de 1% sobre a exportação de commodities agrícolas incidirá só sobre empresas com receita anual acima de R$ 500 milhões",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Executivo do Deutsche Bank foi repreendido por tratamento dado a denunciante",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/executivo-do-deutsche-bank-foi-repreendido-por-tratamento-dado-a-denunciante.shtml",
+      "date": "2026-11-20T14:32:00.000Z",
+      "summary": "Um dos executivos mais graduados do Deutsche Bank, Stefan Hoops, foi repreendido pelo tratamento dado a um denunciante que revelou um escândalo de longa data envolvendo a venda inadequada de produtos financeiros e acusou o banco alemão de retaliação. Leia mais",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Previdência e Bolsa Família terão crédito de R$ 149 bi após aval do Congresso",
+      "link": "https://www.poder360.com.br/poder-congresso/previdencia-e-bolsa-familia-terao-credito-de-r-149-bi-apos-aval-do-congresso/",
+      "date": "2026-11-20T14:30:21.000Z",
+      "summary": "Medida custeia aposentadorias, pensões e Bolsa Família; texto aprovado na Câmara e Senado segue para sanção",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Credores tentam impedir SpaceX de lançar US$ 40 bilhões em chips em órbita",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/credores-tentam-impedir-spacex-de-lancar-us-40-bilhoes-em-chips-em-orbita.shtml",
+      "date": "2026-11-20T14:25:00.000Z",
+      "summary": "Os credores que apoiam o mais recente pacote de dívida de US$ 43 bilhões da SpaceX, garantido por seus avançados chips de inteligência artificial, tentaram impedir Elon Musk de enviar a garantia ao espaço como parte de seu plano para centros de dados orbitais.",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Dino vota para tornar Van Hattem réu por calúnia e injúria contra delegado da Polícia Federal",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/20/dino-vota-para-tornar-van-hattem-reu-por-calunia-e-injuria-contra-delegado-da-policia-federal.ghtml",
+      "date": "2026-11-20T14:21:48.000Z",
+      "summary": "O ministro do Supremo Tribunal Federal (STF) Flávio Dino votou pelo recebimento da denúncia apresentada pela Procuradoria-Geral da República (PGR) contra o deputado federal Marcel Van Hattem (Novo-RS) pelos crimes de calúnia e injúria. Caso o voto do relator s",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "O que se sabe sobre a presença de tropas francesas na Ucrânia",
+      "link": "https://www.dw.com/pt-br/o-que-se-sabe-sobre-a-presença-de-tropas-francesas-na-ucrânia/a-80001285?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-20T14:20:00.000Z",
+      "summary": "Governo francês confirma ter enviado tropas periodicamente à Ucrânia, mas diz que militares só oferecem treinamento e assistência na manutenção de armas. Rússia reage e acusa Paris de participar diretamente na guerra.",
+      "source": "DW Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Moraes diz que fuga de Flávio para os EUA é tentativa de obstruir investigações e vota para manter restrições a senador",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/20/moraes-diz-que-fuga-de-flavio-para-os-eua-e-tentativa-de-obstruir-investigacao-e-vota-para-manter-restricoes-a-senador.ghtml",
+      "date": "2026-11-20T14:17:49.000Z",
+      "summary": "O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), afirmou que a fuga do senador Flávio Bolsonaro (PL-RJ) do Brasil demonstra atuação com potencial para obstruir investigações em curso sobre suposta lavagem de dinheiro e votou para manter as me",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Brasil gasta R$ 14,5 bilhões por ano com guerra às drogas",
+      "link": "https://www.poder360.com.br/poder-seguranca-publica/brasil-gasta-r-145-bilhoes-por-ano-com-guerra-as-drogas/",
+      "date": "2026-11-20T14:12:59.000Z",
+      "summary": "Montante foi usado em 2024 para custear polícias, defensorias públicas, ministérios públicos, sistema prisional e órgãos da Justiça",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "'Robôs assassinos' já são usados em guerras, mas países não chegam a acordo sobre limites na ONU",
+      "link": "https://g1.globo.com/inovacao/noticia/2026/11/20/robos-assassinos-ja-sao-usados-em-guerras-mas-paises-nao-chegam-a-acordo-sobre-limites-na-onu.ghtml",
+      "date": "2026-11-20T14:00:27.000Z",
+      "summary": "Um homem está em meio aos escombros de um prédio de escritórios que pegou fogo após ser atingido durante ataques russos com mísseis e drones, em meio à ofensiva da Rússia contra a Ucrânia, em Kiev. REUTERS/Thomas Peter A conferência da ONU sobre os chamados \"r",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Financiamento climático: quem paga essa conta?",
+      "link": "https://www.estadao.com.br/economia/teresa-vendramini/financiamento-climatico-quem-paga-essa-conta/",
+      "date": "2026-11-20T14:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "IA confundiu pacote de Doritos com arma, afirma ação movida por adolescentes",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/ia-confundiu-pacote-de-doritos-com-arma-afirma-acao-movida-por-adolescentes.shtml",
+      "date": "2026-11-20T13:54:00.000Z",
+      "summary": "Quatro alunos e ex-alunos de uma escola de ensino médio de Baltimore afirmaram, em um processo protocolado na terça-feira (17), que seus direitos civis foram violados quando um sistema de vigilância por inteligência artificial alertou a polícia sobre uma arma ",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "Dólar caminha para quarta alta semanal, apoiado por expectativas de aperto do Fed e busca por proteção impulsionada pela IA",
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/dolar-caminha-para-quarta-alta-semanal-apoiado-por-expectativas-de-aperto-do-fed-e-busca-por-protecao-impulsionada-pela-ia.shtml",
       "date": "2026-11-20T13:38:00.000Z",
@@ -181,33 +289,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Fachin rejeita pedido da defesa e mantém prisão preventiva de Vorcaro",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/fachin-rejeita-pedido-da-defesa-e-mantem-prisao-preventiva-de-vorcaro.shtml",
-      "date": "2026-11-20T13:28:00.000Z",
-      "summary": "O presidente do STF, Edson Fachin, negou nesta sexta-feira (20) o pedido de revisão da prisão preventiva do ex-banqueiro Daniel Vorcaro, dono do Banco Master. Leia mais (11/20/2026 - 10h28)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Black Friday nos EUA coloca gastos do consumidor no foco em mercado abalado pela IA",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/black-friday-nos-eua-coloca-gastos-do-consumidor-no-foco-em-mercado-abalado-pela-ia.shtml",
-      "date": "2026-11-20T13:05:00.000Z",
-      "summary": "Os investidores voltarão sua atenção, na próxima semana, para a força dos gastos do consumidor, na esperança de que sinais de um cenário econômico amplamente sólido possam dar estabilidade ao mercado acionário dos Estados Unidos, abalado pelas apreensões em to",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Potência na extração, Amazônia busca verticalizar mineração",
-      "link": "https://www.poder360.com.br/poder-infra/potencia-na-extracao-amazonia-busca-verticalizar-mineracao/",
-      "date": "2026-11-20T13:03:59.000Z",
-      "summary": "Pará concentra um terço do valor da mineração brasileira, mas ainda exporta a maior parte de sua produção sem transformação industrial",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Tropas de 11 países ensaiam possível missão militar na Ucrânia pós-guerra",
       "link": "https://www.dw.com/pt-br/tropas-de-11-países-ensaiam-possível-missão-militar-na-ucrânia-pós-guerra/a-80001724?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-20T13:01:00.000Z",
@@ -222,24 +303,6 @@
       "date": "2026-11-20T13:01:00.000Z",
       "summary": "O PSD recorreu ao STF (Supremo Tribunal Federal) para pedir um segundo turno entre Douglas Ruas (PL) e Eduardo Paes (PSD) na eleição para governador do Rio de Janeiro. Em 12 de novembro, o ministro Cristiano Zanin havia negado o pedido de liminar do partido. L",
       "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Campanhas pagaram R$ 113 milhões a beneficiários do Bolsa Família",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/campanhas-pagaram-r-113-milhoes-a-beneficiarios-do-bolsa-familia/",
-      "date": "2026-11-20T13:00:57.000Z",
-      "summary": "Ao menos 78.831 beneficiários trabalharam para candidatos em 2026, mostra cruzamento de dados; números sugerem irregularidade em alguns casos",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Fachin derruba sigilo de relatório da PF sobre Mendonça",
-      "link": "https://www.poder360.com.br/poder-justica/fachin-derruba-sigilo-de-relatorio-da-pf-sobre-mendonca/",
-      "date": "2026-11-20T12:49:46.000Z",
-      "summary": "Decisão atende a pedido do ministro; documento reúne conversas de terceiros no celular de Daniel Vorcaro",
-      "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -262,19 +325,10 @@
       "type": "imprensa"
     },
     {
-      "title": "Antigo hotel Maksoud Plaza pode virar condomínio com 398 apartamentos em SP",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/antigo-hotel-maksoud-plaza-pode-virar-condominio-com-398-apartamentos-em-sp.shtml",
-      "date": "2026-11-20T12:31:00.000Z",
-      "summary": "O antigo hotel Maksoud Plaza, na Bela Vista, região central de São Paulo, poderá dar lugar a um empreendimento de uso misto com 398 unidades residenciais, 152 unidades destinadas a serviços de hospedagem e lojas. O projeto prevê uma torre de 26 pavimentos, alé",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Fachin retira sigilo de relatório da PF sobre Mendonça após pedido do ministro",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/fachin-retira-sigilo-de-relatorio-da-pf-sobre-mendonca-apos-pedido-do-ministro.shtml",
       "date": "2026-11-20T12:27:00.000Z",
-      "summary": "O presidente do STF (Supremo Tribunal Federal), Edson Fachin, retirou nesta sexta-feira (20) o sigilo sobre o relatórios da Polícia Federal que reúne informações sobre o ministro André Mendonça com o caso do Banco Master. A decisão de Fachin atende a pedido de",
+      "summary": "O presidente do STF (Supremo Tribunal Federal), Edson Fachin, retirou nesta sexta-feira (20) o sigilo sobre o relatório da Polícia Federal que reúne informações sobre o ministro André Mendonça com o caso do Banco Master. A decisão de Fachin atende a pedido do ",
       "source": "Folha",
       "cat": "politica",
       "type": "imprensa"
@@ -334,27 +388,9 @@
       "type": "imprensa"
     },
     {
-      "title": "Caso Master: Mendonça pede, e Fachin torna público relatório da PF com menções ao ministro do STF",
-      "link": "https://g1.globo.com/politica/blog/camila-bomfim/post/2026/11/20/caso-master-mendonca-pede-a-presidencia-do-stf-que-torne-publico-relatorio-da-pf-com-mencoes-a-ele.ghtml",
-      "date": "2026-11-20T11:01:26.000Z",
-      "summary": "Mendonça abre mão de sigilo de documentos O ministro André Mendonça , do Supremo Tribunal Federal (STF), pediu nesta sexta-feira (20) ao presidente da Corte, Edson Fachin, que \"dê ampla publicidade\" ao relatório da Polícia Federal com menções a Mendonça no cas",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Influenciadores negros recebem R$ 68 a cada R$ 100 pagos a brancos; o que essa lacuna revela?",
       "link": "https://www.estadao.com.br/economia/governanca/influenciadores-negros-recebem-r-68-a-cada-r-100-pagos-a-brancos-o-que-essa-lacuna-revela/",
       "date": "2026-11-20T11:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Como as construtoras estão se preparando para reduzir o impacto do fim da escala 6x1",
-      "link": "https://www.estadao.com.br/economia/como-as-construtoras-estao-se-preparando-para-reduzir-o-impacto-do-fim-da-escala-6x1/",
-      "date": "2026-11-20T08:30:00.000Z",
       "summary": "",
       "source": "Estadão",
       "cat": "economia",
@@ -367,24 +403,6 @@
       "summary": "Como harmonizar os diferentes tipos de vinho com comida A produção mundial de vinho deve cair em 2026 e se aproximar do menor nível dos últimos 65 anos, segundo estimativa divulgada na quarta-feira (18) pela Organização Internacional da Vinha e do Vinho (OIV).",
       "source": "g1",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "É #FAKE que Pix MEI de até R$ 5 mil terá de baixar para R$ 363 para 'caber' no orçamento reservado pelo governo",
-      "link": "https://g1.globo.com/fato-ou-fake/noticia/2026/11/20/e-fake-que-pix-mei-de-ate-r-5-mil-tera-de-baixar-para-r-363-para-caber-no-orcamento-reservado-pelo-governo.ghtml",
-      "date": "2026-11-20T07:00:01.000Z",
-      "summary": "Não é verdde que assistência a MEIs será reduzida de R$ 5 mil para R$ 363 g1 Circulam nas redes sociais publicações sugerindo que o Pix MEI, proposta de incentivo financeiro de até R$ 5 mil a microempreendedores individuais anunciada por Lula (PT) durante a ca",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Pessoas negras representaram 45% dos novos servidores públicos nos últimos quatro anos",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/20/pessoas-negras-representaram-45percent-dos-novos-servidores-publicos-nos-ultimos-quatro-anos.ghtml",
-      "date": "2026-11-20T03:00:01.000Z",
-      "summary": "Pessoas negras representaram 45% dos novos ingressos na administração pública federal nos últimos quatro anos. Entre 2023 e outubro de 2026, a administração pública federal registrou 11.543 vínculos a mais de pessoas negras. Segundo o governo, o percentual de ",
-      "source": "g1",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -523,15 +541,6 @@
       "type": "oficial"
     },
     {
-      "title": "Escolas secretas educam crianças ucranianas sob ocupação russa",
-      "link": "https://www.dw.com/pt-br/escolas-secretas-educam-crianças-ucranianas-sob-ocupação-russa/a-79981727?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-19T19:58:00.000Z",
-      "summary": "Estudantes buscam alternativa às aulas obrigatórias impostas pelo Kremlin, onde se exibe propaganda de guerra. Famílias enfrentam risco de separação ou até detenção.",
-      "source": "DW Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
       "title": "BC publica Pesquisa Trimestral de Condições de Crédito (PTC)",
       "link": "https://www.bcb.gov.br/detalhenoticia/21324/nota",
       "date": "2026-11-19T17:31:41.000Z",
@@ -593,15 +602,6 @@
       "source": "Banco Central",
       "cat": "economia",
       "type": "oficial"
-    },
-    {
-      "title": "Conferência de Yalta: o que foi o encontro que redesenhou o mundo há 81 anos — e por que ele é comparado à reunião de Trump, Putin e Xi",
-      "link": "https://www.bbc.com/portuguese/articles/c5vg2mrwyjr2o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-18T16:46:01.000Z",
-      "summary": "Winston Churchill, Franklin Roosevelt e Joseph Stálin eram os 'Três Grandes' que se reuniram em Yalta para definir o mapa de influências da Europa no pós-guerra",
-      "source": "BBC News Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
     },
     {
       "title": "BC divulga estudo sobre os canais de transmissão da política monetária por meio do crédito",
