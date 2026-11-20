@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-20T11:20:04.914Z",
+  "updated": "2026-11-20T12:20:17.726Z",
   "market": {
     "ibov": {
       "price": 166376.44,
       "pct": -0.69,
-      "time": "2026-11-20T11:20:00.483Z",
+      "time": "2026-11-20T12:20:12.298Z",
       "history": [
         {
           "d": "2026-10-21",
@@ -145,30 +145,111 @@
   },
   "news": [
     {
+      "title": "Vorcaro e Faria planejaram instituto para Moraes com aval do ministro, indicam diálogos",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/vorcaro-e-faria-planejaram-instituto-para-moraes-com-aval-do-ministro-indicam-dialogos/",
+      "date": "2026-11-20T12:16:33.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Meta está reavaliando sua meta de zerar emissões diante do boom da IA",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/economia-sustentavel/2026/11/meta-esta-reavaliando-sua-meta-de-zerar-emissoes-diante-do-boom-da-ia.shtml",
+      "date": "2026-11-20T12:06:00.000Z",
+      "summary": "A Meta, controladora de Facebook, Instagram e WhatsApp, informou nesta quinta-feira (19) que está reavaliando sua meta de alcançar a neutralidade de carbono até 2030 diante da expansão da IA (inteligência artificial). Leia mais (11/20/2026 - 09h06)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Brasil simplifica exportação de cosméticos para a América Latina",
+      "link": "https://www.poder360.com.br/poder-economia/brasil-simplifica-exportacao-de-cosmeticos-para-a-america-latina/",
+      "date": "2026-11-20T12:00:53.000Z",
+      "summary": "Decreto assinado na 3ª feira (17.nov.2026) reduz exigências regulatórias e custos para empresas do setor",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "SP vai restaurar 17 imóveis tombados no Novo Centro Administrativo",
+      "link": "https://www.poder360.com.br/poder-infra/sp-vai-restaurar-17-imoveis-tombados-no-centro/",
+      "date": "2026-11-20T12:00:51.000Z",
+      "summary": "Edifícios históricos no entorno do Novo Centro Administrativo na capital terão uso social e cultural; investimento total do projeto é de R$ 6 bilhões",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Justiça reconhece racismo em 68% dos casos, diz levantamento",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/justica-reconhece-racismo-em-68-dos-casos-diz-levantamento/",
+      "date": "2026-11-20T12:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "TikTok lança ferramenta para ajudar figuras públicas a detectar deepfakes",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/tiktok-lanca-ferramenta-para-ajudar-figuras-publicas-a-detectar-deepfakes.shtml",
+      "date": "2026-11-20T11:58:00.000Z",
+      "summary": "O TikTok anunciou nesta sexta-feira (20) o lançamento global de sua ferramenta de detecção de deepfakes para figuras públicas, enquanto a plataforma de mídia social busca conter a desinformação gerada por inteligência artificial antes de uma série de eleições ",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Ações da Anthropic caem enquanto temores sobre o boom da IA dominam os mercados",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/acoes-da-anthropic-caem-enquanto-temores-sobre-o-boom-da-ia-dominam-os-mercados.shtml",
+      "date": "2026-11-20T11:48:00.000Z",
+      "summary": "As ações da Anthropic caíram 6% nas negociações do pré-mercado nesta sexta-feira (20), apagando parte dos ganhos de sua estreia espetacular, enquanto os temores dos investidores sobre a durabilidade do boom da IA continuavam a dominar os mercados acionários gl",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "André Mendonça pede ao STF abertura de sigilo de relatório da PF sobre ele",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/andre-mendonca-pede-ao-stf-abertura-de-sigilo-de-relatorio-da-pf-sobre-ele.shtml",
+      "date": "2026-11-20T11:44:00.000Z",
+      "summary": "O ministro André Mendonça, do STF (Supremo Tribunal Federal), pediu nesta sexta-feira (20) que seja retirado o sigilo do relatório da Polícia Federal que reúne informações sobre ele no caso Banco Master. O magistrado afirmou que renuncia expressamente ao sigil",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Master: relatório da PF sobre Mendonça cita tentativas de aproximação de Vorcaro ao ministro do STF",
+      "link": "https://g1.globo.com/economia/blog/ana-flor/post/2026/11/20/master-relatorio-da-pf-sobre-mendonca-cita-tentativas-de-aproximacao-de-vorcaro-ao-ministro-do-stf.ghtml",
+      "date": "2026-11-20T11:43:51.000Z",
+      "summary": "O relatório da Polícia Federal com menções ao ministro André Mendonça, do Supremo Tribunal Federal (STF), detalha tentativas de aproximação do ex-banqueiro Daniel Vorcaro, e de pessoas próximas ao dono do Master, ao magistrado da Suprema Corte. Nesta sexta-fei",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "TSMC endurece restrições a chips de IA da China após novas regras dos EUA fecharem brecha na fabricação, dizem fontes",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/tsmc-endurece-restricoes-a-chips-de-ia-da-china-apos-novas-regras-dos-eua-fecharem-brecha-na-fabricacao-dizem-fontes.shtml",
+      "date": "2026-11-20T11:33:00.000Z",
+      "summary": "A taiwanesa TSMC está endurecendo as restrições impostas a projetistas chineses de chips, suspendendo alguns pedidos de fabricação avançada anteriormente permitidos e, de modo geral, limitando os clientes afetados a tecnologias mais antigas de produção de semi",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Mercedes e Volks em crise: há salvação para indústria de carros alemã?",
+      "link": "https://www.dw.com/pt-br/mercedes-e-volks-em-crise-há-salvação-para-indústria-de-carros-alemã/a-80000175?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-20T11:24:00.000Z",
+      "summary": "Montadoras da Alemanha cortam investimentos, lançando nova onda de preocupação quanto ao futuro do setor. Alguns analistas creem ainda ser possível reverter tendência de queda. Mas como?",
+      "source": "DW Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
       "title": "Líder do MST chama ajuste fiscal de enganação e pede jovens no governo",
       "link": "https://www.poder360.com.br/poder-governo/lider-do-mst-chama-ajuste-fiscal-de-enganacao-e-pede-jovens-no-governo/",
       "date": "2026-11-20T11:18:00.000Z",
       "summary": "Stedile defende mudança geracional na Esplanada: “Quando o PT, a CUT e o MST foram fundados, éramos jovens. Agora, estamos acomodados”",
       "source": "Poder360",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Decisões judiciais sobre bets cresceram 122% em 2026 antes de proibição",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/decisoes-judiciais-sobre-bets-cresceram-122-em-2026-antes-de-proibicao.shtml",
-      "date": "2026-11-20T11:14:00.000Z",
-      "summary": "Antes da MP (medida provisória) do presidente Lula que proíbe o funcionamento das bets no Brasil, as decisões judiciais envolvendo as plataformas de apostas online cresceram 122% de janeiro a setembro de 2026, em relação ao mesmo período de 2025, passando de 2",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Reino Unido encontra solução para vulnerabilidade em geladeiras e freezers após ataques cibernéticos na Europa",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/reino-unido-encontra-solucao-para-vulnerabilidade-em-geladeiras-e-freezers-apos-ataques-ciberneticos-na-europa.shtml",
-      "date": "2026-11-20T11:14:00.000Z",
-      "summary": "Uma operação britânica de segurança cibernética corrigiu uma falha nos sistemas operacionais de geladeiras e freezers comerciais usados por supermercados, armazéns e restaurantes, ajudando a protegê-los de ataques cibernéticos que atingiram vários países europ",
-      "source": "Folha",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -181,48 +262,21 @@
       "type": "imprensa"
     },
     {
-      "title": "Casa Branca demite diretor de Cibersegurança após falhas tecnológicas",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/casa-branca-demite-diretor-de-ciberseguranca-apos-falhas-tecnologicas.shtml",
-      "date": "2026-11-20T11:05:00.000Z",
-      "summary": "O diretor nacional de Cibersegurança da Casa Branca, Sean Cairncross, foi demitido, informou nesta quinta-feira (19) uma fonte próxima do governo americano, após falhas tecnológicas afetarem vários serviços e causarem preocupação. Leia mais (11/20/2026 - 08h05",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Caso Master: Mendonça pede à presidência do STF que torne público relatório da PF com menções a ele",
       "link": "https://g1.globo.com/politica/blog/camila-bomfim/post/2026/11/20/caso-master-mendonca-pede-a-presidencia-do-stf-que-torne-publico-relatorio-da-pf-com-mencoes-a-ele.ghtml",
       "date": "2026-11-20T11:01:26.000Z",
-      "summary": "O ministro André Mendonça , do Supremo Tribunal Federal, pediu nesta sexta-feira (20) ao presidente da Corte, ministro Edson Fachin, que \"dê ampla publicidade\" ao relatório da Polícia Federal com menções a ele no caso Master. Este relatório, assim como outros ",
+      "summary": "Mendonça abre mão de sigilo de documentos O ministro André Mendonça , do Supremo Tribunal Federal (STF), pediu nesta sexta-feira (20) ao presidente da Corte, Edson Fachin, que \"dê ampla publicidade\" ao relatório da Polícia Federal com menções a Mendonça no cas",
       "source": "g1",
       "cat": "politica",
       "type": "imprensa"
     },
     {
-      "title": "Bolsas de Tóquio e Seul caem após Anthropic não conseguir dissipar temores sobre a IA",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/bolsas-de-toquio-e-seul-caem-apos-anthropic-nao-conseguir-dissipar-temores-sobre-a-ia.shtml",
-      "date": "2026-11-20T10:58:00.000Z",
-      "summary": "As bolsas de Tóquio e Seul fecharam esta sexta-feira (20) em queda, em linha com Wall Street, onde a estreia bem-sucedida do gigante americano Anthropic no mercado acionário não conseguiu dissipar as preocupações com a inteligência artificial. Leia mais (11/20",
-      "source": "Folha",
+      "title": "Influenciadores negros recebem R$ 68 a cada R$ 100 pagos a brancos; o que essa lacuna revela?",
+      "link": "https://www.estadao.com.br/economia/governanca/influenciadores-negros-recebem-r-68-a-cada-r-100-pagos-a-brancos-o-que-essa-lacuna-revela/",
+      "date": "2026-11-20T11:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Leia a íntegra do pedido da OAB para Van Hattem ser julgado no plenário",
-      "link": "https://www.poder360.com.br/poder-flash/leia-a-integra-do-pedido-da-oab-para-van-hattem-ser-julgado-no-plenario/",
-      "date": "2026-11-20T10:46:17.000Z",
-      "summary": "Entidade solicita que Dino reconsidere decisão que manteve o caso no ambiente virtual; deputado foi denunciado por calúnia e injúria",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "OAB discorda de Dino e pede que STF julgue Van Hattem presencialmente",
-      "link": "https://www.poder360.com.br/poder-justica/oab-discorda-de-dino-e-pede-que-stf-julgue-van-hattem-presencialmente/",
-      "date": "2026-11-20T10:45:55.000Z",
-      "summary": "Entidade quer reverter decisão do ministro e assegurar manifestação dos advogados em tempo real",
-      "source": "Poder360",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -235,7 +289,7 @@
       "type": "imprensa"
     },
     {
-      "title": "​Mendonça abre mão de sigilo e solicita a Fachin que torne público relatório da PF que cita seu nome",
+      "title": "Fachin tira sigilo de relatório da PF sobre Mendonça no caso Master a pedido do ministro",
       "link": "https://www.estadao.com.br/politica/coluna-do-estadao/mendonca-abre-mao-de-sigilo-e-solicita-a-fachin-que-torne-publico-relatorio-da-pf-que-cita-seu-nome/",
       "date": "2026-11-20T10:40:01.000Z",
       "summary": "",
@@ -249,24 +303,6 @@
       "date": "2026-11-20T10:18:00.000Z",
       "summary": "O prefeito Ricardo Nunes (MDB) e o vereador e deputado federal eleito Lucas Pavanato (PL) têm se aproximado após divergências e críticas no ano passado. Leia mais (11/20/2026 - 07h18)",
       "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Reforma no Judiciário é tema de 25 projetos no Congresso, que pode ter consenso por código de ética",
-      "link": "https://www.estadao.com.br/politica/reforma-no-judiciario-e-tema-de-25-projetos-no-congresso-que-pode-ter-consenso-por-codigo-de-etica/",
-      "date": "2026-11-20T08:30:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Governo avalia veto integral ao projeto da renegociação das dívidas rurais",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/governo-avalia-veto-integral-ao-projeto-da-renegociacao-das-dividas-rurais/",
-      "date": "2026-11-20T08:30:00.000Z",
-      "summary": "",
-      "source": "Estadão",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -316,15 +352,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Um salário mínimo compra 23 kg de acém a menos do que em 2007; entenda o preço da carne",
-      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/20/um-salario-minimo-compra-23-kg-de-acem-a-menos-do-que-em-2007-entenda-o-preco-da-carne.ghtml",
-      "date": "2026-11-20T06:00:22.000Z",
-      "summary": "Brasil nunca produziu tanta carne bovina, mas brasileiro come cada vez menos Com um salário mínimo, um trabalhador brasileiro consegue comprar hoje cerca de 39 kg de acém, um dos cortes bovinos mais baratos do açougue. Há 19 anos, a mesma renda levava para cas",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Pessoas negras representaram 45% dos novos servidores públicos nos últimos quatro anos",
       "link": "https://g1.globo.com/politica/noticia/2026/11/20/pessoas-negras-representaram-45percent-dos-novos-servidores-publicos-nos-ultimos-quatro-anos.ghtml",
       "date": "2026-11-20T03:00:01.000Z",
@@ -340,42 +367,6 @@
       "summary": "Presidente Lula durante cerimônia no Palácio do Planalto nesta quinta-feira (19). Adriano Machado/Reuters Menos de um mês após a vitória de Lula (PT) sobre Flávio Bolsonaro (PL) no segundo turno, uma briga pública entre aliados do presidente expôs divergências",
       "source": "g1",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Galípolo diz que ligou para PF para alertar sobre possível fuga de Vorcaro",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/20/galipolo-diz-que-ligou-para-pf-para-alertar-sobre-possivel-fuga-de-vorcaro.ghtml",
-      "date": "2026-11-20T03:00:00.000Z",
-      "summary": "Galípolo diz ter alertado PF sobre possível fuga de Vorcaro O presidente do Banco Central, Gabriel Galípolo, afirmou à Polícia Federal que alertou a corporação sobre a suspeita de que Daniel Vorcaro, ex-dono do Banco Master, poderia tentar fugir do país. Em de",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "PGR terá núcleo com Gonet para avaliar relatórios sobre ministros do STF e deve superar prazo de 15 dias",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/pgr-tera-nucleo-com-gonet-para-avaliar-relatorios-sobre-ministros-do-stf-e-deve-superar-prazo-de-15-dias.shtml",
-      "date": "2026-11-20T02:03:00.000Z",
-      "summary": "A PGR (Procuradoria-Geral da República) terá um núcleo formado por ao menos quatro procuradores da cúpula da instituição para avaliar os relatórios entregues pela Polícia Federal com citações aos nomes de ministros do STF (Supremo Tribunal Federal) nas investi",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Bancos se voltam para grandes empresas contra piora do crédito",
-      "link": "https://www.estadao.com.br/economia/coluna-da-broad/bancos-se-voltam-para-grandes-empresas-contra-piora-do-credito/",
-      "date": "2026-11-20T01:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Uma herança maldita: a que o Lula 3 deixará ao Lula 4; populista começa a se dar conta dela",
-      "link": "https://www.estadao.com.br/economia/rogerio-werneck/uma-heranca-maldita-a-que-o-lula-3-deixara-ao-lula-4-populista-comeca-a-se-dar-conta-dela/",
-      "date": "2026-11-20T01:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -412,15 +403,6 @@
       "summary": "Berlim reuniu aliados de Kiev em cúpula para cobrar espaço nas negociações de paz, enquanto Trump, Putin e Xi se encontravam paralelamente na China.",
       "source": "DW Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "PF inclui Mendonça em pedido de apuração sobre relação com Vorcaro após interferência de Andrei",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/pf-pede-apuracao-dos-casos-de-4-ministros-do-stf-citados-no-celular-de-vorcaro/",
-      "date": "2026-11-19T22:23:27.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -559,21 +541,21 @@
       "type": "oficial"
     },
     {
-      "title": "Quase uma em cada quatro crianças no mundo vivem em áreas de conflito",
-      "link": "https://www.dw.com/pt-br/quase-uma-em-cada-quatro-crianças-no-mundo-vivem-em-áreas-de-conflito/a-79991426?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-19T15:58:00.000Z",
-      "summary": "Relatório da Save the Children aponta recorde de 589 milhões de crianças vivendo em zonas de conflito. Enquanto mortes, sequestros e ataques aumentam, bloqueios à ajuda humanitária batem níveis sem precedentes.",
-      "source": "DW Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
       "title": "Anthropic dispara na estreia na bolsa e chega a valer R$ 11 trilhões: empresa pode evitar estouro da bolha da IA?",
       "link": "https://www.bbc.com/portuguese/articles/cm782wyv0153o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-19T14:39:39.000Z",
       "summary": "Ações começaram a ser negociadas com alta de 34%, mas recuaram depois, de US$ 111,50 para cerca de US$ 100.",
       "source": "BBC News Brasil",
       "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Investigar ou arquivar? Entenda o que a PGR pode fazer com os relatórios sobre ministros do STF",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/investigar-ou-arquivar-entenda-o-que-a-pgr-pode-fazer-com-os-relatorios-sobre-ministros-do-stf/",
+      "date": "2026-11-19T13:22:24.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -692,6 +674,15 @@
       "source": "ONU News",
       "cat": "internacional",
       "type": "oficial"
+    },
+    {
+      "title": "Movimento propõe meta: 50% de criadores de conteúdo negros em todas as faixas de influência até 2030",
+      "link": "https://www.estadao.com.br/midia-mkt/movimento-propoe-meta-50-de-criadores-de-conteudo-negros-em-todas-as-faixas-de-influencia-ate-2030/",
+      "date": "2026-11-06T17:46:15.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
     }
   ],
   "errors": [
