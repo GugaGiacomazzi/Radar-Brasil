@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-20T05:26:40.428Z",
+  "updated": "2026-11-20T06:38:04.730Z",
   "market": {
     "ibov": {
       "price": 166376.44,
       "pct": -0.69,
-      "time": "2026-11-20T05:26:34.782Z",
+      "time": "2026-11-20T06:38:01.205Z",
       "history": [
         {
           "d": "2026-10-21",
@@ -144,6 +144,33 @@
     ]
   },
   "news": [
+    {
+      "title": "Um salário mínimo compra 23 kg de acém a menos do que em 2007; entenda o preço da carne",
+      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/20/um-salario-minimo-compra-23-kg-de-acem-a-menos-do-que-em-2007-entenda-o-preco-da-carne.ghtml",
+      "date": "2026-11-20T06:00:22.000Z",
+      "summary": "Brasil nunca produziu tanta carne bovina, mas brasileiro come cada vez menos Com um salário mínimo, um trabalhador brasileiro consegue comprar hoje cerca de 39 kg de acém, um dos cortes bovinos mais baratos do açougue. Há 19 anos, a mesma renda levava para cas",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Anthropic x OpenAI: como a rivalidade entre os CEOs virou símbolo da corrida pelo domínio da IA",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/20/anthropic-x-openai-como-a-rivalidade-entre-os-ceos-virou-simbolo-da-corrida-pelo-dominio-da-ia.ghtml",
+      "date": "2026-11-20T06:00:00.000Z",
+      "summary": "Sam Altman, CEO da Open AI, e Dario Amodei, CEO da Anthropic Reuters/Manuel Orbegozo; Reuters/Bhawika Chhabra A estreia da Anthropic, dona do assistente Claude, na bolsa de valores na quinta-feira (19) marcou um novo capítulo na disputa com a OpenAI, responsáv",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Justiça manda seguir processo de Trump contra The New York Times",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/justica-manda-seguir-processo-de-trump-contra-the-new-york-times.shtml",
+      "date": "2026-11-20T05:42:00.000Z",
+      "summary": "A Justiça Federal dos Estados Unidos permitiu que sigam adiante partes de um processo por difamação movido pelo presidente Donald Trump contra o The New York Times e quatro de seus repórteres, segundo reportagem do site The Hollywood Reporter. A ação pede inde",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
     {
       "title": "Dívidas viraram uma bola de neve? Entenda os riscos da inadimplência e como sair dela",
       "link": "https://g1.globo.com/g1-explica/noticia/2026/11/20/dividas-viraram-uma-bola-de-neve-entenda-os-riscos-da-inadimplencia-e-como-sair-dela.ghtml",
@@ -343,15 +370,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Relator do ajuste fiscal na Câmara mantém texto do Senado; projeto deve ser votado na segunda-feira",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/19/relator-do-ajuste-fiscal-na-camara-mantem-texto-do-senado-projeto-deve-ser-votado-segunda-feira.ghtml",
-      "date": "2026-11-19T23:37:50.000Z",
-      "summary": "Projeto de ajuste fiscal segue para Câmara dos Deputados O relator do projeto de ajuste fiscal do governo Lula (PT) na Câmara dos Deputados, Mauro Benevides (União Brasil-CE), apresentou nesta quinta-feira (19) seu parecer para a proposta. Benevides manteve o ",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Autodeclaração racial revela preconceitos e combate desigualdades",
       "link": "https://www12.senado.leg.br/noticias/infomaterias/2026/11/autodeclaracao-racial-revela-preconceitos-e-combate-desigualdades",
       "date": "2026-11-19T23:34:19.000Z",
@@ -359,15 +377,6 @@
       "source": "Agência Senado",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Justiça aprova parcelamento de R$ 139 milhões em execuções trabalhistas do Grupo Pão de Açúcar",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/justica-aprova-parcelamento-de-r-139-milhoes-em-execucoes-trabalhistas-do-grupo-pao-de-acucar.shtml",
-      "date": "2026-11-19T22:46:00.000Z",
-      "summary": "O Grupo Pão de Açúcar informou nesta quinta-feira (19) que o TRT-2 (Tribunal Regional do Trabalho da 2ª Região) aprovou um plano para reorganizar o pagamento de R$ 139 milhões em execuções trabalhistas da companhia. Leia mais (11/19/2026 - 19h46)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
     },
     {
       "title": "Comissão aprova proposta de política para pessoas com altas habilidades",
@@ -404,15 +413,6 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Governo Trump liberou quase 900 mil chips avançados de IA para empresas chinesas, diz comitê dos EUA",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/19/governo-trump-liberou-quase-900-mil-chips-avancados-de-ia-para-empresas-chinesas-diz-comite-dos-eua.ghtml",
-      "date": "2026-11-19T21:50:15.000Z",
-      "summary": "O Presidente dos EUA, Donald Trump, entrega a Medalha Nacional da Ciência ao CEO da Nvidia, Jensen Huang, durante a cúpula \"Uma Nova Era de Ouro\" no Instituto da Paz dos EUA, renomeado Instituto da Paz Donald J. Trump pela administração Trump, em Washington, D",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
     },
     {
       "title": "Desenvolvimento regional, cultura e cidadania contam com novos recursos",
@@ -704,9 +704,7 @@
     }
   ],
   "errors": [
-    "Selic (SGS 432): HTTP 304",
     "feed CNN Brasil: HTTP 404",
-    "feed CNN Brasil: HTTP 404",
-    "feed Planalto (governo): HTTP 429"
+    "feed CNN Brasil: HTTP 404"
   ]
 }
