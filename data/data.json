@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-20T22:43:54.076Z",
+  "updated": "2026-11-20T23:44:20.677Z",
   "market": {
     "ibov": {
       "price": 166376.44,
       "pct": -0.69,
-      "time": "2026-11-20T22:43:43.486Z",
+      "time": "2026-11-20T23:44:16.056Z",
       "history": [
         {
           "d": "2026-10-21",
@@ -145,6 +145,42 @@
   },
   "news": [
     {
+      "title": "Conmebol admite ter R$ 88 milhões aplicados no Ueno, banco paraguaio que quebrou após crise",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/20/conmebol-recursos-banco-ueno.ghtml",
+      "date": "2026-11-20T23:29:32.000Z",
+      "summary": "Vista aérea mostra a sede do Ueno Bank, em Assunção, no Paraguai. Reuters A Conmebol (Confederação Sul-Americana de Futebol) admitiu nesta sexta-feira (20) ter US$ 15 milhões (cerca de R$ 88 milhões) aplicados no Ueno Bank, banco paraguaio que quebrou após uma",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Trump demite diretor de segurança cibernética após falhas que atingiram voos e Microsoft nos EUA",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/trump-demite-diretor-de-seguranca-cibernetica-apos-falhas-que-atingiram-voos-e-microsoft-nos-eua.shtml",
+      "date": "2026-11-20T23:11:00.000Z",
+      "summary": "O diretor nacional de segurança cibernética da Casa Branca, Sean Cairncross, foi demitido do cargo, informou na quinta-feira (19) uma fonte próxima ao governo americano, dias após falhas tecnológicas afetarem o transporte aéreo, o setor bancário e sistemas de ",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lula perde tempo brigando com o mercado",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/adriana-fernandes/2026/11/lula-perde-tempo-brigando-com-o-mercado.shtml",
+      "date": "2026-11-20T23:00:00.000Z",
+      "summary": "Em época de muda, passarinho não pia. O ditado popular marca o espírito que ronda Brasília após as críticas do presidente às especulações de nomes para Lula 4. Leia mais (11/20/2026 - 20h00)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Carlos relata impressão “horrível” ao ver Bolsonaro internado",
+      "link": "https://www.poder360.com.br/poder-brasil/carlos-relata-impressao-horrivel-ao-ver-bolsonaro-internado/",
+      "date": "2026-11-20T22:56:15.000Z",
+      "summary": "Ex-presidente está no DF Star, em Brasília, com obstrução intestinal; médico afirma que o quadro é estável",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "Ações da Anthropic caem 8,5% um dia após estreia histórica na bolsa dos EUA",
       "link": "https://g1.globo.com/economia/noticia/2026/11/20/acoes-anthropic.ghtml",
       "date": "2026-11-20T22:34:15.000Z",
@@ -208,15 +244,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Michelle diz que voltará ao Brasil após Bolsonaro ser hospitalizado",
-      "link": "https://www.poder360.com.br/poder-brasil/michelle-diz-que-voltara-ao-brasil-apos-bolsonaro-ser-hospitalizado/",
-      "date": "2026-11-20T21:43:17.000Z",
-      "summary": "Ex-presidente sentiu dores abdominais e foi levado para exames em Brasília; cumpre prisão domiciliar desde março",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Reino Unido e União Europeia querem interligar mercados de carbono a partir de 2028",
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/economia-sustentavel/2026/11/reino-unido-e-uniao-europeia-querem-interligar-mercados-de-carbono-a-partir-de-2028.shtml",
       "date": "2026-11-20T21:32:00.000Z",
@@ -262,29 +289,11 @@
       "type": "imprensa"
     },
     {
-      "title": "Alice Huang, suspeita de espionagem na Nvidia, tem parentes ligados à indústria militar da China",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/alice-huang-suspeita-de-espionagem-na-nvidia-tem-parentes-ligados-a-industria-militar-da-china.shtml",
-      "date": "2026-11-20T21:12:00.000Z",
-      "summary": "Alice Huang, a mulher no centro do escândalo da Nvidia, mantém amplos vínculos, por meio de familiares e associados, com a indústria de defesa da China, segundo uma empresa independente de pesquisa e documentos corporativos analisados pelo jornal The New York ",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "'Cobiçadas' por Trump, Filipinas lideram compra de carne suína do Brasil, mas são 22º destino das exportações do agro",
       "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/20/cobicadas-por-trump-filipinas-lideram-compra-de-carne-suina-do-brasil-mas-sao-22o-destino-das-exportacoes-do-agro.ghtml",
       "date": "2026-11-20T21:05:49.000Z",
       "summary": "Filipinas lideram compra de carne suína, mas são 22º destino das exportações do agro O presidente dos Estados Unidos, Donald Trump, afirmou nesta sexta-feira (20) que teria firmado um acordo com as Filipinas para assegurar a preferência de produtos agrícolas n",
       "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Quanto da sua carteira deveria estar em renda fixa?",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/blogs/de-grao-em-grao/2026/11/quanto-da-sua-carteira-deveria-estar-em-renda-fixa.shtml",
-      "date": "2026-11-20T21:00:00.000Z",
-      "summary": "Você deveria manter 30%, 60% ou até 100% do seu patrimônio em renda fixa? A resposta pode surpreender: qualquer uma dessas proporções pode estar correta. Tudo depende dos seus objetivos, dos riscos que pode assumir e, principalmente, dos retornos que o mercado",
-      "source": "Folha",
       "cat": "economia",
       "type": "imprensa"
     },
@@ -304,15 +313,6 @@
       "summary": "O ex-presidente Jair Bolsonaro (PL) foi levado nesta sexta-feira (20) ao hospital DF Star, em Brasília (DF), após sentir dor abdominal. Leia mais (11/20/2026 - 17h56)",
       "source": "Folha",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Nem US$ 1 bilhão do BC conteve a alta do dólar; o que isso revela sobre a economia?",
-      "link": "https://www.estadao.com.br/economia/celso-ming/nem-us-1-bilhao-do-bc-conteve-a-alta-do-dolar-o-que-isso-revela-sobre-a-economia/",
-      "date": "2026-11-20T20:52:24.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -352,6 +352,15 @@
       "type": "imprensa"
     },
     {
+      "title": "TJ de SP investiga viagens de juíza pagas com ‘sacola de dinheiro deixada na porta de agência’",
+      "link": "https://www.estadao.com.br/economia/tjsp-investiga-viagens-juiza-pagas-sacola-dinheiro/",
+      "date": "2026-11-20T20:02:08.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "Míssil russo atinge a Polônia e primeiro-ministro fala em 'provocação'",
       "link": "https://www.bbc.com/portuguese/articles/c699en8vvy34o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-20T19:59:14.000Z",
@@ -385,15 +394,6 @@
       "summary": "Pequim compra a maior parte do petróleo iraniano e Moscou oferece apoio político ao reg, mas as duas potências calculam cuidadosamente até onde vale a pena ajudar Teerã.",
       "source": "DW Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Trump diz que convenceu Filipinas a substituir produtos agrícolas do Brasil pelos dos EUA",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/20/trump-brasil-filipinas.ghtml",
-      "date": "2026-11-20T19:16:23.000Z",
-      "summary": "Trump diz que Filipinas vão trocar Brasil pelos EUA na agricultura O presidente dos Estados Unidos, Donald Trump, afirmou nesta sexta-feira (20) que teria firmado um acordo com as Filipinas para assegurar a preferência de produtos agrícolas norte-americanos no",
-      "source": "g1",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -514,6 +514,15 @@
       "type": "oficial"
     },
     {
+      "title": "Juíza foi alertada por servidora e mentiu sobre decisão a favor de sobrinho em leilão de R$ 20 mi",
+      "link": "https://www.estadao.com.br/economia/juiza-foi-alertada-por-servidora-e-mentiu-sobre-decisao-a-favor-de-sobrinho-em-leilao-de-r-20-mi/",
+      "date": "2026-11-19T22:12:35.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "Desenvolvimento regional, cultura e cidadania contam com novos recursos",
       "link": "https://www12.senado.leg.br/noticias/materias/2026/11/19/desenvolvimento-regional-cultura-e-cidadania-contam-com-novos-recursos",
       "date": "2026-11-19T21:35:11.000Z",
@@ -593,15 +602,6 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Mercado brasileiro de games deve movimentar US$ 3,1 bi até 2030, estima PwC; salto poderia ser maior",
-      "link": "https://www.estadao.com.br/economia/negocios/mercado-brasileiro-de-games-deve-movimentar-us-31-bi-ate-2030-estima-pwc-salto-poderia-ser-maior/",
-      "date": "2026-11-19T20:18:07.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
     },
     {
       "title": "BC publica Pesquisa Trimestral de Condições de Crédito (PTC)",
