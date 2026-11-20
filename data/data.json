@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-20T21:43:54.715Z",
+  "updated": "2026-11-20T22:43:54.076Z",
   "market": {
     "ibov": {
       "price": 166376.44,
       "pct": -0.69,
-      "time": "2026-11-20T21:43:50.376Z",
+      "time": "2026-11-20T22:43:43.486Z",
       "history": [
         {
           "d": "2026-10-21",
@@ -145,8 +145,71 @@
   },
   "news": [
     {
+      "title": "Ações da Anthropic caem 8,5% um dia após estreia histórica na bolsa dos EUA",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/20/acoes-anthropic.ghtml",
+      "date": "2026-11-20T22:34:15.000Z",
+      "summary": "Placa da Anthropic , PBC (ANT) no One Times Square no dia em que a Anthropic realiza sua oferta pública inicial (IPO) na NASDAQ Market, em Nova York, EUA, em 19 de novembro de 2026 REUTERS/Shannon Stapleton As ações da Anthropic, criadora do chatbot de intelig",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Bolsonaro tem obstrução quase total do intestino delgado, diz médico",
+      "link": "https://www.poder360.com.br/poder-justica/bolsonaro-tem-obstrucao-quase-total-do-intestino-delgado-diz-medico/",
+      "date": "2026-11-20T22:20:40.000Z",
+      "summary": "Ex-presidente foi internado depois de sentir dores abdominais; Brasil Caiado afirma que há possibilidade de cirurgias",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Não vejo problema, mas não resolve a questão, diz Gilmar sobre abertura de sigilo do STF no caso Master",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/nao-vejo-problema-mas-nao-resolve-a-questao-diz-gilmar-sobre-abertura-de-sigilo-do-stf-no-caso-master.shtml",
+      "date": "2026-11-20T22:15:00.000Z",
+      "summary": "O ministro do STF (Supremo Tribunal Federal) Gilmar Mendes afirmou, nesta sexta-feira (20), que não se opõe à divulgação dos relatórios da PF (Polícia Federal) sobre a relação de integrantes da corte com o caso Banco Master, mas ponderou que a medida não resol",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Bolsonaro está estável, mas sem previsão de alta, diz médico",
+      "link": "https://www.poder360.com.br/poder-justica/bolsonaro-esta-estavel-mas-sem-previsao-de-alta-diz-medico/",
+      "date": "2026-11-20T22:01:09.000Z",
+      "summary": "Ex-presidente tem obstrução quase total do intestino delgado e ficará em observação por 24 horas para avaliar evolução e necessidade de cirurgia",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Gilmar diz ‘não ver problema’ em abertura de sigilo sobre relatório de ministros do STF e Master",
+      "link": "https://www.estadao.com.br/politica/gilmar-diz-nao-ver-problema-em-abertura-de-sigilo-sobre-relatorio-de-ministros-do-stf-e-master/",
+      "date": "2026-11-20T22:00:14.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Van Hattem diz não estar surpreso com voto de Flávio Dino",
+      "link": "https://www.poder360.com.br/poder-congresso/van-hattem-diz-nao-estar-surpreso-com-voto-de-flavio-dino/",
+      "date": "2026-11-20T21:48:22.000Z",
+      "summary": "Deputado acusa ministro de parcialidade após voto para torná-lo réu por declarações contra delegado da Polícia Federal",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Dino vota para tornar Van Hattem réu por calúnia, mas julgamento é suspenso após pedido de Zanin",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/dino-vota-para-tornar-van-hattem-reu-por-calunia-mas-julgamento-e-suspenso-apos-pedido-de-zanin.shtml",
+      "date": "2026-11-20T21:46:00.000Z",
+      "summary": "O ministro Flávio Dino, do STF (Supremo Tribunal Federal), votou nesta sexta-feira (20) para tornar o deputado federal Marcel Van Hattem (Novo) réu por calúnia e injúria contra um delegado da PF (Polícia Federal). Leia mais (11/20/2026 - 18h46)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "Michelle diz que voltará ao Brasil após Bolsonaro ser hospitalizado",
-      "link": "https://www.poder360.com.br/brasil/michelle-diz-que-voltara-ao-brasil-apos-bolsonaro-ser-hospitalizado/",
+      "link": "https://www.poder360.com.br/poder-brasil/michelle-diz-que-voltara-ao-brasil-apos-bolsonaro-ser-hospitalizado/",
       "date": "2026-11-20T21:43:17.000Z",
       "summary": "Ex-presidente sentiu dores abdominais e foi levado para exames em Brasília; cumpre prisão domiciliar desde março",
       "source": "Poder360",
@@ -163,7 +226,7 @@
       "type": "imprensa"
     },
     {
-      "title": "Mães pretas fazem menos consultas de pré-natal e seus bebês têm mais chance de nascer com baixo peso, mostram dados do SUS",
+      "title": "Com menos acesso a pré-natal, mães pretas têm bebês com mais chance de nascerem prematuros e com baixo peso",
       "link": "https://g1.globo.com/politica/noticia/2026/11/20/maes-pretas-fazem-menos-consultas-de-pre-natal-e-seus-bebes-tem-mais-chance-de-nascer-com-baixo-peso-mostram-dados-do-sus.ghtml",
       "date": "2026-11-20T21:28:06.000Z",
       "summary": "Dados do Ministério da Saúde mostram mulheres pretas têm menor proporção de gestações acompanhadas de consultas de pré-natal, enquanto seus bebês apresentam maiores proporções de prematuridade e de baixo peso ao nascer, em comparação aos filhos de mulheres bra",
@@ -184,7 +247,7 @@
       "title": "Trump diz que Filipinas trocarão produtos agrícolas do Brasil pelos dos EUA",
       "link": "https://www.dw.com/pt-br/trump-diz-que-filipinas-trocarão-produtos-agrícolas-do-brasil-pelos-dos-eua/a-80007345?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-20T21:16:00.000Z",
-      "summary": "A declaração ocorreu após uma série de viagens à Ásia, durante as quais Trump teve encontros com líderes de pelo menos 20 países e disse ter encaminhado até 10 novos acordos comerciais.",
+      "summary": "Declaração ocorre após viagem à Ásia, onde o presidente americano teve encontros com líderes de pelo menos 20 países e disse ter encaminhado até 10 novos acordos comerciais.",
       "source": "DW Brasil",
       "cat": "internacional",
       "type": "imprensa"
@@ -208,30 +271,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Brasil cobra revisão de bancos da Itaipu após crise no Paraguai",
-      "link": "https://www.poder360.com.br/poder-infra/brasil-cobra-revisao-de-bancos-da-itaipu-apos-crise-no-paraguai/",
-      "date": "2026-11-20T21:11:02.000Z",
-      "summary": "Pedido foi feito depois da liquidação do Ueno Bank, que mantinha cerca de R$ 1 bilhão da usina; países também negociam tarifa de energia",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "'Cobiçadas' por Trump, Filipinas lideram compra de carne suína do Brasil, mas são 22º destino das exportações do agro",
       "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/20/cobicadas-por-trump-filipinas-lideram-compra-de-carne-suina-do-brasil-mas-sao-22o-destino-das-exportacoes-do-agro.ghtml",
       "date": "2026-11-20T21:05:49.000Z",
-      "summary": "Trump diz que Filipinas vão trocar Brasil pelos EUA na agricultura O presidente dos Estados Unidos, Donald Trump, afirmou nesta sexta-feira (20) que teria firmado um acordo com as Filipinas para assegurar a preferência de produtos agrícolas norte-americanos no",
+      "summary": "Filipinas lideram compra de carne suína, mas são 22º destino das exportações do agro O presidente dos Estados Unidos, Donald Trump, afirmou nesta sexta-feira (20) que teria firmado um acordo com as Filipinas para assegurar a preferência de produtos agrícolas n",
       "source": "g1",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Total de pacientes de cannabis medicinal passa de 1 milhão no Brasil",
-      "link": "https://www.poder360.com.br/poder-cannabis/total-de-pacientes-de-cannabis-medicinal-passa-de-1-milhao-no-brasil/",
-      "date": "2026-11-20T21:04:54.000Z",
-      "summary": "Dados são do 5º anuário da Kaya Mind; importação lidera meios de acesso",
-      "source": "Poder360",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -258,15 +303,6 @@
       "date": "2026-11-20T20:56:00.000Z",
       "summary": "O ex-presidente Jair Bolsonaro (PL) foi levado nesta sexta-feira (20) ao hospital DF Star, em Brasília (DF), após sentir dor abdominal. Leia mais (11/20/2026 - 17h56)",
       "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "BC do Paraguai ignorou alertas sobre quebra do Ueno Bank",
-      "link": "https://www.poder360.com.br/poder-internacional/bc-do-paraguai-ignorou-alertas-sobre-quebra-do-ueno-bank/",
-      "date": "2026-11-20T20:54:08.000Z",
-      "summary": "Novo presidente do Banco Central, Jorge Schreiner atribui falhas na supervisão a relações de amizade e poder; perdas podem chegar a US$ 1 bilhão",
-      "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -316,15 +352,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Ialta 2.0 premiou a guerra de Putin",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/demetriomagnoli/2026/11/ialta-20-premiou-a-guerra-de-putin.shtml",
-      "date": "2026-11-20T20:05:00.000Z",
-      "summary": "Ecos de Ialta. A cúpula das três grandes potências nucleares, em Shenzhen (China), foi apresentada como Ialta 2.0, uma reedição da conferência que, em fevereiro de 1945, esboçou as esferas de influência na Europa do pós-guerra. Aquela conferência ganhou uma ca",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Míssil russo atinge a Polônia e primeiro-ministro fala em 'provocação'",
       "link": "https://www.bbc.com/portuguese/articles/c699en8vvy34o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-20T19:59:14.000Z",
@@ -352,15 +379,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Deputados questionam gasto de R$ 3,3 milhões do Senado com troca de carpetes",
-      "link": "https://www.estadao.com.br/politica/deputados-questionam-gasto-de-r-33-milhoes-do-senado-com-troca-de-carpetes/",
-      "date": "2026-11-20T19:34:22.000Z",
-      "summary": "A licitação de R$ 3,3 milhões para trocar os carpetes de áreas do Senado virou alvo de críticas dos deputados Nikolas Ferreira e Duarte Jr., que questionam a necessidade e o alto custo da contratação. Ambos acionaram a Justiça e o TCU para tentar barrar a desp",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Até onde estratégia de Trump contra o Irã depende de China e Rússia",
       "link": "https://www.dw.com/pt-br/até-onde-estratégia-de-trump-contra-o-irã-depende-de-china-e-rússia/a-80005164?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-20T19:32:00.000Z",
@@ -374,15 +392,6 @@
       "link": "https://g1.globo.com/mundo/noticia/2026/11/20/trump-brasil-filipinas.ghtml",
       "date": "2026-11-20T19:16:23.000Z",
       "summary": "Trump diz que Filipinas vão trocar Brasil pelos EUA na agricultura O presidente dos Estados Unidos, Donald Trump, afirmou nesta sexta-feira (20) que teria firmado um acordo com as Filipinas para assegurar a preferência de produtos agrícolas norte-americanos no",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Ações da Nvidia têm pior sequência de quedas na bolsa desde 2008",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/20/acoes-da-nvidia-tem-pior-sequencia-de-quedas-na-bolsa-desde-2008.ghtml",
-      "date": "2026-11-20T18:47:51.000Z",
-      "summary": "Chips da Nvidia são usados ​​para criar e executar aplicações de IA Annegret Hilse/REUTERS Com uma queda que supera 7% nesta sexta-feira (20) na Nasdaq, as ações da fabricante de chips Nvidia encaminham a sétima semana consecutiva de perdas. Trata-se do pior d",
       "source": "g1",
       "cat": "economia",
       "type": "imprensa"
@@ -406,15 +415,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Ex-presidente do BRB disse que não pediu para votar na prisão porque pensou que já estaria solto",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/ex-presidente-do-brb-disse-que-nao-pediu-para-votar-na-prisao-porque-pensou-que-ja-estaria-solto.shtml",
-      "date": "2026-11-20T17:10:00.000Z",
-      "summary": "O ex-presidente do BRB (Banco de Brasília) Paulo Henrique Costa deu uma explicação para pessoas que o perguntaram sobre a decisão de não votar nas eleições: pensou que já estaria solto em outubro. Leia mais (11/20/2026 - 14h10)",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Febre de GTA 6 invade a política da Alemanha, e montagem com Merz é alvo de zombaria",
       "link": "https://www.dw.com/pt-br/febre-de-gta-6-invade-a-política-da-alemanha-e-montagem-com-merz-é-alvo-de-zombaria/a-80003058?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-20T14:49:00.000Z",
@@ -424,7 +424,7 @@
       "type": "imprensa"
     },
     {
-      "title": "Dino vota para tornar Van Hattem réu por calúnia e injúria contra delegado da PF; Zanin leva caso ao plenário físico do STF",
+      "title": "Dino e Moraes votam para tornar Van Hattem réu por calúnia e injúria contra delegado da PF; Zanin leva caso ao plenário físico do STF",
       "link": "https://g1.globo.com/politica/noticia/2026/11/20/dino-vota-para-tornar-van-hattem-reu-por-calunia-e-injuria-contra-delegado-da-policia-federal.ghtml",
       "date": "2026-11-20T14:21:48.000Z",
       "summary": "O ministro Flávio Dino, do Supremo Tribunal Federal (STF), votou pelo recebimento da denúncia apresentada pela Procuradoria-Geral da República (PGR) contra o deputado federal Marcel Van Hattem (Novo-RS) pelos crimes de calúnia e injúria contra um delegado da P",
@@ -438,6 +438,15 @@
       "date": "2026-11-20T14:17:49.000Z",
       "summary": "Moraes vota para manter restrições a Flávio Bolsonaro após fuga para os EUA O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), afirmou que a fuga do senador Flávio Bolsonaro (PL-RJ) do Brasil demonstra atuação com potencial para obstruir invest",
       "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Fachin nega pedido de Daniel Vorcaro e mantém banqueiro em prisão preventiva",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/fachin-nega-pedido-de-daniel-vorcaro-e-mantem-banqueiro-em-prisao-preventiva/",
+      "date": "2026-11-20T12:36:55.000Z",
+      "summary": "",
+      "source": "Estadão",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -647,15 +656,6 @@
       "source": "Banco Central",
       "cat": "economia",
       "type": "oficial"
-    },
-    {
-      "title": "Quem é Natália Resende, secretária empoderada por Tarcísio e cotada para sucedê-lo em 2030",
-      "link": "https://www.estadao.com.br/politica/quem-e-natalia-resende-secretaria-empoderada-por-tarcisio-e-cotada-para-sucede-lo-em-2030/",
-      "date": "2026-11-18T13:32:49.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
     },
     {
       "title": "BC divulga estudo sobre os canais de transmissão da política monetária por meio do crédito",
