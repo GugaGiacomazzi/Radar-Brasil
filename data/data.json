@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-21T08:30:57.384Z",
+  "updated": "2026-11-21T09:28:21.464Z",
   "market": {
     "ibov": {
       "price": 166376.44,
       "pct": -0.69,
-      "time": "2026-11-21T08:30:52.445Z",
+      "time": "2026-11-21T09:28:15.184Z",
       "history": [
         {
           "d": "2026-10-22",
@@ -141,6 +141,78 @@
   },
   "news": [
     {
+      "title": "Senado aprova regras de qualidade e segurança para implantes cirúrgicos",
+      "link": "https://www.poder360.com.br/poder-congresso/senado-aprova-regras-de-qualidade-e-seguranca-para-implantes-cirurgicos/",
+      "date": "2026-11-21T09:15:38.000Z",
+      "summary": "Proposta obriga a Anvisa a autorizar a produção e a comercialização dos dispositivos e amplia o controle sobre falhas",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Como governos Lula e Trump pretendem acabar com a 'guerra fria dos vistos diplomáticos'",
+      "link": "https://www.bbc.com/portuguese/articles/cwz0k3r4npexo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-21T09:01:48.000Z",
+      "summary": "De um lado, EUA querem liberação para indicado de Trump atue como embaixador no Brasil. Do outro, governo Lula quer normalização de visto de embaixadora em Washington",
+      "source": "BBC News Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Brasil corre contra o tempo para não perder único satélite de defesa",
+      "link": "https://www.poder360.com.br/poder-infra/brasil-corre-contra-o-tempo-para-nao-perder-unico-satelite-de-defesa/",
+      "date": "2026-11-21T09:00:28.000Z",
+      "summary": "Governo tem aproximadamente 6 anos para substituir sua única sonda capaz de atender a demanda de comunicação crítica",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Telebras mira autonomia financeira e projeta fim de aportes do governo",
+      "link": "https://www.poder360.com.br/poder-economia/telebras-mira-autonomia-financeira-e-projeta-fim-de-aportes-do-governo/",
+      "date": "2026-11-21T09:00:04.000Z",
+      "summary": "Estatal de telecomunicações acumula prejuízo de R$ 90,7 milhões em 2026, apesar de ter recebido R$ 169,9 milhões em subvenções orçamentárias",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Senadores ainda defendem PEC que regulamenta fim da 6x1, apesar de decreto e portarias do governo",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/senadores-ainda-defendem-pec-que-regulamenta-fim-da-6x1-apesar-de-decreto-e-portarias-do-governo.shtml",
+      "date": "2026-11-21T09:00:00.000Z",
+      "summary": "Apesar das portarias que o governo Lula deve publicar com regras para categorias específicas sobre o fim da escala 6x1, o Senado ainda pretende discutir uma PEC (Proposta de Emenda à Constituição) que regulamente a nova jornada em casos específicos. Leia mais ",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Mello Araújo, Erika Hilton, Tabata, Salles e Kim: direita e esquerda se dividem para 2028 em SP",
+      "link": "https://www.estadao.com.br/politica/mello-araujo-erika-hilton-tabata-salles-e-kim-direita-e-esquerda-se-dividem-para-2028-em-sp/",
+      "date": "2026-11-21T08:30:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Bancos veem instabilidade com indefinição de Lula sobre sanção da renegociação de dívidas rurais",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/bancos-veem-instabilidade-com-indefinicao-de-lula-sobre-sancao-da-renegociacao-de-dividas-rurais/",
+      "date": "2026-11-21T08:30:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Justiça condena Vitacon por entregar imóveis inacabados com habite-se",
+      "link": "https://www.estadao.com.br/economia/negocios/justica-condena-vitacon-por-entregar-imoveis-inacabados-com-habite-se/",
+      "date": "2026-11-21T08:30:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "O que aprendi ao passar 14 anos acompanhando famílias que não saem da pobreza: 'Muito além de decisões pessoais'",
       "link": "https://g1.globo.com/economia/noticia/2026/11/21/o-que-aprendi-ao-passar-14-anos-acompanhando-familias-que-nao-saem-da-pobreza-muito-alem-de-decisoes-pessoais.ghtml",
       "date": "2026-11-21T08:00:00.000Z",
@@ -240,15 +312,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Ameaças não me farão recuar, diz Miss Preta, 1ª deputada estadual negra do Paraná",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/ameacas-nao-me-farao-recuar-diz-miss-preta-1a-deputada-estadual-negra-do-parana.shtml",
-      "date": "2026-11-21T02:00:00.000Z",
-      "summary": "Natural de Campos dos Goytacazes (RJ), mas vivendo no Paraná há mais de dez anos, Edna dos Santos Sousa, 33, trabalhava como vendedora em loja de shopping em Curitiba e já fazia alguns comerciais publicitários como modelo quando um colega sugeriu a ela que par",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Financial Times elege os melhores livros de negócios de 2026; veja a lista",
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/financial-times-elege-os-melhores-livros-de-negocios-de-2026-veja-a-lista.shtml",
       "date": "2026-11-21T02:00:00.000Z",
@@ -267,38 +330,11 @@
       "type": "imprensa"
     },
     {
-      "title": "Moraes vota para manter suspensão da privatização da Celepar",
-      "link": "https://www.poder360.com.br/poder-justica/moraes-vota-para-manter-venda-da-celepar-suspensa-zanin-diverge/",
-      "date": "2026-11-21T01:54:45.000Z",
-      "summary": "Ministro cita riscos à proteção de dados; venda da estatal paranaense tinha preço mínimo de R$ 1,3 bilhão",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "PF prende no DF suspeita de integrar esquema de falsos investimentos que movimentou mais de R$ 600 milhões no PI",
       "link": "https://g1.globo.com/politica/noticia/2026/11/20/pf-prende-suspeita-de-integrar-esquema-de-falsos-investimentos-que-movimentou-mais-de-r-600-milhoes-no-pi.ghtml",
       "date": "2026-11-21T01:50:53.000Z",
       "summary": "A Polícia Federal prendeu nesta sexta-feira (20), no Distrito Federal, Kayra Cardoso Guimarães, suspeita de fazer parte de um grupo investigado pela Polícia Civil do Piauí por movimentar milhões com golpes envolvendo falsas operações financeiras na bolsa. Kayr",
       "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Trump defende pedido de desculpas e volta de Jensen Huang à Nvidia",
-      "link": "https://www.poder360.com.br/poder-internacional/trump-defende-pedido-de-desculpas-e-volta-de-jensen-huang-a-nvidia/",
-      "date": "2026-11-21T01:42:05.000Z",
-      "summary": "Presidente chamou o ex-CEO de uma das “mentes mais brilhantes do mundo” e disse ter conversado sobre o assunto com Xi Jinping",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Nos EUA, Flávio deseja “força” e Eduardo diz orar pelo pai",
-      "link": "https://www.poder360.com.br/poder-brasil/nos-eua-flavio-deseja-forca-e-eduardo-diz-orar-pelo-pai/",
-      "date": "2026-11-21T01:34:31.000Z",
-      "summary": "Jair Bolsonaro está internado em Brasília com obstrução intestinal; Carlos acompanha o ex-presidente no hospital",
-      "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -375,15 +411,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Mendonça expõe falsa equivalência no caso Master; Moraes, Nunes e Toffoli também abrirão sigilo?",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/mendonca-expoe-falsa-equivalencia-no-caso-master-moraes-nunes-e-toffoli-tambem-abrirao-sigilo/",
-      "date": "2026-11-20T21:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Jair Bolsonaro dá entrada em hospital após dores abdominais, diz Carlos",
       "link": "https://www.estadao.com.br/politica/jair-bolsonaro-da-entrada-em-hospital-apos-dores-abdominais-diz-carlos/",
       "date": "2026-11-20T20:24:30.000Z",
@@ -435,15 +462,6 @@
       "summary": "Conservadores criam campanha mostrando chefe de governo da Alemanha como personagem de game para exaltar medidas do governo. Mas peças geram reações irônicas por parte da oposição.",
       "source": "DW Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Fachin nega pedido de Daniel Vorcaro e mantém banqueiro em prisão preventiva",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/fachin-nega-pedido-de-daniel-vorcaro-e-mantem-banqueiro-em-prisao-preventiva/",
-      "date": "2026-11-20T12:36:55.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -508,15 +526,6 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Juíza foi alertada por servidora e mentiu sobre decisão a favor de sobrinho em leilão de R$ 20 mi",
-      "link": "https://www.estadao.com.br/economia/juiza-foi-alertada-por-servidora-e-mentiu-sobre-decisao-a-favor-de-sobrinho-em-leilao-de-r-20-mi/",
-      "date": "2026-11-19T22:12:35.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
     },
     {
       "title": "Desenvolvimento regional, cultura e cidadania contam com novos recursos",
