@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-21T21:19:41.719Z",
+  "updated": "2026-11-21T22:05:26.434Z",
   "market": {
     "ibov": {
       "price": 166376.44,
       "pct": -0.69,
-      "time": "2026-11-21T21:19:38.668Z",
+      "time": "2026-11-21T22:05:18.577Z",
       "history": [
         {
           "d": "2026-10-22",
@@ -141,6 +141,15 @@
   },
   "news": [
     {
+      "title": "Países vão discutir regras para “robôs assassinos” até 2028",
+      "link": "https://www.poder360.com.br/poder-tech/paises-vao-discutir-regras-para-robos-assassinos-ate-2028/",
+      "date": "2026-11-21T21:46:43.000Z",
+      "summary": "Decisão foi tomada por 128 países em Genebra; EUA, Rússia e Israel resistiram à proposta de um tratado obrigatório",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "Vitória de Lula simboliza defesa da democracia, diz Haddad",
       "link": "https://www.poder360.com.br/poder-governo/vitoria-de-lula-simboliza-defesa-da-democracia-diz-haddad/",
       "date": "2026-11-21T21:03:58.000Z",
@@ -177,7 +186,7 @@
       "type": "imprensa"
     },
     {
-      "title": "Amazon negocia compra da startup Decart em acordo bilionário para ganhar eficiência em IA",
+      "title": "Amazon está perto de fechar compra da Decart em acordo bilionário para ganhar eficiência em IA",
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/amazon-negocia-compra-da-startup-decart-em-acordo-bilionario-para-ganhar-eficiencia-em-ia.shtml",
       "date": "2026-11-21T20:37:00.000Z",
       "summary": "A Amazon está perto de fechar um acordo de US$ 7,5 bilhões (R$ 44,6 bilhões) para comprar a startup Decart, ressaltando o interesse das gigantes de tecnologia em fortalecer as próprias operações de inteligência artificial. Leia mais (11/21/2026 - 17h37)",
@@ -226,15 +235,6 @@
       "link": "https://www.poder360.com.br/poder-china/economistas-defendem-pacote-de-us-450-bi-para-estimular-china/",
       "date": "2026-11-21T19:00:32.000Z",
       "summary": "Dados divulgados pelo Escritório Nacional de Estatísticas do país mostraram enfraquecimento da demanda interna",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Cidadania suspende votação sobre incorporação ao PP",
-      "link": "https://www.poder360.com.br/poder-partidos-politicos/cidadania-suspende-votacao-sobre-incorporacao-ao-pp/",
-      "date": "2026-11-21T18:38:47.000Z",
-      "summary": "Presidente da legenda, Alex Manente, adiou congresso marcado para este sábado (21.nov.2026) após divergências internas",
       "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
@@ -613,15 +613,6 @@
       "link": "https://www.bbc.com/portuguese/articles/cm782wyv0153o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-19T14:39:39.000Z",
       "summary": "Ações começaram a ser negociadas com alta de 34%, mas recuaram depois, de US$ 111,50 para cerca de US$ 100.",
-      "source": "BBC News Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Trump, Xi e Putin em encontro histórico na China: o que cada um falou e quer na cúpula",
-      "link": "https://www.bbc.com/portuguese/articles/cjvg2922e50qo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-19T12:15:29.000Z",
-      "summary": "Antes da conversa a três, Trump se reuniu separadamente com os presidentes russo e chinês. Trump chamou Putin de 'amigo' e disse que os dois têm uma 'ótima relação'.",
       "source": "BBC News Brasil",
       "cat": "internacional",
       "type": "imprensa"
