@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-21T05:17:45.766Z",
+  "updated": "2026-11-21T06:17:38.773Z",
   "market": {
     "ibov": {
       "price": 166376.44,
       "pct": -0.69,
-      "time": "2026-11-21T05:17:40.136Z",
+      "time": "2026-11-21T06:17:33.127Z",
       "history": [
         {
           "d": "2026-10-22",
@@ -141,28 +141,37 @@
   },
   "news": [
     {
+      "title": "Dos algoritmos ao aroma: como a IA está mudando a criação de perfumes",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/21/dos-algoritmos-ao-aroma-como-a-ia-esta-mudando-a-criacao-de-perfumes.ghtml",
+      "date": "2026-11-21T06:00:01.000Z",
+      "summary": "Mulher passando perfume. Ron Lach/Pexels Pode haver um toque de bergamota nas notas de saída, seguido por uma íris adocicada, mas, segundo especialistas do setor, uma dose notável de inteligência artificial (IA) está surgindo nos novos perfumes. O tradicional ",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Fim da escala 6x1: veja o que muda nas folgas, horas extras e jornadas após decreto de Lula",
+      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/21/fim-da-escala-6x1-veja-o-que-muda-nas-folgas-horas-extras-e-jornadas-apos-decreto-de-lula.ghtml",
+      "date": "2026-11-21T06:00:00.000Z",
+      "summary": "Lula assina decreto com regras para o fim da escala 6x1 O fim da escala 6x1 avançou para uma nova etapa nesta semana. Depois que o Congresso promulgou a emenda constitucional, o Supremo Tribunal Federal (STF) definiu regras para a transição. Nesta quinta-feira",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Saída de Jensen Huang da Nvidia pode frear a onda da IA?",
+      "link": "https://g1.globo.com/inovacao/noticia/2026/11/21/saida-de-jensen-huang-da-nvidia-pode-frear-a-onda-da-ia.ghtml",
+      "date": "2026-11-21T06:00:00.000Z",
+      "summary": "Jensen Huang renunciou ao cargo em 12 de novembro. Getty Images via BBC A Nvidia e seu cofundador, Jensen Huang, estão no centro da onda de investimentos em inteligência artificial (IA). Poucas empresas ou executivos tiveram tanta influência sobre o desenvolvi",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "Como uma crise do café no Brasil abalou a Alemanha Oriental e fez do Vietnã uma potência",
       "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/21/como-uma-crise-do-cafe-no-brasil-abalou-a-alemanha-oriental-e-fez-do-vietna-uma-potencia.ghtml",
       "date": "2026-11-21T05:07:02.000Z",
       "summary": "Café. Rei do Café Na segunda metade dos anos 1970, o hábito de tomar café era rotina na República Democrática da Alemanha (RDA), como era chamada a antiga Alemanha Oriental comunista. Trabalhadores, burocratas, militares, agentes do regime, estudantes: o hábit",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Acerola na carne? Veja como a fruta virou conservante natural de alimentos nos EUA e na Europa",
-      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/21/acerola-na-carne-veja-como-a-fruta-virou-conservante-natural-de-alimentos-nos-eua-e-na-europa.ghtml",
-      "date": "2026-11-21T05:06:59.000Z",
-      "summary": "Acerola na carne? Veja como a fruta virou conservante natural de alimentos A acerola ganhou uma função inesperada: ajudar a conservar a carne por mais tempo. A fruta, transformada em pó, passou a ser exportada para os Estados Unidos e a Europa, onde é usada pa",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Comprar ou alugar? Veja o que considerar antes de decidir onde (e como) morar",
-      "link": "https://g1.globo.com/g1-explica/noticia/2026/11/21/comprar-ou-alugar-veja-o-que-considerar-antes-de-decidir-onde-e-como-morar.ghtml",
-      "date": "2026-11-21T05:00:00.000Z",
-      "summary": "Vale a pena ter casa própria? Comprar ou alugar um imóvel depende da situação financeira e dos planos de cada pessoa. A casa própria traz segurança e, ao fim do financiamento, deixa um patrimônio para o proprietário. O aluguel oferece mais flexibilidade e perm",
       "source": "g1",
       "cat": "economia",
       "type": "imprensa"
@@ -273,15 +282,6 @@
       "summary": "Jair Bolsonaro está internado em Brasília com obstrução intestinal; Carlos acompanha o ex-presidente no hospital",
       "source": "Poder360",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Quase 100 milhões de brasileiros começam a receber o 13º salário; benefício deve movimentar R$ 400 bilhões na economia",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/20/quase-100-milhoes-de-brasileiros-comecam-a-receber-o-13o-salario-beneficio-deve-movimentar-r-400-bilhoes-na-economia.ghtml",
-      "date": "2026-11-21T01:16:11.000Z",
-      "summary": "100 milhões de brasileiros começaram a receber o 13º salário Cem milhões de brasileiros já começaram a receber a primeira parcela do décimo-terceiro. A prioridade de muita gente é quitar dívidas em atraso. Mas, o dinheiro também vai aquecer o comércio, neste f",
-      "source": "g1",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
