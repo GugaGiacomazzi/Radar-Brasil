@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-21T22:05:26.434Z",
+  "updated": "2026-11-21T22:59:19.785Z",
   "market": {
     "ibov": {
       "price": 166376.44,
       "pct": -0.69,
-      "time": "2026-11-21T22:05:18.577Z",
+      "time": "2026-11-21T22:59:12.650Z",
       "history": [
         {
           "d": "2026-10-22",
@@ -141,6 +141,33 @@
   },
   "news": [
     {
+      "title": "Padre Kelmon quer aval de Moraes para dar “extrema-unção” a Bolsonaro",
+      "link": "https://www.poder360.com.br/poder-gente/padre-kelmon-quer-aval-de-moraes-para-dar-extrema-uncao-a-bolsonaro/",
+      "date": "2026-11-21T22:55:24.000Z",
+      "summary": "Ex-presidente está internado na UTI com obstrução intestinal; sacerdote afirma que aguarda pedido da defesa para realizar visita religiosa",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Na COP31, embate sobre relatório climático ameaça negociações futuras",
+      "link": "https://www.dw.com/pt-br/na-cop31-embate-sobre-relatório-climático-ameaça-negociações-futuras/a-80011164?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-21T22:20:00.000Z",
+      "summary": "Países divergem sobre quando divulgar a próxima avaliação do IPCC, principal referência científica para a política climática global. Calendário define se o documento orientará o próximo balanço do Acordo de Paris.",
+      "source": "DW Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Trump posa ao lado de Putin e o chama de “meu amigo” na China",
+      "link": "https://www.poder360.com.br/poder-internacional/trump-posa-ao-lado-de-putin-e-o-chama-de-meu-amigo-na-china/",
+      "date": "2026-11-21T22:07:17.000Z",
+      "summary": "Presidente dos EUA elogiou relação com líder russo durante encontro na China; declaração provocou críticas na Europa",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "Países vão discutir regras para “robôs assassinos” até 2028",
       "link": "https://www.poder360.com.br/poder-tech/paises-vao-discutir-regras-para-robos-assassinos-ate-2028/",
       "date": "2026-11-21T21:46:43.000Z",
@@ -154,15 +181,6 @@
       "link": "https://www.poder360.com.br/poder-governo/vitoria-de-lula-simboliza-defesa-da-democracia-diz-haddad/",
       "date": "2026-11-21T21:03:58.000Z",
       "summary": "Ex-ministro afirma que resultado eleitoral reflete disputa global contra a concentração de poder econômico e político",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Haddad defende taxar super-ricos durante cúpula em Paris",
-      "link": "https://www.poder360.com.br/poder-economia/haddad-defende-taxar-super-ricos-durante-cupula-em-paris/",
-      "date": "2026-11-21T21:00:58.000Z",
-      "summary": "Ex-ministro afirma que imposto de 2% sobre grandes fortunas poderia arrecadar globalmente até US$ 250 bilhões por ano",
       "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
@@ -196,7 +214,7 @@
     },
     {
       "title": "Alice Huang, caso de ex-CEO da Nvidia, conectava empresas e abastecia mercado clandestino de chips",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/alice-huang-caso-de-ex-ceo-da-nvidia-conectava-empresas-e-abastecia-mercado-clandestino-de-chips.shtml",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/alice-huang-caso-de-ex-ceo-da-nvidia-conectava-empresas-e-abastecia-mercado-clandestino-de-chips.shtml",
       "date": "2026-11-21T20:16:00.000Z",
       "summary": "A executiva chinesa que mantinha relacionamento amoroso com Jensen Huang, ex-CEO da Nvidia, tinha vínculos com o lucrativo comércio de chips para a China. Leia mais (11/21/2026 - 17h16)",
       "source": "Folha",
@@ -228,15 +246,6 @@
       "summary": "Quem faz cenários econômicos de modo desassombrado ora ainda estimaria que o PIB de 2027 pode cair 0,5% e até crescer perto de um medíocre, mas reconfortante, 1,5%, a depender de hipóteses mais ou menos pessimistas. Tais estimativas costumam estar erradas, se ",
       "source": "Folha",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Economistas defendem pacote de US$ 450 bi para estimular China",
-      "link": "https://www.poder360.com.br/poder-china/economistas-defendem-pacote-de-us-450-bi-para-estimular-china/",
-      "date": "2026-11-21T19:00:32.000Z",
-      "summary": "Dados divulgados pelo Escritório Nacional de Estatísticas do país mostraram enfraquecimento da demanda interna",
-      "source": "Poder360",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -442,15 +451,6 @@
       "link": "https://www.dw.com/pt-br/até-onde-estratégia-de-trump-contra-o-irã-depende-de-china-e-rússia/a-80005164?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-20T19:32:00.000Z",
       "summary": "Pequim compra a maior parte do petróleo iraniano e Moscou oferece apoio político ao reg, mas as duas potências calculam cuidadosamente até onde vale a pena ajudar Teerã.",
-      "source": "DW Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Diferença salarial na UE: Mulheres trabalharão \"de graça\" até o fim do ano",
-      "link": "https://www.dw.com/pt-br/diferença-salarial-na-ue-mulheres-trabalharão-de-graça-até-o-fim-do-ano/a-80005998?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-20T18:22:00.000Z",
-      "summary": "Diferença média de remuneração entre homens e mulheres na UE é de 11,1%; Alemanha registra índice ainda maior e é cobrada por atrasar regras de transparência salarial.",
       "source": "DW Brasil",
       "cat": "internacional",
       "type": "imprensa"
