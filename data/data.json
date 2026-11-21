@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-21T15:41:41.665Z",
+  "updated": "2026-11-21T16:41:30.477Z",
   "market": {
     "ibov": {
       "price": 166376.44,
       "pct": -0.69,
-      "time": "2026-11-21T15:41:36.885Z",
+      "time": "2026-11-21T16:41:24.443Z",
       "history": [
         {
           "d": "2026-10-22",
@@ -141,6 +141,51 @@
   },
   "news": [
     {
+      "title": "União Europeia e Indonésia assinam acordo comercial após 10 anos de negociações",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/uniao-europeia-e-indonesia-assinam-acordo-comercial-apos-10-anos-de-negociacoes.shtml",
+      "date": "2026-11-21T16:17:00.000Z",
+      "summary": "A UE (União Europeia) e a Indonésia assinaram neste sábado (21) dois acordos: um comercial e um de proteção de investimentos. A assinatura vem após dez anos de tentativas e negociações. Leia mais (11/21/2026 - 13h17)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lula diz que passaria faixa a Flávio se perdesse eleição",
+      "link": "https://www.poder360.com.br/poder-governo/lula-diz-que-passaria-faixa-a-flavio-se-perdesse-eleicao/",
+      "date": "2026-11-21T16:08:55.000Z",
+      "summary": "Presidente afirmou que cumpriria o papel de transferir o cargo ao vencedor e ironizou fuga do adversário para os EUA",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Empresas não ocupam vagas para pessoas com deficiência, mesmo sobrando candidatos",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/empresas-nao-ocupam-vagas-para-pessoas-com-deficiencia-mesmo-sobrando-candidatos.shtml",
+      "date": "2026-11-21T16:05:00.000Z",
+      "summary": "O Brasil tem 7,35 milhões de pessoas com deficiência em idade apta para trabalhar e fora do BPC (Benefício de Prestação Continuada). Esse contingente equivale a sete vezes o mínimo de postos exigido pela Lei de Cotas, de 1,04 milhão. Ainda assim, só 57% dessas",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lula confirma que Janja coordenará cerimônia de posse",
+      "link": "https://www.poder360.com.br/poder-governo/lula-confirma-que-janja-coordenara-cerimonia-de-posse/",
+      "date": "2026-11-21T15:52:53.000Z",
+      "summary": "Presidente fez afirmação em live com Janones neste sábado (21.nov.2026)",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Moraes atende a pedido e autoriza visitas diárias de filhos a Bolsonaro durante a internação",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/21/moraes-atende-a-pedido-e-autoriza-visitas-diarias-de-filhos-a-bolsonaro-durante-a-internacao.ghtml",
+      "date": "2026-11-21T15:48:34.000Z",
+      "summary": "Moraes atende a pedido e autoriza visitas diárias de filhos a Bolsonaro durante internação O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), autorizou que três filhos de Jair Bolsonaro — Carlos, Jair Renan e a filha menor de idade — possam vis",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "Lula diz que vai a Niterói agradecer estudantes da UFF na 6ª feira",
       "link": "https://www.poder360.com.br/poder-governo/lula-diz-que-vai-a-niteroi-agradecer-estudantes-da-uff-na-6a-feira/",
       "date": "2026-11-21T15:25:30.000Z",
@@ -243,16 +288,16 @@
       "title": "Lula diz que projeto aprovado no Senado não é 'reforma fiscal', mas ajuste para Orçamento de 2027, e critica Faria Lima",
       "link": "https://g1.globo.com/politica/noticia/2026/11/21/lula-diz-que-projeto-aprovado-no-senado-nao-e-reforma-fiscal-mas-ajuste-para-orcamento-de-2027-e-critica-faria-lima.ghtml",
       "date": "2026-11-21T14:27:51.000Z",
-      "summary": "O presidente Luiz Inácio Lula da Silva (PT) afirmou neste sábado (21) que o projeto fiscal aprovado pelo Senado nesta semana não é uma \"reforma\", mas um \"ajuste\" orçamentário para o ano de 2027. O petista deu as declarações durante uma live com o deputado fede",
+      "summary": "Lula critica aliados que se opuseram ao ajuste O presidente Luiz Inácio Lula da Silva (PT) afirmou neste sábado (21) que o projeto fiscal aprovado pelo Senado nesta semana não é uma \"reforma\", mas um \"ajuste\" orçamentário para o ano de 2027. O petista deu as d",
       "source": "g1",
       "cat": "politica",
       "type": "imprensa"
     },
     {
-      "title": "Defesa de Bolsonaro pede que Moraes autorize visitas diárias de filhos ao hospital",
+      "title": "Moraes autoriza visita de filhos de Bolsonaro no hospital",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/defesa-de-bolsonaro-pede-para-moraes-autorizar-visitas-diarias-de-filhos-no-hospital.shtml",
       "date": "2026-11-21T13:59:00.000Z",
-      "summary": "A defesa do ex-presidente Jair Bolsonaro (PL) pediu neste sábado (21) ao ministro Alexandre de Moraes, do STF (Supremo Tribunal Federal), que autorize visitas diárias de seus filhos ao hospital em que ele está internado. Leia mais (11/21/2026 - 10h59)",
+      "summary": "O ministro Alexandre de Moraes, do STF (Supremo Tribunal Federal), atendeu à defesa do ex-presidente Jair Bolsonaro (PL) e autorizou visitas diárias de seus filhos ao hospital em que ele está internado, em Brasília. Leia mais (11/21/2026 - 10h59)",
       "source": "Folha",
       "cat": "politica",
       "type": "imprensa"
@@ -263,42 +308,6 @@
       "date": "2026-11-21T13:48:28.000Z",
       "summary": "",
       "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Exército do Lula perde 1,4 milhão de seguidores desde o 2º turno",
-      "link": "https://www.poder360.com.br/poder-governo/exercito-do-lula-perde-14-milhao-de-seguidores-desde-o-2o-turno/",
-      "date": "2026-11-21T13:03:48.000Z",
-      "summary": "Evasão ocorre após discussão entre André Janones, criador do canal, e uma ala da esquerda sobre o pacote de ajuste fiscal do governo",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Justiça dos EUA aprova acordo de US$ 7,25 bi da Bayer sobre câncer ligado ao Roundup",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/agro/2026/11/justica-dos-eua-aprova-acordo-de-us-725-bi-da-bayer-sobre-cancer-ligado-ao-roundup.shtml",
-      "date": "2026-11-21T13:02:00.000Z",
-      "summary": "Um tribunal estadual do Missouri deu aprovação final, na sexta-feira (20), a um acordo nacional de US$ 7,25 bilhões (cerca de R$ 42,7 bilhões) que encerrará dezenas de milhares de processos contra a Bayer, gigante alemã dos setores farmacêutico e de biotecnolo",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Lula precisa de ajuste para conter dívida, diz ex-secretário de Dilma",
-      "link": "https://www.poder360.com.br/poder-economia/lula-precisa-de-ajuste-para-conter-divida-diz-ex-secretario-de-dilma/",
-      "date": "2026-11-21T13:00:58.000Z",
-      "summary": "Márcio Holland defende plano de 4 anos, critica aumento de impostos e propõe revisão de despesas obrigatórias",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Reforma tributária exige notas fiscais de locação, voos e imóveis em 2027",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/reforma-tributaria-exige-notas-fiscais-de-locacao-voos-e-imoveis-em-2027.shtml",
-      "date": "2026-11-21T12:27:00.000Z",
-      "summary": "Condomínios, companhias aéreas e locadores de veículos e imóveis estão entre os contribuintes e as entidades que passarão a emitir notas fiscais com a implementação da reforma tributária em 2027. A entrega também será obrigatória para operações com bens imater",
-      "source": "Folha",
       "cat": "economia",
       "type": "imprensa"
     },
@@ -397,15 +406,6 @@
       "link": "https://g1.globo.com/politica/noticia/2026/11/21/a-um-mes-do-recesso-fachin-tenta-avancar-com-agenda-de-reformas-no-stf-mas-enfrenta-resistencias.ghtml",
       "date": "2026-11-21T03:00:00.000Z",
       "summary": "O presidente do Supremo Tribunal Federal (STF), ministro Edson Fachin, tenta avançar, a um mês do início do recesso, com pautas internas que dividem a Suprema Corte. O STF entra em recesso formalmente no dia 20 de dezembro. São três questões centrais da agenda",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "PF prende no DF suspeita de integrar esquema de falsos investimentos que movimentou mais de R$ 600 milhões no PI",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/20/pf-prende-suspeita-de-integrar-esquema-de-falsos-investimentos-que-movimentou-mais-de-r-600-milhoes-no-pi.ghtml",
-      "date": "2026-11-21T01:50:53.000Z",
-      "summary": "Uma operação policial prendeu nesta sexta-feira (20), no Distrito Federal, Kayra Cardoso Guimarães, suspeita de fazer parte de um grupo investigado pela Polícia Civil do Piauí por movimentar milhões com golpes envolvendo falsas operações financeiras na bolsa. ",
       "source": "g1",
       "cat": "politica",
       "type": "imprensa"
