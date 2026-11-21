@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-21T12:26:31.497Z",
+  "updated": "2026-11-21T13:40:41.458Z",
   "market": {
     "ibov": {
       "price": 166376.44,
       "pct": -0.69,
-      "time": "2026-11-21T12:26:25.649Z",
+      "time": "2026-11-21T13:40:34.744Z",
       "history": [
         {
           "d": "2026-10-22",
@@ -141,20 +141,74 @@
   },
   "news": [
     {
-      "title": "Defesa de Bolsonaro pede a Moraes autorização para visitas diárias de filhos durante internação",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/21/defesa-de-bolsonaro-pede-a-moraes-autorizacao-para-visitas-diarias-de-filhos-durante-internacao.ghtml",
-      "date": "2026-11-21T12:14:12.000Z",
-      "summary": "",
-      "source": "g1",
+      "title": "Exército do Lula perde 1,4 milhão de seguidores desde o 2º turno",
+      "link": "https://www.poder360.com.br/poder-governo/exercito-do-lula-perde-14-milhao-de-seguidores-desde-o-2o-turno/",
+      "date": "2026-11-21T13:03:48.000Z",
+      "summary": "Evasão ocorre após discussão entre André Janones, criador do canal, e uma ala da esquerda sobre o pacote de ajuste fiscal do governo",
+      "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
     },
     {
-      "title": "Projeto proíbe devedores de pensão alimentícia de apostar em bets",
-      "link": "https://www.poder360.com.br/poder-congresso/projeto-proibe-devedores-de-pensao-alimenticia-de-apostar-em-bets/",
-      "date": "2026-11-21T12:00:53.000Z",
-      "summary": "Proposta restringe acesso a plataformas de apostas enquanto houver dívida vencida e não quitada em execução judicial",
+      "title": "Justiça dos EUA aprova acordo de US$ 7,25 bi da Bayer sobre câncer ligado ao Roundup",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/agro/2026/11/justica-dos-eua-aprova-acordo-de-us-725-bi-da-bayer-sobre-cancer-ligado-ao-roundup.shtml",
+      "date": "2026-11-21T13:02:00.000Z",
+      "summary": "Um tribunal estadual do Missouri deu aprovação final, na sexta-feira (20), a um acordo nacional de US$ 7,25 bilhões (cerca de R$ 42,7 bilhões) que encerrará dezenas de milhares de processos contra a Bayer, gigante alemã dos setores farmacêutico e de biotecnolo",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lula precisa de ajuste para conter dívida, diz ex-secretário de Dilma",
+      "link": "https://www.poder360.com.br/poder-economia/lula-precisa-de-ajuste-para-conter-divida-diz-ex-secretario-de-dilma/",
+      "date": "2026-11-21T13:00:58.000Z",
+      "summary": "Márcio Holland defende plano de 4 anos, critica aumento de impostos e propõe revisão de despesas obrigatórias",
       "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Ao vivo: Lula faz live com Janones neste sábado",
+      "link": "https://www.poder360.com.br/poder-governo/ao-vivo-lula-faz-live-com-janones-neste-sabado/",
+      "date": "2026-11-21T13:00:37.000Z",
+      "summary": "Presidente diz que live será para explicar ações desde a vitória eleitoral e apresentar planos para o futuro",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "The Economist: Brasil lidera corrida da América Latina para virar polo global de data centers",
+      "link": "https://www.estadao.com.br/economia/the-economist-brasil-lidera-corrida-da-america-latina-para-virar-polo-global-de-data-centers/",
+      "date": "2026-11-21T13:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Engajamento de Flávio no Instagram cai 81% em 10 dias",
+      "link": "https://www.poder360.com.br/poder-tech/engajamento-de-flavio-no-instagram-cai-81-em-10-dias/",
+      "date": "2026-11-21T12:36:37.000Z",
+      "summary": "Menções favoráveis ao senador recuaram de 76% para 51,3% nas redes sociais, mostra levantamento da Ativaweb DataLab",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Reforma tributária exige notas fiscais de locação, voos e imóveis em 2027",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/reforma-tributaria-exige-notas-fiscais-de-locacao-voos-e-imoveis-em-2027.shtml",
+      "date": "2026-11-21T12:27:00.000Z",
+      "summary": "Condomínios, companhias aéreas e locadores de veículos e imóveis estão entre os contribuintes e as entidades que passarão a emitir notas fiscais com a implementação da reforma tributária em 2027. A entrega também será obrigatória para operações com bens imater",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Defesa de Bolsonaro pede a Moraes autorização para visitas diárias de filhos durante internação",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/21/defesa-de-bolsonaro-pede-a-moraes-autorizacao-para-visitas-diarias-de-filhos-durante-internacao.ghtml",
+      "date": "2026-11-21T12:14:12.000Z",
+      "summary": "A defesa de Jair Bolsonaro pediu neste sábado (21) ao ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), autorização para que três de seus filhos — Carlos, Jair Renan e a filha menor de idade — possam visitar o ex-presidente diariamente enquanto ",
+      "source": "g1",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -177,15 +231,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Copel não ampliará parque eólico até resolução do curtailment, diz CEO",
-      "link": "https://www.poder360.com.br/poder-energia/copel-nao-ampliara-parque-eolico-ate-resolucao-do-curtailment-diz-ceo/",
-      "date": "2026-11-21T11:00:23.000Z",
-      "summary": "Daniel Slaviero afirma que incertezas sobre os cortes de geração dificultam a projeção de receitas e a viabilidade de novos investimentos na fonte",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "'Decisões no mundo corporativo são tomadas onde mulheres pretas não estão', diz especialista",
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/decisoes-no-mundo-corporativo-sao-tomadas-onde-mulheres-pretas-nao-estao-diz-especialista.shtml",
       "date": "2026-11-21T11:00:00.000Z",
@@ -201,15 +246,6 @@
       "summary": "As ações de tecnologia dos EUA despencaram na pior semana desde que a pandemia de Covid-19 abalou a economia global. O movimento ocorreu em meio a temores de desaceleração do boom de investimentos em inteligência artificial (IA), que desencadearam uma onda de ",
       "source": "Folha",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Carlos Bolsonaro posta foto do pai internado: “Jamais o vi assim”",
-      "link": "https://www.poder360.com.br/poder-justica/carlos-bolsonaro-posta-foto-do-pai-internado-jamais-o-vi-assim/",
-      "date": "2026-11-21T10:38:28.000Z",
-      "summary": "Internado por obstrução intestinal, Jair passará por novos exames e pode precisar de outra cirurgia, segundo filho do ex-presidente",
-      "source": "Poder360",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -246,15 +282,6 @@
       "summary": "A polonesa Barbara Paciorkiewicz foi levada pelos nazistas, enquanto a ucraniana Ksenija Koldin foi tirada da família na Rússia contemporânea. Elas falam sobre perda, separação forçada e o difícil retorno ao lar.",
       "source": "DW Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "CDR aprova ampliação de áreas de livre comércio no Acre",
-      "link": "https://www.poder360.com.br/poder-congresso/cdr-aprova-ampliacao-de-areas-de-livre-comercio-no-acre/",
-      "date": "2026-11-21T10:10:31.000Z",
-      "summary": "Medida busca estimular o desenvolvimento econômico e a geração de emprego e renda em cidades acreanas",
-      "source": "Poder360",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -339,24 +366,6 @@
       "type": "imprensa"
     },
     {
-      "title": "'GTA 6' arrecada US$ 3,79 bilhões no lançamento e quebra recorde de faturamento",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/tec/2026/11/gta-6-arrecada-us-379-bilhoes-no-lancamento-e-quebra-recorde-de-faturamento.shtml",
-      "date": "2026-11-21T07:00:00.000Z",
-      "summary": "A Rockstar anunciou que \"GTA 6\" arrecadou US$ 3,79 bilhões (R$ 22,48 bilhões) no dia de seu lançamento, na quinta-feira (19), e estabeleceu um novo recorde de faturamento para a estreia de um jogo de videogame. O recorde anterior pertencia ao antecessor da fra",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "CEOs que cometem adultério são perigosos para as empresas",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/ceos-que-cometem-adulterio-sao-perigosos-para-as-empresas.shtml",
-      "date": "2026-11-21T07:00:00.000Z",
-      "summary": "Um dos homens mais ricos e poderosos do mundo acaba de perder o emprego por causa não de um, nem dois, mas três casos extraconjugais (que saibamos). O fim dos 33 anos de Jensen Huang à frente da Nvidia tem implicações de grande alcance para a segurança naciona",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "A um mês do recesso, Fachin tenta avançar com agenda de reformas no STF, mas enfrenta resistências",
       "link": "https://g1.globo.com/politica/noticia/2026/11/21/a-um-mes-do-recesso-fachin-tenta-avancar-com-agenda-de-reformas-no-stf-mas-enfrenta-resistencias.ghtml",
       "date": "2026-11-21T03:00:00.000Z",
@@ -381,24 +390,6 @@
       "summary": "Uma operação policial prendeu nesta sexta-feira (20), no Distrito Federal, Kayra Cardoso Guimarães, suspeita de fazer parte de um grupo investigado pela Polícia Civil do Piauí por movimentar milhões com golpes envolvendo falsas operações financeiras na bolsa. ",
       "source": "g1",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Contratos de 2027 são assinados antes da alíquota da CBS",
-      "link": "https://www.estadao.com.br/economia/contratos-2027-assinados-antes-aliquota-cbs/",
-      "date": "2026-11-21T01:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Paz é nuclear, mas guerra é tecnológica",
-      "link": "https://www.estadao.com.br/economia/fabio-gallo/paz-nuclear-mas-guerra-tecnologica/",
-      "date": "2026-11-21T01:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -607,6 +598,15 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
+    },
+    {
+      "title": "Qual país tem a maior carga tributária do mundo? Brasil pode chegar ao topo até 2050",
+      "link": "https://www.estadao.com.br/economia/pedro-fernando-nery/qual-pais-tem-a-maior-carga-tributaria-do-mundo/",
+      "date": "2026-11-19T20:03:29.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
     },
     {
       "title": "BC publica Pesquisa Trimestral de Condições de Crédito (PTC)",
