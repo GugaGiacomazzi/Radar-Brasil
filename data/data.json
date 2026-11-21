@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-21T16:41:30.477Z",
+  "updated": "2026-11-21T17:38:55.636Z",
   "market": {
     "ibov": {
       "price": 166376.44,
       "pct": -0.69,
-      "time": "2026-11-21T16:41:24.443Z",
+      "time": "2026-11-21T17:38:49.829Z",
       "history": [
         {
           "d": "2026-10-22",
@@ -141,21 +141,84 @@
   },
   "news": [
     {
+      "title": "Jair Bolsonaro trata obstrução intestinal na UTI em Brasília",
+      "link": "https://www.poder360.com.br/poder-justica/jair-bolsonaro-trata-obstrucao-intestinal-na-uti-em-brasilia/",
+      "date": "2026-11-21T17:37:20.000Z",
+      "summary": "Ex-presidente está estável, consciente e respira sem aparelhos; equipe médica mantém jejum e sonda gástrica",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lula diz ficar triste com críticas da esquerda ao ajuste fiscal",
+      "link": "https://www.poder360.com.br/poder-governo/lula-diz-ficar-triste-com-criticas-da-esquerda-ao-ajuste-fiscal/",
+      "date": "2026-11-21T17:28:21.000Z",
+      "summary": "Presidente afirmou que críticas se concentraram em cortes que não serão feitos e defendeu a proposta",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Bolsonaro tem obstrução intestinal, quadro estável e segue sem previsão de alta, diz boletim médico",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/21/bolsonaro-tem-obstrucao-intestinal-quadro-estavel-e-segue-sem-previsao-de-alta-diz-boletim-medico.ghtml",
+      "date": "2026-11-21T17:16:23.000Z",
+      "summary": "Médico de Jair Bolsonaro fala sobre internação do ex-presidente O ex-presidente Jair Bolsonaro está internado em unidade de terapia intensiva com o diagnóstico de abdômen agudo obstrutivo, informou o hospital DF Star na tarde deste sábado (21). Ele foi interna",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Votação da PEC da autonomia do BC ficará para 2027",
+      "link": "https://www.poder360.com.br/poder-economia/votacao-da-pec-de-autonomia-do-bc-ficara-para-2027/",
+      "date": "2026-11-21T17:00:56.000Z",
+      "summary": "Para articuladores no Senado e Galípolo, Congresso mais à direita e menor disputa política podem facilitar aprovação",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Diretor de Regulação deve se aposentar do BC, mas permanecer na cúpula",
+      "link": "https://www.poder360.com.br/poder-economia/diretor-de-regulacao-deve-se-aposentar-do-bc-mas-permanecer-na-cupula/",
+      "date": "2026-11-21T17:00:25.000Z",
+      "summary": "Gilneu Vivan pode deixar o funcionalismo público em 2027 e continuar na diretoria, dispensando uma nova indicação de Lula",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Joe Wallach, um dos executivos que participaram da inauguração da Globo, morre aos 103 anos",
+      "link": "https://g1.globo.com/economia/midia-e-marketing/noticia/2026/11/21/joe-wallach-morre-aos-103-anos.ghtml",
+      "date": "2026-11-21T16:56:54.000Z",
+      "summary": "Joe Wallach morre aos 103 anos Joe Wallach, executivo americano que participou da fundação da TV Globo e colaborou com a emissora durante décadas, morreu aos 103 anos. Ele vivia em Los Angeles, na Califórnia (EUA). Wallach chegou ao Brasil em 1965 para partici",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Bitcoin cai para o menor nível em mais de dois anos com derrocada dos mercados globais",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/bitcoin-cai-para-o-menor-nivel-em-mais-de-dois-anos-com-derrocada-dos-mercados-globais.shtml",
+      "date": "2026-11-21T16:44:00.000Z",
+      "summary": "O bitcoin caiu para o nível mais baixo em mais de dois anos. O movimento representa a virada da moeda de \"queridinha\" do mercado cripto, que viu alta após a reeleição do presidente americano Donald Trump, para para vítima da ressaca de uma maré de apostas espe",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Moraes autoriza visitas dos filhos a Bolsonaro durante internação, mas proíbe celulares e câmeras",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/moraes-autoriza-visitas-dos-filhos-a-bolsonaro-durante-internacao-mas-proibe-celulares-e-cameras/",
+      "date": "2026-11-21T16:33:48.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "União Europeia e Indonésia assinam acordo comercial após 10 anos de negociações",
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/uniao-europeia-e-indonesia-assinam-acordo-comercial-apos-10-anos-de-negociacoes.shtml",
       "date": "2026-11-21T16:17:00.000Z",
       "summary": "A UE (União Europeia) e a Indonésia assinaram neste sábado (21) dois acordos: um comercial e um de proteção de investimentos. A assinatura vem após dez anos de tentativas e negociações. Leia mais (11/21/2026 - 13h17)",
       "source": "Folha",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Lula diz que passaria faixa a Flávio se perdesse eleição",
-      "link": "https://www.poder360.com.br/poder-governo/lula-diz-que-passaria-faixa-a-flavio-se-perdesse-eleicao/",
-      "date": "2026-11-21T16:08:55.000Z",
-      "summary": "Presidente afirmou que cumpriria o papel de transferir o cargo ao vencedor e ironizou fuga do adversário para os EUA",
-      "source": "Poder360",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -168,29 +231,11 @@
       "type": "imprensa"
     },
     {
-      "title": "Lula confirma que Janja coordenará cerimônia de posse",
-      "link": "https://www.poder360.com.br/poder-governo/lula-confirma-que-janja-coordenara-cerimonia-de-posse/",
-      "date": "2026-11-21T15:52:53.000Z",
-      "summary": "Presidente fez afirmação em live com Janones neste sábado (21.nov.2026)",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Moraes atende a pedido e autoriza visitas diárias de filhos a Bolsonaro durante a internação",
       "link": "https://g1.globo.com/politica/noticia/2026/11/21/moraes-atende-a-pedido-e-autoriza-visitas-diarias-de-filhos-a-bolsonaro-durante-a-internacao.ghtml",
       "date": "2026-11-21T15:48:34.000Z",
       "summary": "Moraes atende a pedido e autoriza visitas diárias de filhos a Bolsonaro durante internação O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), autorizou que três filhos de Jair Bolsonaro — Carlos, Jair Renan e a filha menor de idade — possam vis",
       "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Lula diz que vai a Niterói agradecer estudantes da UFF na 6ª feira",
-      "link": "https://www.poder360.com.br/poder-governo/lula-diz-que-vai-a-niteroi-agradecer-estudantes-da-uff-na-6a-feira/",
-      "date": "2026-11-21T15:25:30.000Z",
-      "summary": "Presidente também programa visita a Unirio para conhecer projeto de tratamento médico para idosos",
-      "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -210,15 +255,6 @@
       "summary": "O presidente Luiz Inácio Lula da Silva (PT) fez duras críticas ao mercado financeiro neste sábado (21), atacou o que chamou de \"yuppies da Faria Lima\" e afirmou que não aceitará pressões de bancos e investidores sobre a condução da política econômica de seu go",
       "source": "Folha",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Lula diz que faz fono duas vezes ao dia para recuperar a voz",
-      "link": "https://www.poder360.com.br/poder-governo/lula-diz-que-faz-fono-duas-vezes-ao-dia-para-recuperar-a-voz/",
-      "date": "2026-11-21T15:06:29.000Z",
-      "summary": "Em live, presidente volta a reclamar de rouquidão que já dura quase 1 mês e o forçou a cancelar compromissos no exterior",
-      "source": "Poder360",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -276,15 +312,6 @@
       "type": "imprensa"
     },
     {
-      "title": "UE propõe taxar serviços digitais e cortar em 10% orçamento do bloco",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/ue-propoe-taxar-servicos-digitais-e-cortar-em-10-orcamento-do-bloco.shtml",
-      "date": "2026-11-21T14:33:00.000Z",
-      "summary": "O presidente do Conselho Europeu, António Costa, propôs um imposto sobre serviços digitais em toda a União Europeia e reduziu a proposta para o próximo orçamento de sete anos do bloco, na tentativa de obter a concordância dos 27 Estados-membros até o fim deste",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Lula diz que projeto aprovado no Senado não é 'reforma fiscal', mas ajuste para Orçamento de 2027, e critica Faria Lima",
       "link": "https://g1.globo.com/politica/noticia/2026/11/21/lula-diz-que-projeto-aprovado-no-senado-nao-e-reforma-fiscal-mas-ajuste-para-orcamento-de-2027-e-critica-faria-lima.ghtml",
       "date": "2026-11-21T14:27:51.000Z",
@@ -294,10 +321,10 @@
       "type": "imprensa"
     },
     {
-      "title": "Moraes autoriza visita de filhos de Bolsonaro no hospital",
+      "title": "Moraes autoriza visita de filhos de Bolsonaro no hospital; ex-presidente está na UTI",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/defesa-de-bolsonaro-pede-para-moraes-autorizar-visitas-diarias-de-filhos-no-hospital.shtml",
       "date": "2026-11-21T13:59:00.000Z",
-      "summary": "O ministro Alexandre de Moraes, do STF (Supremo Tribunal Federal), atendeu à defesa do ex-presidente Jair Bolsonaro (PL) e autorizou visitas diárias de seus filhos ao hospital em que ele está internado, em Brasília. Leia mais (11/21/2026 - 10h59)",
+      "summary": "O ministro Alexandre de Moraes, do STF (Supremo Tribunal Federal), atendeu à defesa do ex-presidente Jair Bolsonaro (PL) e autorizou neste sábado (21) visitas diárias de seus filhos ao hospital em que ele está internado. Leia mais (11/21/2026 - 10h59)",
       "source": "Folha",
       "cat": "politica",
       "type": "imprensa"
@@ -317,15 +344,6 @@
       "date": "2026-11-21T12:14:12.000Z",
       "summary": "A defesa de Jair Bolsonaro pediu neste sábado (21) ao ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), autorização para que três de seus filhos — Carlos, Jair Renan e a filha menor de idade — possam visitar o ex-presidente diariamente enquanto ",
       "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "A Marísia, Manfred e Andreas, em algum lugar do silêncio",
-      "link": "https://www.estadao.com.br/politica/fernando-schuler/a-marisia-manfred-e-andreas-em-algum-lugar-do-silencio/",
-      "date": "2026-11-21T12:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -389,24 +407,6 @@
       "date": "2026-11-21T09:00:00.000Z",
       "summary": "Apesar das portarias que o governo Lula deve publicar com regras para categorias específicas sobre o fim da escala 6x1, o Senado ainda pretende discutir uma PEC (Proposta de Emenda à Constituição) que regulamente a nova jornada em casos específicos. Leia mais ",
       "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "O que aprendi ao passar 14 anos acompanhando famílias que não saem da pobreza: 'Muito além de decisões pessoais'",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/21/o-que-aprendi-ao-passar-14-anos-acompanhando-familias-que-nao-saem-da-pobreza-muito-alem-de-decisoes-pessoais.ghtml",
-      "date": "2026-11-21T08:00:00.000Z",
-      "summary": "Andrés Ruiz é um jornalista e documentarista colombiano Andrés Ruiz/Arquivo Pessoal via BBC A Colômbia é o país mais desigual da América Latina e um dos mais desiguais do mundo, segundo o índice de Gini do Banco Mundial. Também se sabe, graças a um estudo da O",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "A um mês do recesso, Fachin tenta avançar com agenda de reformas no STF, mas enfrenta resistências",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/21/a-um-mes-do-recesso-fachin-tenta-avancar-com-agenda-de-reformas-no-stf-mas-enfrenta-resistencias.ghtml",
-      "date": "2026-11-21T03:00:00.000Z",
-      "summary": "O presidente do Supremo Tribunal Federal (STF), ministro Edson Fachin, tenta avançar, a um mês do início do recesso, com pautas internas que dividem a Suprema Corte. O STF entra em recesso formalmente no dia 20 de dezembro. São três questões centrais da agenda",
-      "source": "g1",
       "cat": "politica",
       "type": "imprensa"
     },
