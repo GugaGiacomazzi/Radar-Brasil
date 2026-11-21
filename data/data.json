@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-21T10:28:42.997Z",
+  "updated": "2026-11-21T11:26:19.894Z",
   "market": {
     "ibov": {
       "price": 166376.44,
       "pct": -0.69,
-      "time": "2026-11-21T10:28:35.050Z",
+      "time": "2026-11-21T11:26:11.894Z",
       "history": [
         {
           "d": "2026-10-22",
@@ -141,6 +141,69 @@
   },
   "news": [
     {
+      "title": "Copel não ampliará parque eólico até resolução do curtailment, diz CEO",
+      "link": "https://www.poder360.com.br/poder-energia/copel-nao-ampliara-parque-eolico-ate-resolucao-do-curtailment-diz-ceo/",
+      "date": "2026-11-21T11:00:23.000Z",
+      "summary": "Daniel Slaviero afirma que incertezas sobre os cortes de geração dificultam a projeção de receitas e a viabilidade de novos investimentos na fonte",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "'Decisões no mundo corporativo são tomadas onde mulheres pretas não estão', diz especialista",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/decisoes-no-mundo-corporativo-sao-tomadas-onde-mulheres-pretas-nao-estao-diz-especialista.shtml",
+      "date": "2026-11-21T11:00:00.000Z",
+      "summary": "Para Luana Génot, CEO do ID_BR, instituto que treina lideranças com foco na equidade racial e acelera carreiras de profissionais negros, a dimensão social é o principal entrave para a entrada de mulheres negras e outras minorias em cargos executivos. Leia mais",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Ações de tecnologia dos EUA desabam na pior semana desde a crise da Covid-19",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/acoes-de-tecnologia-dos-eua-desabam-na-pior-semana-desde-a-crise-da-covid-19.shtml",
+      "date": "2026-11-21T11:00:00.000Z",
+      "summary": "As ações de tecnologia dos EUA despencaram na pior semana desde que a pandemia de Covid-19 abalou a economia global. O movimento ocorreu em meio a temores de desaceleração do boom de investimentos em inteligência artificial (IA), que desencadearam uma onda de ",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Carlos Bolsonaro posta foto do pai internado: “Jamais o vi assim”",
+      "link": "https://www.poder360.com.br/poder-justica/carlos-bolsonaro-posta-foto-do-pai-internado-jamais-o-vi-assim/",
+      "date": "2026-11-21T10:38:28.000Z",
+      "summary": "Internado por obstrução intestinal, Jair passará por novos exames e pode precisar de outra cirurgia, segundo filho do ex-presidente",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Megaprisões na América Latina: solução ou problema?",
+      "link": "https://www.dw.com/pt-br/megaprisões-na-américa-latina-solução-ou-problema/a-80005196?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-21T10:32:00.000Z",
+      "summary": "Presídio de segurança máxima com capacidade para até 40 mil detentos é um dos maiores trunfos do presidente de El Salvador. Para especialistas, porém, modelo tem mais impacto simbólico do que na redução da criminalidade.",
+      "source": "DW Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Jair Bolsonaro faz limpeza com sonda e nova cirurgia pode ser avaliada, diz Carlos",
+      "link": "https://www.estadao.com.br/politica/jair-bolsonaro-faz-limpeza-com-sonda-diz-carlos-npr/",
+      "date": "2026-11-21T10:28:18.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Ataques cibernéticos, IA ou atualizações pendentes: o que há por trás da onda de apagões dos últimos dias",
+      "link": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/11/21/ataques-ciberneticos-ia-ou-atualizacoes-pendentes-o-que-ha-por-tras-da-onda-de-apagoes-dos-ultimos-dias.ghtml",
+      "date": "2026-11-21T10:27:04.000Z",
+      "summary": "Interrupções de serviços e falhas de informática são comuns, mas não a esta escala. Na última semana, a Microsoft sofreu uma interrupção em massa dos seus serviços. Uma aparente falha técnica causou a suspensão de todos os voos nos Estados Unidos por horas. E ",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "Sequestro de crianças como arma de guerra: Putin e o legado de Hitler",
       "link": "https://www.dw.com/pt-br/sequestro-de-crianças-como-arma-de-guerra-putin-e-o-legado-de-hitler/a-80007486?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-21T10:11:00.000Z",
@@ -168,30 +231,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Senado aprova regras de qualidade e segurança para implantes cirúrgicos",
-      "link": "https://www.poder360.com.br/poder-congresso/senado-aprova-regras-de-qualidade-e-seguranca-para-implantes-cirurgicos/",
-      "date": "2026-11-21T09:15:38.000Z",
-      "summary": "Proposta obriga a Anvisa a autorizar a produção e a comercialização dos dispositivos e amplia o controle sobre falhas",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Como governos Lula e Trump pretendem acabar com a 'guerra fria dos vistos diplomáticos'",
       "link": "https://www.bbc.com/portuguese/articles/cwz0k3r4npexo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-21T09:01:48.000Z",
       "summary": "De um lado, EUA querem liberação para indicado de Trump atue como embaixador no Brasil. Do outro, governo Lula quer normalização de visto de embaixadora em Washington",
       "source": "BBC News Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Brasil corre contra o tempo para não perder único satélite de defesa",
-      "link": "https://www.poder360.com.br/poder-infra/brasil-corre-contra-o-tempo-para-nao-perder-unico-satelite-de-defesa/",
-      "date": "2026-11-21T09:00:28.000Z",
-      "summary": "Governo tem aproximadamente 6 anos para substituir sua única sonda capaz de atender a demanda de comunicação crítica",
-      "source": "Poder360",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -276,29 +321,20 @@
       "type": "imprensa"
     },
     {
+      "title": "'GTA 6' arrecada US$ 3,79 bilhões no lançamento e quebra recorde de faturamento",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/tec/2026/11/gta-6-arrecada-us-379-bilhoes-no-lancamento-e-quebra-recorde-de-faturamento.shtml",
+      "date": "2026-11-21T07:00:00.000Z",
+      "summary": "A Rockstar anunciou que \"GTA 6\" arrecadou US$ 3,79 bilhões (R$ 22,48 bilhões) no dia de seu lançamento, na quinta-feira (19), e estabeleceu um novo recorde de faturamento para a estreia de um jogo de videogame. O recorde anterior pertencia ao antecessor da fra",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "CEOs que cometem adultério são perigosos para as empresas",
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/ceos-que-cometem-adulterio-sao-perigosos-para-as-empresas.shtml",
       "date": "2026-11-21T07:00:00.000Z",
       "summary": "Um dos homens mais ricos e poderosos do mundo acaba de perder o emprego por causa não de um, nem dois, mas três casos extraconjugais (que saibamos). O fim dos 33 anos de Jensen Huang à frente da Nvidia tem implicações de grande alcance para a segurança naciona",
       "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Boeing não descarta novas demissões em meio a atraso na produção do 737 MAX",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/boeing-nao-descarta-novas-demissoes-em-meio-a-atraso-na-producao-do-737-max.shtml",
-      "date": "2026-11-21T07:00:00.000Z",
-      "summary": "A Boeing se recusou a informar se pretende realizar novas demissões em massa após a próxima rodada de cortes, prevista para 9 de dezembro. A declaração foi dada na quinta-feira (19), após questionamento de um dos maiores sindicatos da empresa. Leia mais (11/21",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Dos algoritmos ao aroma: como a IA está mudando a criação de perfumes",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/21/dos-algoritmos-ao-aroma-como-a-ia-esta-mudando-a-criacao-de-perfumes.ghtml",
-      "date": "2026-11-21T06:00:01.000Z",
-      "summary": "Mulher passando perfume. Ron Lach/Pexels Pode haver um toque de bergamota nas notas de saída, seguido por uma íris adocicada, mas, segundo especialistas do setor, uma dose notável de inteligência artificial (IA) está surgindo nos novos perfumes. O tradicional ",
-      "source": "g1",
       "cat": "economia",
       "type": "imprensa"
     },
@@ -318,24 +354,6 @@
       "summary": "A Abin (Agência Brasileira de Inteligência) contratou um passeio de barco ao pôr do sol em Cabedelo, na Paraíba, com comida e bebida, para 120 participantes de um fórum internacional de inteligência. O contrato de R$ 44 mil com a Roger Turismo foi assinado na ",
       "source": "Folha",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Financial Times elege os melhores livros de negócios de 2026; veja a lista",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/financial-times-elege-os-melhores-livros-de-negocios-de-2026-veja-a-lista.shtml",
-      "date": "2026-11-21T02:00:00.000Z",
-      "summary": "O Financial Times elaborou uma lista com os melhores livros de negócios lançados neste ano. As obras passam por temas como inteligência artificial, canetas emagrecedoras, mercado de ações e a história da família Murdoch. Leia mais (11/20/2026 - 23h00)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Equipe econômica vai levar a Lula nomes para substituir presidente do Banco do Brasil",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/equipe-economica-vai-levar-a-lula-nomes-para-substituir-presidente-do-banco-do-brasil.shtml",
-      "date": "2026-11-21T02:00:00.000Z",
-      "summary": "Integrantes da equipe econômica começaram a discutir nomes para levar ao presidente Luiz Inácio Lula da Silva (PT) como sugestão para trocar o comando do Banco do Brasil. Leia mais (11/20/2026 - 23h00)",
-      "source": "Folha",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -393,15 +411,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Gilmar diz ‘não ver problema’ em abertura de sigilo sobre relatório de ministros do STF e Master",
-      "link": "https://www.estadao.com.br/politica/gilmar-diz-nao-ver-problema-em-abertura-de-sigilo-sobre-relatorio-de-ministros-do-stf-e-master/",
-      "date": "2026-11-20T22:00:14.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Trump diz que Filipinas trocarão produtos agrícolas do Brasil pelos dos EUA",
       "link": "https://www.dw.com/pt-br/trump-diz-que-filipinas-trocarão-produtos-agrícolas-do-brasil-pelos-dos-eua/a-80007345?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-20T21:16:00.000Z",
@@ -451,15 +460,6 @@
       "link": "https://www.dw.com/pt-br/diferença-salarial-na-ue-mulheres-trabalharão-de-graça-até-o-fim-do-ano/a-80005998?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-20T18:22:00.000Z",
       "summary": "Diferença média de remuneração entre homens e mulheres na UE é de 11,1%; Alemanha registra índice ainda maior e é cobrada por atrasar regras de transparência salarial.",
-      "source": "DW Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Tusk vê provocação russa após queda de mísseis na Polônia e critica reação dos EUA",
-      "link": "https://www.dw.com/pt-br/tusk-vê-provocação-russa-após-queda-de-mísseis-na-polônia-e-critica-reação-dos-eua/a-80005937?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-20T17:56:00.000Z",
-      "summary": "Premiê polonês diz que dois mísseis e um drone russos atingiram o país de forma deliberada, perto de exercícios militares da Otan; Washington adotou tom cauteloso e evitou falar em provocação.",
       "source": "DW Brasil",
       "cat": "internacional",
       "type": "imprensa"
