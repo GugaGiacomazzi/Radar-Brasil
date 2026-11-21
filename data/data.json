@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-21T04:15:56.788Z",
+  "updated": "2026-11-21T05:17:45.766Z",
   "market": {
     "ibov": {
       "price": 166376.44,
       "pct": -0.69,
-      "time": "2026-11-21T04:15:48.938Z",
+      "time": "2026-11-21T05:17:40.136Z",
       "history": [
         {
           "d": "2026-10-22",
@@ -141,6 +141,33 @@
   },
   "news": [
     {
+      "title": "Como uma crise do café no Brasil abalou a Alemanha Oriental e fez do Vietnã uma potência",
+      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/21/como-uma-crise-do-cafe-no-brasil-abalou-a-alemanha-oriental-e-fez-do-vietna-uma-potencia.ghtml",
+      "date": "2026-11-21T05:07:02.000Z",
+      "summary": "Café. Rei do Café Na segunda metade dos anos 1970, o hábito de tomar café era rotina na República Democrática da Alemanha (RDA), como era chamada a antiga Alemanha Oriental comunista. Trabalhadores, burocratas, militares, agentes do regime, estudantes: o hábit",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Acerola na carne? Veja como a fruta virou conservante natural de alimentos nos EUA e na Europa",
+      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/21/acerola-na-carne-veja-como-a-fruta-virou-conservante-natural-de-alimentos-nos-eua-e-na-europa.ghtml",
+      "date": "2026-11-21T05:06:59.000Z",
+      "summary": "Acerola na carne? Veja como a fruta virou conservante natural de alimentos A acerola ganhou uma função inesperada: ajudar a conservar a carne por mais tempo. A fruta, transformada em pó, passou a ser exportada para os Estados Unidos e a Europa, onde é usada pa",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Comprar ou alugar? Veja o que considerar antes de decidir onde (e como) morar",
+      "link": "https://g1.globo.com/g1-explica/noticia/2026/11/21/comprar-ou-alugar-veja-o-que-considerar-antes-de-decidir-onde-e-como-morar.ghtml",
+      "date": "2026-11-21T05:00:00.000Z",
+      "summary": "Vale a pena ter casa própria? Comprar ou alugar um imóvel depende da situação financeira e dos planos de cada pessoa. A casa própria traz segurança e, ao fim do financiamento, deixa um patrimônio para o proprietário. O aluguel oferece mais flexibilidade e perm",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "Moraes vota para tornar Van Hattem réu por críticas a seu assessor",
       "link": "https://www.poder360.com.br/poder-justica/moraes-vota-para-tornar-van-hattem-reu-por-criticas-a-seu-assessor/",
       "date": "2026-11-21T04:10:40.000Z",
@@ -258,15 +285,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Juros nos EUA e ajuste fiscal no Brasil: o que está por trás da disparada do dólar",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/20/juros-nos-eua-e-ajuste-fiscal-no-brasil-o-que-esta-por-tras-da-disparada-do-dolar.ghtml",
-      "date": "2026-11-21T01:01:51.000Z",
-      "summary": "Real está entre as moedas que mais perderam valor diante do dólar Nas últimas semanas, o movimento de alta do dólar em todo o planeta tem pressionado com mais força o real. Por trás dessa alta, estão fatores globais e questões da economia brasileira. 📱Favorit",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Contratos de 2027 são assinados antes da alíquota da CBS",
       "link": "https://www.estadao.com.br/economia/contratos-2027-assinados-antes-aliquota-cbs/",
       "date": "2026-11-21T01:00:00.000Z",
@@ -308,24 +326,6 @@
       "date": "2026-11-21T00:01:32.000Z",
       "summary": "",
       "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Conmebol admite ter R$ 88 milhões aplicados no Ueno, banco paraguaio que quebrou após crise",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/20/conmebol-recursos-banco-ueno.ghtml",
-      "date": "2026-11-20T23:29:32.000Z",
-      "summary": "Vista aérea mostra a sede do Ueno Bank, em Assunção, no Paraguai. Reuters A Conmebol (Confederação Sul-Americana de Futebol) admitiu nesta sexta-feira (20) ter US$ 15 milhões (cerca de R$ 88 milhões) aplicados no Ueno Bank, banco paraguaio que quebrou após uma",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Ações da Anthropic caem 8,5% um dia após estreia histórica na bolsa dos EUA",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/20/acoes-anthropic.ghtml",
-      "date": "2026-11-20T22:34:15.000Z",
-      "summary": "Placa da Anthropic , PBC (ANT) no One Times Square no dia em que a Anthropic realiza sua oferta pública inicial (IPO) na NASDAQ Market, em Nova York, EUA, em 19 de novembro de 2026 REUTERS/Shannon Stapleton As ações da Anthropic, criadora do chatbot de intelig",
-      "source": "g1",
       "cat": "economia",
       "type": "imprensa"
     },
