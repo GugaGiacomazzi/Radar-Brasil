@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-21T02:11:29.292Z",
+  "updated": "2026-11-21T03:07:28.324Z",
   "market": {
     "ibov": {
       "price": 166376.44,
       "pct": -0.69,
-      "time": "2026-11-21T02:11:22.892Z",
+      "time": "2026-11-21T03:07:21.125Z",
       "history": [
         {
           "d": "2026-10-22",
@@ -140,6 +140,15 @@
     ]
   },
   "news": [
+    {
+      "title": "A um mês do recesso, Fachin tenta avançar com agenda de reformas no STF, mas enfrenta resistências",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/21/a-um-mes-do-recesso-fachin-tenta-avancar-com-agenda-de-reformas-no-stf-mas-enfrenta-resistencias.ghtml",
+      "date": "2026-11-21T03:00:00.000Z",
+      "summary": "O presidente do Supremo Tribunal Federal (STF), ministro Edson Fachin, tenta avançar, a um mês do início do recesso, com pautas internas que dividem a Suprema Corte. O STF entra em recesso formalmente no dia 20 de dezembro. São três questões centrais da agenda",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
     {
       "title": "Abin contrata passeio de barco ao pôr do sol e divulga data e local",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/abin-contrata-passeio-de-barco-ao-por-do-sol-e-divulga-data-e-local.shtml",
@@ -300,15 +309,6 @@
       "summary": "",
       "source": "Estadão",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Gilmar Mendes diz não ver problema em abertura de sigilo de relatório sobre ministros, mas que medida não resolve questão",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/20/gilmar-mendes-diz-nao-ver-problema-em-abertura-de-sigilo-de-relatorio-da-pf-sobre-outros-ministros-do-supremo.ghtml",
-      "date": "2026-11-20T23:56:40.000Z",
-      "summary": "O ministro Gilmar Mendes, do Supremo Tribunal Federal (STF), afirmou nesta sexta-feira (20) não ver problema na abertura do sigilo do relatório da Polícia Federal sobre outros ministros do Supremo mencionados ou que trocaram mensagens com o ex-banqueiro Daniel",
-      "source": "g1",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
