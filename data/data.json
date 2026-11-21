@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-21T14:47:06.588Z",
+  "updated": "2026-11-21T15:41:41.665Z",
   "market": {
     "ibov": {
       "price": 166376.44,
       "pct": -0.69,
-      "time": "2026-11-21T14:46:58.921Z",
+      "time": "2026-11-21T15:41:36.885Z",
       "history": [
         {
           "d": "2026-10-22",
@@ -141,6 +141,96 @@
   },
   "news": [
     {
+      "title": "Lula diz que vai a Niterói agradecer estudantes da UFF na 6ª feira",
+      "link": "https://www.poder360.com.br/poder-governo/lula-diz-que-vai-a-niteroi-agradecer-estudantes-da-uff-na-6a-feira/",
+      "date": "2026-11-21T15:25:30.000Z",
+      "summary": "Presidente também programa visita a Unirio para conhecer projeto de tratamento médico para idosos",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Abeeólica vai ao STF contra regra que define quem paga por baterias em leilões",
+      "link": "https://www.estadao.com.br/economia/abeeolica-vai-ao-stf-contra-regra-de-custeio-de-baterias-a-serem-contratadas-em-leilao/",
+      "date": "2026-11-21T15:14:56.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lula ataca 'yuppies da Faria Lima' e diz que mercado financeiro não vai ensiná-lo a governar",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/lula-ataca-yuppies-da-faria-lima-e-diz-que-mercado-financeiro-nao-vai-ensina-lo-a-governar.shtml",
+      "date": "2026-11-21T15:14:00.000Z",
+      "summary": "O presidente Luiz Inácio Lula da Silva (PT) fez duras críticas ao mercado financeiro neste sábado (21), atacou o que chamou de \"yuppies da Faria Lima\" e afirmou que não aceitará pressões de bancos e investidores sobre a condução da política econômica de seu go",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lula diz que faz fono duas vezes ao dia para recuperar a voz",
+      "link": "https://www.poder360.com.br/poder-governo/lula-diz-que-faz-fono-duas-vezes-ao-dia-para-recuperar-a-voz/",
+      "date": "2026-11-21T15:06:29.000Z",
+      "summary": "Em live, presidente volta a reclamar de rouquidão que já dura quase 1 mês e o forçou a cancelar compromissos no exterior",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Gonet analisa relatórios sobre ministros do STF pressionado por sua relação com Vorcaro",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/gonet-analisa-relatorios-sobre-ministros-do-stf-pressionado-por-sua-relacao-com-vorcaro.shtml",
+      "date": "2026-11-21T15:00:00.000Z",
+      "summary": "O procurador-geral da República, Paulo Gonet, faz parte da coordenação do núcleo que analisa os relatórios da Polícia Federal sobre menções a ministros do STF (Supremo Tribunal Federal) no caso Master, enquanto ele próprio é questionado sobre sua relação com o",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Três Poderes: 'supersecretária' de Tarcísio é a vencedora da semana; Enel, a perdedora",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/tres-poderes-supersecretaria-de-tarcisio-e-a-vencedora-da-semana-enel-a-perdedora.shtml",
+      "date": "2026-11-21T15:00:00.000Z",
+      "summary": "Vencedora da semana: Natália Resende, chamada de 'supersecretária' do governo Tarcísio, que ganhou poderes em uma nova pasta do Planejamento e começa a ser vista como uma possível candidata futuramente. Leia mais (11/21/2026 - 12h00)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Embate na esquerda sobre ajuste fiscal lembra disputa que deu origem ao PSOL em 2003",
+      "link": "https://www.estadao.com.br/politica/voce-sabia-curiosidades-politica/embate-na-esquerda-sobre-ajuste-fiscal-lembra-disputa-que-deu-origem-ao-psol-em-2003/",
+      "date": "2026-11-21T15:00:00.000Z",
+      "summary": "O texto aborda o racha na esquerda provocado pelo ajuste fiscal do governo Lula (2026), comparando as divergências atuais com a crise interna do PT vivido em 2003, durante a Reforma da Previdência que resultou. Na expulsão de quatro integrantes do PT.",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Travessias hídricas em SP: Concessionária inicia transição e inclui Pix nas formas de pagamento",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/travessias-hidricas-em-sp-concessionaria-inicia-transicao-e-inclui-pix-nas-formas-de-pagamento/",
+      "date": "2026-11-21T15:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lula defende pacote fiscal do governo: ‘Não é o sistema financeiro que me ensinará a dirigir o País’",
+      "link": "https://www.estadao.com.br/economia/lula-faz-live-com-janones-no-feriado-de-consciencia-negra-npr/",
+      "date": "2026-11-21T14:39:11.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Matemático da Anthropic afirma ter resolvido o problema mais famoso da matemática",
+      "link": "https://www.estadao.com.br/economia/matematico-da-anthropic-afirma-ter-resolvido-o-problema-mais-famoso-da-matematica/",
+      "date": "2026-11-21T14:38:23.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "UE propõe taxar serviços digitais e cortar em 10% orçamento do bloco",
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/ue-propoe-taxar-servicos-digitais-e-cortar-em-10-orcamento-do-bloco.shtml",
       "date": "2026-11-21T14:33:00.000Z",
@@ -150,7 +240,7 @@
       "type": "imprensa"
     },
     {
-      "title": "Lula diz que projeto aprovado no Senado não é 'reforma fiscal', mas ajuste para Orçamento de 2027 e critica Faria Lima",
+      "title": "Lula diz que projeto aprovado no Senado não é 'reforma fiscal', mas ajuste para Orçamento de 2027, e critica Faria Lima",
       "link": "https://g1.globo.com/politica/noticia/2026/11/21/lula-diz-que-projeto-aprovado-no-senado-nao-e-reforma-fiscal-mas-ajuste-para-orcamento-de-2027-e-critica-faria-lima.ghtml",
       "date": "2026-11-21T14:27:51.000Z",
       "summary": "O presidente Luiz Inácio Lula da Silva (PT) afirmou neste sábado (21) que o projeto fiscal aprovado pelo Senado nesta semana não é uma \"reforma\", mas um \"ajuste\" orçamentário para o ano de 2027. O petista deu as declarações durante uma live com o deputado fede",
@@ -204,33 +294,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Ao vivo: Lula faz live com Janones neste sábado",
-      "link": "https://www.poder360.com.br/poder-governo/ao-vivo-lula-faz-live-com-janones-neste-sabado/",
-      "date": "2026-11-21T13:00:37.000Z",
-      "summary": "Presidente diz que live será para explicar ações desde a vitória eleitoral e apresentar planos para o futuro",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "The Economist: Brasil lidera corrida da América Latina para virar polo global de data centers",
-      "link": "https://www.estadao.com.br/economia/the-economist-brasil-lidera-corrida-da-america-latina-para-virar-polo-global-de-data-centers/",
-      "date": "2026-11-21T13:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Engajamento de Flávio no Instagram cai 81% em 10 dias",
-      "link": "https://www.poder360.com.br/poder-tech/engajamento-de-flavio-no-instagram-cai-81-em-10-dias/",
-      "date": "2026-11-21T12:36:37.000Z",
-      "summary": "Menções favoráveis ao senador recuaram de 76% para 51,3% nas redes sociais, mostra levantamento da Ativaweb DataLab",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Reforma tributária exige notas fiscais de locação, voos e imóveis em 2027",
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/reforma-tributaria-exige-notas-fiscais-de-locacao-voos-e-imoveis-em-2027.shtml",
       "date": "2026-11-21T12:27:00.000Z",
@@ -263,15 +326,6 @@
       "date": "2026-11-21T11:26:05.000Z",
       "summary": "Bandeiras da União Europeia Stephanie Lecocq/Reuters A União Europeia apresentou neste sábado (21) uma proposta para o orçamento de longo prazo do bloco, que valerá de 2028 a 2034. Entre as medidas previstas está a criação de uma cobrança anual sobre receitas ",
       "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "'Decisões no mundo corporativo são tomadas onde mulheres pretas não estão', diz especialista",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/decisoes-no-mundo-corporativo-sao-tomadas-onde-mulheres-pretas-nao-estao-diz-especialista.shtml",
-      "date": "2026-11-21T11:00:00.000Z",
-      "summary": "Para Luana Génot, CEO do ID_BR, instituto que treina lideranças com foco na equidade racial e acelera carreiras de profissionais negros, a dimensão social é o principal entrave para a entrada de mulheres negras e outras minorias em cargos executivos. Leia mais",
-      "source": "Folha",
       "cat": "economia",
       "type": "imprensa"
     },
@@ -330,48 +384,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Mello Araújo, Erika Hilton, Tabata, Salles e Kim: direita e esquerda se dividem para 2028 em SP",
-      "link": "https://www.estadao.com.br/politica/mello-araujo-erika-hilton-tabata-salles-e-kim-direita-e-esquerda-se-dividem-para-2028-em-sp/",
-      "date": "2026-11-21T08:30:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Bancos veem instabilidade com indefinição de Lula sobre sanção da renegociação de dívidas rurais",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/bancos-veem-instabilidade-com-indefinicao-de-lula-sobre-sancao-da-renegociacao-de-dividas-rurais/",
-      "date": "2026-11-21T08:30:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "O que aprendi ao passar 14 anos acompanhando famílias que não saem da pobreza: 'Muito além de decisões pessoais'",
       "link": "https://g1.globo.com/economia/noticia/2026/11/21/o-que-aprendi-ao-passar-14-anos-acompanhando-familias-que-nao-saem-da-pobreza-muito-alem-de-decisoes-pessoais.ghtml",
       "date": "2026-11-21T08:00:00.000Z",
       "summary": "Andrés Ruiz é um jornalista e documentarista colombiano Andrés Ruiz/Arquivo Pessoal via BBC A Colômbia é o país mais desigual da América Latina e um dos mais desiguais do mundo, segundo o índice de Gini do Banco Mundial. Também se sabe, graças a um estudo da O",
       "source": "g1",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Comissão do PT que organiza posse de Lula avalia transferir gastos de festival para governo e criar feriado",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/comissao-do-pt-que-organiza-posse-de-lula-avalia-transferir-gastos-de-festival-para-governo-e-criar-feriado.shtml",
-      "date": "2026-11-21T07:00:00.000Z",
-      "summary": "Uma comissão do PT que está trabalhando na organização da posse do presidente Lula planeja transferir para o governo federal os gastos com a estrutura do festival musical que deseja realizar na data, diferentemente do que ocorreu em 2023. Leia mais (11/21/2026",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Câmara envia ao Senado projeto que revoga Lei de Alienação Parental",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/camara-envia-ao-senado-projeto-que-revoga-lei-de-alienacao-parental.shtml",
-      "date": "2026-11-21T07:00:00.000Z",
-      "summary": "Esta é a edição da newsletter Todas. Quer recebê-la toda semana no seu email? Inscreva-se abaixo: Leia mais (11/21/2026 - 04h00)",
-      "source": "Folha",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -393,15 +411,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Tribunal aprova acordo de US$ 7,25 bi com Bayer por acusação de câncer ligado a herbicida",
-      "link": "https://www.estadao.com.br/economia/tribunal-aprova-acordo-de-us-725-bi-com-bayer-por-acusacao-de-cancer-ligado-a-herbicida/",
-      "date": "2026-11-21T00:01:32.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Trump diz que Filipinas trocarão produtos agrícolas do Brasil pelos dos EUA",
       "link": "https://www.dw.com/pt-br/trump-diz-que-filipinas-trocarão-produtos-agrícolas-do-brasil-pelos-dos-eua/a-80007345?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-20T21:16:00.000Z",
@@ -416,15 +425,6 @@
       "date": "2026-11-20T21:15:00.000Z",
       "summary": "Manifestações também reúnem trabalhadores e tem como principais bandeiras mais investimentos em educação, contra o aumento no custo de vida e, principalmente na Alemanha, contra o serviço militar obrigatório.",
       "source": "DW Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Míssil russo atinge a Polônia e primeiro-ministro fala em 'provocação'",
-      "link": "https://www.bbc.com/portuguese/articles/c699en8vvy34o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-20T19:59:14.000Z",
-      "summary": "Artefafos caíram no país um dia antes da visita do secretário-geral da Otan, Mark Rutt, a Varsóvia; ministros da Defesa da Coalizão dos Dispostos visitaram local",
-      "source": "BBC News Brasil",
       "cat": "internacional",
       "type": "imprensa"
     },
@@ -589,15 +589,6 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Qual país tem a maior carga tributária do mundo? Brasil pode chegar ao topo até 2050",
-      "link": "https://www.estadao.com.br/economia/pedro-fernando-nery/qual-pais-tem-a-maior-carga-tributaria-do-mundo/",
-      "date": "2026-11-19T20:03:29.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
     },
     {
       "title": "BC publica Pesquisa Trimestral de Condições de Crédito (PTC)",
