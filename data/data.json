@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-21T19:28:46.414Z",
+  "updated": "2026-11-21T20:23:07.823Z",
   "market": {
     "ibov": {
       "price": 166376.44,
       "pct": -0.69,
-      "time": "2026-11-21T19:28:40.621Z",
+      "time": "2026-11-21T20:23:00.825Z",
       "history": [
         {
           "d": "2026-10-22",
@@ -141,6 +141,24 @@
   },
   "news": [
     {
+      "title": "Alice Huang, caso de ex-CEO da Nvidia, conectava empresas e abastecia mercado clandestino de chips",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/alice-huang-caso-de-ex-ceo-da-nvidia-conectava-empresas-e-abastecia-mercado-clandestino-de-chips.shtml",
+      "date": "2026-11-21T20:16:00.000Z",
+      "summary": "A executiva chinesa que mantinha relacionamento amoroso com Jensen Huang, ex-CEO da Nvidia, tinha vínculos com o lucrativo comércio de chips para a China. Leia mais (11/21/2026 - 17h16)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Radicais de direita e esquerda se unem nos equívocos",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/dora-kramer/2026/11/radicais-de-direita-e-esquerda-se-unem-nos-equivocos.shtml",
+      "date": "2026-11-21T19:45:00.000Z",
+      "summary": "Radicais de modo geral se equivocam mais ou menos da mesma maneira, independentemente do espectro ideológico a que pertençam. Leia mais (11/21/2026 - 16h45)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "Como a esquerda lidará com as consequências políticas da economia que propõe?",
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2026/11/como-a-esquerda-lidara-com-as-consequencias-politicas-da-economia-que-propoe.shtml",
       "date": "2026-11-21T19:25:00.000Z",
@@ -258,15 +276,6 @@
       "type": "imprensa"
     },
     {
-      "title": "União Europeia e Indonésia assinam acordo comercial após 10 anos de negociações",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/uniao-europeia-e-indonesia-assinam-acordo-comercial-apos-10-anos-de-negociacoes.shtml",
-      "date": "2026-11-21T16:17:00.000Z",
-      "summary": "A UE (União Europeia) e a Indonésia assinaram neste sábado (21) dois acordos: um comercial e um de proteção de investimentos. A assinatura vem após dez anos de tentativas e negociações. Leia mais (11/21/2026 - 13h17)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Moraes atende a pedido e autoriza visitas diárias de filhos a Bolsonaro durante a internação",
       "link": "https://g1.globo.com/politica/noticia/2026/11/21/moraes-atende-a-pedido-e-autoriza-visitas-diarias-de-filhos-a-bolsonaro-durante-a-internacao.ghtml",
       "date": "2026-11-21T15:48:34.000Z",
@@ -344,15 +353,6 @@
       "date": "2026-11-21T14:27:51.000Z",
       "summary": "Lula critica aliados que se opuseram ao ajuste O presidente Luiz Inácio Lula da Silva (PT) afirmou neste sábado (21) que o projeto fiscal aprovado pelo Senado nesta semana não é uma \"reforma\", mas um \"ajuste\" orçamentário para o ano de 2027. O petista deu as d",
       "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Moraes autoriza visita de filhos de Bolsonaro no hospital; ex-presidente está na UTI",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/defesa-de-bolsonaro-pede-para-moraes-autorizar-visitas-diarias-de-filhos-no-hospital.shtml",
-      "date": "2026-11-21T13:59:00.000Z",
-      "summary": "O ministro Alexandre de Moraes, do STF (Supremo Tribunal Federal), atendeu à defesa do ex-presidente Jair Bolsonaro (PL) e autorizou neste sábado (21) visitas diárias de seus filhos ao hospital em que ele está internado. Leia mais (11/21/2026 - 10h59)",
-      "source": "Folha",
       "cat": "politica",
       "type": "imprensa"
     },
