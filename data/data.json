@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-21T11:26:19.894Z",
+  "updated": "2026-11-21T12:26:31.497Z",
   "market": {
     "ibov": {
       "price": 166376.44,
       "pct": -0.69,
-      "time": "2026-11-21T11:26:11.894Z",
+      "time": "2026-11-21T12:26:25.649Z",
       "history": [
         {
           "d": "2026-10-22",
@@ -141,6 +141,42 @@
   },
   "news": [
     {
+      "title": "Defesa de Bolsonaro pede a Moraes autorização para visitas diárias de filhos durante internação",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/21/defesa-de-bolsonaro-pede-a-moraes-autorizacao-para-visitas-diarias-de-filhos-durante-internacao.ghtml",
+      "date": "2026-11-21T12:14:12.000Z",
+      "summary": "",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Projeto proíbe devedores de pensão alimentícia de apostar em bets",
+      "link": "https://www.poder360.com.br/poder-congresso/projeto-proibe-devedores-de-pensao-alimenticia-de-apostar-em-bets/",
+      "date": "2026-11-21T12:00:53.000Z",
+      "summary": "Proposta restringe acesso a plataformas de apostas enquanto houver dívida vencida e não quitada em execução judicial",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "A Marísia, Manfred e Andreas, em algum lugar do silêncio",
+      "link": "https://www.estadao.com.br/politica/fernando-schuler/a-marisia-manfred-e-andreas-em-algum-lugar-do-silencio/",
+      "date": "2026-11-21T12:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "União Europeia propõe taxar big techs para financiar orçamento até 2034",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/21/uniao-europeia-propoe-taxar-big-techs-para-financiar-orcamento-ate-2034.ghtml",
+      "date": "2026-11-21T11:26:05.000Z",
+      "summary": "Bandeiras da União Europeia Stephanie Lecocq/Reuters A União Europeia apresentou neste sábado (21) uma proposta para o orçamento de longo prazo do bloco, que valerá de 2028 a 2034. Entre as medidas previstas está a criação de uma cobrança anual sobre receitas ",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "Copel não ampliará parque eólico até resolução do curtailment, diz CEO",
       "link": "https://www.poder360.com.br/poder-energia/copel-nao-ampliara-parque-eolico-ate-resolucao-do-curtailment-diz-ceo/",
       "date": "2026-11-21T11:00:23.000Z",
@@ -222,15 +258,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Cid Gomes promete relatório do Novo Desenrola para dezembro",
-      "link": "https://www.poder360.com.br/poder-congresso/cid-gomes-promete-relatorio-do-novo-desenrola-para-dezembro/",
-      "date": "2026-11-21T09:45:49.000Z",
-      "summary": "Medida autoriza a União a comprar até R$ 15 bilhões em dívidas de pessoas físicas inadimplentes",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Como governos Lula e Trump pretendem acabar com a 'guerra fria dos vistos diplomáticos'",
       "link": "https://www.bbc.com/portuguese/articles/cwz0k3r4npexo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-21T09:01:48.000Z",
@@ -294,15 +321,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Por que o México arrecada tão poucos impostos (e como financia seus crescentes benefícios sociais)",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/21/por-que-o-mexico-arrecada-tao-poucos-impostos-e-como-financia-seus-crescentes-beneficios-sociais.ghtml",
-      "date": "2026-11-21T07:04:03.000Z",
-      "summary": "Por que o México arrecada tão poucos impostos (e como financia seus crescentes benefícios sociais) Getty Images via BBC Uma das ferramentas mais antigas da gestão pública. Seu propósito é garantir serviços de luz, água ou ordem pública. Mas, no México, ele é c",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Comissão do PT que organiza posse de Lula avalia transferir gastos de festival para governo e criar feriado",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/comissao-do-pt-que-organiza-posse-de-lula-avalia-transferir-gastos-de-festival-para-governo-e-criar-feriado.shtml",
       "date": "2026-11-21T07:00:00.000Z",
@@ -360,7 +378,7 @@
       "title": "PF prende no DF suspeita de integrar esquema de falsos investimentos que movimentou mais de R$ 600 milhões no PI",
       "link": "https://g1.globo.com/politica/noticia/2026/11/20/pf-prende-suspeita-de-integrar-esquema-de-falsos-investimentos-que-movimentou-mais-de-r-600-milhoes-no-pi.ghtml",
       "date": "2026-11-21T01:50:53.000Z",
-      "summary": "A Polícia Federal prendeu nesta sexta-feira (20), no Distrito Federal, Kayra Cardoso Guimarães, suspeita de fazer parte de um grupo investigado pela Polícia Civil do Piauí por movimentar milhões com golpes envolvendo falsas operações financeiras na bolsa. Kayr",
+      "summary": "Uma operação policial prendeu nesta sexta-feira (20), no Distrito Federal, Kayra Cardoso Guimarães, suspeita de fazer parte de um grupo investigado pela Polícia Civil do Piauí por movimentar milhões com golpes envolvendo falsas operações financeiras na bolsa. ",
       "source": "g1",
       "cat": "politica",
       "type": "imprensa"
@@ -393,15 +411,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Fachin retira sigilo de relatório da PF com 11 conversas que citam André Mendonça no caso Master",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/20/fachin-retira-sigilo-de-relatorio-da-pf-com-11-conversas-que-citam-andre-mendonca-no-caso-master.ghtml",
-      "date": "2026-11-21T00:23:24.000Z",
-      "summary": "Fachin abre sigilo de relatório da PF sobre André Mendonça no caso Master O presidente do Supremo Tribunal Federal, Edson Fachin, retirou o sigilo do relatório da Polícia Federal sobre o ministro André Mendonça, no caso Master. A decisão foi a pedido do própri",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Tribunal aprova acordo de US$ 7,25 bi com Bayer por acusação de câncer ligado a herbicida",
       "link": "https://www.estadao.com.br/economia/tribunal-aprova-acordo-de-us-725-bi-com-bayer-por-acusacao-de-cancer-ligado-a-herbicida/",
       "date": "2026-11-21T00:01:32.000Z",
@@ -426,15 +435,6 @@
       "summary": "Manifestações também reúnem trabalhadores e tem como principais bandeiras mais investimentos em educação, contra o aumento no custo de vida e, principalmente na Alemanha, contra o serviço militar obrigatório.",
       "source": "DW Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Jair Bolsonaro dá entrada em hospital após dores abdominais, diz Carlos",
-      "link": "https://www.estadao.com.br/politica/jair-bolsonaro-da-entrada-em-hospital-apos-dores-abdominais-diz-carlos/",
-      "date": "2026-11-20T20:24:30.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
