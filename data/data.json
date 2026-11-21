@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-21T22:59:19.785Z",
+  "updated": "2026-11-21T23:39:42.057Z",
   "market": {
     "ibov": {
       "price": 166376.44,
       "pct": -0.69,
-      "time": "2026-11-21T22:59:12.650Z",
+      "time": "2026-11-21T23:39:35.107Z",
       "history": [
         {
           "d": "2026-10-22",
@@ -141,6 +141,42 @@
   },
   "news": [
     {
+      "title": "Bélgica enfrenta paralisação do tráfego aéreo devido a greve nacional na segunda-feira",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/belgica-enfrenta-paralisacao-do-trafego-aereo-devido-a-greve-nacional-na-segunda-feira.shtml",
+      "date": "2026-11-21T23:24:00.000Z",
+      "summary": "Quase todos os voos devem ser cancelados na Bélgica na segunda-feira (23), depois que a empresa responsável pelo controle de tráfego aéreo do país informou que seus funcionários participarão de uma greve nacional contra as medidas de austeridade do governo. Le",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Protestos na França reúnem 150 mil, dizem organizadores",
+      "link": "https://www.poder360.com.br/poder-internacional/protestos-na-franca-reunem-150-mil-dizem-organizadores/",
+      "date": "2026-11-21T23:21:10.000Z",
+      "summary": "Ministério do Interior francês contabilizou 82.500 manifestantes; mobilização perde força em 6º sábado consecutivo de atos",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "OAB-SP alerta STF que pejotização pode gerar perdas de R$ 200 bi por ano",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/oab-sp-alerta-stf-que-pejotizacao-pode-gerar-perdas-de-r-200-bi-por-ano.shtml",
+      "date": "2026-11-21T23:00:00.000Z",
+      "summary": "A OAB-SP entregou ao presidente do STF (Supremo Tribunal Federal), ministro Edson Fachin, uma nota técnica que aponta que a pejotização pode gerar perdas de arrecadação na ordem de R$ 200 bilhões por ano. Leia mais (11/21/2026 - 20h00)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Ao confundir alhos com bugalhos, PF deu a Mendonça o papel de vítima",
+      "link": "https://www.estadao.com.br/politica/eliane-cantanhede/ao-confundir-alhos-com-bugalhos-pf-deu-a-mendonca-o-papel-de-vitima/",
+      "date": "2026-11-21T23:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "Padre Kelmon quer aval de Moraes para dar “extrema-unção” a Bolsonaro",
       "link": "https://www.poder360.com.br/poder-gente/padre-kelmon-quer-aval-de-moraes-para-dar-extrema-uncao-a-bolsonaro/",
       "date": "2026-11-21T22:55:24.000Z",
@@ -172,15 +208,6 @@
       "link": "https://www.poder360.com.br/poder-tech/paises-vao-discutir-regras-para-robos-assassinos-ate-2028/",
       "date": "2026-11-21T21:46:43.000Z",
       "summary": "Decisão foi tomada por 128 países em Genebra; EUA, Rússia e Israel resistiram à proposta de um tratado obrigatório",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Vitória de Lula simboliza defesa da democracia, diz Haddad",
-      "link": "https://www.poder360.com.br/poder-governo/vitoria-de-lula-simboliza-defesa-da-democracia-diz-haddad/",
-      "date": "2026-11-21T21:03:58.000Z",
-      "summary": "Ex-ministro afirma que resultado eleitoral reflete disputa global contra a concentração de poder econômico e político",
       "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
@@ -237,15 +264,6 @@
       "summary": "Radicais de modo geral se equivocam mais ou menos da mesma maneira, independentemente do espectro ideológico a que pertençam. Leia mais (11/21/2026 - 16h45)",
       "source": "Folha",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Como a esquerda lidará com as consequências políticas da economia que propõe?",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2026/11/como-a-esquerda-lidara-com-as-consequencias-politicas-da-economia-que-propoe.shtml",
-      "date": "2026-11-21T19:25:00.000Z",
-      "summary": "Quem faz cenários econômicos de modo desassombrado ora ainda estimaria que o PIB de 2027 pode cair 0,5% e até crescer perto de um medíocre, mas reconfortante, 1,5%, a depender de hipóteses mais ou menos pessimistas. Tais estimativas costumam estar erradas, se ",
-      "source": "Folha",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -321,28 +339,10 @@
       "type": "imprensa"
     },
     {
-      "title": "Gonet analisa relatórios sobre ministros do STF pressionado por sua relação com Vorcaro",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/gonet-analisa-relatorios-sobre-ministros-do-stf-pressionado-por-sua-relacao-com-vorcaro.shtml",
-      "date": "2026-11-21T15:00:00.000Z",
-      "summary": "O procurador-geral da República, Paulo Gonet, faz parte da coordenação do núcleo que analisa os relatórios da Polícia Federal sobre menções a ministros do STF (Supremo Tribunal Federal) no caso Master, enquanto ele próprio é questionado sobre sua relação com o",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Embate na esquerda sobre ajuste fiscal lembra disputa que deu origem ao PSOL em 2003",
       "link": "https://www.estadao.com.br/politica/voce-sabia-curiosidades-politica/embate-na-esquerda-sobre-ajuste-fiscal-lembra-disputa-que-deu-origem-ao-psol-em-2003/",
       "date": "2026-11-21T15:00:00.000Z",
       "summary": "O texto aborda o racha na esquerda provocado pelo ajuste fiscal do governo Lula (2026), comparando as divergências atuais com a crise interna do PT vivido em 2003, durante a Reforma da Previdência que resultou. Na expulsão de quatro integrantes do PT.",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Travessias hídricas em SP: Concessionária inicia transição e inclui Pix nas formas de pagamento",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/travessias-hidricas-em-sp-concessionaria-inicia-transicao-e-inclui-pix-nas-formas-de-pagamento/",
-      "date": "2026-11-21T15:00:00.000Z",
-      "summary": "",
       "source": "Estadão",
       "cat": "politica",
       "type": "imprensa"
