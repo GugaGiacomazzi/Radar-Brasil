@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-21T13:40:41.458Z",
+  "updated": "2026-11-21T14:47:06.588Z",
   "market": {
     "ibov": {
       "price": 166376.44,
       "pct": -0.69,
-      "time": "2026-11-21T13:40:34.744Z",
+      "time": "2026-11-21T14:46:58.921Z",
       "history": [
         {
           "d": "2026-10-22",
@@ -141,6 +141,42 @@
   },
   "news": [
     {
+      "title": "UE propõe taxar serviços digitais e cortar em 10% orçamento do bloco",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/ue-propoe-taxar-servicos-digitais-e-cortar-em-10-orcamento-do-bloco.shtml",
+      "date": "2026-11-21T14:33:00.000Z",
+      "summary": "O presidente do Conselho Europeu, António Costa, propôs um imposto sobre serviços digitais em toda a União Europeia e reduziu a proposta para o próximo orçamento de sete anos do bloco, na tentativa de obter a concordância dos 27 Estados-membros até o fim deste",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lula diz que projeto aprovado no Senado não é 'reforma fiscal', mas ajuste para Orçamento de 2027 e critica Faria Lima",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/21/lula-diz-que-projeto-aprovado-no-senado-nao-e-reforma-fiscal-mas-ajuste-para-orcamento-de-2027-e-critica-faria-lima.ghtml",
+      "date": "2026-11-21T14:27:51.000Z",
+      "summary": "O presidente Luiz Inácio Lula da Silva (PT) afirmou neste sábado (21) que o projeto fiscal aprovado pelo Senado nesta semana não é uma \"reforma\", mas um \"ajuste\" orçamentário para o ano de 2027. O petista deu as declarações durante uma live com o deputado fede",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Defesa de Bolsonaro pede que Moraes autorize visitas diárias de filhos ao hospital",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/defesa-de-bolsonaro-pede-para-moraes-autorizar-visitas-diarias-de-filhos-no-hospital.shtml",
+      "date": "2026-11-21T13:59:00.000Z",
+      "summary": "A defesa do ex-presidente Jair Bolsonaro (PL) pediu neste sábado (21) ao ministro Alexandre de Moraes, do STF (Supremo Tribunal Federal), que autorize visitas diárias de seus filhos ao hospital em que ele está internado. Leia mais (11/21/2026 - 10h59)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "UE propõe imposto de 3% sobre faturamento das big techs para financiar orçamento até 2034",
+      "link": "https://www.estadao.com.br/economia/ue-propoe-imposto-de-3-sobre-faturamento-das-big-techs/",
+      "date": "2026-11-21T13:48:28.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "Exército do Lula perde 1,4 milhão de seguidores desde o 2º turno",
       "link": "https://www.poder360.com.br/poder-governo/exercito-do-lula-perde-14-milhao-de-seguidores-desde-o-2o-turno/",
       "date": "2026-11-21T13:03:48.000Z",
@@ -240,15 +276,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Ações de tecnologia dos EUA desabam na pior semana desde a crise da Covid-19",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/acoes-de-tecnologia-dos-eua-desabam-na-pior-semana-desde-a-crise-da-covid-19.shtml",
-      "date": "2026-11-21T11:00:00.000Z",
-      "summary": "As ações de tecnologia dos EUA despencaram na pior semana desde que a pandemia de Covid-19 abalou a economia global. O movimento ocorreu em meio a temores de desaceleração do boom de investimentos em inteligência artificial (IA), que desencadearam uma onda de ",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Megaprisões na América Latina: solução ou problema?",
       "link": "https://www.dw.com/pt-br/megaprisões-na-américa-latina-solução-ou-problema/a-80005196?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-21T10:32:00.000Z",
@@ -321,28 +348,10 @@
       "type": "imprensa"
     },
     {
-      "title": "Justiça condena Vitacon por entregar imóveis inacabados com habite-se",
-      "link": "https://www.estadao.com.br/economia/negocios/justica-condena-vitacon-por-entregar-imoveis-inacabados-com-habite-se/",
-      "date": "2026-11-21T08:30:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "O que aprendi ao passar 14 anos acompanhando famílias que não saem da pobreza: 'Muito além de decisões pessoais'",
       "link": "https://g1.globo.com/economia/noticia/2026/11/21/o-que-aprendi-ao-passar-14-anos-acompanhando-familias-que-nao-saem-da-pobreza-muito-alem-de-decisoes-pessoais.ghtml",
       "date": "2026-11-21T08:00:00.000Z",
       "summary": "Andrés Ruiz é um jornalista e documentarista colombiano Andrés Ruiz/Arquivo Pessoal via BBC A Colômbia é o país mais desigual da América Latina e um dos mais desiguais do mundo, segundo o índice de Gini do Banco Mundial. Também se sabe, graças a um estudo da O",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "'Skincare comestível': gelatina com frutas viraliza como fonte de colágeno, mas funciona?",
-      "link": "https://g1.globo.com/saude/noticia/2026/11/21/skincare-comestivel-gelatina-com-frutas-viraliza-como-fonte-de-colageno.ghtml",
-      "date": "2026-11-21T07:04:15.000Z",
-      "summary": "Mulher escolhendo frutas enquanto faz compras no mercado Reprodução/Freepik Uma nova tendência de cuidados com a pele viralizou nas últimas semanas: o \"skincare comestível\". Trata-se de uma receita de gelatina sem sabor com frutas como uva, morango, framboesa,",
       "source": "g1",
       "cat": "economia",
       "type": "imprensa"
@@ -375,28 +384,10 @@
       "type": "imprensa"
     },
     {
-      "title": "Abin contrata passeio de barco ao pôr do sol e divulga data e local",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/abin-contrata-passeio-de-barco-ao-por-do-sol-e-divulga-data-e-local.shtml",
-      "date": "2026-11-21T02:00:00.000Z",
-      "summary": "A Abin (Agência Brasileira de Inteligência) contratou um passeio de barco ao pôr do sol em Cabedelo, na Paraíba, com comida e bebida, para 120 participantes de um fórum internacional de inteligência. O contrato de R$ 44 mil com a Roger Turismo foi assinado na ",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "PF prende no DF suspeita de integrar esquema de falsos investimentos que movimentou mais de R$ 600 milhões no PI",
       "link": "https://g1.globo.com/politica/noticia/2026/11/20/pf-prende-suspeita-de-integrar-esquema-de-falsos-investimentos-que-movimentou-mais-de-r-600-milhoes-no-pi.ghtml",
       "date": "2026-11-21T01:50:53.000Z",
       "summary": "Uma operação policial prendeu nesta sexta-feira (20), no Distrito Federal, Kayra Cardoso Guimarães, suspeita de fazer parte de um grupo investigado pela Polícia Civil do Piauí por movimentar milhões com golpes envolvendo falsas operações financeiras na bolsa. ",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Embaixada brasileira na Ucrânia é atingida por destroços após ataques a Kiev, diz Itamaraty",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/20/embaixada-brasileira-na-ucrania-e-atingida-por-destrocos-apos-ataques-a-kiev-diz-itamaraty.ghtml",
-      "date": "2026-11-21T00:37:07.000Z",
-      "summary": "Governo brasileiro divulga nota condenando ataques a Kiev, na Ucrânia O Ministério das Relações Exteriores (Itamaraty) informou nesta sexta-feira (20) que a embaixada brasileira na Ucrânia foi atingida por destroços após ataques da Rússia a Kiev. Ainda conform",
       "source": "g1",
       "cat": "politica",
       "type": "imprensa"
