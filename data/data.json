@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-21T20:23:07.823Z",
+  "updated": "2026-11-21T21:19:41.719Z",
   "market": {
     "ibov": {
       "price": 166376.44,
       "pct": -0.69,
-      "time": "2026-11-21T20:23:00.825Z",
+      "time": "2026-11-21T21:19:38.668Z",
       "history": [
         {
           "d": "2026-10-22",
@@ -141,11 +141,65 @@
   },
   "news": [
     {
+      "title": "Vitória de Lula simboliza defesa da democracia, diz Haddad",
+      "link": "https://www.poder360.com.br/poder-governo/vitoria-de-lula-simboliza-defesa-da-democracia-diz-haddad/",
+      "date": "2026-11-21T21:03:58.000Z",
+      "summary": "Ex-ministro afirma que resultado eleitoral reflete disputa global contra a concentração de poder econômico e político",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Haddad defende taxar super-ricos durante cúpula em Paris",
+      "link": "https://www.poder360.com.br/poder-economia/haddad-defende-taxar-super-ricos-durante-cupula-em-paris/",
+      "date": "2026-11-21T21:00:58.000Z",
+      "summary": "Ex-ministro afirma que imposto de 2% sobre grandes fortunas poderia arrecadar globalmente até US$ 250 bilhões por ano",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Secretário de Tarcísio troca Palácio dos Bandeirantes por salas de Oxford por uma semana",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/secretario-de-tarcisio-troca-palacio-dos-bandeirantes-por-salas-de-oxford-por-uma-semana.shtml",
+      "date": "2026-11-21T21:00:00.000Z",
+      "summary": "O secretário-chefe da Casa Civil do governo Tarcísio de Freitas, Nerylson Lima, vai trocar o Palácio dos Bandeirantes pelas salas de Oxford na próxima semana. Leia mais (11/21/2026 - 18h00)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Ter ações na carteira é sempre uma boa decisão?",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/blogs/de-grao-em-grao/2026/11/ter-acoes-na-carteira-e-sempre-uma-boa-decisao.shtml",
+      "date": "2026-11-21T21:00:00.000Z",
+      "summary": "Você já ouviu que todo investidor deveria manter uma parcela do patrimônio em ações, especialmente quando pretende investir por muitos anos? Essa recomendação é tão difundida que muita gente compra ações simplesmente porque acredita que uma carteira sem Bolsa ",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Amazon negocia compra da startup Decart em acordo bilionário para ganhar eficiência em IA",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/amazon-negocia-compra-da-startup-decart-em-acordo-bilionario-para-ganhar-eficiencia-em-ia.shtml",
+      "date": "2026-11-21T20:37:00.000Z",
+      "summary": "A Amazon está perto de fechar um acordo de US$ 7,5 bilhões (R$ 44,6 bilhões) para comprar a startup Decart, ressaltando o interesse das gigantes de tecnologia em fortalecer as próprias operações de inteligência artificial. Leia mais (11/21/2026 - 17h37)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "Alice Huang, caso de ex-CEO da Nvidia, conectava empresas e abastecia mercado clandestino de chips",
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/alice-huang-caso-de-ex-ceo-da-nvidia-conectava-empresas-e-abastecia-mercado-clandestino-de-chips.shtml",
       "date": "2026-11-21T20:16:00.000Z",
       "summary": "A executiva chinesa que mantinha relacionamento amoroso com Jensen Huang, ex-CEO da Nvidia, tinha vínculos com o lucrativo comércio de chips para a China. Leia mais (11/21/2026 - 17h16)",
       "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Pacote fiscal não é ajuste; nem bom nem primeiro passo",
+      "link": "https://www.estadao.com.br/economia/alexandre-schwartsman/pacote-fiscal-nao-e-ajuste-nem-bom-nem-primeiro-passo/",
+      "date": "2026-11-21T20:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
       "cat": "economia",
       "type": "imprensa"
     },
@@ -174,15 +228,6 @@
       "summary": "Dados divulgados pelo Escritório Nacional de Estatísticas do país mostraram enfraquecimento da demanda interna",
       "source": "Poder360",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Brasil lidera avanço regional e mira boom de data centers até 2030",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/brasil-lidera-avanco-regional-e-mira-boom-de-data-centers-ate-2030.shtml",
-      "date": "2026-11-21T19:00:00.000Z",
-      "summary": "O monólito cinzento é silencioso por dentro. Máquinas zumbem, o ar frio circula e técnicos deslizam pelos corredores como fantasmas. Do lado de fora do maior data center da América Latina -um modesto complexo de 61 megawatts (MW) em Vinhedo (SP)-, porém, há in",
-      "source": "Folha",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -222,24 +267,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Lula diz que mercado financeiro não vai ensiná-lo a governar",
-      "link": "https://www.poder360.com.br/poder-governo/lula-diz-que-mercado-financeiro-nao-vai-ensina-lo-a-governar/",
-      "date": "2026-11-21T17:45:47.000Z",
-      "summary": "Presidente chamou agentes da Faria Lima de “yuppies” e prometeu ampliar participação popular no orçamento",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Jair Bolsonaro trata obstrução intestinal na UTI em Brasília",
-      "link": "https://www.poder360.com.br/poder-justica/jair-bolsonaro-trata-obstrucao-intestinal-na-uti-em-brasilia/",
-      "date": "2026-11-21T17:37:20.000Z",
-      "summary": "Ex-presidente está estável, consciente e respira sem aparelhos; equipe médica mantém jejum e sonda gástrica",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Bolsonaro tem obstrução intestinal, está na UTI, estável e sem previsão de alta, diz hospital",
       "link": "https://g1.globo.com/politica/noticia/2026/11/21/bolsonaro-tem-obstrucao-intestinal-quadro-estavel-e-segue-sem-previsao-de-alta-diz-boletim-medico.ghtml",
       "date": "2026-11-21T17:16:23.000Z",
@@ -254,15 +281,6 @@
       "date": "2026-11-21T16:56:54.000Z",
       "summary": "Joe Wallach morre aos 103 anos Joe Wallach, executivo americano que participou da fundação da TV Globo e colaborou com a emissora durante décadas, morreu aos 103 anos. Ele vivia em Los Angeles, na Califórnia (EUA). Wallach chegou ao Brasil em 1965 para partici",
       "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Bitcoin cai para o menor nível em mais de dois anos com derrocada dos mercados globais",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/bitcoin-cai-para-o-menor-nivel-em-mais-de-dois-anos-com-derrocada-dos-mercados-globais.shtml",
-      "date": "2026-11-21T16:44:00.000Z",
-      "summary": "O bitcoin caiu para o nível mais baixo em mais de dois anos. O movimento representa a virada da moeda de \"queridinha\" do mercado cripto, que viu alta após a reeleição do presidente americano Donald Trump, para para vítima da ressaca de uma maré de apostas espe",
-      "source": "Folha",
       "cat": "economia",
       "type": "imprensa"
     },
@@ -298,15 +316,6 @@
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/gonet-analisa-relatorios-sobre-ministros-do-stf-pressionado-por-sua-relacao-com-vorcaro.shtml",
       "date": "2026-11-21T15:00:00.000Z",
       "summary": "O procurador-geral da República, Paulo Gonet, faz parte da coordenação do núcleo que analisa os relatórios da Polícia Federal sobre menções a ministros do STF (Supremo Tribunal Federal) no caso Master, enquanto ele próprio é questionado sobre sua relação com o",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Três Poderes: 'supersecretária' de Tarcísio é a vencedora da semana; Enel, a perdedora",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/tres-poderes-supersecretaria-de-tarcisio-e-a-vencedora-da-semana-enel-a-perdedora.shtml",
-      "date": "2026-11-21T15:00:00.000Z",
-      "summary": "Vencedora da semana: Natália Resende, chamada de 'supersecretária' do governo Tarcísio, que ganhou poderes em uma nova pasta do Planejamento e começa a ser vista como uma possível candidata futuramente. Leia mais (11/21/2026 - 12h00)",
       "source": "Folha",
       "cat": "politica",
       "type": "imprensa"
@@ -354,15 +363,6 @@
       "summary": "Lula critica aliados que se opuseram ao ajuste O presidente Luiz Inácio Lula da Silva (PT) afirmou neste sábado (21) que o projeto fiscal aprovado pelo Senado nesta semana não é uma \"reforma\", mas um \"ajuste\" orçamentário para o ano de 2027. O petista deu as d",
       "source": "g1",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "UE propõe imposto de 3% sobre faturamento das big techs para financiar orçamento até 2034",
-      "link": "https://www.estadao.com.br/economia/ue-propoe-imposto-de-3-sobre-faturamento-das-big-techs/",
-      "date": "2026-11-21T13:48:28.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
