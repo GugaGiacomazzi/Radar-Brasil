@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-21T09:28:21.464Z",
+  "updated": "2026-11-21T10:28:42.997Z",
   "market": {
     "ibov": {
       "price": 166376.44,
       "pct": -0.69,
-      "time": "2026-11-21T09:28:15.184Z",
+      "time": "2026-11-21T10:28:35.050Z",
       "history": [
         {
           "d": "2026-10-22",
@@ -141,6 +141,33 @@
   },
   "news": [
     {
+      "title": "Sequestro de crianças como arma de guerra: Putin e o legado de Hitler",
+      "link": "https://www.dw.com/pt-br/sequestro-de-crianças-como-arma-de-guerra-putin-e-o-legado-de-hitler/a-80007486?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-21T10:11:00.000Z",
+      "summary": "A polonesa Barbara Paciorkiewicz foi levada pelos nazistas, enquanto a ucraniana Ksenija Koldin foi tirada da família na Rússia contemporânea. Elas falam sobre perda, separação forçada e o difícil retorno ao lar.",
+      "source": "DW Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "CDR aprova ampliação de áreas de livre comércio no Acre",
+      "link": "https://www.poder360.com.br/poder-congresso/cdr-aprova-ampliacao-de-areas-de-livre-comercio-no-acre/",
+      "date": "2026-11-21T10:10:31.000Z",
+      "summary": "Medida busca estimular o desenvolvimento econômico e a geração de emprego e renda em cidades acreanas",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Cid Gomes promete relatório do Novo Desenrola para dezembro",
+      "link": "https://www.poder360.com.br/poder-congresso/cid-gomes-promete-relatorio-do-novo-desenrola-para-dezembro/",
+      "date": "2026-11-21T09:45:49.000Z",
+      "summary": "Medida autoriza a União a comprar até R$ 15 bilhões em dívidas de pessoas físicas inadimplentes",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "Senado aprova regras de qualidade e segurança para implantes cirúrgicos",
       "link": "https://www.poder360.com.br/poder-congresso/senado-aprova-regras-de-qualidade-e-seguranca-para-implantes-cirurgicos/",
       "date": "2026-11-21T09:15:38.000Z",
@@ -163,15 +190,6 @@
       "link": "https://www.poder360.com.br/poder-infra/brasil-corre-contra-o-tempo-para-nao-perder-unico-satelite-de-defesa/",
       "date": "2026-11-21T09:00:28.000Z",
       "summary": "Governo tem aproximadamente 6 anos para substituir sua única sonda capaz de atender a demanda de comunicação crítica",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Telebras mira autonomia financeira e projeta fim de aportes do governo",
-      "link": "https://www.poder360.com.br/poder-economia/telebras-mira-autonomia-financeira-e-projeta-fim-de-aportes-do-governo/",
-      "date": "2026-11-21T09:00:04.000Z",
-      "summary": "Estatal de telecomunicações acumula prejuízo de R$ 90,7 milhões em 2026, apesar de ter recebido R$ 169,9 milhões em subvenções orçamentárias",
       "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
@@ -282,15 +300,6 @@
       "summary": "Mulher passando perfume. Ron Lach/Pexels Pode haver um toque de bergamota nas notas de saída, seguido por uma íris adocicada, mas, segundo especialistas do setor, uma dose notável de inteligência artificial (IA) está surgindo nos novos perfumes. O tradicional ",
       "source": "g1",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Moraes vota para tornar Van Hattem réu por críticas a seu assessor",
-      "link": "https://www.poder360.com.br/poder-justica/moraes-vota-para-tornar-van-hattem-reu-por-criticas-a-seu-assessor/",
-      "date": "2026-11-21T04:10:40.000Z",
-      "summary": "PGR denunciou deputado por falas de 2024 contra Fábio Shor, que passou a integrar o gabinete do ministro em março",
-      "source": "Poder360",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -451,15 +460,6 @@
       "link": "https://www.dw.com/pt-br/tusk-vê-provocação-russa-após-queda-de-mísseis-na-polônia-e-critica-reação-dos-eua/a-80005937?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-20T17:56:00.000Z",
       "summary": "Premiê polonês diz que dois mísseis e um drone russos atingiram o país de forma deliberada, perto de exercícios militares da Otan; Washington adotou tom cauteloso e evitou falar em provocação.",
-      "source": "DW Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Febre de GTA 6 invade a política da Alemanha, e montagem com Merz é alvo de zombaria",
-      "link": "https://www.dw.com/pt-br/febre-de-gta-6-invade-a-política-da-alemanha-e-montagem-com-merz-é-alvo-de-zombaria/a-80003058?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-20T14:49:00.000Z",
-      "summary": "Conservadores criam campanha mostrando chefe de governo da Alemanha como personagem de game para exaltar medidas do governo. Mas peças geram reações irônicas por parte da oposição.",
       "source": "DW Brasil",
       "cat": "internacional",
       "type": "imprensa"
