@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-21T03:07:28.324Z",
+  "updated": "2026-11-21T04:15:56.788Z",
   "market": {
     "ibov": {
       "price": 166376.44,
       "pct": -0.69,
-      "time": "2026-11-21T03:07:21.125Z",
+      "time": "2026-11-21T04:15:48.938Z",
       "history": [
         {
           "d": "2026-10-22",
@@ -141,6 +141,15 @@
   },
   "news": [
     {
+      "title": "Moraes vota para tornar Van Hattem réu por críticas a seu assessor",
+      "link": "https://www.poder360.com.br/poder-justica/moraes-vota-para-tornar-van-hattem-reu-por-criticas-a-seu-assessor/",
+      "date": "2026-11-21T04:10:40.000Z",
+      "summary": "PGR denunciou deputado por falas de 2024 contra Fábio Shor, que passou a integrar o gabinete do ministro em março",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "A um mês do recesso, Fachin tenta avançar com agenda de reformas no STF, mas enfrenta resistências",
       "link": "https://g1.globo.com/politica/noticia/2026/11/21/a-um-mes-do-recesso-fachin-tenta-avancar-com-agenda-de-reformas-no-stf-mas-enfrenta-resistencias.ghtml",
       "date": "2026-11-21T03:00:00.000Z",
@@ -246,15 +255,6 @@
       "summary": "100 milhões de brasileiros começaram a receber o 13º salário Cem milhões de brasileiros já começaram a receber a primeira parcela do décimo-terceiro. A prioridade de muita gente é quitar dívidas em atraso. Mas, o dinheiro também vai aquecer o comércio, neste f",
       "source": "g1",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Deputados questionam gasto de R$ 3,3 mi com carpetes no Senado",
-      "link": "https://www.poder360.com.br/poder-congresso/deputados-questionam-gasto-de-r-33-mi-com-carpetes-no-senado/",
-      "date": "2026-11-21T01:13:12.000Z",
-      "summary": "Nikolas Ferreira (PL-MG) e Duarte Jr. (Avante-MA) anunciaram ação contra licitação para troca de revestimentos",
-      "source": "Poder360",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
