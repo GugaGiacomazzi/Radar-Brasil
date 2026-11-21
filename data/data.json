@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-21T17:38:55.636Z",
+  "updated": "2026-11-21T18:21:21.444Z",
   "market": {
     "ibov": {
       "price": 166376.44,
       "pct": -0.69,
-      "time": "2026-11-21T17:38:49.829Z",
+      "time": "2026-11-21T18:21:14.676Z",
       "history": [
         {
           "d": "2026-10-22",
@@ -141,6 +141,33 @@
   },
   "news": [
     {
+      "title": "Governo do DF quer aproveitar estrutura de festival da posse de Lula para festa de Réveillon",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/governo-do-df-quer-aproveitar-estrutura-de-festival-da-posse-de-lula-para-festa-de-reveillon.shtml",
+      "date": "2026-11-21T18:00:00.000Z",
+      "summary": "O governo do Distrito Federal planeja pedir ao governo federal a possibilidade de usar a estrutura que será montada para o festival com shows para a posse do presidente Lula (PT) para a festa de Réveillon na capital federal. Leia mais (11/21/2026 - 15h00)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Os cidadãos impedidos pelo governo Ortega de voltar à Nicarágua: 'Sou ilegal no meu próprio país'",
+      "link": "https://www.bbc.com/portuguese/articles/c60rknr0jg4zo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-21T17:51:39.000Z",
+      "summary": "ONU documentou ao menos 318 casos de nicaraguenses impedidos de entrar no próprio país entre junho de 2018 e agosto de 2025.",
+      "source": "BBC News Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lula diz que mercado financeiro não vai ensiná-lo a governar",
+      "link": "https://www.poder360.com.br/poder-governo/lula-diz-que-mercado-financeiro-nao-vai-ensina-lo-a-governar/",
+      "date": "2026-11-21T17:45:47.000Z",
+      "summary": "Presidente chamou agentes da Faria Lima de “yuppies” e prometeu ampliar participação popular no orçamento",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "Jair Bolsonaro trata obstrução intestinal na UTI em Brasília",
       "link": "https://www.poder360.com.br/poder-justica/jair-bolsonaro-trata-obstrucao-intestinal-na-uti-em-brasilia/",
       "date": "2026-11-21T17:37:20.000Z",
@@ -159,10 +186,10 @@
       "type": "imprensa"
     },
     {
-      "title": "Bolsonaro tem obstrução intestinal, quadro estável e segue sem previsão de alta, diz boletim médico",
+      "title": "Bolsonaro tem obstrução intestinal, está na UTI, estável e sem previsão de alta, diz hospital",
       "link": "https://g1.globo.com/politica/noticia/2026/11/21/bolsonaro-tem-obstrucao-intestinal-quadro-estavel-e-segue-sem-previsao-de-alta-diz-boletim-medico.ghtml",
       "date": "2026-11-21T17:16:23.000Z",
-      "summary": "Médico de Jair Bolsonaro fala sobre internação do ex-presidente O ex-presidente Jair Bolsonaro está internado em unidade de terapia intensiva com o diagnóstico de abdômen agudo obstrutivo, informou o hospital DF Star na tarde deste sábado (21). Ele foi interna",
+      "summary": "Bolsonaro está na UTI em estado estável, diz boletim médico O ex-presidente Jair Bolsonaro está internado em unidade de terapia intensiva com o diagnóstico de abdômen agudo obstrutivo, informou o hospital DF Star na tarde deste sábado (21). Ele foi internado n",
       "source": "g1",
       "cat": "politica",
       "type": "imprensa"
@@ -172,15 +199,6 @@
       "link": "https://www.poder360.com.br/poder-economia/votacao-da-pec-de-autonomia-do-bc-ficara-para-2027/",
       "date": "2026-11-21T17:00:56.000Z",
       "summary": "Para articuladores no Senado e Galípolo, Congresso mais à direita e menor disputa política podem facilitar aprovação",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Diretor de Regulação deve se aposentar do BC, mas permanecer na cúpula",
-      "link": "https://www.poder360.com.br/poder-economia/diretor-de-regulacao-deve-se-aposentar-do-bc-mas-permanecer-na-cupula/",
-      "date": "2026-11-21T17:00:25.000Z",
-      "summary": "Gilneu Vivan pode deixar o funcionalismo público em 2027 e continuar na diretoria, dispensando uma nova indicação de Lula",
       "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
@@ -399,15 +417,6 @@
       "summary": "De um lado, EUA querem liberação para indicado de Trump atue como embaixador no Brasil. Do outro, governo Lula quer normalização de visto de embaixadora em Washington",
       "source": "BBC News Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Senadores ainda defendem PEC que regulamenta fim da 6x1, apesar de decreto e portarias do governo",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/senadores-ainda-defendem-pec-que-regulamenta-fim-da-6x1-apesar-de-decreto-e-portarias-do-governo.shtml",
-      "date": "2026-11-21T09:00:00.000Z",
-      "summary": "Apesar das portarias que o governo Lula deve publicar com regras para categorias específicas sobre o fim da escala 6x1, o Senado ainda pretende discutir uma PEC (Proposta de Emenda à Constituição) que regulamente a nova jornada em casos específicos. Leia mais ",
-      "source": "Folha",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
