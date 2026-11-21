@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-21T06:17:38.773Z",
+  "updated": "2026-11-21T07:37:47.165Z",
   "market": {
     "ibov": {
       "price": 166376.44,
       "pct": -0.69,
-      "time": "2026-11-21T06:17:33.127Z",
+      "time": "2026-11-21T07:37:39.917Z",
       "history": [
         {
           "d": "2026-10-22",
@@ -141,6 +141,60 @@
   },
   "news": [
     {
+      "title": "'Skincare comestível': gelatina com frutas viraliza como fonte de colágeno, mas funciona?",
+      "link": "https://g1.globo.com/saude/noticia/2026/11/21/skincare-comestivel-gelatina-com-frutas-viraliza-como-fonte-de-colageno.ghtml",
+      "date": "2026-11-21T07:04:15.000Z",
+      "summary": "Mulher escolhendo frutas enquanto faz compras no mercado Reprodução/Freepik Uma nova tendência de cuidados com a pele viralizou nas últimas semanas: o \"skincare comestível\". Trata-se de uma receita de gelatina sem sabor com frutas como uva, morango, framboesa,",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Por que o México arrecada tão poucos impostos (e como financia seus crescentes benefícios sociais)",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/21/por-que-o-mexico-arrecada-tao-poucos-impostos-e-como-financia-seus-crescentes-beneficios-sociais.ghtml",
+      "date": "2026-11-21T07:04:03.000Z",
+      "summary": "Por que o México arrecada tão poucos impostos (e como financia seus crescentes benefícios sociais) Getty Images via BBC Uma das ferramentas mais antigas da gestão pública. Seu propósito é garantir serviços de luz, água ou ordem pública. Mas, no México, ele é c",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Comissão do PT que organiza posse de Lula avalia transferir gastos de festival para governo e criar feriado",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/comissao-do-pt-que-organiza-posse-de-lula-avalia-transferir-gastos-de-festival-para-governo-e-criar-feriado.shtml",
+      "date": "2026-11-21T07:00:00.000Z",
+      "summary": "Uma comissão do PT que está trabalhando na organização da posse do presidente Lula planeja transferir para o governo federal os gastos com a estrutura do festival musical que deseja realizar na data, diferentemente do que ocorreu em 2023. Leia mais (11/21/2026",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Câmara envia ao Senado projeto que revoga Lei de Alienação Parental",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/camara-envia-ao-senado-projeto-que-revoga-lei-de-alienacao-parental.shtml",
+      "date": "2026-11-21T07:00:00.000Z",
+      "summary": "Esta é a edição da newsletter Todas. Quer recebê-la toda semana no seu email? Inscreva-se abaixo: Leia mais (11/21/2026 - 04h00)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "CEOs que cometem adultério são perigosos para as empresas",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/ceos-que-cometem-adulterio-sao-perigosos-para-as-empresas.shtml",
+      "date": "2026-11-21T07:00:00.000Z",
+      "summary": "Um dos homens mais ricos e poderosos do mundo acaba de perder o emprego por causa não de um, nem dois, mas três casos extraconjugais (que saibamos). O fim dos 33 anos de Jensen Huang à frente da Nvidia tem implicações de grande alcance para a segurança naciona",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Boeing não descarta novas demissões em meio a atraso na produção do 737 MAX",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/boeing-nao-descarta-novas-demissoes-em-meio-a-atraso-na-producao-do-737-max.shtml",
+      "date": "2026-11-21T07:00:00.000Z",
+      "summary": "A Boeing se recusou a informar se pretende realizar novas demissões em massa após a próxima rodada de cortes, prevista para 9 de dezembro. A declaração foi dada na quinta-feira (19), após questionamento de um dos maiores sindicatos da empresa. Leia mais (11/21",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "Dos algoritmos ao aroma: como a IA está mudando a criação de perfumes",
       "link": "https://g1.globo.com/tecnologia/noticia/2026/11/21/dos-algoritmos-ao-aroma-como-a-ia-esta-mudando-a-criacao-de-perfumes.ghtml",
       "date": "2026-11-21T06:00:01.000Z",
@@ -154,24 +208,6 @@
       "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/21/fim-da-escala-6x1-veja-o-que-muda-nas-folgas-horas-extras-e-jornadas-apos-decreto-de-lula.ghtml",
       "date": "2026-11-21T06:00:00.000Z",
       "summary": "Lula assina decreto com regras para o fim da escala 6x1 O fim da escala 6x1 avançou para uma nova etapa nesta semana. Depois que o Congresso promulgou a emenda constitucional, o Supremo Tribunal Federal (STF) definiu regras para a transição. Nesta quinta-feira",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Saída de Jensen Huang da Nvidia pode frear a onda da IA?",
-      "link": "https://g1.globo.com/inovacao/noticia/2026/11/21/saida-de-jensen-huang-da-nvidia-pode-frear-a-onda-da-ia.ghtml",
-      "date": "2026-11-21T06:00:00.000Z",
-      "summary": "Jensen Huang renunciou ao cargo em 12 de novembro. Getty Images via BBC A Nvidia e seu cofundador, Jensen Huang, estão no centro da onda de investimentos em inteligência artificial (IA). Poucas empresas ou executivos tiveram tanta influência sobre o desenvolvi",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Como uma crise do café no Brasil abalou a Alemanha Oriental e fez do Vietnã uma potência",
-      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/21/como-uma-crise-do-cafe-no-brasil-abalou-a-alemanha-oriental-e-fez-do-vietna-uma-potencia.ghtml",
-      "date": "2026-11-21T05:07:02.000Z",
-      "summary": "Café. Rei do Café Na segunda metade dos anos 1970, o hábito de tomar café era rotina na República Democrática da Alemanha (RDA), como era chamada a antiga Alemanha Oriental comunista. Trabalhadores, burocratas, militares, agentes do regime, estudantes: o hábit",
       "source": "g1",
       "cat": "economia",
       "type": "imprensa"
@@ -226,24 +262,6 @@
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/equipe-economica-vai-levar-a-lula-nomes-para-substituir-presidente-do-banco-do-brasil.shtml",
       "date": "2026-11-21T02:00:00.000Z",
       "summary": "Integrantes da equipe econômica começaram a discutir nomes para levar ao presidente Luiz Inácio Lula da Silva (PT) como sugestão para trocar o comando do Banco do Brasil. Leia mais (11/20/2026 - 23h00)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Lula 4 terá, de saída, escalada de alimentos e queda na renda disponível das famílias",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/lula-4-tera-de-saida-escalada-de-alimentos-e-queda-na-renda-disponivel-das-familias.shtml",
-      "date": "2026-11-21T02:00:00.000Z",
-      "summary": "Uma conjuntura bastante desfavorável para as famílias brasileiras está se formando. São fatores simultâneos pressionando preços de alimentos em um cenário de elevado comprometimento da renda com dívidas e de desaceleração da atividade econômica. Leia mais (11/",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Nova pesquisa do IBGE pode ajudar a combater a pobreza",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/laura-machado/2026/11/nova-pesquisa-do-ibge-pode-ajudar-a-combater-a-pobreza.shtml",
-      "date": "2026-11-21T02:00:00.000Z",
-      "summary": "Qual pesquisa domiciliar oferece o retrato mais completo dos recursos de que as famílias mais pobres dispõem no Brasil? Pensemos, por exemplo, em um MEI (Microempreendedor Individual) ou em um trabalhador por aplicativo: as pesquisas captam adequadamente seus ",
       "source": "Folha",
       "cat": "economia",
       "type": "imprensa"
@@ -330,29 +348,11 @@
       "type": "imprensa"
     },
     {
-      "title": "Não vejo problema, mas não resolve a questão, diz Gilmar sobre abertura de sigilo do STF no caso Master",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/nao-vejo-problema-mas-nao-resolve-a-questao-diz-gilmar-sobre-abertura-de-sigilo-do-stf-no-caso-master.shtml",
-      "date": "2026-11-20T22:15:00.000Z",
-      "summary": "O ministro do STF (Supremo Tribunal Federal) Gilmar Mendes afirmou, nesta sexta-feira (20), que não se opõe à divulgação dos relatórios da PF (Polícia Federal) sobre a relação de integrantes da corte com o caso Banco Master, mas ponderou que a medida não resol",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Gilmar diz ‘não ver problema’ em abertura de sigilo sobre relatório de ministros do STF e Master",
       "link": "https://www.estadao.com.br/politica/gilmar-diz-nao-ver-problema-em-abertura-de-sigilo-sobre-relatorio-de-ministros-do-stf-e-master/",
       "date": "2026-11-20T22:00:14.000Z",
       "summary": "",
       "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Dino vota para tornar Van Hattem réu por calúnia, mas julgamento é suspenso após pedido de Zanin",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/dino-vota-para-tornar-van-hattem-reu-por-calunia-mas-julgamento-e-suspenso-apos-pedido-de-zanin.shtml",
-      "date": "2026-11-20T21:46:00.000Z",
-      "summary": "O ministro Flávio Dino, do STF (Supremo Tribunal Federal), votou nesta sexta-feira (20) para tornar o deputado federal Marcel Van Hattem (Novo) réu por calúnia e injúria contra um delegado da PF (Polícia Federal). Leia mais (11/20/2026 - 18h46)",
-      "source": "Folha",
       "cat": "politica",
       "type": "imprensa"
     },
