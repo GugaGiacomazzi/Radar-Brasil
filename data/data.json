@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-21T07:37:47.165Z",
+  "updated": "2026-11-21T08:30:57.384Z",
   "market": {
     "ibov": {
       "price": 166376.44,
       "pct": -0.69,
-      "time": "2026-11-21T07:37:39.917Z",
+      "time": "2026-11-21T08:30:52.445Z",
       "history": [
         {
           "d": "2026-10-22",
@@ -141,6 +141,15 @@
   },
   "news": [
     {
+      "title": "O que aprendi ao passar 14 anos acompanhando famílias que não saem da pobreza: 'Muito além de decisões pessoais'",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/21/o-que-aprendi-ao-passar-14-anos-acompanhando-familias-que-nao-saem-da-pobreza-muito-alem-de-decisoes-pessoais.ghtml",
+      "date": "2026-11-21T08:00:00.000Z",
+      "summary": "Andrés Ruiz é um jornalista e documentarista colombiano Andrés Ruiz/Arquivo Pessoal via BBC A Colômbia é o país mais desigual da América Latina e um dos mais desiguais do mundo, segundo o índice de Gini do Banco Mundial. Também se sabe, graças a um estudo da O",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "'Skincare comestível': gelatina com frutas viraliza como fonte de colágeno, mas funciona?",
       "link": "https://g1.globo.com/saude/noticia/2026/11/21/skincare-comestivel-gelatina-com-frutas-viraliza-como-fonte-de-colageno.ghtml",
       "date": "2026-11-21T07:04:15.000Z",
@@ -199,15 +208,6 @@
       "link": "https://g1.globo.com/tecnologia/noticia/2026/11/21/dos-algoritmos-ao-aroma-como-a-ia-esta-mudando-a-criacao-de-perfumes.ghtml",
       "date": "2026-11-21T06:00:01.000Z",
       "summary": "Mulher passando perfume. Ron Lach/Pexels Pode haver um toque de bergamota nas notas de saída, seguido por uma íris adocicada, mas, segundo especialistas do setor, uma dose notável de inteligência artificial (IA) está surgindo nos novos perfumes. O tradicional ",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Fim da escala 6x1: veja o que muda nas folgas, horas extras e jornadas após decreto de Lula",
-      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/21/fim-da-escala-6x1-veja-o-que-muda-nas-folgas-horas-extras-e-jornadas-apos-decreto-de-lula.ghtml",
-      "date": "2026-11-21T06:00:00.000Z",
-      "summary": "Lula assina decreto com regras para o fim da escala 6x1 O fim da escala 6x1 avançou para uma nova etapa nesta semana. Depois que o Congresso promulgou a emenda constitucional, o Supremo Tribunal Federal (STF) definiu regras para a transição. Nesta quinta-feira",
       "source": "g1",
       "cat": "economia",
       "type": "imprensa"
