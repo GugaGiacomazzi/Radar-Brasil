@@ -1,15 +1,11 @@
 {
-  "updated": "2026-11-20T23:44:20.677Z",
+  "updated": "2026-11-21T00:59:10.868Z",
   "market": {
     "ibov": {
       "price": 166376.44,
       "pct": -0.69,
-      "time": "2026-11-20T23:44:16.056Z",
+      "time": "2026-11-21T00:59:03.710Z",
       "history": [
-        {
-          "d": "2026-10-21",
-          "c": 206495
-        },
         {
           "d": "2026-10-22",
           "c": 204120
@@ -145,6 +141,60 @@
   },
   "news": [
     {
+      "title": "Embaixada brasileira na Ucrânia é atingida por destroços após ataques a Kiev, diz Itamaraty",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/20/embaixada-brasileira-na-ucrania-e-atingida-por-destrocos-apos-ataques-a-kiev-diz-itamaraty.ghtml",
+      "date": "2026-11-21T00:37:07.000Z",
+      "summary": "Governo brasileiro divulga nota condenando ataques a Kiev, na Ucrânia O Ministério das Relações Exteriores (Itamaraty) informou nesta sexta-feira (20) que a embaixada brasileira na Ucrânia foi atingida por destroços após ataques da Rússia a Kiev. Ainda conform",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "“Não era bom o suficiente”, diz Trump sobre diretor de Cibersegurança",
+      "link": "https://www.poder360.com.br/poder-internacional/nao-era-bom-o-suficiente-diz-trump-sobre-diretor-de-ciberseguranca/",
+      "date": "2026-11-21T00:25:46.000Z",
+      "summary": "Presidente dos EUA substituiu Sean Cairncross por Kirsten A. Davies depois de problemas técnicos afetarem voos e bancos no país",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Fachin retira sigilo de relatório da PF com 11 conversas que citam André Mendonça no caso Master",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/20/fachin-retira-sigilo-de-relatorio-da-pf-com-11-conversas-que-citam-andre-mendonca-no-caso-master.ghtml",
+      "date": "2026-11-21T00:23:24.000Z",
+      "summary": "Fachin abre sigilo de relatório da PF sobre André Mendonça no caso Master O presidente do Supremo Tribunal Federal, Edson Fachin, retirou o sigilo do relatório da Polícia Federal sobre o ministro André Mendonça, no caso Master. A decisão foi a pedido do própri",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Arco do Triunfo de Trump em Washington é barrado pela 2ª vez",
+      "link": "https://www.poder360.com.br/poder-internacional/arco-do-triunfo-de-trump-em-washington-e-barrado-pela-2a-vez-na-justica/",
+      "date": "2026-11-21T00:19:02.000Z",
+      "summary": "Juíza federal indica falta de autorização do Congresso e falhas em estudos ambientais; construção de monumento de 76 metros já havia sido suspensa no início de novembro",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Tribunal aprova acordo de US$ 7,25 bi com Bayer por acusação de câncer ligado a herbicida",
+      "link": "https://www.estadao.com.br/economia/tribunal-aprova-acordo-de-us-725-bi-com-bayer-por-acusacao-de-cancer-ligado-a-herbicida/",
+      "date": "2026-11-21T00:01:32.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Gilmar Mendes diz não ver problema em abertura de sigilo de relatório sobre ministros, mas que medida não resolve questão",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/20/gilmar-mendes-diz-nao-ver-problema-em-abertura-de-sigilo-de-relatorio-da-pf-sobre-outros-ministros-do-supremo.ghtml",
+      "date": "2026-11-20T23:56:40.000Z",
+      "summary": "O ministro Gilmar Mendes, do Supremo Tribunal Federal (STF), afirmou nesta sexta-feira (20) não ver problema na abertura do sigilo do relatório da Polícia Federal sobre outros ministros do Supremo mencionados ou que trocaram mensagens com o ex-banqueiro Daniel",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "Conmebol admite ter R$ 88 milhões aplicados no Ueno, banco paraguaio que quebrou após crise",
       "link": "https://g1.globo.com/economia/noticia/2026/11/20/conmebol-recursos-banco-ueno.ghtml",
       "date": "2026-11-20T23:29:32.000Z",
@@ -208,29 +258,11 @@
       "type": "imprensa"
     },
     {
-      "title": "Bolsonaro está estável, mas sem previsão de alta, diz médico",
-      "link": "https://www.poder360.com.br/poder-justica/bolsonaro-esta-estavel-mas-sem-previsao-de-alta-diz-medico/",
-      "date": "2026-11-20T22:01:09.000Z",
-      "summary": "Ex-presidente tem obstrução quase total do intestino delgado e ficará em observação por 24 horas para avaliar evolução e necessidade de cirurgia",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Gilmar diz ‘não ver problema’ em abertura de sigilo sobre relatório de ministros do STF e Master",
       "link": "https://www.estadao.com.br/politica/gilmar-diz-nao-ver-problema-em-abertura-de-sigilo-sobre-relatorio-de-ministros-do-stf-e-master/",
       "date": "2026-11-20T22:00:14.000Z",
       "summary": "",
       "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Van Hattem diz não estar surpreso com voto de Flávio Dino",
-      "link": "https://www.poder360.com.br/poder-congresso/van-hattem-diz-nao-estar-surpreso-com-voto-de-flavio-dino/",
-      "date": "2026-11-20T21:48:22.000Z",
-      "summary": "Deputado acusa ministro de parcialidade após voto para torná-lo réu por declarações contra delegado da Polícia Federal",
-      "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -316,29 +348,11 @@
       "type": "imprensa"
     },
     {
-      "title": "Maksoud Plaza: hotel de luxo fechado em 2021 pode virar condomínio com 398 apartamentos residenciais",
-      "link": "https://www.estadao.com.br/economia/negocios/maksoud-plaza-hotel-de-luxo-fechado-em-2021-pode-virar-condominio-com-398-apartamentos-residenciais/",
-      "date": "2026-11-20T20:33:58.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Jair Bolsonaro dá entrada em hospital após dores abdominais, diz Carlos",
       "link": "https://www.estadao.com.br/politica/jair-bolsonaro-da-entrada-em-hospital-apos-dores-abdominais-diz-carlos/",
       "date": "2026-11-20T20:24:30.000Z",
       "summary": "",
       "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Bolsonaro é internado após sentir dores abdominais",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/20/bolsonaro-hospital-apos-sentir-dores-abdominais.ghtml",
-      "date": "2026-11-20T20:15:13.000Z",
-      "summary": "Bolsonaro é levado a hospital por dor abdominal O ex-presidente Jair Bolsonaro foi internado na tarde desta sexta-feira (20) para realizar exames após sentir dores abdominais. A informação foi confirmada pelo médico do ex-presidente. Segundo boletim médico, Bo",
-      "source": "g1",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -421,24 +435,6 @@
       "summary": "Conservadores criam campanha mostrando chefe de governo da Alemanha como personagem de game para exaltar medidas do governo. Mas peças geram reações irônicas por parte da oposição.",
       "source": "DW Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Dino e Moraes votam para tornar Van Hattem réu por calúnia e injúria contra delegado da PF; Zanin leva caso ao plenário físico do STF",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/20/dino-vota-para-tornar-van-hattem-reu-por-calunia-e-injuria-contra-delegado-da-policia-federal.ghtml",
-      "date": "2026-11-20T14:21:48.000Z",
-      "summary": "O ministro Flávio Dino, do Supremo Tribunal Federal (STF), votou pelo recebimento da denúncia apresentada pela Procuradoria-Geral da República (PGR) contra o deputado federal Marcel Van Hattem (Novo-RS) pelos crimes de calúnia e injúria contra um delegado da P",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Moraes diz que fuga de Flávio para os EUA é tentativa de obstruir investigações e vota para manter restrições a senador",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/20/moraes-diz-que-fuga-de-flavio-para-os-eua-e-tentativa-de-obstruir-investigacao-e-vota-para-manter-restricoes-a-senador.ghtml",
-      "date": "2026-11-20T14:17:49.000Z",
-      "summary": "Moraes vota para manter restrições a Flávio Bolsonaro após fuga para os EUA O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), afirmou que a fuga do senador Flávio Bolsonaro (PL-RJ) do Brasil demonstra atuação com potencial para obstruir invest",
-      "source": "g1",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
