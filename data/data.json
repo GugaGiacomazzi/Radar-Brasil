@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-22T13:54:42.490Z",
+  "updated": "2026-11-22T14:45:36.607Z",
   "market": {
     "ibov": {
       "price": 166376.44,
       "pct": -0.69,
-      "time": "2026-11-22T13:54:32.394Z",
+      "time": "2026-11-22T14:45:29.569Z",
       "history": [
         {
           "d": "2026-10-23",
@@ -137,6 +137,51 @@
   },
   "news": [
     {
+      "title": "Democratas dos EUA planejam reverter tarifas e impostos de Trump",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/democratas-dos-eua-planejam-reverter-tarifas-e-impostos-de-trump.shtml",
+      "date": "2026-11-22T14:28:00.000Z",
+      "summary": "Os democratas americanos realizarão audiências para avaliar a reversão de elementos centrais da visão econômica de Donald Trump, incluindo tarifas e impostos, quando assumirem o controle do Congresso dos Estados Unidos no próximo ano. Leia mais (11/22/2026 - 1",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Prevenir é melhor que remediar: o porquê de uma lei de competição em mercados digitais",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/prevenir-e-melhor-que-remediar-o-porque-de-uma-lei-de-competicao-em-mercados-digitais.shtml",
+      "date": "2026-11-22T14:10:00.000Z",
+      "summary": "O Pix foi construído a partir de uma série de consultas públicas feitas pelo BC (Banco Central) à sociedade e tem três características que levaram ao seu sucesso: 1) a infraestrutura na qual opera é aberta, 2) pode-se fazer Pix entre quaisquer duas contas (ele",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Mega-Sena 3089 acumula e prêmio vai a R$ 65 milhões; confira os números sorteados",
+      "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/22/mega-sena-3089-confira-os-numeros-sorteados.ghtml",
+      "date": "2026-11-22T14:05:01.000Z",
+      "summary": "Mega-Sena, concurso 3089: confira os números sorteados O sorteio do concurso 3.089 da Mega-Sena foi realizado na manhã deste domingo (22), em São Paulo. O prêmio para as apostas que acertassem as seis dezenas era de R$ 43.102.645,31 milhões. No entanto, ningué",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "China critica medida dos EUA que restringe gigantes nacionais das telecomunicações",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/china-critica-medida-dos-eua-que-restringe-gigantes-nacionais-das-telecomunicacoes.shtml",
+      "date": "2026-11-22T14:01:00.000Z",
+      "summary": "O Ministério do Comércio da China criticou neste domingo (22) uma medida adotada por Washington para restringir o acesso direto de grandes empresas chinesas de telecomunicações a números telefônicos registrados nos Estados Unidos. Leia mais (11/22/2026 - 11h01",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Sidônio deixará Secom com Lula mais ativo nas redes sociais",
+      "link": "https://www.poder360.com.br/poder-governo/sidonio-deixara-secom-com-lula-mais-ativo-nas-redes-sociais/",
+      "date": "2026-11-22T14:00:16.000Z",
+      "summary": "Secretaria de Comunicação Social passou a fazer mais postagens com presidente depois que ministro assumiu, em janeiro de 2025",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "Morre Paolo Bulgari, aos 89 anos, herdeiro que ajudou a levar a joalheria italiana ao mundo",
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/morre-paolo-bulgari-aos-89-anos-herdeiro-que-ajudou-a-levar-a-joalheria-italiana-ao-mundo.shtml",
       "date": "2026-11-22T13:42:00.000Z",
@@ -173,15 +218,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Está com cara boa e não teve febre, diz Michelle sobre Bolsonaro",
-      "link": "https://www.poder360.com.br/poder-gente/esta-com-cara-boa-e-nao-teve-febre-diz-michelle-sobre-bolsonaro/",
-      "date": "2026-11-22T12:23:15.000Z",
-      "summary": "Ex-primeira-dama voltou de Israel no sábado e passou a noite com o ex-presidente, internado em Brasília",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "‘Ele está com uma cara boa’, diz Michelle ao visitar Bolsonaro na UTI",
       "link": "https://www.estadao.com.br/politica/ele-esta-com-uma-cara-boa-diz-michelle-ao-visitar-bolsonaro-na-uti-npr/",
       "date": "2026-11-22T12:08:50.000Z",
@@ -197,15 +233,6 @@
       "summary": "Mesmo com o maior nível de instrução da história, os jovens de hoje enfrentam imensos desafios econômicos e políticos. Muitos se questionam se vão conseguir manter a qualidade de vida dos pais.",
       "source": "DW Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Troca de CEOs em empresas do Ibovespa é a maior em cinco anos",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/troca-de-ceos-em-empresas-do-ibovespa-e-a-maior-em-cinco-anos.shtml",
-      "date": "2026-11-22T12:00:00.000Z",
-      "summary": "Do total de 78 companhias do Ibovespa, principal índice da Bolsa de Valores brasileira, 17 trocaram de CEO em 2026, o equivalente a 22%. Esse é a maior rotatividade no cargo em cinco anos, segundo levantamento da consultoria Flow Executive Finders, especializa",
-      "source": "Folha",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -281,9 +308,9 @@
       "type": "imprensa"
     },
     {
-      "title": "BV recebe aval da CVM e dá novo passo para abertura de capital na B3",
-      "link": "https://www.estadao.com.br/economia/coluna-da-broad/bv-recebe-aval-da-cvm-e-da-novo-passo-para-abertura-de-capital-na-b3/",
-      "date": "2026-11-22T08:21:00.000Z",
+      "title": "Fintech ‘copia’ modelo do Minha Casa, Minha Vida para crédito imobiliário",
+      "link": "https://www.estadao.com.br/economia/coluna-da-broad/fintech-copia-modelo-do-minha-casa-minha-vida-para-credito-imobiliario/",
+      "date": "2026-11-22T08:00:00.000Z",
       "summary": "",
       "source": "Estadão",
       "cat": "economia",
@@ -326,15 +353,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Há 3.000 anos, trabalhadores do Egito fizeram uma greve por salários atrasados; conheça a história",
-      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/22/ha-3000-anos-trabalhadores-do-egito-fizeram-uma-greve-por-salarios-atrasados-conheca-a-historia.ghtml",
-      "date": "2026-11-22T06:00:00.000Z",
-      "summary": "Turistas andam em uma carroça puxada por cavalo e em camelos diante das Grandes Pirâmides de Gizé, nos arredores do Cairo, Egito. Mohamed Abd El Ghany/Reuters Durante o reinado de Ramsés III (1184-1153 AEC), segundo faraó da XXª dinastia, o Egito passou por um",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "PEC da Segurança: como uma guarda civil municipal pode virar polícia e o que muda para a população",
       "link": "https://g1.globo.com/politica/noticia/2026/11/22/pec-da-seguranca-como-uma-guarda-civil-municipal-pode-virar-policia.ghtml",
       "date": "2026-11-22T03:00:00.000Z",
@@ -368,24 +386,6 @@
       "summary": "O Ministério das Mulheres está elaborando uma política nacional de enfrentamento à violência política de gênero e raça. A proposta deve ser incorporada ao Plano Nacional de Políticas para Mulheres, com lançamento previsto ainda em 2026. A criação da política a",
       "source": "Folha",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Petróleo na Foz do Amazonas impõe desafio logístico à Petrobras com transporte de gente e equipamentos",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/petroleo-na-foz-do-amazonas-impoe-desafio-logistico-a-petrobras-com-transporte-de-gente-e-equipamentos.shtml",
-      "date": "2026-11-22T02:00:00.000Z",
-      "summary": "No aeródromo de Oiapoque (AP), quase duas dezenas de pessoas se preparam para embarcar. O check-in é feito em mesas de escritório e a inspeção de bagagens é manual, sem aparelhos de raio-X. Após passar pela segurança, os passageiros esperam em uma salinha sem ",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "A infraestrutura invisível",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/ana-paula-vescovi/2026/11/a-infraestrutura-invisivel.shtml",
-      "date": "2026-11-22T02:00:00.000Z",
-      "summary": "Quando economistas discutem os obstáculos ao crescimento brasileiro, a conversa quase sempre chega aos mesmos lugares: juros altos, carga tributária, baixa produtividade, desequilíbrio fiscal e deficiência da infraestrutura. Raramente chega ao sistema de Justi",
-      "source": "Folha",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
