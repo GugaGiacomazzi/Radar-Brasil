@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-22T19:31:56.229Z",
+  "updated": "2026-11-22T20:26:10.665Z",
   "market": {
     "ibov": {
       "price": 166376.44,
       "pct": -0.69,
-      "time": "2026-11-22T19:31:52.496Z",
+      "time": "2026-11-22T20:26:04.225Z",
       "history": [
         {
           "d": "2026-10-23",
@@ -137,6 +137,87 @@
   },
   "news": [
     {
+      "title": "COP31 termina sem acordo após impasse sobre combustíveis fósseis",
+      "link": "https://www.bbc.com/portuguese/articles/cq742zpk1ln4o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-22T20:14:02.000Z",
+      "summary": "Negociações, que deveriam ter terminado na sexta-feira, se estenderam até hoje, tornando essa a conferência climática da ONU mais longa da história.",
+      "source": "BBC News Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Petrobras divulga plano de negócios sob expectativa de investimentos maiores e pressão no caixa",
+      "link": "https://www.estadao.com.br/economia/negocios/petrobras-divulga-plano-de-negocios-expectativa-investimentos/",
+      "date": "2026-11-22T20:08:06.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Economia circular depende de catadores e ainda ignora seu papel",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/economia-sustentavel/2026/11/economia-circular-depende-de-catadores-e-ainda-ignora-seu-papel.shtml",
+      "date": "2026-11-22T20:07:00.000Z",
+      "summary": "Em Bogotá, na Colômbia, milhares de catadores percorrem as ruas todos os dias para recolher papelão, plástico, metal e papel. Sem eles, uma parcela significativa dos materiais recicláveis acabaria em aterros sanitários. Ainda assim, sua contribuição continua s",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Apoiadores oram pela saúde de Bolsonaro em frente a hospital",
+      "link": "https://www.poder360.com.br/poder-gente/apoiadores-oram-pela-saude-de-bolsonaro-em-frente-a-hospital/",
+      "date": "2026-11-22T20:06:54.000Z",
+      "summary": "Internado na UTI desde 6ª feira (20.nov), ex-presidente recebe tratamento para uma obstrução intestinal; médicos dizem que quadro é estável",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "75 anos da CNseg: homenagem institucional reconhece atividade que presta relevantes serviços ao País",
+      "link": "https://www.estadao.com.br/economia/antonio-penteado-mendonca/75-anos-da-cnseg/",
+      "date": "2026-11-22T20:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "O melhor programa social é o emprego",
+      "link": "https://www.estadao.com.br/economia/henrique-meirelles/melhor-programa-social-emprego/",
+      "date": "2026-11-22T20:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Tempestade perfeita pode transformar desaceleração em estagnação prolongada ou mesmo em recessão",
+      "link": "https://www.estadao.com.br/economia/claudio-adilson-goncalez/tempestade-perfeita-transformar-desaceleracao-estagnacao-ou-recessao/",
+      "date": "2026-11-22T20:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Humorista imita Trump em jantar com primeiro-ministro do Canadá",
+      "link": "https://www.poder360.com.br/poder-internacional/humorista-imita-trump-em-jantar-com-primeiro-ministro-do-canada/",
+      "date": "2026-11-22T19:38:02.000Z",
+      "summary": "Mark Carney participou de evento anual da imprensa parlamentar canadense, realizado em Ottawa",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Como dois refrigeradores abandonados pelo exército dos EUA na Toscana deram origem ao sorvete italiano",
+      "link": "https://www.bbc.com/portuguese/articles/cqr7g87en4pno?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-22T19:34:31.000Z",
+      "summary": "O sorvete é sinônimo da Itália, mas suas origens modernas remontam a uma humilde leiteria na Toscana e a um par de refrigeradores abandonados após a Segunda Guerra Mundial.",
+      "source": "BBC News Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
       "title": "Cleitinho elogia Ana Elisa e diz ter orgulho da deputada petista",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/cleitinho-elogia-ana-elisa-e-diz-ter-orgulho-da-deputada-petista.shtml",
       "date": "2026-11-22T18:04:00.000Z",
@@ -218,57 +299,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Compras como alívio emocional causam ciclo vicioso",
-      "link": "https://www.poder360.com.br/poder-saude/compras-como-alivio-emocional-causam-ciclo-vicioso/",
-      "date": "2026-11-22T17:00:16.000Z",
-      "summary": "Consumo por impulso pode resultar em dependência psicológica e endividamento em falsa busca por bem-estar",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "IA e matemática: entramos na era das verdades que não entendemos",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/ronaldolemos/2026/11/ia-e-matematica-entramos-na-era-das-verdades-que-nao-entendemos.shtml",
-      "date": "2026-11-22T17:00:00.000Z",
-      "summary": "Bernhard Riemann nasceu em 1826 em Breselenz, Hannover. Filho de família pobre, quis estudar teologia por inspiração do pai, pastor luterano. Ao ingressar, mudou para a matemática, que via como \"outra forma de servir a Deus\". Pouco depois ele se tornaria um do",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "The Economist: O que está causando os recentes apagões nos Estados Unidos?",
-      "link": "https://www.estadao.com.br/economia/negocios/the-economist-o-que-esta-causando-os-recentes-apagoes-nos-estados-unidos/",
-      "date": "2026-11-22T17:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Bolsonaro está clinicamente estável e segue em UTI, diz boletim médico",
       "link": "https://g1.globo.com/politica/politico/noticia/2026/11/22/bolsonaro-esta-estavel-diz-hospital.ghtml",
       "date": "2026-11-22T16:54:30.000Z",
-      "summary": "Ex-presidente Jair Bolsonaro Pablo Porciuncula/AFP O ex-presidente Jair Bolsonaro está clinicamente estável, informou o Hospital DF Star na tarde deste domingo (22). Bolsonaro está internado na unidade de terapia intensiva (UTI), com diagnóstico de abdômen agu",
+      "summary": "Ex-presidente Jair Bolsonaro Pablo Porciuncula/AFP O ex-presidente Jair Bolsonaro está clinicamente estável, informou o Hospital DF Star na tarde deste domingo (22). Bolsonaro está internado na unidade de terapia intensiva (UTI) com diagnóstico de abdômen agud",
       "source": "g1",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Flávio, Damares e políticos de direita pedem orações para Bolsonaro",
-      "link": "https://www.poder360.com.br/poder-gente/flavio-damares-e-politicos-de-direita-pedem-oracoes-para-bolsonaro/",
-      "date": "2026-11-22T16:44:59.000Z",
-      "summary": "Políticos alinhados ao ex-presidente publicaram mensagens de apoio; ex-chefe do Executivo foi internado em Brasília por obstrução intestinal",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Futuro das COPs: modelo que pede ‘consenso’ fracassa na Turquia e novas formas devem ser adotadas",
-      "link": "https://www.estadao.com.br/economia/roberto-waack/futuro-das-cops-modelo-que-pede-consenso-fracassa-na-turquia-e-novas-formas-devem-ser-adotadas/",
-      "date": "2026-11-22T16:37:07.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -290,39 +326,12 @@
       "type": "imprensa"
     },
     {
-      "title": "COP31 termina sem acordo após impasse sobre combustíveis fósseis",
-      "link": "https://www.bbc.com/portuguese/articles/cq742zpk1ln4o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-22T15:56:42.000Z",
-      "summary": "A quarta versão do texto não mencionava a necessidade de eliminar progressivamente o uso desses combustíveis, a principal causa das mudanças climáticas.",
-      "source": "BBC News Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Trump sanciona lei que encerra oficialmente produção de moeda de um centavo de dólar",
-      "link": "https://www.estadao.com.br/economia/trump-assina-lei-formaliza-fim-producao-moeda-um-centavo-dolar/",
-      "date": "2026-11-22T15:41:14.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Veto de sauditas e russos deixa COP31 sem declaração final pela 1ª vez desde 2009",
       "link": "https://www.dw.com/pt-br/veto-de-sauditas-e-russos-deixa-cop31-sem-declaração-final-pela-1ª-vez-desde-2009/a-80014428?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-22T15:41:00.000Z",
       "summary": "União Europeia (UE) e outros países se recusaram a endossar proposta de texto final que não mencionava combustíveis fósseis. Alemanha diz que produtores de petróleo impediram desejo da grande maioria dos membros.",
       "source": "DW Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "ICMS sobre o diesel acumula alta de 735,7% desde 2002, acima da inflação acumulada, aponta estudo",
-      "link": "https://www.estadao.com.br/economia/icms-sobre-diesel-alta-desde-2002-acima-inflacao-estudo/",
-      "date": "2026-11-22T15:05:09.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
