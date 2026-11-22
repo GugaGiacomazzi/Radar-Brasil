@@ -1,15 +1,11 @@
 {
-  "updated": "2026-11-21T23:39:42.057Z",
+  "updated": "2026-11-22T00:21:09.965Z",
   "market": {
     "ibov": {
       "price": 166376.44,
       "pct": -0.69,
-      "time": "2026-11-21T23:39:35.107Z",
+      "time": "2026-11-22T00:21:00.711Z",
       "history": [
-        {
-          "d": "2026-10-22",
-          "c": 204120
-        },
         {
           "d": "2026-10-23",
           "c": 205083
@@ -141,6 +137,51 @@
   },
   "news": [
     {
+      "title": "Henry Shevlin, do Google DeepMind: 'Esta é a parte mais importante de ser humano'",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/henry-shevlin-do-google-deepmind-esta-e-a-parte-mais-importante-de-ser-humano.shtml",
+      "date": "2026-11-22T00:09:00.000Z",
+      "summary": "Henry Shevlin recebe muitos e-mails por ser um acadêmico que estuda a consciência, mas nem todos vêm de seres humanos. Em fevereiro, o diretor associado do Leverhulme Centre for the Future of Intelligence, da Universidade de Cambridge, recebeu um \"e-mail excep",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Zanin suspende Congresso do Cidadania, que incorporaria partido ao PP",
+      "link": "https://www.estadao.com.br/politica/zanin-suspende-congresso-do-cidadania-que-incorporaria-partido-ao-pp/",
+      "date": "2026-11-21T23:56:52.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Construção de casas sem desperdício acelera. Mas no ritmo necessário?",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/economia-sustentavel/2026/11/construcao-de-casas-sem-desperdicio-acelera-mas-no-ritmo-necessario.shtml",
+      "date": "2026-11-21T23:49:00.000Z",
+      "summary": "Em Epping Forest, na periferia nordeste de Londres, um novo empreendimento com 113 casas elegantes, revestidas de tijolos e madeira, começa a tomar forma. Embora haja as escavadeiras, os guindastes e os andaimes que se esperaria encontrar em um canteiro de obr",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Bolsonaro tem tornozeleira retirada durante internação na UTI",
+      "link": "https://www.poder360.com.br/poder-justica/bolsonaro-tem-tornozeleira-retirada-durante-internacao-na-uti/",
+      "date": "2026-11-21T23:42:13.000Z",
+      "summary": "Ministro do STF Alexandre de Moraes determinou que equipamento seja recolocado após alta hospitalar; ex-presidente está internado em Brasília",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Pastores oram por melhora de Bolsonaro em frente a hospital",
+      "link": "https://www.poder360.com.br/poder-brasil/pastores-oram-por-melhora-de-bolsonaro-em-frente-a-hospital/",
+      "date": "2026-11-21T23:39:34.000Z",
+      "summary": "Ex-presidente está internado na UTI do hospital DF Star, em Brasília, com obstrução intestinal",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "Bélgica enfrenta paralisação do tráfego aéreo devido a greve nacional na segunda-feira",
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/belgica-enfrenta-paralisacao-do-trafego-aereo-devido-a-greve-nacional-na-segunda-feira.shtml",
       "date": "2026-11-21T23:24:00.000Z",
@@ -195,24 +236,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Trump posa ao lado de Putin e o chama de “meu amigo” na China",
-      "link": "https://www.poder360.com.br/poder-internacional/trump-posa-ao-lado-de-putin-e-o-chama-de-meu-amigo-na-china/",
-      "date": "2026-11-21T22:07:17.000Z",
-      "summary": "Presidente dos EUA elogiou relação com líder russo durante encontro na China; declaração provocou críticas na Europa",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Países vão discutir regras para “robôs assassinos” até 2028",
-      "link": "https://www.poder360.com.br/poder-tech/paises-vao-discutir-regras-para-robos-assassinos-ate-2028/",
-      "date": "2026-11-21T21:46:43.000Z",
-      "summary": "Decisão foi tomada por 128 países em Genebra; EUA, Rússia e Israel resistiram à proposta de um tratado obrigatório",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Secretário de Tarcísio troca Palácio dos Bandeirantes por salas de Oxford por uma semana",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/secretario-de-tarcisio-troca-palacio-dos-bandeirantes-por-salas-de-oxford-por-uma-semana.shtml",
       "date": "2026-11-21T21:00:00.000Z",
@@ -226,24 +249,6 @@
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/blogs/de-grao-em-grao/2026/11/ter-acoes-na-carteira-e-sempre-uma-boa-decisao.shtml",
       "date": "2026-11-21T21:00:00.000Z",
       "summary": "Você já ouviu que todo investidor deveria manter uma parcela do patrimônio em ações, especialmente quando pretende investir por muitos anos? Essa recomendação é tão difundida que muita gente compra ações simplesmente porque acredita que uma carteira sem Bolsa ",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Amazon está perto de fechar compra da Decart em acordo bilionário para ganhar eficiência em IA",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/amazon-negocia-compra-da-startup-decart-em-acordo-bilionario-para-ganhar-eficiencia-em-ia.shtml",
-      "date": "2026-11-21T20:37:00.000Z",
-      "summary": "A Amazon está perto de fechar um acordo de US$ 7,5 bilhões (R$ 44,6 bilhões) para comprar a startup Decart, ressaltando o interesse das gigantes de tecnologia em fortalecer as próprias operações de inteligência artificial. Leia mais (11/21/2026 - 17h37)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Alice Huang, caso de ex-CEO da Nvidia, conectava empresas e abastecia mercado clandestino de chips",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/alice-huang-caso-de-ex-ceo-da-nvidia-conectava-empresas-e-abastecia-mercado-clandestino-de-chips.shtml",
-      "date": "2026-11-21T20:16:00.000Z",
-      "summary": "A executiva chinesa que mantinha relacionamento amoroso com Jensen Huang, ex-CEO da Nvidia, tinha vínculos com o lucrativo comércio de chips para a China. Leia mais (11/21/2026 - 17h16)",
       "source": "Folha",
       "cat": "economia",
       "type": "imprensa"
@@ -309,15 +314,6 @@
       "summary": "Joe Wallach morre aos 103 anos Joe Wallach, executivo americano que participou da fundação da TV Globo e colaborou com a emissora durante décadas, morreu aos 103 anos. Ele vivia em Los Angeles, na Califórnia (EUA). Wallach chegou ao Brasil em 1965 para partici",
       "source": "g1",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Moraes autoriza visitas dos filhos a Bolsonaro durante internação, mas proíbe celulares e câmeras",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/moraes-autoriza-visitas-dos-filhos-a-bolsonaro-durante-internacao-mas-proibe-celulares-e-cameras/",
-      "date": "2026-11-21T16:33:48.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
