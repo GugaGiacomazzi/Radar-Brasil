@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-22T01:51:16.250Z",
+  "updated": "2026-11-22T02:49:54.809Z",
   "market": {
     "ibov": {
       "price": 166376.44,
       "pct": -0.69,
-      "time": "2026-11-22T01:51:11.258Z",
+      "time": "2026-11-22T02:49:48.608Z",
       "history": [
         {
           "d": "2026-10-23",
@@ -137,6 +137,78 @@
   },
   "news": [
     {
+      "title": "Ministério das Mulheres vai criar política de proteção contra violência política de gênero e raça",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/ministerio-das-mulheres-vai-criar-politica-de-protecao-contra-violencia-politica-de-genero-e-raca.shtml",
+      "date": "2026-11-22T02:00:00.000Z",
+      "summary": "O Ministério das Mulheres está elaborando uma política nacional de enfrentamento à violência política de gênero e raça. A proposta deve ser incorporada ao Plano Nacional de Políticas para Mulheres, com lançamento previsto ainda em 2026. A criação da política a",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Os riscos políticos do ajuste fiscal",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/celso-rocha-de-barros/2026/11/os-riscos-politicos-do-ajuste-fiscal.shtml",
+      "date": "2026-11-22T02:00:00.000Z",
+      "summary": "Conforme vai ficando claro que a proposta de André Lara Resende tem problemas sérios, e também exige um ajuste fiscal duro; e que não, o plano Moretti não é estelionato eleitoral, ganha espaço na esquerda um argumento político contra o ajuste fiscal. Leia mais",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Metade dos reeleitos na Alesp faltou a 76% das sessões durante a campanha",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/metade-dos-reeleitos-na-alesp-faltou-a-76-das-sessoes-durante-a-campanha.shtml",
+      "date": "2026-11-22T02:00:00.000Z",
+      "summary": "Metade dos parlamentares reeleitos compareceu a apenas um quarto das sessões ou reuniões plenárias agendadas para o período de campanha eleitoral, segundo a lista de presença dos deputados estaduais de São Paulo. Leia mais (11/21/2026 - 23h00)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Entorno branco e masculino de Lula dificulta uma ministra negra no STF, diz ex-ministra do TSE",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/entorno-branco-e-masculino-de-lula-dificulta-uma-ministra-negra-no-stf-diz-ex-ministra-do-tse.shtml",
+      "date": "2026-11-22T02:00:00.000Z",
+      "summary": "Há uma cadeira vaga no STF (Supremo Tribunal Federal) e uma mobilização crescente de diferentes setores da sociedade para que seja uma ministra negra a ocupá-la. Leia mais (11/21/2026 - 23h00)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Petróleo na Foz do Amazonas impõe desafio logístico à Petrobras com transporte de gente e equipamentos",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/petroleo-na-foz-do-amazonas-impoe-desafio-logistico-a-petrobras-com-transporte-de-gente-e-equipamentos.shtml",
+      "date": "2026-11-22T02:00:00.000Z",
+      "summary": "No aeródromo de Oiapoque (AP), quase duas dezenas de pessoas se preparam para embarcar. O check-in é feito em mesas de escritório e a inspeção de bagagens é manual, sem aparelhos de raio-X. Após passar pela segurança, os passageiros esperam em uma salinha sem ",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "A infraestrutura invisível",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/ana-paula-vescovi/2026/11/a-infraestrutura-invisivel.shtml",
+      "date": "2026-11-22T02:00:00.000Z",
+      "summary": "Quando economistas discutem os obstáculos ao crescimento brasileiro, a conversa quase sempre chega aos mesmos lugares: juros altos, carga tributária, baixa produtividade, desequilíbrio fiscal e deficiência da infraestrutura. Raramente chega ao sistema de Justi",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Brasil amplia negócios no Sudeste Asiático, mas enfrenta barreiras regulatórias e protecionismo",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/brasil-amplia-negocios-no-sudeste-asiatico-mas-enfrenta-barreiras-regulatorias-e-protecionismo.shtml",
+      "date": "2026-11-22T02:00:00.000Z",
+      "summary": "O Brasil busca ampliar sua presença no Sudeste Asiático, região que ganha importância na estratégia de diversificação comercial do país em meio ao tarifaço imposto pelos Estados Unidos. Apesar do crescimento do comércio com esses mercados, exportadores brasile",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Pesquisa Focus e a política monetária",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/samuelpessoa/2026/11/pesquisa-focus-e-a-politica-monetaria.shtml",
+      "date": "2026-11-22T02:00:00.000Z",
+      "summary": "A pesquisa Focus, conduzida semanalmente pelo BC (Banco Central), coleta, entre os economistas do mercado, a previsão da inflação e de outras variáveis econômicas importantes. As previsões são feitas para diversos horizontes. Leia mais (11/21/2026 - 23h00)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "Brasil recebe 7,5 milhões de turistas estrangeiros e supera meta do ano com dois meses de antecedência",
       "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/21/brasil-recebe-75-milhoes-de-turistas-estrangeiros-e-supera-meta-do-ano-com-dois-meses-de-antecedencia.ghtml",
       "date": "2026-11-22T01:29:23.000Z",
@@ -155,30 +227,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Henry Shevlin, do Google DeepMind: 'Esta é a parte mais importante de ser humano'",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/henry-shevlin-do-google-deepmind-esta-e-a-parte-mais-importante-de-ser-humano.shtml",
-      "date": "2026-11-22T00:09:00.000Z",
-      "summary": "Henry Shevlin recebe muitos e-mails por ser um acadêmico que estuda a consciência, mas nem todos vêm de seres humanos. Em fevereiro, o diretor associado do Leverhulme Centre for the Future of Intelligence, da Universidade de Cambridge, recebeu um \"e-mail excep",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Zanin suspende Congresso do Cidadania, que incorporaria partido ao PP",
       "link": "https://www.estadao.com.br/politica/zanin-suspende-congresso-do-cidadania-que-incorporaria-partido-ao-pp/",
       "date": "2026-11-21T23:56:52.000Z",
       "summary": "",
       "source": "Estadão",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Construção de casas sem desperdício acelera. Mas no ritmo necessário?",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/economia-sustentavel/2026/11/construcao-de-casas-sem-desperdicio-acelera-mas-no-ritmo-necessario.shtml",
-      "date": "2026-11-21T23:49:00.000Z",
-      "summary": "Em Epping Forest, na periferia nordeste de Londres, um novo empreendimento com 113 casas elegantes, revestidas de tijolos e madeira, começa a tomar forma. Embora haja as escavadeiras, os guindastes e os andaimes que se esperaria encontrar em um canteiro de obr",
-      "source": "Folha",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -200,29 +254,11 @@
       "type": "imprensa"
     },
     {
-      "title": "Bélgica enfrenta paralisação do tráfego aéreo devido a greve nacional na segunda-feira",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/belgica-enfrenta-paralisacao-do-trafego-aereo-devido-a-greve-nacional-na-segunda-feira.shtml",
-      "date": "2026-11-21T23:24:00.000Z",
-      "summary": "Quase todos os voos devem ser cancelados na Bélgica na segunda-feira (23), depois que a empresa responsável pelo controle de tráfego aéreo do país informou que seus funcionários participarão de uma greve nacional contra as medidas de austeridade do governo. Le",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Protestos na França reúnem 150 mil, dizem organizadores",
       "link": "https://www.poder360.com.br/poder-internacional/protestos-na-franca-reunem-150-mil-dizem-organizadores/",
       "date": "2026-11-21T23:21:10.000Z",
       "summary": "Ministério do Interior francês contabilizou 82.500 manifestantes; mobilização perde força em 6º sábado consecutivo de atos",
       "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "OAB-SP alerta STF que pejotização pode gerar perdas de R$ 200 bi por ano",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/oab-sp-alerta-stf-que-pejotizacao-pode-gerar-perdas-de-r-200-bi-por-ano.shtml",
-      "date": "2026-11-21T23:00:00.000Z",
-      "summary": "A OAB-SP entregou ao presidente do STF (Supremo Tribunal Federal), ministro Edson Fachin, uma nota técnica que aponta que a pejotização pode gerar perdas de arrecadação na ordem de R$ 200 bilhões por ano. Leia mais (11/21/2026 - 20h00)",
-      "source": "Folha",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -245,24 +281,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Secretário de Tarcísio troca Palácio dos Bandeirantes por salas de Oxford por uma semana",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/secretario-de-tarcisio-troca-palacio-dos-bandeirantes-por-salas-de-oxford-por-uma-semana.shtml",
-      "date": "2026-11-21T21:00:00.000Z",
-      "summary": "O secretário-chefe da Casa Civil do governo Tarcísio de Freitas, Nerylson Lima, vai trocar o Palácio dos Bandeirantes pelas salas de Oxford na próxima semana. Leia mais (11/21/2026 - 18h00)",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Ter ações na carteira é sempre uma boa decisão?",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/blogs/de-grao-em-grao/2026/11/ter-acoes-na-carteira-e-sempre-uma-boa-decisao.shtml",
-      "date": "2026-11-21T21:00:00.000Z",
-      "summary": "Você já ouviu que todo investidor deveria manter uma parcela do patrimônio em ações, especialmente quando pretende investir por muitos anos? Essa recomendação é tão difundida que muita gente compra ações simplesmente porque acredita que uma carteira sem Bolsa ",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Pacote fiscal não é ajuste; nem bom nem primeiro passo",
       "link": "https://www.estadao.com.br/economia/alexandre-schwartsman/pacote-fiscal-nao-e-ajuste-nem-bom-nem-primeiro-passo/",
       "date": "2026-11-21T20:00:00.000Z",
@@ -272,30 +290,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Radicais de direita e esquerda se unem nos equívocos",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/dora-kramer/2026/11/radicais-de-direita-e-esquerda-se-unem-nos-equivocos.shtml",
-      "date": "2026-11-21T19:45:00.000Z",
-      "summary": "Radicais de modo geral se equivocam mais ou menos da mesma maneira, independentemente do espectro ideológico a que pertençam. Leia mais (11/21/2026 - 16h45)",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "União Europeia propõe taxar big techs para financiar orçamento",
       "link": "https://www.dw.com/pt-br/união-europeia-propõe-taxar-big-techs-para-financiar-orçamento/a-80010694?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-21T18:24:00.000Z",
       "summary": "Proposta prevê cobrança de 3% sobre receitas de publicidade online de grandes empresas de tecnologia para ampliar as receitas do bloco.",
       "source": "DW Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Governo do DF quer aproveitar estrutura de festival da posse de Lula para festa de Réveillon",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/governo-do-df-quer-aproveitar-estrutura-de-festival-da-posse-de-lula-para-festa-de-reveillon.shtml",
-      "date": "2026-11-21T18:00:00.000Z",
-      "summary": "O governo do Distrito Federal planeja pedir ao governo federal a possibilidade de usar a estrutura que será montada para o festival com shows para a posse do presidente Lula (PT) para a festa de Réveillon na capital federal. Leia mais (11/21/2026 - 15h00)",
-      "source": "Folha",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
