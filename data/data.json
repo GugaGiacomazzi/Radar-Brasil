@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-22T00:21:09.965Z",
+  "updated": "2026-11-22T01:51:16.250Z",
   "market": {
     "ibov": {
       "price": 166376.44,
       "pct": -0.69,
-      "time": "2026-11-22T00:21:00.711Z",
+      "time": "2026-11-22T01:51:11.258Z",
       "history": [
         {
           "d": "2026-10-23",
@@ -137,6 +137,24 @@
   },
   "news": [
     {
+      "title": "Brasil recebe 7,5 milhões de turistas estrangeiros e supera meta do ano com dois meses de antecedência",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/21/brasil-recebe-75-milhoes-de-turistas-estrangeiros-e-supera-meta-do-ano-com-dois-meses-de-antecedencia.ghtml",
+      "date": "2026-11-22T01:29:23.000Z",
+      "summary": "Estrangeiros gastam mais de R$ 45 bi no Brasil O turismo internacional está batendo recordes no Brasil esse ano. E o valor gasto por estrangeiros já é o maior registrado pelo Ministério do Turismo. 📱Favorite o g1 no Google e acompanhe as principais notícias d",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Após viagem, Michelle vai a hospital em que Bolsonaro está internado",
+      "link": "https://www.poder360.com.br/poder-gente/apos-viagem-michelle-vai-a-hospital-em-que-bolsonaro-esta-internado/",
+      "date": "2026-11-22T01:13:12.000Z",
+      "summary": "Senadora eleita e ex-primeira-dama retornou de viagem neste sábado; ela estava em Israel desde a semana passada",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "Henry Shevlin, do Google DeepMind: 'Esta é a parte mais importante de ser humano'",
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/henry-shevlin-do-google-deepmind-esta-e-a-parte-mais-importante-de-ser-humano.shtml",
       "date": "2026-11-22T00:09:00.000Z",
@@ -214,15 +232,6 @@
       "date": "2026-11-21T23:00:00.000Z",
       "summary": "",
       "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Padre Kelmon quer aval de Moraes para dar “extrema-unção” a Bolsonaro",
-      "link": "https://www.poder360.com.br/poder-gente/padre-kelmon-quer-aval-de-moraes-para-dar-extrema-uncao-a-bolsonaro/",
-      "date": "2026-11-21T22:55:24.000Z",
-      "summary": "Ex-presidente está internado na UTI com obstrução intestinal; sacerdote afirma que aguarda pedido da defesa para realizar visita religiosa",
-      "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -404,15 +413,6 @@
       "summary": "",
       "source": "Estadão",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Ataques cibernéticos, IA ou atualizações pendentes: o que há por trás da onda de apagões dos últimos dias",
-      "link": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/11/21/ataques-ciberneticos-ia-ou-atualizacoes-pendentes-o-que-ha-por-tras-da-onda-de-apagoes-dos-ultimos-dias.ghtml",
-      "date": "2026-11-21T10:27:04.000Z",
-      "summary": "Interrupções de serviços e falhas de informática são comuns, mas não a esta escala. Na última semana, a Microsoft sofreu uma interrupção em massa dos seus serviços. Uma aparente falha técnica causou a suspensão de todos os voos nos Estados Unidos por horas. E ",
-      "source": "g1",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -603,15 +603,6 @@
       "source": "Banco Central",
       "cat": "economia",
       "type": "oficial"
-    },
-    {
-      "title": "Anthropic dispara na estreia na bolsa e chega a valer R$ 11 trilhões: empresa pode evitar estouro da bolha da IA?",
-      "link": "https://www.bbc.com/portuguese/articles/cm782wyv0153o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-19T14:39:39.000Z",
-      "summary": "Ações começaram a ser negociadas com alta de 34%, mas recuaram depois, de US$ 111,50 para cerca de US$ 100.",
-      "source": "BBC News Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
     },
     {
       "title": "ONU quer libertação de funcionários e abertura de estradas para ajudar Iêmen",
