@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-22T22:24:41.875Z",
+  "updated": "2026-11-22T23:24:47.550Z",
   "market": {
     "ibov": {
       "price": 166376.44,
       "pct": -0.69,
-      "time": "2026-11-22T22:24:36.258Z",
+      "time": "2026-11-22T23:24:43.588Z",
       "history": [
         {
           "d": "2026-10-23",
@@ -137,6 +137,60 @@
   },
   "news": [
     {
+      "title": "Zanin leva caso sobre emendas de ex-ministro de Lula a sessão presencial",
+      "link": "https://www.poder360.com.br/poder-justica/zanin-leva-caso-sobre-emendas-de-ex-ministro-de-lula-a-sessao-presencial/",
+      "date": "2026-11-22T23:20:25.000Z",
+      "summary": "Deputado reeleito, Juscelino Filho é alvo de denúncia da PGR por organização criminosa, fraude em licitações, peculato e corrupção ativa",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Calcificação do eleitorado nos EUA e no Brasil",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/marcus-melo/2026/11/calcificacao-do-eleitorado-nos-eua-e-no-brasil.shtml",
+      "date": "2026-11-22T23:10:00.000Z",
+      "summary": "Em janeiro de 2016, num auditório repleto em Sioux Center, Iowa, Donald Trump fez uma \"arminha\" com os dedos e disse: \"Posso atirar em alguém no meio da Quinta Avenida de Nova York e não perderia um só eleitor\". A hipérbole antecipava uma convicção que sustent",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "PT quer manter comando sobre Saúde e Educação e disputa outros ministérios robustos",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/pt-quer-manter-comando-sobre-saude-e-educacao-e-disputa-outros-ministerios-robustos.shtml",
+      "date": "2026-11-22T23:00:00.000Z",
+      "summary": "Os senadores do PT cobraram do presidente do partido, Edinho Silva, que a legenda continue no comando dos Ministérios da Saúde e da Educação e ainda discutiram assumir outras pastas robustas, como o das Cidades e o do Desenvolvimento Regional. Leia mais (11/22",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Fracasso da COP-31 reforça importância do Brasil avançar em metas climáticas",
+      "link": "https://www.estadao.com.br/politica/diogo-schelp/fracasso-da-cop-31-reforca-importancia-do-brasil-avancar-em-metas-climaticas/",
+      "date": "2026-11-22T23:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Ministro da Educação da Coreia do Sul renuncia após fraudes em exames",
+      "link": "https://www.poder360.com.br/poder-internacional/ministro-da-educacao-da-coreia-do-sul-renuncia-apos-fraudes-em-exames/",
+      "date": "2026-11-22T22:35:23.000Z",
+      "summary": "Choi Kyo-jin renunciou depois de mudanças de última hora nas regras do vestibular nacional provocarem transtornos, principalmente entre estudantes",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Explosão em navio russo na Líbia levanta suspeita de ataque de drone",
+      "link": "https://www.dw.com/pt-br/explosão-em-navio-russo-na-líbia-levanta-suspeita-de-ataque-de-drone/a-80014687?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-22T22:34:00.000Z",
+      "summary": "Explosão deixou feridos em embarcação ancorada em Benghazi. Caso reforça temores de expansão do conflito entre Moscou e Kiev para além dos principais campos de batalha",
+      "source": "DW Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
       "title": "Dólar digital chega a R$ 6,15 em negociação neste domingo",
       "link": "https://www.poder360.com.br/poder-economia/dolar-digital-chega-a-r-615-em-negociacao-neste-domingo/",
       "date": "2026-11-22T22:23:52.000Z",
@@ -146,8 +200,8 @@
       "type": "imprensa"
     },
     {
-      "title": "\"Inconcebível\", \"inaceitável\": líderes criticam fracasso da COP31",
-      "link": "https://www.dw.com/pt-br/inconcebível-inaceitável-líderes-criticam-fracasso-da-cop31/a-80015363?maca=bra-rss-br-all-1030-xml-mrss",
+      "title": "\"Inconcebível\", \"inaceitável\": delegações criticam fracasso da COP31",
+      "link": "https://www.dw.com/pt-br/inconcebível-inaceitável-delegações-criticam-fracasso-da-cop31/a-80015363?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-22T22:20:00.000Z",
       "summary": "Da União Europeia ao Brasil, negociadores e ativistas classificaram ausência de acordo final na Cúpula do Clima como um retrocesso para o combate à crise climática.",
       "source": "DW Brasil",
@@ -159,24 +213,6 @@
       "link": "https://www.poder360.com.br/poder-congresso/janones-diz-que-quer-contribuir-para-fim-da-extrema-direita-no-mundo/",
       "date": "2026-11-22T22:03:03.000Z",
       "summary": "Deputado pretende compartilhar estratégia digital usada na campanha de Lula com grupos \"progressistas\" de outros países",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Direita tem muitos craques e esquerda só Lula de líder, diz Flávio",
-      "link": "https://www.poder360.com.br/poder-congresso/direita-tem-muitos-craques-e-esquerda-so-lula-de-lider-diz-flavio/",
-      "date": "2026-11-22T21:47:52.000Z",
-      "summary": "Senador diz que pretende disputar a Presidência em 2030 se Jair Bolsonaro continuar inelegível e o Congresso aprovar mudanças no sistema eleitoral",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Aldo Rebelo diz que Lula foi “patético” ao participar da COP31",
-      "link": "https://www.poder360.com.br/poder-brasil/aldo-rebelo-diz-que-lula-foi-patetico-ao-participar-da-cop31/",
-      "date": "2026-11-22T21:36:07.000Z",
-      "summary": "Ex-presidente da Câmara afirma que petista se assemelha a Silvério dos Reis e sucumbe a agenda colonialista do século 21 ao se posicionar pelo redução do uso dos combustíveis fósseis",
       "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
@@ -317,24 +353,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Bolsonaro segue na UTI, com quadro estável e sem previsão de alta",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/bolsonaro-segue-na-uti-com-quadro-estavel-e-sem-previsao-de-alta.shtml",
-      "date": "2026-11-22T17:40:00.000Z",
-      "summary": "O ex-presidente Jair Bolsonaro segue internado em UTI (Unidade de Terapia Intensiva) sem previsão de alta. Segundo boletim médico divulgado na tarde deste domingo (22), o ex-presidente recebeu o diagnóstico de abdômen agudo obstrutivo. Leia mais (11/22/2026 - ",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Explosão em navio russo na Líbia levanta suspeita de ataque de drone",
-      "link": "https://www.dw.com/pt-br/explosão-em-navio-russo-na-líbia-levanta-suspeita-de-ataque-de-drone/a-80014687?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-22T17:23:00.000Z",
-      "summary": "Explosão deixou feridos em embarcação ancorada em Benghazi. Caso reforça temores de expansão do conflito entre Moscou e Kiev para além dos principais campos de batalha",
-      "source": "DW Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
       "title": "Bolsonaro está clinicamente estável e segue em UTI, diz boletim médico",
       "link": "https://g1.globo.com/politica/politico/noticia/2026/11/22/bolsonaro-esta-estavel-diz-hospital.ghtml",
       "date": "2026-11-22T16:54:30.000Z",
@@ -353,30 +371,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Centrão e direita são quase metade dos filiados em cargos políticos do governo Lula fora de Brasília",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/centrao-e-direita-sao-quase-metade-dos-filiados-em-cargos-politicos-do-governo-lula-fora-de-brasilia.shtml",
-      "date": "2026-11-22T16:00:00.000Z",
-      "summary": "O governo Lula (PT) tem 1 em cada 10 servidores em funções de confiança filiados a algum partido, tanto em órgãos federais localizados em Brasília quanto nos outros estados. Leia mais (11/22/2026 - 13h00)",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Veto de sauditas e russos deixa COP31 sem declaração final pela 1ª vez desde 2009",
       "link": "https://www.dw.com/pt-br/veto-de-sauditas-e-russos-deixa-cop31-sem-declaração-final-pela-1ª-vez-desde-2009/a-80014428?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-22T15:41:00.000Z",
       "summary": "União Europeia (UE) e outros países se recusaram a endossar proposta de texto final que não mencionava combustíveis fósseis. Alemanha diz que produtores de petróleo impediram desejo da grande maioria dos membros.",
       "source": "DW Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Aldo Rebelo lança movimento político e acusa Lula de ‘franquear’ a Amazônia",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/aldo-rebelo-lanca-movimento-politico-e-acusa-lula-de-franquear-a-amazonia/",
-      "date": "2026-11-22T15:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
