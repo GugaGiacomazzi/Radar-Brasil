@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-22T21:24:44.441Z",
+  "updated": "2026-11-22T22:24:41.875Z",
   "market": {
     "ibov": {
       "price": 166376.44,
       "pct": -0.69,
-      "time": "2026-11-22T21:24:40.137Z",
+      "time": "2026-11-22T22:24:36.258Z",
       "history": [
         {
           "d": "2026-10-23",
@@ -137,21 +137,57 @@
   },
   "news": [
     {
+      "title": "Dólar digital chega a R$ 6,15 em negociação neste domingo",
+      "link": "https://www.poder360.com.br/poder-economia/dolar-digital-chega-a-r-615-em-negociacao-neste-domingo/",
+      "date": "2026-11-22T22:23:52.000Z",
+      "summary": "Cotação do USDT na corretora OKX se distancia do dólar comercial e pode sinalizar pressão sobre o real na abertura do mercado",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "\"Inconcebível\", \"inaceitável\": líderes criticam fracasso da COP31",
+      "link": "https://www.dw.com/pt-br/inconcebível-inaceitável-líderes-criticam-fracasso-da-cop31/a-80015363?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-22T22:20:00.000Z",
+      "summary": "Da União Europeia ao Brasil, negociadores e ativistas classificaram ausência de acordo final na Cúpula do Clima como um retrocesso para o combate à crise climática.",
+      "source": "DW Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Janones diz que quer contribuir para fim da “extrema direita” no mundo",
+      "link": "https://www.poder360.com.br/poder-congresso/janones-diz-que-quer-contribuir-para-fim-da-extrema-direita-no-mundo/",
+      "date": "2026-11-22T22:03:03.000Z",
+      "summary": "Deputado pretende compartilhar estratégia digital usada na campanha de Lula com grupos \"progressistas\" de outros países",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Direita tem muitos craques e esquerda só Lula de líder, diz Flávio",
+      "link": "https://www.poder360.com.br/poder-congresso/direita-tem-muitos-craques-e-esquerda-so-lula-de-lider-diz-flavio/",
+      "date": "2026-11-22T21:47:52.000Z",
+      "summary": "Senador diz que pretende disputar a Presidência em 2030 se Jair Bolsonaro continuar inelegível e o Congresso aprovar mudanças no sistema eleitoral",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Aldo Rebelo diz que Lula foi “patético” ao participar da COP31",
+      "link": "https://www.poder360.com.br/poder-brasil/aldo-rebelo-diz-que-lula-foi-patetico-ao-participar-da-cop31/",
+      "date": "2026-11-22T21:36:07.000Z",
+      "summary": "Ex-presidente da Câmara afirma que petista se assemelha a Silvério dos Reis e sucumbe a agenda colonialista do século 21 ao se posicionar pelo redução do uso dos combustíveis fósseis",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "Portos dos EUA enfrentam ataques cibernéticos, e hackers miram rotas comerciais vitais",
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/infraestrutura/2026/11/portos-dos-eua-enfrentam-ataques-ciberneticos-e-hackers-miram-rotas-comerciais-vitais.shtml",
       "date": "2026-11-22T21:14:00.000Z",
       "summary": "Hackers intensificam uma ofensiva cibernética contra portos e navios de carga dos Estados Unidos ao bombardear artérias vitais do comércio global com milhares de tentativas de ataque todos os dias. Leia mais (11/22/2026 - 18h14)",
       "source": "Folha",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Custo Brasil afasta empresas estrangeiras do mercado brasileiro",
-      "link": "https://www.poder360.com.br/poder-economia/custo-brasil-afasta-empresas-estrangeiras-do-mercado-brasileiro/",
-      "date": "2026-11-22T21:02:30.000Z",
-      "summary": "Juros altos, endividamento e entraves tributários e logísticos dificultam a expansão do setor, segundo a Associação Brasileira de Empresas de Vendas Diretas",
-      "source": "Poder360",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -182,15 +218,6 @@
       "type": "imprensa"
     },
     {
-      "title": "UE propõe taxar big techs para financiar orçamento",
-      "link": "https://www.poder360.com.br/poder-internacional/ue-propoe-taxar-big-techs-para-financiar-orcamento/",
-      "date": "2026-11-22T20:45:47.000Z",
-      "summary": "Taxação da receita líquida anual atingiria empresas que faturam ao menos 50 milhões de euros na UE e 750 milhões de euros em todo o mundo",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Democratas conquistam maior bancada na Câmara dos EUA desde 1992",
       "link": "https://www.dw.com/pt-br/democratas-conquistam-maior-bancada-na-câmara-dos-eua-desde-1992/a-80015273?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-22T20:33:00.000Z",
@@ -206,15 +233,6 @@
       "summary": "O secretário do Tesouro dos Estados Unidos, Scott Bessent, deu a entender que não se oporia ao retorno de Jensen Huang à Nvidia, uma semana depois de pedir ao conselho da empresa que promovesse uma \"reformulação drástica\" e buscasse \"fora\" uma nova liderança. ",
       "source": "Folha",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Flávio diz não ter provas de fraude por ser “proibido de investigar”",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-diz-nao-ter-provas-de-fraude-por-ser-proibido-de-investigar/",
-      "date": "2026-11-22T20:25:51.000Z",
-      "summary": "Senador critica técnicos do TSE e defende voto impresso; sistema brasileiro permite auditorias e não tem conexão com redes externas",
-      "source": "Poder360",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -242,15 +260,6 @@
       "summary": "Em Bogotá, na Colômbia, milhares de catadores percorrem as ruas todos os dias para recolher papelão, plástico, metal e papel. Sem eles, uma parcela significativa dos materiais recicláveis acabaria em aterros sanitários. Ainda assim, sua contribuição continua s",
       "source": "Folha",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Apoiadores oram pela saúde de Bolsonaro em frente a hospital",
-      "link": "https://www.poder360.com.br/poder-gente/apoiadores-oram-pela-saude-de-bolsonaro-em-frente-a-hospital/",
-      "date": "2026-11-22T20:06:54.000Z",
-      "summary": "Internado na UTI desde 6ª feira (20.nov), ex-presidente recebe tratamento para uma obstrução intestinal; médicos dizem que quadro é estável",
-      "source": "Poder360",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -465,15 +474,6 @@
       "link": "https://www.dw.com/pt-br/na-cop31-embate-sobre-relatório-climático-ameaça-negociações-futuras/a-80011164?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-21T22:20:00.000Z",
       "summary": "Países divergem sobre quando divulgar a próxima avaliação do IPCC, principal referência científica para a política climática global. Calendário define se o documento orientará o próximo balanço do Acordo de Paris.",
-      "source": "DW Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "União Europeia propõe taxar big techs para financiar orçamento",
-      "link": "https://www.dw.com/pt-br/união-europeia-propõe-taxar-big-techs-para-financiar-orçamento/a-80010694?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-21T18:24:00.000Z",
-      "summary": "Proposta prevê cobrança de 3% sobre receitas de publicidade online de grandes empresas de tecnologia para ampliar as receitas do bloco.",
       "source": "DW Brasil",
       "cat": "internacional",
       "type": "imprensa"
