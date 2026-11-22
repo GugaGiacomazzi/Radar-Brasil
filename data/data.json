@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-22T06:59:58.140Z",
+  "updated": "2026-11-22T08:14:36.826Z",
   "market": {
     "ibov": {
       "price": 166376.44,
       "pct": -0.69,
-      "time": "2026-11-22T06:59:54.592Z",
+      "time": "2026-11-22T08:14:29.800Z",
       "history": [
         {
           "d": "2026-10-23",
@@ -137,6 +137,33 @@
   },
   "news": [
     {
+      "title": "Ovelhas entre painéis solares? Entenda a tendência que une geração de energia e criação de animais",
+      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/22/ovelhas-entre-paineis-solares-entenda-a-tendencia-que-une-geracao-de-energia-e-criacao-de-animais.ghtml",
+      "date": "2026-11-22T07:00:01.000Z",
+      "summary": "Ovelhas pastam sob painéis solares na província de Guizhou, no sudoeste da China, como parte de uma prática cada vez mais comum de combinar a pecuária com a produção de energia solar Tao Liang/Xinhua/picture alliance via DW Tradicionalmente, usinas solares são",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Nova espécie de perereca é descoberta em Minas Gerais após cientista ouvir canto incomum",
+      "link": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/11/22/nova-especie-de-perereca-e-descoberta-em-minas-gerais-apos-cientista-ouvir-canto-incomum.ghtml",
+      "date": "2026-11-22T07:00:00.000Z",
+      "summary": "Nova espécie de perereca é identificada em MG Em uma área preservada de Mata Atlântica, em Cataguases, na Zona da Mata mineira, o biólogo Clodoaldo Lopes ouviu uma perereca que não soava como as outras. A desconfiança levou a mais de uma década de pesquisa e t",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Documentos da PF acirram disputa no STF sobre relatoria do caso Master",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/documentos-da-pf-acirram-disputa-no-stf-sobre-relatoria-do-caso-master.shtml",
+      "date": "2026-11-22T07:00:00.000Z",
+      "summary": "A seleção de relatórios da Polícia Federal com menções a ministros do STF (Supremo Tribunal Federal) enviados à PGR (Procuradoria-Geral da República) abriu um novo flanco de disputa em torno da condução do caso Banco Master na corte. Leia mais (11/22/2026 - 04",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "A falha crítica descoberta na linguagem de programação usada por 90% das grandes empresas do mundo",
       "link": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/11/22/a-falha-critica-descoberta-na-linguagem-de-programacao-usada-por-90-das-grandes-empresas-do-mundo.ghtml",
       "date": "2026-11-22T06:00:00.000Z",
@@ -150,24 +177,6 @@
       "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/22/ha-3000-anos-trabalhadores-do-egito-fizeram-uma-greve-por-salarios-atrasados-conheca-a-historia.ghtml",
       "date": "2026-11-22T06:00:00.000Z",
       "summary": "Turistas andam em uma carroça puxada por cavalo e em camelos diante das Grandes Pirâmides de Gizé, nos arredores do Cairo, Egito. Mohamed Abd El Ghany/Reuters Durante o reinado de Ramsés III (1184-1153 AEC), segundo faraó da XXª dinastia, o Egito passou por um",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "13º salário na conta: como decidir entre pagar dívidas, investir ou aproveitar as compras",
-      "link": "https://g1.globo.com/g1-explica/noticia/2026/11/22/13o-salario-na-conta-como-decidir-entre-pagar-dividas-investir-ou-aproveitar-as-compras.ghtml",
-      "date": "2026-11-22T05:00:00.000Z",
-      "summary": "Décimo terceiro: gastar, pagar dívidas ou guardar dinheiro? O 13º salário chega no fim do ano e já tem muita gente de olho nesse dinheiro. Promoções, viagens e compras disputam espaço com dívidas que pesam no bolso. E janeiro já está logo ali, com despesas com",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Mega-Sena 3089 pode pagar R$ 45 milhões neste domingo; g1 transmite ao vivo",
-      "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/22/mega-sena-3089-pode-pagar-r-45-milhoes-neste-domingo-g1-transmite-ao-vivo.ghtml",
-      "date": "2026-11-22T03:00:01.000Z",
-      "summary": "Como funciona a Mega-Sena? O concurso 3.089 da Mega-Sena pode pagar um prêmio de R$ 45 milhões para os apostadores que acertarem as seis dezenas. O sorteio ocorre às 11h deste domingo (15), em São Paulo. 📱Favorite o g1 no Google e acompanhe as principais notí",
       "source": "g1",
       "cat": "economia",
       "type": "imprensa"
@@ -222,15 +231,6 @@
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/metade-dos-reeleitos-na-alesp-faltou-a-76-das-sessoes-durante-a-campanha.shtml",
       "date": "2026-11-22T02:00:00.000Z",
       "summary": "Metade dos parlamentares reeleitos compareceu a apenas um quarto das sessões ou reuniões plenárias agendadas para o período de campanha eleitoral, segundo a lista de presença dos deputados estaduais de São Paulo. Leia mais (11/21/2026 - 23h00)",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Entorno branco e masculino de Lula dificulta uma ministra negra no STF, diz ex-ministra do TSE",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/entorno-branco-e-masculino-de-lula-dificulta-uma-ministra-negra-no-stf-diz-ex-ministra-do-tse.shtml",
-      "date": "2026-11-22T02:00:00.000Z",
-      "summary": "Há uma cadeira vaga no STF (Supremo Tribunal Federal) e uma mobilização crescente de diferentes setores da sociedade para que seja uma ministra negra a ocupá-la. Leia mais (11/21/2026 - 23h00)",
       "source": "Folha",
       "cat": "politica",
       "type": "imprensa"
