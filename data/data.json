@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-22T12:54:17.785Z",
+  "updated": "2026-11-22T13:54:42.490Z",
   "market": {
     "ibov": {
       "price": 166376.44,
       "pct": -0.69,
-      "time": "2026-11-22T12:54:10.294Z",
+      "time": "2026-11-22T13:54:32.394Z",
       "history": [
         {
           "d": "2026-10-23",
@@ -81,10 +81,6 @@
         {
           "d": "2026-11-19",
           "c": 166376
-        },
-        {
-          "d": "2026-11-22",
-          "c": 166376.4375
         }
       ]
     },
@@ -141,6 +137,42 @@
   },
   "news": [
     {
+      "title": "Morre Paolo Bulgari, aos 89 anos, herdeiro que ajudou a levar a joalheria italiana ao mundo",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/morre-paolo-bulgari-aos-89-anos-herdeiro-que-ajudou-a-levar-a-joalheria-italiana-ao-mundo.shtml",
+      "date": "2026-11-22T13:42:00.000Z",
+      "summary": "Morreu neste sábado (21) o empresário italiano Paolo Bulgari, neto do fundador da joalheria de luxo Bulgari, Sotirio Bulgari, aos 89 anos em Roma. Ele presidia o Grupo Bulgari desde 1984. Leia mais (11/22/2026 - 10h42)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "COP31 não chega a consenso e deve terminar sem acordo climático",
+      "link": "https://www.poder360.com.br/poder-internacional/cop31-nao-chega-a-consenso-e-deve-terminar-sem-acordo-climatico/",
+      "date": "2026-11-22T13:22:38.000Z",
+      "summary": "Texto final omitiu combustíveis fósseis e propôs ampliar uso de eletricidade e tecnologias de captura de carbono; União Europeia e outras delegações rejeitaram a proposta",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Número de partidos cai desde o início da cláusula de desempenho",
+      "link": "https://www.poder360.com.br/poder-partidos-politicos/numero-de-partidos-cai-desde-o-inicio-da-clausula-de-desempenho/",
+      "date": "2026-11-22T13:00:37.000Z",
+      "summary": "Levantamento com base em dados do TSE mostra que, desde 2018, o total de siglas passou de 35 para 24",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Livro 'Teoria geral do emprego, do juro e da moeda' será relançado em dezembro",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/livro-teoria-geral-do-emprego-do-juro-e-da-moeda-sera-relancado-em-dezembro.shtml",
+      "date": "2026-11-22T13:00:00.000Z",
+      "summary": "Depois de mais de 90 anos após ser publicado, o livro \"Teoria geral do emprego, do juro e da moeda\", do britânico John Maynard Keynes, será relançado na primeira semana de dezembro. Leia mais (11/22/2026 - 10h00)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "Está com cara boa e não teve febre, diz Michelle sobre Bolsonaro",
       "link": "https://www.poder360.com.br/poder-gente/esta-com-cara-boa-e-nao-teve-febre-diz-michelle-sobre-bolsonaro/",
       "date": "2026-11-22T12:23:15.000Z",
@@ -174,24 +206,6 @@
       "summary": "Do total de 78 companhias do Ibovespa, principal índice da Bolsa de Valores brasileira, 17 trocaram de CEO em 2026, o equivalente a 22%. Esse é a maior rotatividade no cargo em cinco anos, segundo levantamento da consultoria Flow Executive Finders, especializa",
       "source": "Folha",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Moraes suspende lei de MT que exige velocidade da internet na fatura",
-      "link": "https://www.poder360.com.br/poder-justica/moraes-suspende-lei-de-mt-que-exige-velocidade-da-internet-na-fatura/",
-      "date": "2026-11-22T11:53:34.000Z",
-      "summary": "Ministro do STF aponta invasão de competência que é da União e risco de prejuízo a pequenos provedores",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Agro de SP tem superavit de US$ 17,6 bilhões até outubro de 2026",
-      "link": "https://www.poder360.com.br/poder-agro/agro-de-sp-tem-superavit-de-us-176-bilhoes-ate-outubro-de-2026/",
-      "date": "2026-11-22T11:36:15.000Z",
-      "summary": "Exportações do setor somaram US$ 22,59 bilhões no período; açúcar e carnes estão entre produtos mais exportados",
-      "source": "Poder360",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -270,15 +284,6 @@
       "title": "BV recebe aval da CVM e dá novo passo para abertura de capital na B3",
       "link": "https://www.estadao.com.br/economia/coluna-da-broad/bv-recebe-aval-da-cvm-e-da-novo-passo-para-abertura-de-capital-na-b3/",
       "date": "2026-11-22T08:21:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Fintech ‘copia’ modelo do Minha Casa, Minha vida para crédito imobiliário",
-      "link": "https://www.estadao.com.br/economia/coluna-da-broad/fintech-copia-modelo-do-minha-casa-minha-vida-para-credito-imobiliario/",
-      "date": "2026-11-22T08:00:00.000Z",
       "summary": "",
       "source": "Estadão",
       "cat": "economia",
@@ -366,15 +371,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Os riscos políticos do ajuste fiscal",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/celso-rocha-de-barros/2026/11/os-riscos-politicos-do-ajuste-fiscal.shtml",
-      "date": "2026-11-22T02:00:00.000Z",
-      "summary": "Conforme vai ficando claro que a proposta de André Lara Resende tem problemas sérios, e também exige um ajuste fiscal duro; e que não, o plano Moretti não é estelionato eleitoral, ganha espaço na esquerda um argumento político contra o ajuste fiscal. Leia mais",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Petróleo na Foz do Amazonas impõe desafio logístico à Petrobras com transporte de gente e equipamentos",
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/petroleo-na-foz-do-amazonas-impoe-desafio-logistico-a-petrobras-com-transporte-de-gente-e-equipamentos.shtml",
       "date": "2026-11-22T02:00:00.000Z",
@@ -388,15 +384,6 @@
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/ana-paula-vescovi/2026/11/a-infraestrutura-invisivel.shtml",
       "date": "2026-11-22T02:00:00.000Z",
       "summary": "Quando economistas discutem os obstáculos ao crescimento brasileiro, a conversa quase sempre chega aos mesmos lugares: juros altos, carga tributária, baixa produtividade, desequilíbrio fiscal e deficiência da infraestrutura. Raramente chega ao sistema de Justi",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Brasil amplia negócios no Sudeste Asiático, mas enfrenta barreiras regulatórias e protecionismo",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/brasil-amplia-negocios-no-sudeste-asiatico-mas-enfrenta-barreiras-regulatorias-e-protecionismo.shtml",
-      "date": "2026-11-22T02:00:00.000Z",
-      "summary": "O Brasil busca ampliar sua presença no Sudeste Asiático, região que ganha importância na estratégia de diversificação comercial do país em meio ao tarifaço imposto pelos Estados Unidos. Apesar do crescimento do comércio com esses mercados, exportadores brasile",
       "source": "Folha",
       "cat": "economia",
       "type": "imprensa"
@@ -616,6 +603,15 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
+    },
+    {
+      "title": "Mercado brasileiro de games deve movimentar US$ 3,1 bi até 2030, estima PwC; salto poderia ser maior",
+      "link": "https://www.estadao.com.br/economia/negocios/mercado-brasileiro-de-games-deve-movimentar-us-31-bi-ate-2030-estima-pwc-salto-poderia-ser-maior/",
+      "date": "2026-11-19T20:18:07.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
     },
     {
       "title": "BC publica Pesquisa Trimestral de Condições de Crédito (PTC)",
