@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-22T02:49:54.809Z",
+  "updated": "2026-11-22T03:50:37.871Z",
   "market": {
     "ibov": {
       "price": 166376.44,
       "pct": -0.69,
-      "time": "2026-11-22T02:49:48.608Z",
+      "time": "2026-11-22T03:50:30.886Z",
       "history": [
         {
           "d": "2026-10-23",
@@ -136,6 +136,42 @@
     ]
   },
   "news": [
+    {
+      "title": "Mega-Sena 3089 pode pagar R$ 45 milhões neste domingo; g1 transmite ao vivo",
+      "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/22/mega-sena-3089-pode-pagar-r-45-milhoes-neste-domingo-g1-transmite-ao-vivo.ghtml",
+      "date": "2026-11-22T03:00:01.000Z",
+      "summary": "Como funciona a Mega-Sena? O concurso 3.089 da Mega-Sena pode pagar um prêmio de R$ 45 milhões para os apostadores que acertarem as seis dezenas. O sorteio ocorre às 11h deste domingo (15), em São Paulo. 📱Favorite o g1 no Google e acompanhe as principais notí",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "PEC da Segurança: como uma guarda civil municipal pode virar polícia e o que muda para a população",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/22/pec-da-seguranca-como-uma-guarda-civil-municipal-pode-virar-policia.ghtml",
+      "date": "2026-11-22T03:00:00.000Z",
+      "summary": "Guarda Municipal de Maceió Ascom Semsc A PEC da Segurança Pública, aprovada em definitivo pelo Congresso em 3 de novembro, permite que os prefeitos passem a contar com uma polícia municipal. A nova força pode ser criada do zero ou ter como origem guardas civis",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Câmara deve votar projeto de ajuste fiscal nesta segunda",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/22/camara-deve-votar-projeto-de-ajuste-fiscal-nesta-segunda.ghtml",
+      "date": "2026-11-22T03:00:00.000Z",
+      "summary": "Ajuste fiscal deve ser votado na segunda-feira A Câmara dos Deputados deve votar nesta segunda-feira (23) a proposta de ajuste fiscal do governo. O relator da proposta, deputado Mauro Benevides (União Brasil-CE), manteve o mesmo texto aprovado pelo Senado na s",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Maioria das cidades terá dificuldade para criar polícia municipal, diz deputado",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/22/exigencias-policia-municipal-prefeituras.ghtml",
+      "date": "2026-11-22T03:00:00.000Z",
+      "summary": "Guarda Municipal Reprodução/Prefeitura de Porto Velho A PEC da Segurança Pública, aprovada em definitivo pelo Congresso em 3 de novembro, abriu caminho para que municípios criem suas próprias polícias. Mas impõe uma condição que poucos conseguem cumprir: mante",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
     {
       "title": "Ministério das Mulheres vai criar política de proteção contra violência política de gênero e raça",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/ministerio-das-mulheres-vai-criar-politica-de-protecao-contra-violencia-politica-de-genero-e-raca.shtml",
@@ -326,15 +362,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Moraes atende a pedido e autoriza visitas diárias de filhos a Bolsonaro durante a internação",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/21/moraes-atende-a-pedido-e-autoriza-visitas-diarias-de-filhos-a-bolsonaro-durante-a-internacao.ghtml",
-      "date": "2026-11-21T15:48:34.000Z",
-      "summary": "Moraes atende a pedido e autoriza visitas diárias de filhos a Bolsonaro durante internação O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), autorizou que três filhos de Jair Bolsonaro — Carlos, Jair Renan e a filha menor de idade — possam vis",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Abeeólica vai ao STF contra regra que define quem paga por baterias em leilões",
       "link": "https://www.estadao.com.br/economia/abeeolica-vai-ao-stf-contra-regra-de-custeio-de-baterias-a-serem-contratadas-em-leilao/",
       "date": "2026-11-21T15:14:56.000Z",
@@ -367,33 +394,6 @@
       "date": "2026-11-21T14:38:23.000Z",
       "summary": "",
       "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Lula diz que projeto aprovado no Senado não é 'reforma fiscal', mas ajuste para Orçamento de 2027, e critica Faria Lima",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/21/lula-diz-que-projeto-aprovado-no-senado-nao-e-reforma-fiscal-mas-ajuste-para-orcamento-de-2027-e-critica-faria-lima.ghtml",
-      "date": "2026-11-21T14:27:51.000Z",
-      "summary": "Lula critica aliados que se opuseram ao ajuste O presidente Luiz Inácio Lula da Silva (PT) afirmou neste sábado (21) que o projeto fiscal aprovado pelo Senado nesta semana não é uma \"reforma\", mas um \"ajuste\" orçamentário para o ano de 2027. O petista deu as d",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Defesa de Bolsonaro pede a Moraes autorização para visitas diárias de filhos durante internação",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/21/defesa-de-bolsonaro-pede-a-moraes-autorizacao-para-visitas-diarias-de-filhos-durante-internacao.ghtml",
-      "date": "2026-11-21T12:14:12.000Z",
-      "summary": "A defesa de Jair Bolsonaro pediu neste sábado (21) ao ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), autorização para que três de seus filhos — Carlos, Jair Renan e a filha menor de idade — possam visitar o ex-presidente diariamente enquanto ",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "União Europeia propõe taxar big techs para financiar orçamento até 2034",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/21/uniao-europeia-propoe-taxar-big-techs-para-financiar-orcamento-ate-2034.ghtml",
-      "date": "2026-11-21T11:26:05.000Z",
-      "summary": "Bandeiras da União Europeia Stephanie Lecocq/Reuters A União Europeia apresentou neste sábado (21) uma proposta para o orçamento de longo prazo do bloco, que valerá de 2028 a 2034. Entre as medidas previstas está a criação de uma cobrança anual sobre receitas ",
-      "source": "g1",
       "cat": "economia",
       "type": "imprensa"
     },
