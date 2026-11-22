@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-22T08:14:36.826Z",
+  "updated": "2026-11-22T09:06:52.440Z",
   "market": {
     "ibov": {
       "price": 166376.44,
       "pct": -0.69,
-      "time": "2026-11-22T08:14:29.800Z",
+      "time": "2026-11-22T09:06:45.818Z",
       "history": [
         {
           "d": "2026-10-23",
@@ -137,6 +137,87 @@
   },
   "news": [
     {
+      "title": "Moraes concentra 44% dos processos criminais do Supremo",
+      "link": "https://www.poder360.com.br/poder-justica/moraes-concentra-44-dos-processos-criminais-do-supremo/",
+      "date": "2026-11-22T09:00:29.000Z",
+      "summary": "Volume de casos sob relatoria do ministro evidencia concentração de decisões em suas mãos mesmo após o fim do inquérito das fake news",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Comissão do Senado aprova acesso a alívio da dor no parto",
+      "link": "https://www.poder360.com.br/poder-congresso/comissao-do-senado-aprova-acesso-a-alivio-da-dor-no-parto/",
+      "date": "2026-11-22T09:00:08.000Z",
+      "summary": "Texto assegura às gestantes informação sobre métodos de alívio da dor e prevê ampliar a oferta pelo SUS",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Senadoras articulam resolução para punir violência política de gênero com perda de mandato",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/senadoras-articulam-resolucao-para-punir-violencia-politica-de-genero-com-perda-de-mandato.shtml",
+      "date": "2026-11-22T09:00:00.000Z",
+      "summary": "As senadoras Leany Lemos (PSB-DF) e Eliziane Gama (PT-MA) articulam a aprovação de um projeto de resolução para punir com a perda de mandato os senadores que praticarem violência política de gênero e raça contra as colegas. Leia mais (11/22/2026 - 06h00)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "STF usa petições em investigações criminais e levanta debate sobre atalhos e poder dos ministros",
+      "link": "https://www.estadao.com.br/politica/stf-usa-peticoes-em-investigacoes-criminais-e-levanta-debate-sobre-atalhos-e-poder-dos-ministros/",
+      "date": "2026-11-22T08:30:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "O destino incerto de Marina Silva no governo Lula 4",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/o-destino-incerto-de-marina-silva-no-governo-lula-4/",
+      "date": "2026-11-22T08:30:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Centrão entra no jogo de Lula para garantir cargos e facilita aprovação do ajuste fiscal na Câmara",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/centrao-entra-no-jogo-de-lula-para-garantir-cargos-e-facilita-aprovacao-do-ajuste-fiscal-na-camara/",
+      "date": "2026-11-22T08:30:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Fim de benefício fiscal nos Estados faz empresas repensarem localização de fábricas e galpões",
+      "link": "https://www.estadao.com.br/economia/fim-de-beneficio-fiscal-nos-estados-faz-empresas-repensarem-localizacao-de-fabricas-e-galpoes/",
+      "date": "2026-11-22T08:30:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "BV recebe aval da CVM e dá novo passo para abertura de capital na B3",
+      "link": "https://www.estadao.com.br/economia/coluna-da-broad/bv-recebe-aval-da-cvm-e-da-novo-passo-para-abertura-de-capital-na-b3/",
+      "date": "2026-11-22T08:21:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Fintech ‘copia’ modelo do Minha Casa, Minha vida para crédito imobiliário",
+      "link": "https://www.estadao.com.br/economia/coluna-da-broad/fintech-copia-modelo-do-minha-casa-minha-vida-para-credito-imobiliario/",
+      "date": "2026-11-22T08:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "Ovelhas entre painéis solares? Entenda a tendência que une geração de energia e criação de animais",
       "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/22/ovelhas-entre-paineis-solares-entenda-a-tendencia-que-une-geracao-de-energia-e-criacao-de-animais.ghtml",
       "date": "2026-11-22T07:00:01.000Z",
@@ -227,15 +308,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Metade dos reeleitos na Alesp faltou a 76% das sessões durante a campanha",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/metade-dos-reeleitos-na-alesp-faltou-a-76-das-sessoes-durante-a-campanha.shtml",
-      "date": "2026-11-22T02:00:00.000Z",
-      "summary": "Metade dos parlamentares reeleitos compareceu a apenas um quarto das sessões ou reuniões plenárias agendadas para o período de campanha eleitoral, segundo a lista de presença dos deputados estaduais de São Paulo. Leia mais (11/21/2026 - 23h00)",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Petróleo na Foz do Amazonas impõe desafio logístico à Petrobras com transporte de gente e equipamentos",
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/petroleo-na-foz-do-amazonas-impoe-desafio-logistico-a-petrobras-com-transporte-de-gente-e-equipamentos.shtml",
       "date": "2026-11-22T02:00:00.000Z",
@@ -299,33 +371,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Pastores oram por melhora de Bolsonaro em frente a hospital",
-      "link": "https://www.poder360.com.br/poder-brasil/pastores-oram-por-melhora-de-bolsonaro-em-frente-a-hospital/",
-      "date": "2026-11-21T23:39:34.000Z",
-      "summary": "Ex-presidente está internado na UTI do hospital DF Star, em Brasília, com obstrução intestinal",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Protestos na França reúnem 150 mil, dizem organizadores",
-      "link": "https://www.poder360.com.br/poder-internacional/protestos-na-franca-reunem-150-mil-dizem-organizadores/",
-      "date": "2026-11-21T23:21:10.000Z",
-      "summary": "Ministério do Interior francês contabilizou 82.500 manifestantes; mobilização perde força em 6º sábado consecutivo de atos",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Ao confundir alhos com bugalhos, PF deu a Mendonça o papel de vítima",
-      "link": "https://www.estadao.com.br/politica/eliane-cantanhede/ao-confundir-alhos-com-bugalhos-pf-deu-a-mendonca-o-papel-de-vitima/",
-      "date": "2026-11-21T23:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Na COP31, embate sobre relatório climático ameaça negociações futuras",
       "link": "https://www.dw.com/pt-br/na-cop31-embate-sobre-relatório-climático-ameaça-negociações-futuras/a-80011164?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-21T22:20:00.000Z",
@@ -371,57 +416,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Abeeólica vai ao STF contra regra que define quem paga por baterias em leilões",
-      "link": "https://www.estadao.com.br/economia/abeeolica-vai-ao-stf-contra-regra-de-custeio-de-baterias-a-serem-contratadas-em-leilao/",
-      "date": "2026-11-21T15:14:56.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Embate na esquerda sobre ajuste fiscal lembra disputa que deu origem ao PSOL em 2003",
-      "link": "https://www.estadao.com.br/politica/voce-sabia-curiosidades-politica/embate-na-esquerda-sobre-ajuste-fiscal-lembra-disputa-que-deu-origem-ao-psol-em-2003/",
-      "date": "2026-11-21T15:00:00.000Z",
-      "summary": "O texto aborda o racha na esquerda provocado pelo ajuste fiscal do governo Lula (2026), comparando as divergências atuais com a crise interna do PT vivido em 2003, durante a Reforma da Previdência que resultou. Na expulsão de quatro integrantes do PT.",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Lula defende pacote fiscal do governo: ‘Não é o sistema financeiro que me ensinará a dirigir o País’",
-      "link": "https://www.estadao.com.br/economia/lula-faz-live-com-janones-no-feriado-de-consciencia-negra-npr/",
-      "date": "2026-11-21T14:39:11.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Matemático da Anthropic afirma ter resolvido o problema mais famoso da matemática",
-      "link": "https://www.estadao.com.br/economia/matematico-da-anthropic-afirma-ter-resolvido-o-problema-mais-famoso-da-matematica/",
-      "date": "2026-11-21T14:38:23.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Megaprisões na América Latina: solução ou problema?",
       "link": "https://www.dw.com/pt-br/megaprisões-na-américa-latina-solução-ou-problema/a-80005196?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-21T10:32:00.000Z",
       "summary": "Presídio de segurança máxima com capacidade para até 40 mil detentos é um dos maiores trunfos do presidente de El Salvador. Para especialistas, porém, modelo tem mais impacto simbólico do que na redução da criminalidade.",
       "source": "DW Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Bolsonaro segue em UTI em estado estável, mas sem previsão de alta, informa hospital",
-      "link": "https://www.estadao.com.br/politica/jair-bolsonaro-faz-limpeza-com-sonda-diz-carlos-npr/",
-      "date": "2026-11-21T10:28:18.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
