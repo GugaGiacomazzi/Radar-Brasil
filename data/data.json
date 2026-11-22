@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-22T17:38:55.138Z",
+  "updated": "2026-11-22T18:23:08.302Z",
   "market": {
     "ibov": {
       "price": 166376.44,
       "pct": -0.69,
-      "time": "2026-11-22T17:38:48.260Z",
+      "time": "2026-11-22T18:23:00.839Z",
       "history": [
         {
           "d": "2026-10-23",
@@ -137,6 +137,42 @@
   },
   "news": [
     {
+      "title": "Cleitinho elogia Ana Elisa e diz ter orgulho da deputada petista",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/cleitinho-elogia-ana-elisa-e-diz-ter-orgulho-da-deputada-petista.shtml",
+      "date": "2026-11-22T18:04:00.000Z",
+      "summary": "O governador eleito de Minas Gerais, Cleitinho Azevedo (Republicanos), emocionou-se ao falar sobre a eleição de Ana Elisa (PT), de 21 anos, que será uma das deputadas federais mais jovens do país. Leia mais (11/22/2026 - 15h04)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Associação de bebidas destiladas não se opõe à MP do 'imposto do pecado', mas quer previsibilidade sobre alíquotas",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/associacao-de-bebidas-destiladas-nao-se-opoe-a-mp-do-imposto-do-pecado-mas-quer-previsibilidade-sobre-aliquotas.shtml",
+      "date": "2026-11-22T18:00:00.000Z",
+      "summary": "Após alguns setores tentarem modificar a Medida Provisória que regulamenta o Imposto Seletivo, mais conhecido como \"imposto do pecado\", a Associação Brasileira de Bebidas Destiladas (ABBD) afirmou que não se opõe ao texto do governo que, segundo a entidade, re",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Donald Trump assina lei que extingue moeda de US$ 0,01",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/donald-trump-assina-lei-que-extingue-moeda-de-us-001.shtml",
+      "date": "2026-11-22T17:52:00.000Z",
+      "summary": "O fim da moeda de um centavo de dólar, conhecida nos Estados Unidos como \"penny\", foi anunciado há um ano pelo presidente americano Donald Trump. Agora, ela foi sepultada de fato. Leia mais (11/22/2026 - 14h52)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Bolsonaro segue na UTI, com quadro estável e sem previsão de alta",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/bolsonaro-segue-na-uti-com-quadro-estavel-e-sem-previsao-de-alta.shtml",
+      "date": "2026-11-22T17:40:00.000Z",
+      "summary": "O ex-presidente Jair Bolsonaro segue internado em UTI (Unidade de Terapia Intensiva) sem previsão de alta. Segundo boletim médico divulgado na tarde deste domingo (22), o ex-presidente recebeu o diagnóstico de abdômen agudo obstrutivo. Leia mais (11/22/2026 - ",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "Leia a íntegra do boletim médico de Bolsonaro deste domingo",
       "link": "https://www.poder360.com.br/poder-flash/leia-a-integra-do-boletim-medico-de-bolsonaro-deste-domingo/",
       "date": "2026-11-22T17:31:11.000Z",
@@ -185,7 +221,7 @@
       "title": "Compras como alívio emocional causam ciclo vicioso",
       "link": "https://www.poder360.com.br/poder-saude/compras-como-alivio-emocional-causam-ciclo-vicioso/",
       "date": "2026-11-22T17:00:16.000Z",
-      "summary": "Consumo por impulso pode gerar dependência psicológica e endividamento em falsa busca por bem-estar",
+      "summary": "Consumo por impulso pode resultar em dependência psicológica e endividamento em falsa busca por bem-estar",
       "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
@@ -215,15 +251,6 @@
       "summary": "Ex-presidente Jair Bolsonaro Pablo Porciuncula/AFP O ex-presidente Jair Bolsonaro está clinicamente estável, informou o Hospital DF Star na tarde deste domingo (22). Bolsonaro está internado na unidade de terapia intensiva (UTI), com diagnóstico de abdômen agu",
       "source": "g1",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Aviso",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/marcos-de-vasconcellos/2026/11/aviso.shtml",
-      "date": "2026-11-22T16:53:00.000Z",
-      "summary": "Excepcionalmente, a coluna não será publicada Leia mais (11/22/2026 - 13h53)",
-      "source": "Folha",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -299,15 +326,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Relatório da redução da maioridade penal fica para dezembro e votação da proposta deve ser adiada",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/relatorio-da-reducao-da-maioridade-penal-fica-para-dezembro-e-votacao-da-proposta-deve-ser-adiada.shtml",
-      "date": "2026-11-22T15:00:00.000Z",
-      "summary": "O relatório da PEC que prevê a redução da maioridade penal só deve ser apresentado no início de dezembro pelo deputado Mendonça Filho (PL-PE). Com isso, a previsão é que o texto só seja votado no plenário da Câmara dos Deputados a partir do dia 7 do próximo mê",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Aldo Rebelo lança movimento político e acusa Lula de ‘franquear’ a Amazônia",
       "link": "https://www.estadao.com.br/politica/coluna-do-estadao/aldo-rebelo-lanca-movimento-politico-e-acusa-lula-de-franquear-a-amazonia/",
       "date": "2026-11-22T15:00:00.000Z",
@@ -323,15 +341,6 @@
       "summary": "Mega-Sena, concurso 3089: confira os números sorteados O sorteio do concurso 3.089 da Mega-Sena foi realizado na manhã deste domingo (22), em São Paulo. O prêmio para as apostas que acertassem as seis dezenas era de R$ 43.102.645,31 milhões. No entanto, ningué",
       "source": "g1",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Livro 'Teoria geral do emprego, do juro e da moeda' será relançado em dezembro",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/livro-teoria-geral-do-emprego-do-juro-e-da-moeda-sera-relancado-em-dezembro.shtml",
-      "date": "2026-11-22T13:00:00.000Z",
-      "summary": "Depois de mais de 90 anos após ser publicado, o livro \"Teoria geral do emprego, do juro e da moeda\", do britânico John Maynard Keynes, será relançado na primeira semana de dezembro. Leia mais (11/22/2026 - 10h00)",
-      "source": "Folha",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -368,15 +377,6 @@
       "summary": "Forças ucranianas combatem tropas russas em uma antiga tubulação soviética na região de Kharkiv, no leste da Ucrânia.",
       "source": "BBC News Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Senadoras articulam resolução para punir violência política de gênero com perda de mandato",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/senadoras-articulam-resolucao-para-punir-violencia-politica-de-genero-com-perda-de-mandato.shtml",
-      "date": "2026-11-22T09:00:00.000Z",
-      "summary": "As senadoras Leany Lemos (PSB-DF) e Eliziane Gama (PT-MA) articulam a aprovação de um projeto de resolução para punir com a perda de mandato os senadores que praticarem violência política de gênero e raça contra as colegas. Leia mais (11/22/2026 - 06h00)",
-      "source": "Folha",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -457,15 +457,6 @@
       "date": "2026-11-21T18:24:00.000Z",
       "summary": "Proposta prevê cobrança de 3% sobre receitas de publicidade online de grandes empresas de tecnologia para ampliar as receitas do bloco.",
       "source": "DW Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Os cidadãos impedidos pelo governo Ortega de voltar à Nicarágua: 'Sou ilegal no meu próprio país'",
-      "link": "https://www.bbc.com/portuguese/articles/c60rknr0jg4zo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-21T17:51:39.000Z",
-      "summary": "ONU documentou ao menos 318 casos de nicaraguenses impedidos de entrar no próprio país entre junho de 2018 e agosto de 2025.",
-      "source": "BBC News Brasil",
       "cat": "internacional",
       "type": "imprensa"
     },
