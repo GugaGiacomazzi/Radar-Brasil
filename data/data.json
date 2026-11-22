@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-22T04:54:55.434Z",
+  "updated": "2026-11-22T05:53:23.543Z",
   "market": {
     "ibov": {
       "price": 166376.44,
       "pct": -0.69,
-      "time": "2026-11-22T04:54:47.432Z",
+      "time": "2026-11-22T05:53:09.708Z",
       "history": [
         {
           "d": "2026-10-23",
@@ -136,6 +136,15 @@
     ]
   },
   "news": [
+    {
+      "title": "13º salário na conta: como decidir entre pagar dívidas, investir ou aproveitar as compras",
+      "link": "https://g1.globo.com/g1-explica/noticia/2026/11/22/13o-salario-na-conta-como-decidir-entre-pagar-dividas-investir-ou-aproveitar-as-compras.ghtml",
+      "date": "2026-11-22T05:00:00.000Z",
+      "summary": "Décimo terceiro: gastar, pagar dívidas ou guardar dinheiro? O 13º salário chega no fim do ano e já tem muita gente de olho nesse dinheiro. Promoções, viagens e compras disputam espaço com dívidas que pesam no bolso. E janeiro já está logo ali, com despesas com",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
     {
       "title": "Mega-Sena 3089 pode pagar R$ 45 milhões neste domingo; g1 transmite ao vivo",
       "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/22/mega-sena-3089-pode-pagar-r-45-milhoes-neste-domingo-g1-transmite-ao-vivo.ghtml",
@@ -350,15 +359,6 @@
       "summary": "Bolsonaro está na UTI em estado estável, diz boletim médico O ex-presidente Jair Bolsonaro está internado em unidade de terapia intensiva com o diagnóstico de abdômen agudo obstrutivo, informou o hospital DF Star na tarde deste sábado (21). Ele foi internado n",
       "source": "g1",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Joe Wallach, um dos executivos que participaram da inauguração da Globo, morre aos 103 anos",
-      "link": "https://g1.globo.com/economia/midia-e-marketing/noticia/2026/11/21/joe-wallach-morre-aos-103-anos.ghtml",
-      "date": "2026-11-21T16:56:54.000Z",
-      "summary": "Joe Wallach morre aos 103 anos Joe Wallach, executivo americano que participou da fundação da TV Globo e colaborou com a emissora durante décadas, morreu aos 103 anos. Ele vivia em Los Angeles, na Califórnia (EUA). Wallach chegou ao Brasil em 1965 para partici",
-      "source": "g1",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
