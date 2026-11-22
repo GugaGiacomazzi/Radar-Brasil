@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-22T16:41:24.861Z",
+  "updated": "2026-11-22T17:38:55.138Z",
   "market": {
     "ibov": {
       "price": 166376.44,
       "pct": -0.69,
-      "time": "2026-11-22T16:41:20.245Z",
+      "time": "2026-11-22T17:38:48.260Z",
       "history": [
         {
           "d": "2026-10-23",
@@ -137,7 +137,115 @@
   },
   "news": [
     {
-      "title": "Bolsonaro passou noite sem dor e fez caminhada no hospital, diz Michelle",
+      "title": "Leia a íntegra do boletim médico de Bolsonaro deste domingo",
+      "link": "https://www.poder360.com.br/poder-flash/leia-a-integra-do-boletim-medico-de-bolsonaro-deste-domingo/",
+      "date": "2026-11-22T17:31:11.000Z",
+      "summary": "Ex-presidente está estável na UTI e segue sem previsão de alta; permanece em jejum e recebe suporte nutricional",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Petrobras deve elevar meta de investimentos em novo plano para cinco anos",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/petrobras-deve-elevar-meta-de-investimentos-em-novo-plano-para-cinco-anos.shtml",
+      "date": "2026-11-22T17:26:00.000Z",
+      "summary": "A Petrobras divulga nesta segunda-feira (23) a atualização de seu plano de investimentos para os próximos cinco anos, que deve trazer uma projeção maior de gastos e apostas em crescimento da produção de diesel e biocombustíveis. Leia mais (11/22/2026 - 14h26)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Explosão em navio russo na Líbia levanta suspeita de ataque de drone",
+      "link": "https://www.dw.com/pt-br/explosão-em-navio-russo-na-líbia-levanta-suspeita-de-ataque-de-drone/a-80014687?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-22T17:23:00.000Z",
+      "summary": "Explosão deixou feridos em embarcação ancorada em Benghazi. Caso reforça temores de expansão do conflito entre Moscou e Kiev para além dos principais campos de batalha",
+      "source": "DW Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Bolsonaro está estável na UTI e segue sem previsão de alta, diz boletim",
+      "link": "https://www.poder360.com.br/poder-brasil/bolsonaro-esta-estavel-na-uti-e-segue-sem-previsao-de-alta-diz-boletim/",
+      "date": "2026-11-22T17:18:04.000Z",
+      "summary": "Ex-presidente permanece em jejum e recebe suporte nutricional; hospital informa diagnóstico de abdômen agudo obstrutivo",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Ovelhas e painéis solares dividem espaço e aumentam produtividade agrícola",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/economia-sustentavel/2026/11/modelo-agrivoltaico-amplia-renda-rural-e-eficiencia-da-energia-solar.shtml",
+      "date": "2026-11-22T17:02:00.000Z",
+      "summary": "Usinas solares são lugares silenciosos, interrompidos apenas pelo leve zumbido dos inversores. Mas em uma a cada dez fazendas solares nos Estados Unidos, um novo som ecoa pelos campos: o balido de ovelhas. Leia mais (11/22/2026 - 14h02)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Compras como alívio emocional causam ciclo vicioso",
+      "link": "https://www.poder360.com.br/poder-saude/compras-como-alivio-emocional-causam-ciclo-vicioso/",
+      "date": "2026-11-22T17:00:16.000Z",
+      "summary": "Consumo por impulso pode gerar dependência psicológica e endividamento em falsa busca por bem-estar",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "IA e matemática: entramos na era das verdades que não entendemos",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/ronaldolemos/2026/11/ia-e-matematica-entramos-na-era-das-verdades-que-nao-entendemos.shtml",
+      "date": "2026-11-22T17:00:00.000Z",
+      "summary": "Bernhard Riemann nasceu em 1826 em Breselenz, Hannover. Filho de família pobre, quis estudar teologia por inspiração do pai, pastor luterano. Ao ingressar, mudou para a matemática, que via como \"outra forma de servir a Deus\". Pouco depois ele se tornaria um do",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "The Economist: O que está causando os recentes apagões nos Estados Unidos?",
+      "link": "https://www.estadao.com.br/economia/negocios/the-economist-o-que-esta-causando-os-recentes-apagoes-nos-estados-unidos/",
+      "date": "2026-11-22T17:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Bolsonaro está clinicamente estável e segue em UTI, diz boletim médico",
+      "link": "https://g1.globo.com/politica/politico/noticia/2026/11/22/bolsonaro-esta-estavel-diz-hospital.ghtml",
+      "date": "2026-11-22T16:54:30.000Z",
+      "summary": "Ex-presidente Jair Bolsonaro Pablo Porciuncula/AFP O ex-presidente Jair Bolsonaro está clinicamente estável, informou o Hospital DF Star na tarde deste domingo (22). Bolsonaro está internado na unidade de terapia intensiva (UTI), com diagnóstico de abdômen agu",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Aviso",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/marcos-de-vasconcellos/2026/11/aviso.shtml",
+      "date": "2026-11-22T16:53:00.000Z",
+      "summary": "Excepcionalmente, a coluna não será publicada Leia mais (11/22/2026 - 13h53)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Flávio, Damares e políticos de direita pedem orações para Bolsonaro",
+      "link": "https://www.poder360.com.br/poder-gente/flavio-damares-e-politicos-de-direita-pedem-oracoes-para-bolsonaro/",
+      "date": "2026-11-22T16:44:59.000Z",
+      "summary": "Políticos alinhados ao ex-presidente publicaram mensagens de apoio; ex-chefe do Executivo foi internado em Brasília por obstrução intestinal",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Futuro das COPs: modelo que pede ‘consenso’ fracassa na Turquia e novas formas devem ser adotadas",
+      "link": "https://www.estadao.com.br/economia/roberto-waack/futuro-das-cops-modelo-que-pede-consenso-fracassa-na-turquia-e-novas-formas-devem-ser-adotadas/",
+      "date": "2026-11-22T16:37:07.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Bolsonaro passou noite sem dor e fez caminhada no hospital, diz Michelle; ex-presidente segue na UTI",
       "link": "https://www.estadao.com.br/politica/bolsonaro-passou-noite-sem-dor-e-fez-caminhada-no-hospital-diz-michelle/",
       "date": "2026-11-22T16:16:22.000Z",
       "summary": "",
@@ -152,15 +260,6 @@
       "summary": "O governo Lula (PT) tem 1 em cada 10 servidores em funções de confiança filiados a algum partido, tanto em órgãos federais localizados em Brasília quanto nos outros estados. Leia mais (11/22/2026 - 13h00)",
       "source": "Folha",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Quem é Bruno Moretti, o ministro 'mágico' de Lula que tenta agradar à esquerda e ao mercado",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/quem-e-bruno-moretti-o-ministro-magico-de-lula-que-tenta-agradar-a-esquerda-e-ao-mercado.shtml",
-      "date": "2026-11-22T16:00:00.000Z",
-      "summary": "Um mês após assumir o comando do Ministério do Planejamento e Orçamento, Bruno Moretti, 46, recebeu do presidente Lula (PT) a alcunha que, curiosamente, fez sentido tanto para seus colegas e admiradores quanto para os críticos de suas propostas. Leia mais (11/",
-      "source": "Folha",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -191,33 +290,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Bolsonaro passa noite sem dor e caminha por hospital, diz Michelle",
-      "link": "https://www.poder360.com.br/poder-gente/bolsonaro-passa-noite-sem-dor-e-caminha-por-hospital-diz-michelle/",
-      "date": "2026-11-22T15:34:52.000Z",
-      "summary": "Ex-presidente fez alguns exames e fará raio X contrastado para avaliar intestino; senadora pede orações",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Governo prepara política de proteção a mulheres na vida pública",
-      "link": "https://www.poder360.com.br/poder-governo/governo-prepara-politica-de-protecao-a-mulheres-na-vida-publica/",
-      "date": "2026-11-22T15:11:42.000Z",
-      "summary": "Iniciativa deve integrar plano nacional ainda em 2026; entidades cobram orçamento e atendimento permanente",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Bolsas da China afrouxam margem e cortam tarifas para sustentar ações",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/bolsas-da-china-afrouxam-margem-e-cortam-tarifas-para-sustentar-acoes.shtml",
-      "date": "2026-11-22T15:09:00.000Z",
-      "summary": "As três principais bolsas de valores da China anunciaram planos para sustentar as ações em queda com um conjunto de medidas, como a flexibilização das exigências para financiamento de operações com margem. Leia mais (11/22/2026 - 12h09)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "ICMS sobre o diesel acumula alta de 735,7% desde 2002, acima da inflação acumulada, aponta estudo",
       "link": "https://www.estadao.com.br/economia/icms-sobre-diesel-alta-desde-2002-acima-inflacao-estudo/",
       "date": "2026-11-22T15:05:09.000Z",
@@ -236,15 +308,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Mineração vive a maior crise dos últimos anos com frete caro e preços baixos",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/infraestrutura/2026/11/mineracao-vive-a-maior-crise-dos-ultimos-anos-com-frete-caro-e-precos-baixos.shtml",
-      "date": "2026-11-22T15:00:00.000Z",
-      "summary": "Durante teleconferência do último trimestre, o CEO da CSN (Companhia Siderúrgica Nacional), Fábio Schvartsman, pediu desculpa aos analistas presentes para dizer o óbvio. \"Preço da commodity e frete são o que mandam no resultado de qualquer mineradora.\" Leia ma",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Aldo Rebelo lança movimento político e acusa Lula de ‘franquear’ a Amazônia",
       "link": "https://www.estadao.com.br/politica/coluna-do-estadao/aldo-rebelo-lanca-movimento-politico-e-acusa-lula-de-franquear-a-amazonia/",
       "date": "2026-11-22T15:00:00.000Z",
@@ -254,39 +317,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Custos de financiamento da Argentina disparam e queda na popularidade de Milei abala investidores",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/custos-de-financiamento-da-argentina-disparam-e-queda-na-popularidade-de-milei-abala-investidores.shtml",
-      "date": "2026-11-22T14:53:00.000Z",
-      "summary": "Os rendimentos dos títulos soberanos da Argentina dispararam nos últimos quatro meses, em meio ao aumento das dúvidas sobre a tentativa de reeleição do presidente libertário Javier Milei e sobre o plano de seu governo para pagar bilhões de dólares em dívidas. ",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Mega-Sena 3089 acumula e prêmio vai a R$ 65 milhões; confira os números sorteados",
       "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/22/mega-sena-3089-confira-os-numeros-sorteados.ghtml",
       "date": "2026-11-22T14:05:01.000Z",
       "summary": "Mega-Sena, concurso 3089: confira os números sorteados O sorteio do concurso 3.089 da Mega-Sena foi realizado na manhã deste domingo (22), em São Paulo. O prêmio para as apostas que acertassem as seis dezenas era de R$ 43.102.645,31 milhões. No entanto, ningué",
       "source": "g1",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Sidônio deixará Secom com Lula mais ativo nas redes sociais",
-      "link": "https://www.poder360.com.br/poder-governo/sidonio-deixara-secom-com-lula-mais-ativo-nas-redes-sociais/",
-      "date": "2026-11-22T14:00:16.000Z",
-      "summary": "Secretaria de Comunicação Social passou a fazer mais postagens com presidente depois que ministro assumiu, em janeiro de 2025",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "COP31 não chega a consenso e termina sem acordo climático",
-      "link": "https://www.poder360.com.br/poder-internacional/cop31-nao-chega-a-consenso-e-termina-sem-acordo-climatico/",
-      "date": "2026-11-22T13:22:38.000Z",
-      "summary": "Texto final omitiu combustíveis fósseis e propôs ampliar uso de eletricidade e tecnologias de captura de carbono; União Europeia e outras delegações rejeitaram a proposta",
-      "source": "Poder360",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -350,15 +386,6 @@
       "summary": "",
       "source": "Estadão",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Fintech ‘copia’ modelo do Minha Casa, Minha Vida para crédito imobiliário",
-      "link": "https://www.estadao.com.br/economia/coluna-da-broad/fintech-copia-modelo-do-minha-casa-minha-vida-para-credito-imobiliario/",
-      "date": "2026-11-22T08:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -443,28 +470,10 @@
       "type": "imprensa"
     },
     {
-      "title": "Bolsonaro tem obstrução intestinal, está na UTI, estável e sem previsão de alta, diz hospital",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/21/bolsonaro-tem-obstrucao-intestinal-quadro-estavel-e-segue-sem-previsao-de-alta-diz-boletim-medico.ghtml",
-      "date": "2026-11-21T17:16:23.000Z",
-      "summary": "Bolsonaro está na UTI em estado estável, diz boletim médico O ex-presidente Jair Bolsonaro está internado em unidade de terapia intensiva com o diagnóstico de abdômen agudo obstrutivo, informou o hospital DF Star na tarde deste sábado (21). Ele foi internado n",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Megaprisões na América Latina: solução ou problema?",
       "link": "https://www.dw.com/pt-br/megaprisões-na-américa-latina-solução-ou-problema/a-80005196?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-21T10:32:00.000Z",
       "summary": "Presídio de segurança máxima com capacidade para até 40 mil detentos é um dos maiores trunfos do presidente de El Salvador. Para especialistas, porém, modelo tem mais impacto simbólico do que na redução da criminalidade.",
-      "source": "DW Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Sequestro de crianças como arma de guerra: Putin e o legado de Hitler",
-      "link": "https://www.dw.com/pt-br/sequestro-de-crianças-como-arma-de-guerra-putin-e-o-legado-de-hitler/a-80007486?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-21T10:11:00.000Z",
-      "summary": "A polonesa Barbara Paciorkiewicz foi levada pelos nazistas, enquanto a ucraniana Ksenija Koldin foi tirada da família na Rússia contemporânea. Elas falam sobre perda, separação forçada e o difícil retorno ao lar.",
       "source": "DW Brasil",
       "cat": "internacional",
       "type": "imprensa"
@@ -612,15 +621,6 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Mercado brasileiro de games deve movimentar US$ 3,1 bi até 2030, estima PwC; salto poderia ser maior",
-      "link": "https://www.estadao.com.br/economia/negocios/mercado-brasileiro-de-games-deve-movimentar-us-31-bi-ate-2030-estima-pwc-salto-poderia-ser-maior/",
-      "date": "2026-11-19T20:18:07.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
     },
     {
       "title": "BC publica Pesquisa Trimestral de Condições de Crédito (PTC)",
