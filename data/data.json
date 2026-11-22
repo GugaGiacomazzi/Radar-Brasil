@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-22T14:45:36.607Z",
+  "updated": "2026-11-22T15:40:48.632Z",
   "market": {
     "ibov": {
       "price": 166376.44,
       "pct": -0.69,
-      "time": "2026-11-22T14:45:29.569Z",
+      "time": "2026-11-22T15:40:41.230Z",
       "history": [
         {
           "d": "2026-10-23",
@@ -137,19 +137,82 @@
   },
   "news": [
     {
-      "title": "Democratas dos EUA planejam reverter tarifas e impostos de Trump",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/democratas-dos-eua-planejam-reverter-tarifas-e-impostos-de-trump.shtml",
-      "date": "2026-11-22T14:28:00.000Z",
-      "summary": "Os democratas americanos realizarão audiências para avaliar a reversão de elementos centrais da visão econômica de Donald Trump, incluindo tarifas e impostos, quando assumirem o controle do Congresso dos Estados Unidos no próximo ano. Leia mais (11/22/2026 - 1",
+      "title": "Bolsonaro passa noite sem dor e caminha por hospital, diz Michelle",
+      "link": "https://www.poder360.com.br/poder-gente/bolsonaro-passa-noite-sem-dor-e-caminha-por-hospital-diz-michelle/",
+      "date": "2026-11-22T15:34:52.000Z",
+      "summary": "Ex-presidente fez alguns exames e fará raio X contrastado para avaliar intestino; senadora pede orações",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Governo prepara política de proteção a mulheres na vida pública",
+      "link": "https://www.poder360.com.br/poder-governo/governo-prepara-politica-de-protecao-a-mulheres-na-vida-publica/",
+      "date": "2026-11-22T15:11:42.000Z",
+      "summary": "Iniciativa deve integrar plano nacional ainda em 2026; entidades cobram orçamento e atendimento permanente",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Bolsas da China afrouxam margem e cortam tarifas para sustentar ações",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/bolsas-da-china-afrouxam-margem-e-cortam-tarifas-para-sustentar-acoes.shtml",
+      "date": "2026-11-22T15:09:00.000Z",
+      "summary": "As três principais bolsas de valores da China anunciaram planos para sustentar as ações em queda com um conjunto de medidas, como a flexibilização das exigências para financiamento de operações com margem. Leia mais (11/22/2026 - 12h09)",
       "source": "Folha",
       "cat": "economia",
       "type": "imprensa"
     },
     {
-      "title": "Prevenir é melhor que remediar: o porquê de uma lei de competição em mercados digitais",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/prevenir-e-melhor-que-remediar-o-porque-de-uma-lei-de-competicao-em-mercados-digitais.shtml",
-      "date": "2026-11-22T14:10:00.000Z",
-      "summary": "O Pix foi construído a partir de uma série de consultas públicas feitas pelo BC (Banco Central) à sociedade e tem três características que levaram ao seu sucesso: 1) a infraestrutura na qual opera é aberta, 2) pode-se fazer Pix entre quaisquer duas contas (ele",
+      "title": "ICMS sobre o diesel acumula alta de 735,7% desde 2002, acima da inflação acumulada, aponta estudo",
+      "link": "https://www.estadao.com.br/economia/icms-sobre-diesel-alta-desde-2002-acima-inflacao-estudo/",
+      "date": "2026-11-22T15:05:09.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Relatório da redução da maioridade penal fica para dezembro e votação da proposta deve ser adiada",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/relatorio-da-reducao-da-maioridade-penal-fica-para-dezembro-e-votacao-da-proposta-deve-ser-adiada.shtml",
+      "date": "2026-11-22T15:00:00.000Z",
+      "summary": "O relatório da PEC que prevê a redução da maioridade penal só deve ser apresentado no início de dezembro pelo deputado Mendonça Filho (PL-PE). Com isso, a previsão é que o texto só seja votado no plenário da Câmara dos Deputados a partir do dia 7 do próximo mê",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Mineração vive a maior crise dos últimos anos com frete caro e preços baixos",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/mineracao-vive-a-maior-crise-dos-ultimos-anos-com-frete-caro-e-precos-baixos.shtml",
+      "date": "2026-11-22T15:00:00.000Z",
+      "summary": "Durante teleconferência do último trimestre, o CEO da CSN (Companhia Siderúrgica Nacional), Fábio Schvartsman, pediu desculpa aos analistas presentes para dizer o óbvio. \"Preço da commodity e frete são o que mandam no resultado de qualquer mineradora.\" Leia ma",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Aldo Rebelo lança movimento político e acusa Lula de ‘franquear’ a Amazônia",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/aldo-rebelo-lanca-movimento-politico-e-acusa-lula-de-franquear-a-amazonia/",
+      "date": "2026-11-22T15:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Custos de financiamento da Argentina disparam e queda na popularidade de Milei abala investidores",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/custos-de-financiamento-da-argentina-disparam-e-queda-na-popularidade-de-milei-abala-investidores.shtml",
+      "date": "2026-11-22T14:53:00.000Z",
+      "summary": "Os rendimentos dos títulos soberanos da Argentina dispararam nos últimos quatro meses, em meio ao aumento das dúvidas sobre a tentativa de reeleição do presidente libertário Javier Milei e sobre o plano de seu governo para pagar bilhões de dólares em dívidas. ",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Democratas dos EUA planejam reverter tarifas e impostos de Trump",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/democratas-dos-eua-planejam-reverter-tarifas-e-impostos-de-trump.shtml",
+      "date": "2026-11-22T14:28:00.000Z",
+      "summary": "Os democratas americanos realizarão audiências para avaliar a reversão de elementos centrais da visão econômica de Donald Trump, incluindo tarifas e impostos, quando assumirem o controle do Congresso dos Estados Unidos no próximo ano. Leia mais (11/22/2026 - 1",
       "source": "Folha",
       "cat": "economia",
       "type": "imprensa"
@@ -164,15 +227,6 @@
       "type": "imprensa"
     },
     {
-      "title": "China critica medida dos EUA que restringe gigantes nacionais das telecomunicações",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/china-critica-medida-dos-eua-que-restringe-gigantes-nacionais-das-telecomunicacoes.shtml",
-      "date": "2026-11-22T14:01:00.000Z",
-      "summary": "O Ministério do Comércio da China criticou neste domingo (22) uma medida adotada por Washington para restringir o acesso direto de grandes empresas chinesas de telecomunicações a números telefônicos registrados nos Estados Unidos. Leia mais (11/22/2026 - 11h01",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Sidônio deixará Secom com Lula mais ativo nas redes sociais",
       "link": "https://www.poder360.com.br/poder-governo/sidonio-deixara-secom-com-lula-mais-ativo-nas-redes-sociais/",
       "date": "2026-11-22T14:00:16.000Z",
@@ -182,28 +236,10 @@
       "type": "imprensa"
     },
     {
-      "title": "Morre Paolo Bulgari, aos 89 anos, herdeiro que ajudou a levar a joalheria italiana ao mundo",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/morre-paolo-bulgari-aos-89-anos-herdeiro-que-ajudou-a-levar-a-joalheria-italiana-ao-mundo.shtml",
-      "date": "2026-11-22T13:42:00.000Z",
-      "summary": "Morreu neste sábado (21) o empresário italiano Paolo Bulgari, neto do fundador da joalheria de luxo Bulgari, Sotirio Bulgari, aos 89 anos em Roma. Ele presidia o Grupo Bulgari desde 1984. Leia mais (11/22/2026 - 10h42)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "COP31 não chega a consenso e deve terminar sem acordo climático",
       "link": "https://www.poder360.com.br/poder-internacional/cop31-nao-chega-a-consenso-e-deve-terminar-sem-acordo-climatico/",
       "date": "2026-11-22T13:22:38.000Z",
       "summary": "Texto final omitiu combustíveis fósseis e propôs ampliar uso de eletricidade e tecnologias de captura de carbono; União Europeia e outras delegações rejeitaram a proposta",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Número de partidos cai desde o início da cláusula de desempenho",
-      "link": "https://www.poder360.com.br/poder-partidos-politicos/numero-de-partidos-cai-desde-o-inicio-da-clausula-de-desempenho/",
-      "date": "2026-11-22T13:00:37.000Z",
-      "summary": "Levantamento com base em dados do TSE mostra que, desde 2018, o total de siglas passou de 35 para 24",
       "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
@@ -290,24 +326,6 @@
       "type": "imprensa"
     },
     {
-      "title": "O destino incerto de Marina Silva no governo Lula 4",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/o-destino-incerto-de-marina-silva-no-governo-lula-4/",
-      "date": "2026-11-22T08:30:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Fim de benefício fiscal nos Estados faz empresas repensarem localização de fábricas e galpões",
-      "link": "https://www.estadao.com.br/economia/fim-de-beneficio-fiscal-nos-estados-faz-empresas-repensarem-localizacao-de-fabricas-e-galpoes/",
-      "date": "2026-11-22T08:30:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Fintech ‘copia’ modelo do Minha Casa, Minha Vida para crédito imobiliário",
       "link": "https://www.estadao.com.br/economia/coluna-da-broad/fintech-copia-modelo-do-minha-casa-minha-vida-para-credito-imobiliario/",
       "date": "2026-11-22T08:00:00.000Z",
@@ -376,15 +394,6 @@
       "date": "2026-11-22T03:00:00.000Z",
       "summary": "Guarda Municipal Reprodução/Prefeitura de Porto Velho A PEC da Segurança Pública, aprovada em definitivo pelo Congresso em 3 de novembro, abriu caminho para que municípios criem suas próprias polícias. Mas impõe uma condição que poucos conseguem cumprir: mante",
       "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Ministério das Mulheres vai criar política de proteção contra violência política de gênero e raça",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/ministerio-das-mulheres-vai-criar-politica-de-protecao-contra-violencia-politica-de-genero-e-raca.shtml",
-      "date": "2026-11-22T02:00:00.000Z",
-      "summary": "O Ministério das Mulheres está elaborando uma política nacional de enfrentamento à violência política de gênero e raça. A proposta deve ser incorporada ao Plano Nacional de Políticas para Mulheres, com lançamento previsto ainda em 2026. A criação da política a",
-      "source": "Folha",
       "cat": "politica",
       "type": "imprensa"
     },
