@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-22T09:06:52.440Z",
+  "updated": "2026-11-22T10:07:02.538Z",
   "market": {
     "ibov": {
       "price": 166376.44,
       "pct": -0.69,
-      "time": "2026-11-22T09:06:45.818Z",
+      "time": "2026-11-22T10:06:57.605Z",
       "history": [
         {
           "d": "2026-10-23",
@@ -136,6 +136,24 @@
     ]
   },
   "news": [
+    {
+      "title": "Por dentro do antigo gasoduto onde a Ucrânia vem lutando em uma guerra subterrânea",
+      "link": "https://www.bbc.com/portuguese/articles/cm2d94xr6l1eo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-22T09:40:48.000Z",
+      "summary": "Forças ucranianas combatem tropas russas em uma antiga tubulação soviética na região de Kharkiv, no leste da Ucrânia.",
+      "source": "BBC News Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Dino reacende debate sobre imunidade parlamentar no caso van Hattem",
+      "link": "https://www.poder360.com.br/poder-justica/dino-reacende-debate-sobre-imunidade-parlamentar-no-caso-van-hattem/",
+      "date": "2026-11-22T09:08:10.000Z",
+      "summary": "Ministro votou para acolher denúncia da PGR contra o deputado por calúnia e injúria; Moraes seguiu e Zanin pediu destaque",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
     {
       "title": "Moraes concentra 44% dos processos criminais do Supremo",
       "link": "https://www.poder360.com.br/poder-justica/moraes-concentra-44-dos-processos-criminais-do-supremo/",
@@ -358,15 +376,6 @@
       "date": "2026-11-21T23:56:52.000Z",
       "summary": "",
       "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Bolsonaro tem tornozeleira retirada durante internação na UTI",
-      "link": "https://www.poder360.com.br/poder-justica/bolsonaro-tem-tornozeleira-retirada-durante-internacao-na-uti/",
-      "date": "2026-11-21T23:42:13.000Z",
-      "summary": "Ministro do STF Alexandre de Moraes determinou que equipamento seja recolocado após alta hospitalar; ex-presidente está internado em Brasília",
-      "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
     },
