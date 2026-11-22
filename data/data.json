@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-22T12:00:15.592Z",
+  "updated": "2026-11-22T12:54:17.785Z",
   "market": {
     "ibov": {
       "price": 166376.44,
       "pct": -0.69,
-      "time": "2026-11-22T12:00:09.233Z",
+      "time": "2026-11-22T12:54:10.294Z",
       "history": [
         {
           "d": "2026-10-23",
@@ -81,6 +81,10 @@
         {
           "d": "2026-11-19",
           "c": 166376
+        },
+        {
+          "d": "2026-11-22",
+          "c": 166376.4375
         }
       ]
     },
@@ -137,6 +141,42 @@
   },
   "news": [
     {
+      "title": "Está com cara boa e não teve febre, diz Michelle sobre Bolsonaro",
+      "link": "https://www.poder360.com.br/poder-gente/esta-com-cara-boa-e-nao-teve-febre-diz-michelle-sobre-bolsonaro/",
+      "date": "2026-11-22T12:23:15.000Z",
+      "summary": "Ex-primeira-dama voltou de Israel no sábado e passou a noite com o ex-presidente, internado em Brasília",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "‘Ele está com uma cara boa’, diz Michelle ao visitar Bolsonaro na UTI",
+      "link": "https://www.estadao.com.br/politica/ele-esta-com-uma-cara-boa-diz-michelle-ao-visitar-bolsonaro-na-uti-npr/",
+      "date": "2026-11-22T12:08:50.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Protestos pela Europa: de onde vem a indignação da Geração Z?",
+      "link": "https://www.dw.com/pt-br/protestos-pela-europa-de-onde-vem-a-indignação-da-geração-z/a-80013510?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-22T12:04:00.000Z",
+      "summary": "Mesmo com o maior nível de instrução da história, os jovens de hoje enfrentam imensos desafios econômicos e políticos. Muitos se questionam se vão conseguir manter a qualidade de vida dos pais.",
+      "source": "DW Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Troca de CEOs em empresas do Ibovespa é a maior em cinco anos",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/troca-de-ceos-em-empresas-do-ibovespa-e-a-maior-em-cinco-anos.shtml",
+      "date": "2026-11-22T12:00:00.000Z",
+      "summary": "Do total de 78 companhias do Ibovespa, principal índice da Bolsa de Valores brasileira, 17 trocaram de CEO em 2026, o equivalente a 22%. Esse é a maior rotatividade no cargo em cinco anos, segundo levantamento da consultoria Flow Executive Finders, especializa",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "Moraes suspende lei de MT que exige velocidade da internet na fatura",
       "link": "https://www.poder360.com.br/poder-justica/moraes-suspende-lei-de-mt-que-exige-velocidade-da-internet-na-fatura/",
       "date": "2026-11-22T11:53:34.000Z",
@@ -155,21 +195,21 @@
       "type": "imprensa"
     },
     {
+      "title": "Morre Paolo Bulgari: o joalheiro italiano que transformou um negócio familiar em uma grife de luxo",
+      "link": "https://www.estadao.com.br/economia/morre-paolo-bulgari-o-joalheiro-italiano-que-transformou-um-negocio-familiar-em-uma-grife-de-luxo-npr/",
+      "date": "2026-11-22T11:29:19.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "A 'utopia socialista' que levou um grupo de australianos idealistas ao Paraguai há mais de 130 anos",
       "link": "https://www.bbc.com/portuguese/articles/cqrkgxv7xxgzo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-22T11:21:38.000Z",
       "summary": "Dezenas de australianos deixaram seu país no final do século XIX em busca de um lugar melhor para viver. O país escolhido foi o Paraguai.",
       "source": "BBC News Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Investidores globais querem aumentar aplicações na China",
-      "link": "https://www.poder360.com.br/poder-china/investidores-globais-querem-aumentar-aplicacoes-na-china/",
-      "date": "2026-11-22T11:15:23.000Z",
-      "summary": "Avaliações atrativas, resiliência do yuan e capacidade das empresas de transformar inovação em lucros atraem interesse",
-      "source": "Poder360",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -362,39 +402,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Pesquisa Focus e a política monetária",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/samuelpessoa/2026/11/pesquisa-focus-e-a-politica-monetaria.shtml",
-      "date": "2026-11-22T02:00:00.000Z",
-      "summary": "A pesquisa Focus, conduzida semanalmente pelo BC (Banco Central), coleta, entre os economistas do mercado, a previsão da inflação e de outras variáveis econômicas importantes. As previsões são feitas para diversos horizontes. Leia mais (11/21/2026 - 23h00)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Zanin suspende Congresso do Cidadania, que incorporaria partido ao PP",
-      "link": "https://www.estadao.com.br/politica/zanin-suspende-congresso-do-cidadania-que-incorporaria-partido-ao-pp/",
-      "date": "2026-11-21T23:56:52.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Na COP31, embate sobre relatório climático ameaça negociações futuras",
       "link": "https://www.dw.com/pt-br/na-cop31-embate-sobre-relatório-climático-ameaça-negociações-futuras/a-80011164?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-21T22:20:00.000Z",
       "summary": "Países divergem sobre quando divulgar a próxima avaliação do IPCC, principal referência científica para a política climática global. Calendário define se o documento orientará o próximo balanço do Acordo de Paris.",
       "source": "DW Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Pacote fiscal não é ajuste; nem bom nem primeiro passo",
-      "link": "https://www.estadao.com.br/economia/alexandre-schwartsman/pacote-fiscal-nao-e-ajuste-nem-bom-nem-primeiro-passo/",
-      "date": "2026-11-21T20:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -456,15 +469,6 @@
       "link": "https://www.dw.com/pt-br/trump-diz-que-filipinas-trocarão-produtos-agrícolas-do-brasil-pelos-dos-eua/a-80007345?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-20T21:16:00.000Z",
       "summary": "Declaração ocorre após viagem à Ásia, onde o presidente americano teve encontros com líderes de pelo menos 20 países e disse ter encaminhado até 10 novos acordos comerciais.",
-      "source": "DW Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Até onde estratégia de Trump contra o Irã depende de China e Rússia",
-      "link": "https://www.dw.com/pt-br/até-onde-estratégia-de-trump-contra-o-irã-depende-de-china-e-rússia/a-80005164?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-20T19:32:00.000Z",
-      "summary": "Pequim compra a maior parte do petróleo iraniano e Moscou oferece apoio político ao reg, mas as duas potências calculam cuidadosamente até onde vale a pena ajudar Teerã.",
       "source": "DW Brasil",
       "cat": "internacional",
       "type": "imprensa"
