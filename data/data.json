@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-22T20:26:10.665Z",
+  "updated": "2026-11-22T21:24:44.441Z",
   "market": {
     "ibov": {
       "price": 166376.44,
       "pct": -0.69,
-      "time": "2026-11-22T20:26:04.225Z",
+      "time": "2026-11-22T21:24:40.137Z",
       "history": [
         {
           "d": "2026-10-23",
@@ -137,6 +137,87 @@
   },
   "news": [
     {
+      "title": "Portos dos EUA enfrentam ataques cibernéticos, e hackers miram rotas comerciais vitais",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/infraestrutura/2026/11/portos-dos-eua-enfrentam-ataques-ciberneticos-e-hackers-miram-rotas-comerciais-vitais.shtml",
+      "date": "2026-11-22T21:14:00.000Z",
+      "summary": "Hackers intensificam uma ofensiva cibernética contra portos e navios de carga dos Estados Unidos ao bombardear artérias vitais do comércio global com milhares de tentativas de ataque todos os dias. Leia mais (11/22/2026 - 18h14)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Custo Brasil afasta empresas estrangeiras do mercado brasileiro",
+      "link": "https://www.poder360.com.br/poder-economia/custo-brasil-afasta-empresas-estrangeiras-do-mercado-brasileiro/",
+      "date": "2026-11-22T21:02:30.000Z",
+      "summary": "Juros altos, endividamento e entraves tributários e logísticos dificultam a expansão do setor, segundo a Associação Brasileira de Empresas de Vendas Diretas",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Você realmente precisa ter parte do patrimônio em dólar?",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/blogs/de-grao-em-grao/2026/11/voce-realmente-precisa-ter-parte-do-patrimonio-em-dolar.shtml",
+      "date": "2026-11-22T21:00:00.000Z",
+      "summary": "Você já ouviu que todo investidor brasileiro deveria manter pelo menos 10%, 20% ou até 30% do patrimônio em dólar? Essa recomendação se tornou tão comum que muitos investidores acreditam estar assumindo um risco desnecessário quando mantêm todo o dinheiro no B",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Soberba, péssima conselheira",
+      "link": "https://www.estadao.com.br/politica/carlos-pereira/soberba-pessima-conselheira/",
+      "date": "2026-11-22T21:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Tarcísio mantém metade do secretariado e só traz Salles de fora do governo; veja quem é quem",
+      "link": "https://www.estadao.com.br/politica/tarcisio-mantem-metade-do-secretariado-e-so-traz-salles-de-fora-do-governo-veja-quem-e-quem/",
+      "date": "2026-11-22T21:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "UE propõe taxar big techs para financiar orçamento",
+      "link": "https://www.poder360.com.br/poder-internacional/ue-propoe-taxar-big-techs-para-financiar-orcamento/",
+      "date": "2026-11-22T20:45:47.000Z",
+      "summary": "Taxação da receita líquida anual atingiria empresas que faturam ao menos 50 milhões de euros na UE e 750 milhões de euros em todo o mundo",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Democratas conquistam maior bancada na Câmara dos EUA desde 1992",
+      "link": "https://www.dw.com/pt-br/democratas-conquistam-maior-bancada-na-câmara-dos-eua-desde-1992/a-80015273?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-22T20:33:00.000Z",
+      "summary": "Partido assegura ao menos 258 das 435 cadeiras em disputa, seu melhor resultado desde a eleição de Bill Clinton. Desempenho amplia força no Congresso e eleva cobrança por avanços na agenda legislativa.",
+      "source": "DW Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Secretário do Tesouro dos EUA suaviza discurso e não descarta retorno de Jensen Huang à Nvidia",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/secretario-do-tesouro-dos-eua-se-recusa-a-descartar-retorno-de-jensen-huang-a-nvidia.shtml",
+      "date": "2026-11-22T20:28:00.000Z",
+      "summary": "O secretário do Tesouro dos Estados Unidos, Scott Bessent, deu a entender que não se oporia ao retorno de Jensen Huang à Nvidia, uma semana depois de pedir ao conselho da empresa que promovesse uma \"reformulação drástica\" e buscasse \"fora\" uma nova liderança. ",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Flávio diz não ter provas de fraude por ser “proibido de investigar”",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-diz-nao-ter-provas-de-fraude-por-ser-proibido-de-investigar/",
+      "date": "2026-11-22T20:25:51.000Z",
+      "summary": "Senador critica técnicos do TSE e defende voto impresso; sistema brasileiro permite auditorias e não tem conexão com redes externas",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "COP31 termina sem acordo após impasse sobre combustíveis fósseis",
       "link": "https://www.bbc.com/portuguese/articles/cq742zpk1ln4o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-22T20:14:02.000Z",
@@ -200,15 +281,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Humorista imita Trump em jantar com primeiro-ministro do Canadá",
-      "link": "https://www.poder360.com.br/poder-internacional/humorista-imita-trump-em-jantar-com-primeiro-ministro-do-canada/",
-      "date": "2026-11-22T19:38:02.000Z",
-      "summary": "Mark Carney participou de evento anual da imprensa parlamentar canadense, realizado em Ottawa",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Como dois refrigeradores abandonados pelo exército dos EUA na Toscana deram origem ao sorvete italiano",
       "link": "https://www.bbc.com/portuguese/articles/cqr7g87en4pno?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-22T19:34:31.000Z",
@@ -236,15 +308,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Donald Trump assina lei que extingue moeda de US$ 0,01",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/donald-trump-assina-lei-que-extingue-moeda-de-us-001.shtml",
-      "date": "2026-11-22T17:52:00.000Z",
-      "summary": "O fim da moeda de um centavo de dólar, conhecida nos Estados Unidos como \"penny\", foi anunciado há um ano pelo presidente americano Donald Trump. Agora, ela foi sepultada de fato. Leia mais (11/22/2026 - 14h52)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Bolsonaro segue na UTI, com quadro estável e sem previsão de alta",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/bolsonaro-segue-na-uti-com-quadro-estavel-e-sem-previsao-de-alta.shtml",
       "date": "2026-11-22T17:40:00.000Z",
@@ -254,48 +317,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Leia a íntegra do boletim médico de Bolsonaro deste domingo",
-      "link": "https://www.poder360.com.br/poder-flash/leia-a-integra-do-boletim-medico-de-bolsonaro-deste-domingo/",
-      "date": "2026-11-22T17:31:11.000Z",
-      "summary": "Ex-presidente está estável na UTI e segue sem previsão de alta; permanece em jejum e recebe suporte nutricional",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Petrobras deve elevar meta de investimentos em novo plano para cinco anos",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/petrobras-deve-elevar-meta-de-investimentos-em-novo-plano-para-cinco-anos.shtml",
-      "date": "2026-11-22T17:26:00.000Z",
-      "summary": "A Petrobras divulga nesta segunda-feira (23) a atualização de seu plano de investimentos para os próximos cinco anos, que deve trazer uma projeção maior de gastos e apostas em crescimento da produção de diesel e biocombustíveis. Leia mais (11/22/2026 - 14h26)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Explosão em navio russo na Líbia levanta suspeita de ataque de drone",
       "link": "https://www.dw.com/pt-br/explosão-em-navio-russo-na-líbia-levanta-suspeita-de-ataque-de-drone/a-80014687?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-22T17:23:00.000Z",
       "summary": "Explosão deixou feridos em embarcação ancorada em Benghazi. Caso reforça temores de expansão do conflito entre Moscou e Kiev para além dos principais campos de batalha",
       "source": "DW Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Bolsonaro está estável na UTI e segue sem previsão de alta, diz boletim",
-      "link": "https://www.poder360.com.br/poder-brasil/bolsonaro-esta-estavel-na-uti-e-segue-sem-previsao-de-alta-diz-boletim/",
-      "date": "2026-11-22T17:18:04.000Z",
-      "summary": "Ex-presidente permanece em jejum e recebe suporte nutricional; hospital informa diagnóstico de abdômen agudo obstrutivo",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Ovelhas e painéis solares dividem espaço e aumentam produtividade agrícola",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/economia-sustentavel/2026/11/modelo-agrivoltaico-amplia-renda-rural-e-eficiencia-da-energia-solar.shtml",
-      "date": "2026-11-22T17:02:00.000Z",
-      "summary": "Usinas solares são lugares silenciosos, interrompidos apenas pelo leve zumbido dos inversores. Mas em uma a cada dez fazendas solares nos Estados Unidos, um novo som ecoa pelos campos: o balido de ovelhas. Leia mais (11/22/2026 - 14h02)",
-      "source": "Folha",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -353,15 +380,6 @@
       "type": "imprensa"
     },
     {
-      "title": "‘Ele está com uma cara boa’, diz Michelle ao visitar Bolsonaro na UTI",
-      "link": "https://www.estadao.com.br/politica/ele-esta-com-uma-cara-boa-diz-michelle-ao-visitar-bolsonaro-na-uti-npr/",
-      "date": "2026-11-22T12:08:50.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Protestos pela Europa: de onde vem a indignação da Geração Z?",
       "link": "https://www.dw.com/pt-br/protestos-pela-europa-de-onde-vem-a-indignação-da-geração-z/a-80013510?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-22T12:04:00.000Z",
@@ -386,15 +404,6 @@
       "summary": "Forças ucranianas combatem tropas russas em uma antiga tubulação soviética na região de Kharkiv, no leste da Ucrânia.",
       "source": "BBC News Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Centrão entra no jogo de Lula para garantir cargos e facilita aprovação do ajuste fiscal na Câmara",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/centrao-entra-no-jogo-de-lula-para-garantir-cargos-e-facilita-aprovacao-do-ajuste-fiscal-na-camara/",
-      "date": "2026-11-22T08:30:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -465,15 +474,6 @@
       "link": "https://www.dw.com/pt-br/união-europeia-propõe-taxar-big-techs-para-financiar-orçamento/a-80010694?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-21T18:24:00.000Z",
       "summary": "Proposta prevê cobrança de 3% sobre receitas de publicidade online de grandes empresas de tecnologia para ampliar as receitas do bloco.",
-      "source": "DW Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Megaprisões na América Latina: solução ou problema?",
-      "link": "https://www.dw.com/pt-br/megaprisões-na-américa-latina-solução-ou-problema/a-80005196?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-21T10:32:00.000Z",
-      "summary": "Presídio de segurança máxima com capacidade para até 40 mil detentos é um dos maiores trunfos do presidente de El Salvador. Para especialistas, porém, modelo tem mais impacto simbólico do que na redução da criminalidade.",
       "source": "DW Brasil",
       "cat": "internacional",
       "type": "imprensa"
