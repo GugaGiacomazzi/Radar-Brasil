@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-22T10:07:02.538Z",
+  "updated": "2026-11-22T11:04:14.525Z",
   "market": {
     "ibov": {
       "price": 166376.44,
       "pct": -0.69,
-      "time": "2026-11-22T10:06:57.605Z",
+      "time": "2026-11-22T11:04:07.685Z",
       "history": [
         {
           "d": "2026-10-23",
@@ -150,24 +150,6 @@
       "link": "https://www.poder360.com.br/poder-justica/dino-reacende-debate-sobre-imunidade-parlamentar-no-caso-van-hattem/",
       "date": "2026-11-22T09:08:10.000Z",
       "summary": "Ministro votou para acolher denúncia da PGR contra o deputado por calúnia e injúria; Moraes seguiu e Zanin pediu destaque",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Moraes concentra 44% dos processos criminais do Supremo",
-      "link": "https://www.poder360.com.br/poder-justica/moraes-concentra-44-dos-processos-criminais-do-supremo/",
-      "date": "2026-11-22T09:00:29.000Z",
-      "summary": "Volume de casos sob relatoria do ministro evidencia concentração de decisões em suas mãos mesmo após o fim do inquérito das fake news",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Comissão do Senado aprova acesso a alívio da dor no parto",
-      "link": "https://www.poder360.com.br/poder-congresso/comissao-do-senado-aprova-acesso-a-alivio-da-dor-no-parto/",
-      "date": "2026-11-22T09:00:08.000Z",
-      "summary": "Texto assegura às gestantes informação sobre métodos de alívio da dor e prevê ampliar a oferta pelo SUS",
       "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
@@ -359,15 +341,6 @@
       "summary": "A pesquisa Focus, conduzida semanalmente pelo BC (Banco Central), coleta, entre os economistas do mercado, a previsão da inflação e de outras variáveis econômicas importantes. As previsões são feitas para diversos horizontes. Leia mais (11/21/2026 - 23h00)",
       "source": "Folha",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Após viagem, Michelle vai a hospital em que Bolsonaro está internado",
-      "link": "https://www.poder360.com.br/poder-gente/apos-viagem-michelle-vai-a-hospital-em-que-bolsonaro-esta-internado/",
-      "date": "2026-11-22T01:13:12.000Z",
-      "summary": "Senadora eleita e ex-primeira-dama retornou de viagem neste sábado; ela estava em Israel desde a semana passada",
-      "source": "Poder360",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
