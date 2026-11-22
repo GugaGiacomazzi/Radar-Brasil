@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-22T15:40:48.632Z",
+  "updated": "2026-11-22T16:41:24.861Z",
   "market": {
     "ibov": {
       "price": 166376.44,
       "pct": -0.69,
-      "time": "2026-11-22T15:40:41.230Z",
+      "time": "2026-11-22T16:41:20.245Z",
       "history": [
         {
           "d": "2026-10-23",
@@ -137,6 +137,60 @@
   },
   "news": [
     {
+      "title": "Bolsonaro passou noite sem dor e fez caminhada no hospital, diz Michelle",
+      "link": "https://www.estadao.com.br/politica/bolsonaro-passou-noite-sem-dor-e-fez-caminhada-no-hospital-diz-michelle/",
+      "date": "2026-11-22T16:16:22.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Centrão e direita são quase metade dos filiados em cargos políticos do governo Lula fora de Brasília",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/centrao-e-direita-sao-quase-metade-dos-filiados-em-cargos-politicos-do-governo-lula-fora-de-brasilia.shtml",
+      "date": "2026-11-22T16:00:00.000Z",
+      "summary": "O governo Lula (PT) tem 1 em cada 10 servidores em funções de confiança filiados a algum partido, tanto em órgãos federais localizados em Brasília quanto nos outros estados. Leia mais (11/22/2026 - 13h00)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Quem é Bruno Moretti, o ministro 'mágico' de Lula que tenta agradar à esquerda e ao mercado",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/quem-e-bruno-moretti-o-ministro-magico-de-lula-que-tenta-agradar-a-esquerda-e-ao-mercado.shtml",
+      "date": "2026-11-22T16:00:00.000Z",
+      "summary": "Um mês após assumir o comando do Ministério do Planejamento e Orçamento, Bruno Moretti, 46, recebeu do presidente Lula (PT) a alcunha que, curiosamente, fez sentido tanto para seus colegas e admiradores quanto para os críticos de suas propostas. Leia mais (11/",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "COP31 termina sem acordo após impasse sobre combustíveis fósseis",
+      "link": "https://www.bbc.com/portuguese/articles/cq742zpk1ln4o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-22T15:56:42.000Z",
+      "summary": "A quarta versão do texto não mencionava a necessidade de eliminar progressivamente o uso desses combustíveis, a principal causa das mudanças climáticas.",
+      "source": "BBC News Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Trump sanciona lei que encerra oficialmente produção de moeda de um centavo de dólar",
+      "link": "https://www.estadao.com.br/economia/trump-assina-lei-formaliza-fim-producao-moeda-um-centavo-dolar/",
+      "date": "2026-11-22T15:41:14.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Veto de sauditas e russos deixa COP31 sem declaração final pela 1ª vez desde 2009",
+      "link": "https://www.dw.com/pt-br/veto-de-sauditas-e-russos-deixa-cop31-sem-declaração-final-pela-1ª-vez-desde-2009/a-80014428?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-22T15:41:00.000Z",
+      "summary": "União Europeia (UE) e outros países se recusaram a endossar proposta de texto final que não mencionava combustíveis fósseis. Alemanha diz que produtores de petróleo impediram desejo da grande maioria dos membros.",
+      "source": "DW Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
       "title": "Bolsonaro passa noite sem dor e caminha por hospital, diz Michelle",
       "link": "https://www.poder360.com.br/poder-gente/bolsonaro-passa-noite-sem-dor-e-caminha-por-hospital-diz-michelle/",
       "date": "2026-11-22T15:34:52.000Z",
@@ -183,7 +237,7 @@
     },
     {
       "title": "Mineração vive a maior crise dos últimos anos com frete caro e preços baixos",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/mineracao-vive-a-maior-crise-dos-ultimos-anos-com-frete-caro-e-precos-baixos.shtml",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/infraestrutura/2026/11/mineracao-vive-a-maior-crise-dos-ultimos-anos-com-frete-caro-e-precos-baixos.shtml",
       "date": "2026-11-22T15:00:00.000Z",
       "summary": "Durante teleconferência do último trimestre, o CEO da CSN (Companhia Siderúrgica Nacional), Fábio Schvartsman, pediu desculpa aos analistas presentes para dizer o óbvio. \"Preço da commodity e frete são o que mandam no resultado de qualquer mineradora.\" Leia ma",
       "source": "Folha",
@@ -209,15 +263,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Democratas dos EUA planejam reverter tarifas e impostos de Trump",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/democratas-dos-eua-planejam-reverter-tarifas-e-impostos-de-trump.shtml",
-      "date": "2026-11-22T14:28:00.000Z",
-      "summary": "Os democratas americanos realizarão audiências para avaliar a reversão de elementos centrais da visão econômica de Donald Trump, incluindo tarifas e impostos, quando assumirem o controle do Congresso dos Estados Unidos no próximo ano. Leia mais (11/22/2026 - 1",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Mega-Sena 3089 acumula e prêmio vai a R$ 65 milhões; confira os números sorteados",
       "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/22/mega-sena-3089-confira-os-numeros-sorteados.ghtml",
       "date": "2026-11-22T14:05:01.000Z",
@@ -236,8 +281,8 @@
       "type": "imprensa"
     },
     {
-      "title": "COP31 não chega a consenso e deve terminar sem acordo climático",
-      "link": "https://www.poder360.com.br/poder-internacional/cop31-nao-chega-a-consenso-e-deve-terminar-sem-acordo-climatico/",
+      "title": "COP31 não chega a consenso e termina sem acordo climático",
+      "link": "https://www.poder360.com.br/poder-internacional/cop31-nao-chega-a-consenso-e-termina-sem-acordo-climatico/",
       "date": "2026-11-22T13:22:38.000Z",
       "summary": "Texto final omitiu combustíveis fósseis e propôs ampliar uso de eletricidade e tecnologias de captura de carbono; União Europeia e outras delegações rejeitaram a proposta",
       "source": "Poder360",
@@ -269,15 +314,6 @@
       "summary": "Mesmo com o maior nível de instrução da história, os jovens de hoje enfrentam imensos desafios econômicos e políticos. Muitos se questionam se vão conseguir manter a qualidade de vida dos pais.",
       "source": "DW Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Morre Paolo Bulgari: o joalheiro italiano que transformou um negócio familiar em uma grife de luxo",
-      "link": "https://www.estadao.com.br/economia/morre-paolo-bulgari-o-joalheiro-italiano-que-transformou-um-negocio-familiar-em-uma-grife-de-luxo-npr/",
-      "date": "2026-11-22T11:29:19.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -317,15 +353,6 @@
       "type": "imprensa"
     },
     {
-      "title": "STF usa petições em investigações criminais e levanta debate sobre atalhos e poder dos ministros",
-      "link": "https://www.estadao.com.br/politica/stf-usa-peticoes-em-investigacoes-criminais-e-levanta-debate-sobre-atalhos-e-poder-dos-ministros/",
-      "date": "2026-11-22T08:30:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Fintech ‘copia’ modelo do Minha Casa, Minha Vida para crédito imobiliário",
       "link": "https://www.estadao.com.br/economia/coluna-da-broad/fintech-copia-modelo-do-minha-casa-minha-vida-para-credito-imobiliario/",
       "date": "2026-11-22T08:00:00.000Z",
@@ -350,15 +377,6 @@
       "summary": "Nova espécie de perereca é identificada em MG Em uma área preservada de Mata Atlântica, em Cataguases, na Zona da Mata mineira, o biólogo Clodoaldo Lopes ouviu uma perereca que não soava como as outras. A desconfiança levou a mais de uma década de pesquisa e t",
       "source": "g1",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Documentos da PF acirram disputa no STF sobre relatoria do caso Master",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/documentos-da-pf-acirram-disputa-no-stf-sobre-relatoria-do-caso-master.shtml",
-      "date": "2026-11-22T07:00:00.000Z",
-      "summary": "A seleção de relatórios da Polícia Federal com menções a ministros do STF (Supremo Tribunal Federal) enviados à PGR (Procuradoria-Geral da República) abriu um novo flanco de disputa em torno da condução do caso Banco Master na corte. Leia mais (11/22/2026 - 04",
-      "source": "Folha",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -447,24 +465,6 @@
       "link": "https://www.dw.com/pt-br/sequestro-de-crianças-como-arma-de-guerra-putin-e-o-legado-de-hitler/a-80007486?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-21T10:11:00.000Z",
       "summary": "A polonesa Barbara Paciorkiewicz foi levada pelos nazistas, enquanto a ucraniana Ksenija Koldin foi tirada da família na Rússia contemporânea. Elas falam sobre perda, separação forçada e o difícil retorno ao lar.",
-      "source": "DW Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Como governos Lula e Trump pretendem acabar com a 'guerra fria dos vistos diplomáticos'",
-      "link": "https://www.bbc.com/portuguese/articles/cwz0k3r4npexo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-21T09:01:48.000Z",
-      "summary": "De um lado, EUA querem liberação para indicado de Trump atue como embaixador no Brasil. Do outro, governo Lula quer normalização de visto de embaixadora em Washington",
-      "source": "BBC News Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Trump diz que Filipinas trocarão produtos agrícolas do Brasil pelos dos EUA",
-      "link": "https://www.dw.com/pt-br/trump-diz-que-filipinas-trocarão-produtos-agrícolas-do-brasil-pelos-dos-eua/a-80007345?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-20T21:16:00.000Z",
-      "summary": "Declaração ocorre após viagem à Ásia, onde o presidente americano teve encontros com líderes de pelo menos 20 países e disse ter encaminhado até 10 novos acordos comerciais.",
       "source": "DW Brasil",
       "cat": "internacional",
       "type": "imprensa"
