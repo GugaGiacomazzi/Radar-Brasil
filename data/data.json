@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-23T08:31:44.924Z",
+  "updated": "2026-11-23T09:56:51.534Z",
   "market": {
     "ibov": {
       "price": 166376.44,
       "pct": -0.69,
-      "time": "2026-11-23T08:31:40.103Z",
+      "time": "2026-11-23T09:56:44.260Z",
       "history": [
         {
           "d": "2026-10-26",
@@ -133,30 +133,120 @@
   },
   "news": [
     {
-      "title": "Justiça dos EUA aprova acordo de US$ 7,25 bi em ações contra Bayer",
-      "link": "https://www.poder360.com.br/poder-internacional/justica-dos-eua-aprova-acordo-de-us-725-bi-em-acoes-contra-bayer/",
-      "date": "2026-11-23T08:18:49.000Z",
-      "summary": "Empresa pagará indenizações por 21 anos para encerrar milhares de processos que relacionam o herbicida Roundup ao câncer",
+      "title": "Após Master, CGU apura evolução patrimonial de funcionários do BC",
+      "link": "https://www.poder360.com.br/poder-governo/apos-master-cgu-apura-evolucao-patrimonial-de-funcionarios-do-bc/",
+      "date": "2026-11-23T09:46:50.000Z",
+      "summary": "Ministro afirma que BC vem colaborando com investigação da Controladoria; 2 servidores foram afastados por relação com Vorcaro",
       "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
     },
     {
-      "title": "Eduardo Braga defende mudança na Constituição para novo ajuste fiscal",
-      "link": "https://www.poder360.com.br/poder-congresso/eduardo-braga-defende-mudanca-na-constituicao-para-novo-ajuste-fiscal/",
-      "date": "2026-11-23T07:40:48.000Z",
-      "summary": "Relator do Orçamento de 2027 cobra medidas para acomodar promessas de campanha sem cortar programas sociais",
+      "title": "Trump reúne investidores de sua criptomoeda após queda de valor",
+      "link": "https://www.poder360.com.br/poder-internacional/trump-reune-investidores-de-sua-criptomoeda-apos-queda-de-valor/",
+      "date": "2026-11-23T09:41:49.000Z",
+      "summary": "Presidente dos EUA promoveu jantar em seu clube de golfe na Virgínia para compradores de sua memecoin, cuja cotação despencou",
       "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
     },
     {
-      "title": "Governo publica saída de José Guimarães das Relações Institucionais",
-      "link": "https://www.poder360.com.br/poder-governo/governo-publica-saida-de-jose-guimaraes-das-relacoes-institucionais/",
-      "date": "2026-11-23T07:26:24.000Z",
-      "summary": "Ato foi publicado na edição desta 2ª feira (23.nov) do “Diário Oficial da União”",
+      "title": "Centrão e direita ocupam 46,5% dos cargos políticos fora de Brasília",
+      "link": "https://www.poder360.com.br/poder-partidos-politicos/centrao-e-direita-ocupam-465-dos-cargos-politicos-fora-de-brasilia/",
+      "date": "2026-11-23T09:35:38.000Z",
+      "summary": "Levantamento mostra que partidos desses grupos têm maior participação entre filiados em funções de confiança nos órgãos regionais do governo Lula",
       "source": "Poder360",
       "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Saiba quais ações estão na pauta da Câmara nesta 2ª feira",
+      "link": "https://www.poder360.com.br/poder-congresso/saiba-quais-acoes-estao-na-pauta-da-camara-nesta-2a-feira/",
+      "date": "2026-11-23T09:15:52.000Z",
+      "summary": "Casa analisa ajuste fiscal, reparação pela Chacina de Acari, monitoramento de agressores e racismo nas escolas",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Há 200 anos, Brasil se comprometia a acabar com o 'tráfico negreiro' — só 'para inglês ver'",
+      "link": "https://www.bbc.com/portuguese/articles/c6gre2771yr8o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-23T09:14:40.000Z",
+      "summary": "Há 200 anos, em 23 de novembro de 1826, os governos britânico e brasileiro assinaram um acordo que estipulava o fim do tráfico transatlântico de africanos escravizados para o Brasil; mas, na prática, nada mudou.",
+      "source": "BBC News Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "São os juros da dívida, não o BPC, mercadistas",
+      "link": "https://www.estadao.com.br/economia/claudio-considera/sao-os-juros-da-divida-nao-o-bpc-mercadistas/",
+      "date": "2026-11-23T09:11:40.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Relator do plano Moretti vai sugerir novas medidas fiscais ao governo após votação na Câmara",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/relator-do-plano-moretti-vai-sugerir-novas-medidas-fiscais-ao-governo-apos-votacao-na-camara.shtml",
+      "date": "2026-11-23T09:00:00.000Z",
+      "summary": "O relator do plano Moretti na Câmara, deputado Mauro Benevides Filho (União-CE), disse que vai apresentar outras propostas econômicas ao governo Lula na próxima semana após a aprovação do ajuste fiscal na Casa. Leia mais (11/23/2026 - 06h00)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Espionagem chinesa que mira chips de IA antecede escândalo envolvendo Nvidia",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/espionagem-chinesa-que-mira-chips-de-ia-antecede-escandalo-envolvendo-nvidia.shtml",
+      "date": "2026-11-23T09:00:00.000Z",
+      "summary": "Quando a principal agência de espionagem da China atualizou suas prioridades neste ano, acrescentou um objetivo revelador: superar as barreiras ocidentais a tecnologias que Xi Jinping considera fundamentais para a ascensão do país. Leia mais (11/23/2026 - 06h0",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Plano de Moretti é só 'primeiro passo', e governo Lula deve fazer outros ajustes fiscais no futuro, afirma Laura Carvalho",
+      "link": "https://www.bbc.com/portuguese/articles/cm1dvg9n5w2xo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-23T08:55:34.000Z",
+      "summary": "Professora da USP esteve na primeira reunião econômica pós-reeleição de Lula. Para ela, desgaste público da proposta do ministro do Planejamento poderia ter sido evitado com melhor comunicação.",
+      "source": "BBC News Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Com base menor, Lula chega a 2027 pressionado a recorrer a decretos diante de Congresso fortalecido",
+      "link": "https://www.estadao.com.br/politica/com-base-menor-lula-chega-a-2027-pressionado-a-recorrer-a-decretos-diante-de-congresso-fortalecido/",
+      "date": "2026-11-23T08:30:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "O ‘alívio’ de Rui Costa com a perspectiva de assumir um ministério",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/o-alivio-de-rui-costa-com-a-perspectiva-de-assumir-um-ministerio/",
+      "date": "2026-11-23T08:30:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Como as pequenas e médias empresas estão se adaptando ao fim da escala 6x1?",
+      "link": "https://www.estadao.com.br/economia/como-as-pequenas-e-medias-empresas-estao-se-adaptando-ao-fim-da-escala-6x1/",
+      "date": "2026-11-23T08:30:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Capim na lavoura vira aposta de expansão da Soesp",
+      "link": "https://www.estadao.com.br/economia/coluna-do-broadcast-agro/capim-na-lavoura-vira-aposta-de-expansao-da-soesp/",
+      "date": "2026-11-23T08:30:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -193,24 +283,6 @@
       "summary": "A regulação concorrencial das plataformas digitais é discutida há anos. Há pesquisas, investigações e experiências de autoridades antitruste de vários países. No Brasil, o percurso inclui a experiência do Cade (Conselho Administrativo de Defesa Econômica) ness",
       "source": "Folha",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Beto Louco e Primo compraram usina de R$ 100 para esconder negócio com distribuidora, diz Promotoria",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/beto-louco-e-primo-compraram-usina-de-r-100-para-esconder-negocio-com-distribuidora-diz-promotoria.shtml",
-      "date": "2026-11-23T07:00:00.000Z",
-      "summary": "Investigação do Ministério Público de São Paulo aponta suspeitas de que Mohamad Mourad, o \"Primo\", e Roberto Leme, o \"Beto Louco\", usaram fundos de investimento para esconder que eram os verdadeiros compradores de uma usina de etanol no interior paulista, vend",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Ações de tecnologia dos EUA têm pior semana desde a pandemia",
-      "link": "https://www.poder360.com.br/poder-economia/acoes-de-tecnologia-dos-eua-tem-pior-semana-desde-a-pandemia/",
-      "date": "2026-11-23T06:41:04.000Z",
-      "summary": "Nasdaq 100 caiu 10,4% na semana e entrou em mercado de baixa; receios sobre investimentos em inteligência artificial pressionam Bolsa",
-      "source": "Poder360",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -286,15 +358,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Calcificação do eleitorado nos EUA e no Brasil",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/marcus-melo/2026/11/calcificacao-do-eleitorado-nos-eua-e-no-brasil.shtml",
-      "date": "2026-11-22T23:10:00.000Z",
-      "summary": "Em janeiro de 2016, num auditório repleto em Sioux Center, Iowa, Donald Trump fez uma \"arminha\" com os dedos e disse: \"Poderia atirar em alguém no meio da Quinta Avenida de Nova York e não perderia um só eleitor\". A hipérbole antecipava uma convicção que suste",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Fracasso da COP-31 reforça importância do Brasil avançar em metas climáticas",
       "link": "https://www.estadao.com.br/politica/diogo-schelp/fracasso-da-cop-31-reforca-importancia-do-brasil-avancar-em-metas-climaticas/",
       "date": "2026-11-22T23:00:00.000Z",
@@ -322,24 +385,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Soberba, péssima conselheira",
-      "link": "https://www.estadao.com.br/politica/carlos-pereira/soberba-pessima-conselheira/",
-      "date": "2026-11-22T21:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Tarcísio mantém metade do secretariado e só traz Salles de fora do governo; veja quem é quem",
-      "link": "https://www.estadao.com.br/politica/tarcisio-mantem-metade-do-secretariado-e-so-traz-salles-de-fora-do-governo-veja-quem-e-quem/",
-      "date": "2026-11-22T21:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Democratas conquistam maior bancada na Câmara dos EUA desde 1992",
       "link": "https://www.dw.com/pt-br/democratas-conquistam-maior-bancada-na-câmara-dos-eua-desde-1992/a-80015273?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-22T20:33:00.000Z",
@@ -361,33 +406,6 @@
       "title": "Petrobras divulga plano de negócios sob expectativa de investimentos maiores e pressão no caixa",
       "link": "https://www.estadao.com.br/economia/negocios/petrobras-divulga-plano-de-negocios-expectativa-investimentos/",
       "date": "2026-11-22T20:08:06.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "75 anos da CNseg: homenagem institucional reconhece atividade que presta relevantes serviços ao País",
-      "link": "https://www.estadao.com.br/economia/antonio-penteado-mendonca/75-anos-da-cnseg/",
-      "date": "2026-11-22T20:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "O melhor programa social é o emprego",
-      "link": "https://www.estadao.com.br/economia/henrique-meirelles/melhor-programa-social-emprego/",
-      "date": "2026-11-22T20:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Tempestade perfeita pode transformar desaceleração em estagnação prolongada ou mesmo em recessão",
-      "link": "https://www.estadao.com.br/economia/claudio-adilson-goncalez/tempestade-perfeita-transformar-desaceleracao-estagnacao-ou-recessao/",
-      "date": "2026-11-22T20:00:00.000Z",
       "summary": "",
       "source": "Estadão",
       "cat": "economia",
@@ -443,15 +461,6 @@
       "link": "https://www.bbc.com/portuguese/articles/cqrkgxv7xxgzo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-22T11:21:38.000Z",
       "summary": "Dezenas de australianos deixaram seu país no final do século XIX em busca de um lugar melhor para viver. O país escolhido foi o Paraguai.",
-      "source": "BBC News Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Por dentro do antigo gasoduto onde a Ucrânia vem lutando em uma guerra subterrânea",
-      "link": "https://www.bbc.com/portuguese/articles/cm2d94xr6l1eo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-22T09:40:48.000Z",
-      "summary": "Forças ucranianas combatem tropas russas em uma antiga tubulação soviética na região de Kharkiv, no leste da Ucrânia.",
       "source": "BBC News Brasil",
       "cat": "internacional",
       "type": "imprensa"
@@ -554,15 +563,6 @@
       "source": "Agência Senado",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Cinco formas surpreendentes de aumentar seus níveis de ferro sem depender da carne",
-      "link": "https://www.bbc.com/portuguese/articles/ckwy97l71v07o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-19T21:26:14.000Z",
-      "summary": "Fermentação natural, cozimento com água, regar com limão. Quando o assunto é a absorção de ferro, o importante não é só o que comemos, mas a forma de preparar e servir os alimentos.",
-      "source": "BBC News Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
     },
     {
       "title": "Câmara dos Deputados reconhece boas iniciativas na educação brasileira com Prêmio Darcy Ribeiro",
