@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-23T05:37:46.021Z",
+  "updated": "2026-11-23T06:49:49.714Z",
   "market": {
     "ibov": {
       "price": 166376.44,
       "pct": -0.69,
-      "time": "2026-11-23T05:37:41.355Z",
+      "time": "2026-11-23T06:49:44.642Z",
       "history": [
         {
           "d": "2026-10-26",
@@ -133,6 +133,42 @@
   },
   "news": [
     {
+      "title": "Ações de tecnologia dos EUA têm pior semana desde a pandemia",
+      "link": "https://www.poder360.com.br/poder-internacional/acoes-de-tecnologia-dos-eua-tem-pior-semana-desde-a-pandemia/",
+      "date": "2026-11-23T06:41:04.000Z",
+      "summary": "Nasdaq 100 caiu 10,4% na semana e entrou em mercado de baixa; receios sobre investimentos em inteligência artificial pressionam Bolsa",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Exame de Bolsonaro teve resultado “muito positivo”, diz Michelle",
+      "link": "https://www.poder360.com.br/poder-saude/exame-de-bolsonaro-teve-resultado-muito-positivo-diz-michelle/",
+      "date": "2026-11-23T06:28:52.000Z",
+      "summary": "Internado por obstrução intestinal, ex-presidente permanece estável e sem previsão de alta, segundo o hospital",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Brasil é o 4º mais feliz do mundo no trabalho; veja ranking e por que o país supera nações mais ricas",
+      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/23/brasil-e-o-4o-mais-feliz-do-mundo-no-trabalho-veja-ranking-e-por-que-o-pais-supera-nacoes-mais-ricas.ghtml",
+      "date": "2026-11-23T06:00:00.000Z",
+      "summary": "Amizade no trabalho ajuda ou atrapalha a carreira? Entenda os limites O Brasil ocupa a 4ª posição no ranking global de felicidade no trabalho e aparece à frente de economias como Estados Unidos, Alemanha e Japão. (veja o ranking abaixo) O resultado faz parte d",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Batatas espaciais: cientistas descobrem como cultivar alimento em solo semelhante ao da Lua",
+      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/23/batatas-espaciais-cientistas-descobrem-como-cultivar-alimento-em-solo-semelhante-ao-da-lua.ghtml",
+      "date": "2026-11-23T06:00:00.000Z",
+      "summary": "Batatas cultivadas em solo que simula as condições da Lua em laboratório da Universidade Estadual do Oregon Sean Nealon/Universidade Estadual do Oregon/Divulgação via REUTERS A batata é uma das culturas mais importantes do planeta e fonte de amido, vitaminas, ",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "Câmara vota projeto de ajuste fiscal nesta segunda; projeção de economia é de R$ 50 bilhões em 2027",
       "link": "https://g1.globo.com/politica/noticia/2026/11/23/camara-vota-projeto-de-ajuste-fiscal-nesta-segunda-projecao-de-economia-e-de-r-50-bilhoes-em-2027.ghtml",
       "date": "2026-11-23T03:00:01.000Z",
@@ -164,15 +200,6 @@
       "link": "https://www.poder360.com.br/poder-tech/leia-a-integra-da-proposta-da-ue-para-taxar-big-techs/",
       "date": "2026-11-23T02:19:17.000Z",
       "summary": "Documento sugere cobrança de 3% sobre receitas digitais de grandes empresas de tecnologia",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Sebastião Coelho critica luz vermelha no Planalto e cobra explicação",
-      "link": "https://www.poder360.com.br/poder-governo/sebastiao-coelho-critica-luz-vermelha-no-planalto-e-cobra-explicacao/",
-      "date": "2026-11-23T02:15:42.000Z",
-      "summary": "Em vídeo, ex-desembargador lamentou o apoio de parte dos eleitores cristãos a Lula e criticou o Congresso Nacional",
       "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
@@ -229,15 +256,6 @@
       "summary": "O governo de Luiz Inácio Lula da Silva (PT) reservou R$ 8,8 bilhões na proposta de Orçamento de 2027 para reajustes salariais de servidores do Poder Executivo, mas o valor é insuficiente para garantir a reposição da inflação para todo o funcionalismo no ano qu",
       "source": "Folha",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Democratas garantem 258 cadeiras na Câmara, melhor resultado desde 1992",
-      "link": "https://www.poder360.com.br/poder-internacional/democratas-garantem-258-cadeiras-na-camara-melhor-resultado-desde-1992/",
-      "date": "2026-11-23T01:08:33.000Z",
-      "summary": "Partido amplia bancada em 20,6% e consolida maioria no Congresso; 4 disputas ainda aguardam definição",
-      "source": "Poder360",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -403,15 +421,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Mega-Sena 3089 acumula e prêmio vai a R$ 65 milhões; confira os números sorteados",
-      "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/22/mega-sena-3089-confira-os-numeros-sorteados.ghtml",
-      "date": "2026-11-22T14:05:01.000Z",
-      "summary": "Mega-Sena, concurso 3089: confira os números sorteados O sorteio do concurso 3.089 da Mega-Sena foi realizado na manhã deste domingo (22), em São Paulo. O prêmio para as apostas que acertassem as seis dezenas era de R$ 43.102.645,31 milhões. No entanto, ningué",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Protestos pela Europa: de onde vem a indignação da Geração Z?",
       "link": "https://www.dw.com/pt-br/protestos-pela-europa-de-onde-vem-a-indignação-da-geração-z/a-80013510?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-22T12:04:00.000Z",
@@ -445,15 +454,6 @@
       "summary": "Forças ucranianas combatem tropas russas em uma antiga tubulação soviética na região de Kharkiv, no leste da Ucrânia.",
       "source": "BBC News Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Ovelhas entre painéis solares? Entenda a tendência que une geração de energia e criação de animais",
-      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/22/ovelhas-entre-paineis-solares-entenda-a-tendencia-que-une-geracao-de-energia-e-criacao-de-animais.ghtml",
-      "date": "2026-11-22T07:00:01.000Z",
-      "summary": "Ovelhas pastam sob painéis solares na província de Guizhou, no sudoeste da China, como parte de uma prática cada vez mais comum de combinar a pecuária com a produção de energia solar Tao Liang/Xinhua/picture alliance via DW Tradicionalmente, usinas solares são",
-      "source": "g1",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
