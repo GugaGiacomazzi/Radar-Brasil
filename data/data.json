@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-23T02:56:43.600Z",
+  "updated": "2026-11-23T04:01:47.552Z",
   "market": {
     "ibov": {
       "price": 166376.44,
       "pct": -0.69,
-      "time": "2026-11-23T02:56:37.837Z",
+      "time": "2026-11-23T04:01:42.018Z",
       "history": [
         {
           "d": "2026-10-26",
@@ -132,6 +132,24 @@
     ]
   },
   "news": [
+    {
+      "title": "Câmara vota projeto de ajuste fiscal nesta segunda; projeção de economia é de R$ 50 bilhões em 2027",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/23/camara-vota-projeto-de-ajuste-fiscal-nesta-segunda-projecao-de-economia-e-de-r-50-bilhoes-em-2027.ghtml",
+      "date": "2026-11-23T03:00:01.000Z",
+      "summary": "Ajuste fiscal deve ser votado na segunda-feira A Câmara dos Deputados deve votar nesta segunda-feira (23) a proposta de ajuste fiscal do governo do presidente Luiz Inácio Lula da Silva (PT). O texto já foi aprovado no Senado Federal. O relator da proposta na C",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Quais são os próximos feriados de 2026? Veja o único que resta",
+      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/23/quais-sao-os-proximos-feriados-de-2026.ghtml",
+      "date": "2026-11-23T03:00:01.000Z",
+      "summary": "Decoração Natal Luz em Gramado Cleiton Thiele/ SerraPress Após o feriadão da Consciência Negra, celebrado na sexta-feira (20), muitos trabalhadores já estão de olho no próximo período de descanso. A data permitiu emendar três dias de folga para quem não precis",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
     {
       "title": "“Situações” colocaram eleição do Brasil em dúvida, diz chanceler de Milei",
       "link": "https://www.poder360.com.br/poder-internacional/situacoes-colocaram-eleicao-do-brasil-em-duvida-diz-chanceler-de-milei/",
@@ -430,24 +448,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Nova espécie de perereca é descoberta em Minas Gerais após cientista ouvir canto incomum",
-      "link": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/11/22/nova-especie-de-perereca-e-descoberta-em-minas-gerais-apos-cientista-ouvir-canto-incomum.ghtml",
-      "date": "2026-11-22T07:00:00.000Z",
-      "summary": "Nova espécie de perereca é identificada em MG Em uma área preservada de Mata Atlântica, em Cataguases, na Zona da Mata mineira, o biólogo Clodoaldo Lopes ouviu uma perereca que não soava como as outras. A desconfiança levou a mais de uma década de pesquisa e t",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "A falha crítica descoberta na linguagem de programação usada por 90% das grandes empresas do mundo",
-      "link": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/11/22/a-falha-critica-descoberta-na-linguagem-de-programacao-usada-por-90-das-grandes-empresas-do-mundo.ghtml",
-      "date": "2026-11-22T06:00:00.000Z",
-      "summary": "Inteligência Artificial. Reprodução/Fantástico Uma empresa de cibersegurança utilizou inteligência artificial (IA) para descobrir uma vulnerabilidade crítica na popular linguagem de programação Java. A empresa emergente no setor de tecnologia Calif encontrou a",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "PEC da Segurança: como uma guarda civil municipal pode virar polícia e o que muda para a população",
       "link": "https://g1.globo.com/politica/noticia/2026/11/22/pec-da-seguranca-como-uma-guarda-civil-municipal-pode-virar-policia.ghtml",
       "date": "2026-11-22T03:00:00.000Z",
@@ -461,15 +461,6 @@
       "link": "https://g1.globo.com/politica/noticia/2026/11/22/camara-deve-votar-projeto-de-ajuste-fiscal-nesta-segunda.ghtml",
       "date": "2026-11-22T03:00:00.000Z",
       "summary": "Ajuste fiscal deve ser votado na segunda-feira A Câmara dos Deputados deve votar nesta segunda-feira (23) a proposta de ajuste fiscal do governo. O relator da proposta, deputado Mauro Benevides (União Brasil-CE), manteve o mesmo texto aprovado pelo Senado na s",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Maioria das cidades terá dificuldade para criar polícia municipal, diz deputado",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/22/exigencias-policia-municipal-prefeituras.ghtml",
-      "date": "2026-11-22T03:00:00.000Z",
-      "summary": "Guarda Municipal Reprodução/Prefeitura de Porto Velho A PEC da Segurança Pública, aprovada em definitivo pelo Congresso em 3 de novembro, abriu caminho para que municípios criem suas próprias polícias. Mas impõe uma condição que poucos conseguem cumprir: mante",
       "source": "g1",
       "cat": "politica",
       "type": "imprensa"
@@ -693,6 +684,7 @@
   ],
   "errors": [
     "feed CNN Brasil: HTTP 404",
-    "feed CNN Brasil: HTTP 404"
+    "feed CNN Brasil: HTTP 404",
+    "feed Planalto (governo): HTTP 429"
   ]
 }
