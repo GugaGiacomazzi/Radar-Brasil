@@ -1,15 +1,11 @@
 {
-  "updated": "2026-11-22T23:24:47.550Z",
+  "updated": "2026-11-23T00:23:38.243Z",
   "market": {
     "ibov": {
       "price": 166376.44,
       "pct": -0.69,
-      "time": "2026-11-22T23:24:43.588Z",
+      "time": "2026-11-23T00:23:32.206Z",
       "history": [
-        {
-          "d": "2026-10-23",
-          "c": 205083
-        },
         {
           "d": "2026-10-26",
           "c": 176608
@@ -137,10 +133,46 @@
   },
   "news": [
     {
-      "title": "Zanin leva caso sobre emendas de ex-ministro de Lula a sessão presencial",
-      "link": "https://www.poder360.com.br/poder-justica/zanin-leva-caso-sobre-emendas-de-ex-ministro-de-lula-a-sessao-presencial/",
-      "date": "2026-11-22T23:20:25.000Z",
-      "summary": "Deputado reeleito, Juscelino Filho é alvo de denúncia da PGR por organização criminosa, fraude em licitações, peculato e corrupção ativa",
+      "title": "Trump assina lei que encerra produção de moeda de US$ 0,01",
+      "link": "https://www.poder360.com.br/poder-internacional/trump-assina-lei-que-encerra-producao-de-moeda-de-us-001/",
+      "date": "2026-11-23T00:02:49.000Z",
+      "summary": "“Lei dos Centavos Comuns” extingue oficialmente a produção da moeda de 1 centavo de dólar, conhecida como “penny”",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Governo reconhece calamidade em Tupanciretã após temporal no RS",
+      "link": "https://www.poder360.com.br/poder-brasil/governo-reconhece-calamidade-em-tupancireta-apos-temporal-no-rs/",
+      "date": "2026-11-22T23:54:49.000Z",
+      "summary": "Tempestade deixou 5 mortos e 265 feridos no município gaúcho; quase 20.000 pessoas estão desalojadas",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Brasil diz que texto da COP31 exclui países em desenvolvimento",
+      "link": "https://www.poder360.com.br/poder-internacional/brasil-diz-que-texto-da-cop31-exclui-paises-em-desenvolvimento/",
+      "date": "2026-11-22T23:47:23.000Z",
+      "summary": "Embaixadora Liliam Chagas afirma que rascunho ignora propostas dessas nações e os impactos econômicos das medidas de mitigação",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Petróleo abre semana em queda após elevação dos estoques nos Estados Unidos",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/petroleo-abre-semana-em-queda-apos-elevacao-dos-estoques-nos-estados-unidos.shtml",
+      "date": "2026-11-22T23:36:00.000Z",
+      "summary": "Os contratos futuros do petróleo tipo Brent, referência mundial da commodity, reabriram em forte queda de 3,35% na noite deste domingo (22), negociados a US$ 89,39 o barril. O movimento ocorre após aumentos consecutivos nos estoques de petróleo bruto dos Estad",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Premiê da Espanha critica Trump, Bolsonaro e Milei em ato de campanha",
+      "link": "https://www.poder360.com.br/poder-internacional/premie-da-espanha-critica-trump-bolsonaro-e-milei-em-ato-de-campanha/",
+      "date": "2026-11-22T23:30:59.000Z",
+      "summary": "Pedro Sánchez diz que políticos pertencem à “extrema direita internacional” e representam o regresso",
       "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
@@ -149,7 +181,7 @@
       "title": "Calcificação do eleitorado nos EUA e no Brasil",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/marcus-melo/2026/11/calcificacao-do-eleitorado-nos-eua-e-no-brasil.shtml",
       "date": "2026-11-22T23:10:00.000Z",
-      "summary": "Em janeiro de 2016, num auditório repleto em Sioux Center, Iowa, Donald Trump fez uma \"arminha\" com os dedos e disse: \"Posso atirar em alguém no meio da Quinta Avenida de Nova York e não perderia um só eleitor\". A hipérbole antecipava uma convicção que sustent",
+      "summary": "Em janeiro de 2016, num auditório repleto em Sioux Center, Iowa, Donald Trump fez uma \"arminha\" com os dedos e disse: \"Poderia atirar em alguém no meio da Quinta Avenida de Nova York e não perderia um só eleitor\". A hipérbole antecipava uma convicção que suste",
       "source": "Folha",
       "cat": "politica",
       "type": "imprensa"
@@ -173,15 +205,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Ministro da Educação da Coreia do Sul renuncia após fraudes em exames",
-      "link": "https://www.poder360.com.br/poder-internacional/ministro-da-educacao-da-coreia-do-sul-renuncia-apos-fraudes-em-exames/",
-      "date": "2026-11-22T22:35:23.000Z",
-      "summary": "Choi Kyo-jin renunciou depois de mudanças de última hora nas regras do vestibular nacional provocarem transtornos, principalmente entre estudantes",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Explosão em navio russo na Líbia levanta suspeita de ataque de drone",
       "link": "https://www.dw.com/pt-br/explosão-em-navio-russo-na-líbia-levanta-suspeita-de-ataque-de-drone/a-80014687?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-22T22:34:00.000Z",
@@ -191,30 +214,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Dólar digital chega a R$ 6,15 em negociação neste domingo",
-      "link": "https://www.poder360.com.br/poder-economia/dolar-digital-chega-a-r-615-em-negociacao-neste-domingo/",
-      "date": "2026-11-22T22:23:52.000Z",
-      "summary": "Cotação do USDT na corretora OKX se distancia do dólar comercial e pode sinalizar pressão sobre o real na abertura do mercado",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "\"Inconcebível\", \"inaceitável\": delegações criticam fracasso da COP31",
       "link": "https://www.dw.com/pt-br/inconcebível-inaceitável-delegações-criticam-fracasso-da-cop31/a-80015363?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-22T22:20:00.000Z",
       "summary": "Da União Europeia ao Brasil, negociadores e ativistas classificaram ausência de acordo final na Cúpula do Clima como um retrocesso para o combate à crise climática.",
       "source": "DW Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Janones diz que quer contribuir para fim da “extrema direita” no mundo",
-      "link": "https://www.poder360.com.br/poder-congresso/janones-diz-que-quer-contribuir-para-fim-da-extrema-direita-no-mundo/",
-      "date": "2026-11-22T22:03:03.000Z",
-      "summary": "Deputado pretende compartilhar estratégia digital usada na campanha de Lula com grupos \"progressistas\" de outros países",
-      "source": "Poder360",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -286,15 +291,6 @@
       "date": "2026-11-22T20:08:06.000Z",
       "summary": "",
       "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Economia circular depende de catadores e ainda ignora seu papel",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/economia-sustentavel/2026/11/economia-circular-depende-de-catadores-e-ainda-ignora-seu-papel.shtml",
-      "date": "2026-11-22T20:07:00.000Z",
-      "summary": "Em Bogotá, na Colômbia, milhares de catadores percorrem as ruas todos os dias para recolher papelão, plástico, metal e papel. Sem eles, uma parcela significativa dos materiais recicláveis acabaria em aterros sanitários. Ainda assim, sua contribuição continua s",
-      "source": "Folha",
       "cat": "economia",
       "type": "imprensa"
     },
