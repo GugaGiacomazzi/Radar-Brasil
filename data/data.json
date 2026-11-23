@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-23T22:49:17.854Z",
+  "updated": "2026-11-23T23:46:43.868Z",
   "market": {
     "ibov": {
       "price": 164796.05,
       "pct": -0.95,
-      "time": "2026-11-23T22:49:12.300Z",
+      "time": "2026-11-23T23:46:36.989Z",
       "history": [
         {
           "d": "2026-10-26",
@@ -137,6 +137,159 @@
   },
   "news": [
     {
+      "title": "Petrobras compra 42% da produtora de etanol de milho Neomille, da Cerradinho, por R$ 2,8 bi",
+      "link": "https://www.estadao.com.br/economia/negocios/petrobras-compra-42-da-produtora-de-etanol-de-milho-neomille-da-cerradinho-por-r-28-bi/",
+      "date": "2026-11-23T23:38:35.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Hugo Motta destaca pluralidade e independência do Legislativo ao receber novos deputados",
+      "link": "https://www.camara.leg.br/noticias/1322114-hugo-motta-destaca-pluralidade-e-independencia-do-legislativo-ao-receber-novos-deputados",
+      "date": "2026-11-23T23:38:00.000Z",
+      "summary": "Em evento de ambientação da 58ª Legislatura, presidente da Câmara disse que convívio entre parlamentares contribui para o debate nacional",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Entenda a portaria do governo sobre o fim da 6 X 1",
+      "link": "https://www.poder360.com.br/poder-brasil/entenda-a-portaria-do-governo-sobre-o-fim-da-6-x-1/",
+      "date": "2026-11-23T23:30:34.000Z",
+      "summary": "Norma garante 2 dias de descanso semanal e redefine valor da hora extra",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Nova pasta para idosos poderá se chamar Ministério da Longevidade",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/nova-pasta-para-idosos-podera-se-chamar-ministerio-da-longevidade.shtml",
+      "date": "2026-11-23T23:28:00.000Z",
+      "summary": "O futuro ministério voltado para a população idosa poderá se chamar Ministério da Longevidade. O nome passou a ser ventilado no Palácio do Planalto nos últimos dias. Leia mais (11/23/2026 - 20h28)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "EUA impõe restrições à Megaspeed, empresa ligada a escândalo da Nvidia",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/eua-impoe-restricoes-a-megaspeed-empresa-ligada-a-escandalo-da-nvidia.shtml",
+      "date": "2026-11-23T23:25:00.000Z",
+      "summary": "Os Estados Unidos acrescentaram nesta segunda-feira (23) a Megaspeed à sua lista de restrições comerciais. A empresa, sediada em Singapura, está estreitamente ligada a uma investigação de espionagem envolvendo a Nvidia. Leia mais (11/23/2026 - 20h25)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Comissão aprova auditoria de licitações com inteligência artificial",
+      "link": "https://www.camara.leg.br/noticias/1322046-comissao-aprova-auditoria-de-licitacoes-com-inteligencia-artificial",
+      "date": "2026-11-23T23:23:00.000Z",
+      "summary": "Projeto prevê monitoramento automatizado e contínuo das contratações públicas",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "PC do B acorda emenda para excluir Lei Rouanet do ajuste fiscal",
+      "link": "https://www.poder360.com.br/poder-congresso/pc-do-b-acorda-emenda-para-excluir-lei-rouanet-do-ajuste-fiscal/",
+      "date": "2026-11-23T23:15:30.000Z",
+      "summary": "Jandira Feghali diz que proposta deixa claro que leis de incentivo culturais não serão afetadas; no relatório do pacote já não havia qualquer menção expressa à área de cultura",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Huang é recebido com aplausos ao retornar à sede da Nvidia; veja vídeo",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/huang-e-recebido-com-aplausos-ao-retornar-a-sede-da-nvidia-veja-video.shtml",
+      "date": "2026-11-23T23:09:00.000Z",
+      "summary": "O cofundador da Nvidia Jensen Huang, reconduzido ao cargo de CEO da empresa nesta segunda-feira (23), foi recebido com aplausos por funcionários ao aparecer na sede da fabricante de chips em Santa Clara, nos Estados Unidos. Leia mais (11/23/2026 - 20h09)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Oregon e Virgínia processam SpaceX por imagens sexualizadas geradas por IA",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/oregon-e-virginia-processam-spacex-por-imagens-sexualizadas-geradas-por-ia.shtml",
+      "date": "2026-11-23T23:07:00.000Z",
+      "summary": "Oregon e Virgínia processaram nesta segunda-feira (23) a SpaceX, de Elon Musk, acusando a empresa de violar leis estaduais de proteção ao consumidor ao oferecer uma ferramenta de inteligência artificial que permitia aos usuários criar imagens sexualizadas de m",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "BRB diz que segue com atividades bancárias, mesmo com registro suspenso na CVM e bloqueio para negociar ações",
+      "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/23/brb-afirma-que-segue-com-atividades-bancarias-apos-cvm-suspender-registro-de-companhia-aberta.ghtml",
+      "date": "2026-11-23T23:05:34.000Z",
+      "summary": "BRB não divulga balanço de 2025 dentro do prazo Jornal Nacional/ Reprodução O Banco de Brasília (BRB) afirmou que continua operando normalmente e prestando serviços aos clientes após a Comissão de Valores Mobiliários (CVM) determinar, nesta segunda-feira (23),",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lula produz superávits primários recordes, mas eles são engolidos por um ministério",
+      "link": "https://www.estadao.com.br/economia/pedro-fernando-nery/lula-produz-superavits-primarios-recordes-mas-eles-sao-engolidos-por-um-ministerio/",
+      "date": "2026-11-23T23:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Brasil defende ampliar cooperação internacional em saúde",
+      "link": "https://www.poder360.com.br/poder-saude/brasil-defende-ampliar-cooperacao-internacional-em-saude/",
+      "date": "2026-11-23T22:57:01.000Z",
+      "summary": "Ministro da Saúde participou da abertura do H20 Summit, em Londres",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Deputados analisam proposta de ajuste fiscal; acompanhe",
+      "link": "https://www.camara.leg.br/noticias/1322109-deputados-analisam-proposta-de-ajuste-fiscal-acompanhe",
+      "date": "2026-11-23T22:57:00.000Z",
+      "summary": "",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Petrobras eleva investimentos em 12%, para US$ 122 bi, e anuncia dividendos extraordinários",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/petrobras-eleva-investimentos-para-us-122-bilhoes-e-anuncia-dividendos-extraordinarios.shtml",
+      "date": "2026-11-23T22:54:00.000Z",
+      "summary": "A Petrobras anunciou nesta segunda-feira (23) que investirá US$ 122 bilhões (cerca de R$ 650 bilhões) nos próximos cinco anos, alta de 12% em relação à projeção do plano anterior, de 2025. A exploração e produção de petróleo segue como maior destino para os in",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Deputados aprovam urgência para projeto do ajuste fiscal; acompanhe",
+      "link": "https://www.camara.leg.br/noticias/1322096-deputados-aprovam-urgencia-para-projeto-do-ajuste-fiscal-acompanhe",
+      "date": "2026-11-23T22:52:00.000Z",
+      "summary": "",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Petrobras anuncia plano de investimento de US$ 122 bilhões entre 2027 e 2031, com alta de 12%",
+      "link": "https://www.estadao.com.br/economia/negocios/petrobras-anuncia-plano-de-investimento-de-us-122-bilhoes-entre-2027-e-2031/",
+      "date": "2026-11-23T22:49:02.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Após visita de Puti, Tajiquistão se torna 4º país a deixar TPI após pressão dos EUA",
+      "link": "https://www.dw.com/pt-br/após-visita-de-puti-tajiquistão-se-torna-4º-país-a-deixar-tpi-após-pressão-dos-eua/a-80026824?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-23T22:49:00.000Z",
+      "summary": "País formalizou sua retirada do Tribunal Penal Internacional no mesmo dia em que recebeu presidente russo. Corte lamentou a decisão.",
+      "source": "DW Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
       "title": "Petrobras volta ao mercado de etanol com compra de 42% de produtora por R$ 2,8 bilhões",
       "link": "https://g1.globo.com/economia/negocios/noticia/2026/11/23/petrobras-etanol.ghtml",
       "date": "2026-11-23T22:40:42.000Z",
@@ -155,30 +308,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Petrobras volta a produzir etanol com compra de 42% de produtora por R$ 2,8 bi",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/petrobras-volta-a-produzir-etanol-com-compra-de-42-de-produtora-por-r-28-bi.shtml",
-      "date": "2026-11-23T22:38:00.000Z",
-      "summary": "A Petrobras anunciou nesta segunda-feira (23) a compra de 42% da Neomille, produtora de etanol de milho controlada pela CerradinhoBio, por R$ 2,8 bilhões. A operação marca a volta da estatal à produção de etanol, setor que deixou ao vender ativos nos governos ",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Câmara discute projeto de ajuste fiscal do governo; ASSISTA",
       "link": "https://g1.globo.com/politica/ao-vivo/ajuste-fiscal-camara-deputados.ghtml",
       "date": "2026-11-23T22:30:43.000Z",
       "summary": "Câmara discute projeto de ajuste fiscal do governo; ASSISTA Proposta foi aprovada no Senado na semana passada; texto projeta uma economia de R$ 50 bilhões nas contas do governo federal em 2027. O relator da proposta na Câmara, deputado Mauro Benevides (União B",
       "source": "g1",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Flash aposta em gestão de combustível e avança em despesas corporativas",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/flash-aposta-em-gestao-de-combustivel-e-avanca-em-despesas-corporativas.shtml",
-      "date": "2026-11-23T22:30:00.000Z",
-      "summary": "A Flash, empresa de benefícios corporativos, está lançando uma solução de gestão de combustível integrada à sua plataforma de despesas corporativas. Com a novidade, a empresa busca se posicionar cada vez mais em um setor que acaba de passar por mudanças após d",
-      "source": "Folha",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -209,84 +344,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Nvidia tem alta de 31,48% e ganha US$ 952 bi em valor de mercado",
-      "link": "https://www.poder360.com.br/poder-economia/nvidia-tem-alta-de-3148-e-ganha-us-952-bi-em-valor-de-mercado/",
-      "date": "2026-11-23T22:17:39.000Z",
-      "summary": "Ações da empresa registraram maior ganho diário em dólares da história nesta 2ª feira (23.nov), dia do retorno de Jensen Huang ao cargo de CEO",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Câmara começa sessão para votar plano Moretti, com medidas para conter gastos e elevar receitas",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/camara-comeca-sessao-para-votar-plano-moretti-com-medidas-para-conter-gastos-e-elevar-receitas.shtml",
-      "date": "2026-11-23T22:16:00.000Z",
-      "summary": "A Câmara dos Deputados começou nesta segunda-feira (23) a sessão que vai a analisar o chamado plano Moretti, projeto de ajuste apresentado pelo governo de Luiz Inácio Lula da Silva (PT) para melhorar a situação das contas públicas. O texto prevê medidas para e",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "É possível educar as elites?",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/michael-franca/2026/11/e-possivel-educar-as-elites.shtml",
-      "date": "2026-11-23T22:15:00.000Z",
-      "summary": "Uma educação digna desse nome deveria ensinar aos mais abastados uma distinção elementar: ter mais do que os outros não significa valer mais do que eles. Deveria também ajudá-los a reconhecer que boa parte de suas conquistas depende de condições anteriores ao ",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Comissão aprova mudança em regra sobre operações de comércio exterior",
-      "link": "https://www.camara.leg.br/noticias/1322044-comissao-aprova-mudanca-em-regra-sobre-operacoes-de-comercio-exterior",
-      "date": "2026-11-23T22:14:00.000Z",
-      "summary": "Proposta segue em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Braskem fecha acordo de US$ 4,9 bi para evitar recuperação judicial",
-      "link": "https://www.poder360.com.br/poder-economia/braskem-fecha-acordo-de-us-49-bi-para-evitar-recuperacao-judicial/",
-      "date": "2026-11-23T22:08:17.000Z",
-      "summary": "Reestruturação deve reduzir dívida da empresa para cerca de US$ 7 bilhões",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "EUA incluem Megaspeed, empresa envolvida em escândalo da Nvidia, em lista de controle de exportações",
       "link": "https://www.estadao.com.br/economia/eua-incluem-megaspeed-nvidia-lista-controle-exportacoes-npr/",
       "date": "2026-11-23T22:06:55.000Z",
       "summary": "",
       "source": "Estadão",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Comissão aprova apoio prioritário à inovação em regiões com baixo índice de desenvolvimento socioeconômico",
-      "link": "https://www.camara.leg.br/noticias/1322029-comissao-aprova-apoio-prioritario-a-inovacao-em-regioes-com-baixo-indice-de-desenvolvimento-socioeconomico",
-      "date": "2026-11-23T22:02:00.000Z",
-      "summary": "Texto prevê tratamento prioritário para ambientes de inovação; proposta ainda será analisada por duas comissões da Câmara antes de ir para o Senado",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Comissão aprova criação de \"banco de créditos\" para petroleiras que superarem metas de conteúdo local",
-      "link": "https://www.camara.leg.br/noticias/1321953-comissao-aprova-criacao-de-banco-de-creditos-para-petroleiras-que-superarem-metas-de-conteudo-local",
-      "date": "2026-11-23T21:51:00.000Z",
-      "summary": "Proposta segue em análise na Câmara",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Leia a íntegra da portaria que regulamenta fim da 6 X 1",
-      "link": "https://www.poder360.com.br/poder-integras/leia-a-integra-da-portaria-que-regulamenta-fim-da-6-x-1/",
-      "date": "2026-11-23T21:50:12.000Z",
-      "summary": "Regra estabelece diminuição da jornada de trabalho sem redução salarial; governo fiscalizará empresas nos primeiros 90 dias",
-      "source": "Poder360",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -306,15 +369,6 @@
       "source": "Folha",
       "cat": "politica",
       "type": "imprensa"
-    },
-    {
-      "title": "Comissão aprova apoio a famílias de estudantes superdotados",
-      "link": "https://www.camara.leg.br/noticias/1322042-comissao-aprova-apoio-a-familias-de-estudantes-superdotados",
-      "date": "2026-11-23T21:09:00.000Z",
-      "summary": "Texto prevê orientações digitais sobre características, potencialidades, recursos e serviços disponíveis; proposta segue em análise na Câmara",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
     },
     {
       "title": "A receita para blindar Xandão",
@@ -341,24 +395,6 @@
       "summary": "Ucrânia reivindicou ataque a navios russos na Líbia. Incidente é episódio mais recente de uma série de ocorrências que reforçam o temor de uma ampliação geográfica do conflito além das linhas de combate no leste europeu.",
       "source": "DW Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Jensen Huang é aplaudido por funcionários no retorno à Nvidia; VIDEO",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/23/huang-nvidia-ceo-funcionarios.ghtml",
-      "date": "2026-11-23T20:44:10.000Z",
-      "summary": "Jensen Huang é aplaudido na Nvidia Um vídeo que circula nas redes sociais mostra o presidente-executivo da Nvidia, Jensen Huang, sendo recebido com aplausos pelos funcionários ao retornar à sede da empresa. A volta do executivo foi anunciada nesta segunda-feir",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Passageiros em voos internacionais no Brasil aumentam em outubro, mas mercado doméstico cai",
-      "link": "https://www.estadao.com.br/viagem/passageiros-em-voos-internacionais-no-brasil-aumentam-em-outubro-mas-mercado-domestico-cai/",
-      "date": "2026-11-23T20:40:42.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -389,7 +425,7 @@
       "type": "imprensa"
     },
     {
-      "title": "Bolsonaro continuará internado na UTI por dores abdominais e pneumonia; médicos descartam cirurgia neste momento",
+      "title": "Bolsonaro continua na UTI após ser internado por dores abdominais; ex-presidente está com pneumonia",
       "link": "https://g1.globo.com/politica/noticia/2026/11/23/bolsonaro-continuara-internado-na-uti-por-dores-abdominais-e-pneumonia-medicos-descartam-cirurgia-neste-momento.ghtml",
       "date": "2026-11-23T20:21:46.000Z",
       "summary": "O ex-presidente Jair Bolsonaro (PL) continuará internado na Unidade de Terapia Intensiva (UTI) do Hospital DF Star, em Brasília, após apresentar dores e distensão abdominal e ser diagnosticado com uma obstrução intestinal. Segundo declaração da equipe médica e",
@@ -434,15 +470,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Bolsonaro tem diagnóstico de pneumonia e continuará na UTI, dizem médicos",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/bolsonaro-tem-diagnostico-de-pneumonia-e-continuara-na-uti-dizem-medicos.shtml",
-      "date": "2026-11-23T19:58:00.000Z",
-      "summary": "O ex-presidente Jair Bolsonaro (PL) recebeu no domingo (22) diagnóstico de pneumonia e permanecerá internado em uma UTI (Unidade de Tratamento Intensivo) do DF Star, em Brasília. Em prisão domiciliar, ele foi levado ao hospital na sexta (20), depois de apresen",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Jair Bolsonaro tem pneumonia e segue internado na UTI, apesar de melhora clínica",
       "link": "https://www.estadao.com.br/politica/jair-bolsonaro-tem-pneumonia-e-segue-internado-na-uti-apesar-de-melhora-clinica/",
       "date": "2026-11-23T19:51:59.000Z",
@@ -452,21 +479,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Zanin pede destaque e leva denúncia contra Marcel Van Hattem a julgamento presencial no STF",
-      "link": "https://www.estadao.com.br/politica/zanin-pede-destaque-e-leva-denuncia-contra-marcel-van-hattem-a-julgamento-presencial-no-stf-nprp/",
-      "date": "2026-11-23T19:24:00.000Z",
+      "title": "Tarcísio defende discussão sobre limites de decisões monocráticas e competência do Supremo",
+      "link": "https://www.estadao.com.br/politica/tarcisio-defende-discussao-sobre-limites-de-decisoes-monocraticas-e-competencia-do-supremo/",
+      "date": "2026-11-23T19:20:23.000Z",
       "summary": "",
       "source": "Estadão",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "‘Nas próximas duas semanas, indicações, fiscal e alíquota da CBS estarão resolvidos’, diz Durigan",
-      "link": "https://www.estadao.com.br/economia/nas-proximas-duas-semanas-indicacoes-fiscal-e-aliquota-da-cbs-estarao-resolvidos-diz-durigan/",
-      "date": "2026-11-23T19:07:33.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -506,28 +524,10 @@
       "type": "imprensa"
     },
     {
-      "title": "Gerdau: Juro é definido no mercado; não há governo que consiga comandar esse processo",
-      "link": "https://www.estadao.com.br/economia/gerdau-juro-e-definido-no-mercado-nao-ha-governo-que-consiga-comandar-esse-processo/",
-      "date": "2026-11-23T18:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Como a Alemanha quer salvar sua previdência iniciando a contribuição aos 6 anos",
       "link": "https://www.dw.com/pt-br/como-a-alemanha-quer-salvar-sua-previdência-iniciando-a-contribuição-aos-6-anos/a-80022642?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-23T17:28:00.000Z",
       "summary": "País quer incentivar poupança para aposentadoria desde a infância através de subsídio mensal em conta de investimentos. Mas analistas advertem que medida não resolverá o desafio do financiamento da previdência alemã.",
-      "source": "DW Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Ofensiva israelense transformou Gaza em \"deserto tóxico\", diz ONG britânica",
-      "link": "https://www.dw.com/pt-br/ofensiva-israelense-transformou-gaza-em-deserto-tóxico-diz-ong-britânica/a-80021668?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-23T16:34:00.000Z",
-      "summary": "Contaminação ambiental em Gaza pode afetar saúde da população por décadas, alerta novo relatório da Oxfam. Estudo aponta sinais de poluição em mais de 99% do território após anos de conflito.",
       "source": "DW Brasil",
       "cat": "internacional",
       "type": "imprensa"
