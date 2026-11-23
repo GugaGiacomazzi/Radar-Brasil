@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-23T09:56:51.534Z",
+  "updated": "2026-11-23T11:05:43.576Z",
   "market": {
     "ibov": {
       "price": 166376.44,
       "pct": -0.69,
-      "time": "2026-11-23T09:56:44.260Z",
+      "time": "2026-11-23T11:05:38.929Z",
       "history": [
         {
           "d": "2026-10-26",
@@ -133,6 +133,51 @@
   },
   "news": [
     {
+      "title": "Ferrovia do carvão em SC é terceira a pedir extensão de contrato por falta de acordo em renovação",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/infraestrutura/2026/11/ferrovia-do-carvao-em-sc-e-terceira-a-pedir-extensao-de-contrato-por-falta-de-acordo-em-renovacao.shtml",
+      "date": "2026-11-23T11:00:00.000Z",
+      "summary": "Mais um contrato de concessão ferroviária no Brasil está chegando ao fim, após 30 anos de execução, sem ter um acordo selado sobre seu futuro. A FTC (Ferrovia Tereza Cristina), responsável pelo transporte de carvão no sul de Santa Catarina, é a terceira a pedi",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Marcelo Teixeira oficializa candidatura à reeleição no Santos",
+      "link": "https://www.poder360.com.br/poder-sportsmkt/marcelo-teixeira-oficializa-candidatura-a-reeleicao-no-santos/",
+      "date": "2026-11-23T10:58:11.000Z",
+      "summary": "Fernando Bonavides segue como vice em chapa com 180 integrantes; votação será em 12 de dezembro",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Câmara deve votar ajuste fiscal; proposta do governo pretende economizar R$ 70 bilhões",
+      "link": "https://www.camara.leg.br/noticias/1321186-camara-deve-votar-ajuste-fiscal-proposta-do-governo-pretende-economizar-r-70-bilhoes",
+      "date": "2026-11-23T10:57:00.000Z",
+      "summary": "Projetos em alusão à Semana da Consciência Negra também estão na pauta do Plenário na próxima semana",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Há 200 anos, Brasil se comprometia a acabar com o 'tráfico negreiro' — só 'para inglês ver'",
+      "link": "https://www.bbc.com/portuguese/articles/c6gre2771yr8o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-23T10:54:26.000Z",
+      "summary": "Há 200 anos, em 23 de novembro de 1826, os governos britânico e brasileiro assinaram um acordo que estipulava o fim do tráfico transatlântico de africanos escravizados para o Brasil; mas, na prática, nada mudou.",
+      "source": "BBC News Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Futuros do Brent recuam e ficam abaixo de US$ 90",
+      "link": "https://www.poder360.com.br/poder-economia/futuros-do-brent-recuam-e-ficam-abaixo-de-us-90/",
+      "date": "2026-11-23T10:07:42.000Z",
+      "summary": "IEA projeta que a oferta global de petróleo superará a demanda no 4º trimestre, mas tensões geopolíticas limitam queda",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "Após Master, CGU apura evolução patrimonial de funcionários do BC",
       "link": "https://www.poder360.com.br/poder-governo/apos-master-cgu-apura-evolucao-patrimonial-de-funcionarios-do-bc/",
       "date": "2026-11-23T09:46:50.000Z",
@@ -148,33 +193,6 @@
       "summary": "Presidente dos EUA promoveu jantar em seu clube de golfe na Virgínia para compradores de sua memecoin, cuja cotação despencou",
       "source": "Poder360",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Centrão e direita ocupam 46,5% dos cargos políticos fora de Brasília",
-      "link": "https://www.poder360.com.br/poder-partidos-politicos/centrao-e-direita-ocupam-465-dos-cargos-politicos-fora-de-brasilia/",
-      "date": "2026-11-23T09:35:38.000Z",
-      "summary": "Levantamento mostra que partidos desses grupos têm maior participação entre filiados em funções de confiança nos órgãos regionais do governo Lula",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Saiba quais ações estão na pauta da Câmara nesta 2ª feira",
-      "link": "https://www.poder360.com.br/poder-congresso/saiba-quais-acoes-estao-na-pauta-da-camara-nesta-2a-feira/",
-      "date": "2026-11-23T09:15:52.000Z",
-      "summary": "Casa analisa ajuste fiscal, reparação pela Chacina de Acari, monitoramento de agressores e racismo nas escolas",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Há 200 anos, Brasil se comprometia a acabar com o 'tráfico negreiro' — só 'para inglês ver'",
-      "link": "https://www.bbc.com/portuguese/articles/c6gre2771yr8o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-23T09:14:40.000Z",
-      "summary": "Há 200 anos, em 23 de novembro de 1826, os governos britânico e brasileiro assinaram um acordo que estipulava o fim do tráfico transatlântico de africanos escravizados para o Brasil; mas, na prática, nada mudou.",
-      "source": "BBC News Brasil",
-      "cat": "internacional",
       "type": "imprensa"
     },
     {
@@ -272,15 +290,6 @@
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/13o-salario-deve-ser-pago-ate-segunda-feira-30-veja-quem-tem-direito.shtml",
       "date": "2026-11-23T07:00:00.000Z",
       "summary": "O pagamento da primeira parcela do 13º salário deve ser feito até a próxima segunda-feira (30) a trabalhadores contratados pela CLT (Consolidação das Leis do Trabalho) e servidores públicos. Leia mais (11/23/2026 - 04h00)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Uma proposta amadurecida para mercados digitais em transformação",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/uma-proposta-amadurecida-para-mercados-digitais-em-transformacao.shtml",
-      "date": "2026-11-23T07:00:00.000Z",
-      "summary": "A regulação concorrencial das plataformas digitais é discutida há anos. Há pesquisas, investigações e experiências de autoridades antitruste de vários países. No Brasil, o percurso inclui a experiência do Cade (Conselho Administrativo de Defesa Econômica) ness",
       "source": "Folha",
       "cat": "economia",
       "type": "imprensa"
@@ -430,15 +439,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Veto de sauditas e russos deixa COP31 sem declaração final pela 1ª vez desde 2009",
-      "link": "https://www.dw.com/pt-br/veto-de-sauditas-e-russos-deixa-cop31-sem-declaração-final-pela-1ª-vez-desde-2009/a-80014428?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-22T15:41:00.000Z",
-      "summary": "União Europeia (UE) e outros países se recusaram a endossar proposta de texto final que não mencionava combustíveis fósseis. Alemanha diz que produtores de petróleo impediram desejo da grande maioria dos membros.",
-      "source": "DW Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
       "title": "Protestos pela Europa: de onde vem a indignação da Geração Z?",
       "link": "https://www.dw.com/pt-br/protestos-pela-europa-de-onde-vem-a-indignação-da-geração-z/a-80013510?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-22T12:04:00.000Z",
@@ -488,6 +488,15 @@
       "link": "https://www.dw.com/pt-br/na-cop31-embate-sobre-relatório-climático-ameaça-negociações-futuras/a-80011164?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-21T22:20:00.000Z",
       "summary": "Países divergem sobre quando divulgar a próxima avaliação do IPCC, principal referência científica para a política climática global. Calendário define se o documento orientará o próximo balanço do Acordo de Paris.",
+      "source": "DW Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "União Europeia propõe taxar big techs para financiar orçamento",
+      "link": "https://www.dw.com/pt-br/união-europeia-propõe-taxar-big-techs-para-financiar-orçamento/a-80010694?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-21T18:24:00.000Z",
+      "summary": "Proposta prevê cobrança de 3% sobre receitas de publicidade online de grandes empresas de tecnologia para ampliar as receitas do bloco.",
       "source": "DW Brasil",
       "cat": "internacional",
       "type": "imprensa"
@@ -615,15 +624,6 @@
       "date": "2026-11-19T21:12:59.000Z",
       "summary": "Dezesseis comissões do Senado e do Congresso Nacional aprovaram, na terça-feira (17) e na quarta-feira (18), emendas aos projetos do Orçamento e da Lei de Diretrizes Orçamentárias de 2027. As 96 emendas de apropriação somam R$ 85,9 bilhões e propõem recursos p",
       "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Participantes de audiência defendem ratificação de convenção sobre direitos das pessoas idosas",
-      "link": "https://www.camara.leg.br/noticias/1321321-participantes-de-audiencia-defendem-ratificacao-de-convencao-sobre-direitos-das-pessoas-idosas",
-      "date": "2026-11-19T20:29:00.000Z",
-      "summary": "Segundo especialistas, tratado pode fortalecer a aplicação dos direitos já reconhecidos e ampliar a responsabilização do Estado pelo cumprimento dessas garantias",
-      "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
     },
