@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-23T19:42:53.154Z",
+  "updated": "2026-11-23T20:48:42.214Z",
   "market": {
     "ibov": {
-      "price": 165011.8,
-      "pct": -0.82,
-      "time": "2026-11-23T19:42:44.886Z",
+      "price": 164985.64,
+      "pct": -0.84,
+      "time": "2026-11-23T20:48:37.643Z",
       "history": [
         {
           "d": "2026-10-26",
@@ -80,7 +80,7 @@
         },
         {
           "d": "2026-11-23",
-          "c": 165064
+          "c": 164963.9375
         }
       ]
     },
@@ -137,31 +137,247 @@
   },
   "news": [
     {
-      "title": "Ministérios terão R$ 115 milhões para compensar Roraima por migração",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/23/ministerios-terao-r-115-milhoes-para-compensar-roraima-por-migracao",
-      "date": "2026-11-23T19:35:00.000Z",
-      "summary": "Os Ministérios da Educação, da Justiça e da Saúde contarão com um reforço de R$ 115 milhões para amenizar impactos causados pelo aumento do fluxo migratório em Roraima. É o que estabelece a Lei 15.549, sancionada pelo presidente Luiz Inácio Lula da Silva e pub",
+      "title": "Governo Lula lançará edital de nuvem própria para fugir de big techs",
+      "link": "https://www.poder360.com.br/poder-tech/governo-lula-lancara-edital-de-nuvem-propria-para-fugir-de-big-techs/",
+      "date": "2026-11-23T20:47:32.000Z",
+      "summary": "Ideia é publicar detalhes para parceria público-privada até o início de 2027; dados deverão ficar hospedados em infraestruturas locais",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Comissão aprova proposta que equipara enteado a filho em plano de saúde e na Previdência Social",
+      "link": "https://www.camara.leg.br/noticias/1321955-comissao-aprova-proposta-que-equipara-enteado-a-filho-em-plano-de-saude-e-na-previdencia-social",
+      "date": "2026-11-23T20:41:00.000Z",
+      "summary": "Texto segue em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "CCJ facilita dispensa de licitação para associações de pessoas com deficiência",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/23/ccj-facilita-dispensa-de-licitacao-para-associacoes-de-pessoas-com-deficiencia",
+      "date": "2026-11-23T20:36:12.000Z",
+      "summary": "A Comissão de Constituição e Justiça (CCJ) finalizou na quarta-feira (18) a votação em caráter terminativo do projeto de lei que permite a contratação direta, sem licitação, de associações sem fins lucrativos de pessoas com deficiência, mesmo quando os serviço",
       "source": "Agência Senado",
       "cat": "politica",
       "type": "oficial"
     },
     {
-      "title": "MBRF vê fim das bets como impulso extra para vendas de Natal",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/mbrf-ve-fim-das-bets-como-impulso-extra-para-vendas-de-natal.shtml",
-      "date": "2026-11-23T19:28:00.000Z",
-      "summary": "A MBRF avalia que as vendas na campanha de Natal e final de ano devem ter um impulso adicional do fim das \"bets\" no Brasil, proporcionando mais recursos para consumidores investirem em produtos para a ceia, disse o presidente do conselho de administração da em",
+      "title": "Tarcísio critica plano Moretti e diz que ajuste fiscal do governo Lula não 'ataca a raiz do problema'",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/tarcisio-critica-plano-moretti-e-diz-que-ajuste-fiscal-do-governo-lula-nao-ataca-a-raiz-do-problema.shtml",
+      "date": "2026-11-23T20:34:00.000Z",
+      "summary": "O governador de São Paulo, Tarcísio de Freitas (Republicanos), afirmou que o Brasil enfrenta hoje dois grandes problemas: o desafio fiscal e a segurança pública. Ao comentar o projeto de ajuste fiscal em tramitação na Câmara, batizado de plano Moretti, o gover",
       "source": "Folha",
       "cat": "economia",
       "type": "imprensa"
     },
     {
-      "title": "Durigan admite impacto inflacionário da reforma tributária",
-      "link": "https://www.poder360.com.br/poder-economia/durigan-admite-impacto-inflacionario-da-reforma-tributaria/",
-      "date": "2026-11-23T19:27:15.000Z",
-      "summary": "Ministro diz que dúvidas na precificação podem pressionar preços, mas projeta redução do impacto com esclarecimentos",
+      "title": "CVM suspende registro do BRB, envolvido no caso Master",
+      "link": "https://www.dw.com/pt-br/cvm-suspende-registro-do-brb-envolvido-no-caso-master/a-80026799?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-23T20:33:00.000Z",
+      "summary": "Autarquia puniu empresas que deixaram de divulgar informações obrigatórias ao mercado por mais de um ano. Banco de Brasília enfrenta investigações sobre operações com grupo de Daniel Vorcaro.",
+      "source": "DW Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Fim da escala 6x1: Governo publica regras para compensação de folgas que divergem de liminar de Dino",
+      "link": "https://www.estadao.com.br/economia/fim-da-escala-6x1-governo-publica-regras-para-compensacao-de-folgas-que-divergem-de-liminar-de-dino/",
+      "date": "2026-11-23T20:32:55.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Em busca do 3º mandato, Bukele projeta influência na América Latina",
+      "link": "https://www.dw.com/pt-br/em-busca-do-3º-mandato-bukele-projeta-influência-na-américa-latina/a-80015228?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-23T20:32:00.000Z",
+      "summary": "Com forte apoio popular, líder salvadorenho concorrerá novamente após uma controversa reforma constitucional. Medidas adotadas em El Salvador servem de referência para governos de direita e embasam atuação no Haiti.",
+      "source": "DW Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Economistas veem risco de estagflação e pedem ajuste fiscal além do plano Moretti",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/economistas-veem-risco-de-estagflacao-e-pedem-ajuste-fiscal-alem-do-plano-moretti.shtml",
+      "date": "2026-11-23T20:31:00.000Z",
+      "summary": "O governo do presidente Luiz Inácio Lula da Silva (PT) precisa entregar uma proposta de ajuste fiscal que vá além do plano Moretti, atualmente em discussão no Congresso, para evitar que o Brasil caminhe rapidamente para um processo de estagflação -um cenário d",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Ao vivo: Câmara analisa o pacote de ajuste fiscal do governo Lula",
+      "link": "https://www.poder360.com.br/poder-congresso/ao-vivo-camara-analisa-o-pacote-de-ajuste-fiscal-do-governo-lula/",
+      "date": "2026-11-23T20:30:38.000Z",
+      "summary": "Sessão começa às 18h; deputados podem analisar projeto que reúne cortes de gastos e medidas para aumentar a arrecadação",
       "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
+    },
+    {
+      "title": "Dólar fecha a R$ 5,93 após superar R$ 6 pela 1ª vez desde abril de 2025",
+      "link": "https://www.poder360.com.br/poder-economia/dolar-fecha-a-r-593-apos-superar-r-6-pela-1a-vez-desde-abril-de-2025/",
+      "date": "2026-11-23T20:30:17.000Z",
+      "summary": "Moeda brasileira é pressionada por incertezas sobre o cenário fiscal; investidores aguardam votação do ajuste na Câmara",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Batmóvel de 'Batman: O Retorno' vai a leilão por até R$ 37 milhões e pode bater recorde",
+      "link": "https://g1.globo.com/carros/noticia/2026/11/23/batmovel-de-batman-o-retorno-vai-a-leilao-por-ate-r-37-milhoes-e-pode-bater-recorde.ghtml",
+      "date": "2026-11-23T20:27:43.000Z",
+      "summary": "Batman – O Retorno Herói Bruce Wayne Ian Wood/Julien's O Batmóvel usado no filme Batman: O Retorno, de 1992, será leiloado nesta segunda-feira (23), em Gardena, nos arredores de Los Angeles, nos Estados Unidos. O veículo, uma das três versões personalizadas pr",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Comissão aprova proposta que retira da conta de luz subsídios de irrigação, aquicultura e cooperativas rurais",
+      "link": "https://www.camara.leg.br/noticias/1321949-comissao-aprova-proposta-que-retira-da-conta-de-luz-subsidios-de-irrigacao-aquicultura-e-cooperativas-rurais",
+      "date": "2026-11-23T20:22:00.000Z",
+      "summary": "Proposta segue em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Bolsonaro continuará internado na UTI por dores abdominais e pneumonia; médicos descartam cirurgia neste momento",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/23/bolsonaro-continuara-internado-na-uti-por-dores-abdominais-e-pneumonia-medicos-descartam-cirurgia-neste-momento.ghtml",
+      "date": "2026-11-23T20:21:46.000Z",
+      "summary": "O ex-presidente Jair Bolsonaro (PL) continuará internado na Unidade de Terapia Intensiva (UTI) do Hospital DF Star, em Brasília, após apresentar dores e distensão abdominal e ser diagnosticado com uma obstrução intestinal. Segundo declaração da equipe médica e",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Dólar a R$ 6 preocupa governo, mas Fazenda não vê recessão em 2027, só desaceleração, diz secretária",
+      "link": "https://www.estadao.com.br/economia/dolar-a-r-6-preocupa-governo-mas-fazenda-nao-ve-recessao-em-2027-so-desaceleracao-diz-secretaria/",
+      "date": "2026-11-23T20:20:49.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Veneziano contesta notícia falsa sobre fraudes no Banco do Brasil",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/23/veneziano-contesta-noticia-falsa-sobre-fraudes-no-banco-do-brasil",
+      "date": "2026-11-23T20:18:56.000Z",
+      "summary": "O senador Veneziano Vital do Rêgo (MDB-PB), em pronunciamento no Plenário nesta segunda-feira (23), contestou informações sobre supostas fraudes de R$ 256 bilhões em operações de crédito rural do Banco do Brasil. Segundo o senador, a agência Reuters informou q",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Aplicativo Senado Digital ganha novas funcionalidades para senadores e cidadãos",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/23/aplicativo-senado-digital-ganha-novas-funcionalidades-para-senadores-e-cidadaos",
+      "date": "2026-11-23T20:15:26.000Z",
+      "summary": "O aplicativo Senado Digital teve suas funcionalidades ampliadas para apoiar a atividade parlamentar e facilitar o acesso da sociedade a informações sobre o Orçamento da União. Responsável pela tecnologia de processamento de dados no Senado, o Prodasen incluiu ",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Ucrânia afunda navio de guerra russo na Líbia, diz Zelensky",
+      "link": "https://www.poder360.com.br/poder-internacional/ucrania-afunda-navio-de-guerra-russo-na-libia/",
+      "date": "2026-11-23T20:06:01.000Z",
+      "summary": "Presidente ucraniano diz que operação usou 7 drones navais; militares também destruíram helicóptero de combate russo e um navio cargueiro utilizado para transportar armas",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Comissão especial debate redução da maioridade penal para 16 anos",
+      "link": "https://www.camara.leg.br/noticias/1321742-comissao-especial-debate-reducao-da-maioridade-penal-para-16-anos",
+      "date": "2026-11-23T20:05:00.000Z",
+      "summary": "Audiência pública ocorre na terça-feira (24), às 14h30, no plenário 4, e reúne deputados com visões distintas",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Folha abre vaga de estágio em Economia",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/blogs/novo-em-folha/2026/11/folha-abre-vaga-de-estagio-em-economia.shtml",
+      "date": "2026-11-23T20:03:00.000Z",
+      "summary": "A editoria de Economia da Folha está com vaga aberta de estágio. Leia mais (11/23/2026 - 17h03)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Folha abre vaga de estágio em Economia",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/blogs/novo-em-folha/2026/11/folha-abre-vaga-de-estagio-em-economia.shtml",
+      "date": "2026-11-23T20:03:00.000Z",
+      "summary": "A editoria de Economia da Folha está com vaga aberta de estágio. Leia mais (11/23/2026 - 17h03)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Às vésperas da reforma tributária, escritórios contábeis têm apagão de mão de obra",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/as-vesperas-da-reforma-tributaria-escritorios-contabeis-tem-apagao-de-mao-de-obra.shtml",
+      "date": "2026-11-23T20:02:00.000Z",
+      "summary": "A contratação de profissionais se tornou um desafio para 87% dos escritórios contábeis de São Paulo, segundo a segunda edição da Sondagem de RH Contábil, realizada pela Omie em parceria com o Sescon-SP (Sindicato das Empresas de Serviços Contábeis e de Assesso",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Em reunião com Lula, ministros do STF defendem diretor da PF e dizem que André Mendonça queria prendê-lo",
+      "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/11/23/lula-andrei-rodrigues-andre-mendonca.ghtml",
+      "date": "2026-11-23T19:58:57.000Z",
+      "summary": "Sadi: Ala do STF defende Andrei junto a Lula A ala de ministros do Supremo Tribunal Federal (STF) mais próxima de Lula (PT) fez uma defesa enfática do diretor-geral da Polícia Federal (PF), Andrei Rodrigues, durante jantar com o presidente, no último sábado (2",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Bolsonaro tem diagnóstico de pneumonia e continuará na UTI, dizem médicos",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/bolsonaro-tem-diagnostico-de-pneumonia-e-continuara-na-uti-dizem-medicos.shtml",
+      "date": "2026-11-23T19:58:00.000Z",
+      "summary": "O ex-presidente Jair Bolsonaro (PL) recebeu no domingo (22) diagnóstico de pneumonia e permanecerá internado em uma UTI (Unidade de Tratamento Intensivo) do DF Star, em Brasília. Em prisão domiciliar, ele foi levado ao hospital na sexta (20), depois de apresen",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Comissão debate papel de mediador e professor de apoio na educação inclusiva; participe",
+      "link": "https://www.camara.leg.br/noticias/1321686-comissao-debate-papel-de-mediador-e-professor-de-apoio-na-educacao-inclusiva-participe",
+      "date": "2026-11-23T19:54:00.000Z",
+      "summary": "Audiência interativa ocorre nesta terça-feira (24), às 15h30, por iniciativa da deputada Soraya Santos (PL-RJ)",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Jair Bolsonaro tem pneunomia e segue internado na UTI, apesar de melhora clínica",
+      "link": "https://www.estadao.com.br/politica/bolsonaro-tem-pneunomia-e-segue-internado-na-uti/",
+      "date": "2026-11-23T19:51:59.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Avenida no Rio supera rua de SP e se torna a mais cara do Brasil para o comércio",
+      "link": "https://www.estadao.com.br/economia/avenida-rio-supera-rua-sp-mais-cara-brasil-comercio-npr/",
+      "date": "2026-11-23T19:48:07.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Confúcio cobra continuidade de políticas públicas e combate às desigualdades",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/23/confucio-cobra-continuidade-de-politicas-publicas-e-combate-as-desigualdades",
+      "date": "2026-11-23T19:43:32.000Z",
+      "summary": "Em pronunciamento no Plenário nesta segunda-feira (23), o senador Confúcio Moura (MDB-RO) cobrou maior empenho dos governos federal, estaduais e municipais para a continuidade de uma série de políticas públicas e a redução das desigualdades regionais. Ele afir",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
     },
     {
       "title": "Câmara deve votar nesta segunda-feira (23) projeto de ajuste fiscal do governo",
@@ -200,56 +416,11 @@
       "type": "imprensa"
     },
     {
-      "title": "Durigan quer superavit de 1,5% a 2% ao fim do 4º mandato de Lula",
-      "link": "https://www.poder360.com.br/poder-economia/durigan-quer-superavit-de-15-a-2-ao-fim-do-4o-mandato-de-lula/",
-      "date": "2026-11-23T19:14:05.000Z",
-      "summary": "Ministro diz que governo buscará resultados crescentes a partir de 2027 e reforçará regras fiscais",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Custo Brasil corrói a eficiência interna das empresas, diz Jorge Gerdau",
-      "link": "https://www.estadao.com.br/economia/custo-brasil-corroi-a-eficiencia-interna-das-empresas-diz-jorge-gerdau/",
-      "date": "2026-11-23T19:11:32.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "‘Nas próximas duas semanas, indicações, fiscal e alíquota da CBS estarão resolvidos’, diz Durigan",
-      "link": "https://www.estadao.com.br/economia/nas-proximas-duas-semanas-indicacoes-fiscal-e-aliquota-da-cbs-estarao-resolvidos-diz-durigan/",
-      "date": "2026-11-23T19:07:33.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "União Europeia abre investigação contra principal produtora da Coca-Cola na Europa",
-      "link": "https://www.estadao.com.br/internacional/uniao-europeia-investigacao-contra-principal-produtora-coca-cola-europa-npr/",
-      "date": "2026-11-23T19:06:44.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Ações do BRB perderam quase 75% do valor em um ano; entenda",
       "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/23/acoes-do-brb-perderam-quase-75percent-do-valor-em-um-ano-entenda.ghtml",
       "date": "2026-11-23T19:06:05.000Z",
       "summary": "Sede do Banco de Brasília (BRB) TV Globo Arrastado para o centro da crise do Banco Master e sem divulgar balanços operacionais há um ano, o Banco de Brasília (BRB) viu o valor de suas ações negociadas na B3 \"derreter\" ao longo desse período. As ações ordinária",
       "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Fornecedores de tecnologia elevam preços de servidores de IA em até 45% após fechar contratos",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/fornecedores-de-tecnologia-elevam-precos-de-servidores-de-ia-em-ate-45-apos-fechar-contratos.shtml",
-      "date": "2026-11-23T19:06:00.000Z",
-      "summary": "Empresas de tecnologia que vendem equipamentos para data centers estão aumentando significativamente os preços de servidores de inteligência artificial equipados com chips da Nvidia, meses depois de assinar contratos com os compradores. A medida repassa aos cl",
-      "source": "Folha",
       "cat": "economia",
       "type": "imprensa"
     },
@@ -263,43 +434,7 @@
       "type": "oficial"
     },
     {
-      "title": "Empresas serão fiscalizadas nos primeiros 90 dias do fim da 6x1 e sofrerão multa se infringirem lei",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/empresas-serao-fiscalizadas-nos-primeiros-90-dias-do-fim-da-6x1-e-sofrerao-multa-se-infringirem-lei.shtml",
-      "date": "2026-11-23T19:03:00.000Z",
-      "summary": "Portaria sobre o fim da escala 6x1, publicada nesta segunda-feira (23) em edição extra do Diário Oficial da União, prevê que empresas passarão por fiscalização com dupla visita nos primeiros 90 dias quando a emenda passar a valer, em 16 de dezembro deste ano. ",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Coral do Senado é homenageado por 30 anos de história",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/23/coral-do-senado-e-homenageado-por-30-anos-de-historia",
-      "date": "2026-11-23T18:59:02.000Z",
-      "summary": "Os 30 anos do Coral do Senado foram comemorados em sessão especial nesta segunda-feira (23). Durante a homenagem, representantes do grupo relembraram sua trajetória e destacaram sua relevância cultural. Criado em 1996, o coro reúne servidores ativos e aposenta",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Paim defende mudança na contribuição das empresas para financiar Previdência",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/23/paim-defende-mudanca-na-contribuicao-das-empresas-para-financiar-previdencia",
-      "date": "2026-11-23T18:56:11.000Z",
-      "summary": "O senador Paulo Paim (PT-RS) defendeu nesta segunda-feira (23) que as empresas passem a contribuir para a Previdência Social com base no faturamento, e não mais sobre a folha de salários. Em discurso no Plenário, Paim disse que não quer acabar com a contribuiç",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Com tensão fiscal, euro sobe 16% no mês frente ao real",
-      "link": "https://www.poder360.com.br/poder-economia/com-tensao-fiscal-euro-sobe-16-no-mes-frente-ao-real/",
-      "date": "2026-11-23T18:54:16.000Z",
-      "summary": "Votação do ajuste na Câmara aumenta a cautela dos investidores; euro é cotado a R$ 6,50 na tarde desta 2ª feira (23.nov)",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Governo Lula reduz projeção de crescimento e vê inflação mais alta e dólar mais caro ao fim de 2026",
+      "title": "Governo Lula reduz projeção de crescimento e vê inflação mais alta e dólar mais caro em 2026",
       "link": "https://www.estadao.com.br/economia/governo-lula-reduz-projecao-do-pib-para-este-ano-e-ve-inflacao-acima-da-meta/",
       "date": "2026-11-23T18:50:21.000Z",
       "summary": "",
@@ -308,19 +443,10 @@
       "type": "imprensa"
     },
     {
-      "title": "Sancionadas leis que destinam R$ 42 milhões à saúde, cultura e ciência",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/23/sancionadas-leis-que-destinam-r-42-milhoes-a-saude-cultura-e-ciencia",
-      "date": "2026-11-23T18:46:11.000Z",
-      "summary": "Pacientes atendidos por hospitais e ambulatórios do SUS em nove estados vão contar com um reforço temporário no custeio que mantém o atendimento funcionando. Esse é um dos principais efeitos de uma das duas leis sancionadas pelo presidente da República, que re",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
       "title": "Internação de Jair aprofunda fissura no clã Bolsonaro com disputa entre Carlos e Michelle",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/internacao-de-jair-aprofunda-fissura-no-cla-bolsonaro-com-disputa-entre-carlos-e-michelle.shtml",
       "date": "2026-11-23T18:45:00.000Z",
-      "summary": "A mais recente internação de Jair Bolsonaro (PL), admitido na UTI (Unidade de Terapia Intensiva) do hospital DF Star, em Brasília, aprofundou o racha na família com novo atrito público entre a ex-primeira-dama Michelle Bolsonaro (PL) e Carlos Bolsonaro (PL), o",
+      "summary": "A mais recente internação de Jair Bolsonaro (PL), admitido na UTI (Unidade de Terapia Intensiva) do hospital DF Star, em Brasília, aprofundou o racha na família com novo atrito público entre a ex-primeira-dama Michelle Bolsonaro (PL) e Carlos Bolsonaro (PL), ú",
       "source": "Folha",
       "cat": "politica",
       "type": "imprensa"
@@ -335,15 +461,6 @@
       "type": "oficial"
     },
     {
-      "title": "Durigan prepara transição para reforma tributária sem adiamento",
-      "link": "https://www.poder360.com.br/poder-economia/durigan-prepara-transicao-para-reforma-tributaria-sem-adiamento/",
-      "date": "2026-11-23T18:43:40.000Z",
-      "summary": "Ministro diz que medida deve dar segurança às empresas e evitar problemas no fluxo de caixa na adaptação ao novo sistema",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Ministério do Trabalho publica portaria que regulamenta descansos da escala 5x2; entenda",
       "link": "https://g1.globo.com/economia/noticia/2026/11/23/ministerio-do-trabalho-portaria-escala-5x2.ghtml",
       "date": "2026-11-23T18:42:53.000Z",
@@ -353,49 +470,13 @@
       "type": "imprensa"
     },
     {
-      "title": "Plenário vota criação da Força Nacional do SUS nesta quarta-feira",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/23/plenario-vota-criacao-da-forca-nacional-do-sus-nesta-quarta-feira",
-      "date": "2026-11-23T18:37:00.000Z",
-      "summary": "O Senado pode votar nesta quarta-feira (25) um projeto de lei que cria a Força Nacional do Sistema Único de Saúde (FN-SUS), estrutura destinada a atuar em situações de emergência e calamidade pública que exijam resposta rápida dos serviços de saúde. O PL 351/2",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Durigan diz que ajuste fiscal e revisão de gastos são necessários para queda dos juros",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/durigan-diz-que-ajuste-fiscal-e-revisao-de-gastos-sao-necessarios-para-queda-dos-juros.shtml",
-      "date": "2026-11-23T18:33:00.000Z",
-      "summary": "O ministro da Fazenda, Dario Durigan, afirmou nesta segunda-feira (23) que o governo federal precisa avançar no ajuste das contas públicas e melhorar a qualidade dos gastos para criar condições para a redução dos juros no Brasil. Segundo ele, a prioridade da e",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Lei libera R$ 420 milhões para ações de segurança pública e transporte",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/23/lei-libera-r-420-milhoes-para-acoes-de-seguranca-publica-e-transporte",
-      "date": "2026-11-23T18:32:07.000Z",
-      "summary": "Foi publicada, no Diário Oficial da União (DOU) desta segunda-feira (23), a lei que destina R$ 420 milhões para vários ministérios e órgãos do governo. A Lei 15.552, de 2026 reserva a maior parte dos recursos para o Ministério da Fazenda (88%) e para o Ministé",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "A tempestade perfeita (dentro e fora do Brasil) que fez dólar chegar a R$ 6",
+      "title": "A tempestade perfeita (dentro e fora do Brasil) que faz preço do dólar chegar a R$ 6",
       "link": "https://www.bbc.com/portuguese/articles/cwm253lr95zjo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-23T18:27:19.000Z",
-      "summary": "Pressão fiscal no Brasil e dólar forte no exterior ajudam a explicar a maior desvalorização do real entre as principais moedas emergentes.",
+      "summary": "Valor disparou com combinação de força da moeda americana no exterior e pressão sobre ajuste fiscal no Brasil, levando à desvalorização do real acentuada entre as principais moedas emergentes.",
       "source": "BBC News Brasil",
       "cat": "internacional",
       "type": "imprensa"
-    },
-    {
-      "title": "Comissão de Segurança Pública ouve ministro da Justiça sobre reestruturação na Polícia Federal",
-      "link": "https://www.camara.leg.br/noticias/1321734-comissao-de-seguranca-publica-ouve-ministro-da-justica-sobre-reestruturacao-na-policia-federal",
-      "date": "2026-11-23T18:23:00.000Z",
-      "summary": "",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
     },
     {
       "title": "Fazenda reduz previsão de crescimento da economia para 1,9% neste ano",
@@ -434,24 +515,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Comissão debate inclusão de gênero e raça na distribuição do Orçamento público",
-      "link": "https://www.camara.leg.br/noticias/1321844-comissao-debate-inclusao-de-genero-e-raca-na-distribuicao-do-orcamento-publico",
-      "date": "2026-11-23T17:35:00.000Z",
-      "summary": "O debate será às 10 horas, no Plenário 2, e atende a pedido da deputada Denise Pessôa (PT-RS)",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Memorial da América Latina renomeia espaços internos e homenageia líderes comunistas",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/memorial-da-america-latina-renomeia-espacos-internos-e-homenageia-lideres-comunistas.shtml",
-      "date": "2026-11-23T17:30:00.000Z",
-      "summary": "O presidente do Memorial da América Latina, Pedro Mastrobuono, divulgou portarias em que dá novos nomes a espaços internos do complexo cultural, homenageando o casal de líderes comunistas Luís Carlos Prestes e Olga Benário. Leia mais (11/23/2026 - 14h30)",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Como a Alemanha quer salvar sua previdência iniciando a contribuição aos 6 anos",
       "link": "https://www.dw.com/pt-br/como-a-alemanha-quer-salvar-sua-previdência-iniciando-a-contribuição-aos-6-anos/a-80022642?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-23T17:28:00.000Z",
@@ -461,75 +524,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Durigan vê pacote fiscal como 'primeiro passo' e diz discutir ajuste nas contas diariamente com Lula",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/23/durigan-evento-itau.ghtml",
-      "date": "2026-11-23T17:27:22.000Z",
-      "summary": "Dario Durigan, ministro da Fazenda Washington Costa/MF O ministro da Fazenda, Dario Durigan, afirmou nesta segunda-feira (23) que o pacote fiscal em discussão no Congresso Nacional é apenas um \"primeiro passo\" para ajustar as contas públicas e que novas medida",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Comissão que fiscaliza rompimentos de barragens pode votar relatório nesta terça-feira",
-      "link": "https://www.camara.leg.br/noticias/1321721-comissao-que-fiscaliza-rompimentos-de-barragens-pode-votar-relatorio-nesta-terca-feira",
-      "date": "2026-11-23T17:17:00.000Z",
-      "summary": "",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Comissão debate produção e reconhecimento de escritoras negras brasileiras",
-      "link": "https://www.camara.leg.br/noticias/1321406-comissao-debate-producao-e-reconhecimento-de-escritoras-negras-brasileiras",
-      "date": "2026-11-23T17:16:00.000Z",
-      "summary": "O debate será às 15h30, no Plenário 10, e atende pedido da deputada Benedita da Silva (PT-RJ)",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Moraes diz que Flávio está em 'local incerto' e determina citação por edital para resposta de senador a denúncia por calúnia contra Lula",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/23/moraes-diz-que-flavio-esta-em-local-incerto-e-determina-citacao-por-edital-para-resposta-de-senador-a-denuncia-por-calunia-contra-lula.ghtml",
-      "date": "2026-11-23T17:03:15.000Z",
-      "summary": "Moraes diz que Flávio está em 'local incerto' e determina citação por edital O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), determinou que o senador Flávio Bolsonaro (PL-RJ) seja notificado por edital para apresentar defesa prévia na denúnc",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Ofensiva israelense transformou Gaza em \"deserto tóxico\", diz ONG britânica",
       "link": "https://www.dw.com/pt-br/ofensiva-israelense-transformou-gaza-em-deserto-tóxico-diz-ong-britânica/a-80021668?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-23T16:34:00.000Z",
       "summary": "Contaminação ambiental em Gaza pode afetar saúde da população por décadas, alerta novo relatório da Oxfam. Estudo aponta sinais de poluição em mais de 99% do território após anos de conflito.",
       "source": "DW Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Moretti garante às centrais sindicais que ajuste fiscal preserva direitos sociais",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/moretti-garante-as-centrais-sindicais-que-ajuste-fiscal-preserva-direitos-sociais.shtml",
-      "date": "2026-11-23T16:10:00.000Z",
-      "summary": "O ministro do Planejamento, Bruno Moretti, afirmou às centrais sindicais que o ajuste fiscal que leva seu nome tem como premissa básica preservar os direitos sociais. O ajuste, que ficou conhecido como plano Moretti, deve ser votado nesta segunda-feira (23) na",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Ministério Público Eleitoral defende rejeição de recurso por 2° turno no Rio de Janeiro",
-      "link": "https://www.estadao.com.br/politica/mpe-defende-rejeicao-de-recurso-por-2-turno-no-rio-de-janeirov-nprp/",
-      "date": "2026-11-23T15:11:08.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Lula se reúne com cúpula do Congresso e ministros do STF para definir substituto de Barroso",
-      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/23/lula-se-reune-com-cupula-do-congresso-e-ministros-do-stf-para-definir-substituto-de-barroso.ghtml",
-      "date": "2026-11-23T15:07:33.000Z",
-      "summary": "Presidente da República, Luiz Inácio Lula da Silva, durante gravação de Live com o Presidente do Governo do Reino da Espanha, Pedro Sanchez Ricardo Stuckert/PR Presidente da República, Luiz Inácio Lula da Silva, durante gravação de Live com o Presidente do Gov",
-      "source": "g1",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -547,15 +547,6 @@
       "date": "2026-11-23T13:58:49.000Z",
       "summary": "Negociações, que deveriam ter terminado na sexta-feira, se estenderam até o fim de semana, tornando essa a conferência climática da ONU mais longa da história.",
       "source": "BBC News Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Navio russo foi atingido na Líbia por drones ucranianos, diz Zelenski",
-      "link": "https://www.dw.com/pt-br/navio-russo-foi-atingido-na-líbia-por-drones-ucranianos-diz-zelenski/a-80014687?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-23T13:02:00.000Z",
-      "summary": "Explosão deixou feridos em embarcação ancorada em Benghazi. Caso reforça temores de expansão do conflito entre Moscou e Kiev para além dos principais campos de batalha no leste europeu.",
-      "source": "DW Brasil",
       "cat": "internacional",
       "type": "imprensa"
     },
@@ -592,15 +583,6 @@
       "date": "2026-11-22T23:32:59.000Z",
       "summary": "Silenciados pelo temor de represálias do Kremlin, integrantes da elite empresarial começam a imaginar como será o país quando o atual presidente deixar o poder.",
       "source": "BBC News Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Democratas conquistam maior bancada na Câmara dos EUA desde 1992",
-      "link": "https://www.dw.com/pt-br/democratas-conquistam-maior-bancada-na-câmara-dos-eua-desde-1992/a-80015273?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-22T20:33:00.000Z",
-      "summary": "Partido assegura ao menos 258 das 435 cadeiras em disputa, seu melhor resultado desde a eleição de Bill Clinton. Desempenho amplia força no Congresso e eleva cobrança por avanços na agenda legislativa.",
-      "source": "DW Brasil",
       "cat": "internacional",
       "type": "imprensa"
     },
