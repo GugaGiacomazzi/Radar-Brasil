@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-23T12:18:41.029Z",
+  "updated": "2026-11-23T13:48:16.441Z",
   "market": {
     "ibov": {
-      "price": 166376.44,
-      "pct": -0.69,
-      "time": "2026-11-23T12:18:36.872Z",
+      "price": 164194.45,
+      "pct": -1.31,
+      "time": "2026-11-23T13:48:11.459Z",
       "history": [
         {
           "d": "2026-10-26",
@@ -77,6 +77,10 @@
         {
           "d": "2026-11-19",
           "c": 166376
+        },
+        {
+          "d": "2026-11-23",
+          "c": 164547.7188
         }
       ]
     },
@@ -133,20 +137,200 @@
   },
   "news": [
     {
-      "title": "Trump pede que Nvidia recontrate Jensen Huang em meio a novas revelações sobre suposta espionagem chinesa",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/23/trump-nvidia-jensen-huang-espionagem-china.ghtml",
-      "date": "2026-11-23T12:14:26.000Z",
-      "summary": "O presidente dos Estados Unidos, Donald Trump, pediu que o conselho de administração da Nvidia recontrate Jensen Huang, ex-presidente-executivo da companhia, que renunciou ao cargo em meio a um suposto escândalo de espionagem envolvendo uma mulher com quem man",
+      "title": "Alta do dólar impulsiona preços de grão e derivados",
+      "link": "https://www.poder360.com.br/poder-economia/alta-do-dolar-impulsiona-precos-de-grao-e-derivados/",
+      "date": "2026-11-23T13:25:13.000Z",
+      "summary": "Às 10h11, a moeda norte-americana subia 0,93%, a R$ 5,990",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Após série de apagões em Cuba, pedidos de refúgio de cubanos no Brasil chegam a 4,9 mil em setembro e somam 33,2 mil em 2026",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/23/refugio-cuba-2026-parcial.ghtml",
+      "date": "2026-11-23T13:24:41.000Z",
+      "summary": "Cubanos saem de Havana, em Cuba, até a Guiana. Para chegar ao Brasil, atravessam fronteiras em botes e atravessam áreas de mata Arquivo Os pedidos de refúgio de cubanos no Brasil chegaram a 4.885 em setembro de 2026, o maior número mensal registrado neste ano,",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Comissão debate projeto que que regulamenta o recebimento de recursos estrangeiros por organizações da sociedade civil",
+      "link": "https://www.camara.leg.br/noticias/1321023-comissao-debate-projeto-que-que-regulamenta-o-recebimento-de-recursos-estrangeiros-por-organizacoes-da-sociedade-civil",
+      "date": "2026-11-23T13:23:00.000Z",
+      "summary": "",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Estatuto do Aprendiz está na pauta do Plenário nesta terça",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/23/estatuto-do-aprendiz-esta-na-pauta-do-plenario-nesta-terca",
+      "date": "2026-11-23T13:08:56.000Z",
+      "summary": "O Plenário do Senado pode votar nesta terça-feira (24), a partir das 14h, o projeto que cria o Estatuto do Aprendiz. O PL 6.461/2019 define a aprendizagem profissional como um contrato de trabalho voltado à formação técnica e profissional metódica. O texto per",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Comissão debate regras para a formulação de combustíveis no Brasil e atuação e agência reguladora",
+      "link": "https://www.camara.leg.br/noticias/1321683-comissao-debate-regras-para-a-formulacao-de-combustiveis-no-brasil-e-atuacao-e-agencia-reguladora",
+      "date": "2026-11-23T13:08:00.000Z",
+      "summary": "",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Dólar perto de R$ 8 e fuga de US$ 460 bi: gestora vê cenário sombrio no Brasil sem ajuste fiscal",
+      "link": "https://www.estadao.com.br/economia/dolar-fuga-de-capital-cenario-sombrio-ajuste-fiscal-ashmore/",
+      "date": "2026-11-23T13:04:36.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Controle da inflação é prioridade do Banco Central, diz Galípolo",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/23/galipolo-evento-itau.ghtml",
+      "date": "2026-11-23T13:04:33.000Z",
+      "summary": "Presidente do BC, Gabriel Galípolo CLÁUDIO REIS/ENQUADRAR/ESTADÃO CONTEÚDO O presidente do Banco Central (BC), Gabriel Galípolo, afirmou nesta segunda-feira (23) que a prioridade para a instituição é o controle da inflação. \"Tentamos muito cumprir o nosso mand",
       "source": "g1",
       "cat": "economia",
       "type": "imprensa"
     },
     {
-      "title": "Economistas sobem previsão da inflação e do dólar e diminuem a do PIB neste ano",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/economistas-sobem-previsao-da-inflacao-e-do-dolar-e-diminuem-a-do-pib-neste-ano.shtml",
-      "date": "2026-11-23T12:01:00.000Z",
-      "summary": "Os economistas aumentaram a previsão da inflação deste ano para 5,15% após a semana marcada pela aprovação no Senado do ajuste fiscal proposto pelo governo e pela assinatura do decreto do fim da escala 6x1. Leia mais (11/23/2026 - 09h01)",
+      "title": "CVM suspende registro de BRB, Refit, Ambipar e mais duas companhias abertas por falta de informações",
+      "link": "https://www.estadao.com.br/economia/cvm-suspende-registro-brb-refit-ambipar-falta-informacoes/",
+      "date": "2026-11-23T13:02:44.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Navio russo foi atingido na Líbia por drones ucranianos, diz Zelenski",
+      "link": "https://www.dw.com/pt-br/navio-russo-foi-atingido-na-líbia-por-drones-ucranianos-diz-zelenski/a-80014687?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-23T13:02:00.000Z",
+      "summary": "Explosão deixou feridos em embarcação ancorada em Benghazi. Caso reforça temores de expansão do conflito entre Moscou e Kiev para além dos principais campos de batalha no leste europeu.",
+      "source": "DW Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Crise do Ueno testa fôlego do Paraguai para atrair empresas que buscam menos impostos",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/crise-do-ueno-testa-folego-do-paraguai-para-atrair-empresas-que-buscam-menos-impostos.shtml",
+      "date": "2026-11-23T13:00:00.000Z",
+      "summary": "A crise bancária e política no Paraguai colocou em xeque o modelo de atração de investimentos do país vizinho, sobretudo para empresas brasileiras que buscam redução de custos de produção e menos impostos do outro lado da fronteira. Leia mais (11/23/2026 - 10h",
       "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "China lamenta fracasso da COP31 mas afirma que transição verde é 'irreversível'",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/economia-sustentavel/2026/11/china-lamenta-fracasso-da-cop31-mas-afirma-que-transicao-verde-e-irreversivel.shtml",
+      "date": "2026-11-23T12:56:00.000Z",
+      "summary": "A China expressou nesta segunda-feira (23) sua decepção com o fracasso da conferência climática da ONU em alcançar um acordo após divergências sobre os combustíveis fósseis, mas insistiu que a transição ecológica mundial continua sendo \"irreversível\". Leia mai",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "“Se nada for feito, vamos para uma recessão”, diz Mendonça de Barros",
+      "link": "https://www.poder360.com.br/poder-economia/se-nada-for-feito-vamos-para-uma-recessao-diz-mendonca-de-barros/",
+      "date": "2026-11-23T12:48:11.000Z",
+      "summary": "Economista declara que medidas apresentadas até agora não são ajuste fiscal, mas “adequação do Orçamento” de 2027",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Macron propõe retomar plano para incluir regras fiscais na Constituição francesa",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/macron-propoe-retomar-plano-para-incluir-regras-fiscais-na-constituicao-francesa.shtml",
+      "date": "2026-11-23T12:47:00.000Z",
+      "summary": "O presidente francês, Emmanuel Macron, sugeriu retomar uma proposta de 15 anos atrás para incluir na Constituição um marco para as finanças públicas, como possível resposta às preocupações dos mercados financeiros com a trajetória fiscal da França. Leia mais (",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Plano de Moretti é um 'primeiro passo', e governo Lula pode fazer outros ajustes fiscais no futuro, afirma Laura Carvalho",
+      "link": "https://www.bbc.com/portuguese/articles/cm1dvg9n5w2xo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-23T12:46:58.000Z",
+      "summary": "Professora da USP esteve na primeira reunião econômica pós-reeleição de Lula. Para ela, desgaste público da proposta do ministro do Planejamento poderia ter sido evitado com melhor comunicação.",
+      "source": "BBC News Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Dólar abre o dia em alta com votação do ajuste fiscal na Câmara",
+      "link": "https://www.poder360.com.br/poder-economia/dolar-abre-o-dia-em-alta-com-votacao-do-ajuste-fiscal-na-camara/",
+      "date": "2026-11-23T12:46:32.000Z",
+      "summary": "Às 9h31, a moeda norte-americana subia 0,75%, aos R$ 5,979; Casa Baixa analisa nesta 2ª feira o texto",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Dólar supera R$ 6 com votação de pacote fiscal e aversão global ao risco",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/dolar-abre-em-alta-e-supera-r-598-com-votacao-de-pacote-fiscal-e-aversao-global-ao-risco.shtml",
+      "date": "2026-11-23T12:44:00.000Z",
+      "summary": "O dólar voltou a superar R$ 6 após quase dois anos, impulsionado pelas preocupações com a política fiscal do governo Lula e pela maior aversão global ao risco, que aumenta a procura por ativos considerados mais seguros, como a moeda americana. Leia mais (11/23",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Mercado eleva projeção para inflação e dólar e prevê PIB menor em 2026",
+      "link": "https://www.estadao.com.br/economia/focus-mercado-eleva-projecao-inflacao-dolar-preve-pib-menor-2026/",
+      "date": "2026-11-23T12:35:50.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Pacote de ajuste fiscal do governo é um ‘band-aid’ para um problema grave",
+      "link": "https://www.estadao.com.br/economia/duquesa-de-tax/pacote-ajuste-fiscal-governo-band-aid-problema-grave/",
+      "date": "2026-11-23T12:30:05.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "A investigação que detectou o ‘trabalho nas comunidades’ feito pelo PCC para eleger políticos em SP",
+      "link": "https://www.estadao.com.br/politica/marcelo-godoy/a-investigacao-que-detectou-o-trabalho-nas-comunidades-feito-pelo-pcc-para-eleger-politicos-em-sp/",
+      "date": "2026-11-23T12:30:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "PT repudia ações do 'exército' de Janones no governo",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/dora-kramer/2026/11/pt-repudia-acoes-do-exercito-de-janones-no-governo.shtml",
+      "date": "2026-11-23T12:29:00.000Z",
+      "summary": "O país está no aguardo das definições do presidente Luiz Inácio da Silva (PT) sobre a composição do governo em seu quarto mandato. Ele já avisou que é senhor do seu tempo: \"Nomeio quem eu quiser, quando eu quiser\", disse em reação às especulações a respeito da",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Audiência debate violência sexual facilitada por tecnologia e material de abuso infantil gerado por IA",
+      "link": "https://www.camara.leg.br/noticias/1321180-audiencia-debate-violencia-sexual-facilitada-por-tecnologia-e-material-de-abuso-infantil-gerado-por-ia",
+      "date": "2026-11-23T12:18:00.000Z",
+      "summary": "",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Trump pede que Nvidia recontrate Jensen Huang em meio a novas revelações sobre suposta espionagem chinesa",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/23/trump-nvidia-jensen-huang-espionagem-china.ghtml",
+      "date": "2026-11-23T12:14:26.000Z",
+      "summary": "Jensen Huang, CEO da Nvidia, ao lado de Donald Trump, presidente dos Estados Unidos, em foto de 8 de outubro de 2026 Reuters/Evan Vucci O presidente dos Estados Unidos, Donald Trump, pediu que o conselho de administração da Nvidia recontrate Jensen Huang, ex-p",
+      "source": "g1",
       "cat": "economia",
       "type": "imprensa"
     },
@@ -160,10 +344,10 @@
       "type": "imprensa"
     },
     {
-      "title": "Dólar abre em alta e vai a R$ 5,98, atento à votação do pacote fiscal na Câmara",
+      "title": "Dólar chega a R$ 6 pela primeira vez desde abril de 2025; Ibovespa abre em queda",
       "link": "https://g1.globo.com/economia/noticia/2026/11/23/dolar-ibovespa.ghtml",
       "date": "2026-11-23T12:00:20.000Z",
-      "summary": "Entenda o que faz o preço do dólar subir ou cair % O dólar abriu a sessão desta segunda-feira (23) em alta, com avanço de 0,79% perto das 9h, cotado a R$ 5,9810. Já as negociações do Ibovespa, principal índice da bolsa brasileira, começam às 10h. O principal d",
+      "summary": "Dólar abre em alta e se aproxima de R$ 6 O dólar chegou a R$ 6 por volta das 10h desta segunda-feira (23), patamar que não atingia desde 9 de abril de 2025, quando alcançou R$ 6,0966 durante o pregão. Após atingir a marca, a moeda americana recuou e, às 10h17,",
       "source": "g1",
       "cat": "economia",
       "type": "imprensa"
@@ -187,33 +371,6 @@
       "type": "oficial"
     },
     {
-      "title": "Partido italiano propõe taxa de 5% sobre ingressos para bancar segurança",
-      "link": "https://www.poder360.com.br/poder-sportsmkt/partido-italiano-propoe-taxa-de-5-sobre-ingressos-para-bancar-seguranca/",
-      "date": "2026-11-23T11:43:47.000Z",
-      "summary": "Emenda ao Orçamento de 2027 estabelece que clubes profissionais financiem horas extras e adicionais de policiais",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Mercado eleva projeção de inflação para 5,15% em 2026",
-      "link": "https://www.poder360.com.br/poder-economia/mercado-eleva-projecao-de-inflacao-para-515-em-2026/",
-      "date": "2026-11-23T11:40:32.000Z",
-      "summary": "Boletim Focus aumenta estimativa do dólar; projeção para a Selic se mantém inalterada e a do PIB recua",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Montadoras alemãs enfrentam descontentamento e iminente confronto com sindicatos",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/montadoras-alemas-enfrentam-descontentamento-e-iminente-confronto-com-sindicatos.shtml",
-      "date": "2026-11-23T11:38:00.000Z",
-      "summary": "As montadoras alemãs enfrentam meses de negociações trabalhistas conturbadas e greves sobre cortes de pessoal e possíveis fechamentos de fábricas, à medida que o modelo que sustentava a força de trabalho altamente remunerada do setor automotivo do país entra e",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Ministros precisam ser investigados financeiramente. Fachin vira obstáculo",
       "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/ministros-precisam-ser-investigados-financeiramente-fachin-vira-obstaculo/",
       "date": "2026-11-23T11:37:31.000Z",
@@ -232,15 +389,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Câmara começa a votar plano Moretti em sessão extraordinária nesta segunda",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/camara-comeca-a-votar-plano-moretti-em-sessao-extraordinaria-nesta-segunda.shtml",
-      "date": "2026-11-23T11:31:00.000Z",
-      "summary": "A Câmara dos Deputados vota nesta segunda-feira (23) o chamado plano Moretti, o projeto de ajuste apresentado pelo governo de Luiz Inácio Lula da Silva (PT) para melhorar a situação das contas públicas. O texto prevê medidas para elevar a arrecadação e permiti",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Projeto estabelece privacidade em atendimentos que envolvam dados sensíveis",
       "link": "https://www.camara.leg.br/noticias/1321226-projeto-estabelece-privacidade-em-atendimentos-que-envolvam-dados-sensiveis",
       "date": "2026-11-23T11:29:00.000Z",
@@ -250,38 +398,11 @@
       "type": "oficial"
     },
     {
-      "title": "Futuros dos EUA sobem no pré-mercado, buscando recuperação após tombo da semana passada",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/futuros-dos-eua-sobem-no-pre-mercado-buscando-recuperar-tombo-da-semana-passada.shtml",
-      "date": "2026-11-23T11:21:00.000Z",
-      "summary": "Os contratos futuros das Bolsas dos Estados Unidos apontam para uma recuperação na manhã desta segunda-feira (23) após enfrentar uma forte queda na última sexta-feira (20). Na Ásia, as Bolsas da China tiveram altas moderadas e o mercado da Coreia do Sul voltou",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Lula exonera ministro para votação do projeto de ajuste na Câmara; medida é temporária",
       "link": "https://g1.globo.com/politica/noticia/2026/11/23/lula-exonera-ministro-da-articulacao-para-votacao-do-projeto-de-ajuste-na-camara-medida-e-temporaria.ghtml",
       "date": "2026-11-23T11:12:40.000Z",
       "summary": "O presidente Luiz Inácio Lula da Silva (PT) exonerou temporariamente o ministro da Secretaria de Relações Institucionais (SRI), José Guimarães, responsável pela articulação política do governo com o Congresso. Assinada na quinta-feira (19), a exoneração foi pu",
       "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Caos digital alimenta teorias de ataque cibernético nos Estados Unidos",
-      "link": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/11/23/caos-digital-alimenta-teorias-de-ataque-cibernetico-nos-estados-unidos.ghtml",
-      "date": "2026-11-23T11:07:06.000Z",
-      "summary": "Cancelamento de voos, instabilidade em serviços e invasões hackers aumentam preocupações. Problema, no entanto, reflete cortes orçamentários da gestão Trump. Kevin Horvart/Unplash No último dia 12 de novembro, trabalhadores em todo o mundo tiveram uma surpresa",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Marcelo Teixeira oficializa candidatura à reeleição no Santos",
-      "link": "https://www.poder360.com.br/poder-sportsmkt/marcelo-teixeira-oficializa-candidatura-a-reeleicao-no-santos/",
-      "date": "2026-11-23T10:58:11.000Z",
-      "summary": "Fernando Bonavides segue como vice em chapa com 180 integrantes; votação será em 12 de dezembro",
-      "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -304,15 +425,6 @@
       "type": "imprensa"
     },
     {
-      "title": "São os juros da dívida, não o BPC, mercadistas",
-      "link": "https://www.estadao.com.br/economia/claudio-considera/sao-os-juros-da-divida-nao-o-bpc-mercadistas/",
-      "date": "2026-11-23T09:11:40.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Relator do plano Moretti vai sugerir novas medidas fiscais ao governo após votação na Câmara",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/relator-do-plano-moretti-vai-sugerir-novas-medidas-fiscais-ao-governo-apos-votacao-na-camara.shtml",
       "date": "2026-11-23T09:00:00.000Z",
@@ -322,48 +434,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Plano de Moretti é só 'primeiro passo', e governo Lula deve fazer outros ajustes fiscais no futuro, afirma Laura Carvalho",
-      "link": "https://www.bbc.com/portuguese/articles/cm1dvg9n5w2xo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-23T08:55:34.000Z",
-      "summary": "Professora da USP esteve na primeira reunião econômica pós-reeleição de Lula. Para ela, desgaste público da proposta do ministro do Planejamento poderia ter sido evitado com melhor comunicação.",
-      "source": "BBC News Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
       "title": "Com base menor, Lula chega a 2027 pressionado a recorrer a decretos diante de Congresso fortalecido",
       "link": "https://www.estadao.com.br/politica/com-base-menor-lula-chega-a-2027-pressionado-a-recorrer-a-decretos-diante-de-congresso-fortalecido/",
       "date": "2026-11-23T08:30:00.000Z",
       "summary": "",
       "source": "Estadão",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "O ‘alívio’ de Rui Costa com a perspectiva de assumir um ministério",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/o-alivio-de-rui-costa-com-a-perspectiva-de-assumir-um-ministerio/",
-      "date": "2026-11-23T08:30:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Como as pequenas e médias empresas estão se adaptando ao fim da escala 6x1?",
-      "link": "https://www.estadao.com.br/economia/como-as-pequenas-e-medias-empresas-estao-se-adaptando-ao-fim-da-escala-6x1/",
-      "date": "2026-11-23T08:30:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Capim na lavoura vira aposta de expansão da Soesp",
-      "link": "https://www.estadao.com.br/economia/coluna-do-broadcast-agro/capim-na-lavoura-vira-aposta-de-expansao-da-soesp/",
-      "date": "2026-11-23T08:30:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -394,38 +470,11 @@
       "type": "imprensa"
     },
     {
-      "title": "A idiotia portuguesa sobre o Brasil",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/mafalda-anjos/2026/11/a-idiotia-portuguesa-sobre-o-brasil.shtml",
-      "date": "2026-11-23T02:00:00.000Z",
-      "summary": "Desde que sou colunista da Folha, muitos portugueses me procuram para falar do Brasil e dos brasileiros. Uma das coisas que me diverte tanto como impressiona é tentar perceber onde acaba o conhecimento empírico e começa a montanha de preconceitos instalados na",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Rosinha anuncia fim de casamento com Anthony Garotinho",
-      "link": "https://www.estadao.com.br/politica/rosinha-anuncia-fim-de-casamento-com-anthony-garotinho/",
-      "date": "2026-11-23T01:02:50.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "O que os homens mais ricos da Rússia esperam para o futuro sem Putin",
       "link": "https://www.bbc.com/portuguese/articles/cmkgdx1w0dero?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-22T23:32:59.000Z",
       "summary": "Silenciados pelo temor de represálias do Kremlin, integrantes da elite empresarial começam a imaginar como será o país quando o atual presidente deixar o poder.",
       "source": "BBC News Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Explosão em navio russo na Líbia levanta suspeita de ataque de drone",
-      "link": "https://www.dw.com/pt-br/explosão-em-navio-russo-na-líbia-levanta-suspeita-de-ataque-de-drone/a-80014687?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-22T22:34:00.000Z",
-      "summary": "Explosão deixou feridos em embarcação ancorada em Benghazi. Caso reforça temores de expansão do conflito entre Moscou e Kiev para além dos principais campos de batalha",
-      "source": "DW Brasil",
       "cat": "internacional",
       "type": "imprensa"
     },
@@ -457,30 +506,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Petrobras divulga plano de negócios sob expectativa de investimentos maiores e pressão no caixa",
-      "link": "https://www.estadao.com.br/economia/negocios/petrobras-divulga-plano-de-negocios-expectativa-investimentos/",
-      "date": "2026-11-22T20:08:06.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Como dois refrigeradores abandonados pelo exército dos EUA na Toscana deram origem ao sorvete italiano",
       "link": "https://www.bbc.com/portuguese/articles/cqr7g87en4pno?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-22T19:34:31.000Z",
       "summary": "O sorvete é sinônimo da Itália, mas suas origens modernas remontam a uma humilde leiteria na Toscana e a um par de refrigeradores abandonados após a Segunda Guerra Mundial.",
       "source": "BBC News Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Bolsonaro está clinicamente estável e segue em UTI, diz boletim médico",
-      "link": "https://g1.globo.com/politica/politico/noticia/2026/11/22/bolsonaro-esta-estavel-diz-hospital.ghtml",
-      "date": "2026-11-22T16:54:30.000Z",
-      "summary": "Ex-presidente Jair Bolsonaro Pablo Porciuncula/AFP O ex-presidente Jair Bolsonaro está clinicamente estável, informou o Hospital DF Star na tarde deste domingo (22). Bolsonaro está internado na unidade de terapia intensiva (UTI) com diagnóstico de abdômen agud",
-      "source": "g1",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -565,60 +596,6 @@
       "type": "oficial"
     },
     {
-      "title": "Autodeclaração racial revela preconceitos e combate desigualdades",
-      "link": "https://www12.senado.leg.br/noticias/infomaterias/2026/11/autodeclaracao-racial-revela-preconceitos-e-combate-desigualdades",
-      "date": "2026-11-19T23:34:19.000Z",
-      "summary": "",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Comissão aprova proposta de política para pessoas com altas habilidades",
-      "link": "https://www.camara.leg.br/noticias/1321312-comissao-aprova-proposta-de-politica-para-pessoas-com-altas-habilidades",
-      "date": "2026-11-19T22:40:00.000Z",
-      "summary": "Projeto segue em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Comissão aprova proposta que proíbe inclusão do nome de novo cônjuge em anotação de divórcio na certidão de casamento anterior",
-      "link": "https://www.camara.leg.br/noticias/1321382-comissao-aprova-proposta-que-proibe-inclusao-do-nome-de-novo-conjuge-em-anotacao-de-divorcio-na-certidao-de-casamento-anterior",
-      "date": "2026-11-19T22:22:00.000Z",
-      "summary": "Proposta segue em análise na Câmara",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Desenvolvimento regional, cultura e cidadania contam com novos recursos",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/19/desenvolvimento-regional-cultura-e-cidadania-contam-com-novos-recursos",
-      "date": "2026-11-19T21:35:11.000Z",
-      "summary": "Duas leis sancionadas pelo presidente Luiz Inácio Lula da Silva asseguram recursos complementares do Orçamento para ações de desenvolvimento regional, cultura e cidadania. As Leis 15.543 e 15.537 foram publicadas no Diário Oficial da União (DOU) nesta quinta-f",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Câmara dos Deputados reconhece boas iniciativas na educação brasileira com Prêmio Darcy Ribeiro",
-      "link": "https://www.camara.leg.br/noticias/1321375-camara-dos-deputados-reconhece-boas-iniciativas-na-educacao-brasileira-com-premio-darcy-ribeiro",
-      "date": "2026-11-19T21:26:00.000Z",
-      "summary": "Instituto Ayrton Senna, Instituto Alana e Escola Nacional Florestan Fernandes foram agraciados neste ano",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Damares defende protocolo nacional para desaparecimento de crianças",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/19/damares-defende-protocolo-nacional-para-desaparecimento-de-criancas",
-      "date": "2026-11-19T21:14:51.000Z",
-      "summary": "A presidente da Comissão de Direitos Humanos (CDH), senadora Damares Alves (Republicanos-DF), defendeu nesta quinta-feira (19) a adoção de um protocolo unificado nacional em caso de desaparecimento de crianças. Ela está no Rio de Janeiro (RJ) para acompanhar a",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
       "title": "BC aperfeiçoa norma sobre a participação em operações no mercado aberto",
       "link": "https://www.bcb.gov.br/detalhenoticia/21326/nota",
       "date": "2026-11-19T21:14:32.000Z",
@@ -680,6 +657,15 @@
       "source": "Banco Central",
       "cat": "economia",
       "type": "oficial"
+    },
+    {
+      "title": "Horas antes de pregão, licitação para ampliar reconhecimento facial chinês em SP é suspensa",
+      "link": "https://www.estadao.com.br/politica/horas-antes-de-pregao-licitacao-para-ampliar-reconhecimento-facial-chines-em-sp-e-suspensa/",
+      "date": "2026-11-13T14:25:17.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
     }
   ],
   "errors": [
