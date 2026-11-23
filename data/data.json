@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-23T14:58:23.269Z",
+  "updated": "2026-11-23T16:06:05.056Z",
   "market": {
     "ibov": {
-      "price": 165042.27,
-      "pct": -0.8,
-      "time": "2026-11-23T14:58:16.700Z",
+      "price": 165194.97,
+      "pct": -0.71,
+      "time": "2026-11-23T16:05:56.923Z",
       "history": [
         {
           "d": "2026-10-26",
@@ -80,7 +80,7 @@
         },
         {
           "d": "2026-11-23",
-          "c": 165138.4531
+          "c": 165194.9688
         }
       ]
     },
@@ -137,6 +137,195 @@
   },
   "news": [
     {
+      "title": "Alcolumbre vincula emendas à relação com Lula em busca de votos no Senado, dizem aliados",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/alcolumbre-vincula-emendas-a-relacao-com-lula-em-busca-de-votos-no-senado-dizem-aliados.shtml",
+      "date": "2026-11-23T16:00:00.000Z",
+      "summary": "O presidente do Senado, Davi Alcolumbre (União Brasil-AP), tem dito que facilitará a liberação de emendas de comissão se reeleito para o cargo, relatam aliados. Esse tipo de transferência não tem liberação obrigatória, ou seja, depende da boa vontade do govern",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Minha Casa, Minha Vida bate recorde e concentra quase 60% dos imóveis lançados no país",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/minha-casa-minha-vida-bate-recorde-e-concentra-quase-60-dos-imoveis-lancados-no-pais.shtml",
+      "date": "2026-11-23T15:59:00.000Z",
+      "summary": "O Minha Casa, Minha Vida respondeu por 58,6% dos lançamentos de imóveis residenciais no Brasil no terceiro trimestre de 2026, a maior participação já registrada pelo programa. Entre julho e setembro, foram colocadas no mercado 70,1 mil unidades, alta de 28,2% ",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Comissão aprova projeto que proíbe destruir produtos não perecíveis que não foram vendidos ou devolvidos",
+      "link": "https://www.camara.leg.br/noticias/1321739-comissao-aprova-projeto-que-proibe-destruir-produtos-nao-pereciveis-que-nao-foram-vendidos-ou-devolvidos",
+      "date": "2026-11-23T15:58:00.000Z",
+      "summary": "A proposta segue em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Projeto cria regras para ONGs que recebem recursos do exterior e limita tranferência de ativos estratégicos",
+      "link": "https://www.camara.leg.br/noticias/1321740-projeto-cria-regras-para-ongs-que-recebem-recursos-do-exterior-e-limita-tranferencia-de-ativos-estrategicos",
+      "date": "2026-11-23T15:55:00.000Z",
+      "summary": "Para virar lei, proposta precisa ser aprovada por deputados e senadores",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Comissão aprova criação de parques sustentáveis urbanos em áreas privadas",
+      "link": "https://www.camara.leg.br/noticias/1321725-comissao-aprova-criacao-de-parques-sustentaveis-urbanos-em-areas-privadas",
+      "date": "2026-11-23T15:48:00.000Z",
+      "summary": "O projeto segue em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Crescimento da atividade empresarial nos EUA diminui ainda mais em novembro, mostra pesquisa",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/10/25/6568-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post468065",
+      "date": "2026-11-23T15:47:00.000Z",
+      "summary": "O crescimento da atividade empresarial nos Estados Unidos desacelerou ainda mais em novembro uma vez que os preços elevados frearam novos pedidos e as restrições de capacidade limitaram a produção, mostrou uma pesquisa divulgada nesta segunda-feira (23). Leia ",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Braskem fecha acordo com credores envolvendo capitalização de US$ 4,9 bilhões",
+      "link": "https://www.estadao.com.br/economia/negocios/braskem-fecha-acordo-credores-capitalizacao/",
+      "date": "2026-11-23T15:40:23.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Na Itália, Janja se reúne com diretor-geral da FAO",
+      "link": "https://www.poder360.com.br/poder-gente/na-italia-janja-se-reune-com-diretor-geral-da-fao/",
+      "date": "2026-11-23T15:39:27.000Z",
+      "summary": "Primeira-dama foi acompanhada pela ministra Fernanda Machiaveli durante encontro, nesta 2ª feira (23.nov), na Itália",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Brasil mantém projetos, mas COP31 não endossa propostas de Belém",
+      "link": "https://www.poder360.com.br/poder-governo/brasil-mantem-projetos-mas-cop31-nao-endossa-propostas-de-belem/",
+      "date": "2026-11-23T15:32:49.000Z",
+      "summary": "País preservou iniciativas lançadas sem conseguir incluir roteiros sobre combustíveis fósseis e desmatamento no acordo final da conferência",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Comissão aprova ampliação de prazo para regularização de imóveis em faixa de fronteira",
+      "link": "https://www.camara.leg.br/noticias/1321700-comissao-aprova-ampliacao-de-prazo-para-regularizacao-de-imoveis-em-faixa-de-fronteira",
+      "date": "2026-11-23T15:32:00.000Z",
+      "summary": "O projeto continua em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Desaparecimento do menino Edson Davi motiva ida da CDH ao Rio de Janeiro",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/23/desaparecimento-do-menino-edson-davi-motiva-ida-da-cdh-ao-rio-de-janeiro",
+      "date": "2026-11-23T15:29:45.000Z",
+      "summary": "A Comissão de Direitos Humanos (CDH) concluiu diligência externa ao Rio de Janeiro (RJ) nesta sexta-feira (20) com sinalização de propostas para acelerar investigação sobre crianças desaparecidas. A visita de dois dias acompanhou as investigações do sumiço do ",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Ações da Nvidia disparam 29% no pré-mercado com volta de Huang",
+      "link": "https://www.poder360.com.br/poder-tech/acoes-da-nvidia-disparam-29-no-pre-mercado-com-volta-de-huang/",
+      "date": "2026-11-23T15:22:30.000Z",
+      "summary": "Papéis chegam a US$ 162 com volta de Jensen Huang ao comando da empresa e impulsionam setor de tecnologia",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "‘Resultado muito positivo’, diz Michelle sobre exame de Bolsonaro",
+      "link": "https://www.estadao.com.br/politica/resultado-muito-positivo-diz-michelle-sobre-exame-de-bolsonaro-nprp/",
+      "date": "2026-11-23T15:21:07.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Ministério Público Eleitoral defende rejeição de recurso por 2° turno no Rio de Janeiro",
+      "link": "https://www.estadao.com.br/politica/mpe-defende-rejeicao-de-recurso-por-2-turno-no-rio-de-janeirov-nprp/",
+      "date": "2026-11-23T15:11:08.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Como os anéis da Oura foram parar em milhões de dedos",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/como-os-aneis-da-oura-foram-parar-em-milhoes-de-dedos.shtml",
+      "date": "2026-11-23T15:09:00.000Z",
+      "summary": "Quando a Oura surgiu, em 2013, os dispositivos vestíveis de monitoramento da saúde, como as pulseiras Fitbit, eram sobretudo domínio dos obcecados por boa forma. Seus fundadores finlandeses, porém, tinham duas convicções. A primeira era que um anel monitoraria",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Mitre volta a São Caetano após dez anos e vende 40% de empreendimento em uma semana",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/mitre-volta-a-sao-caetano-apos-dez-anos-e-vende-40-de-empreendimento-em-uma-semana.shtml",
+      "date": "2026-11-23T15:09:00.000Z",
+      "summary": "Após dez anos sem lançar em São Caetano do Sul (SP), a Mitre Realty está retornando à cidade com o projeto residencial de alto padrão Casa Parque Cerâmica, que, em uma semana, vendeu 40% de 202 unidades, o equivalente a R$ 200 milhões de um total de potencial ",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Que dia é a Black Friday 2026? Veja a data oficial e dicas para aproveitar promoções",
+      "link": "https://g1.globo.com/guia/guia-de-compras/presentes/que-dia-e-a-black-friday-2026-veja-a-data-oficial-e-dicas-para-aproveitar-promocoes.ghtml",
+      "date": "2026-11-23T15:08:15.000Z",
+      "summary": "Black Friday: o que fazer para não cair em falsas promoções A edição de 2026 da Black Friday já tem data marcada no calendário do comércio brasileiro: o evento acontecerá nesta sexta-feira, dia 27 de novembro, mantendo a tradição da última sexta-feira do mês. ",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lula se reúne com cúpula do Congresso e ministros do STF para definir substituto de Barroso",
+      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/23/lula-se-reune-com-cupula-do-congresso-e-ministros-do-stf-para-definir-substituto-de-barroso.ghtml",
+      "date": "2026-11-23T15:07:33.000Z",
+      "summary": "Presidente da República, Luiz Inácio Lula da Silva, durante gravação de Live com o Presidente do Governo do Reino da Espanha, Pedro Sanchez Ricardo Stuckert/PR Presidente da República, Luiz Inácio Lula da Silva, durante gravação de Live com o Presidente do Gov",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Dosimetria: como projeto beneficia Bolsonaro e pode ser moeda de troca para Moraes; entenda",
+      "link": "https://www.estadao.com.br/politica/dosimetria-como-projeto-beneficia-bolsonaro-e-pode-ser-moeda-de-troca-para-moraes-entenda/",
+      "date": "2026-11-23T15:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Oposição promete manter caso Master vivo em 2027 e por ‘muitos anos’",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/oposicao-promete-manter-caso-master-vivo-em-2027-e-por-muitos-anos/",
+      "date": "2026-11-23T15:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Pedidos de demissão por conta própria perdem fôlego e confirmam arrefecimento do emprego formal",
+      "link": "https://www.estadao.com.br/economia/pedidos-demissao-conta-propria-perdem-folego-arrefecimento-emprego-formal/",
+      "date": "2026-11-23T15:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "9º Prêmio de Jornalismo em Seguros oferece até R$ 20 mil para reportagens",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/blogs/novo-em-folha/2026/11/9o-premio-de-jornalismo-em-seguros-oferece-ate-r-20-mil-para-reportagens.shtml",
       "date": "2026-11-23T14:54:00.000Z",
@@ -146,19 +335,10 @@
       "type": "imprensa"
     },
     {
-      "title": "Braskem fecha acordo com credores para capitalização de US$ 4,9 bilhões, dizem fontes",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/braskem-fecha-acordo-com-credores-para-capitalizacao-de-us-49-bilhoes-dizem-fontes.shtml",
-      "date": "2026-11-23T14:53:00.000Z",
-      "summary": "A Braskem fechou acordo com seus credores para reestruturar a dívida da petroquímica, com uma capitalização total de US$ 4,9 bilhões (R$ 29 bilhões, pela cotação atual), segundo fontes próximas às negociações. A Petrobras aportará US$ 1,3 bilhão desse total. L",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Fim da escala 6X1 deve beneficiar mais de 100 mil trabalhadores domésticos, estima instituto",
+      "title": "Fim da escala 6X1 deve impactar mais de 100 mil trabalhadores domésticos, estima instituto",
       "link": "https://g1.globo.com/economia/noticia/2026/11/23/fim-da-escala-6x1-deve-beneficiar-mais-de-100-mil-trabalhadores-domesticos-estima-instituto.ghtml",
       "date": "2026-11-23T14:44:35.000Z",
-      "summary": "O fim da escala 6 por 1, regulamentado pelo presidente Luiz Inácio Lula da Silva, vai impactar cerca de 102 mi trabalhadores domésticos no país, estimou nesta segunda-feira (23) o Instituto Doméstica Legal. O levantamento foi feito com base em uma amostra de 8",
+      "summary": "O fim da escala 6x1, regulamentado pelo presidente Luiz Inácio Lula da Silva (PT), vai gerar mudanças para cerca de 102 mil trabalhadores domésticos no país, estimou nesta segunda-feira (23) o Instituto Doméstica Legal. O levantamento feito por amostra conside",
       "source": "g1",
       "cat": "politica",
       "type": "imprensa"
@@ -200,15 +380,6 @@
       "type": "oficial"
     },
     {
-      "title": "A Torre de Babel na Era da IA",
-      "link": "https://www.estadao.com.br/economia/gestao-e-negocios/a-torre-de-babel-na-era-da-ia/",
-      "date": "2026-11-23T14:31:14.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Lei autoriza crédito de R$ 11,8 milhões para obras e equipamentos no Judiciário",
       "link": "https://www12.senado.leg.br/noticias/materias/2026/11/23/lei-autoriza-credito-de-r-11-8-milhoes-para-obras-e-equipamentos-no-judiciario",
       "date": "2026-11-23T14:27:47.000Z",
@@ -227,10 +398,10 @@
       "type": "imprensa"
     },
     {
-      "title": "Jensen Huang de volta à Nvidia: veja a cronologia da crise que envolve traição e suspeita de espionagem",
+      "title": "Jensen Huang volta à Nvidia: veja a cronologia da crise que envolve traição e espionagem",
       "link": "https://g1.globo.com/tecnologia/noticia/2026/11/23/jensen-huang-nvidia-cronologia-crise.ghtml",
       "date": "2026-11-23T14:20:45.000Z",
-      "summary": "Jensen Huang, CEO da Nvidia, durante evento em Washington Julia Demaree Nikhinson/AP Photo A Nvidia anunciou nesta segunda-feira (23) a volta de Jensen Huang como CEO da empresa. A decisão ocorre cerca de dez dias após a sua renúncia em um processo de crise na",
+      "summary": "Jensen Huang, CEO da Nvidia, durante evento em Washington Julia Demaree Nikhinson/AP Photo A Nvidia anunciou nesta segunda-feira (23) o retorno de Jensen Huang ao cargo de CEO da empresa. A decisão ocorre cerca de 10 dias após a renúncia do executivo, em meio ",
       "source": "g1",
       "cat": "economia",
       "type": "imprensa"
@@ -245,10 +416,10 @@
       "type": "imprensa"
     },
     {
-      "title": "Nvidia dispara 30% no pré-mercado após volta de Jensen Huang; Nasdaq sobe 6%",
+      "title": "Ações da Nvidia disparam 30% após volta de Jensen Huang; Nasdaq sobe 6%",
       "link": "https://g1.globo.com/economia/noticia/2026/11/23/nvidia-huang-volta-nasdaq.ghtml",
       "date": "2026-11-23T14:20:18.000Z",
-      "summary": "Ex-chefe da Nvidia diz que gostaria de voltar ao comando da empresa As ações da Nvidia avançaram 29,5% nas negociações do pré-mercado nesta segunda-feira (23), após a empresa anunciar o retorno de Jensen Huang ao cargo de presidente-executivo (CEO). O moviment",
+      "summary": "Ex-chefe da Nvidia diz que gostaria de voltar ao comando da empresa As ações da Nvidia dispararam mais de 30% na abertura do pregão em Nova York nesta segunda-feira (23), após a empresa anunciar o retorno de Jensen Huang ao cargo de presidente-executivo (CEO).",
       "source": "g1",
       "cat": "economia",
       "type": "imprensa"
@@ -263,47 +434,11 @@
       "type": "imprensa"
     },
     {
-      "title": "Trump celebra retorno de Jensen Huang ao comando da Nvidia e diz que não há risco de segurança nacional",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/23/trump-celebra-retorno-de-jensen-huang-ao-comando-da-nvidia-e-diz-que-nao-ha-risco-de-seguranca-nacional.ghtml",
-      "date": "2026-11-23T14:14:05.000Z",
-      "summary": "Jensen Huang, CEO da Nvidia, ao lado de Donald Trump, presidente dos Estados Unidos, em foto de 8 de outubro de 2026 Reuters/Evan Vucci O presidente dos Estados Unidos, Donald Trump, celebrou nesta segunda-feira (23) a decisão do conselho administrativo da Nvi",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Nvidia reconduz Jensen Huang ao cargo de CEO, e ações disparam",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/nvidia-reconduz-jensen-huang-ao-cargo-de-ceo.shtml",
-      "date": "2026-11-23T14:12:00.000Z",
-      "summary": "A Nvidia reconduziu Jensen Huang ao cargo de CEO, em uma reviravolta surpreendente. A decisão fez as ações da gigante de IA dispararem nesta segunda-feira (23) Leia mais (11/23/2026 - 11h12)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "É possível manter programas sociais e rever regras fiscais, diz Galípolo",
-      "link": "https://www.poder360.com.br/poder-economia/e-possivel-manter-programas-sociais-e-rever-regras-fiscais-diz-galipolo/",
-      "date": "2026-11-23T14:00:53.000Z",
-      "summary": "Presidente do BC afirmou também que a estabilidade de preços é o “principal mandato” da política monetária",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Depois do Super El Niño, seca e Nordeste ganham espaço nos grupos de mensagem",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/encaminhado-com-frequencia/2026/11/depois-do-super-el-nino-seca-e-nordeste-ganham-espaco-nos-grupos-de-mensagem.shtml",
       "date": "2026-11-23T14:00:00.000Z",
       "summary": "O El Niño, o aquecimento das águas do Pacífico que altera o regime de chuvas no Brasil, está entre os mais intensos já registrados, com pico previsto para dezembro e janeiro. Leia mais (11/23/2026 - 11h00)",
       "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Lei da Dosimetria: a liberdade não pode esperar e a Justiça, muito menos",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/lei-da-dosimetria-a-liberdade-nao-pode-esperar-e-a-justica-muito-menos/",
-      "date": "2026-11-23T14:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -317,24 +452,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Câmara analisa pacote de ajuste fiscal do governo nesta 2ª feira",
-      "link": "https://www.poder360.com.br/poder-congresso/camara-analisa-pacote-de-ajuste-fiscal-do-governo-nesta-2a-feira/",
-      "date": "2026-11-23T13:56:20.000Z",
-      "summary": "Proposta precisa ser aprovada sem mudanças pelos deputados para seguir à sanção presidencial",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Promotores no Espírito Santo ganham aval para escolher 561 assessores sem concurso público",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/promotores-no-espirito-santo-ganham-carta-branca-para-escolher-561-assessores-sem-concurso-publico/",
-      "date": "2026-11-23T13:54:36.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Lei abre crédito de R$ 290 milhões para a Eletronuclear investir em Angra 3",
       "link": "https://www12.senado.leg.br/noticias/materias/2026/11/23/lei-abre-credito-de-r-290-milhoes-para-a-eletronuclear-investir-em-angra-3",
       "date": "2026-11-23T13:54:25.000Z",
@@ -342,15 +459,6 @@
       "source": "Agência Senado",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Justiça libera R$ 2,8 bilhões em atrasados do INSS; veja quem recebe",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/justica-libera-r-28-bilhoes-em-atrasados-do-inss-veja-quem-recebe.shtml",
-      "date": "2026-11-23T13:52:00.000Z",
-      "summary": "O CJF (Conselho da Justiça Federal) liberou R$ 2,8 bilhões para pagar os atrasados a aposentados, pensionistas e demais beneficiários que derrotaram o INSS (Instituto Nacional do Seguro Social) na Justiça, em ações de revisão ou concessão de benefícios previde",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
     },
     {
       "title": "Projeto garante transporte gratuito para estudantes de cursos técnicos e de qualificação profissional",
@@ -362,24 +470,6 @@
       "type": "oficial"
     },
     {
-      "title": "Galípolo defende conciliar agenda social e regras fiscais para conter a dívida",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/galipolo-defende-conciliar-agenda-social-e-regras-fiscais-para-conter-a-divida.shtml",
-      "date": "2026-11-23T13:48:00.000Z",
-      "summary": "O presidente do BC (Banco Central), Gabriel Galípolo, defendeu nesta segunda-feira (23) a revisão de regras fiscais que, segundo ele, podem perpetuar o crescimento das despesas públicas, aumentar a pressão sobre a inflação e, consequentemente, exigir mais da p",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Alta do dólar impulsiona preços de grão e derivados",
-      "link": "https://www.poder360.com.br/poder-economia/alta-do-dolar-impulsiona-precos-de-grao-e-derivados/",
-      "date": "2026-11-23T13:25:13.000Z",
-      "summary": "Às 10h11, a moeda norte-americana subia 0,93%, a R$ 5,990",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Após série de apagões em Cuba, pedidos de refúgio de cubanos no Brasil chegam a 4,9 mil em setembro e somam 33,2 mil em 2026",
       "link": "https://g1.globo.com/politica/noticia/2026/11/23/refugio-cuba-2026-parcial.ghtml",
       "date": "2026-11-23T13:24:41.000Z",
@@ -389,29 +479,11 @@
       "type": "imprensa"
     },
     {
-      "title": "Comissão debate projeto que que regulamenta o recebimento de recursos estrangeiros por organizações da sociedade civil",
-      "link": "https://www.camara.leg.br/noticias/1321023-comissao-debate-projeto-que-que-regulamenta-o-recebimento-de-recursos-estrangeiros-por-organizacoes-da-sociedade-civil",
-      "date": "2026-11-23T13:23:00.000Z",
-      "summary": "",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
       "title": "Estatuto do Aprendiz está na pauta do Plenário nesta terça",
       "link": "https://www12.senado.leg.br/noticias/materias/2026/11/23/estatuto-do-aprendiz-esta-na-pauta-do-plenario-nesta-terca",
       "date": "2026-11-23T13:08:56.000Z",
       "summary": "O Plenário do Senado pode votar nesta terça-feira (24), a partir das 14h, o projeto que cria o Estatuto do Aprendiz. O PL 6.461/2019 define a aprendizagem profissional como um contrato de trabalho voltado à formação técnica e profissional metódica. O texto per",
       "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Comissão debate regras para a formulação de combustíveis no Brasil e atuação e agência reguladora",
-      "link": "https://www.camara.leg.br/noticias/1321683-comissao-debate-regras-para-a-formulacao-de-combustiveis-no-brasil-e-atuacao-e-agencia-reguladora",
-      "date": "2026-11-23T13:08:00.000Z",
-      "summary": "",
-      "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
     },
@@ -434,15 +506,6 @@
       "type": "imprensa"
     },
     {
-      "title": "A investigação que detectou o ‘trabalho nas comunidades’ feito pelo PCC para eleger políticos em SP",
-      "link": "https://www.estadao.com.br/politica/marcelo-godoy/a-investigacao-que-detectou-o-trabalho-nas-comunidades-feito-pelo-pcc-para-eleger-politicos-em-sp/",
-      "date": "2026-11-23T12:30:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "PT repudia ações do 'exército' de Janones no governo",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/dora-kramer/2026/11/pt-repudia-acoes-do-exercito-de-janones-no-governo.shtml",
       "date": "2026-11-23T12:29:00.000Z",
@@ -452,48 +515,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Audiência debate violência sexual facilitada por tecnologia e material de abuso infantil gerado por IA",
-      "link": "https://www.camara.leg.br/noticias/1321180-audiencia-debate-violencia-sexual-facilitada-por-tecnologia-e-material-de-abuso-infantil-gerado-por-ia",
-      "date": "2026-11-23T12:18:00.000Z",
-      "summary": "",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Mesmo com ajuste, dólar deve seguir em alta enquanto Lula não indicar nome 'forte' para a Fazenda e novas medidas fiscais",
-      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/23/mesmo-com-ajuste-dolar-deve-seguir-em-alta-enquanto-lula-nao-indicar-nome-forte-para-a-fazenda-e-novas-medidas-fiscais.ghtml",
-      "date": "2026-11-23T12:00:28.000Z",
-      "summary": "O presidente Lula já foi alertado por sua equipe que, mesmo com a possibilidade de aprovação final do ajuste fiscal na Câmara dos Deputados nesta segunda, o dólar pode seguir pressionado. Esse quadro deve se manter até que o petista defina um nome \"forte\" para",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Comissão debate alíquota-base da Contribuição sobre Bens e Serviços",
-      "link": "https://www.camara.leg.br/noticias/1320994-comissao-debate-aliquota-base-da-contribuicao-sobre-bens-e-servicos",
-      "date": "2026-11-23T11:55:00.000Z",
-      "summary": "Alíquota foi fixada em 11,3%",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
       "title": "Há 200 anos, Brasil se comprometia a acabar com o 'tráfico negreiro' — só 'para inglês ver'",
       "link": "https://www.bbc.com/portuguese/articles/c6gre2771yr8o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-23T10:54:26.000Z",
       "summary": "Há 200 anos, em 23 de novembro de 1826, os governos britânico e brasileiro assinaram um acordo que estipulava o fim do tráfico transatlântico de africanos escravizados para o Brasil; mas, na prática, nada mudou.",
       "source": "BBC News Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Relator do plano Moretti vai sugerir novas medidas fiscais ao governo após votação na Câmara",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/relator-do-plano-moretti-vai-sugerir-novas-medidas-fiscais-ao-governo-apos-votacao-na-camara.shtml",
-      "date": "2026-11-23T09:00:00.000Z",
-      "summary": "O relator do plano Moretti na Câmara, deputado Mauro Benevides Filho (União-CE), disse que vai apresentar outras propostas econômicas ao governo Lula na próxima semana após a aprovação do ajuste fiscal na Casa. Leia mais (11/23/2026 - 06h00)",
-      "source": "Folha",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -596,15 +623,6 @@
       "type": "oficial"
     },
     {
-      "title": "Band realiza a 1ª edição do ‘Prêmio Inspira SP’ para celebrar destaques de 2026; veja como será",
-      "link": "https://www.estadao.com.br/economia/negocios/band-realiza-a-1-edicao-do-premio-inspira-sp-para-celebrar-destaques-de-2026-veja-como-sera/",
-      "date": "2026-11-19T22:45:28.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "BC aperfeiçoa norma sobre a participação em operações no mercado aberto",
       "link": "https://www.bcb.gov.br/detalhenoticia/21326/nota",
       "date": "2026-11-19T21:14:32.000Z",
@@ -666,15 +684,6 @@
       "source": "Banco Central",
       "cat": "economia",
       "type": "oficial"
-    },
-    {
-      "title": "Horas antes de pregão, licitação para ampliar reconhecimento facial chinês em SP é suspensa",
-      "link": "https://www.estadao.com.br/politica/horas-antes-de-pregao-licitacao-para-ampliar-reconhecimento-facial-chines-em-sp-e-suspensa/",
-      "date": "2026-11-13T14:25:17.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
     }
   ],
   "errors": [
