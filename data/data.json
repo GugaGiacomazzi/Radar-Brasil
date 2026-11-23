@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-23T21:48:34.073Z",
+  "updated": "2026-11-23T22:49:17.854Z",
   "market": {
     "ibov": {
       "price": 164796.05,
       "pct": -0.95,
-      "time": "2026-11-23T21:48:28.074Z",
+      "time": "2026-11-23T22:49:12.300Z",
       "history": [
         {
           "d": "2026-10-26",
@@ -137,11 +137,155 @@
   },
   "news": [
     {
-      "title": "Câmara deve votar nesta segunda-feira (23) projeto de ajuste fiscal do governo",
-      "link": "https://g1.globo.com/politica/ao-vivo/ajuste-fiscal-camara-deputados.ghtml",
-      "date": "2026-11-23T21:35:27.000Z",
-      "summary": "Câmara deve votar nesta segunda-feira (23) projeto de ajuste fiscal do governo Proposta foi aprovada no Senado na semana passada; texto projeta uma economia de R$ 50 bilhões nas contas do governo federal em 2027. O relator da proposta na Câmara, deputado Mauro",
+      "title": "Petrobras volta ao mercado de etanol com compra de 42% de produtora por R$ 2,8 bilhões",
+      "link": "https://g1.globo.com/economia/negocios/noticia/2026/11/23/petrobras-etanol.ghtml",
+      "date": "2026-11-23T22:40:42.000Z",
+      "summary": "Refinaria Alberto Pasqualini da Petrobras em Canoas Diego Vara/Reuters A Petrobras anunciou nesta segunda-feira (23) que voltará ao setor de produção de etanol após fechar um acordo para comprar 42% da Neomille, empresa de etanol de milho do Grupo CerradinhoBi",
       "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Petrobras prevê investir US$ 122 bilhões até 2031, alta de 11,9% em relação ao plano anterior",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/23/petrobras-investimento-2027-a-2031.ghtml",
+      "date": "2026-11-23T22:38:01.000Z",
+      "summary": "Petrobras Foto Divulgação A Petrobras aprovou nesta segunda-feira (23) um plano de negócios que prevê investimentos de US$ 122 bilhões (cerca de R$ 723 bilhões) entre 2027 e 2031. A maior parte dos recursos será destinada à exploração e produção de petróleo e ",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Petrobras volta a produzir etanol com compra de 42% de produtora por R$ 2,8 bi",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/petrobras-volta-a-produzir-etanol-com-compra-de-42-de-produtora-por-r-28-bi.shtml",
+      "date": "2026-11-23T22:38:00.000Z",
+      "summary": "A Petrobras anunciou nesta segunda-feira (23) a compra de 42% da Neomille, produtora de etanol de milho controlada pela CerradinhoBio, por R$ 2,8 bilhões. A operação marca a volta da estatal à produção de etanol, setor que deixou ao vender ativos nos governos ",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Câmara discute projeto de ajuste fiscal do governo; ASSISTA",
+      "link": "https://g1.globo.com/politica/ao-vivo/ajuste-fiscal-camara-deputados.ghtml",
+      "date": "2026-11-23T22:30:43.000Z",
+      "summary": "Câmara discute projeto de ajuste fiscal do governo; ASSISTA Proposta foi aprovada no Senado na semana passada; texto projeta uma economia de R$ 50 bilhões nas contas do governo federal em 2027. O relator da proposta na Câmara, deputado Mauro Benevides (União B",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Flash aposta em gestão de combustível e avança em despesas corporativas",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/flash-aposta-em-gestao-de-combustivel-e-avanca-em-despesas-corporativas.shtml",
+      "date": "2026-11-23T22:30:00.000Z",
+      "summary": "A Flash, empresa de benefícios corporativos, está lançando uma solução de gestão de combustível integrada à sua plataforma de despesas corporativas. Com a novidade, a empresa busca se posicionar cada vez mais em um setor que acaba de passar por mudanças após d",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Câmara analisa urgência da proposta de ajuste fiscal do governo; acompanhe",
+      "link": "https://www.camara.leg.br/noticias/1322069-camara-analisa-urgencia-da-proposta-de-ajuste-fiscal-do-governo-acompanhe",
+      "date": "2026-11-23T22:28:00.000Z",
+      "summary": "Pelo PLP 299/26, do Senado, a partir de 2027, o governo poderá conter mais gastos e limitar a 2% o crescimento real das despesas",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Câmara realiza Seminário de Ambientação para receber novos deputados eleitos",
+      "link": "https://www.camara.leg.br/noticias/1321870-camara-realiza-seminario-de-ambientacao-para-receber-novos-deputados-eleitos",
+      "date": "2026-11-23T22:23:00.000Z",
+      "summary": "Objetivo é dar suporte à atividade parlamentar e contribuir para uma atuação eficiente desde o início do mandato",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Bolsa cai 0,95% e fecha abaixo dos 165 mil pontos com temor fiscal",
+      "link": "https://www.poder360.com.br/poder-economia/bolsa-cai-095-e-fecha-abaixo-dos-165-mil-pontos-com-temor-fiscal/",
+      "date": "2026-11-23T22:20:09.000Z",
+      "summary": "Ibovespa recua pressionado pela Petrobras e incertezas sobre ajuste das contas públicas, apesar da forte alta das bolsas dos Estados Unidos",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Nvidia tem alta de 31,48% e ganha US$ 952 bi em valor de mercado",
+      "link": "https://www.poder360.com.br/poder-economia/nvidia-tem-alta-de-3148-e-ganha-us-952-bi-em-valor-de-mercado/",
+      "date": "2026-11-23T22:17:39.000Z",
+      "summary": "Ações da empresa registraram maior ganho diário em dólares da história nesta 2ª feira (23.nov), dia do retorno de Jensen Huang ao cargo de CEO",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Câmara começa sessão para votar plano Moretti, com medidas para conter gastos e elevar receitas",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/camara-comeca-sessao-para-votar-plano-moretti-com-medidas-para-conter-gastos-e-elevar-receitas.shtml",
+      "date": "2026-11-23T22:16:00.000Z",
+      "summary": "A Câmara dos Deputados começou nesta segunda-feira (23) a sessão que vai a analisar o chamado plano Moretti, projeto de ajuste apresentado pelo governo de Luiz Inácio Lula da Silva (PT) para melhorar a situação das contas públicas. O texto prevê medidas para e",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "É possível educar as elites?",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/michael-franca/2026/11/e-possivel-educar-as-elites.shtml",
+      "date": "2026-11-23T22:15:00.000Z",
+      "summary": "Uma educação digna desse nome deveria ensinar aos mais abastados uma distinção elementar: ter mais do que os outros não significa valer mais do que eles. Deveria também ajudá-los a reconhecer que boa parte de suas conquistas depende de condições anteriores ao ",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Comissão aprova mudança em regra sobre operações de comércio exterior",
+      "link": "https://www.camara.leg.br/noticias/1322044-comissao-aprova-mudanca-em-regra-sobre-operacoes-de-comercio-exterior",
+      "date": "2026-11-23T22:14:00.000Z",
+      "summary": "Proposta segue em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Braskem fecha acordo de US$ 4,9 bi para evitar recuperação judicial",
+      "link": "https://www.poder360.com.br/poder-economia/braskem-fecha-acordo-de-us-49-bi-para-evitar-recuperacao-judicial/",
+      "date": "2026-11-23T22:08:17.000Z",
+      "summary": "Reestruturação deve reduzir dívida da empresa para cerca de US$ 7 bilhões",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "EUA incluem Megaspeed, empresa envolvida em escândalo da Nvidia, em lista de controle de exportações",
+      "link": "https://www.estadao.com.br/economia/eua-incluem-megaspeed-nvidia-lista-controle-exportacoes-npr/",
+      "date": "2026-11-23T22:06:55.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Comissão aprova apoio prioritário à inovação em regiões com baixo índice de desenvolvimento socioeconômico",
+      "link": "https://www.camara.leg.br/noticias/1322029-comissao-aprova-apoio-prioritario-a-inovacao-em-regioes-com-baixo-indice-de-desenvolvimento-socioeconomico",
+      "date": "2026-11-23T22:02:00.000Z",
+      "summary": "Texto prevê tratamento prioritário para ambientes de inovação; proposta ainda será analisada por duas comissões da Câmara antes de ir para o Senado",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Comissão aprova criação de \"banco de créditos\" para petroleiras que superarem metas de conteúdo local",
+      "link": "https://www.camara.leg.br/noticias/1321953-comissao-aprova-criacao-de-banco-de-creditos-para-petroleiras-que-superarem-metas-de-conteudo-local",
+      "date": "2026-11-23T21:51:00.000Z",
+      "summary": "Proposta segue em análise na Câmara",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Leia a íntegra da portaria que regulamenta fim da 6 X 1",
+      "link": "https://www.poder360.com.br/poder-integras/leia-a-integra-da-portaria-que-regulamenta-fim-da-6-x-1/",
+      "date": "2026-11-23T21:50:12.000Z",
+      "summary": "Regra estabelece diminuição da jornada de trabalho sem redução salarial; governo fiscalizará empresas nos primeiros 90 dias",
+      "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -164,40 +308,13 @@
       "type": "imprensa"
     },
     {
-      "title": "Governo fiscalizará empresas nos primeiros 90 dias do fim da 6 X 1",
-      "link": "https://www.poder360.com.br/poder-economia/governo-fiscalizara-empresas-nos-primeiros-90-dias-do-fim-da-6-x-1/",
-      "date": "2026-11-23T21:17:53.000Z",
-      "summary": "Ministério do Trabalho e Emprego publicou 1ª portaria detalhando regulamentação",
-      "source": "Poder360",
+      "title": "Comissão aprova apoio a famílias de estudantes superdotados",
+      "link": "https://www.camara.leg.br/noticias/1322042-comissao-aprova-apoio-a-familias-de-estudantes-superdotados",
+      "date": "2026-11-23T21:09:00.000Z",
+      "summary": "Texto prevê orientações digitais sobre características, potencialidades, recursos e serviços disponíveis; proposta segue em análise na Câmara",
+      "source": "Agência Câmara",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Psol entrega 18 propostas a Moretti e rejeita ajuste fiscal do governo",
-      "link": "https://www.poder360.com.br/poder-congresso/psol-entrega-18-propostas-a-moretti-e-rejeita-ajuste-fiscal-do-governo/",
-      "date": "2026-11-23T21:17:33.000Z",
-      "summary": "Partido descarta voto favorável e avalia obstrução ou posição contrária; bancada quer taxar altas rendas e preservar verba social",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Governador de Minas Gerais vai morar na China após deixar governo",
-      "link": "https://www.poder360.com.br/poder-brasil/governador-de-minas-gerais-vai-morar-na-china-apos-deixar-governo/",
-      "date": "2026-11-23T21:13:04.000Z",
-      "summary": "Mateus Simões (PSD), derrotado nas eleições de outubro, dará aulas em universidade de Pequim a partir de fevereiro",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Por que você pode perder dinheiro mesmo quando seu imóvel valoriza?",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/blogs/de-grao-em-grao/2026/11/por-que-voce-pode-perder-dinheiro-mesmo-quando-seu-imovel-valoriza.shtml",
-      "date": "2026-11-23T21:00:00.000Z",
-      "summary": "Comprar imóveis é uma das formas mais tradicionais de construir patrimônio no Brasil. Muitos investidores possuem a falsa sensação de que se trata de uma aplicação segura, que sempre valoriza e que já foi responsável pela criação de grandes fortunas. Leia mais",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
+      "type": "oficial"
     },
     {
       "title": "A receita para blindar Xandão",
@@ -212,26 +329,8 @@
       "title": "Governo descarta envio de nova proposta de emenda para ajuste fiscal em 2026",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/governo-descarta-envio-de-nova-proposta-de-emenda-para-ajuste-fiscal-em-2026.shtml",
       "date": "2026-11-23T20:50:00.000Z",
-      "summary": "Após o desgaste para garantir a aprovação do plano Moretti, o governo Lula não pretende enviar uma nova PEC (proposta de emenda conjstitucional) de ajuste fiscal ainda neste ano. Leia mais (11/23/2026 - 17h50)",
+      "summary": "Após o desgaste para garantir a aprovação do plano Moretti, o governo Lula não pretende enviar uma nova PEC (proposta de emenda constitucional) de ajuste fiscal ainda neste ano. Leia mais (11/23/2026 - 17h50)",
       "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Trump teria articulado retorno de Jensen Huang ao comando da Nvidia",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/trump-teria-articulado-retorno-de-jensen-huang-ao-comando-da-nvidia.shtml",
-      "date": "2026-11-23T20:50:00.000Z",
-      "summary": "Jensen Huang foi reconduzido ao cargo de presidente-executivo da Nvidia depois que o presidente Donald Trump iniciou uma série de articulações, ao longo de vários dias, para dar garantias ao conselho de administração da empresa de que Huang não era alvo de acu",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Alckmin anuncia concessão de prédios históricos para o turismo",
-      "link": "https://www.poder360.com.br/poder-governo/alckmin-anuncia-concessao-de-predios-historicos-para-o-turismo/",
-      "date": "2026-11-23T20:48:57.000Z",
-      "summary": "Vice-presidente divulgou vídeo no X sobre o Revive Brasil, com editais para fazenda em SP e forte em PE",
-      "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -254,13 +353,13 @@
       "type": "imprensa"
     },
     {
-      "title": "Comissão aprova proposta que equipara enteado a filho em plano de saúde e na Previdência Social",
-      "link": "https://www.camara.leg.br/noticias/1321955-comissao-aprova-proposta-que-equipara-enteado-a-filho-em-plano-de-saude-e-na-previdencia-social",
-      "date": "2026-11-23T20:41:00.000Z",
-      "summary": "Texto segue em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
+      "title": "Passageiros em voos internacionais no Brasil aumentam em outubro, mas mercado doméstico cai",
+      "link": "https://www.estadao.com.br/viagem/passageiros-em-voos-internacionais-no-brasil-aumentam-em-outubro-mas-mercado-domestico-cai/",
+      "date": "2026-11-23T20:40:42.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
     },
     {
       "title": "CCJ facilita dispensa de licitação para associações de pessoas com deficiência",
@@ -270,15 +369,6 @@
       "source": "Agência Senado",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Tarcísio critica plano Moretti e diz que ajuste fiscal do governo Lula não 'ataca a raiz do problema'",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/tarcisio-critica-plano-moretti-e-diz-que-ajuste-fiscal-do-governo-lula-nao-ataca-a-raiz-do-problema.shtml",
-      "date": "2026-11-23T20:34:00.000Z",
-      "summary": "O governador de São Paulo, Tarcísio de Freitas (Republicanos), afirmou que o Brasil enfrenta hoje dois grandes problemas: o desafio fiscal e a segurança pública. Ao comentar o projeto de ajuste fiscal em tramitação na Câmara, batizado de plano Moretti, o gover",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
     },
     {
       "title": "CVM suspende registro do BRB, envolvido no caso Master",
@@ -299,48 +389,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Economistas veem risco de estagflação e pedem ajuste fiscal além do plano Moretti",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/economistas-veem-risco-de-estagflacao-e-pedem-ajuste-fiscal-alem-do-plano-moretti.shtml",
-      "date": "2026-11-23T20:31:00.000Z",
-      "summary": "O governo do presidente Luiz Inácio Lula da Silva (PT) precisa entregar uma proposta de ajuste fiscal que vá além do plano Moretti, atualmente em discussão no Congresso, para evitar que o Brasil caminhe rapidamente para um processo de estagflação -um cenário d",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Batmóvel de 'Batman: O Retorno' vai a leilão por até R$ 37 milhões e pode bater recorde",
-      "link": "https://g1.globo.com/carros/noticia/2026/11/23/batmovel-de-batman-o-retorno-vai-a-leilao-por-ate-r-37-milhoes-e-pode-bater-recorde.ghtml",
-      "date": "2026-11-23T20:27:43.000Z",
-      "summary": "Batman – O Retorno Herói Bruce Wayne Ian Wood/Julien's O Batmóvel usado no filme Batman: O Retorno, de 1992, será leiloado nesta segunda-feira (23), em Gardena, nos arredores de Los Angeles, nos Estados Unidos. O veículo, uma das três versões personalizadas pr",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Comissão aprova proposta que retira da conta de luz subsídios de irrigação, aquicultura e cooperativas rurais",
-      "link": "https://www.camara.leg.br/noticias/1321949-comissao-aprova-proposta-que-retira-da-conta-de-luz-subsidios-de-irrigacao-aquicultura-e-cooperativas-rurais",
-      "date": "2026-11-23T20:22:00.000Z",
-      "summary": "Proposta segue em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
       "title": "Bolsonaro continuará internado na UTI por dores abdominais e pneumonia; médicos descartam cirurgia neste momento",
       "link": "https://g1.globo.com/politica/noticia/2026/11/23/bolsonaro-continuara-internado-na-uti-por-dores-abdominais-e-pneumonia-medicos-descartam-cirurgia-neste-momento.ghtml",
       "date": "2026-11-23T20:21:46.000Z",
       "summary": "O ex-presidente Jair Bolsonaro (PL) continuará internado na Unidade de Terapia Intensiva (UTI) do Hospital DF Star, em Brasília, após apresentar dores e distensão abdominal e ser diagnosticado com uma obstrução intestinal. Segundo declaração da equipe médica e",
       "source": "g1",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Dólar a R$ 6 preocupa governo, mas Fazenda não vê recessão em 2027, só desaceleração, diz secretária",
-      "link": "https://www.estadao.com.br/economia/dolar-a-r-6-preocupa-governo-mas-fazenda-nao-ve-recessao-em-2027-so-desaceleracao-diz-secretaria/",
-      "date": "2026-11-23T20:20:49.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -358,15 +412,6 @@
       "date": "2026-11-23T20:15:26.000Z",
       "summary": "O aplicativo Senado Digital teve suas funcionalidades ampliadas para apoiar a atividade parlamentar e facilitar o acesso da sociedade a informações sobre o Orçamento da União. Responsável pela tecnologia de processamento de dados no Senado, o Prodasen incluiu ",
       "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Comissão especial debate redução da maioridade penal para 16 anos",
-      "link": "https://www.camara.leg.br/noticias/1321742-comissao-especial-debate-reducao-da-maioridade-penal-para-16-anos",
-      "date": "2026-11-23T20:05:00.000Z",
-      "summary": "Audiência pública ocorre na terça-feira (24), às 14h30, no plenário 4, e reúne deputados com visões distintas",
-      "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
     },
@@ -398,17 +443,8 @@
       "type": "imprensa"
     },
     {
-      "title": "Comissão debate papel de mediador e professor de apoio na educação inclusiva; participe",
-      "link": "https://www.camara.leg.br/noticias/1321686-comissao-debate-papel-de-mediador-e-professor-de-apoio-na-educacao-inclusiva-participe",
-      "date": "2026-11-23T19:54:00.000Z",
-      "summary": "Audiência interativa ocorre nesta terça-feira (24), às 15h30, por iniciativa da deputada Soraya Santos (PL-RJ)",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Jair Bolsonaro tem pneunomia e segue internado na UTI, apesar de melhora clínica",
-      "link": "https://www.estadao.com.br/politica/bolsonaro-tem-pneunomia-e-segue-internado-na-uti/",
+      "title": "Jair Bolsonaro tem pneumonia e segue internado na UTI, apesar de melhora clínica",
+      "link": "https://www.estadao.com.br/politica/jair-bolsonaro-tem-pneumonia-e-segue-internado-na-uti-apesar-de-melhora-clinica/",
       "date": "2026-11-23T19:51:59.000Z",
       "summary": "",
       "source": "Estadão",
@@ -425,31 +461,13 @@
       "type": "imprensa"
     },
     {
-      "title": "Ações do BRB perderam quase 75% do valor em um ano; entenda",
-      "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/23/acoes-do-brb-perderam-quase-75percent-do-valor-em-um-ano-entenda.ghtml",
-      "date": "2026-11-23T19:06:05.000Z",
-      "summary": "Sede do Banco de Brasília (BRB) TV Globo Arrastado para o centro da crise do Banco Master e sem divulgar balanços operacionais há um ano, o Banco de Brasília (BRB) viu o valor de suas ações negociadas na B3 \"derreter\" ao longo desse período. As ações ordinária",
-      "source": "g1",
+      "title": "‘Nas próximas duas semanas, indicações, fiscal e alíquota da CBS estarão resolvidos’, diz Durigan",
+      "link": "https://www.estadao.com.br/economia/nas-proximas-duas-semanas-indicacoes-fiscal-e-aliquota-da-cbs-estarao-resolvidos-diz-durigan/",
+      "date": "2026-11-23T19:07:33.000Z",
+      "summary": "",
+      "source": "Estadão",
       "cat": "economia",
       "type": "imprensa"
-    },
-    {
-      "title": "Comissões debatem futuro do esporte na era da inteligência artificial",
-      "link": "https://www.camara.leg.br/noticias/1321757-comissoes-debatem-futuro-do-esporte-na-era-da-inteligencia-artificial",
-      "date": "2026-11-23T19:03:00.000Z",
-      "summary": "A realização do fórum atende a requerimentos dos deputados Saulo Pedroso (PSD-SP) e Julio Cesar Ribeiro (Republicanos-DF)",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Comissão aprova desconto no Imposto de Renda para doações a entidades de assistência social",
-      "link": "https://www.camara.leg.br/noticias/1321945-comissao-aprova-desconto-no-imposto-de-renda-para-doacoes-a-entidades-de-assistencia-social",
-      "date": "2026-11-23T18:44:00.000Z",
-      "summary": "Proposta segue em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
     },
     {
       "title": "Ministério do Trabalho publica portaria que regulamenta descansos da escala 5x2; entenda",
@@ -512,15 +530,6 @@
       "summary": "Contaminação ambiental em Gaza pode afetar saúde da população por décadas, alerta novo relatório da Oxfam. Estudo aponta sinais de poluição em mais de 99% do território após anos de conflito.",
       "source": "DW Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Braskem fecha acordo com credores envolvendo capitalização de US$ 4,9 bilhões",
-      "link": "https://www.estadao.com.br/economia/negocios/braskem-fecha-acordo-credores-capitalizacao/",
-      "date": "2026-11-23T15:40:23.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -621,15 +630,6 @@
       "source": "ONU News",
       "cat": "internacional",
       "type": "oficial"
-    },
-    {
-      "title": "Block no tigrinho? Influenciadores driblam governo e Meta para divulgar bets ilegais; veja vídeo",
-      "link": "https://www.estadao.com.br/economia/block-no-tigrinho-influenciadores-driblam-governo-e-meta-para-divulgar-bets-ilegais-veja-video/",
-      "date": "2026-11-20T12:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
     },
     {
       "title": "BC aperfeiçoa norma sobre a participação em operações no mercado aberto",
