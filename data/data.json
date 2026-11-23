@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-23T04:01:47.552Z",
+  "updated": "2026-11-23T05:37:46.021Z",
   "market": {
     "ibov": {
       "price": 166376.44,
       "pct": -0.69,
-      "time": "2026-11-23T04:01:42.018Z",
+      "time": "2026-11-23T05:37:41.355Z",
       "history": [
         {
           "d": "2026-10-26",
@@ -421,6 +421,15 @@
       "type": "imprensa"
     },
     {
+      "title": "COP31 termina sem acordo climático, em desfecho “decepcionante”",
+      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854982",
+      "date": "2026-11-22T12:00:00.000Z",
+      "summary": "Secretário-geral da ONU disse estar \"profundamente desapontado\" com falta de consenso na conferência de Antália, na Turquia; ele afirmou que \"não há ambiguidade na ciência\" e pediu ação climática mais rápida.",
+      "source": "ONU News",
+      "cat": "internacional",
+      "type": "oficial"
+    },
+    {
       "title": "A 'utopia socialista' que levou um grupo de australianos idealistas ao Paraguai há mais de 130 anos",
       "link": "https://www.bbc.com/portuguese/articles/cqrkgxv7xxgzo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-22T11:21:38.000Z",
@@ -637,15 +646,6 @@
       "type": "oficial"
     },
     {
-      "title": "Projeto em Timor-Leste usa agricultura local para reforçar merenda escolar",
-      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854955",
-      "date": "2026-11-19T12:00:00.000Z",
-      "summary": "Com investimentos da Coreia do Sul, iniciativa vai alcançar mais de 85 mil alunos em quase 500 escolas; Governo timorense e Programa Mundial de Alimentos da ONU são parceiros no esforço, que inclui construção de 30 novas cozinhas e refeitórios.",
-      "source": "ONU News",
-      "cat": "internacional",
-      "type": "oficial"
-    },
-    {
       "title": "BC divulga Fluxo cambial mensal",
       "link": "https://www.bcb.gov.br/detalhenoticia/21323/nota",
       "date": "2026-11-18T17:31:13.000Z",
@@ -684,7 +684,6 @@
   ],
   "errors": [
     "feed CNN Brasil: HTTP 404",
-    "feed CNN Brasil: HTTP 404",
-    "feed Planalto (governo): HTTP 429"
+    "feed CNN Brasil: HTTP 404"
   ]
 }
