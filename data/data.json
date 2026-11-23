@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-23T06:49:49.714Z",
+  "updated": "2026-11-23T08:31:44.924Z",
   "market": {
     "ibov": {
       "price": 166376.44,
       "pct": -0.69,
-      "time": "2026-11-23T06:49:44.642Z",
+      "time": "2026-11-23T08:31:40.103Z",
       "history": [
         {
           "d": "2026-10-26",
@@ -133,19 +133,82 @@
   },
   "news": [
     {
-      "title": "Ações de tecnologia dos EUA têm pior semana desde a pandemia",
-      "link": "https://www.poder360.com.br/poder-internacional/acoes-de-tecnologia-dos-eua-tem-pior-semana-desde-a-pandemia/",
-      "date": "2026-11-23T06:41:04.000Z",
-      "summary": "Nasdaq 100 caiu 10,4% na semana e entrou em mercado de baixa; receios sobre investimentos em inteligência artificial pressionam Bolsa",
+      "title": "Justiça dos EUA aprova acordo de US$ 7,25 bi em ações contra Bayer",
+      "link": "https://www.poder360.com.br/poder-internacional/justica-dos-eua-aprova-acordo-de-us-725-bi-em-acoes-contra-bayer/",
+      "date": "2026-11-23T08:18:49.000Z",
+      "summary": "Empresa pagará indenizações por 21 anos para encerrar milhares de processos que relacionam o herbicida Roundup ao câncer",
       "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
     },
     {
-      "title": "Exame de Bolsonaro teve resultado “muito positivo”, diz Michelle",
-      "link": "https://www.poder360.com.br/poder-saude/exame-de-bolsonaro-teve-resultado-muito-positivo-diz-michelle/",
-      "date": "2026-11-23T06:28:52.000Z",
-      "summary": "Internado por obstrução intestinal, ex-presidente permanece estável e sem previsão de alta, segundo o hospital",
+      "title": "Eduardo Braga defende mudança na Constituição para novo ajuste fiscal",
+      "link": "https://www.poder360.com.br/poder-congresso/eduardo-braga-defende-mudanca-na-constituicao-para-novo-ajuste-fiscal/",
+      "date": "2026-11-23T07:40:48.000Z",
+      "summary": "Relator do Orçamento de 2027 cobra medidas para acomodar promessas de campanha sem cortar programas sociais",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Governo publica saída de José Guimarães das Relações Institucionais",
+      "link": "https://www.poder360.com.br/poder-governo/governo-publica-saida-de-jose-guimaraes-das-relacoes-institucionais/",
+      "date": "2026-11-23T07:26:24.000Z",
+      "summary": "Ato foi publicado na edição desta 2ª feira (23.nov) do “Diário Oficial da União”",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lula e Flávio acionaram TSE quase mil vezes durante campanha, mostra levantamento",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/lula-e-flavio-acionaram-tse-quase-mil-vezes-durante-campanha-mostra-levantamento.shtml",
+      "date": "2026-11-23T07:00:00.000Z",
+      "summary": "A disputa jurídica que se desenrolou durante os cerca de dois meses de campanha ao Palácio do Planalto em 2026 resultou em quase mil ações apresentadas no TSE (Tribunal Superior Eleitoral) pelo presidente reeleito, Lula (PT), e pelo candidato derrotado, senado",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Black Friday exige atenção a golpes e compras por impulso; estratégias de criminosos mudaram",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/black-friday-exige-atencao-a-golpes-e-compras-por-impulso-estrategias-de-criminosos-mudaram.shtml",
+      "date": "2026-11-23T07:00:00.000Z",
+      "summary": "Esta semana deve ser uma das mais movimentadas para o varejo brasileiro, com a programação de ofertas para a Black Friday, que acontece na sexta-feira (27). Antes mesmo da data oficial, os consumidores devem receber diferentes propagandas e ofertas ao longo do",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "13º salário deve ser pago até segunda-feira (30); veja quem tem direito",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/13o-salario-deve-ser-pago-ate-segunda-feira-30-veja-quem-tem-direito.shtml",
+      "date": "2026-11-23T07:00:00.000Z",
+      "summary": "O pagamento da primeira parcela do 13º salário deve ser feito até a próxima segunda-feira (30) a trabalhadores contratados pela CLT (Consolidação das Leis do Trabalho) e servidores públicos. Leia mais (11/23/2026 - 04h00)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Uma proposta amadurecida para mercados digitais em transformação",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/uma-proposta-amadurecida-para-mercados-digitais-em-transformacao.shtml",
+      "date": "2026-11-23T07:00:00.000Z",
+      "summary": "A regulação concorrencial das plataformas digitais é discutida há anos. Há pesquisas, investigações e experiências de autoridades antitruste de vários países. No Brasil, o percurso inclui a experiência do Cade (Conselho Administrativo de Defesa Econômica) ness",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Beto Louco e Primo compraram usina de R$ 100 para esconder negócio com distribuidora, diz Promotoria",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/beto-louco-e-primo-compraram-usina-de-r-100-para-esconder-negocio-com-distribuidora-diz-promotoria.shtml",
+      "date": "2026-11-23T07:00:00.000Z",
+      "summary": "Investigação do Ministério Público de São Paulo aponta suspeitas de que Mohamad Mourad, o \"Primo\", e Roberto Leme, o \"Beto Louco\", usaram fundos de investimento para esconder que eram os verdadeiros compradores de uma usina de etanol no interior paulista, vend",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Ações de tecnologia dos EUA têm pior semana desde a pandemia",
+      "link": "https://www.poder360.com.br/poder-economia/acoes-de-tecnologia-dos-eua-tem-pior-semana-desde-a-pandemia/",
+      "date": "2026-11-23T06:41:04.000Z",
+      "summary": "Nasdaq 100 caiu 10,4% na semana e entrou em mercado de baixa; receios sobre investimentos em inteligência artificial pressionam Bolsa",
       "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
@@ -187,33 +250,6 @@
       "type": "imprensa"
     },
     {
-      "title": "“Situações” colocaram eleição do Brasil em dúvida, diz chanceler de Milei",
-      "link": "https://www.poder360.com.br/poder-internacional/situacoes-colocaram-eleicao-do-brasil-em-duvida-diz-chanceler-de-milei/",
-      "date": "2026-11-23T02:29:14.000Z",
-      "summary": "Pablo Quirno questionou o processo eleitoral, mas disse que cabe ao TSE reconhecer o resultado da disputa",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Leia a íntegra da proposta da UE para taxar big techs",
-      "link": "https://www.poder360.com.br/poder-tech/leia-a-integra-da-proposta-da-ue-para-taxar-big-techs/",
-      "date": "2026-11-23T02:19:17.000Z",
-      "summary": "Documento sugere cobrança de 3% sobre receitas digitais de grandes empresas de tecnologia",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Venda de ações de tecnologia se intensifica na Ásia no começo da semana",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/venda-de-acoes-de-tecnologia-se-intensifica-na-asia-no-comeco-da-semana.shtml",
-      "date": "2026-11-23T02:13:00.000Z",
-      "summary": "A onda de vendas de ações ligadas ao boom da inteligência artificial se intensificou na abertura do mercado asiático no fim deste domingo (22), com as maiores fabricantes de chips da Coreia do Sul ampliando as perdas na esteira do que aconteceu em Wall Street ",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Pavimentação que ameaça floresta amazônica deve avançar em 2027 com resultado eleitoral",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/pavimentacao-que-ameaca-floresta-amazonica-deve-avancar-em-2027-com-resultado-eleitoral.shtml",
       "date": "2026-11-23T02:00:00.000Z",
@@ -229,33 +265,6 @@
       "summary": "Desde que sou colunista da Folha, muitos portugueses me procuram para falar do Brasil e dos brasileiros. Uma das coisas que me diverte tanto como impressiona é tentar perceber onde acaba o conhecimento empírico e começa a montanha de preconceitos instalados na",
       "source": "Folha",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Real se desvaloriza mais de 17% desde vitória de Lula e impulsiona ativos de proteção",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/real-se-desvaloriza-mais-de-17-desde-vitoria-de-lula-e-impulsiona-ativos-de-protecao.shtml",
-      "date": "2026-11-23T02:00:00.000Z",
-      "summary": "O real é a moeda que mais se desvalorizou desde a vitória de Lula (PT) entre as 20 divisas mais negociadas do mundo, com recuo de 17,65%. O levantamento considera a lista do BIS (espécie de banco dos bancos centrais) das moedas com maior volume de negociações ",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "IA pode aposentar planilhas no controle das finanças; veja o que já existe",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/ia-pode-aposentar-planilhas-no-controle-das-financas-veja-o-que-ja-existe.shtml",
-      "date": "2026-11-23T02:00:00.000Z",
-      "summary": "Um dos desafios de quem tenta organizar as finanças pessoais é reunir informações espalhadas por diferentes instituições. Conferir faturas, lembrar-se de transferências e acessar vários aplicativos de investimentos tornam cansativo o processo de consolidar tud",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Verba para reajustes de servidores em 2027 é insuficiente para repor a inflação",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/verba-para-reajustes-de-servidores-em-2027-e-insuficiente-para-repor-a-inflacao.shtml",
-      "date": "2026-11-23T02:00:00.000Z",
-      "summary": "O governo de Luiz Inácio Lula da Silva (PT) reservou R$ 8,8 bilhões na proposta de Orçamento de 2027 para reajustes salariais de servidores do Poder Executivo, mas o valor é insuficiente para garantir a reposição da inflação para todo o funcionalismo no ano qu",
-      "source": "Folha",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -281,15 +290,6 @@
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/marcus-melo/2026/11/calcificacao-do-eleitorado-nos-eua-e-no-brasil.shtml",
       "date": "2026-11-22T23:10:00.000Z",
       "summary": "Em janeiro de 2016, num auditório repleto em Sioux Center, Iowa, Donald Trump fez uma \"arminha\" com os dedos e disse: \"Poderia atirar em alguém no meio da Quinta Avenida de Nova York e não perderia um só eleitor\". A hipérbole antecipava uma convicção que suste",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "PT quer manter comando sobre Saúde e Educação e disputa outros ministérios robustos",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/pt-quer-manter-comando-sobre-saude-e-educacao-e-disputa-outros-ministerios-robustos.shtml",
-      "date": "2026-11-22T23:00:00.000Z",
-      "summary": "Os senadores do PT cobraram do presidente do partido, Edinho Silva, que a legenda continue no comando dos Ministérios da Saúde e da Educação e ainda discutiram assumir outras pastas robustas, como o das Cidades e o do Desenvolvimento Regional. Leia mais (11/22",
       "source": "Folha",
       "cat": "politica",
       "type": "imprensa"
