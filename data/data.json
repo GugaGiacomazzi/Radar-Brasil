@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-23T18:32:18.488Z",
+  "updated": "2026-11-23T19:42:53.154Z",
   "market": {
     "ibov": {
-      "price": 164810.38,
-      "pct": -0.94,
-      "time": "2026-11-23T18:32:10.930Z",
+      "price": 165011.8,
+      "pct": -0.82,
+      "time": "2026-11-23T19:42:44.886Z",
       "history": [
         {
           "d": "2026-10-26",
@@ -80,7 +80,7 @@
         },
         {
           "d": "2026-11-23",
-          "c": 164810.375
+          "c": 165064
         }
       ]
     },
@@ -137,6 +137,249 @@
   },
   "news": [
     {
+      "title": "Ministérios terão R$ 115 milhões para compensar Roraima por migração",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/23/ministerios-terao-r-115-milhoes-para-compensar-roraima-por-migracao",
+      "date": "2026-11-23T19:35:00.000Z",
+      "summary": "Os Ministérios da Educação, da Justiça e da Saúde contarão com um reforço de R$ 115 milhões para amenizar impactos causados pelo aumento do fluxo migratório em Roraima. É o que estabelece a Lei 15.549, sancionada pelo presidente Luiz Inácio Lula da Silva e pub",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "MBRF vê fim das bets como impulso extra para vendas de Natal",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/mbrf-ve-fim-das-bets-como-impulso-extra-para-vendas-de-natal.shtml",
+      "date": "2026-11-23T19:28:00.000Z",
+      "summary": "A MBRF avalia que as vendas na campanha de Natal e final de ano devem ter um impulso adicional do fim das \"bets\" no Brasil, proporcionando mais recursos para consumidores investirem em produtos para a ceia, disse o presidente do conselho de administração da em",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Durigan admite impacto inflacionário da reforma tributária",
+      "link": "https://www.poder360.com.br/poder-economia/durigan-admite-impacto-inflacionario-da-reforma-tributaria/",
+      "date": "2026-11-23T19:27:15.000Z",
+      "summary": "Ministro diz que dúvidas na precificação podem pressionar preços, mas projeta redução do impacto com esclarecimentos",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Câmara deve votar nesta segunda-feira (23) projeto de ajuste fiscal do governo",
+      "link": "https://g1.globo.com/politica/ao-vivo/ajuste-fiscal-camara-deputados.ghtml",
+      "date": "2026-11-23T19:26:34.000Z",
+      "summary": "Câmara deve votar nesta segunda-feira (23) projeto de ajuste fiscal do governo Proposta foi aprovada no Senado na semana passada; texto projeta uma economia de R$ 50 bilhões nas contas do governo federal em 2027. O relator da proposta na Câmara, deputado Mauro",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Zanin pede destaque e leva denúncia contra Marcel Van Hattem a julgamento presencial no STF",
+      "link": "https://www.estadao.com.br/politica/zanin-pede-destaque-e-leva-denuncia-contra-marcel-van-hattem-a-julgamento-presencial-no-stf-nprp/",
+      "date": "2026-11-23T19:24:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "‘Sou um ator político’, diz Janones ao negar que vai participar de campanhas como consultor",
+      "link": "https://www.estadao.com.br/politica/sou-um-ator-politico-diz-janones-ao-negar-que-vai-participar-de-campanhas-como-consultor-nprp/",
+      "date": "2026-11-23T19:21:50.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Tarcísio defende discussão sobre limites de decisões monocráticas e competência do Supremo",
+      "link": "https://www.estadao.com.br/politica/tarcisio-defende-discussao-sobre-limites-de-decisoes-monocraticas-e-competencia-do-supremo/",
+      "date": "2026-11-23T19:20:23.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Durigan quer superavit de 1,5% a 2% ao fim do 4º mandato de Lula",
+      "link": "https://www.poder360.com.br/poder-economia/durigan-quer-superavit-de-15-a-2-ao-fim-do-4o-mandato-de-lula/",
+      "date": "2026-11-23T19:14:05.000Z",
+      "summary": "Ministro diz que governo buscará resultados crescentes a partir de 2027 e reforçará regras fiscais",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Custo Brasil corrói a eficiência interna das empresas, diz Jorge Gerdau",
+      "link": "https://www.estadao.com.br/economia/custo-brasil-corroi-a-eficiencia-interna-das-empresas-diz-jorge-gerdau/",
+      "date": "2026-11-23T19:11:32.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "‘Nas próximas duas semanas, indicações, fiscal e alíquota da CBS estarão resolvidos’, diz Durigan",
+      "link": "https://www.estadao.com.br/economia/nas-proximas-duas-semanas-indicacoes-fiscal-e-aliquota-da-cbs-estarao-resolvidos-diz-durigan/",
+      "date": "2026-11-23T19:07:33.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "União Europeia abre investigação contra principal produtora da Coca-Cola na Europa",
+      "link": "https://www.estadao.com.br/internacional/uniao-europeia-investigacao-contra-principal-produtora-coca-cola-europa-npr/",
+      "date": "2026-11-23T19:06:44.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Ações do BRB perderam quase 75% do valor em um ano; entenda",
+      "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/23/acoes-do-brb-perderam-quase-75percent-do-valor-em-um-ano-entenda.ghtml",
+      "date": "2026-11-23T19:06:05.000Z",
+      "summary": "Sede do Banco de Brasília (BRB) TV Globo Arrastado para o centro da crise do Banco Master e sem divulgar balanços operacionais há um ano, o Banco de Brasília (BRB) viu o valor de suas ações negociadas na B3 \"derreter\" ao longo desse período. As ações ordinária",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Fornecedores de tecnologia elevam preços de servidores de IA em até 45% após fechar contratos",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/fornecedores-de-tecnologia-elevam-precos-de-servidores-de-ia-em-ate-45-apos-fechar-contratos.shtml",
+      "date": "2026-11-23T19:06:00.000Z",
+      "summary": "Empresas de tecnologia que vendem equipamentos para data centers estão aumentando significativamente os preços de servidores de inteligência artificial equipados com chips da Nvidia, meses depois de assinar contratos com os compradores. A medida repassa aos cl",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Comissões debatem futuro do esporte na era da inteligência artificial",
+      "link": "https://www.camara.leg.br/noticias/1321757-comissoes-debatem-futuro-do-esporte-na-era-da-inteligencia-artificial",
+      "date": "2026-11-23T19:03:00.000Z",
+      "summary": "A realização do fórum atende a requerimentos dos deputados Saulo Pedroso (PSD-SP) e Julio Cesar Ribeiro (Republicanos-DF)",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Empresas serão fiscalizadas nos primeiros 90 dias do fim da 6x1 e sofrerão multa se infringirem lei",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/empresas-serao-fiscalizadas-nos-primeiros-90-dias-do-fim-da-6x1-e-sofrerao-multa-se-infringirem-lei.shtml",
+      "date": "2026-11-23T19:03:00.000Z",
+      "summary": "Portaria sobre o fim da escala 6x1, publicada nesta segunda-feira (23) em edição extra do Diário Oficial da União, prevê que empresas passarão por fiscalização com dupla visita nos primeiros 90 dias quando a emenda passar a valer, em 16 de dezembro deste ano. ",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Coral do Senado é homenageado por 30 anos de história",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/23/coral-do-senado-e-homenageado-por-30-anos-de-historia",
+      "date": "2026-11-23T18:59:02.000Z",
+      "summary": "Os 30 anos do Coral do Senado foram comemorados em sessão especial nesta segunda-feira (23). Durante a homenagem, representantes do grupo relembraram sua trajetória e destacaram sua relevância cultural. Criado em 1996, o coro reúne servidores ativos e aposenta",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Paim defende mudança na contribuição das empresas para financiar Previdência",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/23/paim-defende-mudanca-na-contribuicao-das-empresas-para-financiar-previdencia",
+      "date": "2026-11-23T18:56:11.000Z",
+      "summary": "O senador Paulo Paim (PT-RS) defendeu nesta segunda-feira (23) que as empresas passem a contribuir para a Previdência Social com base no faturamento, e não mais sobre a folha de salários. Em discurso no Plenário, Paim disse que não quer acabar com a contribuiç",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Com tensão fiscal, euro sobe 16% no mês frente ao real",
+      "link": "https://www.poder360.com.br/poder-economia/com-tensao-fiscal-euro-sobe-16-no-mes-frente-ao-real/",
+      "date": "2026-11-23T18:54:16.000Z",
+      "summary": "Votação do ajuste na Câmara aumenta a cautela dos investidores; euro é cotado a R$ 6,50 na tarde desta 2ª feira (23.nov)",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Governo Lula reduz projeção de crescimento e vê inflação mais alta e dólar mais caro ao fim de 2026",
+      "link": "https://www.estadao.com.br/economia/governo-lula-reduz-projecao-do-pib-para-este-ano-e-ve-inflacao-acima-da-meta/",
+      "date": "2026-11-23T18:50:21.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Sancionadas leis que destinam R$ 42 milhões à saúde, cultura e ciência",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/23/sancionadas-leis-que-destinam-r-42-milhoes-a-saude-cultura-e-ciencia",
+      "date": "2026-11-23T18:46:11.000Z",
+      "summary": "Pacientes atendidos por hospitais e ambulatórios do SUS em nove estados vão contar com um reforço temporário no custeio que mantém o atendimento funcionando. Esse é um dos principais efeitos de uma das duas leis sancionadas pelo presidente da República, que re",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Internação de Jair aprofunda fissura no clã Bolsonaro com disputa entre Carlos e Michelle",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/internacao-de-jair-aprofunda-fissura-no-cla-bolsonaro-com-disputa-entre-carlos-e-michelle.shtml",
+      "date": "2026-11-23T18:45:00.000Z",
+      "summary": "A mais recente internação de Jair Bolsonaro (PL), admitido na UTI (Unidade de Terapia Intensiva) do hospital DF Star, em Brasília, aprofundou o racha na família com novo atrito público entre a ex-primeira-dama Michelle Bolsonaro (PL) e Carlos Bolsonaro (PL), o",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Comissão aprova desconto no Imposto de Renda para doações a entidades de assistência social",
+      "link": "https://www.camara.leg.br/noticias/1321945-comissao-aprova-desconto-no-imposto-de-renda-para-doacoes-a-entidades-de-assistencia-social",
+      "date": "2026-11-23T18:44:00.000Z",
+      "summary": "Proposta segue em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Durigan prepara transição para reforma tributária sem adiamento",
+      "link": "https://www.poder360.com.br/poder-economia/durigan-prepara-transicao-para-reforma-tributaria-sem-adiamento/",
+      "date": "2026-11-23T18:43:40.000Z",
+      "summary": "Ministro diz que medida deve dar segurança às empresas e evitar problemas no fluxo de caixa na adaptação ao novo sistema",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Ministério do Trabalho publica portaria que regulamenta descansos da escala 5x2; entenda",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/23/ministerio-do-trabalho-portaria-escala-5x2.ghtml",
+      "date": "2026-11-23T18:42:53.000Z",
+      "summary": "Governo publica regras da escala 5x2 O Ministério do Trabalho publicou nesta segunda-feira (23) portaria que regulamenta a duração de trabalho e o período de descanso na escala 5x2. A norma estabelece dois dias de repouso semanal e prevê a redução gradual da j",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Plenário vota criação da Força Nacional do SUS nesta quarta-feira",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/23/plenario-vota-criacao-da-forca-nacional-do-sus-nesta-quarta-feira",
+      "date": "2026-11-23T18:37:00.000Z",
+      "summary": "O Senado pode votar nesta quarta-feira (25) um projeto de lei que cria a Força Nacional do Sistema Único de Saúde (FN-SUS), estrutura destinada a atuar em situações de emergência e calamidade pública que exijam resposta rápida dos serviços de saúde. O PL 351/2",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Durigan diz que ajuste fiscal e revisão de gastos são necessários para queda dos juros",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/durigan-diz-que-ajuste-fiscal-e-revisao-de-gastos-sao-necessarios-para-queda-dos-juros.shtml",
+      "date": "2026-11-23T18:33:00.000Z",
+      "summary": "O ministro da Fazenda, Dario Durigan, afirmou nesta segunda-feira (23) que o governo federal precisa avançar no ajuste das contas públicas e melhorar a qualidade dos gastos para criar condições para a redução dos juros no Brasil. Segundo ele, a prioridade da e",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lei libera R$ 420 milhões para ações de segurança pública e transporte",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/23/lei-libera-r-420-milhoes-para-acoes-de-seguranca-publica-e-transporte",
+      "date": "2026-11-23T18:32:07.000Z",
+      "summary": "Foi publicada, no Diário Oficial da União (DOU) desta segunda-feira (23), a lei que destina R$ 420 milhões para vários ministérios e órgãos do governo. A Lei 15.552, de 2026 reserva a maior parte dos recursos para o Ministério da Fazenda (88%) e para o Ministé",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
       "title": "A tempestade perfeita (dentro e fora do Brasil) que fez dólar chegar a R$ 6",
       "link": "https://www.bbc.com/portuguese/articles/cwm253lr95zjo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-23T18:27:19.000Z",
@@ -155,55 +398,10 @@
       "type": "oficial"
     },
     {
-      "title": "Preço do petróleo usado nos EUA fica abaixo de US$ 80 após três meses",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/10/25/6568-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post468067",
-      "date": "2026-11-23T18:20:00.000Z",
-      "summary": "O preço do petróleo WTI (West Texas Intermediate), usado nos EUA, ficou abaixo de US$ 80 (R$ 480,48) pela primeira vez desde agosto. Leia mais (11/23/2026 - 15h20)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Sem votação, duas medidas provisórias de crédito extraordinário perdem eficácia",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/23/sem-votacao-duas-medidas-provisorias-de-credito-extraordinario-perdem-eficacia",
-      "date": "2026-11-23T18:18:06.000Z",
-      "summary": "Duas medidas provisórias de crédito extraordinário perderam a eficácia por não terem sido votadas a tempo pelo Congresso Nacional. As medidas provisórias são editadas pela Presidência da República e entram em vigor assim que são publicadas no Diário Oficial da",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "CVM suspende registros de Ambipar, BRB e Refit por descumprimento de regras",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/cvm-suspende-registros-de-ambipar-brb-e-refit-por-descumprimento-de-regras.shtml",
-      "date": "2026-11-23T18:15:00.000Z",
-      "summary": "A CVM (Comissão de Valores Mobiliários), por meio da Superintendência de Relações com Empresas (SEP), suspendeu nesta segunda-feira (23) os registros de companhia aberta da Ambipar, do BRB (Banco de Brasília) e da Refit (Refinaria de Manguinhos). Com a decisão",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Bolsa de referência da UE tem maior alta diária em seis meses",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/10/25/6568-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post468066",
-      "date": "2026-11-23T18:14:00.000Z",
-      "summary": "O indice Euro STOXX 600, referência na União Europeia, fechou em alta de 1,9%, a 637,84 pontos, marcando sua maior valorização em um dia desde o início de maio. O índice de tecnologia da Europa liderou os ganhos setoriais com alta de 4,7%, recuperando-se da qu",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Trump posta Huang segurando sutiã para celebrar volta à Nvidia",
-      "link": "https://www.poder360.com.br/poder-china/trump-posta-huang-segurando-sutia-para-celebrar-volta-a-nvidia/",
-      "date": "2026-11-23T18:09:46.000Z",
-      "summary": "Imagem feita com IA imita foto do republicano depois do atentado de 2024",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Fazenda reduz previsão de crescimento da economia para 1,9% neste ano",
       "link": "https://g1.globo.com/economia/noticia/2026/11/23/fazenda-reduz-previsao-de-crescimento-da-economia-para-19percent-neste-ano.ghtml",
       "date": "2026-11-23T18:08:00.000Z",
-      "summary": "O Ministério da Fazenda revisou mais uma vez para baixo a projeção de crescimento da economia brasileira neste ano, de 2% para 1,9%. A informação consta no relatório divulgado nesta segunda-feira (23). A redução foi motivada pela desaceleração da indústria, cu",
+      "summary": "O Ministério da Fazenda revisou mais uma vez para baixo a projeção de crescimento da economia brasileira neste ano, de 2% para 1,9%. A informação consta no Boletim Macrofiscal, divulgado nesta segunda-feira (23). ➡️A redução foi motivada pela desaceleração da ",
       "source": "g1",
       "cat": "economia",
       "type": "imprensa"
@@ -236,87 +434,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Fazenda reduz projeção de crescimento para o ano e vê alta do dólar e inflação",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/fazenda-reduz-projecao-de-crescimento-para-o-ano-e-ve-alta-do-dolar-e-inflacao.shtml",
-      "date": "2026-11-23T18:02:00.000Z",
-      "summary": "O Ministério da Fazenda reduziu a projeção de crescimento do PIB (Produto Interno Bruto) para este ano, ao mesmo tempo em que prevê um dólar mais alto e uma inflação mais elevada. Houve também uma piora nesses indicadores para o próximo ano. Leia mais (11/23/2",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Fazenda reduz estimativa do PIB de 2026 de 2,0% para 1,9%",
-      "link": "https://www.poder360.com.br/poder-economia/fazenda-reduz-estimativa-do-pib-de-2026-de-20-para-19/",
-      "date": "2026-11-23T18:00:47.000Z",
-      "summary": "A projeção para o IPCA (Índice Nacional de Preços ao Consumidor Amplo), índice de inflação, deste ano subiu de 4,9% para 5,3%",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Gerdau: Juro é definido no mercado; não há governo que consiga comandar esse processo",
-      "link": "https://www.estadao.com.br/economia/gerdau-juro-e-definido-no-mercado-nao-ha-governo-que-consiga-comandar-esse-processo/",
-      "date": "2026-11-23T18:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Lei libera R$ 4,8 mi extras para tribunais e indenização a servidor de área de fronteira",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/23/lei-libera-r-4-8-mi-extras-para-tribunais-e-indenizacao-a-servidor-de-area-de-fronteira",
-      "date": "2026-11-23T17:57:22.000Z",
-      "summary": "A Lei 15.548, publicada no Diário Oficial da União desta segunda-feira (23), abre crédito especial de R$ 4,8 milhões para os Ministérios da Saúde e do Meio Ambiente e Mudança do Clima, para a Agência Brasileira de Inteligência (Abin) e para as Justiças Federal",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Pesquisa mostra que 91% dos advogados apoiam eleições diretas para o Conselho Federal da OAB",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/pesquisa-mostra-que-91-dos-advogados-apoiam-eleicoes-diretas-para-o-conselho-federal-da-oab/",
-      "date": "2026-11-23T17:56:14.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Lula recebe 4 ministros do STF, Alcolumbre e Motta em jantar no Alvorada",
-      "link": "https://www.poder360.com.br/poder-governo/lula-recebe-4-ministros-do-stf-alcolumbre-e-motta-em-jantar-no-alvorada/",
-      "date": "2026-11-23T17:52:59.000Z",
-      "summary": "Do Supremo, participaram Gilmar Mendes, Alexandre de Moraes, Flávio Dino e Cristiano Zanin; presidente não confirmou nomes de ministros, mas deixou claro que o 4º mandato quer começar com o apoio mais firme de partidos do Centrão",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Lula avalia possibilidade de indicar mulher para o STF diante da resistência ao nome de Messias",
-      "link": "https://www.estadao.com.br/politica/lula-avalia-possibilidade-de-indicar-mulher-para-o-stf-diante-da-resistencia-ao-nome-de-messias/",
-      "date": "2026-11-23T17:46:20.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Moraes notifica Flávio por edital em caso de calúnia contra Lula",
-      "link": "https://www.poder360.com.br/poder-justica/moraes-notifica-flavio-por-edital-em-caso-de-calunia-contra-lula/",
-      "date": "2026-11-23T17:38:35.000Z",
-      "summary": "Segundo o ministro, o senador “evadiu-se do território nacional” e está em “local incerto e não sabido”",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Governo reduz projeção para PIB, mas ajustes devem sustentar arrecadação maior em 2027, diz relator",
-      "link": "https://www.estadao.com.br/economia/governo-reduz-projecao-para-pib-mas-ajustes-devem-sustentar-arrecadacao-maior-em-2027-diz-relator/",
-      "date": "2026-11-23T17:37:36.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Comissão debate inclusão de gênero e raça na distribuição do Orçamento público",
       "link": "https://www.camara.leg.br/noticias/1321844-comissao-debate-inclusao-de-genero-e-raca-na-distribuicao-do-orcamento-publico",
       "date": "2026-11-23T17:35:00.000Z",
@@ -324,15 +441,6 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "‘Local incerto e não sabido’: Moraes manda Flávio se defender de denúncia por calúnia contra Lula",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/local-incerto-e-nao-sabido-moraes-manda-flavio-se-defender-de-denuncia-por-calunia-contra-lula/",
-      "date": "2026-11-23T17:31:10.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
     },
     {
       "title": "Memorial da América Latina renomeia espaços internos e homenageia líderes comunistas",
@@ -380,33 +488,6 @@
       "type": "oficial"
     },
     {
-      "title": "Governador de Minas anuncia mudança para a China após fim do mandato",
-      "link": "https://www.estadao.com.br/politica/governador-de-minas-anuncia-mudanca-para-china-apos-fim-do-mandato-nprp/",
-      "date": "2026-11-23T17:11:04.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Fibrose pulmonar: desafios vão do diagnóstico à qualidade de vida",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/23/fibrose-pulmonar-desafios-vao-do-diagnostico-a-qualidade-de-vida",
-      "date": "2026-11-23T17:05:10.000Z",
-      "summary": "Pessoas com fibrose pulmonar precisam de diagnóstico mais rápido, acesso igualitário ao tratamento pelo Sistema Único de Saúde (SUS) em todo o país e recursos que contribuam para a qualidade de vida. Essas foram algumas das demandas apresentadas em audiência p",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Auditoria-Fiscal do Trabalho encontra trabalho infantil em 113 empresas e afasta 179 adolescentes",
-      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/23/mais-de-100-empresas-sao-flagradas-com-adolescentes-em-atividades-perigosas-179-sao-afastados.ghtml",
-      "date": "2026-11-23T17:04:24.000Z",
-      "summary": "Auditoria-Fiscal do Trabalho identificou 113 empresas com adolescentes em situação de trabalho infantil em cinco estados brasileiros. Auditoria-Fiscal do Trabalho Uma operação da Auditoria-Fiscal do Trabalho, ligada à Secretaria de Inspeção do Trabalho do Mini",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Moraes diz que Flávio está em 'local incerto' e determina citação por edital para resposta de senador a denúncia por calúnia contra Lula",
       "link": "https://g1.globo.com/politica/noticia/2026/11/23/moraes-diz-que-flavio-esta-em-local-incerto-e-determina-citacao-por-edital-para-resposta-de-senador-a-denuncia-por-calunia-contra-lula.ghtml",
       "date": "2026-11-23T17:03:15.000Z",
@@ -425,33 +506,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Comissão especial pode votar parecer sobre política nacional para pessoas com autismo",
-      "link": "https://www.camara.leg.br/noticias/1321696-comissao-especial-pode-votar-parecer-sobre-politica-nacional-para-pessoas-com-autismo",
-      "date": "2026-11-23T16:23:00.000Z",
-      "summary": "Texto consolida a legislação sobre o transtorno e assegura a continuidade de políticas públicas já conquistadas",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Fortuna de Jensen Huang cresce R$ 219 bilhões após retorno ao comando da Nvidia",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/23/fortuna-de-jensen-huang-cresce-em-apos-volta-ao-comando-da-nvidia.ghtml",
-      "date": "2026-11-23T16:21:26.000Z",
-      "summary": "Ex-chefe da Nvidia diz que gostaria de voltar ao comando da empresa A fortuna de Jensen Huang cresceu cerca de US$ 36,6 bilhões (R$ 219 bilhões) após o anúncio de seu retorno ao comando da Nvidia, segundo dados divulgados pela revista Forbes nesta segunda-feir",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "AGU se manifesta contra liminar de Dino sobre fim da escala 6x1",
-      "link": "https://www.estadao.com.br/economia/agu-se-manifesta-contra-liminar-dino-fim-escala-6x1/",
-      "date": "2026-11-23T16:13:58.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Moretti garante às centrais sindicais que ajuste fiscal preserva direitos sociais",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/moretti-garante-as-centrais-sindicais-que-ajuste-fiscal-preserva-direitos-sociais.shtml",
       "date": "2026-11-23T16:10:00.000Z",
@@ -461,22 +515,13 @@
       "type": "imprensa"
     },
     {
-      "title": "Alcolumbre promete crédito de emendas a senadores novatos e diz que facilitará liberação se reeleito",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/alcolumbre-vincula-emendas-a-relacao-com-lula-em-busca-de-votos-no-senado-dizem-aliados.shtml",
-      "date": "2026-11-23T16:00:00.000Z",
-      "summary": "O presidente do Senado, Davi Alcolumbre (União Brasil-AP), tem dito que facilitará a liberação de emendas de comissão se reeleito para o cargo, relatam aliados. Esse tipo de transferência não tem liberação obrigatória, ou seja, depende da boa vontade do govern",
-      "source": "Folha",
+      "title": "Ministério Público Eleitoral defende rejeição de recurso por 2° turno no Rio de Janeiro",
+      "link": "https://www.estadao.com.br/politica/mpe-defende-rejeicao-de-recurso-por-2-turno-no-rio-de-janeirov-nprp/",
+      "date": "2026-11-23T15:11:08.000Z",
+      "summary": "",
+      "source": "Estadão",
       "cat": "politica",
       "type": "imprensa"
-    },
-    {
-      "title": "Comissão aprova projeto que proíbe destruir produtos não perecíveis que foram devolvidos ou não vendidos",
-      "link": "https://www.camara.leg.br/noticias/1321739-comissao-aprova-projeto-que-proibe-destruir-produtos-nao-pereciveis-que-foram-devolvidos-ou-nao-vendidos",
-      "date": "2026-11-23T15:58:00.000Z",
-      "summary": "A proposta segue em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
     },
     {
       "title": "Lula se reúne com cúpula do Congresso e ministros do STF para definir substituto de Barroso",
@@ -488,39 +533,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Pedidos de demissão por conta própria perdem fôlego e confirmam arrefecimento do emprego formal",
-      "link": "https://www.estadao.com.br/economia/pedidos-demissao-conta-propria-perdem-folego-arrefecimento-emprego-formal/",
-      "date": "2026-11-23T15:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Fim da escala 6X1 deve impactar mais de 100 mil trabalhadores domésticos, estima instituto",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/23/fim-da-escala-6x1-deve-beneficiar-mais-de-100-mil-trabalhadores-domesticos-estima-instituto.ghtml",
-      "date": "2026-11-23T14:44:35.000Z",
-      "summary": "O fim da escala 6x1, regulamentado pelo presidente Luiz Inácio Lula da Silva (PT), vai gerar mudanças para cerca de 102 mil trabalhadores domésticos no país, estimou nesta segunda-feira (23) o Instituto Doméstica Legal. O levantamento feito por amostra conside",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Nvidia anuncia volta de Jensen Huang como CEO",
       "link": "https://www.dw.com/pt-br/nvidia-anuncia-volta-de-jensen-huang-como-ceo/a-80022066?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-23T14:39:00.000Z",
       "summary": "Fora do cargo há menos de 2 semanas na esteira da revelação de caso com uma suposta espiã chinesa, fundador da Nvidia volta ao cargo de CEO após decisão unânime do Conselho de Administração. Ações da empresa disparam.",
       "source": "DW Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Escala 5x2: AGU diz ao STF que decisão provisória de Dino não é mais necessária após regulamentação do governo",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/23/escala-5x2-agu-diz-ao-stf-que-decisao-provisoria-de-dino-nao-e-mais-necessaria-apos-regulamentacao-do-governo.ghtml",
-      "date": "2026-11-23T14:35:47.000Z",
-      "summary": "A Advocacia Geral da União (AGU) pediu nesta segunda-feira (23) que o Supremo Tribunal Federal (STF) reconheça que não é mais necessária a decisão liminar do ministro Flávio Dino que alterou parâmetros da transição para a escala 5x2, depois que o governo edito",
-      "source": "g1",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
