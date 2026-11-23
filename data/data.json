@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-23T11:05:43.576Z",
+  "updated": "2026-11-23T12:18:41.029Z",
   "market": {
     "ibov": {
       "price": 166376.44,
       "pct": -0.69,
-      "time": "2026-11-23T11:05:38.929Z",
+      "time": "2026-11-23T12:18:36.872Z",
       "history": [
         {
           "d": "2026-10-26",
@@ -133,11 +133,146 @@
   },
   "news": [
     {
-      "title": "Ferrovia do carvão em SC é terceira a pedir extensão de contrato por falta de acordo em renovação",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/infraestrutura/2026/11/ferrovia-do-carvao-em-sc-e-terceira-a-pedir-extensao-de-contrato-por-falta-de-acordo-em-renovacao.shtml",
-      "date": "2026-11-23T11:00:00.000Z",
-      "summary": "Mais um contrato de concessão ferroviária no Brasil está chegando ao fim, após 30 anos de execução, sem ter um acordo selado sobre seu futuro. A FTC (Ferrovia Tereza Cristina), responsável pelo transporte de carvão no sul de Santa Catarina, é a terceira a pedi",
+      "title": "Trump pede que Nvidia recontrate Jensen Huang em meio a novas revelações sobre suposta espionagem chinesa",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/23/trump-nvidia-jensen-huang-espionagem-china.ghtml",
+      "date": "2026-11-23T12:14:26.000Z",
+      "summary": "O presidente dos Estados Unidos, Donald Trump, pediu que o conselho de administração da Nvidia recontrate Jensen Huang, ex-presidente-executivo da companhia, que renunciou ao cargo em meio a um suposto escândalo de espionagem envolvendo uma mulher com quem man",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Economistas sobem previsão da inflação e do dólar e diminuem a do PIB neste ano",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/economistas-sobem-previsao-da-inflacao-e-do-dolar-e-diminuem-a-do-pib-neste-ano.shtml",
+      "date": "2026-11-23T12:01:00.000Z",
+      "summary": "Os economistas aumentaram a previsão da inflação deste ano para 5,15% após a semana marcada pela aprovação no Senado do ajuste fiscal proposto pelo governo e pela assinatura do decreto do fim da escala 6x1. Leia mais (11/23/2026 - 09h01)",
       "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Mesmo com ajuste, dólar deve seguir em alta enquanto Lula não indicar nome 'forte' para a Fazenda e novas medidas fiscais",
+      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/23/mesmo-com-ajuste-dolar-deve-seguir-em-alta-enquanto-lula-nao-indicar-nome-forte-para-a-fazenda-e-novas-medidas-fiscais.ghtml",
+      "date": "2026-11-23T12:00:28.000Z",
+      "summary": "O presidente Lula já foi alertado por sua equipe que, mesmo com a possibilidade de aprovação final do ajuste fiscal na Câmara dos Deputados nesta segunda, o dólar pode seguir pressionado. Esse quadro deve se manter até que o petista defina um nome \"forte\" para",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Dólar abre em alta e vai a R$ 5,98, atento à votação do pacote fiscal na Câmara",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/23/dolar-ibovespa.ghtml",
+      "date": "2026-11-23T12:00:20.000Z",
+      "summary": "Entenda o que faz o preço do dólar subir ou cair % O dólar abriu a sessão desta segunda-feira (23) em alta, com avanço de 0,79% perto das 9h, cotado a R$ 5,9810. Já as negociações do Ibovespa, principal índice da bolsa brasileira, começam às 10h. O principal d",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Negociação de Eisenkot com partido de Netanyahu não avança",
+      "link": "https://www.poder360.com.br/poder-internacional/negociacao-de-eisenkot-com-partido-de-netanyahu-nao-avanca/",
+      "date": "2026-11-23T11:57:17.000Z",
+      "summary": "Representantes do Yashar e do Likud se reuniram por 4 horas; discutiram “questões centrais”, mas não trataram de quem seria premiê",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Comissão debate alíquota-base da Contribuição sobre Bens e Serviços",
+      "link": "https://www.camara.leg.br/noticias/1320994-comissao-debate-aliquota-base-da-contribuicao-sobre-bens-e-servicos",
+      "date": "2026-11-23T11:55:00.000Z",
+      "summary": "Alíquota foi fixada em 11,3%",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Partido italiano propõe taxa de 5% sobre ingressos para bancar segurança",
+      "link": "https://www.poder360.com.br/poder-sportsmkt/partido-italiano-propoe-taxa-de-5-sobre-ingressos-para-bancar-seguranca/",
+      "date": "2026-11-23T11:43:47.000Z",
+      "summary": "Emenda ao Orçamento de 2027 estabelece que clubes profissionais financiem horas extras e adicionais de policiais",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Mercado eleva projeção de inflação para 5,15% em 2026",
+      "link": "https://www.poder360.com.br/poder-economia/mercado-eleva-projecao-de-inflacao-para-515-em-2026/",
+      "date": "2026-11-23T11:40:32.000Z",
+      "summary": "Boletim Focus aumenta estimativa do dólar; projeção para a Selic se mantém inalterada e a do PIB recua",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Montadoras alemãs enfrentam descontentamento e iminente confronto com sindicatos",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/montadoras-alemas-enfrentam-descontentamento-e-iminente-confronto-com-sindicatos.shtml",
+      "date": "2026-11-23T11:38:00.000Z",
+      "summary": "As montadoras alemãs enfrentam meses de negociações trabalhistas conturbadas e greves sobre cortes de pessoal e possíveis fechamentos de fábricas, à medida que o modelo que sustentava a força de trabalho altamente remunerada do setor automotivo do país entra e",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Ministros precisam ser investigados financeiramente. Fachin vira obstáculo",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/ministros-precisam-ser-investigados-financeiramente-fachin-vira-obstaculo/",
+      "date": "2026-11-23T11:37:31.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Mercado financeiro eleva estimativa de inflação em 2026 e 2027 e projeta corte menor dos juros no ano que vem",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/23/mercado-financeiro-eleva-estimativa-de-inflacao-em-2026-e-2027-e-projeta-corte-menor-dos-juros-no-ano-que-vem.ghtml",
+      "date": "2026-11-23T11:34:45.000Z",
+      "summary": "Os analistas do mercado financeiro elevaram a estimativa de inflação em 2026 e 2027 e passaram a projetar corte menor de juros no ano que vem. As informações fazem parte do \"Boletim Focus\", divulgado nesta segunda-feira (23) pelo Banco Central (BC), com base e",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Câmara começa a votar plano Moretti em sessão extraordinária nesta segunda",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/camara-comeca-a-votar-plano-moretti-em-sessao-extraordinaria-nesta-segunda.shtml",
+      "date": "2026-11-23T11:31:00.000Z",
+      "summary": "A Câmara dos Deputados vota nesta segunda-feira (23) o chamado plano Moretti, o projeto de ajuste apresentado pelo governo de Luiz Inácio Lula da Silva (PT) para melhorar a situação das contas públicas. O texto prevê medidas para elevar a arrecadação e permiti",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Projeto estabelece privacidade em atendimentos que envolvam dados sensíveis",
+      "link": "https://www.camara.leg.br/noticias/1321226-projeto-estabelece-privacidade-em-atendimentos-que-envolvam-dados-sensiveis",
+      "date": "2026-11-23T11:29:00.000Z",
+      "summary": "Proposta prevê ambientes com condições mínimas de privacidade e capacitação dos profissionais para evitar a exposição indevida de informações pessoais sensíveis",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Futuros dos EUA sobem no pré-mercado, buscando recuperação após tombo da semana passada",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/futuros-dos-eua-sobem-no-pre-mercado-buscando-recuperar-tombo-da-semana-passada.shtml",
+      "date": "2026-11-23T11:21:00.000Z",
+      "summary": "Os contratos futuros das Bolsas dos Estados Unidos apontam para uma recuperação na manhã desta segunda-feira (23) após enfrentar uma forte queda na última sexta-feira (20). Na Ásia, as Bolsas da China tiveram altas moderadas e o mercado da Coreia do Sul voltou",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lula exonera ministro para votação do projeto de ajuste na Câmara; medida é temporária",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/23/lula-exonera-ministro-da-articulacao-para-votacao-do-projeto-de-ajuste-na-camara-medida-e-temporaria.ghtml",
+      "date": "2026-11-23T11:12:40.000Z",
+      "summary": "O presidente Luiz Inácio Lula da Silva (PT) exonerou temporariamente o ministro da Secretaria de Relações Institucionais (SRI), José Guimarães, responsável pela articulação política do governo com o Congresso. Assinada na quinta-feira (19), a exoneração foi pu",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Caos digital alimenta teorias de ataque cibernético nos Estados Unidos",
+      "link": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/11/23/caos-digital-alimenta-teorias-de-ataque-cibernetico-nos-estados-unidos.ghtml",
+      "date": "2026-11-23T11:07:06.000Z",
+      "summary": "Cancelamento de voos, instabilidade em serviços e invasões hackers aumentam preocupações. Problema, no entanto, reflete cortes orçamentários da gestão Trump. Kevin Horvart/Unplash No último dia 12 de novembro, trabalhadores em todo o mundo tiveram uma surpresa",
+      "source": "g1",
       "cat": "economia",
       "type": "imprensa"
     },
@@ -154,7 +289,7 @@
       "title": "Câmara deve votar ajuste fiscal; proposta do governo pretende economizar R$ 70 bilhões",
       "link": "https://www.camara.leg.br/noticias/1321186-camara-deve-votar-ajuste-fiscal-proposta-do-governo-pretende-economizar-r-70-bilhoes",
       "date": "2026-11-23T10:57:00.000Z",
-      "summary": "Projetos em alusão à Semana da Consciência Negra também estão na pauta do Plenário na próxima semana",
+      "summary": "Projetos em alusão à Semana da Consciência Negra também estão na pauta do Plenário",
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
@@ -166,33 +301,6 @@
       "summary": "Há 200 anos, em 23 de novembro de 1826, os governos britânico e brasileiro assinaram um acordo que estipulava o fim do tráfico transatlântico de africanos escravizados para o Brasil; mas, na prática, nada mudou.",
       "source": "BBC News Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Futuros do Brent recuam e ficam abaixo de US$ 90",
-      "link": "https://www.poder360.com.br/poder-economia/futuros-do-brent-recuam-e-ficam-abaixo-de-us-90/",
-      "date": "2026-11-23T10:07:42.000Z",
-      "summary": "IEA projeta que a oferta global de petróleo superará a demanda no 4º trimestre, mas tensões geopolíticas limitam queda",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Após Master, CGU apura evolução patrimonial de funcionários do BC",
-      "link": "https://www.poder360.com.br/poder-governo/apos-master-cgu-apura-evolucao-patrimonial-de-funcionarios-do-bc/",
-      "date": "2026-11-23T09:46:50.000Z",
-      "summary": "Ministro afirma que BC vem colaborando com investigação da Controladoria; 2 servidores foram afastados por relação com Vorcaro",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Trump reúne investidores de sua criptomoeda após queda de valor",
-      "link": "https://www.poder360.com.br/poder-internacional/trump-reune-investidores-de-sua-criptomoeda-apos-queda-de-valor/",
-      "date": "2026-11-23T09:41:49.000Z",
-      "summary": "Presidente dos EUA promoveu jantar em seu clube de golfe na Virgínia para compradores de sua memecoin, cuja cotação despencou",
-      "source": "Poder360",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -211,15 +319,6 @@
       "summary": "O relator do plano Moretti na Câmara, deputado Mauro Benevides Filho (União-CE), disse que vai apresentar outras propostas econômicas ao governo Lula na próxima semana após a aprovação do ajuste fiscal na Casa. Leia mais (11/23/2026 - 06h00)",
       "source": "Folha",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Espionagem chinesa que mira chips de IA antecede escândalo envolvendo Nvidia",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/espionagem-chinesa-que-mira-chips-de-ia-antecede-escandalo-envolvendo-nvidia.shtml",
-      "date": "2026-11-23T09:00:00.000Z",
-      "summary": "Quando a principal agência de espionagem da China atualizou suas prioridades neste ano, acrescentou um objetivo revelador: superar as barreiras ocidentais a tecnologias que Xi Jinping considera fundamentais para a ascensão do país. Leia mais (11/23/2026 - 06h0",
-      "source": "Folha",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -277,57 +376,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Black Friday exige atenção a golpes e compras por impulso; estratégias de criminosos mudaram",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/black-friday-exige-atencao-a-golpes-e-compras-por-impulso-estrategias-de-criminosos-mudaram.shtml",
-      "date": "2026-11-23T07:00:00.000Z",
-      "summary": "Esta semana deve ser uma das mais movimentadas para o varejo brasileiro, com a programação de ofertas para a Black Friday, que acontece na sexta-feira (27). Antes mesmo da data oficial, os consumidores devem receber diferentes propagandas e ofertas ao longo do",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "13º salário deve ser pago até segunda-feira (30); veja quem tem direito",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/13o-salario-deve-ser-pago-ate-segunda-feira-30-veja-quem-tem-direito.shtml",
-      "date": "2026-11-23T07:00:00.000Z",
-      "summary": "O pagamento da primeira parcela do 13º salário deve ser feito até a próxima segunda-feira (30) a trabalhadores contratados pela CLT (Consolidação das Leis do Trabalho) e servidores públicos. Leia mais (11/23/2026 - 04h00)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Brasil é o 4º mais feliz do mundo no trabalho; veja ranking e por que o país supera nações mais ricas",
-      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/23/brasil-e-o-4o-mais-feliz-do-mundo-no-trabalho-veja-ranking-e-por-que-o-pais-supera-nacoes-mais-ricas.ghtml",
-      "date": "2026-11-23T06:00:00.000Z",
-      "summary": "Amizade no trabalho ajuda ou atrapalha a carreira? Entenda os limites O Brasil ocupa a 4ª posição no ranking global de felicidade no trabalho e aparece à frente de economias como Estados Unidos, Alemanha e Japão. (veja o ranking abaixo) O resultado faz parte d",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Batatas espaciais: cientistas descobrem como cultivar alimento em solo semelhante ao da Lua",
-      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/23/batatas-espaciais-cientistas-descobrem-como-cultivar-alimento-em-solo-semelhante-ao-da-lua.ghtml",
-      "date": "2026-11-23T06:00:00.000Z",
-      "summary": "Batatas cultivadas em solo que simula as condições da Lua em laboratório da Universidade Estadual do Oregon Sean Nealon/Universidade Estadual do Oregon/Divulgação via REUTERS A batata é uma das culturas mais importantes do planeta e fonte de amido, vitaminas, ",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Câmara vota projeto de ajuste fiscal nesta segunda; projeção de economia é de R$ 50 bilhões em 2027",
       "link": "https://g1.globo.com/politica/noticia/2026/11/23/camara-vota-projeto-de-ajuste-fiscal-nesta-segunda-projecao-de-economia-e-de-r-50-bilhoes-em-2027.ghtml",
       "date": "2026-11-23T03:00:01.000Z",
       "summary": "Ajuste fiscal deve ser votado na segunda-feira A Câmara dos Deputados deve votar nesta segunda-feira (23) a proposta de ajuste fiscal do governo do presidente Luiz Inácio Lula da Silva (PT). O texto já foi aprovado no Senado Federal. O relator da proposta na C",
       "source": "g1",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Quais são os próximos feriados de 2026? Veja o único que resta",
-      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/23/quais-sao-os-proximos-feriados-de-2026.ghtml",
-      "date": "2026-11-23T03:00:01.000Z",
-      "summary": "Decoração Natal Luz em Gramado Cleiton Thiele/ SerraPress Após o feriadão da Consciência Negra, celebrado na sexta-feira (20), muitos trabalhadores já estão de olho no próximo período de descanso. A data permitiu emendar três dias de folga para quem não precis",
-      "source": "g1",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -364,15 +418,6 @@
       "summary": "Silenciados pelo temor de represálias do Kremlin, integrantes da elite empresarial começam a imaginar como será o país quando o atual presidente deixar o poder.",
       "source": "BBC News Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Fracasso da COP-31 reforça importância do Brasil avançar em metas climáticas",
-      "link": "https://www.estadao.com.br/politica/diogo-schelp/fracasso-da-cop-31-reforca-importancia-do-brasil-avancar-em-metas-climaticas/",
-      "date": "2026-11-22T23:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -463,24 +508,6 @@
       "summary": "Dezenas de australianos deixaram seu país no final do século XIX em busca de um lugar melhor para viver. O país escolhido foi o Paraguai.",
       "source": "BBC News Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "PEC da Segurança: como uma guarda civil municipal pode virar polícia e o que muda para a população",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/22/pec-da-seguranca-como-uma-guarda-civil-municipal-pode-virar-policia.ghtml",
-      "date": "2026-11-22T03:00:00.000Z",
-      "summary": "Guarda Municipal de Maceió Ascom Semsc A PEC da Segurança Pública, aprovada em definitivo pelo Congresso em 3 de novembro, permite que os prefeitos passem a contar com uma polícia municipal. A nova força pode ser criada do zero ou ter como origem guardas civis",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Câmara deve votar projeto de ajuste fiscal nesta segunda",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/22/camara-deve-votar-projeto-de-ajuste-fiscal-nesta-segunda.ghtml",
-      "date": "2026-11-22T03:00:00.000Z",
-      "summary": "Ajuste fiscal deve ser votado na segunda-feira A Câmara dos Deputados deve votar nesta segunda-feira (23) a proposta de ajuste fiscal do governo. O relator da proposta, deputado Mauro Benevides (União Brasil-CE), manteve o mesmo texto aprovado pelo Senado na s",
-      "source": "g1",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -583,24 +610,6 @@
       "type": "oficial"
     },
     {
-      "title": "Comissão aprova fim de carência para salário-maternidade de três categorias",
-      "link": "https://www.camara.leg.br/noticias/1321151-comissao-aprova-fim-de-carencia-para-salario-maternidade-de-tres-categorias",
-      "date": "2026-11-19T21:23:00.000Z",
-      "summary": "O projeto continua em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Comissão aprova criação de centros de acolhimento de curta permanência para idosos",
-      "link": "https://www.camara.leg.br/noticias/1321363-comissao-aprova-criacao-de-centros-de-acolhimento-de-curta-permanencia-para-idosos",
-      "date": "2026-11-19T21:20:00.000Z",
-      "summary": "O projeto continua em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
       "title": "Damares defende protocolo nacional para desaparecimento de crianças",
       "link": "https://www12.senado.leg.br/noticias/materias/2026/11/19/damares-defende-protocolo-nacional-para-desaparecimento-de-criancas",
       "date": "2026-11-19T21:14:51.000Z",
@@ -616,15 +625,6 @@
       "summary": "",
       "source": "Banco Central",
       "cat": "economia",
-      "type": "oficial"
-    },
-    {
-      "title": "Comissões propõem R$ 85,9 bilhões em emendas ao Orçamento de 2027",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/19/comissoes-propoem-r-85-9-bilhoes-em-emendas-ao-orcamento-de-2027",
-      "date": "2026-11-19T21:12:59.000Z",
-      "summary": "Dezesseis comissões do Senado e do Congresso Nacional aprovaram, na terça-feira (17) e na quarta-feira (18), emendas aos projetos do Orçamento e da Lei de Diretrizes Orçamentárias de 2027. As 96 emendas de apropriação somam R$ 85,9 bilhões e propõem recursos p",
-      "source": "Agência Senado",
-      "cat": "politica",
       "type": "oficial"
     },
     {
