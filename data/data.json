@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-23T01:58:35.540Z",
+  "updated": "2026-11-23T02:56:43.600Z",
   "market": {
     "ibov": {
       "price": 166376.44,
       "pct": -0.69,
-      "time": "2026-11-23T01:58:30.849Z",
+      "time": "2026-11-23T02:56:37.837Z",
       "history": [
         {
           "d": "2026-10-26",
@@ -133,6 +133,87 @@
   },
   "news": [
     {
+      "title": "“Situações” colocaram eleição do Brasil em dúvida, diz chanceler de Milei",
+      "link": "https://www.poder360.com.br/poder-internacional/situacoes-colocaram-eleicao-do-brasil-em-duvida-diz-chanceler-de-milei/",
+      "date": "2026-11-23T02:29:14.000Z",
+      "summary": "Pablo Quirno questionou o processo eleitoral, mas disse que cabe ao TSE reconhecer o resultado da disputa",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Leia a íntegra da proposta da UE para taxar big techs",
+      "link": "https://www.poder360.com.br/poder-tech/leia-a-integra-da-proposta-da-ue-para-taxar-big-techs/",
+      "date": "2026-11-23T02:19:17.000Z",
+      "summary": "Documento sugere cobrança de 3% sobre receitas digitais de grandes empresas de tecnologia",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Sebastião Coelho critica luz vermelha no Planalto e cobra explicação",
+      "link": "https://www.poder360.com.br/poder-governo/sebastiao-coelho-critica-luz-vermelha-no-planalto-e-cobra-explicacao/",
+      "date": "2026-11-23T02:15:42.000Z",
+      "summary": "Em vídeo, ex-desembargador lamentou o apoio de parte dos eleitores cristãos a Lula e criticou o Congresso Nacional",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Venda de ações de tecnologia se intensifica na Ásia no começo da semana",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/venda-de-acoes-de-tecnologia-se-intensifica-na-asia-no-comeco-da-semana.shtml",
+      "date": "2026-11-23T02:13:00.000Z",
+      "summary": "A onda de vendas de ações ligadas ao boom da inteligência artificial se intensificou na abertura do mercado asiático no fim deste domingo (22), com as maiores fabricantes de chips da Coreia do Sul ampliando as perdas na esteira do que aconteceu em Wall Street ",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Pavimentação que ameaça floresta amazônica deve avançar em 2027 com resultado eleitoral",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/pavimentacao-que-ameaca-floresta-amazonica-deve-avancar-em-2027-com-resultado-eleitoral.shtml",
+      "date": "2026-11-23T02:00:00.000Z",
+      "summary": "Apontada como uma grande ameaça para uma das áreas mais preservadas da floresta amazônica, a pavimentação de aproximadamente 400 quilômetros da rodovia BR-319 deverá ter impulso em 2027 após defensores da obra terem vencido as eleições de outubro para governos",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "A idiotia portuguesa sobre o Brasil",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/mafalda-anjos/2026/11/a-idiotia-portuguesa-sobre-o-brasil.shtml",
+      "date": "2026-11-23T02:00:00.000Z",
+      "summary": "Desde que sou colunista da Folha, muitos portugueses me procuram para falar do Brasil e dos brasileiros. Uma das coisas que me diverte tanto como impressiona é tentar perceber onde acaba o conhecimento empírico e começa a montanha de preconceitos instalados na",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Real se desvaloriza mais de 17% desde vitória de Lula e impulsiona ativos de proteção",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/real-se-desvaloriza-mais-de-17-desde-vitoria-de-lula-e-impulsiona-ativos-de-protecao.shtml",
+      "date": "2026-11-23T02:00:00.000Z",
+      "summary": "O real é a moeda que mais se desvalorizou desde a vitória de Lula (PT) entre as 20 divisas mais negociadas do mundo, com recuo de 17,65%. O levantamento considera a lista do BIS (espécie de banco dos bancos centrais) das moedas com maior volume de negociações ",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "IA pode aposentar planilhas no controle das finanças; veja o que já existe",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/ia-pode-aposentar-planilhas-no-controle-das-financas-veja-o-que-ja-existe.shtml",
+      "date": "2026-11-23T02:00:00.000Z",
+      "summary": "Um dos desafios de quem tenta organizar as finanças pessoais é reunir informações espalhadas por diferentes instituições. Conferir faturas, lembrar-se de transferências e acessar vários aplicativos de investimentos tornam cansativo o processo de consolidar tud",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Verba para reajustes de servidores em 2027 é insuficiente para repor a inflação",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/verba-para-reajustes-de-servidores-em-2027-e-insuficiente-para-repor-a-inflacao.shtml",
+      "date": "2026-11-23T02:00:00.000Z",
+      "summary": "O governo de Luiz Inácio Lula da Silva (PT) reservou R$ 8,8 bilhões na proposta de Orçamento de 2027 para reajustes salariais de servidores do Poder Executivo, mas o valor é insuficiente para garantir a reposição da inflação para todo o funcionalismo no ano qu",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "Democratas garantem 258 cadeiras na Câmara, melhor resultado desde 1992",
       "link": "https://www.poder360.com.br/poder-internacional/democratas-garantem-258-cadeiras-na-camara-melhor-resultado-desde-1992/",
       "date": "2026-11-23T01:08:33.000Z",
@@ -148,51 +229,6 @@
       "summary": "",
       "source": "Estadão",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Agência de aviação suspende voos da Delta após falha de sistema",
-      "link": "https://www.poder360.com.br/poder-internacional/agencia-de-aviacao-suspende-voos-da-delta-apos-falha-de-sistema/",
-      "date": "2026-11-23T00:48:28.000Z",
-      "summary": "Administração Federal de Aviação dos EUA adiou todas as viagens operadas pela companhia com destino e partida em Atlanta",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Cientista da OpenAI propõe limitar uso de IA no setor com base na inteligência dos modelos",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/cientista-da-openai-propoe-limitar-uso-de-ia-no-setor-com-base-na-inteligencia-dos-modelos.shtml",
-      "date": "2026-11-23T00:34:00.000Z",
-      "summary": "Os desenvolvedores de inteligência artificial deveriam adotar limites comuns para modelos cada vez mais poderosos e usar a \"perplexidade\" como métrica comum para medir o avanço da IA em todo o setor, afirmou neste domingo o cientista-chefe da OpenAI, em uma pr",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Trump assina lei que encerra produção de moeda de US$ 0,01",
-      "link": "https://www.poder360.com.br/poder-internacional/trump-assina-lei-que-encerra-producao-de-moeda-de-us-001/",
-      "date": "2026-11-23T00:02:49.000Z",
-      "summary": "“Lei dos Centavos Comuns” extingue oficialmente a produção da moeda de 1 centavo de dólar, conhecida como “penny”",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Governo reconhece calamidade em Tupanciretã após temporal no RS",
-      "link": "https://www.poder360.com.br/poder-brasil/governo-reconhece-calamidade-em-tupancireta-apos-temporal-no-rs/",
-      "date": "2026-11-22T23:54:49.000Z",
-      "summary": "Tempestade deixou 5 mortos e 265 feridos no município gaúcho; quase 20.000 pessoas estão desalojadas",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Petróleo abre semana em queda após elevação dos estoques nos Estados Unidos",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/petroleo-abre-semana-em-queda-apos-elevacao-dos-estoques-nos-estados-unidos.shtml",
-      "date": "2026-11-22T23:36:00.000Z",
-      "summary": "Os contratos futuros do petróleo tipo Brent, referência mundial da commodity, reabriram em forte queda de 3,35% na noite deste domingo (22), negociados a US$ 89,39 o barril. O movimento ocorre após aumentos consecutivos nos estoques de petróleo bruto dos Estad",
-      "source": "Folha",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -247,24 +283,6 @@
       "summary": "Da União Europeia ao Brasil, negociadores e ativistas classificaram ausência de acordo final na Cúpula do Clima como um retrocesso para o combate à crise climática.",
       "source": "DW Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Portos dos EUA enfrentam ataques cibernéticos, e hackers miram rotas comerciais vitais",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/infraestrutura/2026/11/portos-dos-eua-enfrentam-ataques-ciberneticos-e-hackers-miram-rotas-comerciais-vitais.shtml",
-      "date": "2026-11-22T21:14:00.000Z",
-      "summary": "Hackers intensificam uma ofensiva cibernética contra portos e navios de carga dos Estados Unidos ao bombardear artérias vitais do comércio global com milhares de tentativas de ataque todos os dias. Leia mais (11/22/2026 - 18h14)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Você realmente precisa ter parte do patrimônio em dólar?",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/blogs/de-grao-em-grao/2026/11/voce-realmente-precisa-ter-parte-do-patrimonio-em-dolar.shtml",
-      "date": "2026-11-22T21:00:00.000Z",
-      "summary": "Você já ouviu que todo investidor brasileiro deveria manter pelo menos 10%, 20% ou até 30% do patrimônio em dólar? Essa recomendação se tornou tão comum que muitos investidores acreditam estar assumindo um risco desnecessário quando mantêm todo o dinheiro no B",
-      "source": "Folha",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -346,24 +364,6 @@
       "summary": "O sorvete é sinônimo da Itália, mas suas origens modernas remontam a uma humilde leiteria na Toscana e a um par de refrigeradores abandonados após a Segunda Guerra Mundial.",
       "source": "BBC News Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Cleitinho elogia Ana Elisa e diz ter orgulho da deputada petista",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/cleitinho-elogia-ana-elisa-e-diz-ter-orgulho-da-deputada-petista.shtml",
-      "date": "2026-11-22T18:04:00.000Z",
-      "summary": "O governador eleito de Minas Gerais, Cleitinho Azevedo (Republicanos), emocionou-se ao falar sobre a eleição de Ana Elisa (PT), de 21 anos, que será uma das deputadas federais mais jovens do país. Leia mais (11/22/2026 - 15h04)",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Associação de bebidas destiladas não se opõe à MP do 'imposto do pecado', mas quer previsibilidade sobre alíquotas",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/associacao-de-bebidas-destiladas-nao-se-opoe-a-mp-do-imposto-do-pecado-mas-quer-previsibilidade-sobre-aliquotas.shtml",
-      "date": "2026-11-22T18:00:00.000Z",
-      "summary": "Após alguns setores tentarem modificar a Medida Provisória que regulamenta o Imposto Seletivo, mais conhecido como \"imposto do pecado\", a Associação Brasileira de Bebidas Destiladas (ABBD) afirmou que não se opõe ao texto do governo que, segundo a entidade, re",
-      "source": "Folha",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
