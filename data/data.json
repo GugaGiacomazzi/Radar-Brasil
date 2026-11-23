@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-23T13:48:16.441Z",
+  "updated": "2026-11-23T14:58:23.269Z",
   "market": {
     "ibov": {
-      "price": 164194.45,
-      "pct": -1.31,
-      "time": "2026-11-23T13:48:11.459Z",
+      "price": 165042.27,
+      "pct": -0.8,
+      "time": "2026-11-23T14:58:16.700Z",
       "history": [
         {
           "d": "2026-10-26",
@@ -80,7 +80,7 @@
         },
         {
           "d": "2026-11-23",
-          "c": 164547.7188
+          "c": 165138.4531
         }
       ]
     },
@@ -137,6 +137,240 @@
   },
   "news": [
     {
+      "title": "9º Prêmio de Jornalismo em Seguros oferece até R$ 20 mil para reportagens",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/blogs/novo-em-folha/2026/11/9o-premio-de-jornalismo-em-seguros-oferece-ate-r-20-mil-para-reportagens.shtml",
+      "date": "2026-11-23T14:54:00.000Z",
+      "summary": "Estão abertas as inscrições para o 9º Prêmio de Jornalismo em Seguros, promovido pela Escola de Negócios e Seguros (ENS), pela Federação Nacional dos Corretores de Seguros (Fenacor) e pela Confederação Nacional das Empresas de Seguros (CNseg). A iniciativa dis",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Braskem fecha acordo com credores para capitalização de US$ 4,9 bilhões, dizem fontes",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/braskem-fecha-acordo-com-credores-para-capitalizacao-de-us-49-bilhoes-dizem-fontes.shtml",
+      "date": "2026-11-23T14:53:00.000Z",
+      "summary": "A Braskem fechou acordo com seus credores para reestruturar a dívida da petroquímica, com uma capitalização total de US$ 4,9 bilhões (R$ 29 bilhões, pela cotação atual), segundo fontes próximas às negociações. A Petrobras aportará US$ 1,3 bilhão desse total. L",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Fim da escala 6X1 deve beneficiar mais de 100 mil trabalhadores domésticos, estima instituto",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/23/fim-da-escala-6x1-deve-beneficiar-mais-de-100-mil-trabalhadores-domesticos-estima-instituto.ghtml",
+      "date": "2026-11-23T14:44:35.000Z",
+      "summary": "O fim da escala 6 por 1, regulamentado pelo presidente Luiz Inácio Lula da Silva, vai impactar cerca de 102 mi trabalhadores domésticos no país, estimou nesta segunda-feira (23) o Instituto Doméstica Legal. O levantamento foi feito com base em uma amostra de 8",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Nvidia anuncia volta de Jensen Huang como CEO",
+      "link": "https://www.dw.com/pt-br/nvidia-anuncia-volta-de-jensen-huang-como-ceo/a-80022066?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-23T14:39:00.000Z",
+      "summary": "Fora do cargo há menos de 2 semanas na esteira da revelação de caso com uma suposta espiã chinesa, fundador da Nvidia volta ao cargo de CEO após decisão unânime do Conselho de Administração. Ações da empresa disparam.",
+      "source": "DW Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Miniatura de F-1, cinzeiro de vidro e lote de cadeiras: leilão do Master tem itens de até R$ 30 mil",
+      "link": "https://www.estadao.com.br/economia/miniatura-de-f-1-cinzeiro-de-vidro-e-lote-de-cadeiras-leilao-do-master-tem-itens-de-ate-r-30-mil/",
+      "date": "2026-11-23T14:37:45.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Escala 5x2: AGU diz ao STF que decisão provisória de Dino não é mais necessária após regulamentação do governo",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/23/escala-5x2-agu-diz-ao-stf-que-decisao-provisoria-de-dino-nao-e-mais-necessaria-apos-regulamentacao-do-governo.ghtml",
+      "date": "2026-11-23T14:35:47.000Z",
+      "summary": "A Advocacia Geral da União (AGU) pediu nesta segunda-feira (23) que o Supremo Tribunal Federal (STF) reconheça que não é mais necessária a decisão liminar do ministro Flávio Dino que alterou parâmetros da transição para a escala 5x2, depois que o governo edito",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Comissão debate atuação e perspectivas futuras da Fundação Nacional de Saúde",
+      "link": "https://www.camara.leg.br/noticias/1321191-comissao-debate-atuacao-e-perspectivas-futuras-da-fundacao-nacional-de-saude",
+      "date": "2026-11-23T14:32:00.000Z",
+      "summary": "",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "A Torre de Babel na Era da IA",
+      "link": "https://www.estadao.com.br/economia/gestao-e-negocios/a-torre-de-babel-na-era-da-ia/",
+      "date": "2026-11-23T14:31:14.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lei autoriza crédito de R$ 11,8 milhões para obras e equipamentos no Judiciário",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/23/lei-autoriza-credito-de-r-11-8-milhoes-para-obras-e-equipamentos-no-judiciario",
+      "date": "2026-11-23T14:27:47.000Z",
+      "summary": "O Superior Tribunal de Justiça (STJ), a Justiça Federal e a Justiça Militar da União receberão R$ 11,8 milhões em crédito suplementar para obras, aquisição de equipamentos e auxílio-moradia. O reforço de recursos foi autorizado pela Lei 15.551, de 2026, sancio",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Conselho da Nvidia reconduz Jensen Huang ao cargo de CEO por unanimidade",
+      "link": "https://www.estadao.com.br/economia/conselho-da-nvidia-reconduz-jensen-huang-ao-cargo-de-ceo-por-unanimidade-npr/",
+      "date": "2026-11-23T14:21:14.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Jensen Huang de volta à Nvidia: veja a cronologia da crise que envolve traição e suspeita de espionagem",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/23/jensen-huang-nvidia-cronologia-crise.ghtml",
+      "date": "2026-11-23T14:20:45.000Z",
+      "summary": "Jensen Huang, CEO da Nvidia, durante evento em Washington Julia Demaree Nikhinson/AP Photo A Nvidia anunciou nesta segunda-feira (23) a volta de Jensen Huang como CEO da empresa. A decisão ocorre cerca de dez dias após a sua renúncia em um processo de crise na",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Galípolo diz que controle da inflação é prioridade do Banco Central",
+      "link": "https://www.poder360.com.br/poder-economia/galipolo-diz-que-controle-da-inflacao-e-prioridade-do-banco-central/",
+      "date": "2026-11-23T14:20:44.000Z",
+      "summary": "Presidente do BC afirmou também que é possível manter programas sociais e rever regras fiscais",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Nvidia dispara 30% no pré-mercado após volta de Jensen Huang; Nasdaq sobe 6%",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/23/nvidia-huang-volta-nasdaq.ghtml",
+      "date": "2026-11-23T14:20:18.000Z",
+      "summary": "Ex-chefe da Nvidia diz que gostaria de voltar ao comando da empresa As ações da Nvidia avançaram 29,5% nas negociações do pré-mercado nesta segunda-feira (23), após a empresa anunciar o retorno de Jensen Huang ao cargo de presidente-executivo (CEO). O moviment",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Como dois refrigeradores abandonados pelo exército dos EUA na Toscana deram origem ao sorvete italiano",
+      "link": "https://www.bbc.com/portuguese/articles/cqr7g87en4pno?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-23T14:16:04.000Z",
+      "summary": "O sorvete é sinônimo da Itália, mas suas origens modernas remontam a uma humilde leiteria na Toscana e a um par de refrigeradores abandonados após a Segunda Guerra Mundial.",
+      "source": "BBC News Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Trump celebra retorno de Jensen Huang ao comando da Nvidia e diz que não há risco de segurança nacional",
+      "link": "https://g1.globo.com/mundo/noticia/2026/11/23/trump-celebra-retorno-de-jensen-huang-ao-comando-da-nvidia-e-diz-que-nao-ha-risco-de-seguranca-nacional.ghtml",
+      "date": "2026-11-23T14:14:05.000Z",
+      "summary": "Jensen Huang, CEO da Nvidia, ao lado de Donald Trump, presidente dos Estados Unidos, em foto de 8 de outubro de 2026 Reuters/Evan Vucci O presidente dos Estados Unidos, Donald Trump, celebrou nesta segunda-feira (23) a decisão do conselho administrativo da Nvi",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Nvidia reconduz Jensen Huang ao cargo de CEO, e ações disparam",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/nvidia-reconduz-jensen-huang-ao-cargo-de-ceo.shtml",
+      "date": "2026-11-23T14:12:00.000Z",
+      "summary": "A Nvidia reconduziu Jensen Huang ao cargo de CEO, em uma reviravolta surpreendente. A decisão fez as ações da gigante de IA dispararem nesta segunda-feira (23) Leia mais (11/23/2026 - 11h12)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "É possível manter programas sociais e rever regras fiscais, diz Galípolo",
+      "link": "https://www.poder360.com.br/poder-economia/e-possivel-manter-programas-sociais-e-rever-regras-fiscais-diz-galipolo/",
+      "date": "2026-11-23T14:00:53.000Z",
+      "summary": "Presidente do BC afirmou também que a estabilidade de preços é o “principal mandato” da política monetária",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Depois do Super El Niño, seca e Nordeste ganham espaço nos grupos de mensagem",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/encaminhado-com-frequencia/2026/11/depois-do-super-el-nino-seca-e-nordeste-ganham-espaco-nos-grupos-de-mensagem.shtml",
+      "date": "2026-11-23T14:00:00.000Z",
+      "summary": "O El Niño, o aquecimento das águas do Pacífico que altera o regime de chuvas no Brasil, está entre os mais intensos já registrados, com pico previsto para dezembro e janeiro. Leia mais (11/23/2026 - 11h00)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lei da Dosimetria: a liberdade não pode esperar e a Justiça, muito menos",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/lei-da-dosimetria-a-liberdade-nao-pode-esperar-e-a-justica-muito-menos/",
+      "date": "2026-11-23T14:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "COP31 termina sem acordo e escancara divisão entre países sobre combustíveis fósseis",
+      "link": "https://www.bbc.com/portuguese/articles/cq742zpk1ln4o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-23T13:58:49.000Z",
+      "summary": "Negociações, que deveriam ter terminado na sexta-feira, se estenderam até o fim de semana, tornando essa a conferência climática da ONU mais longa da história.",
+      "source": "BBC News Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Câmara analisa pacote de ajuste fiscal do governo nesta 2ª feira",
+      "link": "https://www.poder360.com.br/poder-congresso/camara-analisa-pacote-de-ajuste-fiscal-do-governo-nesta-2a-feira/",
+      "date": "2026-11-23T13:56:20.000Z",
+      "summary": "Proposta precisa ser aprovada sem mudanças pelos deputados para seguir à sanção presidencial",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Promotores no Espírito Santo ganham aval para escolher 561 assessores sem concurso público",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/promotores-no-espirito-santo-ganham-carta-branca-para-escolher-561-assessores-sem-concurso-publico/",
+      "date": "2026-11-23T13:54:36.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lei abre crédito de R$ 290 milhões para a Eletronuclear investir em Angra 3",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/23/lei-abre-credito-de-r-290-milhoes-para-a-eletronuclear-investir-em-angra-3",
+      "date": "2026-11-23T13:54:25.000Z",
+      "summary": "Uma nova lei abre crédito suplementar de R$ 290 milhões para a Eletronuclear S.A., no Orçamento de Investimento da União, para reforçar os recursos destinados à implantação da Usina Termonuclear Angra 3. A Lei 15.547, de 2026, foi sancionada pelo presidente da",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Justiça libera R$ 2,8 bilhões em atrasados do INSS; veja quem recebe",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/justica-libera-r-28-bilhoes-em-atrasados-do-inss-veja-quem-recebe.shtml",
+      "date": "2026-11-23T13:52:00.000Z",
+      "summary": "O CJF (Conselho da Justiça Federal) liberou R$ 2,8 bilhões para pagar os atrasados a aposentados, pensionistas e demais beneficiários que derrotaram o INSS (Instituto Nacional do Seguro Social) na Justiça, em ações de revisão ou concessão de benefícios previde",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Projeto garante transporte gratuito para estudantes de cursos técnicos e de qualificação profissional",
+      "link": "https://www.camara.leg.br/noticias/1321657-projeto-garante-transporte-gratuito-para-estudantes-de-cursos-tecnicos-e-de-qualificacao-profissional",
+      "date": "2026-11-23T13:49:00.000Z",
+      "summary": "Para virar lei, proposta precisa ser aprovada por deputados e senadores",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Galípolo defende conciliar agenda social e regras fiscais para conter a dívida",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/galipolo-defende-conciliar-agenda-social-e-regras-fiscais-para-conter-a-divida.shtml",
+      "date": "2026-11-23T13:48:00.000Z",
+      "summary": "O presidente do BC (Banco Central), Gabriel Galípolo, defendeu nesta segunda-feira (23) a revisão de regras fiscais que, segundo ele, podem perpetuar o crescimento das despesas públicas, aumentar a pressão sobre a inflação e, consequentemente, exigir mais da p",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "Alta do dólar impulsiona preços de grão e derivados",
       "link": "https://www.poder360.com.br/poder-economia/alta-do-dolar-impulsiona-precos-de-grao-e-derivados/",
       "date": "2026-11-23T13:25:13.000Z",
@@ -182,33 +416,6 @@
       "type": "oficial"
     },
     {
-      "title": "Dólar perto de R$ 8 e fuga de US$ 460 bi: gestora vê cenário sombrio no Brasil sem ajuste fiscal",
-      "link": "https://www.estadao.com.br/economia/dolar-fuga-de-capital-cenario-sombrio-ajuste-fiscal-ashmore/",
-      "date": "2026-11-23T13:04:36.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Controle da inflação é prioridade do Banco Central, diz Galípolo",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/23/galipolo-evento-itau.ghtml",
-      "date": "2026-11-23T13:04:33.000Z",
-      "summary": "Presidente do BC, Gabriel Galípolo CLÁUDIO REIS/ENQUADRAR/ESTADÃO CONTEÚDO O presidente do Banco Central (BC), Gabriel Galípolo, afirmou nesta segunda-feira (23) que a prioridade para a instituição é o controle da inflação. \"Tentamos muito cumprir o nosso mand",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "CVM suspende registro de BRB, Refit, Ambipar e mais duas companhias abertas por falta de informações",
-      "link": "https://www.estadao.com.br/economia/cvm-suspende-registro-brb-refit-ambipar-falta-informacoes/",
-      "date": "2026-11-23T13:02:44.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Navio russo foi atingido na Líbia por drones ucranianos, diz Zelenski",
       "link": "https://www.dw.com/pt-br/navio-russo-foi-atingido-na-líbia-por-drones-ucranianos-diz-zelenski/a-80014687?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-23T13:02:00.000Z",
@@ -218,84 +425,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Crise do Ueno testa fôlego do Paraguai para atrair empresas que buscam menos impostos",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/crise-do-ueno-testa-folego-do-paraguai-para-atrair-empresas-que-buscam-menos-impostos.shtml",
-      "date": "2026-11-23T13:00:00.000Z",
-      "summary": "A crise bancária e política no Paraguai colocou em xeque o modelo de atração de investimentos do país vizinho, sobretudo para empresas brasileiras que buscam redução de custos de produção e menos impostos do outro lado da fronteira. Leia mais (11/23/2026 - 10h",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "China lamenta fracasso da COP31 mas afirma que transição verde é 'irreversível'",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/economia-sustentavel/2026/11/china-lamenta-fracasso-da-cop31-mas-afirma-que-transicao-verde-e-irreversivel.shtml",
-      "date": "2026-11-23T12:56:00.000Z",
-      "summary": "A China expressou nesta segunda-feira (23) sua decepção com o fracasso da conferência climática da ONU em alcançar um acordo após divergências sobre os combustíveis fósseis, mas insistiu que a transição ecológica mundial continua sendo \"irreversível\". Leia mai",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "“Se nada for feito, vamos para uma recessão”, diz Mendonça de Barros",
-      "link": "https://www.poder360.com.br/poder-economia/se-nada-for-feito-vamos-para-uma-recessao-diz-mendonca-de-barros/",
-      "date": "2026-11-23T12:48:11.000Z",
-      "summary": "Economista declara que medidas apresentadas até agora não são ajuste fiscal, mas “adequação do Orçamento” de 2027",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Macron propõe retomar plano para incluir regras fiscais na Constituição francesa",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/macron-propoe-retomar-plano-para-incluir-regras-fiscais-na-constituicao-francesa.shtml",
-      "date": "2026-11-23T12:47:00.000Z",
-      "summary": "O presidente francês, Emmanuel Macron, sugeriu retomar uma proposta de 15 anos atrás para incluir na Constituição um marco para as finanças públicas, como possível resposta às preocupações dos mercados financeiros com a trajetória fiscal da França. Leia mais (",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Plano de Moretti é um 'primeiro passo', e governo Lula pode fazer outros ajustes fiscais no futuro, afirma Laura Carvalho",
       "link": "https://www.bbc.com/portuguese/articles/cm1dvg9n5w2xo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-23T12:46:58.000Z",
       "summary": "Professora da USP esteve na primeira reunião econômica pós-reeleição de Lula. Para ela, desgaste público da proposta do ministro do Planejamento poderia ter sido evitado com melhor comunicação.",
       "source": "BBC News Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Dólar abre o dia em alta com votação do ajuste fiscal na Câmara",
-      "link": "https://www.poder360.com.br/poder-economia/dolar-abre-o-dia-em-alta-com-votacao-do-ajuste-fiscal-na-camara/",
-      "date": "2026-11-23T12:46:32.000Z",
-      "summary": "Às 9h31, a moeda norte-americana subia 0,75%, aos R$ 5,979; Casa Baixa analisa nesta 2ª feira o texto",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Dólar supera R$ 6 com votação de pacote fiscal e aversão global ao risco",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/dolar-abre-em-alta-e-supera-r-598-com-votacao-de-pacote-fiscal-e-aversao-global-ao-risco.shtml",
-      "date": "2026-11-23T12:44:00.000Z",
-      "summary": "O dólar voltou a superar R$ 6 após quase dois anos, impulsionado pelas preocupações com a política fiscal do governo Lula e pela maior aversão global ao risco, que aumenta a procura por ativos considerados mais seguros, como a moeda americana. Leia mais (11/23",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Mercado eleva projeção para inflação e dólar e prevê PIB menor em 2026",
-      "link": "https://www.estadao.com.br/economia/focus-mercado-eleva-projecao-inflacao-dolar-preve-pib-menor-2026/",
-      "date": "2026-11-23T12:35:50.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Pacote de ajuste fiscal do governo é um ‘band-aid’ para um problema grave",
-      "link": "https://www.estadao.com.br/economia/duquesa-de-tax/pacote-ajuste-fiscal-governo-band-aid-problema-grave/",
-      "date": "2026-11-23T12:30:05.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -326,15 +461,6 @@
       "type": "oficial"
     },
     {
-      "title": "Trump pede que Nvidia recontrate Jensen Huang em meio a novas revelações sobre suposta espionagem chinesa",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/23/trump-nvidia-jensen-huang-espionagem-china.ghtml",
-      "date": "2026-11-23T12:14:26.000Z",
-      "summary": "Jensen Huang, CEO da Nvidia, ao lado de Donald Trump, presidente dos Estados Unidos, em foto de 8 de outubro de 2026 Reuters/Evan Vucci O presidente dos Estados Unidos, Donald Trump, pediu que o conselho de administração da Nvidia recontrate Jensen Huang, ex-p",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Mesmo com ajuste, dólar deve seguir em alta enquanto Lula não indicar nome 'forte' para a Fazenda e novas medidas fiscais",
       "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/23/mesmo-com-ajuste-dolar-deve-seguir-em-alta-enquanto-lula-nao-indicar-nome-forte-para-a-fazenda-e-novas-medidas-fiscais.ghtml",
       "date": "2026-11-23T12:00:28.000Z",
@@ -344,73 +470,10 @@
       "type": "imprensa"
     },
     {
-      "title": "Dólar chega a R$ 6 pela primeira vez desde abril de 2025; Ibovespa abre em queda",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/23/dolar-ibovespa.ghtml",
-      "date": "2026-11-23T12:00:20.000Z",
-      "summary": "Dólar abre em alta e se aproxima de R$ 6 O dólar chegou a R$ 6 por volta das 10h desta segunda-feira (23), patamar que não atingia desde 9 de abril de 2025, quando alcançou R$ 6,0966 durante o pregão. Após atingir a marca, a moeda americana recuou e, às 10h17,",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Negociação de Eisenkot com partido de Netanyahu não avança",
-      "link": "https://www.poder360.com.br/poder-internacional/negociacao-de-eisenkot-com-partido-de-netanyahu-nao-avanca/",
-      "date": "2026-11-23T11:57:17.000Z",
-      "summary": "Representantes do Yashar e do Likud se reuniram por 4 horas; discutiram “questões centrais”, mas não trataram de quem seria premiê",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Comissão debate alíquota-base da Contribuição sobre Bens e Serviços",
       "link": "https://www.camara.leg.br/noticias/1320994-comissao-debate-aliquota-base-da-contribuicao-sobre-bens-e-servicos",
       "date": "2026-11-23T11:55:00.000Z",
       "summary": "Alíquota foi fixada em 11,3%",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Ministros precisam ser investigados financeiramente. Fachin vira obstáculo",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/ministros-precisam-ser-investigados-financeiramente-fachin-vira-obstaculo/",
-      "date": "2026-11-23T11:37:31.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Mercado financeiro eleva estimativa de inflação em 2026 e 2027 e projeta corte menor dos juros no ano que vem",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/23/mercado-financeiro-eleva-estimativa-de-inflacao-em-2026-e-2027-e-projeta-corte-menor-dos-juros-no-ano-que-vem.ghtml",
-      "date": "2026-11-23T11:34:45.000Z",
-      "summary": "Os analistas do mercado financeiro elevaram a estimativa de inflação em 2026 e 2027 e passaram a projetar corte menor de juros no ano que vem. As informações fazem parte do \"Boletim Focus\", divulgado nesta segunda-feira (23) pelo Banco Central (BC), com base e",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Projeto estabelece privacidade em atendimentos que envolvam dados sensíveis",
-      "link": "https://www.camara.leg.br/noticias/1321226-projeto-estabelece-privacidade-em-atendimentos-que-envolvam-dados-sensiveis",
-      "date": "2026-11-23T11:29:00.000Z",
-      "summary": "Proposta prevê ambientes com condições mínimas de privacidade e capacitação dos profissionais para evitar a exposição indevida de informações pessoais sensíveis",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Lula exonera ministro para votação do projeto de ajuste na Câmara; medida é temporária",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/23/lula-exonera-ministro-da-articulacao-para-votacao-do-projeto-de-ajuste-na-camara-medida-e-temporaria.ghtml",
-      "date": "2026-11-23T11:12:40.000Z",
-      "summary": "O presidente Luiz Inácio Lula da Silva (PT) exonerou temporariamente o ministro da Secretaria de Relações Institucionais (SRI), José Guimarães, responsável pela articulação política do governo com o Congresso. Assinada na quinta-feira (19), a exoneração foi pu",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Câmara deve votar ajuste fiscal; proposta do governo pretende economizar R$ 70 bilhões",
-      "link": "https://www.camara.leg.br/noticias/1321186-camara-deve-votar-ajuste-fiscal-proposta-do-governo-pretende-economizar-r-70-bilhoes",
-      "date": "2026-11-23T10:57:00.000Z",
-      "summary": "Projetos em alusão à Semana da Consciência Negra também estão na pauta do Plenário",
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
@@ -429,42 +492,6 @@
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/relator-do-plano-moretti-vai-sugerir-novas-medidas-fiscais-ao-governo-apos-votacao-na-camara.shtml",
       "date": "2026-11-23T09:00:00.000Z",
       "summary": "O relator do plano Moretti na Câmara, deputado Mauro Benevides Filho (União-CE), disse que vai apresentar outras propostas econômicas ao governo Lula na próxima semana após a aprovação do ajuste fiscal na Casa. Leia mais (11/23/2026 - 06h00)",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Com base menor, Lula chega a 2027 pressionado a recorrer a decretos diante de Congresso fortalecido",
-      "link": "https://www.estadao.com.br/politica/com-base-menor-lula-chega-a-2027-pressionado-a-recorrer-a-decretos-diante-de-congresso-fortalecido/",
-      "date": "2026-11-23T08:30:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Lula e Flávio acionaram TSE quase mil vezes durante campanha, mostra levantamento",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/lula-e-flavio-acionaram-tse-quase-mil-vezes-durante-campanha-mostra-levantamento.shtml",
-      "date": "2026-11-23T07:00:00.000Z",
-      "summary": "A disputa jurídica que se desenrolou durante os cerca de dois meses de campanha ao Palácio do Planalto em 2026 resultou em quase mil ações apresentadas no TSE (Tribunal Superior Eleitoral) pelo presidente reeleito, Lula (PT), e pelo candidato derrotado, senado",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Câmara vota projeto de ajuste fiscal nesta segunda; projeção de economia é de R$ 50 bilhões em 2027",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/23/camara-vota-projeto-de-ajuste-fiscal-nesta-segunda-projecao-de-economia-e-de-r-50-bilhoes-em-2027.ghtml",
-      "date": "2026-11-23T03:00:01.000Z",
-      "summary": "Ajuste fiscal deve ser votado na segunda-feira A Câmara dos Deputados deve votar nesta segunda-feira (23) a proposta de ajuste fiscal do governo do presidente Luiz Inácio Lula da Silva (PT). O texto já foi aprovado no Senado Federal. O relator da proposta na C",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Pavimentação que ameaça floresta amazônica deve avançar em 2027 com resultado eleitoral",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/pavimentacao-que-ameaca-floresta-amazonica-deve-avancar-em-2027-com-resultado-eleitoral.shtml",
-      "date": "2026-11-23T02:00:00.000Z",
-      "summary": "Apontada como uma grande ameaça para uma das áreas mais preservadas da floresta amazônica, a pavimentação de aproximadamente 400 quilômetros da rodovia BR-319 deverá ter impulso em 2027 após defensores da obra terem vencido as eleições de outubro para governos",
       "source": "Folha",
       "cat": "politica",
       "type": "imprensa"
@@ -493,24 +520,6 @@
       "date": "2026-11-22T20:33:00.000Z",
       "summary": "Partido assegura ao menos 258 das 435 cadeiras em disputa, seu melhor resultado desde a eleição de Bill Clinton. Desempenho amplia força no Congresso e eleva cobrança por avanços na agenda legislativa.",
       "source": "DW Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "COP31 termina sem acordo após impasse sobre combustíveis fósseis",
-      "link": "https://www.bbc.com/portuguese/articles/cq742zpk1ln4o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-22T20:14:02.000Z",
-      "summary": "Negociações, que deveriam ter terminado na sexta-feira, se estenderam até hoje, tornando essa a conferência climática da ONU mais longa da história.",
-      "source": "BBC News Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Como dois refrigeradores abandonados pelo exército dos EUA na Toscana deram origem ao sorvete italiano",
-      "link": "https://www.bbc.com/portuguese/articles/cqr7g87en4pno?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-22T19:34:31.000Z",
-      "summary": "O sorvete é sinônimo da Itália, mas suas origens modernas remontam a uma humilde leiteria na Toscana e a um par de refrigeradores abandonados após a Segunda Guerra Mundial.",
-      "source": "BBC News Brasil",
       "cat": "internacional",
       "type": "imprensa"
     },
@@ -551,15 +560,6 @@
       "type": "imprensa"
     },
     {
-      "title": "União Europeia propõe taxar big techs para financiar orçamento",
-      "link": "https://www.dw.com/pt-br/união-europeia-propõe-taxar-big-techs-para-financiar-orçamento/a-80010694?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-21T18:24:00.000Z",
-      "summary": "Proposta prevê cobrança de 3% sobre receitas de publicidade online de grandes empresas de tecnologia para ampliar as receitas do bloco.",
-      "source": "DW Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
       "title": "COP31: Países exigem acordo climático mais robusto na reta final das negociações",
       "link": "https://news.un.org/feed/view/pt/story/2026/11/1854976",
       "date": "2026-11-20T12:00:00.000Z",
@@ -594,6 +594,15 @@
       "source": "ONU News",
       "cat": "internacional",
       "type": "oficial"
+    },
+    {
+      "title": "Band realiza a 1ª edição do ‘Prêmio Inspira SP’ para celebrar destaques de 2026; veja como será",
+      "link": "https://www.estadao.com.br/economia/negocios/band-realiza-a-1-edicao-do-premio-inspira-sp-para-celebrar-destaques-de-2026-veja-como-sera/",
+      "date": "2026-11-19T22:45:28.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
     },
     {
       "title": "BC aperfeiçoa norma sobre a participação em operações no mercado aberto",
@@ -669,6 +678,7 @@
     }
   ],
   "errors": [
+    "IPCA 12m (SGS 13522): HTTP 304",
     "feed CNN Brasil: HTTP 404",
     "feed CNN Brasil: HTTP 404"
   ]
