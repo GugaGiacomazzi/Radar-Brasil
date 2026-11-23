@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-23T17:23:23.529Z",
+  "updated": "2026-11-23T18:32:18.488Z",
   "market": {
     "ibov": {
-      "price": 164954.48,
-      "pct": -0.85,
-      "time": "2026-11-23T17:23:18.867Z",
+      "price": 164810.38,
+      "pct": -0.94,
+      "time": "2026-11-23T18:32:10.930Z",
       "history": [
         {
           "d": "2026-10-26",
@@ -80,7 +80,7 @@
         },
         {
           "d": "2026-11-23",
-          "c": 164909.375
+          "c": 164810.375
         }
       ]
     },
@@ -137,12 +137,228 @@
   },
   "news": [
     {
-      "title": "Gilmar critica “atalhos” de ações bilionárias contra a União",
-      "link": "https://www.poder360.com.br/poder-justica/gilmar-critica-atalhos-de-acoes-bilionarias-contra-a-uniao/",
-      "date": "2026-11-23T17:17:35.000Z",
-      "summary": "Ministro do STF defende o fim de regra que concentra processos contra o governo em Brasília e pede que Congresso discuta o tema",
+      "title": "A tempestade perfeita (dentro e fora do Brasil) que fez dólar chegar a R$ 6",
+      "link": "https://www.bbc.com/portuguese/articles/cwm253lr95zjo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-23T18:27:19.000Z",
+      "summary": "Pressão fiscal no Brasil e dólar forte no exterior ajudam a explicar a maior desvalorização do real entre as principais moedas emergentes.",
+      "source": "BBC News Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Comissão de Segurança Pública ouve ministro da Justiça sobre reestruturação na Polícia Federal",
+      "link": "https://www.camara.leg.br/noticias/1321734-comissao-de-seguranca-publica-ouve-ministro-da-justica-sobre-reestruturacao-na-policia-federal",
+      "date": "2026-11-23T18:23:00.000Z",
+      "summary": "",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Preço do petróleo usado nos EUA fica abaixo de US$ 80 após três meses",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/10/25/6568-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post468067",
+      "date": "2026-11-23T18:20:00.000Z",
+      "summary": "O preço do petróleo WTI (West Texas Intermediate), usado nos EUA, ficou abaixo de US$ 80 (R$ 480,48) pela primeira vez desde agosto. Leia mais (11/23/2026 - 15h20)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Sem votação, duas medidas provisórias de crédito extraordinário perdem eficácia",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/23/sem-votacao-duas-medidas-provisorias-de-credito-extraordinario-perdem-eficacia",
+      "date": "2026-11-23T18:18:06.000Z",
+      "summary": "Duas medidas provisórias de crédito extraordinário perderam a eficácia por não terem sido votadas a tempo pelo Congresso Nacional. As medidas provisórias são editadas pela Presidência da República e entram em vigor assim que são publicadas no Diário Oficial da",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "CVM suspende registros de Ambipar, BRB e Refit por descumprimento de regras",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/cvm-suspende-registros-de-ambipar-brb-e-refit-por-descumprimento-de-regras.shtml",
+      "date": "2026-11-23T18:15:00.000Z",
+      "summary": "A CVM (Comissão de Valores Mobiliários), por meio da Superintendência de Relações com Empresas (SEP), suspendeu nesta segunda-feira (23) os registros de companhia aberta da Ambipar, do BRB (Banco de Brasília) e da Refit (Refinaria de Manguinhos). Com a decisão",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Bolsa de referência da UE tem maior alta diária em seis meses",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/10/25/6568-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post468066",
+      "date": "2026-11-23T18:14:00.000Z",
+      "summary": "O indice Euro STOXX 600, referência na União Europeia, fechou em alta de 1,9%, a 637,84 pontos, marcando sua maior valorização em um dia desde o início de maio. O índice de tecnologia da Europa liderou os ganhos setoriais com alta de 4,7%, recuperando-se da qu",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Trump posta Huang segurando sutiã para celebrar volta à Nvidia",
+      "link": "https://www.poder360.com.br/poder-china/trump-posta-huang-segurando-sutia-para-celebrar-volta-a-nvidia/",
+      "date": "2026-11-23T18:09:46.000Z",
+      "summary": "Imagem feita com IA imita foto do republicano depois do atentado de 2024",
       "source": "Poder360",
       "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Fazenda reduz previsão de crescimento da economia para 1,9% neste ano",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/23/fazenda-reduz-previsao-de-crescimento-da-economia-para-19percent-neste-ano.ghtml",
+      "date": "2026-11-23T18:08:00.000Z",
+      "summary": "O Ministério da Fazenda revisou mais uma vez para baixo a projeção de crescimento da economia brasileira neste ano, de 2% para 1,9%. A informação consta no relatório divulgado nesta segunda-feira (23). A redução foi motivada pela desaceleração da indústria, cu",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "'Queremos destruir o capitalismo': por dentro das manifestações dos 'black blocks' da esquerda radical na França",
+      "link": "https://www.bbc.com/portuguese/articles/cqe8700d7e8do?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-23T18:07:55.000Z",
+      "summary": "A BBC ouviu os manifestantes de extrema-esquerda acusados pelo presidente francês Emmanuel Macron de tentar derrubar a República.",
+      "source": "BBC News Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Merz condena \"provocações\" da Rússia após queda de mísseis na Polônia",
+      "link": "https://www.dw.com/pt-br/merz-condena-provocações-da-rússia-após-queda-de-mísseis-na-polônia/a-80026255?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-23T18:07:00.000Z",
+      "summary": "Chefe do governo alemão reagiu ao episódio envolvendo três projéteis russos que atingiram o país vizinho e reafirmou o compromisso de defesa coletiva da aliança militar.",
+      "source": "DW Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Fazenda reduz projeção de crescimento para o ano e vê alta do dólar e inflação",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/fazenda-reduz-projecao-de-crescimento-para-o-ano-e-ve-alta-do-dolar-e-inflacao.shtml",
+      "date": "2026-11-23T18:02:00.000Z",
+      "summary": "O Ministério da Fazenda reduziu a projeção de crescimento do PIB (Produto Interno Bruto) para este ano, ao mesmo tempo em que prevê um dólar mais alto e uma inflação mais elevada. Houve também uma piora nesses indicadores para o próximo ano. Leia mais (11/23/2",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Fazenda reduz projeção de crescimento para o ano e vê alta do dólar e inflação",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/fazenda-reduz-projecao-de-crescimento-para-o-ano-e-ve-alta-do-dolar-e-inflacao.shtml",
+      "date": "2026-11-23T18:02:00.000Z",
+      "summary": "O Ministério da Fazenda reduziu a projeção de crescimento do PIB (Produto Interno Bruto) para este ano, ao mesmo tempo em que prevê um dólar mais alto e uma inflação mais elevada. Houve também uma piora nesses indicadores para o próximo ano. Leia mais (11/23/2",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Fazenda reduz estimativa do PIB de 2026 de 2,0% para 1,9%",
+      "link": "https://www.poder360.com.br/poder-economia/fazenda-reduz-estimativa-do-pib-de-2026-de-20-para-19/",
+      "date": "2026-11-23T18:00:47.000Z",
+      "summary": "A projeção para o IPCA (Índice Nacional de Preços ao Consumidor Amplo), índice de inflação, deste ano subiu de 4,9% para 5,3%",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Gerdau: Juro é definido no mercado; não há governo que consiga comandar esse processo",
+      "link": "https://www.estadao.com.br/economia/gerdau-juro-e-definido-no-mercado-nao-ha-governo-que-consiga-comandar-esse-processo/",
+      "date": "2026-11-23T18:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lei libera R$ 4,8 mi extras para tribunais e indenização a servidor de área de fronteira",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/23/lei-libera-r-4-8-mi-extras-para-tribunais-e-indenizacao-a-servidor-de-area-de-fronteira",
+      "date": "2026-11-23T17:57:22.000Z",
+      "summary": "A Lei 15.548, publicada no Diário Oficial da União desta segunda-feira (23), abre crédito especial de R$ 4,8 milhões para os Ministérios da Saúde e do Meio Ambiente e Mudança do Clima, para a Agência Brasileira de Inteligência (Abin) e para as Justiças Federal",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Pesquisa mostra que 91% dos advogados apoiam eleições diretas para o Conselho Federal da OAB",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/pesquisa-mostra-que-91-dos-advogados-apoiam-eleicoes-diretas-para-o-conselho-federal-da-oab/",
+      "date": "2026-11-23T17:56:14.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lula recebe 4 ministros do STF, Alcolumbre e Motta em jantar no Alvorada",
+      "link": "https://www.poder360.com.br/poder-governo/lula-recebe-4-ministros-do-stf-alcolumbre-e-motta-em-jantar-no-alvorada/",
+      "date": "2026-11-23T17:52:59.000Z",
+      "summary": "Do Supremo, participaram Gilmar Mendes, Alexandre de Moraes, Flávio Dino e Cristiano Zanin; presidente não confirmou nomes de ministros, mas deixou claro que o 4º mandato quer começar com o apoio mais firme de partidos do Centrão",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lula avalia possibilidade de indicar mulher para o STF diante da resistência ao nome de Messias",
+      "link": "https://www.estadao.com.br/politica/lula-avalia-possibilidade-de-indicar-mulher-para-o-stf-diante-da-resistencia-ao-nome-de-messias/",
+      "date": "2026-11-23T17:46:20.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Moraes notifica Flávio por edital em caso de calúnia contra Lula",
+      "link": "https://www.poder360.com.br/poder-justica/moraes-notifica-flavio-por-edital-em-caso-de-calunia-contra-lula/",
+      "date": "2026-11-23T17:38:35.000Z",
+      "summary": "Segundo o ministro, o senador “evadiu-se do território nacional” e está em “local incerto e não sabido”",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Governo reduz projeção para PIB, mas ajustes devem sustentar arrecadação maior em 2027, diz relator",
+      "link": "https://www.estadao.com.br/economia/governo-reduz-projecao-para-pib-mas-ajustes-devem-sustentar-arrecadacao-maior-em-2027-diz-relator/",
+      "date": "2026-11-23T17:37:36.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Comissão debate inclusão de gênero e raça na distribuição do Orçamento público",
+      "link": "https://www.camara.leg.br/noticias/1321844-comissao-debate-inclusao-de-genero-e-raca-na-distribuicao-do-orcamento-publico",
+      "date": "2026-11-23T17:35:00.000Z",
+      "summary": "O debate será às 10 horas, no Plenário 2, e atende a pedido da deputada Denise Pessôa (PT-RS)",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "‘Local incerto e não sabido’: Moraes manda Flávio se defender de denúncia por calúnia contra Lula",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/local-incerto-e-nao-sabido-moraes-manda-flavio-se-defender-de-denuncia-por-calunia-contra-lula/",
+      "date": "2026-11-23T17:31:10.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Memorial da América Latina renomeia espaços internos e homenageia líderes comunistas",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/memorial-da-america-latina-renomeia-espacos-internos-e-homenageia-lideres-comunistas.shtml",
+      "date": "2026-11-23T17:30:00.000Z",
+      "summary": "O presidente do Memorial da América Latina, Pedro Mastrobuono, divulgou portarias em que dá novos nomes a espaços internos do complexo cultural, homenageando o casal de líderes comunistas Luís Carlos Prestes e Olga Benário. Leia mais (11/23/2026 - 14h30)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Como a Alemanha quer salvar sua previdência iniciando a contribuição aos 6 anos",
+      "link": "https://www.dw.com/pt-br/como-a-alemanha-quer-salvar-sua-previdência-iniciando-a-contribuição-aos-6-anos/a-80022642?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-23T17:28:00.000Z",
+      "summary": "País quer incentivar poupança para aposentadoria desde a infância através de subsídio mensal em conta de investimentos. Mas analistas advertem que medida não resolverá o desafio do financiamento da previdência alemã.",
+      "source": "DW Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Durigan vê pacote fiscal como 'primeiro passo' e diz discutir ajuste nas contas diariamente com Lula",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/23/durigan-evento-itau.ghtml",
+      "date": "2026-11-23T17:27:22.000Z",
+      "summary": "Dario Durigan, ministro da Fazenda Washington Costa/MF O ministro da Fazenda, Dario Durigan, afirmou nesta segunda-feira (23) que o pacote fiscal em discussão no Congresso Nacional é apenas um \"primeiro passo\" para ajustar as contas públicas e que novas medida",
+      "source": "g1",
+      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -164,12 +380,12 @@
       "type": "oficial"
     },
     {
-      "title": "Plantio da soja no Brasil chega a 86% da área prevista, diz AgRural",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/agro/2026/11/plantio-da-soja-no-brasil-chega-a-86-da-area-prevista-diz-agrural.shtml",
-      "date": "2026-11-23T17:11:00.000Z",
-      "summary": "O plantio da safra 2026/27 de soja do Brasil alcançou 86% da área projetada na última quinta-feira (19), contra 78% observado na semana anterior e 81% um ano atrás, segundo levantamento da AgRural divulgado nesta segunda-feira (23). Leia mais (11/23/2026 - 14h",
-      "source": "Folha",
-      "cat": "economia",
+      "title": "Governador de Minas anuncia mudança para a China após fim do mandato",
+      "link": "https://www.estadao.com.br/politica/governador-de-minas-anuncia-mudanca-para-china-apos-fim-do-mandato-nprp/",
+      "date": "2026-11-23T17:11:04.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -182,19 +398,10 @@
       "type": "oficial"
     },
     {
-      "title": "Animação retrata Lula junto a premiê espanhol contra Trump e Milei",
-      "link": "https://www.poder360.com.br/poder-internacional/animacao-retrata-lula-junto-a-premie-espanhol-contra-trump-e-milei/",
-      "date": "2026-11-23T17:04:32.000Z",
-      "summary": "No anime, chapéu de Lula vira escudo de Sánchez; trilha sonora diz: \"Se Lula conseguiu voltar, este país também conseguirá\"",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Mais de 100 empresas são flagradas com adolescentes em atividades perigosas; 179 são afastados",
+      "title": "Auditoria-Fiscal do Trabalho encontra trabalho infantil em 113 empresas e afasta 179 adolescentes",
       "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/23/mais-de-100-empresas-sao-flagradas-com-adolescentes-em-atividades-perigosas-179-sao-afastados.ghtml",
       "date": "2026-11-23T17:04:24.000Z",
-      "summary": "Auditoria-Fiscal do Trabalho identificou 113 empresas com adolescentes em situação de trabalho infantil em cinco estados brasileiros. Auditoria-Fiscal do Trabalho Uma operação da Auditoria-Fiscal do Trabalho, vinculada à Secretaria de Inspeção do Trabalho do M",
+      "summary": "Auditoria-Fiscal do Trabalho identificou 113 empresas com adolescentes em situação de trabalho infantil em cinco estados brasileiros. Auditoria-Fiscal do Trabalho Uma operação da Auditoria-Fiscal do Trabalho, ligada à Secretaria de Inspeção do Trabalho do Mini",
       "source": "g1",
       "cat": "economia",
       "type": "imprensa"
@@ -203,18 +410,9 @@
       "title": "Moraes diz que Flávio está em 'local incerto' e determina citação por edital para resposta de senador a denúncia por calúnia contra Lula",
       "link": "https://g1.globo.com/politica/noticia/2026/11/23/moraes-diz-que-flavio-esta-em-local-incerto-e-determina-citacao-por-edital-para-resposta-de-senador-a-denuncia-por-calunia-contra-lula.ghtml",
       "date": "2026-11-23T17:03:15.000Z",
-      "summary": "O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), determinou que o senador Flávio Bolsonaro (PL-RJ) seja notificado por edital para apresentar defesa prévia na denúncia da Procuradoria-Geral da República (PGR) pelo crime de calúnia contra Lula",
+      "summary": "Moraes diz que Flávio está em 'local incerto' e determina citação por edital O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), determinou que o senador Flávio Bolsonaro (PL-RJ) seja notificado por edital para apresentar defesa prévia na denúnc",
       "source": "g1",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "CrowdStrike compra empresa de segurança em nuvem por US$ 44 bi em negociação recorde no setor",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/crowdstrike-compra-empresa-de-seguranca-em-nuvem-por-us-44-bi-em-negociacao-recorde-no-setor.shtml",
-      "date": "2026-11-23T16:56:00.000Z",
-      "summary": "O grupo norte-americano de tecnologia CrowdStrike anunciou que comprará a empresa de segurança em nuvem Zscaler por cerca de US$ 44 bilhões (R$ 264,26 bilhões), em uma operação que pode se tornar a maior da história do setor de segurança cibernética. Leia mais",
-      "source": "Folha",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -224,24 +422,6 @@
       "summary": "Contaminação ambiental em Gaza pode afetar saúde da população por décadas, alerta novo relatório da Oxfam. Estudo aponta sinais de poluição em mais de 99% do território após anos de conflito.",
       "source": "DW Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Debatedores pedem melhor atendimento a pacientes com doença rara do fígado",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/23/debatedores-pedem-melhor-atendimento-a-pacientes-com-doenca-rara-do-figado",
-      "date": "2026-11-23T16:31:03.000Z",
-      "summary": "Pacientes e especialistas cobraram melhorias no diagnóstico e no tratamento da colangite biliar primária (CBP), doença autoimune rara que afeta o fígado e atinge principalmente mulheres. O tema foi discutido nesta segunda-feira (23), em audiência pública conju",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Campeonato Espanhol de futebol tem dados vazados em ciberataque",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/tec/2026/11/campeonato-espanhol-de-futebol-tem-dados-vazados-em-ciberataque.shtml",
-      "date": "2026-11-23T16:26:00.000Z",
-      "summary": "Dados pessoais foram extraídos de uma das plataformas digitais do Campeonato Espanhol de futebol, a LaLiga, em um ataque cibernético, informou a liga espanhola de futebol em comunicado divulgado nesta segunda-feira (23). Leia mais (11/23/2026 - 13h26)",
-      "source": "Folha",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -258,33 +438,6 @@
       "link": "https://g1.globo.com/economia/noticia/2026/11/23/fortuna-de-jensen-huang-cresce-em-apos-volta-ao-comando-da-nvidia.ghtml",
       "date": "2026-11-23T16:21:26.000Z",
       "summary": "Ex-chefe da Nvidia diz que gostaria de voltar ao comando da empresa A fortuna de Jensen Huang cresceu cerca de US$ 36,6 bilhões (R$ 219 bilhões) após o anúncio de seu retorno ao comando da Nvidia, segundo dados divulgados pela revista Forbes nesta segunda-feir",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "CVM suspende registro do BRB, há 1 ano sem divulgar balanço; banco fica impedido de negociar ações",
-      "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/23/cvm-suspende-registro-do-brb-por-relatorios-pendentes-banco-fica-impedido-de-negociar-acoes.ghtml",
-      "date": "2026-11-23T16:19:53.000Z",
-      "summary": "Sede do Banco de Brasília (BRB) TV Globo A Comissão de Valores Mobiliários (CVM) suspendeu nesta segunda-feira (23) o registro do Banco de Brasília (BRB) como companhia aberta. Com isso, e até regularizar o registro, o BRB fica impedido de negociar ações em bo",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Black Friday deve movimentar R$ 1,46 bilhão no Rio, diz Fecomércio",
-      "link": "https://www.poder360.com.br/poder-economia/black-friday-deve-movimentar-r-146-bilhao-no-rio-diz-fecomercio/",
-      "date": "2026-11-23T16:15:08.000Z",
-      "summary": "Pesquisa estima gasto médio de R$ 1.563; eletrodomésticos e eletrônicos lideram as intenções de compra",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "INSS: Justiça libera R$ 2,77 bilhões em atrasados; veja quem tem direito e como consultar",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/23/inss-justica-libera-r-277-bilhoes.ghtml",
-      "date": "2026-11-23T16:15:07.000Z",
-      "summary": "A cobrança do INSS era indevida, o que justificou a indenização por danos morais Divulgação / INSS O Conselho da Justiça Federal (CJF) liberou R$ 3,36 bilhões para o pagamento de valores atrasados a pessoas que venceram ações contra órgãos do governo federal. ",
       "source": "g1",
       "cat": "economia",
       "type": "imprensa"
@@ -308,30 +461,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Caso Master: Novo pede a Fachin afastamento cautelar de Andrei Rodrigues do comando da PF",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/caso-master-novo-pede-a-fachin-afastamento-cautelar-de-andrei-rodrigues-do-comando-da-pf/",
-      "date": "2026-11-23T16:01:59.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Alcolumbre vincula emendas à relação com Lula em busca de votos no Senado, dizem aliados",
+      "title": "Alcolumbre promete crédito de emendas a senadores novatos e diz que facilitará liberação se reeleito",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/alcolumbre-vincula-emendas-a-relacao-com-lula-em-busca-de-votos-no-senado-dizem-aliados.shtml",
       "date": "2026-11-23T16:00:00.000Z",
       "summary": "O presidente do Senado, Davi Alcolumbre (União Brasil-AP), tem dito que facilitará a liberação de emendas de comissão se reeleito para o cargo, relatam aliados. Esse tipo de transferência não tem liberação obrigatória, ou seja, depende da boa vontade do govern",
       "source": "Folha",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Minha Casa, Minha Vida bate recorde e concentra quase 60% dos imóveis lançados no país",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/minha-casa-minha-vida-bate-recorde-e-concentra-quase-60-dos-imoveis-lancados-no-pais.shtml",
-      "date": "2026-11-23T15:59:00.000Z",
-      "summary": "O Minha Casa, Minha Vida respondeu por 58,6% dos lançamentos de imóveis residenciais no Brasil no terceiro trimestre de 2026, a maior participação já registrada pelo programa. Entre julho e setembro, foram colocadas no mercado 70,1 mil unidades, alta de 28,2% ",
-      "source": "Folha",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -344,74 +479,11 @@
       "type": "oficial"
     },
     {
-      "title": "Projeto cria regras para ONGs que recebem recursos do exterior e limita transferência de ativos estratégicos",
-      "link": "https://www.camara.leg.br/noticias/1321740-projeto-cria-regras-para-ongs-que-recebem-recursos-do-exterior-e-limita-transferencia-de-ativos-estrategicos",
-      "date": "2026-11-23T15:55:00.000Z",
-      "summary": "Para virar lei, proposta precisa ser aprovada por deputados e senadores",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Comissão aprova criação de parques sustentáveis urbanos em áreas privadas",
-      "link": "https://www.camara.leg.br/noticias/1321725-comissao-aprova-criacao-de-parques-sustentaveis-urbanos-em-areas-privadas",
-      "date": "2026-11-23T15:48:00.000Z",
-      "summary": "O projeto segue em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Braskem fecha acordo com credores envolvendo capitalização de US$ 4,9 bilhões",
-      "link": "https://www.estadao.com.br/economia/negocios/braskem-fecha-acordo-credores-capitalizacao/",
-      "date": "2026-11-23T15:40:23.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Desaparecimento do menino Edson Davi motiva ida da CDH ao Rio de Janeiro",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/23/desaparecimento-do-menino-edson-davi-motiva-ida-da-cdh-ao-rio-de-janeiro",
-      "date": "2026-11-23T15:29:45.000Z",
-      "summary": "A Comissão de Direitos Humanos (CDH) concluiu diligência externa ao Rio de Janeiro (RJ) nesta sexta-feira (20) com sinalização de propostas para acelerar investigação sobre crianças desaparecidas. A visita de dois dias acompanhou as investigações do sumiço do ",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "‘Resultado muito positivo’, diz Michelle sobre exame de Bolsonaro",
-      "link": "https://www.estadao.com.br/politica/resultado-muito-positivo-diz-michelle-sobre-exame-de-bolsonaro-nprp/",
-      "date": "2026-11-23T15:21:07.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Ministério Público Eleitoral defende rejeição de recurso por 2° turno no Rio de Janeiro",
-      "link": "https://www.estadao.com.br/politica/mpe-defende-rejeicao-de-recurso-por-2-turno-no-rio-de-janeirov-nprp/",
-      "date": "2026-11-23T15:11:08.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Lula se reúne com cúpula do Congresso e ministros do STF para definir substituto de Barroso",
       "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/23/lula-se-reune-com-cupula-do-congresso-e-ministros-do-stf-para-definir-substituto-de-barroso.ghtml",
       "date": "2026-11-23T15:07:33.000Z",
       "summary": "Presidente da República, Luiz Inácio Lula da Silva, durante gravação de Live com o Presidente do Governo do Reino da Espanha, Pedro Sanchez Ricardo Stuckert/PR Presidente da República, Luiz Inácio Lula da Silva, durante gravação de Live com o Presidente do Gov",
       "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Dosimetria: como projeto beneficia Bolsonaro e pode ser moeda de troca para Moraes; entenda",
-      "link": "https://www.estadao.com.br/politica/dosimetria-como-projeto-beneficia-bolsonaro-e-pode-ser-moeda-de-troca-para-moraes-entenda/",
-      "date": "2026-11-23T15:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -422,15 +494,6 @@
       "summary": "",
       "source": "Estadão",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "9º Prêmio de Jornalismo em Seguros oferece até R$ 20 mil para reportagens",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/blogs/novo-em-folha/2026/11/9o-premio-de-jornalismo-em-seguros-oferece-ate-r-20-mil-para-reportagens.shtml",
-      "date": "2026-11-23T14:54:00.000Z",
-      "summary": "Estão abertas as inscrições para o 9º Prêmio de Jornalismo em Seguros, promovido pela Escola de Negócios e Seguros (ENS), pela Federação Nacional dos Corretores de Seguros (Fenacor) e pela Confederação Nacional das Empresas de Seguros (CNseg). A iniciativa dis",
-      "source": "Folha",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -457,33 +520,6 @@
       "date": "2026-11-23T14:35:47.000Z",
       "summary": "A Advocacia Geral da União (AGU) pediu nesta segunda-feira (23) que o Supremo Tribunal Federal (STF) reconheça que não é mais necessária a decisão liminar do ministro Flávio Dino que alterou parâmetros da transição para a escala 5x2, depois que o governo edito",
       "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Conselho da Nvidia reconduz Jensen Huang ao cargo de CEO por unanimidade",
-      "link": "https://www.estadao.com.br/economia/conselho-da-nvidia-reconduz-jensen-huang-ao-cargo-de-ceo-por-unanimidade-npr/",
-      "date": "2026-11-23T14:21:14.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Como dois refrigeradores abandonados pelo exército dos EUA na Toscana deram origem ao sorvete italiano",
-      "link": "https://www.bbc.com/portuguese/articles/cqr7g87en4pno?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-23T14:16:04.000Z",
-      "summary": "O sorvete é sinônimo da Itália, mas suas origens modernas remontam a uma humilde leiteria na Toscana e a um par de refrigeradores abandonados após a Segunda Guerra Mundial.",
-      "source": "BBC News Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Depois do Super El Niño, seca e Nordeste ganham espaço nos grupos de mensagem",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/encaminhado-com-frequencia/2026/11/depois-do-super-el-nino-seca-e-nordeste-ganham-espaco-nos-grupos-de-mensagem.shtml",
-      "date": "2026-11-23T14:00:00.000Z",
-      "summary": "O El Niño, o aquecimento das águas do Pacífico que altera o regime de chuvas no Brasil, está entre os mais intensos já registrados, com pico previsto para dezembro e janeiro. Leia mais (11/23/2026 - 11h00)",
-      "source": "Folha",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -551,15 +587,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Protestos pela Europa: de onde vem a indignação da Geração Z?",
-      "link": "https://www.dw.com/pt-br/protestos-pela-europa-de-onde-vem-a-indignação-da-geração-z/a-80013510?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-22T12:04:00.000Z",
-      "summary": "Mesmo com o maior nível de instrução da história, os jovens de hoje enfrentam imensos desafios econômicos e políticos. Muitos se questionam se vão conseguir manter a qualidade de vida dos pais.",
-      "source": "DW Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
       "title": "COP31 termina sem acordo climático, em desfecho “decepcionante”",
       "link": "https://news.un.org/feed/view/pt/story/2026/11/1854982",
       "date": "2026-11-22T12:00:00.000Z",
@@ -567,24 +594,6 @@
       "source": "ONU News",
       "cat": "internacional",
       "type": "oficial"
-    },
-    {
-      "title": "A 'utopia socialista' que levou um grupo de australianos idealistas ao Paraguai há mais de 130 anos",
-      "link": "https://www.bbc.com/portuguese/articles/cqrkgxv7xxgzo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-22T11:21:38.000Z",
-      "summary": "Dezenas de australianos deixaram seu país no final do século XIX em busca de um lugar melhor para viver. O país escolhido foi o Paraguai.",
-      "source": "BBC News Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Na COP31, embate sobre relatório climático ameaça negociações futuras",
-      "link": "https://www.dw.com/pt-br/na-cop31-embate-sobre-relatório-climático-ameaça-negociações-futuras/a-80011164?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-21T22:20:00.000Z",
-      "summary": "Países divergem sobre quando divulgar a próxima avaliação do IPCC, principal referência científica para a política climática global. Calendário define se o documento orientará o próximo balanço do Acordo de Paris.",
-      "source": "DW Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
     },
     {
       "title": "COP31: Países exigem acordo climático mais robusto na reta final das negociações",
