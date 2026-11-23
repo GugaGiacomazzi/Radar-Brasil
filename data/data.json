@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-23T16:06:05.056Z",
+  "updated": "2026-11-23T17:23:23.529Z",
   "market": {
     "ibov": {
-      "price": 165194.97,
-      "pct": -0.71,
-      "time": "2026-11-23T16:05:56.923Z",
+      "price": 164954.48,
+      "pct": -0.85,
+      "time": "2026-11-23T17:23:18.867Z",
       "history": [
         {
           "d": "2026-10-26",
@@ -80,7 +80,7 @@
         },
         {
           "d": "2026-11-23",
-          "c": 165194.9688
+          "c": 164909.375
         }
       ]
     },
@@ -137,6 +137,186 @@
   },
   "news": [
     {
+      "title": "Gilmar critica “atalhos” de ações bilionárias contra a União",
+      "link": "https://www.poder360.com.br/poder-justica/gilmar-critica-atalhos-de-acoes-bilionarias-contra-a-uniao/",
+      "date": "2026-11-23T17:17:35.000Z",
+      "summary": "Ministro do STF defende o fim de regra que concentra processos contra o governo em Brasília e pede que Congresso discuta o tema",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Comissão que fiscaliza rompimentos de barragens pode votar relatório nesta terça-feira",
+      "link": "https://www.camara.leg.br/noticias/1321721-comissao-que-fiscaliza-rompimentos-de-barragens-pode-votar-relatorio-nesta-terca-feira",
+      "date": "2026-11-23T17:17:00.000Z",
+      "summary": "",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Comissão debate produção e reconhecimento de escritoras negras brasileiras",
+      "link": "https://www.camara.leg.br/noticias/1321406-comissao-debate-producao-e-reconhecimento-de-escritoras-negras-brasileiras",
+      "date": "2026-11-23T17:16:00.000Z",
+      "summary": "O debate será às 15h30, no Plenário 10, e atende pedido da deputada Benedita da Silva (PT-RJ)",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Plantio da soja no Brasil chega a 86% da área prevista, diz AgRural",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/agro/2026/11/plantio-da-soja-no-brasil-chega-a-86-da-area-prevista-diz-agrural.shtml",
+      "date": "2026-11-23T17:11:00.000Z",
+      "summary": "O plantio da safra 2026/27 de soja do Brasil alcançou 86% da área projetada na última quinta-feira (19), contra 78% observado na semana anterior e 81% um ano atrás, segundo levantamento da AgRural divulgado nesta segunda-feira (23). Leia mais (11/23/2026 - 14h",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Fibrose pulmonar: desafios vão do diagnóstico à qualidade de vida",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/23/fibrose-pulmonar-desafios-vao-do-diagnostico-a-qualidade-de-vida",
+      "date": "2026-11-23T17:05:10.000Z",
+      "summary": "Pessoas com fibrose pulmonar precisam de diagnóstico mais rápido, acesso igualitário ao tratamento pelo Sistema Único de Saúde (SUS) em todo o país e recursos que contribuam para a qualidade de vida. Essas foram algumas das demandas apresentadas em audiência p",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Animação retrata Lula junto a premiê espanhol contra Trump e Milei",
+      "link": "https://www.poder360.com.br/poder-internacional/animacao-retrata-lula-junto-a-premie-espanhol-contra-trump-e-milei/",
+      "date": "2026-11-23T17:04:32.000Z",
+      "summary": "No anime, chapéu de Lula vira escudo de Sánchez; trilha sonora diz: \"Se Lula conseguiu voltar, este país também conseguirá\"",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Mais de 100 empresas são flagradas com adolescentes em atividades perigosas; 179 são afastados",
+      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/23/mais-de-100-empresas-sao-flagradas-com-adolescentes-em-atividades-perigosas-179-sao-afastados.ghtml",
+      "date": "2026-11-23T17:04:24.000Z",
+      "summary": "Auditoria-Fiscal do Trabalho identificou 113 empresas com adolescentes em situação de trabalho infantil em cinco estados brasileiros. Auditoria-Fiscal do Trabalho Uma operação da Auditoria-Fiscal do Trabalho, vinculada à Secretaria de Inspeção do Trabalho do M",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Moraes diz que Flávio está em 'local incerto' e determina citação por edital para resposta de senador a denúncia por calúnia contra Lula",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/23/moraes-diz-que-flavio-esta-em-local-incerto-e-determina-citacao-por-edital-para-resposta-de-senador-a-denuncia-por-calunia-contra-lula.ghtml",
+      "date": "2026-11-23T17:03:15.000Z",
+      "summary": "O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), determinou que o senador Flávio Bolsonaro (PL-RJ) seja notificado por edital para apresentar defesa prévia na denúncia da Procuradoria-Geral da República (PGR) pelo crime de calúnia contra Lula",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "CrowdStrike compra empresa de segurança em nuvem por US$ 44 bi em negociação recorde no setor",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/crowdstrike-compra-empresa-de-seguranca-em-nuvem-por-us-44-bi-em-negociacao-recorde-no-setor.shtml",
+      "date": "2026-11-23T16:56:00.000Z",
+      "summary": "O grupo norte-americano de tecnologia CrowdStrike anunciou que comprará a empresa de segurança em nuvem Zscaler por cerca de US$ 44 bilhões (R$ 264,26 bilhões), em uma operação que pode se tornar a maior da história do setor de segurança cibernética. Leia mais",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Ofensiva israelense transformou Gaza em \"deserto tóxico\", diz ONG britânica",
+      "link": "https://www.dw.com/pt-br/ofensiva-israelense-transformou-gaza-em-deserto-tóxico-diz-ong-britânica/a-80021668?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-23T16:34:00.000Z",
+      "summary": "Contaminação ambiental em Gaza pode afetar saúde da população por décadas, alerta novo relatório da Oxfam. Estudo aponta sinais de poluição em mais de 99% do território após anos de conflito.",
+      "source": "DW Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Debatedores pedem melhor atendimento a pacientes com doença rara do fígado",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/23/debatedores-pedem-melhor-atendimento-a-pacientes-com-doenca-rara-do-figado",
+      "date": "2026-11-23T16:31:03.000Z",
+      "summary": "Pacientes e especialistas cobraram melhorias no diagnóstico e no tratamento da colangite biliar primária (CBP), doença autoimune rara que afeta o fígado e atinge principalmente mulheres. O tema foi discutido nesta segunda-feira (23), em audiência pública conju",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Campeonato Espanhol de futebol tem dados vazados em ciberataque",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/tec/2026/11/campeonato-espanhol-de-futebol-tem-dados-vazados-em-ciberataque.shtml",
+      "date": "2026-11-23T16:26:00.000Z",
+      "summary": "Dados pessoais foram extraídos de uma das plataformas digitais do Campeonato Espanhol de futebol, a LaLiga, em um ataque cibernético, informou a liga espanhola de futebol em comunicado divulgado nesta segunda-feira (23). Leia mais (11/23/2026 - 13h26)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Comissão especial pode votar parecer sobre política nacional para pessoas com autismo",
+      "link": "https://www.camara.leg.br/noticias/1321696-comissao-especial-pode-votar-parecer-sobre-politica-nacional-para-pessoas-com-autismo",
+      "date": "2026-11-23T16:23:00.000Z",
+      "summary": "Texto consolida a legislação sobre o transtorno e assegura a continuidade de políticas públicas já conquistadas",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Fortuna de Jensen Huang cresce R$ 219 bilhões após retorno ao comando da Nvidia",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/23/fortuna-de-jensen-huang-cresce-em-apos-volta-ao-comando-da-nvidia.ghtml",
+      "date": "2026-11-23T16:21:26.000Z",
+      "summary": "Ex-chefe da Nvidia diz que gostaria de voltar ao comando da empresa A fortuna de Jensen Huang cresceu cerca de US$ 36,6 bilhões (R$ 219 bilhões) após o anúncio de seu retorno ao comando da Nvidia, segundo dados divulgados pela revista Forbes nesta segunda-feir",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "CVM suspende registro do BRB, há 1 ano sem divulgar balanço; banco fica impedido de negociar ações",
+      "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/23/cvm-suspende-registro-do-brb-por-relatorios-pendentes-banco-fica-impedido-de-negociar-acoes.ghtml",
+      "date": "2026-11-23T16:19:53.000Z",
+      "summary": "Sede do Banco de Brasília (BRB) TV Globo A Comissão de Valores Mobiliários (CVM) suspendeu nesta segunda-feira (23) o registro do Banco de Brasília (BRB) como companhia aberta. Com isso, e até regularizar o registro, o BRB fica impedido de negociar ações em bo",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Black Friday deve movimentar R$ 1,46 bilhão no Rio, diz Fecomércio",
+      "link": "https://www.poder360.com.br/poder-economia/black-friday-deve-movimentar-r-146-bilhao-no-rio-diz-fecomercio/",
+      "date": "2026-11-23T16:15:08.000Z",
+      "summary": "Pesquisa estima gasto médio de R$ 1.563; eletrodomésticos e eletrônicos lideram as intenções de compra",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "INSS: Justiça libera R$ 2,77 bilhões em atrasados; veja quem tem direito e como consultar",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/23/inss-justica-libera-r-277-bilhoes.ghtml",
+      "date": "2026-11-23T16:15:07.000Z",
+      "summary": "A cobrança do INSS era indevida, o que justificou a indenização por danos morais Divulgação / INSS O Conselho da Justiça Federal (CJF) liberou R$ 3,36 bilhões para o pagamento de valores atrasados a pessoas que venceram ações contra órgãos do governo federal. ",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "AGU se manifesta contra liminar de Dino sobre fim da escala 6x1",
+      "link": "https://www.estadao.com.br/economia/agu-se-manifesta-contra-liminar-dino-fim-escala-6x1/",
+      "date": "2026-11-23T16:13:58.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Moretti garante às centrais sindicais que ajuste fiscal preserva direitos sociais",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/moretti-garante-as-centrais-sindicais-que-ajuste-fiscal-preserva-direitos-sociais.shtml",
+      "date": "2026-11-23T16:10:00.000Z",
+      "summary": "O ministro do Planejamento, Bruno Moretti, afirmou às centrais sindicais que o ajuste fiscal que leva seu nome tem como premissa básica preservar os direitos sociais. O ajuste, que ficou conhecido como plano Moretti, deve ser votado nesta segunda-feira (23) na",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Caso Master: Novo pede a Fachin afastamento cautelar de Andrei Rodrigues do comando da PF",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/caso-master-novo-pede-a-fachin-afastamento-cautelar-de-andrei-rodrigues-do-comando-da-pf/",
+      "date": "2026-11-23T16:01:59.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "Alcolumbre vincula emendas à relação com Lula em busca de votos no Senado, dizem aliados",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/alcolumbre-vincula-emendas-a-relacao-com-lula-em-busca-de-votos-no-senado-dizem-aliados.shtml",
       "date": "2026-11-23T16:00:00.000Z",
@@ -155,8 +335,8 @@
       "type": "imprensa"
     },
     {
-      "title": "Comissão aprova projeto que proíbe destruir produtos não perecíveis que não foram vendidos ou devolvidos",
-      "link": "https://www.camara.leg.br/noticias/1321739-comissao-aprova-projeto-que-proibe-destruir-produtos-nao-pereciveis-que-nao-foram-vendidos-ou-devolvidos",
+      "title": "Comissão aprova projeto que proíbe destruir produtos não perecíveis que foram devolvidos ou não vendidos",
+      "link": "https://www.camara.leg.br/noticias/1321739-comissao-aprova-projeto-que-proibe-destruir-produtos-nao-pereciveis-que-foram-devolvidos-ou-nao-vendidos",
       "date": "2026-11-23T15:58:00.000Z",
       "summary": "A proposta segue em análise na Câmara dos Deputados",
       "source": "Agência Câmara",
@@ -164,8 +344,8 @@
       "type": "oficial"
     },
     {
-      "title": "Projeto cria regras para ONGs que recebem recursos do exterior e limita tranferência de ativos estratégicos",
-      "link": "https://www.camara.leg.br/noticias/1321740-projeto-cria-regras-para-ongs-que-recebem-recursos-do-exterior-e-limita-tranferencia-de-ativos-estrategicos",
+      "title": "Projeto cria regras para ONGs que recebem recursos do exterior e limita transferência de ativos estratégicos",
+      "link": "https://www.camara.leg.br/noticias/1321740-projeto-cria-regras-para-ongs-que-recebem-recursos-do-exterior-e-limita-transferencia-de-ativos-estrategicos",
       "date": "2026-11-23T15:55:00.000Z",
       "summary": "Para virar lei, proposta precisa ser aprovada por deputados e senadores",
       "source": "Agência Câmara",
@@ -182,15 +362,6 @@
       "type": "oficial"
     },
     {
-      "title": "Crescimento da atividade empresarial nos EUA diminui ainda mais em novembro, mostra pesquisa",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/10/25/6568-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post468065",
-      "date": "2026-11-23T15:47:00.000Z",
-      "summary": "O crescimento da atividade empresarial nos Estados Unidos desacelerou ainda mais em novembro uma vez que os preços elevados frearam novos pedidos e as restrições de capacidade limitaram a produção, mostrou uma pesquisa divulgada nesta segunda-feira (23). Leia ",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Braskem fecha acordo com credores envolvendo capitalização de US$ 4,9 bilhões",
       "link": "https://www.estadao.com.br/economia/negocios/braskem-fecha-acordo-credores-capitalizacao/",
       "date": "2026-11-23T15:40:23.000Z",
@@ -200,33 +371,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Na Itália, Janja se reúne com diretor-geral da FAO",
-      "link": "https://www.poder360.com.br/poder-gente/na-italia-janja-se-reune-com-diretor-geral-da-fao/",
-      "date": "2026-11-23T15:39:27.000Z",
-      "summary": "Primeira-dama foi acompanhada pela ministra Fernanda Machiaveli durante encontro, nesta 2ª feira (23.nov), na Itália",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Brasil mantém projetos, mas COP31 não endossa propostas de Belém",
-      "link": "https://www.poder360.com.br/poder-governo/brasil-mantem-projetos-mas-cop31-nao-endossa-propostas-de-belem/",
-      "date": "2026-11-23T15:32:49.000Z",
-      "summary": "País preservou iniciativas lançadas sem conseguir incluir roteiros sobre combustíveis fósseis e desmatamento no acordo final da conferência",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Comissão aprova ampliação de prazo para regularização de imóveis em faixa de fronteira",
-      "link": "https://www.camara.leg.br/noticias/1321700-comissao-aprova-ampliacao-de-prazo-para-regularizacao-de-imoveis-em-faixa-de-fronteira",
-      "date": "2026-11-23T15:32:00.000Z",
-      "summary": "O projeto continua em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
       "title": "Desaparecimento do menino Edson Davi motiva ida da CDH ao Rio de Janeiro",
       "link": "https://www12.senado.leg.br/noticias/materias/2026/11/23/desaparecimento-do-menino-edson-davi-motiva-ida-da-cdh-ao-rio-de-janeiro",
       "date": "2026-11-23T15:29:45.000Z",
@@ -234,15 +378,6 @@
       "source": "Agência Senado",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Ações da Nvidia disparam 29% no pré-mercado com volta de Huang",
-      "link": "https://www.poder360.com.br/poder-tech/acoes-da-nvidia-disparam-29-no-pre-mercado-com-volta-de-huang/",
-      "date": "2026-11-23T15:22:30.000Z",
-      "summary": "Papéis chegam a US$ 162 com volta de Jensen Huang ao comando da empresa e impulsionam setor de tecnologia",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
     },
     {
       "title": "‘Resultado muito positivo’, diz Michelle sobre exame de Bolsonaro",
@@ -263,33 +398,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Como os anéis da Oura foram parar em milhões de dedos",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/como-os-aneis-da-oura-foram-parar-em-milhoes-de-dedos.shtml",
-      "date": "2026-11-23T15:09:00.000Z",
-      "summary": "Quando a Oura surgiu, em 2013, os dispositivos vestíveis de monitoramento da saúde, como as pulseiras Fitbit, eram sobretudo domínio dos obcecados por boa forma. Seus fundadores finlandeses, porém, tinham duas convicções. A primeira era que um anel monitoraria",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Mitre volta a São Caetano após dez anos e vende 40% de empreendimento em uma semana",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/mitre-volta-a-sao-caetano-apos-dez-anos-e-vende-40-de-empreendimento-em-uma-semana.shtml",
-      "date": "2026-11-23T15:09:00.000Z",
-      "summary": "Após dez anos sem lançar em São Caetano do Sul (SP), a Mitre Realty está retornando à cidade com o projeto residencial de alto padrão Casa Parque Cerâmica, que, em uma semana, vendeu 40% de 202 unidades, o equivalente a R$ 200 milhões de um total de potencial ",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Que dia é a Black Friday 2026? Veja a data oficial e dicas para aproveitar promoções",
-      "link": "https://g1.globo.com/guia/guia-de-compras/presentes/que-dia-e-a-black-friday-2026-veja-a-data-oficial-e-dicas-para-aproveitar-promocoes.ghtml",
-      "date": "2026-11-23T15:08:15.000Z",
-      "summary": "Black Friday: o que fazer para não cair em falsas promoções A edição de 2026 da Black Friday já tem data marcada no calendário do comércio brasileiro: o evento acontecerá nesta sexta-feira, dia 27 de novembro, mantendo a tradição da última sexta-feira do mês. ",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Lula se reúne com cúpula do Congresso e ministros do STF para definir substituto de Barroso",
       "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/23/lula-se-reune-com-cupula-do-congresso-e-ministros-do-stf-para-definir-substituto-de-barroso.ghtml",
       "date": "2026-11-23T15:07:33.000Z",
@@ -301,15 +409,6 @@
     {
       "title": "Dosimetria: como projeto beneficia Bolsonaro e pode ser moeda de troca para Moraes; entenda",
       "link": "https://www.estadao.com.br/politica/dosimetria-como-projeto-beneficia-bolsonaro-e-pode-ser-moeda-de-troca-para-moraes-entenda/",
-      "date": "2026-11-23T15:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Oposição promete manter caso Master vivo em 2027 e por ‘muitos anos’",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/oposicao-promete-manter-caso-master-vivo-em-2027-e-por-muitos-anos/",
       "date": "2026-11-23T15:00:00.000Z",
       "summary": "",
       "source": "Estadão",
@@ -353,15 +452,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Miniatura de F-1, cinzeiro de vidro e lote de cadeiras: leilão do Master tem itens de até R$ 30 mil",
-      "link": "https://www.estadao.com.br/economia/miniatura-de-f-1-cinzeiro-de-vidro-e-lote-de-cadeiras-leilao-do-master-tem-itens-de-ate-r-30-mil/",
-      "date": "2026-11-23T14:37:45.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Escala 5x2: AGU diz ao STF que decisão provisória de Dino não é mais necessária após regulamentação do governo",
       "link": "https://g1.globo.com/politica/noticia/2026/11/23/escala-5x2-agu-diz-ao-stf-que-decisao-provisoria-de-dino-nao-e-mais-necessaria-apos-regulamentacao-do-governo.ghtml",
       "date": "2026-11-23T14:35:47.000Z",
@@ -371,56 +461,11 @@
       "type": "imprensa"
     },
     {
-      "title": "Comissão debate atuação e perspectivas futuras da Fundação Nacional de Saúde",
-      "link": "https://www.camara.leg.br/noticias/1321191-comissao-debate-atuacao-e-perspectivas-futuras-da-fundacao-nacional-de-saude",
-      "date": "2026-11-23T14:32:00.000Z",
-      "summary": "",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Lei autoriza crédito de R$ 11,8 milhões para obras e equipamentos no Judiciário",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/23/lei-autoriza-credito-de-r-11-8-milhoes-para-obras-e-equipamentos-no-judiciario",
-      "date": "2026-11-23T14:27:47.000Z",
-      "summary": "O Superior Tribunal de Justiça (STJ), a Justiça Federal e a Justiça Militar da União receberão R$ 11,8 milhões em crédito suplementar para obras, aquisição de equipamentos e auxílio-moradia. O reforço de recursos foi autorizado pela Lei 15.551, de 2026, sancio",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
       "title": "Conselho da Nvidia reconduz Jensen Huang ao cargo de CEO por unanimidade",
       "link": "https://www.estadao.com.br/economia/conselho-da-nvidia-reconduz-jensen-huang-ao-cargo-de-ceo-por-unanimidade-npr/",
       "date": "2026-11-23T14:21:14.000Z",
       "summary": "",
       "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Jensen Huang volta à Nvidia: veja a cronologia da crise que envolve traição e espionagem",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/23/jensen-huang-nvidia-cronologia-crise.ghtml",
-      "date": "2026-11-23T14:20:45.000Z",
-      "summary": "Jensen Huang, CEO da Nvidia, durante evento em Washington Julia Demaree Nikhinson/AP Photo A Nvidia anunciou nesta segunda-feira (23) o retorno de Jensen Huang ao cargo de CEO da empresa. A decisão ocorre cerca de 10 dias após a renúncia do executivo, em meio ",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Galípolo diz que controle da inflação é prioridade do Banco Central",
-      "link": "https://www.poder360.com.br/poder-economia/galipolo-diz-que-controle-da-inflacao-e-prioridade-do-banco-central/",
-      "date": "2026-11-23T14:20:44.000Z",
-      "summary": "Presidente do BC afirmou também que é possível manter programas sociais e rever regras fiscais",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Ações da Nvidia disparam 30% após volta de Jensen Huang; Nasdaq sobe 6%",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/23/nvidia-huang-volta-nasdaq.ghtml",
-      "date": "2026-11-23T14:20:18.000Z",
-      "summary": "Ex-chefe da Nvidia diz que gostaria de voltar ao comando da empresa As ações da Nvidia dispararam mais de 30% na abertura do pregão em Nova York nesta segunda-feira (23), após a empresa anunciar o retorno de Jensen Huang ao cargo de presidente-executivo (CEO).",
-      "source": "g1",
       "cat": "economia",
       "type": "imprensa"
     },
@@ -452,42 +497,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Lei abre crédito de R$ 290 milhões para a Eletronuclear investir em Angra 3",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/23/lei-abre-credito-de-r-290-milhoes-para-a-eletronuclear-investir-em-angra-3",
-      "date": "2026-11-23T13:54:25.000Z",
-      "summary": "Uma nova lei abre crédito suplementar de R$ 290 milhões para a Eletronuclear S.A., no Orçamento de Investimento da União, para reforçar os recursos destinados à implantação da Usina Termonuclear Angra 3. A Lei 15.547, de 2026, foi sancionada pelo presidente da",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Projeto garante transporte gratuito para estudantes de cursos técnicos e de qualificação profissional",
-      "link": "https://www.camara.leg.br/noticias/1321657-projeto-garante-transporte-gratuito-para-estudantes-de-cursos-tecnicos-e-de-qualificacao-profissional",
-      "date": "2026-11-23T13:49:00.000Z",
-      "summary": "Para virar lei, proposta precisa ser aprovada por deputados e senadores",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Após série de apagões em Cuba, pedidos de refúgio de cubanos no Brasil chegam a 4,9 mil em setembro e somam 33,2 mil em 2026",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/23/refugio-cuba-2026-parcial.ghtml",
-      "date": "2026-11-23T13:24:41.000Z",
-      "summary": "Cubanos saem de Havana, em Cuba, até a Guiana. Para chegar ao Brasil, atravessam fronteiras em botes e atravessam áreas de mata Arquivo Os pedidos de refúgio de cubanos no Brasil chegaram a 4.885 em setembro de 2026, o maior número mensal registrado neste ano,",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Estatuto do Aprendiz está na pauta do Plenário nesta terça",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/23/estatuto-do-aprendiz-esta-na-pauta-do-plenario-nesta-terca",
-      "date": "2026-11-23T13:08:56.000Z",
-      "summary": "O Plenário do Senado pode votar nesta terça-feira (24), a partir das 14h, o projeto que cria o Estatuto do Aprendiz. O PL 6.461/2019 define a aprendizagem profissional como um contrato de trabalho voltado à formação técnica e profissional metódica. O texto per",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
       "title": "Navio russo foi atingido na Líbia por drones ucranianos, diz Zelenski",
       "link": "https://www.dw.com/pt-br/navio-russo-foi-atingido-na-líbia-por-drones-ucranianos-diz-zelenski/a-80014687?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-23T13:02:00.000Z",
@@ -506,13 +515,13 @@
       "type": "imprensa"
     },
     {
-      "title": "PT repudia ações do 'exército' de Janones no governo",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/dora-kramer/2026/11/pt-repudia-acoes-do-exercito-de-janones-no-governo.shtml",
-      "date": "2026-11-23T12:29:00.000Z",
-      "summary": "O país está no aguardo das definições do presidente Luiz Inácio da Silva (PT) sobre a composição do governo em seu quarto mandato. Ele já avisou que é senhor do seu tempo: \"Nomeio quem eu quiser, quando eu quiser\", disse em reação às especulações a respeito da",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
+      "title": "Falhas tecnológicas e ataques cibernéticos reforçam apelo por IA mais segura",
+      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854985",
+      "date": "2026-11-23T12:00:00.000Z",
+      "summary": "Cúpula da ONU sobre Segurança em Inteligência Artificial busca soluções para que todos os países consigam gerenciar riscos; líder das Nações Unidas defendeu criação de estrutura multilateral com supervisão independente.&nbsp;",
+      "source": "ONU News",
+      "cat": "internacional",
+      "type": "oficial"
     },
     {
       "title": "Há 200 anos, Brasil se comprometia a acabar com o 'tráfico negreiro' — só 'para inglês ver'",
@@ -529,15 +538,6 @@
       "date": "2026-11-22T23:32:59.000Z",
       "summary": "Silenciados pelo temor de represálias do Kremlin, integrantes da elite empresarial começam a imaginar como será o país quando o atual presidente deixar o poder.",
       "source": "BBC News Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "\"Inconcebível\", \"inaceitável\": delegações criticam fracasso da COP31",
-      "link": "https://www.dw.com/pt-br/inconcebível-inaceitável-delegações-criticam-fracasso-da-cop31/a-80015363?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-22T22:20:00.000Z",
-      "summary": "Da União Europeia ao Brasil, negociadores e ativistas classificaram ausência de acordo final na Cúpula do Clima como um retrocesso para o combate à crise climática.",
-      "source": "DW Brasil",
       "cat": "internacional",
       "type": "imprensa"
     },
@@ -641,15 +641,6 @@
       "type": "oficial"
     },
     {
-      "title": "ONU quer libertação de funcionários e abertura de estradas para ajudar Iêmen",
-      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854961",
-      "date": "2026-11-19T12:00:00.000Z",
-      "summary": "Subsecretário-geral Tom Fletcher falou com presidente do Conselho de Liderança Presidencial em meio à piora da crise; conflito desaloja mais de 350 mil pessoas e impacto sobre crianças e serviços essenciais atinge níveis alarmantes.",
-      "source": "ONU News",
-      "cat": "internacional",
-      "type": "oficial"
-    },
-    {
       "title": "BC divulga Fluxo cambial mensal",
       "link": "https://www.bcb.gov.br/detalhenoticia/21323/nota",
       "date": "2026-11-18T17:31:13.000Z",
@@ -687,7 +678,6 @@
     }
   ],
   "errors": [
-    "IPCA 12m (SGS 13522): HTTP 304",
     "feed CNN Brasil: HTTP 404",
     "feed CNN Brasil: HTTP 404"
   ]
