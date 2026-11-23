@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-23T20:48:42.214Z",
+  "updated": "2026-11-23T21:48:34.073Z",
   "market": {
     "ibov": {
-      "price": 164985.64,
-      "pct": -0.84,
-      "time": "2026-11-23T20:48:37.643Z",
+      "price": 164796.05,
+      "pct": -0.95,
+      "time": "2026-11-23T21:48:28.074Z",
       "history": [
         {
           "d": "2026-10-26",
@@ -80,7 +80,7 @@
         },
         {
           "d": "2026-11-23",
-          "c": 164963.9375
+          "c": 164796.0469
         }
       ]
     },
@@ -137,12 +137,120 @@
   },
   "news": [
     {
-      "title": "Governo Lula lançará edital de nuvem própria para fugir de big techs",
-      "link": "https://www.poder360.com.br/poder-tech/governo-lula-lancara-edital-de-nuvem-propria-para-fugir-de-big-techs/",
-      "date": "2026-11-23T20:47:32.000Z",
-      "summary": "Ideia é publicar detalhes para parceria público-privada até o início de 2027; dados deverão ficar hospedados em infraestruturas locais",
+      "title": "Câmara deve votar nesta segunda-feira (23) projeto de ajuste fiscal do governo",
+      "link": "https://g1.globo.com/politica/ao-vivo/ajuste-fiscal-camara-deputados.ghtml",
+      "date": "2026-11-23T21:35:27.000Z",
+      "summary": "Câmara deve votar nesta segunda-feira (23) projeto de ajuste fiscal do governo Proposta foi aprovada no Senado na semana passada; texto projeta uma economia de R$ 50 bilhões nas contas do governo federal em 2027. O relator da proposta na Câmara, deputado Mauro",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Nvidia recupera US$ 953 bilhões em um dia com volta de CEO, valor maior que o de toda a B3",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/23/nvidia-recupera-us-953-bilhoes-em-um-dia-com-volta-de-ceo-valor-maior-que-o-de-toda-a-b3.ghtml",
+      "date": "2026-11-23T21:21:39.000Z",
+      "summary": "Amante de CEO da Nvidia manteve contato com oficial da espionagem chinesa, segundo o NYT A Nvidia anunciou nesta segunda-feira (23) o retorno imediato de Jensen Huang ao comando da empresa. O executivo havia renunciado em 12 de novembro, após a revelação de um",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "PF quer comprar 3 carros blindados para Lula por R$ 11,4 mi com proteção contra tiro de fuzil",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/pf-quer-comprar-3-carros-blindados-para-lula-por-r-114-mi-com-protecao-contra-tiro-de-fuzil.shtml",
+      "date": "2026-11-23T21:21:00.000Z",
+      "summary": "A Polícia Federal planeja comprar três carros com blindagem pesada, resistentes a tiros de fuzil, para a segurança do presidente Lula (PT) e outras autoridades nacionais e estrangeiras que visitarem o Brasil. Leia mais (11/23/2026 - 18h21)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Governo fiscalizará empresas nos primeiros 90 dias do fim da 6 X 1",
+      "link": "https://www.poder360.com.br/poder-economia/governo-fiscalizara-empresas-nos-primeiros-90-dias-do-fim-da-6-x-1/",
+      "date": "2026-11-23T21:17:53.000Z",
+      "summary": "Ministério do Trabalho e Emprego publicou 1ª portaria detalhando regulamentação",
       "source": "Poder360",
       "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Psol entrega 18 propostas a Moretti e rejeita ajuste fiscal do governo",
+      "link": "https://www.poder360.com.br/poder-congresso/psol-entrega-18-propostas-a-moretti-e-rejeita-ajuste-fiscal-do-governo/",
+      "date": "2026-11-23T21:17:33.000Z",
+      "summary": "Partido descarta voto favorável e avalia obstrução ou posição contrária; bancada quer taxar altas rendas e preservar verba social",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Governador de Minas Gerais vai morar na China após deixar governo",
+      "link": "https://www.poder360.com.br/poder-brasil/governador-de-minas-gerais-vai-morar-na-china-apos-deixar-governo/",
+      "date": "2026-11-23T21:13:04.000Z",
+      "summary": "Mateus Simões (PSD), derrotado nas eleições de outubro, dará aulas em universidade de Pequim a partir de fevereiro",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Por que você pode perder dinheiro mesmo quando seu imóvel valoriza?",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/blogs/de-grao-em-grao/2026/11/por-que-voce-pode-perder-dinheiro-mesmo-quando-seu-imovel-valoriza.shtml",
+      "date": "2026-11-23T21:00:00.000Z",
+      "summary": "Comprar imóveis é uma das formas mais tradicionais de construir patrimônio no Brasil. Muitos investidores possuem a falsa sensação de que se trata de uma aplicação segura, que sempre valoriza e que já foi responsável pela criação de grandes fortunas. Leia mais",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "A receita para blindar Xandão",
+      "link": "https://www.estadao.com.br/politica/carlos-andreazza/a-receita-para-blindar-xandao/",
+      "date": "2026-11-23T21:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Governo descarta envio de nova proposta de emenda para ajuste fiscal em 2026",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/governo-descarta-envio-de-nova-proposta-de-emenda-para-ajuste-fiscal-em-2026.shtml",
+      "date": "2026-11-23T20:50:00.000Z",
+      "summary": "Após o desgaste para garantir a aprovação do plano Moretti, o governo Lula não pretende enviar uma nova PEC (proposta de emenda conjstitucional) de ajuste fiscal ainda neste ano. Leia mais (11/23/2026 - 17h50)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Trump teria articulado retorno de Jensen Huang ao comando da Nvidia",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/trump-teria-articulado-retorno-de-jensen-huang-ao-comando-da-nvidia.shtml",
+      "date": "2026-11-23T20:50:00.000Z",
+      "summary": "Jensen Huang foi reconduzido ao cargo de presidente-executivo da Nvidia depois que o presidente Donald Trump iniciou uma série de articulações, ao longo de vários dias, para dar garantias ao conselho de administração da empresa de que Huang não era alvo de acu",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Alckmin anuncia concessão de prédios históricos para o turismo",
+      "link": "https://www.poder360.com.br/poder-governo/alckmin-anuncia-concessao-de-predios-historicos-para-o-turismo/",
+      "date": "2026-11-23T20:48:57.000Z",
+      "summary": "Vice-presidente divulgou vídeo no X sobre o Revive Brasil, com editais para fazenda em SP e forte em PE",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Os sinais de que a guerra na Ucrânia está se expandindo no mundo",
+      "link": "https://www.dw.com/pt-br/os-sinais-de-que-a-guerra-na-ucrânia-está-se-expandindo-no-mundo/a-80020412?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-23T20:46:00.000Z",
+      "summary": "Ucrânia reivindicou ataque a navios russos na Líbia. Incidente é episódio mais recente de uma série de ocorrências que reforçam o temor de uma ampliação geográfica do conflito além das linhas de combate no leste europeu.",
+      "source": "DW Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Jensen Huang é aplaudido por funcionários no retorno à Nvidia; VIDEO",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/23/huang-nvidia-ceo-funcionarios.ghtml",
+      "date": "2026-11-23T20:44:10.000Z",
+      "summary": "Jensen Huang é aplaudido na Nvidia Um vídeo que circula nas redes sociais mostra o presidente-executivo da Nvidia, Jensen Huang, sendo recebido com aplausos pelos funcionários ao retornar à sede da empresa. A volta do executivo foi anunciada nesta segunda-feir",
+      "source": "g1",
+      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -182,15 +290,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Fim da escala 6x1: Governo publica regras para compensação de folgas que divergem de liminar de Dino",
-      "link": "https://www.estadao.com.br/economia/fim-da-escala-6x1-governo-publica-regras-para-compensacao-de-folgas-que-divergem-de-liminar-de-dino/",
-      "date": "2026-11-23T20:32:55.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Em busca do 3º mandato, Bukele projeta influência na América Latina",
       "link": "https://www.dw.com/pt-br/em-busca-do-3º-mandato-bukele-projeta-influência-na-américa-latina/a-80015228?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-23T20:32:00.000Z",
@@ -206,24 +305,6 @@
       "summary": "O governo do presidente Luiz Inácio Lula da Silva (PT) precisa entregar uma proposta de ajuste fiscal que vá além do plano Moretti, atualmente em discussão no Congresso, para evitar que o Brasil caminhe rapidamente para um processo de estagflação -um cenário d",
       "source": "Folha",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Ao vivo: Câmara analisa o pacote de ajuste fiscal do governo Lula",
-      "link": "https://www.poder360.com.br/poder-congresso/ao-vivo-camara-analisa-o-pacote-de-ajuste-fiscal-do-governo-lula/",
-      "date": "2026-11-23T20:30:38.000Z",
-      "summary": "Sessão começa às 18h; deputados podem analisar projeto que reúne cortes de gastos e medidas para aumentar a arrecadação",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Dólar fecha a R$ 5,93 após superar R$ 6 pela 1ª vez desde abril de 2025",
-      "link": "https://www.poder360.com.br/poder-economia/dolar-fecha-a-r-593-apos-superar-r-6-pela-1a-vez-desde-abril-de-2025/",
-      "date": "2026-11-23T20:30:17.000Z",
-      "summary": "Moeda brasileira é pressionada por incertezas sobre o cenário fiscal; investidores aguardam votação do ajuste na Câmara",
-      "source": "Poder360",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -281,15 +362,6 @@
       "type": "oficial"
     },
     {
-      "title": "Ucrânia afunda navio de guerra russo na Líbia, diz Zelensky",
-      "link": "https://www.poder360.com.br/poder-internacional/ucrania-afunda-navio-de-guerra-russo-na-libia/",
-      "date": "2026-11-23T20:06:01.000Z",
-      "summary": "Presidente ucraniano diz que operação usou 7 drones navais; militares também destruíram helicóptero de combate russo e um navio cargueiro utilizado para transportar armas",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Comissão especial debate redução da maioridade penal para 16 anos",
       "link": "https://www.camara.leg.br/noticias/1321742-comissao-especial-debate-reducao-da-maioridade-penal-para-16-anos",
       "date": "2026-11-23T20:05:00.000Z",
@@ -305,24 +377,6 @@
       "summary": "A editoria de Economia da Folha está com vaga aberta de estágio. Leia mais (11/23/2026 - 17h03)",
       "source": "Folha",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Folha abre vaga de estágio em Economia",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/blogs/novo-em-folha/2026/11/folha-abre-vaga-de-estagio-em-economia.shtml",
-      "date": "2026-11-23T20:03:00.000Z",
-      "summary": "A editoria de Economia da Folha está com vaga aberta de estágio. Leia mais (11/23/2026 - 17h03)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Às vésperas da reforma tributária, escritórios contábeis têm apagão de mão de obra",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/as-vesperas-da-reforma-tributaria-escritorios-contabeis-tem-apagao-de-mao-de-obra.shtml",
-      "date": "2026-11-23T20:02:00.000Z",
-      "summary": "A contratação de profissionais se tornou um desafio para 87% dos escritórios contábeis de São Paulo, segundo a segunda edição da Sondagem de RH Contábil, realizada pela Omie em parceria com o Sescon-SP (Sindicato das Empresas de Serviços Contábeis e de Assesso",
-      "source": "Folha",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -362,54 +416,9 @@
       "type": "imprensa"
     },
     {
-      "title": "Avenida no Rio supera rua de SP e se torna a mais cara do Brasil para o comércio",
-      "link": "https://www.estadao.com.br/economia/avenida-rio-supera-rua-sp-mais-cara-brasil-comercio-npr/",
-      "date": "2026-11-23T19:48:07.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Confúcio cobra continuidade de políticas públicas e combate às desigualdades",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/23/confucio-cobra-continuidade-de-politicas-publicas-e-combate-as-desigualdades",
-      "date": "2026-11-23T19:43:32.000Z",
-      "summary": "Em pronunciamento no Plenário nesta segunda-feira (23), o senador Confúcio Moura (MDB-RO) cobrou maior empenho dos governos federal, estaduais e municipais para a continuidade de uma série de políticas públicas e a redução das desigualdades regionais. Ele afir",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Câmara deve votar nesta segunda-feira (23) projeto de ajuste fiscal do governo",
-      "link": "https://g1.globo.com/politica/ao-vivo/ajuste-fiscal-camara-deputados.ghtml",
-      "date": "2026-11-23T19:26:34.000Z",
-      "summary": "Câmara deve votar nesta segunda-feira (23) projeto de ajuste fiscal do governo Proposta foi aprovada no Senado na semana passada; texto projeta uma economia de R$ 50 bilhões nas contas do governo federal em 2027. O relator da proposta na Câmara, deputado Mauro",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Zanin pede destaque e leva denúncia contra Marcel Van Hattem a julgamento presencial no STF",
       "link": "https://www.estadao.com.br/politica/zanin-pede-destaque-e-leva-denuncia-contra-marcel-van-hattem-a-julgamento-presencial-no-stf-nprp/",
       "date": "2026-11-23T19:24:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "‘Sou um ator político’, diz Janones ao negar que vai participar de campanhas como consultor",
-      "link": "https://www.estadao.com.br/politica/sou-um-ator-politico-diz-janones-ao-negar-que-vai-participar-de-campanhas-como-consultor-nprp/",
-      "date": "2026-11-23T19:21:50.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Tarcísio defende discussão sobre limites de decisões monocráticas e competência do Supremo",
-      "link": "https://www.estadao.com.br/politica/tarcisio-defende-discussao-sobre-limites-de-decisoes-monocraticas-e-competencia-do-supremo/",
-      "date": "2026-11-23T19:20:23.000Z",
       "summary": "",
       "source": "Estadão",
       "cat": "politica",
@@ -432,24 +441,6 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Governo Lula reduz projeção de crescimento e vê inflação mais alta e dólar mais caro em 2026",
-      "link": "https://www.estadao.com.br/economia/governo-lula-reduz-projecao-do-pib-para-este-ano-e-ve-inflacao-acima-da-meta/",
-      "date": "2026-11-23T18:50:21.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Internação de Jair aprofunda fissura no clã Bolsonaro com disputa entre Carlos e Michelle",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/internacao-de-jair-aprofunda-fissura-no-cla-bolsonaro-com-disputa-entre-carlos-e-michelle.shtml",
-      "date": "2026-11-23T18:45:00.000Z",
-      "summary": "A mais recente internação de Jair Bolsonaro (PL), admitido na UTI (Unidade de Terapia Intensiva) do hospital DF Star, em Brasília, aprofundou o racha na família com novo atrito público entre a ex-primeira-dama Michelle Bolsonaro (PL) e Carlos Bolsonaro (PL), ú",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
     },
     {
       "title": "Comissão aprova desconto no Imposto de Renda para doações a entidades de assistência social",
@@ -479,15 +470,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Fazenda reduz previsão de crescimento da economia para 1,9% neste ano",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/23/fazenda-reduz-previsao-de-crescimento-da-economia-para-19percent-neste-ano.ghtml",
-      "date": "2026-11-23T18:08:00.000Z",
-      "summary": "O Ministério da Fazenda revisou mais uma vez para baixo a projeção de crescimento da economia brasileira neste ano, de 2% para 1,9%. A informação consta no Boletim Macrofiscal, divulgado nesta segunda-feira (23). ➡️A redução foi motivada pela desaceleração da ",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "'Queremos destruir o capitalismo': por dentro das manifestações dos 'black blocks' da esquerda radical na França",
       "link": "https://www.bbc.com/portuguese/articles/cqe8700d7e8do?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-23T18:07:55.000Z",
@@ -506,12 +488,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Fazenda reduz projeção de crescimento para o ano e vê alta do dólar e inflação",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/fazenda-reduz-projecao-de-crescimento-para-o-ano-e-ve-alta-do-dolar-e-inflacao.shtml",
-      "date": "2026-11-23T18:02:00.000Z",
-      "summary": "O Ministério da Fazenda reduziu a projeção de crescimento do PIB (Produto Interno Bruto) para este ano, ao mesmo tempo em que prevê um dólar mais alto e uma inflação mais elevada. Houve também uma piora nesses indicadores para o próximo ano. Leia mais (11/23/2",
-      "source": "Folha",
-      "cat": "politica",
+      "title": "Gerdau: Juro é definido no mercado; não há governo que consiga comandar esse processo",
+      "link": "https://www.estadao.com.br/economia/gerdau-juro-e-definido-no-mercado-nao-ha-governo-que-consiga-comandar-esse-processo/",
+      "date": "2026-11-23T18:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -533,12 +515,21 @@
       "type": "imprensa"
     },
     {
-      "title": "Nvidia anuncia volta de Jensen Huang como CEO",
-      "link": "https://www.dw.com/pt-br/nvidia-anuncia-volta-de-jensen-huang-como-ceo/a-80022066?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-23T14:39:00.000Z",
-      "summary": "Fora do cargo há menos de 2 semanas na esteira da revelação de caso com uma suposta espiã chinesa, fundador da Nvidia volta ao cargo de CEO após decisão unânime do Conselho de Administração. Ações da empresa disparam.",
-      "source": "DW Brasil",
-      "cat": "internacional",
+      "title": "Braskem fecha acordo com credores envolvendo capitalização de US$ 4,9 bilhões",
+      "link": "https://www.estadao.com.br/economia/negocios/braskem-fecha-acordo-credores-capitalizacao/",
+      "date": "2026-11-23T15:40:23.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "‘Resultado muito positivo’, diz Michelle sobre exame de Bolsonaro",
+      "link": "https://www.estadao.com.br/politica/resultado-muito-positivo-diz-michelle-sobre-exame-de-bolsonaro-nprp/",
+      "date": "2026-11-23T15:21:07.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -630,6 +621,15 @@
       "source": "ONU News",
       "cat": "internacional",
       "type": "oficial"
+    },
+    {
+      "title": "Block no tigrinho? Influenciadores driblam governo e Meta para divulgar bets ilegais; veja vídeo",
+      "link": "https://www.estadao.com.br/economia/block-no-tigrinho-influenciadores-driblam-governo-e-meta-para-divulgar-bets-ilegais-veja-video/",
+      "date": "2026-11-20T12:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
     },
     {
       "title": "BC aperfeiçoa norma sobre a participação em operações no mercado aberto",
