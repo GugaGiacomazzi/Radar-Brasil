@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-24T19:59:05.975Z",
+  "updated": "2026-11-24T20:55:30.417Z",
   "market": {
     "ibov": {
-      "price": 165010.16,
-      "pct": 0.13,
-      "time": "2026-11-24T19:58:59.356Z",
+      "price": 164042.42,
+      "pct": -0.46,
+      "time": "2026-11-24T20:55:24.290Z",
       "history": [
         {
           "d": "2026-10-26",
@@ -84,7 +84,7 @@
         },
         {
           "d": "2026-11-24",
-          "c": 164960.2188
+          "c": 164042.4219
         }
       ]
     },
@@ -141,13 +141,175 @@
   },
   "news": [
     {
+      "title": "Ao vivo: Poder360 entrevista Jones Manoel",
+      "link": "https://www.poder360.com.br/poder-visitas/ao-vivo-poder360-entrevista-jones-manoel/",
+      "date": "2026-11-24T20:52:30.000Z",
+      "summary": "Deputado federal eleito por Pernambuco fala ao vivo no estúdio do jornal digital, em Brasília; discute Câmara, 2030 e redes sociais",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Magda nega abandono da austeridade em plano da Petrobras para 2031",
+      "link": "https://www.poder360.com.br/poder-infra/magda-nega-abandono-da-austeridade-em-plano-da-petrobras-para-2031/",
+      "date": "2026-11-24T20:51:10.000Z",
+      "summary": "Presidente da estatal atribui expansão dos investimentos ao câmbio, à inflação e a ajustes no portfólio; pacote chega a US$ 122 bilhões em 5 anos",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Petróleo fecha em alta com aumento de riscos no estreito de Ormuz",
+      "link": "https://www.poder360.com.br/poder-energia/petroleo-fecha-em-alta-com-aumento-de-riscos-no-estreito-de-ormuz/",
+      "date": "2026-11-24T20:49:55.000Z",
+      "summary": "Brent para janeiro fechou em alta de 2,27%, a US$ 91,40 o barril e WTI para o mesmo mês subiu 2,35%, a US$ 82,05 o barril",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lei do ajuste fiscal é publicada e já está valendo",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/24/lei-do-ajuste-fiscal-e-publicada-e-ja-esta-valendo",
+      "date": "2026-11-24T20:49:21.000Z",
+      "summary": "Após sanção imediata do presidente Luiz Inácio Lula da Silva, sem vetos, o projeto de ajuste fiscal do governo federal já virou lei, publicada em edição extra do Diário Oficial da União nesta terça-feira (24). A Lei Complementar 239 poderá dar um alívio de até",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "PT divulga nova 'Carta ao Povo Brasileiro' com prioridades para o Lula 4",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/pt-divulga-nova-carta-ao-povo-brasileiro-com-prioridades-para-o-lula-4.shtml",
+      "date": "2026-11-24T20:49:00.000Z",
+      "summary": "O PT divulgará nesta terça-feira (24) um documento em que faz uma avaliação da vitória de Luiz Inácio Lula da Silva e projeta prioridades para o quarto mandato. Leia mais (11/24/2026 - 17h49)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Tributada, mas não regulamentada: a prostituição na República Tcheca",
+      "link": "https://www.dw.com/pt-br/tributada-mas-não-regulamentada-a-prostituição-na-república-tcheca/a-80036139?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-24T20:47:00.000Z",
+      "summary": "Embora não seja proibida, a prostituição segue sem regulamentação na República Tcheca. Agora, trabalhadores do setor passam a enfrentar cobranças de impostos retroativos.",
+      "source": "DW Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "China prorroga suspensão de controles sobre exportações de minerais críticos aos EUA",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/china-prorroga-suspensao-de-controles-sobre-exportacoes-de-minerais-criticos-aos-eua.shtml",
+      "date": "2026-11-24T20:46:00.000Z",
+      "summary": "A China vai prorrogar a suspensão de restrições à exportação de alguns minerais críticos para os Estados Unidos, em uma aparente tentativa de evitar uma escalada na frágil trégua comercial entre os países, após a reunião da semana passada entre Xi Jinping e Do",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Sankhya consegue aprovar R$ 93,6 mi junto ao BNDES para ampliar aplicações de IA",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/sankhya-consegue-aprovar-r-936-mi-junto-ao-bndes-para-ampliar-aplicacoes-de-ia.shtml",
+      "date": "2026-11-24T20:40:00.000Z",
+      "summary": "A Sankhya, companhia mineira de tecnologia, conseguiu aprovação juntos ao BNDES (Banco Nacional de Desenvolvimento Econômico e Social) de R$ 93,6 milhões, que serão usados no desenvolvimento de aplicações de inteligência artificial usadas em sistemas de gestão",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "'Um idealista’, diz Miguel Reale Jr. sobre carreira de Fábio Konder Comparato",
+      "link": "https://www.estadao.com.br/politica/um-idealista-diz-miguel-reale-jr-sobre-carreira-de-fabio-konder-comparato/",
+      "date": "2026-11-24T20:29:38.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Câmara aprova medidas para garantir igualdade à população negra em emergências de saúde; acompanhe",
+      "link": "https://www.camara.leg.br/noticias/1322489-camara-aprova-medidas-para-garantir-igualdade-a-populacao-negra-em-emergencias-de-saude-acompanhe",
+      "date": "2026-11-24T20:27:00.000Z",
+      "summary": "Proposta prevê atendimento humanizado, busca ativa e dados desagregados no SUS em epidemias e calamidades; texto vai ao Senado",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Jensen Huang diz que ainda não acredita em plano de sucessão na Nvidia",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/jensen-huang-diz-que-ainda-nao-acredita-em-plano-de-sucessao-na-nvidia.shtml",
+      "date": "2026-11-24T20:25:00.000Z",
+      "summary": "Jensen Huang defendeu nesta terça-feira (24) a ausência de um plano de sucessão na Nvidia e seu controle centralizado sobre dezenas de executivos, contrariando a pressão por mudanças significativas na cultura da gigante de chips avaliada em US$ 4 trilhões (R$ ",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Dá tempo se líderes estiverem dispostos, diz Alcolumbre sobre PEC com novas medidas de ajuste fiscal",
+      "link": "https://www.estadao.com.br/economia/da-tempo-se-lideres-estiverem-dispostos-diz-alcolumbre-sobre-pec-com-novas-medidas-de-ajuste-fiscal/",
+      "date": "2026-11-24T20:24:02.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Visita ao Poder360: Glauco Humai",
+      "link": "https://www.poder360.com.br/poder-visitas/visita-ao-poder360-glauco-humai/",
+      "date": "2026-11-24T20:23:44.000Z",
+      "summary": "Presidente da Associação Brasileira de Shopping Centers deu entrevista no estúdio deste jornal digital",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Humberto Costa celebra aprovação do projeto de ajuste fiscal",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/24/humberto-costa-celebra-aprovacao-do-projeto-de-ajuste-fiscal",
+      "date": "2026-11-24T20:04:08.000Z",
+      "summary": "Em pronunciamento nesta terça-feira (24), o senador Humberto Costa (PT-PE) comemorou a aprovação, pela Câmara dos Deputados, do projeto de ajuste fiscal. Segundo o parlamentar, a proposta (PLP 299/2026) permite conciliar o equilíbrio das contas públicas com a ",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Câmara aprova inclusão de dados sobre raça ou cor nos prontuários do SUS; acompanhe",
+      "link": "https://www.camara.leg.br/noticias/1322481-camara-aprova-inclusao-de-dados-sobre-raca-ou-cor-nos-prontuarios-do-sus-acompanhe",
+      "date": "2026-11-24T20:04:00.000Z",
+      "summary": "A proposta altera o Estatuto da Igualdade Racial e segue para análise do Senado",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Reparação para população negra precisa ser política de Estado, afirma Zenaide",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/24/reparacao-para-populacao-negra-precisa-ser-politica-de-estado-afirma-zenaide",
+      "date": "2026-11-24T19:59:38.000Z",
+      "summary": "A senadora Zenaide Maia (PSD-RN) defendeu, nesta terça-feira (24), a adoção de políticas públicas permanentes voltadas à reparação histórica da população negra e ao combate às desigualdades sociais. Em pronunciamento no Plenário, a parlamentar lembrou que o Br",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "O maior erro de Lula seria esperar que a situação fiscal se resolvesse sozinha, diz Obstfeld, ex-FMI",
+      "link": "https://www.estadao.com.br/economia/o-maior-erro-de-lula-seria-esperar-que-a-situacao-fiscal-se-resolvesse-sozinha-diz-obstfeld-ex-fmi/",
+      "date": "2026-11-24T19:56:04.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "Master: relatoria de pedidos sobre Vorcaro reabre debate no STF sobre impedimento de Nunes Marques",
       "link": "https://g1.globo.com/politica/noticia/2026/11/24/master-relatoria-de-pedidos-sobre-vorcaro-reabre-debate-no-stf-sobre-impedimento-de-nunes-marques.ghtml",
       "date": "2026-11-24T19:54:26.000Z",
-      "summary": "A definição do ministro Nunes Marques como relator de dois pedidos ligados ao ex-banqueiro Daniel Vorcaro reabriu, no Supremo Tribunal Federal (STF), a discussão sobre a permanência do magistrado nos processos relacionados ao Banco Master ou a eventual declara",
+      "summary": "A definição do ministro Nunes Marques como relator de pedidos ligados ao ex-banqueiro Daniel Vorcaro reabriu, no Supremo Tribunal Federal (STF), a discussão sobre a permanência do magistrado nos processos relacionados ao Banco Master ou a eventual declaração d",
       "source": "g1",
       "cat": "politica",
       "type": "imprensa"
+    },
+    {
+      "title": "Comissão aprova projeto que permite abertura de igrejas em períodos de calamidade pública",
+      "link": "https://www.camara.leg.br/noticias/1322460-comissao-aprova-projeto-que-permite-abertura-de-igrejas-em-periodos-de-calamidade-publica",
+      "date": "2026-11-24T19:54:00.000Z",
+      "summary": "Proposta segue para análise do Senado, a menos que haja recurso para que seja votado no Plenário da Câmara",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
     },
     {
       "title": "Ray-Ban e Meta são alvo de ações na Alemanha por óculos inteligentes",
@@ -156,6 +318,15 @@
       "summary": "A associação de defesa do consumidor da Alemanha afirmou nesta terça-feira (24) que entrará com ações judiciais contra a Meta e os fabricantes da Ray-Ban por preocupações com a privacidade de dados relacionadas a óculos inteligentes equipados com IA (inteligên",
       "source": "Folha",
       "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Cleitinho fará apresentação musical em cidade mineira dias antes da posse como governador",
+      "link": "https://www.estadao.com.br/politica/cleitinho-fara-apresentacao-musical-em-cidade-mineira-dias-antes-da-posse-como-governador-nprp/",
+      "date": "2026-11-24T19:49:28.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -168,38 +339,11 @@
       "type": "imprensa"
     },
     {
-      "title": "Moraes se declara suspeito em ação sobre interferência nas eleições",
-      "link": "https://www.poder360.com.br/poder-justica/moraes-se-declara-suspeito-em-acao-sobre-interferencia-nas-eleicoes/",
-      "date": "2026-11-24T19:43:47.000Z",
-      "summary": "Ministro alegou motivo de “foro íntimo” para não atuar no processo; Dino pediu que PF apure influência estrangeira no pleito",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "PL das big techs é adiado novamente e fica para próxima semana",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/pl-das-big-techs-e-adiado-novamente-e-fica-para-proxima-semana.shtml",
       "date": "2026-11-24T19:42:00.000Z",
       "summary": "O projeto de lei dos Mercados Digitais, conhecido como PL das big techs, foi adiado e só deve ser votado na próxima terça-feira (1º). O adiamento ocorre a pedido do presidente da Câmara, Hugo Motta (Republicanos-PB). Leia mais (11/24/2026 - 16h42)",
       "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Lucro da Xiaomi cai 57% com desaceleração do mercado automotivo chinês",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/lucro-da-xiaomi-cai-57-com-desaceleracao-do-mercado-automotivo-chines.shtml",
-      "date": "2026-11-24T19:40:00.000Z",
-      "summary": "A Xiaomi, fabricante chinesa de veículos elétricos e smartphones, divulgou nesta terça-feira (24) uma queda de 57% no lucro líquido do terceiro trimestre, ficando abaixo das estimativas dos analistas, já que a desaceleração no mercado automotivo chinês e o aum",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Lula sanciona ajuste fiscal com impacto estimado de R$ 50 bi",
-      "link": "https://www.poder360.com.br/poder-economia/lula-sanciona-ajuste-fiscal-com-impacto-estimado-de-r-50-bi/",
-      "date": "2026-11-24T19:34:56.000Z",
-      "summary": "Sanção do texto se dá horas depois de a Câmara aprovar a proposta encaminhada pelo governo",
-      "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -276,74 +420,11 @@
       "type": "imprensa"
     },
     {
-      "title": "SC tem menor desigualdade salarial entre pretos e brancos, aponta Esperidião Amin",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/24/sc-tem-menor-desigualdade-salarial-entre-pretos-e-brancos-aponta-esperidiao-amin",
-      "date": "2026-11-24T19:21:25.000Z",
-      "summary": "O senador Esperidião Amin (PP-SC), em pronunciamento por videoconferência nesta terça-feira (24), chamou a atenção para as diferenças de remuneração entre trabalhadores de diferentes grupos raciais no Brasil. O parlamentar citou um levantamento atribuído ao In",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Governo rejeita mudar prazo para aéreas adotarem combustível sustentável",
-      "link": "https://www.poder360.com.br/poder-infra/governo-rejeita-mudar-prazo-para-aereas-adotarem-combustivel-sustentavel/",
-      "date": "2026-11-24T19:20:17.000Z",
-      "summary": "Pressionadas por custos, companhias pedem flexibilização ao Ministério de Portos e Aeroportos; regulamentação deve atrasar implementação",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Lula sanciona sem vetos projeto de ajuste fiscal de R$ 50 bi em 2027 após aprovação na Câmara",
-      "link": "https://www.estadao.com.br/economia/lula-sanciona-sem-vetos-projeto-de-ajuste-fiscal-de-r-50-bi-em-2027-apos-aprovacao-na-camara/",
-      "date": "2026-11-24T19:20:06.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Adiada votação de parecer da comissão especial sobre política nacional para pessoas com autismo",
       "link": "https://www.camara.leg.br/noticias/1321696-adiada-votacao-de-parecer-da-comissao-especial-sobre-politica-nacional-para-pessoas-com-autismo",
       "date": "2026-11-24T19:20:00.000Z",
       "summary": "Texto consolida a legislação sobre o transtorno e assegura a continuidade de políticas públicas já conquistadas",
       "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Corinthians questiona pedido de intervenção judicial a 4 dias da eleição",
-      "link": "https://www.poder360.com.br/poder-sportsmkt/corinthians-questiona-pedido-de-intervencao-judicial-a-4-dias-da-eleicao/",
-      "date": "2026-11-24T19:18:43.000Z",
-      "summary": "Clube afirma que medida pode prejudicar negociações financeiras e critica o momento escolhido pelo Ministério Público",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Confiança do consumidor nos Estados Unidos atinge nível mais alto em quase dois anos",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/10/25/6568-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post468068",
-      "date": "2026-11-24T19:18:00.000Z",
-      "summary": "A confiança do consumidor nos Estados Unidos subiu em novembro, atingindo seu nível mais alto em quase dois anos, em meio ao otimismo em relação às condições do mercado de trabalho e à economia em geral após as eleições de meio de mandato deste mês, segundo um",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Políticas de gênero e raça precisam estar na execução orçamentária, mostra debate",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/24/politicas-de-genero-e-raca-precisam-estar-na-execucao-orcamentaria-mostra-debate",
-      "date": "2026-11-24T19:17:52.000Z",
-      "summary": "Apesar da inclusão das agendas de gênero e raça no planejamento dos orçamentos públicos, ainda é preciso garantir os recursos para que essas políticas sejam efetivamente executadas. Essa é a avaliação dos participantes de audiência pública desta terça-feira (2",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Avançam diretrizes para política de apoio à indústria brasileira",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/24/avancam-diretrizes-para-politica-de-apoio-a-industria-brasileira",
-      "date": "2026-11-24T19:17:07.000Z",
-      "summary": "A Comissão de Assuntos Econômicos (CAE) aprovou nesta terça-feira (24) as bases para uma futura política de reindustrialização nacional. O PL 4.133/2023 define diretrizes para a política industrial, tecnológica, de inovação e de comércio exterior brasileira, c",
-      "source": "Agência Senado",
       "cat": "politica",
       "type": "oficial"
     },
@@ -355,24 +436,6 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Drones autônomos lançam vespas microscópicas para combater pragas agrícolas",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/agro/2026/11/drones-autonomos-lancam-vespas-microscopicas-para-combater-pragas-agricolas.shtml",
-      "date": "2026-11-24T19:11:00.000Z",
-      "summary": "Por baixo das folhas das lavouras, uma ameaça imperceptível a olho nu coloca a colheita em risco: ovos de lagartas prestes a eclodir e dar origem a larvas vorazes. Para conter o problema na raiz, a startup BioHub-NCB criou um sistema automatizado que leva o co",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Comissão da Câmara aprova convocação de ministro da Justiça para explicar sobre caso Master",
-      "link": "https://www.estadao.com.br/politica/comissao-da-camara-aprova-convocacao-de-ministro-da-justica-para-explicar-sobre-caso-master/",
-      "date": "2026-11-24T18:53:58.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
     },
     {
       "title": "Nunes Marques é definido relator de pedido de Vorcaro para retirar caso Master do gabinete da presidência do STF",
@@ -420,15 +483,6 @@
       "type": "imprensa"
     },
     {
-      "title": "TV Câmara recebe prêmio internacional com programa que promove participação e cidadania",
-      "link": "https://www.camara.leg.br/noticias/1322385-tv-camara-recebe-premio-internacional-com-programa-que-promove-participacao-e-cidadania",
-      "date": "2026-11-24T17:57:00.000Z",
-      "summary": "Emissora foi finalista em seis categorias do prêmio TAL – ALCAP Parlamentar e Judicial",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
       "title": "O impasse no Iraque envolvendo governo e milícias aliadas ao Irã",
       "link": "https://www.dw.com/pt-br/o-impasse-no-iraque-envolvendo-governo-e-milícias-aliadas-ao-irã/a-80035039?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-24T17:53:00.000Z",
@@ -436,24 +490,6 @@
       "source": "DW Brasil",
       "cat": "internacional",
       "type": "imprensa"
-    },
-    {
-      "title": "Adiada votação de parecer sobre ampliação do limite de faturamento para o MEI",
-      "link": "https://www.camara.leg.br/noticias/1321031-adiada-votacao-de-parecer-sobre-ampliacao-do-limite-de-faturamento-para-o-mei",
-      "date": "2026-11-24T17:46:00.000Z",
-      "summary": "Reunião, que seria nesta terça-feira, foi remarcada para amanhã (25)",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Venda ilegal de canetas emagrecedoras pressiona saúde e segurança, alertam debatedores",
-      "link": "https://www.camara.leg.br/noticias/1322349-venda-ilegal-de-canetas-emagrecedoras-pressiona-saude-e-seguranca-alertam-debatedores",
-      "date": "2026-11-24T17:45:00.000Z",
-      "summary": "Especialistas alertam que a comercialização fora das farmácias rompe a cadeia de controle sanitário",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
     },
     {
       "title": "Governo prepara PEC com medidas para dar 'potência fiscal' e assegurar cumprimento de meta, diz Moretti",
@@ -483,24 +519,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Julgamento na Itália sobre extradição de Zambelli tem novo adiamento",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/julgamento-na-italia-sobre-extradicao-de-zambelli-tem-novo-adiamento.shtml",
-      "date": "2026-11-24T17:31:00.000Z",
-      "summary": "O julgamento na Itália do segundo pedido de extradição da ex-deputada Carla Zambelli (PL-SP) foi adiado novamente nesta terça-feira (24), devido a uma greve nacional de advogados penalistas. Uma nova audiência foi marcada para 2 de fevereiro de 2027 na Corte d",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Equipe econômica tem aval de Lula para envio de PEC e trabalha em novas medidas fiscais",
-      "link": "https://www.estadao.com.br/economia/equipe-economica-aval-lula-pec-ajuste-fiscal/",
-      "date": "2026-11-24T16:33:51.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Ministro alemão se diz \"chocado\" com pressão de Trump sobre a Nvidia",
       "link": "https://www.dw.com/pt-br/ministro-alemão-se-diz-chocado-com-pressão-de-trump-sobre-a-nvidia/a-80038359?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-24T16:32:00.000Z",
@@ -523,15 +541,6 @@
       "link": "https://www.dw.com/pt-br/dados-vazados-apontam-mais-de-mais-de-mil-suicídios-na-tropa-russa-durante-guerra-na-ucrânia/a-80032440?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-24T12:31:00.000Z",
       "summary": "Levantamento do jornal britânico \"The Guardian\" com base em registros oficiais vazados sugere que o número real pode ser ainda maior.",
-      "source": "DW Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Maioria dos alemães é contra envio de armas à Ucrânia, mostra pesquisa",
-      "link": "https://www.dw.com/pt-br/maioria-dos-alemães-é-contra-envio-de-armas-à-ucrânia-mostra-pesquisa/a-80029950?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-24T12:22:00.000Z",
-      "summary": "Respaldo à Ucrânia entre população da Alemanha vem caindo nos últimos meses. Temor de novas guerras e desconfiança em relação aos EUA impulsionam demandas por postura mais cautelosa do país, aponta pesquisa.",
       "source": "DW Brasil",
       "cat": "internacional",
       "type": "imprensa"
@@ -570,15 +579,6 @@
       "summary": "Valor disparou com combinação de força da moeda americana no exterior e pressão sobre ajuste fiscal no Brasil, levando à desvalorização do real acentuada entre as principais moedas emergentes.",
       "source": "BBC News Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Governadores de oposição buscam diálogo com Lula para garantir recursos aos Estados após a eleição",
-      "link": "https://www.estadao.com.br/politica/governadores-de-oposicao-buscam-dialogo-com-lula-para-garantir-recursos-aos-estados-apos-a-eleicao/",
-      "date": "2026-11-24T08:30:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
