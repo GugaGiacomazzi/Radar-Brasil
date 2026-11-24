@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-23T23:46:43.868Z",
+  "updated": "2026-11-24T00:59:14.605Z",
   "market": {
     "ibov": {
       "price": 164796.05,
       "pct": -0.95,
-      "time": "2026-11-23T23:46:36.989Z",
+      "time": "2026-11-24T00:59:10.305Z",
       "history": [
         {
           "d": "2026-10-26",
@@ -137,6 +137,123 @@
   },
   "news": [
     {
+      "title": "Governo anuncia estudo clínico de vacina contra o câncer para 2027",
+      "link": "https://www.poder360.com.br/poder-saude/governo-anuncia-estudo-clinico-de-vacina-contra-o-cancer-para-2027/",
+      "date": "2026-11-24T00:57:57.000Z",
+      "summary": "Pesquisa será realizada em parceria com a Universidade de Oxford, com participação da Fiocruz e de instituições brasileiras",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Justiça do RJ torna réus Ricardo Magro e mais 18 por sonegação e lavagem de dinheiro",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/justica-do-rj-torna-reus-ricardo-magro-e-mais-18-por-sonegacao-e-lavagem-de-dinheiro.shtml",
+      "date": "2026-11-24T00:56:00.000Z",
+      "summary": "A Justiça do Rio de Janeiro tornou réus nesta segunda-feira (23) o empresário Ricardo Magro, ex-dono da Refit, quatro parentes dele e outras 14 pessoas sob acusação de organização criminosa, crimes contra a ordem tributária e lavagem de dinheiro. Leia mais (11",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Santiago Peña recorre à Suprema Corte para anular destituição",
+      "link": "https://www.poder360.com.br/poder-internacional/santiago-pena-recorre-a-suprema-corte-para-anular-destituicao/",
+      "date": "2026-11-24T00:40:27.000Z",
+      "summary": "Ex-presidente contesta decisão do Senado paraguaio e afirma que houve violações ao devido processo legal",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Crédito está travado; 2027 será difícil para a economia, diz presidente do Bradesco",
+      "link": "https://www.estadao.com.br/economia/credito-esta-travado-2027-sera-dificil-para-a-economia-diz-presidente-do-bradesco/",
+      "date": "2026-11-24T00:32:44.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Livro com depoimentos de ex-vereadores reúne bastidores da Câmara Municipal de SP",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/livro-com-depoimentos-de-ex-vereadores-reune-bastidores-da-camara-municipal-de-sp.shtml",
+      "date": "2026-11-24T00:30:00.000Z",
+      "summary": "A Câmara Municipal de São Paulo lança, no dia 3 de dezembro, às 19h, o livro \"Vossa Excelência, a Memória\" Leia mais (11/23/2026 - 21h30)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Sete cidades irão escolher novos prefeitos em dezembro",
+      "link": "https://www.estadao.com.br/politica/sete-cidades-irao-escolher-novos-prefeitos-em-dezembro-nprp/",
+      "date": "2026-11-24T00:24:01.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Damares Alves pede a Fachin autorização para visitar Vorcaro na Papuda",
+      "link": "https://www.estadao.com.br/politica/damares-pede-a-fachin-autorizacao-para-visitar-vorcaro-na-papuda-nprp/",
+      "date": "2026-11-24T00:23:16.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Entenda por que a Nvidia dispara 31% após retorno de Jensen Huang",
+      "link": "https://www.poder360.com.br/poder-economia/entenda-por-que-a-nvidia-dispara-31-apos-retorno-de-jensen-huang/",
+      "date": "2026-11-24T00:20:45.000Z",
+      "summary": "Recondução do cofundador foi aprovada por unanimidade pelo conselho; mercado reage à redução das incertezas sobre a companhia",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Eduardo Bolsonaro recorre de condenação no STF por difamação contra Tabata Amaral",
+      "link": "https://www.estadao.com.br/politica/eduardo-bolsonaro-recorre-de-condenacao-no-stf-por-difamacao-contra-tabata-amaral-nprp/",
+      "date": "2026-11-24T00:11:48.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Irmão de Santiago Peña, ex-presidente do Paraguai, é preso",
+      "link": "https://www.poder360.com.br/poder-internacional/irmao-de-santiago-pena-ex-presidente-do-paraguai-e-preso/",
+      "date": "2026-11-24T00:05:36.000Z",
+      "summary": "Francisco Peña e sua mulher são investigados por lavagem de dinheiro em caso envolvendo o Ueno Bank; ela se entregou",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Trabuco defende agenda ampla para reduzir custo Brasil com foco em juros, segurança e logística",
+      "link": "https://www.estadao.com.br/economia/trabuco-defende-agenda-ampla-para-reduzir-custo-brasil-com-foco-em-juros-seguranca-e-logistica/",
+      "date": "2026-11-24T00:03:51.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Seminário do PT receberá André Lara Resende para discutir ‘alternativas’ à política econômica",
+      "link": "https://www.estadao.com.br/economia/seminario-do-pt-recebera-andre-lara-resende-para-discutir-alternativas-a-politica-economica/",
+      "date": "2026-11-23T23:51:43.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Relator defende ajuste fiscal e garante proteção a benefícios sociais; acompanhe",
+      "link": "https://www.camara.leg.br/noticias/1322102-relator-defende-ajuste-fiscal-e-garante-protecao-a-beneficios-sociais-acompanhe",
+      "date": "2026-11-23T23:46:00.000Z",
+      "summary": "Deputado Mauro Benevides Filho apresentou parecer favorável ao PLP 299/26 sem mudanças e disse que Bolsa Família e BPC estão preservados",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
       "title": "Petrobras compra 42% da produtora de etanol de milho Neomille, da Cerradinho, por R$ 2,8 bi",
       "link": "https://www.estadao.com.br/economia/negocios/petrobras-compra-42-da-produtora-de-etanol-de-milho-neomille-da-cerradinho-por-r-28-bi/",
       "date": "2026-11-23T23:38:35.000Z",
@@ -155,15 +272,6 @@
       "type": "oficial"
     },
     {
-      "title": "Entenda a portaria do governo sobre o fim da 6 X 1",
-      "link": "https://www.poder360.com.br/poder-brasil/entenda-a-portaria-do-governo-sobre-o-fim-da-6-x-1/",
-      "date": "2026-11-23T23:30:34.000Z",
-      "summary": "Norma garante 2 dias de descanso semanal e redefine valor da hora extra",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Nova pasta para idosos poderá se chamar Ministério da Longevidade",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/nova-pasta-para-idosos-podera-se-chamar-ministerio-da-longevidade.shtml",
       "date": "2026-11-23T23:28:00.000Z",
@@ -173,7 +281,7 @@
       "type": "imprensa"
     },
     {
-      "title": "EUA impõe restrições à Megaspeed, empresa ligada a escândalo da Nvidia",
+      "title": "EUA impõem restrições à Megaspeed, empresa ligada a escândalo da Nvidia",
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/eua-impoe-restricoes-a-megaspeed-empresa-ligada-a-escandalo-da-nvidia.shtml",
       "date": "2026-11-23T23:25:00.000Z",
       "summary": "Os Estados Unidos acrescentaram nesta segunda-feira (23) a Megaspeed à sua lista de restrições comerciais. A empresa, sediada em Singapura, está estreitamente ligada a uma investigação de espionagem envolvendo a Nvidia. Leia mais (11/23/2026 - 20h25)",
@@ -189,15 +297,6 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "PC do B acorda emenda para excluir Lei Rouanet do ajuste fiscal",
-      "link": "https://www.poder360.com.br/poder-congresso/pc-do-b-acorda-emenda-para-excluir-lei-rouanet-do-ajuste-fiscal/",
-      "date": "2026-11-23T23:15:30.000Z",
-      "summary": "Jandira Feghali diz que proposta deixa claro que leis de incentivo culturais não serão afetadas; no relatório do pacote já não havia qualquer menção expressa à área de cultura",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
     },
     {
       "title": "Huang é recebido com aplausos ao retornar à sede da Nvidia; veja vídeo",
@@ -227,24 +326,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Lula produz superávits primários recordes, mas eles são engolidos por um ministério",
-      "link": "https://www.estadao.com.br/economia/pedro-fernando-nery/lula-produz-superavits-primarios-recordes-mas-eles-sao-engolidos-por-um-ministerio/",
-      "date": "2026-11-23T23:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Brasil defende ampliar cooperação internacional em saúde",
-      "link": "https://www.poder360.com.br/poder-saude/brasil-defende-ampliar-cooperacao-internacional-em-saude/",
-      "date": "2026-11-23T22:57:01.000Z",
-      "summary": "Ministro da Saúde participou da abertura do H20 Summit, em Londres",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Deputados analisam proposta de ajuste fiscal; acompanhe",
       "link": "https://www.camara.leg.br/noticias/1322109-deputados-analisam-proposta-de-ajuste-fiscal-acompanhe",
       "date": "2026-11-23T22:57:00.000Z",
@@ -254,15 +335,6 @@
       "type": "oficial"
     },
     {
-      "title": "Petrobras eleva investimentos em 12%, para US$ 122 bi, e anuncia dividendos extraordinários",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/petrobras-eleva-investimentos-para-us-122-bilhoes-e-anuncia-dividendos-extraordinarios.shtml",
-      "date": "2026-11-23T22:54:00.000Z",
-      "summary": "A Petrobras anunciou nesta segunda-feira (23) que investirá US$ 122 bilhões (cerca de R$ 650 bilhões) nos próximos cinco anos, alta de 12% em relação à projeção do plano anterior, de 2025. A exploração e produção de petróleo segue como maior destino para os in",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Deputados aprovam urgência para projeto do ajuste fiscal; acompanhe",
       "link": "https://www.camara.leg.br/noticias/1322096-deputados-aprovam-urgencia-para-projeto-do-ajuste-fiscal-acompanhe",
       "date": "2026-11-23T22:52:00.000Z",
@@ -270,15 +342,6 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Petrobras anuncia plano de investimento de US$ 122 bilhões entre 2027 e 2031, com alta de 12%",
-      "link": "https://www.estadao.com.br/economia/negocios/petrobras-anuncia-plano-de-investimento-de-us-122-bilhoes-entre-2027-e-2031/",
-      "date": "2026-11-23T22:49:02.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
     },
     {
       "title": "Após visita de Puti, Tajiquistão se torna 4º país a deixar TPI após pressão dos EUA",
@@ -299,10 +362,10 @@
       "type": "imprensa"
     },
     {
-      "title": "Petrobras prevê investir US$ 122 bilhões até 2031, alta de 11,9% em relação ao plano anterior",
+      "title": "Petrobras prevê investir US$ 122 bilhões entre 2027 e 2031, alta de 11,9% em relação ao plano anterior",
       "link": "https://g1.globo.com/economia/noticia/2026/11/23/petrobras-investimento-2027-a-2031.ghtml",
       "date": "2026-11-23T22:38:01.000Z",
-      "summary": "Petrobras Foto Divulgação A Petrobras aprovou nesta segunda-feira (23) um plano de negócios que prevê investimentos de US$ 122 bilhões (cerca de R$ 723 bilhões) entre 2027 e 2031. A maior parte dos recursos será destinada à exploração e produção de petróleo e ",
+      "summary": "Petrobras Foto Divulgação A Petrobras aprovou nesta segunda-feira (23) seu novo plano de negócios, que prevê investimentos de US$ 122 bilhões (cerca de R$ 723 bilhões) entre 2027 e 2031. O valor é 11,93% superior aos US$ 109 bilhões estimados para o período de",
       "source": "g1",
       "cat": "economia",
       "type": "imprensa"
@@ -326,33 +389,6 @@
       "type": "oficial"
     },
     {
-      "title": "Câmara realiza Seminário de Ambientação para receber novos deputados eleitos",
-      "link": "https://www.camara.leg.br/noticias/1321870-camara-realiza-seminario-de-ambientacao-para-receber-novos-deputados-eleitos",
-      "date": "2026-11-23T22:23:00.000Z",
-      "summary": "Objetivo é dar suporte à atividade parlamentar e contribuir para uma atuação eficiente desde o início do mandato",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Bolsa cai 0,95% e fecha abaixo dos 165 mil pontos com temor fiscal",
-      "link": "https://www.poder360.com.br/poder-economia/bolsa-cai-095-e-fecha-abaixo-dos-165-mil-pontos-com-temor-fiscal/",
-      "date": "2026-11-23T22:20:09.000Z",
-      "summary": "Ibovespa recua pressionado pela Petrobras e incertezas sobre ajuste das contas públicas, apesar da forte alta das bolsas dos Estados Unidos",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "EUA incluem Megaspeed, empresa envolvida em escândalo da Nvidia, em lista de controle de exportações",
-      "link": "https://www.estadao.com.br/economia/eua-incluem-megaspeed-nvidia-lista-controle-exportacoes-npr/",
-      "date": "2026-11-23T22:06:55.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Nvidia recupera US$ 953 bilhões em um dia com volta de CEO, valor maior que o de toda a B3",
       "link": "https://g1.globo.com/economia/noticia/2026/11/23/nvidia-recupera-us-953-bilhoes-em-um-dia-com-volta-de-ceo-valor-maior-que-o-de-toda-a-b3.ghtml",
       "date": "2026-11-23T21:21:39.000Z",
@@ -367,15 +403,6 @@
       "date": "2026-11-23T21:21:00.000Z",
       "summary": "A Polícia Federal planeja comprar três carros com blindagem pesada, resistentes a tiros de fuzil, para a segurança do presidente Lula (PT) e outras autoridades nacionais e estrangeiras que visitarem o Brasil. Leia mais (11/23/2026 - 18h21)",
       "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "A receita para blindar Xandão",
-      "link": "https://www.estadao.com.br/politica/carlos-andreazza/a-receita-para-blindar-xandao/",
-      "date": "2026-11-23T21:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -452,29 +479,11 @@
       "type": "oficial"
     },
     {
-      "title": "Folha abre vaga de estágio em Economia",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/blogs/novo-em-folha/2026/11/folha-abre-vaga-de-estagio-em-economia.shtml",
-      "date": "2026-11-23T20:03:00.000Z",
-      "summary": "A editoria de Economia da Folha está com vaga aberta de estágio. Leia mais (11/23/2026 - 17h03)",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Em reunião com Lula, ministros do STF defendem diretor da PF e dizem que André Mendonça queria prendê-lo",
       "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/11/23/lula-andrei-rodrigues-andre-mendonca.ghtml",
       "date": "2026-11-23T19:58:57.000Z",
       "summary": "Sadi: Ala do STF defende Andrei junto a Lula A ala de ministros do Supremo Tribunal Federal (STF) mais próxima de Lula (PT) fez uma defesa enfática do diretor-geral da Polícia Federal (PF), Andrei Rodrigues, durante jantar com o presidente, no último sábado (2",
       "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Jair Bolsonaro tem pneumonia e segue internado na UTI, apesar de melhora clínica",
-      "link": "https://www.estadao.com.br/politica/jair-bolsonaro-tem-pneumonia-e-segue-internado-na-uti-apesar-de-melhora-clinica/",
-      "date": "2026-11-23T19:51:59.000Z",
-      "summary": "",
-      "source": "Estadão",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -530,15 +539,6 @@
       "summary": "País quer incentivar poupança para aposentadoria desde a infância através de subsídio mensal em conta de investimentos. Mas analistas advertem que medida não resolverá o desafio do financiamento da previdência alemã.",
       "source": "DW Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "‘Resultado muito positivo’, diz Michelle sobre exame de Bolsonaro",
-      "link": "https://www.estadao.com.br/politica/resultado-muito-positivo-diz-michelle-sobre-exame-de-bolsonaro-nprp/",
-      "date": "2026-11-23T15:21:07.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
