@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-24T09:33:53.417Z",
+  "updated": "2026-11-24T10:35:18.073Z",
   "market": {
     "ibov": {
       "price": 164796.05,
       "pct": -0.95,
-      "time": "2026-11-24T09:33:49.181Z",
+      "time": "2026-11-24T10:35:12.995Z",
       "history": [
         {
           "d": "2026-10-26",
@@ -137,6 +137,42 @@
   },
   "news": [
     {
+      "title": "Braskem anuncia acordo preliminar com credores sobre plano de reestruturação",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/24/braskem-anuncia-acordo-preliminar-com-credores-sobre-plano-de-reestruturacao.ghtml",
+      "date": "2026-11-24T10:21:00.000Z",
+      "summary": "Logo da Braskem no complexo de Triunfo REUTERS/Diego Vara A Braskem anunciou na noite de segunda-feira (23) que chegou a um acordo preliminar com credores sobre um plano de reestruturação de dívidas, conforme fato relevante. A petroquímica disse que está atual",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "As principais medidas do plano Moretti, o ajuste fiscal aprovado pela Câmara",
+      "link": "https://www.dw.com/pt-br/as-principais-medidas-do-plano-moretti-o-ajuste-fiscal-aprovado-pela-câmara/a-79928149?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-24T10:04:00.000Z",
+      "summary": "Pacote prevê economia de até R$ 60 bilhões com mais arrecadação e despesas limitadas, inclusive na saúde. Governo promete manter políticas sociais anunciadas na campanha eleitoral.",
+      "source": "DW Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "EUA impõem restrições à Megaspeed, empresa ligada à crise da Nvidia",
+      "link": "https://www.poder360.com.br/poder-internacional/eua-impoem-restricoes-a-megaspeed-empresa-ligada-a-crise-da-nvidia/",
+      "date": "2026-11-24T09:45:37.000Z",
+      "summary": "Decisão do Departamento de Comércio ocorre após Jensen Huang retornar ao comando da fabricante de chips",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Portaria abre crédito suplementar de R$ 2,2 bilhões para Petrobras",
+      "link": "https://www.poder360.com.br/poder-governo/portaria-abre-credito-suplementar-de-r-22-bilhoes-para-petrobras/",
+      "date": "2026-11-24T09:40:05.000Z",
+      "summary": "Maior parte será destinada à manutenção da infraestrutura operacional e de suporte à exploração e produção de petróleo e gás natural",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "A tempestade perfeita (dentro e fora do Brasil) que faz preço do dólar chegar a R$ 6",
       "link": "https://www.bbc.com/portuguese/articles/cwm253lr95zjo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-24T09:20:45.000Z",
@@ -159,24 +195,6 @@
       "link": "https://www.poder360.com.br/poder-governo/governo-lula-leia-a-agenda-de-ministros-do-governo-nesta-3a-feira-17/",
       "date": "2026-11-24T09:15:17.000Z",
       "summary": "Luiz Marinho participa de entrevista sobre jornada de trabalho; André de Paula lança plano para mulheres do agro",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Saiba quais ações estão na pauta do Congresso nesta 3ª feira",
-      "link": "https://www.poder360.com.br/poder-congresso/saiba-quais-acoes-estao-na-pauta-do-congresso-nesta-3a-feira-5/",
-      "date": "2026-11-24T09:15:08.000Z",
-      "summary": "Senado delibera projetos sobre o Estatuto do Aprendiz e o Plano Nacional de Cultura; Câmara discute alíquota da CBS",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Para estabilizar dívida, pacote do governo teria que ser 9 vezes maior",
-      "link": "https://www.poder360.com.br/poder-economia/para-estabilizar-divida-pacote-do-governo-teria-que-ser-9-vezes-maior/",
-      "date": "2026-11-24T09:00:45.000Z",
-      "summary": "Plano Moretti tem impacto de R$ 50 bilhões; para estabilizar a dívida é preciso de R$ 456 bilhões",
       "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
@@ -295,15 +313,6 @@
       "date": "2026-11-24T07:00:00.000Z",
       "summary": "Mesmo com um cenário de inadimplência recorde e alta taxa de juros, o consumo do brasileiro na Black Friday deve continuar forte e impulsionar as vendas a um patamar que não era registrado há 12 anos, segundo projeção da CNC (Confederação Nacional do Comércio ",
       "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Tesla e SpaceX negociam fusão de R$ 20,8 trilhões até o fim do ano, diz jornal",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/24/tesla-e-spacex-negociam-fusao-ate-o-fim-do-ano.ghtml",
-      "date": "2026-11-24T06:23:17.000Z",
-      "summary": "Musk, Spacex e Tesla REUTERS/Evan Vucci e REUTERS/Dado Ruvic/Ilustração A Tesla e a SpaceX, empresas do bilionário Elon Musk, avançam nas negociações para uma possível fusão de US$ 3,5 trilhões (cerca de R$ 20,8 trilhões), que seria a maior da história. As com",
-      "source": "g1",
       "cat": "economia",
       "type": "imprensa"
     },
@@ -537,15 +546,6 @@
       "link": "https://www.dw.com/pt-br/merz-condena-provocações-da-rússia-após-queda-de-mísseis-na-polônia/a-80026255?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-23T18:07:00.000Z",
       "summary": "Chefe do governo alemão reagiu ao episódio envolvendo três projéteis russos que atingiram o país vizinho e reafirmou o compromisso de defesa coletiva da aliança militar.",
-      "source": "DW Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Como a Alemanha quer salvar sua previdência iniciando a contribuição aos 6 anos",
-      "link": "https://www.dw.com/pt-br/como-a-alemanha-quer-salvar-sua-previdência-iniciando-a-contribuição-aos-6-anos/a-80022642?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-23T17:28:00.000Z",
-      "summary": "País quer incentivar poupança para aposentadoria desde a infância através de subsídio mensal em conta de investimentos. Mas analistas advertem que medida não resolverá o desafio do financiamento da previdência alemã.",
       "source": "DW Brasil",
       "cat": "internacional",
       "type": "imprensa"
