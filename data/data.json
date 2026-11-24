@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-24T14:18:51.223Z",
+  "updated": "2026-11-24T15:27:04.349Z",
   "market": {
     "ibov": {
-      "price": 166447.81,
-      "pct": 1,
-      "time": "2026-11-24T14:18:43.948Z",
+      "price": 166301.7,
+      "pct": 0.91,
+      "time": "2026-11-24T15:27:00.393Z",
       "history": [
         {
           "d": "2026-10-26",
@@ -84,7 +84,7 @@
         },
         {
           "d": "2026-11-24",
-          "c": 166447.8125
+          "c": 166301.7031
         }
       ]
     },
@@ -141,6 +141,213 @@
   },
   "news": [
     {
+      "title": "Governo arrecada R$ 6,4 bi com dividendos; receita fica abaixo do esperado",
+      "link": "https://www.poder360.com.br/poder-economia/governo-arrecada-r-64-bi-com-dividendos-receita-fica-abaixo-do-esperado/",
+      "date": "2026-11-24T15:22:31.000Z",
+      "summary": "Valor representa a receita obtida de janeiro a outubro; projeção era de R$ 28 bilhões, e foi revisada para R$ 10,5 bilhões",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lula diz que falta de consenso na COP31 enfraquece o multilateralismo",
+      "link": "https://www.poder360.com.br/poder-governo/lula-diz-que-falta-de-consenso-na-cop31-enfraquece-o-multilateralismo/",
+      "date": "2026-11-24T15:13:43.000Z",
+      "summary": "Em cerimônia para diplomatas recém-chegados, presidente cobra cooperação diante de crises climáticas e guerras",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "CMA aprova repasse de multas ambientais a municípios; projeto vai à CCJ",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/24/cma-aprova-repasse-de-multas-ambientais-a-municipios-projeto-vai-a-ccj",
+      "date": "2026-11-24T15:13:41.000Z",
+      "summary": "A Comissão de Meio Ambiente do Senado (CMA) aprovou nesta terça-feira (24) um texto alternativo ao projeto que destinava aos fundos municipais de meio ambiente 50% do valor arrecadado com multas por infração ambiental (PL 5.142/2019). O novo texto reduziu o pe",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Conservadores cristãos e classe D e E somam quase metade do eleitorado brasileiro, diz Quaest",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/24/segmentos-identitarios-quaest-2026.ghtml",
+      "date": "2026-11-24T15:10:44.000Z",
+      "summary": "Passageiros na Rodoviária do Plano Piloto de Brasília Fabio Rodrigues-Pozzebom/ Agência Brasil Pesquisa Quaest divulgada nesta terça-feira (24) aponta que quase metade do eleitorado brasileiro (47%) é formada por conservadores cristãos e por pessoas da classe ",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Fim da escala 6x1: Marinho diz que ‘ninguém vai morrer’ se comércio não abrir todos os dias",
+      "link": "https://www.estadao.com.br/economia/fim-escala-6x1-marinho-ninguem-vai-morrer-comercio-nao-abrir-todos-os-dias/",
+      "date": "2026-11-24T15:07:38.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Delação de ‘King’ cita propina mensal de R$ 20 milhões para nº 2 da Fazenda no ‘fura-fila’ do ICMS",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/delacao-de-king-cita-propina-mensal-de-r-20-milhoes-para-n-2-da-fazenda-no-fura-fila-do-icms/",
+      "date": "2026-11-24T15:05:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "EUA devem aumentar tarifas sobre produtos da China, União Europeia e outros países, diz mídia internacional",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/24/eua-tarifas.ghtml",
+      "date": "2026-11-24T15:03:32.000Z",
+      "summary": "O presidente Donald Trump se reúne com o presidente chinês Xi Jinping e o presidente russo Vladimir Putin na Vila Kylin em Shenzhen, na província de Guangdong, no sul da China, na quinta-feira, 19 de novembro de 2026 Mark Schiefelbein/AP Os Estados Unidos se p",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Kassio volta ao caso Master após ser sorteado relator de pedido de Vorcaro contra Fachin",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/kassio-volta-ao-caso-master-apos-ser-sorteado-relator-de-pedido-de-vorcaro-contra-fachin.shtml",
+      "date": "2026-11-24T15:03:00.000Z",
+      "summary": "O ministro Kassio Nunes Marques, do STF (Supremo Tribunal Federal), foi sorteado relator do pedido da defesa de Daniel Vorcaro contra a atuação do presidente da corte, Edson Fachin, no caso do Banco Master. Com isso, o magistrado volta a julgar processos relac",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Ana Paula Vescovi: ‘O Brasil tem tudo que o mundo precisa nessa nova geoeconomia’; veja vídeo",
+      "link": "https://www.estadao.com.br/economia/ana-paula-vescovi-o-brasil-tem-tudo-que-o-mundo-precisa-nessa-nova-geoeconomia-veja-video/",
+      "date": "2026-11-24T15:00:06.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Acervo da Comissão Nacional da Verdade fica fora do ar; ex-coordenador fala em 'perplexidade'",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/acervo-da-comissao-nacional-da-verdade-fica-fora-do-ar-ex-coordenador-fala-em-perplexidade.shtml",
+      "date": "2026-11-24T15:00:00.000Z",
+      "summary": "A plataforma do governo federal que reúne o acervo da CNV (Comissão Nacional da Verdade) está fora do ar, situação que segundo pesquisadores ocorre desde ao menos a semana passada. Os únicos documentos disponíveis são os três volumes do relatório final, public",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Ações contra o Banco Master movidas por pessoas físicas somam R$ 4 bilhões",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/acoes-contra-o-banco-master-movidos-por-pessoas-fisicas-somam-r-4-bilhoes.shtml",
+      "date": "2026-11-24T15:00:00.000Z",
+      "summary": "Além de todo o custo já contabilizado em decorrência da quebra do Banco Master, a liquidação extrajudicial da instituição financeira ainda coloca em dúvida o recebimento de valores que são alvos de 73.190 processos judiciais em aberto movidos por pessoas físic",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Discussão sobre gás natural atrasa benefícios fiscais para data centers; setor teme esvaziamento",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/infraestrutura/2026/11/discussao-sobre-gas-natural-atrasa-beneficios-fiscais-para-data-centers-setor-teme-esvaziamento.shtml",
+      "date": "2026-11-24T15:00:00.000Z",
+      "summary": "A política de incentivo a data centers virou lei há dois meses, mas até agora os interessados em usar os benefícios fiscais que ela criou ainda não sabem quais são as regras de habilitação, os prazos, como será o uso de energia e até mesmo quais serão os equip",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Bastidores: Ricardo Couto enfrenta resistência, e indicação para o STJ pode ficar inviável",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/bastidores-ricardo-couto-enfrenta-resistencia-e-indicacao-para-o-stj-pode-ficar-inviavel/",
+      "date": "2026-11-24T15:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Viagens, cartão de crédito, importações: alta do dólar já começa a pesar no bolso dos brasileiros",
+      "link": "https://www.estadao.com.br/economia/alta-dolar-consequencias-bolso-brasileiros/",
+      "date": "2026-11-24T15:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Dólar cai 1,8% e opera em R$ 5,82 após Câmara aprovar ajuste",
+      "link": "https://www.poder360.com.br/poder-economia/dolar-cai-18-e-opera-em-r-582-apos-camara-aprovar-ajuste/",
+      "date": "2026-11-24T14:57:04.000Z",
+      "summary": "Moeda acompanha situação fiscal, além da recuperação dos mercados internacionais; Ibovespa sobe",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Vai a Plenário Estatuto dos Cães e Gatos",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/24/vai-a-plenario-estatuto-dos-caes-e-gatos",
+      "date": "2026-11-24T14:54:49.000Z",
+      "summary": "Projeto de lei que cria o Estatuto dos Cães e Gatos foi aprovado nesta quarta-feira (24) na Comissão de Meio Ambiente (CMA). O PL 6.191/2025, que cria uma legislação nacional específica para proteger esses animais, segue a Plenário com urgência. O projeto reco",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "PF prende ex-diretor da Gaviões da Fiel na Ilha Grande em operação contra o tráfico do PCC",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/pf-prende-ex-diretor-da-gavioes-da-fiel-na-ilha-grande-em-operacao-contra-o-trafico-do-pcc/",
+      "date": "2026-11-24T14:51:56.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Mercado recebe com cautela plano da Petrobras com mais investimento e produção estável",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/mercado-recebe-com-cautela-plano-da-petrobras-com-mais-investimento-e-producao-estavel.shtml",
+      "date": "2026-11-24T14:51:00.000Z",
+      "summary": "O mercado recebeu com cautela o aumento dos investimentos previsto no novo plano de negócios da Petrobras, sem um salto de produção no período. Analistas veem menor espaço para dividendos nos próximos dois anos e um plano mais dependente do preço do petróleo. ",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Spotify registra instabilidade e tem mais de 14 mil notificações no Downdetector",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/tec/2026/11/spotify-registra-instabilidade-e-tem-mais-de-14-mil-notificacoes-no-downdetector.shtml",
+      "date": "2026-11-24T14:49:00.000Z",
+      "summary": "O Spotify ficou fora do ar para milhares de usuários na terça-feira (24), com o site de monitoramento Downdetector.com registrando mais de 14 mil relatos de incidentes envolvendo a plataforma enviados por usuários. Leia mais (11/24/2026 - 11h49)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Comissão especial debate redução da maioridade penal",
+      "link": "https://www.camara.leg.br/noticias/1321906-comissao-especial-debate-reducao-da-maioridade-penal",
+      "date": "2026-11-24T14:48:00.000Z",
+      "summary": "",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Volkswagen negocia com trabalhadores sob ameaça de greve na Alemanha",
+      "link": "https://g1.globo.com/carros/noticia/2026/11/24/volkswagen-negocia-com-trabalhadores-sob-ameaca-de-greve-na-alemanha.ghtml",
+      "date": "2026-11-24T14:24:27.000Z",
+      "summary": "Volkswagen Logo REUTERS/Suzanne Plunkett A Volkswagen iniciou nesta terça-feira (24) uma rodada de negociações salariais com representantes dos trabalhadores, em meio à crescente insatisfação dos funcionários com os cortes de custos promovidos pela montadora n",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Oposição quer convocar ministro da Justiça à Câmara para falar de afastamento de delegados da PF",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/oposicao-quer-convocar-ministro-da-justica-a-camara-para-falar-de-afastamento-de-delegados-da-pf.shtml",
+      "date": "2026-11-24T14:23:00.000Z",
+      "summary": "A oposição quer convocar o ministro da Justiça, Wellington Lima e Silva, para a comissão de Segurança da Câmara após a audiência em que ele seria ouvido nesta terça-feira (23) ser cancelada. Leia mais (11/24/2026 - 11h23)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "CDR elege Jorge Seif como vice-presidente",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/24/cdr-elege-jorge-seif-como-vice-presidente",
+      "date": "2026-11-24T14:18:43.000Z",
+      "summary": "Em reunião nesta terça-feira (24), a Comissão de Desenvolvimento Regional e Turismo do Senado (CDR) elegeu Jorge Seif (PL-SC) como vice-presidente do colegiado. Foi a única candidatura registrada para o cargo. A votação se deu em virtude do retorno dele ao man",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
       "title": "Tipificação de crime de tráfico de animais silvestres vai a Plenário",
       "link": "https://www12.senado.leg.br/noticias/materias/2026/11/24/tipificacao-de-crime-de-trafico-de-animais-silvestres-vai-a-plenario",
       "date": "2026-11-24T14:13:19.000Z",
@@ -150,49 +357,13 @@
       "type": "oficial"
     },
     {
-      "title": "Arrecadação federal cresce 7,3% em outubro e bate recorde para o mês, mostra Receita",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/arrecadacao-federal-cresce-73-em-outubro-e-bate-recorde-para-o-mes-mostra-receita.shtml",
-      "date": "2026-11-24T14:13:00.000Z",
-      "summary": "A arrecadação do governo federal foi de R$ 293,97 bilhões em outubro, alcançando o melhor resultado para o mês na série histórica iniciada em 1995, informou a Receita Federal nesta terça-feira (24). Leia mais (11/24/2026 - 11h13)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Semana Nacional de Conscientização sobre Resíduos Eletroeletrônicos vai à sanção",
       "link": "https://www12.senado.leg.br/noticias/materias/2026/11/24/semana-nacional-de-conscientizacao-sobre-residuos-eletroeletronicos-vai-a-sancao",
       "date": "2026-11-24T14:12:40.000Z",
-      "summary": "A Comissão de Meio Ambiente do Senado (CMA) aprovou nesta quarta-feira (24) o projeto de lei que cria a Semana Nacional de Conscientização sobre Resíduos Eletroeletrônicos (PL 2.238/2021). Como o texto foi aprovado em decisão terminativa, a matéria segue diret",
+      "summary": "A Comissão de Meio Ambiente do Senado (CMA) aprovou nesta terça-feira (24) o projeto de lei que cria a Semana Nacional de Conscientização sobre Resíduos Eletroeletrônicos (PL 2.238/2021). Como o texto foi aprovado em decisão terminativa, a matéria segue direta",
       "source": "Agência Senado",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Austrália ameaça multar Google e Meta em até 5% da receita global por conteúdo nocivo",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/tec/2026/11/australia-ameaca-multar-google-e-meta-em-ate-5-da-receita-global-por-conteudo-nocivo.shtml",
-      "date": "2026-11-24T14:08:00.000Z",
-      "summary": "A Austrália ameaçou empresas de internet, incluindo Google e Meta, com multas de até 5% de sua receita global caso não removam conteúdos nocivos e recursos considerados viciantes. Leia mais (11/24/2026 - 11h08)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "SpaceX-Tesla: os conselheiros que negociam a maior fusão da história",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/spacex-tesla-os-conselheiros-que-negociam-a-maior-fusao-da-historia.shtml",
-      "date": "2026-11-24T14:03:00.000Z",
-      "summary": "SpaceX e Tesla confiaram a cinco conselheiros o destino da maior fusão de todos os tempos. O quinteto está acertando os termos de uma possível combinação de US$ 3,5 trilhões (R$ 20,5 trilhões) e correndo para concluir o negócio antes do fim do ano. Leia mais (",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "2027 vai ter “muita pressão” na tarifa aérea, diz CEO da Latam",
-      "link": "https://www.poder360.com.br/poder-economia/2027-vai-ter-muita-pressao-na-tarifa-aerea-diz-ceo-da-latam/",
-      "date": "2026-11-24T14:02:12.000Z",
-      "summary": "Jerome Cadier afirma que companhia está pagando 111% a mais em combustível por causa da alta do petróleo",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
     },
     {
       "title": "Nova jornada de trabalho exige adaptação do setor de transporte de cargas, diz dirigente sindical",
@@ -204,83 +375,11 @@
       "type": "imprensa"
     },
     {
-      "title": "Arrecadação federal sobe 7,3% e bate recorde em outubro",
-      "link": "https://www.poder360.com.br/poder-economia/arrecadacao-federal-sobe-73-e-bate-recorde-em-outubro/",
-      "date": "2026-11-24T14:00:19.000Z",
-      "summary": "Governo arrecadou R$ 293,9 bilhões no mês; no acumulado de janeiro a outubro, receita chegou a R$ 2,64 trilhões",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Arrecadação federal avança para R$ 294 bilhões em outubro, novo recorde para o mês",
       "link": "https://g1.globo.com/economia/noticia/2026/11/24/arrecadacao-federal-avanca-para-r-294-bilhoes-em-outubro-novo-recorde-para-o-mes.ghtml",
       "date": "2026-11-24T14:00:01.000Z",
       "summary": "A arrecadação do governo federal com impostos, contribuições e demais receitas somou R$ 294 bilhões em outubro deste ano, informou nesta terça-feira (24) a Receita Federal. O resultado representa um aumento real de 7,3% na comparação com o mesmo mês do ano pas",
       "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Mais pão, menos ópio",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/mais-pao-menos-opio/",
-      "date": "2026-11-24T14:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Governo publica regra que evita pagamento extra com fim da escala 6x1; entenda",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/governo-publica-regra-que-evita-pagamento-extra-com-fim-da-escala-6x1-entenda.shtml",
-      "date": "2026-11-24T13:59:00.000Z",
-      "summary": "Os empregadores não vão precisar pagar valores extras aos trabalhadores pelo segundo dia de descanso semanal remunerado com o fim da escala 6x1 a partir de 16 de dezembro, segundo portaria do MTE (Ministério do Trabalho e Emprego), publicada nesta segunda-feir",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "BRB diz que banco segue funcionando após suspensão da CVM",
-      "link": "https://www.poder360.com.br/poder-economia/brb-diz-que-banco-segue-funcionando-apos-suspensao-da-cvm/",
-      "date": "2026-11-24T13:51:16.000Z",
-      "summary": "Banco afirma que decisão se restringe ao mercado de capitais e não afeta a prestação de serviços aos clientes",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Projeto de ajuste fiscal segue para a sanção presidencial",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/24/projeto-de-ajuste-fiscal-segue-para-a-sancao-presidencial",
-      "date": "2026-11-24T13:47:15.000Z",
-      "summary": "A Câmara dos Deputados aprovou na segunda-feira (23) o projeto de lei do ajuste fiscal, que altera regras fiscais para permitir que o Executivo limite a execução de despesas a fim de alcançar as metas de superávit primário a partir de 2027. O projeto (PLP 299/",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Cúpulas dos três Poderes atuam em total desordem institucional",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/dora-kramer/2026/11/cupulas-dos-tres-poderes-atuam-em-total-desordem-institucional.shtml",
-      "date": "2026-11-24T13:45:00.000Z",
-      "summary": "A autoridade com que se fala em reforma do Judiciário no Legislativo e no Executivo dá a impressão de que tudo mais anda bem na República. Na realidade, anda tudo bem mal-ajambrado. Leia mais (11/24/2026 - 10h45)",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Lula oficializa atuação de 14 embaixadores estrangeiros no Brasil",
-      "link": "https://www.poder360.com.br/poder-governo/lula-oficializa-atuacao-de-14-embaixadores-estrangeiros-no-brasil/",
-      "date": "2026-11-24T13:39:03.000Z",
-      "summary": "Cerimônia de entrega de cartas credenciais reúne representantes de Chile, França, Canadá, Espanha, UE e outros países",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Novo Congresso tem 94 parlamentares com R$ 311 milhões de dívida irregular",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/novo-congresso-tem-94-parlamentares-com-r-311-milhoes-de-divida-irregular.shtml",
-      "date": "2026-11-24T13:32:00.000Z",
-      "summary": "A próxima legislatura do Congresso Nacional tem 94 de seus 594 parlamentares com dívidas classificadas como irregulares pela União. Os débitos somam R$ 311 milhões e estão inscritos na dívida ativa em nome dos congressistas ou de suas empresas. Leia mais (11/2",
-      "source": "Folha",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -308,33 +407,6 @@
       "date": "2026-11-24T12:59:25.000Z",
       "summary": "Depois do jantar com a cúpula do Congresso e ministros do Supremo Tribunal Federal, quando ficou convencido de que não há nenhuma possibilidade de reenviar o nome de Jorge Messias, o presidente Lula decidiu construir um nome alternativo para o STF. Nesta linha",
       "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Ações da Anthropic caem abaixo do preço do IPO cinco dias após estreia",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/24/acoes-da-anthropic.ghtml",
-      "date": "2026-11-24T12:59:25.000Z",
-      "summary": "Anthropic faz a maior oferta pública inicial de ações da história As ações da Anthropic caíam abaixo do preço de US$ 83 (R$ 495,58) definido em sua oferta pública inicial (IPO) nas negociações pré-mercado desta terça-feira (24). O movimento ocorre poucos dias ",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "PF nega omissão em relatórios sobre ministros do STF e diz que cruzar dados extrapola ordem de Fachin",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/pf-nega-omissao-em-relatorios-sobre-ministros-do-stf-e-diz-que-cruzar-dados-extrapola-ordem-de-fachin.shtml",
-      "date": "2026-11-24T12:58:00.000Z",
-      "summary": "A PF (Polícia Federal) disse, em nota nesta terça-feira (24), que os relatórios sobre as menções a integrantes do STF (Supremo Tribunal Federal) no celular de Daniel Vorcaro foram produzidos \"em estrito cumprimento às determinações do ministro Edson Fachin\" e ",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Morre o professor e jurista Fábio Konder Comparato, aos 90 anos",
-      "link": "https://www.estadao.com.br/politica/morre-o-professor-e-jurista-fabio-konder-comparato-nprp/",
-      "date": "2026-11-24T12:39:57.000Z",
-      "summary": "",
-      "source": "Estadão",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -402,57 +474,12 @@
       "type": "oficial"
     },
     {
-      "title": "Moraes se declara suspeito em ação sobre vítimas de Mariana no exterior, que deu origem a inquérito sobre interferência estrangeira nas eleições",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/24/moraes-se-declara-suspeito-para-julgar-acao-que-discute-indenizacoes-de-municipios-no-exterior.ghtml",
-      "date": "2026-11-24T12:03:11.000Z",
-      "summary": "O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), se declarou suspeito para julgar uma ação na Corte que discute a possibilidade de municípios brasileiros ajuizarem ações judiciais no exterior para cobrar indenizações por danos causados em ter",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Comissão especial debate redução da maioridade penal para 16 anos",
-      "link": "https://www.camara.leg.br/noticias/1321742-comissao-especial-debate-reducao-da-maioridade-penal-para-16-anos",
-      "date": "2026-11-24T12:03:00.000Z",
-      "summary": "Audiência pública ocorre nesta terça-feira (24), às 14h30, no plenário 4, e reúne deputados com visões distintas",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "União Europeia impõe cotas à importação de veículos híbridos; China sinaliza possível recurso à OMC",
-      "link": "https://www.estadao.com.br/economia/uniao-europeia-cotas-importacao-veiculos-hibridos-china-omc/",
-      "date": "2026-11-24T12:01:43.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Dólar cai quase 2% e vai a R$ 5,80, com foco em ajuste fiscal e noticiário corporativo",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/24/dolar-ibovespa.ghtml",
-      "date": "2026-11-24T12:00:24.000Z",
-      "summary": "Dólar bate R$ 6 pela 1ª vez desde abril de 2025 O dólar inverteu o sinal e passou a operar em queda nesta terça-feira (24), com recuo de 1,71% perto das 11h, cotado a R$ 5,8250. Na mínima do dia, chegou a R$ 5,8015. Já o Ibovespa, principal índice da bolsa bra",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Lula abriu arquivos de Bolsonaro, mas mantém sigilo sobre gastos e decisões do próprio mandato",
       "link": "https://www.bbc.com/portuguese/articles/cqdj1d3yd4pzo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-24T11:28:48.000Z",
       "summary": "Governo federal abriu documentos da gestão anterior e reviu decisões de sigilo, mas continua negando informações com base na proteção de dados pessoais e da segurança presidencial, incluindo gastos do cartão corporativo.",
       "source": "BBC News Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "PF prende 25 por fraude com bets e golpes digitais; Justiça bloqueia bens de MC Ryan",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/esquema-de-fraude-com-bets-e-falsa-oferta-de-emprego-e-alvo-da-pf-grupo-movimentou-r-43-bilhoes/",
-      "date": "2026-11-24T11:12:58.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -483,15 +510,6 @@
       "type": "imprensa"
     },
     {
-      "title": "‘Market Friendly’: Equipe econômica sugere a Lula nomes para o BC que sejam amigáveis ao mercado",
-      "link": "https://www.estadao.com.br/economia/market-friendly-equipe-economica-sugere-a-lula-nomes-para-o-bc-que-sejam-amigaveis-ao-mercado/",
-      "date": "2026-11-24T03:54:17.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Plano de Moretti é um 'primeiro passo', e governo Lula pode fazer outros ajustes fiscais no futuro, afirma Laura Carvalho",
       "link": "https://www.bbc.com/portuguese/articles/cm1dvg9n5w2xo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-24T03:01:46.000Z",
@@ -507,15 +525,6 @@
       "summary": "Estima-se que o projeto tenha impacto de até R$ 56 bilhões. Mas o 'Plano Moretti' vem sendo recebido com pessimismo no mercado financeiro e críticas por alguns dos aliados do PT.",
       "source": "BBC News Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Eduardo Bolsonaro recorre de condenação no STF por difamação contra Tabata Amaral",
-      "link": "https://www.estadao.com.br/politica/eduardo-bolsonaro-recorre-de-condenacao-no-stf-por-difamacao-contra-tabata-amaral-nprp/",
-      "date": "2026-11-24T00:11:48.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -546,6 +555,15 @@
       "type": "imprensa"
     },
     {
+      "title": "‘Sou um ator político’, diz Janones ao negar que vai participar de campanhas como consultor",
+      "link": "https://www.estadao.com.br/politica/sou-um-ator-politico-diz-janones-ao-negar-que-vai-participar-de-campanhas-como-consultor-nprp/",
+      "date": "2026-11-23T19:21:50.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "COP31 termina sem acordo e escancara divisão entre países sobre combustíveis fósseis",
       "link": "https://www.bbc.com/portuguese/articles/cq742zpk1ln4o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-23T13:58:49.000Z",
@@ -570,15 +588,6 @@
       "summary": "Há 200 anos, em 23 de novembro de 1826, os governos britânico e brasileiro assinaram um acordo que estipulava o fim do tráfico transatlântico de africanos escravizados para o Brasil; mas, na prática, nada mudou.",
       "source": "BBC News Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Futuro das COPs: modelo que pede ‘consenso’ fracassa na Turquia e novas formas devem ser adotadas",
-      "link": "https://www.estadao.com.br/economia/roberto-waack/futuro-das-cops-modelo-que-pede-consenso-fracassa-na-turquia-e-novas-formas-devem-ser-adotadas/",
-      "date": "2026-11-22T16:37:07.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -682,7 +691,6 @@
     }
   ],
   "errors": [
-    "Selic (SGS 432): HTTP 304",
     "feed CNN Brasil: HTTP 404",
     "feed CNN Brasil: HTTP 404"
   ]
