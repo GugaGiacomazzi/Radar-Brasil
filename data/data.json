@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-24T21:54:44.093Z",
+  "updated": "2026-11-24T22:54:04.896Z",
   "market": {
     "ibov": {
       "price": 164089.81,
       "pct": -0.43,
-      "time": "2026-11-24T21:54:37.890Z",
+      "time": "2026-11-24T22:53:57.795Z",
       "history": [
         {
           "d": "2026-10-26",
@@ -141,27 +141,189 @@
   },
   "news": [
     {
-      "title": "Justiça italiana adia julgamento sobre extradição de Carla Zambelli para fevereiro de 2027",
-      "link": "https://www.estadao.com.br/politica/justica-italiana-adia-julgamento-sobre-extradicao-de-carla-zambelli-para-fevereiro-de-2027-nprp/",
-      "date": "2026-11-24T21:51:43.000Z",
+      "title": "Jensen Huang pede desculpas aos funcionários da Nvidia e diz estar fazendo terapia",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/jensen-huang-pede-desculpas-aos-funcionarios-da-nvidia-e-diz-estar-fazendo-terapia.shtml",
+      "date": "2026-11-24T22:40:00.000Z",
+      "summary": "Nesta terça-feira (24), um dia após reassumir o cargo de CEO da Nvidia, Jensen Huang pediu desculpas a toda a empresa por violar seu código de conduta. Ele falou em uma reunião de uma hora que começou em tom sombrio e depois se transformou em uma exposição de ",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Psol seguirá discordando de governo na pauta econômica, diz Sâmia",
+      "link": "https://www.poder360.com.br/poder-congresso/psol-seguira-discordando-de-governo-na-pauta-economica-diz-samia/",
+      "date": "2026-11-24T22:39:42.000Z",
+      "summary": "Deputada afirmou que objetivo da obstrução foi \"manifestar um não voto\" ao projeto de medidas fiscais",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Polônia volta a registrar incursão de drone russo em seu espaço aéreo",
+      "link": "https://www.dw.com/pt-br/polônia-volta-a-registrar-incursão-de-drone-russo-em-seu-espaço-aéreo/a-80042032?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-24T22:36:00.000Z",
+      "summary": "Varsóvia apresentou protesto formal a Moscou após novo incidente na fronteira com a Ucrânia. Forças armadas monitoraram a aeronave e optaram por não abrir fogo.",
+      "source": "DW Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Alcolumbre diz que Congresso defenderá prerrogativas de Van Hattem em ação no STF contra deputado",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/11/alcolumbre-diz-que-congresso-defendera-prerrogativas-de-van-hattem-em-acao-no-stf-contra-deputado.shtml",
+      "date": "2026-11-24T22:35:00.000Z",
+      "summary": "O presidente do Senado, Davi Alcolumbre (União Brasil-AP), disse nesta terça-feira (24) que vai atuar \"pessoalmente\", na condição de chefe do Congresso Nacional, no processo no STF (Supremo Tribunal Federal) que pode tornar o deputado federal Marcel Van Hattem",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "BC anuncia leilões de linha de até US$ 2 bi para esta quarta-feira (25)",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/10/25/6568-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post468069",
+      "date": "2026-11-24T22:34:00.000Z",
+      "summary": "O Banco Central realizará nesta quarta-feira (25) dois leilões de venda de dólares com compromisso de recompra no valor total de até US$ 2 bilhões, segundo comunicado divulgado pela autarquia nesta terça-feira (24). Leia mais (11/24/2026 - 19h34)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Economia da Argentina encolhe e entra em recessão técnica, apontam dados preliminares",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/24/economia-da-argentina-encolhe-e-entra-em-recessao-tecnica-apontam-dados-preliminares.ghtml",
+      "date": "2026-11-24T22:33:17.000Z",
+      "summary": "Presidente da Argentina, Javier Milei. Yara Nardi / REUTERS A atividade econômica da Argentina recuou 1,2% em setembro, na comparação com o mesmo mês do ano passado, segundo dados preliminares divulgados nesta terça-feira (24) pelo Instituto Nacional de Estatí",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Comissão aprova projeto que autoriza parlamentares a exercer advocacia com restrições",
+      "link": "https://www.camara.leg.br/noticias/1322507-comissao-aprova-projeto-que-autoriza-parlamentares-a-exercer-advocacia-com-restricoes",
+      "date": "2026-11-24T22:27:00.000Z",
+      "summary": "Proposta segue para análise do Senado",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Comissões debatem futuro do esporte na era da inteligência artificial",
+      "link": "https://www.camara.leg.br/noticias/1322597-comissoes-debatem-futuro-do-esporte-na-era-da-inteligencia-artificial",
+      "date": "2026-11-24T22:24:00.000Z",
+      "summary": "",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Cancelada audiência sobre violência sexual facilitada por tecnologia",
+      "link": "https://www.camara.leg.br/noticias/1321180-cancelada-audiencia-sobre-violencia-sexual-facilitada-por-tecnologia",
+      "date": "2026-11-24T22:23:00.000Z",
+      "summary": "",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Sargento Reginauro cobra apuração de assassinato de ex-policial no Ceará",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/24/sargento-reginauro-cobra-apuracao-de-assassinato-de-ex-policial-no-ceara",
+      "date": "2026-11-24T22:17:12.000Z",
+      "summary": "O senador Sargento Reginauro (PSDB-CE) cobrou nesta terça-feira (24) uma investigação rigorosa sobre o assassinato de um ex-tenente da Polícia Militar do Ceará, ocorrido na zona rural de Canindé (CE). Em pronunciamento no Plenário, o parlamentar afirmou que um",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Dólar alto e El Niño moderado podem mudar cenário no agronegócio",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/vaivem/2026/11/dolar-alto-e-el-nino-moderado-podem-mudar-cenario-no-agronegocio.shtml",
+      "date": "2026-11-24T22:15:00.000Z",
+      "summary": "O dólar próximo aos R$ 6 dá um alívio ao produtor porque é a possibilidade de receita maior. As commodities brasileiras levam em consideração a paridade de exportação. Por isso, a alta da moeda americana gera mais recursos. Essa alta impacta os custos, mas ele",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Magda descarta compra de distribuidora de combustíveis pela Petrobras apesar de apelos de Lula",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/magda-descarta-compra-de-distribuidora-de-combustiveis-pela-petrobras-apesar-de-apelos-de-lula.shtml",
+      "date": "2026-11-24T22:13:00.000Z",
+      "summary": "A presidente da Petrobras, Magda Chambriard, descartou nesta terça-feira (24) a compra de uma distribuidora de combustíveis \"neste momento\". A posição contraria apelos do presidente Lula (PT) e do coordenador do programa de governo do petista, José Sérgio Gabr",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Cadastro de condenados por violência contra mulher pode ser ampliado",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/24/cadastro-de-condenados-por-violencia-contra-mulher-pode-ser-ampliado",
+      "date": "2026-11-24T22:02:02.000Z",
+      "summary": "O Senado recebeu da Câmara dos Deputados projeto (PL 1.378/2024) que amplia o Cadastro Nacional de Pessoas Condenadas por Pedofilia e por Violência contra a Mulher. A proposta altera a Lei 14.069, de 2020, que atualmente restringe o banco de dados a condenados",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Bastidores: ataques e ajuda a Flávio fazem governo não convidar Milei para posse de Lula",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/bastidores-ataques-e-ajuda-a-flavio-fazem-governo-nao-convidar-milei-para-posse-de-lula/",
+      "date": "2026-11-24T22:01:16.000Z",
       "summary": "",
       "source": "Estadão",
       "cat": "politica",
       "type": "imprensa"
     },
     {
-      "title": "Em crise, BRB leiloa 62 imóveis com lances a partir de R$ 19,9 mil",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/em-crise-brb-leiloa-62-imoveis-com-lances-a-partir-de-r-199-mil.shtml",
-      "date": "2026-11-24T21:49:00.000Z",
-      "summary": "O BRB (Banco de Brasília) colocou 62 imóveis em leilão extrajudicial, que está marcado para o dia 30 de novembro, com lances iniciais que vão de R$ 19,9 mil a R$ 4,39 milhões Leia mais (11/24/2026 - 18h49)",
+      "title": "Ao vivo: TSE avalia federação Avante-PRD-Solidariedade",
+      "link": "https://www.poder360.com.br/poder-justica/ao-vivo-tse-avalia-federacao-avante-prd-solidariedade/",
+      "date": "2026-11-24T22:00:15.000Z",
+      "summary": "O pedido foi apresentado depois de o Avante não ter atingido a cláusula de desempenho nas eleições de 2026",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Senado faz simulações para reduzir a CBS, diz TCU",
+      "link": "https://www.poder360.com.br/poder-congresso/senado-faz-simulacoes-para-reduzir-a-cbs-diz-tcu/",
+      "date": "2026-11-24T21:59:03.000Z",
+      "summary": "Mudança no cálculo do hiato de conformidade pode reduzir percentual de 11,3% fixado pela Corte de contas para 2027",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Especialistas defendem aumento do número de mulheres em cargos de direção do sistema de previdência",
+      "link": "https://www.camara.leg.br/noticias/1322513-especialistas-defendem-aumento-do-numero-de-mulheres-em-cargos-de-direcao-do-sistema-de-previdencia",
+      "date": "2026-11-24T21:59:00.000Z",
+      "summary": "Assunto foi debatido nesta terça-feira pela Comissão de Direitos Humanos da Câmara",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Deputado do Novo aciona TCE contra compra de carros de R$ 5,8 milhões pelo TJSP",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/deputado-do-novo-aciona-tce-contra-compra-de-carros-de-r-58-milhoes-pelo-tjsp.shtml",
+      "date": "2026-11-24T21:59:00.000Z",
+      "summary": "O deputado estadual Leo Siqueira (Novo-SP) acionou o Tribunal de Contas do Estado de São Paulo (TCE-SP) para pedir a suspensão imediata de pregão do Tribunal de Justiça (TJSP) destinado à compra de nove SUVs blindados, ao custo estimado de R$ 652 mil cada. Lei",
       "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lei do ajuste fiscal é sancionada sem vetos e já está em vigor",
+      "link": "https://www.camara.leg.br/noticias/1322586-lei-do-ajuste-fiscal-e-sancionada-sem-vetos-e-ja-esta-em-vigor",
+      "date": "2026-11-24T21:58:00.000Z",
+      "summary": "Norma permite ao governo limitar a execução de despesas para alcançar as metas de superávit primário a partir de 2027",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Após voltar ao comando da Nvidia, Jensen Huang pede desculpas por traição e diz fazer terapia",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/24/apos-voltar-ao-comando-da-nvidia-jensen-huang-pede-desculpas-por-traicao-e-diz-fazer-terapia.ghtml",
+      "date": "2026-11-24T21:56:24.000Z",
+      "summary": "Jensen Huang, CEO da Nvidia. Evelyn Hockstein/Reuters O CEO da Nvidia, Jensen Huang, pediu desculpas nesta terça-feira (24) aos funcionários por ter violado o código de conduta da empresa e afirmou que está fazendo terapia. A declaração ocorreu um dia após o c",
+      "source": "g1",
       "cat": "economia",
       "type": "imprensa"
     },
     {
-      "title": "Crise diplomática com Milei: Brasil encerra missão de embaixador na Argentina",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/crise-diplomatica-com-milei-brasil-encerra-missao-de-embaixador-na-argentina/",
-      "date": "2026-11-24T21:48:19.000Z",
+      "title": "Justiça italiana adia julgamento sobre extradição de Carla Zambelli para fevereiro de 2027",
+      "link": "https://www.estadao.com.br/politica/justica-italiana-adia-julgamento-sobre-extradicao-de-carla-zambelli-para-fevereiro-de-2027-nprp/",
+      "date": "2026-11-24T21:51:43.000Z",
       "summary": "",
       "source": "Estadão",
       "cat": "politica",
@@ -177,21 +339,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Petrobras buscará outras empresas de etanol de milho após compra de fatia na Neomille, diz agência",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/petrobras-buscara-outras-empresas-de-etanol-de-milho-apos-compra-de-fatia-na-neomille-diz-agencia.shtml",
-      "date": "2026-11-24T21:40:00.000Z",
-      "summary": "A Petrobras deverá buscar aquisições de outras participações em usinas de etanol de milho. O movimento ocorrerá à medida que a estatal expande sua atuação em renováveis e vê vantagens em matérias-primas para a produção de outros combustíveis sustentáveis, como",
-      "source": "Folha",
+      "title": "Arrecadação: o efeito do petróleo e da reforma tributária",
+      "link": "https://www.estadao.com.br/economia/fernando-dantas/arrecadacao-o-efeito-do-petroleo-e-da-reforma-tributaria/",
+      "date": "2026-11-24T21:45:52.000Z",
+      "summary": "",
+      "source": "Estadão",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Dólar cai a R$ 5,910 com ajuste fiscal; Bolsa também fecha em queda",
-      "link": "https://www.poder360.com.br/poder-economia/dolar-cai-a-r-5910-com-ajuste-fiscal-bolsa-tambem-fecha-em-queda/",
-      "date": "2026-11-24T21:37:24.000Z",
-      "summary": "O mercado reagiu à aprovação do Plano Moretti, projeto de ajuste fiscal do governo elaborado pelo ministro do Planejamento",
-      "source": "Poder360",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -213,38 +366,11 @@
       "type": "imprensa"
     },
     {
-      "title": "Petrobras avalia entrar no setor de minerais críticos",
-      "link": "https://www.poder360.com.br/poder-infra/petrobras-avalia-entrar-no-setor-de-minerais-criticos/",
-      "date": "2026-11-24T21:26:36.000Z",
-      "summary": "Estatal cita substâncias como oportunidade em novo plano de negócios, mas diz não ter orientação do governo para entrar no setor",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Bolsonaristas querem que Motta e Alcolumbre se manifestem em ação que pode tornar Van Hattem réu",
-      "link": "https://www.estadao.com.br/politica/bolsonaristas-querem-que-motta-e-alcolumbre-se-manifestem-em-acao-que-pode-tornar-van-hattem-reu/",
-      "date": "2026-11-24T21:26:25.000Z",
+      "title": "Justiça dá à 99Food 72 horas para comprovar fim de cláusulas de banimento",
+      "link": "https://www.estadao.com.br/economia/negocios/justica-da-a-99food-72-horas-para-comprovar-fim-de-clausulas-de-banimento/",
+      "date": "2026-11-24T21:29:28.000Z",
       "summary": "",
       "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Frentes parlamentares recebem estudos que revisam cálculo da CBS para menos de 10%",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/blogs/que-imposto-e-esse/2026/11/frentes-parlamentares-recebem-estudos-que-revisam-calculo-da-cbs-para-menos-de-10.shtml",
-      "date": "2026-11-24T21:22:00.000Z",
-      "summary": "Estudos entregues nesta terça-feira (24) a frentes parlamentares do Congresso Nacional apontam que a alíquota da CBS (Contribuição sobre Bens e Serviços) poderia ficar próxima de 10% com ajustes na forma como o cálculo foi realizado pelo TCU (Tribunal de Conta",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "TCU questiona receitas estimadas pelo governo no último ajuste no Orçamento",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/tcu-questiona-receitas-estimadas-pelo-governo-no-ultimo-ajuste-no-orcamento.shtml",
-      "date": "2026-11-24T21:18:00.000Z",
-      "summary": "A área técnica do TCU (Tribunal de Contas da União) questiona a previsão de receitas estimadas para o ano pela equipe econômica em alerta elaborado dias antes da apresentação do último relatório de ajustes no Orçamento, que ocorre nesta nesta terça-feira (24).",
-      "source": "Folha",
       "cat": "economia",
       "type": "imprensa"
     },
@@ -276,57 +402,12 @@
       "type": "oficial"
     },
     {
-      "title": "Escola de qualidade para os quilombolas é reparação histórica, dizem debatedores",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/24/escola-de-qualidade-para-os-quilombolas-e-reparacao-historica-dizem-debatedores",
-      "date": "2026-11-24T21:09:07.000Z",
-      "summary": "A ampliação da oferta de ensino nos territórios quilombolas, a formação específica de professores e a garantia de recursos para infraestrutura escolar e assistência estudantil foram defendidas nesta terça-feira (24), durante audiência pública na Comissão de Ed",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "A burocracia agora é problema das IAs",
-      "link": "https://www.estadao.com.br/economia/alexandre-chiavegatto-filho/a-ia-contra-a-burocracia/",
-      "date": "2026-11-24T21:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Amapá Minerals reativa mina de ouro parada desde 2022 e levanta US$ 110 milhões na Bolsa de Toronto",
-      "link": "https://www.estadao.com.br/economia/negocios/amapa-minerals-reativa-mina-de-ouro-parada-desde-2022-e-levanta-us-110-milhoes-na-bolsa-de-toronto/",
-      "date": "2026-11-24T21:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Davi autoriza atuação da Advocacia do Senado em prol da imunidade parlamentar",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/24/davi-autoriza-atuacao-da-advocacia-do-senado-em-prol-da-imunidade-parlamentar",
-      "date": "2026-11-24T20:58:34.000Z",
-      "summary": "O presidente do Senado e do Congresso Nacional, Davi Alcolumbre, autorizou nesta terça-feira (24), em Plenário, a Advocacia do Senado a atuar junto ao Supremo Tribunal Federal (STF) em defesa das prerrogativas parlamentares. A decisão atendeu a uma solicitação",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
       "title": "Safira Energia entra com pedido de recuperação judicial",
       "link": "https://www.estadao.com.br/economia/negocios/safira-energia-entra-com-pedido-de-recuperacao-judicial/",
       "date": "2026-11-24T20:56:37.000Z",
       "summary": "",
       "source": "Estadão",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Ao vivo: Poder360 entrevista Jones Manoel",
-      "link": "https://www.poder360.com.br/poder-visitas/ao-vivo-poder360-entrevista-jones-manoel/",
-      "date": "2026-11-24T20:52:30.000Z",
-      "summary": "Deputado federal eleito por Pernambuco fala ao vivo no estúdio do jornal digital, em Brasília; discute Câmara, 2030 e redes sociais",
-      "source": "Poder360",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -337,15 +418,6 @@
       "source": "g1",
       "cat": "economia",
       "type": "imprensa"
-    },
-    {
-      "title": "Lei do ajuste fiscal é publicada e já está valendo",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/24/lei-do-ajuste-fiscal-e-publicada-e-ja-esta-valendo",
-      "date": "2026-11-24T20:49:21.000Z",
-      "summary": "Após sanção imediata do presidente Luiz Inácio Lula da Silva, sem vetos, o projeto de ajuste fiscal do governo federal já virou lei, publicada em edição extra do Diário Oficial da União nesta terça-feira (24). A Lei Complementar 239 poderá dar um alívio de até",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
     },
     {
       "title": "PT divulga nova 'Carta ao Povo Brasileiro' com prioridades para o Lula 4",
@@ -366,56 +438,11 @@
       "type": "imprensa"
     },
     {
-      "title": "Câmara aprova medidas para garantir igualdade à população negra em emergências de saúde",
-      "link": "https://www.camara.leg.br/noticias/1322489-camara-aprova-medidas-para-garantir-igualdade-a-populacao-negra-em-emergencias-de-saude",
-      "date": "2026-11-24T20:27:00.000Z",
-      "summary": "Proposta prevê atendimento humanizado, busca ativa e dados desagregados no SUS em epidemias e calamidades; texto vai ao Senado",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Humberto Costa celebra aprovação do projeto de ajuste fiscal",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/24/humberto-costa-celebra-aprovacao-do-projeto-de-ajuste-fiscal",
-      "date": "2026-11-24T20:04:08.000Z",
-      "summary": "Em pronunciamento nesta terça-feira (24), o senador Humberto Costa (PT-PE) comemorou a aprovação, pela Câmara dos Deputados, do projeto de ajuste fiscal. Segundo o parlamentar, a proposta (PLP 299/2026) permite conciliar o equilíbrio das contas públicas com a ",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Câmara aprova inclusão de dados sobre raça ou cor nos prontuários do SUS; acompanhe",
-      "link": "https://www.camara.leg.br/noticias/1322481-camara-aprova-inclusao-de-dados-sobre-raca-ou-cor-nos-prontuarios-do-sus-acompanhe",
-      "date": "2026-11-24T20:04:00.000Z",
-      "summary": "A proposta altera o Estatuto da Igualdade Racial e segue para análise do Senado",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
       "title": "Master: relatoria de pedidos sobre Vorcaro reabre debate no STF sobre impedimento de Nunes Marques",
       "link": "https://g1.globo.com/politica/noticia/2026/11/24/master-relatoria-de-pedidos-sobre-vorcaro-reabre-debate-no-stf-sobre-impedimento-de-nunes-marques.ghtml",
       "date": "2026-11-24T19:54:26.000Z",
       "summary": "A definição do ministro Nunes Marques como relator de pedidos ligados ao ex-banqueiro Daniel Vorcaro reabriu, no Supremo Tribunal Federal (STF), a discussão sobre a permanência do magistrado nos processos relacionados ao Banco Master ou a eventual declaração d",
       "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Comissão aprova projeto que permite abertura de igrejas em períodos de calamidade pública",
-      "link": "https://www.camara.leg.br/noticias/1322460-comissao-aprova-projeto-que-permite-abertura-de-igrejas-em-periodos-de-calamidade-publica",
-      "date": "2026-11-24T19:54:00.000Z",
-      "summary": "Proposta segue para análise do Senado, a menos que haja recurso para que seja votado no Plenário da Câmara",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "PL das big techs é adiado novamente e fica para próxima semana",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/pl-das-big-techs-e-adiado-novamente-e-fica-para-proxima-semana.shtml",
-      "date": "2026-11-24T19:42:00.000Z",
-      "summary": "O projeto de lei dos Mercados Digitais, conhecido como PL das big techs, foi adiado e só deve ser votado na próxima terça-feira (1º). O adiamento ocorre a pedido do presidente da Câmara, Hugo Motta (Republicanos-PB). Leia mais (11/24/2026 - 16h42)",
-      "source": "Folha",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -456,33 +483,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Roberto Freire quer federação do Cidadania com PSDB e MDB",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/roberto-freire-quer-federacao-do-cidadania-com-psdb-e-mdb.shtml",
-      "date": "2026-11-24T19:22:00.000Z",
-      "summary": "Um dos fundadores do Cidadania, Roberto Freire, está empenhado em viabilizar a federação entre MDB e PSDB, da qual seu partido também faria parte. Leia mais (11/24/2026 - 16h22)",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Adiada votação de parecer da comissão especial sobre política nacional para pessoas com autismo",
-      "link": "https://www.camara.leg.br/noticias/1321696-adiada-votacao-de-parecer-da-comissao-especial-sobre-politica-nacional-para-pessoas-com-autismo",
-      "date": "2026-11-24T19:20:00.000Z",
-      "summary": "Texto consolida a legislação sobre o transtorno e assegura a continuidade de políticas públicas já conquistadas",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Especialistas pedem mais recursos de emendas parlamentares coletivas para mulheres e igualdade racial",
-      "link": "https://www.camara.leg.br/noticias/1322458-especialistas-pedem-mais-recursos-de-emendas-parlamentares-coletivas-para-mulheres-e-igualdade-racial",
-      "date": "2026-11-24T19:12:00.000Z",
-      "summary": "Em audiência na Comissão Mista de Orçamento, participantes apontaram baixo volume de emendas e pediram melhoria na classificação dos gastos",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
       "title": "Nunes Marques é definido relator de pedido de Vorcaro para retirar caso Master do gabinete da presidência do STF",
       "link": "https://g1.globo.com/politica/noticia/2026/11/24/nunes-marques-e-sorteado-relator-de-pedido-de-vorcaro-para-retirar-caso-master-do-gabinete-da-presidencia-do-stf.ghtml",
       "date": "2026-11-24T18:53:54.000Z",
@@ -501,21 +501,21 @@
       "type": "imprensa"
     },
     {
+      "title": "Jair Bolsonaro apresenta ‘melhora clínica discreta’, mas segue internado em UTI, informa hospital",
+      "link": "https://www.estadao.com.br/politica/jair-bolsonaro-apresenta-melhora-clinica-discreta-mas-segue-internado-em-uti-informa-hospital-nprp/",
+      "date": "2026-11-24T18:25:57.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "Brasil terá recessão se Lula não fizer ajuste fiscal mais robusto, diz Eduardo Giannetti",
       "link": "https://www.bbc.com/portuguese/articles/c6d71g79qpe1o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-24T18:21:56.000Z",
       "summary": "Plano do ministro Bruno Moretti, aprovado no Congresso, é 'muito aquém' do que país precisa para acalmar ânimos, avalia economista. Para ele, Lula 4 precisa não só agir como vencer a 'batalha de expectativas' com o mercado",
       "source": "BBC News Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "'Vamos buscar a autossuficiência em diesel', diz Magda sobre plano da Petrobras até 2031",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/24/petrobras-plano-2027-2031.ghtml",
-      "date": "2026-11-24T18:01:40.000Z",
-      "summary": "Magda Chambriard toma posse como presidente da Petrobras André Ribeiro/Agência Petrobras A Petrobras pretende alcançar a autossuficiência em diesel até 2031, com capacidade para atender 100% da demanda brasileira pelo combustível. A meta foi anunciada nesta te",
-      "source": "g1",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -528,28 +528,10 @@
       "type": "imprensa"
     },
     {
-      "title": "Governo prepara PEC com medidas para dar 'potência fiscal' e assegurar cumprimento de meta, diz Moretti",
-      "link": "https://g1.globo.com/economia/blog/ana-flor/post/2026/11/24/governo-prepara-pec-com-medidas-de-para-dar-potencia-fiscal-e-assegurar-cumprimento-de-meta.ghtml",
-      "date": "2026-11-24T17:43:28.000Z",
-      "summary": "Ana Flor comenta a articulação do governo Lula em torno da aprovação do pacote fiscal O ministro do Planejamento, Bruno Moretti, afirmou ao blog nesta terça-feira (24) que o governo prepara o texto de uma Proposta de Emenda à Constituição (PEC) com mais medida",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Ministro alemão se diz \"chocado\" com pressão de Trump sobre a Nvidia",
       "link": "https://www.dw.com/pt-br/ministro-alemão-se-diz-chocado-com-pressão-de-trump-sobre-a-nvidia/a-80038359?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-24T16:32:00.000Z",
       "summary": "Declaração de chefe da diplomacia alemã ocorre após o presidente dos EUA admitir ter atuado junto ao conselho da fabricante de chips para garantir o retorno de Jensen Huang ao comando da companhia.",
-      "source": "DW Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Dados vazados apontam mais de mais de mil suicídios na tropa russa durante guerra na Ucrânia",
-      "link": "https://www.dw.com/pt-br/dados-vazados-apontam-mais-de-mais-de-mil-suicídios-na-tropa-russa-durante-guerra-na-ucrânia/a-80032440?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-24T12:31:00.000Z",
-      "summary": "Levantamento do jornal britânico \"The Guardian\" com base em registros oficiais vazados sugere que o número real pode ser ainda maior.",
       "source": "DW Brasil",
       "cat": "internacional",
       "type": "imprensa"
@@ -709,7 +691,6 @@
     }
   ],
   "errors": [
-    "Selic (SGS 432): HTTP 304",
     "feed CNN Brasil: HTTP 404",
     "feed CNN Brasil: HTTP 404"
   ]
