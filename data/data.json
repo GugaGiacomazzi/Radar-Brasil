@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-24T11:34:14.978Z",
+  "updated": "2026-11-24T12:43:04.342Z",
   "market": {
     "ibov": {
       "price": 164796.05,
       "pct": -0.95,
-      "time": "2026-11-24T11:34:06.491Z",
+      "time": "2026-11-24T12:42:58.305Z",
       "history": [
         {
           "d": "2026-10-26",
@@ -137,13 +137,211 @@
   },
   "news": [
     {
-      "title": "Comissão debate inclusão de gênero e raça na distribuição do Orçamento público",
-      "link": "https://www.camara.leg.br/noticias/1321844-comissao-debate-inclusao-de-genero-e-raca-na-distribuicao-do-orcamento-publico",
-      "date": "2026-11-24T11:29:00.000Z",
-      "summary": "O debate será às 10 horas, no plenário 2, e atende a pedido da deputada Denise Pessôa (PT-RS)",
+      "title": "Infantino planejou transferir direitos comerciais da Fifa por 96 anos",
+      "link": "https://www.poder360.com.br/poder-sportsmkt/infantino-planejou-transferir-direitos-comerciais-da-fifa-por-96-anos/",
+      "date": "2026-11-24T12:37:47.000Z",
+      "summary": "Documentos mostram que projeto do presidente da Fifa estabelecia bônus de até 5% para gestores de subsidiária privada",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Dados vazados apontam mais de mais de mil suicídios na tropa russa durante guerra na Ucrânia",
+      "link": "https://www.dw.com/pt-br/dados-vazados-apontam-mais-de-mais-de-mil-suicídios-na-tropa-russa-durante-guerra-na-ucrânia/a-80032440?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-24T12:31:00.000Z",
+      "summary": "Levantamento do jornal britânico \"The Guardian\" com base em registros oficiais vazados sugere que o número real pode ser ainda maior.",
+      "source": "DW Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Maioria dos alemães é contra envio de armas à Ucrânia, mostra pesquisa",
+      "link": "https://www.dw.com/pt-br/maioria-dos-alemães-é-contra-envio-de-armas-à-ucrânia-mostra-pesquisa/a-80029950?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-24T12:22:00.000Z",
+      "summary": "Respaldo à Ucrânia entre população da Alemanha vem caindo nos últimos meses. Temor de novas guerras e desconfiança em relação aos EUA impulsionam demandas por postura mais cautelosa do país, aponta pesquisa.",
+      "source": "DW Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "GTA 6 é o maior lançamento da história do PlayStation, diz Sony",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/gta-6-e-o-maior-lancamento-da-historia-do-playstation-diz-sony.shtml",
+      "date": "2026-11-24T12:16:00.000Z",
+      "summary": "A Sony informou nesta terça-feira (24) que o game \"GTA 6\" tornou-se o maior lançamento da história do PlayStation, com mais de 39 milhões de jogadores únicos que começaram o jogo desde seu lançamento na última quinta-feira (19). Leia mais (11/24/2026 - 09h16)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Audiência discute a criação da Comissão Nacional Indígena da Verdade",
+      "link": "https://www.camara.leg.br/noticias/1321051-audiencia-discute-a-criacao-da-comissao-nacional-indigena-da-verdade",
+      "date": "2026-11-24T12:12:00.000Z",
+      "summary": "Debate na Câmara está marcado para esta terça-feira (24), às 15h30, no plenário 12",
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
+    },
+    {
+      "title": "Petrobras prevê US$ 7 bilhões para ampliar infraestrutura de transporte de combustíveis",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/petrobras-preve-us-7-bilhoes-para-ampliar-infraestrutura-de-transporte-de-combustiveis.shtml",
+      "date": "2026-11-24T12:11:00.000Z",
+      "summary": "A Petrobras reservou US$ 7 bilhões (cerca de R$ 40 bilhões, pela cotação atual) em seu novo plano de negócios para ampliar a infraestrutura de transporte de combustíveis no país, com novos dutos, terminais e navios. Leia mais (11/24/2026 - 09h11)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Comissão especial pode votar parecer sobre ampliação do limite de faturamento para o MEI",
+      "link": "https://www.camara.leg.br/noticias/1321031-comissao-especial-pode-votar-parecer-sobre-ampliacao-do-limite-de-faturamento-para-o-mei",
+      "date": "2026-11-24T12:07:00.000Z",
+      "summary": "",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Comissão debate papel de mediador e professor de apoio na educação inclusiva; participe",
+      "link": "https://www.camara.leg.br/noticias/1321686-comissao-debate-papel-de-mediador-e-professor-de-apoio-na-educacao-inclusiva-participe",
+      "date": "2026-11-24T12:05:00.000Z",
+      "summary": "Audiência interativa ocorre nesta terça-feira (24), às 15h30, por iniciativa da deputada Soraya Santos (PL-RJ)",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Câmara pode votar projetos sobre saúde da população negra, educação e proteção às mulheres",
+      "link": "https://www.camara.leg.br/noticias/1322208-camara-pode-votar-projetos-sobre-saude-da-populacao-negra-educacao-e-protecao-as-mulheres",
+      "date": "2026-11-24T12:04:00.000Z",
+      "summary": "A sessão está marcada para as 13h55",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Moraes se declara suspeito em ação sobre vítimas de Mariana no exterior, que deu origem a inquérito sobre interferência estrangeira nas eleições",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/24/moraes-se-declara-suspeito-para-julgar-acao-que-discute-indenizacoes-de-municipios-no-exterior.ghtml",
+      "date": "2026-11-24T12:03:11.000Z",
+      "summary": "O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), se declarou suspeito para julgar uma ação na Corte que discute a possibilidade de municípios brasileiros ajuizarem ações judiciais no exterior para cobrar indenizações por danos causados em ter",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Comissão especial debate redução da maioridade penal para 16 anos",
+      "link": "https://www.camara.leg.br/noticias/1321742-comissao-especial-debate-reducao-da-maioridade-penal-para-16-anos",
+      "date": "2026-11-24T12:03:00.000Z",
+      "summary": "Audiência pública ocorre nesta terça-feira (24), às 14h30, no plenário 4, e reúne deputados com visões distintas",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Crédito em atraso bate recorde de R$ 371 bi no Brasil",
+      "link": "https://www.poder360.com.br/poder-economia/credito-em-atraso-bate-recorde-de-r-371-bi-no-brasil/",
+      "date": "2026-11-24T12:02:21.000Z",
+      "summary": "Saldo inadimplente de famílias e empresas cresce 26,7% em 1 ano; juros elevados e demanda fraca dificultam pagamentos",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "União Europeia impõe cotas à importação de veículos híbridos; China sinaliza possível recurso à OMC",
+      "link": "https://www.estadao.com.br/economia/uniao-europeia-cotas-importacao-veiculos-hibridos-china-omc/",
+      "date": "2026-11-24T12:01:43.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Dólar abre em alta, com foco em ajuste fiscal, ações da Nvidia e dividendos da Petrobras",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/24/dolar-ibovespa.ghtml",
+      "date": "2026-11-24T12:00:24.000Z",
+      "summary": "Dólar bate R$ 6 pela 1ª vez desde abril de 2025 O dólar abriu a sessão desta terça-feira (24) em alta, com avanço de 0,33% perto das 9h, cotado a R$ 5,9460. Já as negociações do Ibovespa, principal índice da bolsa brasileira, começam às 10h. Na véspera, a moed",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "TSE deve aprovar federação entre Solidariedade, Avante e PRD",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/tse-deve-aprovar-federacao-entre-solidariedade-avante-e-prd/",
+      "date": "2026-11-24T12:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Trump teria lucrado até R$ 90 milhões com alta das ações da Nvidia após retorno de Huang, diz jornal",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/24/trump-ganho-nvidia.ghtml",
+      "date": "2026-11-24T11:59:22.000Z",
+      "summary": "Nvidia anuncia volta de Jensen Huang ao comando da empresa O presidente dos Estados Unidos, Donald Trump, pode ter visto o valor de suas ações da Nvidia aumentar em até US$ 15 milhões (cerca de R$ 89,6 milhões) nesta segunda-feira (23), após a fabricante de ch",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Singapura diz que colabora com EUA em investigação sobre Megaspeed",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/singapura-diz-que-colabora-com-eua-em-investigacao-sobre-megaspeed.shtml",
+      "date": "2026-11-24T11:56:00.000Z",
+      "summary": "O primeiro-ministro de Singapura, Lawrence Wong, afirmou nesta terça-feira (24) que o país está colaborando com os EUA para impedir que empresas \"se aproveitem\" da cidade-Estado do Sudeste Asiático para desviar chips fabricados nos EUA para outros destinos. Le",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Comissão debate projeto que regulamenta o recebimento de recursos estrangeiros por organizações da sociedade civil",
+      "link": "https://www.camara.leg.br/noticias/1321023-comissao-debate-projeto-que-regulamenta-o-recebimento-de-recursos-estrangeiros-por-organizacoes-da-sociedade-civil",
+      "date": "2026-11-24T11:54:00.000Z",
+      "summary": "",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Ninguém morre se fechar comércio aos domingos, diz ministro sobre fim da escala 6x1",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/ninguem-morre-se-fechar-comercio-aos-domingos-diz-ministro-sobre-fim-da-escala-6x1.shtml",
+      "date": "2026-11-24T11:54:00.000Z",
+      "summary": "O ministro do Trabalho, Luiz Marinho, criticou nesta terça-feira (24) as reclamações do comércio sobre o fim da escala 6x1, afirmando que não há necessidade de setor manterem lojas abertas 24 horas por dia e que \"ninguém morre se fechar aos domingos\". Leia mai",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Ministério Público pede intervenção judicial na gestão do Corinthians",
+      "link": "https://www.poder360.com.br/poder-justica/ministerio-publico-pede-intervencao-judicial-na-gestao-do-corinthians/",
+      "date": "2026-11-24T11:49:49.000Z",
+      "summary": "Promotores pedem afastamento de Stabile e dos vice-presidentes por 3 meses; clube tem dívida estimada em R$ 2,8 bilhões",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "EUA bloqueiam pedido do Brasil para que OMC analise tarifaço",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/24/eua-bloqueia-pedido-do-brasil-para-um-painel-de-disputas-tarifarias-diz-um-funcionario-comercial.ghtml",
+      "date": "2026-11-24T11:42:37.000Z",
+      "summary": "Miriam Leitão: Brasil defende multilateralismo na OMC Os Estados Unidos bloquearam nesta terça-feira (24) a primeira tentativa do Brasil para abrir um painel na Organização Mundial do Comércio (OMC) que analisaria as tarifas adicionais impostas pelo governo am",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Volta de Huang à Nvidia reanima bolsas e ações de tecnologia",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/24/volta-de-huang-a-nvidia-reanima-bolsas-e-acoes-de-tecnologia.ghtml",
+      "date": "2026-11-24T11:35:51.000Z",
+      "summary": "Nvidia anuncia volta de Jensen Huang ao comando da empresa A volta de Jensen Huang ao comando da Nvidia reanimou as bolsas e boa parte do setor de tecnologia, que vinham enfrentando um cenário de incertezas após a renúncia do executivo, em meio a dúvidas sobre",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Fim da escala 6 por 1: ministro recomenda que setor da economia 'corra' para fechar acordo coletivo até dia 16 se quiser escala diferente",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/24/fim-da-escala-6-por-1-ministro-recomenda-que-setor-da-economia-feche-acordo-coletivo-ate-dia-16-se-quiser-escala-diferente.ghtml",
+      "date": "2026-11-24T11:34:00.000Z",
+      "summary": "O ministro do Trabalho, Luiz Marinho, recomendou que empresários e trabalhadores de setores e segmentos da economia que queiram escala diferente, sem folga aos sábados e domingos, fechem acordos coletivos até o dia 16 — a partir de quando começam a valer as no",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
     },
     {
       "title": "Lula abriu arquivos de Bolsonaro, mas mantém sigilo sobre gastos e decisões do próprio mandato",
@@ -155,21 +353,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Comissão debate regras para a formulação de combustíveis no Brasil e a atuação da agência reguladora",
-      "link": "https://www.camara.leg.br/noticias/1321683-comissao-debate-regras-para-a-formulacao-de-combustiveis-no-brasil-e-a-atuacao-da-agencia-reguladora",
-      "date": "2026-11-24T11:25:00.000Z",
-      "summary": "",
-      "source": "Agência Câmara",
+      "title": "Mendonça revoga prisão domiciliar de ex-'número 2' do INSS preso em operação contra fraudes",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/24/mendonca-revoga-prisao-domiciliar-de-ex-numero-2-do-inss-preso-em-operacao-contra-fraudes.ghtml",
+      "date": "2026-11-24T11:25:27.000Z",
+      "summary": "Adroaldo Portal, secretário-executivo do Ministério da Previdência Vinicius Loures/Câmara dos Deputados O ministro André Mendonça, do Supremo Tribunal Federal (STF), revogou a prisão domiciliar do ex-secretário-executivo do Ministério da Previdência Social Adr",
+      "source": "g1",
       "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Bolsas de Taiwan, Japão e Coreia do Sul têm forte alta com volta de Huang",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/bolsas-de-taiwan-japao-e-coreia-do-sul-tem-forte-alta-com-volta-de-huang.shtml",
-      "date": "2026-11-24T11:25:00.000Z",
-      "summary": "As Bolsas de Taiwan, do Japão e da Coreia do Sul tiveram um dia de forte alta nesta terça-feira (24) com o retorno de Jensen Huang para comandar a Nvidia, anunciado na segunda-feira (23), mas que ocorreu quando os mercados da Ásia estavam fechados. Leia mais (",
-      "source": "Folha",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -191,48 +380,21 @@
       "type": "imprensa"
     },
     {
-      "title": "Comissão debate participação das mulheres na previdência complementar; participe",
-      "link": "https://www.camara.leg.br/noticias/1320986-comissao-debate-participacao-das-mulheres-na-previdencia-complementar-participe",
-      "date": "2026-11-24T11:20:00.000Z",
-      "summary": "Audiência pública será realizada nesta terça-feira (24), às 10 horas, com participação do público",
-      "source": "Agência Câmara",
+      "title": "Juiz que usou gabinete para ‘práticas sexuais’ com assessora vai responder a processo disciplinar",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/juiz-que-usou-gabinete-para-praticas-sexuais-com-assessora-vai-responder-a-processo-disciplinar/",
+      "date": "2026-11-24T11:17:46.000Z",
+      "summary": "",
+      "source": "Estadão",
       "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Comissão de Saúde debate roubos e furtos de canetas emagrecedoras",
-      "link": "https://www.camara.leg.br/noticias/1320979-comissao-de-saude-debate-roubos-e-furtos-de-canetas-emagrecedoras",
-      "date": "2026-11-24T11:16:00.000Z",
-      "summary": "Audiência pública discutirá impactos econômicos, sanitários e de segurança causados pelo mercado ilegal desses medicamentos",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "INSS paga 13º a novos aposentados e benefícios de novembro a partir desta terça (24); veja calendário e quem recebe",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/inss-paga-13o-a-novos-aposentados-e-beneficios-de-novembro-a-partir-desta-terca-24-veja-calendario-e-quem-recebe.shtml",
-      "date": "2026-11-24T11:14:00.000Z",
-      "summary": "O INSS (Instituto Nacional do Seguro Social) começou a pagar nesta terça-feira (24) o 13º a aposentados e pensionistas que tiveram o benefício concedido a partir de maio deste ano. O órgão também deposita aposentadorias, pensões e demais benefícios de novembro",
-      "source": "Folha",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
-      "title": "Comissão aprova proposta para monitorar movimentações bancárias de organizações criminosas",
-      "link": "https://www.camara.leg.br/noticias/1322009-comissao-aprova-proposta-para-monitorar-movimentacoes-bancarias-de-organizacoes-criminosas",
-      "date": "2026-11-24T11:11:00.000Z",
-      "summary": "Texto seguem em análise na Camara dos Deputados",
-      "source": "Agência Câmara",
+      "title": "PF prende 25 por fraude com bets e golpes digitais; Justiça bloqueia bens de MC Ryan",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/esquema-de-fraude-com-bets-e-falsa-oferta-de-emprego-e-alvo-da-pf-grupo-movimentou-r-43-bilhoes/",
+      "date": "2026-11-24T11:12:58.000Z",
+      "summary": "",
+      "source": "Estadão",
       "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "PF faz operação contra suspeitos de movimentarem R$ 4 bi em esquema com golpes e criptomoedas",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/pf-faz-operacao-contra-suspeitos-de-movimentarem-r-4-bi-em-esquema-com-golpes-e-criptomoedas.shtml",
-      "date": "2026-11-24T11:05:00.000Z",
-      "summary": "A Polícia Federal cumpre 72 mandados de busca e apreensão e dois de prisão temporária em três operações simultâneas contra um esquema suspeito de lavagem de dinheiro com movimentação ilegal de criptomoedas. Leia mais (11/24/2026 - 08h05)",
-      "source": "Folha",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -242,15 +404,6 @@
       "summary": "No terceiro mandato de Lula, a dívida bruta do Brasil passou de 71,7% do PIB (Produto Interno Bruto) no fim de 2022 para 82,9% em 2026, e, se o país não mudar de rumo, pode chegar a 95,7% do PIB ao fim do próximo mandato, segundo a IFI (Instituição Fiscal Inde",
       "source": "Folha",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Imposto sobre a eletrificação",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/joisa-dutra/2026/11/imposto-sobre-a-eletrificacao.shtml",
-      "date": "2026-11-24T11:00:00.000Z",
-      "summary": "Poucas bandeiras são tão invocadas no setor elétrico quanto a necessidade de adotar \"sinais de preço\". Associações, empresas e governo usam-na para discutir desenho de leilões, novas regras de mercado e a contratação de baterias. Mas o pedido costuma esbarrar ",
-      "source": "Folha",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -266,7 +419,7 @@
       "title": "Fábio Konder Comparato defendeu perseguidos pela ditadura e atuou pelos direitos humanos",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/fabio-konder-comparato-defendeu-perseguidos-pela-ditadura-e-atuou-pelos-direitos-humanos.shtml",
       "date": "2026-11-24T10:53:00.000Z",
-      "summary": "O advogado e professor emérito da Faculdade de Direito da USP (Universidade de São Paulo) Fábio Konder Comparato, morto na madrugada desta terça (24), atuou na defesa de presos políticos e perseguidos pela ditadura militar e foi referência na discussão polític",
+      "summary": "O advogado e professor emérito da Faculdade de Direito da USP (Universidade de São Paulo) Fábio Konder Comparato, morto na madrugada desta terça (24) aos 90 anos, atuou na defesa de presos políticos e perseguidos pela ditadura militar e foi referência na discu",
       "source": "Folha",
       "cat": "politica",
       "type": "imprensa"
@@ -290,57 +443,12 @@
       "type": "imprensa"
     },
     {
-      "title": "De olho no Lula 4, Centrão garante vitória do ajuste fiscal, mas governo precisa dar segundo passo",
-      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/24/de-olho-no-lula-4-centrao-garante-vitoria-do-ajuste-fiscal-mas-governo-precisa-dar-um-segundo-passo.ghtml",
-      "date": "2026-11-24T10:48:38.000Z",
-      "summary": "Câmara aprova texto-base do pacote de ajuste fiscal do governo De olho na montagem dos ministérios do próximo governo Luiz Inácio Lula da Silva (PT), os partidos do Centrão ajudaram o presidente a obter uma vitória nesta segunda-feira (23) na Câmara dos Deputa",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "A intervenção de Trump que levou Jensen Huang de volta ao comando da Nvidia",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/24/a-intervencao-de-trump-que-levou-jensen-huang-de-volta-ao-comando-da-nvidia.ghtml",
-      "date": "2026-11-24T10:39:36.000Z",
-      "summary": "Jensen Huang volta à presidência da Nvidia Três acontecimentos surpreendentes marcaram o último dia em torno do retorno de Jensen Huang ao cargo de CEO da Nvidia, depois que ele admitiu ter tido um caso amoroso com uma mulher apontada como uma espiã chinesa. ✅",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Braskem anuncia acordo preliminar com credores sobre plano de reestruturação de dívidas",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/24/braskem-anuncia-acordo-preliminar-com-credores-sobre-plano-de-reestruturacao.ghtml",
-      "date": "2026-11-24T10:21:00.000Z",
-      "summary": "Logo da Braskem no complexo de Triunfo REUTERS/Diego Vara A Braskem anunciou, na noite de segunda-feira (23), que chegou a um acordo preliminar com credores sobre os principais termos de um plano para reestruturar suas dívidas. A informação foi divulgada em co",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "As principais medidas do plano Moretti, o ajuste fiscal aprovado pela Câmara",
       "link": "https://www.dw.com/pt-br/as-principais-medidas-do-plano-moretti-o-ajuste-fiscal-aprovado-pela-câmara/a-79928149?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-24T10:04:00.000Z",
       "summary": "Pacote prevê economia de até R$ 60 bilhões com mais arrecadação e despesas limitadas, inclusive na saúde. Governo promete manter políticas sociais anunciadas na campanha eleitoral.",
       "source": "DW Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "EUA impõem restrições à Megaspeed, empresa ligada à crise da Nvidia",
-      "link": "https://www.poder360.com.br/poder-internacional/eua-impoem-restricoes-a-megaspeed-empresa-ligada-a-crise-da-nvidia/",
-      "date": "2026-11-24T09:45:37.000Z",
-      "summary": "Decisão do Departamento de Comércio ocorre após Jensen Huang retornar ao comando da fabricante de chips",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Portaria abre crédito suplementar de R$ 2,2 bilhões para Petrobras",
-      "link": "https://www.poder360.com.br/poder-governo/portaria-abre-credito-suplementar-de-r-22-bilhoes-para-petrobras/",
-      "date": "2026-11-24T09:40:05.000Z",
-      "summary": "Maior parte será destinada à manutenção da infraestrutura operacional e de suporte à exploração e produção de petróleo e gás natural",
-      "source": "Poder360",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -353,38 +461,11 @@
       "type": "imprensa"
     },
     {
-      "title": "Agenda de Lula: leia os compromissos do presidente 3ª feira",
-      "link": "https://www.poder360.com.br/poder-governo/agenda-de-lula-leia-os-compromissos-do-presidente-3a-feira-6/",
-      "date": "2026-11-24T09:15:36.000Z",
-      "summary": "Presidente se reúne com ministros e auxiliares no Palácio do Planalto e entrega cartas credenciais a embaixadores",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Política está se tornando um 'Game of 'Thrones' dos influenciadores, diz estrategista digital",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/politica-esta-se-tornando-um-game-of-thrones-dos-influenciadores-diz-estrategista-digital.shtml",
       "date": "2026-11-24T09:00:00.000Z",
       "summary": "Envolvido com diversas campanhas para o Legislativo neste ano, o estrategista digital Alan Bueno afirma que os candidatos \"influenciadores\", grande fenômeno das eleições, estão assumindo o papel que sempre foi de dirigentes partidários. Leia mais (11/24/2026 -",
       "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Governadores de oposição buscam diálogo com Lula para garantir recursos aos Estados após a eleição",
-      "link": "https://www.estadao.com.br/politica/governadores-de-oposicao-buscam-dialogo-com-lula-para-garantir-recursos-aos-estados-apos-a-eleicao/",
-      "date": "2026-11-24T08:30:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "STJ quer gastar R$ 1,2 milhão para blindar carros de ministros",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/stj-quer-gastar-r-12-milhao-para-blindar-carros-de-ministros/",
-      "date": "2026-11-24T08:30:00.000Z",
-      "summary": "",
-      "source": "Estadão",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -398,47 +479,11 @@
       "type": "imprensa"
     },
     {
-      "title": "A tempestade perfeita (dentro e fora do Brasil) que fez dólar chegar a R$ 6",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/24/a-tempestade-perfeita-dentro-e-fora-do-brasil-que-fez-dolar-chegar-a-r-6.ghtml",
-      "date": "2026-11-24T08:00:00.000Z",
-      "summary": "A tempestade perfeita (dentro e fora do Brasil) que faz preço do dólar chegar a R$ 6. Getty Images via BBC Depois de liderar as perdas entre as principais moedas de mercados emergentes desde o fim de outubro, o real voltou a se desvalorizar nesta segunda-feira",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Juventude quer canal maior com governo e sucessor de Lula será o PT, diz secretária do partido",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/juventude-quer-canal-maior-com-governo-e-sucessor-de-lula-sera-o-pt-diz-secretaria-do-partido.shtml",
       "date": "2026-11-24T07:00:00.000Z",
       "summary": "Sob resistência de parte da velha guarda do PT, a cobrança interna por renovação do partido ganhou força a partir do sucesso de candidaturas mais jovens nas eleições deste ano. Para a secretária nacional de Juventude do PT, Julia Köpf, 29, o desempenho desses ",
       "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Motta vê ajuste fiscal como essencial para avançar com investimentos em 2027",
-      "link": "https://www.camara.leg.br/noticias/1322184-motta-ve-ajuste-fiscal-como-essencial-para-avancar-com-investimentos-em-2027",
-      "date": "2026-11-24T04:10:00.000Z",
-      "summary": "Presidente cobrou, porém, mais medidas para conter juros e dólar",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Após Câmara aprovar ajuste fiscal de Lula, Hugo Motta defende novas medidas ainda em 2026",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/24/apos-camara-aprovar-ajuste-de-lula-hugo-motta-defende-novas-medidas-fiscais-ainda-em-2026.ghtml",
-      "date": "2026-11-24T03:49:09.000Z",
-      "summary": "Câmara aprova texto-base do pacote de ajuste fiscal do governo O presidente da Câmara dos Deputados, Hugo Motta (Republicanos-PB), defendeu nesta segunda-feira (23) que o governo do presidente Luiz Inácio Lula da Silva (PT) adote novas medidas na economia aind",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Entenda projeto de ajuste fiscal de até R$ 56 bilhões para governo Lula aprovado pela Câmara",
-      "link": "https://g1.globo.com/politica/ao-vivo/ajuste-fiscal-camara-deputados.ghtml",
-      "date": "2026-11-24T03:38:46.000Z",
-      "summary": "Entenda projeto de ajuste fiscal de até R$ 56 bilhões para governo Lula aprovado pela Câmara Proposta foi aprovada no Senado na semana passada; texto projeta uma economia de até R$ 56 bilhões nas contas do governo federal em 2027. O relator da proposta na Câma",
-      "source": "g1",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -461,30 +506,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Sete cidades irão escolher novos prefeitos em dezembro",
-      "link": "https://www.estadao.com.br/politica/sete-cidades-irao-escolher-novos-prefeitos-em-dezembro-nprp/",
-      "date": "2026-11-24T00:24:01.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Após visita de Puti, Tajiquistão se torna 4º país a deixar TPI após pressão dos EUA",
       "link": "https://www.dw.com/pt-br/após-visita-de-puti-tajiquistão-se-torna-4º-país-a-deixar-tpi-após-pressão-dos-eua/a-80026824?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-23T22:49:00.000Z",
       "summary": "País formalizou sua retirada do Tribunal Penal Internacional no mesmo dia em que recebeu presidente russo. Corte lamentou a decisão.",
       "source": "DW Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Câmara aprova ajuste fiscal de Lula com impacto de até R$ 50 bilhões em 2027; texto vai à sanção",
-      "link": "https://www.estadao.com.br/economia/camara-aprova-urgencia-e-acelera-votacao-de-projeto-de-ajuste-fiscal-do-governo-lula/",
-      "date": "2026-11-23T22:47:26.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -497,55 +524,10 @@
       "type": "imprensa"
     },
     {
-      "title": "CCJ facilita dispensa de licitação para associações de pessoas com deficiência",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/23/ccj-facilita-dispensa-de-licitacao-para-associacoes-de-pessoas-com-deficiencia",
-      "date": "2026-11-23T20:36:12.000Z",
-      "summary": "A Comissão de Constituição e Justiça (CCJ) finalizou na quarta-feira (18) a votação em caráter terminativo do projeto de lei que permite a contratação direta, sem licitação, de associações sem fins lucrativos de pessoas com deficiência, mesmo quando os serviço",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
       "title": "CVM suspende registro do BRB, envolvido no caso Master",
       "link": "https://www.dw.com/pt-br/cvm-suspende-registro-do-brb-envolvido-no-caso-master/a-80026799?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-23T20:33:00.000Z",
       "summary": "Autarquia puniu empresas que deixaram de divulgar informações obrigatórias ao mercado por mais de um ano. Banco de Brasília enfrenta investigações sobre operações com grupo de Daniel Vorcaro.",
-      "source": "DW Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Em busca do 3º mandato, Bukele projeta influência na América Latina",
-      "link": "https://www.dw.com/pt-br/em-busca-do-3º-mandato-bukele-projeta-influência-na-américa-latina/a-80015228?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-23T20:32:00.000Z",
-      "summary": "Com forte apoio popular, líder salvadorenho concorrerá novamente após uma controversa reforma constitucional. Medidas adotadas em El Salvador servem de referência para governos de direita e embasam atuação no Haiti.",
-      "source": "DW Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Veneziano contesta notícia falsa sobre fraudes no Banco do Brasil",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/23/veneziano-contesta-noticia-falsa-sobre-fraudes-no-banco-do-brasil",
-      "date": "2026-11-23T20:18:56.000Z",
-      "summary": "O senador Veneziano Vital do Rêgo (MDB-PB), em pronunciamento no Plenário nesta segunda-feira (23), contestou informações sobre supostas fraudes de R$ 256 bilhões em operações de crédito rural do Banco do Brasil. Segundo o senador, a agência Reuters informou q",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Aplicativo Senado Digital ganha novas funcionalidades para senadores e cidadãos",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/23/aplicativo-senado-digital-ganha-novas-funcionalidades-para-senadores-e-cidadaos",
-      "date": "2026-11-23T20:15:26.000Z",
-      "summary": "O aplicativo Senado Digital teve suas funcionalidades ampliadas para apoiar a atividade parlamentar e facilitar o acesso da sociedade a informações sobre o Orçamento da União. Responsável pela tecnologia de processamento de dados no Senado, o Prodasen incluiu ",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Merz condena \"provocações\" da Rússia após queda de mísseis na Polônia",
-      "link": "https://www.dw.com/pt-br/merz-condena-provocações-da-rússia-após-queda-de-mísseis-na-polônia/a-80026255?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-23T18:07:00.000Z",
-      "summary": "Chefe do governo alemão reagiu ao episódio envolvendo três projéteis russos que atingiram o país vizinho e reafirmou o compromisso de defesa coletiva da aliança militar.",
       "source": "DW Brasil",
       "cat": "internacional",
       "type": "imprensa"
