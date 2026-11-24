@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-24T17:50:44.992Z",
+  "updated": "2026-11-24T18:54:56.907Z",
   "market": {
     "ibov": {
-      "price": 165260.3,
-      "pct": 0.28,
-      "time": "2026-11-24T17:50:37.096Z",
+      "price": 164840.23,
+      "pct": 0.03,
+      "time": "2026-11-24T18:54:48.016Z",
       "history": [
         {
           "d": "2026-10-26",
@@ -84,7 +84,7 @@
         },
         {
           "d": "2026-11-24",
-          "c": 165233.1875
+          "c": 164727.5625
         }
       ]
     },
@@ -141,6 +141,132 @@
   },
   "news": [
     {
+      "title": "Risco-país da Argentina supera 1.100 pontos com pressão externa",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/risco-pais-da-argentina-supera-1100-pontos-com-pressao-externa.shtml",
+      "date": "2026-11-24T18:38:00.000Z",
+      "summary": "Um dia depois da volta de Jensen Huang ao comando da Nvidia, as turbulências do mercado financeiro voltaram a afetar Wall Street, e os ativos argentinos foram muito atingidos, voltando a operar sob pressão, e com o risco-país superando os 1.100 pontos. Leia ma",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Senado celebra 12 anos da Febraf, entidade de fomento ao comércio",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/24/senado-celebra-12-anos-da-febraf-entidade-de-fomento-ao-comercio",
+      "date": "2026-11-24T18:37:37.000Z",
+      "summary": "O Senado homenageou nesta terça-feira (24), em sessão especial, os 12 anos da Federação Brasileira de Fomento Comercial, Serviços e Atividades Financeiras (Febraf). A entidade representa setores como o factoring, que antecipa às empresas, mediante desconto, o ",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Atualização do WhatsApp traz figurinhas com som; veja como funciona",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/tec/2026/11/atualizacao-do-whatsapp-traz-figurinhas-com-som-veja-como-funciona.shtml",
+      "date": "2026-11-24T18:35:00.000Z",
+      "summary": "O WhatsApp, aplicativo de mensagens mais utilizado no Brasil, liberou uma nova funcionalidade aos usuários: figurinhas (ou stickers) com som. Leia mais (11/24/2026 - 15h35)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Ministros vão levar a Lula proposta de PEC para conter gastos obrigatórios",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/ministros-vao-levar-a-lula-proposta-de-pec-para-conter-gastos-obrigatorios.shtml",
+      "date": "2026-11-24T18:34:00.000Z",
+      "summary": "O presidente Luiz Inácio Lula da Silva (PT) vai avaliar uma segunda proposta da área econômica de ajuste fiscal: uma PEC (proposta de emenda à Constitução) para conter os gastos obrigatórios a partir de 2027. O presidente sinalizou a auxiliares que está dispos",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Ajuste fiscal: horas depois de aprovação na Câmara, Lula sanciona lei que pode gerar economia de até R$ 56 bilhões",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/24/ajuste-fiscal-horas-depois-de-aprovacao-na-camara-lula-sanciona-lei-que-preve-economia-de-ate-ate-r-56-bilhoes.ghtml",
+      "date": "2026-11-24T18:30:42.000Z",
+      "summary": "O presidente brasileiro Luiz Inácio Lula da Silva discursa durante uma coletiva de imprensa no centro de mídia à margem da 49ª Cúpula da Associação das Nações do Sudeste Asiático (ASEAN) e reuniões relacionadas, em Pasay City, Filipinas, em 15 de novembro de 2",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Relator defende proibição de atividade exclusiva de formulação de combustíveis",
+      "link": "https://www.camara.leg.br/noticias/1322388-relator-defende-proibicao-de-atividade-exclusiva-de-formulacao-de-combustiveis",
+      "date": "2026-11-24T18:29:00.000Z",
+      "summary": "Parecer ainda será votado pela Comissão de Minas e Energia",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Rússia tem mais de 1.000 suicídios de militares desde 2022, diz jornal",
+      "link": "https://www.poder360.com.br/poder-internacional/russia-tem-mais-de-1-000-suicidios-de-militares-desde-2022-diz-jornal/",
+      "date": "2026-11-24T18:28:58.000Z",
+      "summary": "Dados vazados da agência de estatísticas russa mostram aumento progressivo das mortes nas zonas de guerra e fronteira",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Jair Bolsonaro apresenta ‘melhora clínica discreta’, mas segue internado em UTI, informa hospital",
+      "link": "https://www.estadao.com.br/politica/jair-bolsonaro-apresenta-melhora-clinica-discreta-mas-segue-internado-em-uti-informa-hospital-nprp/",
+      "date": "2026-11-24T18:25:57.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Setores negros da esquerda cobram mais espaço no governo Lula 4",
+      "link": "https://www.poder360.com.br/poder-governo/setores-negros-da-esquerda-cobram-mais-espaco-no-governo-lula-4/",
+      "date": "2026-11-24T18:22:42.000Z",
+      "summary": "Articulação de partidos aliados quer ampliar presença em ministérios; grupo cobra reconhecimento pela atuação na campanha",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Brasil terá recessão se Lula não fizer ajuste fiscal mais robusto, diz Eduardo Giannetti",
+      "link": "https://www.bbc.com/portuguese/articles/c6d71g79qpe1o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-24T18:21:56.000Z",
+      "summary": "Plano do ministro Bruno Moretti, aprovado no Congresso, é 'muito aquém' do que país precisa para acalmar ânimos, avalia economista. Para ele, Lula 4 precisa não só agir como vencer a 'batalha de expectativas' com o mercado",
+      "source": "BBC News Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Frentes parlamentares usam estudos inéditos para tentar reduzir alíquota da CBS de 11,3% no Senado",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/frentes-parlamentares-usam-estudos-ineditos-para-tentar-reduzir-aliquota-da-cbs-de-113-no-senado/",
+      "date": "2026-11-24T18:06:03.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "'Vamos buscar a autossuficiência em diesel', diz Magda sobre plano da Petrobras até 2031",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/24/petrobras-plano-2027-2031.ghtml",
+      "date": "2026-11-24T18:01:40.000Z",
+      "summary": "Logo da Petrobras no Rio de Janeiro Ricardo Moraes/Reuters A Petrobras pretende alcançar a autossuficiência em diesel até 2031, com capacidade para atender 100% da demanda brasileira pelo combustível. A meta foi anunciada nesta terça-feira (24) pela presidente",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "TV Câmara recebe prêmio internacional com programa que promove participação e cidadania",
+      "link": "https://www.camara.leg.br/noticias/1322385-tv-camara-recebe-premio-internacional-com-programa-que-promove-participacao-e-cidadania",
+      "date": "2026-11-24T17:57:00.000Z",
+      "summary": "Emissora foi finalista em seis categorias do prêmio TAL – ALCAP Parlamentar e Judicial",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "O impasse no Iraque envolvendo governo e milícias aliadas ao Irã",
+      "link": "https://www.dw.com/pt-br/o-impasse-no-iraque-envolvendo-governo-e-milícias-aliadas-ao-irã/a-80035039?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-24T17:53:00.000Z",
+      "summary": "Forças de segurança iraquianas cercaram uma área controlada pelo grupo Kataib Hezbollah. Episódio é tido como o confronto mais perigoso em décadas entre o poder estatal e milicianos aliados ao Irã.",
+      "source": "DW Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
       "title": "Adiada votação de parecer sobre ampliação do limite de faturamento para o MEI",
       "link": "https://www.camara.leg.br/noticias/1321031-adiada-votacao-de-parecer-sobre-ampliacao-do-limite-de-faturamento-para-o-mei",
       "date": "2026-11-24T17:46:00.000Z",
@@ -159,10 +285,10 @@
       "type": "oficial"
     },
     {
-      "title": "Governo prepara PEC com medidas de para dar 'potência fiscal' e assegurar cumprimento de meta, diz Moretti",
+      "title": "Governo prepara PEC com medidas para dar 'potência fiscal' e assegurar cumprimento de meta, diz Moretti",
       "link": "https://g1.globo.com/economia/blog/ana-flor/post/2026/11/24/governo-prepara-pec-com-medidas-de-para-dar-potencia-fiscal-e-assegurar-cumprimento-de-meta.ghtml",
       "date": "2026-11-24T17:43:28.000Z",
-      "summary": "O ministro do Planejamento, Bruno Moretti, afirmou ao blog nesta terça-feira (24) que o governo prepara o texto de uma Proposta de Emenda à Constituição (PEC) com mais medidas de ajuste econômico. Segundo Moretti, a proposta, somada ao projeto de lei aprovado ",
+      "summary": "Ana Flor comenta a articulação do governo Lula em torno da aprovação do pacote fiscal O ministro do Planejamento, Bruno Moretti, afirmou ao blog nesta terça-feira (24) que o governo prepara o texto de uma Proposta de Emenda à Constituição (PEC) com mais medida",
       "source": "g1",
       "cat": "economia",
       "type": "imprensa"
@@ -195,10 +321,10 @@
       "type": "oficial"
     },
     {
-      "title": "Austrália quer multar Google e Meta em até 5% da receita global por conteúdos prejudiciais na internet",
+      "title": "Austrália quer multar big techs em até 5% do faturamento global por conteúdos nocivos",
       "link": "https://g1.globo.com/tecnologia/noticia/2026/11/24/australia-google-meta.ghtml",
       "date": "2026-11-24T17:36:10.000Z",
-      "summary": "Austrália propõe permitir que usuários 'desliguem' algoritmo das redes sociais A Austrália propôs aumentar as punições a empresas de tecnologia que não impeçam a circulação de conteúdos prejudiciais em suas plataformas. Pelo projeto de lei, gigantes como Googl",
+      "summary": "Austrália propõe permitir que usuários 'desliguem' algoritmo das redes sociais A Austrália quer aumentar as punições para empresas de tecnologia que não impeçam a circulação de conteúdos prejudiciais em suas plataformas. Pelo projeto de lei, gigantes como Goog",
       "source": "g1",
       "cat": "economia",
       "type": "imprensa"
@@ -231,12 +357,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Bolsonaro apresenta “melhora clínica discreta”, diz boletim",
-      "link": "https://www.poder360.com.br/poder-saude/bolsonaro-apresenta-melhora-clinica-discreta-diz-boletim/",
-      "date": "2026-11-24T17:28:30.000Z",
-      "summary": "O ex-presidente foi diagnosticado com abdômen agudo obstrutivo e pneumonia; está internado desde 6ª feira (20.nov)",
-      "source": "Poder360",
-      "cat": "politica",
+      "title": "Djokovic treina o que muitos profissionais insistem em ignorar",
+      "link": "https://www.estadao.com.br/economia/ricardo-basaglia/djokovic-treina-o-que-muitos-profissionais-insistem-em-ignorar/",
+      "date": "2026-11-24T17:30:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -258,15 +384,6 @@
       "type": "oficial"
     },
     {
-      "title": "Meta e TikTok se unem ao Google contra mudanças na lei de direitos autorais da Indonésia sobre IA",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/meta-e-tiktok-se-unem-ao-google-contra-mudancas-na-lei-de-direitos-autorais-da-indonesia-sobre-ia.shtml",
-      "date": "2026-11-24T17:22:00.000Z",
-      "summary": "As plataformas digitais Meta e TikTok se uniram ao Google nesta terça-feira (24) para contestar mudanças propostas na lei de direitos autorais da Indonésia. A revisão obrigaria plataformas digitais a pagar empresas de comunicação pela exibição de conteúdo jorn",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Como a metodologia definida para a PF montar relatórios do caso Master pode eximir ministros do STF",
       "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/como-a-metodologia-definida-para-a-pf-montar-relatorios-do-caso-master-pode-eximir-ministros-do-stf/",
       "date": "2026-11-24T17:20:12.000Z",
@@ -274,15 +391,6 @@
       "source": "Estadão",
       "cat": "politica",
       "type": "imprensa"
-    },
-    {
-      "title": "Projeto fixa regras de transparência para gastos do governo com publicidade digital",
-      "link": "https://www.camara.leg.br/noticias/1313444-projeto-fixa-regras-de-transparencia-para-gastos-do-governo-com-publicidade-digital",
-      "date": "2026-11-24T17:11:00.000Z",
-      "summary": "Texto está em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
     },
     {
       "title": "Instituições e autoridades lamentam a morte do jurista Fábio Konder Comparato",
@@ -312,15 +420,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Ao vivo: Comissão de Finanças da Câmara discute a CBS",
-      "link": "https://www.poder360.com.br/poder-congresso/ao-vivo-comissao-de-financas-da-camara-discute-a-cbs/",
-      "date": "2026-11-24T17:00:23.000Z",
-      "summary": "Alíquota foi fixada em 11,3%; ministro Dario Durigan espera definição nas próximas duas semanas",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Justiça italiana adia para fevereiro reavaliação do pedido de extradição de Carla Zambelli",
       "link": "https://g1.globo.com/politica/noticia/2026/11/24/justica-italiana-adia-para-fevereiro-reavaliacao-do-pedido-de-extradicao-de-carla-zambelli.ghtml",
       "date": "2026-11-24T16:55:13.000Z",
@@ -339,24 +438,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Fachin determina que liquidantes do Master e BC se manifestem sobre pedido do BRB por recursos",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/fachin-determina-que-liquidantes-do-master-e-bc-se-manifestem-sobre-pedido-do-brb-por-recursos.shtml",
-      "date": "2026-11-24T16:53:00.000Z",
-      "summary": "O presidente do STF (Supremo Tribunal Federal), Edson Fachin, determinou na segunda-feira (23) que os liquidantes do Banco Master e o Banco Central se manifestem, com urgência, sobre o pedido do BRB (Banco de Brasília) por desbloqueio de recursos retidos na in",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "WhatsApp começa a liberar figurinhas com som; veja como funciona",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/24/whatsapp-comeca-a-liberar-figurinhas-com-som.ghtml",
-      "date": "2026-11-24T16:51:24.000Z",
-      "summary": "WhatsApp começa a liberar figurinhas com som Reuters/Reprodução Usuários do WhatsApp notaram nesta terça-feira (24) que figurinhas com som começaram a aparecer nas conversas do app de mensagens. A novidade ficou entre os assuntos mais comentados na rede social",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "PCC foca em rotas do tráfico a partir do Sudeste e CV aposta no controle do território no Norte e Nordeste, mostra estudo da Abin",
       "link": "https://g1.globo.com/politica/noticia/2026/11/24/pcc-cv-estudo-abin-forum-brasileiro-seguranca-publica.ghtml",
       "date": "2026-11-24T16:50:43.000Z",
@@ -364,42 +445,6 @@
       "source": "g1",
       "cat": "politica",
       "type": "imprensa"
-    },
-    {
-      "title": "Fachin manda liquidante do Master avaliar desbloqueio de recursos do BRB",
-      "link": "https://www.estadao.com.br/economia/fachin-liquidante-master-avaliar-desbloqueio-recursos-brb/",
-      "date": "2026-11-24T16:50:34.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Governo Trump deve anunciar tarifas sobre China, UE e outros países, diz jornal",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/governo-trump-deve-anunciar-tarifas-sobre-china-ue-e-outros-paises-diz-jornal.shtml",
-      "date": "2026-11-24T16:47:00.000Z",
-      "summary": "O governo Donald Trump prepara um aumento de tarifas sobre a China, a União Europeia e dezenas de outros países com base em uma investigação sobre nações que concedem subsídios para a indústria e que prejudicam os EUA na competição. Leia mais (11/24/2026 - 13h",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "'Ninguém vai morrer se fechar um dia', diz ministro sobre fim da escala 6x1",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/24/ninguem-vai-morrer-se-fechar-um-dia-diz-ministro-sobre-fim-da-escala-6x1.ghtml",
-      "date": "2026-11-24T16:43:39.000Z",
-      "summary": "O ministro do Trabalho, Luiz Marinho, em audiência pública na Comissão de Direitos Humanos do Senado Geraldo Magela/Agência Senado O ministro do Trabalho, Luiz Marinho, afirmou nesta terça-feira (24) que \"ninguém vai morrer se fechar um dia\", ao ser questionad",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "CSP aprova relatório sobre programa de proteção a testemunhas",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/24/csp-aprova-relatorio-sobre-programa-de-protecao-a-testemunhas",
-      "date": "2026-11-24T16:42:02.000Z",
-      "summary": "A Comissão de Segurança Pública do Senado (CSP) aprovou nesta terça-feira (24) um relatório que recomenda acompanhar a segurança de vítimas e testemunhas mesmo depois que elas deixam o programa de proteção. O documento também propõe autorizar essas pessoas a t",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
     },
     {
       "title": "Equipe econômica tem aval de Lula e trabalha para enviar PEC do ajuste fiscal até a próxima semana",
@@ -420,15 +465,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Projeto proíbe destruição de bens e lavouras em fiscalização rural",
-      "link": "https://www.camara.leg.br/noticias/1313861-projeto-proibe-destruicao-de-bens-e-lavouras-em-fiscalizacao-rural",
-      "date": "2026-11-24T16:03:00.000Z",
-      "summary": "A proposta está em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
       "title": "Programa do governo de SP destina R$ 20 milhões do crime organizado para investimentos em segurança",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/programa-do-governo-de-sp-destina-r-20-milhoes-do-crime-organizado-para-investimentos-em-seguranca.shtml",
       "date": "2026-11-24T16:00:00.000Z",
@@ -438,18 +474,9 @@
       "type": "imprensa"
     },
     {
-      "title": "Arrecadação em outubro sobe 7,3%, alcança R$ 294 bilhões e bate recorde para o mês",
-      "link": "https://www.estadao.com.br/economia/receita-federal-arrecadacao-outubro-2026-sobe-recorde/",
-      "date": "2026-11-24T15:56:16.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Ana Paula Vescovi: ‘O Brasil tem tudo que o mundo precisa nessa nova geoeconomia’; veja vídeo",
-      "link": "https://www.estadao.com.br/economia/ana-paula-vescovi-o-brasil-tem-tudo-que-o-mundo-precisa-nessa-nova-geoeconomia-veja-video/",
-      "date": "2026-11-24T15:00:06.000Z",
+      "title": "Viagens, cartão de crédito, importações: alta do dólar já começa a pesar no bolso dos brasileiros",
+      "link": "https://www.estadao.com.br/economia/alta-dolar-consequencias-bolso-brasileiros/",
+      "date": "2026-11-24T15:00:00.000Z",
       "summary": "",
       "source": "Estadão",
       "cat": "economia",
@@ -474,21 +501,30 @@
       "type": "imprensa"
     },
     {
+      "title": "Líder da ONU pede mais ação para impedir futuro com robôs assassinos",
+      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854996",
+      "date": "2026-11-24T12:00:00.000Z",
+      "summary": "Uso crescente da inteligência artificial em campos de batalha foi tema de debate no Conselho de Segurança; chefe das Nações Unidas disse que algoritmos estão influenciando, cada vez mais, as decisões de vida ou morte; ele alertou que integração da IA ​​com sis",
+      "source": "ONU News",
+      "cat": "internacional",
+      "type": "oficial"
+    },
+    {
+      "title": "Países se unem para conter males causados por produtos químicos",
+      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854991",
+      "date": "2026-11-24T12:00:00.000Z",
+      "summary": "Primeira Conferência Internacional do Quadro Global sobre o tema reuniu mais de 1,2 mil participantes em Genebra; governos ressaltaram preocupações com disruptores endócrinos, poluentes farmacêuticos e substância nocivas em produtos eletrônicos; impactos de sa",
+      "source": "ONU News",
+      "cat": "internacional",
+      "type": "oficial"
+    },
+    {
       "title": "Lula abriu arquivos de Bolsonaro, mas mantém sigilo sobre gastos e decisões do próprio mandato",
       "link": "https://www.bbc.com/portuguese/articles/cqdj1d3yd4pzo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-24T11:28:48.000Z",
       "summary": "Governo federal abriu documentos da gestão anterior e reviu decisões de sigilo, mas continua negando informações com base na proteção de dados pessoais e da segurança presidencial, incluindo gastos do cartão corporativo.",
       "source": "BBC News Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Regulação de mercados digitais: a pressa não é aliada da concorrência",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/regulacao-de-mercados-digitais-a-pressa-nao-e-aliada-da-concorrencia/",
-      "date": "2026-11-24T10:50:26.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -528,38 +564,11 @@
       "type": "imprensa"
     },
     {
-      "title": "Damares Alves pede a Fachin autorização para visitar Vorcaro na Papuda",
-      "link": "https://www.estadao.com.br/politica/damares-pede-a-fachin-autorizacao-para-visitar-vorcaro-na-papuda-nprp/",
-      "date": "2026-11-24T00:23:16.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Os sinais de que a guerra na Ucrânia está se expandindo no mundo",
       "link": "https://www.dw.com/pt-br/os-sinais-de-que-a-guerra-na-ucrânia-está-se-expandindo-no-mundo/a-80020412?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-23T20:46:00.000Z",
       "summary": "Ucrânia reivindicou ataque a navios russos na Líbia. Incidente é episódio mais recente de uma série de ocorrências que reforçam o temor de uma ampliação geográfica do conflito além das linhas de combate no leste europeu.",
       "source": "DW Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "CVM suspende registro do BRB, envolvido no caso Master",
-      "link": "https://www.dw.com/pt-br/cvm-suspende-registro-do-brb-envolvido-no-caso-master/a-80026799?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-23T20:33:00.000Z",
-      "summary": "Autarquia puniu empresas que deixaram de divulgar informações obrigatórias ao mercado por mais de um ano. Banco de Brasília enfrenta investigações sobre operações com grupo de Daniel Vorcaro.",
-      "source": "DW Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "COP31 termina sem acordo e escancara divisão entre países sobre combustíveis fósseis",
-      "link": "https://www.bbc.com/portuguese/articles/cq742zpk1ln4o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-23T13:58:49.000Z",
-      "summary": "Negociações, que deveriam ter terminado na sexta-feira, se estenderam até o fim de semana, tornando essa a conferência climática da ONU mais longa da história.",
-      "source": "BBC News Brasil",
       "cat": "internacional",
       "type": "imprensa"
     },
@@ -591,6 +600,15 @@
       "type": "oficial"
     },
     {
+      "title": "Fim de benefício fiscal nos Estados faz empresas repensarem localização de fábricas e galpões",
+      "link": "https://www.estadao.com.br/economia/fim-de-beneficio-fiscal-nos-estados-faz-empresas-repensarem-localizacao-de-fabricas-e-galpoes/",
+      "date": "2026-11-22T08:30:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "COP31: Países exigem acordo climático mais robusto na reta final das negociações",
       "link": "https://news.un.org/feed/view/pt/story/2026/11/1854976",
       "date": "2026-11-20T12:00:00.000Z",
@@ -604,24 +622,6 @@
       "link": "https://news.un.org/feed/view/pt/story/2026/11/1854971",
       "date": "2026-11-20T12:00:00.000Z",
       "summary": "Agência alerta para surgimento da terceira grande crise alimentar em seis anos, impulsionada por conflitos e fenômeno climático El Niño; estratégia contra a fome foca nas populações mais vulneráveis e aposta em ação antecipada e inteligência artificial.&nbsp;",
-      "source": "ONU News",
-      "cat": "internacional",
-      "type": "oficial"
-    },
-    {
-      "title": "FAO: El Niño e tensão geopolítica pressionam mercados de alimentos para 2027",
-      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854966",
-      "date": "2026-11-20T12:00:00.000Z",
-      "summary": "Agência da ONU cita bloqueios no Mar Negro como uma das ameaças que podem encarecer itens básicos como arroz, açúcar e oleaginosas; enquanto o Brasil sustenta a oferta de grãos, países como Angola, Cabo Verde e Moçambique enfrentam maiores riscos.&nbsp;",
-      "source": "ONU News",
-      "cat": "internacional",
-      "type": "oficial"
-    },
-    {
-      "title": "Veículos elétricos, chips e energia limpa podem acelerar desenvolvimento africano",
-      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854968",
-      "date": "2026-11-20T12:00:00.000Z",
-      "summary": "Em data que reforça ideal de Industrialização da África, líder da ONU afirma que setores em rápido crescimento representam grandes oportunidades para o continente; por outro lado, peso da dívida pública limita investimentos em infraestrutura.&nbsp;",
       "source": "ONU News",
       "cat": "internacional",
       "type": "oficial"
@@ -682,7 +682,6 @@
     }
   ],
   "errors": [
-    "IPCA 12m (SGS 13522): HTTP 304",
     "feed CNN Brasil: HTTP 404",
     "feed CNN Brasil: HTTP 404"
   ]
