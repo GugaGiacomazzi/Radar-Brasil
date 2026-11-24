@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-24T22:54:04.896Z",
+  "updated": "2026-11-24T23:47:10.492Z",
   "market": {
     "ibov": {
       "price": 164089.81,
       "pct": -0.43,
-      "time": "2026-11-24T22:53:57.795Z",
+      "time": "2026-11-24T23:47:03.724Z",
       "history": [
         {
           "d": "2026-10-26",
@@ -141,6 +141,132 @@
   },
   "news": [
     {
+      "title": "Aliado dos Bolsonaros e crítico de Moraes deixa Departamento de Estado dos EUA",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/aliado-dos-bolsonaros-e-critico-de-moraes-deixa-departamento-de-estado-dos-eua.shtml",
+      "date": "2026-11-24T23:34:00.000Z",
+      "summary": "O conselheiro do Departamento de Estado dos Estados Unidos para assuntos relacionados ao Brasil, Darren Beattie, deixou o governo de Donald Trump. Próximo da família Bolsonaro e crítico do presidente Lula (PT) e do ministro Alexandre de Moraes, do STF (Supremo",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Senado vai analisar uso mais amplo da linguagem braile no cotidiano",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/24/senado-vai-analisar-uso-mais-amplo-da-linguagem-braile-no-cotidiano",
+      "date": "2026-11-24T23:33:02.000Z",
+      "summary": "O Senado vai avaliar um projeto de lei que prevê o uso do braile em uma série de situações rotineiras enfrentadas pelas pessoas com deficiência visual, como nos terminais de transporte coletivo, nas ruas, nos edifícios em geral e em medicamentos (na caixa e na",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Aprovado projeto que tipifica crime de tráfico de animais silvestres",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/24/aprovado-projeto-que-tipifica-crime-de-trafico-de-animais-silvestres",
+      "date": "2026-11-24T23:31:49.000Z",
+      "summary": "O Senado aprovou nesta terça-feira (24) projeto de lei que cria um tipo de crime específico para o tráfico de animais silvestres e aumenta as penas para delitos contra a fauna. O PL 5.809/2025 altera a Lei de Crimes Ambientais e estabelece punições mais rigoro",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Aprovados pelo Senado 4 cargos de desembargador no TRT de Goiás",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/24/aprovados-pelo-senado-4-cargos-de-desembargador-no-trt-de-goias",
+      "date": "2026-11-24T23:27:43.000Z",
+      "summary": "O Senado aprovou nesta terça-feira (24) o PL 4.921/2026, que amplia de 14 para 18 o número de desembargadores do Tribunal Regional do Trabalho da 18ª Região (TRT-18), com sede em Goiânia (GO). Com a aprovação pelo Senado, o projeto segue para sanção presidenci",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Comissão aprova recomendações de fiscalização dos crimes de Mariana e Brumadinho",
+      "link": "https://www.camara.leg.br/noticias/1322628-comissao-aprova-recomendacoes-de-fiscalizacao-dos-crimes-de-mariana-e-brumadinho",
+      "date": "2026-11-24T23:26:00.000Z",
+      "summary": "Atual composição da comissão está em atividade desde 2023, realizou 62 audiências públicas e ouviu cerca de 200 convidados",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Lula decide que embaixador brasileiro na Argentina não retornará a Buenos Aires",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/24/brasil-decide-que-embaixador-brasileiro-na-argentina-nao-retornara-a-buenos-aires.ghtml",
+      "date": "2026-11-24T23:20:16.000Z",
+      "summary": "Embaixador do Brasil não voltará à Argentina O Ministério das Relações Exteriores do Brasil (MRE) decidiu que o embaixador brasileiro na Argentina, Júlio Bitelli, não retornará a Buenos Aires, capital do país. A decisão, tomada quatro meses após o início da cr",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Motta negocia R$ 3 milhões em verba do governo Lula para deputados atuais e novos",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/motta-negocia-r-3-milhoes-em-verba-do-governo-lula-para-deputados-atuais-e-novos.shtml",
+      "date": "2026-11-24T23:19:00.000Z",
+      "summary": "O presidente da Câmara dos Deputados, Hugo Motta (Republicanos-PB), prometeu R$ 3 milhões para os deputados atuais e novos indicarem em verbas do governo Lula (PT). Os recursos seriam um estímulo à votação de medidas fiscais e um aceno aos novos parlamentares,",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Moraes autoriza advogado a visitar Bolsonaro no hospital",
+      "link": "https://www.poder360.com.br/poder-justica/moraes-autoriza-advogado-a-visitar-bolsonaro-no-hospital/",
+      "date": "2026-11-24T23:17:16.000Z",
+      "summary": "Ex-presidente está na UTI do hospital DF Star desde sábado (21.nov); decisão proíbe celulares e câmeras nas visitas",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Em carta, PT diz que nenhum interesse econômico pode ficar acima da vontade popular",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/24/em-carta-pt-diz-que-nenhum-interesse-economico-pode-ficar-acima-da-vontade-popular.ghtml",
+      "date": "2026-11-24T23:15:40.000Z",
+      "summary": "O Partido dos Trabalhadores (PT) divulgou nesta terça-feira (24) uma carta aos brasileiros com compromissos para o país para o quarto mandato do presidente Luiz Inácio Lula da Silva (PT). No documento, o partido diz que nenhum interesse econômico pode ficar ac",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Após projeto de ajuste fiscal, PEC com novas medidas pode gerar novo ‘racha’ na bancada governista",
+      "link": "https://www.estadao.com.br/economia/apos-projeto-de-ajuste-fiscal-pec-com-novas-medidas-pode-gerar-novo-racha-na-bancada-governista/",
+      "date": "2026-11-24T23:15:01.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Deputados retomam nesta quarta-feira votação de projetos em defesa da população negra",
+      "link": "https://www.camara.leg.br/noticias/1322627-deputados-retomam-nesta-quarta-feira-votacao-de-projetos-em-defesa-da-populacao-negra",
+      "date": "2026-11-24T23:10:00.000Z",
+      "summary": "Benedita da Silva comemora aprovação de três prioridades da Bancada Negra",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Justiça atende governo Lula e obriga empresas a cumprir novas regras para VA e VR",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/justica-atende-governo-lula-e-obriga-empresas-a-cumprir-novas-regras-para-va-e-vr.shtml",
+      "date": "2026-11-24T23:08:00.000Z",
+      "summary": "O TRF-1 (Tribunal Regional Federal da 1ª Região) suspendeu nesta terça-feira (24) os efeitos da decisão liminar (provisória) que dispensava as empresas ligadas à ABBT (Associação Brasileira das Empresas de Benefícios ao Trabalhador) de se adequarem às novas re",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Moraes rejeita pedido para abater da pena de Zambelli o tempo de prisão na Itália e provisória",
+      "link": "https://www.estadao.com.br/politica/moraes-rejeita-pedido-para-abater-da-pena-de-zambelli-o-tempo-de-prisao-preventiva-e-na-italia-nprp/",
+      "date": "2026-11-24T22:59:15.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Atividade econômica da Argentina cai pelo segundo trimestre consecutivo",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/argentina-entra-em-recessao-tecnica-apos-resultados-do-terceiro-trimestre.shtml",
+      "date": "2026-11-24T22:50:00.000Z",
+      "summary": "A atividade econômica da Argentina caiu 1,8% entre julho e setembro na comparação com o período de três meses anterior, segundo um indicador aproximado do PIB (Produto Interno Bruto) divulgado nesta terça-feira (24) pelo Indec (Instituto Nacional de Estatístic",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "Jensen Huang pede desculpas aos funcionários da Nvidia e diz estar fazendo terapia",
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/jensen-huang-pede-desculpas-aos-funcionarios-da-nvidia-e-diz-estar-fazendo-terapia.shtml",
       "date": "2026-11-24T22:40:00.000Z",
@@ -159,6 +285,15 @@
       "type": "imprensa"
     },
     {
+      "title": "Itaú entra no Minha Casa, Minha Vida e avança sobre mercado dominado pela Caixa",
+      "link": "https://www.estadao.com.br/economia/negocios/itau-entra-no-minha-casa-minha-vida-e-avanca-sobre-mercado-dominado-pela-caixa/",
+      "date": "2026-11-24T22:38:11.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "Polônia volta a registrar incursão de drone russo em seu espaço aéreo",
       "link": "https://www.dw.com/pt-br/polônia-volta-a-registrar-incursão-de-drone-russo-em-seu-espaço-aéreo/a-80042032?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-24T22:36:00.000Z",
@@ -168,7 +303,7 @@
       "type": "imprensa"
     },
     {
-      "title": "Alcolumbre diz que Congresso defenderá prerrogativas de Van Hattem em ação no STF contra deputado",
+      "title": "Alcolumbre diz que Congresso defenderá prerrogativas de Van Hattem em ação no STF",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/11/alcolumbre-diz-que-congresso-defendera-prerrogativas-de-van-hattem-em-acao-no-stf-contra-deputado.shtml",
       "date": "2026-11-24T22:35:00.000Z",
       "summary": "O presidente do Senado, Davi Alcolumbre (União Brasil-AP), disse nesta terça-feira (24) que vai atuar \"pessoalmente\", na condição de chefe do Congresso Nacional, no processo no STF (Supremo Tribunal Federal) que pode tornar o deputado federal Marcel Van Hattem",
@@ -189,8 +324,17 @@
       "title": "Economia da Argentina encolhe e entra em recessão técnica, apontam dados preliminares",
       "link": "https://g1.globo.com/economia/noticia/2026/11/24/economia-da-argentina-encolhe-e-entra-em-recessao-tecnica-apontam-dados-preliminares.ghtml",
       "date": "2026-11-24T22:33:17.000Z",
-      "summary": "Presidente da Argentina, Javier Milei. Yara Nardi / REUTERS A atividade econômica da Argentina recuou 1,2% em setembro, na comparação com o mesmo mês do ano passado, segundo dados preliminares divulgados nesta terça-feira (24) pelo Instituto Nacional de Estatí",
+      "summary": "Argentina entra em recessão técnica A atividade econômica da Argentina recuou 1,2% em setembro, na comparação com o mesmo mês do ano passado, segundo dados preliminares divulgados nesta terça-feira (24) pelo Instituto Nacional de Estatística e Censos (Indec). ",
       "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Diversidade que gera confiança: por uma influência mais inclusiva",
+      "link": "https://www.estadao.com.br/economia/diversidade-que-gera-confianca-por-uma-influencia-mais-inclusiva/",
+      "date": "2026-11-24T22:29:13.000Z",
+      "summary": "",
+      "source": "Estadão",
       "cat": "economia",
       "type": "imprensa"
     },
@@ -220,51 +364,6 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Sargento Reginauro cobra apuração de assassinato de ex-policial no Ceará",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/24/sargento-reginauro-cobra-apuracao-de-assassinato-de-ex-policial-no-ceara",
-      "date": "2026-11-24T22:17:12.000Z",
-      "summary": "O senador Sargento Reginauro (PSDB-CE) cobrou nesta terça-feira (24) uma investigação rigorosa sobre o assassinato de um ex-tenente da Polícia Militar do Ceará, ocorrido na zona rural de Canindé (CE). Em pronunciamento no Plenário, o parlamentar afirmou que um",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Dólar alto e El Niño moderado podem mudar cenário no agronegócio",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/vaivem/2026/11/dolar-alto-e-el-nino-moderado-podem-mudar-cenario-no-agronegocio.shtml",
-      "date": "2026-11-24T22:15:00.000Z",
-      "summary": "O dólar próximo aos R$ 6 dá um alívio ao produtor porque é a possibilidade de receita maior. As commodities brasileiras levam em consideração a paridade de exportação. Por isso, a alta da moeda americana gera mais recursos. Essa alta impacta os custos, mas ele",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Magda descarta compra de distribuidora de combustíveis pela Petrobras apesar de apelos de Lula",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/magda-descarta-compra-de-distribuidora-de-combustiveis-pela-petrobras-apesar-de-apelos-de-lula.shtml",
-      "date": "2026-11-24T22:13:00.000Z",
-      "summary": "A presidente da Petrobras, Magda Chambriard, descartou nesta terça-feira (24) a compra de uma distribuidora de combustíveis \"neste momento\". A posição contraria apelos do presidente Lula (PT) e do coordenador do programa de governo do petista, José Sérgio Gabr",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Cadastro de condenados por violência contra mulher pode ser ampliado",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/24/cadastro-de-condenados-por-violencia-contra-mulher-pode-ser-ampliado",
-      "date": "2026-11-24T22:02:02.000Z",
-      "summary": "O Senado recebeu da Câmara dos Deputados projeto (PL 1.378/2024) que amplia o Cadastro Nacional de Pessoas Condenadas por Pedofilia e por Violência contra a Mulher. A proposta altera a Lei 14.069, de 2020, que atualmente restringe o banco de dados a condenados",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Bastidores: ataques e ajuda a Flávio fazem governo não convidar Milei para posse de Lula",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/bastidores-ataques-e-ajuda-a-flavio-fazem-governo-nao-convidar-milei-para-posse-de-lula/",
-      "date": "2026-11-24T22:01:16.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
     },
     {
       "title": "Ao vivo: TSE avalia federação Avante-PRD-Solidariedade",
@@ -303,15 +402,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Lei do ajuste fiscal é sancionada sem vetos e já está em vigor",
-      "link": "https://www.camara.leg.br/noticias/1322586-lei-do-ajuste-fiscal-e-sancionada-sem-vetos-e-ja-esta-em-vigor",
-      "date": "2026-11-24T21:58:00.000Z",
-      "summary": "Norma permite ao governo limitar a execução de despesas para alcançar as metas de superávit primário a partir de 2027",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
       "title": "Após voltar ao comando da Nvidia, Jensen Huang pede desculpas por traição e diz fazer terapia",
       "link": "https://g1.globo.com/tecnologia/noticia/2026/11/24/apos-voltar-ao-comando-da-nvidia-jensen-huang-pede-desculpas-por-traicao-e-diz-fazer-terapia.ghtml",
       "date": "2026-11-24T21:56:24.000Z",
@@ -330,24 +420,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Apesar de melhora, Bolsonaro segue na UTI e sem previsão de alta",
-      "link": "https://www.poder360.com.br/poder-justica/apesar-de-melhora-bolsonaro-segue-na-uti-e-sem-previsao-de-alta/",
-      "date": "2026-11-24T21:47:25.000Z",
-      "summary": "Ex-presidente ainda apresenta instabilidade no quadro clínico e pode precisar de cuidados hospitalares até o fim da semana",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Arrecadação: o efeito do petróleo e da reforma tributária",
-      "link": "https://www.estadao.com.br/economia/fernando-dantas/arrecadacao-o-efeito-do-petroleo-e-da-reforma-tributaria/",
-      "date": "2026-11-24T21:45:52.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Lula chama Haddad para discutir nova etapa de ajuste fiscal e dá bronca em Lindbergh",
       "link": "https://www.estadao.com.br/politica/vera-rosa/lula-chama-haddad-para-discutir-nova-etapa-de-ajuste-fiscal-e-da-bronca-em-lindbergh/",
       "date": "2026-11-24T21:36:54.000Z",
@@ -357,54 +429,9 @@
       "type": "imprensa"
     },
     {
-      "title": "Tucano encontra Alckmin e defende que ele tenha papel central na economia no Lula 4",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/tucano-encontra-alckmin-e-defende-que-ele-tenha-papel-central-na-economia-no-lula-4.shtml",
-      "date": "2026-11-24T21:33:00.000Z",
-      "summary": "Um dos principais dirigentes do PSDB, o ex-governador de Goiás Marconi Perillo encontrou-se nesta terça-feira (24) com o vice-presidente Geraldo Alckmin e defendeu que ele \"comande o processo de estabilização da economia brasileira\". Leia mais (11/24/2026 - 18",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Justiça dá à 99Food 72 horas para comprovar fim de cláusulas de banimento",
-      "link": "https://www.estadao.com.br/economia/negocios/justica-da-a-99food-72-horas-para-comprovar-fim-de-clausulas-de-banimento/",
-      "date": "2026-11-24T21:29:28.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Após amantes, caso com suposta espiã e vaivém no cargo, CEO da Nvidia diz que está em terapia",
-      "link": "https://www.estadao.com.br/economia/casos-extraconjugais-suposta-espia-vaivem-cargo-ceo-nvidia-esta-em-terapia-npr/",
-      "date": "2026-11-24T21:16:55.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Câmara aprova pensão especial para parentes das vítimas da chacina de Acari",
-      "link": "https://www.camara.leg.br/noticias/1322494-camara-aprova-pensao-especial-para-parentes-das-vitimas-da-chacina-de-acari",
-      "date": "2026-11-24T21:16:00.000Z",
-      "summary": "Benefício de um salário mínimo será pago a familiares das 11 vítimas de 1990; texto inscreve Mães de Acari no Livro dos Heróis e vai ao Senado",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Confúcio Moura propõe ajuste no Orçamento de 2027 para ampliar investimento",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/24/confucio-moura-propoe-ajuste-no-orcamento-de-2027-para-ampliar-investimento",
-      "date": "2026-11-24T21:10:48.000Z",
-      "summary": "O senador Confúcio Moura (MDB-RO) defendeu nesta terça-feira (24) a adoção de um ajuste orçamentário de médio e longo prazos para ampliar a capacidade de investimento do governo federal. Em pronunciamento no Plenário, ele afirmou que grande parte dos recursos ",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Safira Energia entra com pedido de recuperação judicial",
-      "link": "https://www.estadao.com.br/economia/negocios/safira-energia-entra-com-pedido-de-recuperacao-judicial/",
-      "date": "2026-11-24T20:56:37.000Z",
+      "title": "Amapá Minerals reativa mina de ouro parada desde 2022 e levanta US$ 110 milhões na Bolsa de Toronto",
+      "link": "https://www.estadao.com.br/economia/negocios/amapa-minerals-reativa-mina-de-ouro-parada-desde-2022-e-levanta-us-110-milhoes-na-bolsa-de-toronto/",
+      "date": "2026-11-24T21:00:00.000Z",
       "summary": "",
       "source": "Estadão",
       "cat": "economia",
@@ -417,15 +444,6 @@
       "summary": "Chinesa Huawei é condenada nos EUA Hannibal Hanschke/Reuters A chinesa Huawei foi condenada nesta terça-feira (24) em um amplo processo criminal nos Estados Unidos. A gigante de tecnologia e equipamentos de telecomunicações foi acusada de enganar bancos sobre ",
       "source": "g1",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "PT divulga nova 'Carta ao Povo Brasileiro' com prioridades para o Lula 4",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/pt-divulga-nova-carta-ao-povo-brasileiro-com-prioridades-para-o-lula-4.shtml",
-      "date": "2026-11-24T20:49:00.000Z",
-      "summary": "O PT divulgará nesta terça-feira (24) um documento em que faz uma avaliação da vitória de Luiz Inácio Lula da Silva e projeta prioridades para o quarto mandato. Leia mais (11/24/2026 - 17h49)",
-      "source": "Folha",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -480,24 +498,6 @@
       "summary": "Funcionários chegaram à Alemanha fugindo do próprio Talibã. Ainda assim, teriam aceitado trabalhar para representação diplomática controlada pelo grupo no oeste da Alemanha, segundo investigação de emissoras públicas.",
       "source": "DW Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Nunes Marques é definido relator de pedido de Vorcaro para retirar caso Master do gabinete da presidência do STF",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/24/nunes-marques-e-sorteado-relator-de-pedido-de-vorcaro-para-retirar-caso-master-do-gabinete-da-presidencia-do-stf.ghtml",
-      "date": "2026-11-24T18:53:54.000Z",
-      "summary": "O ministro Kassio Nunes Marques, do Supremo Tribunal Federal (STF), foi definido relator do mandado de segurança apresentado pela defesa do ex-banqueiro Daniel Vorcaro, do Banco Master, para tentar retirar da presidência da Corte a condução da Operação Complia",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Ajuste fiscal: horas depois de aprovação na Câmara, Lula sanciona lei que pode gerar economia de até R$ 56 bilhões",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/24/ajuste-fiscal-horas-depois-de-aprovacao-na-camara-lula-sanciona-lei-que-preve-economia-de-ate-ate-r-56-bilhoes.ghtml",
-      "date": "2026-11-24T18:30:42.000Z",
-      "summary": "O presidente brasileiro Luiz Inácio Lula da Silva discursa durante uma coletiva de imprensa no centro de mídia à margem da 49ª Cúpula da Associação das Nações do Sudeste Asiático (ASEAN) e reuniões relacionadas, em Pasay City, Filipinas, em 15 de novembro de 2",
-      "source": "g1",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
