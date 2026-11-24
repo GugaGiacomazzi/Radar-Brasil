@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-24T06:39:01.799Z",
+  "updated": "2026-11-24T08:07:20.625Z",
   "market": {
     "ibov": {
       "price": 164796.05,
       "pct": -0.95,
-      "time": "2026-11-24T06:38:56.794Z",
+      "time": "2026-11-24T08:07:13.356Z",
       "history": [
         {
           "d": "2026-10-26",
@@ -137,19 +137,91 @@
   },
   "news": [
     {
-      "title": "Tesla e SpaceX negociam fusão de R$ 20,8 trilhões até o fim do ano, diz jornal",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/24/tesla-e-spacex-negociam-fusao-ate-o-fim-do-ano.ghtml",
-      "date": "2026-11-24T06:23:17.000Z",
-      "summary": "Musk, Spacex e Tesla REUTERS/Evan Vucci e REUTERS/Dado Ruvic/Ilustração A Tesla e a SpaceX, empresas do bilionário Elon Musk, avançam nas negociações para uma possível fusão de US$ 3,5 trilhões (cerca de R$ 20,8 trilhões), que seria a maior da história. As com",
+      "title": "A tempestade perfeita (dentro e fora do Brasil) que fez dólar chegar a R$ 6",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/24/a-tempestade-perfeita-dentro-e-fora-do-brasil-que-fez-dolar-chegar-a-r-6.ghtml",
+      "date": "2026-11-24T08:00:00.000Z",
+      "summary": "A tempestade perfeita (dentro e fora do Brasil) que faz preço do dólar chegar a R$ 6. Getty Images via BBC Depois de liderar as perdas entre as principais moedas de mercados emergentes desde o fim de outubro, o real voltou a se desvalorizar nesta segunda-feira",
       "source": "g1",
       "cat": "economia",
       "type": "imprensa"
     },
     {
-      "title": "Black Friday: saiba como identificar sites e anúncios falsos para não cair em golpes; VÍDEO",
-      "link": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/11/24/black-friday-saiba-como-identificar-sites-e-anuncios-falsos-para-nao-cair-em-golpes-video.ghtml",
-      "date": "2026-11-24T06:00:00.000Z",
-      "summary": "Como identificar sites e anúncios falsos e evitar golpes nas compras online Você encontra o produto que tanto queria pela metade do preço, mas o anúncio diz que a oferta acaba em 30 segundos. Você arriscaria? Antes de pagar, vale conferir se você está mesmo no",
+      "title": "LISTA: veja os 10 carros de até R$ 100 mil com os maiores porta-malas",
+      "link": "https://g1.globo.com/carros/noticia/2026/11/24/lista-veja-os-10-carros-de-ate-r-100-mil-com-os-maiores-porta-malas.ghtml",
+      "date": "2026-11-24T07:00:00.000Z",
+      "summary": "Lista de carros com maior porta-malas por até R$ 100 mil arte/g1 Carros que custam até R$ 100 mil costumam ser compactos e projetados para o uso urbano. Porém, esses modelos também precisam eventualmente ser usados nos fins de semana, viagens de feriados prolo",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Família gaúcha cria IA que 'degusta' vinhos e ajuda a desenvolver novas receitas",
+      "link": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/11/24/familia-gaucha-cria-ia-que-degusta-vinhos-e-ajuda-a-desenvolver-novas-receitas.ghtml",
+      "date": "2026-11-24T07:00:00.000Z",
+      "summary": "Família do RS desenvolve inteligência artificial que 'degusta' vinho e cria novas receitas Já pensou em tomar um vinho desenvolvido com a ajuda de inteligência artificial? Em Três de Maio, no Rio Grande do Sul, a família Hilgert criou um algoritmo capaz de sug",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Juventude quer canal maior com governo e sucessor de Lula será o PT, diz secretária do partido",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/juventude-quer-canal-maior-com-governo-e-sucessor-de-lula-sera-o-pt-diz-secretaria-do-partido.shtml",
+      "date": "2026-11-24T07:00:00.000Z",
+      "summary": "Sob resistência de parte da velha guarda do PT, a cobrança interna por renovação do partido ganhou força a partir do sucesso de candidaturas mais jovens nas eleições deste ano. Para a secretária nacional de Juventude do PT, Julia Köpf, 29, o desempenho desses ",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Dificuldade de fazer valer leis contra racismo persiste 200 anos após tratado 'para inglês ver', dizem historiadores",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/dificuldade-de-fazer-valer-leis-contra-racismo-persiste-200-anos-apos-tratado-para-ingles-ver-dizem-historiadores.shtml",
+      "date": "2026-11-24T07:00:00.000Z",
+      "summary": "No século 19, o Brasil se comprometeu com o Reino Unido a acabar com o tráfico de africanos escravizados. Apesar do acordo, que era condição britânica para reconhecer a independência do país, o tráfico continuou ilegalmente, com a conivência de autoridades, po",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Inadimplência de empresas e famílias bate recorde e chega a R$ 371 bi, diz FecomercioSP",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/inadimplencia-de-empresas-e-familias-bate-recorde-e-chega-a-r-371-bi-diz-fecomerciosp.shtml",
+      "date": "2026-11-24T07:00:00.000Z",
+      "summary": "O volume de dívidas com mais de 90 dias de atraso de famílias e empresas brasileiras chegou a R$ 371,1 bilhões no terceiro trimestre de 2026, o maior valor da série histórica, iniciada em 2011. O montante representa uma alta de 26,7% em relação ao mesmo períod",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Confira tudo o que você precisa saber sobre o fim da escala 6x1",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/confira-tudo-o-que-voce-precisa-saber-sobre-o-fim-da-escala-6x1.shtml",
+      "date": "2026-11-24T07:00:00.000Z",
+      "summary": "O fim da escala 6x1 começa em 16 de dezembro deste ano, conforme prevê a emenda constitucional 141 e decisão do ministro Flávio Dino, do STF (Supremo Tribunal Federal). A partir desta data, os trabalhadores precisam ter a jornada reduzida de 44 horas semanais ",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Black Friday deve ter recorde de vendas mesmo com consumidor pressionado por dívidas, projeta CNC",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/black-friday-deve-ter-recorde-de-vendas-mesmo-com-consumidor-pressionado-por-dividas-projeta-cnc.shtml",
+      "date": "2026-11-24T07:00:00.000Z",
+      "summary": "Mesmo com um cenário de inadimplência recorde e alta taxa de juros, o consumo do brasileiro na Black Friday deve continuar forte e impulsionar as vendas a um patamar que não era registrado há 12 anos, segundo projeção da CNC (Confederação Nacional do Comércio ",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Dona da 99 inicia pesquisa no Brasil e pode lançar carro sem motorista a partir de 2032",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/dona-da-99-inicia-pesquisa-no-brasil-e-pode-lancar-carro-sem-motorista-a-partir-de-2032.shtml",
+      "date": "2026-11-24T07:00:00.000Z",
+      "summary": "Antes do teste, a reportagem da Folha é avisada para não esperar nada emocionante. A corrida com o novo modelo do robotáxi, o veículo autônomo da DiDi, utilizado em regiões de Pequim e Guangzhou, seria tranquila. Monótona até. E foi. Leia mais (11/24/2026 - 04",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Tesla e SpaceX negociam fusão de R$ 20,8 trilhões até o fim do ano, diz jornal",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/24/tesla-e-spacex-negociam-fusao-ate-o-fim-do-ano.ghtml",
+      "date": "2026-11-24T06:23:17.000Z",
+      "summary": "Musk, Spacex e Tesla REUTERS/Evan Vucci e REUTERS/Dado Ruvic/Ilustração A Tesla e a SpaceX, empresas do bilionário Elon Musk, avançam nas negociações para uma possível fusão de US$ 3,5 trilhões (cerca de R$ 20,8 trilhões), que seria a maior da história. As com",
       "source": "g1",
       "cat": "economia",
       "type": "imprensa"
@@ -236,15 +308,6 @@
       "type": "oficial"
     },
     {
-      "title": "A queda de braço entre governo e mercado financeiro - O Assunto #1851",
-      "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/11/24/a-queda-de-braco-entre-governo-e-mercado-financeiro-o-assunto-1851.ghtml",
-      "date": "2026-11-24T03:39:36.000Z",
-      "summary": "Neste último sábado (21), o presidente Lula disse em uma live que \"foi o presidente que mais fez superávit primário neste país\" e que \"não é o sistema financeiro que vai ensinar a dirigir o país\". As declarações são reações ao discurso de parte da Faria Lima d",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Entenda projeto de ajuste fiscal de até R$ 56 bilhões para governo Lula aprovado pela Câmara",
       "link": "https://g1.globo.com/politica/ao-vivo/ajuste-fiscal-camara-deputados.ghtml",
       "date": "2026-11-24T03:38:46.000Z",
@@ -299,15 +362,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Dólar a R$ 6: o que explica a disparada da moeda e o que pode frear novas altas?",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/24/dolar-a-r-6-o-que-explica-a-disparada-da-moeda-e-o-que-pode-frear-novas-altas.ghtml",
-      "date": "2026-11-24T03:00:00.000Z",
-      "summary": "Dólar chega a R$ 6 pela primeira vez em 2026 O dólar voltou a flertar com os R$ 6 no Brasil, depois de ficar quase 19% mais caro em pouco mais de um mês. A moeda americana chegou a ultrapassar essa marca nesta segunda-feira (23), mas recuou e encerrou o dia a ",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "A tempestade perfeita (dentro e fora do Brasil) que faz preço do dólar chegar a R$ 6",
       "link": "https://www.bbc.com/portuguese/articles/cwm253lr95zjo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-24T02:57:02.000Z",
@@ -326,66 +380,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Trabuco, do Bradesco, cobra integração energética e vê custo de capital como entrave",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/trabuco-do-bradesco-cobra-integracao-energetica-e-ve-custo-de-capital-como-entrave.shtml",
-      "date": "2026-11-24T02:47:00.000Z",
-      "summary": "Luiz Carlos Trabuco, presidente do conselho de administração do Bradesco, sucedeu nesta segunda-feira (23) Jorge Gerdau Johannpeter na presidência do MBC (Movimento Brasil Competitivo). Leia mais (11/23/2026 - 23h47)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "PT organiza seminário com André Lara Resende para discutir política econômica de Lula 4",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/11/pt-organiza-seminario-com-andre-lara-resende-para-discutir-politica-economica-de-lula-4.shtml",
       "date": "2026-11-24T02:28:00.000Z",
       "summary": "Os deputados do PT (Partido dos Trabalhadores) devem realizar nesta semana um seminário, em Brasília, com a presença do economista André Lara Resende com o objetivo de discutir a política econômica do próximo mandato do presidente Lula (PT). Leia mais (11/23/2",
       "source": "Folha",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Não sou identitária, sou uma pessoa universal, diz 1ª senadora do PT eleita em MG",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/nao-sou-identitaria-sou-uma-pessoa-universal-diz-1a-senadora-do-pt-eleita-em-mg.shtml",
-      "date": "2026-11-24T02:00:00.000Z",
-      "summary": "A primeira vitória do PT na história do Senado em Minas Gerais se deu com uma política, Marília Campos, conhecida por ser uma \"fura-bolha\" que rejeita o discurso de polarização entre o partido e o bolsonarismo e diz não ser identitária. Leia mais (11/23/2026 -",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Cotado para 2030, Tarcísio concentra poder em auxiliares fiéis e faz concessões à direita",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/cotado-para-2030-tarcisio-concentra-poder-em-auxiliares-fieis-e-faz-concessoes-a-direita.shtml",
-      "date": "2026-11-24T02:00:00.000Z",
-      "summary": "O governador Tarcísio de Freitas (Republicanos) deve anunciar nesta semana os últimos nomes de seu secretariado, mas já demonstrou que, em vez de uma reformulação radical, optou por um ajuste fino na equipe que o conduziu à reeleição em primeiro turno. Leia ma",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Trump ganhou até US$ 15 milhões com ações da Nvidia após retorno de Huang",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/trump-ganhou-ate-us-15-milhoes-com-acoes-da-nvidia-apos-retorno-de-huang.shtml",
-      "date": "2026-11-24T02:00:00.000Z",
-      "summary": "As ações da Nvidia detidas por Donald Trump valorizaram-se em até US$ 15 milhões nesta segunda-feira (23), depois que os papéis dispararam com a notícia inesperada da recondução de Jensen Huang ao cargo de CEO. Leia mais (11/23/2026 - 23h00)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Lula é aconselhado pela área econômica a indicar nomes para BC que não afrontem o mercado",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/lula-e-aconselhado-pela-area-economica-a-indicar-nomes-para-bc-que-nao-afrontem-o-mercado.shtml",
-      "date": "2026-11-24T02:00:00.000Z",
-      "summary": "O presidente Luiz Inácio Lula da Silva foi aconselhado por auxiliares da área econômica a indicar nomes para a diretoria do Banco Central que não afrontem o mercado financeiro. Leia mais (11/23/2026 - 23h00)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Preço do Kwid e do Mobi, carros mais baratos do Brasil, dispara e ultrapassa os R$ 80 mil",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/preco-do-kwid-e-do-mobi-carros-mais-baratos-do-brasil-dispara-e-ultrapassa-os-r-80-mil.shtml",
-      "date": "2026-11-24T02:00:00.000Z",
-      "summary": "Nos últimos dez anos, os compactos Renault Kwid e Fiat Mobi têm se alternado no posto de carro zero-quilômetro mais barato do Brasil. São modelos que já nasceram com os itens básicos de segurança exigidos por lei desde 2014 e, portanto, mais evoluídos que os a",
-      "source": "Folha",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
