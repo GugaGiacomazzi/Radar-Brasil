@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-24T16:42:46.755Z",
+  "updated": "2026-11-24T17:50:44.992Z",
   "market": {
     "ibov": {
-      "price": 165428.73,
-      "pct": 0.38,
-      "time": "2026-11-24T16:42:33.411Z",
+      "price": 165260.3,
+      "pct": 0.28,
+      "time": "2026-11-24T17:50:37.096Z",
       "history": [
         {
           "d": "2026-10-26",
@@ -84,7 +84,7 @@
         },
         {
           "d": "2026-11-24",
-          "c": 165701.25
+          "c": 165233.1875
         }
       ]
     },
@@ -141,11 +141,272 @@
   },
   "news": [
     {
-      "title": "Governo mantém estimativa de arrecadar R$ 10,5 bi com taxação de dividendos, apesar de frustração até agora",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/governo-mantem-estimativa-de-arrecadar-r-105-bi-com-taxacao-de-dividendos-apesar-de-frustracao-ate-agora.shtml",
-      "date": "2026-11-24T16:35:00.000Z",
-      "summary": "O coordenador de Previsão e Análise da Receita Federal, Marcelo Gomide, afirmou nesta terça-feira (24) que está mantida a previsão de arrecadar R$ 10,5 bilhões com o imposto de renda sobre dividendos. Leia mais (11/24/2026 - 13h35)",
+      "title": "Adiada votação de parecer sobre ampliação do limite de faturamento para o MEI",
+      "link": "https://www.camara.leg.br/noticias/1321031-adiada-votacao-de-parecer-sobre-ampliacao-do-limite-de-faturamento-para-o-mei",
+      "date": "2026-11-24T17:46:00.000Z",
+      "summary": "Reunião, que seria nesta terça-feira, foi remarcada para amanhã (25)",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Venda ilegal de canetas emagrecedoras pressiona saúde e segurança, alertam debatedores",
+      "link": "https://www.camara.leg.br/noticias/1322349-venda-ilegal-de-canetas-emagrecedoras-pressiona-saude-e-seguranca-alertam-debatedores",
+      "date": "2026-11-24T17:45:00.000Z",
+      "summary": "Especialistas alertam que a comercialização fora das farmácias rompe a cadeia de controle sanitário",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Governo prepara PEC com medidas de para dar 'potência fiscal' e assegurar cumprimento de meta, diz Moretti",
+      "link": "https://g1.globo.com/economia/blog/ana-flor/post/2026/11/24/governo-prepara-pec-com-medidas-de-para-dar-potencia-fiscal-e-assegurar-cumprimento-de-meta.ghtml",
+      "date": "2026-11-24T17:43:28.000Z",
+      "summary": "O ministro do Planejamento, Bruno Moretti, afirmou ao blog nesta terça-feira (24) que o governo prepara o texto de uma Proposta de Emenda à Constituição (PEC) com mais medidas de ajuste econômico. Segundo Moretti, a proposta, somada ao projeto de lei aprovado ",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Bolsonaro tem melhora em quadro de obstrução intestinal, mas segue sem previsão de alta",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/11/bolsonaro-tem-melhora-em-quadro-de-obstrucao-intestinal-mas-segue-sem-previsao-de-alta.shtml",
+      "date": "2026-11-24T17:40:00.000Z",
+      "summary": "O ex-presidente Jair Bolsonaro apresentou melhora do quadro de obstrução intestinal, mas segue sem previsão de alta, conforme boletim médico divulgado nesta terça-feira (24) pelo hospital DF Star, onde o ex-mandatário está internado em Brasília. Leia mais (11/",
       "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lula cancela reunião com equipe econômica e vai a velório de jurista em SP",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/lula-cancela-reuniao-com-equipe-economica-e-vai-a-velorio-de-jurista-em-sp.shtml",
+      "date": "2026-11-24T17:40:00.000Z",
+      "summary": "O presidente Luiz Inácio Lula da cancelou uma reunião que teria nesta terça-feira (24) com a equipe econômica para falar do ajuste fiscal. O petista deve participar do velório do professor emérito de direito da USP Fábio Konder Comparato, um dos maiores jurist",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Participantes de sessão na Câmara apontam sobrecarga sobre mulheres e defendem ampliação de políticas de cuidado",
+      "link": "https://www.camara.leg.br/noticias/1322381-participantes-de-sessao-na-camara-apontam-sobrecarga-sobre-mulheres-e-defendem-ampliacao-de-politicas-de-cuidado",
+      "date": "2026-11-24T17:39:00.000Z",
+      "summary": "Sessão solene celebrou dois anos da Política Nacional de Cuidados",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Austrália quer multar Google e Meta em até 5% da receita global por conteúdos prejudiciais na internet",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/24/australia-google-meta.ghtml",
+      "date": "2026-11-24T17:36:10.000Z",
+      "summary": "Austrália propõe permitir que usuários 'desliguem' algoritmo das redes sociais A Austrália propôs aumentar as punições a empresas de tecnologia que não impeçam a circulação de conteúdos prejudiciais em suas plataformas. Pelo projeto de lei, gigantes como Googl",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Saiba quem é a cantora iraniana que recebeu 74 chibatadas",
+      "link": "https://www.poder360.com.br/poder-internacional/saiba-quem-e-a-cantora-iraniana-que-recebeu-74-chibatadas/",
+      "date": "2026-11-24T17:34:20.000Z",
+      "summary": "Parastoo Ahmadi foi punida por se apresentar sem hijab; artista ficou conhecida por participar de protestos contra o regime",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Saiba o que muda com o ajuste fiscal aprovado pelo Congresso",
+      "link": "https://www.poder360.com.br/poder-congresso/saiba-o-que-muda-com-o-ajuste-fiscal-aprovado-pelo-congresso/",
+      "date": "2026-11-24T17:31:56.000Z",
+      "summary": "Pacote limita crescimento real de gastos, corta benefícios tributários e cria novos gatilhos para cumprir meta de 2027",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Julgamento na Itália sobre extradição de Zambelli tem novo adiamento",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/julgamento-na-italia-sobre-extradicao-de-zambelli-tem-novo-adiamento.shtml",
+      "date": "2026-11-24T17:31:00.000Z",
+      "summary": "O julgamento na Itália do segundo pedido de extradição da ex-deputada Carla Zambelli (PL-SP) foi adiado novamente nesta terça-feira (24), devido a uma greve nacional de advogados penalistas. Uma nova audiência foi marcada para 2 de fevereiro de 2027 na Corte d",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Bolsonaro apresenta “melhora clínica discreta”, diz boletim",
+      "link": "https://www.poder360.com.br/poder-saude/bolsonaro-apresenta-melhora-clinica-discreta-diz-boletim/",
+      "date": "2026-11-24T17:28:30.000Z",
+      "summary": "O ex-presidente foi diagnosticado com abdômen agudo obstrutivo e pneumonia; está internado desde 6ª feira (20.nov)",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "É #FAKE que vídeo de descarte de cebolas na Bahia tenha a ver com alta de preços em 2026; cena há dois anos",
+      "link": "https://g1.globo.com/fato-ou-fake/noticia/2026/11/24/e-fake-que-video-de-descarte-de-cebolas-na-bahia-tenha-a-ver-com-alta-de-precos-em-2026-cena-ha-dois-anos.ghtml",
+      "date": "2026-11-24T17:27:24.000Z",
+      "summary": "É #FAKE que vídeo de descarte de cebolas na Bahia tenha a ver com alta de preços em 2026; cena ocorreu em 2024 Reprodução Circula nas redes sociais um vídeo que supostamente mostra um recente descarte de 17 mil sacos de cebolas na Bahia. As legendas alegam que",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Projeto proíbe propaganda eleitoral em perfis de candidatos com mais de 100 mil seguidores",
+      "link": "https://www.camara.leg.br/noticias/1321660-projeto-proibe-propaganda-eleitoral-em-perfis-de-candidatos-com-mais-de-100-mil-seguidores",
+      "date": "2026-11-24T17:23:00.000Z",
+      "summary": "Proposta está em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Meta e TikTok se unem ao Google contra mudanças na lei de direitos autorais da Indonésia sobre IA",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/meta-e-tiktok-se-unem-ao-google-contra-mudancas-na-lei-de-direitos-autorais-da-indonesia-sobre-ia.shtml",
+      "date": "2026-11-24T17:22:00.000Z",
+      "summary": "As plataformas digitais Meta e TikTok se uniram ao Google nesta terça-feira (24) para contestar mudanças propostas na lei de direitos autorais da Indonésia. A revisão obrigaria plataformas digitais a pagar empresas de comunicação pela exibição de conteúdo jorn",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Como a metodologia definida para a PF montar relatórios do caso Master pode eximir ministros do STF",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/como-a-metodologia-definida-para-a-pf-montar-relatorios-do-caso-master-pode-eximir-ministros-do-stf/",
+      "date": "2026-11-24T17:20:12.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Projeto fixa regras de transparência para gastos do governo com publicidade digital",
+      "link": "https://www.camara.leg.br/noticias/1313444-projeto-fixa-regras-de-transparencia-para-gastos-do-governo-com-publicidade-digital",
+      "date": "2026-11-24T17:11:00.000Z",
+      "summary": "Texto está em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Instituições e autoridades lamentam a morte do jurista Fábio Konder Comparato",
+      "link": "https://www.estadao.com.br/politica/instituicoes-e-politicos-lamentam-a-morte-do-jurista-fabio-konder-comparato-nprp/",
+      "date": "2026-11-24T17:06:35.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Normas para descarte de armas são aprovadas em primeiro turno na CMA",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/24/normas-para-descarte-de-armas-sao-aprovadas-em-primeiro-turno-na-cma",
+      "date": "2026-11-24T17:03:28.000Z",
+      "summary": "A Comissão de Meio Ambiente (CMA) aprovou nesta terça-feira (24), em primeiro turno, projeto que estabelece normas gerais para controle, descarte e destinação final ambientalmente adequada de produtos controlados no país, como armas. Aprovado na forma de um te",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Milei foi desconvidado para posse de Lula, diz jornal argentino",
+      "link": "https://g1.globo.com/mundo/noticia/2026/11/24/milei-desconvidado-posse-lula-diz-jornal.ghtml",
+      "date": "2026-11-24T17:02:51.000Z",
+      "summary": "Milei e Lula REUTERS/Tierney L. Cross e REUTERS/Diego Vara O presidente da Argentina, Javier Milei, foi desconvidado para a posse de Lula, afirmou nesta terça-feira (24) o jornal argentino \"Clarín\". O presidente brasileiro assumirá em janeiro seu 4º mandato pr",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Ao vivo: Comissão de Finanças da Câmara discute a CBS",
+      "link": "https://www.poder360.com.br/poder-congresso/ao-vivo-comissao-de-financas-da-camara-discute-a-cbs/",
+      "date": "2026-11-24T17:00:23.000Z",
+      "summary": "Alíquota foi fixada em 11,3%; ministro Dario Durigan espera definição nas próximas duas semanas",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Justiça italiana adia para fevereiro reavaliação do pedido de extradição de Carla Zambelli",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/24/justica-italiana-adia-para-fevereiro-reavaliacao-do-pedido-de-extradicao-de-carla-zambelli.ghtml",
+      "date": "2026-11-24T16:55:13.000Z",
+      "summary": "Foto de arquivo de 15/05/2025 da deputada federal Carla Zambelli (PL-SP) durante uma coletiva de imprensa na sede de seu partido no bairro de Moema, na zona sul da cidade de São Paulo. Felipe Rau/Estadão Conteúdo A Justiça da Itália adiou para fevereiro de 202",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Fachin determina que liquidantes do Master e BC se manifestem sobre pedido do BRB por recursos",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/fachin-determina-que-liquidantes-do-master-e-bc-se-manifestem-sobre-pedido-do-brb-por-recursos.shtml",
+      "date": "2026-11-24T16:53:00.000Z",
+      "summary": "O presidente do STF (Supremo Tribunal Federal), Edson Fachin, determinou na segunda-feira (23) que os liquidantes do Banco Master e o Banco Central se manifestem, com urgência, sobre o pedido do BRB (Banco de Brasília) por desbloqueio de recursos retidos na in",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Fachin determina que liquidantes do Master e BC se manifestem sobre pedido do BRB por recursos",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/fachin-determina-que-liquidantes-do-master-e-bc-se-manifestem-sobre-pedido-do-brb-por-recursos.shtml",
+      "date": "2026-11-24T16:53:00.000Z",
+      "summary": "O presidente do STF (Supremo Tribunal Federal), Edson Fachin, determinou na segunda-feira (23) que os liquidantes do Banco Master e o Banco Central se manifestem, com urgência, sobre o pedido do BRB (Banco de Brasília) por desbloqueio de recursos retidos na in",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "WhatsApp começa a liberar figurinhas com som; veja como funciona",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/24/whatsapp-comeca-a-liberar-figurinhas-com-som.ghtml",
+      "date": "2026-11-24T16:51:24.000Z",
+      "summary": "WhatsApp começa a liberar figurinhas com som Reuters/Reprodução Usuários do WhatsApp notaram nesta terça-feira (24) que figurinhas com som começaram a aparecer nas conversas do app de mensagens. A novidade ficou entre os assuntos mais comentados na rede social",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "PCC foca em rotas do tráfico a partir do Sudeste e CV aposta no controle do território no Norte e Nordeste, mostra estudo da Abin",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/24/pcc-cv-estudo-abin-forum-brasileiro-seguranca-publica.ghtml",
+      "date": "2026-11-24T16:50:43.000Z",
+      "summary": "Um estudo da Agência Brasileira de Inteligência (Abin) em parceria com o Fórum Brasileiro de Segurança Pública (FBSP) mostra que as duas maiores facções criminosas do Brasil adotam estratégias diferentes para expandir seus negócios ilícitos. Enquanto o Primeir",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Fachin manda liquidante do Master avaliar desbloqueio de recursos do BRB",
+      "link": "https://www.estadao.com.br/economia/fachin-liquidante-master-avaliar-desbloqueio-recursos-brb/",
+      "date": "2026-11-24T16:50:34.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Governo Trump deve anunciar tarifas sobre China, UE e outros países, diz jornal",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/governo-trump-deve-anunciar-tarifas-sobre-china-ue-e-outros-paises-diz-jornal.shtml",
+      "date": "2026-11-24T16:47:00.000Z",
+      "summary": "O governo Donald Trump prepara um aumento de tarifas sobre a China, a União Europeia e dezenas de outros países com base em uma investigação sobre nações que concedem subsídios para a indústria e que prejudicam os EUA na competição. Leia mais (11/24/2026 - 13h",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "'Ninguém vai morrer se fechar um dia', diz ministro sobre fim da escala 6x1",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/24/ninguem-vai-morrer-se-fechar-um-dia-diz-ministro-sobre-fim-da-escala-6x1.ghtml",
+      "date": "2026-11-24T16:43:39.000Z",
+      "summary": "O ministro do Trabalho, Luiz Marinho, em audiência pública na Comissão de Direitos Humanos do Senado Geraldo Magela/Agência Senado O ministro do Trabalho, Luiz Marinho, afirmou nesta terça-feira (24) que \"ninguém vai morrer se fechar um dia\", ao ser questionad",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "CSP aprova relatório sobre programa de proteção a testemunhas",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/24/csp-aprova-relatorio-sobre-programa-de-protecao-a-testemunhas",
+      "date": "2026-11-24T16:42:02.000Z",
+      "summary": "A Comissão de Segurança Pública do Senado (CSP) aprovou nesta terça-feira (24) um relatório que recomenda acompanhar a segurança de vítimas e testemunhas mesmo depois que elas deixam o programa de proteção. O documento também propõe autorizar essas pessoas a t",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Equipe econômica tem aval de Lula e trabalha para enviar PEC do ajuste fiscal até a próxima semana",
+      "link": "https://www.estadao.com.br/economia/equipe-economica-aval-lula-pec-ajuste-fiscal/",
+      "date": "2026-11-24T16:33:51.000Z",
+      "summary": "",
+      "source": "Estadão",
       "cat": "economia",
       "type": "imprensa"
     },
@@ -159,58 +420,13 @@
       "type": "imprensa"
     },
     {
-      "title": "Rússia planeja colocar arma nuclear em órbita, diz jornal alemão",
-      "link": "https://www.poder360.com.br/poder-internacional/russia-planeja-colocar-arma-nuclear-em-orbita-diz-jornal-alemao/",
-      "date": "2026-11-24T16:31:44.000Z",
-      "summary": "Serviços de inteligência ocidentais alertaram países da Otan sobre possível plano para colocar explosivo nuclear em órbita",
-      "source": "Poder360",
+      "title": "Projeto proíbe destruição de bens e lavouras em fiscalização rural",
+      "link": "https://www.camara.leg.br/noticias/1313861-projeto-proibe-destruicao-de-bens-e-lavouras-em-fiscalizacao-rural",
+      "date": "2026-11-24T16:03:00.000Z",
+      "summary": "A proposta está em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Mendonça libera de prisão preventiva investigados no caso das fraudes do INSS",
-      "link": "https://www.estadao.com.br/politica/mendonca-libera-de-prisao-preventiva-investigados-no-caso-das-fraudes-do-inss-nprp/",
-      "date": "2026-11-24T16:10:32.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Marinho critica “chororô” de empresas sobre fim da escala 6 X 1",
-      "link": "https://www.poder360.com.br/poder-governo/marinho-critica-chororo-de-empresas-sobre-fim-da-escala-6-x-1/",
-      "date": "2026-11-24T16:09:05.000Z",
-      "summary": "Ministro do Trabalho diz que regras para jornadas especiais devem ser publicadas até o fim da próxima semana",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Luiz Marinho diz que não falou com Lula sobre continuar no governo",
-      "link": "https://www.poder360.com.br/poder-governo/luiz-marinho-diz-que-nao-falou-com-lula-sobre-continuar-no-governo/",
-      "date": "2026-11-24T16:04:12.000Z",
-      "summary": "\"A Europa fecha aos domingos e feriados, e nunca soube de ninguém que morreu por isso”, disse o ministro do Trabalho e Emprego sobre fim da 6 X 1",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Márcio Elias Rosa é o mais cotado para assumir Defesa no Lula 4",
-      "link": "https://www.poder360.com.br/poder-governo/marcio-elias-rosa-e-o-mais-cotado-para-assumir-defesa-no-lula-4/",
-      "date": "2026-11-24T16:03:52.000Z",
-      "summary": "O ministro José Múcio, 78 anos, já disse ao presidente que deseja sair; a atual secretária-geral, Cinara Wagner Fredo, também é considerada",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Defesa de Carla Zambelli pede ao STF abatimento de pena",
-      "link": "https://www.estadao.com.br/politica/defesa-de-carla-zambelli-pede-ao-stf-abatimento-de-pena-nprp/",
-      "date": "2026-11-24T16:03:23.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
+      "type": "oficial"
     },
     {
       "title": "Programa do governo de SP destina R$ 20 milhões do crime organizado para investimentos em segurança",
@@ -219,24 +435,6 @@
       "summary": "Um programa de recuperação de ativos do governo de São Paulo destinou R$ 20,2 milhões às polícias Civil, Militar e Técnico-Científica desde sua criação, em 2024. Leia mais (11/24/2026 - 13h00)",
       "source": "Folha",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Investigadores veem lacunas e alcance limitado em relatórios da PF sobre relação do STF com Master",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/investigadores-veem-lacunas-e-alcance-limitado-em-relatorios-da-pf-sobre-relacao-do-stf-com-master.shtml",
-      "date": "2026-11-24T16:00:00.000Z",
-      "summary": "Equipes responsáveis pela análise dos relatórios da Polícia Federal sobre as menções a ministros do STF (Supremo Tribunal Federal) em mensagens encontradas nos celulares de Daniel Vorcaro, ex-dono do Banco Master, avaliam que o material tem alcance limitado e ",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Aneel propõe variar preço da energia conforme horário do dia e pode frear expansão de painéis solares",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/economia-sustentavel/2026/11/aneel-propoe-variar-preco-da-energia-conforme-horario-do-dia-e-pode-frear-expansao-de-paineis-solares.shtml",
-      "date": "2026-11-24T16:00:00.000Z",
-      "summary": "A Aneel (Agência Nacional de Energia Elétrica) apresentou no começo de novembro uma proposta para alterar como a energia elétrica é cobrada de parte dos brasileiros. A ideia é adotar uma tarifa que varie conforme o horário do dia e enquadrar alguns consumidore",
-      "source": "Folha",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -249,237 +447,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Projeto garante salário 25% maior para professor com ensino superior",
-      "link": "https://www.camara.leg.br/noticias/1313229-projeto-garante-salario-25-maior-para-professor-com-ensino-superior",
-      "date": "2026-11-24T15:56:00.000Z",
-      "summary": "Proposta está em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Ex-superintendente do Cade diz que PL das big techs amplia insegurança jurídica, eleva custos e afeta usuário no Brasil",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/ex-superintendente-do-cade-diz-que-pl-das-big-techs-amplia-inseguranca-juridica-eleva-custos-e-afeta-usuario-no-brasil.shtml",
-      "date": "2026-11-24T15:56:00.000Z",
-      "summary": "O ex-superintendente geral do Cade (Conselho Administrativo de Defesa Econômica), Carlos Ragazzo, afirmou que o PL dos Mercados Digitais não apresenta critérios claros que justifiquem uma intervenção no mercado e ainda pode ampliar a insegurança jurídica, afet",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Lula presta homenagem a Fábio Konder Comparato: ‘Intelectual comprometido com as causas do povo’",
-      "link": "https://www.estadao.com.br/politica/lula-presta-homenagem-a-fabio-konder-comparato-intelectual-comprometido-com-as-causas-do-povo/",
-      "date": "2026-11-24T15:55:34.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Projeto fixa em 15 anos prazo de vigência para patentes de medicamentos",
-      "link": "https://www.camara.leg.br/noticias/1314031-projeto-fixa-em-15-anos-prazo-de-vigencia-para-patentes-de-medicamentos",
-      "date": "2026-11-24T15:49:00.000Z",
-      "summary": "O texto está em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "CMA aprova mudança na cobrança da Taxa de Controle e Fiscalização Ambiental",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/24/cma-aprova-mudanca-na-cobranca-da-taxa-de-controle-e-fiscalizacao-ambiental",
-      "date": "2026-11-24T15:35:30.000Z",
-      "summary": "A Comissão de Meio Ambiente (CMA) aprovou nesta terça-feira (24) texto alternativo à proposta que modifica a forma de cobrança da Taxa de Controle e Fiscalização Ambiental (TCFA). O substitutivo acatado permite que a empresa escolha entre o cálculo individuali",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "De olho no 13º, distribuidoras renegociam dívidas de conta de luz com clientes",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/de-olho-no-13o-empresas-renegociam-dividas-de-conta-de-luz-com-clientes.shtml",
-      "date": "2026-11-24T15:30:00.000Z",
-      "summary": "Diante da alta da inadimplência e da entrada de dinheiro extra no fim do ano com o pagamento do 13º salário aos trabalhadores, as distribuidoras de energia elétrica promovem ações de renegociação de dívidas, com a oferta de condições especiais para que os cons",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Relatórios da PF têm citações a Moraes, Nunes e Tofolli, mas deixam de fora diálogos e documentos que poderiam indicar conexão com Vorcaro",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/24/relatorios-da-pf-tem-citacoes-a-moraes-nunes-e-tofolli-mas-deixam-de-fora-dialogos-e-documentos-que-poderiam-indicar-conexao-com-vorcaro.ghtml",
-      "date": "2026-11-24T15:22:40.000Z",
-      "summary": "Daniel Vorcaro Divulgação A Polícia Federal (PF) usou apenas menções literais a ministros do Supremo Tribunal Federal (STF) nos relatórios produzidos pela corporação sobre as relações com Daniel Vorcaro. Os investigadores utilizaram como critério central a bus",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "CMA aprova repasse de multas ambientais a municípios; projeto vai à CCJ",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/24/cma-aprova-repasse-de-multas-ambientais-a-municipios-projeto-vai-a-ccj",
-      "date": "2026-11-24T15:13:41.000Z",
-      "summary": "A Comissão de Meio Ambiente do Senado (CMA) aprovou nesta terça-feira (24) um texto alternativo ao projeto que destinava aos fundos municipais de meio ambiente 50% do valor arrecadado com multas por infração ambiental (PL 5.142/2019). O novo texto reduziu o pe",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Conservadores cristãos e classe D e E somam quase metade do eleitorado brasileiro, diz Quaest",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/24/segmentos-identitarios-quaest-2026.ghtml",
-      "date": "2026-11-24T15:10:44.000Z",
-      "summary": "Passageiros na Rodoviária do Plano Piloto de Brasília Fabio Rodrigues-Pozzebom/ Agência Brasil Pesquisa Quaest divulgada nesta terça-feira (24) aponta que quase metade do eleitorado brasileiro (47%) é formada por conservadores cristãos e por pessoas da classe ",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Fim da escala 6x1: Marinho diz que ‘ninguém vai morrer’ se comércio não abrir todos os dias",
-      "link": "https://www.estadao.com.br/economia/fim-escala-6x1-marinho-ninguem-vai-morrer-comercio-nao-abrir-todos-os-dias/",
-      "date": "2026-11-24T15:07:38.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Delação de ‘King’ cita propina mensal de R$ 20 milhões para nº 2 da Fazenda no ‘fura-fila’ do ICMS",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/delacao-de-king-cita-propina-mensal-de-r-20-milhoes-para-n-2-da-fazenda-no-fura-fila-do-icms/",
-      "date": "2026-11-24T15:05:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "EUA preparam aumento de tarifas contra China, União Europeia e outras economias",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/24/eua-tarifas.ghtml",
-      "date": "2026-11-24T15:03:32.000Z",
-      "summary": "O presidente Donald Trump se reúne com o presidente chinês Xi Jinping e o presidente russo Vladimir Putin na Vila Kylin em Shenzhen, na província de Guangdong, no sul da China, na quinta-feira, 19 de novembro de 2026 Mark Schiefelbein/AP Os Estados Unidos se p",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Kassio volta atuar no caso Master após ser sorteado relator de pedido de Vorcaro contra Fachin",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/kassio-volta-ao-caso-master-apos-ser-sorteado-relator-de-pedido-de-vorcaro-contra-fachin.shtml",
-      "date": "2026-11-24T15:03:00.000Z",
-      "summary": "O ministro Kassio Nunes Marques, do STF (Supremo Tribunal Federal), foi sorteado relator do pedido da defesa de Daniel Vorcaro contra a atuação do presidente da corte, Edson Fachin, no caso do Banco Master. Com isso, o magistrado volta a julgar processos relac",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Ana Paula Vescovi: ‘O Brasil tem tudo que o mundo precisa nessa nova geoeconomia’; veja vídeo",
       "link": "https://www.estadao.com.br/economia/ana-paula-vescovi-o-brasil-tem-tudo-que-o-mundo-precisa-nessa-nova-geoeconomia-veja-video/",
       "date": "2026-11-24T15:00:06.000Z",
       "summary": "",
       "source": "Estadão",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Ações contra o Banco Master movidas por pessoas físicas somam R$ 4 bilhões",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/acoes-contra-o-banco-master-movidos-por-pessoas-fisicas-somam-r-4-bilhoes.shtml",
-      "date": "2026-11-24T15:00:00.000Z",
-      "summary": "Além de todo o custo já contabilizado em decorrência da quebra do Banco Master, a liquidação extrajudicial da instituição financeira ainda coloca em dúvida o recebimento de valores que são alvos de 73.190 processos judiciais em aberto movidos por pessoas físic",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Viagens, cartão de crédito, importações: alta do dólar já começa a pesar no bolso dos brasileiros",
-      "link": "https://www.estadao.com.br/economia/alta-dolar-consequencias-bolso-brasileiros/",
-      "date": "2026-11-24T15:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Vai a Plenário Estatuto dos Cães e Gatos",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/24/vai-a-plenario-estatuto-dos-caes-e-gatos",
-      "date": "2026-11-24T14:54:49.000Z",
-      "summary": "Projeto de lei que cria o Estatuto dos Cães e Gatos foi aprovado nesta terça-feira (24) na Comissão de Meio Ambiente (CMA). O PL 6.191/2025, que cria uma legislação nacional específica para proteger esses animais, segue a Plenário com urgência. O projeto recon",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Comissão especial debate redução da maioridade penal",
-      "link": "https://www.camara.leg.br/noticias/1321906-comissao-especial-debate-reducao-da-maioridade-penal",
-      "date": "2026-11-24T14:48:00.000Z",
-      "summary": "",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Volkswagen negocia com trabalhadores sob ameaça de greve na Alemanha",
-      "link": "https://g1.globo.com/carros/noticia/2026/11/24/volkswagen-negocia-com-trabalhadores-sob-ameaca-de-greve-na-alemanha.ghtml",
-      "date": "2026-11-24T14:24:27.000Z",
-      "summary": "Volkswagen Logo REUTERS/Suzanne Plunkett A Volkswagen iniciou nesta terça-feira (24) uma rodada de negociações salariais com representantes dos trabalhadores, em meio à crescente insatisfação dos funcionários com os cortes de custos promovidos pela montadora n",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "CDR elege Jorge Seif como vice-presidente",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/24/cdr-elege-jorge-seif-como-vice-presidente",
-      "date": "2026-11-24T14:18:43.000Z",
-      "summary": "Em reunião nesta terça-feira (24), a Comissão de Desenvolvimento Regional e Turismo do Senado (CDR) elegeu Jorge Seif (PL-SC) como vice-presidente do colegiado. Foi a única candidatura registrada para o cargo. A votação se deu em virtude do retorno dele ao man",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Tipificação de crime de tráfico de animais silvestres vai a Plenário",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/24/tipificacao-de-crime-de-trafico-de-animais-silvestres-vai-a-plenario",
-      "date": "2026-11-24T14:13:19.000Z",
-      "summary": "A Comissão de Meio Ambiente (CMA) aprovou nesta terça-feira (24) projeto que tipifica o crime de tráfico de animais silvestres e aumenta penas para condutas como a comercialização dessas espécies. A matéria vai a Plenário com urgência. O PL 5.809/2025 acrescen",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Semana Nacional de Conscientização sobre Resíduos Eletroeletrônicos vai à sanção",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/24/semana-nacional-de-conscientizacao-sobre-residuos-eletroeletronicos-vai-a-sancao",
-      "date": "2026-11-24T14:12:40.000Z",
-      "summary": "A Comissão de Meio Ambiente do Senado (CMA) aprovou nesta terça-feira (24) o projeto de lei que cria a Semana Nacional de Conscientização sobre Resíduos Eletroeletrônicos (PL 2.238/2021). Como o texto foi aprovado em decisão terminativa, a matéria segue direta",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Arrecadação federal avança para R$ 294 bilhões em outubro, novo recorde para o mês",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/24/arrecadacao-federal-avanca-para-r-294-bilhoes-em-outubro-novo-recorde-para-o-mes.ghtml",
-      "date": "2026-11-24T14:00:01.000Z",
-      "summary": "A arrecadação do governo federal com impostos, contribuições e demais receitas somou R$ 294 bilhões em outubro deste ano, informou nesta terça-feira (24) a Receita Federal. O resultado representa um aumento real de 7,3% na comparação com o mesmo mês do ano pas",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Comissão debate influência de facções criminosas nas eleições",
-      "link": "https://www.camara.leg.br/noticias/1321283-comissao-debate-influencia-de-faccoes-criminosas-nas-eleicoes",
-      "date": "2026-11-24T13:21:00.000Z",
-      "summary": "",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Volta de Huang levanta dúvidas sobre independência do conselho da Nvidia, dizem críticos",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/24/volta-de-huang-levanta-duvidas-sobre-independencia-do-conselho-da-nvidia.ghtml",
-      "date": "2026-11-24T13:19:05.000Z",
-      "summary": "Nvidia anuncia volta de Jensen Huang ao comando da empresa A decisão do conselho da Nvidia de reintegrar o presidente-executivo Jensen Huang antes da conclusão das investigações sobre sua conduta levantou dúvidas sobre a independência do colegiado, segundo inv",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Em busca de alternativas para o STF, Lula pode analisar Tebet e nomes de ministras do STM e do STJ para vaga de Barroso",
-      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/24/em-busca-de-alternativas-para-o-stf-lula-pode-analisar-tebet-e-nomes-de-ministras-do-stm-e-do-stj-para-vaga-de-barroso.ghtml",
-      "date": "2026-11-24T12:59:25.000Z",
-      "summary": "Depois do jantar com a cúpula do Congresso e ministros do Supremo Tribunal Federal, quando ficou convencido de que não há nenhuma possibilidade de reenviar o nome de Jorge Messias, o presidente Lula decidiu construir um nome alternativo para o STF. Nesta linha",
-      "source": "g1",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -501,30 +474,21 @@
       "type": "imprensa"
     },
     {
-      "title": "Audiência discute a criação da Comissão Nacional Indígena da Verdade",
-      "link": "https://www.camara.leg.br/noticias/1321051-audiencia-discute-a-criacao-da-comissao-nacional-indigena-da-verdade",
-      "date": "2026-11-24T12:12:00.000Z",
-      "summary": "Debate na Câmara está marcado para esta terça-feira (24), às 15h30, no plenário 12",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Comissão especial pode votar parecer sobre ampliação do limite de faturamento para o MEI",
-      "link": "https://www.camara.leg.br/noticias/1321031-comissao-especial-pode-votar-parecer-sobre-ampliacao-do-limite-de-faturamento-para-o-mei",
-      "date": "2026-11-24T12:07:00.000Z",
-      "summary": "",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
       "title": "Lula abriu arquivos de Bolsonaro, mas mantém sigilo sobre gastos e decisões do próprio mandato",
       "link": "https://www.bbc.com/portuguese/articles/cqdj1d3yd4pzo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-24T11:28:48.000Z",
       "summary": "Governo federal abriu documentos da gestão anterior e reviu decisões de sigilo, mas continua negando informações com base na proteção de dados pessoais e da segurança presidencial, incluindo gastos do cartão corporativo.",
       "source": "BBC News Brasil",
       "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Regulação de mercados digitais: a pressa não é aliada da concorrência",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/regulacao-de-mercados-digitais-a-pressa-nao-e-aliada-da-concorrencia/",
+      "date": "2026-11-24T10:50:26.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -564,12 +528,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Após visita de Putin, Tajiquistão se torna 4º país a deixar TPI após pressão dos EUA",
-      "link": "https://www.dw.com/pt-br/após-visita-de-putin-tajiquistão-se-torna-4º-país-a-deixar-tpi-após-pressão-dos-eua/a-80026824?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-23T22:49:00.000Z",
-      "summary": "País formalizou sua retirada do Tribunal Penal Internacional no mesmo dia em que recebeu presidente russo. Corte lamentou a decisão.",
-      "source": "DW Brasil",
-      "cat": "internacional",
+      "title": "Damares Alves pede a Fachin autorização para visitar Vorcaro na Papuda",
+      "link": "https://www.estadao.com.br/politica/damares-pede-a-fachin-autorizacao-para-visitar-vorcaro-na-papuda-nprp/",
+      "date": "2026-11-24T00:23:16.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -577,6 +541,15 @@
       "link": "https://www.dw.com/pt-br/os-sinais-de-que-a-guerra-na-ucrânia-está-se-expandindo-no-mundo/a-80020412?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-23T20:46:00.000Z",
       "summary": "Ucrânia reivindicou ataque a navios russos na Líbia. Incidente é episódio mais recente de uma série de ocorrências que reforçam o temor de uma ampliação geográfica do conflito além das linhas de combate no leste europeu.",
+      "source": "DW Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "CVM suspende registro do BRB, envolvido no caso Master",
+      "link": "https://www.dw.com/pt-br/cvm-suspende-registro-do-brb-envolvido-no-caso-master/a-80026799?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-23T20:33:00.000Z",
+      "summary": "Autarquia puniu empresas que deixaram de divulgar informações obrigatórias ao mercado por mais de um ano. Banco de Brasília enfrenta investigações sobre operações com grupo de Daniel Vorcaro.",
       "source": "DW Brasil",
       "cat": "internacional",
       "type": "imprensa"
@@ -709,6 +682,7 @@
     }
   ],
   "errors": [
+    "IPCA 12m (SGS 13522): HTTP 304",
     "feed CNN Brasil: HTTP 404",
     "feed CNN Brasil: HTTP 404"
   ]
