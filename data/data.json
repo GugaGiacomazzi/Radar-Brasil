@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-24T10:35:18.073Z",
+  "updated": "2026-11-24T11:34:14.978Z",
   "market": {
     "ibov": {
       "price": 164796.05,
       "pct": -0.95,
-      "time": "2026-11-24T10:35:12.995Z",
+      "time": "2026-11-24T11:34:06.491Z",
       "history": [
         {
           "d": "2026-10-26",
@@ -137,10 +137,181 @@
   },
   "news": [
     {
-      "title": "Braskem anuncia acordo preliminar com credores sobre plano de reestruturação",
+      "title": "Comissão debate inclusão de gênero e raça na distribuição do Orçamento público",
+      "link": "https://www.camara.leg.br/noticias/1321844-comissao-debate-inclusao-de-genero-e-raca-na-distribuicao-do-orcamento-publico",
+      "date": "2026-11-24T11:29:00.000Z",
+      "summary": "O debate será às 10 horas, no plenário 2, e atende a pedido da deputada Denise Pessôa (PT-RS)",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Lula abriu arquivos de Bolsonaro, mas mantém sigilo sobre gastos e decisões do próprio mandato",
+      "link": "https://www.bbc.com/portuguese/articles/cqdj1d3yd4pzo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-24T11:28:48.000Z",
+      "summary": "Governo federal abriu documentos da gestão anterior e reviu decisões de sigilo, mas continua negando informações com base na proteção de dados pessoais e da segurança presidencial, incluindo gastos do cartão corporativo.",
+      "source": "BBC News Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Comissão debate regras para a formulação de combustíveis no Brasil e a atuação da agência reguladora",
+      "link": "https://www.camara.leg.br/noticias/1321683-comissao-debate-regras-para-a-formulacao-de-combustiveis-no-brasil-e-a-atuacao-da-agencia-reguladora",
+      "date": "2026-11-24T11:25:00.000Z",
+      "summary": "",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Bolsas de Taiwan, Japão e Coreia do Sul têm forte alta com volta de Huang",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/bolsas-de-taiwan-japao-e-coreia-do-sul-tem-forte-alta-com-volta-de-huang.shtml",
+      "date": "2026-11-24T11:25:00.000Z",
+      "summary": "As Bolsas de Taiwan, do Japão e da Coreia do Sul tiveram um dia de forte alta nesta terça-feira (24) com o retorno de Jensen Huang para comandar a Nvidia, anunciado na segunda-feira (23), mas que ocorreu quando os mercados da Ásia estavam fechados. Leia mais (",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Entenda o plano Moretti, o ajuste fiscal aprovado pela Câmara",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/24/entenda-o-plano-moretti-o-ajuste-fiscal-aprovado-pela-camara.ghtml",
+      "date": "2026-11-24T11:21:42.000Z",
+      "summary": "Câmara aprova projeto de ajuste fiscal; texto segue para sanção do presidente Lula A Câmara dos Deputados aprovou na segunda-feira (23/11) o pacto de medidas de ajuste fiscal proposto pelo governo federal. O projeto, que ficou conhecido como Plano Moretti e já",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Trump lucra até US$ 15 mi com alta da Nvidia após volta de CEO",
+      "link": "https://www.poder360.com.br/poder-internacional/trump-lucra-ate-us-15-mi-com-alta-da-nvidia-apos-volta-de-ceo/",
+      "date": "2026-11-24T11:21:30.000Z",
+      "summary": "Lucro, calculado pelo “Financial Times”, se baseia no valor máximo que o presidente dos EUA poderia deter em ações da empresa",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Comissão debate participação das mulheres na previdência complementar; participe",
+      "link": "https://www.camara.leg.br/noticias/1320986-comissao-debate-participacao-das-mulheres-na-previdencia-complementar-participe",
+      "date": "2026-11-24T11:20:00.000Z",
+      "summary": "Audiência pública será realizada nesta terça-feira (24), às 10 horas, com participação do público",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Comissão de Saúde debate roubos e furtos de canetas emagrecedoras",
+      "link": "https://www.camara.leg.br/noticias/1320979-comissao-de-saude-debate-roubos-e-furtos-de-canetas-emagrecedoras",
+      "date": "2026-11-24T11:16:00.000Z",
+      "summary": "Audiência pública discutirá impactos econômicos, sanitários e de segurança causados pelo mercado ilegal desses medicamentos",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "INSS paga 13º a novos aposentados e benefícios de novembro a partir desta terça (24); veja calendário e quem recebe",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/inss-paga-13o-a-novos-aposentados-e-beneficios-de-novembro-a-partir-desta-terca-24-veja-calendario-e-quem-recebe.shtml",
+      "date": "2026-11-24T11:14:00.000Z",
+      "summary": "O INSS (Instituto Nacional do Seguro Social) começou a pagar nesta terça-feira (24) o 13º a aposentados e pensionistas que tiveram o benefício concedido a partir de maio deste ano. O órgão também deposita aposentadorias, pensões e demais benefícios de novembro",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Comissão aprova proposta para monitorar movimentações bancárias de organizações criminosas",
+      "link": "https://www.camara.leg.br/noticias/1322009-comissao-aprova-proposta-para-monitorar-movimentacoes-bancarias-de-organizacoes-criminosas",
+      "date": "2026-11-24T11:11:00.000Z",
+      "summary": "Texto seguem em análise na Camara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "PF faz operação contra suspeitos de movimentarem R$ 4 bi em esquema com golpes e criptomoedas",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/pf-faz-operacao-contra-suspeitos-de-movimentarem-r-4-bi-em-esquema-com-golpes-e-criptomoedas.shtml",
+      "date": "2026-11-24T11:05:00.000Z",
+      "summary": "A Polícia Federal cumpre 72 mandados de busca e apreensão e dois de prisão temporária em três operações simultâneas contra um esquema suspeito de lavagem de dinheiro com movimentação ilegal de criptomoedas. Leia mais (11/24/2026 - 08h05)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Esquerda tem mais a oferecer ao governo do que briga com a Faria Lima",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/deborah-bizarria/2026/11/esquerda-tem-mais-a-oferecer-ao-governo-do-que-briga-com-a-faria-lima.shtml",
+      "date": "2026-11-24T11:00:00.000Z",
+      "summary": "No terceiro mandato de Lula, a dívida bruta do Brasil passou de 71,7% do PIB (Produto Interno Bruto) no fim de 2022 para 82,9% em 2026, e, se o país não mudar de rumo, pode chegar a 95,7% do PIB ao fim do próximo mandato, segundo a IFI (Instituição Fiscal Inde",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Imposto sobre a eletrificação",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/joisa-dutra/2026/11/imposto-sobre-a-eletrificacao.shtml",
+      "date": "2026-11-24T11:00:00.000Z",
+      "summary": "Poucas bandeiras são tão invocadas no setor elétrico quanto a necessidade de adotar \"sinais de preço\". Associações, empresas e governo usam-na para discutir desenho de leilões, novas regras de mercado e a contratação de baterias. Mas o pedido costuma esbarrar ",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Sem Parar explica: o que muda com a chegada do pedágio Free Flow à Anchieta-Imigrantes",
+      "link": "https://www.estadao.com.br/economia/sem-parar-explica-o-que-muda-com-a-chegada-do-pedagio-free-flow-a-anchieta-imigrantes/",
+      "date": "2026-11-24T11:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Fábio Konder Comparato defendeu perseguidos pela ditadura e atuou pelos direitos humanos",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/fabio-konder-comparato-defendeu-perseguidos-pela-ditadura-e-atuou-pelos-direitos-humanos.shtml",
+      "date": "2026-11-24T10:53:00.000Z",
+      "summary": "O advogado e professor emérito da Faculdade de Direito da USP (Universidade de São Paulo) Fábio Konder Comparato, morto na madrugada desta terça (24), atuou na defesa de presos políticos e perseguidos pela ditadura militar e foi referência na discussão polític",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Regulação de mercados digitais: a pressa não é aliada da concorrência",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/regulacao-de-mercados-digitais-a-pressa-nao-e-aliada-da-concorrencia/",
+      "date": "2026-11-24T10:50:26.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Braskem pede prorrogação de 20 dias para apresentar plano de recuperação extrajudicial",
+      "link": "https://www.estadao.com.br/economia/negocios/braskem-prorrogacao-apresentar-plano-recuperacao-extrajudicial/",
+      "date": "2026-11-24T10:49:17.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "De olho no Lula 4, Centrão garante vitória do ajuste fiscal, mas governo precisa dar segundo passo",
+      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/24/de-olho-no-lula-4-centrao-garante-vitoria-do-ajuste-fiscal-mas-governo-precisa-dar-um-segundo-passo.ghtml",
+      "date": "2026-11-24T10:48:38.000Z",
+      "summary": "Câmara aprova texto-base do pacote de ajuste fiscal do governo De olho na montagem dos ministérios do próximo governo Luiz Inácio Lula da Silva (PT), os partidos do Centrão ajudaram o presidente a obter uma vitória nesta segunda-feira (23) na Câmara dos Deputa",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "A intervenção de Trump que levou Jensen Huang de volta ao comando da Nvidia",
+      "link": "https://g1.globo.com/mundo/noticia/2026/11/24/a-intervencao-de-trump-que-levou-jensen-huang-de-volta-ao-comando-da-nvidia.ghtml",
+      "date": "2026-11-24T10:39:36.000Z",
+      "summary": "Jensen Huang volta à presidência da Nvidia Três acontecimentos surpreendentes marcaram o último dia em torno do retorno de Jensen Huang ao cargo de CEO da Nvidia, depois que ele admitiu ter tido um caso amoroso com uma mulher apontada como uma espiã chinesa. ✅",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Braskem anuncia acordo preliminar com credores sobre plano de reestruturação de dívidas",
       "link": "https://g1.globo.com/economia/noticia/2026/11/24/braskem-anuncia-acordo-preliminar-com-credores-sobre-plano-de-reestruturacao.ghtml",
       "date": "2026-11-24T10:21:00.000Z",
-      "summary": "Logo da Braskem no complexo de Triunfo REUTERS/Diego Vara A Braskem anunciou na noite de segunda-feira (23) que chegou a um acordo preliminar com credores sobre um plano de reestruturação de dívidas, conforme fato relevante. A petroquímica disse que está atual",
+      "summary": "Logo da Braskem no complexo de Triunfo REUTERS/Diego Vara A Braskem anunciou, na noite de segunda-feira (23), que chegou a um acordo preliminar com credores sobre os principais termos de um plano para reestruturar suas dívidas. A informação foi divulgada em co",
       "source": "g1",
       "cat": "economia",
       "type": "imprensa"
@@ -191,30 +362,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Governo Lula: leia a agenda de ministros do governo nesta 3ª feira",
-      "link": "https://www.poder360.com.br/poder-governo/governo-lula-leia-a-agenda-de-ministros-do-governo-nesta-3a-feira-17/",
-      "date": "2026-11-24T09:15:17.000Z",
-      "summary": "Luiz Marinho participa de entrevista sobre jornada de trabalho; André de Paula lança plano para mulheres do agro",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Política está se tornando um 'Game of 'Thrones' dos influenciadores, diz estrategista digital",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/politica-esta-se-tornando-um-game-of-thrones-dos-influenciadores-diz-estrategista-digital.shtml",
       "date": "2026-11-24T09:00:00.000Z",
       "summary": "Envolvido com diversas campanhas para o Legislativo neste ano, o estrategista digital Alan Bueno afirma que os candidatos \"influenciadores\", grande fenômeno das eleições, estão assumindo o papel que sempre foi de dirigentes partidários. Leia mais (11/24/2026 -",
       "source": "Folha",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Concurso para professores em SP tem 5.000 vagas em 10 disciplinas; veja áreas e salários",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/concurso-para-professores-em-sp-tem-5000-vagas-em-10-disciplinas-veja-areas-e-salarios.shtml",
-      "date": "2026-11-24T09:00:00.000Z",
-      "summary": "A Secretaria da Educação do Estado de São Paulo (Seduc-SP) abre nesta quinta-feira (26) as inscrições para concurso público com 5.000 vagas efetivas para professores dos ensinos fundamental e médio. As oportunidades contemplam dez disciplinas e oferecem salári",
-      "source": "Folha",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -254,66 +407,12 @@
       "type": "imprensa"
     },
     {
-      "title": "LISTA: veja os 10 carros de até R$ 100 mil com os maiores porta-malas",
-      "link": "https://g1.globo.com/carros/noticia/2026/11/24/lista-veja-os-10-carros-de-ate-r-100-mil-com-os-maiores-porta-malas.ghtml",
-      "date": "2026-11-24T07:00:00.000Z",
-      "summary": "Lista de carros com maior porta-malas por até R$ 100 mil arte/g1 Carros que custam até R$ 100 mil costumam ser compactos e projetados para o uso urbano. Porém, esses modelos também precisam eventualmente ser usados nos fins de semana, viagens de feriados prolo",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Família gaúcha cria IA que 'degusta' vinhos e ajuda a desenvolver novas receitas",
-      "link": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/11/24/familia-gaucha-cria-ia-que-degusta-vinhos-e-ajuda-a-desenvolver-novas-receitas.ghtml",
-      "date": "2026-11-24T07:00:00.000Z",
-      "summary": "Família do RS desenvolve inteligência artificial que 'degusta' vinho e cria novas receitas Já pensou em tomar um vinho desenvolvido com a ajuda de inteligência artificial? Em Três de Maio, no Rio Grande do Sul, a família Hilgert criou um algoritmo capaz de sug",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Juventude quer canal maior com governo e sucessor de Lula será o PT, diz secretária do partido",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/juventude-quer-canal-maior-com-governo-e-sucessor-de-lula-sera-o-pt-diz-secretaria-do-partido.shtml",
       "date": "2026-11-24T07:00:00.000Z",
       "summary": "Sob resistência de parte da velha guarda do PT, a cobrança interna por renovação do partido ganhou força a partir do sucesso de candidaturas mais jovens nas eleições deste ano. Para a secretária nacional de Juventude do PT, Julia Köpf, 29, o desempenho desses ",
       "source": "Folha",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Dificuldade de fazer valer leis contra racismo persiste 200 anos após tratado 'para inglês ver', dizem historiadores",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/dificuldade-de-fazer-valer-leis-contra-racismo-persiste-200-anos-apos-tratado-para-ingles-ver-dizem-historiadores.shtml",
-      "date": "2026-11-24T07:00:00.000Z",
-      "summary": "No século 19, o Brasil se comprometeu com o Reino Unido a acabar com o tráfico de africanos escravizados. Apesar do acordo, que era condição britânica para reconhecer a independência do país, o tráfico continuou ilegalmente, com a conivência de autoridades, po",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Inadimplência de empresas e famílias bate recorde e chega a R$ 371 bi, diz FecomercioSP",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/inadimplencia-de-empresas-e-familias-bate-recorde-e-chega-a-r-371-bi-diz-fecomerciosp.shtml",
-      "date": "2026-11-24T07:00:00.000Z",
-      "summary": "O volume de dívidas com mais de 90 dias de atraso de famílias e empresas brasileiras chegou a R$ 371,1 bilhões no terceiro trimestre de 2026, o maior valor da série histórica, iniciada em 2011. O montante representa uma alta de 26,7% em relação ao mesmo períod",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Confira tudo o que você precisa saber sobre o fim da escala 6x1",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/confira-tudo-o-que-voce-precisa-saber-sobre-o-fim-da-escala-6x1.shtml",
-      "date": "2026-11-24T07:00:00.000Z",
-      "summary": "O fim da escala 6x1 começa em 16 de dezembro deste ano, conforme prevê a emenda constitucional 141 e decisão do ministro Flávio Dino, do STF (Supremo Tribunal Federal). A partir desta data, os trabalhadores precisam ter a jornada reduzida de 44 horas semanais ",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Black Friday deve ter recorde de vendas mesmo com consumidor pressionado por dívidas, projeta CNC",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/black-friday-deve-ter-recorde-de-vendas-mesmo-com-consumidor-pressionado-por-dividas-projeta-cnc.shtml",
-      "date": "2026-11-24T07:00:00.000Z",
-      "summary": "Mesmo com um cenário de inadimplência recorde e alta taxa de juros, o consumo do brasileiro na Black Friday deve continuar forte e impulsionar as vendas a um patamar que não era registrado há 12 anos, segundo projeção da CNC (Confederação Nacional do Comércio ",
-      "source": "Folha",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -326,33 +425,6 @@
       "type": "oficial"
     },
     {
-      "title": "Base do governo defende ajuste fiscal; oposição critica impacto sobre empresas",
-      "link": "https://www.camara.leg.br/noticias/1322180-base-do-governo-defende-ajuste-fiscal-oposicao-critica-impacto-sobre-empresas",
-      "date": "2026-11-24T04:02:00.000Z",
-      "summary": "Projeto permite limitar despesas para cumprir metas de superávit primário a partir de 2027; parlamentares divergem sobre os efeitos da medida",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Projeto limita repasses da Lei Kandir e despesas com exportações e previdência",
-      "link": "https://www.camara.leg.br/noticias/1322175-projeto-limita-repasses-da-lei-kandir-e-despesas-com-exportacoes-e-previdencia",
-      "date": "2026-11-24T03:57:00.000Z",
-      "summary": "Texto também altera regras para incentivos da reforma tributária, seguro rural e restos a pagar",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "‘Market Friendly’: Equipe econômica sugere a Lula nomes para o BC que sejam amigáveis ao mercado",
-      "link": "https://www.estadao.com.br/economia/market-friendly-equipe-economica-sugere-a-lula-nomes-para-o-bc-que-sejam-amigaveis-ao-mercado/",
-      "date": "2026-11-24T03:54:17.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Após Câmara aprovar ajuste fiscal de Lula, Hugo Motta defende novas medidas ainda em 2026",
       "link": "https://g1.globo.com/politica/noticia/2026/11/24/apos-camara-aprovar-ajuste-de-lula-hugo-motta-defende-novas-medidas-fiscais-ainda-em-2026.ghtml",
       "date": "2026-11-24T03:49:09.000Z",
@@ -362,47 +434,11 @@
       "type": "imprensa"
     },
     {
-      "title": "Câmara aprova ajuste fiscal sem alterações; projeto segue para sanção presidencial",
-      "link": "https://www.camara.leg.br/noticias/1322152-camara-aprova-ajuste-fiscal-sem-alteracoes-projeto-segue-para-sancao-presidencial",
-      "date": "2026-11-24T03:46:00.000Z",
-      "summary": "Projeto permite ao governo limitar a execução de despesas para alcançar as metas de superávit primário a partir de 2027",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
       "title": "Entenda projeto de ajuste fiscal de até R$ 56 bilhões para governo Lula aprovado pela Câmara",
       "link": "https://g1.globo.com/politica/ao-vivo/ajuste-fiscal-camara-deputados.ghtml",
       "date": "2026-11-24T03:38:46.000Z",
       "summary": "Entenda projeto de ajuste fiscal de até R$ 56 bilhões para governo Lula aprovado pela Câmara Proposta foi aprovada no Senado na semana passada; texto projeta uma economia de até R$ 56 bilhões nas contas do governo federal em 2027. O relator da proposta na Câma",
       "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Ajuste fiscal de Lula teve Moretti como criador e principal articulador; ministro enfrentou resistência de ala governista",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/24/ajuste-fiscal-de-lula-teve-moretti-como-criador-e-principal-articulador-ministro-enfrentou-resistencia-de-ala-governista.ghtml",
-      "date": "2026-11-24T03:35:16.000Z",
-      "summary": "Câmara aprova texto-base do pacote de ajuste fiscal do governo O ministro do Planejamento e Orçamento, Bruno Moretti, foi o principal formulador e também o principal negociador do governo para aprovar o projeto de ajuste fiscal do governo do presidente Luiz In",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Entenda projeto de ajuste fiscal de até R$ 56 bilhões para governo Lula aprovado pela Câmara",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/24/entenda-projeto-de-ajuste-fiscal-de-ate-r-56-bilhoes-para-governo-lula-aprovado-pela-camara.ghtml",
-      "date": "2026-11-24T03:35:06.000Z",
-      "summary": "Câmara aprova texto-base do pacote de ajuste fiscal do governo A Câmara dos Deputados aprovou nesta segunda-feira (23) o projeto de lei que realiza um ajuste fiscal nas contas públicas para que seja possível cumprir a meta do orçamento de 2027. O Senado Federa",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Centrão adere ao ajuste fiscal de Lula com expectativa por ministérios e emendas",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/centrao-adere-ao-ajuste-fiscal-de-lula-com-expectativa-por-ministerios-e-emendas.shtml",
-      "date": "2026-11-24T03:04:00.000Z",
-      "summary": "À espera da definição dos ministérios do governo Lula 4 (PT), os partidos do centrão apoiaram de forma maciça o ajuste fiscal proposto pelo ministro do Planejamento e Orçamento, Bruno Moretti. As medidas vão cortar incentivos fiscais, dificultar o uso de crédi",
-      "source": "Folha",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -425,33 +461,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Veja como votou cada deputado no projeto de ajuste fiscal do governo Lula",
-      "link": "https://www.estadao.com.br/economia/veja-como-votou-cada-deputado-no-projeto-de-ajuste-fiscal-do-governo-lula/",
-      "date": "2026-11-24T01:56:18.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Câmara aprova texto-base do projeto de ajuste fiscal; acompanhe",
-      "link": "https://www.camara.leg.br/noticias/1322146-camara-aprova-texto-base-do-projeto-de-ajuste-fiscal-acompanhe",
-      "date": "2026-11-24T01:41:00.000Z",
-      "summary": "",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Fachin suspende decisão do STJ que impedia repasse de auxílio emergencial às famílias de Brumadinho",
-      "link": "https://www.estadao.com.br/politica/fachin-suspende-decisao-do-stj-que-impedia-repasse-de-auxilio-emergencial-as-familias-de-brumadinho-nprp/",
-      "date": "2026-11-24T01:01:24.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Sete cidades irão escolher novos prefeitos em dezembro",
       "link": "https://www.estadao.com.br/politica/sete-cidades-irao-escolher-novos-prefeitos-em-dezembro-nprp/",
       "date": "2026-11-24T00:24:01.000Z",
@@ -459,15 +468,6 @@
       "source": "Estadão",
       "cat": "politica",
       "type": "imprensa"
-    },
-    {
-      "title": "Relator defende ajuste fiscal e garante proteção a benefícios sociais",
-      "link": "https://www.camara.leg.br/noticias/1322102-relator-defende-ajuste-fiscal-e-garante-protecao-a-beneficios-sociais",
-      "date": "2026-11-23T23:46:00.000Z",
-      "summary": "Deputado Mauro Benevides Filho apresentou parecer favorável ao PLP 299/26 e disse que Bolsa Família e BPC estão preservados",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
     },
     {
       "title": "Após visita de Puti, Tajiquistão se torna 4º país a deixar TPI após pressão dos EUA",
@@ -573,15 +573,6 @@
       "link": "https://www.bbc.com/portuguese/articles/c6gre2771yr8o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-23T10:54:26.000Z",
       "summary": "Há 200 anos, em 23 de novembro de 1826, os governos britânico e brasileiro assinaram um acordo que estipulava o fim do tráfico transatlântico de africanos escravizados para o Brasil; mas, na prática, nada mudou.",
-      "source": "BBC News Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "O que os homens mais ricos da Rússia esperam para o futuro sem Putin",
-      "link": "https://www.bbc.com/portuguese/articles/cmkgdx1w0dero?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-22T23:32:59.000Z",
-      "summary": "Silenciados pelo temor de represálias do Kremlin, integrantes da elite empresarial começam a imaginar como será o país quando o atual presidente deixar o poder.",
       "source": "BBC News Brasil",
       "cat": "internacional",
       "type": "imprensa"
