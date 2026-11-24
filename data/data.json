@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-24T05:38:33.976Z",
+  "updated": "2026-11-24T06:39:01.799Z",
   "market": {
     "ibov": {
       "price": 164796.05,
       "pct": -0.95,
-      "time": "2026-11-24T05:38:20.253Z",
+      "time": "2026-11-24T06:38:56.794Z",
       "history": [
         {
           "d": "2026-10-26",
@@ -136,6 +136,24 @@
     ]
   },
   "news": [
+    {
+      "title": "Tesla e SpaceX negociam fusão de R$ 20,8 trilhões até o fim do ano, diz jornal",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/24/tesla-e-spacex-negociam-fusao-ate-o-fim-do-ano.ghtml",
+      "date": "2026-11-24T06:23:17.000Z",
+      "summary": "Musk, Spacex e Tesla REUTERS/Evan Vucci e REUTERS/Dado Ruvic/Ilustração A Tesla e a SpaceX, empresas do bilionário Elon Musk, avançam nas negociações para uma possível fusão de US$ 3,5 trilhões (cerca de R$ 20,8 trilhões), que seria a maior da história. As com",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Black Friday: saiba como identificar sites e anúncios falsos para não cair em golpes; VÍDEO",
+      "link": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/11/24/black-friday-saiba-como-identificar-sites-e-anuncios-falsos-para-nao-cair-em-golpes-video.ghtml",
+      "date": "2026-11-24T06:00:00.000Z",
+      "summary": "Como identificar sites e anúncios falsos e evitar golpes nas compras online Você encontra o produto que tanto queria pela metade do preço, mas o anúncio diz que a oferta acaba em 30 segundos. Você arriscaria? Antes de pagar, vale conferir se você está mesmo no",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
     {
       "title": "Motta exalta Centrão após ajuste fiscal: “Fiel para a governabilidade”",
       "link": "https://www.poder360.com.br/poder-congresso/motta-exalta-centrao-apos-ajuste-fiscal-fiel-para-a-governabilidade/",
@@ -285,15 +303,6 @@
       "link": "https://g1.globo.com/economia/noticia/2026/11/24/dolar-a-r-6-o-que-explica-a-disparada-da-moeda-e-o-que-pode-frear-novas-altas.ghtml",
       "date": "2026-11-24T03:00:00.000Z",
       "summary": "Dólar chega a R$ 6 pela primeira vez em 2026 O dólar voltou a flertar com os R$ 6 no Brasil, depois de ficar quase 19% mais caro em pouco mais de um mês. A moeda americana chegou a ultrapassar essa marca nesta segunda-feira (23), mas recuou e encerrou o dia a ",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "INSS inicia pagamento de novembro e do 13º de novos beneficiários; veja calendário",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/24/inss-inicia-pagamento-de-novembro-e-do-13o-de-novos-beneficiarios-veja-calendario.ghtml",
-      "date": "2026-11-24T03:00:00.000Z",
-      "summary": "Simulador do INSS mostra valores e tempo de contribuição pelas novas regras de aposentados Aposentados e pensionistas do Instituto Nacional do Seguro Social (INSS) começam a receber os benefícios de novembro nesta terça-feira (24). O INSS também pagará o 13º s",
       "source": "g1",
       "cat": "economia",
       "type": "imprensa"
@@ -450,15 +459,6 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "BRB diz que segue com atividades bancárias, mesmo com registro suspenso na CVM e bloqueio para negociar ações",
-      "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/23/brb-afirma-que-segue-com-atividades-bancarias-apos-cvm-suspender-registro-de-companhia-aberta.ghtml",
-      "date": "2026-11-23T23:05:34.000Z",
-      "summary": "BRB não divulga balanço de 2025 dentro do prazo Jornal Nacional/ Reprodução O Banco de Brasília (BRB) afirmou que continua operando normalmente e prestando serviços aos clientes após a Comissão de Valores Mobiliários (CVM) determinar, nesta segunda-feira (23),",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
     },
     {
       "title": "Após visita de Puti, Tajiquistão se torna 4º país a deixar TPI após pressão dos EUA",
@@ -688,7 +688,6 @@
   ],
   "errors": [
     "feed CNN Brasil: HTTP 404",
-    "feed CNN Brasil: HTTP 404",
-    "feed Planalto (governo): HTTP 429"
+    "feed CNN Brasil: HTTP 404"
   ]
 }
