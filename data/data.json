@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-24T00:59:14.605Z",
+  "updated": "2026-11-24T02:18:43.213Z",
   "market": {
     "ibov": {
       "price": 164796.05,
       "pct": -0.95,
-      "time": "2026-11-24T00:59:10.305Z",
+      "time": "2026-11-24T02:18:34.147Z",
       "history": [
         {
           "d": "2026-10-26",
@@ -137,6 +137,150 @@
   },
   "news": [
     {
+      "title": "Câmara aprova texto-base de ajuste fiscal do governo; ASSISTA",
+      "link": "https://g1.globo.com/politica/ao-vivo/ajuste-fiscal-camara-deputados.ghtml",
+      "date": "2026-11-24T02:09:15.000Z",
+      "summary": "Câmara aprova texto-base de ajuste fiscal do governo; ASSISTA Proposta foi aprovada no Senado na semana passada; texto projeta uma economia de R$ 50 bilhões nas contas do governo federal em 2027. O relator da proposta na Câmara, deputado Mauro Benevides (União",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Não sou identitária, sou uma pessoa universal, diz 1ª senadora do PT eleita em MG",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/nao-sou-identitaria-sou-uma-pessoa-universal-diz-1a-senadora-do-pt-eleita-em-mg.shtml",
+      "date": "2026-11-24T02:00:00.000Z",
+      "summary": "A primeira vitória do PT na história do Senado em Minas Gerais se deu com uma política, Marília Campos, conhecida por ser uma \"fura-bolha\" que rejeita o discurso de polarização entre o partido e o bolsonarismo e diz não ser identitária. Leia mais (11/23/2026 -",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Cotado para 2030, Tarcísio concentra poder em auxiliares fiéis e faz concessões à direita",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/cotado-para-2030-tarcisio-concentra-poder-em-auxiliares-fieis-e-faz-concessoes-a-direita.shtml",
+      "date": "2026-11-24T02:00:00.000Z",
+      "summary": "O governador Tarcísio de Freitas (Republicanos) deve anunciar nesta semana os últimos nomes de seu secretariado, mas já demonstrou que, em vez de uma reformulação radical, optou por um ajuste fino na equipe que o conduziu à reeleição em primeiro turno. Leia ma",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Desfalque no STF supera 400 dias, é o mais longo na redemocratização e deixa 64 julgamentos suspensos",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/desfalque-no-stf-supera-400-dias-e-o-mais-longo-na-redemocratizacao-e-deixa-64-julgamentos-suspensos.shtml",
+      "date": "2026-11-24T02:00:00.000Z",
+      "summary": "Desde a redemocratização, nenhuma cadeira no STF (Supremo Tribunal Federal) ficou vazia por tanto tempo quanto a de Luís Roberto Barroso. Contados da aposentadoria do ministro, em outubro de 2025, já são mais de 400 dias de vacância. Leia mais (11/23/2026 - 23",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "PT deve fechar bloco com PL para Alesp e torce por não-bolsonarista na presidência",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/pt-deve-fechar-bloco-com-pl-para-alesp-e-torce-por-nao-bolsonarista-na-presidencia.shtml",
+      "date": "2026-11-24T02:00:00.000Z",
+      "summary": "Os deputados do PT na Assembleia Legislativa de São Paulo devem novamente formar bloco com um partido ao qual fazem oposição para compor a Mesa Diretora da Casa, como vêm fazendo há décadas. O motivo apontado é o da proporcionalidade das bancadas. Leia mais (1",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Trump ganhou até US$ 15 milhões com ações da Nvidia após retorno de Huang",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/trump-ganhou-ate-us-15-milhoes-com-acoes-da-nvidia-apos-retorno-de-huang.shtml",
+      "date": "2026-11-24T02:00:00.000Z",
+      "summary": "As ações da Nvidia detidas por Donald Trump valorizaram-se em até US$ 15 milhões nesta segunda-feira (23), depois que os papéis dispararam com a notícia inesperada da recondução de Jensen Huang ao cargo de CEO. Leia mais (11/23/2026 - 23h00)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lula é aconselhado pela área econômica a indicar nomes para BC que não afrontem o mercado",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/lula-e-aconselhado-pela-area-economica-a-indicar-nomes-para-bc-que-nao-afrontem-o-mercado.shtml",
+      "date": "2026-11-24T02:00:00.000Z",
+      "summary": "O presidente Luiz Inácio Lula da Silva foi aconselhado por auxiliares da área econômica a indicar nomes para a diretoria do Banco Central que não afrontem o mercado financeiro. Leia mais (11/23/2026 - 23h00)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Preço do Kwid e do Mobi, carros mais baratos do Brasil, dispara e ultrapassa os R$ 80 mil",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/preco-do-kwid-e-do-mobi-carros-mais-baratos-do-brasil-dispara-e-ultrapassa-os-r-80-mil.shtml",
+      "date": "2026-11-24T02:00:00.000Z",
+      "summary": "Nos últimos dez anos, os compactos Renault Kwid e Fiat Mobi têm se alternado no posto de carro zero-quilômetro mais barato do Brasil. São modelos que já nasceram com os itens básicos de segurança exigidos por lei desde 2014 e, portanto, mais evoluídos que os a",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Toyota amplia aposta em veículos comerciais com picapes híbridas e a diesel",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/toyota-amplia-aposta-em-veiculos-comerciais-com-picapes-hibridas-e-a-diesel.shtml",
+      "date": "2026-11-24T02:00:00.000Z",
+      "summary": "A Toyota entrou de vez no segmento de veículos comerciais, uma jornada que começou no ano passado, quando lançou no país pela primeira vez um modelo utilitário com foco no transporte de carga ou passageiros, o furgão Hiace. Leia mais (11/23/2026 - 23h00)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Veja como votou cada deputado no projeto de ajuste fiscal do governo Lula",
+      "link": "https://www.estadao.com.br/economia/veja-como-votou-cada-deputado-no-projeto-de-ajuste-fiscal-do-governo-lula/",
+      "date": "2026-11-24T01:56:18.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Câmara aprova texto-base do projeto de ajuste fiscal; acompanhe",
+      "link": "https://www.camara.leg.br/noticias/1322146-camara-aprova-texto-base-do-projeto-de-ajuste-fiscal-acompanhe",
+      "date": "2026-11-24T01:41:00.000Z",
+      "summary": "",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Após divergências, Câmara aprova texto-base do ajuste fiscal de Lula",
+      "link": "https://www.poder360.com.br/poder-congresso/apos-divergencias-camara-aprova-texto-base-do-ajuste-fiscal-de-lula/",
+      "date": "2026-11-24T01:38:39.000Z",
+      "summary": "Plenário aprovou por 353 votos a favor, 128 contra e 5 abstenções depois de acordo para votação em urgência; impacto pode chegar a R$ 50 bi",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Projeto de ajuste fiscal: como votaram os deputados e partidos",
+      "link": "https://g1.globo.com/politica/votacoes-no-congresso/noticia/2026/11/23/projeto-de-ajuste-fiscal-como-votaram-os-deputados-e-partidos.ghtml",
+      "date": "2026-11-24T01:33:45.000Z",
+      "summary": "Câmara aprova texto-base do pacote de ajuste fiscal do governo A Câmara dos Deputados aprovou nesta segunda-feira (23) o texto-base do projeto de lei que realiza um ajuste fiscal nas contas públicas para que seja possível cumprir a meta do orçamento de 2027. F",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Câmara aprova texto-base do projeto de ajuste fiscal",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/23/camara-aprova-projeto-de-ajuste-fiscal.ghtml",
+      "date": "2026-11-24T01:33:27.000Z",
+      "summary": "Câmara aprova texto-base do pacote de ajuste fiscal do governo A Câmara dos Deputados aprovou nesta segunda-feira (23) o texto-base do projeto de lei que realiza um ajuste fiscal nas contas públicas para que seja possível cumprir a meta do orçamento de 2027. O",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Fachin suspende decisão do STJ que impedia repasse de auxílio emergencial às famílias de Brumadinho",
+      "link": "https://www.estadao.com.br/politica/fachin-suspende-decisao-do-stj-que-impedia-repasse-de-auxilio-emergencial-as-familias-de-brumadinho-nprp/",
+      "date": "2026-11-24T01:01:24.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Aluguel de curta temporada na mira do STJ",
+      "link": "https://www.estadao.com.br/economia/aluguel-de-curta-temporada-na-mira-do-stj/",
+      "date": "2026-11-24T01:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "Governo anuncia estudo clínico de vacina contra o câncer para 2027",
       "link": "https://www.poder360.com.br/poder-saude/governo-anuncia-estudo-clinico-de-vacina-contra-o-cancer-para-2027/",
       "date": "2026-11-24T00:57:57.000Z",
@@ -146,38 +290,11 @@
       "type": "imprensa"
     },
     {
-      "title": "Justiça do RJ torna réus Ricardo Magro e mais 18 por sonegação e lavagem de dinheiro",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/justica-do-rj-torna-reus-ricardo-magro-e-mais-18-por-sonegacao-e-lavagem-de-dinheiro.shtml",
-      "date": "2026-11-24T00:56:00.000Z",
-      "summary": "A Justiça do Rio de Janeiro tornou réus nesta segunda-feira (23) o empresário Ricardo Magro, ex-dono da Refit, quatro parentes dele e outras 14 pessoas sob acusação de organização criminosa, crimes contra a ordem tributária e lavagem de dinheiro. Leia mais (11",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Santiago Peña recorre à Suprema Corte para anular destituição",
       "link": "https://www.poder360.com.br/poder-internacional/santiago-pena-recorre-a-suprema-corte-para-anular-destituicao/",
       "date": "2026-11-24T00:40:27.000Z",
       "summary": "Ex-presidente contesta decisão do Senado paraguaio e afirma que houve violações ao devido processo legal",
       "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Crédito está travado; 2027 será difícil para a economia, diz presidente do Bradesco",
-      "link": "https://www.estadao.com.br/economia/credito-esta-travado-2027-sera-dificil-para-a-economia-diz-presidente-do-bradesco/",
-      "date": "2026-11-24T00:32:44.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Livro com depoimentos de ex-vereadores reúne bastidores da Câmara Municipal de SP",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/livro-com-depoimentos-de-ex-vereadores-reune-bastidores-da-camara-municipal-de-sp.shtml",
-      "date": "2026-11-24T00:30:00.000Z",
-      "summary": "A Câmara Municipal de São Paulo lança, no dia 3 de dezembro, às 19h, o livro \"Vossa Excelência, a Memória\" Leia mais (11/23/2026 - 21h30)",
-      "source": "Folha",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -218,25 +335,7 @@
       "type": "imprensa"
     },
     {
-      "title": "Irmão de Santiago Peña, ex-presidente do Paraguai, é preso",
-      "link": "https://www.poder360.com.br/poder-internacional/irmao-de-santiago-pena-ex-presidente-do-paraguai-e-preso/",
-      "date": "2026-11-24T00:05:36.000Z",
-      "summary": "Francisco Peña e sua mulher são investigados por lavagem de dinheiro em caso envolvendo o Ueno Bank; ela se entregou",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Trabuco defende agenda ampla para reduzir custo Brasil com foco em juros, segurança e logística",
-      "link": "https://www.estadao.com.br/economia/trabuco-defende-agenda-ampla-para-reduzir-custo-brasil-com-foco-em-juros-seguranca-e-logistica/",
-      "date": "2026-11-24T00:03:51.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Seminário do PT receberá André Lara Resende para discutir ‘alternativas’ à política econômica",
+      "title": "Seminário do PT terá André Lara Resende para discutir ‘alternativas’ à política econômica",
       "link": "https://www.estadao.com.br/economia/seminario-do-pt-recebera-andre-lara-resende-para-discutir-alternativas-a-politica-economica/",
       "date": "2026-11-23T23:51:43.000Z",
       "summary": "",
@@ -254,15 +353,6 @@
       "type": "oficial"
     },
     {
-      "title": "Petrobras compra 42% da produtora de etanol de milho Neomille, da Cerradinho, por R$ 2,8 bi",
-      "link": "https://www.estadao.com.br/economia/negocios/petrobras-compra-42-da-produtora-de-etanol-de-milho-neomille-da-cerradinho-por-r-28-bi/",
-      "date": "2026-11-23T23:38:35.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Hugo Motta destaca pluralidade e independência do Legislativo ao receber novos deputados",
       "link": "https://www.camara.leg.br/noticias/1322114-hugo-motta-destaca-pluralidade-e-independencia-do-legislativo-ao-receber-novos-deputados",
       "date": "2026-11-23T23:38:00.000Z",
@@ -272,24 +362,6 @@
       "type": "oficial"
     },
     {
-      "title": "Nova pasta para idosos poderá se chamar Ministério da Longevidade",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/nova-pasta-para-idosos-podera-se-chamar-ministerio-da-longevidade.shtml",
-      "date": "2026-11-23T23:28:00.000Z",
-      "summary": "O futuro ministério voltado para a população idosa poderá se chamar Ministério da Longevidade. O nome passou a ser ventilado no Palácio do Planalto nos últimos dias. Leia mais (11/23/2026 - 20h28)",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "EUA impõem restrições à Megaspeed, empresa ligada a escândalo da Nvidia",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/eua-impoe-restricoes-a-megaspeed-empresa-ligada-a-escandalo-da-nvidia.shtml",
-      "date": "2026-11-23T23:25:00.000Z",
-      "summary": "Os Estados Unidos acrescentaram nesta segunda-feira (23) a Megaspeed à sua lista de restrições comerciais. A empresa, sediada em Singapura, está estreitamente ligada a uma investigação de espionagem envolvendo a Nvidia. Leia mais (11/23/2026 - 20h25)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Comissão aprova auditoria de licitações com inteligência artificial",
       "link": "https://www.camara.leg.br/noticias/1322046-comissao-aprova-auditoria-de-licitacoes-com-inteligencia-artificial",
       "date": "2026-11-23T23:23:00.000Z",
@@ -297,24 +369,6 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Huang é recebido com aplausos ao retornar à sede da Nvidia; veja vídeo",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/huang-e-recebido-com-aplausos-ao-retornar-a-sede-da-nvidia-veja-video.shtml",
-      "date": "2026-11-23T23:09:00.000Z",
-      "summary": "O cofundador da Nvidia Jensen Huang, reconduzido ao cargo de CEO da empresa nesta segunda-feira (23), foi recebido com aplausos por funcionários ao aparecer na sede da fabricante de chips em Santa Clara, nos Estados Unidos. Leia mais (11/23/2026 - 20h09)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Oregon e Virgínia processam SpaceX por imagens sexualizadas geradas por IA",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/oregon-e-virginia-processam-spacex-por-imagens-sexualizadas-geradas-por-ia.shtml",
-      "date": "2026-11-23T23:07:00.000Z",
-      "summary": "Oregon e Virgínia processaram nesta segunda-feira (23) a SpaceX, de Elon Musk, acusando a empresa de violar leis estaduais de proteção ao consumidor ao oferecer uma ferramenta de inteligência artificial que permitia aos usuários criar imagens sexualizadas de m",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
     },
     {
       "title": "BRB diz que segue com atividades bancárias, mesmo com registro suspenso na CVM e bloqueio para negociar ações",
@@ -353,6 +407,15 @@
       "type": "imprensa"
     },
     {
+      "title": "Câmara aprova texto-base de ajuste fiscal de Lula com impacto de até R$ 50 bilhões em 2027",
+      "link": "https://www.estadao.com.br/economia/camara-aprova-urgencia-e-acelera-votacao-de-projeto-de-ajuste-fiscal-do-governo-lula/",
+      "date": "2026-11-23T22:47:26.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "Petrobras volta ao mercado de etanol com compra de 42% de produtora por R$ 2,8 bilhões",
       "link": "https://g1.globo.com/economia/negocios/noticia/2026/11/23/petrobras-etanol.ghtml",
       "date": "2026-11-23T22:40:42.000Z",
@@ -371,48 +434,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Câmara discute projeto de ajuste fiscal do governo; ASSISTA",
-      "link": "https://g1.globo.com/politica/ao-vivo/ajuste-fiscal-camara-deputados.ghtml",
-      "date": "2026-11-23T22:30:43.000Z",
-      "summary": "Câmara discute projeto de ajuste fiscal do governo; ASSISTA Proposta foi aprovada no Senado na semana passada; texto projeta uma economia de R$ 50 bilhões nas contas do governo federal em 2027. O relator da proposta na Câmara, deputado Mauro Benevides (União B",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Câmara analisa urgência da proposta de ajuste fiscal do governo; acompanhe",
-      "link": "https://www.camara.leg.br/noticias/1322069-camara-analisa-urgencia-da-proposta-de-ajuste-fiscal-do-governo-acompanhe",
-      "date": "2026-11-23T22:28:00.000Z",
-      "summary": "Pelo PLP 299/26, do Senado, a partir de 2027, o governo poderá conter mais gastos e limitar a 2% o crescimento real das despesas",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
       "title": "Nvidia recupera US$ 953 bilhões em um dia com volta de CEO, valor maior que o de toda a B3",
       "link": "https://g1.globo.com/economia/noticia/2026/11/23/nvidia-recupera-us-953-bilhoes-em-um-dia-com-volta-de-ceo-valor-maior-que-o-de-toda-a-b3.ghtml",
       "date": "2026-11-23T21:21:39.000Z",
       "summary": "Amante de CEO da Nvidia manteve contato com oficial da espionagem chinesa, segundo o NYT A Nvidia anunciou nesta segunda-feira (23) o retorno imediato de Jensen Huang ao comando da empresa. O executivo havia renunciado em 12 de novembro, após a revelação de um",
       "source": "g1",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "PF quer comprar 3 carros blindados para Lula por R$ 11,4 mi com proteção contra tiro de fuzil",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/pf-quer-comprar-3-carros-blindados-para-lula-por-r-114-mi-com-protecao-contra-tiro-de-fuzil.shtml",
-      "date": "2026-11-23T21:21:00.000Z",
-      "summary": "A Polícia Federal planeja comprar três carros com blindagem pesada, resistentes a tiros de fuzil, para a segurança do presidente Lula (PT) e outras autoridades nacionais e estrangeiras que visitarem o Brasil. Leia mais (11/23/2026 - 18h21)",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Governo descarta envio de nova proposta de emenda para ajuste fiscal em 2026",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/governo-descarta-envio-de-nova-proposta-de-emenda-para-ajuste-fiscal-em-2026.shtml",
-      "date": "2026-11-23T20:50:00.000Z",
-      "summary": "Após o desgaste para garantir a aprovação do plano Moretti, o governo Lula não pretende enviar uma nova PEC (proposta de emenda constitucional) de ajuste fiscal ainda neste ano. Leia mais (11/23/2026 - 17h50)",
-      "source": "Folha",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -477,33 +504,6 @@
       "source": "Agência Senado",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Em reunião com Lula, ministros do STF defendem diretor da PF e dizem que André Mendonça queria prendê-lo",
-      "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/11/23/lula-andrei-rodrigues-andre-mendonca.ghtml",
-      "date": "2026-11-23T19:58:57.000Z",
-      "summary": "Sadi: Ala do STF defende Andrei junto a Lula A ala de ministros do Supremo Tribunal Federal (STF) mais próxima de Lula (PT) fez uma defesa enfática do diretor-geral da Polícia Federal (PF), Andrei Rodrigues, durante jantar com o presidente, no último sábado (2",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Tarcísio defende discussão sobre limites de decisões monocráticas e competência do Supremo",
-      "link": "https://www.estadao.com.br/politica/tarcisio-defende-discussao-sobre-limites-de-decisoes-monocraticas-e-competencia-do-supremo/",
-      "date": "2026-11-23T19:20:23.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Ministério do Trabalho publica portaria que regulamenta descansos da escala 5x2; entenda",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/23/ministerio-do-trabalho-portaria-escala-5x2.ghtml",
-      "date": "2026-11-23T18:42:53.000Z",
-      "summary": "Governo publica regras da escala 5x2 O Ministério do Trabalho publicou nesta segunda-feira (23) portaria que regulamenta a duração de trabalho e o período de descanso na escala 5x2. A norma estabelece dois dias de repouso semanal e prevê a redução gradual da j",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
     },
     {
       "title": "A tempestade perfeita (dentro e fora do Brasil) que faz preço do dólar chegar a R$ 6",
