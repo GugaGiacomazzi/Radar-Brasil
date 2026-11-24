@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-24T20:55:30.417Z",
+  "updated": "2026-11-24T21:54:44.093Z",
   "market": {
     "ibov": {
-      "price": 164042.42,
-      "pct": -0.46,
-      "time": "2026-11-24T20:55:24.290Z",
+      "price": 164089.81,
+      "pct": -0.43,
+      "time": "2026-11-24T21:54:37.890Z",
       "history": [
         {
           "d": "2026-10-26",
@@ -84,7 +84,7 @@
         },
         {
           "d": "2026-11-24",
-          "c": 164042.4219
+          "c": 164089.8125
         }
       ]
     },
@@ -141,6 +141,186 @@
   },
   "news": [
     {
+      "title": "Justiça italiana adia julgamento sobre extradição de Carla Zambelli para fevereiro de 2027",
+      "link": "https://www.estadao.com.br/politica/justica-italiana-adia-julgamento-sobre-extradicao-de-carla-zambelli-para-fevereiro-de-2027-nprp/",
+      "date": "2026-11-24T21:51:43.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Em crise, BRB leiloa 62 imóveis com lances a partir de R$ 19,9 mil",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/em-crise-brb-leiloa-62-imoveis-com-lances-a-partir-de-r-199-mil.shtml",
+      "date": "2026-11-24T21:49:00.000Z",
+      "summary": "O BRB (Banco de Brasília) colocou 62 imóveis em leilão extrajudicial, que está marcado para o dia 30 de novembro, com lances iniciais que vão de R$ 19,9 mil a R$ 4,39 milhões Leia mais (11/24/2026 - 18h49)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Crise diplomática com Milei: Brasil encerra missão de embaixador na Argentina",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/crise-diplomatica-com-milei-brasil-encerra-missao-de-embaixador-na-argentina/",
+      "date": "2026-11-24T21:48:19.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Apesar de melhora, Bolsonaro segue na UTI e sem previsão de alta",
+      "link": "https://www.poder360.com.br/poder-justica/apesar-de-melhora-bolsonaro-segue-na-uti-e-sem-previsao-de-alta/",
+      "date": "2026-11-24T21:47:25.000Z",
+      "summary": "Ex-presidente ainda apresenta instabilidade no quadro clínico e pode precisar de cuidados hospitalares até o fim da semana",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Petrobras buscará outras empresas de etanol de milho após compra de fatia na Neomille, diz agência",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/petrobras-buscara-outras-empresas-de-etanol-de-milho-apos-compra-de-fatia-na-neomille-diz-agencia.shtml",
+      "date": "2026-11-24T21:40:00.000Z",
+      "summary": "A Petrobras deverá buscar aquisições de outras participações em usinas de etanol de milho. O movimento ocorrerá à medida que a estatal expande sua atuação em renováveis e vê vantagens em matérias-primas para a produção de outros combustíveis sustentáveis, como",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Dólar cai a R$ 5,910 com ajuste fiscal; Bolsa também fecha em queda",
+      "link": "https://www.poder360.com.br/poder-economia/dolar-cai-a-r-5910-com-ajuste-fiscal-bolsa-tambem-fecha-em-queda/",
+      "date": "2026-11-24T21:37:24.000Z",
+      "summary": "O mercado reagiu à aprovação do Plano Moretti, projeto de ajuste fiscal do governo elaborado pelo ministro do Planejamento",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lula chama Haddad para discutir nova etapa de ajuste fiscal e dá bronca em Lindbergh",
+      "link": "https://www.estadao.com.br/politica/vera-rosa/lula-chama-haddad-para-discutir-nova-etapa-de-ajuste-fiscal-e-da-bronca-em-lindbergh/",
+      "date": "2026-11-24T21:36:54.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Tucano encontra Alckmin e defende que ele tenha papel central na economia no Lula 4",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/tucano-encontra-alckmin-e-defende-que-ele-tenha-papel-central-na-economia-no-lula-4.shtml",
+      "date": "2026-11-24T21:33:00.000Z",
+      "summary": "Um dos principais dirigentes do PSDB, o ex-governador de Goiás Marconi Perillo encontrou-se nesta terça-feira (24) com o vice-presidente Geraldo Alckmin e defendeu que ele \"comande o processo de estabilização da economia brasileira\". Leia mais (11/24/2026 - 18",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Petrobras avalia entrar no setor de minerais críticos",
+      "link": "https://www.poder360.com.br/poder-infra/petrobras-avalia-entrar-no-setor-de-minerais-criticos/",
+      "date": "2026-11-24T21:26:36.000Z",
+      "summary": "Estatal cita substâncias como oportunidade em novo plano de negócios, mas diz não ter orientação do governo para entrar no setor",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Bolsonaristas querem que Motta e Alcolumbre se manifestem em ação que pode tornar Van Hattem réu",
+      "link": "https://www.estadao.com.br/politica/bolsonaristas-querem-que-motta-e-alcolumbre-se-manifestem-em-acao-que-pode-tornar-van-hattem-reu/",
+      "date": "2026-11-24T21:26:25.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Frentes parlamentares recebem estudos que revisam cálculo da CBS para menos de 10%",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/blogs/que-imposto-e-esse/2026/11/frentes-parlamentares-recebem-estudos-que-revisam-calculo-da-cbs-para-menos-de-10.shtml",
+      "date": "2026-11-24T21:22:00.000Z",
+      "summary": "Estudos entregues nesta terça-feira (24) a frentes parlamentares do Congresso Nacional apontam que a alíquota da CBS (Contribuição sobre Bens e Serviços) poderia ficar próxima de 10% com ajustes na forma como o cálculo foi realizado pelo TCU (Tribunal de Conta",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "TCU questiona receitas estimadas pelo governo no último ajuste no Orçamento",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/tcu-questiona-receitas-estimadas-pelo-governo-no-ultimo-ajuste-no-orcamento.shtml",
+      "date": "2026-11-24T21:18:00.000Z",
+      "summary": "A área técnica do TCU (Tribunal de Contas da União) questiona a previsão de receitas estimadas para o ano pela equipe econômica em alerta elaborado dias antes da apresentação do último relatório de ajustes no Orçamento, que ocorre nesta nesta terça-feira (24).",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Após amantes, caso com suposta espiã e vaivém no cargo, CEO da Nvidia diz que está em terapia",
+      "link": "https://www.estadao.com.br/economia/casos-extraconjugais-suposta-espia-vaivem-cargo-ceo-nvidia-esta-em-terapia-npr/",
+      "date": "2026-11-24T21:16:55.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Câmara aprova pensão especial para parentes das vítimas da chacina de Acari",
+      "link": "https://www.camara.leg.br/noticias/1322494-camara-aprova-pensao-especial-para-parentes-das-vitimas-da-chacina-de-acari",
+      "date": "2026-11-24T21:16:00.000Z",
+      "summary": "Benefício de um salário mínimo será pago a familiares das 11 vítimas de 1990; texto inscreve Mães de Acari no Livro dos Heróis e vai ao Senado",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Confúcio Moura propõe ajuste no Orçamento de 2027 para ampliar investimento",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/24/confucio-moura-propoe-ajuste-no-orcamento-de-2027-para-ampliar-investimento",
+      "date": "2026-11-24T21:10:48.000Z",
+      "summary": "O senador Confúcio Moura (MDB-RO) defendeu nesta terça-feira (24) a adoção de um ajuste orçamentário de médio e longo prazos para ampliar a capacidade de investimento do governo federal. Em pronunciamento no Plenário, ele afirmou que grande parte dos recursos ",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Escola de qualidade para os quilombolas é reparação histórica, dizem debatedores",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/24/escola-de-qualidade-para-os-quilombolas-e-reparacao-historica-dizem-debatedores",
+      "date": "2026-11-24T21:09:07.000Z",
+      "summary": "A ampliação da oferta de ensino nos territórios quilombolas, a formação específica de professores e a garantia de recursos para infraestrutura escolar e assistência estudantil foram defendidas nesta terça-feira (24), durante audiência pública na Comissão de Ed",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "A burocracia agora é problema das IAs",
+      "link": "https://www.estadao.com.br/economia/alexandre-chiavegatto-filho/a-ia-contra-a-burocracia/",
+      "date": "2026-11-24T21:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Amapá Minerals reativa mina de ouro parada desde 2022 e levanta US$ 110 milhões na Bolsa de Toronto",
+      "link": "https://www.estadao.com.br/economia/negocios/amapa-minerals-reativa-mina-de-ouro-parada-desde-2022-e-levanta-us-110-milhoes-na-bolsa-de-toronto/",
+      "date": "2026-11-24T21:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Davi autoriza atuação da Advocacia do Senado em prol da imunidade parlamentar",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/24/davi-autoriza-atuacao-da-advocacia-do-senado-em-prol-da-imunidade-parlamentar",
+      "date": "2026-11-24T20:58:34.000Z",
+      "summary": "O presidente do Senado e do Congresso Nacional, Davi Alcolumbre, autorizou nesta terça-feira (24), em Plenário, a Advocacia do Senado a atuar junto ao Supremo Tribunal Federal (STF) em defesa das prerrogativas parlamentares. A decisão atendeu a uma solicitação",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Safira Energia entra com pedido de recuperação judicial",
+      "link": "https://www.estadao.com.br/economia/negocios/safira-energia-entra-com-pedido-de-recuperacao-judicial/",
+      "date": "2026-11-24T20:56:37.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "Ao vivo: Poder360 entrevista Jones Manoel",
       "link": "https://www.poder360.com.br/poder-visitas/ao-vivo-poder360-entrevista-jones-manoel/",
       "date": "2026-11-24T20:52:30.000Z",
@@ -150,21 +330,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Magda nega abandono da austeridade em plano da Petrobras para 2031",
-      "link": "https://www.poder360.com.br/poder-infra/magda-nega-abandono-da-austeridade-em-plano-da-petrobras-para-2031/",
-      "date": "2026-11-24T20:51:10.000Z",
-      "summary": "Presidente da estatal atribui expansão dos investimentos ao câmbio, à inflação e a ajustes no portfólio; pacote chega a US$ 122 bilhões em 5 anos",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Petróleo fecha em alta com aumento de riscos no estreito de Ormuz",
-      "link": "https://www.poder360.com.br/poder-energia/petroleo-fecha-em-alta-com-aumento-de-riscos-no-estreito-de-ormuz/",
-      "date": "2026-11-24T20:49:55.000Z",
-      "summary": "Brent para janeiro fechou em alta de 2,27%, a US$ 91,40 o barril e WTI para o mesmo mês subiu 2,35%, a US$ 82,05 o barril",
-      "source": "Poder360",
-      "cat": "politica",
+      "title": "Chinesa Huawei é condenada nos EUA por negócios no Irã e roubo de segredos comerciais; entenda",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/24/chinesa-huawei-e-condenada-nos-eua.ghtml",
+      "date": "2026-11-24T20:51:12.000Z",
+      "summary": "Chinesa Huawei é condenada nos EUA Hannibal Hanschke/Reuters A chinesa Huawei foi condenada nesta terça-feira (24) em um amplo processo criminal nos Estados Unidos. A gigante de tecnologia e equipamentos de telecomunicações foi acusada de enganar bancos sobre ",
+      "source": "g1",
+      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -195,67 +366,13 @@
       "type": "imprensa"
     },
     {
-      "title": "China prorroga suspensão de controles sobre exportações de minerais críticos aos EUA",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/china-prorroga-suspensao-de-controles-sobre-exportacoes-de-minerais-criticos-aos-eua.shtml",
-      "date": "2026-11-24T20:46:00.000Z",
-      "summary": "A China vai prorrogar a suspensão de restrições à exportação de alguns minerais críticos para os Estados Unidos, em uma aparente tentativa de evitar uma escalada na frágil trégua comercial entre os países, após a reunião da semana passada entre Xi Jinping e Do",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Sankhya consegue aprovar R$ 93,6 mi junto ao BNDES para ampliar aplicações de IA",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/sankhya-consegue-aprovar-r-936-mi-junto-ao-bndes-para-ampliar-aplicacoes-de-ia.shtml",
-      "date": "2026-11-24T20:40:00.000Z",
-      "summary": "A Sankhya, companhia mineira de tecnologia, conseguiu aprovação juntos ao BNDES (Banco Nacional de Desenvolvimento Econômico e Social) de R$ 93,6 milhões, que serão usados no desenvolvimento de aplicações de inteligência artificial usadas em sistemas de gestão",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "'Um idealista’, diz Miguel Reale Jr. sobre carreira de Fábio Konder Comparato",
-      "link": "https://www.estadao.com.br/politica/um-idealista-diz-miguel-reale-jr-sobre-carreira-de-fabio-konder-comparato/",
-      "date": "2026-11-24T20:29:38.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Câmara aprova medidas para garantir igualdade à população negra em emergências de saúde; acompanhe",
-      "link": "https://www.camara.leg.br/noticias/1322489-camara-aprova-medidas-para-garantir-igualdade-a-populacao-negra-em-emergencias-de-saude-acompanhe",
+      "title": "Câmara aprova medidas para garantir igualdade à população negra em emergências de saúde",
+      "link": "https://www.camara.leg.br/noticias/1322489-camara-aprova-medidas-para-garantir-igualdade-a-populacao-negra-em-emergencias-de-saude",
       "date": "2026-11-24T20:27:00.000Z",
       "summary": "Proposta prevê atendimento humanizado, busca ativa e dados desagregados no SUS em epidemias e calamidades; texto vai ao Senado",
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Jensen Huang diz que ainda não acredita em plano de sucessão na Nvidia",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/jensen-huang-diz-que-ainda-nao-acredita-em-plano-de-sucessao-na-nvidia.shtml",
-      "date": "2026-11-24T20:25:00.000Z",
-      "summary": "Jensen Huang defendeu nesta terça-feira (24) a ausência de um plano de sucessão na Nvidia e seu controle centralizado sobre dezenas de executivos, contrariando a pressão por mudanças significativas na cultura da gigante de chips avaliada em US$ 4 trilhões (R$ ",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Dá tempo se líderes estiverem dispostos, diz Alcolumbre sobre PEC com novas medidas de ajuste fiscal",
-      "link": "https://www.estadao.com.br/economia/da-tempo-se-lideres-estiverem-dispostos-diz-alcolumbre-sobre-pec-com-novas-medidas-de-ajuste-fiscal/",
-      "date": "2026-11-24T20:24:02.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Visita ao Poder360: Glauco Humai",
-      "link": "https://www.poder360.com.br/poder-visitas/visita-ao-poder360-glauco-humai/",
-      "date": "2026-11-24T20:23:44.000Z",
-      "summary": "Presidente da Associação Brasileira de Shopping Centers deu entrevista no estúdio deste jornal digital",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
     },
     {
       "title": "Humberto Costa celebra aprovação do projeto de ajuste fiscal",
@@ -276,24 +393,6 @@
       "type": "oficial"
     },
     {
-      "title": "Reparação para população negra precisa ser política de Estado, afirma Zenaide",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/24/reparacao-para-populacao-negra-precisa-ser-politica-de-estado-afirma-zenaide",
-      "date": "2026-11-24T19:59:38.000Z",
-      "summary": "A senadora Zenaide Maia (PSD-RN) defendeu, nesta terça-feira (24), a adoção de políticas públicas permanentes voltadas à reparação histórica da população negra e ao combate às desigualdades sociais. Em pronunciamento no Plenário, a parlamentar lembrou que o Br",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "O maior erro de Lula seria esperar que a situação fiscal se resolvesse sozinha, diz Obstfeld, ex-FMI",
-      "link": "https://www.estadao.com.br/economia/o-maior-erro-de-lula-seria-esperar-que-a-situacao-fiscal-se-resolvesse-sozinha-diz-obstfeld-ex-fmi/",
-      "date": "2026-11-24T19:56:04.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Master: relatoria de pedidos sobre Vorcaro reabre debate no STF sobre impedimento de Nunes Marques",
       "link": "https://g1.globo.com/politica/noticia/2026/11/24/master-relatoria-de-pedidos-sobre-vorcaro-reabre-debate-no-stf-sobre-impedimento-de-nunes-marques.ghtml",
       "date": "2026-11-24T19:54:26.000Z",
@@ -312,33 +411,6 @@
       "type": "oficial"
     },
     {
-      "title": "Ray-Ban e Meta são alvo de ações na Alemanha por óculos inteligentes",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/tec/2026/11/ray-ban-e-meta-sao-alvo-de-acoes-na-alemanha-por-oculos-inteligentes.shtml",
-      "date": "2026-11-24T19:52:00.000Z",
-      "summary": "A associação de defesa do consumidor da Alemanha afirmou nesta terça-feira (24) que entrará com ações judiciais contra a Meta e os fabricantes da Ray-Ban por preocupações com a privacidade de dados relacionadas a óculos inteligentes equipados com IA (inteligên",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Cleitinho fará apresentação musical em cidade mineira dias antes da posse como governador",
-      "link": "https://www.estadao.com.br/politica/cleitinho-fara-apresentacao-musical-em-cidade-mineira-dias-antes-da-posse-como-governador-nprp/",
-      "date": "2026-11-24T19:49:28.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Os 10 entraves ao desenvolvimento do Brasil, segundo Maílson da Nóbrega",
-      "link": "https://www.estadao.com.br/economia/os-10-entraves-ao-desenvolvimento-do-brasil-segundo-mailson-da-nobrega/",
-      "date": "2026-11-24T19:43:52.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "PL das big techs é adiado novamente e fica para próxima semana",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/pl-das-big-techs-e-adiado-novamente-e-fica-para-proxima-semana.shtml",
       "date": "2026-11-24T19:42:00.000Z",
@@ -355,33 +427,6 @@
       "source": "g1",
       "cat": "politica",
       "type": "imprensa"
-    },
-    {
-      "title": "Paim defende votação rápida do Estatuto dos Cães e Gatos",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/24/paim-defende-votacao-rapida-do-estatuto-dos-caes-e-gatos",
-      "date": "2026-11-24T19:34:01.000Z",
-      "summary": "O senador Paulo Paim (PT-RS) comemorou nesta terça-feira (24) a aprovação, pela Comissão de Meio Ambiente (CMA), do projeto de lei que institui o Estatuto dos Cães e Gatos. O PL 6.191/2025, que estabelece direitos e deveres relacionados à proteção e ao bem-est",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "PEC da Segurança e Estatuto da Vítima: o desafio de transformar direitos em realidade",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/pec-da-seguranca-e-estatuto-da-vitima-o-desafio-de-transformar-direitos-em-realidade/",
-      "date": "2026-11-24T19:33:29.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Chico Rodrigues comemora liberação de R$ 115 milhões para Roraima",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/24/chico-rodrigues-comemora-liberacao-de-r-115-milhoes-para-roraima",
-      "date": "2026-11-24T19:30:49.000Z",
-      "summary": "O senador Chico Rodrigues (PSB-RR) comemorou a sanção da Lei 15.549, de 2026, que determina a liberação de crédito especial de R$ 115 milhões para despesas relacionadas ao atendimento de imigrantes venezuelanos em Roraima. Em pronunciamento no Plenário nesta t",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
     },
     {
       "title": "Brasil terá recessão se Lula não fizer ajuste fiscal mais robusto, diz Eduardo Giannetti",
@@ -456,15 +501,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Relator defende proibição de atividade exclusiva de formulação de combustíveis",
-      "link": "https://www.camara.leg.br/noticias/1322388-relator-defende-proibicao-de-atividade-exclusiva-de-formulacao-de-combustiveis",
-      "date": "2026-11-24T18:29:00.000Z",
-      "summary": "Parecer ainda será votado pela Comissão de Minas e Energia",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
       "title": "Brasil terá recessão se Lula não fizer ajuste fiscal mais robusto, diz Eduardo Giannetti",
       "link": "https://www.bbc.com/portuguese/articles/c6d71g79qpe1o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-24T18:21:56.000Z",
@@ -501,39 +537,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Bolsonaro tem melhora em quadro de obstrução intestinal, mas segue sem previsão de alta",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/11/bolsonaro-tem-melhora-em-quadro-de-obstrucao-intestinal-mas-segue-sem-previsao-de-alta.shtml",
-      "date": "2026-11-24T17:40:00.000Z",
-      "summary": "O ex-presidente Jair Bolsonaro apresentou melhora do quadro de obstrução intestinal, mas segue sem previsão de alta, conforme boletim médico divulgado nesta terça-feira (24) pelo hospital DF Star, onde o ex-mandatário está internado em Brasília. Leia mais (11/",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Austrália quer multar big techs em até 5% do faturamento global por conteúdos nocivos",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/24/australia-google-meta.ghtml",
-      "date": "2026-11-24T17:36:10.000Z",
-      "summary": "Austrália propõe permitir que usuários 'desliguem' algoritmo das redes sociais A Austrália quer aumentar as punições para empresas de tecnologia que não impeçam a circulação de conteúdos prejudiciais em suas plataformas. Pelo projeto de lei, gigantes como Goog",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Ministro alemão se diz \"chocado\" com pressão de Trump sobre a Nvidia",
       "link": "https://www.dw.com/pt-br/ministro-alemão-se-diz-chocado-com-pressão-de-trump-sobre-a-nvidia/a-80038359?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-24T16:32:00.000Z",
       "summary": "Declaração de chefe da diplomacia alemã ocorre após o presidente dos EUA admitir ter atuado junto ao conselho da fabricante de chips para garantir o retorno de Jensen Huang ao comando da companhia.",
       "source": "DW Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Delação de ‘King’ cita propina mensal de R$ 20 milhões para nº 2 da Fazenda no ‘fura-fila’ do ICMS",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/delacao-de-king-cita-propina-mensal-de-r-20-milhoes-para-n-2-da-fazenda-no-fura-fila-do-icms/",
-      "date": "2026-11-24T15:05:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -597,15 +606,6 @@
       "summary": "Estima-se que o projeto tenha impacto de até R$ 56 bilhões. Mas o 'Plano Moretti' vem sendo recebido com pessimismo no mercado financeiro e críticas por alguns dos aliados do PT.",
       "source": "BBC News Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Metade dos executivos prevê retorno de investimentos em IA em até 12 meses",
-      "link": "https://www.estadao.com.br/economia/coluna-da-broad/metade-dos-executivos-preve-retorno-de-investimentos-em-ia-em-ate-12-meses/",
-      "date": "2026-11-24T00:59:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -709,6 +709,7 @@
     }
   ],
   "errors": [
+    "Selic (SGS 432): HTTP 304",
     "feed CNN Brasil: HTTP 404",
     "feed CNN Brasil: HTTP 404"
   ]
