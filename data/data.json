@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-24T15:27:04.349Z",
+  "updated": "2026-11-24T16:42:46.755Z",
   "market": {
     "ibov": {
-      "price": 166301.7,
-      "pct": 0.91,
-      "time": "2026-11-24T15:27:00.393Z",
+      "price": 165428.73,
+      "pct": 0.38,
+      "time": "2026-11-24T16:42:33.411Z",
       "history": [
         {
           "d": "2026-10-26",
@@ -84,7 +84,7 @@
         },
         {
           "d": "2026-11-24",
-          "c": 166301.7031
+          "c": 165701.25
         }
       ]
     },
@@ -141,20 +141,173 @@
   },
   "news": [
     {
-      "title": "Governo arrecada R$ 6,4 bi com dividendos; receita fica abaixo do esperado",
-      "link": "https://www.poder360.com.br/poder-economia/governo-arrecada-r-64-bi-com-dividendos-receita-fica-abaixo-do-esperado/",
-      "date": "2026-11-24T15:22:31.000Z",
-      "summary": "Valor representa a receita obtida de janeiro a outubro; projeção era de R$ 28 bilhões, e foi revisada para R$ 10,5 bilhões",
+      "title": "Governo mantém estimativa de arrecadar R$ 10,5 bi com taxação de dividendos, apesar de frustração até agora",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/governo-mantem-estimativa-de-arrecadar-r-105-bi-com-taxacao-de-dividendos-apesar-de-frustracao-ate-agora.shtml",
+      "date": "2026-11-24T16:35:00.000Z",
+      "summary": "O coordenador de Previsão e Análise da Receita Federal, Marcelo Gomide, afirmou nesta terça-feira (24) que está mantida a previsão de arrecadar R$ 10,5 bilhões com o imposto de renda sobre dividendos. Leia mais (11/24/2026 - 13h35)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Ministro alemão se diz \"chocado\" com pressão de Trump sobre a Nvidia",
+      "link": "https://www.dw.com/pt-br/ministro-alemão-se-diz-chocado-com-pressão-de-trump-sobre-a-nvidia/a-80038359?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-24T16:32:00.000Z",
+      "summary": "Declaração de chefe da diplomacia alemã ocorre após o presidente dos EUA admitir ter atuado junto ao conselho da fabricante de chips para garantir o retorno de Jensen Huang ao comando da companhia.",
+      "source": "DW Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Rússia planeja colocar arma nuclear em órbita, diz jornal alemão",
+      "link": "https://www.poder360.com.br/poder-internacional/russia-planeja-colocar-arma-nuclear-em-orbita-diz-jornal-alemao/",
+      "date": "2026-11-24T16:31:44.000Z",
+      "summary": "Serviços de inteligência ocidentais alertaram países da Otan sobre possível plano para colocar explosivo nuclear em órbita",
       "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
     },
     {
-      "title": "Lula diz que falta de consenso na COP31 enfraquece o multilateralismo",
-      "link": "https://www.poder360.com.br/poder-governo/lula-diz-que-falta-de-consenso-na-cop31-enfraquece-o-multilateralismo/",
-      "date": "2026-11-24T15:13:43.000Z",
-      "summary": "Em cerimônia para diplomatas recém-chegados, presidente cobra cooperação diante de crises climáticas e guerras",
+      "title": "Mendonça libera de prisão preventiva investigados no caso das fraudes do INSS",
+      "link": "https://www.estadao.com.br/politica/mendonca-libera-de-prisao-preventiva-investigados-no-caso-das-fraudes-do-inss-nprp/",
+      "date": "2026-11-24T16:10:32.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Marinho critica “chororô” de empresas sobre fim da escala 6 X 1",
+      "link": "https://www.poder360.com.br/poder-governo/marinho-critica-chororo-de-empresas-sobre-fim-da-escala-6-x-1/",
+      "date": "2026-11-24T16:09:05.000Z",
+      "summary": "Ministro do Trabalho diz que regras para jornadas especiais devem ser publicadas até o fim da próxima semana",
       "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Luiz Marinho diz que não falou com Lula sobre continuar no governo",
+      "link": "https://www.poder360.com.br/poder-governo/luiz-marinho-diz-que-nao-falou-com-lula-sobre-continuar-no-governo/",
+      "date": "2026-11-24T16:04:12.000Z",
+      "summary": "\"A Europa fecha aos domingos e feriados, e nunca soube de ninguém que morreu por isso”, disse o ministro do Trabalho e Emprego sobre fim da 6 X 1",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Márcio Elias Rosa é o mais cotado para assumir Defesa no Lula 4",
+      "link": "https://www.poder360.com.br/poder-governo/marcio-elias-rosa-e-o-mais-cotado-para-assumir-defesa-no-lula-4/",
+      "date": "2026-11-24T16:03:52.000Z",
+      "summary": "O ministro José Múcio, 78 anos, já disse ao presidente que deseja sair; a atual secretária-geral, Cinara Wagner Fredo, também é considerada",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Defesa de Carla Zambelli pede ao STF abatimento de pena",
+      "link": "https://www.estadao.com.br/politica/defesa-de-carla-zambelli-pede-ao-stf-abatimento-de-pena-nprp/",
+      "date": "2026-11-24T16:03:23.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Programa do governo de SP destina R$ 20 milhões do crime organizado para investimentos em segurança",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/programa-do-governo-de-sp-destina-r-20-milhoes-do-crime-organizado-para-investimentos-em-seguranca.shtml",
+      "date": "2026-11-24T16:00:00.000Z",
+      "summary": "Um programa de recuperação de ativos do governo de São Paulo destinou R$ 20,2 milhões às polícias Civil, Militar e Técnico-Científica desde sua criação, em 2024. Leia mais (11/24/2026 - 13h00)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Investigadores veem lacunas e alcance limitado em relatórios da PF sobre relação do STF com Master",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/investigadores-veem-lacunas-e-alcance-limitado-em-relatorios-da-pf-sobre-relacao-do-stf-com-master.shtml",
+      "date": "2026-11-24T16:00:00.000Z",
+      "summary": "Equipes responsáveis pela análise dos relatórios da Polícia Federal sobre as menções a ministros do STF (Supremo Tribunal Federal) em mensagens encontradas nos celulares de Daniel Vorcaro, ex-dono do Banco Master, avaliam que o material tem alcance limitado e ",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Aneel propõe variar preço da energia conforme horário do dia e pode frear expansão de painéis solares",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/economia-sustentavel/2026/11/aneel-propoe-variar-preco-da-energia-conforme-horario-do-dia-e-pode-frear-expansao-de-paineis-solares.shtml",
+      "date": "2026-11-24T16:00:00.000Z",
+      "summary": "A Aneel (Agência Nacional de Energia Elétrica) apresentou no começo de novembro uma proposta para alterar como a energia elétrica é cobrada de parte dos brasileiros. A ideia é adotar uma tarifa que varie conforme o horário do dia e enquadrar alguns consumidore",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Arrecadação em outubro sobe 7,3%, alcança R$ 294 bilhões e bate recorde para o mês",
+      "link": "https://www.estadao.com.br/economia/receita-federal-arrecadacao-outubro-2026-sobe-recorde/",
+      "date": "2026-11-24T15:56:16.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Projeto garante salário 25% maior para professor com ensino superior",
+      "link": "https://www.camara.leg.br/noticias/1313229-projeto-garante-salario-25-maior-para-professor-com-ensino-superior",
+      "date": "2026-11-24T15:56:00.000Z",
+      "summary": "Proposta está em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Ex-superintendente do Cade diz que PL das big techs amplia insegurança jurídica, eleva custos e afeta usuário no Brasil",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/ex-superintendente-do-cade-diz-que-pl-das-big-techs-amplia-inseguranca-juridica-eleva-custos-e-afeta-usuario-no-brasil.shtml",
+      "date": "2026-11-24T15:56:00.000Z",
+      "summary": "O ex-superintendente geral do Cade (Conselho Administrativo de Defesa Econômica), Carlos Ragazzo, afirmou que o PL dos Mercados Digitais não apresenta critérios claros que justifiquem uma intervenção no mercado e ainda pode ampliar a insegurança jurídica, afet",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lula presta homenagem a Fábio Konder Comparato: ‘Intelectual comprometido com as causas do povo’",
+      "link": "https://www.estadao.com.br/politica/lula-presta-homenagem-a-fabio-konder-comparato-intelectual-comprometido-com-as-causas-do-povo/",
+      "date": "2026-11-24T15:55:34.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Projeto fixa em 15 anos prazo de vigência para patentes de medicamentos",
+      "link": "https://www.camara.leg.br/noticias/1314031-projeto-fixa-em-15-anos-prazo-de-vigencia-para-patentes-de-medicamentos",
+      "date": "2026-11-24T15:49:00.000Z",
+      "summary": "O texto está em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "CMA aprova mudança na cobrança da Taxa de Controle e Fiscalização Ambiental",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/24/cma-aprova-mudanca-na-cobranca-da-taxa-de-controle-e-fiscalizacao-ambiental",
+      "date": "2026-11-24T15:35:30.000Z",
+      "summary": "A Comissão de Meio Ambiente (CMA) aprovou nesta terça-feira (24) texto alternativo à proposta que modifica a forma de cobrança da Taxa de Controle e Fiscalização Ambiental (TCFA). O substitutivo acatado permite que a empresa escolha entre o cálculo individuali",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "De olho no 13º, distribuidoras renegociam dívidas de conta de luz com clientes",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/de-olho-no-13o-empresas-renegociam-dividas-de-conta-de-luz-com-clientes.shtml",
+      "date": "2026-11-24T15:30:00.000Z",
+      "summary": "Diante da alta da inadimplência e da entrada de dinheiro extra no fim do ano com o pagamento do 13º salário aos trabalhadores, as distribuidoras de energia elétrica promovem ações de renegociação de dívidas, com a oferta de condições especiais para que os cons",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Relatórios da PF têm citações a Moraes, Nunes e Tofolli, mas deixam de fora diálogos e documentos que poderiam indicar conexão com Vorcaro",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/24/relatorios-da-pf-tem-citacoes-a-moraes-nunes-e-tofolli-mas-deixam-de-fora-dialogos-e-documentos-que-poderiam-indicar-conexao-com-vorcaro.ghtml",
+      "date": "2026-11-24T15:22:40.000Z",
+      "summary": "Daniel Vorcaro Divulgação A Polícia Federal (PF) usou apenas menções literais a ministros do Supremo Tribunal Federal (STF) nos relatórios produzidos pela corporação sobre as relações com Daniel Vorcaro. Os investigadores utilizaram como critério central a bus",
+      "source": "g1",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -195,7 +348,7 @@
       "type": "imprensa"
     },
     {
-      "title": "EUA devem aumentar tarifas sobre produtos da China, União Europeia e outros países, diz mídia internacional",
+      "title": "EUA preparam aumento de tarifas contra China, União Europeia e outras economias",
       "link": "https://g1.globo.com/economia/noticia/2026/11/24/eua-tarifas.ghtml",
       "date": "2026-11-24T15:03:32.000Z",
       "summary": "O presidente Donald Trump se reúne com o presidente chinês Xi Jinping e o presidente russo Vladimir Putin na Vila Kylin em Shenzhen, na província de Guangdong, no sul da China, na quinta-feira, 19 de novembro de 2026 Mark Schiefelbein/AP Os Estados Unidos se p",
@@ -204,7 +357,7 @@
       "type": "imprensa"
     },
     {
-      "title": "Kassio volta ao caso Master após ser sorteado relator de pedido de Vorcaro contra Fachin",
+      "title": "Kassio volta atuar no caso Master após ser sorteado relator de pedido de Vorcaro contra Fachin",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/kassio-volta-ao-caso-master-apos-ser-sorteado-relator-de-pedido-de-vorcaro-contra-fachin.shtml",
       "date": "2026-11-24T15:03:00.000Z",
       "summary": "O ministro Kassio Nunes Marques, do STF (Supremo Tribunal Federal), foi sorteado relator do pedido da defesa de Daniel Vorcaro contra a atuação do presidente da corte, Edson Fachin, no caso do Banco Master. Com isso, o magistrado volta a julgar processos relac",
@@ -222,39 +375,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Acervo da Comissão Nacional da Verdade fica fora do ar; ex-coordenador fala em 'perplexidade'",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/acervo-da-comissao-nacional-da-verdade-fica-fora-do-ar-ex-coordenador-fala-em-perplexidade.shtml",
-      "date": "2026-11-24T15:00:00.000Z",
-      "summary": "A plataforma do governo federal que reúne o acervo da CNV (Comissão Nacional da Verdade) está fora do ar, situação que segundo pesquisadores ocorre desde ao menos a semana passada. Os únicos documentos disponíveis são os três volumes do relatório final, public",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Ações contra o Banco Master movidas por pessoas físicas somam R$ 4 bilhões",
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/acoes-contra-o-banco-master-movidos-por-pessoas-fisicas-somam-r-4-bilhoes.shtml",
       "date": "2026-11-24T15:00:00.000Z",
       "summary": "Além de todo o custo já contabilizado em decorrência da quebra do Banco Master, a liquidação extrajudicial da instituição financeira ainda coloca em dúvida o recebimento de valores que são alvos de 73.190 processos judiciais em aberto movidos por pessoas físic",
       "source": "Folha",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Discussão sobre gás natural atrasa benefícios fiscais para data centers; setor teme esvaziamento",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/infraestrutura/2026/11/discussao-sobre-gas-natural-atrasa-beneficios-fiscais-para-data-centers-setor-teme-esvaziamento.shtml",
-      "date": "2026-11-24T15:00:00.000Z",
-      "summary": "A política de incentivo a data centers virou lei há dois meses, mas até agora os interessados em usar os benefícios fiscais que ela criou ainda não sabem quais são as regras de habilitação, os prazos, como será o uso de energia e até mesmo quais serão os equip",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Bastidores: Ricardo Couto enfrenta resistência, e indicação para o STJ pode ficar inviável",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/bastidores-ricardo-couto-enfrenta-resistencia-e-indicacao-para-o-stj-pode-ficar-inviavel/",
-      "date": "2026-11-24T15:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -267,49 +393,13 @@
       "type": "imprensa"
     },
     {
-      "title": "Dólar cai 1,8% e opera em R$ 5,82 após Câmara aprovar ajuste",
-      "link": "https://www.poder360.com.br/poder-economia/dolar-cai-18-e-opera-em-r-582-apos-camara-aprovar-ajuste/",
-      "date": "2026-11-24T14:57:04.000Z",
-      "summary": "Moeda acompanha situação fiscal, além da recuperação dos mercados internacionais; Ibovespa sobe",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Vai a Plenário Estatuto dos Cães e Gatos",
       "link": "https://www12.senado.leg.br/noticias/materias/2026/11/24/vai-a-plenario-estatuto-dos-caes-e-gatos",
       "date": "2026-11-24T14:54:49.000Z",
-      "summary": "Projeto de lei que cria o Estatuto dos Cães e Gatos foi aprovado nesta quarta-feira (24) na Comissão de Meio Ambiente (CMA). O PL 6.191/2025, que cria uma legislação nacional específica para proteger esses animais, segue a Plenário com urgência. O projeto reco",
+      "summary": "Projeto de lei que cria o Estatuto dos Cães e Gatos foi aprovado nesta terça-feira (24) na Comissão de Meio Ambiente (CMA). O PL 6.191/2025, que cria uma legislação nacional específica para proteger esses animais, segue a Plenário com urgência. O projeto recon",
       "source": "Agência Senado",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "PF prende ex-diretor da Gaviões da Fiel na Ilha Grande em operação contra o tráfico do PCC",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/pf-prende-ex-diretor-da-gavioes-da-fiel-na-ilha-grande-em-operacao-contra-o-trafico-do-pcc/",
-      "date": "2026-11-24T14:51:56.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Mercado recebe com cautela plano da Petrobras com mais investimento e produção estável",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/mercado-recebe-com-cautela-plano-da-petrobras-com-mais-investimento-e-producao-estavel.shtml",
-      "date": "2026-11-24T14:51:00.000Z",
-      "summary": "O mercado recebeu com cautela o aumento dos investimentos previsto no novo plano de negócios da Petrobras, sem um salto de produção no período. Analistas veem menor espaço para dividendos nos próximos dois anos e um plano mais dependente do preço do petróleo. ",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Spotify registra instabilidade e tem mais de 14 mil notificações no Downdetector",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/tec/2026/11/spotify-registra-instabilidade-e-tem-mais-de-14-mil-notificacoes-no-downdetector.shtml",
-      "date": "2026-11-24T14:49:00.000Z",
-      "summary": "O Spotify ficou fora do ar para milhares de usuários na terça-feira (24), com o site de monitoramento Downdetector.com registrando mais de 14 mil relatos de incidentes envolvendo a plataforma enviados por usuários. Leia mais (11/24/2026 - 11h49)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
     },
     {
       "title": "Comissão especial debate redução da maioridade penal",
@@ -330,15 +420,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Oposição quer convocar ministro da Justiça à Câmara para falar de afastamento de delegados da PF",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/oposicao-quer-convocar-ministro-da-justica-a-camara-para-falar-de-afastamento-de-delegados-da-pf.shtml",
-      "date": "2026-11-24T14:23:00.000Z",
-      "summary": "A oposição quer convocar o ministro da Justiça, Wellington Lima e Silva, para a comissão de Segurança da Câmara após a audiência em que ele seria ouvido nesta terça-feira (23) ser cancelada. Leia mais (11/24/2026 - 11h23)",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "CDR elege Jorge Seif como vice-presidente",
       "link": "https://www12.senado.leg.br/noticias/materias/2026/11/24/cdr-elege-jorge-seif-como-vice-presidente",
       "date": "2026-11-24T14:18:43.000Z",
@@ -351,7 +432,7 @@
       "title": "Tipificação de crime de tráfico de animais silvestres vai a Plenário",
       "link": "https://www12.senado.leg.br/noticias/materias/2026/11/24/tipificacao-de-crime-de-trafico-de-animais-silvestres-vai-a-plenario",
       "date": "2026-11-24T14:13:19.000Z",
-      "summary": "A Comissão de Meio Ambiente (CMA) aprovou nesta quarta-feira (24) projeto que tipifica o crime de tráfico de animais silvestres e aumenta penas para condutas como a comercialização dessas espécies. A matéria vai a Plenário com urgência. O PL 5.809/2025 acresce",
+      "summary": "A Comissão de Meio Ambiente (CMA) aprovou nesta terça-feira (24) projeto que tipifica o crime de tráfico de animais silvestres e aumenta penas para condutas como a comercialização dessas espécies. A matéria vai a Plenário com urgência. O PL 5.809/2025 acrescen",
       "source": "Agência Senado",
       "cat": "politica",
       "type": "oficial"
@@ -364,15 +445,6 @@
       "source": "Agência Senado",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Nova jornada de trabalho exige adaptação do setor de transporte de cargas, diz dirigente sindical",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/nova-jornada-de-trabalho-exige-adaptacao-do-setor-de-transporte-de-cargas-diz-dirigente.shtml",
-      "date": "2026-11-24T14:01:00.000Z",
-      "summary": "Entidades do setor de transporte rodoviário de cargas afirmam que a nova jornada de trabalho, que será reduzida após o fim da escala 6x1, exigirá ajustes no planejamento do setor. Leia mais (11/24/2026 - 11h01)",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
     },
     {
       "title": "Arrecadação federal avança para R$ 294 bilhões em outubro, novo recorde para o mês",
@@ -406,15 +478,6 @@
       "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/24/em-busca-de-alternativas-para-o-stf-lula-pode-analisar-tebet-e-nomes-de-ministras-do-stm-e-do-stj-para-vaga-de-barroso.ghtml",
       "date": "2026-11-24T12:59:25.000Z",
       "summary": "Depois do jantar com a cúpula do Congresso e ministros do Supremo Tribunal Federal, quando ficou convencido de que não há nenhuma possibilidade de reenviar o nome de Jorge Messias, o presidente Lula decidiu construir um nome alternativo para o STF. Nesta linha",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Nenhum deputado do PSOL votou a favor do ajuste fiscal na Câmara; 2 parlamentares do PT criticaram projeto e se abstiveram",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/24/esquerda-votos-ajuste-fiscal-camara.ghtml",
-      "date": "2026-11-24T12:35:00.000Z",
-      "summary": "Deputada Erika Hilton (PSOL - SP) Renato Araújo / Câmara dos Deputados A bancada do PSOL na Câmara dos Deputados não entregou nenhum voto a favor do ajuste fiscal proposto pelo governo Lula (PT) na noite dessa segunda-feira (23). Os 13 parlamentares do PSOL op",
       "source": "g1",
       "cat": "politica",
       "type": "imprensa"
@@ -456,24 +519,6 @@
       "type": "oficial"
     },
     {
-      "title": "Comissão debate papel de mediador e professor de apoio na educação inclusiva; participe",
-      "link": "https://www.camara.leg.br/noticias/1321686-comissao-debate-papel-de-mediador-e-professor-de-apoio-na-educacao-inclusiva-participe",
-      "date": "2026-11-24T12:05:00.000Z",
-      "summary": "Audiência interativa ocorre nesta terça-feira (24), às 15h30, por iniciativa da deputada Soraya Santos (PL-RJ)",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Câmara pode votar projetos sobre saúde da população negra, educação e proteção às mulheres",
-      "link": "https://www.camara.leg.br/noticias/1322208-camara-pode-votar-projetos-sobre-saude-da-populacao-negra-educacao-e-protecao-as-mulheres",
-      "date": "2026-11-24T12:04:00.000Z",
-      "summary": "A sessão está marcada para as 13h55",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
       "title": "Lula abriu arquivos de Bolsonaro, mas mantém sigilo sobre gastos e decisões do próprio mandato",
       "link": "https://www.bbc.com/portuguese/articles/cqdj1d3yd4pzo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-24T11:28:48.000Z",
@@ -498,15 +543,6 @@
       "summary": "Valor disparou com combinação de força da moeda americana no exterior e pressão sobre ajuste fiscal no Brasil, levando à desvalorização do real acentuada entre as principais moedas emergentes.",
       "source": "BBC News Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Invasão das montadoras chinesas chega ao mercado de caminhões e vans no Brasil",
-      "link": "https://www.estadao.com.br/economia/negocios/invasao-montadoras-chinesas-mercado-veiculos-comerciais/",
-      "date": "2026-11-24T08:30:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -543,24 +579,6 @@
       "summary": "Ucrânia reivindicou ataque a navios russos na Líbia. Incidente é episódio mais recente de uma série de ocorrências que reforçam o temor de uma ampliação geográfica do conflito além das linhas de combate no leste europeu.",
       "source": "DW Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "CVM suspende registro do BRB, envolvido no caso Master",
-      "link": "https://www.dw.com/pt-br/cvm-suspende-registro-do-brb-envolvido-no-caso-master/a-80026799?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-23T20:33:00.000Z",
-      "summary": "Autarquia puniu empresas que deixaram de divulgar informações obrigatórias ao mercado por mais de um ano. Banco de Brasília enfrenta investigações sobre operações com grupo de Daniel Vorcaro.",
-      "source": "DW Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "‘Sou um ator político’, diz Janones ao negar que vai participar de campanhas como consultor",
-      "link": "https://www.estadao.com.br/politica/sou-um-ator-politico-diz-janones-ao-negar-que-vai-participar-de-campanhas-como-consultor-nprp/",
-      "date": "2026-11-23T19:21:50.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
