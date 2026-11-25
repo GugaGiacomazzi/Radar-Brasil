@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-25T01:03:30.857Z",
+  "updated": "2026-11-25T02:30:27.906Z",
   "market": {
     "ibov": {
       "price": 164089.81,
       "pct": -0.43,
-      "time": "2026-11-25T01:03:25.888Z",
+      "time": "2026-11-25T02:30:21.061Z",
       "history": [
         {
           "d": "2026-10-26",
@@ -141,6 +141,69 @@
   },
   "news": [
     {
+      "title": "Governo Lula libera R$ 3,4 bi do Orçamento após excluir mais despesas da meta de 2026",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/governo-lula-libera-r-34-bi-do-orcamento-apos-excluir-mais-despesas-da-meta-de-2026.shtml",
+      "date": "2026-11-25T02:13:00.000Z",
+      "summary": "O governo de Luiz Inácio Lula da Silva (PT) anunciou nesta terça-feira (24) uma liberação de R$ 3,43 bilhões em despesas do Orçamento de 2026, graças à redução de gastos obrigatórios e à decisão de excluir da meta fiscal R$ 10,5 bilhões em gastos com a subvenç",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Alcolumbre ameaça anular voto do senador que quebrar sigilo de cédula na eleição do Senado",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/alcolumbre-ameaca-anular-voto-do-senador-que-quebrar-sigilo-de-cedula-na-eleicao-do-senado.shtml",
+      "date": "2026-11-25T02:00:00.000Z",
+      "summary": "O presidente do Senado, Davi Alcolumbre (União Brasil-AP), pretende anular os votos dos senadores que mostrarem a cédula de votação no dia da eleição para a Mesa Diretora do Senado. A estratégia foi revelada por ele a quatro aliados ouvidos pela Folha. Leia ma",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "O ministério de Lula",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2026/11/o-ministerio-de-lula.shtml",
+      "date": "2026-11-25T02:00:00.000Z",
+      "summary": "Com uma fala imperial, Lula fechou o balcão de especulações e futricas sobre a composição de seu novo ministério: \"Cada ministério desse país será indicado por mim, na hora que eu quiser. No dia que eu quiser\". É um sonho de uma noite de verão, pois nenhum pre",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "CNI entra com ação no STF contra regulamentação do governo Lula sobre fim da escala 6x1",
+      "link": "https://www.estadao.com.br/economia/cni-entra-com-acao-no-stf-contra-regulamentacao-do-governo-lula-sobre-fim-da-escala-6x1/",
+      "date": "2026-11-25T01:35:06.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Câmara convoca ministro para explicar troca de delegados da PF",
+      "link": "https://www.poder360.com.br/poder-justica/camara-convoca-ministro-para-explicar-troca-de-delegados-da-pf/",
+      "date": "2026-11-25T01:31:36.000Z",
+      "summary": "Deputado quer esclarecimentos sobre mudanças na estrutura da Polícia Federal e revisão de relatórios que citam ministros do STF no caso Master",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Disputa pela Casa Civil pode deixar Haddad fora do governo Lula 4",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/disputa-pela-casa-civil-pode-deixar-haddad-fora-do-governo-lula-4.shtml",
+      "date": "2026-11-25T01:10:00.000Z",
+      "summary": "O ex-ministro da Fazenda Fernando Haddad poderá ficar fora do governo Lula 4 caso não seja escalado para o comando da Casa Civil, afirmam aliados. Leia mais (11/24/2026 - 22h10)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Entenda diferenças entre votos de cristãos conservadores e classes D/E, que são 47% do eleitorado",
+      "link": "https://www.estadao.com.br/politica/entenda-diferencas-entre-votos-de-cristaos-conservadores-e-classes-d-e-e-que-sao-47-do-eleitorado-nprp/",
+      "date": "2026-11-25T01:08:38.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "Lula recebe Tarso e Dino em nova rodada de conversas sobre próximo governo",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/11/lula-recebe-tarso-e-dino-em-nova-rodada-de-conversas-sobre-proximo-governo.shtml",
       "date": "2026-11-25T01:00:00.000Z",
@@ -150,12 +213,30 @@
       "type": "imprensa"
     },
     {
-      "title": "Em campanha, Alcolumbre recebe bancada feminina e Marinho convida colegas para aniversário",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/11/em-campanha-alcolumbre-recebe-bancada-feminina-e-marinho-convida-colegas-para-aniversario.shtml",
-      "date": "2026-11-25T00:47:00.000Z",
-      "summary": "Em campanha pela Presidência do Senado, Davi Alcolumbre (União Brasil-AP) e Rogério Marinho (PL-RN) pretendem se encontrar com os colegas nesta quarta-feira (25) em duas agendas paralelas às votações do Congresso Nacional. Leia mais (11/24/2026 - 21h47)",
+      "title": "Anthropic fecha abaixo do preço do IPO pela primeira vez com desaceleração de ações de tecnologia",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/anthropic-fecha-abaixo-do-preco-do-ipo-pela-primeira-vez-com-desaceleracao-de-acoes-de-tecnologia.shtml",
+      "date": "2026-11-25T01:00:00.000Z",
+      "summary": "As ações de tecnologia dos Estados Unidos caíram nesta terça-feira (24), levando a Anthropic a ficar abaixo de seu preço de estreia na Bolsa pela primeira vez. O desempenho ocorre na esteira da desaceleração de uma forte alta, impulsionada pelo retorno de Jens",
       "source": "Folha",
-      "cat": "politica",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "A credibilidade fiscal é condição para preservar o investimento e o crescimento",
+      "link": "https://www.estadao.com.br/economia/a-credibilidade-fiscal-e-condicao-para-preservar-o-investimento-e-o-crescimento/",
+      "date": "2026-11-25T01:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Com melhora do setor, venda de fatia da Ipiranga pela Ultrapar esfria",
+      "link": "https://www.estadao.com.br/economia/coluna-da-broad/com-melhora-do-setor-venda-de-fatia-da-ipiranga-pela-ultrapar-esfria/",
+      "date": "2026-11-25T01:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -213,15 +294,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Em carta, PT defende “vontade popular” acima de interesses econômicos",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/em-carta-pt-defende-vontade-popular-acima-de-interesses-economicos/",
-      "date": "2026-11-24T23:59:34.000Z",
-      "summary": "Partido celebra vitória eleitoral, afirma que interesses de grandes corporações não devem se sobrepor à vontade dos eleitores e indica desafios para Lula 4",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Senado aprova Plano Nacional de Cultura para os próximos 10 anos",
       "link": "https://www12.senado.leg.br/noticias/materias/2026/11/24/senado-aprova-plano-nacional-de-cultura-para-os-proximos-10-anos",
       "date": "2026-11-24T23:56:23.000Z",
@@ -246,15 +318,6 @@
       "summary": "",
       "source": "Estadão",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Aliado dos Bolsonaros e crítico de Moraes deixa Departamento de Estado dos EUA",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/aliado-dos-bolsonaros-e-critico-de-moraes-deixa-departamento-de-estado-dos-eua.shtml",
-      "date": "2026-11-24T23:34:00.000Z",
-      "summary": "O conselheiro do Departamento de Estado dos Estados Unidos para assuntos relacionados ao Brasil, Darren Beattie, deixou o governo de Donald Trump. Próximo da família Bolsonaro e crítico do presidente Lula (PT) e do ministro Alexandre de Moraes, do STF (Supremo",
-      "source": "Folha",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -303,30 +366,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Motta negocia R$ 3 milhões em verba do governo Lula para deputados atuais e novos",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/motta-negocia-r-3-milhoes-em-verba-do-governo-lula-para-deputados-atuais-e-novos.shtml",
-      "date": "2026-11-24T23:19:00.000Z",
-      "summary": "O presidente da Câmara dos Deputados, Hugo Motta (Republicanos-PB), prometeu R$ 3 milhões para os deputados atuais e novos indicarem em verbas do governo Lula (PT). Os recursos seriam um estímulo à votação de medidas fiscais e um aceno aos novos parlamentares,",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Em carta, PT diz que nenhum interesse econômico pode ficar acima da vontade popular",
       "link": "https://g1.globo.com/politica/noticia/2026/11/24/em-carta-pt-diz-que-nenhum-interesse-economico-pode-ficar-acima-da-vontade-popular.ghtml",
       "date": "2026-11-24T23:15:40.000Z",
       "summary": "O Partido dos Trabalhadores (PT) divulgou nesta terça-feira (24) uma carta aos brasileiros com compromissos para o país para o quarto mandato do presidente Luiz Inácio Lula da Silva (PT). No documento, o partido diz que nenhum interesse econômico pode ficar ac",
       "source": "g1",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Após projeto de ajuste fiscal, PEC com novas medidas pode gerar novo ‘racha’ na bancada governista",
-      "link": "https://www.estadao.com.br/economia/apos-projeto-de-ajuste-fiscal-pec-com-novas-medidas-pode-gerar-novo-racha-na-bancada-governista/",
-      "date": "2026-11-24T23:15:01.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -339,39 +384,12 @@
       "type": "oficial"
     },
     {
-      "title": "Justiça atende governo Lula e obriga empresas a cumprir novas regras para VA e VR",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/justica-atende-governo-lula-e-obriga-empresas-a-cumprir-novas-regras-para-va-e-vr.shtml",
-      "date": "2026-11-24T23:08:00.000Z",
-      "summary": "O TRF-1 (Tribunal Regional Federal da 1ª Região) suspendeu nesta terça-feira (24) os efeitos da decisão liminar (provisória) que dispensava as empresas ligadas à ABBT (Associação Brasileira das Empresas de Benefícios ao Trabalhador) de se adequarem às novas re",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Moraes rejeita pedido para abater da pena de Zambelli o tempo de prisão na Itália e provisória",
       "link": "https://www.estadao.com.br/politica/moraes-rejeita-pedido-para-abater-da-pena-de-zambelli-o-tempo-de-prisao-preventiva-e-na-italia-nprp/",
       "date": "2026-11-24T22:59:15.000Z",
       "summary": "",
       "source": "Estadão",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Atividade econômica da Argentina cai pelo segundo trimestre consecutivo",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/argentina-entra-em-recessao-tecnica-apos-resultados-do-terceiro-trimestre.shtml",
-      "date": "2026-11-24T22:50:00.000Z",
-      "summary": "A atividade econômica da Argentina caiu 1,8% entre julho e setembro na comparação com o período de três meses anterior, segundo um indicador aproximado do PIB (Produto Interno Bruto) divulgado nesta terça-feira (24) pelo Indec (Instituto Nacional de Estatístic",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Itaú entra no Minha Casa, Minha Vida e avança sobre mercado dominado pela Caixa",
-      "link": "https://www.estadao.com.br/economia/negocios/itau-entra-no-minha-casa-minha-vida-e-avanca-sobre-mercado-dominado-pela-caixa/",
-      "date": "2026-11-24T22:38:11.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -456,15 +474,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Amapá Minerals reativa mina de ouro parada desde 2022 e levanta US$ 110 milhões na Bolsa de Toronto",
-      "link": "https://www.estadao.com.br/economia/negocios/amapa-minerals-reativa-mina-de-ouro-parada-desde-2022-e-levanta-us-110-milhoes-na-bolsa-de-toronto/",
-      "date": "2026-11-24T21:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Chinesa Huawei é condenada nos EUA por negócios no Irã e roubo de segredos comerciais; entenda",
       "link": "https://g1.globo.com/tecnologia/noticia/2026/11/24/chinesa-huawei-e-condenada-nos-eua.ghtml",
       "date": "2026-11-24T20:51:12.000Z",
@@ -516,15 +525,6 @@
       "summary": "Funcionários chegaram à Alemanha fugindo do próprio Talibã. Ainda assim, teriam aceitado trabalhar para representação diplomática controlada pelo grupo no oeste da Alemanha, segundo investigação de emissoras públicas.",
       "source": "DW Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Jair Bolsonaro apresenta ‘melhora clínica discreta’, mas segue internado em UTI, informa hospital",
-      "link": "https://www.estadao.com.br/politica/jair-bolsonaro-apresenta-melhora-clinica-discreta-mas-segue-internado-em-uti-informa-hospital-nprp/",
-      "date": "2026-11-24T18:25:57.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -710,6 +710,7 @@
   ],
   "errors": [
     "feed CNN Brasil: HTTP 404",
-    "feed CNN Brasil: HTTP 404"
+    "feed CNN Brasil: HTTP 404",
+    "feed Planalto (governo): HTTP 429"
   ]
 }
