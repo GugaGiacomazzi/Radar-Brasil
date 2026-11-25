@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-25T08:44:10.662Z",
+  "updated": "2026-11-25T10:07:01.084Z",
   "market": {
     "ibov": {
       "price": 164089.81,
       "pct": -0.43,
-      "time": "2026-11-25T08:44:06.407Z",
+      "time": "2026-11-25T10:06:55.554Z",
       "history": [
         {
           "d": "2026-10-26",
@@ -141,6 +141,96 @@
   },
   "news": [
     {
+      "title": "A frase que faltou no pacote fiscal",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/mauricio-portugal-ribeiro/2026/11/a-frase-que-faltou-no-pacote-fiscal.shtml",
+      "date": "2026-11-25T10:00:00.000Z",
+      "summary": "Quem atrasa um imposto no Brasil paga multa e juros, é inscrito em dívida ativa e pode ser protestado em cartório e ter a conta bloqueada. Quem tem a receber do Estado espera. A regra que o poder público impõe a todos não vale para ele. Leia mais (11/25/2026 -",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Shein aceita pagar US$ 100 milhões após investigação dos EUA sobre falhas nos serviços",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/shein-aceita-pagar-us-100-milhoes-apos-investigacao-dos-eua-sobre-falhas-nos-servicos.shtml",
+      "date": "2026-11-25T09:59:00.000Z",
+      "summary": "A Shein concordou em pagar US$ 100 milhões (R$ 590,8 milhões) para encerrar uma ação judicial movida por autoridades dos Estados Unidos por falhas nos serviços e informações enganosas, entre outras acusações. Leia mais (11/25/2026 - 06h59)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Trump cogita conceder perdão a Huang: “É sempre uma opção”",
+      "link": "https://www.poder360.com.br/poder-internacional/trump-cogita-conceder-perdao-a-huang-e-sempre-uma-opcao/",
+      "date": "2026-11-25T09:48:01.000Z",
+      "summary": "Presidente norte-americano diz que a medida em favor do CEO da Nvidia provavelmente não será necessária",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Os riscos que Trump corre com a volta de Jensen Huang ao comando da Nvidia",
+      "link": "https://www.bbc.com/portuguese/articles/cqdj1xz29jkdo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-25T09:29:24.000Z",
+      "summary": "Intervenção do presidente dos EUA para reconduzir Jensen Huang ao cargo de CEO deixou os destinos de ambos inextricavelmente ligados.",
+      "source": "BBC News Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Saiba quais ações estão na pauta do Congresso nesta 4ª feira",
+      "link": "https://www.poder360.com.br/poder-congresso/saiba-quais-acoes-estao-na-pauta-do-congresso-nesta-4a-feira-5/",
+      "date": "2026-11-25T09:15:59.000Z",
+      "summary": "Senado discute falsificação de alimentos; Câmara analisa racismo nas escolas, tornozeleiras e \"deepfakes\"",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Governo Lula: leia a agenda de ministros do governo nesta 4ª feira",
+      "link": "https://www.poder360.com.br/poder-governo/governo-lula-leia-a-agenda-de-ministros-do-governo-nesta-4a-feira-18/",
+      "date": "2026-11-25T09:15:53.000Z",
+      "summary": "Reuniões no Alvorada, conectividade na assistência social e eventos de infraestrutura e inovação marcam o dia",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Agenda de Lula: leia os compromissos do presidente 4ª feira",
+      "link": "https://www.poder360.com.br/poder-governo/agenda-de-lula-leia-os-compromissos-do-presidente-4a-feira-4/",
+      "date": "2026-11-25T09:15:36.000Z",
+      "summary": "Chefe do Executivo recebe ministro da Justiça, titulares da Casa Civil e do Planejamento e auxiliares",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "PL recua de candidatura própria e deve apoiar emedebista para presidir Câmara paulistana",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/pl-recua-de-candidatura-propria-e-deve-apoiar-emedebista-para-presidir-camara-paulistana.shtml",
+      "date": "2026-11-25T09:00:00.000Z",
+      "summary": "O PL deve apoiar a candidatura do vereador João Jorge (MDB) à presidência da Câmara Municipal de São Paulo, depois de ameaçar lançar candidato próprio e abrir uma crise na base de sustentação do prefeito Ricardo Nunes (MDB). Em troca, Jorge se comprometeu a en",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "IA pode ajudar consumidor em compras na Black Friday; veja como utilizar a ferramenta",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/ia-pode-ajudar-consumidor-em-compras-na-black-friday-veja-como-utilizar-a-ferramenta.shtml",
+      "date": "2026-11-25T09:00:00.000Z",
+      "summary": "Milhares de produtos com descontos e condições especiais estão espalhados por feeds de redes sociais e fachadas de comércios com a chegada da Black Friday, cuja data oficial é nesta sexta-feira (27). Em meio à vastidão de ofertas, ferramentas de inteligência a",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Julgamento de Van Hattem no STF é o primeiro round da guerra entre Senado e Supremo em 2027?",
+      "link": "https://www.bbc.com/portuguese/articles/cqdr13l5e830o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-25T08:44:53.000Z",
+      "summary": "Caso aceite denúncia da PGR, deputado, eleito neste ano senador pelo Novo, pode virar réu por calúnia e injúria. Mas especialistas alertam para possível retaliação de parlamentares críticos ao Supremo.",
+      "source": "BBC News Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
       "title": "Bastidores: STJ avalia sugerir a Lula lista quíntupla com nomes de 3 mulheres para vagas na Corte",
       "link": "https://www.estadao.com.br/politica/coluna-do-estadao/bastidores-stj-avalia-sugerir-a-lula-lista-quintupla-com-nomes-de-3-mulheres-para-vagas-na-corte/",
       "date": "2026-11-25T08:30:00.000Z",
@@ -159,30 +249,30 @@
       "type": "imprensa"
     },
     {
-      "title": "PIB da Alemanha cresce 0,1% no 3º tri, abaixo da estimativa inicial",
-      "link": "https://www.poder360.com.br/poder-economia/pib-da-alemanha-cresce-01-no-3o-tri-abaixo-da-estimativa-inicial/",
-      "date": "2026-11-25T08:17:02.000Z",
-      "summary": "Resultado representa desaceleração em relação ao 1º semestre; exportações e investimentos em máquinas recuaram no período",
-      "source": "Poder360",
-      "cat": "politica",
+      "title": "‘Brasil voltará a ser punido se cenário externo piorar’, diz economista-chefe do Barclays",
+      "link": "https://www.estadao.com.br/economia/brasil-voltara-a-ser-punido-se-cenario-externo-piorar-diz-economista-chefe-do-barclays/",
+      "date": "2026-11-25T08:30:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
       "type": "imprensa"
     },
     {
-      "title": "Rede apresenta 59 prioridades para a Amazônia até 2030",
-      "link": "https://www.poder360.com.br/poder-sustentavel/rede-apresenta-59-prioridades-para-a-amazonia-ate-2030/",
-      "date": "2026-11-25T08:00:55.000Z",
-      "summary": "Documento reúne propostas para orientar governos e empresas nas áreas de biodiversidade, alimentação, florestas, saneamento e energia",
-      "source": "Poder360",
-      "cat": "politica",
+      "title": "Preocupação fiscal cresce e bancos de NY à Faria Lima reduzem recomendação de Brasil nas carteiras",
+      "link": "https://www.estadao.com.br/economia/preocupacao-fiscal-cresce-e-bancos-de-ny-a-faria-lima-reduzem-recomendacao-de-brasil-nas-carteiras/",
+      "date": "2026-11-25T08:30:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
       "type": "imprensa"
     },
     {
-      "title": "Governo reduz contenção de gastos no Orçamento para R$ 12,6 bi",
-      "link": "https://www.poder360.com.br/poder-economia/governo-reduz-contencao-de-gastos-no-orcamento-para-r-126-bi/",
-      "date": "2026-11-25T07:00:55.000Z",
-      "summary": "A redução se dá depois da retirada de R$ 10,5 bilhões em subsídios aos combustíveis do cálculo da meta fiscal",
-      "source": "Poder360",
-      "cat": "politica",
+      "title": "Bad Bunny na posse de Lula: como o porto-riquenho transformou sua identidade em um negócio global",
+      "link": "https://www.estadao.com.br/economia/camila-farani/bad-bunny-na-posse-de-lula-como-o-porto-riquenho-transformou-sua-identidade-em-um-negocio-global/",
+      "date": "2026-11-25T08:30:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -201,42 +291,6 @@
       "summary": "Com a extinção do PIS e da Cofins e o início da cobrança da CBS (Contribuição sobre Bens e Serviços) em 1º de janeiro de 2027, surge uma questão relevante: será possível utilizar créditos da nova contribuição para compensar débitos de outros tributos federais?",
       "source": "Folha",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Alemanha dobrará subsídios a carros elétricos; abatimento pode chegar a um terço do valor total",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/economia-sustentavel/2026/11/alemanha-dobrara-subsidios-a-carros-eletricos-abatimento-pode-chegar-a-um-terco-do-valor-total.shtml",
-      "date": "2026-11-25T07:00:00.000Z",
-      "summary": "A Alemanha pretende dobrar o valor destinado ao subsídio que oferece a consumidores que compram carros elétricos em 2027, segundo as primeiras versões do Orçamento do ano que vem apresentadas pelo governo do país europeu. Leia mais (11/25/2026 - 04h00)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Mercado vê avanço no plano Moretti, mas espera novas medidas para conter gastos de forma estrutural",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/mercado-ve-avanco-no-plano-moretti-mas-espera-novas-medidas-para-conter-gastos-de-forma-estrutual.shtml",
-      "date": "2026-11-25T07:00:00.000Z",
-      "summary": "A aprovação do chamado plano Moretti pela Câmara foi recebida como um sinal positivo pelo mercado financeiro, por indicar a disposição do governo de avançar na agenda de ajuste fiscal. As medidas têm impacto estimado entre R$ 46 bilhões e R$ 56 bilhões em 2027",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Justiça condena XP e assessoria por atraso em transferência de CDBs do Master que impediu cobertura do FGC",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/justica-condena-xp-e-assessoria-por-atraso-em-transferencia-de-cdbs-do-master-que-impediu-cobertura-do-fgc.shtml",
-      "date": "2026-11-25T07:00:00.000Z",
-      "summary": "A 3ª Vara Cível da Comarca de Paulínia (SP) condenou a XP Investimentos e a assessoria Mônaco Investimentos por falhas na transferência de titularidade de CDBs (Certificados de Depósito Bancário) do Banco Master, de acordo com a sentença, obtida pela reportage",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Lula reúne equipe econômica para discutir novas medidas fiscais",
-      "link": "https://www.poder360.com.br/poder-governo/lula-reune-equipe-economica-para-discutir-novas-medidas-fiscais/",
-      "date": "2026-11-25T06:27:48.000Z",
-      "summary": "Encontro será às 15h desta 4ª (25.nov) e terá a presença dos ministros Bruno Moretti (Planejamento) e Miriam Belchior (Casa Civil)",
-      "source": "Poder360",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -273,15 +327,6 @@
       "summary": "",
       "source": "Estadão",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Free flow avança no Brasil e amplia a importância de soluções para pagamentos veiculares",
-      "link": "https://www.estadao.com.br/economia/free-flow-avanca-no-brasil-e-amplia-a-importancia-de-solucoes-para-pagamentos-veiculares/",
-      "date": "2026-11-25T03:01:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -336,24 +381,6 @@
       "summary": "Com uma fala imperial, Lula fechou o balcão de especulações e futricas sobre a composição de seu novo ministério: \"Cada ministério desse país será indicado por mim, na hora que eu quiser. No dia que eu quiser\". É um sonho de uma noite de verão, pois nenhum pre",
       "source": "Folha",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Disputa pela Casa Civil pode deixar Haddad fora do governo Lula 4",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/disputa-pela-casa-civil-pode-deixar-haddad-fora-do-governo-lula-4.shtml",
-      "date": "2026-11-25T01:10:00.000Z",
-      "summary": "O ex-ministro da Fazenda Fernando Haddad poderá ficar fora do governo Lula 4 caso não seja escalado para o comando da Casa Civil, afirmam aliados. Leia mais (11/24/2026 - 22h10)",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "A credibilidade fiscal é condição para preservar o investimento e o crescimento",
-      "link": "https://www.estadao.com.br/economia/a-credibilidade-fiscal-e-condicao-para-preservar-o-investimento-e-o-crescimento/",
-      "date": "2026-11-25T01:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -528,15 +555,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Arrecadação em outubro sobe 7,3%, alcança R$ 294 bilhões e bate recorde para o mês",
-      "link": "https://www.estadao.com.br/economia/receita-federal-arrecadacao-outubro-2026-sobe-recorde/",
-      "date": "2026-11-24T15:56:16.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "PF prende ex-diretor da Gaviões da Fiel na Ilha Grande em operação contra o tráfico do PCC",
       "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/pf-prende-ex-diretor-da-gavioes-da-fiel-na-ilha-grande-em-operacao-contra-o-trafico-do-pcc/",
       "date": "2026-11-24T14:51:56.000Z",
@@ -582,15 +600,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Plano de Moretti é um 'primeiro passo', e governo Lula pode fazer outros ajustes fiscais no futuro, afirma Laura Carvalho",
-      "link": "https://www.bbc.com/portuguese/articles/cm1dvg9n5w2xo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-24T03:01:46.000Z",
-      "summary": "Professora da USP esteve na primeira reunião econômica pós-reeleição de Lula. Para ela, desgaste público da proposta do ministro do Planejamento poderia ter sido evitado com melhor comunicação.",
-      "source": "BBC News Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
       "title": "Câmara aprova ajuste fiscal de Lula: por que pacote é tão polêmico e não deve ser suficiente, segundo economistas",
       "link": "https://www.bbc.com/portuguese/articles/cqx2we1jgnzgo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-24T02:50:44.000Z",
@@ -607,15 +616,6 @@
       "source": "ONU News",
       "cat": "internacional",
       "type": "oficial"
-    },
-    {
-      "title": "Há 200 anos, Brasil se comprometia a acabar com o 'tráfico negreiro' — só 'para inglês ver'",
-      "link": "https://www.bbc.com/portuguese/articles/c6gre2771yr8o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-23T10:54:26.000Z",
-      "summary": "Há 200 anos, em 23 de novembro de 1826, os governos britânico e brasileiro assinaram um acordo que estipulava o fim do tráfico transatlântico de africanos escravizados para o Brasil; mas, na prática, nada mudou.",
-      "source": "BBC News Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
     },
     {
       "title": "COP31 termina sem acordo climático, em desfecho “decepcionante”",
