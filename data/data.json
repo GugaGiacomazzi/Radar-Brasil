@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-25T20:52:28.899Z",
+  "updated": "2026-11-25T21:55:00.207Z",
   "market": {
     "ibov": {
-      "price": 166635.25,
-      "pct": 1.55,
-      "time": "2026-11-25T20:52:25.636Z",
+      "price": 166684.61,
+      "pct": 1.58,
+      "time": "2026-11-25T21:54:53.083Z",
       "history": [
         {
           "d": "2026-10-26",
@@ -88,7 +88,7 @@
         },
         {
           "d": "2026-11-25",
-          "c": 166635.25
+          "c": 166684.6094
         }
       ]
     },
@@ -145,22 +145,265 @@
   },
   "news": [
     {
-      "title": "Uma crise na França seria uma ameaça (e uma oportunidade) para a Europa",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/martinwolf/2026/11/uma-crise-na-franca-seria-uma-ameaca-e-uma-oportunidade-para-a-europa.shtml",
-      "date": "2026-11-25T20:44:00.000Z",
-      "summary": "Até que ponto a UE (União Europeia) conseguirá lidar com o avanço do nacionalismo populista pelo continente? O bloco é o arranjo supranacional mais avançado do mundo. França e Alemanha são seus dois países indispensáveis. No entanto, o cenário que se desenha é",
+      "title": "STF flexibiliza exigência de valores em ações trabalhistas",
+      "link": "https://www.poder360.com.br/poder-justica/stf-flexibiliza-exigencia-de-valores-em-acoes-trabalhistas/",
+      "date": "2026-11-25T21:53:24.000Z",
+      "summary": "Por maioria, os ministros consideraram que o trabalhador poderá indicar só uma estimativa quando não for possível cálculo exato",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "CMN e BC aprimoram medidas para prevenir riscos associados ao endividamento",
+      "link": "https://www.bcb.gov.br/detalhenoticia/21335/nota",
+      "date": "2026-11-25T21:52:25.000Z",
+      "summary": "",
+      "source": "Banco Central",
+      "cat": "economia",
+      "type": "oficial"
+    },
+    {
+      "title": "Câmara aprova protocolo contra discriminação racial nas escolas",
+      "link": "https://www.camara.leg.br/noticias/1323029-camara-aprova-protocolo-contra-discriminacao-racial-nas-escolas",
+      "date": "2026-11-25T21:44:00.000Z",
+      "summary": "Medidas abrangem ensinos básico e superior; proposta segue para o Senado Federal",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Brasil em busca de um lugar no mundo",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/maria-herminia-tavares/2026/11/brasil-em-busca-de-um-lugar-no-mundo.shtml",
+      "date": "2026-11-25T21:39:00.000Z",
+      "summary": "A eletrizante vitória do presidente Lula sobre Flávio Bolsonaro o transformou em símbolo mundial do combate dos progressistas à direita extremada. Além disso, reforçou uma imagem positiva do Brasil, onde a democracia venceu duas vezes na cabine indevassável o ",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Aviso",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/romulo-saraiva/2026/11/aviso.shtml",
+      "date": "2026-11-25T21:38:00.000Z",
+      "summary": "Excepcionalmente, a coluna não será publicada nesta quarta-feira (25). Leia mais (11/25/2026 - 18h38)",
       "source": "Folha",
       "cat": "economia",
       "type": "imprensa"
     },
     {
-      "title": "Subcomissão Yanomami aprova relatório que propõe plano decenal de proteção",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/25/subcomissao-yanomami-aprova-relatorio-que-propoe-plano-decenal-de-protecao",
-      "date": "2026-11-25T20:37:43.000Z",
-      "summary": "A Subcomissão Permanente dos Povos Indígenas Yanomami, da Comissão de Direitos Humanos (CDH), aprovou nesta quarta-feira (25) o relatório de diligência feita em São Gabriel da Cachoeira (AM). Apresentado pela presidente da subcomissão, senadora Damares Alves (",
+      "title": "O fracasso da COP-31: as prioridades do mundo mudaram diante da crise energética",
+      "link": "https://www.estadao.com.br/economia/celso-ming/o-fracasso-da-cop-31-as-prioridades-do-mundo-mudaram-diante-da-crise-energetica/",
+      "date": "2026-11-25T21:37:37.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "TCU livra Dilma de multas por irregularidades fiscais em 2014",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/tcu-livra-dilma-de-multas-por-irregularidades-fiscais-em-2014.shtml",
+      "date": "2026-11-25T21:36:00.000Z",
+      "summary": "O TCU (Tribunal de Contas da União) livrou a ex-presidente Dilma Rousseff (PT) e ex-integrantes de sua equipe econômica de punições por irregularidades na gestão fiscal e orçamentária de 2014, em casos conexos às chamadas \"pedaladas fiscais\", que resultaram no",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "TCU livra Dilma de multas por irregularidades fiscais em 2014",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/poder/2026/11/tcu-livra-dilma-de-multas-por-irregularidades-fiscais-em-2014.shtml",
+      "date": "2026-11-25T21:36:00.000Z",
+      "summary": "O TCU (Tribunal de Contas da União) livrou a ex-presidente Dilma Rousseff (PT) e ex-integrantes de sua equipe econômica de punições por irregularidades na gestão fiscal e orçamentária de 2014, em casos conexos às chamadas \"pedaladas fiscais\", que resultaram no",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Secretária de Agricultura de Trump defende novas tarifas e acusa Brasil de 'práticas desleais' contra agricultores dos EUA",
+      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/25/secretaria-de-agricultura-de-trump-defende-novas-tarifas-e-acusa-brasil-de-praticas-desleais-contra-agricultores-dos-eua.ghtml",
+      "date": "2026-11-25T21:35:55.000Z",
+      "summary": "EUA propõem novas tarifas contra Brasil e 14 economias A secretária de Agrigultura dos Estados Unidos, Brooke Rollins, afirmou nesta quarta-feira (25) que as tarifas adicionais que o governo de Donald Trump avalia aplicar ao Brasil buscam \"proteger os agricult",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "TSE vai mapear atuação do crime organizado nas eleições para ampliar combate",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/25/tse-vai-mapear-atuacao-do-crime-organizado-nas-eleicoes-para-ampliar-combate.ghtml",
+      "date": "2026-11-25T21:30:46.000Z",
+      "summary": "Ministro Kassio Nunes Marques Luiz Roberto/TSE O presidente do Tribunal Superior Eleitoral (TSE), Nunes Marques, decidiu nesta quarta-feira (25) criar um grupo de trabalho para mapear as principais dificuldades e elaborar uma proposta com medidas de prevenção ",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "XP e Rico oferecem condições especiais em cartões e outros para Black Friday",
+      "link": "https://www.estadao.com.br/economia/xp-e-rico-oferecem-condicoes-especiais-em-cartoes-e-outros-para-black-friday/",
+      "date": "2026-11-25T21:28:08.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Municípios que comprarem da agricultura familiar podem ter bônus para merenda",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/25/municipios-que-comprarem-da-agricultura-familiar-podem-ter-bonus-para-merenda",
+      "date": "2026-11-25T21:27:13.000Z",
+      "summary": "A Comissão de Agricultura (CRA) aprovou nesta quarta-feira (25) substitutivo da senadora Professora Dorinha Seabra (União-TO) ao PL 1/2024, do senador Laércio Oliveira (PP-SE), que cria incentivos para a compra de alimentos da agricultura familiar destinados à",
       "source": "Agência Senado",
       "cat": "politica",
       "type": "oficial"
+    },
+    {
+      "title": "O Adicional Contracíclico de Capital Principal relativo ao Brasil segue em 0%",
+      "link": "https://www.bcb.gov.br/detalhenoticia/21333/nota",
+      "date": "2026-11-25T21:26:53.000Z",
+      "summary": "",
+      "source": "Banco Central",
+      "cat": "economia",
+      "type": "oficial"
+    },
+    {
+      "title": "Plenário aprova calendário especial para PEC do Fundo Constitucional do DF",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/25/plenario-aprova-calendario-especial-para-pec-do-fundo-constitucional-do-df",
+      "date": "2026-11-25T21:26:41.000Z",
+      "summary": "O presidente do Senado, Davi Alcolumbre, anunciou que a PEC que inclui expressamente o Fundo Constitucional do Distrito Federal (FCDF) na Constituição como o financiador das forças policiais e dos bombeiros do DF estará na pauta do Plenário na terça-feira (1º)",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Canadense ValOre Metals fecha acordo para comprar mina de ouro em Carajás por US$ 135 milhões",
+      "link": "https://www.estadao.com.br/economia/negocios/canadense-valore-metals-fecha-acordo-para-comprar-mina-de-ouro-em-carajas-por-us-135-milhoes/",
+      "date": "2026-11-25T21:24:48.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Desejo de Lula, Petrobras nega voltar à distribuição “neste momento”",
+      "link": "https://www.poder360.com.br/poder-energia/desejo-de-lula-petrobras-nega-voltar-a-distribuicao-neste-momento/",
+      "date": "2026-11-25T21:23:49.000Z",
+      "summary": "Presidente da estatal diz que compra de distribuidora não faz parte dos planos atuais da estatal",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "FCC autoriza SpaceX a lançar 1 milhão de satélites para criar data centers no espaço",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/25/fcc-autoriza-spacex-a-lancar-1-milhao-de-satelites-para-criar-data-centers-no-espaco.ghtml",
+      "date": "2026-11-25T21:17:17.000Z",
+      "summary": "Starship, nave da Space, em foto divulgada em 23 de setembro de 2026 Reprodução/SpaceX A Comissão Federal de Comunicações dos Estados Unidos (FCC, na sigla em inglês) autorizou nesta quarta-feira (25) a SpaceX, empresa de Elon Musk, a lançar até 1 milhão de sa",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "IA X ferrovias: duas histórias de expansão dos investimentos",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/ia-x-ferrovias-duas-historias-de-expansao-dos-investimentos.shtml",
+      "date": "2026-11-25T21:15:00.000Z",
+      "summary": "Cinco décadas depois, o maquinista Frank Barnes ainda se lembrava com clareza do dia 15 de setembro de 1896. \"Vou dizer uma coisa: eram duas locomotivas vistosas. A antiga número 999 estava pintada de verde com detalhes em vermelho e seguia para o sul. A númer",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Orçamento de 2027: Relator deixa reserva de R$ 17,6 bilhões para novas despesas à espera do governo",
+      "link": "https://www.estadao.com.br/economia/orcamento-de-2027-relator-deixa-reserva-de-r-176-bilhoes-para-novas-despesas-a-espera-do-governo/",
+      "date": "2026-11-25T21:14:30.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Moraes rejeita pedido da PGR para pagar penduricalhos com crédito extra de R$ 324 milhões",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/moraes-rejeita-pedido-da-pgr-para-pagar-penduricalhos-com-credito-extra-de-r-324-milhoes.shtml",
+      "date": "2026-11-25T21:14:00.000Z",
+      "summary": "O ministro Alexandre de Moraes, do STF (Supremo Tribunal Federal), rejeitou o pedido da PGR (Procuradoria-Geral da República) para que o Executivo abrisse um crédito extraordinário de R$ 324 milhões para bancar verbas extras a integrantes do Ministério Público",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Proposta de novas tarifas dos EUA surpreende Brasil e expõe impasse nas negociações",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/proposta-de-novas-tarifas-dos-eua-surpreende-brasil-e-expoe-impasse-nas-negociacoes.shtml",
+      "date": "2026-11-25T21:13:00.000Z",
+      "summary": "O governo brasileiro foi pego de surpresa pela proposta da administração Donald Trump de modificar as tarifas sobre as importações de açúcar e aeronaves do Brasil e avalia que a iniciativa americana está relacionada aos recentes movimentos de Brasília para con",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Caso Master: defesa de Vorcaro pede que Nunes Marques deixe relatoria de ação no STF contra Fachin",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/25/defesa-de-vorcaro-pede-troca-de-kassio-na-relatoria-da-acao-contra-fachin.ghtml",
+      "date": "2026-11-25T21:12:56.000Z",
+      "summary": "Agora no g1 A defesa de Daniel Vorcaro, ex-dono do Banco Master, pediu nesta quarta-feira (4) que o ministro Kassio Nunes Marques, do Supremo Tribunal Federal (STF), deixe a relatoria da ação que tenta tirar do presidente do STF, ministro Edson Fachin, a análi",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Brasil protesta contra recomendação dos EUA de novas tarifas sobre aviões e açúcar",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/25/brasil-protesta-contra-recomendacao-dos-eua-de-novas-tarifas-sobre-avioes-e-acucar.ghtml",
+      "date": "2026-11-25T21:11:50.000Z",
+      "summary": "O governo brasileiro manifestou indignação nesta quarta-feira (25) com a decisão dos Estados Unidos de recomendar novas tarifas sobre importações de aeronaves e açúcar do Brasil, segundo comunicado oficial. O governo disse que continuará buscando uma solução n",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Relatório eleva em R$ 37,1 bilhões a previsão de receita para 2027",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/25/relatorio-eleva-em-r-37-1-bilhoes-a-previsao-de-receita-para-2027",
+      "date": "2026-11-25T21:11:31.000Z",
+      "summary": "A Comissão Mista de Orçamento (CMO) aprovou nesta quarta-feira (25) o relatório da receita do Orçamento de 2027 (PLN 24/2026), com acréscimo de R$ 37,1 bilhões em relação ao projeto enviado em agosto pelo Poder Executivo. Relator da matéria, o deputado Neto Ca",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Governo Lula diz estar indignado com nova proposta de tarifa dos EUA contra o Brasil e que não 'cederá a esse tipo de ameaça'",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/25/governo-lula-diz-estar-indignado-com-nova-proposta-de-tarifa-dos-eua-contra-o-brasil-e-que-nao-cedera-a-esse-tipo-de-ameaca.ghtml",
+      "date": "2026-11-25T21:10:49.000Z",
+      "summary": "O governo brasileiro divulgou uma nota nesta quarta-feira (25) na qual manifestou \"indignação\" com a proposta do Escritório do Representante Comercial dos EUA (USTR, na sigla em inglês) para que sejam impostas novas tarifas sobre aeronaves brasileiras e o açúc",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Senado aprova estímulo à inclusão digital de idosos",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/25/senado-aprova-estimulo-a-inclusao-digital-de-idosos",
+      "date": "2026-11-25T21:02:21.000Z",
+      "summary": "O Plenário do Senado aprovou nesta quarta-feira (25) um projeto de lei que estimula a inclusão digital de idosos. O PL 1.257/2021 altera o Estatuto da Pessoa Idosa para prever que os mais velhos devem ter acesso a tecnologias de informação e comunicação, com o",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Alcolumbre pressiona Lula a aceitar Pacheco no STF e aponta risco de outro nome ficar para 2027",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/alcolumbre-pressiona-lula-a-aceitar-pacheco-no-stf-e-aponta-risco-de-outro-nome-ficar-para-2027/",
+      "date": "2026-11-25T21:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Sidney Oliveira vira réu em ação por compor organização criminosa do ‘fura-fila’ do ICMS",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/sidney-oliveira-vira-reu-em-acao-por-compor-organizacao-criminosa-do-fura-fila-do-icms/",
+      "date": "2026-11-25T20:55:41.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Moraes rejeita pedido sobre custeio de R$ 324 mi em penduricalhos",
+      "link": "https://www.poder360.com.br/poder-justica/moraes-rejeita-pedido-sobre-custeio-de-r-324-mi-em-penduricalhos/",
+      "date": "2026-11-25T20:53:43.000Z",
+      "summary": "Ministro considerou que cabe ao governo e ao Congresso decidir sobre abertura de crédito extra",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
     },
     {
       "title": "Dólar cai 1,58% a R$ 5,817 com leilões do BC e ajuste fiscal",
@@ -199,60 +442,6 @@
       "type": "imprensa"
     },
     {
-      "title": "CCT aprova proibição de embalagens plásticas em livros; texto vai à CMA",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/25/cct-aprova-proibicao-de-embalagens-plasticas-em-livros-texto-vai-a-cma",
-      "date": "2026-11-25T20:32:23.000Z",
-      "summary": "A Comissão de Ciência e Tecnologia do Senado (CCT) aprovou nesta quarta-feira (25) um projeto de lei que proíbe a produção, a importação e a venda de livros e outras publicações impressas embaladas em plástico. O projeto (PL 5.876/2025) segue para análise na C",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "CVM pede que Abraicc seja assistente em ação contra OPA da Oncoclínicas",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/cvm-pede-que-abraicc-seja-assistente-em-acao-contra-opa-da-oncoclinicas.shtml",
-      "date": "2026-11-25T20:31:00.000Z",
-      "summary": "A CVM (Comissão de Valores Mobiliários) se manifestou, no âmbito da ação movida pelo fundo Josephina III contra a OPA (oferta pública de ações) da Oncoclínicas, defendendo que a Abraicc (Associação Brasileira de Investimento, Crédito e Consumo) ingresse como a",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Lula encontrará novo presidente do Paraguai em cúpula do Mercosul",
-      "link": "https://www.poder360.com.br/poder-governo/lula-encontrara-novo-presidente-do-paraguai-em-cupula-do-mercosul/",
-      "date": "2026-11-25T20:25:50.000Z",
-      "summary": "Petista também convidou o recém-empossado Pedro Alliana a realizar uma visita a Brasília",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Força Nacional do SUS ganha respaldo em lei e texto vai à sanção",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/25/forca-nacional-do-sus-ganha-respaldo-em-lei-e-texto-vai-a-sancao",
-      "date": "2026-11-25T20:23:00.000Z",
-      "summary": "O Senado aprovou nesta quarta-feira (25), em regime de urgência, o projeto de lei que institucionaliza a Força Nacional do Sistema Único de Saúde (FN-SUS), responsável pelo atendimento a situações de emergência em saúde pública. A proposta detalha as atribuiçõ",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Metade das indústrias europeias enfrenta crise financeira",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/metade-das-industrias-europeias-enfrenta-crise-financeira.shtml",
-      "date": "2026-11-25T20:23:00.000Z",
-      "summary": "Metade das empresas do ramo da indústria europeia enfrentam dificuldades financeiras significativas, pressionada pelos altos custos de mão de obra e energia e pela concorrência de rivais chineses, segundo novos dados. Leia mais (11/25/2026 - 17h23)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Criação da Lei da Dignidade Sexual vai ao Plenário com urgência",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/25/criacao-da-lei-da-dignidade-sexual-vai-ao-plenario-com-urgencia",
-      "date": "2026-11-25T20:19:41.000Z",
-      "summary": "A Comissão de Constituição e Justiça (CCJ) aprovou nesta quarta-feira (25) o projeto que cria a Lei de Dignidade Sexual. Além de aumentar penas para estupro, o texto proíbe visita íntima para os condenados por esse crime e os impede de ocupar cargos públicos, ",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
       "title": "Comissão aprova projeto que proíbe a reutilização de embalagens de tintas imobiliárias",
       "link": "https://www.camara.leg.br/noticias/1322939-comissao-aprova-projeto-que-proibe-a-reutilizacao-de-embalagens-de-tintas-imobiliarias",
       "date": "2026-11-25T20:11:00.000Z",
@@ -260,51 +449,6 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Paraguai diz que vai restituir fundo de RS$1 bi da Itaipu no Ueno",
-      "link": "https://www.poder360.com.br/poder-internacional/paraguai-diz-que-vai-restituir-fundo-de-rs1-bi-da-itaipu-no-ueno/",
-      "date": "2026-11-25T20:08:41.000Z",
-      "summary": "Mauro Vieira conversou sobre negociações para hidrelétrica durante visita ao presidente e ao chanceler do país",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Inscrições para concurso do IBGE com 27 mil vagas são prorrogadas; veja como participar",
-      "link": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/11/25/inscricoes-concurso-do-ibge-prorrogadas.ghtml",
-      "date": "2026-11-25T20:06:47.000Z",
-      "summary": "IBGE Tocantins Helena Pontes/Agência IBGE Notícias As inscrições para o processo seletivo temporário do Instituto Brasileiro de Geografia e Estatística (IBGE), que vai contratar profissionais para atuar no 12º Censo Agropecuário, Florestal e Aquícola de 2027, ",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Republicanos quer ministérios da Indústria e Portos e Aeroportos no Lula 4",
-      "link": "https://www.poder360.com.br/poder-partidos-politicos/republicanos-quer-ministerios-da-industria-e-portos-e-aeroportos-no-lula-4/",
-      "date": "2026-11-25T20:04:48.000Z",
-      "summary": "Sigla de Hugo Motta articula espaço na Esplanada do próximo governo apesar de ter declarado apoio a Flávio Bolsonaro no 2º turno das eleições",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Motiva avalia erguer prédios residenciais em cima de estações de metrô em São Paulo",
-      "link": "https://www.estadao.com.br/economia/negocios/motiva-avalia-erguer-predios-residenciais-em-cima-de-estacoes-de-metro-em-sao-paulo/",
-      "date": "2026-11-25T20:04:44.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "USP diz que Haddad voltará a dar aulas na pós-graduação em Ciência Política em 2027",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/25/usp-haddad-pos-graduacao-2027.ghtml",
-      "date": "2026-11-25T19:58:10.000Z",
-      "summary": "O pré-candidato do PT ao governo de São Paulo, Fernando Haddad, durante palestra Divulgação O ex-ministro da Fazenda Fernando Haddad voltará a dar aulas na Universidade de São Paulo (USP) em 2027. A universidade confirmou ao g1 que ele foi credenciado para lec",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
     },
     {
       "title": "Comissão aprova proposta que inclui Síndrome do Intestino Curto em rol de doenças graves e raras",
@@ -322,33 +466,6 @@
       "summary": "",
       "source": "Estadão",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Banco Master: Esperidião Amin questiona mudanças em relatórios da Polícia Federal",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/25/banco-master-esperidiao-amin-questiona-mudancas-em-relatorios-da-policia-federal",
-      "date": "2026-11-25T19:52:41.000Z",
-      "summary": "O senador Esperidião Amin (PP-SC) manifestou preocupação com a condução das investigações relacionadas ao Banco Master. Durante pronunciamento em Plenário nesta terça-feira (25), ele questionou mudanças feitas em relatórios da Polícia Federal encaminhados ao S",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Bolsas asiáticas despencam com dúvidas sobre recuperação da IA e novas ameaças tarifárias de Trump",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/bolsas-asiaticas-despencam-com-duvidas-sobre-recuperacao-da-ia-e-novas-ameacas-tarifarias-de-trump.shtml",
-      "date": "2026-11-25T19:51:00.000Z",
-      "summary": "As bolsas asiáticas despencaram nesta quarta-feira (25) em meio a novas ameaças tarifárias dos Estados Unidos e à perda de força de uma recuperação recente puxada pelo setor de tecnologia. Os mercados que estão mais expostos à indústria de semicondutores regis",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "JBS prevê retomada das exportações de frango à União Europeia em dezembro após suspensão",
-      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/25/jbs-exportacao-frango-uniao-europeia.ghtml",
-      "date": "2026-11-25T19:50:30.000Z",
-      "summary": "Imagem de frango. Claudio Schwarz/Unplash As vendas de carne de frango do Brasil para a União Europeia (UE) devem ser retomadas em dezembro, após esclarecimentos sobre o uso de substâncias antimicrobianas proibidas pelo bloco na produção animal. A previsão é d",
-      "source": "g1",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -388,84 +505,12 @@
       "type": "oficial"
     },
     {
-      "title": "Assembleia do RJ articula aumento de salário para Douglas Ruas e secretários",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/assembleia-do-rj-articula-aumento-de-salario-para-douglas-ruas-e-secretarios.shtml",
-      "date": "2026-11-25T19:35:00.000Z",
-      "summary": "A Alerj (Assembleia Legislativa do Rio de Janeiro), presidida pelo governador eleito Douglas Ruas (PL), discute nesta semana o reajuste dos salários do chefe do Executivo, vice, secretários e subsecretários. Leia mais (11/25/2026 - 16h35)",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Caneta emagrecedora: Anvisa adia decisão sobre aplicação em clínicas; setor sinaliza alta de preços",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/caneta-emagrecedora-anvisa-adia-decisao-sobre-aplicacao-em-clinicas-setor-sinaliza-alta-de-precos/",
-      "date": "2026-11-25T19:24:05.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "A crise diplomática que levou o Brasil a retirar seu embaixador na Argentina",
       "link": "https://www.dw.com/pt-br/a-crise-diplomática-que-levou-o-brasil-a-retirar-seu-embaixador-na-argentina/a-80051161?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-25T19:18:00.000Z",
       "summary": "Embaixador brasileiro não retornará ao posto em Buenos Aires. Presidente Javier Milei, aliado do bolsonarismo, lançou ataques em série contra Lula ao longo dos últimos anos.",
       "source": "DW Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Moraes rejeita pedido para STF indicar como devem ser custeados R$ 324 milhões em 'penduricalhos' no MPU",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/25/moraes-rejeita-pedido-para-stf-indicar-como-devem-ser-custeados-r-324-milhoes-em-penduricalhos-no-mpu.ghtml",
-      "date": "2026-11-25T19:17:04.000Z",
-      "summary": "O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), rejeitou um pedido para que a Corte indique como devem ser custeadas despesas extras estimadas em R$ 324 milhões no Ministério Público da União (MPU). Os valores decorrem do julgamento que fixo",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Presidente do BRB diz a funcionários que federalização se tornou mais viável após eleições",
-      "link": "https://www.estadao.com.br/economia/presidente-do-brb-diz-a-funcionarios-que-federalizacao-se-tornou-mais-viavel-apos-eleicoes/",
-      "date": "2026-11-25T19:07:52.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Justiça proíbe Unidas de usar menores de 18 anos na lavagem de carros",
-      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/25/justica-proibe-unidas-de-usar-menores-de-18-anos-na-lavagem-de-carros.ghtml",
-      "date": "2026-11-25T19:01:24.000Z",
-      "summary": "Imagem de arquivo da fachada do Aeroporto Internacional de Viracopos, em Campinas. Reprodução/EPTV A Justiça do Trabalho determinou que a locadora de veículos Unidas pare imediatamente de utilizar ou permitir o trabalho de menores de 18 anos na lavagem, higien",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Juiz manda recolher móveis de jornal para pagar indenização a condenado por homicídio",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/juiz-manda-recolher-moveis-de-jornal-para-pagar-indenizacao-a-condenado-por-homicidio.shtml",
-      "date": "2026-11-25T18:59:00.000Z",
-      "summary": "A Justiça do Rio Grande do Sul determinou o recolhimento de móveis e computadores do Jornal Já, de Porto Alegre, para quitar uma indenização devida a um homem condenado pelo homicídio de sua mulher, em 2004. Leia mais (11/25/2026 - 15h59)",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Comissão aprova diretrizes de segurança alimentar climática para povos tradicionais da Amazônia",
-      "link": "https://www.camara.leg.br/noticias/1322848-comissao-aprova-diretrizes-de-seguranca-alimentar-climatica-para-povos-tradicionais-da-amazonia",
-      "date": "2026-11-25T18:52:00.000Z",
-      "summary": "Proposta segue em discussão na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Indústria de insumos agrícolas vê custo de produção subir com dólar próximo a R$ 6",
-      "link": "https://www.estadao.com.br/economia/agronegocios/industria-de-insumos-agricolas-ve-custo-de-producao-subir-com-dolar-proximo-a-r-6/",
-      "date": "2026-11-25T18:51:17.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -487,24 +532,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Alcolumbre se reúne com bancada feminina e faz aceno para candidata rival",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/11/alcolumbre-se-reune-com-bancada-feminina-e-faz-aceno-para-candidata-rival.shtml",
-      "date": "2026-11-25T18:27:00.000Z",
-      "summary": "O presidente do Senado, Davi Alcolumbre (União Brasil-AP), recebeu a bancada feminina para um café da manhã nesta quarta-feira (25) e, segundo relatos, fez um aceno para a colega Tereza Cristina (PP-MS), sua potencial adversária na disputa pela presidência. Le",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Caixa avalia compra do BRB após Distrito Federal não conseguir empréstimo para salvar o banco",
-      "link": "https://www.estadao.com.br/economia/caixa-avalia-compra-do-brb-apos-distrito-federal-nao-conseguir-emprestimo-para-salvar-o-banco/",
-      "date": "2026-11-25T17:41:22.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "BC divulga IBCR de setembro",
       "link": "https://www.bcb.gov.br/detalhenoticia/21329/nota",
       "date": "2026-11-25T17:31:41.000Z",
@@ -520,15 +547,6 @@
       "summary": "Governo dos EUA propõe tarifa de 10% sobre aeronaves brasileiras e ameaça elevar taxas sobre açúcar. Administração Trumo acusa Brasil de práticas comerciais \"desleais\" e também mira outros países.",
       "source": "DW Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Paulinho da Força diz que se reuniu com Moraes e que espera apoio unânime do STF a lei que reduz penas do 8 de janeiro",
-      "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/11/25/paulinho-da-forca-dosimetria-moraes.ghtml",
-      "date": "2026-11-25T17:09:28.000Z",
-      "summary": "STF dará apoio unânime a lei que reduz penas do 8 de janeiro, diz Paulinho O deputado federal Paulinho da Força (Solidariedade-SP) disse que esteve com o ministro do Supremo Tribunal Federal (STF) Alexandre de Moraes depois do segundo turno das eleições, e que",
-      "source": "g1",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -550,29 +568,11 @@
       "type": "imprensa"
     },
     {
-      "title": "Maior Corte trabalhista do País reduz acervo em 21% mesmo com alta de 76% nas ações",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/maior-corte-trabalhista-do-pais-reduz-acervo-em-21-mesmo-com-alta-de-76-nas-acoes/",
-      "date": "2026-11-25T15:00:37.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Empresas alemãs apostam na reconstrução da Ucrânia apesar da guerra",
       "link": "https://www.dw.com/pt-br/empresas-alemãs-apostam-na-reconstrução-da-ucrânia-apesar-da-guerra/a-80041812?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-25T14:49:00.000Z",
       "summary": "Mais de 2 mil empresas alemãs mantêm atividades no país em meio ao conflito. Empresários também miram oportunidades em projetos bilionários de reconstrução.",
       "source": "DW Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "A iraniana acusada de 'declarar guerra a Deus' após denunciar morte da filha",
-      "link": "https://www.bbc.com/portuguese/articles/c94gnk80med2o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-25T11:15:08.000Z",
-      "summary": "Acusada de crimes que podem levar à pena de morte, Samira vive no exílio e divulga nomes de agentes que considera responsáveis pela repressão aos protestos que mataram sua filha, Sevda.",
-      "source": "BBC News Brasil",
       "cat": "internacional",
       "type": "imprensa"
     },
@@ -617,6 +617,15 @@
       "link": "https://www.bbc.com/portuguese/articles/cqdj1d3yd4pzo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-24T11:28:48.000Z",
       "summary": "Governo federal abriu documentos da gestão anterior e reviu decisões de sigilo, mas continua negando informações com base na proteção de dados pessoais e da segurança presidencial, incluindo gastos do cartão corporativo.",
+      "source": "BBC News Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Câmara aprova ajuste fiscal de Lula: por que pacote é tão polêmico e não deve ser suficiente, segundo economistas",
+      "link": "https://www.bbc.com/portuguese/articles/cqx2we1jgnzgo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-24T02:50:44.000Z",
+      "summary": "Estima-se que o projeto tenha impacto de até R$ 56 bilhões. Mas o 'Plano Moretti' vem sendo recebido com pessimismo no mercado financeiro e críticas por alguns dos aliados do PT.",
       "source": "BBC News Brasil",
       "cat": "internacional",
       "type": "imprensa"
@@ -679,24 +688,6 @@
       "title": "BC divulga Fluxo cambial mensal",
       "link": "https://www.bcb.gov.br/detalhenoticia/21323/nota",
       "date": "2026-11-18T17:31:13.000Z",
-      "summary": "",
-      "source": "Banco Central",
-      "cat": "economia",
-      "type": "oficial"
-    },
-    {
-      "title": "BC divulga estudo sobre os canais de transmissão da política monetária por meio do crédito",
-      "link": "https://www.bcb.gov.br/detalhenoticia/21322/nota",
-      "date": "2026-11-18T12:30:49.000Z",
-      "summary": "",
-      "source": "Banco Central",
-      "cat": "economia",
-      "type": "oficial"
-    },
-    {
-      "title": "BC anuncia leilões de swap cambial tradicional para fins de rolagem dos contratos vincendos em 4 de janeiro de 2027",
-      "link": "https://www.bcb.gov.br/detalhenoticia/21321/nota",
-      "date": "2026-11-17T21:30:21.000Z",
       "summary": "",
       "source": "Banco Central",
       "cat": "economia",
