@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-25T05:58:15.208Z",
+  "updated": "2026-11-25T07:19:27.965Z",
   "market": {
     "ibov": {
       "price": 164089.81,
       "pct": -0.43,
-      "time": "2026-11-25T05:58:10.049Z",
+      "time": "2026-11-25T07:19:20.003Z",
       "history": [
         {
           "d": "2026-10-26",
@@ -141,6 +141,87 @@
   },
   "news": [
     {
+      "title": "Governo reduz contenção de gastos no Orçamento para R$ 12,6 bi",
+      "link": "https://www.poder360.com.br/poder-economia/governo-reduz-contencao-de-gastos-no-orcamento-para-r-126-bi/",
+      "date": "2026-11-25T07:00:55.000Z",
+      "summary": "A redução se dá depois da retirada de R$ 10,5 bilhões em subsídios aos combustíveis do cálculo da meta fiscal",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Partidos defendem que TSE julgue caso de Deltan Dallagnol antes da diplomação",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/partidos-defendem-que-tse-julgue-caso-de-deltan-dallagnol-antes-da-diplomacao.shtml",
+      "date": "2026-11-25T07:00:00.000Z",
+      "summary": "A coligação encabeçada pelo PT e pelo PDT nas eleições ao governo paranaense, autora da ação que pede o indeferimento da candidatura de Deltan Dallagnol (Novo) ao Senado, defende que o julgamento no TSE (Tribunal Superior Eleitoral) sobre o ex-procurador da La",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Incertezas sobre a compensação de créditos da CBS podem impactar o fluxo de caixa das empresas exportadoras",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/blogs/que-imposto-e-esse/2026/11/incertezas-sobre-a-compensacao-de-creditos-da-cbs-podem-impactar-o-fluxo-de-caixa-das-empresas-exportadoras.shtml",
+      "date": "2026-11-25T07:00:00.000Z",
+      "summary": "Com a extinção do PIS e da Cofins e o início da cobrança da CBS (Contribuição sobre Bens e Serviços) em 1º de janeiro de 2027, surge uma questão relevante: será possível utilizar créditos da nova contribuição para compensar débitos de outros tributos federais?",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Alemanha dobrará subsídios a carros elétricos; abatimento pode chegar a um terço do valor total",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/economia-sustentavel/2026/11/alemanha-dobrara-subsidios-a-carros-eletricos-abatimento-pode-chegar-a-um-terco-do-valor-total.shtml",
+      "date": "2026-11-25T07:00:00.000Z",
+      "summary": "A Alemanha pretende dobrar o valor destinado ao subsídio que oferece a consumidores que compram carros elétricos em 2027, segundo as primeiras versões do Orçamento do ano que vem apresentadas pelo governo do país europeu. Leia mais (11/25/2026 - 04h00)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Mercado vê avanço no plano Moretti, mas espera novas medidas para conter gastos de forma estrutual",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/mercado-ve-avanco-no-plano-moretti-mas-espera-novas-medidas-para-conter-gastos-de-forma-estrutual.shtml",
+      "date": "2026-11-25T07:00:00.000Z",
+      "summary": "A aprovação do chamado plano Moretti pela Câmara foi recebida como um sinal positivo pelo mercado financeiro, por indicar a disposição do governo de avançar na agenda de ajuste fiscal. As medidas têm impacto estimado entre R$ 46 bilhões e R$ 56 bilhões em 2027",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Justiça condena XP e assessoria por atraso em transferência de CDBs do Master que impediu cobertura do FGC",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/justica-condena-xp-e-assessoria-por-atraso-em-transferencia-de-cdbs-do-master-que-impediu-cobertura-do-fgc.shtml",
+      "date": "2026-11-25T07:00:00.000Z",
+      "summary": "A 3ª Vara Cível da Comarca de Paulínia (SP) condenou a XP Investimentos e a assessoria Mônaco Investimentos por falhas na transferência de titularidade de CDBs (Certificados de Depósito Bancário) do Banco Master, de acordo com a sentença, obtida pela reportage",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lula reúne equipe econômica para discutir novas medidas fiscais",
+      "link": "https://www.poder360.com.br/poder-governo/lula-reune-equipe-economica-para-discutir-novas-medidas-fiscais/",
+      "date": "2026-11-25T06:27:48.000Z",
+      "summary": "Encontro será às 15h desta 4ª (25.nov) e terá a presença dos ministros Bruno Moretti (Planejamento e Orçamento) e Miriam Belchior (Casa Civil)",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Horas extras ficam mais caras com fim da escala 6x1; calculadora do g1 mostra o que muda",
+      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/25/horas-extras-6x1-5x2-calculadora.ghtml",
+      "date": "2026-11-25T06:00:00.000Z",
+      "summary": "Lula assina decreto com regras para o fim da escala 6x1 A transição para o fim da escala 6x1 não vai mexer apenas nos dias de folga dos trabalhadores. Ela também vai aumentar o valor das horas extras pagas pelas empresas. Isso significa que quem continuar faze",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Funcionário de loja da Nike tem demissão por justa causa mantida após gravar dancinha no trabalho",
+      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/25/funcionario-de-loja-da-nike-tem-demissao-por-justa-causa-mantida-apos-gravar-dancinha-no-trabalho.ghtml",
+      "date": "2026-11-25T06:00:00.000Z",
+      "summary": "Técnica de enfermagem é demitida após gravar vídeo de trend dentro de hospital Um assistente de loja da Fisia, distribuidora oficial da Nike no Brasil, foi demitido por justa causa após publicar nas redes sociais um vídeo gravado durante o expediente. A decisã",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "Justiça derruba suspensão e restabelece regras para vale-refeição e alimentação; entenda",
       "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/25/justica-derruba-suspensao-e-restabelece-regras-para-vale-refeicao-e-alimentacao-entenda.ghtml",
       "date": "2026-11-25T03:17:42.000Z",
@@ -186,15 +267,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Inscrições para concurso do IBGE com 27 mil vagas terminam nesta quarta; veja como participar",
-      "link": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/11/25/inscricoes-concurso-do-ibge-com-27-mil-vagas.ghtml",
-      "date": "2026-11-25T03:00:00.000Z",
-      "summary": "IBGE Tocantins Helena Pontes/Agência IBGE Notícias As inscrições para o processo seletivo temporário do Instituto Brasileiro de Geografia e Estatística (IBGE), que vai contratar profissionais para atuar no 12º Censo Agropecuário, Florestal e Aquícola de 2027, ",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Governo reduz contenção de despesas no Orçamento para R$ 12,6 bilhões",
       "link": "https://g1.globo.com/politica/noticia/2026/11/24/governo-reduz-contencao-no-orcamento-para-r-126-bilhoes.ghtml",
       "date": "2026-11-25T02:38:46.000Z",
@@ -204,29 +276,11 @@
       "type": "imprensa"
     },
     {
-      "title": "Fux encerra contrato do BRB com TJ-BA e fala em descumprimento de exigências",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/fux-encerra-contrato-do-brb-com-tj-ba-e-fala-em-descumprimento-de-exigencias.shtml",
-      "date": "2026-11-25T02:36:00.000Z",
-      "summary": "O ministro do STF (Supremo Tribunal Federal) Luiz Fux decidiu nesta terça-feira (24) não manter a prorrogação de um contrato de exclusividade entre o BRB (Banco de Brasília) e o TJ-BA (Tribunal de Justiça da Bahia) após o banco deixar de apresentar documentos ",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Contenção de gastos cai para R$ 12,6 bilhões após pacote fiscal, mas previsão de déficit real sobe",
       "link": "https://www.estadao.com.br/economia/contencao-de-gastos-no-orcamento-cai-de-r-161-bi-para-r-126-bi-apos-aprovacao-de-pacote-fiscal/",
       "date": "2026-11-25T02:20:36.000Z",
       "summary": "",
       "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Governo Lula libera R$ 3,4 bi do Orçamento após excluir mais R$ 10,5 bi da meta fiscal de 2026",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/governo-lula-libera-r-34-bi-do-orcamento-apos-excluir-mais-despesas-da-meta-de-2026.shtml",
-      "date": "2026-11-25T02:13:00.000Z",
-      "summary": "O governo de Luiz Inácio Lula da Silva (PT) anunciou nesta terça-feira (24) uma liberação de R$ 3,43 bilhões em despesas do Orçamento de 2026, graças à redução de gastos obrigatórios e à decisão de excluir da meta fiscal R$ 10,5 bilhões em gastos com a subvenç",
-      "source": "Folha",
       "cat": "economia",
       "type": "imprensa"
     },
@@ -246,15 +300,6 @@
       "summary": "Com uma fala imperial, Lula fechou o balcão de especulações e futricas sobre a composição de seu novo ministério: \"Cada ministério desse país será indicado por mim, na hora que eu quiser. No dia que eu quiser\". É um sonho de uma noite de verão, pois nenhum pre",
       "source": "Folha",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Tarifa horária traz justiça para conta de luz",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/jerson-kelman/2026/11/tarifa-horaria-traz-justica-para-conta-de-luz.shtml",
-      "date": "2026-11-25T02:00:00.000Z",
-      "summary": "A Aneel tomou a excelente iniciativa de propor preço com variação horária para o consumo de energia elétrica em residências, empresas e outras unidades atendidas na baixa tensão com consumo mensal superior a 500 kWh/mês. A implantação compulsória será gradual,",
-      "source": "Folha",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -285,24 +330,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Lula recebe Tarso e Dino em nova rodada de conversas sobre próximo governo",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/11/lula-recebe-tarso-e-dino-em-nova-rodada-de-conversas-sobre-proximo-governo.shtml",
-      "date": "2026-11-25T01:00:00.000Z",
-      "summary": "O presidente Lula (PT) deve receber nesta quarta-feira (25) ex-ministros da Justiça, em uma nova fase das conversas para montar a equipe de seu próximo governo. Entre eles, Tarso Genro e Flávio Dino, hoje ministro do STF (Supremo Tribunal Federal). Ambos foram",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Anthropic fecha abaixo do preço do IPO pela primeira vez com desaceleração de ações de tecnologia",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/anthropic-fecha-abaixo-do-preco-do-ipo-pela-primeira-vez-com-desaceleracao-de-acoes-de-tecnologia.shtml",
-      "date": "2026-11-25T01:00:00.000Z",
-      "summary": "As ações de tecnologia dos Estados Unidos caíram nesta terça-feira (24), levando a Anthropic a ficar abaixo de seu preço de estreia na Bolsa pela primeira vez. O desempenho ocorre na esteira da desaceleração de uma forte alta, impulsionada pelo retorno de Jens",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "A credibilidade fiscal é condição para preservar o investimento e o crescimento",
       "link": "https://www.estadao.com.br/economia/a-credibilidade-fiscal-e-condicao-para-preservar-o-investimento-e-o-crescimento/",
       "date": "2026-11-25T01:00:00.000Z",
@@ -316,24 +343,6 @@
       "link": "https://www.poder360.com.br/poder-brasil/cni-protocola-nova-acao-no-stf-contra-a-regulamentacao-do-fim-da-6-x-1/",
       "date": "2026-11-25T00:39:34.000Z",
       "summary": "Confederação Nacional da Indústria pede que decreto e portaria editados pelo governo federal sejam declarados inconstitucionais",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Argentina entra em recessão técnica com queda no PIB em setembro",
-      "link": "https://www.poder360.com.br/poder-economia/argentina-entra-em-recessao-tecnica-com-queda-no-pib-em-setembro/",
-      "date": "2026-11-25T00:28:10.000Z",
-      "summary": "A ⁠atividade econômica do país recuou ‌1,2% no 9º mês do ano em relação ao mesmo mês de 2025, segundo o Indec",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Visita ao Poder360: Jones Manoel",
-      "link": "https://www.poder360.com.br/poder-visitas/visita-ao-poder360-jones-manoel/",
-      "date": "2026-11-25T00:12:04.000Z",
-      "summary": "Deputado federal eleito por Pernambuco deu entrevista ao vivo no estúdio deste jornal digital",
       "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
