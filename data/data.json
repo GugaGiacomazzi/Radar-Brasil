@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-25T02:30:27.906Z",
+  "updated": "2026-11-25T03:39:47.481Z",
   "market": {
     "ibov": {
       "price": 164089.81,
       "pct": -0.43,
-      "time": "2026-11-25T02:30:21.061Z",
+      "time": "2026-11-25T03:39:39.872Z",
       "history": [
         {
           "d": "2026-10-26",
@@ -84,7 +84,7 @@
         },
         {
           "d": "2026-11-24",
-          "c": 164089.8125
+          "c": 164090
         }
       ]
     },
@@ -141,7 +141,88 @@
   },
   "news": [
     {
-      "title": "Governo Lula libera R$ 3,4 bi do Orçamento após excluir mais despesas da meta de 2026",
+      "title": "Justiça derruba suspensão e restabelece regras para vale-refeição e alimentação; entenda",
+      "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/25/justica-derruba-suspensao-e-restabelece-regras-para-vale-refeicao-e-alimentacao-entenda.ghtml",
+      "date": "2026-11-25T03:17:42.000Z",
+      "summary": "Novas regras de vale-refeição e alimentação ampliam operadoras aceitas em maquininhas Jornal Nacional Um juiz brasileiro acatou um recurso do governo e restabeleceu as novas regras para vale-refeição e vale-alimentação em todo o setor, segundo decisão judicial",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Haddad só se interessa por Casa Civil e diz a Lula que pode colaborar mesmo fora do governo",
+      "link": "https://www.estadao.com.br/politica/haddad-so-se-interessa-por-casa-civil-e-diz-a-lula-que-pode-colaborar-mesmo-fora-do-governo/",
+      "date": "2026-11-25T03:15:07.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Free flow avança no Brasil e amplia a importância de soluções para pagamentos veiculares",
+      "link": "https://www.estadao.com.br/economia/free-flow-avanca-no-brasil-e-amplia-a-importancia-de-solucoes-para-pagamentos-veiculares/",
+      "date": "2026-11-25T03:01:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Governo Lula tem ao menos oito projetos econômicos para aprovar no Congresso até o fim de 2026",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/25/governo-lula-tem-ao-menos-oito-projetos-economicos-para-aprovar-no-congresso-ate-o-fim-de-2026.ghtml",
+      "date": "2026-11-25T03:00:00.000Z",
+      "summary": "O governo do presidente Luiz Inácio Lula da Silva (PT) corre contra o tempo para aprovar uma série de medidas econômicas até o recesso parlamentar, que começa em 23 de dezembro. Em menos de um mês, governistas tentam acelerar a análise de ao menos oito projeto",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Reforma tributária e fim da escala 6x1 podem pressionar inflação em 2027; BC e equipe econômica monitoram impactos",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/25/reforma-tributaria-e-fim-da-escala-6x1-podem-pressionar-inflacao-em-2027-bc-e-equipe-economica-monitoram-impactos.ghtml",
+      "date": "2026-11-25T03:00:00.000Z",
+      "summary": "O início do novo imposto sobre o consumo previsto na reforma tributária e o fim da escala 6x1 são apontados por economistas como fatores que podem pressionar a inflação no Brasil no começo de 2027. No caso da reforma tributária, a avaliação é que a transição p",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Inscrições para concurso do IBGE com 27 mil vagas terminam nesta quarta; veja como participar",
+      "link": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/11/25/inscricoes-concurso-do-ibge-com-27-mil-vagas.ghtml",
+      "date": "2026-11-25T03:00:00.000Z",
+      "summary": "IBGE Tocantins Helena Pontes/Agência IBGE Notícias As inscrições para o processo seletivo temporário do Instituto Brasileiro de Geografia e Estatística (IBGE), que vai contratar profissionais para atuar no 12º Censo Agropecuário, Florestal e Aquícola de 2027, ",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Governo reduz contenção de despesas no Orçamento para R$ 12,6 bilhões",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/24/governo-reduz-contencao-no-orcamento-para-r-126-bilhoes.ghtml",
+      "date": "2026-11-25T02:38:46.000Z",
+      "summary": "A equipe econômica anunciou nesta terça-feira (24) a redução da contenção de gastos do orçamento deste ano, passando de R$ 16,1 bilhões para R$ 12,6 bilhões. Desse total, R$ 304,3 milhões estão bloqueados e R$ 12,3 bilhões contingenciados. A informação consta ",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Fux encerra contrato do BRB com TJ-BA e fala em descumprimento de exigências",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/fux-encerra-contrato-do-brb-com-tj-ba-e-fala-em-descumprimento-de-exigencias.shtml",
+      "date": "2026-11-25T02:36:00.000Z",
+      "summary": "O ministro do STF (Supremo Tribunal Federal) Luiz Fux decidiu nesta terça-feira (24) não manter a prorrogação de um contrato de exclusividade entre o BRB (Banco de Brasília) e o TJ-BA (Tribunal de Justiça da Bahia) após o banco deixar de apresentar documentos ",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Contenção de gastos cai para R$ 12,6 bilhões após pacote fiscal, mas previsão de déficit real sobe",
+      "link": "https://www.estadao.com.br/economia/contencao-de-gastos-no-orcamento-cai-de-r-161-bi-para-r-126-bi-apos-aprovacao-de-pacote-fiscal/",
+      "date": "2026-11-25T02:20:36.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Governo Lula libera R$ 3,4 bi do Orçamento após excluir mais R$ 10,5 bi da meta fiscal de 2026",
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/governo-lula-libera-r-34-bi-do-orcamento-apos-excluir-mais-despesas-da-meta-de-2026.shtml",
       "date": "2026-11-25T02:13:00.000Z",
       "summary": "O governo de Luiz Inácio Lula da Silva (PT) anunciou nesta terça-feira (24) uma liberação de R$ 3,43 bilhões em despesas do Orçamento de 2026, graças à redução de gastos obrigatórios e à decisão de excluir da meta fiscal R$ 10,5 bilhões em gastos com a subvenç",
@@ -168,11 +249,11 @@
       "type": "imprensa"
     },
     {
-      "title": "CNI entra com ação no STF contra regulamentação do governo Lula sobre fim da escala 6x1",
-      "link": "https://www.estadao.com.br/economia/cni-entra-com-acao-no-stf-contra-regulamentacao-do-governo-lula-sobre-fim-da-escala-6x1/",
-      "date": "2026-11-25T01:35:06.000Z",
-      "summary": "",
-      "source": "Estadão",
+      "title": "Tarifa horária traz justiça para conta de luz",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/jerson-kelman/2026/11/tarifa-horaria-traz-justica-para-conta-de-luz.shtml",
+      "date": "2026-11-25T02:00:00.000Z",
+      "summary": "A Aneel tomou a excelente iniciativa de propor preço com variação horária para o consumo de energia elétrica em residências, empresas e outras unidades atendidas na baixa tensão com consumo mensal superior a 500 kWh/mês. A implantação compulsória será gradual,",
+      "source": "Folha",
       "cat": "economia",
       "type": "imprensa"
     },
@@ -231,15 +312,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Com melhora do setor, venda de fatia da Ipiranga pela Ultrapar esfria",
-      "link": "https://www.estadao.com.br/economia/coluna-da-broad/com-melhora-do-setor-venda-de-fatia-da-ipiranga-pela-ultrapar-esfria/",
-      "date": "2026-11-25T01:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "CNI protocola nova ação no STF contra a regulamentação do fim da 6 X 1",
       "link": "https://www.poder360.com.br/poder-brasil/cni-protocola-nova-acao-no-stf-contra-a-regulamentacao-do-fim-da-6-x-1/",
       "date": "2026-11-25T00:39:34.000Z",
@@ -258,39 +330,12 @@
       "type": "imprensa"
     },
     {
-      "title": "CNI vai ao Supremo contra regulamentação do governo para fim da escala 6x1",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/cni-vai-ao-supremo-contra-regulamentacao-do-governo-para-fim-da-escala-6x1.shtml",
-      "date": "2026-11-25T00:25:00.000Z",
-      "summary": "A CNI (Confederação Nacional da Indústria) protocolou uma ação nesta terça-feira (24) no STF (Supremo Tribunal Federal) contra decreto e portaria do governo Lula (PT) para regulamentar a redução da jornada de trabalho e a implementação da escala 5x2. Leia mais",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Lula ainda vai pelo caminho do meio do conserto fiscal, mas aceita alargar a estrada",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2026/11/lula-ainda-vai-pelo-caminho-do-meio-do-conserto-fiscal-mas-aceita-alargar-a-estrada.shtml",
-      "date": "2026-11-25T00:17:00.000Z",
-      "summary": "As gentes se mexem quando a água bate nas costas, para não dizer outra coisa. Pode bem ser que, como previsto, dólar a R$ 6 e juros na órbita de Marte tenham comovido o presidente Luiz Inácio Lula da Silva. Há notícias e rumores de que o governo pode mandar ao",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Visita ao Poder360: Jones Manoel",
       "link": "https://www.poder360.com.br/poder-visitas/visita-ao-poder360-jones-manoel/",
       "date": "2026-11-25T00:12:04.000Z",
       "summary": "Deputado federal eleito por Pernambuco deu entrevista ao vivo no estúdio deste jornal digital",
       "source": "Poder360",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Mega-Sena 3090 acumula e prêmio vai a R$ 75 milhões; confira os números sorteados",
-      "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/24/mega-sena-concurso-3090-confira-os-numeros-sorteados.ghtml",
-      "date": "2026-11-25T00:03:07.000Z",
-      "summary": "Como funciona a Mega-Sena? O sorteio do concurso 3.090 da Mega-Sena foi realizado na noite desta terça-feira (24), em São Paulo. O prêmio para as apostas que acertassem as seis dezenas era de R$ 65,9 milhões. No entanto, ninguém levou a faixa principal e o val",
-      "source": "g1",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -310,15 +355,6 @@
       "source": "Agência Senado",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Lula se reúne com equipe econômica nesta quarta para definir escopo de PEC com novas medidas fiscais",
-      "link": "https://www.estadao.com.br/economia/lula-se-reune-com-equipe-economica-nesta-quarta-para-definir-escopo-de-pec-com-novas-medidas-fiscais/",
-      "date": "2026-11-24T23:47:14.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
     },
     {
       "title": "Senado vai analisar uso mais amplo da linguagem braile no cotidiano",
@@ -366,15 +402,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Em carta, PT diz que nenhum interesse econômico pode ficar acima da vontade popular",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/24/em-carta-pt-diz-que-nenhum-interesse-economico-pode-ficar-acima-da-vontade-popular.ghtml",
-      "date": "2026-11-24T23:15:40.000Z",
-      "summary": "O Partido dos Trabalhadores (PT) divulgou nesta terça-feira (24) uma carta aos brasileiros com compromissos para o país para o quarto mandato do presidente Luiz Inácio Lula da Silva (PT). No documento, o partido diz que nenhum interesse econômico pode ficar ac",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Deputados retomam nesta quarta-feira votação de projetos em defesa da população negra",
       "link": "https://www.camara.leg.br/noticias/1322627-deputados-retomam-nesta-quarta-feira-votacao-de-projetos-em-defesa-da-populacao-negra",
       "date": "2026-11-24T23:10:00.000Z",
@@ -399,15 +426,6 @@
       "summary": "Varsóvia apresentou protesto formal a Moscou após novo incidente na fronteira com a Ucrânia. Forças armadas monitoraram a aeronave e optaram por não abrir fogo.",
       "source": "DW Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Economia da Argentina encolhe e entra em recessão técnica, apontam dados preliminares",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/24/economia-da-argentina-encolhe-e-entra-em-recessao-tecnica-apontam-dados-preliminares.ghtml",
-      "date": "2026-11-24T22:33:17.000Z",
-      "summary": "Argentina entra em recessão técnica A atividade econômica da Argentina recuou 1,2% em setembro em relação ao mesmo mês do ano passado, segundo dados divulgados nesta terça-feira (24) pelo Instituto Nacional de Estatística e Censos (Indec). O resultado, que con",
-      "source": "g1",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -447,24 +465,6 @@
       "type": "oficial"
     },
     {
-      "title": "Após voltar ao comando da Nvidia, Jensen Huang pede desculpas por traição e diz fazer terapia",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/24/apos-voltar-ao-comando-da-nvidia-jensen-huang-pede-desculpas-por-traicao-e-diz-fazer-terapia.ghtml",
-      "date": "2026-11-24T21:56:24.000Z",
-      "summary": "Jensen Huang, CEO da Nvidia. Evelyn Hockstein/Reuters O CEO da Nvidia, Jensen Huang, pediu desculpas nesta terça-feira (24) aos funcionários por ter violado o código de conduta da empresa e afirmou que está fazendo terapia. A declaração ocorreu um dia após o c",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Justiça italiana adia julgamento sobre extradição de Carla Zambelli para fevereiro de 2027",
-      "link": "https://www.estadao.com.br/politica/justica-italiana-adia-julgamento-sobre-extradicao-de-carla-zambelli-para-fevereiro-de-2027-nprp/",
-      "date": "2026-11-24T21:51:43.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Lula chama Haddad para discutir nova etapa de ajuste fiscal e dá bronca em Lindbergh",
       "link": "https://www.estadao.com.br/politica/vera-rosa/lula-chama-haddad-para-discutir-nova-etapa-de-ajuste-fiscal-e-da-bronca-em-lindbergh/",
       "date": "2026-11-24T21:36:54.000Z",
@@ -474,39 +474,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Chinesa Huawei é condenada nos EUA por negócios no Irã e roubo de segredos comerciais; entenda",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/24/chinesa-huawei-e-condenada-nos-eua.ghtml",
-      "date": "2026-11-24T20:51:12.000Z",
-      "summary": "Chinesa Huawei é condenada nos EUA Hannibal Hanschke/Reuters A chinesa Huawei foi condenada nesta terça-feira (24) em um amplo processo criminal nos Estados Unidos. A gigante de tecnologia e equipamentos de telecomunicações foi acusada de enganar bancos sobre ",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Tributada, mas não regulamentada: a prostituição na República Tcheca",
       "link": "https://www.dw.com/pt-br/tributada-mas-não-regulamentada-a-prostituição-na-república-tcheca/a-80036139?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-24T20:47:00.000Z",
       "summary": "Embora não seja proibida, a prostituição segue sem regulamentação na República Tcheca. Agora, trabalhadores do setor passam a enfrentar cobranças de impostos retroativos.",
       "source": "DW Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Master: relatoria de pedidos sobre Vorcaro reabre debate no STF sobre impedimento de Nunes Marques",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/24/master-relatoria-de-pedidos-sobre-vorcaro-reabre-debate-no-stf-sobre-impedimento-de-nunes-marques.ghtml",
-      "date": "2026-11-24T19:54:26.000Z",
-      "summary": "A definição do ministro Nunes Marques como relator de pedidos ligados ao ex-banqueiro Daniel Vorcaro reabriu, no Supremo Tribunal Federal (STF), a discussão sobre a permanência do magistrado nos processos relacionados ao Banco Master ou a eventual declaração d",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Moraes rejeita pedido da defesa de Zambelli para descontar de pena da ex-deputada tempo que ela ficou presa na Itália",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/24/moraes-rejeita-pedido-da-defesa-de-zambelli-para-descontar-de-pena-da-ex-deputada-tempo-que-ela-ficou-presa-na-italia.ghtml",
-      "date": "2026-11-24T19:34:05.000Z",
-      "summary": "O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), rejeitou nesta terça-feira (24) um pedido da defesa da ex-deputada federal Carla Zambelli para descontar da pena imposta no caso da invasão aos sistemas do Conselho Nacional de Justiça (CNJ) o ",
-      "source": "g1",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -552,6 +525,15 @@
       "summary": "Declaração de chefe da diplomacia alemã ocorre após o presidente dos EUA admitir ter atuado junto ao conselho da fabricante de chips para garantir o retorno de Jensen Huang ao comando da companhia.",
       "source": "DW Brasil",
       "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Arrecadação em outubro sobe 7,3%, alcança R$ 294 bilhões e bate recorde para o mês",
+      "link": "https://www.estadao.com.br/economia/receita-federal-arrecadacao-outubro-2026-sobe-recorde/",
+      "date": "2026-11-24T15:56:16.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -710,7 +692,6 @@
   ],
   "errors": [
     "feed CNN Brasil: HTTP 404",
-    "feed CNN Brasil: HTTP 404",
-    "feed Planalto (governo): HTTP 429"
+    "feed CNN Brasil: HTTP 404"
   ]
 }
