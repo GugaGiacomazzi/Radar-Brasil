@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-25T17:47:46.856Z",
+  "updated": "2026-11-25T18:49:03.806Z",
   "market": {
     "ibov": {
-      "price": 166099.58,
-      "pct": 1.22,
-      "time": "2026-11-25T17:47:33.610Z",
+      "price": 166709.27,
+      "pct": 1.6,
+      "time": "2026-11-25T18:48:58.449Z",
       "history": [
         {
           "d": "2026-10-26",
@@ -88,7 +88,7 @@
         },
         {
           "d": "2026-11-25",
-          "c": 166081.375
+          "c": 166709.2656
         }
       ]
     },
@@ -145,40 +145,211 @@
   },
   "news": [
     {
-      "title": "Trabuco se fortalece para ir para o Ministério da Fazenda de Lula 4",
-      "link": "https://www.poder360.com.br/poder-governo/trabuco-se-fortalece-para-ir-para-o-ministerio-da-fazenda-de-lula-4/",
-      "date": "2026-11-25T17:43:40.000Z",
-      "summary": "Newsletter exclusiva para assinantes do Poder360 havia revelado articulação em 7 de novembro e, agora, conversações avançaram; presidente deve nomear chefe da Fazenda antes de ir ao G20 nos EUA",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Janones nega estupro e indica divergências em relato de advogada; entenda",
-      "link": "https://www.poder360.com.br/poder-congresso/janones-nega-estupro-e-indica-divergencias-em-relato-de-advogada-entenda/",
-      "date": "2026-11-25T17:42:23.000Z",
-      "summary": "Mulher citou datas diferentes para o suposto episódio; deputado fala em armação, Bilynskyj oferece apoio à advogada e Nikolas defende presunção de inocência",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "CCJ do Senado tipifica crime de fraude contábil após caso Americanas",
-      "link": "https://www.poder360.com.br/poder-economia/ccj-do-senado-tipifica-crime-de-fraude-contabil-apos-caso-americanas/",
-      "date": "2026-11-25T17:40:47.000Z",
-      "summary": "O texto estabelece pena de prisão de 2 a 6 anos, mais multa",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Bancada feminina cobra mais espaço nas decisões do Senado",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/25/bancada-feminina-cobra-mais-espaco-nas-decisoes-do-senado",
-      "date": "2026-11-25T17:34:05.000Z",
-      "summary": "A bancada feminina do Senado pediu ao presidente da Casa, Davi Alcolumbre (União-AP), mais espaço para relatar projetos e participar das discussões sobre o Orçamento da União e a reforma eleitoral. O encontro ocorreu na manhã desta quarta-feira (25), na residê",
+      "title": "CCJ aprova registro de motéis como meio de hospedagem no Ministério do Turismo",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/25/ccj-aprova-registro-de-moteis-como-meio-de-hospedagem-no-ministerio-do-turismo",
+      "date": "2026-11-25T18:39:58.000Z",
+      "summary": "A Comissão de Constituição e Justiça (CCJ) aprovou nesta quarta-feira (25) um projeto que obriga o registro de motéis no Cadastro de Prestadores de Serviços Turísticos (Cadastur). O cadastro é exigido para atuar legalmente no setor e dá acesso a vantagens como",
       "source": "Agência Senado",
       "cat": "politica",
       "type": "oficial"
+    },
+    {
+      "title": "Comissão convoca ministro para explicar concessão de rodovia entre RO e MT",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/25/comissao-convoca-ministro-para-explicar-concessao-de-rodovia-entre-ro-e-mt",
+      "date": "2026-11-25T18:37:02.000Z",
+      "summary": "A Comissão de Infraestrutura (CI) aprovou nesta quarta-feira (25) a convocação do ministro dos Transportes, George Santoro, para prestar esclarecimentos sobre o edital de concessão da Rota Agro Central, trecho rodoviário entre Vilhena (RO) e Cuiabá (MT). O lei",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Comissão aprova projeto que permite desfiliação partidária pela internet",
+      "link": "https://www.camara.leg.br/noticias/1322899-comissao-aprova-projeto-que-permite-desfiliacao-partidaria-pela-internet",
+      "date": "2026-11-25T18:36:00.000Z",
+      "summary": "O projeto continua em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Anvisa determina apreensão de todos os lotes de água mineral Pura",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/anvisa-determina-apreensao-de-todos-os-lotes-de-agua-mineral-pura.shtml",
+      "date": "2026-11-25T18:36:00.000Z",
+      "summary": "A Anvisa (Agência Nacional de Vigilância Sanitária) determinou a apreensão de todos os lotes da água mineral Pura, da Fonte Estrela da Manhã. A decisão foi publicada nesta terça-feira (24) no Diário Oficial da União. Leia mais (11/25/2026 - 15h36)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Bomba d a2ª Guerra força evacuação de 700 pessoas no sul da Alemanha",
+      "link": "https://www.dw.com/pt-br/bomba-d-a2ª-guerra-força-evacuação-de-700-pessoas-no-sul-da-alemanha/a-80053249?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-25T18:34:00.000Z",
+      "summary": "Descoberto durante obras em Nurembergue, artefato americano de 225 kgs mobilizou 250 agentes de emergência e levou ao fechamento do espaço aéreo temporariamente. Só na cidade, foi a 11ª bomba neste ano.",
+      "source": "DW Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "JBS: Alimentos preparados e colágeno são avenidas de crescimento, diz futuro CEO global",
+      "link": "https://www.estadao.com.br/economia/negocios/jbs-avenidas-de-crescimento-wesley-batista-filho/",
+      "date": "2026-11-25T18:33:24.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "PT oferece Transportes e Previdência ao MDB, que tenta renegociar",
+      "link": "https://www.poder360.com.br/poder-governo/pt-oferece-transportes-e-previdencia-ao-mdb-que-tenta-renegociar/",
+      "date": "2026-11-25T18:31:47.000Z",
+      "summary": "Partido quer incluir em pacote o ministério das Cidades, atualmente sob seu controle",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "CDH aprova proposta de apoio emocional a crianças e jovens com deficiências",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/25/cdh-aprova-proposta-de-apoio-emocional-a-criancas-e-jovens-com-deficiencias",
+      "date": "2026-11-25T18:31:31.000Z",
+      "summary": "A Comissão de Direitos Humanos do Senado (CDH) aprovou nesta quarta-feira (25) um projeto de lei que prevê apoio emocional a crianças, adolescentes e jovens cuja deficiência ou doença afete significativamente sua aparência ou cause constrangimento no convívio ",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Governo prorrogará subvenção ao diesel por mais 1 mês, diz Moretti",
+      "link": "https://www.poder360.com.br/poder-governo/governo-prorrogara-subvencao-ao-diesel-por-mais-1-mes-diz-moretti/",
+      "date": "2026-11-25T18:27:14.000Z",
+      "summary": "Ministro disse que renovação do benefício de R$ 2,12 por litro será anunciada ainda nesta semana",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Comissão de Orçamento aprova relatório que eleva em R$ 37,1 bilhões a previsão de receita para 2027",
+      "link": "https://www.camara.leg.br/noticias/1322856-comissao-de-orcamento-aprova-relatorio-que-eleva-em-r-371-bilhoes-a-previsao-de-receita-para-2027",
+      "date": "2026-11-25T18:27:00.000Z",
+      "summary": "Relatório prevê redução dos recursos administrados pela Receita Federal e aumento da receita com royalties de petróleo",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Alcolumbre se reúne com bancada feminina e faz aceno para candidata rival",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/11/alcolumbre-se-reune-com-bancada-feminina-e-faz-aceno-para-candidata-rival.shtml",
+      "date": "2026-11-25T18:27:00.000Z",
+      "summary": "O presidente do Senado, Davi Alcolumbre (União Brasil-AP), recebeu a bancada feminina para um café da manhã nesta quarta-feira (25) e, segundo relatos, fez um aceno para a colega Tereza Cristina (PP-MS), sua potencial adversária na disputa pela Presidência. Le",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "CDH quer verificar denúncias de violação de direitos de Vorcaro e do pai",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/25/cdh-quer-verificar-denuncias-de-violacao-de-direitos-de-vorcaro-e-do-pai",
+      "date": "2026-11-25T18:24:58.000Z",
+      "summary": "A Comissão de Direitos Humanos (CDH) pediu ao presidente do Supremo Tribunal Federal (STF), ministro Edson Fachin, autorização para que representantes do colegiado visitem nos presídios o ex-controlador do Banco Master, Daniel Vorcaro, e o pai dele, Henrique V",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Avança restrição à soltura de presos em audiência de custódia",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/25/avanca-restricao-a-soltura-de-presos-em-audiencia-de-custodia",
+      "date": "2026-11-25T18:19:09.000Z",
+      "summary": "Quem for preso em flagrante não poderá ser libertado provisoriamente caso já tenha sido preso em flagrante ou solto anteriormente em audiências de custódia, entre outros casos. É o que determina projeto de lei aprovado pela Comissão de Constituição e Justiça (",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Ministra pede desculpas ao TJMS, mas mantém falência de frigorífico",
+      "link": "https://www.poder360.com.br/poder-justica/ministra-pede-desculpas-ao-tjms-mas-mantem-falencia-de-frigorifico/",
+      "date": "2026-11-25T18:18:22.000Z",
+      "summary": "Nancy Andrighi, do STJ, diz que foi \"induzida ao erro\" pela defesa da empresa e reconhece falha em ter suspendido falência",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "CCJ aprova ressarcimento de fiador com imóvel de inquilino inadimplente",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/25/ccj-aprova-ressarcimento-de-fiador-com-imovel-de-inquilino-inadimplente",
+      "date": "2026-11-25T18:16:18.000Z",
+      "summary": "A Comissão de Constituição e Justiça (CCJ) aprovou, nesta quarta-feira (25), projeto que reforça o direito do fiador de contrato de locação ser ressarcido com imóvel do locatário inadimplente. O texto agora segue para o Plenário. Os tribunais já aplicam o ente",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Vereadora pede desculpas por fala sobre tiro em Alexandre de Moraes",
+      "link": "https://www.poder360.com.br/poder-justica/vereadora-pede-desculpas-por-fala-sobre-tiro-em-alexandre-de-moraes/",
+      "date": "2026-11-25T18:11:07.000Z",
+      "summary": "Meclet Kayser, do PL, disse que comentário sobre Moraes foi uma “brincadeira” e negou intenção de ameaçar o ministro",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Fim de ano: distribuidoras de energia oferecem descontos e parcelamento para renegociar dívidas",
+      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/25/fim-de-ano-distribuidoras-de-energia-oferecem-descontos-e-parcelamento-para-renegociar-dividas.ghtml",
+      "date": "2026-11-25T18:09:10.000Z",
+      "summary": "Subestação da Enel no Cambuci, em São Paulo Amanda Perobelli/Reuters Distribuidoras de energia elétrica oferecem condições especiais para consumidores que desejam renegociar contas em atraso neste fim de ano. As campanhas incluem descontos nos encargos, reduçã",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Folha abre vagas de estágio para F5, Guia e Ilustrada",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/blogs/novo-em-folha/2026/11/folha-abre-vagas-de-estagio-para-f5-guia-e-ilustrada.shtml",
+      "date": "2026-11-25T18:06:00.000Z",
+      "summary": "A Folha está com vagas abertas de estágio nas editorias F5, Guia Folha e Ilustrada. Leia mais (11/25/2026 - 15h06)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "União Europeia rejeita premissa dos EUA para tarifas e pede respeito a limite de 15%",
+      "link": "https://www.estadao.com.br/economia/uniao-europeia-premissa-eua-tarifas-respeito-limite/",
+      "date": "2026-11-25T18:02:54.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Buscando frear endividamento, BC deve elevar capital regulatório de emissores de cartão",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/buscando-frear-endividamento-bc-deve-elevar-capital-regulatorio-de-emissores-de-cartao.shtml",
+      "date": "2026-11-25T17:55:00.000Z",
+      "summary": "O Banco Central deve elevar as alíquotas de capital mínimo regulatório de emissores de cartão de crédito, como parte das ações que visam frear o endividamento dos brasileiros. A expectativa de agentes financeiros é que a medida seja anunciada nesta quarta-feir",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Juros forçados para baixo podem acabar em recessão, com mais inflação e pobreza",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/juros-forcados-para-baixo-podem-acabar-em-recessao-com-mais-inflacao-e-pobreza.shtml",
+      "date": "2026-11-25T17:51:00.000Z",
+      "summary": "Propostas de redução da Selic antes de um ajuste fiscal podem terminar em novo desastre econômico, como o que o Brasil atravessou em 2015 e 2016, quando enfrentou uma das maiores recessões de sua história combinada com aumento da inflação e da pobreza. Leia ma",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Caixa avalia compra do BRB após Distrito Federal não conseguir empréstimo para salvar o banco",
+      "link": "https://www.estadao.com.br/economia/caixa-avalia-compra-do-brb-apos-distrito-federal-nao-conseguir-emprestimo-para-salvar-o-banco/",
+      "date": "2026-11-25T17:41:22.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "O clima da conversa entre Alcolumbre e Tereza Cristina sobre a disputa pela presidência do Senado",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/o-clima-da-conversa-entre-alcolumbre-e-tereza-cristina-sobre-a-disputa-pela-presidencia-do-senado/",
+      "date": "2026-11-25T17:34:30.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
     },
     {
       "title": "BC divulga IBCR de setembro",
@@ -188,15 +359,6 @@
       "source": "Banco Central",
       "cat": "economia",
       "type": "oficial"
-    },
-    {
-      "title": "Ao vivo: TCU analisa dragagem de canal do porto de Santos",
-      "link": "https://www.poder360.com.br/poder-infra/ao-vivo-tcu-analisa-dragagem-de-canal-do-porto-de-santos/",
-      "date": "2026-11-25T17:30:06.000Z",
-      "summary": "Relator do processo é o ministro Rodrigo Pacheco e envolve possíveis irregularidades em licitação",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
     },
     {
       "title": "Coordenador do plano de governo de Lula diz que cortes contrariam pauta que venceu eleição",
@@ -217,10 +379,10 @@
       "type": "imprensa"
     },
     {
-      "title": "EUA querem mudar taxação sobre açúcar brasileiro; veja como pode ficar",
+      "title": "Tarifaço: açúcar brasileiro pode ter nova taxa para entrar nos EUA; veja o que pode mudar",
       "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/25/eua-querem-mudar-taxacao-sobre-acucar-brasileiro-veja-como-pode-ficar.ghtml",
       "date": "2026-11-25T17:25:14.000Z",
-      "summary": "EUA propõem novas tarifas contra Brasil e 14 economias O governo dos Estados Unidos propôs nesta quarta-feira (25) aumentar a tributação sobre o açúcar importado do Brasil e cobrar uma tarifa adicional de 10% sobre aeronaves brasileiras. Além das medidas contr",
+      "summary": "EUA propõem novas tarifas contra Brasil e 14 economias O governo dos Estados Unidos propôs nesta quarta-feira (25) aumentar a tributação sobre o açúcar importado do Brasil e cobrar uma tarifa adicional de 10% sobre aeronaves brasileiras. Em relação ao açúcar, ",
       "source": "g1",
       "cat": "economia",
       "type": "imprensa"
@@ -271,38 +433,11 @@
       "type": "imprensa"
     },
     {
-      "title": "Reforma tributária pode gerar nova desigualdade para pessoas com deficiência",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/reforma-tributaria-pode-gerar-nova-desigualdade-para-pessoas-com-deficiencia/",
-      "date": "2026-11-25T17:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Tarifas de Trump e crise da IA provocam dia de queda em Wall Street",
       "link": "https://g1.globo.com/economia/noticia/2026/11/25/trump-tarifas-ia-bolsa-de-ny-wall-street.ghtml",
       "date": "2026-11-25T16:55:37.000Z",
       "summary": "Trump durante coletiva de imprensa na Casa Branca em 20 de novembro de 2026. Reuters As bolsas de Nova York despencaram nesta quarta-feira (25), pressionadas por uma nova rodada de tarifas anunciadas pelo governo de Donald Trump e pela forte venda de ações lig",
       "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Embraer diz analisar decisão dos EUA, defende tarifa zero e cita investimentos no país",
-      "link": "https://www.estadao.com.br/economia/embraer-tarifas-eua-investimentos-pais/",
-      "date": "2026-11-25T16:54:18.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Quem é o grupo hacker do Irã que estaria por trás dos ataques a freezers na Europa",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/tec/2026/11/quem-e-o-grupo-hacker-do-ira-que-estaria-por-tras-dos-ataques-a-freezers-na-europa.shtml",
-      "date": "2026-11-25T16:49:00.000Z",
-      "summary": "Numa noite de outubro, hackers realizaram um dos ataques cibernéticos mais incomuns da história: elevaram a temperatura dos sistemas de refrigeração de centenas de supermercados em toda a França e destruíram alimentos em uma perda estimada em milhões de euros.",
-      "source": "Folha",
       "cat": "economia",
       "type": "imprensa"
     },
@@ -337,18 +472,9 @@
       "title": "Governo diz que bloqueou quase quatro mil celulares usados por presos em menos de 50 dias",
       "link": "https://g1.globo.com/politica/noticia/2026/11/25/governo-diz-que-bloqueou-quase-quatro-mil-celulares-usados-por-presos-em-menos-de-50-dias.ghtml",
       "date": "2026-11-25T16:31:42.000Z",
-      "summary": "Quase quatro mil celulares que estavam sendo usados por detentos já foram alvo de bloqueio administrativo menos de dois meses, 47 dias, após a publicação do decreto do governo federal que permitiu essa medida. Os dados foram divulgados nesta quarta-feira (25) ",
+      "summary": "Quase quatro mil celulares que estavam sendo usados por detentos já foram alvo de bloqueio administrativo em menos de dois meses, 47 dias, após a publicação do decreto do governo federal que permitiu essa medida. Os dados foram divulgados nesta quarta-feira (2",
       "source": "g1",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Trabuco, do Bradesco, vira opção para ministro da Fazenda de Lula, e ala do PT lembra fantasma de Levy",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/trabuco-vira-opcao-para-ministro-da-fazenda-de-lula-e-ala-do-pt-lembra-fantasma-de-levy.shtml",
-      "date": "2026-11-25T16:30:00.000Z",
-      "summary": "Lembrado por aliados do presidente como perfil ideal para a equipe econômica desde a campanha presidencial, o banqueiro Luiz Carlos Trabuco tem sido apontado como opção para o Ministério da Fazenda no Lula 4. Leia mais (11/25/2026 - 13h30)",
-      "source": "Folha",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -370,39 +496,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Governo Lula vê novo tarifaço dos EUA como pressão para impor condições em negociação",
-      "link": "https://www.estadao.com.br/economia/governo-lula-novo-tarifaco-eua-pressao-impor-condicoes-negociacao/",
-      "date": "2026-11-25T16:22:25.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Após taxação dos EUA, Embraer defende tarifa zero para a setor aeroespacial",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/10/25/6568-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post468072",
-      "date": "2026-11-25T16:21:00.000Z",
-      "summary": "A Embraer reagiu à imposição da tarifa de 10% sobre a importação de aeronaves anunciada pelo governo de Donald Trump. Em nota enviada pela assessoria de imprensa, a empresa brasileira diz que &quot;continua acreditando e defendendo firmemente a manutenção do r",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Ilhas Canárias registram chegada recorde de migrantes",
       "link": "https://www.dw.com/pt-br/ilhas-canárias-registram-chegada-recorde-de-migrantes/a-80051890?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-25T16:12:00.000Z",
       "summary": "Mais de 2 mil migrantes chegam ao arquipélago espanhol em apenas 24 horas. Recordes de chegadas nas ilhas vêm sendo superados em intervalos de poucos dias. Premiê Sánchez pede cooperação entre UE e países africanos.",
       "source": "DW Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Embraer reage a possível tarifa de 10% dos EUA e defende isenção para aviões: 'vigente desde a década de 1980'",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/25/eua-embraer-tarifa.ghtml",
-      "date": "2026-11-25T16:10:59.000Z",
-      "summary": "Conheça a aeronave da Americanas que será vendida para ajudar na recuperação da empresa Divulgação/Embraer A Embraer defendeu a manutenção da isenção de tarifas para a indústria aeroespacial global após o governo dos Estados Unidos propor uma cobrança adiciona",
-      "source": "g1",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -413,24 +512,6 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Lula quer nova governança para articular investimentos de forma integrada nos ministérios",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/lula-quer-nova-governanca-para-articular-investimentos-de-forma-integrada-nos-ministerios.shtml",
-      "date": "2026-11-25T16:00:00.000Z",
-      "summary": "O governo Lula discute a criação de uma governança para a coordenação das ações dos ministérios voltadas ao aumento dos investimentos no país. O diagnóstico discutido com o presidente Luiz Inácio Lula da Silva (PT) é que os temas regulatórios que tratam de inv",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Livro sobre prisão de Lula tem peso histórico, mas exige paciência",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/livro-sobre-prisao-de-lula-tem-peso-historico-mas-exige-paciencia.shtml",
-      "date": "2026-11-25T16:00:00.000Z",
-      "summary": "Uma boa e uma má notícia para quem pretende se aventurar pelo recém-lançado \"Banho de Sol - os 580 Dias na Prisão\", livro baseado no diário do agente da Polícia Federal Jorge Chastalo Filho, responsável pela carceragem de Curitiba onde Lula ficou preso entre 2",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
     },
     {
       "title": "Expectativa de vida em Cuba cai pela primeira vez em quase 80 anos",
@@ -451,39 +532,12 @@
       "type": "oficial"
     },
     {
-      "title": "Comissão de Constituição e Justiça aprova prazo de validade para autorização de viagem internacional de crianças",
-      "link": "https://www.camara.leg.br/noticias/1322775-comissao-de-constituicao-e-justica-aprova-prazo-de-validade-para-autorizacao-de-viagem-internacional-de-criancas",
-      "date": "2026-11-25T15:46:00.000Z",
-      "summary": "Projeto de lei ainda será analisado pelo Senado",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Comissão aprova política nacional para apoiar produções audiovisuais",
-      "link": "https://www.camara.leg.br/noticias/1322759-comissao-aprova-politica-nacional-para-apoiar-producoes-audiovisuais",
-      "date": "2026-11-25T15:43:00.000Z",
-      "summary": "O projeto poderá seguir para o Senado, a menos que haja recurso para votação pelo Plenário da Câmara",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
       "title": "Execuções, chibatadas, perseguição: Arábia Saudita redobra repressão a dissidentes",
       "link": "https://www.dw.com/pt-br/execuções-chibatadas-perseguição-arábia-saudita-redobra-repressão-a-dissidentes/a-80044727?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-25T15:03:00.000Z",
       "summary": "Em meio ao conflito no Irã, situação dos direitos humanos se agrava no reino árabe, com mais de 200 execuções em 2026, aplicação de punições corporais e uma repressão cada vez maior contra vozes críticas.",
       "source": "DW Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "‘Falta senso de urgência ao governo; acho que vamos mesmo para a crise’, diz economista da PUC-Rio",
-      "link": "https://www.estadao.com.br/economia/entrevista-marcio-garcia-nao-vejo-senso-urgencia-governo-lula/",
-      "date": "2026-11-25T15:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -496,12 +550,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Como o PCC e o Comando Vermelho se espalharam pelo Brasil",
-      "link": "https://www.dw.com/pt-br/como-o-pcc-e-o-comando-vermelho-se-espalharam-pelo-brasil/a-80045430?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-25T12:59:00.000Z",
-      "summary": "Nascidas nas prisões de São Paulo e do Rio de Janeiro, as duas maiores facções do país ampliaram sua atuação e hoje influenciam mercados ilegais em praticamente todas as regiões brasileiras e em rotas internacionais.",
-      "source": "DW Brasil",
-      "cat": "internacional",
+      "title": "Orçamento 2027: Congresso aumenta projeção de receitas em R$ 37 bilhões após pacote fiscal de Lula",
+      "link": "https://www.estadao.com.br/economia/orcamento-2027-congresso-aumenta-projecao-de-receitas-em-r-37-bilhoes-apos-pacote-fiscal-de-lula/",
+      "date": "2026-11-25T13:36:24.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -538,15 +592,6 @@
       "summary": "",
       "source": "Estadão",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Preocupação fiscal cresce e bancos de NY à Faria Lima reduzem recomendação de Brasil nas carteiras",
-      "link": "https://www.estadao.com.br/economia/preocupacao-fiscal-cresce-e-bancos-de-ny-a-faria-lima-reduzem-recomendacao-de-brasil-nas-carteiras/",
-      "date": "2026-11-25T08:30:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
