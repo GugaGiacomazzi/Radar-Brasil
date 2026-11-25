@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-25T18:49:03.806Z",
+  "updated": "2026-11-25T19:53:41.146Z",
   "market": {
     "ibov": {
-      "price": 166709.27,
-      "pct": 1.6,
-      "time": "2026-11-25T18:48:58.449Z",
+      "price": 166881.14,
+      "pct": 1.7,
+      "time": "2026-11-25T19:53:34.163Z",
       "history": [
         {
           "d": "2026-10-26",
@@ -88,7 +88,7 @@
         },
         {
           "d": "2026-11-25",
-          "c": 166709.2656
+          "c": 166954.7031
         }
       ]
     },
@@ -145,22 +145,256 @@
   },
   "news": [
     {
-      "title": "CCJ aprova registro de motéis como meio de hospedagem no Ministério do Turismo",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/25/ccj-aprova-registro-de-moteis-como-meio-de-hospedagem-no-ministerio-do-turismo",
-      "date": "2026-11-25T18:39:58.000Z",
-      "summary": "A Comissão de Constituição e Justiça (CCJ) aprovou nesta quarta-feira (25) um projeto que obriga o registro de motéis no Cadastro de Prestadores de Serviços Turísticos (Cadastur). O cadastro é exigido para atuar legalmente no setor e dá acesso a vantagens como",
+      "title": "Bolsas asiáticas despencam com dúvidas sobre recuperação da IA e novas ameaças tarifárias de Trump",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/bolsas-asiaticas-despencam-com-duvidas-sobre-recuperacao-da-ia-e-novas-ameacas-tarifarias-de-trump.shtml",
+      "date": "2026-11-25T19:51:00.000Z",
+      "summary": "As bolsas asiáticas despencaram nesta quarta-feira (25), em meio a novas ameaças tarifárias dos Estados Unidos e à perda de força de uma recuperação recente puxada pelo setor de tecnologia. Os mercados que estão mais expostos à indústria de semicondutores regi",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Câmara analisa projeto sobre contenção remota de agressores de mulheres; acompanhe",
+      "link": "https://www.camara.leg.br/noticias/1322539-camara-analisa-projeto-sobre-contencao-remota-de-agressores-de-mulheres-acompanhe",
+      "date": "2026-11-25T19:49:00.000Z",
+      "summary": "",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Defensores públicos alertam que redução da maioridade penal fortalece facções",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/defensores-publicos-alertam-que-reducao-da-maioridade-penal-fortalece-faccoes.shtml",
+      "date": "2026-11-25T19:49:00.000Z",
+      "summary": "Defensores públicos afirmam que a redução da maioridade penal de 18 para 16 anos pode ampliar o recrutamento de adolescentes por facções criminosas e, com isso, fortalecê-las. Leia mais (11/25/2026 - 16h49)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "'Meio milhão de mortos': vazamento de dados revela números impressionantes de soldados russos que perderam a vida na guerra na Ucrânia",
+      "link": "https://www.bbc.com/portuguese/articles/ckdd1zq7r56no?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-25T19:43:08.000Z",
+      "summary": "Dados vazados da agência de estatísticas russa revelam como que invasão da Ucrânia impactou nos padrões de mortalidade do país; em 2025, maioria das vítimas tinha menos de 24 anos",
+      "source": "BBC News Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Paim volta a defender mudança na contribuição previdenciária das empresas",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/25/paim-volta-a-defender-mudanca-na-contribuicao-previdenciaria-das-empresas",
+      "date": "2026-11-25T19:39:02.000Z",
+      "summary": "Em pronunciamento no Plenário nesta quarta-feira (25), o senador Paulo Paim (PT-RS) voltou a defender a mudança na forma de contribuição das empresas para a Previdência Social que está prevista na PEC 1/2026: com a cobrança calculada sobre o faturamento, e não",
       "source": "Agência Senado",
       "cat": "politica",
       "type": "oficial"
     },
     {
-      "title": "Comissão convoca ministro para explicar concessão de rodovia entre RO e MT",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/25/comissao-convoca-ministro-para-explicar-concessao-de-rodovia-entre-ro-e-mt",
-      "date": "2026-11-25T18:37:02.000Z",
-      "summary": "A Comissão de Infraestrutura (CI) aprovou nesta quarta-feira (25) a convocação do ministro dos Transportes, George Santoro, para prestar esclarecimentos sobre o edital de concessão da Rota Agro Central, trecho rodoviário entre Vilhena (RO) e Cuiabá (MT). O lei",
+      "title": "Comissão aprova ampliação de recursos de acessibilidade no âmbito da Justiça",
+      "link": "https://www.camara.leg.br/noticias/1322910-comissao-aprova-ampliacao-de-recursos-de-acessibilidade-no-ambito-da-justica",
+      "date": "2026-11-25T19:37:00.000Z",
+      "summary": "Projeto segue para sanção presidencial, a menos que haja recurso para votação pelo Plenário da Câmara",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Assembleia do RJ articula aumento de salário para Douglas Ruas e secretários",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/assembleia-do-rj-articula-aumento-de-salario-para-douglas-ruas-e-secretarios.shtml",
+      "date": "2026-11-25T19:35:00.000Z",
+      "summary": "A Alerj (Assembleia Legislativa do Rio de Janeiro), presidida pelo governador eleito Douglas Ruas (PL), discute nesta semana o reajuste dos salários do chefe do Executivo, vice, secretários e subsecretários. Leia mais (11/25/2026 - 16h35)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Discriminação por ideologia política e suas implicações trabalhistas",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/blogs/politicas-e-justica/2026/11/discriminacao-por-ideologia-politica-e-suas-implicacoes-trabalhistas.shtml",
+      "date": "2026-11-25T19:33:00.000Z",
+      "summary": "Após as eleições, circularam notícias de que alguns influenciadores digitais estariam incentivando a recusa de contratação e até mesmo a demissão de empregados por conta de escolhas políticas. A Constituição Federal do Brasil se pauta pelos princípios da digni",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "CDH: vínculo posterior entre réu e vítima de estupro de vulnerável não afasta pena",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/25/cdh-vinculo-posterior-entre-reu-e-vitima-de-estupro-de-vulneravel-nao-afasta-pena",
+      "date": "2026-11-25T19:28:32.000Z",
+      "summary": "Praticar sexo com pessoa menor de 14 anos é crime. E, pela lei, não há circunstância capaz de relativizar o cumprimento da pena, de 10 a 18 anos de reclusão. Para deixar ainda mais clara a \"absoluta presunção de vulnerabilidade da vítima\" e a \"inadmissibilidad",
       "source": "Agência Senado",
       "cat": "politica",
       "type": "oficial"
+    },
+    {
+      "title": "Seminário da Folha discute desafios e oportunidades do mercado livre de energia",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/seminariosfolha/2026/11/seminario-da-folha-discute-desafios-e-oportunidades-do-mercado-livre-de-energia.shtml",
+      "date": "2026-11-25T19:25:00.000Z",
+      "summary": "A Folha realiza no dia 4 de dezembro (sexta-feira) o seminário \"Mercado Livre de Energia\", que discutirá os efeitos da ampliação da concorrência no setor elétrico brasileiro e os desafios para atrair investimentos e garantir segurança no abastecimento. Leia ma",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Caneta emagrecedora: Anvisa adia decisão sobre aplicação em clínicas; setor sinaliza alta de preços",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/caneta-emagrecedora-anvisa-adia-decisao-sobre-aplicacao-em-clinicas-setor-sinaliza-alta-de-precos/",
+      "date": "2026-11-25T19:24:05.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Dueire celebra 81 anos do Hospital de Câncer e pede mais investimentos",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/25/dueire-celebra-81-anos-do-hospital-de-cancer-e-pede-mais-investimentos",
+      "date": "2026-11-25T19:23:28.000Z",
+      "summary": "O senador Fernando Dueire (PSD-PE) homenageou nesta quarta-feira (25) os 81 anos do Hospital de Câncer de Pernambuco, fundado em 1945. Em pronunciamento no Plenário, ele ressaltou a contribuição da instituição para a saúde pública no estado e o trabalho de ate",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "O Banco Central não pode esperar Brasília",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/solange-srour/2026/11/o-banco-central-nao-pode-esperar-brasilia.shtml",
+      "date": "2026-11-25T19:22:00.000Z",
+      "summary": "O Copom interrompeu os cortes em novembro, com a Selic em 13,75%. Desde então, o quadro piorou significativamente, colocando em xeque essa pausa. Há várias razões para que, na reunião de dezembro, o BC sinalize maior preocupação e deixe claro que, se o cenário",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "A crise diplomática que levou o Brasil a retirar seu embaixador na Argentina",
+      "link": "https://www.dw.com/pt-br/a-crise-diplomática-que-levou-o-brasil-a-retirar-seu-embaixador-na-argentina/a-80051161?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-25T19:18:00.000Z",
+      "summary": "Embaixador brasileiro não retornará ao posto em Buenos Aires. Presidente Javier Milei, aliado do bolsonarismo, lançou ataques em série contra Lula ao longo dos últimos anos.",
+      "source": "DW Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Moraes rejeita pedido para STF indicar como devem ser custeados R$ 324 milhões em 'penduricalhos' no MPU",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/25/moraes-rejeita-pedido-para-stf-indicar-como-devem-ser-custeados-r-324-milhoes-em-penduricalhos-no-mpu.ghtml",
+      "date": "2026-11-25T19:17:04.000Z",
+      "summary": "O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), rejeitou um pedido para que a Corte indique como devem ser custeadas despesas extras estimadas em R$ 324 milhões no Ministério Público da União (MPU). Os valores decorrem do julgamento que fixo",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Dra. Eudócia questiona contrato de R$ 209 milhões entre Alagoas e Caixa",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/25/dra-eudocia-questiona-contrato-de-r-209-milhoes-entre-alagoas-e-caixa",
+      "date": "2026-11-25T19:16:56.000Z",
+      "summary": "Em pronunciamento no Plenário nesta quarta-feira (25), a senadora Dra. Eudócia (PSDB-AL) questionou contrato firmado sem licitação entre o governo de Alagoas e a Caixa Econômica Federal. Pelo contrato, o banco vai pagar mais de R$ 209 milhões ao estado pela ex",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Zenaide critica juros altos e defende limite para cobranças dos bancos",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/25/zenaide-critica-juros-altos-e-defende-limite-para-cobrancas-dos-bancos",
+      "date": "2026-11-25T19:16:47.000Z",
+      "summary": "A senadora Zenaide Maia (PSD-RN), em pronunciamento no Plenário nesta quarta-feira (25), defendeu a aprovação de uma proposta de emenda à Constituição, de autoria dela, que estabelece um limite de três vezes a taxa Selic para os juros cobrados por bancos e ins",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Bilynskyj pede apuração de relato de estupro contra Janones, que nega",
+      "link": "https://www.poder360.com.br/poder-congresso/bilynskyj-pede-apuracao-de-relato-de-estupro-contra-janones-que-nega/",
+      "date": "2026-11-25T19:08:05.000Z",
+      "summary": "Deputado solicita medidas de proteção à advogada e encaminhamento do caso à PGR; mulher fez relato com datas diferentes em comentários nas redes e em entrevista a jornal",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Presidente do BRB diz a funcionários que federalização se tornou mais viável após eleições",
+      "link": "https://www.estadao.com.br/economia/presidente-do-brb-diz-a-funcionarios-que-federalizacao-se-tornou-mais-viavel-apos-eleicoes/",
+      "date": "2026-11-25T19:07:52.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Trump critica governador por plano para converter 548 penas de morte",
+      "link": "https://www.poder360.com.br/poder-internacional/trump-critica-governador-por-plano-para-converter-548-penas-de-morte/",
+      "date": "2026-11-25T19:07:09.000Z",
+      "summary": "Presidente dos EUA chamou o governador da Califórnia, Gavin Newsom, de “terrível” por propor a substituição a condenação por prisão perpétua",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Justiça proíbe Unidas de usar menores de 18 anos na lavagem de carros",
+      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/25/justica-proibe-unidas-de-usar-menores-de-18-anos-na-lavagem-de-carros.ghtml",
+      "date": "2026-11-25T19:01:24.000Z",
+      "summary": "Imagem de arquivo da fachada do Aeroporto Internacional de Viracopos, em Campinas. Reprodução/EPTV A Justiça do Trabalho determinou que a locadora de veículos Unidas pare imediatamente de utilizar ou permitir o trabalho de menores de 18 anos na lavagem, higien",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Feminicídio não é uma invenção semântica",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/feminicidio-nao-e-uma-invencao-semantica/",
+      "date": "2026-11-25T19:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Juiz manda recolher móveis de jornal para pagar indenização a condenado por homicídio",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/juiz-manda-recolher-moveis-de-jornal-para-pagar-indenizacao-a-condenado-por-homicidio.shtml",
+      "date": "2026-11-25T18:59:00.000Z",
+      "summary": "A Justiça do Rio Grande do Sul determinou o recolhimento de móveis e computadores do Jornal Já, de Porto Alegre, para quitar uma indenização devida a um homem condenado pelo homicídio de sua mulher, em 2004. Leia mais (11/25/2026 - 15h59)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Comissão aprova diretrizes de segurança alimentar climática para povos tradicionais da Amazônia",
+      "link": "https://www.camara.leg.br/noticias/1322848-comissao-aprova-diretrizes-de-seguranca-alimentar-climatica-para-povos-tradicionais-da-amazonia",
+      "date": "2026-11-25T18:52:00.000Z",
+      "summary": "Proposta segue em discussão na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Indústria de insumos agrícolas vê custo de produção subir com dólar próximo a R$ 6",
+      "link": "https://www.estadao.com.br/economia/agronegocios/industria-de-insumos-agricolas-ve-custo-de-producao-subir-com-dolar-proximo-a-r-6/",
+      "date": "2026-11-25T18:51:17.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Denúncias de violência virtual no Ligue 180 crescem 36,5%, diz ministra das Mulheres",
+      "link": "https://www.camara.leg.br/noticias/1322865-denuncias-de-violencia-virtual-no-ligue-180-crescem-365-diz-ministra-das-mulheres",
+      "date": "2026-11-25T18:50:00.000Z",
+      "summary": "Sessão solene na Câmara dos Deputados marca o Dia Internacional para a Eliminação da Violência contra as Mulheres",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Polônia criará zona de exclusão aérea na fronteira com a Ucrânia para conter ameaças russas",
+      "link": "https://www.dw.com/pt-br/polônia-criará-zona-de-exclusão-aérea-na-fronteira-com-a-ucrânia-para-conter-ameaças-russas/a-80054184?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-25T18:41:00.000Z",
+      "summary": "Após incursões de drones e a queda de mísseis russos em seu território, governo polonês planeja criar área restrita para voos perto da fronteira e pede que aliados da Otan adotem medida semelhante.",
+      "source": "DW Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "iFood vê competição predatória e dobra a aposta: ‘Não vamos ser sufocados’, diz CEO",
+      "link": "https://www.estadao.com.br/economia/negocios/ifood-ve-competicao-predatoria-e-dobra-a-aposta-nao-vamos-ser-sufocados-diz-ceo/",
+      "date": "2026-11-25T18:38:12.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
     },
     {
       "title": "Comissão aprova projeto que permite desfiliação partidária pela internet",
@@ -172,30 +406,12 @@
       "type": "oficial"
     },
     {
-      "title": "Anvisa determina apreensão de todos os lotes de água mineral Pura",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/anvisa-determina-apreensao-de-todos-os-lotes-de-agua-mineral-pura.shtml",
-      "date": "2026-11-25T18:36:00.000Z",
-      "summary": "A Anvisa (Agência Nacional de Vigilância Sanitária) determinou a apreensão de todos os lotes da água mineral Pura, da Fonte Estrela da Manhã. A decisão foi publicada nesta terça-feira (24) no Diário Oficial da União. Leia mais (11/25/2026 - 15h36)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Bomba d a2ª Guerra força evacuação de 700 pessoas no sul da Alemanha",
       "link": "https://www.dw.com/pt-br/bomba-d-a2ª-guerra-força-evacuação-de-700-pessoas-no-sul-da-alemanha/a-80053249?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-25T18:34:00.000Z",
       "summary": "Descoberto durante obras em Nurembergue, artefato americano de 225 kgs mobilizou 250 agentes de emergência e levou ao fechamento do espaço aéreo temporariamente. Só na cidade, foi a 11ª bomba neste ano.",
       "source": "DW Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "JBS: Alimentos preparados e colágeno são avenidas de crescimento, diz futuro CEO global",
-      "link": "https://www.estadao.com.br/economia/negocios/jbs-avenidas-de-crescimento-wesley-batista-filho/",
-      "date": "2026-11-25T18:33:24.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -206,15 +422,6 @@
       "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
-    },
-    {
-      "title": "CDH aprova proposta de apoio emocional a crianças e jovens com deficiências",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/25/cdh-aprova-proposta-de-apoio-emocional-a-criancas-e-jovens-com-deficiencias",
-      "date": "2026-11-25T18:31:31.000Z",
-      "summary": "A Comissão de Direitos Humanos do Senado (CDH) aprovou nesta quarta-feira (25) um projeto de lei que prevê apoio emocional a crianças, adolescentes e jovens cuja deficiência ou doença afete significativamente sua aparência ou cause constrangimento no convívio ",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
     },
     {
       "title": "Governo prorrogará subvenção ao diesel por mais 1 mês, diz Moretti",
@@ -238,53 +445,8 @@
       "title": "Alcolumbre se reúne com bancada feminina e faz aceno para candidata rival",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/11/alcolumbre-se-reune-com-bancada-feminina-e-faz-aceno-para-candidata-rival.shtml",
       "date": "2026-11-25T18:27:00.000Z",
-      "summary": "O presidente do Senado, Davi Alcolumbre (União Brasil-AP), recebeu a bancada feminina para um café da manhã nesta quarta-feira (25) e, segundo relatos, fez um aceno para a colega Tereza Cristina (PP-MS), sua potencial adversária na disputa pela Presidência. Le",
+      "summary": "O presidente do Senado, Davi Alcolumbre (União Brasil-AP), recebeu a bancada feminina para um café da manhã nesta quarta-feira (25) e, segundo relatos, fez um aceno para a colega Tereza Cristina (PP-MS), sua potencial adversária na disputa pela presidência. Le",
       "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "CDH quer verificar denúncias de violação de direitos de Vorcaro e do pai",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/25/cdh-quer-verificar-denuncias-de-violacao-de-direitos-de-vorcaro-e-do-pai",
-      "date": "2026-11-25T18:24:58.000Z",
-      "summary": "A Comissão de Direitos Humanos (CDH) pediu ao presidente do Supremo Tribunal Federal (STF), ministro Edson Fachin, autorização para que representantes do colegiado visitem nos presídios o ex-controlador do Banco Master, Daniel Vorcaro, e o pai dele, Henrique V",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Avança restrição à soltura de presos em audiência de custódia",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/25/avanca-restricao-a-soltura-de-presos-em-audiencia-de-custodia",
-      "date": "2026-11-25T18:19:09.000Z",
-      "summary": "Quem for preso em flagrante não poderá ser libertado provisoriamente caso já tenha sido preso em flagrante ou solto anteriormente em audiências de custódia, entre outros casos. É o que determina projeto de lei aprovado pela Comissão de Constituição e Justiça (",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Ministra pede desculpas ao TJMS, mas mantém falência de frigorífico",
-      "link": "https://www.poder360.com.br/poder-justica/ministra-pede-desculpas-ao-tjms-mas-mantem-falencia-de-frigorifico/",
-      "date": "2026-11-25T18:18:22.000Z",
-      "summary": "Nancy Andrighi, do STJ, diz que foi \"induzida ao erro\" pela defesa da empresa e reconhece falha em ter suspendido falência",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "CCJ aprova ressarcimento de fiador com imóvel de inquilino inadimplente",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/25/ccj-aprova-ressarcimento-de-fiador-com-imovel-de-inquilino-inadimplente",
-      "date": "2026-11-25T18:16:18.000Z",
-      "summary": "A Comissão de Constituição e Justiça (CCJ) aprovou, nesta quarta-feira (25), projeto que reforça o direito do fiador de contrato de locação ser ressarcido com imóvel do locatário inadimplente. O texto agora segue para o Plenário. Os tribunais já aplicam o ente",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Vereadora pede desculpas por fala sobre tiro em Alexandre de Moraes",
-      "link": "https://www.poder360.com.br/poder-justica/vereadora-pede-desculpas-por-fala-sobre-tiro-em-alexandre-de-moraes/",
-      "date": "2026-11-25T18:11:07.000Z",
-      "summary": "Meclet Kayser, do PL, disse que comentário sobre Moraes foi uma “brincadeira” e negou intenção de ameaçar o ministro",
-      "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -294,51 +456,6 @@
       "date": "2026-11-25T18:09:10.000Z",
       "summary": "Subestação da Enel no Cambuci, em São Paulo Amanda Perobelli/Reuters Distribuidoras de energia elétrica oferecem condições especiais para consumidores que desejam renegociar contas em atraso neste fim de ano. As campanhas incluem descontos nos encargos, reduçã",
       "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Folha abre vagas de estágio para F5, Guia e Ilustrada",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/blogs/novo-em-folha/2026/11/folha-abre-vagas-de-estagio-para-f5-guia-e-ilustrada.shtml",
-      "date": "2026-11-25T18:06:00.000Z",
-      "summary": "A Folha está com vagas abertas de estágio nas editorias F5, Guia Folha e Ilustrada. Leia mais (11/25/2026 - 15h06)",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "União Europeia rejeita premissa dos EUA para tarifas e pede respeito a limite de 15%",
-      "link": "https://www.estadao.com.br/economia/uniao-europeia-premissa-eua-tarifas-respeito-limite/",
-      "date": "2026-11-25T18:02:54.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Buscando frear endividamento, BC deve elevar capital regulatório de emissores de cartão",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/buscando-frear-endividamento-bc-deve-elevar-capital-regulatorio-de-emissores-de-cartao.shtml",
-      "date": "2026-11-25T17:55:00.000Z",
-      "summary": "O Banco Central deve elevar as alíquotas de capital mínimo regulatório de emissores de cartão de crédito, como parte das ações que visam frear o endividamento dos brasileiros. A expectativa de agentes financeiros é que a medida seja anunciada nesta quarta-feir",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Juros forçados para baixo podem acabar em recessão, com mais inflação e pobreza",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/juros-forcados-para-baixo-podem-acabar-em-recessao-com-mais-inflacao-e-pobreza.shtml",
-      "date": "2026-11-25T17:51:00.000Z",
-      "summary": "Propostas de redução da Selic antes de um ajuste fiscal podem terminar em novo desastre econômico, como o que o Brasil atravessou em 2015 e 2016, quando enfrentou uma das maiores recessões de sua história combinada com aumento da inflação e da pobreza. Leia ma",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Caixa avalia compra do BRB após Distrito Federal não conseguir empréstimo para salvar o banco",
-      "link": "https://www.estadao.com.br/economia/caixa-avalia-compra-do-brb-apos-distrito-federal-nao-conseguir-emprestimo-para-salvar-o-banco/",
-      "date": "2026-11-25T17:41:22.000Z",
-      "summary": "",
-      "source": "Estadão",
       "cat": "economia",
       "type": "imprensa"
     },
@@ -361,15 +478,6 @@
       "type": "oficial"
     },
     {
-      "title": "Coordenador do plano de governo de Lula diz que cortes contrariam pauta que venceu eleição",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/coordenador-do-plano-de-governo-de-lula-diz-que-cortes-contrariam-pauta-que-venceu-eleicao.shtml",
-      "date": "2026-11-25T17:30:00.000Z",
-      "summary": "Coordenador do programa de governo de Luiz Inácio Lula da Silva na campanha, José Sergio Gabrielli diz que o projeto aprovado pelo Congresso de contenção de despesas, o chamado \"plano Moretti\", aponta para uma direção diferente da pauta que venceu a eleição. L",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Lula consulta ex-ministros da Justiça sobre novo Ministério da Segurança Pública",
       "link": "https://www.estadao.com.br/politica/lula-consulta-ex-ministros-da-justica-sobre-novo-ministerio-da-seguranca-publica/",
       "date": "2026-11-25T17:28:01.000Z",
@@ -386,24 +494,6 @@
       "source": "g1",
       "cat": "economia",
       "type": "imprensa"
-    },
-    {
-      "title": "Apelo de Nizan Guanaes por renacionalização da publicidade acende debate contra grupos internacionais",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/apelo-de-nizan-guanaes-por-renacionalizacao-da-publicidade-acende-debate-contra-grupos-internacionais.shtml",
-      "date": "2026-11-25T17:25:00.000Z",
-      "summary": "O arroz biro-biro, tradicional prato feito com arroz branco, bacon, ovos mexidos, cebola, cheiro-verde e batata-palha, foi batizado com esse nome pela publicidade brasileira. A ideia nasceu de Washington Olivetto (1951-2024), chefe de criação da agência DPZ. E",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Comissão aprova projeto que esclarece crime de corrupção de criança e adolescente",
-      "link": "https://www.camara.leg.br/noticias/1322841-comissao-aprova-projeto-que-esclarece-crime-de-corrupcao-de-crianca-e-adolescente",
-      "date": "2026-11-25T17:11:00.000Z",
-      "summary": "O texto segue em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
     },
     {
       "title": "EUA anunciam novas tarifas, miram Embraer e ampliam pressão comercial sobre Brasil e China",
@@ -424,28 +514,10 @@
       "type": "imprensa"
     },
     {
-      "title": "Bolsonaro segue com quadro estável e sem previsão de alta, diz boletim médico",
-      "link": "https://www.estadao.com.br/politica/bolsonaro-segue-com-quadro-estavel-e-sem-previsao-de-alta-diz-boletim-medico/",
-      "date": "2026-11-25T17:04:09.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Tarifas de Trump e crise da IA provocam dia de queda em Wall Street",
+      "title": "Bolsas dos EUA despencam com novo tarifaço de Trump e temores sobre investimentos em IA",
       "link": "https://g1.globo.com/economia/noticia/2026/11/25/trump-tarifas-ia-bolsa-de-ny-wall-street.ghtml",
       "date": "2026-11-25T16:55:37.000Z",
-      "summary": "Trump durante coletiva de imprensa na Casa Branca em 20 de novembro de 2026. Reuters As bolsas de Nova York despencaram nesta quarta-feira (25), pressionadas por uma nova rodada de tarifas anunciadas pelo governo de Donald Trump e pela forte venda de ações lig",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Efeito China: Ford vai trazer SUV Bronco eletrificado chinês para o Brasil",
-      "link": "https://g1.globo.com/carros/noticia/2026/11/25/novo-ford-bronco-eletrico-hibrido.ghtml",
-      "date": "2026-11-25T16:46:21.000Z",
-      "summary": "Ford Bronco eletrificado divulgação/Ford A Ford anunciou nesta quarta-feira (25) novos carros que chegarão ao Brasil em 2027. Todos são SUVs, incluindo a primeira versão híbrida do Bronco. O novo Bronco chegará ao Brasil no último trimestre de 2027 e não se di",
+      "summary": "EUA propõem novas tarifas contra Brasil e 14 economias As bolsas de Nova York despencaram nesta quarta-feira (25), pressionadas por uma nova rodada de tarifas anunciadas pelo governo de Donald Trump e pela forte venda de ações ligadas à inteligência artificial",
       "source": "g1",
       "cat": "economia",
       "type": "imprensa"
@@ -460,37 +532,10 @@
       "type": "imprensa"
     },
     {
-      "title": "Comissão debate formas de ampliar o alcance da rede de proteção à infância",
-      "link": "https://www.camara.leg.br/noticias/1322704-comissao-debate-formas-de-ampliar-o-alcance-da-rede-de-protecao-a-infancia",
-      "date": "2026-11-25T16:41:00.000Z",
-      "summary": "",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
       "title": "Governo diz que bloqueou quase quatro mil celulares usados por presos em menos de 50 dias",
       "link": "https://g1.globo.com/politica/noticia/2026/11/25/governo-diz-que-bloqueou-quase-quatro-mil-celulares-usados-por-presos-em-menos-de-50-dias.ghtml",
       "date": "2026-11-25T16:31:42.000Z",
       "summary": "Quase quatro mil celulares que estavam sendo usados por detentos já foram alvo de bloqueio administrativo em menos de dois meses, 47 dias, após a publicação do decreto do governo federal que permitiu essa medida. Os dados foram divulgados nesta quarta-feira (2",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Impasse entre Messias e Pacheco zera corrida ao STF, e Lula vê profusão de candidatas",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/impasse-entre-messias-e-pacheco-zera-corrida-ao-stf-e-lula-ve-profusao-de-candidatas.shtml",
-      "date": "2026-11-25T16:27:00.000Z",
-      "summary": "A dificuldade do presidente Lula (PT) em fazer avançar a indicação de Jorge Messias, somada à sua resistência em aceitar o nome de Rodrigo Pacheco, resultou em um jogo zerado para a vaga aberta no STF (Supremo Tribunal Federal). Leia mais (11/25/2026 - 13h27)",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Lula sonda Haddad sobre pasta de Investimentos, mas ex-ministro diz que não quer estar no governo; Trabuco ganha força para Fazenda",
-      "link": "https://g1.globo.com/politica/blog/julia-duailibi/post/2026/11/25/lula-haddad-pasta-de-investimentos-trabuco-ganha-forca-para-fazenda.ghtml",
-      "date": "2026-11-25T16:25:18.000Z",
-      "summary": "Lula e Haddad Evaristo Sa / AFP via Getty Images No encontro de ontem entre Lula e Haddad, o presidente mencionou o interesse em criar uma secretaria especial para Investimentos, vinculada à Presidência da República, com status de ministério. A nova pasta, seg",
       "source": "g1",
       "cat": "politica",
       "type": "imprensa"
@@ -505,33 +550,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Comissão aprova proposta que concede gratuidade em ingressos para crianças menores de 3 anos",
-      "link": "https://www.camara.leg.br/noticias/1322791-comissao-aprova-proposta-que-concede-gratuidade-em-ingressos-para-criancas-menores-de-3-anos",
-      "date": "2026-11-25T16:09:00.000Z",
-      "summary": "Proposta segue em tramitação na Câmara",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Expectativa de vida em Cuba cai pela primeira vez em quase 80 anos",
-      "link": "https://www.dw.com/pt-br/expectativa-de-vida-em-cuba-cai-pela-primeira-vez-em-quase-80-anos/a-80048415?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-25T15:55:00.000Z",
-      "summary": "Expectativa de vida na ilha passou de 78,8 anos em 2020 para 74,4 anos em 2025, em meio ao aumento da mortalidade infantil e materna. Diretor da OMS alerta para crise de saúde agravada pelo bloqueio do governo Trump",
-      "source": "DW Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Seminário debate papel da educação ambiental no enfrentamento de emergências climáticas; participe",
-      "link": "https://www.camara.leg.br/noticias/1322747-seminario-debate-papel-da-educacao-ambiental-no-enfrentamento-de-emergencias-climaticas-participe",
-      "date": "2026-11-25T15:47:00.000Z",
-      "summary": "O evento será interativo; envie suas perguntas",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
       "title": "Execuções, chibatadas, perseguição: Arábia Saudita redobra repressão a dissidentes",
       "link": "https://www.dw.com/pt-br/execuções-chibatadas-perseguição-arábia-saudita-redobra-repressão-a-dissidentes/a-80044727?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-25T15:03:00.000Z",
@@ -541,18 +559,9 @@
       "type": "imprensa"
     },
     {
-      "title": "Empresas alemãs apostam na reconstrução da Ucrânia apesar da guerra",
-      "link": "https://www.dw.com/pt-br/empresas-alemãs-apostam-na-reconstrução-da-ucrânia-apesar-da-guerra/a-80041812?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-25T14:49:00.000Z",
-      "summary": "Mais de 2 mil empresas alemãs mantêm atividades no país em meio ao conflito. Empresários também miram oportunidades em projetos bilionários de reconstrução.",
-      "source": "DW Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Orçamento 2027: Congresso aumenta projeção de receitas em R$ 37 bilhões após pacote fiscal de Lula",
-      "link": "https://www.estadao.com.br/economia/orcamento-2027-congresso-aumenta-projecao-de-receitas-em-r-37-bilhoes-apos-pacote-fiscal-de-lula/",
-      "date": "2026-11-25T13:36:24.000Z",
+      "title": "‘Falta senso de urgência ao governo; acho que vamos mesmo para a crise’, diz economista da PUC-Rio",
+      "link": "https://www.estadao.com.br/economia/entrevista-marcio-garcia-nao-vejo-senso-urgencia-governo-lula/",
+      "date": "2026-11-25T15:00:00.000Z",
       "summary": "",
       "source": "Estadão",
       "cat": "economia",
@@ -583,15 +592,6 @@
       "summary": "Caso o STF aceite a denúncia da PGR, deputado, eleito neste ano senador pelo Novo, será réu por calúnia e injúria. Mas especialistas alertam para possível retaliação da corte contra parlamentares críticos ao Supremo.",
       "source": "BBC News Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Inquérito afirma que PCC propôs acordo à SPtrans para manter domínio sobre empresas de ônibus em SP",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/inquerito-afirma-que-pcc-propos-acordo-a-sptrans-para-manter-dominio-sobre-empresas-de-onibus-em-sp/",
-      "date": "2026-11-25T08:30:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -626,15 +626,6 @@
       "link": "https://www.bbc.com/portuguese/articles/cqdj1d3yd4pzo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-24T11:28:48.000Z",
       "summary": "Governo federal abriu documentos da gestão anterior e reviu decisões de sigilo, mas continua negando informações com base na proteção de dados pessoais e da segurança presidencial, incluindo gastos do cartão corporativo.",
-      "source": "BBC News Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Câmara aprova ajuste fiscal de Lula: por que pacote é tão polêmico e não deve ser suficiente, segundo economistas",
-      "link": "https://www.bbc.com/portuguese/articles/cqx2we1jgnzgo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-24T02:50:44.000Z",
-      "summary": "Estima-se que o projeto tenha impacto de até R$ 56 bilhões. Mas o 'Plano Moretti' vem sendo recebido com pessimismo no mercado financeiro e críticas por alguns dos aliados do PT.",
       "source": "BBC News Brasil",
       "cat": "internacional",
       "type": "imprensa"
