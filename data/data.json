@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-25T07:19:27.965Z",
+  "updated": "2026-11-25T08:44:10.662Z",
   "market": {
     "ibov": {
       "price": 164089.81,
       "pct": -0.43,
-      "time": "2026-11-25T07:19:20.003Z",
+      "time": "2026-11-25T08:44:06.407Z",
       "history": [
         {
           "d": "2026-10-26",
@@ -141,6 +141,42 @@
   },
   "news": [
     {
+      "title": "Bastidores: STJ avalia sugerir a Lula lista quíntupla com nomes de 3 mulheres para vagas na Corte",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/bastidores-stj-avalia-sugerir-a-lula-lista-quintupla-com-nomes-de-3-mulheres-para-vagas-na-corte/",
+      "date": "2026-11-25T08:30:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Inquérito afirma que PCC propôs acordo à SPtrans para manter domínio sobre empresas de ônibus em SP",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/inquerito-afirma-que-pcc-propos-acordo-a-sptrans-para-manter-dominio-sobre-empresas-de-onibus-em-sp/",
+      "date": "2026-11-25T08:30:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "PIB da Alemanha cresce 0,1% no 3º tri, abaixo da estimativa inicial",
+      "link": "https://www.poder360.com.br/poder-economia/pib-da-alemanha-cresce-01-no-3o-tri-abaixo-da-estimativa-inicial/",
+      "date": "2026-11-25T08:17:02.000Z",
+      "summary": "Resultado representa desaceleração em relação ao 1º semestre; exportações e investimentos em máquinas recuaram no período",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Rede apresenta 59 prioridades para a Amazônia até 2030",
+      "link": "https://www.poder360.com.br/poder-sustentavel/rede-apresenta-59-prioridades-para-a-amazonia-ate-2030/",
+      "date": "2026-11-25T08:00:55.000Z",
+      "summary": "Documento reúne propostas para orientar governos e empresas nas áreas de biodiversidade, alimentação, florestas, saneamento e energia",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "Governo reduz contenção de gastos no Orçamento para R$ 12,6 bi",
       "link": "https://www.poder360.com.br/poder-economia/governo-reduz-contencao-de-gastos-no-orcamento-para-r-126-bi/",
       "date": "2026-11-25T07:00:55.000Z",
@@ -177,7 +213,7 @@
       "type": "imprensa"
     },
     {
-      "title": "Mercado vê avanço no plano Moretti, mas espera novas medidas para conter gastos de forma estrutual",
+      "title": "Mercado vê avanço no plano Moretti, mas espera novas medidas para conter gastos de forma estrutural",
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/mercado-ve-avanco-no-plano-moretti-mas-espera-novas-medidas-para-conter-gastos-de-forma-estrutual.shtml",
       "date": "2026-11-25T07:00:00.000Z",
       "summary": "A aprovação do chamado plano Moretti pela Câmara foi recebida como um sinal positivo pelo mercado financeiro, por indicar a disposição do governo de avançar na agenda de ajuste fiscal. As medidas têm impacto estimado entre R$ 46 bilhões e R$ 56 bilhões em 2027",
@@ -198,7 +234,7 @@
       "title": "Lula reúne equipe econômica para discutir novas medidas fiscais",
       "link": "https://www.poder360.com.br/poder-governo/lula-reune-equipe-economica-para-discutir-novas-medidas-fiscais/",
       "date": "2026-11-25T06:27:48.000Z",
-      "summary": "Encontro será às 15h desta 4ª (25.nov) e terá a presença dos ministros Bruno Moretti (Planejamento e Orçamento) e Miriam Belchior (Casa Civil)",
+      "summary": "Encontro será às 15h desta 4ª (25.nov) e terá a presença dos ministros Bruno Moretti (Planejamento) e Miriam Belchior (Casa Civil)",
       "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
@@ -303,29 +339,11 @@
       "type": "imprensa"
     },
     {
-      "title": "Câmara convoca ministro para explicar troca de delegados da PF",
-      "link": "https://www.poder360.com.br/poder-justica/camara-convoca-ministro-para-explicar-troca-de-delegados-da-pf/",
-      "date": "2026-11-25T01:31:36.000Z",
-      "summary": "Deputado quer esclarecimentos sobre mudanças na estrutura da Polícia Federal e revisão de relatórios que citam ministros do STF no caso Master",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Disputa pela Casa Civil pode deixar Haddad fora do governo Lula 4",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/disputa-pela-casa-civil-pode-deixar-haddad-fora-do-governo-lula-4.shtml",
       "date": "2026-11-25T01:10:00.000Z",
       "summary": "O ex-ministro da Fazenda Fernando Haddad poderá ficar fora do governo Lula 4 caso não seja escalado para o comando da Casa Civil, afirmam aliados. Leia mais (11/24/2026 - 22h10)",
       "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Entenda diferenças entre votos de cristãos conservadores e classes D/E, que são 47% do eleitorado",
-      "link": "https://www.estadao.com.br/politica/entenda-diferencas-entre-votos-de-cristaos-conservadores-e-classes-d-e-e-que-sao-47-do-eleitorado-nprp/",
-      "date": "2026-11-25T01:08:38.000Z",
-      "summary": "",
-      "source": "Estadão",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -336,15 +354,6 @@
       "summary": "",
       "source": "Estadão",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "CNI protocola nova ação no STF contra a regulamentação do fim da 6 X 1",
-      "link": "https://www.poder360.com.br/poder-brasil/cni-protocola-nova-acao-no-stf-contra-a-regulamentacao-do-fim-da-6-x-1/",
-      "date": "2026-11-25T00:39:34.000Z",
-      "summary": "Confederação Nacional da Indústria pede que decreto e portaria editados pelo governo federal sejam declarados inconstitucionais",
-      "source": "Poder360",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -463,15 +472,6 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Lula chama Haddad para discutir nova etapa de ajuste fiscal e dá bronca em Lindbergh",
-      "link": "https://www.estadao.com.br/politica/vera-rosa/lula-chama-haddad-para-discutir-nova-etapa-de-ajuste-fiscal-e-da-bronca-em-lindbergh/",
-      "date": "2026-11-24T21:36:54.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
     },
     {
       "title": "Tributada, mas não regulamentada: a prostituição na República Tcheca",
