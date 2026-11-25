@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-25T22:51:21.378Z",
+  "updated": "2026-11-25T23:46:13.842Z",
   "market": {
     "ibov": {
       "price": 166684.61,
       "pct": 1.58,
-      "time": "2026-11-25T22:51:13.597Z",
+      "time": "2026-11-25T23:46:06.729Z",
       "history": [
         {
           "d": "2026-10-26",
@@ -145,6 +145,168 @@
   },
   "news": [
     {
+      "title": "Frustração com empresas de IA derruba ações em índices asiáticos e americanos",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/frustracao-com-empresas-de-ia-derruba-acoes-em-indices-asiaticos-e-americanos.shtml",
+      "date": "2026-11-25T23:36:00.000Z",
+      "summary": "A incerteza sobre o desempenho futuro de empresas de inteligência artificial fez o mercado perder força nesta quarta-feira (25). Ações de bolsas asiáticas e dos EUA registraram queda diante de dúvidas sobre a capacidade de sustentação dos investimentos elevado",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Relação de troca melhora, mas fertilizante ainda pesa na conta do produtor",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/vaivem/2026/11/relacao-de-troca-melhora-mas-fertilizante-ainda-pesa-na-conta-do-produtor.shtml",
+      "date": "2026-11-25T23:30:00.000Z",
+      "summary": "Após um recorde de 49,1 milhões de toneladas de fertilizantes entregues pelas indústrias para os produtores em 2025, o volume deverá recuar para 43,2 milhões neste ano. As previsões são da consultoria MacroSector e, se confirmadas, representam uma queda de 12%",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Reformar STF não é para hipocondríacos",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2026/11/reformar-stf-nao-e-para-hipocondriacos.shtml",
+      "date": "2026-11-25T23:21:00.000Z",
+      "summary": "A sociedade brasileira pede um STF melhor e ministros mais íntegros. A causa é das maiores urgências democráticas brasileiras. Questão de sobrevivência constitucional. Leia mais (11/25/2026 - 20h21)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Brasil tem déficit de 110 mil cisternas e de mais de 1,3 milhão de banheiros, diz Funasa",
+      "link": "https://www.camara.leg.br/noticias/1323123-brasil-tem-deficit-de-110-mil-cisternas-e-de-mais-de-13-milhao-de-banheiros-diz-funasa",
+      "date": "2026-11-25T23:14:00.000Z",
+      "summary": "Presidente do órgão disse na Comissão de Saúde da Câmara que quer reunir diferentes tecnologias para melhorar saneamento e abastecimento de água",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Eleições no RJ: STF marca julgamento para 4 de dezembro",
+      "link": "https://www.poder360.com.br/poder-justica/eleicoes-no-rj-stf-marca-julgamento-para-4-de-dezembro/",
+      "date": "2026-11-25T23:12:40.000Z",
+      "summary": "Ministros poderão votar em sessão virtual até 15 de dezembro; ação do PSD questiona decisão que elegeu Ruas no 1º turno",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Michelle agradece a médicos de Bolsonaro: “Anjos sem asas”",
+      "link": "https://www.poder360.com.br/poder-gente/michelle-agradece-a-medicos-de-bolsonaro-anjos-sem-asas/",
+      "date": "2026-11-25T23:09:20.000Z",
+      "summary": "Ex-primeira-dama mencionou o cirurgião Claudio Birolini e o cardiologista Brasil Caiado; ex-presidente permanece na UTI",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "PGR denuncia deputado Gustavo Gayer ao STF por esquema de desvio de cota parlamentar na Câmara",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/25/pgr-denuncia-deputado-gustavo-gayer-ao-stf-por-esquema-de-desvio-de-cota-parlamentar-na-camara.ghtml",
+      "date": "2026-11-25T23:08:50.000Z",
+      "summary": "A Procuradoria-Geral da República denunciou ao Supremo Tribunal Federal (STF) o deputado Gustavo Gayer (PL-GO) como líder de um esquema de desvio de verba da chamada cota parlamentar. Gayer foi eleito senador em outubro para um mandato de oito anos a partir de",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Chefe da PF diz que PGR pode usar provas fora de relatórios contra ministros do STF no caso Master",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/chefe-da-pf-diz-que-pgr-pode-usar-provas-fora-de-relatorios-contra-ministros-do-stf-no-caso-master.shtml",
+      "date": "2026-11-25T23:04:00.000Z",
+      "summary": "O diretor-geral da PF, Andrei Rodrigues, disse à Folha nesta quarta-feira (25) que a PGR (Procuradoria-Geral da República) pode usar todas as provas que estiverem disponíveis sobre ministros do STF (Supremo Tribunal Federal) em investigações do caso Master. Le",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Ala do PT precisa ir ao divã para superar trauma econômico do impeachment da ex-presidente Dilma",
+      "link": "https://www.estadao.com.br/economia/alvaro-gribel/ala-do-pt-precisa-ir-ao-diva-para-superar-trauma-economico-do-impeachment-da-ex-presidente-dilma/",
+      "date": "2026-11-25T23:01:38.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "JBS prevê alta de 15% de vendas no fim de ano, e novo CEO quer ampliar aposta em suplementos",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/jbs-preve-alta-de-15-de-vendas-no-fim-de-ano-e-novo-ceo-quer-ampliar-aposta-em-suplementos.shtml",
+      "date": "2026-11-25T23:00:00.000Z",
+      "summary": "A JBS espera elevar em 15% o volume de vendas no que a companhia tem chamado de \"temporada de churrasco\" no Brasil -período que engloba a chegada do verão e as festas de Natal e Ano Novo. Leia mais (11/25/2026 - 20h00)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Participantes do conluio no topo dos três poderes nunca se sentiram tão à vontade",
+      "link": "https://www.estadao.com.br/politica/william-waack/participantes-do-conluio-no-topo-dos-tres-poderes-nunca-se-sentiram-tao-a-vontade/",
+      "date": "2026-11-25T23:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Poder econômico não está acima das urnas, diz PT em carta",
+      "link": "https://www.estadao.com.br/politica/poder-economico-nao-esta-acima-das-urnas-diz-pt-em-carta-nprp/",
+      "date": "2026-11-25T22:57:15.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Moraes determina a destruição dos passaportes de Filipe Martins, condenado por trama golpista",
+      "link": "https://www.estadao.com.br/politica/moraes-determina-a-destruicao-dos-passaportes-de-filipe-martins-condenado-por-trama-golpista-nprp/",
+      "date": "2026-11-25T22:56:53.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "ECA Ambiental: direito de crianças e adolescentes à natureza",
+      "link": "https://www12.senado.leg.br/noticias/infomaterias/2026/11/eca-ambiental-direito-de-criancas-e-adolescentes-a-natureza",
+      "date": "2026-11-25T22:56:35.000Z",
+      "summary": "",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Advogada cita “lapso pontual” sobre datas ao relatar caso com Janones",
+      "link": "https://www.poder360.com.br/poder-congresso/advogada-cita-lapso-pontual-sobre-datas-ao-relatar-caso-com-janones/",
+      "date": "2026-11-25T22:55:30.000Z",
+      "summary": "Ao Poder360, Jade Elena Moraes atribui divergência a abalo emocional, nega ligação com Nikolas e diz reunir material para apresentar ao Ministério Público; deputado nega estupro",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Os muitos 'ses' para Trabuco e outros cotados para Fazenda",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/adriana-fernandes/2026/11/os-muitos-ses-para-trabuco-e-outros-cotados-para-fazenda.shtml",
+      "date": "2026-11-25T22:55:00.000Z",
+      "summary": "A informação de que Lula considera Luiz Trabuco uma opção para a Fazenda gerou uma reação positiva no mercado maior do que a notícia de que o presidente já teria dado aval a uma PEC de contenção de gastos obrigatórios. Leia mais (11/25/2026 - 19h55)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Governo e BC aprovam redução do limite do cartão para quem usa rotativo com frequência; veja medidas",
+      "link": "https://www.estadao.com.br/economia/governo-e-bc-aprovam-reducao-do-limite-do-cartao-para-quem-usa-rotativo-com-frequencia-veja-medidas/",
+      "date": "2026-11-25T22:53:25.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Relatório destaca importância da educação superior católica para a Amazônia",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/25/relatorio-destaca-importancia-da-educacao-superior-catolica-para-a-amazonia",
+      "date": "2026-11-25T22:49:29.000Z",
+      "summary": "A Comissão de Educação e Cultura do Senado (CE) promoveu nesta quarta-feira (25) uma audiência pública na qual se destacou a importância das instituições de educação superior católicas para a Amazônia Legal. Também foi apresentado um relatório sobre a atuação ",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
       "title": "Jair Renan fala sobre pneumonia do pai e elogia Michelle: “Cuidando bem”",
       "link": "https://www.poder360.com.br/poder-gente/jair-renan-fala-sobre-pneumonia-do-pai-e-elogia-michelle-cuidando-bem/",
       "date": "2026-11-25T22:48:36.000Z",
@@ -190,15 +352,6 @@
       "type": "oficial"
     },
     {
-      "title": "Daniella Marques vira sócia do G4, grupo empresarial de Tallis Gomes",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/daniella-marques-vira-socia-do-g4-grupo-empresarial-de-tallis-gomes.shtml",
-      "date": "2026-11-25T22:24:00.000Z",
-      "summary": "Daniella Marques, coordenadora econômica da campanha presidencial de Flávio Bolsonaro (PL) e ex-presidente da Caixa Econômica Federal, tornou-se sócia do G4, empresa de educação e serviços corporativos fundada por Tallis Gomes, Alfredo Soares e Bruno Nardon. L",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Randolfe faz balanço de gestão no Conselho Editorial do Senado",
       "link": "https://www12.senado.leg.br/noticias/materias/2026/11/25/randolfe-faz-balanco-de-gestao-no-conselho-editorial-do-senado",
       "date": "2026-11-25T22:20:28.000Z",
@@ -206,15 +359,6 @@
       "source": "Agência Senado",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Governo e BC anunciam medidas para reduzir endividamento, com regras para cartão de crédito e empréstimos",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/governo-e-bc-anunciam-medidas-para-reduzir-endividamento-com-regras-para-cartao-de-credito-e-emprestimos.shtml",
-      "date": "2026-11-25T22:19:00.000Z",
-      "summary": "O Banco Central anúnciou nesta quinta-feira (25) que aprovou junto ao CMN (Conselho Monetário Nacional) um conjunto de medidas para aprimorar a concessão de crédito e frear o endividamento, especialmente de pessoas físicas. Leia mais (11/25/2026 - 19h19)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
     },
     {
       "title": "Câmara aprova marco regulatório da educação em tempo integral",
@@ -235,15 +379,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Lula diz a Trabuco que precisa dele no governo, e banqueiro pede tempo",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/11/lula-diz-a-trabuco-que-precisa-dele-no-governo-e-banqueiro-pede-tempo.shtml",
-      "date": "2026-11-25T22:08:00.000Z",
-      "summary": "O presidente Lula conversou com o presidente do conselho de administração do Bradesco, Luiz Trabuco, sobre a possibilidade de ele integrar seu quarto governo. Leia mais (11/25/2026 - 19h08)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Novo tarifaço: Esse é um jogo de ‘toma lá, dá cá’, diz Troyjo, que sugere ao Brasil negociar com EUA",
       "link": "https://www.estadao.com.br/economia/novo-tarifaco-esse-e-um-jogo-de-toma-la-da-ca-diz-troyjo-que-sugere-ao-brasil-negociar-com-eua/",
       "date": "2026-11-25T22:07:02.000Z",
@@ -253,29 +388,11 @@
       "type": "imprensa"
     },
     {
-      "title": "Governo Lula critica EUA e diz que não cederá à “ameaça” tarifária",
-      "link": "https://www.poder360.com.br/poder-governo/governo-lula-critica-eua-e-diz-que-nao-cedera-a-ameaca-tarifaria/",
-      "date": "2026-11-25T22:02:17.000Z",
-      "summary": "Planalto classifica recomendação do USTR de sobretaxar açúcar e aeronaves como “ação inaceitável” e tentativa de pressionar o Brasil a mudar regras sobre o Pix",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Câmara aprova criação de marco nacional da educação em tempo integral",
       "link": "https://g1.globo.com/politica/noticia/2026/11/25/camara-aprova-criacao-de-marco-nacional-da-educacao-em-tempo-integral.ghtml",
       "date": "2026-11-25T21:57:21.000Z",
       "summary": "A Câmara dos Deputados aprovou nesta quarta-feira (25) projeto de lei que cria o Marco Nacional da Educação em Tempo Integral, com, no mínimo, 7 horas diárias dos alunos nas escolas ou 35 horas semanais. 🏫A adoção do período integral deverá ser feita progress",
       "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Galvão Bueno volta ao rádio com programa na TMC e na Alpha FM",
-      "link": "https://www.poder360.com.br/poder-gente/galvao-bueno-volta-ao-radio-com-programa-na-tmc-e-na-alpha-fm/",
-      "date": "2026-11-25T21:56:48.000Z",
-      "summary": "Narrador esportivo fechou acordo com o empresário João Camargo; ele comandará o programa “Muy Bueno”",
-      "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -289,48 +406,12 @@
       "type": "oficial"
     },
     {
-      "title": "Mais que metas, mercado quer ver mudança de regras de despesa obrigatória",
-      "link": "https://www.estadao.com.br/economia/fernando-dantas/mais-que-metas-mercado-quer-ver-mudanca-de-regras-de-despesa-obrigatoria/",
-      "date": "2026-11-25T21:54:39.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Governo Lula diz que 'não cederá a ameaças' após tarifas dos EUA para aeronaves e açúcar",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/governo-lula-diz-que-nao-cedera-a-ameacas-apos-tarifas-dos-eua-para-aeronaves-e-acucar.shtml",
-      "date": "2026-11-25T21:54:00.000Z",
-      "summary": "O governo do presidente Luiz Inácio Lula da Silva (PT) criticou, por meio de nota divulgada nesta quarta-feira (25), a decisão dos Estados Unidos de propor a aplicação de novas tarifas sobre produtos importados do Brasil, incluindo açúcar, e uma alíquota de 10",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "STF flexibiliza exigência de valores em ações trabalhistas",
-      "link": "https://www.poder360.com.br/poder-justica/stf-flexibiliza-exigencia-de-valores-em-acoes-trabalhistas/",
-      "date": "2026-11-25T21:53:24.000Z",
-      "summary": "Por maioria, os ministros consideraram que o trabalhador poderá indicar só uma estimativa quando não for possível cálculo exato",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "CMN e BC aprimoram medidas para prevenir riscos associados ao endividamento",
       "link": "https://www.bcb.gov.br/detalhenoticia/21335/nota",
       "date": "2026-11-25T21:52:25.000Z",
       "summary": "",
       "source": "Banco Central",
       "cat": "economia",
-      "type": "oficial"
-    },
-    {
-      "title": "CRA aprova projeto que diferencia aquicultura da pesca extrativa",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/25/cra-aprova-projeto-que-diferencia-aquicultura-da-pesca-extrativa",
-      "date": "2026-11-25T21:51:01.000Z",
-      "summary": "A Comissão de Agricultura e Reforma Agrária (CRA) aprovou nesta quarta-feira (25) projeto de lei que diferencia a aquicultura da pesca extrativa e estabelece regras próprias para atividade aquícola, que é a criação controlada de organismos aquáticos, como peix",
-      "source": "Agência Senado",
-      "cat": "politica",
       "type": "oficial"
     },
     {
@@ -341,33 +422,6 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Comissão do Senado aprova projeto que dificulta liberdade provisória em audiências de custódia",
-      "link": "https://www.estadao.com.br/politica/ccj-do-senado-aprova-projeto-que-dificulta-liberdade-provisoria-em-audiencias-de-custodia-nprp/",
-      "date": "2026-11-25T21:49:48.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Governo diz que novas tarifas dos EUA são ‘ação inaceitável’, buscam pressionar País e atingir Pix",
-      "link": "https://www.estadao.com.br/economia/governo-diz-que-novas-tarifas-dos-eua-sao-acao-inaceitavel-buscam-pressionar-pais-e-atingir-pix/",
-      "date": "2026-11-25T21:49:03.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "PF apura falso pedido de doações para ‘vaquinha de Bolsonaro’ em perfil invadido da PRF-SE",
-      "link": "https://www.estadao.com.br/politica/pf-apura-falso-pedido-de-doacoes-para-vaquinha-de-bolsonaro-em-perfil-invadido-da-prf-se-nprp/",
-      "date": "2026-11-25T21:48:33.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
     },
     {
       "title": "Câmara aprova protocolo contra discriminação racial nas escolas",
@@ -383,15 +437,6 @@
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/maria-herminia-tavares/2026/11/brasil-em-busca-de-um-lugar-no-mundo.shtml",
       "date": "2026-11-25T21:39:00.000Z",
       "summary": "A eletrizante vitória do presidente Lula sobre Flávio Bolsonaro o transformou em símbolo mundial do combate dos progressistas à direita extremada. Além disso, reforçou uma imagem positiva do Brasil, onde a democracia venceu duas vezes na cabine indevassável o ",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "TCU livra Dilma de multas por irregularidades fiscais em 2014",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/tcu-livra-dilma-de-multas-por-irregularidades-fiscais-em-2014.shtml",
-      "date": "2026-11-25T21:36:00.000Z",
-      "summary": "O TCU (Tribunal de Contas da União) livrou a ex-presidente Dilma Rousseff (PT) e ex-integrantes de sua equipe econômica de punições por irregularidades na gestão fiscal e orçamentária de 2014, em casos conexos às chamadas \"pedaladas fiscais\", que resultaram no",
       "source": "Folha",
       "cat": "politica",
       "type": "imprensa"
@@ -433,15 +478,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Moraes rejeita pedido da PGR para pagar penduricalhos com crédito extra de R$ 324 milhões",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/moraes-rejeita-pedido-da-pgr-para-pagar-penduricalhos-com-credito-extra-de-r-324-milhoes.shtml",
-      "date": "2026-11-25T21:14:00.000Z",
-      "summary": "O ministro Alexandre de Moraes, do STF (Supremo Tribunal Federal), rejeitou o pedido da PGR (Procuradoria-Geral da República) para que o Executivo abrisse um crédito extraordinário de R$ 324 milhões para bancar verbas extras a integrantes do Ministério Público",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Caso Master: defesa de Vorcaro pede que Nunes Marques deixe relatoria de ação no STF contra Fachin",
       "link": "https://g1.globo.com/politica/noticia/2026/11/25/defesa-de-vorcaro-pede-troca-de-kassio-na-relatoria-da-acao-contra-fachin.ghtml",
       "date": "2026-11-25T21:12:56.000Z",
@@ -460,24 +496,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Governo Lula diz estar indignado com nova proposta de tarifa dos EUA contra o Brasil e que não 'cederá a esse tipo de ameaça'",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/25/governo-lula-diz-estar-indignado-com-nova-proposta-de-tarifa-dos-eua-contra-o-brasil-e-que-nao-cedera-a-esse-tipo-de-ameaca.ghtml",
-      "date": "2026-11-25T21:10:49.000Z",
-      "summary": "O governo brasileiro divulgou uma nota nesta quarta-feira (25) na qual manifestou \"indignação\" com a proposta do Escritório do Representante Comercial dos EUA (USTR, na sigla em inglês) para que sejam impostas novas tarifas sobre aeronaves brasileiras e o açúc",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Alcolumbre pressiona Lula a aceitar Pacheco no STF e aponta risco de outro nome ficar para 2027",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/alcolumbre-pressiona-lula-a-aceitar-pacheco-no-stf-e-aponta-risco-de-outro-nome-ficar-para-2027/",
-      "date": "2026-11-25T21:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "TCU afasta multas a membros do governo Dilma Rousseff por irregularidades fiscais de 2014",
       "link": "https://www.estadao.com.br/economia/tcu-afasta-multas-a-membros-do-governo-dilma-por-irregularidades-fiscais-de-2014/",
       "date": "2026-11-25T20:50:37.000Z",
@@ -493,24 +511,6 @@
       "summary": "Escritora canadense crítica do capitalismo acredita que o mundo precisa de uma economia 'que vá muito além da busca pelo lucro e que comece por atender às necessidades mais básicas das pessoas'.",
       "source": "BBC News Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Câmara aprova alerta automático para mulher monitorar aproximação de agressor",
-      "link": "https://www.camara.leg.br/noticias/1322986-camara-aprova-alerta-automatico-para-mulher-monitorar-aproximacao-de-agressor",
-      "date": "2026-11-25T20:35:00.000Z",
-      "summary": "Projeto, que segue para o Senado, prevê aviso sonoro e luminoso e fixa 100 metros como referência para a distância mínima de afastamento",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Alcolumbre: ‘Não conversei nada sobre indicação do STF, só ouvi e é segredo’",
-      "link": "https://www.estadao.com.br/politica/alcolumbre-nao-conversei-nada-sobre-indicacao-do-stf-so-ouvi-e-e-segredo/",
-      "date": "2026-11-25T19:57:18.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -601,6 +601,15 @@
       "summary": "Caso o STF aceite a denúncia da PGR, deputado, eleito neste ano senador pelo Novo, será réu por calúnia e injúria. Mas especialistas alertam para possível retaliação da corte contra parlamentares críticos ao Supremo.",
       "source": "BBC News Brasil",
       "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Inquérito afirma que PCC propôs acordo à SPtrans para manter domínio sobre empresas de ônibus em SP",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/inquerito-afirma-que-pcc-propos-acordo-a-sptrans-para-manter-dominio-sobre-empresas-de-onibus-em-sp/",
+      "date": "2026-11-25T08:30:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
       "type": "imprensa"
     },
     {
