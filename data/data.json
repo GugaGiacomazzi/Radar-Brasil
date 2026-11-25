@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-25T04:49:27.794Z",
+  "updated": "2026-11-25T05:58:15.208Z",
   "market": {
     "ibov": {
       "price": 164089.81,
       "pct": -0.43,
-      "time": "2026-11-25T04:49:04.949Z",
+      "time": "2026-11-25T05:58:10.049Z",
       "history": [
         {
           "d": "2026-10-26",
@@ -411,15 +411,6 @@
       "type": "oficial"
     },
     {
-      "title": "Moraes rejeita pedido para abater da pena de Zambelli o tempo de prisão na Itália e provisória",
-      "link": "https://www.estadao.com.br/politica/moraes-rejeita-pedido-para-abater-da-pena-de-zambelli-o-tempo-de-prisao-preventiva-e-na-italia-nprp/",
-      "date": "2026-11-24T22:59:15.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Polônia volta a registrar incursão de drone russo em seu espaço aéreo",
       "link": "https://www.dw.com/pt-br/polônia-volta-a-registrar-incursão-de-drone-russo-em-seu-espaço-aéreo/a-80042032?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-24T22:36:00.000Z",
@@ -534,6 +525,15 @@
       "summary": "",
       "source": "Estadão",
       "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "PF prende ex-diretor da Gaviões da Fiel na Ilha Grande em operação contra o tráfico do PCC",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/pf-prende-ex-diretor-da-gavioes-da-fiel-na-ilha-grande-em-operacao-contra-o-trafico-do-pcc/",
+      "date": "2026-11-24T14:51:56.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
       "type": "imprensa"
     },
     {
