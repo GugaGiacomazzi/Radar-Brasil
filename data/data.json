@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-26T20:51:22.081Z",
+  "updated": "2026-11-26T21:51:27.264Z",
   "market": {
     "ibov": {
-      "price": 175504.08,
-      "pct": 5.29,
-      "time": "2026-11-26T20:51:14.558Z",
+      "price": 176799.84,
+      "pct": 6.07,
+      "time": "2026-11-26T21:51:19.796Z",
       "history": [
         {
           "d": "2026-10-27",
@@ -88,7 +88,7 @@
         },
         {
           "d": "2026-11-26",
-          "c": 175504.0781
+          "c": 176799.8438
         }
       ]
     },
@@ -145,84 +145,192 @@
   },
   "news": [
     {
-      "title": "Comissão aprova parecer preliminar do Orçamento de 2027",
-      "link": "https://www.poder360.com.br/poder-congresso/comissao-aprova-parecer-preliminar-do-orcamento-de-2027/",
-      "date": "2026-11-26T20:48:21.000Z",
-      "summary": "Texto estima superavit primário de R$ 18,6 bilhões e aponta necessidade de até R$ 24,9 bilhões a mais para o Bolsa Família",
-      "source": "Poder360",
+      "title": "Comissão aprova divulgação de benefícios e pagamentos de empresas a profissionais de saúde",
+      "link": "https://www.camara.leg.br/noticias/1323448-comissao-aprova-divulgacao-de-beneficios-e-pagamentos-de-empresas-a-profissionais-de-saude",
+      "date": "2026-11-26T21:46:00.000Z",
+      "summary": "Medida busca permitir que pacientes conheçam relações financeiras que possam influenciar indicações de tratamentos, produtos ou serviços",
+      "source": "Agência Câmara",
       "cat": "politica",
-      "type": "imprensa"
+      "type": "oficial"
     },
     {
-      "title": "Trabuco vai ao Palácio da Alvorada para se reunir com Lula",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/trabuco-vai-ao-palacio-da-alvorada-para-se-reunir-com-lula.shtml",
-      "date": "2026-11-26T20:39:00.000Z",
-      "summary": "O presidente do Conselho de Administração do Bradesco, Luiz Trabuco, pousou em Brasília e foi ao Palácio da Alvorada para uma reunião com o presidente Luiz Inácio Lula da Silva (PT) nesta quinta-feira (26). A expectativa é que ele responda a Lula se aceita ou ",
+      "title": "Sem Lula na mesa, há temor de que Brasil continue impedido de exportar carne de frango à UE",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/sem-lula-na-mesa-ha-temor-de-que-brasil-continue-impedido-de-exportar-carne-de-frango-a-ue.shtml",
+      "date": "2026-11-26T21:42:00.000Z",
+      "summary": "O setor de carne quer que o presidente Luiz Inácio Lula da Silva se envolva diretamente nas discussões sobre a retomada das exportações para a União Europeia, que estão suspensas desde setembro, depois que o bloco decidiu retirar o Brasil de uma lista de paíse",
       "source": "Folha",
       "cat": "economia",
       "type": "imprensa"
     },
     {
-      "title": "Bolsonaro está mais animado e voltou a se alimentar, diz Michelle",
-      "link": "https://www.poder360.com.br/poder-gente/bolsonaro-esta-mais-animado-e-voltou-a-se-alimentar-diz-michelle/",
-      "date": "2026-11-26T20:37:20.000Z",
-      "summary": "Ex-presidente fez fisioterapia e deixou o quarto para permanecer no corredor do Hospital DF Star, em Brasília",
+      "title": "Usiminas espera resultado menor no 4º tri com pressão do câmbio",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/10/25/6568-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post468073",
+      "date": "2026-11-26T21:39:00.000Z",
+      "summary": "A Usiminas trabalha com perspectiva de resultados menores no quarto trimestre em relação ao período anterior, diante da pressão cambial sobre os custos e da baixa rentabilidade das vendas de minério de ferro, afirmou o vice-presidente financeiro da companhia, ",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Iphan determina tombamento definitivo da antiga sede do DOI-Codi no Rio",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/iphan-determina-tombamento-definitivo-da-antiga-sede-do-doi-codi-no-rio.shtml",
+      "date": "2026-11-26T21:36:00.000Z",
+      "summary": "O Iphan (Instituto do Patrimônio Histórico e Artístico Nacional) determinou nesta quinta-feira (26) o tombamento definitivo da antiga sede do DOI-Codi no Rio de Janeiro, onde atualmente funciona uma unidade do Exército. Leia mais (11/26/2026 - 18h36)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Colocar o povo para dentro do governo exige mais do que discurso",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/transparencia-publica/2026/11/colocar-o-povo-para-dentro-do-governo-exige-mais-do-que-discurso.shtml",
+      "date": "2026-11-26T21:31:00.000Z",
+      "summary": "\"Vamos fazer o povo participar mais das nossas decisões\", bradou o presidente reeleito na noite de 25 de outubro. Ao longo do terceiro mandato, o governo Lula de fato montou a infraestrutura, com a recriação da Secretaria Nacional de Participação Social e o la",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "PF indicia prefeito de Palmas em caso de suspeita de vazamentos de decisões do STJ",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/pf-indicia-prefeito-de-palmas-em-caso-de-suspeita-de-vazamentos-de-decisoes-do-stj.shtml",
+      "date": "2026-11-26T21:30:00.000Z",
+      "summary": "A Polícia Federal concluiu um dos inquéritos sobre suspeitas de vazamentos de decisões sigilosas do STJ (Superior Tribunal Federal) e indiciou o prefeito de Palmas, Eduardo Siqueira Campos (Podemos), e outras três pessoas por suspeita de obstrução a investigaç",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Homenagem à Academia William Shakespeare destaca importância da cultura",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/26/homenagem-a-academia-william-shakespeare-destaca-importancia-da-cultura",
+      "date": "2026-11-26T21:22:08.000Z",
+      "summary": "O Senado homenageou em sessão especial, nesta quinta-feira (26), a Academia William Shakespeare e o legado do dramaturgo inglês, cuja obra continua a influenciar a literatura, o teatro e a cultura mundial. Durante a cerimônia no Plenário, senadores e represent",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Empresário ligado à bilhetagem do transporte de SP recebeu R$ 29 milhões da Fictor e de ex-CEO",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/empresario-ligado-a-bilhetagem-do-transporte-de-sp-recebeu-r-29-milhoes-da-fictor-e-de-ex-ceo/",
+      "date": "2026-11-26T21:18:59.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Banco Central se manifesta a favor de devolução de R$ 316 milhões ao BRB",
+      "link": "https://www.estadao.com.br/economia/banco-central-se-manifesta-a-favor-de-devolucao-de-r-316-milhoes-ao-brb/",
+      "date": "2026-11-26T21:17:26.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Nos EUA, Flávio indica R$ 79 mi em emendas para 2027",
+      "link": "https://www.poder360.com.br/poder-congresso/nos-eua-flavio-indica-r-79-mi-em-emendas-para-2027/",
+      "date": "2026-11-26T21:13:19.000Z",
+      "summary": "Logo depois de perder as eleições presidenciais, senador deixou o país contra ordem do STF",
       "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
     },
     {
-      "title": "Luiz Trabuco chega a Brasília para se reunir com Lula; executivo do Bradesco é cotado para assumir Ministério da Fazenda",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/26/luiz-trabuco-chega-a-brasilia-para-se-reunir-com-lula-executivo-do-bradesco-e-cotado-para-assumir-ministerio-da-fazenda.ghtml",
-      "date": "2026-11-26T20:30:47.000Z",
-      "summary": "Luiz Trabuco chega a Brasília para se reunir com Lula; executivo do Bradesco é cotado para assumir Ministério da Fazenda O presidente do Conselho de Administração do Bradesco, Luiz Carlos Trabuco, um dos nomes cotados para assumir o Ministério da Fazenda no pr",
+      "title": "Cotado para a Fazenda, Trabuco se reúne com Lula no Alvorada",
+      "link": "https://www.poder360.com.br/poder-governo/cotado-para-a-fazenda-trabuco-se-reune-com-lula-no-alvorada/",
+      "date": "2026-11-26T21:10:46.000Z",
+      "summary": "Nome do presidente do Conselho de Administração do Bradesco ganhou força para chefiar a equipe econômica",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Brasileiros enganados vão para o front com Exército russo, diz jornal",
+      "link": "https://www.dw.com/pt-br/brasileiros-enganados-vão-para-o-front-com-exército-russo-diz-jornal/a-80069430?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-26T21:07:00.000Z",
+      "summary": "Recrutadores fazem falsas promessas de trabalho e roubam salários dos recrutas, segundo reportagem do jornal \"New York Times\". Baixas militares têm forçado dois lados da guerra na Ucrânia a buscarem reforço estrangeiro.",
+      "source": "DW Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "LDO de 2027 recebe 1.504 emendas de parlamentares",
+      "link": "https://www.camara.leg.br/noticias/1323481-ldo-de-2027-recebe-1-504-emendas-de-parlamentares",
+      "date": "2026-11-26T21:03:00.000Z",
+      "summary": "Enquanto algumas buscam alterar a meta fiscal com o objetivo de evitar cortes, outras defendem rigidez maior das contas para fazer com que a dívida pública se estabilize",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Propaganda enganosa lidera conflitos judiciais relacionados à Black Friday, diz estudo",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/propaganda-enganosa-lidera-conflitos-judiciais-relacionados-a-black-friday-diz-estudo.shtml",
+      "date": "2026-11-26T21:01:00.000Z",
+      "summary": "A expressão \"Black Fraude\" ganhou um espaço cativo no vocabulário dos brasileiros quando o assunto é a sexta-feira de descontos. Não por acaso, publicidade enganosa é o principal tema das decisões judiciais relacionadas à data, segundo um estudo do Jusbrasil a",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Reino Unido vai pagar taxa extra em acordo de reaproximação com Europa",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/reino-unido-vai-pagar-taxa-extra-em-acordo-de-reaproximacao-com-europa.shtml",
+      "date": "2026-11-26T21:01:00.000Z",
+      "summary": "O Reino Unido pagará uma \"taxa de participação\" adicional à União Europeia como preço pelo acordo para eliminar as inspeções de fronteira sobre exportações de alimentos e bebidas e voltar a interligar os mercados de carbono, segundo documentos divulgados nesta",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "STF decide que aplicação piso nacional de professores depende de lei aprovada em estados e municípios",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/26/stf-decide-que-aplicacao-piso-nacional-de-professores-depende-de-lei-aprovada-em-estados-e-municipios.ghtml",
+      "date": "2026-11-26T21:00:17.000Z",
+      "summary": "O Supremo Tribunal Federal (STF) decidiu nesta quinta-feira (26) que estados e municípios devem aprovar leis próprias para aplicar o piso nacional do magistério público da educação básica aos seus profissionais. Prevaleceu entre os ministros o entendimento de ",
       "source": "g1",
       "cat": "politica",
       "type": "imprensa"
     },
     {
-      "title": "Alta do preço da soja irriga o campo com mais receitas na reta final do ano",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/vaivem/2026/11/alta-do-preco-da-soja-irriga-o-campo-com-mais-receitas-na-reta-final-do-ano.shtml",
-      "date": "2026-11-26T20:30:00.000Z",
-      "summary": "O ano não começou bem para a soja, pelo menos em preços. Mas, após um plantio difícil em 2025, a colheita nos primeiros meses de 2026 já apontava para um bom rendimento da oleaginosa. O resultado foi uma safra recorde de 180 milhões de toneladas nos números da",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Trabuco acalma o mercado: dólar cai 1,25% e Bolsa dispara",
-      "link": "https://www.poder360.com.br/poder-economia/trabuco-acalma-o-mercado-dolar-cai-125-e-bolsa-dispara/",
-      "date": "2026-11-26T20:22:25.000Z",
-      "summary": "Possível indicação do presidente do Conselho do Bradesco para a Fazenda melhora expectativas sobre ajuste fiscal",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Governo Lula propõe diversificar exportações de aviões a Embraer",
-      "link": "https://www.poder360.com.br/poder-governo/governo-lula-propoe-diversificar-exportacoes-de-avioes-a-embraer/",
-      "date": "2026-11-26T20:19:16.000Z",
-      "summary": "Chanceler Mauro Vieira se reuniu com presidente da empresa após anúncio de novas tarifas dos EUA",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Inadimplência cresce entre os fornecedores e acende um alerta antes da reforma tributária",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/inadimplencia-cresce-entre-os-fornecedores-e-acende-um-alerta-antes-da-reforma-tributaria.shtml",
-      "date": "2026-11-26T20:18:00.000Z",
-      "summary": "O Índice de Saúde Fiscal de Fornecedores B2B, que mede a inadimplência de empresas fornecedoras, teve sua primeira alta da série histórica, desde março de 2025, interrompendo uma sequência de cinco trimestres seguidos de queda. O indicador saltou de 9,02% para",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Cotado para a Fazenda, Trabuco chega a Brasília para encontro com Lula no Alvorada",
-      "link": "https://www.estadao.com.br/economia/cotado-para-a-fazenda-trabuco-e-esperado-para-encontro-com-lula-em-brasilia-nesta-quinta/",
-      "date": "2026-11-26T20:17:03.000Z",
+      "title": "Salários de até R$ 150 mil: saiba quais são as profissões que devem aquecer o mercado em 2027",
+      "link": "https://www.estadao.com.br/economia/salarios-de-ate-r-150-mil-saiba-quais-sao-as-profissoes-que-devem-aquecer-o-mercado-em-2027/",
+      "date": "2026-11-26T21:00:00.000Z",
       "summary": "",
       "source": "Estadão",
       "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Anthropic paga autores que tiveram obras usadas ilegalmente por IA",
+      "link": "https://www.poder360.com.br/poder-tech/anthropic-paga-autores-que-tiveram-obras-usadas-ilegalmente-por-ia/",
+      "date": "2026-11-26T20:59:40.000Z",
+      "summary": "Indenizações são parte de acordo de US$ 1,5 bilhão fechado pela dona do Claude em 2025 para encerrar uma ação por violação de direitos autorais",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Cleitinho brinca sobre Lula querer viver 130 anos: “Vou pedir saúde”",
+      "link": "https://www.poder360.com.br/poder-governo/cleitinho-brinca-sobre-lula-querer-viver-130-anos-vou-pedir-saude/",
+      "date": "2026-11-26T20:51:51.000Z",
+      "summary": "Governador eleito de Minas Gerais se reuniu com o presidente no Palácio da Alvorada para discutir a dívida do Estado com a União",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Quem é Luiz Carlos Trabuco, sondado para assumir o Ministério da Fazenda",
+      "link": "https://www.estadao.com.br/economia/quem-e-luiz-carlos-trabuco-ministerio-da-fazenda-npr/",
+      "date": "2026-11-26T20:36:21.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Luiz Trabuco se reúne com Lula em Brasília; executivo do Bradesco é cotado para assumir Ministério da Fazenda",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/26/luiz-trabuco-chega-a-brasilia-para-se-reunir-com-lula-executivo-do-bradesco-e-cotado-para-assumir-ministerio-da-fazenda.ghtml",
+      "date": "2026-11-26T20:30:47.000Z",
+      "summary": "Luiz Trabuco chega a Brasília para se reunir com Lula; executivo do Bradesco é cotado para assumir Ministério da Fazenda O presidente do Conselho de Administração do Bradesco, Luiz Carlos Trabuco, um dos nomes cotados para assumir o Ministério da Fazenda no pr",
+      "source": "g1",
+      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -253,24 +361,6 @@
       "type": "oficial"
     },
     {
-      "title": "Em encontro com Lula, Cleitinho pede acordo sobre dívida de MG e convida presidente para a posse",
-      "link": "https://www.estadao.com.br/politica/em-encontro-com-lula-cleitinho-fala-sobre-divida-de-mg-e-convida-presidente-para-sua-posse-nprp/",
-      "date": "2026-11-26T19:57:54.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Fed mantém postura dura e deve aumentar juros apesar de queda das ações",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/fed-mantem-postura-dura-e-deve-aumentar-juros-apesar-de-queda-das-acoes.shtml",
-      "date": "2026-11-26T19:55:00.000Z",
-      "summary": "Um Fed (Federal Reserve) de postura mais dura em relação à inflação deve avançar no próximo mês com outro aumento dos juros, frustrando as expectativas de investidores abalados por semanas de turbulência nos mercados de ações. Leia mais (11/26/2026 - 16h55)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Comissão Mista aprova relatório preliminar do Orçamento de 2027",
       "link": "https://www.camara.leg.br/noticias/1323430-comissao-mista-aprova-relatorio-preliminar-do-orcamento-de-2027",
       "date": "2026-11-26T19:44:00.000Z",
@@ -278,15 +368,6 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Líder do PT na Câmara diz que Trabuco na Fazenda ‘não é a melhor opção’ e rechaça ‘ajuste fiscal 2′",
-      "link": "https://www.estadao.com.br/economia/lider-do-pt-na-camara-diz-que-trabuco-na-fazenda-nao-e-a-melhor-opcao-e-rechaca-ajuste-fiscal-2/",
-      "date": "2026-11-26T19:42:11.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
     },
     {
       "title": "Relatório do Orçamento de 2027 mantém aumento de recursos a saúde e educação",
@@ -307,27 +388,9 @@
       "type": "oficial"
     },
     {
-      "title": "Bastidores: ‘Empoderado’, Lula prepara xeque-mate em Alcolumbre com indicação de mulher para o STF",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/bastidores-empoderado-lula-prepara-xeque-mate-em-alcolumbre-com-indicacao-de-mulher-para-o-stf/",
-      "date": "2026-11-26T19:25:03.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Comissão aprova estímulo a conteúdos sobre acessibilidade na comunicação pública",
       "link": "https://www.camara.leg.br/noticias/1323334-comissao-aprova-estimulo-a-conteudos-sobre-acessibilidade-na-comunicacao-publica",
       "date": "2026-11-26T19:19:00.000Z",
-      "summary": "Proposta segue em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Comissão aprova punição para divulgação de deepfakes em campanha eleitoral",
-      "link": "https://www.camara.leg.br/noticias/1323330-comissao-aprova-punicao-para-divulgacao-de-deepfakes-em-campanha-eleitoral",
-      "date": "2026-11-26T19:17:00.000Z",
       "summary": "Proposta segue em análise na Câmara dos Deputados",
       "source": "Agência Câmara",
       "cat": "politica",
@@ -343,15 +406,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Liquidante do Master diz ao STF não se opor a liberar R$ 316 milhões ao BRB",
-      "link": "https://www.estadao.com.br/economia/liquidante-do-master-diz-ao-stf-nao-se-opor-a-liberar-r-316-milhoes-ao-brb/",
-      "date": "2026-11-26T19:11:59.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Clubes de futebol pedem mediação do STF para preservar patrocínio de bets",
       "link": "https://g1.globo.com/politica/noticia/2026/11/26/clubes-de-futebol-pedem-mediacao-do-stf-para-preservar-patrocinio-de-bets.ghtml",
       "date": "2026-11-26T19:09:20.000Z",
@@ -361,29 +415,11 @@
       "type": "imprensa"
     },
     {
-      "title": "Comissão aprova carga horária mínima para Filosofia e Sociologia no ensino médio",
-      "link": "https://www.camara.leg.br/noticias/1323336-comissao-aprova-carga-horaria-minima-para-filosofia-e-sociologia-no-ensino-medio",
-      "date": "2026-11-26T19:09:00.000Z",
-      "summary": "Lei já define disciplinas como obrigatórias, mas não estipula carga horária nem a oferta em todos os três anos do ensino médio; proposta segue em análise na Câmara",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
       "title": "Durigan diz que discutirá novas medidas fiscais com Lula: 'Mostrar claramente o caminho para 2027'",
       "link": "https://g1.globo.com/economia/noticia/2026/11/26/durigan-diz-que-discutira-novas-medidas-fiscais-com-lula-mostrar-claramente-o-caminho-para-2027.ghtml",
       "date": "2026-11-26T19:08:44.000Z",
       "summary": "Durigan fala em rever gastos e mirar supersalários O ministro da Fazenda, Dario Durigan, afirmou nesta quinta-feira (26) que o governo discute novas medidas para conter o crescimento das despesas públicas e melhorar as contas do país. Segundo ele, haverá uma r",
       "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "André do Prado pressiona bancada do PL a apoiar novato para presidir a Alesp",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/andre-do-prado-pressiona-bancada-do-pl-a-apoiar-novato-para-presidir-a-alesp.shtml",
-      "date": "2026-11-26T19:00:00.000Z",
-      "summary": "Deputados do PL na Assembleia Legislativa de São Paulo (Alesp) afirmam estar sendo pressionados pelo presidente da Casa, André do Prado (PL), eleito senador em outubro, a apoiar o novato Rogério Franco (PL) para ocupar a presidência a partir de 2027. Leia mais",
-      "source": "Folha",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -397,30 +433,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Tarcísio anuncia mais 3 secretários, define 85% da equipe e mantém maioria dos nomes do 1º mandato",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/tarcisio-anuncia-mais-3-secretarios-define-85-da-equipe-e-mantem-maioria-dos-nomes-do-1o-mandato.shtml",
-      "date": "2026-11-26T18:53:00.000Z",
-      "summary": "O governo Tarcísio de Freitas (Republicanos) confirmou nesta quinta-feira (26) mais três nomes da equipe para seu segundo mandato, que começa em 5 de janeiro. Leia mais (11/26/2026 - 15h53)",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Espanhol Pablo Hernández de Cos é escolhido para presidir o Banco Central Europeu",
       "link": "https://g1.globo.com/economia/noticia/2026/11/26/espanhol-pablo-hernandez-de-cos-e-escolhido-para-presidir-o-banco-central-europeu.ghtml",
       "date": "2026-11-26T18:42:40.000Z",
       "summary": "O governador do Banco da Espanha, Pablo Hernandez de Cos, participa do início da sessão plenária do Comitê Monetário e Financeiro Internacional (IMFC) durante a reunião anual do Fundo Monetário Internacional e do Banco Mundial — realizada após o terremoto que ",
       "source": "g1",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Lula monta o difícil xadrez do ministério, com pressões de todos os lados; veja vídeo",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/lula-monta-o-dificil-xadrez-do-ministerio-com-pressoes-de-todos-os-lados-veja-video.shtml",
-      "date": "2026-11-26T18:37:00.000Z",
-      "summary": "Ganhar a eleição é difícil, montar um ministério é bem pior. Essa brincadeira foi feita por um aliado próximo de Lula, e não está muito longe da realidade. Leia mais (11/26/2026 - 15h37)",
-      "source": "Folha",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -438,15 +456,6 @@
       "date": "2026-11-26T18:20:55.000Z",
       "summary": "",
       "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Senado aprova projeto que proíbe fiança em caso de morte no trânsito causada por embriaguez ao volante",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/26/senado-aprova-projeto-que-proibe-fianca-em-caso-de-morte-no-transito-causada-por-embriaguez-ao-volante.ghtml",
-      "date": "2026-11-26T18:12:48.000Z",
-      "summary": "A Comissão de Constituição e Justiça (CCJ) do Senado aprovou um projeto que acaba com a possibilidade de fiança nos casos de homicídio culposo em acidentes de trânsito provocados por embriaguez ao volante. 🔎Um crime afiançável é aquele em que a lei admite a l",
-      "source": "g1",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -550,15 +559,6 @@
       "type": "oficial"
     },
     {
-      "title": "EUA anunciam novas tarifas, miram Embraer e ampliam pressão comercial sobre Brasil e China",
-      "link": "https://www.dw.com/pt-br/eua-anunciam-novas-tarifas-miram-embraer-e-ampliam-pressão-comercial-sobre-brasil-e-china/a-80053122?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-25T17:11:00.000Z",
-      "summary": "Governo dos EUA propõe tarifa de 10% sobre aeronaves brasileiras e ameaça elevar taxas sobre açúcar. Administração Trumo acusa Brasil de práticas comerciais \"desleais\" e também mira outros países.",
-      "source": "DW Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
       "title": "Tentando entrar na Europa, jovens do Afeganistão se endividam pelo caminho",
       "link": "https://news.un.org/feed/view/pt/story/2026/11/1855013",
       "date": "2026-11-25T12:00:00.000Z",
@@ -583,6 +583,15 @@
       "summary": "Caso o STF aceite a denúncia da PGR, deputado, eleito neste ano senador pelo Novo, será réu por calúnia e injúria. Mas especialistas alertam para possível retaliação da corte contra parlamentares críticos ao Supremo.",
       "source": "BBC News Brasil",
       "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Cleitinho fará apresentação musical em cidade mineira dias antes da posse como governador",
+      "link": "https://www.estadao.com.br/politica/cleitinho-fara-apresentacao-musical-em-cidade-mineira-dias-antes-da-posse-como-governador-nprp/",
+      "date": "2026-11-24T19:49:28.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -651,6 +660,7 @@
   ],
   "errors": [
     "feed CNN Brasil: HTTP 404",
-    "feed CNN Brasil: HTTP 404"
+    "feed CNN Brasil: HTTP 404",
+    "feed Planalto (governo): HTTP 429"
   ]
 }
