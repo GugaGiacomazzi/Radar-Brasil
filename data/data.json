@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-26T08:42:04.488Z",
+  "updated": "2026-11-26T10:05:14.902Z",
   "market": {
     "ibov": {
       "price": 166684.61,
       "pct": 1.58,
-      "time": "2026-11-26T08:41:56.851Z",
+      "time": "2026-11-26T10:05:10.724Z",
       "history": [
         {
           "d": "2026-10-27",
@@ -141,6 +141,105 @@
   },
   "news": [
     {
+      "title": "Livro sobre a trajetória de Quércia é lançado em Campinas",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/livro-sobre-a-trajetoria-de-quercia-e-lancado-em-campinas.shtml",
+      "date": "2026-11-26T10:00:00.000Z",
+      "summary": "Com prefácio do ex-presidente Michel Temer, um livro que retrata a trajetória política do ex-governador Orestes Quércia (MDB) será lançado nesta quinta-feira (26) em Campinas, onde ele foi prefeito. Leia mais (11/26/2026 - 07h00)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Polícia Civil e Ministério Público fazem operação contra grupo Fictor",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/policia-civil-e-ministerio-publico-fazem-operacao-contra-grupo-fictor.shtml",
+      "date": "2026-11-26T10:00:00.000Z",
+      "summary": "A Polícia Civil de São Paulo e o Ministério Público fazem na manhã desta quinta-feira (26) uma operação contra o grupo Fictor. Segundo o secretário de Segurança Pública, Osvaldo Nico Gonçalves, os agentes estão na rua neste momento. Leia mais (11/26/2026 - 07h",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Está difícil contratar, e governo não ajuda com Bolsa Família, diz CEO de fabricante de calçados Usaflex",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/c-level-entrevista/2026/11/esta-dificil-contratar-e-governo-nao-ajuda-com-bolsa-familia-diz-ceo-de-fabricante-de-calcados-usaflex.shtml",
+      "date": "2026-11-26T10:00:00.000Z",
+      "summary": "A indústria calçadista enfrenta problemas na contratação de mão de obra, e o governo não ajuda ao oferecer o Bolsa Família e outros incentivos que acabam fazendo com que o cidadão opte pela informalidade, diz Sergio Bocayuva, CEO da fabricante de calçados Usaf",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "José Guimarães volta ao cargo de ministro após votar ajuste fiscal",
+      "link": "https://www.poder360.com.br/poder-governo/jose-guimaraes-volta-ao-cargo-de-ministro-apos-votar-ajuste-fiscal/",
+      "date": "2026-11-26T09:47:44.000Z",
+      "summary": "Ato assinado pelo presidente Lula foi publicado em edição extra do \"DOU\" na 4ª feira (25.nov)",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Governo pode multar Google por falta de transparência em anúncios",
+      "link": "https://www.poder360.com.br/poder-governo/governo-pode-multar-google-por-falta-de-transparencia-em-anuncios/",
+      "date": "2026-11-26T09:43:30.000Z",
+      "summary": "Senacon abriu processo contra big tech e fixou multa em R$ 200 mil por dia caso informações não seja disponibilizadas",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Saiba quais ações estão na pauta do Congresso nesta 5ª feira",
+      "link": "https://www.poder360.com.br/poder-congresso/saiba-quais-acoes-estao-na-pauta-do-congresso-nesta-5a-feira-4/",
+      "date": "2026-11-26T09:15:44.000Z",
+      "summary": "Frentes parlamentares discutem implementação da reforma tributária com o ministro Dario Durigan, às 9h",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Agenda de Lula: leia os compromissos do presidente nesta 5ª feira",
+      "link": "https://www.poder360.com.br/poder-governo/agenda-de-lula-leia-os-compromissos-do-presidente-nesta-5a-feira-7/",
+      "date": "2026-11-26T09:15:16.000Z",
+      "summary": "Chefe do Executivo recebe Miriam Belchior, o governador eleito de MG, Cleitinho Azevedo, e Leonardo Barchini",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Entidades veem falta de transparência do governo Lula em ação sobre direitos humanos nas empresas",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/entidades-veem-falta-de-transparencia-do-governo-lula-em-acao-sobre-direitos-humanos-nas-empresas.shtml",
+      "date": "2026-11-26T09:00:00.000Z",
+      "summary": "A Aliança pelos Direitos Humanos em Cadeias Produtivas, que reúne 18 ONGs e entidades de defesa do mundo do trabalho, divulgou nota em que reclama da falta de transparência por parte do governo Lula na elaboração da Política de Direitos Humanos e Empresas. Lei",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Ford trará para o Brasil versões eletrificadas de Ranger, Bronco e Territory",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/eduardosodre/2026/11/ford-trara-para-o-brasil-versoes-eletrificadas-de-ranger-bronco-e-territory.shtml",
+      "date": "2026-11-26T09:00:00.000Z",
+      "summary": "Apesar de registrar crescimento regional impulsionado pela picape argentina Ranger, a Ford tem um portfólio enxuto de produtos na América do Sul. Para ampliar a oferta na região, a empresa vai recorrer a seus produtos eletrificados chineses, que chegarão ao lo",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "TSE deve decidir em dezembro veto a novo mandato de deputado condenado por ligação com jogo do bicho",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/tse-deve-decidir-em-dezembro-veto-a-novo-mandato-de-deputado-condenado-por-ligacao-com-jogo-do-bicho/",
+      "date": "2026-11-26T08:30:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Investigação cita atuação do PCC em contratos com o poder público: ‘propina de 40% e lucro de 60%’",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/investigacao-cita-atuacao-do-pcc-em-contratos-com-o-poder-publico-propina-de-40-e-lucro-de-60/",
+      "date": "2026-11-26T08:30:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "Qual é o efeito de um dólar num patamar mais alto para a economia brasileira?",
       "link": "https://www.estadao.com.br/economia/efeito-dolar-alto-economia-brasileira/",
       "date": "2026-11-26T08:30:00.000Z",
@@ -154,33 +253,6 @@
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/inss-libera-13o-a-26-mi-de-segurados-em-novembro-e-dezembro-veja-quem-recebe.shtml",
       "date": "2026-11-26T07:00:00.000Z",
       "summary": "O INSS (Instituto Nacional do Seguro Social) liberou o 13º a 2,6 milhões de novos aposentados e pensionistas em novembro e dezembro. Os valores começaram a ser depositados na terça-feira (24), nas contas de quem conseguiu o benefício a partir de maio deste ano",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Companhias aéreas dos EUA terão custos mais altos com tarifa sobre jatos da Embraer",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/companhias-aereas-dos-eua-terao-custos-mais-altos-com-tarifa-sobre-jatos-da-embraer.shtml",
-      "date": "2026-11-26T07:00:00.000Z",
-      "summary": "Uma proposta do governo dos Estados Unidos de criar tarifa de importação de 10% sobre aeronaves da Embraer provenientes do Brasil aumentará os custos para as companhias aéreas americanas que não têm alternativas fabricadas locamente, afirmaram analistas e exec",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Projeto usa IA para analisar carne, soja e madeira e facilitar fiscalização de exigências internacionais",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/agro/2026/11/projeto-usa-ia-para-analisar-carne-soja-e-madeira-e-facilitar-fiscalizacao-de-exigencias-internacionais.shtml",
-      "date": "2026-11-26T07:00:00.000Z",
-      "summary": "Commodities brasileiras enfrentam exigências cada vez maiores para acessar mercados internacionais, como a União Europeia, que começará a barrar a entrada de itens sem garantia de origem e conformidade ambiental a partir de 30 de dezembro. Leia mais (11/26/202",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Petrobras prevê retirar do mar 27 plataformas de petróleo até 2031; custo é de US$ 11,2 bi",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/petrobras-preve-retirar-do-mar-27-plataformas-de-petroleo-ate-2031-custo-e-de-us-112-bi.shtml",
-      "date": "2026-11-26T07:00:00.000Z",
-      "summary": "A Petrobras prevê retirar do mar 27 plataformas antigas de produção de petróleo até 2031, segundo o plano de negócios divulgado na segunda-feira (23). São nove a mais que as 18 previstas no plano anterior, um aumento de 50%. Leia mais (11/26/2026 - 04h00)",
       "source": "Folha",
       "cat": "economia",
       "type": "imprensa"
@@ -243,7 +315,7 @@
       "title": "Herança: Câmara aprova projeto que prevê deserdação por 'interdição abusiva' de idosos; entenda",
       "link": "https://g1.globo.com/politica/noticia/2026/11/26/heranca-deserdacao-curatela-idosos-camara.ghtml",
       "date": "2026-11-26T03:00:00.000Z",
-      "summary": "A Câmara dos Deputados aprovou nesta semana um projeti de lei que estabelece a perda do direito à herança para quem tentar interditar uma pessoa com o interesse de tomar ou desviar o patrimônio dela. De autoria do deputado Eriberto Medeiros (PSB-PE), o PL 464/",
+      "summary": "A Câmara dos Deputados aprovou nesta semana um projeto de lei que estabelece a perda do direito à herança para quem tentar interditar uma pessoa com o interesse de tomar ou desviar o patrimônio dela. De autoria do deputado Eriberto Medeiros (PSB-PE), o PL 464/",
       "source": "g1",
       "cat": "politica",
       "type": "imprensa"
@@ -276,33 +348,6 @@
       "type": "imprensa"
     },
     {
-      "title": "A esquerda vê racismo em tudo, até no arroz por cima do feijão, diz Rafael Satiê, deputado eleito pelo PL",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/a-esquerda-ve-racismo-em-tudo-ate-no-arroz-por-cima-do-feijao-diz-rafael-satie-deputado-eleito-pelo-pl.shtml",
-      "date": "2026-11-26T02:00:00.000Z",
-      "summary": "Deputado federal eleito pelo PL, o partido com a menor proporção de candidaturas negras nas eleições de 2026, Rafael Satiê (PL-RJ) acredita que a legenda não deveria impulsionar candidaturas pela cor, avalia que o movimento negro quer a cisão, e não a integraç",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Mesmo sem Haddad no governo, Lula tem desafio de acomodar outros aliados derrotados; veja quem são",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/mesmo-sem-haddad-no-governo-lula-tem-desafio-de-acomodar-outros-aliados-derrotados-veja-quem-sao.shtml",
-      "date": "2026-11-26T02:00:00.000Z",
-      "summary": "Em negociações para a composição ministerial de seu quarto mandato, Lula (PT) tem como desafio acomodar aliados que foram derrotados nas eleições de 2026 e que seguem com seus destinos indefinidos. Leia mais (11/25/2026 - 23h00)",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Moraes mantem preso o homem que planejou atentado com bomba no aeroporto de Brasília",
-      "link": "https://www.estadao.com.br/politica/moraes-mantem-preso-o-homem-que-planejou-atentado-com-bomba-em-aeroporto-de-brasilia-nprp/",
-      "date": "2026-11-26T01:29:39.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Lula agora cogita Alckmin para o novo Ministério da Segurança Pública",
       "link": "https://www.estadao.com.br/politica/lula-agora-cogita-alckmin-para-o-novo-ministerio-da-seguranca-publica/",
       "date": "2026-11-26T00:23:43.000Z",
@@ -321,15 +366,6 @@
       "type": "imprensa"
     },
     {
-      "title": "STF marca para 4 de dezembro o início do julgamento sobre segundo turno no Rio de Janeiro",
-      "link": "https://www.estadao.com.br/politica/stf-marca-para-4-de-dezembro-julgamento-sobre-segundo-turno-no-rio-de-janeiro-nprp/",
-      "date": "2026-11-25T23:53:33.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Brasil tem déficit de 110 mil cisternas e de mais de 1,3 milhão de banheiros, diz Funasa",
       "link": "https://www.camara.leg.br/noticias/1323123-brasil-tem-deficit-de-110-mil-cisternas-e-de-mais-de-13-milhao-de-banheiros-diz-funasa",
       "date": "2026-11-25T23:14:00.000Z",
@@ -337,24 +373,6 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Eleições no RJ: STF marca julgamento para 4 de dezembro",
-      "link": "https://www.poder360.com.br/poder-justica/eleicoes-no-rj-stf-marca-julgamento-para-4-de-dezembro/",
-      "date": "2026-11-25T23:12:40.000Z",
-      "summary": "Ministros poderão votar em sessão virtual até 15 de dezembro; ação do PSD questiona decisão que elegeu Ruas no 1º turno",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Michelle agradece a médicos de Bolsonaro: “Anjos sem asas”",
-      "link": "https://www.poder360.com.br/poder-gente/michelle-agradece-a-medicos-de-bolsonaro-anjos-sem-asas/",
-      "date": "2026-11-25T23:09:20.000Z",
-      "summary": "Ex-primeira-dama mencionou o cirurgião Claudio Birolini e o cardiologista Brasil Caiado; ex-presidente permanece na UTI",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
     },
     {
       "title": "PGR denuncia deputado Gustavo Gayer ao STF por esquema de desvio de cota parlamentar na Câmara",
@@ -384,15 +402,6 @@
       "type": "oficial"
     },
     {
-      "title": "Advogada cita “lapso pontual” sobre datas ao relatar caso com Janones",
-      "link": "https://www.poder360.com.br/poder-congresso/advogada-cita-lapso-pontual-sobre-datas-ao-relatar-caso-com-janones/",
-      "date": "2026-11-25T22:55:30.000Z",
-      "summary": "Ao Poder360, Jade Elena Moraes atribui divergência a abalo emocional, nega ligação com Nikolas e diz reunir material para apresentar ao Ministério Público; deputado nega estupro",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Relatório destaca importância da educação superior católica para a Amazônia",
       "link": "https://www12.senado.leg.br/noticias/materias/2026/11/25/relatorio-destaca-importancia-da-educacao-superior-catolica-para-a-amazonia",
       "date": "2026-11-25T22:49:29.000Z",
@@ -400,15 +409,6 @@
       "source": "Agência Senado",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Jair Renan fala sobre pneumonia do pai e elogia Michelle: “Cuidando bem”",
-      "link": "https://www.poder360.com.br/poder-gente/jair-renan-fala-sobre-pneumonia-do-pai-e-elogia-michelle-cuidando-bem/",
-      "date": "2026-11-25T22:48:36.000Z",
-      "summary": "Filho mais novo de Bolsonaro visitou o ex-presidente no Hospital DF Star e disse que a melhora do quadro é gradual",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
     },
     {
       "title": "Criação da Comissão Nacional Indígena da Verdade recebe apoio unânime em audiência na Câmara",
@@ -609,15 +609,6 @@
       "type": "oficial"
     },
     {
-      "title": "Os riscos que Trump corre com a volta de Jensen Huang ao comando da Nvidia",
-      "link": "https://www.bbc.com/portuguese/articles/cqdj1xz29jkdo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-25T09:29:24.000Z",
-      "summary": "Intervenção do presidente dos EUA para reconduzir Jensen Huang ao cargo de CEO deixou os destinos de ambos inextricavelmente ligados.",
-      "source": "BBC News Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
       "title": "Julgamento de Van Hattem no STF é o primeiro round da guerra entre Senado e Supremo em 2027?",
       "link": "https://www.bbc.com/portuguese/articles/cqdr13l5e830o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-25T08:44:53.000Z",
@@ -649,6 +640,15 @@
       "link": "https://www.bbc.com/portuguese/articles/cqdj1d3yd4pzo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-24T11:28:48.000Z",
       "summary": "Governo federal abriu documentos da gestão anterior e reviu decisões de sigilo, mas continua negando informações com base na proteção de dados pessoais e da segurança presidencial, incluindo gastos do cartão corporativo.",
+      "source": "BBC News Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "A tempestade perfeita (dentro e fora do Brasil) que faz preço do dólar chegar a R$ 6",
+      "link": "https://www.bbc.com/portuguese/articles/cwm253lr95zjo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-24T09:20:45.000Z",
+      "summary": "Valor disparou com combinação de força da moeda americana no exterior e pressão sobre ajuste fiscal no Brasil, levando à desvalorização do real acentuada entre as principais moedas emergentes.",
       "source": "BBC News Brasil",
       "cat": "internacional",
       "type": "imprensa"
