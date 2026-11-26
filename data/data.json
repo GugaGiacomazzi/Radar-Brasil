@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-26T02:29:11.056Z",
+  "updated": "2026-11-26T03:38:35.100Z",
   "market": {
     "ibov": {
       "price": 166684.61,
       "pct": 1.58,
-      "time": "2026-11-26T02:29:03.763Z",
+      "time": "2026-11-26T03:38:29.258Z",
       "history": [
         {
           "d": "2026-10-27",
@@ -84,7 +84,7 @@
         },
         {
           "d": "2026-11-25",
-          "c": 166684.6094
+          "c": 166685
         }
       ]
     },
@@ -141,6 +141,87 @@
   },
   "news": [
     {
+      "title": "O mapa das facções e a nova dinâmica do crime no Brasil - O Assunto #1853",
+      "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/11/26/o-mapa-das-faccoes-e-a-nova-dinamica-do-crime-no-brasil-o-assunto-1853.ghtml",
+      "date": "2026-11-26T03:30:00.000Z",
+      "summary": "Nesta semana, a Agência Brasileira de Inteligência (Abin) publicou o documento Cenários do Crime Organizado no Brasil, produzido em parceria com o Fórum Brasileiro de Segurança Pública. Trata-se de um levantamento inédito sobre o panorama e os avanços das 31 m",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Cleitinho se reúne com Pedro Rousseff e propõe união entre partidos",
+      "link": "https://www.poder360.com.br/poder-brasil/cleitinho-se-reune-com-pedro-rousseff-e-propoe-uniao-entre-partidos/",
+      "date": "2026-11-26T03:01:49.000Z",
+      "summary": "O governador eleito de MG apareceu nesta 4ª feira (25.nov) com os deputados federais eleitos Gleidson Azevedo (Republicanos) e Pedro Rousseff (PT), sobrinho-neto da ex-presidente Dilma Rousseff (PT)",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Ala de Valdemar admite que PL deve romper com Hugo Motta e teme 'anos de seca' na Câmara",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/ala-de-valdemar-admite-que-pl-deve-romper-com-hugo-motta-e-teme-anos-de-seca-na-camara.shtml",
+      "date": "2026-11-26T03:01:00.000Z",
+      "summary": "A ala do PL ligada ao presidente do partido, Valdemar Costa Neto, dá como certo o rompimento com o presidente da Câmara, Hugo Motta (Republicanos-MG). Esse grupo admite nos bastidores ter perdido o cabo de guerra contra o setor da legenda próximo a Nikolas Fer",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Prodam amplia atuação nacional com soluções desenvolvidas em São Paulo",
+      "link": "https://www.estadao.com.br/economia/prodam-amplia-atuacao-nacional-com-solucoes-desenvolvidas-em-sao-paulo/",
+      "date": "2026-11-26T03:01:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Prestações de contas de candidatos mostram repasses do Fundo Eleitoral acima dos valores recebidos por partidos",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/26/prestacoes-de-contas-de-candidatos.ghtml",
+      "date": "2026-11-26T03:00:00.000Z",
+      "summary": "Fachada do TSE Luiz Roberto/Secom/TSE As prestações de contas dos candidatos nas eleições de 2026 apresentam divergências entre os valores declarados como recursos do Fundo Especial de Financiamento de Campanha (FEFC), o Fundo Eleitoral, e as quantias distribu",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Herança: Câmara aprova projeto que prevê deserdação por 'interdição abusiva' de idosos; entenda",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/26/heranca-deserdacao-curatela-idosos-camara.ghtml",
+      "date": "2026-11-26T03:00:00.000Z",
+      "summary": "A Câmara dos Deputados aprovou nesta semana um projeti de lei que estabelece a perda do direito à herança para quem tentar interditar uma pessoa com o interesse de tomar ou desviar o patrimônio dela. De autoria do deputado Eriberto Medeiros (PSB-PE), o PL 464/",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Limite do cartão de quem usa o crédito rotativo com frequência será reduzido; entenda a mudança",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/26/limite-do-cartao-de-quem-usa-o-credito-rotativo-com-frequencia-sera-reduzido-entenda-a-mudanca.ghtml",
+      "date": "2026-11-26T03:00:00.000Z",
+      "summary": "Dívidas com cartão de crédito Reprodução/ EPTV A partir de 1º de julho de 2027, os bancos terão de reduzir gradualmente o limite de clientes que recorrerem frequentemente ao rotativo do cartão. 💳 O crédito rotativo é acionado quando o cliente não consegue qui",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Mega-Sena pode pagar R$ 75 milhões nesta quinta-feira; g1 transmite ao vivo",
+      "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/26/mega-sena-pode-pagar-r-75-milhoes-nesta-quinta-feira-g1-transmite-ao-vivo.ghtml",
+      "date": "2026-11-26T03:00:00.000Z",
+      "summary": "Como funciona a Mega-Sena? O concurso 3.091 da Mega-Sena pode pagar um prêmio de R$ 75 milhões para os apostadores que acertarem as seis dezenas. O sorteio ocorre às 21h desta quinta-feira (26), em São Paulo. 📱Favorite o g1 no Google e acompanhe as principais",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Jantar de Alckmin tem petistas e visita rápida de Gilmar Mendes",
+      "link": "https://www.poder360.com.br/poder-governo/jantar-de-alckmin-tem-petistas-e-visita-rapida-de-gilmar-mendes/",
+      "date": "2026-11-26T02:31:16.000Z",
+      "summary": "Evento foi organizado por advogados da campanha de Lula; ministro do STF permaneceu por 20 minutos no local",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "Comissão eleva estimativa de receita do Orçamento de 2027 em R$ 37,1 bi",
       "link": "https://www.poder360.com.br/poder-congresso/comissao-eleva-estimativa-de-receita-do-orcamento-de-2027-em-r-371-bi/",
       "date": "2026-11-26T02:15:49.000Z",
@@ -172,15 +253,6 @@
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/mesmo-sem-haddad-no-governo-lula-tem-desafio-de-acomodar-outros-aliados-derrotados-veja-quem-sao.shtml",
       "date": "2026-11-26T02:00:00.000Z",
       "summary": "Em negociações para a composição ministerial de seu quarto mandato, Lula (PT) tem como desafio acomodar aliados que foram derrotados nas eleições de 2026 e que seguem com seus destinos indefinidos. Leia mais (11/25/2026 - 23h00)",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "PT aposta que Haddad será chamado por Lula em algum momento do próximo governo",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/pt-aposta-que-haddad-sera-chamado-por-lula-em-algum-momento-do-proximo-governo.shtml",
-      "date": "2026-11-26T02:00:00.000Z",
-      "summary": "Mesmo que fique fora do ministério agora, Fernando Haddad não deve permanecer os próximos quatro anos longe de Brasília, segundo petistas. Leia mais (11/25/2026 - 23h00)",
       "source": "Folha",
       "cat": "politica",
       "type": "imprensa"
@@ -231,29 +303,11 @@
       "type": "imprensa"
     },
     {
-      "title": "Tarifas de Trump visam a “proteger produtores” dos EUA, diz secretária",
-      "link": "https://www.poder360.com.br/poder-internacional/tarifas-de-trump-visam-a-proteger-produtores-dos-eua-diz-secretaria/",
-      "date": "2026-11-26T01:46:42.000Z",
-      "summary": "Governo norte-americano propôs nesta 4ª feira (25.nov.2026) elevar as tarifas sobre o açúcar e as aeronaves brasileiras",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Moraes mantem preso o homem que planejou atentado com bomba no aeroporto de Brasília",
       "link": "https://www.estadao.com.br/politica/moraes-mantem-preso-o-homem-que-planejou-atentado-com-bomba-em-aeroporto-de-brasilia-nprp/",
       "date": "2026-11-26T01:29:39.000Z",
       "summary": "",
       "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Defesa de Vorcaro pede que Gilmar assuma relatoria de ação contra Fachin",
-      "link": "https://www.poder360.com.br/poder-justica/defesa-de-vorcaro-pede-que-gilmar-assuma-relatoria-de-acao-contra-fachin/",
-      "date": "2026-11-26T01:29:12.000Z",
-      "summary": "Relatoria foi sorteada ao ministro Kassio Nunes Marques; caso está sob segredo de Justiça",
-      "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -402,15 +456,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Câmara aprova criação de marco nacional da educação em tempo integral",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/25/camara-aprova-criacao-de-marco-nacional-da-educacao-em-tempo-integral.ghtml",
-      "date": "2026-11-25T21:57:21.000Z",
-      "summary": "A Câmara dos Deputados aprovou nesta quarta-feira (25) projeto de lei que cria o Marco Nacional da Educação em Tempo Integral, com, no mínimo, 7 horas diárias dos alunos nas escolas ou 35 horas semanais. 🏫A adoção do período integral deverá ser feita progress",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Diretor de Regulação do BC dará entrevista coletiva às 11 horas de quinta-feira (26/11) sobre as medidas que tratam dos riscos associados ao endividamento de famílias e empresas",
       "link": "https://www.bcb.gov.br/detalhenoticia/21332/nota",
       "date": "2026-11-25T21:55:01.000Z",
@@ -456,24 +501,6 @@
       "type": "imprensa"
     },
     {
-      "title": "TSE vai mapear atuação do crime organizado nas eleições para ampliar combate",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/25/tse-vai-mapear-atuacao-do-crime-organizado-nas-eleicoes-para-ampliar-combate.ghtml",
-      "date": "2026-11-25T21:30:46.000Z",
-      "summary": "Ministro Kassio Nunes Marques Luiz Roberto/TSE O presidente do Tribunal Superior Eleitoral (TSE), Nunes Marques, decidiu nesta quarta-feira (25) criar um grupo de trabalho para mapear as principais dificuldades e elaborar uma proposta com medidas de prevenção ",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "XP e Rico oferecem condições especiais em cartões e outros para Black Friday",
-      "link": "https://www.estadao.com.br/economia/xp-e-rico-oferecem-condicoes-especiais-em-cartoes-e-outros-para-black-friday/",
-      "date": "2026-11-25T21:28:08.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "O Adicional Contracíclico de Capital Principal relativo ao Brasil segue em 0%",
       "link": "https://www.bcb.gov.br/detalhenoticia/21333/nota",
       "date": "2026-11-25T21:26:53.000Z",
@@ -481,33 +508,6 @@
       "source": "Banco Central",
       "cat": "economia",
       "type": "oficial"
-    },
-    {
-      "title": "FCC autoriza SpaceX a lançar 1 milhão de satélites para criar data centers no espaço",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/25/fcc-autoriza-spacex-a-lancar-1-milhao-de-satelites-para-criar-data-centers-no-espaco.ghtml",
-      "date": "2026-11-25T21:17:17.000Z",
-      "summary": "Starship, nave da Space, em foto divulgada em 23 de setembro de 2026 Reprodução/SpaceX A Comissão Federal de Comunicações dos Estados Unidos (FCC, na sigla em inglês) autorizou nesta quarta-feira (25) a SpaceX, empresa de Elon Musk, a lançar até 1 milhão de sa",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Caso Master: defesa de Vorcaro pede que Nunes Marques deixe relatoria de ação no STF contra Fachin",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/25/defesa-de-vorcaro-pede-troca-de-kassio-na-relatoria-da-acao-contra-fachin.ghtml",
-      "date": "2026-11-25T21:12:56.000Z",
-      "summary": "Agora no g1 A defesa de Daniel Vorcaro, ex-dono do Banco Master, pediu nesta quarta-feira (4) que o ministro Kassio Nunes Marques, do Supremo Tribunal Federal (STF), deixe a relatoria da ação que tenta tirar do presidente do STF, ministro Edson Fachin, a análi",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Por que o PIX está na mira dos EUA em investigação que embasa novas tarifas contra o Brasil",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/25/brasil-protesta-contra-recomendacao-dos-eua-de-novas-tarifas-sobre-avioes-e-acucar.ghtml",
-      "date": "2026-11-25T21:11:50.000Z",
-      "summary": "Trump introduziu tarifas de 15% sobre produtos que entram nos Estados Unidos provenientes da maioria dos países do mundo. REUTERS/Elizabeth Frantz O PIX está entre os temas investigados pelo governo dos Estados Unidos na disputa comercial com o Brasil. Washing",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
     },
     {
       "title": "'Não acho que possamos mais coexistir com bilionários', diz escritora Naomi Klein",
