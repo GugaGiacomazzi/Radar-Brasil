@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-26T22:54:07.518Z",
+  "updated": "2026-11-26T23:52:30.508Z",
   "market": {
     "ibov": {
       "price": 176799.84,
       "pct": 6.07,
-      "time": "2026-11-26T22:54:00.725Z",
+      "time": "2026-11-26T23:52:23.338Z",
       "history": [
         {
           "d": "2026-10-27",
@@ -145,65 +145,182 @@
   },
   "news": [
     {
-      "title": "Toffoli mantém proteção do RJ contra sanções por dívida com a União",
-      "link": "https://www.poder360.com.br/poder-justica/toffoli-mantem-protecao-do-rj-contra-sancoes-por-divida-com-a-uniao/",
-      "date": "2026-11-26T22:50:27.000Z",
-      "summary": "Decisão estende até 31 de março de 2027 a suspensão de sanções e da cobrança de garantias ligadas a empréstimos federais do RJ",
-      "source": "Poder360",
-      "cat": "politica",
+      "title": "Trabuco aceita convite de Lula: quem é o novo ministro da Fazenda que defende ajuste fiscal e redução 'das desigualdades'",
+      "link": "https://www.bbc.com/portuguese/articles/c3gre9xxe92zo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-26T23:47:02.000Z",
+      "summary": "Presidente do Conselho de Administração do Bradesco aceita convite de Lula para integrar gabinete em movimento visto como 'pró-mercado' do Palácio",
+      "source": "BBC News Brasil",
+      "cat": "internacional",
       "type": "imprensa"
     },
     {
-      "title": "Obama organiza alimentos para famílias na véspera de Ação de Graças",
-      "link": "https://www.poder360.com.br/poder-internacional/obama-organiza-alimentos-para-familias-na-vespera-de-acao-de-gracas/",
-      "date": "2026-11-26T22:49:00.000Z",
-      "summary": "O ex-presidente e a ex-primeira-dama ajudaram a preparar caixas de alimentos para serem distribuídas a famílias no feriado",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Brasil ainda não está preparado para limitar comprometimento da renda com dívida, diz diretor do BC",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/10/25/6568-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post468077",
-      "date": "2026-11-26T22:43:00.000Z",
-      "summary": "As instituições financeiras brasileiras e o Banco Central precisam de mais experiência na medição do endividamento das famílias antes que as autoridades possam considerar a imposição de um limite para o comprometimento da renda com dívida, disse nesta quinta-f",
+      "title": "Alcolumbre elogia Trabuco para Fazenda e fala em diálogo para 'avançar com responsabilidade fiscal'",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/alcolumbre-elogia-trabuco-para-fazenda-e-fala-em-dialogo-para-avancar-com-responsabilidade-fiscal.shtml",
+      "date": "2026-11-26T23:45:00.000Z",
+      "summary": "O presidente do Senado, Davi Alcolumbre (União Brasil-AP), elogiou a decisão do presidente Lula (PT) de escolher o banqueiro Luiz Carlos Trabuco, do Bradesco, para ser ministro da Fazenda no próximo mandato. O convite para assumir o cargo foi aceito pelo presi",
       "source": "Folha",
       "cat": "economia",
       "type": "imprensa"
     },
     {
-      "title": "Escolha de Trabuco para Fazenda ganha elogios de Arminio Fraga, Paulo Skaf e Rubens Ometto",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/escolha-de-trabuco-para-fazenda-ganha-elogios-de-arminio-fraga-paulo-skaf-e-rubens-ometto.shtml",
-      "date": "2026-11-26T22:42:00.000Z",
-      "summary": "A ida de Luiz Carlos Trabuco para o Ministério da Fazenda recebeu elogios de empresários e representantes da indústria. Nesta quinta-feira (26), Trabuco viajou a Brasília, encontrou-se com o presidente Luiz Inácio Lula da Silva (PT) e aceitou o convite para o ",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Bolsonaro apresenta melhora, mas sem previsão de alta, diz hospital",
-      "link": "https://www.poder360.com.br/poder-justica/bolsonaro-apresenta-melhora-mas-sem-previsao-de-alta-diz-hospital/",
-      "date": "2026-11-26T22:40:43.000Z",
-      "summary": "Ex-presidente está internado desde 20 de novembro para tratar uma obstrução parcial do sistema digestivo",
+      "title": "Relembre quais ministros da Fazenda vieram do mercado financeiro",
+      "link": "https://www.poder360.com.br/poder-economia/relembre-quais-ministros-da-fazenda-vieram-do-mercado-financeiro/",
+      "date": "2026-11-26T23:38:29.000Z",
+      "summary": "Assim como Trabuco, Joaquim Levy fez carreira no Bradesco; Henrique Meirelles comandou o BankBoston e Guedes fundou o Pactual",
       "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
     },
     {
-      "title": "Musk promete duas ações da SpaceX para cada criança dos EUA",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/musk-promete-duas-acoes-da-spacex-para-cada-crianca-dos-eua.shtml",
-      "date": "2026-11-26T22:40:00.000Z",
-      "summary": "Elon Musk planeja presentear cada criança nos Estados Unidos com duas ações da SpaceX, em uma tentativa de conquistar apoio público para seus negócios de satélites e inteligência artificial durante um período de intenso escrutínio público e político sobre o se",
+      "title": "Escolha de Trabuco é um forte sinal de que a política econômica pode ter mudança importante",
+      "link": "https://www.estadao.com.br/economia/celso-ming/escolha-de-trabuco-e-um-forte-sinal-de-que-a-politica-economica-pode-ter-mudanca-importante/",
+      "date": "2026-11-26T23:35:25.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Leia a íntegra da confirmação de Trabuco para a Fazenda",
+      "link": "https://www.poder360.com.br/poder-governo/leia-a-integra-da-confirmacao-de-trabuco-para-a-fazenda/",
+      "date": "2026-11-26T23:33:53.000Z",
+      "summary": "Presidente do Conselho de Administração do Bradesco assumirá o ministério em janeiro de 2027",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Nome de confiança da Faria Lima, executivo cultivou amizade com Lula à frente do Bradesco",
+      "link": "https://www.bbc.com/portuguese/articles/c3n0lrq5kgd1o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-26T23:30:35.000Z",
+      "summary": "Executivo chega à Fazenda em cenário de pressão sobre as contas públicas; mercado reagiu bem às expectativas de seu anúncio na pasta.",
+      "source": "BBC News Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "CEO do Itaú parabeniza Trabuco pela indicação ao Ministério da Fazenda",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/ceo-do-itau-parabeniza-trabuco-pela-indicacao-ao-ministerio-da-fazenda.shtml",
+      "date": "2026-11-26T23:29:00.000Z",
+      "summary": "O CEO do Itaú Unibanco, Milton Maluhy Filho, parabenizou nesta quinta-feira (26) o presidente do conselho de administração do Bradesco, Luiz Carlos Trabuco Cappi, pela indicação ao Ministério da Fazenda. Leia mais (11/26/2026 - 20h29)",
       "source": "Folha",
       "cat": "economia",
       "type": "imprensa"
     },
     {
-      "title": "Queda em linha de transmissão deixa Manaus e Roraima sem luz",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/queda-em-linha-de-transmissao-deixa-manaus-e-roraima-sem-luz.shtml",
-      "date": "2026-11-26T22:38:00.000Z",
-      "summary": "A queda na linha de transmissão que liga Manaus ao sistema elétrico brasileiro deixou cidades do Amazonas e de Roraima sem luz na tarde desta quinta-feira (26). Segundo o ONS (Operador Nacional do Sistema Elétrico), o serviço começou a ser restabelecido por vo",
+      "title": "Governo Lula chama fala de Macron sobre carne de “desinformação”",
+      "link": "https://www.poder360.com.br/poder-internacional/governo-lula-chama-fala-de-macron-sobre-carne-de-desinformacao/",
+      "date": "2026-11-26T23:28:55.000Z",
+      "summary": "Em nota, Itamaraty afirmou que declarações contrariam evidências científicas e critica restrições sanitárias da UE",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Alcolumbre elogia escolha de Trabuco para o Ministério da Fazenda e destaca sua 'habilidade de diálogo'",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/26/alcolumbre-elogia-escolha-de-trabuco-para-o-ministerio-da-fazenda-e-destaca-habilidade-de-dialogo.ghtml",
+      "date": "2026-11-26T23:21:11.000Z",
+      "summary": "Presidente do Senado, Davi Alcolumbre (União-AP), conduz sessão de votação de destaques ao ajuste fiscal Waldemir Barreto/Agência Senado O presidente do Senado, Davi Alcolumbre (União-AP), disse nesta quinta-feira (26) ter recebido com muito otimismo a escolha",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Governo vê resistência a Trabuco na Fazenda menor que a enfrentada por Levy em 2014",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/governo-ve-resistencia-a-trabuco-na-fazenda-menor-que-a-enfrentada-por-levy-em-2014.shtml",
+      "date": "2026-11-26T23:21:00.000Z",
+      "summary": "Apesar de algumas manifestações negativas de deputados, o Planalto avalia que a resistência na esquerda ao nome de Luiz Carlos Trabuco para a Fazenda será contida, e bem menor do que o cenário de 2014, quando Dilma Rousseff nomeou Joaquim Levy. Leia mais (11/2",
       "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Relatório do Orçamento prevê R$ 12,8 bi para emendas de comissão e corte de R$ 2 bi do governo",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/relatorio-do-orcamento-preve-r-128-bi-para-emendas-de-comissao-e-corte-de-r-2-bi-do-governo.shtml",
+      "date": "2026-11-26T23:20:00.000Z",
+      "summary": "O relatório preliminar do PLOA (Projeto de Lei Orçamentária Anual) para 2027 aprovado nesta quinta-feira (26) na CMO (Comissão Mista de Orçamento) prevê um acréscimo de R$ 12,8 bilhões aos R$ 44,8 bilhões previstos pelo governo de Luiz Inácio Lula da Silva (PT",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Ipsos: preocupação com inflação cresce no Brasil e chega a 29%; 52% avaliam que o país está no rumo certo",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/26/ipsos-preocupacao-inflacao.ghtml",
+      "date": "2026-11-26T23:11:36.000Z",
+      "summary": "Pesquisa Ipsos divulgada nesta quinta-feira (26) aponta um avanço na preocupação dos brasileiros com a inflação. O indicador subiu 4 pontos percentuais em novembro e atingiu 29%, fazendo com que a apreensão com o custo de vida entrasse para o grupo das quatro ",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "CNJ dá 15 dias para tribunais de Justiça apresentarem esclarecimentos sobre contratos com o BRB",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/cnj-da-15-dias-para-tribunais-de-justica-apresentarem-esclarecimentos-sobre-contratos-com-o-brb/",
+      "date": "2026-11-26T23:09:13.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Jair Bolsonaro tem melhora, mas ainda sem previsão de sair da UTI, informa hospital",
+      "link": "https://www.estadao.com.br/politica/jair-bolsonaro-tem-melhora-mas-ainda-sem-previsao-de-sair-da-uti-informa-hospital-nprp/",
+      "date": "2026-11-26T23:06:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Governo Lula anuncia Luiz Trabuco para Ministério da Fazenda",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/26/governo-lula-anuncia-luiz-trabuco-para-ministerio-da-fazenda.ghtml",
+      "date": "2026-11-26T23:05:51.000Z",
+      "summary": "Trabuco aceita convite de Lula para assumir Ministério da Fazenda O governo do presidente Luiz Inácio Lula da Silva (PT) anunciou nesta quinta-feira (26) que Luiz Carlos Trabuco, presidente do Conselho de Administração do Bradesco, irá assumir o Ministério da ",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Saiba quais cargos Trabuco terá de deixar para assumir a Fazenda",
+      "link": "https://www.poder360.com.br/poder-economia/saiba-quais-cargos-trabuco-tera-de-deixar-para-assumir-a-fazenda/",
+      "date": "2026-11-26T23:05:24.000Z",
+      "summary": "Executivo preside conselhos do Bradesco, de empresas do grupo e do Movimento Brasil Competitivo; lei restringe atividades privadas de ministros",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "EUA rejeita planos da UE de taxar grandes empresas de tecnologia",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/eua-rejeita-planos-da-ue-de-taxar-grandes-empresas-de-tecnologia.shtml",
+      "date": "2026-11-26T23:05:00.000Z",
+      "summary": "Os Estados Unidos advertiram nesta quinta-feira (26) contra os planos da União Europeia de criar um imposto sobre as grandes empresas de tecnologia. Líderes do bloco discutiram a proposta durante tensa cúpula em Bruxelas, centrada no próximo orçamento plurianu",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Fala de Marcel Van Hattem sobre delegado ocorreu perfeitamente associada à natureza do mandato",
+      "link": "https://www.estadao.com.br/politica/carlos-andreazza/fala-de-marcel-van-hattem-sobre-delegado-ocorreu-perfeitamente-associada-a-natureza-do-mandato/",
+      "date": "2026-11-26T23:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Deputados governistas falam em ‘preocupação’ com nome de Trabuco para assumir Ministério da Fazenda",
+      "link": "https://www.estadao.com.br/politica/deputados-governistas-falam-em-preocupacao-com-anuncio-trabuco-para-assumir-ministerio-da-fazenda/",
+      "date": "2026-11-26T22:53:43.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Trabuco na Fazenda: Quem assumirá o lugar do banqueiro no Conselho do Bradesco",
+      "link": "https://www.estadao.com.br/economia/negocios/trabuco-na-fazenda-quem-assumira-o-lugar-do-banqueiro-no-conselho-do-bradesco/",
+      "date": "2026-11-26T22:51:07.000Z",
+      "summary": "",
+      "source": "Estadão",
       "cat": "economia",
       "type": "imprensa"
     },
@@ -226,19 +343,10 @@
       "type": "imprensa"
     },
     {
-      "title": "Saiba quem é Luiz Carlos Trabuco, novo ministro da Fazenda",
-      "link": "https://www.poder360.com.br/poder-economia/saiba-quem-e-luiz-carlos-trabuco-novo-ministro-da-fazenda/",
-      "date": "2026-11-26T22:21:36.000Z",
-      "summary": "Banqueiro de 75 anos começou como escriturário aos 17 e presidiu o Bradesco de 2009 a 2018",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Brasil rebate Macron após fala sobre carne 'dopada' e acusa França de protecionismo",
       "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/26/governo-lula-acusa-franca-de-disseminar-desinformacao.ghtml",
       "date": "2026-11-26T22:20:46.000Z",
-      "summary": "Presidente da França, Emmanuel Macron, em coletiva de imprensa no Catar em 21 de outubro de 2026. REUTERS/Benoit Tessier/Pool O governo brasileiro criticou, nesta quinta-feira (26), declarações do presidente da França, Emmanuel Macron, que chamou a carne brasi",
+      "summary": "Presidente da França, Emmanuel Macron, em coletiva de imprensa no Catar em 21 de outubro de 2026. REUTERS/Benoit Tessier/Pool O governo brasileiro criticou, nesta quinta-feira (26), as declarações do presidente da França, Emmanuel Macron, que chamou a carne br",
       "source": "g1",
       "cat": "economia",
       "type": "imprensa"
@@ -258,7 +366,7 @@
       "date": "2026-11-26T22:11:05.000Z",
       "summary": "Trabuco aceita convite de Lula para assumir Ministério da Fazenda Luiz Carlos Trabuco aceitou, nesta quinta-feira (26), ser o ministro da Fazenda no quarto mandato de Luiz Inácio Lula da Silva (PT). Presidente do Conselho de Administração do Bradesco, Trabuco ",
       "source": "g1",
-      "cat": "politica",
+      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -267,7 +375,7 @@
       "date": "2026-11-26T22:09:01.000Z",
       "summary": "Trabuco aceita convite de Lula para assumir Ministério da Fazenda O presidente do Conselho de Administração do Bradesco, Luiz Carlos Trabuco, aceitou o convite do presidente Luiz Inácio Lula da Silva (PT) para assumir o Ministério da Fazenda no próximo governo",
       "source": "g1",
-      "cat": "politica",
+      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -294,15 +402,6 @@
       "date": "2026-11-26T21:53:26.000Z",
       "summary": "",
       "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Ibovespa dispara 6% e dólar cai com aceite de Trabuco para a Fazenda",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/26/trabuco-ibovespa-fazenda-dolar.ghtml",
-      "date": "2026-11-26T21:48:09.000Z",
-      "summary": "Luiz Carlos Trabuco, presidente do conselho de administração do Banco Bradesco SA, posa para foto em São Paulo, Brasil, 3 de dezembro de 2024. REUTERS/Amanda Perobelli O Ibovespa, principal índice da bolsa brasileira, disparou 6,07% nesta quinta-feira (26), ao",
-      "source": "g1",
       "cat": "economia",
       "type": "imprensa"
     },
@@ -352,15 +451,6 @@
       "type": "oficial"
     },
     {
-      "title": "Empresário ligado à bilhetagem do transporte de SP recebeu R$ 29 milhões da Fictor e de ex-CEO",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/empresario-ligado-a-bilhetagem-do-transporte-de-sp-recebeu-r-29-milhoes-da-fictor-e-de-ex-ceo/",
-      "date": "2026-11-26T21:18:59.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Brasileiros enganados vão para o front com Exército russo, diz jornal",
       "link": "https://www.dw.com/pt-br/brasileiros-enganados-vão-para-o-front-com-exército-russo-diz-jornal/a-80069430?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-26T21:07:00.000Z",
@@ -377,24 +467,6 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "STF decide que aplicação piso nacional de professores depende de lei aprovada em estados e municípios",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/26/stf-decide-que-aplicacao-piso-nacional-de-professores-depende-de-lei-aprovada-em-estados-e-municipios.ghtml",
-      "date": "2026-11-26T21:00:17.000Z",
-      "summary": "O Supremo Tribunal Federal (STF) decidiu nesta quinta-feira (26) que estados e municípios devem aprovar leis próprias para aplicar o piso nacional do magistério público da educação básica aos seus profissionais. Prevaleceu entre os ministros o entendimento de ",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Cotado para a Fazenda, Trabuco chega a Brasília para encontro com Lula no Alvorada",
-      "link": "https://www.estadao.com.br/economia/cotado-para-a-fazenda-trabuco-e-esperado-para-encontro-com-lula-em-brasilia-nesta-quinta/",
-      "date": "2026-11-26T20:17:03.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
     },
     {
       "title": "Custo de vida e migração dominam campanha eleitoral na Espanha",
@@ -415,15 +487,6 @@
       "type": "oficial"
     },
     {
-      "title": "Em encontro com Lula, Cleitinho pede acordo sobre dívida de MG e convida presidente para a posse",
-      "link": "https://www.estadao.com.br/politica/em-encontro-com-lula-cleitinho-fala-sobre-divida-de-mg-e-convida-presidente-para-sua-posse-nprp/",
-      "date": "2026-11-26T19:57:54.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Relatório do Orçamento de 2027 mantém aumento de recursos a saúde e educação",
       "link": "https://www12.senado.leg.br/noticias/materias/2026/11/26/relatorio-do-orcamento-de-2027-mantem-aumento-de-recursos-a-saude-e-educacao",
       "date": "2026-11-26T19:38:51.000Z",
@@ -431,24 +494,6 @@
       "source": "Agência Senado",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Governo descarta nova ligação de Lula a Trump sobre tarifas e aguarda setor privado",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/governo-descarta-nova-ligacao-de-lula-a-trump-sobre-tarifas-e-aguarda-setor-privado.shtml",
-      "date": "2026-11-26T19:15:00.000Z",
-      "summary": "O governo brasileiro está em fase de consultas ao setor privado afetado pelas últimas tarifas propostas pelos Estados Unidos contra itens brasileiros. Na última quarta-feira (25), o país anunciou novas taxas sobre o açúcar e uma alíquota de 10% sobre aeronaves",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Ministra do TSE relata ataques misóginos em razão de votos e diz que há falta de apoio de colegas",
-      "link": "https://www.estadao.com.br/politica/ministra-do-tse-relata-ataques-misoginos-em-razao-de-votos-e-falta-de-apoio-de-colegas-nprp/",
-      "date": "2026-11-26T18:54:24.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
     },
     {
       "title": "'Dracarys': por que as explosões do Ibama são contestadas na Justiça - depois de terem virado até meme",
@@ -466,15 +511,6 @@
       "summary": "Embalada pelo crescimento econômico, Grécia reduz drasticamente sua dívida pública e quer até mesmo acelerar pagamentos. Já a Itália deverá retomar posto de país mais endividado que ocupava em 2006.",
       "source": "DW Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Ajuste fiscal, Previdência, tarifas, bets, IA: o que Trabuco já disse sobre temas-chave da economia",
-      "link": "https://www.estadao.com.br/economia/o-que-trabuco-ja-disse-sobre-temas-chave-da-economia/",
-      "date": "2026-11-26T15:46:38.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -595,15 +631,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Cleitinho fará apresentação musical em cidade mineira dias antes da posse como governador",
-      "link": "https://www.estadao.com.br/politica/cleitinho-fara-apresentacao-musical-em-cidade-mineira-dias-antes-da-posse-como-governador-nprp/",
-      "date": "2026-11-24T19:49:28.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Líder da ONU pede mais ação para impedir futuro com robôs assassinos",
       "link": "https://news.un.org/feed/view/pt/story/2026/11/1854996",
       "date": "2026-11-24T12:00:00.000Z",
@@ -626,24 +653,6 @@
       "link": "https://www.bbc.com/portuguese/articles/cqdj1d3yd4pzo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-24T11:28:48.000Z",
       "summary": "Governo federal abriu documentos da gestão anterior e reviu decisões de sigilo, mas continua negando informações com base na proteção de dados pessoais e da segurança presidencial, incluindo gastos do cartão corporativo.",
-      "source": "BBC News Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "A tempestade perfeita (dentro e fora do Brasil) que faz preço do dólar chegar a R$ 6",
-      "link": "https://www.bbc.com/portuguese/articles/cwm253lr95zjo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-24T09:20:45.000Z",
-      "summary": "Valor disparou com combinação de força da moeda americana no exterior e pressão sobre ajuste fiscal no Brasil, levando à desvalorização do real acentuada entre as principais moedas emergentes.",
-      "source": "BBC News Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Câmara aprova ajuste fiscal de Lula: por que pacote é tão polêmico e não deve ser suficiente, segundo economistas",
-      "link": "https://www.bbc.com/portuguese/articles/cqx2we1jgnzgo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-24T02:50:44.000Z",
-      "summary": "Estima-se que o projeto tenha impacto de até R$ 56 bilhões. Mas o 'Plano Moretti' vem sendo recebido com pessimismo no mercado financeiro e críticas por alguns dos aliados do PT.",
       "source": "BBC News Brasil",
       "cat": "internacional",
       "type": "imprensa"
