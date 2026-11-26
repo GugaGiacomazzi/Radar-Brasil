@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-26T01:03:44.297Z",
+  "updated": "2026-11-26T02:29:11.056Z",
   "market": {
     "ibov": {
       "price": 166684.61,
       "pct": 1.58,
-      "time": "2026-11-26T01:03:29.753Z",
+      "time": "2026-11-26T02:29:03.763Z",
       "history": [
         {
           "d": "2026-10-27",
@@ -141,39 +141,120 @@
   },
   "news": [
     {
-      "title": "'Recessão é definição arbitrária', diz ministro de Milei após queda na economia da Argentina",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/recessao-e-definicao-arbitraria-diz-ministro-de-milei-apos-queda-na-economia-da-argentina.shtml",
-      "date": "2026-11-26T00:55:00.000Z",
-      "summary": "O ministro da Economia da Argentina, Luis Caputo, afirmou que a definição de recessão é \"quase arbitrária\" durante uma entrevista nesta quarta-feira (25), um dia após vir a público que a atividade econômica do país caiu pelo segundo trimestre consecutivo (o qu",
+      "title": "Comissão eleva estimativa de receita do Orçamento de 2027 em R$ 37,1 bi",
+      "link": "https://www.poder360.com.br/poder-congresso/comissao-eleva-estimativa-de-receita-do-orcamento-de-2027-em-r-371-bi/",
+      "date": "2026-11-26T02:15:49.000Z",
+      "summary": "Texto incorpora impacto de royalties do petróleo, estreia da reforma tributária e queda na previsão do PIB de 2,5% para 1,8%",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Sem Haddad, Camilo Santana ganha força para assumir Casa Civil de Lula",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/sem-haddad-camilo-santana-ganha-forca-para-assumir-casa-civil-de-lula.shtml",
+      "date": "2026-11-26T02:00:00.000Z",
+      "summary": "O senador Camilo Santana (PT-CE) ampliou o favoritismo para chefiar a Casa Civil, segundo aliados de Lula (PT), após o ex-ministro Fernando Haddad (PT) conversar com o presidente e apontar que não assumirá cargo no governo. Leia mais (11/25/2026 - 23h00)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "A esquerda vê racismo em tudo, até no arroz por cima do feijão, diz Rafael Satiê, deputado eleito pelo PL",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/a-esquerda-ve-racismo-em-tudo-ate-no-arroz-por-cima-do-feijao-diz-rafael-satie-deputado-eleito-pelo-pl.shtml",
+      "date": "2026-11-26T02:00:00.000Z",
+      "summary": "Deputado federal eleito pelo PL, o partido com a menor proporção de candidaturas negras nas eleições de 2026, Rafael Satiê (PL-RJ) acredita que a legenda não deveria impulsionar candidaturas pela cor, avalia que o movimento negro quer a cisão, e não a integraç",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Mesmo sem Haddad no governo, Lula tem desafio de acomodar outros aliados derrotados; veja quem são",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/mesmo-sem-haddad-no-governo-lula-tem-desafio-de-acomodar-outros-aliados-derrotados-veja-quem-sao.shtml",
+      "date": "2026-11-26T02:00:00.000Z",
+      "summary": "Em negociações para a composição ministerial de seu quarto mandato, Lula (PT) tem como desafio acomodar aliados que foram derrotados nas eleições de 2026 e que seguem com seus destinos indefinidos. Leia mais (11/25/2026 - 23h00)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "PT aposta que Haddad será chamado por Lula em algum momento do próximo governo",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/pt-aposta-que-haddad-sera-chamado-por-lula-em-algum-momento-do-proximo-governo.shtml",
+      "date": "2026-11-26T02:00:00.000Z",
+      "summary": "Mesmo que fique fora do ministério agora, Fernando Haddad não deve permanecer os próximos quatro anos longe de Brasília, segundo petistas. Leia mais (11/25/2026 - 23h00)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "13º pode ser usado para quitar dívida e pagar despesas no início de 2027; veja o que fazer",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/13o-pode-ser-usado-para-quitar-divida-e-pagar-despesas-no-inicio-de-2027-veja-o-que-fazer.shtml",
+      "date": "2026-11-26T02:00:00.000Z",
+      "summary": "O brasileiro que não quer começar o ano com dívidas pode utilizar parte do 13º salário para pagar despesas de início de ano, como IPTU, IPVA, mensalidade e material escolar. Leia mais (11/25/2026 - 23h00)",
       "source": "Folha",
       "cat": "economia",
       "type": "imprensa"
     },
     {
-      "title": "Padre Kelmon celebra missa em hospital onde Bolsonaro está internado",
-      "link": "https://www.poder360.com.br/poder-brasil/padre-kelmon-celebra-missa-em-hospital-onde-bolsonaro-esta-internado/",
-      "date": "2026-11-26T00:46:39.000Z",
-      "summary": "Cerimônia religiosa reuniu congressistas e apoiadores do ex-presidente, que segue na UTI sem previsão de alta",
+      "title": "Veja como investir o 13º salário com cenário de juros altos e despesas de início de ano",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/veja-como-investir-o-13o-salario-com-cenario-de-juros-altos-e-despesas-de-inicio-de-ano.shtml",
+      "date": "2026-11-26T02:00:00.000Z",
+      "summary": "O pagamento da primeira parcela do 13º, que será depositada na conta dos trabalhadores até o dia 30 de novembro, é a oportunidade de organizar as contas de início do ano e também investir no futuro, independentemente do montante -aproveitando especialmente uma",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Produtos que podem ser atingidos por novas tarifas representam 7% das exportações aos EUA",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/produtos-que-podem-ser-atingidos-por-novas-tarifas-representam-7-das-exportacoes-aos-eua.shtml",
+      "date": "2026-11-26T02:00:00.000Z",
+      "summary": "Os novos itens de comércio que podem ser taxados pelos Estados Unidos representam 7% do total das exportações do Brasil para os americanos, de acordo com dados da Comex, a base de dados sobre comércio exterior do Mdic (Ministério do Desenvolvimento, Indústria,",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Investir em PGBL até dezembro pode reduzir imposto na declaração do IR",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/investir-em-pgbl-ate-dezembro-pode-reduzir-imposto-na-declaracao-do-ir.shtml",
+      "date": "2026-11-26T02:00:00.000Z",
+      "summary": "Os aportes em planos PGBL (Plano Gerador de Benefício Livre) tiveram crescimento médio de 226,18% em dezembro, na comparação com novembro, segundo dados da Susep (Superintendência de Seguros Privados) referentes ao período de 2020 a 2025. No ano passado, as co",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Campopiano ironiza feministas ao ganhar medalha Chiquinha Gonzaga",
+      "link": "https://www.poder360.com.br/poder-brasil/eduarda-campopiano-ironiza-feministas-ao-ganhar-medalha-chiquinha-gonzaga/",
+      "date": "2026-11-26T01:56:11.000Z",
+      "summary": "Prêmio foi proposto por vereadores da Câmara do Rio pela “representatividade feminina nos espaços de decisão” da deputada eleita",
       "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
     },
     {
-      "title": "CMN e BC anunciam medidas para conter o endividamento das famílias",
-      "link": "https://www.poder360.com.br/poder-economia/cmn-e-bc-anunciam-medidas-para-conter-o-endividamento-das-familias/",
-      "date": "2026-11-26T00:32:29.000Z",
-      "summary": "As novas regras estabelecem critérios mais rigorosos para a concessão de empréstimos e financiamentos",
+      "title": "Tarifas de Trump visam a “proteger produtores” dos EUA, diz secretária",
+      "link": "https://www.poder360.com.br/poder-internacional/tarifas-de-trump-visam-a-proteger-produtores-dos-eua-diz-secretaria/",
+      "date": "2026-11-26T01:46:42.000Z",
+      "summary": "Governo norte-americano propôs nesta 4ª feira (25.nov.2026) elevar as tarifas sobre o açúcar e as aeronaves brasileiras",
       "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
     },
     {
-      "title": "Entorno de Trabuco tem dificuldade em cravar ida ou negativa de banqueiro à Fazenda; leia bastidor",
-      "link": "https://www.estadao.com.br/economia/entorno-de-trabuco-tem-dificuldade-em-cravar-ida-ou-negativa-de-banqueiro-a-fazenda/",
-      "date": "2026-11-26T00:32:02.000Z",
+      "title": "Moraes mantem preso o homem que planejou atentado com bomba no aeroporto de Brasília",
+      "link": "https://www.estadao.com.br/politica/moraes-mantem-preso-o-homem-que-planejou-atentado-com-bomba-em-aeroporto-de-brasilia-nprp/",
+      "date": "2026-11-26T01:29:39.000Z",
       "summary": "",
       "source": "Estadão",
-      "cat": "economia",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Defesa de Vorcaro pede que Gilmar assuma relatoria de ação contra Fachin",
+      "link": "https://www.poder360.com.br/poder-justica/defesa-de-vorcaro-pede-que-gilmar-assuma-relatoria-de-acao-contra-fachin/",
+      "date": "2026-11-26T01:29:12.000Z",
+      "summary": "Relatoria foi sorteada ao ministro Kassio Nunes Marques; caso está sob segredo de Justiça",
+      "source": "Poder360",
+      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -186,47 +267,11 @@
       "type": "imprensa"
     },
     {
-      "title": "Dono da Ultrafarma vira réu por organização criminosa",
-      "link": "https://www.poder360.com.br/poder-justica/dono-da-ultrafarma-vira-reu-por-organizacao-criminosa/",
-      "date": "2026-11-26T00:21:09.000Z",
-      "summary": "Justiça dispensa empresário de tornozeleira, imposta a outros 4 réus; 5 acusados tiveram prisão decretada",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Presidente de associação de auditores fiscais de SP é reeleito",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/presidente-de-associacao-de-auditores-fiscais-de-sp-e-reeleito.shtml",
-      "date": "2026-11-26T00:20:00.000Z",
-      "summary": "O auditor fiscal Rodrigo Keidel Spada foi reeleito, nesta quarta-feira (25), presidente da Associação dos Auditores Fiscais da Receita Estadual de São Paulo (Afresp), para o triênio 2027?2029. Leia mais (11/25/2026 - 21h20)",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "EUA pegam o Brasil de surpresa com nova rodada de tarifas em vez de proposta para acordo",
       "link": "https://www.estadao.com.br/economia/eua-pegam-o-brasil-de-surpresa-com-nova-rodada-de-tarifas-em-vez-de-proposta-para-acordo/",
       "date": "2026-11-26T00:15:00.000Z",
       "summary": "",
       "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Flávio continuará sendo líder da oposição, diz Gaspar",
-      "link": "https://www.poder360.com.br/poder-congresso/flavio-continuara-sendo-lider-da-oposicao-diz-gaspar/",
-      "date": "2026-11-26T00:10:32.000Z",
-      "summary": "Candidato a vice do senador esteve no Hospital DF Star, mas não tem autorização de Moraes para visitar o ex-presidente",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Lula quer Trabuco na Fazenda. Para fazer o quê?",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2026/11/lula-quer-trabuco-na-fazenda-para-fazer-o-que.shtml",
-      "date": "2026-11-26T00:01:00.000Z",
-      "summary": "O presidente Luiz Inácio Lula da Silva conversou na terça (24) com Luiz Carlos Trabuco, presidente do Conselho de Administração do Bradesco, como se escreveu nesta coluna. De imediato, voltou a ser considerado candidato a ministro da Fazenda. Logo em seguida, ",
-      "source": "Folha",
       "cat": "economia",
       "type": "imprensa"
     },
@@ -249,33 +294,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Após sucesso no TikTok, DermoSec planeja entrar em grandes redes de farmácias em 2027",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/apos-sucesso-no-tiktok-dermosec-planeja-entrar-em-grandes-redes-de-farmacias-em-2027.shtml",
-      "date": "2026-11-25T23:44:00.000Z",
-      "summary": "Depois do sucesso no TikTok, a DermoSec, marca de dermocosméticos para axilas, viu seu faturamento crescer 900% entre janeiro e novembro de 2026 e agora planeja chegar às prateleiras de grandes redes de farmácias a partir do início do próximo ano. Leia mais (1",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Frustração com empresas de IA derruba ações em índices asiáticos e americanos",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/frustracao-com-empresas-de-ia-derruba-acoes-em-indices-asiaticos-e-americanos.shtml",
-      "date": "2026-11-25T23:36:00.000Z",
-      "summary": "A incerteza sobre o desempenho futuro de empresas de inteligência artificial fez o mercado perder força nesta quarta-feira (25). Ações de bolsas asiáticas e dos EUA registraram queda diante de dúvidas sobre a capacidade de sustentação dos investimentos elevado",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Reformar STF não é para hipocondríacos",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2026/11/reformar-stf-nao-e-para-hipocondriacos.shtml",
-      "date": "2026-11-25T23:21:00.000Z",
-      "summary": "A sociedade brasileira pede um STF melhor e ministros mais íntegros. A causa é das maiores urgências democráticas brasileiras. Questão de sobrevivência constitucional. Leia mais (11/25/2026 - 20h21)",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Brasil tem déficit de 110 mil cisternas e de mais de 1,3 milhão de banheiros, diz Funasa",
       "link": "https://www.camara.leg.br/noticias/1323123-brasil-tem-deficit-de-110-mil-cisternas-e-de-mais-de-13-milhao-de-banheiros-diz-funasa",
       "date": "2026-11-25T23:14:00.000Z",
@@ -294,12 +312,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Chefe da PF diz que PGR pode usar provas fora de relatórios contra ministros do STF no caso Master",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/chefe-da-pf-diz-que-pgr-pode-usar-provas-fora-de-relatorios-contra-ministros-do-stf-no-caso-master.shtml",
-      "date": "2026-11-25T23:04:00.000Z",
-      "summary": "O diretor-geral da PF, Andrei Rodrigues, disse à Folha nesta quarta-feira (25) que a PGR (Procuradoria-Geral da República) pode usar todas as provas que estiverem disponíveis sobre ministros do STF (Supremo Tribunal Federal) em investigações do caso Master. Le",
-      "source": "Folha",
-      "cat": "politica",
+      "title": "Ala do PT precisa ir ao divã para superar trauma econômico do impeachment da ex-presidente Dilma",
+      "link": "https://www.estadao.com.br/economia/alvaro-gribel/ala-do-pt-precisa-ir-ao-diva-para-superar-trauma-economico-do-impeachment-da-ex-presidente-dilma/",
+      "date": "2026-11-25T23:01:38.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -346,15 +364,6 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Sem previsão de integrar Lula 4, Haddad dará aulas em pós-graduação da USP em 2027",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/sem-previsao-de-integrar-lula-4-haddad-dara-aulas-em-pos-graduacao-da-usp-em-2027.shtml",
-      "date": "2026-11-25T22:31:00.000Z",
-      "summary": "Com a indicação de que pode ficar de fora do governo Lula 4, o ex-ministro da Fazenda Fernando Haddad (PT), candidato derrotado ao Governo de São Paulo, voltará a dar aulas na USP (Universidade de São Paulo) no próximo ano. Leia mais (11/25/2026 - 19h31)",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
     },
     {
       "title": "CCT aprova 39 concessões e renovações para emissoras de rádio",
@@ -456,6 +465,15 @@
       "type": "imprensa"
     },
     {
+      "title": "XP e Rico oferecem condições especiais em cartões e outros para Black Friday",
+      "link": "https://www.estadao.com.br/economia/xp-e-rico-oferecem-condicoes-especiais-em-cartoes-e-outros-para-black-friday/",
+      "date": "2026-11-25T21:28:08.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "O Adicional Contracíclico de Capital Principal relativo ao Brasil segue em 0%",
       "link": "https://www.bcb.gov.br/detalhenoticia/21333/nota",
       "date": "2026-11-25T21:26:53.000Z",
@@ -463,15 +481,6 @@
       "source": "Banco Central",
       "cat": "economia",
       "type": "oficial"
-    },
-    {
-      "title": "Canadense ValOre Metals fecha acordo para comprar mina de ouro em Carajás por US$ 135 milhões",
-      "link": "https://www.estadao.com.br/economia/negocios/canadense-valore-metals-fecha-acordo-para-comprar-mina-de-ouro-em-carajas-por-us-135-milhoes/",
-      "date": "2026-11-25T21:24:48.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
     },
     {
       "title": "FCC autoriza SpaceX a lançar 1 milhão de satélites para criar data centers no espaço",
@@ -670,15 +679,6 @@
       "source": "ONU News",
       "cat": "internacional",
       "type": "oficial"
-    },
-    {
-      "title": "Quem vai ocupar os empregos da economia verde no Brasil?",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/quem-vai-ocupar-os-empregos-da-economia-verde-no-brasil/",
-      "date": "2026-11-20T16:27:31.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
     },
     {
       "title": "BC aperfeiçoa norma sobre a participação em operações no mercado aberto",
