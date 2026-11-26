@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-26T19:44:49.393Z",
+  "updated": "2026-11-26T20:51:22.081Z",
   "market": {
     "ibov": {
-      "price": 173245.62,
-      "pct": 3.94,
-      "time": "2026-11-26T19:44:43.315Z",
+      "price": 175504.08,
+      "pct": 5.29,
+      "time": "2026-11-26T20:51:14.558Z",
       "history": [
         {
           "d": "2026-10-27",
@@ -88,7 +88,7 @@
         },
         {
           "d": "2026-11-26",
-          "c": 173276.8281
+          "c": 175504.0781
         }
       ]
     },
@@ -145,6 +145,132 @@
   },
   "news": [
     {
+      "title": "Comissão aprova parecer preliminar do Orçamento de 2027",
+      "link": "https://www.poder360.com.br/poder-congresso/comissao-aprova-parecer-preliminar-do-orcamento-de-2027/",
+      "date": "2026-11-26T20:48:21.000Z",
+      "summary": "Texto estima superavit primário de R$ 18,6 bilhões e aponta necessidade de até R$ 24,9 bilhões a mais para o Bolsa Família",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Trabuco vai ao Palácio da Alvorada para se reunir com Lula",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/trabuco-vai-ao-palacio-da-alvorada-para-se-reunir-com-lula.shtml",
+      "date": "2026-11-26T20:39:00.000Z",
+      "summary": "O presidente do Conselho de Administração do Bradesco, Luiz Trabuco, pousou em Brasília e foi ao Palácio da Alvorada para uma reunião com o presidente Luiz Inácio Lula da Silva (PT) nesta quinta-feira (26). A expectativa é que ele responda a Lula se aceita ou ",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Bolsonaro está mais animado e voltou a se alimentar, diz Michelle",
+      "link": "https://www.poder360.com.br/poder-gente/bolsonaro-esta-mais-animado-e-voltou-a-se-alimentar-diz-michelle/",
+      "date": "2026-11-26T20:37:20.000Z",
+      "summary": "Ex-presidente fez fisioterapia e deixou o quarto para permanecer no corredor do Hospital DF Star, em Brasília",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Luiz Trabuco chega a Brasília para se reunir com Lula; executivo do Bradesco é cotado para assumir Ministério da Fazenda",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/26/luiz-trabuco-chega-a-brasilia-para-se-reunir-com-lula-executivo-do-bradesco-e-cotado-para-assumir-ministerio-da-fazenda.ghtml",
+      "date": "2026-11-26T20:30:47.000Z",
+      "summary": "Luiz Trabuco chega a Brasília para se reunir com Lula; executivo do Bradesco é cotado para assumir Ministério da Fazenda O presidente do Conselho de Administração do Bradesco, Luiz Carlos Trabuco, um dos nomes cotados para assumir o Ministério da Fazenda no pr",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Alta do preço da soja irriga o campo com mais receitas na reta final do ano",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/vaivem/2026/11/alta-do-preco-da-soja-irriga-o-campo-com-mais-receitas-na-reta-final-do-ano.shtml",
+      "date": "2026-11-26T20:30:00.000Z",
+      "summary": "O ano não começou bem para a soja, pelo menos em preços. Mas, após um plantio difícil em 2025, a colheita nos primeiros meses de 2026 já apontava para um bom rendimento da oleaginosa. O resultado foi uma safra recorde de 180 milhões de toneladas nos números da",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Trabuco acalma o mercado: dólar cai 1,25% e Bolsa dispara",
+      "link": "https://www.poder360.com.br/poder-economia/trabuco-acalma-o-mercado-dolar-cai-125-e-bolsa-dispara/",
+      "date": "2026-11-26T20:22:25.000Z",
+      "summary": "Possível indicação do presidente do Conselho do Bradesco para a Fazenda melhora expectativas sobre ajuste fiscal",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Governo Lula propõe diversificar exportações de aviões a Embraer",
+      "link": "https://www.poder360.com.br/poder-governo/governo-lula-propoe-diversificar-exportacoes-de-avioes-a-embraer/",
+      "date": "2026-11-26T20:19:16.000Z",
+      "summary": "Chanceler Mauro Vieira se reuniu com presidente da empresa após anúncio de novas tarifas dos EUA",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Inadimplência cresce entre os fornecedores e acende um alerta antes da reforma tributária",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/inadimplencia-cresce-entre-os-fornecedores-e-acende-um-alerta-antes-da-reforma-tributaria.shtml",
+      "date": "2026-11-26T20:18:00.000Z",
+      "summary": "O Índice de Saúde Fiscal de Fornecedores B2B, que mede a inadimplência de empresas fornecedoras, teve sua primeira alta da série histórica, desde março de 2025, interrompendo uma sequência de cinco trimestres seguidos de queda. O indicador saltou de 9,02% para",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Cotado para a Fazenda, Trabuco chega a Brasília para encontro com Lula no Alvorada",
+      "link": "https://www.estadao.com.br/economia/cotado-para-a-fazenda-trabuco-e-esperado-para-encontro-com-lula-em-brasilia-nesta-quinta/",
+      "date": "2026-11-26T20:17:03.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Custo de vida e migração dominam campanha eleitoral na Espanha",
+      "link": "https://www.dw.com/pt-br/custo-de-vida-e-migração-dominam-campanha-eleitoral-na-espanha/a-80052698?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-26T20:17:00.000Z",
+      "summary": "Descontentamento com o custo de vida, em especial da moradia, contrasta com bons resultados da economia espanhola e deve ser fator decisivo na eleição antecipada convocada pelo premiê Pedro Sánchez.",
+      "source": "DW Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Espanhol Pablo Hernández de Cos é escolhido para comandar o Banco Central Europeu",
+      "link": "https://www.estadao.com.br/economia/espanhol-pablo-hernandez-de-cos-escolhido-comandar-banco-central-europeu-npr/",
+      "date": "2026-11-26T20:11:29.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Comissão aprova projeto que destina à PF e ao Exército recursos arrecadados com taxas e multas",
+      "link": "https://www.camara.leg.br/noticias/1323397-comissao-aprova-projeto-que-destina-a-pf-e-ao-exercito-recursos-arrecadados-com-taxas-e-multas",
+      "date": "2026-11-26T20:03:00.000Z",
+      "summary": "Projeto ainda será analisado pela Comissão de Constituição e Justiça da Câmara",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Em encontro com Lula, Cleitinho pede acordo sobre dívida de MG e convida presidente para a posse",
+      "link": "https://www.estadao.com.br/politica/em-encontro-com-lula-cleitinho-fala-sobre-divida-de-mg-e-convida-presidente-para-sua-posse-nprp/",
+      "date": "2026-11-26T19:57:54.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Fed mantém postura dura e deve aumentar juros apesar de queda das ações",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/fed-mantem-postura-dura-e-deve-aumentar-juros-apesar-de-queda-das-acoes.shtml",
+      "date": "2026-11-26T19:55:00.000Z",
+      "summary": "Um Fed (Federal Reserve) de postura mais dura em relação à inflação deve avançar no próximo mês com outro aumento dos juros, frustrando as expectativas de investidores abalados por semanas de turbulência nos mercados de ações. Leia mais (11/26/2026 - 16h55)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "Comissão Mista aprova relatório preliminar do Orçamento de 2027",
       "link": "https://www.camara.leg.br/noticias/1323430-comissao-mista-aprova-relatorio-preliminar-do-orcamento-de-2027",
       "date": "2026-11-26T19:44:00.000Z",
@@ -154,12 +280,12 @@
       "type": "oficial"
     },
     {
-      "title": "Lula sinaliza apoio à gestão de Cleitinho em Minas Gerais",
-      "link": "https://www.poder360.com.br/poder-governo/lula-sinaliza-apoio-a-gestao-de-cleitinho-em-minas-gerais/",
-      "date": "2026-11-26T19:41:00.000Z",
-      "summary": "Presidente recebeu governador eleito no Alvorada e disse que renegociação da dívida estadual deverá respeitar regras do Propag",
-      "source": "Poder360",
-      "cat": "politica",
+      "title": "Líder do PT na Câmara diz que Trabuco na Fazenda ‘não é a melhor opção’ e rechaça ‘ajuste fiscal 2′",
+      "link": "https://www.estadao.com.br/economia/lider-do-pt-na-camara-diz-que-trabuco-na-fazenda-nao-e-a-melhor-opcao-e-rechaca-ajuste-fiscal-2/",
+      "date": "2026-11-26T19:42:11.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -172,24 +298,6 @@
       "type": "oficial"
     },
     {
-      "title": "Black Friday concentra os maiores descontos à tarde; veja melhores horários",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/black-friday-concentra-os-maiores-descontos-a-tarde-veja-melhores-horarios.shtml",
-      "date": "2026-11-26T19:37:00.000Z",
-      "summary": "Quem pretende aproveitar as promoções da Black Friday deste ano deve considerar mais de um horário para fazer compras. A virada de quinta-feira (26) para sexta (27) concentra o maior volume de ofertas, mas os maiores descontos médios aparecem entre 14h e 18h d",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Ala do governo Lula vê negociação com Trump no limite e avalia reação",
-      "link": "https://www.poder360.com.br/poder-governo/ala-do-governo-lula-ve-negociacao-com-trump-no-limite-e-avalia-reacao/",
-      "date": "2026-11-26T19:32:17.000Z",
-      "summary": "Novas tarifas e falta de avanços em grupo bilateral levam Planalto a discutir outra estratégia",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Comissão aprova projeto que cria programa de aprendizagem profissional voltado a jovens indígenas",
       "link": "https://www.camara.leg.br/noticias/1323293-comissao-aprova-projeto-que-cria-programa-de-aprendizagem-profissional-voltado-a-jovens-indigenas",
       "date": "2026-11-26T19:29:00.000Z",
@@ -199,11 +307,11 @@
       "type": "oficial"
     },
     {
-      "title": "PT rejeita “ajuste fiscal 2”, mas defende corte em privilégios",
-      "link": "https://www.poder360.com.br/poder-congresso/pt-rejeita-ajuste-fiscal-2-mas-defende-corte-em-privilegios/",
-      "date": "2026-11-26T19:21:43.000Z",
-      "summary": "Bancada petista diz que não há pacote de austeridade e defende mudanças em previdência de militares e supersalários",
-      "source": "Poder360",
+      "title": "Bastidores: ‘Empoderado’, Lula prepara xeque-mate em Alcolumbre com indicação de mulher para o STF",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/bastidores-empoderado-lula-prepara-xeque-mate-em-alcolumbre-com-indicacao-de-mulher-para-o-stf/",
+      "date": "2026-11-26T19:25:03.000Z",
+      "summary": "",
+      "source": "Estadão",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -232,24 +340,6 @@
       "summary": "O governo brasileiro está em fase de consultas ao setor privado afetado pelas últimas tarifas propostas pelos Estados Unidos contra itens brasileiros. Na última quarta-feira (25), o país anunciou novas taxas sobre o açúcar e uma alíquota de 10% sobre aeronaves",
       "source": "Folha",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Alemanha e Áustria querem TikTok sob controle de europeus",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/tec/2026/11/alemanha-e-austria-querem-tiktok-sob-controle-de-europeus.shtml",
-      "date": "2026-11-26T19:15:00.000Z",
-      "summary": "Alemanha e Áustria defenderam nesta quinta-feira (26) que as operações europeias do TikTok passem a ser propriedade e ficar sob controle de empresas do continente. Segundo os dois países, apenas a regulamentação não é suficiente para resolver preocupações rela",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Governo descarta nova ligação de Lula a Trump sobre tarifas e aguarda setor privado",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/governo-descarta-nova-ligacao-de-lula-a-trump-sobre-tarifas-e-aguarda-setor-privado.shtml",
-      "date": "2026-11-26T19:15:00.000Z",
-      "summary": "O governo brasileiro está em fase de consultas ao setor privado afetado pelas últimas tarifas propostas pelos Estados Unidos contra itens brasileiros. Na última quarta-feira (25), o país anunciou novas taxas sobre o açúcar e uma alíquota de 10% sobre aeronaves",
-      "source": "Folha",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -289,30 +379,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Governo deve publicar na 6ª feira renovação do auxílio ao diesel",
-      "link": "https://www.poder360.com.br/poder-economia/governo-deve-publicar-na-6a-feira-renovacao-do-auxilio-ao-diesel/",
-      "date": "2026-11-26T19:04:22.000Z",
-      "summary": "Portaria prorrogará a subvenção por mais 30 dias; medida foi instituída para conter a alta dos preços do diesel no Brasil depois do início da guerra no Irã",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "André do Prado pressiona bancada do PL a apoiar novato para presidir a Alesp",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/andre-do-prado-pressiona-bancada-do-pl-a-apoiar-novato-para-presidir-a-alesp.shtml",
       "date": "2026-11-26T19:00:00.000Z",
       "summary": "Deputados do PL na Assembleia Legislativa de São Paulo (Alesp) afirmam estar sendo pressionados pelo presidente da Casa, André do Prado (PL), eleito senador em outubro, a apoiar o novato Rogério Franco (PL) para ocupar a presidência a partir de 2027. Leia mais",
       "source": "Folha",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Safra de trigo do Paraná será a menor em 20 anos; soja também sofre com chuva excessiva",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/agro/2026/11/safra-de-trigo-do-parana-sera-a-menor-em-20-anos-soja-tambem-sofre-com-chuva-excessiva.shtml",
-      "date": "2026-11-26T19:00:00.000Z",
-      "summary": "A safra de trigo do Paraná deverá recuar 39% em 2026 na comparação com a temporada passada, para o menor nível em 20 anos, devido a chuvas excessivas e à redução na área plantada, de acordo com dados do Deral (Departamento de Economia Rural) atualizados nesta ",
-      "source": "Folha",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -343,29 +415,11 @@
       "type": "imprensa"
     },
     {
-      "title": "Renovação por 30 dias da subvenção de R$ 2,12 por litro de diesel deve ser publicada nesta sexta, diz Fazenda",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/26/fazenda-diz-que-renovacao-por-mais-30-dias-da-subvencao-de-r-212-por-litro-de-diesel-sera-publicada-nesta-sexta.ghtml",
-      "date": "2026-11-26T18:37:06.000Z",
-      "summary": "O Ministério da Fazenda informou nesta quinta-feira (26) que a renovação por mais 30 dias da subvenção econômica de R$ 2,12 por litro do óleo diesel deve ser publicada nesta sexta-feira (27) no \"Diário Oficial da União\". A prorrogação mantém em vigor o mecanis",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Lula monta o difícil xadrez do ministério, com pressões de todos os lados; veja vídeo",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/lula-monta-o-dificil-xadrez-do-ministerio-com-pressoes-de-todos-os-lados-veja-video.shtml",
       "date": "2026-11-26T18:37:00.000Z",
       "summary": "Ganhar a eleição é difícil, montar um ministério é bem pior. Essa brincadeira foi feita por um aliado próximo de Lula, e não está muito longe da realidade. Leia mais (11/26/2026 - 15h37)",
       "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "PF realiza operação contra fraude de R$ 494 mil em benefícios assistenciais",
-      "link": "https://www.estadao.com.br/politica/pf-realiza-operacao-contra-fraude-em-beneficios-assistenciais-no-amazonas-nprp/",
-      "date": "2026-11-26T18:29:05.000Z",
-      "summary": "",
-      "source": "Estadão",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -379,24 +433,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Davi recebe prefeitos e propõe debate sobre financiamento dos municípios",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/26/davi-recebe-prefeitos-e-propoe-debate-sobre-financiamento-dos-municipios",
-      "date": "2026-11-26T18:25:18.000Z",
-      "summary": "O financiamento dos serviços públicos municipais, os impactos da mudança na jornada de trabalho e a distribuição de recursos entre União, estados e municípios estiveram entre os temas discutidos nesta quinta-feira (26) pelo presidente do Senado, Davi Alcolumbr",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Comissão aprova projeto que prevê gratuidade no transporte para responsáveis levarem crianças à escola pública",
-      "link": "https://www.camara.leg.br/noticias/1323237-comissao-aprova-projeto-que-preve-gratuidade-no-transporte-para-responsaveis-levarem-criancas-a-escola-publica",
-      "date": "2026-11-26T18:21:00.000Z",
-      "summary": "Proposta segue em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
       "title": "Michelle comenta dieta de Bolsonaro: ‘Ele só podia ajudar um pouquinho, mastigando bem os alimentos’",
       "link": "https://www.estadao.com.br/politica/michelle-comenta-dieta-de-bolsonaro-podia-ajudar-um-pouquinho-mastigando-bem-os-alimentos-nprp/",
       "date": "2026-11-26T18:20:55.000Z",
@@ -406,57 +442,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Os efeitos de uma Justiça sob a IA e uma solução ao alcance do CNJ",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/os-efeitos-de-uma-justica-sob-a-ia-e-uma-solucao-ao-alcance-do-cnj/",
-      "date": "2026-11-26T18:16:40.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Emissários de Lula procuram amigos de Trabuco para convencê-lo a aceitar Ministério da Fazenda",
-      "link": "https://www.estadao.com.br/economia/emissarios-de-lula-procuram-amigos-de-trabuco-para-convence-lo-a-aceitar-ministerio-da-fazenda/",
-      "date": "2026-11-26T18:13:38.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Senado aprova projeto que proíbe fiança em caso de morte no trânsito causada por embriaguez ao volante",
       "link": "https://g1.globo.com/politica/noticia/2026/11/26/senado-aprova-projeto-que-proibe-fianca-em-caso-de-morte-no-transito-causada-por-embriaguez-ao-volante.ghtml",
       "date": "2026-11-26T18:12:48.000Z",
       "summary": "A Comissão de Constituição e Justiça (CCJ) do Senado aprovou um projeto que acaba com a possibilidade de fiança nos casos de homicídio culposo em acidentes de trânsito provocados por embriaguez ao volante. 🔎Um crime afiançável é aquele em que a lei admite a l",
       "source": "g1",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Amazon, que investiu R$ 75 bi no Brasil, vê o País com potencial ‘quase ilimitado’, diz CEO",
-      "link": "https://www.estadao.com.br/economia/negocios/amazon-que-investiu-r-75-bi-no-brasil-ve-o-pais-com-potencial-quase-ilimitado-diz-ceo/",
-      "date": "2026-11-26T17:34:11.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Número de pedidos para primeira CNH cresce 193% em 2026, segundo Ministério dos Transportes",
-      "link": "https://g1.globo.com/carros/noticia/2026/11/26/numero-de-pedidos-para-primeira-cnh-cresce-193percent-em-2026-segundo-ministerio-dos-transportes.ghtml",
-      "date": "2026-11-26T16:56:27.000Z",
-      "summary": "Autoescola, instrutor autônomo, motorista, CNH, Carteira Nacional de Habilitação, dirigir, Detran, Detran-SP Reprodução/EPTV Até novembro deste ano, foram abertos 8,59 milhões de processos para obtenção da primeira Carteira Nacional de Habilitação (CNH) no paí",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Embraer diz que foi pega de surpresa com possibilidade de tarifas dos EUA e ‘conta com bom-senso’",
-      "link": "https://www.estadao.com.br/economia/negocios/embraer-surpresa-possibilidade-tarifas-eua-bom-senso/",
-      "date": "2026-11-26T16:12:50.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -541,15 +532,6 @@
       "type": "oficial"
     },
     {
-      "title": "'Meio milhão de mortos': vazamento de dados revela números impressionantes de soldados russos que perderam a vida na guerra na Ucrânia",
-      "link": "https://www.bbc.com/portuguese/articles/ckdd1zq7r56no?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-25T19:43:08.000Z",
-      "summary": "Dados vazados da agência de estatísticas russa revelam como que invasão da Ucrânia impactou nos padrões de mortalidade do país; em 2025, maioria das vítimas tinha menos de 24 anos",
-      "source": "BBC News Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
       "title": "Bomba da 2ª Guerra força evacuação de 700 pessoas no sul da Alemanha",
       "link": "https://www.dw.com/pt-br/bomba-da-2ª-guerra-força-evacuação-de-700-pessoas-no-sul-da-alemanha/a-80053249?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-25T18:34:00.000Z",
@@ -572,15 +554,6 @@
       "link": "https://www.dw.com/pt-br/eua-anunciam-novas-tarifas-miram-embraer-e-ampliam-pressão-comercial-sobre-brasil-e-china/a-80053122?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-25T17:11:00.000Z",
       "summary": "Governo dos EUA propõe tarifa de 10% sobre aeronaves brasileiras e ameaça elevar taxas sobre açúcar. Administração Trumo acusa Brasil de práticas comerciais \"desleais\" e também mira outros países.",
-      "source": "DW Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Como o PCC e o Comando Vermelho se espalharam pelo Brasil",
-      "link": "https://www.dw.com/pt-br/como-o-pcc-e-o-comando-vermelho-se-espalharam-pelo-brasil/a-80045430?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-25T12:59:00.000Z",
-      "summary": "Nascidas nas prisões de São Paulo e do Rio de Janeiro, as duas maiores facções do país ampliaram sua atuação e hoje influenciam mercados ilegais em praticamente todas as regiões brasileiras e em rotas internacionais.",
       "source": "DW Brasil",
       "cat": "internacional",
       "type": "imprensa"
@@ -635,6 +608,15 @@
       "link": "https://www.bbc.com/portuguese/articles/cqdj1d3yd4pzo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-24T11:28:48.000Z",
       "summary": "Governo federal abriu documentos da gestão anterior e reviu decisões de sigilo, mas continua negando informações com base na proteção de dados pessoais e da segurança presidencial, incluindo gastos do cartão corporativo.",
+      "source": "BBC News Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "A tempestade perfeita (dentro e fora do Brasil) que faz preço do dólar chegar a R$ 6",
+      "link": "https://www.bbc.com/portuguese/articles/cwm253lr95zjo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-24T09:20:45.000Z",
+      "summary": "Valor disparou com combinação de força da moeda americana no exterior e pressão sobre ajuste fiscal no Brasil, levando à desvalorização do real acentuada entre as principais moedas emergentes.",
       "source": "BBC News Brasil",
       "cat": "internacional",
       "type": "imprensa"
