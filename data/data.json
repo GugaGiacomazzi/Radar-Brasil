@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-26T17:26:01.505Z",
+  "updated": "2026-11-26T18:29:33.454Z",
   "market": {
     "ibov": {
-      "price": 172764.88,
-      "pct": 3.65,
-      "time": "2026-11-26T17:25:56.142Z",
+      "price": 172677.98,
+      "pct": 3.6,
+      "time": "2026-11-26T18:29:27.656Z",
       "history": [
         {
           "d": "2026-10-27",
@@ -88,7 +88,7 @@
         },
         {
           "d": "2026-11-26",
-          "c": 172764.875
+          "c": 172863.9531
         }
       ]
     },
@@ -145,40 +145,175 @@
   },
   "news": [
     {
-      "title": "Dubai fecha acordo para criar gigante de US$ 159 bilhões em banco islâmico",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/dubai-fecha-acordo-para-criar-gigante-de-us-159-bilhoes-em-banco-islamico.shtml",
-      "date": "2026-11-26T17:17:00.000Z",
-      "summary": "O DIB (Dubai Islamic Bank) anunciou a compra do Emirates Islamic Bank em uma operação totalmente realizada com ações, que dará origem a um dos maiores grupos de bancos islâmicos de capital aberto do mundo, com ativos combinados de cerca de US$ 159 bilhões (R$ ",
+      "title": "Acesso a crédito é desafio para empreendedores na Black Friday",
+      "link": "https://www.poder360.com.br/poder-economia/acesso-a-credito-e-desafio-para-empreendedores-na-black-friday/",
+      "date": "2026-11-26T18:27:48.000Z",
+      "summary": "26% vão recorrer a empréstimos ou linhas de crédito para reforçar o estoque durante a data, diz pesquisa do Mercado Pago",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "'Dracarys': por que as explosões do Ibama são contestadas na Justiça - depois de terem virado até meme",
+      "link": "https://www.bbc.com/portuguese/articles/c34gn28r7j4ro?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-26T18:26:09.000Z",
+      "summary": "Instituto afirma que a destruição é uma medida excepcional, prevista na legislação e adotada quando não há como retirar os equipamentos do local. Senador e Defensoria Pública no Amazonas contestam ações.",
+      "source": "BBC News Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Davi recebe prefeitos e propõe debate sobre financiamento dos municípios",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/26/davi-recebe-prefeitos-e-propoe-debate-sobre-financiamento-dos-municipios",
+      "date": "2026-11-26T18:25:18.000Z",
+      "summary": "O financiamento dos serviços públicos municipais, os impactos da mudança na jornada de trabalho e a distribuição de recursos entre União, estados e municípios estiveram entre os temas discutidos nesta quinta-feira (26) pelo presidente do Senado, Davi Alcolumbr",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Pablo Hernández de Cos vence disputa pela presidência do Banco Central Europeu",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/pablo-hernandez-de-cos-vence-disputa-pela-presidencia-do-banco-central-europeu.shtml",
+      "date": "2026-11-26T18:22:00.000Z",
+      "summary": "Pablo Hernández de Cos deve ser o próximo presidente do BCE (Banco Central Europeu), após os países da zona do euro apoiarem por unanimidade sua indicação para suceder Christine Lagarde em fevereiro. Leia mais (11/26/2026 - 15h22)",
       "source": "Folha",
       "cat": "economia",
       "type": "imprensa"
     },
     {
-      "title": "Alíquota da CBS na reforma tributária cairia pela metade com novo cálculo e sem exceções",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/aliquota-da-cbs-na-reforma-tributaria-cairia-pela-metade-com-novo-calculo-e-sem-excecoes.shtml",
-      "date": "2026-11-26T17:14:00.000Z",
-      "summary": "Relatório da IFI (Instituição Fiscal Independente) mostra que a nova contribuição criada pela reforma tributária poderia ser reduzida para 7% sem as exceções previstas na legislação, e cairia pela metade se fosse incorporada também a revisão de três parâmetros",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "White Martins expande fábrica de gases de olho no crescimento industrial do Nordeste",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/white-martins-expande-fabrica-de-gases-de-olho-no-crescimento-industrial-do-nordeste.shtml",
-      "date": "2026-11-26T17:13:00.000Z",
-      "summary": "A White Martins inaugurou nesta quinta (26) um projeto de expansão da sua fábrica de gases industriais em Cabo de Santo Agostinho (PE), na região metropolitana do Recife. Leia mais (11/26/2026 - 14h13)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Projeto prevê ônibus gratuito para responsável que leva criança à escola pública",
-      "link": "https://www.camara.leg.br/noticias/1323225-projeto-preve-onibus-gratuito-para-responsavel-que-leva-crianca-a-escola-publica",
-      "date": "2026-11-26T17:10:00.000Z",
-      "summary": "Conforme a proposta, o benefício vale para levar e buscar a criança na educação infantil ou no ensino fundamental da rede pública",
+      "title": "Comissão aprova projeto que prevê gratuidade no transporte para responsáveis levarem crianças à escola pública",
+      "link": "https://www.camara.leg.br/noticias/1323237-comissao-aprova-projeto-que-preve-gratuidade-no-transporte-para-responsaveis-levarem-criancas-a-escola-publica",
+      "date": "2026-11-26T18:21:00.000Z",
+      "summary": "Proposta segue em análise na Câmara dos Deputados",
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
+    },
+    {
+      "title": "Relator da CBS no Senado prevê revisão trimestral para analisar efeito da queda da sonegação",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/relator-da-cbs-no-senado-preve-revisao-trimestral-para-analisar-efeito-da-queda-da-sonegacao.shtml",
+      "date": "2026-11-26T18:19:00.000Z",
+      "summary": "O senador Eduardo Braga (MDB-AM), relator do projeto de resolução da CBS (Contribuição sobre Bens e Serviços), disse nesta quinta-feira (26) que deverá prever uma reavaliação trimestral da alíquota que substitui PIS, Cofins e IOF sobre seguros a partir de jane",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Planejamento sucessório com patrimônio no exterior",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/planejamento-sucessorio-com-patrimonio-no-exterior/",
+      "date": "2026-11-26T18:15:59.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Macron diz que carne brasileira é “dopada”; associações respondem",
+      "link": "https://www.poder360.com.br/poder-internacional/macron-diz-que-carne-brasileira-e-dopada-associacoes-respondem/",
+      "date": "2026-11-26T18:15:04.000Z",
+      "summary": "Presidente francês comemorou suspensão das importações do Mercosul pela UE e questionou qualidade do produto",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Senado apresenta sistema para ações de acessibilidade, equidade e sustentabilidade",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/26/senado-apresenta-sistema-para-acoes-de-acessibilidade-equidade-e-sustentabilidade",
+      "date": "2026-11-26T18:14:16.000Z",
+      "summary": "O Poder Legislativo vem adotando medidas para garantir a acessibilidade, a equidade de gênero e raça, além de reduzir os impactos ambientais de suas atividades. Tais ações — que convergem com os Objetivos de Desenvolvimento Sustentável da ONU — foram apresenta",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Emissários de Lula procuram amigos de Trabuco para convencê-lo a aceitar Ministério da Fazenda",
+      "link": "https://www.estadao.com.br/economia/emissarios-de-lula-procuram-amigos-de-trabuco-para-convence-lo-a-aceitar-ministerio-da-fazenda/",
+      "date": "2026-11-26T18:13:38.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Senado aprova projeto que proíbe fiança em caso de morte no trânsito causada por embriaguez ao volante",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/26/senado-aprova-projeto-que-proibe-fianca-em-caso-de-morte-no-transito-causada-por-embriaguez-ao-volante.ghtml",
+      "date": "2026-11-26T18:12:48.000Z",
+      "summary": "A Comissão de Constituição e Justiça (CCJ) do Senado aprovou um projeto que acaba com a possibilidade de fiança nos casos de homicídio culposo em acidentes de trânsito provocados por embriaguez ao volante. 🔎Um crime afiançável é aquele em que a lei admite a l",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Ministra cobra TSE e diz que colegas que defendem mais mulheres em tribunais falam 'da boca para fora'",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/ministra-cobra-tse-e-diz-que-colegas-que-defendem-mais-mulheres-em-tribunais-falam-da-boca-para-fora.shtml",
+      "date": "2026-11-26T18:02:00.000Z",
+      "summary": "A ministra Estela Aranha, do TSE (Tribunal Superior Eleitoral), criticou nesta quinta-feira (26) a conduta de ministros homens que dizem querer que os tribunais superiores sejam ocupados por mais mulheres, mas que, segundo ela, falam da \"boca para fora\". Leia ",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Cleitinho encontra Lula, convida presidente para posse e pede renegociação da dívida de Minas Gerais",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/11/cleitinho-encontra-lula-convida-presidente-para-posse-e-pede-renegociacao-da-divida-de-minas-gerais.shtml",
+      "date": "2026-11-26T18:00:00.000Z",
+      "summary": "O governador eleito de Minas Gerais, Cleitinho Azevedo (Republicanos), pediu uma renegociação da dívida do estado e convidou o presidente Lula (PT) para sua posse em uma reunião com o petista nesta quinta-feira (26). Cleitinho, que apoiou Flávio Bolsonaro (PL)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Mais tempo na escola não basta sem qualidade e verba, diz avaliação da CE",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/26/mais-tempo-na-escola-nao-basta-sem-qualidade-e-verba-diz-avaliacao-da-ce",
+      "date": "2026-11-26T17:46:05.000Z",
+      "summary": "A expansão do ensino integral no Brasil é relevante e necessária, mas o êxito ainda depende de ajustes de qualidade e de financiamento adequado. A conclusão é da Comissão de Educação (CE), que aprovou nesta quarta-feira (25) o relatório de avaliação do Program",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Macron diz que carne brasileira é 'dopada' e gera revolta de representantes do agro",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/agro/2026/11/macron-diz-que-carne-e-dopada-e-gera-revolta-de-representantes-do-agro.shtml",
+      "date": "2026-11-26T17:46:00.000Z",
+      "summary": "A ABPA (Associação Brasileira de Proteína Animal) e a Abiec (Associação Brasileira das Indústrias Exportadoras de Carne) criticaram uma declaração do presidente da França, Emmanuel Macron, que classificou a carne brasileira como \"dopée\" (dopada, em francês). L",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Caixa estuda compra do BRB; governo federal nega",
+      "link": "https://www.poder360.com.br/poder-economia/caixa-estuda-compra-do-brb-governo-federal-nega/",
+      "date": "2026-11-26T17:36:03.000Z",
+      "summary": "Operação é discutida com Banco Central como alternativa para recuperar o Banco de Brasília; acordo de confidencialidade impede divulgação",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Kassab nega que tenha recebido convite para ser ministro de Lula",
+      "link": "https://www.estadao.com.br/politica/kassab-nega-que-tenha-recebido-convite-para-ser-ministro-de-lula/",
+      "date": "2026-11-26T17:35:06.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Amazon, que investiu R$ 75 bi no Brasil, vê o País com potencial ‘quase ilimitado’, diz CEO",
+      "link": "https://www.estadao.com.br/economia/negocios/amazon-que-investiu-r-75-bi-no-brasil-ve-o-pais-com-potencial-quase-ilimitado-diz-ceo/",
+      "date": "2026-11-26T17:34:11.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Quênia se torna destino de componentes solares chineses e amplia exportações aos EUA",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/economia-sustentavel/2026/11/quenia-se-torna-destino-de-componentes-solares-chineses-e-amplia-exportacoes-aos-eua.shtml",
+      "date": "2026-11-26T17:33:00.000Z",
+      "summary": "O Quênia se tornou um dos principais destinos das exportações chinesas de componentes para energia solar neste ano, em uma tendência que coincide com o forte aumento dos embarques de painéis solares do país africano para o lucrativo mercado dos Estados Unidos.",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
     },
     {
       "title": "Número de pedidos para primeira CNH cresce 193% em 2026, segundo Ministério dos Transportes",
@@ -199,48 +334,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Conselho de Gestão Fiscal deve melhorar eficiência dos gastos, dizem debatedores",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/26/conselho-de-gestao-fiscal-deve-melhorar-eficiencia-dos-gastos-dizem-debatedores",
-      "date": "2026-11-26T16:53:01.000Z",
-      "summary": "O futuro Conselho de Gestão Fiscal, responsável por harmonizar as regras fiscais, terá o desafio de conduzir os gastos públicos a melhores resultados para a população em um país desigual, com diferentes capacidades de governo, avaliaram os especialistas ouvido",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Durigan diz que governo vai rever supersalários e ‘privilégios de militares’",
-      "link": "https://www.estadao.com.br/economia/durigan-governo-supersalarios-privilegios-militares/",
-      "date": "2026-11-26T16:46:07.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "PGR denuncia deputado Gustavo Gayer por desvio de cota parlamentar",
-      "link": "https://www.poder360.com.br/poder-justica/pgr-denuncia-deputado-gustavo-gayer-por-desvio-de-cota-parlamentar/",
-      "date": "2026-11-26T16:42:44.000Z",
-      "summary": "Deputado eleito ao Senado e mais 24 pessoas são acusadas de associação criminosa e peculato por esquema com empresa de fachada",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Relator da reforma tributária defende alíquota da CBS com ‘freio de arrumação’ a partir de 2027",
       "link": "https://www.estadao.com.br/economia/relator-da-reforma-tributaria-defende-aliquota-da-cbs-com-freio-de-arrumacao-a-partir-de-2027/",
       "date": "2026-11-26T16:36:28.000Z",
       "summary": "",
       "source": "Estadão",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Novas regras do BC para crédito podem atingir 20 milhões",
-      "link": "https://www.poder360.com.br/poder-economia/novas-regras-do-bc-para-credito-podem-atingir-20-milhoes/",
-      "date": "2026-11-26T16:32:05.000Z",
-      "summary": "Medidas restringem empréstimos a inadimplentes e limitam cartões usados frequentemente no rotativo; objetivo é diminuir o endividamento",
-      "source": "Poder360",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -253,21 +352,21 @@
       "type": "imprensa"
     },
     {
-      "title": "Durigan defende envio de indicações ao STF e ao BC ainda em 2026",
-      "link": "https://www.poder360.com.br/poder-governo/durigan-defende-envio-de-indicacoes-ao-stf-e-ao-bc-ainda-em-2026/",
-      "date": "2026-11-26T16:22:10.000Z",
-      "summary": "Ministro da Fazenda também cita definição de nomes para a CVM e o Cade e diz que preenchimento das vagas dará mais previsibilidade ao empresariado",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Entidades articulam mobilização popular por ministra negra no STF diante de Senado hostil a Lula",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/entidades-articulam-mobilizacao-popular-por-ministra-negra-no-stf-diante-de-senado-hostil-a-lula.shtml",
       "date": "2026-11-26T16:22:00.000Z",
       "summary": "Movimentos negros e entidades que pressionam Lula (PT) a indicar uma mulher negra ao STF (Supremo Tribunal Federal) apostam na mobilização popular para enfrentar o Senado mais hostil ao governo. As organizações reconhecem o obstáculo, mas dizem que a pressão p",
       "source": "Folha",
       "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Embraer diz que foi pega de surpresa com possibilidade de tarifas dos EUA e ‘conta com bom-senso’",
+      "link": "https://www.estadao.com.br/economia/negocios/embraer-surpresa-possibilidade-tarifas-eua-bom-senso/",
+      "date": "2026-11-26T16:12:50.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -285,15 +384,6 @@
       "date": "2026-11-26T16:00:00.000Z",
       "summary": "É Black Friday ou Black Fraude? Os celulares são a categoria com a maior diferença entre o preço no PIX e no cartão de crédito entre os 74 produtos monitorados pelo g1 na semana da Black Friday. Os 16 modelos da lista custam, em média, 7,36% menos no PIX, segu",
       "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Orçamento 2027: Comissão aprova relatório com PIB menor, corte de verbas e espera de novo ajuste",
-      "link": "https://www.estadao.com.br/economia/orcamento-2027-comissao-aprova-relatorio-com-pib-menor-corte-de-verbas-e-espera-de-novo-ajuste/",
-      "date": "2026-11-26T15:57:27.000Z",
-      "summary": "",
-      "source": "Estadão",
       "cat": "economia",
       "type": "imprensa"
     },
@@ -325,24 +415,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Cleitinho se reúne com Lula, convida petista para posse e defende 'pacificação' do país",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/26/cleitinho-se-reune-com-lula-convida-petista-para-posse-e-defende-pacificacao-do-pais.ghtml",
-      "date": "2026-11-26T15:47:56.000Z",
-      "summary": "Lula e Cleitinho se reuniram no Palácio da Alvorada nesta quinta-feira (26) Ricardo Stuckert/Presidência da República O governador eleito de Minas Gerais, Cleitinho Azevedo (Republicanos), reuniu-se nesta quinta-feira (26) com o presidente Luiz Inácio Lula da ",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Medidas do BC contra endividamento vão afetar até 20 mi de pessoas, diz diretor",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/medidas-do-bc-contra-endividamento-vao-afetar-ate-20-mi-de-pessoas-diz-diretor.shtml",
-      "date": "2026-11-26T15:39:00.000Z",
-      "summary": "As medidas anunciadas pelo Banco Central para combater o endividamento dos clientes no cartão de crédito e em operações de crédito sem garantia vão afetar até 20 milhões de pessoas, segundo o diretor de Regulação, Gilneu Vivan. Leia mais (11/26/2026 - 12h39)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Governo dá 10 dias para que Google amplie informações sobre anúncios e fixa multa de R$ 200 mil em caso de descumprimento",
       "link": "https://g1.globo.com/economia/noticia/2026/11/26/governo-da-10-dias-para-que-google-amplie-informacoes-sobre-anuncios-e-fixa-multa-diaria-de-r-200-mil-em-caso-de-descumprimento.ghtml",
       "date": "2026-11-26T15:38:39.000Z",
@@ -370,24 +442,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Tarcísio mantém no cargo secretária de Esportes para o segundo mandato",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/tarcisio-mantem-no-cargo-secretaria-de-esportes-para-o-segundo-mandato.shtml",
-      "date": "2026-11-26T15:23:00.000Z",
-      "summary": "O governador de São Paulo, Tarcísio de Freitas (Republicanos), decidiu manter no cargo a secretária estadual de Esportes, Cláudia Carletto, para seu segundo mandato. Leia mais (11/26/2026 - 12h23)",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Dos EUA, Flávio Bolsonaro lista R$ 79,3 milhões em emendas para o orçamento de 2027",
-      "link": "https://www.estadao.com.br/politica/dos-eua-flavio-bolsonaro-lista-r-793-milhoes-em-emendas-para-o-orcamento-de-2027-nprp/",
-      "date": "2026-11-26T15:16:03.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Deputados aprovam acordo de cooperação jurídica na área penal entre Brasil e Guiana",
       "link": "https://www.camara.leg.br/noticias/1323264-deputados-aprovam-acordo-de-cooperacao-juridica-na-area-penal-entre-brasil-e-guiana",
       "date": "2026-11-26T15:00:00.000Z",
@@ -402,15 +456,6 @@
       "date": "2026-11-26T15:00:00.000Z",
       "summary": "",
       "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Conib faz jantar que marca troca na sua presidência e abertura de convenção",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/conib-faz-jantar-que-marca-troca-na-sua-presidencia-e-abertura-de-convencao.shtml",
-      "date": "2026-11-26T14:58:00.000Z",
-      "summary": "A Confederação Israelita do Brasil (Conib) fará neste sábado (28) um jantar que marcará a posse do novo presidente da entidade, Luiz Kignel. Leia mais (11/26/2026 - 11h58)",
-      "source": "Folha",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -493,15 +538,6 @@
       "summary": "Lula acabou se tornando personagem das eleições na Espanha em 29 de novembro, onde os favoritos são o atual premiê, Pedro Sánchez, do Partido Socialista Operário Espanhol, de esquerda, e Alberto Núñez Feijóo, do Partido Popular, de direita.",
       "source": "BBC News Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Como os dados do Claro geodata ajudam a planejar cidades mais inteligentes",
-      "link": "https://www.estadao.com.br/economia/negocios/como-os-dados-do-claro-geodata-ajudam-a-planejar-cidades-mais-inteligentes/",
-      "date": "2026-11-26T10:01:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -604,15 +640,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Moraes rejeita pedido para abater da pena de Zambelli o tempo de prisão na Itália e provisória",
-      "link": "https://www.estadao.com.br/politica/moraes-rejeita-pedido-para-abater-da-pena-de-zambelli-o-tempo-de-prisao-preventiva-e-na-italia-nprp/",
-      "date": "2026-11-24T22:59:15.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Líder da ONU pede mais ação para impedir futuro com robôs assassinos",
       "link": "https://news.un.org/feed/view/pt/story/2026/11/1854996",
       "date": "2026-11-24T12:00:00.000Z",
@@ -635,15 +662,6 @@
       "link": "https://www.bbc.com/portuguese/articles/cqdj1d3yd4pzo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-24T11:28:48.000Z",
       "summary": "Governo federal abriu documentos da gestão anterior e reviu decisões de sigilo, mas continua negando informações com base na proteção de dados pessoais e da segurança presidencial, incluindo gastos do cartão corporativo.",
-      "source": "BBC News Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Câmara aprova ajuste fiscal de Lula: por que pacote é tão polêmico e não deve ser suficiente, segundo economistas",
-      "link": "https://www.bbc.com/portuguese/articles/cqx2we1jgnzgo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-24T02:50:44.000Z",
-      "summary": "Estima-se que o projeto tenha impacto de até R$ 56 bilhões. Mas o 'Plano Moretti' vem sendo recebido com pessimismo no mercado financeiro e críticas por alguns dos aliados do PT.",
       "source": "BBC News Brasil",
       "cat": "internacional",
       "type": "imprensa"
