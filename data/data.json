@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-26T03:38:35.100Z",
+  "updated": "2026-11-26T04:47:45.259Z",
   "market": {
     "ibov": {
       "price": 166684.61,
       "pct": 1.58,
-      "time": "2026-11-26T03:38:29.258Z",
+      "time": "2026-11-26T04:47:38.415Z",
       "history": [
         {
           "d": "2026-10-27",
@@ -141,6 +141,15 @@
   },
   "news": [
     {
+      "title": "Marinho reúne Tereza e senadores do PP em festa de aniversário",
+      "link": "https://www.poder360.com.br/poder-congresso/marinho-reune-tereza-e-senadores-do-pp-em-festa-de-aniversario/",
+      "date": "2026-11-26T04:03:00.000Z",
+      "summary": "Comemoração dos 63 anos do líder da Oposição teve cerca de 80 participantes em chalana de Wilder Morais, em Brasília",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "O mapa das facções e a nova dinâmica do crime no Brasil - O Assunto #1853",
       "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/11/26/o-mapa-das-faccoes-e-a-nova-dinamica-do-crime-no-brasil-o-assunto-1853.ghtml",
       "date": "2026-11-26T03:30:00.000Z",
@@ -195,19 +204,19 @@
       "type": "imprensa"
     },
     {
-      "title": "Limite do cartão de quem usa o crédito rotativo com frequência será reduzido; entenda a mudança",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/26/limite-do-cartao-de-quem-usa-o-credito-rotativo-com-frequencia-sera-reduzido-entenda-a-mudanca.ghtml",
+      "title": "Mega-Sena pode pagar R$ 75 milhões nesta quinta-feira; g1 transmite ao vivo",
+      "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/26/mega-sena-pode-pagar-r-75-milhoes-nesta-quinta-feira-g1-transmite-ao-vivo.ghtml",
       "date": "2026-11-26T03:00:00.000Z",
-      "summary": "Dívidas com cartão de crédito Reprodução/ EPTV A partir de 1º de julho de 2027, os bancos terão de reduzir gradualmente o limite de clientes que recorrerem frequentemente ao rotativo do cartão. 💳 O crédito rotativo é acionado quando o cliente não consegue qui",
+      "summary": "Como funciona a Mega-Sena? O concurso 3.091 da Mega-Sena pode pagar um prêmio de R$ 75 milhões para os apostadores que acertarem as seis dezenas. O sorteio ocorre às 21h desta quinta-feira (26), em São Paulo. 📱Favorite o g1 no Google e acompanhe as principais",
       "source": "g1",
       "cat": "economia",
       "type": "imprensa"
     },
     {
-      "title": "Mega-Sena pode pagar R$ 75 milhões nesta quinta-feira; g1 transmite ao vivo",
-      "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/26/mega-sena-pode-pagar-r-75-milhoes-nesta-quinta-feira-g1-transmite-ao-vivo.ghtml",
+      "title": "Limite do cartão de quem usa o crédito rotativo com frequência será reduzido; entenda a mudança",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/26/limite-do-cartao-de-quem-usa-o-credito-rotativo-com-frequencia-sera-reduzido-entenda-a-mudanca.ghtml",
       "date": "2026-11-26T03:00:00.000Z",
-      "summary": "Como funciona a Mega-Sena? O concurso 3.091 da Mega-Sena pode pagar um prêmio de R$ 75 milhões para os apostadores que acertarem as seis dezenas. O sorteio ocorre às 21h desta quinta-feira (26), em São Paulo. 📱Favorite o g1 no Google e acompanhe as principais",
+      "summary": "Dívidas com cartão de crédito Reprodução/ EPTV A partir de 1º de julho de 2027, os bancos terão de reduzir gradualmente o limite de clientes que recorrerem frequentemente ao rotativo do cartão. 💳 O crédito rotativo é acionado quando o cliente não consegue qui",
       "source": "g1",
       "cat": "economia",
       "type": "imprensa"
@@ -291,15 +300,6 @@
       "summary": "Os aportes em planos PGBL (Plano Gerador de Benefício Livre) tiveram crescimento médio de 226,18% em dezembro, na comparação com novembro, segundo dados da Susep (Superintendência de Seguros Privados) referentes ao período de 2020 a 2025. No ano passado, as co",
       "source": "Folha",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Campopiano ironiza feministas ao ganhar medalha Chiquinha Gonzaga",
-      "link": "https://www.poder360.com.br/poder-brasil/eduarda-campopiano-ironiza-feministas-ao-ganhar-medalha-chiquinha-gonzaga/",
-      "date": "2026-11-26T01:56:11.000Z",
-      "summary": "Prêmio foi proposto por vereadores da Câmara do Rio pela “representatividade feminina nos espaços de decisão” da deputada eleita",
-      "source": "Poder360",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
