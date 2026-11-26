@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-26T12:22:50.590Z",
+  "updated": "2026-11-26T13:57:03.161Z",
   "market": {
     "ibov": {
-      "price": 166684.61,
-      "pct": 1.58,
-      "time": "2026-11-26T12:22:45.569Z",
+      "price": 172520.72,
+      "pct": 3.5,
+      "time": "2026-11-26T13:56:56.501Z",
       "history": [
         {
           "d": "2026-10-27",
@@ -85,6 +85,10 @@
         {
           "d": "2026-11-25",
           "c": 166685
+        },
+        {
+          "d": "2026-11-26",
+          "c": 172626.4531
         }
       ]
     },
@@ -141,28 +145,208 @@
   },
   "news": [
     {
-      "title": "Ao vivo: Alckmin celebra 1º voo da Latam com avião da Embraer",
-      "link": "https://www.poder360.com.br/poder-infra/ao-vivo-alckmin-celebra-1o-voo-da-latam-com-aviao-da-embraer/",
-      "date": "2026-11-26T12:21:40.000Z",
-      "summary": "Vice-presidente vai a evento realizado na Base Aérea de Brasília",
+      "title": "Tarifa dos EUA sobre aeronaves são “descabidas”, diz Alckmin",
+      "link": "https://www.poder360.com.br/poder-governo/tarifa-dos-eua-sobre-aeronaves-sao-descabidas-diz-alckmin/",
+      "date": "2026-11-26T13:55:07.000Z",
+      "summary": "Vice-presidente criticou nova taxa avaliada pelo governo Trump e disse que Brasil trabalhará para revertê-la",
       "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
     },
     {
-      "title": "Grupo Fictor: o que faz a empresa que tentou comprar o Banco Master e é investigada por fraude bilionária",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/26/fictor-master-fraude.ghtml",
-      "date": "2026-11-26T12:05:46.000Z",
-      "summary": "Polícia Civil de SP faz operação contra o Grupo Fictor A Polícia Civil e o Ministério Público de São Paulo fazem, nesta quinta-feira (26), uma operação contra o Grupo Fictor, conglomerado empresarial que anunciou, em novembro do ano passado, a intenção de comp",
+      "title": "Mulheres protestam no Paraguai contra violência contra mulher e prejuízos provocados por crise bancária",
+      "link": "https://g1.globo.com/mundo/noticia/2026/11/26/milhares-protestam-no-paraguai-contra-violencia-contra-a-mulher-e-crise-do-ueno-bank.ghtml",
+      "date": "2026-11-26T13:48:36.000Z",
+      "summary": "Pessoas gritam palavras de ordem e seguram faixas enquanto protestam em frente ao Banco Central do Paraguai, exigindo a devolução de suas economias após a quebra do Ueno Bank, em Assunção, no dia 16 de novembro de 2026. DANIEL DUARTE / AFP Milhares de pessoas ",
       "source": "g1",
       "cat": "economia",
       "type": "imprensa"
     },
     {
-      "title": "Prévia da inflação sobe 0,22% em novembro; em 12 meses, vai a 4,64%",
-      "link": "https://www.poder360.com.br/poder-economia/previa-da-inflacao-sobe-022-em-novembro-em-12-meses-vai-a-464/",
-      "date": "2026-11-26T12:04:33.000Z",
-      "summary": "No ano (de janeiro a novembro), IPCA já acumula alta de 4,38%, segundo dados do IBGE",
+      "title": "IPCA-15 desacelera a 0,22% em novembro, com alívio nas passagens aéreas e nos combustíveis",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/ipca-15-desacelera-a-022-em-novembro-com-alivio-nas-passagens-aereas-e-nos-combustiveis.shtml",
+      "date": "2026-11-26T13:43:00.000Z",
+      "summary": "A prévia da inflação perdeu força em novembro e ficou abaixo das expectativas do mercado. O IPCA-15 (Índice Nacional de Preços ao Consumidor Amplo 15) desacelerou de 0,32% em outubro para 0,22% neste mês, puxado pelo recuo das passagens aéreas e dos combustíve",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Líder do PT defende flexibilizar meta fiscal e mudar lei do BC",
+      "link": "https://www.poder360.com.br/poder-partidos-politicos/lider-do-pt-defende-flexibilizar-meta-fiscal-e-mudar-lei-do-bc/",
+      "date": "2026-11-26T13:41:13.000Z",
+      "summary": "Pedro Uczai quer subordinar política monetária à econômica e ampliar tributação dos mais ricos; reivindica o comando de 5 ministérios para o PT no 4º mandato de Lula",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Tarifa sobre aviões é descabida e 'não existe em lugar nenhum do mundo', diz Alckmin",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/tarifa-sobre-avioes-e-descabida-e-nao-existe-em-lugar-nenhum-do-mundo-diz-alckmin.shtml",
+      "date": "2026-11-26T13:33:00.000Z",
+      "summary": "O vice-presidente Geraldo Alckmin (PSB) classificou como \"descabidas\" as ameaças de novas tarifas sobre o setor aeronáutico feitas na última quarta-feira (25) pelo governo americano. Leia mais (11/26/2026 - 10h33)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Alckmin critica tarifa de 10% dos EUA sobre aviões brasileiros e chama medida de 'completamente irrazoável'",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/26/alckimin-eua-tarias.ghtml",
+      "date": "2026-11-26T13:31:21.000Z",
+      "summary": "Geraldo Alckimin defendeu código de ética e mandato para ministros do STF em Ribeirão Preto Valdinei Malagutti/EPTV O vice-presidente brasileiro, Geraldo Alckmin, disse nesta quinta-feira (26) que as novas tarifas propostas pelos EUA são completamente irrazoáv",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "CEO da Fictor inflou capital da holding de R$ 4 milhões para quase R$ 1 bi sem aporte real, diz MP",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/ceo-da-fictor-inflou-capital-da-holding-de-r-4-milhoes-para-quase-r-1-bi-sem-aporte-real-diz-mp/",
+      "date": "2026-11-26T13:28:06.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Dólar abre em queda e Ibovespa em alta com Trabuco cotado para Fazenda",
+      "link": "https://www.poder360.com.br/poder-economia/dolar-abre-em-queda-e-ibovespa-em-alta-com-trabuco-cotado-para-fazenda/",
+      "date": "2026-11-26T13:25:42.000Z",
+      "summary": "Divulgação da prévia da inflação, novas medidas econômicas do governo e taxas dos EUA também mexeram com o mercado",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Cleitinho propõe união entre partidos em vídeo com o irmão e Pedro Rousseff",
+      "link": "https://www.estadao.com.br/politica/cleitinho-propoe-uniao-entre-partidos-em-video-com-o-irmao-e-pedro-roussef-nprp/",
+      "date": "2026-11-26T13:22:02.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Latam realiza primeiro voo oficial com avião da Embraer entre Guarulhos e Brasília",
+      "link": "https://www.estadao.com.br/economia/latam-realiza-primeiro-voo-oficial-com-aviao-da-embraer-entre-guarulhos-e-brasilia-npr/",
+      "date": "2026-11-26T13:19:32.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Fachin mantém prisão de dois hackers do grupo ‘Os Meninos’, que prestava serviços a Daniel Vorcaro",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/fachin-mantem-prisao-de-dois-hackers-do-grupo-os-meninos-que-prestava-servicos-a-daniel-vorcaro/",
+      "date": "2026-11-26T13:16:04.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Preço dos alimentos: o que ficou mais caro e o que barateou na prévia da inflação de novembro",
+      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/26/preco-dos-alimentos-o-que-ficou-mais-caro-e-o-que-barateou-na-previa-da-inflacao-de-novembro.ghtml",
+      "date": "2026-11-26T13:15:54.000Z",
+      "summary": "IPCA-15 fica em 0,22% em novembro O Índice Nacional de Preços ao Consumidor Amplo (IPCA), considerado a inflação oficial do país, subiu 0,22% na prévia de outubro. Os dados foram divulgados nesta quinta-feira (26) pelo Instituto Brasileiro de Geografia e Estat",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Trump usa tarifas para pressionar asiáticos a fecharem acordos, dizem analistas",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/trump-usa-tarifas-para-pressionar-asiaticos-a-fecharem-acordos-dizem-analistas.shtml",
+      "date": "2026-11-26T13:14:00.000Z",
+      "summary": "A nova ofensiva tarifária do presidente dos EUA, Donald Trump, busca pressionar os países asiáticos a fechar acordos comerciais com Washington para evitar alíquotas desfavoráveis, afirmaram analistas nesta quinta-feira (26). Leia mais (11/26/2026 - 10h14)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Macron diz que carne brasileira é 'dopada' e comemora veto da UE ao produto",
+      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/26/macron-diz-que-carne-brasileira-e-dopada-e-comemora-veto-da-ue-ao-produto.ghtml",
+      "date": "2026-11-26T13:06:15.000Z",
+      "summary": "Macron diz que carne brasileira é 'dopada' e comemora veto da UE ao produto nacional Reprodução O presidente da França, Emmanuel Macron, chamou a carne brasileira de \"dopada\" na quarta-feira (25), durante uma reunião com representantes do setor agrícola francê",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Em 2025, necessidade de financiamento do governo cresceu 27,1%, diz IBGE",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/necessidade-de-financiamento-do-governo-cresceu-271-em-2025-diz-ibge.shtml",
+      "date": "2026-11-26T13:05:00.000Z",
+      "summary": "A necessidade líquida de financiamento do Governo Geral chegou a R$ 936,2 bilhões em 2025, um crescimento de 27,1% em relação a 2024. O resultado ocorreu porque as despesas públicas aumentaram em ritmo superior ao das receitas. Leia mais (11/26/2026 - 10h05)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Os três Poderes desenham um pacto pela impunidade",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/dora-kramer/2026/11/os-tres-poderes-desenham-um-pacto-pela-impunidade.shtml",
+      "date": "2026-11-26T13:03:00.000Z",
+      "summary": "Os ministros Alexandre de Moraes, Dias Toffoli e Kassio Nunes Marques não se sentiram minimamente constrangidos com o pedido de André Mendonça para a abertura do sigilo do relatório da Polícia Federal sobre ele nas investigações do Banco Master. Leia mais (11/",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lula precisa negociar com aliados novas medidas fiscais antes de fazer convites para ministérios",
+      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/26/lula-precisa-negociar-com-aliados-novas-medidas-fiscais-antes-de-fazer-convites-para-ministerios.ghtml",
+      "date": "2026-11-26T13:02:18.000Z",
+      "summary": "O presidente brasileiro Luiz Inácio Lula da Silva conversa após reunião com o Conselho Nacional de Política Energética (CNPE) em Brasília, Brasil, em 6 de novembro de 2026 REUTERS/Diego Herculano Antes de enviar as novas medidas fiscais ao Congresso, interlocu",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Prévia da inflação: IPCA-15 desacelera e fecha novembro em 0,22%, abaixo do esperado",
+      "link": "https://www.estadao.com.br/economia/ibge-ipca-15-previa-inflacao-novembro-2026/",
+      "date": "2026-11-26T12:53:27.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Desafio de Lula com Trabuco é blindar Fazenda de fogo amigo do PT",
+      "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/11/26/ministerio-fazenda-lula-4.ghtml",
+      "date": "2026-11-26T12:43:44.000Z",
+      "summary": "Desafio de Lula com Trabuco é blindar Fazenda de fogo amigo do PT A possível indicação do banqueiro Luiz Carlos Trabuco para ministro da Fazenda do governo Lula 4 seria um reconhecimento do presidente de que não se pode repetir o que foi seu terceiro mandato. ",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Enquanto o governo não aprende a controlar os gastos, a conta sobra para o brasileiro",
+      "link": "https://www.estadao.com.br/economia/duquesa-de-tax/governo-controlar-gastos-conta-sobra-para-brasileiro/",
+      "date": "2026-11-26T12:31:44.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Câmara pode votar seis propostas nesta quinta-feira",
+      "link": "https://www.camara.leg.br/noticias/1323169-camara-pode-votar-seis-propostas-nesta-quinta-feira",
+      "date": "2026-11-26T12:26:00.000Z",
+      "summary": "Sessão do Plenário está marcada para as 10 horas",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Coreia do Norte freia envio de novos soldados para guerra na Ucrânia",
+      "link": "https://www.dw.com/pt-br/coreia-do-norte-freia-envio-de-novos-soldados-para-guerra-na-ucrânia/a-80041003?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-26T12:22:00.000Z",
+      "summary": "Analistas avaliam que Pyongyang está limitando envio de soldados para servir na frente ucraniana. Mas regime mantém apoio à Rússia com armas e munições, enquanto busca equilibrar suas relações com Moscou e Pequim.",
+      "source": "DW Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Ao vivo: Alckmin celebra 1º voo da Latam com avião da Embraer",
+      "link": "https://www.poder360.com.br/poder-infra/ao-vivo-alckmin-celebra-1o-voo-da-latam-com-aviao-da-embraer/",
+      "date": "2026-11-26T12:21:40.000Z",
+      "summary": "Vice-presidente vai a evento realizado na Base Aérea de Brasília",
       "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
@@ -177,74 +361,11 @@
       "type": "imprensa"
     },
     {
-      "title": "Latam faz primeiro voo com avião da Embraer entre Guarulhos e Brasília",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/latam-faz-primeiro-voo-com-aviao-da-embraer-entre-guarulhos-e-brasilia.shtml",
-      "date": "2026-11-26T12:02:00.000Z",
-      "summary": "A Latam realizou na manhã desta quinta-feira (26) o primeiro voo oficial com um avião da Embraer. O jato E195-E2 decolou do aeroporto de Guarulhos (SP) e seguiu para a Base Aérea de Brasília. Leia mais (11/26/2026 - 09h02)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "IPCA-15 sobe 0,22% em novembro, puxado por alimentos",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/26/ipca-15-previa-da-inflacao-novembro.ghtml",
-      "date": "2026-11-26T12:00:28.000Z",
-      "summary": "Preço do tomate dispara no interior de SP após excesso de chuvas Reprodução / TV TEM Setor de serviços — que engloba bares, restaurantes, hotelaria, salões de beleza e outras atividades do tipo. Fábio Tito/g1 O Índice Nacional de Preços ao Consumidor Amplo 15 ",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Dólar abre em queda e vai abaixo de R$ 5,80, com prévia da inflação e política econômica no radar",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/26/dolar-ibovespa.ghtml",
-      "date": "2026-11-26T12:00:00.000Z",
-      "summary": "Entenda o que faz o preço do dólar subir ou cair 9 O dólar abriu a sessão desta quinta-feira (26) em queda, com recuo de 0,77% perto das 9h10, cotado a R$ 5,7718. Na mínima do dia, chegou a R$ 5,7628. Já as negociações do Ibovespa, principal índice da bolsa br",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Investimento estrangeiro atinge marca US$ 1,4 trilhão em 2025, quase metade do PIB; aplicações no exterior superam reservas",
+      "title": "Investimento estrangeiro atinge marca US$ 1,4 trilhão em 2025, quase metade do PIB, diz BC",
       "link": "https://g1.globo.com/economia/noticia/2026/11/26/investimento-estrangeiro-atinge-marca-us-14-trilhao-em-2025-quase-metade-do-pib-aplicacoes-no-exterior-superam-reservas.ghtml",
       "date": "2026-11-26T11:57:30.000Z",
-      "summary": "O Banco Central informou nesta quinta-feira (26) que o investimento direto no país, ou seja, o valor acumulado dos investimentos de estrangeiros em empresas e negócios no Brasil, atingiu a marca de R$ 1,41 trilhão no fim de 2025. A posição equivale a 49,3% do ",
+      "summary": "O Banco Central informou nesta quinta-feira (26) que o investimento direto no país, ou seja, o valor acumulado dos investimentos de estrangeiros em empresas e negócios no Brasil, atingiu a marca de R$ 1,41 trilhão no fim de 2025. O montante equivale a 49,3% do",
       "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Moraes autoriza Débora do Batom a participar de evento natalino do filho",
-      "link": "https://www.estadao.com.br/politica/moraes-autoriza-debora-do-batom-a-participar-de-evento-natalino-do-filho-nprp/",
-      "date": "2026-11-26T11:49:04.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Câmara aprova projeto que prevê alertas sonoros e luminosos em tornozeleiras de agressores de mulher",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/26/camara-projeto-alerta-tornozeleira-feminicidios.ghtml",
-      "date": "2026-11-26T11:45:48.000Z",
-      "summary": "AVISO: a reportagem a seguir contém relato de violência. Em caso de violência, ligue 180. A Central de Atendimento à Mulher funciona 24 horas. O plenário da Câmara dos Deputados aprovou nesta quarta-feira (25) o Projeto de Lei 5.542/2026, que estabelece novas ",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Em busca de um 'novo Meirelles', Lula tenta atrair Trabuco",
-      "link": "https://g1.globo.com/economia/blog/ana-flor/post/2026/11/26/em-busca-de-um-novo-meirelles-lula-tenta-atrair-trabuco.ghtml",
-      "date": "2026-11-26T11:37:17.000Z",
-      "summary": "Luiz Carlos Trabuco Reprodução/ World Economic Forum/Benedikt von Loebell Em busca de um novo “Meirelles”, o presidente Luiz Inácio Lula da Silva (PT) tenta atrair Luiz Carlos Trabuco para o ministério da Fazenda, mas deve ter dificuldade em convencer o execut",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Contas externas do Brasil têm deficit de US$ 4 bilhões em outubro",
-      "link": "https://www.poder360.com.br/poder-economia/contas-externas-do-brasil-tem-deficit-de-us-4-bilhoes-em-outubro/",
-      "date": "2026-11-26T11:34:24.000Z",
-      "summary": "O Banco Central considera o saldo da balança comercial e os serviços adquiridos por brasileiros no exterior e a renda",
-      "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -258,24 +379,6 @@
       "type": "oficial"
     },
     {
-      "title": "Quem é Rafael Gois, CEO e fundador da Fictor e investigado em operação em SP",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/quem-e-rafael-gois-ceo-e-fundador-da-fictor-e-investigado-em-operacao-em-sp.shtml",
-      "date": "2026-11-26T11:33:00.000Z",
-      "summary": "Rafael Ribeiro Leite de Gois, 47, fundador e CEO da holding financeira Fictor, é investigado pela Polícia Civil e pelo Ministério Público de São Paulo em operação deflagrada nesta quinta-feira (26) sobre o grupo que controla. Leia mais (11/26/2026 - 08h33)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Nvidia orienta suspensão de envio de chips para quatro países do Sudeste Asiático",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/nvidia-orienta-suspensao-de-envio-de-chips-para-quatro-paises-do-sudeste-asiatico.shtml",
-      "date": "2026-11-26T11:32:00.000Z",
-      "summary": "A Nvidia orientou seus parceiros de fabricação a suspender o envio de servidores para quatro países do Sudeste Asiático, enquanto os EUA intensificam os controles de exportação para impedir o acesso da China ao poder computacional para inteligência artificial.",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Seminário debate papel da educação ambiental no enfrentamento de emergências climáticas; participe",
       "link": "https://www.camara.leg.br/noticias/1322747-seminario-debate-papel-da-educacao-ambiental-no-enfrentamento-de-emergencias-climaticas-participe",
       "date": "2026-11-26T11:08:00.000Z",
@@ -283,15 +386,6 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "China diz que tomará 'medidas necessárias' e Japão critica proposta de nova tarifa dos EUA",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/china-diz-que-tomara-medidas-necessarias-e-japao-critica-proposta-de-nova-tarifa-dos-eua.shtml",
-      "date": "2026-11-26T11:08:00.000Z",
-      "summary": "Os países asiáticos ameaçados de receberem uma nova tarifa dos EUA criticaram a proposta do USTR (Escritório do Representante de Comércio dos EUA), que sugeriu taxas de 10% a 20% para 13 países e a União Europeia para combater o que chamou de excesso estrutura",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
     },
     {
       "title": "Comissão debate política nacional de proteção às mães atípicas e cuidadores familiares; participe",
@@ -339,24 +433,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Rival de Infantino promete mandato único se vencer eleição da Fifa",
-      "link": "https://www.poder360.com.br/poder-sportsmkt/rival-de-infantino-promete-mandato-unico-se-vencer-eleicao-da-fifa/",
-      "date": "2026-11-26T10:16:45.000Z",
-      "summary": "Japonês Kozo Tashima defende mais transparência e admite aliança com francês Philippe Diallo",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Como os dados do Claro geodata ajudam a planejar cidades mais inteligentes",
-      "link": "https://www.estadao.com.br/economia/negocios/como-os-dados-do-claro-geodata-ajudam-a-planejar-cidades-mais-inteligentes/",
-      "date": "2026-11-26T10:01:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Livro sobre a trajetória de Quércia é lançado em Campinas",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/livro-sobre-a-trajetoria-de-quercia-e-lancado-em-campinas.shtml",
       "date": "2026-11-26T10:00:00.000Z",
@@ -375,28 +451,10 @@
       "type": "imprensa"
     },
     {
-      "title": "Qual é o efeito de um dólar num patamar mais alto para a economia brasileira?",
-      "link": "https://www.estadao.com.br/economia/efeito-dolar-alto-economia-brasileira/",
-      "date": "2026-11-26T08:30:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Ala de Valdemar admite que PL deve romper com Hugo Motta e teme 'anos de seca' na Câmara",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/ala-de-valdemar-admite-que-pl-deve-romper-com-hugo-motta-e-teme-anos-de-seca-na-camara.shtml",
       "date": "2026-11-26T03:01:00.000Z",
       "summary": "A ala do PL ligada ao presidente do partido, Valdemar Costa Neto, dá como certo o rompimento com o presidente da Câmara, Hugo Motta (Republicanos-MG). Esse grupo admite nos bastidores ter perdido o cabo de guerra contra o setor da legenda próximo a Nikolas Fer",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Sem Haddad, Camilo Santana ganha força para assumir Casa Civil de Lula",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/sem-haddad-camilo-santana-ganha-forca-para-assumir-casa-civil-de-lula.shtml",
-      "date": "2026-11-26T02:00:00.000Z",
-      "summary": "O senador Camilo Santana (PT-CE) ampliou o favoritismo para chefiar a Casa Civil, segundo aliados de Lula (PT), após o ex-ministro Fernando Haddad (PT) conversar com o presidente e apontar que não assumirá cargo no governo. Leia mais (11/25/2026 - 23h00)",
       "source": "Folha",
       "cat": "politica",
       "type": "imprensa"
@@ -411,55 +469,10 @@
       "type": "imprensa"
     },
     {
-      "title": "STF marca para 4 de dezembro o início do julgamento sobre segundo turno no Rio de Janeiro",
-      "link": "https://www.estadao.com.br/politica/stf-marca-para-4-de-dezembro-julgamento-sobre-segundo-turno-no-rio-de-janeiro-nprp/",
-      "date": "2026-11-25T23:53:33.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Brasil tem déficit de 110 mil cisternas e de mais de 1,3 milhão de banheiros, diz Funasa",
       "link": "https://www.camara.leg.br/noticias/1323123-brasil-tem-deficit-de-110-mil-cisternas-e-de-mais-de-13-milhao-de-banheiros-diz-funasa",
       "date": "2026-11-25T23:14:00.000Z",
       "summary": "Presidente do órgão disse na Comissão de Saúde da Câmara que quer reunir diferentes tecnologias para melhorar saneamento e abastecimento de água",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Participantes do conluio no topo dos Três Poderes nunca se sentiram tão à vontade",
-      "link": "https://www.estadao.com.br/politica/william-waack/participantes-do-conluio-no-topo-dos-tres-poderes-nunca-se-sentiram-tao-a-vontade/",
-      "date": "2026-11-25T23:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "ECA Ambiental: direito de crianças e adolescentes à natureza",
-      "link": "https://www12.senado.leg.br/noticias/infomaterias/2026/11/eca-ambiental-direito-de-criancas-e-adolescentes-a-natureza",
-      "date": "2026-11-25T22:56:35.000Z",
-      "summary": "",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Relatório destaca importância da educação superior católica para a Amazônia",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/25/relatorio-destaca-importancia-da-educacao-superior-catolica-para-a-amazonia",
-      "date": "2026-11-25T22:49:29.000Z",
-      "summary": "A Comissão de Educação e Cultura do Senado (CE) promoveu nesta quarta-feira (25) uma audiência pública na qual se destacou a importância das instituições de educação superior católicas para a Amazônia Legal. Durante o encontro, foi apresentado um relatório sob",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Criação da Comissão Nacional Indígena da Verdade recebe apoio unânime em audiência na Câmara",
-      "link": "https://www.camara.leg.br/noticias/1323062-criacao-da-comissao-nacional-indigena-da-verdade-recebe-apoio-unanime-em-audiencia-na-camara",
-      "date": "2026-11-25T22:42:00.000Z",
-      "summary": "Em 2014, a Comissão Nacional da Verdade identificou 8.350 indígenas mortos durante a ditadura militar e recomendou novas investigações",
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
@@ -481,15 +494,6 @@
       "source": "Banco Central",
       "cat": "economia",
       "type": "oficial"
-    },
-    {
-      "title": "XP e Rico oferecem condições especiais em cartões e outros para Black Friday",
-      "link": "https://www.estadao.com.br/economia/xp-e-rico-oferecem-condicoes-especiais-em-cartoes-e-outros-para-black-friday/",
-      "date": "2026-11-25T21:28:08.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
     },
     {
       "title": "O Adicional Contracíclico de Capital Principal relativo ao Brasil segue em 0%",
@@ -540,7 +544,7 @@
       "title": "Bomba da 2ª Guerra força evacuação de 700 pessoas no sul da Alemanha",
       "link": "https://www.dw.com/pt-br/bomba-da-2ª-guerra-força-evacuação-de-700-pessoas-no-sul-da-alemanha/a-80053249?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-25T18:34:00.000Z",
-      "summary": "Descoberto durante obras em Nurembergue, artefato americano de 225 kgs mobilizou 250 agentes de emergência e levou ao fechamento do espaço aéreo temporariamente. Só na cidade, foi a 11ª bomba neste ano.",
+      "summary": "Descoberto durante obras em Nurembergue, artefato americano de 225 kg mobilizou 250 agentes de emergência e levou ao fechamento do espaço aéreo temporariamente. Só na cidade, foi a 11ª bomba neste ano.",
       "source": "DW Brasil",
       "cat": "internacional",
       "type": "imprensa"
@@ -559,15 +563,6 @@
       "link": "https://www.dw.com/pt-br/eua-anunciam-novas-tarifas-miram-embraer-e-ampliam-pressão-comercial-sobre-brasil-e-china/a-80053122?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-25T17:11:00.000Z",
       "summary": "Governo dos EUA propõe tarifa de 10% sobre aeronaves brasileiras e ameaça elevar taxas sobre açúcar. Administração Trumo acusa Brasil de práticas comerciais \"desleais\" e também mira outros países.",
-      "source": "DW Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Execuções, chibatadas, perseguição: Arábia Saudita redobra repressão a dissidentes",
-      "link": "https://www.dw.com/pt-br/execuções-chibatadas-perseguição-arábia-saudita-redobra-repressão-a-dissidentes/a-80044727?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-25T15:03:00.000Z",
-      "summary": "Em meio ao conflito no Irã, situação dos direitos humanos se agrava no reino árabe, com mais de 200 execuções em 2026, aplicação de punições corporais e uma repressão cada vez maior contra vozes críticas.",
       "source": "DW Brasil",
       "cat": "internacional",
       "type": "imprensa"
