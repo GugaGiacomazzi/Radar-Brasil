@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-26T18:29:33.454Z",
+  "updated": "2026-11-26T19:44:49.393Z",
   "market": {
     "ibov": {
-      "price": 172677.98,
-      "pct": 3.6,
-      "time": "2026-11-26T18:29:27.656Z",
+      "price": 173245.62,
+      "pct": 3.94,
+      "time": "2026-11-26T19:44:43.315Z",
       "history": [
         {
           "d": "2026-10-27",
@@ -88,7 +88,7 @@
         },
         {
           "d": "2026-11-26",
-          "c": 172863.9531
+          "c": 173276.8281
         }
       ]
     },
@@ -145,11 +145,227 @@
   },
   "news": [
     {
-      "title": "Acesso a crédito é desafio para empreendedores na Black Friday",
-      "link": "https://www.poder360.com.br/poder-economia/acesso-a-credito-e-desafio-para-empreendedores-na-black-friday/",
-      "date": "2026-11-26T18:27:48.000Z",
-      "summary": "26% vão recorrer a empréstimos ou linhas de crédito para reforçar o estoque durante a data, diz pesquisa do Mercado Pago",
+      "title": "Comissão Mista aprova relatório preliminar do Orçamento de 2027",
+      "link": "https://www.camara.leg.br/noticias/1323430-comissao-mista-aprova-relatorio-preliminar-do-orcamento-de-2027",
+      "date": "2026-11-26T19:44:00.000Z",
+      "summary": "Foram apresentadas 8.212 emendas às despesas do Orçamento de 2027, num total de R$ 286,3 bilhões",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Lula sinaliza apoio à gestão de Cleitinho em Minas Gerais",
+      "link": "https://www.poder360.com.br/poder-governo/lula-sinaliza-apoio-a-gestao-de-cleitinho-em-minas-gerais/",
+      "date": "2026-11-26T19:41:00.000Z",
+      "summary": "Presidente recebeu governador eleito no Alvorada e disse que renegociação da dívida estadual deverá respeitar regras do Propag",
       "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Relatório do Orçamento de 2027 mantém aumento de recursos a saúde e educação",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/26/relatorio-do-orcamento-de-2027-mantem-aumento-de-recursos-a-saude-e-educacao",
+      "date": "2026-11-26T19:38:51.000Z",
+      "summary": "O relatório preliminar do Orçamento de 2027 prevê R$ 272,18 bilhões para a saúde pública e R$ 246,3 bilhões para a educação, além de recursos para manter o programa Bolsa Família. O texto, aprovado pela Comissão Mista de Orçamento (CMO), define as regras para ",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Black Friday concentra os maiores descontos à tarde; veja melhores horários",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/black-friday-concentra-os-maiores-descontos-a-tarde-veja-melhores-horarios.shtml",
+      "date": "2026-11-26T19:37:00.000Z",
+      "summary": "Quem pretende aproveitar as promoções da Black Friday deste ano deve considerar mais de um horário para fazer compras. A virada de quinta-feira (26) para sexta (27) concentra o maior volume de ofertas, mas os maiores descontos médios aparecem entre 14h e 18h d",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Ala do governo Lula vê negociação com Trump no limite e avalia reação",
+      "link": "https://www.poder360.com.br/poder-governo/ala-do-governo-lula-ve-negociacao-com-trump-no-limite-e-avalia-reacao/",
+      "date": "2026-11-26T19:32:17.000Z",
+      "summary": "Novas tarifas e falta de avanços em grupo bilateral levam Planalto a discutir outra estratégia",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Comissão aprova projeto que cria programa de aprendizagem profissional voltado a jovens indígenas",
+      "link": "https://www.camara.leg.br/noticias/1323293-comissao-aprova-projeto-que-cria-programa-de-aprendizagem-profissional-voltado-a-jovens-indigenas",
+      "date": "2026-11-26T19:29:00.000Z",
+      "summary": "Proposta segue em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "PT rejeita “ajuste fiscal 2”, mas defende corte em privilégios",
+      "link": "https://www.poder360.com.br/poder-congresso/pt-rejeita-ajuste-fiscal-2-mas-defende-corte-em-privilegios/",
+      "date": "2026-11-26T19:21:43.000Z",
+      "summary": "Bancada petista diz que não há pacote de austeridade e defende mudanças em previdência de militares e supersalários",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Comissão aprova estímulo a conteúdos sobre acessibilidade na comunicação pública",
+      "link": "https://www.camara.leg.br/noticias/1323334-comissao-aprova-estimulo-a-conteudos-sobre-acessibilidade-na-comunicacao-publica",
+      "date": "2026-11-26T19:19:00.000Z",
+      "summary": "Proposta segue em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Comissão aprova punição para divulgação de deepfakes em campanha eleitoral",
+      "link": "https://www.camara.leg.br/noticias/1323330-comissao-aprova-punicao-para-divulgacao-de-deepfakes-em-campanha-eleitoral",
+      "date": "2026-11-26T19:17:00.000Z",
+      "summary": "Proposta segue em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Governo descarta nova ligação de Lula a Trump sobre tarifas e aguarda setor privado",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/governo-descarta-nova-ligacao-de-lula-a-trump-sobre-tarifas-e-aguarda-setor-privado.shtml",
+      "date": "2026-11-26T19:15:00.000Z",
+      "summary": "O governo brasileiro está em fase de consultas ao setor privado afetado pelas últimas tarifas propostas pelos Estados Unidos contra itens brasileiros. Na última quarta-feira (25), o país anunciou novas taxas sobre o açúcar e uma alíquota de 10% sobre aeronaves",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Alemanha e Áustria querem TikTok sob controle de europeus",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/tec/2026/11/alemanha-e-austria-querem-tiktok-sob-controle-de-europeus.shtml",
+      "date": "2026-11-26T19:15:00.000Z",
+      "summary": "Alemanha e Áustria defenderam nesta quinta-feira (26) que as operações europeias do TikTok passem a ser propriedade e ficar sob controle de empresas do continente. Segundo os dois países, apenas a regulamentação não é suficiente para resolver preocupações rela",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Governo descarta nova ligação de Lula a Trump sobre tarifas e aguarda setor privado",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/governo-descarta-nova-ligacao-de-lula-a-trump-sobre-tarifas-e-aguarda-setor-privado.shtml",
+      "date": "2026-11-26T19:15:00.000Z",
+      "summary": "O governo brasileiro está em fase de consultas ao setor privado afetado pelas últimas tarifas propostas pelos Estados Unidos contra itens brasileiros. Na última quarta-feira (25), o país anunciou novas taxas sobre o açúcar e uma alíquota de 10% sobre aeronaves",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Liquidante do Master diz ao STF não se opor a liberar R$ 316 milhões ao BRB",
+      "link": "https://www.estadao.com.br/economia/liquidante-do-master-diz-ao-stf-nao-se-opor-a-liberar-r-316-milhoes-ao-brb/",
+      "date": "2026-11-26T19:11:59.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Clubes de futebol pedem mediação do STF para preservar patrocínio de bets",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/26/clubes-de-futebol-pedem-mediacao-do-stf-para-preservar-patrocinio-de-bets.ghtml",
+      "date": "2026-11-26T19:09:20.000Z",
+      "summary": "Clubes de futebol pedem ao ministro Luiz Fux para mediar período de transição das Bets A Liga do Futebol Brasileiro e 17 clubes de futebol acionaram o Supremo Tribunal Federal (STF) para que seja aberta mediação e discutida uma regra de transição para permitir",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Comissão aprova carga horária mínima para Filosofia e Sociologia no ensino médio",
+      "link": "https://www.camara.leg.br/noticias/1323336-comissao-aprova-carga-horaria-minima-para-filosofia-e-sociologia-no-ensino-medio",
+      "date": "2026-11-26T19:09:00.000Z",
+      "summary": "Lei já define disciplinas como obrigatórias, mas não estipula carga horária nem a oferta em todos os três anos do ensino médio; proposta segue em análise na Câmara",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Durigan diz que discutirá novas medidas fiscais com Lula: 'Mostrar claramente o caminho para 2027'",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/26/durigan-diz-que-discutira-novas-medidas-fiscais-com-lula-mostrar-claramente-o-caminho-para-2027.ghtml",
+      "date": "2026-11-26T19:08:44.000Z",
+      "summary": "Durigan fala em rever gastos e mirar supersalários O ministro da Fazenda, Dario Durigan, afirmou nesta quinta-feira (26) que o governo discute novas medidas para conter o crescimento das despesas públicas e melhorar as contas do país. Segundo ele, haverá uma r",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Governo deve publicar na 6ª feira renovação do auxílio ao diesel",
+      "link": "https://www.poder360.com.br/poder-economia/governo-deve-publicar-na-6a-feira-renovacao-do-auxilio-ao-diesel/",
+      "date": "2026-11-26T19:04:22.000Z",
+      "summary": "Portaria prorrogará a subvenção por mais 30 dias; medida foi instituída para conter a alta dos preços do diesel no Brasil depois do início da guerra no Irã",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "André do Prado pressiona bancada do PL a apoiar novato para presidir a Alesp",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/andre-do-prado-pressiona-bancada-do-pl-a-apoiar-novato-para-presidir-a-alesp.shtml",
+      "date": "2026-11-26T19:00:00.000Z",
+      "summary": "Deputados do PL na Assembleia Legislativa de São Paulo (Alesp) afirmam estar sendo pressionados pelo presidente da Casa, André do Prado (PL), eleito senador em outubro, a apoiar o novato Rogério Franco (PL) para ocupar a presidência a partir de 2027. Leia mais",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Safra de trigo do Paraná será a menor em 20 anos; soja também sofre com chuva excessiva",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/agro/2026/11/safra-de-trigo-do-parana-sera-a-menor-em-20-anos-soja-tambem-sofre-com-chuva-excessiva.shtml",
+      "date": "2026-11-26T19:00:00.000Z",
+      "summary": "A safra de trigo do Paraná deverá recuar 39% em 2026 na comparação com a temporada passada, para o menor nível em 20 anos, devido a chuvas excessivas e à redução na área plantada, de acordo com dados do Deral (Departamento de Economia Rural) atualizados nesta ",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Ministra do TSE relata ataques misóginos em razão de votos e diz que há falta de apoio de colegas",
+      "link": "https://www.estadao.com.br/politica/ministra-do-tse-relata-ataques-misoginos-em-razao-de-votos-e-falta-de-apoio-de-colegas-nprp/",
+      "date": "2026-11-26T18:54:24.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Tarcísio anuncia mais 3 secretários, define 85% da equipe e mantém maioria dos nomes do 1º mandato",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/tarcisio-anuncia-mais-3-secretarios-define-85-da-equipe-e-mantem-maioria-dos-nomes-do-1o-mandato.shtml",
+      "date": "2026-11-26T18:53:00.000Z",
+      "summary": "O governo Tarcísio de Freitas (Republicanos) confirmou nesta quinta-feira (26) mais três nomes da equipe para seu segundo mandato, que começa em 5 de janeiro. Leia mais (11/26/2026 - 15h53)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Espanhol Pablo Hernández de Cos é escolhido para presidir o Banco Central Europeu",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/26/espanhol-pablo-hernandez-de-cos-e-escolhido-para-presidir-o-banco-central-europeu.ghtml",
+      "date": "2026-11-26T18:42:40.000Z",
+      "summary": "O governador do Banco da Espanha, Pablo Hernandez de Cos, participa do início da sessão plenária do Comitê Monetário e Financeiro Internacional (IMFC) durante a reunião anual do Fundo Monetário Internacional e do Banco Mundial — realizada após o terremoto que ",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Renovação por 30 dias da subvenção de R$ 2,12 por litro de diesel deve ser publicada nesta sexta, diz Fazenda",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/26/fazenda-diz-que-renovacao-por-mais-30-dias-da-subvencao-de-r-212-por-litro-de-diesel-sera-publicada-nesta-sexta.ghtml",
+      "date": "2026-11-26T18:37:06.000Z",
+      "summary": "O Ministério da Fazenda informou nesta quinta-feira (26) que a renovação por mais 30 dias da subvenção econômica de R$ 2,12 por litro do óleo diesel deve ser publicada nesta sexta-feira (27) no \"Diário Oficial da União\". A prorrogação mantém em vigor o mecanis",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lula monta o difícil xadrez do ministério, com pressões de todos os lados; veja vídeo",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/lula-monta-o-dificil-xadrez-do-ministerio-com-pressoes-de-todos-os-lados-veja-video.shtml",
+      "date": "2026-11-26T18:37:00.000Z",
+      "summary": "Ganhar a eleição é difícil, montar um ministério é bem pior. Essa brincadeira foi feita por um aliado próximo de Lula, e não está muito longe da realidade. Leia mais (11/26/2026 - 15h37)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "PF realiza operação contra fraude de R$ 494 mil em benefícios assistenciais",
+      "link": "https://www.estadao.com.br/politica/pf-realiza-operacao-contra-fraude-em-beneficios-assistenciais-no-amazonas-nprp/",
+      "date": "2026-11-26T18:29:05.000Z",
+      "summary": "",
+      "source": "Estadão",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -172,15 +388,6 @@
       "type": "oficial"
     },
     {
-      "title": "Pablo Hernández de Cos vence disputa pela presidência do Banco Central Europeu",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/pablo-hernandez-de-cos-vence-disputa-pela-presidencia-do-banco-central-europeu.shtml",
-      "date": "2026-11-26T18:22:00.000Z",
-      "summary": "Pablo Hernández de Cos deve ser o próximo presidente do BCE (Banco Central Europeu), após os países da zona do euro apoiarem por unanimidade sua indicação para suceder Christine Lagarde em fevereiro. Leia mais (11/26/2026 - 15h22)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Comissão aprova projeto que prevê gratuidade no transporte para responsáveis levarem crianças à escola pública",
       "link": "https://www.camara.leg.br/noticias/1323237-comissao-aprova-projeto-que-preve-gratuidade-no-transporte-para-responsaveis-levarem-criancas-a-escola-publica",
       "date": "2026-11-26T18:21:00.000Z",
@@ -190,40 +397,22 @@
       "type": "oficial"
     },
     {
-      "title": "Relator da CBS no Senado prevê revisão trimestral para analisar efeito da queda da sonegação",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/relator-da-cbs-no-senado-preve-revisao-trimestral-para-analisar-efeito-da-queda-da-sonegacao.shtml",
-      "date": "2026-11-26T18:19:00.000Z",
-      "summary": "O senador Eduardo Braga (MDB-AM), relator do projeto de resolução da CBS (Contribuição sobre Bens e Serviços), disse nesta quinta-feira (26) que deverá prever uma reavaliação trimestral da alíquota que substitui PIS, Cofins e IOF sobre seguros a partir de jane",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Planejamento sucessório com patrimônio no exterior",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/planejamento-sucessorio-com-patrimonio-no-exterior/",
-      "date": "2026-11-26T18:15:59.000Z",
+      "title": "Michelle comenta dieta de Bolsonaro: ‘Ele só podia ajudar um pouquinho, mastigando bem os alimentos’",
+      "link": "https://www.estadao.com.br/politica/michelle-comenta-dieta-de-bolsonaro-podia-ajudar-um-pouquinho-mastigando-bem-os-alimentos-nprp/",
+      "date": "2026-11-26T18:20:55.000Z",
       "summary": "",
       "source": "Estadão",
       "cat": "politica",
       "type": "imprensa"
     },
     {
-      "title": "Macron diz que carne brasileira é “dopada”; associações respondem",
-      "link": "https://www.poder360.com.br/poder-internacional/macron-diz-que-carne-brasileira-e-dopada-associacoes-respondem/",
-      "date": "2026-11-26T18:15:04.000Z",
-      "summary": "Presidente francês comemorou suspensão das importações do Mercosul pela UE e questionou qualidade do produto",
-      "source": "Poder360",
+      "title": "Os efeitos de uma Justiça sob a IA e uma solução ao alcance do CNJ",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/os-efeitos-de-uma-justica-sob-a-ia-e-uma-solucao-ao-alcance-do-cnj/",
+      "date": "2026-11-26T18:16:40.000Z",
+      "summary": "",
+      "source": "Estadão",
       "cat": "politica",
       "type": "imprensa"
-    },
-    {
-      "title": "Senado apresenta sistema para ações de acessibilidade, equidade e sustentabilidade",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/26/senado-apresenta-sistema-para-acoes-de-acessibilidade-equidade-e-sustentabilidade",
-      "date": "2026-11-26T18:14:16.000Z",
-      "summary": "O Poder Legislativo vem adotando medidas para garantir a acessibilidade, a equidade de gênero e raça, além de reduzir os impactos ambientais de suas atividades. Tais ações — que convergem com os Objetivos de Desenvolvimento Sustentável da ONU — foram apresenta",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
     },
     {
       "title": "Emissários de Lula procuram amigos de Trabuco para convencê-lo a aceitar Ministério da Fazenda",
@@ -244,74 +433,11 @@
       "type": "imprensa"
     },
     {
-      "title": "Ministra cobra TSE e diz que colegas que defendem mais mulheres em tribunais falam 'da boca para fora'",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/ministra-cobra-tse-e-diz-que-colegas-que-defendem-mais-mulheres-em-tribunais-falam-da-boca-para-fora.shtml",
-      "date": "2026-11-26T18:02:00.000Z",
-      "summary": "A ministra Estela Aranha, do TSE (Tribunal Superior Eleitoral), criticou nesta quinta-feira (26) a conduta de ministros homens que dizem querer que os tribunais superiores sejam ocupados por mais mulheres, mas que, segundo ela, falam da \"boca para fora\". Leia ",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Cleitinho encontra Lula, convida presidente para posse e pede renegociação da dívida de Minas Gerais",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/11/cleitinho-encontra-lula-convida-presidente-para-posse-e-pede-renegociacao-da-divida-de-minas-gerais.shtml",
-      "date": "2026-11-26T18:00:00.000Z",
-      "summary": "O governador eleito de Minas Gerais, Cleitinho Azevedo (Republicanos), pediu uma renegociação da dívida do estado e convidou o presidente Lula (PT) para sua posse em uma reunião com o petista nesta quinta-feira (26). Cleitinho, que apoiou Flávio Bolsonaro (PL)",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Mais tempo na escola não basta sem qualidade e verba, diz avaliação da CE",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/26/mais-tempo-na-escola-nao-basta-sem-qualidade-e-verba-diz-avaliacao-da-ce",
-      "date": "2026-11-26T17:46:05.000Z",
-      "summary": "A expansão do ensino integral no Brasil é relevante e necessária, mas o êxito ainda depende de ajustes de qualidade e de financiamento adequado. A conclusão é da Comissão de Educação (CE), que aprovou nesta quarta-feira (25) o relatório de avaliação do Program",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Macron diz que carne brasileira é 'dopada' e gera revolta de representantes do agro",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/agro/2026/11/macron-diz-que-carne-e-dopada-e-gera-revolta-de-representantes-do-agro.shtml",
-      "date": "2026-11-26T17:46:00.000Z",
-      "summary": "A ABPA (Associação Brasileira de Proteína Animal) e a Abiec (Associação Brasileira das Indústrias Exportadoras de Carne) criticaram uma declaração do presidente da França, Emmanuel Macron, que classificou a carne brasileira como \"dopée\" (dopada, em francês). L",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Caixa estuda compra do BRB; governo federal nega",
-      "link": "https://www.poder360.com.br/poder-economia/caixa-estuda-compra-do-brb-governo-federal-nega/",
-      "date": "2026-11-26T17:36:03.000Z",
-      "summary": "Operação é discutida com Banco Central como alternativa para recuperar o Banco de Brasília; acordo de confidencialidade impede divulgação",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Kassab nega que tenha recebido convite para ser ministro de Lula",
-      "link": "https://www.estadao.com.br/politica/kassab-nega-que-tenha-recebido-convite-para-ser-ministro-de-lula/",
-      "date": "2026-11-26T17:35:06.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Amazon, que investiu R$ 75 bi no Brasil, vê o País com potencial ‘quase ilimitado’, diz CEO",
       "link": "https://www.estadao.com.br/economia/negocios/amazon-que-investiu-r-75-bi-no-brasil-ve-o-pais-com-potencial-quase-ilimitado-diz-ceo/",
       "date": "2026-11-26T17:34:11.000Z",
       "summary": "",
       "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Quênia se torna destino de componentes solares chineses e amplia exportações aos EUA",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/economia-sustentavel/2026/11/quenia-se-torna-destino-de-componentes-solares-chineses-e-amplia-exportacoes-aos-eua.shtml",
-      "date": "2026-11-26T17:33:00.000Z",
-      "summary": "O Quênia se tornou um dos principais destinos das exportações chinesas de componentes para energia solar neste ano, em uma tendência que coincide com o forte aumento dos embarques de painéis solares do país africano para o lucrativo mercado dos Estados Unidos.",
-      "source": "Folha",
       "cat": "economia",
       "type": "imprensa"
     },
@@ -325,65 +451,11 @@
       "type": "imprensa"
     },
     {
-      "title": "Papa alerta para riscos do uso militar da inteligência artificial",
-      "link": "https://www.poder360.com.br/poder-internacional/papa-alerta-para-riscos-do-uso-militar-da-inteligencia-artificial/",
-      "date": "2026-11-26T16:54:22.000Z",
-      "summary": "Leão 14 critica a transferência de decisões sobre a vida e a morte para máquinas e defende o diálogo para superar conflitos",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Relator da reforma tributária defende alíquota da CBS com ‘freio de arrumação’ a partir de 2027",
-      "link": "https://www.estadao.com.br/economia/relator-da-reforma-tributaria-defende-aliquota-da-cbs-com-freio-de-arrumacao-a-partir-de-2027/",
-      "date": "2026-11-26T16:36:28.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "TSE: Estela Aranha relata ataques misóginos e cobra solidariedade de colegas; ministros rebatem",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/26/tse-estela-aranha-relata-ataques-misoginos-e-cobra-solidariedade-de-colegas-ministros-rebatem.ghtml",
-      "date": "2026-11-26T16:28:30.000Z",
-      "summary": "Ministra Estela Aranha. Luiz Roberto/TSE/Divulgação A ministra do Tribunal Superior Eleitoral (TSE) Estela Aranha disse nesta quinta-feira (26) que não recebeu a solidariedade de colegas diante de ataques misóginos que sofreu durante as eleições. Para ela, fal",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Entidades articulam mobilização popular por ministra negra no STF diante de Senado hostil a Lula",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/entidades-articulam-mobilizacao-popular-por-ministra-negra-no-stf-diante-de-senado-hostil-a-lula.shtml",
-      "date": "2026-11-26T16:22:00.000Z",
-      "summary": "Movimentos negros e entidades que pressionam Lula (PT) a indicar uma mulher negra ao STF (Supremo Tribunal Federal) apostam na mobilização popular para enfrentar o Senado mais hostil ao governo. As organizações reconhecem o obstáculo, mas dizem que a pressão p",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Embraer diz que foi pega de surpresa com possibilidade de tarifas dos EUA e ‘conta com bom-senso’",
       "link": "https://www.estadao.com.br/economia/negocios/embraer-surpresa-possibilidade-tarifas-eua-bom-senso/",
       "date": "2026-11-26T16:12:50.000Z",
       "summary": "",
       "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Reforma tributária: sem benefícios a produtos e setores, imposto do governo cairia de 11,3% para 7% em 2027, estima órgão do Senado",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/26/reforma-tributaria-sem-beneficios-a-produtos-e-setores-imposto-do-governo-cairia-de-113percent-para-7percent-em-2027-estima-orgao-do-senado.ghtml",
-      "date": "2026-11-26T16:00:01.000Z",
-      "summary": "A Instituição Fiscal Independente (IFI), órgão ligado ao Senado Federal, estimou que sem os benefícios concedidos a produtos e setores da sociedade durante a tramitação da reforma tributária sobre o consumo, a alíquota de referência estimada do futuro imposto ",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Black Friday: celulares lideram descontos no PIX entre produtos monitorados pelo g1; veja lista",
-      "link": "https://g1.globo.com/guia/guia-de-compras/black-friday-celulares-lideram-descontos-no-pix-entre-produtos-monitorados-pelo-g1-veja-lista.ghtml",
-      "date": "2026-11-26T16:00:00.000Z",
-      "summary": "É Black Friday ou Black Fraude? Os celulares são a categoria com a maior diferença entre o preço no PIX e no cartão de crédito entre os 74 produtos monitorados pelo g1 na semana da Black Friday. Os 16 modelos da lista custam, em média, 7,36% menos no PIX, segu",
-      "source": "g1",
       "cat": "economia",
       "type": "imprensa"
     },
@@ -397,96 +469,6 @@
       "type": "imprensa"
     },
     {
-      "title": "O ex-menosprezado Cleitinho, eleito governador de Minas, pode ser o reconciliador nacional",
-      "link": "https://www.estadao.com.br/politica/fabiano-lana/o-ex-menosprezado-cleitinho-eleito-governador-de-minas-pode-ser-o-reconciliador-nacional/",
-      "date": "2026-11-26T15:50:49.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Centrão escolhe nomes 'coringa' para ministérios enquanto espera Lula distribuir pastas",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/centrao-escolhe-nomes-coringa-para-ministerios-enquanto-espera-lula-distribuir-pastas.shtml",
-      "date": "2026-11-26T15:50:00.000Z",
-      "summary": "Partidos do centrão alinham internamente os nomes dos eventuais indicados para integrar o governo de Lula (PT) enquanto aguardam o presidente definir o que que caberá a cada legenda. Leia mais (11/26/2026 - 12h50)",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Governo dá 10 dias para que Google amplie informações sobre anúncios e fixa multa de R$ 200 mil em caso de descumprimento",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/26/governo-da-10-dias-para-que-google-amplie-informacoes-sobre-anuncios-e-fixa-multa-diaria-de-r-200-mil-em-caso-de-descumprimento.ghtml",
-      "date": "2026-11-26T15:38:39.000Z",
-      "summary": "A Secretaria Nacional do Consumidor (Senacon), do Ministério da Justiça, determinou que o Google Brasil amplie as informações disponíveis em sua Central de Transparência de Anúncios. A medida foi adotada em um processo administrativo aberto nesta quarta-feira ",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "'Carne dopada': exportadores brasileiros rebatem fala de Macron: 'grave e inaceitável um chefe de Estado recorrer a inverdades'",
-      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/26/exportadores-de-carne-rebatem-fala-de-macron.ghtml",
-      "date": "2026-11-26T15:24:20.000Z",
-      "summary": "Imagem do presidente da França, Emmanuel Macron, durante uma reunião com representantes do setor agrícola francês no Palácio do Eliseu, em 25 de novembro d e2026. Reprodução A Associação Brasileira de Proteína Animal (ABPA) e a Associação Brasileira das Indúst",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Como cidadãos indianos são aliciados pela Rússia para lutar na Ucrânia",
-      "link": "https://www.dw.com/pt-br/como-cidadãos-indianos-são-aliciados-pela-rússia-para-lutar-na-ucrânia/a-80055545?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-26T15:23:00.000Z",
-      "summary": "Seja por meio de falsas promessas de emprego ou desespero, cidadãos da Índia continuam a ser atraídos por agentes russos para lutar na guerra na Ucrânia, mesmo sem treinamento militar e muitas vezes à força.",
-      "source": "DW Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Deputados aprovam acordo de cooperação jurídica na área penal entre Brasil e Guiana",
-      "link": "https://www.camara.leg.br/noticias/1323264-deputados-aprovam-acordo-de-cooperacao-juridica-na-area-penal-entre-brasil-e-guiana",
-      "date": "2026-11-26T15:00:00.000Z",
-      "summary": "Texto segue para análise do Senado",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Lula deve replicar maioria de políticos na Esplanada dos Ministérios no quarto mandato",
-      "link": "https://www.estadao.com.br/politica/lula-deve-replicar-maioria-de-politicos-na-esplanada-dos-ministerios-no-quarto-mandato/",
-      "date": "2026-11-26T15:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Cancelada votação do parecer sobre mudanças no Código de Trânsito",
-      "link": "https://www.camara.leg.br/noticias/1323183-cancelada-votacao-do-parecer-sobre-mudancas-no-codigo-de-transito",
-      "date": "2026-11-26T14:53:00.000Z",
-      "summary": "Relator apresentou mudanças no parecer sobre o projeto principal e as 270 propostas que tramitam em conjunto",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Câmara aprova acordo de cooperação jurídica entre Brasil e Guiana em processos civis",
-      "link": "https://www.camara.leg.br/noticias/1323254-camara-aprova-acordo-de-cooperacao-juridica-entre-brasil-e-guiana-em-processos-civis",
-      "date": "2026-11-26T14:49:00.000Z",
-      "summary": "Texto segue para análise do Senado",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Deputados iniciam sessão de votações desta quinta-feira; acompanhe",
-      "link": "https://www.camara.leg.br/noticias/1323085-deputados-iniciam-sessao-de-votacoes-desta-quinta-feira-acompanhe",
-      "date": "2026-11-26T14:41:00.000Z",
-      "summary": "",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
       "title": "Fuga, exílio ou exfiltração: o que aconteceu com Flávio Bolsonaro?",
       "link": "https://www.dw.com/pt-br/fuga-exílio-ou-exfiltração-o-que-aconteceu-com-flávio-bolsonaro/a-80034386?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-26T14:37:00.000Z",
@@ -494,15 +476,6 @@
       "source": "DW Brasil",
       "cat": "internacional",
       "type": "imprensa"
-    },
-    {
-      "title": "Câmara pode votar seis propostas nesta quinta-feira",
-      "link": "https://www.camara.leg.br/noticias/1323169-camara-pode-votar-seis-propostas-nesta-quinta-feira",
-      "date": "2026-11-26T12:26:00.000Z",
-      "summary": "Sessão do Plenário está marcada para as 10 horas",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
     },
     {
       "title": "Coreia do Norte freia envio de novos soldados para guerra na Ucrânia",
@@ -568,15 +541,6 @@
       "type": "oficial"
     },
     {
-      "title": "'Não acho que possamos mais coexistir com bilionários', diz escritora Naomi Klein",
-      "link": "https://www.bbc.com/portuguese/articles/c60md8pz90pko?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-25T20:36:29.000Z",
-      "summary": "Escritora canadense crítica do capitalismo acredita que o mundo precisa de uma economia 'que vá muito além da busca pelo lucro e que comece por atender às necessidades mais básicas das pessoas'.",
-      "source": "BBC News Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
       "title": "'Meio milhão de mortos': vazamento de dados revela números impressionantes de soldados russos que perderam a vida na guerra na Ucrânia",
       "link": "https://www.bbc.com/portuguese/articles/ckdd1zq7r56no?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-25T19:43:08.000Z",
@@ -608,6 +572,15 @@
       "link": "https://www.dw.com/pt-br/eua-anunciam-novas-tarifas-miram-embraer-e-ampliam-pressão-comercial-sobre-brasil-e-china/a-80053122?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-25T17:11:00.000Z",
       "summary": "Governo dos EUA propõe tarifa de 10% sobre aeronaves brasileiras e ameaça elevar taxas sobre açúcar. Administração Trumo acusa Brasil de práticas comerciais \"desleais\" e também mira outros países.",
+      "source": "DW Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Como o PCC e o Comando Vermelho se espalharam pelo Brasil",
+      "link": "https://www.dw.com/pt-br/como-o-pcc-e-o-comando-vermelho-se-espalharam-pelo-brasil/a-80045430?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-25T12:59:00.000Z",
+      "summary": "Nascidas nas prisões de São Paulo e do Rio de Janeiro, as duas maiores facções do país ampliaram sua atuação e hoje influenciam mercados ilegais em praticamente todas as regiões brasileiras e em rotas internacionais.",
       "source": "DW Brasil",
       "cat": "internacional",
       "type": "imprensa"
@@ -662,6 +635,15 @@
       "link": "https://www.bbc.com/portuguese/articles/cqdj1d3yd4pzo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-24T11:28:48.000Z",
       "summary": "Governo federal abriu documentos da gestão anterior e reviu decisões de sigilo, mas continua negando informações com base na proteção de dados pessoais e da segurança presidencial, incluindo gastos do cartão corporativo.",
+      "source": "BBC News Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Câmara aprova ajuste fiscal de Lula: por que pacote é tão polêmico e não deve ser suficiente, segundo economistas",
+      "link": "https://www.bbc.com/portuguese/articles/cqx2we1jgnzgo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-24T02:50:44.000Z",
+      "summary": "Estima-se que o projeto tenha impacto de até R$ 56 bilhões. Mas o 'Plano Moretti' vem sendo recebido com pessimismo no mercado financeiro e críticas por alguns dos aliados do PT.",
       "source": "BBC News Brasil",
       "cat": "internacional",
       "type": "imprensa"
