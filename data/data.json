@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-26T07:16:50.814Z",
+  "updated": "2026-11-26T08:42:04.488Z",
   "market": {
     "ibov": {
       "price": 166684.61,
       "pct": 1.58,
-      "time": "2026-11-26T07:16:44.372Z",
+      "time": "2026-11-26T08:41:56.851Z",
       "history": [
         {
           "d": "2026-10-27",
@@ -141,6 +141,15 @@
   },
   "news": [
     {
+      "title": "Qual é o efeito de um dólar num patamar mais alto para a economia brasileira?",
+      "link": "https://www.estadao.com.br/economia/efeito-dolar-alto-economia-brasileira/",
+      "date": "2026-11-26T08:30:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "INSS libera 13º a 2,6 mi de segurados em novembro e dezembro; veja quem recebe",
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/inss-libera-13o-a-26-mi-de-segurados-em-novembro-e-dezembro-veja-quem-recebe.shtml",
       "date": "2026-11-26T07:00:00.000Z",
@@ -177,24 +186,6 @@
       "type": "imprensa"
     },
     {
-      "title": "TCU afasta multas a Dilma e auxiliares por irregularidades fiscais",
-      "link": "https://www.poder360.com.br/poder-justica/tcu-afasta-multas-a-dilma-e-auxiliares-por-irregularidades-fiscais/",
-      "date": "2026-11-26T06:48:01.000Z",
-      "summary": "Decisão não altera a rejeição das contas do governo daquele ano pelo Tribunal",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Moraes manda destruir passaportes de ex-assessor de Bolsonaro",
-      "link": "https://www.poder360.com.br/poder-justica/moraes-manda-destruir-passaportes-de-ex-assessor-de-bolsonaro/",
-      "date": "2026-11-26T06:32:29.000Z",
-      "summary": "Filipe Martins teve documentos apreendidos em investigação sobre tentativa de golpe de Estado e está preso",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Por que Trump pressionou pela volta de Jensen Huang à chefia da Nvidia",
       "link": "https://g1.globo.com/tecnologia/noticia/2026/11/26/por-que-trump-pressionou-pela-volta-de-jensen-huang-a-chefia-da-nvidia.ghtml",
       "date": "2026-11-26T06:00:00.000Z",
@@ -213,29 +204,11 @@
       "type": "imprensa"
     },
     {
-      "title": "Marinho reúne Tereza e senadores do PP em festa de aniversário",
-      "link": "https://www.poder360.com.br/poder-congresso/marinho-reune-tereza-e-senadores-do-pp-em-festa-de-aniversario/",
-      "date": "2026-11-26T04:03:00.000Z",
-      "summary": "Comemoração dos 63 anos do líder da Oposição teve cerca de 80 participantes em chalana de Wilder Morais, em Brasília",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "O mapa das facções e a nova dinâmica do crime no Brasil - O Assunto #1853",
       "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/11/26/o-mapa-das-faccoes-e-a-nova-dinamica-do-crime-no-brasil-o-assunto-1853.ghtml",
       "date": "2026-11-26T03:30:00.000Z",
       "summary": "Nesta semana, a Agência Brasileira de Inteligência (Abin) publicou o documento Cenários do Crime Organizado no Brasil, produzido em parceria com o Fórum Brasileiro de Segurança Pública. Trata-se de um levantamento inédito sobre o panorama e os avanços das 31 m",
       "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Cleitinho se reúne com Pedro Rousseff e propõe união entre partidos",
-      "link": "https://www.poder360.com.br/poder-brasil/cleitinho-se-reune-com-pedro-rousseff-e-propoe-uniao-entre-partidos/",
-      "date": "2026-11-26T03:01:49.000Z",
-      "summary": "O governador eleito de MG apareceu nesta 4ª feira (25.nov) com os deputados federais eleitos Gleidson Azevedo (Republicanos) e Pedro Rousseff (PT), sobrinho-neto da ex-presidente Dilma Rousseff (PT)",
-      "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -339,15 +312,6 @@
       "type": "imprensa"
     },
     {
-      "title": "EUA pegam o Brasil de surpresa com nova rodada de tarifas em vez de proposta para acordo",
-      "link": "https://www.estadao.com.br/economia/eua-pegam-o-brasil-de-surpresa-com-nova-rodada-de-tarifas-em-vez-de-proposta-para-acordo/",
-      "date": "2026-11-26T00:15:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Lula sondou Trabuco para o Ministério da Fazenda; banqueiro ainda avalia proposta",
       "link": "https://www.estadao.com.br/economia/lula-sondou-trabuco-para-o-ministerio-da-fazenda-banqueiro-ainda-avalia-proposta/",
       "date": "2026-11-25T23:56:32.000Z",
@@ -375,6 +339,24 @@
       "type": "oficial"
     },
     {
+      "title": "Eleições no RJ: STF marca julgamento para 4 de dezembro",
+      "link": "https://www.poder360.com.br/poder-justica/eleicoes-no-rj-stf-marca-julgamento-para-4-de-dezembro/",
+      "date": "2026-11-25T23:12:40.000Z",
+      "summary": "Ministros poderão votar em sessão virtual até 15 de dezembro; ação do PSD questiona decisão que elegeu Ruas no 1º turno",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Michelle agradece a médicos de Bolsonaro: “Anjos sem asas”",
+      "link": "https://www.poder360.com.br/poder-gente/michelle-agradece-a-medicos-de-bolsonaro-anjos-sem-asas/",
+      "date": "2026-11-25T23:09:20.000Z",
+      "summary": "Ex-primeira-dama mencionou o cirurgião Claudio Birolini e o cardiologista Brasil Caiado; ex-presidente permanece na UTI",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "PGR denuncia deputado Gustavo Gayer ao STF por esquema de desvio de cota parlamentar na Câmara",
       "link": "https://g1.globo.com/politica/noticia/2026/11/25/pgr-denuncia-deputado-gustavo-gayer-ao-stf-por-esquema-de-desvio-de-cota-parlamentar-na-camara.ghtml",
       "date": "2026-11-25T23:08:50.000Z",
@@ -393,15 +375,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Moraes determina a destruição dos passaportes de Filipe Martins, condenado por trama golpista",
-      "link": "https://www.estadao.com.br/politica/moraes-determina-a-destruicao-dos-passaportes-de-filipe-martins-condenado-por-trama-golpista-nprp/",
-      "date": "2026-11-25T22:56:53.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "ECA Ambiental: direito de crianças e adolescentes à natureza",
       "link": "https://www12.senado.leg.br/noticias/infomaterias/2026/11/eca-ambiental-direito-de-criancas-e-adolescentes-a-natureza",
       "date": "2026-11-25T22:56:35.000Z",
@@ -411,6 +384,15 @@
       "type": "oficial"
     },
     {
+      "title": "Advogada cita “lapso pontual” sobre datas ao relatar caso com Janones",
+      "link": "https://www.poder360.com.br/poder-congresso/advogada-cita-lapso-pontual-sobre-datas-ao-relatar-caso-com-janones/",
+      "date": "2026-11-25T22:55:30.000Z",
+      "summary": "Ao Poder360, Jade Elena Moraes atribui divergência a abalo emocional, nega ligação com Nikolas e diz reunir material para apresentar ao Ministério Público; deputado nega estupro",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "Relatório destaca importância da educação superior católica para a Amazônia",
       "link": "https://www12.senado.leg.br/noticias/materias/2026/11/25/relatorio-destaca-importancia-da-educacao-superior-catolica-para-a-amazonia",
       "date": "2026-11-25T22:49:29.000Z",
@@ -418,6 +400,15 @@
       "source": "Agência Senado",
       "cat": "politica",
       "type": "oficial"
+    },
+    {
+      "title": "Jair Renan fala sobre pneumonia do pai e elogia Michelle: “Cuidando bem”",
+      "link": "https://www.poder360.com.br/poder-gente/jair-renan-fala-sobre-pneumonia-do-pai-e-elogia-michelle-cuidando-bem/",
+      "date": "2026-11-25T22:48:36.000Z",
+      "summary": "Filho mais novo de Bolsonaro visitou o ex-presidente no Hospital DF Star e disse que a melhora do quadro é gradual",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
     },
     {
       "title": "Criação da Comissão Nacional Indígena da Verdade recebe apoio unânime em audiência na Câmara",
@@ -570,6 +561,15 @@
       "summary": "Governo dos EUA propõe tarifa de 10% sobre aeronaves brasileiras e ameaça elevar taxas sobre açúcar. Administração Trumo acusa Brasil de práticas comerciais \"desleais\" e também mira outros países.",
       "source": "DW Brasil",
       "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Bolsonaro segue com quadro estável e sem previsão de alta, diz boletim médico",
+      "link": "https://www.estadao.com.br/politica/bolsonaro-segue-com-quadro-estavel-e-sem-previsao-de-alta-diz-boletim-medico/",
+      "date": "2026-11-25T17:04:09.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
       "type": "imprensa"
     },
     {
