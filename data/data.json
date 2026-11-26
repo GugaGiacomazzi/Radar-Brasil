@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-26T14:58:42.619Z",
+  "updated": "2026-11-26T16:04:08.620Z",
   "market": {
     "ibov": {
-      "price": 173899.52,
-      "pct": 4.33,
-      "time": "2026-11-26T14:58:36.730Z",
+      "price": 173458.73,
+      "pct": 4.06,
+      "time": "2026-11-26T16:04:02.838Z",
       "history": [
         {
           "d": "2026-10-27",
@@ -88,7 +88,7 @@
         },
         {
           "d": "2026-11-26",
-          "c": 173306.0156
+          "c": 173458.7344
         }
       ]
     },
@@ -145,6 +145,222 @@
   },
   "news": [
     {
+      "title": "Reforma tributária: sem benefícios a produtos e setores, imposto do governo cairia de 11,3% para 7% em 2027, estima órgão do Senado",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/26/reforma-tributaria-sem-beneficios-a-produtos-e-setores-imposto-do-governo-cairia-de-113percent-para-7percent-em-2027-estima-orgao-do-senado.ghtml",
+      "date": "2026-11-26T16:00:01.000Z",
+      "summary": "A Instituição Fiscal Independente (IFI), órgão ligado ao Senado Federal, estimou que sem os benefícios concedidos a produtos e setores da sociedade durante a tramitação da reforma tributária sobre o consumo, a alíquota de referência estimada do futuro imposto ",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Black Friday: celulares lideram descontos no Pix entre produtos monitorados pelo g1; veja lista",
+      "link": "https://g1.globo.com/guia/guia-de-compras/black-friday-celulares-lideram-descontos-no-pix-entre-produtos-monitorados-pelo-g1-veja-lista.ghtml",
+      "date": "2026-11-26T16:00:00.000Z",
+      "summary": "É Black Friday ou Black Fraude? Os celulares são a categoria com a maior diferença entre o preço no Pix e no cartão de crédito entre os 74 produtos monitorados pelo g1 na semana da Black Friday. Os 16 modelos da lista custam, em média, 7,36% menos no Pix, segu",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Nos EUA, Eduardo Bolsonaro anuncia que será pai pela 3ª vez",
+      "link": "https://www.poder360.com.br/poder-gente/nos-eua-eduardo-bolsonaro-anuncia-que-sera-pai-pela-3a-vez/",
+      "date": "2026-11-26T15:57:12.000Z",
+      "summary": "Ex-deputado e Heloísa Bolsonaro compartilham notícia nas redes sociais; nascimento está previsto para junho de 2027",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Governo não pretende adiar reforma tributária, diz Durigan",
+      "link": "https://www.poder360.com.br/poder-economia/governo-nao-pretende-adiar-reforma-tributaria-diz-durigan/",
+      "date": "2026-11-26T15:55:12.000Z",
+      "summary": "Ministro considera 2027 como período de adaptação às novas regras e fala em programa de conformidade que reconheça a boa-fé dos empresários",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Rueda diz que processará Waguinho por comparação com Pablo Escobar",
+      "link": "https://www.poder360.com.br/poder-justica/rueda-diz-que-processara-waguinho-por-comparacao-com-pablo-escobar/",
+      "date": "2026-11-26T15:55:12.000Z",
+      "summary": "Ex-prefeito de Belford Roxo criticou deputado eleito na Câmara; presidente do União Brasil afirmou que cobrará fala na Justiça",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Após 20 anos, Grécia vai deixar de ser país mais endividado da zona do euro",
+      "link": "https://www.dw.com/pt-br/após-20-anos-grécia-vai-deixar-de-ser-país-mais-endividado-da-zona-do-euro/a-80062995?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-26T15:53:00.000Z",
+      "summary": "Embalada pelo crescimento econômico, Grécia reduz drasticamente sua dívida pública e quer até mesmo acelerar pagamentos. Já a Itália deverá retomar posto de país mais endividado que ocupava em 2006.",
+      "source": "DW Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Centrão escolhe nomes 'coringa' para ministérios enquanto espera Lula distribuir pastas",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/centrao-escolhe-nomes-coringa-para-ministerios-enquanto-espera-lula-distribuir-pastas.shtml",
+      "date": "2026-11-26T15:50:00.000Z",
+      "summary": "Partidos do centrão alinham internamente os nomes dos eventuais indicados para integrar o governo de Lula (PT) enquanto aguardam o presidente definir o que que caberá a cada legenda. Leia mais (11/26/2026 - 12h50)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Cleitinho se reúne com Lula, convida petista para posse e defende 'pacificação' do país",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/26/cleitinho-se-reune-com-lula-convida-petista-para-posse-e-defende-pacificacao-do-pais.ghtml",
+      "date": "2026-11-26T15:47:56.000Z",
+      "summary": "O governador eleito de Minas Gerais, Cleitinho Azevedo, após reunião com o presidente Lula Carina Benedetti/TV Globo O governador eleito de Minas Gerais, Cleitinho Azevedo (Republicanos), reuniu-se nesta quinta-feira (26) com o presidente Luiz Inácio Lula da S",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Ajuste fiscal, Previdência, tarifas, bets, IA: o que Trabuco já disse sobre temas-chave da economia",
+      "link": "https://www.estadao.com.br/economia/o-que-trabuco-ja-disse-sobre-temas-chave-da-economia/",
+      "date": "2026-11-26T15:46:38.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Macron chama carne brasileira de ‘dopada’ e fala em barrar produto; exportadores reagem",
+      "link": "https://www.estadao.com.br/economia/agronegocios/macron-carne-brasileira-dopada-barrar-produto-exportadores-reagem/",
+      "date": "2026-11-26T15:44:17.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Medidas do BC contra endividamento vão afetar até 20 mi de pessoas, diz diretor",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/medidas-do-bc-contra-endividamento-vao-afetar-ate-20-mi-de-pessoas-diz-diretor.shtml",
+      "date": "2026-11-26T15:39:00.000Z",
+      "summary": "As medidas anunciadas pelo Banco Central para combater o endividamento dos clientes no cartão de crédito e em operações de crédito sem garantia vão afetar até 20 milhões de pessoas, segundo o diretor de Regulação, Gilneu Vivan. Leia mais (11/26/2026 - 12h39)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Em novo atraso, governo joga edital do Tecon-10 para 2027",
+      "link": "https://www.poder360.com.br/poder-governo/em-novo-atraso-governo-joga-edital-do-tecon-10-para-2027/",
+      "date": "2026-11-26T15:38:56.000Z",
+      "summary": "Ministério de Portos e Aeroportos já havia dito que leilão ficaria para o ano que vem, mas havia chance de regras saírem ainda em 2026",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Governo dá 10 dias para que Google amplie informações sobre anúncios e fixa multa de R$ 200 mil em caso de descumprimento",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/26/governo-da-10-dias-para-que-google-amplie-informacoes-sobre-anuncios-e-fixa-multa-diaria-de-r-200-mil-em-caso-de-descumprimento.ghtml",
+      "date": "2026-11-26T15:38:39.000Z",
+      "summary": "A Secretaria Nacional do Consumidor (Senacon), do Ministério da Justiça, determinou que o Google Brasil amplie as informações disponíveis em sua Central de Transparência de Anúncios. A medida foi adotada em um processo administrativo aberto nesta quarta-feira ",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Dólar alto traz incerteza, mas Latam mantém planos de expansão para 2027",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/dolar-alto-traz-incerteza-mas-latam-mantem-planos-de-expansao-para-2027.shtml",
+      "date": "2026-11-26T15:35:00.000Z",
+      "summary": "A volatilidade do dólar aumenta as incertezas para o planejamento da Latam em 2027, mas não deve impedir a companhia aérea de manter a expectativa de crescimento no Brasil. A empresa ainda avalia o ritmo de expansão para o próximo ano, diante da pressão cambia",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Construtoras oferecem descontos em imóveis e condições especiais na Black Friday; veja cuidados",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/construtoras-oferecem-descontos-em-imoveis-e-condicoes-especiais-na-black-friday-veja-cuidados.shtml",
+      "date": "2026-11-26T15:30:00.000Z",
+      "summary": "Construtoras entraram na Black Friday oferecendo período de carência, entrada facilitada, brindes e descontos. É preciso, porém, ficar atento aos detalhes, já que o compromisso financeiro é de longo prazo e de valores altos. Leia mais (11/26/2026 - 12h30)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "'Carne dopada': exportadores brasileiros rebatem fala de Macron: 'grave e inaceitável um chefe de Estado recorrer a inverdades'",
+      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/26/exportadores-de-carne-rebatem-fala-de-macron.ghtml",
+      "date": "2026-11-26T15:24:20.000Z",
+      "summary": "Imagem do presidente da França, Emmanuel Macron, durante uma reunião com representantes do setor agrícola francês no Palácio do Eliseu, em 25 de novembro d e2026. Reprodução A Associação Brasileira de Proteína Animal (ABPA) e a Associação Brasileira das Indúst",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Como cidadãos indianos são aliciados pela Rússia para lutar na Ucrânia",
+      "link": "https://www.dw.com/pt-br/como-cidadãos-indianos-são-aliciados-pela-rússia-para-lutar-na-ucrânia/a-80055545?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-26T15:23:00.000Z",
+      "summary": "Seja por meio de falsas promessas de emprego ou desespero, cidadãos da Índia continuam a ser atraídos por agentes russos para lutar na guerra na Ucrânia, mesmo sem treinamento militar e muitas vezes à força.",
+      "source": "DW Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Tarcísio mantém no cargo secretária de Esportes para o segundo mandato",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/tarcisio-mantem-no-cargo-secretaria-de-esportes-para-o-segundo-mandato.shtml",
+      "date": "2026-11-26T15:23:00.000Z",
+      "summary": "O governador de São Paulo, Tarcísio de Freitas (Republicanos), decidiu manter no cargo a secretária estadual de Esportes, Cláudia Carletto, para seu segundo mandato. Leia mais (11/26/2026 - 12h23)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Dos EUA, Flávio Bolsonaro lista R$ 79,3 milhões em emendas para o orçamento de 2027",
+      "link": "https://www.estadao.com.br/politica/dos-eua-flavio-bolsonaro-lista-r-793-milhoes-em-emendas-para-o-orcamento-de-2027-nprp/",
+      "date": "2026-11-26T15:16:03.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lukoil venderá ativos no exterior a grupo americano por US$ 10 bilhões",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/lukoil-vendera-ativos-no-exterior-a-grupo-americano-por-us-10-bilhoes.shtml",
+      "date": "2026-11-26T15:11:00.000Z",
+      "summary": "Um grupo de investidores liderado por americanos assinou um acordo de US$ 10 bilhões (R$ 57,28 bilhões) para comprar os ativos internacionais de uma das maiores empresas petrolíferas da Rússia. A operação é parte de um plano de negócios que o governo Trump tem",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Até 20 milhões de clientes podem ser afetados por medidas de restrição, incluindo no cartão rotativo, diz BC",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/26/ate-20-milhoes-de-pessoas-podem-ter-limite-do-cartao-de-credito-reduzido-para-conter-endividamento-diz-banco-central.ghtml",
+      "date": "2026-11-26T15:03:45.000Z",
+      "summary": "O diretor de Regulação do Banco Central (BC), Gilneu Vivan, informou nesta quinta-feira (26) que até 20 milhões de clientes das instituições financeiras podem ser afetados por medidas de restrição de crédito a partir de 1º de julho de 2027. ▶️Esse universo de ",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Deputados aprovam acordo de cooperação jurídica na área penal entre Brasil e Guiana",
+      "link": "https://www.camara.leg.br/noticias/1323264-deputados-aprovam-acordo-de-cooperacao-juridica-na-area-penal-entre-brasil-e-guiana",
+      "date": "2026-11-26T15:00:00.000Z",
+      "summary": "Texto segue para análise do Senado",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Lula deve replicar maioria de políticos na Esplanada dos Ministérios no quarto mandato",
+      "link": "https://www.estadao.com.br/politica/lula-deve-replicar-maioria-de-politicos-na-esplanada-dos-ministerios-no-quarto-mandato/",
+      "date": "2026-11-26T15:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Conib faz jantar que marca troca na sua presidência e abertura de convenção",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/conib-faz-jantar-que-marca-troca-na-sua-presidencia-e-abertura-de-convencao.shtml",
+      "date": "2026-11-26T14:58:00.000Z",
+      "summary": "A Confederação Israelita do Brasil (Conib) fará neste sábado (28) um jantar que marcará a posse do novo presidente da entidade, Luiz Kignel. Leia mais (11/26/2026 - 11h58)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "Cancelada votação do parecer sobre mudanças no Código de Trânsito",
       "link": "https://www.camara.leg.br/noticias/1323183-cancelada-votacao-do-parecer-sobre-mudancas-no-codigo-de-transito",
       "date": "2026-11-26T14:53:00.000Z",
@@ -152,24 +368,6 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Regras americanas podem atrasar modelos de IA de empresas chinesas",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/regras-americanas-podem-atrasar-modelos-de-ia-de-empresas-chinesas.shtml",
-      "date": "2026-11-26T14:53:00.000Z",
-      "summary": "A chinesa Z.AI está atrasada no cronograma de lançamento de seu próximo modelo principal de inteligência artificial, enquanto a rival Moonshot AI prevê que o intervalo entre grandes lançamentos poderá dobrar, passando de seis meses para um ano ou mais, caso pe",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Bilynskyj diz que disputará presidência da Comissão da Mulher em 2027",
-      "link": "https://www.poder360.com.br/poder-congresso/bilynskyj-diz-que-disputara-presidencia-da-comissao-da-mulher-em-2027/",
-      "date": "2026-11-26T14:50:36.000Z",
-      "summary": "Fernanda Melchionna ironiza anúncio: “Me autoproclamo presidente da República”; deputado perdeu vaga de titular no colegiado",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
     },
     {
       "title": "Câmara aprova acordo de cooperação jurídica entre Brasil e Guiana em processos civis",
@@ -181,15 +379,6 @@
       "type": "oficial"
     },
     {
-      "title": "Rumo é autuada por ANTT após furtos e depredação na Ferrovia Malha Oeste",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/infraestrutura/2026/11/rumo-e-autuada-por-antt-apos-furtos-e-depredacao-na-ferrovia-malha-oeste.shtml",
-      "date": "2026-11-26T14:42:00.000Z",
-      "summary": "A ferrovia Malha Oeste, administrada pela empresa Rumo, sofreu furtos e depredações em suas instalações menos de dois meses depois de a concessionária assinar um acordo com o governo federal para manter a vigilância e a conservação da malha até sua devolução à",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Deputados iniciam sessão de votações desta quinta-feira; acompanhe",
       "link": "https://www.camara.leg.br/noticias/1323085-deputados-iniciam-sessao-de-votacoes-desta-quinta-feira-acompanhe",
       "date": "2026-11-26T14:41:00.000Z",
@@ -199,57 +388,12 @@
       "type": "oficial"
     },
     {
-      "title": "\"Jensanity\" toma conta de Taiwan e da China com retorno do fundador da Nvidia",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/jensanity-toma-conta-de-taiwan-e-da-china-com-retorno-do-fundador-da-nvidia.shtml",
-      "date": "2026-11-26T14:39:00.000Z",
-      "summary": "Após a notícia de que Jensen Huang reassumiria o comando da Nvidia, Yu Kai, executivo chinês à frente da Horizon Robotics, concorrente no setor de design de chips, recorreu a versos do poeta chinês Du Fu, que viveu no século 8. Leia mais (11/26/2026 - 11h39)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Fuga, exílio ou exfiltração: o que aconteceu com Flávio Bolsonaro?",
       "link": "https://www.dw.com/pt-br/fuga-exílio-ou-exfiltração-o-que-aconteceu-com-flávio-bolsonaro/a-80034386?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-26T14:37:00.000Z",
       "summary": "Um mês após a saída do senador do Brasil, circunstâncias da viagem aos Estados Unidos permanecem obscuras. Especialistas analisam a fuga de Flávio e discutem os limites da narrativa de perseguição política.",
       "source": "DW Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Quem é Luiz Carlos Trabuco Cappi, convidado por Lula para o Ministério da Fazenda",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/quem-e-luiz-carlos-trabuco-cappi-convidado-por-lula-para-o-ministerio-da-fazenda.shtml",
-      "date": "2026-11-26T14:32:00.000Z",
-      "summary": "O banqueiro Luiz Carlos Trabuco Cappi, 75, foi convidado pelo presidente Luiz Inácio Lula da Silva (PT) para o ministério da Fazenda do governo Lula. Presidente do conselho de administração do Bradesco, onde já foi CEO, o executivo pediu tempo para conversar n",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Embraer diz que novas tarifas de Trump pode encarecer passagens e pressionar inflação nos EUA",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/26/embraer-aeronaves-eua.ghtml",
-      "date": "2026-11-26T14:29:23.000Z",
-      "summary": "Tarifaço de Trump: EUA propõem elevar tarifas sobre aeronaves e açúcar brasileiros A Embraer foi pega de surpresa pela proposta de tarifas dos Estados Unidos, afirmou nesta quinta-feira o presidente-executivo da fabricante de aviões, Francisco Gomes Neto. Segu",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Responsabilidade pelo ajuste fiscal é de Lula",
-      "link": "https://www.estadao.com.br/politica/raquel-landim/responsabilidade-pelo-ajuste-fiscal-e-de-lula/",
-      "date": "2026-11-26T14:28:15.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Tarcísio confirma continuidade do secretário de Educação e do controlador-geral do Estado",
-      "link": "https://www.estadao.com.br/politica/tarcisio-confirma-continuidade-do-secretario-de-educacao-e-do-controlador-geral-do-estado/",
-      "date": "2026-11-26T14:21:11.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -262,60 +406,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Marinho critica CNI por ação no STF contra regulamentação sobre 6 X 1",
-      "link": "https://www.poder360.com.br/poder-economia/marinho-critica-cni-por-acao-no-stf-contra-regulamentacao-sobre-6-x-1/",
-      "date": "2026-11-26T14:08:46.000Z",
-      "summary": "Ministro do Trabalho e Emprego disse que presidente da confederação não o procurou para conversas",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Embaixador dos EUA na Argentina pede novo encontro entre Trump e Milei",
-      "link": "https://www.poder360.com.br/poder-internacional/embaixador-dos-eua-na-argentina-pede-novo-encontro-entre-trump-e-milei/",
-      "date": "2026-11-26T14:04:21.000Z",
-      "summary": "Peter Lamelas defende aproximação entre os 2 presidentes; argentinos voltarão às urnas em 2027",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Ao vivo: BC fala sobre medidas para combater o endividamento",
-      "link": "https://www.poder360.com.br/poder-economia/ao-vivo-bc-fala-sobre-medidas-para-combater-o-endividamento/",
-      "date": "2026-11-26T14:00:01.000Z",
-      "summary": "Regras estabelecem critérios mais rigorosos para a concessão de empréstimos e financiamentos",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Milhares protestam no Paraguai contra violência contra mulher e prejuízos provocados por crise bancária",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/26/milhares-protestam-no-paraguai-contra-violencia-contra-a-mulher-e-crise-do-ueno-bank.ghtml",
-      "date": "2026-11-26T13:48:36.000Z",
-      "summary": "Pessoas gritam palavras de ordem e seguram faixas enquanto protestam em frente ao Banco Central do Paraguai, exigindo a devolução de suas economias após a quebra do Ueno Bank, em Assunção, no dia 16 de novembro de 2026. DANIEL DUARTE / AFP Milhares de pessoas ",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Moraes rejeita pedido da PGR de crédito extra de R$ 324 milhões para bancar penduricalhos",
-      "link": "https://www.estadao.com.br/politica/moraes-rejeita-pedido-da-pgr-de-credito-extra-de-r-324-milhoes-para-bancar-penduricalhos/",
-      "date": "2026-11-26T13:44:10.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Alckmin critica tarifa de 10% dos EUA sobre aviões brasileiros e chama medida de 'completamente descabida'",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/26/alckimin-eua-tarias.ghtml",
-      "date": "2026-11-26T13:31:21.000Z",
-      "summary": "Geraldo Alckimin defendeu código de ética e mandato para ministros do STF em Ribeirão Preto Valdinei Malagutti/EPTV O vice-presidente Geraldo Alckmin, disse nesta quinta-feira (26) que as novas tarifas propostas pelos EUA são completamente irrazoáveis e que o ",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "CEO da Fictor inflou capital da holding de R$ 4 milhões para quase R$ 1 bi sem aporte real, diz MP",
       "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/ceo-da-fictor-inflou-capital-da-holding-de-r-4-milhoes-para-quase-r-1-bi-sem-aporte-real-diz-mp/",
       "date": "2026-11-26T13:28:06.000Z",
@@ -325,63 +415,9 @@
       "type": "imprensa"
     },
     {
-      "title": "Latam realiza primeiro voo oficial com avião da Embraer entre Guarulhos e Brasília",
-      "link": "https://www.estadao.com.br/economia/latam-realiza-primeiro-voo-oficial-com-aviao-da-embraer-entre-guarulhos-e-brasilia-npr/",
-      "date": "2026-11-26T13:19:32.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Preço dos alimentos: o que ficou mais caro e o que barateou na prévia da inflação de novembro",
-      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/26/preco-dos-alimentos-o-que-ficou-mais-caro-e-o-que-barateou-na-previa-da-inflacao-de-novembro.ghtml",
-      "date": "2026-11-26T13:15:54.000Z",
-      "summary": "IPCA-15 fica em 0,22% em novembro O Índice Nacional de Preços ao Consumidor Amplo (IPCA), considerado a inflação oficial do país, subiu 0,22% na prévia de outubro. Os dados foram divulgados nesta quinta-feira (26) pelo Instituto Brasileiro de Geografia e Estat",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Os três Poderes desenham um pacto pela impunidade",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/dora-kramer/2026/11/os-tres-poderes-desenham-um-pacto-pela-impunidade.shtml",
-      "date": "2026-11-26T13:03:00.000Z",
-      "summary": "Os ministros Alexandre de Moraes, Dias Toffoli e Kassio Nunes Marques não se sentiram minimamente constrangidos com o pedido de André Mendonça para a abertura do sigilo do relatório da Polícia Federal sobre ele nas investigações do Banco Master. Leia mais (11/",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Lula precisa negociar com aliados novas medidas fiscais antes de fazer convites para ministérios",
-      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/26/lula-precisa-negociar-com-aliados-novas-medidas-fiscais-antes-de-fazer-convites-para-ministerios.ghtml",
-      "date": "2026-11-26T13:02:18.000Z",
-      "summary": "O presidente brasileiro Luiz Inácio Lula da Silva conversa após reunião com o Conselho Nacional de Política Energética (CNPE) em Brasília, Brasil, em 6 de novembro de 2026 REUTERS/Diego Herculano Antes de enviar as novas medidas fiscais ao Congresso, interlocu",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Prévia da inflação: IPCA-15 desacelera e fecha novembro em 0,22%, abaixo do esperado",
       "link": "https://www.estadao.com.br/economia/ibge-ipca-15-previa-inflacao-novembro-2026/",
       "date": "2026-11-26T12:53:27.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Desafio de Lula com Trabuco é blindar Fazenda de fogo amigo do PT",
-      "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/11/26/ministerio-fazenda-lula-4.ghtml",
-      "date": "2026-11-26T12:43:44.000Z",
-      "summary": "Desafio de Lula com Trabuco é blindar Fazenda de fogo amigo do PT A possível indicação do banqueiro Luiz Carlos Trabuco para ministro da Fazenda do governo Lula 4 seria um reconhecimento do presidente de que não se pode repetir o que foi seu terceiro mandato. ",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Enquanto o governo não aprende a controlar os gastos, a conta sobra para o brasileiro",
-      "link": "https://www.estadao.com.br/economia/duquesa-de-tax/governo-controlar-gastos-conta-sobra-para-brasileiro/",
-      "date": "2026-11-26T12:31:44.000Z",
       "summary": "",
       "source": "Estadão",
       "cat": "economia",
@@ -406,24 +442,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Lula quer Ministério da Segurança turbinado e foco em secretaria de combate ao crime organizado",
-      "link": "https://g1.globo.com/politica/blog/gerson-camarotti/post/2026/11/26/lula-quer-ministerio-da-seguranca-turbinado-e-foco-em-secretaria-de-combate-ao-crime-organizado.ghtml",
-      "date": "2026-11-26T12:03:51.000Z",
-      "summary": "Gerson Camarotti comenta criação do Ministério da Segurança Pública O presidente Luiz Inácio Lula da Silva (PT) decidiu turbinar o novo Ministério da Segurança Pública. Interlocutores do atual Ministro da Justiça, Wellington Lima e Silva, disseram que o presid",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Investimento estrangeiro atinge marca US$ 1,4 trilhão em 2025, quase metade do PIB, diz BC",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/26/investimento-estrangeiro-atinge-marca-us-14-trilhao-em-2025-quase-metade-do-pib-aplicacoes-no-exterior-superam-reservas.ghtml",
-      "date": "2026-11-26T11:57:30.000Z",
-      "summary": "O Banco Central informou nesta quinta-feira (26) que o investimento direto no país, ou seja, o valor acumulado dos investimentos de estrangeiros em empresas e negócios no Brasil, atingiu a marca de R$ 1,41 trilhão no fim de 2025. O montante equivale a 49,3% do",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "BC divulga Estatísticas do Setor Externo à imprensa",
       "link": "https://www.bcb.gov.br/detalhenoticia/21331/nota",
       "date": "2026-11-26T11:34:13.000Z",
@@ -442,15 +460,6 @@
       "type": "oficial"
     },
     {
-      "title": "Comissão debate política nacional de proteção às mães atípicas e cuidadores familiares; participe",
-      "link": "https://www.camara.leg.br/noticias/1322723-comissao-debate-politica-nacional-de-protecao-as-maes-atipicas-e-cuidadores-familiares-participe",
-      "date": "2026-11-26T11:00:00.000Z",
-      "summary": "",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
       "title": "Como campanha de Lula inspirou até a direita na eleição da Espanha — e as críticas ao presidente por se envolver na disputa",
       "link": "https://www.bbc.com/portuguese/articles/cv0l341l4yd1o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-26T10:40:41.000Z",
@@ -460,27 +469,18 @@
       "type": "imprensa"
     },
     {
-      "title": "Livro sobre a trajetória de Quércia é lançado em Campinas",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/livro-sobre-a-trajetoria-de-quercia-e-lancado-em-campinas.shtml",
-      "date": "2026-11-26T10:00:00.000Z",
-      "summary": "Com prefácio do ex-presidente Michel Temer, um livro que retrata a trajetória política do ex-governador Orestes Quércia (MDB) será lançado nesta quinta-feira (26) em Campinas, onde ele foi prefeito. Leia mais (11/26/2026 - 07h00)",
-      "source": "Folha",
+      "title": "Fictor é alvo do MP por suposta fraude bilionária; Justiça bloqueia R$ 4,3 bi de 233 investigados",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/grupo-fictor-e-alvo-de-operacao-do-mp-por-suspeita-de-fraude-bilionaria/",
+      "date": "2026-11-26T10:26:21.000Z",
+      "summary": "",
+      "source": "Estadão",
       "cat": "politica",
       "type": "imprensa"
     },
     {
-      "title": "Entidades veem falta de transparência do governo Lula em ação sobre direitos humanos nas empresas",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/entidades-veem-falta-de-transparencia-do-governo-lula-em-acao-sobre-direitos-humanos-nas-empresas.shtml",
-      "date": "2026-11-26T09:00:00.000Z",
-      "summary": "A Aliança pelos Direitos Humanos em Cadeias Produtivas, que reúne 18 ONGs e entidades de defesa do mundo do trabalho, divulgou nota em que reclama da falta de transparência por parte do governo Lula na elaboração da Política de Direitos Humanos e Empresas. Lei",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Qual é o efeito de um dólar num patamar mais alto para a economia brasileira?",
-      "link": "https://www.estadao.com.br/economia/efeito-dolar-alto-economia-brasileira/",
-      "date": "2026-11-26T08:30:00.000Z",
+      "title": "Como os dados do Claro geodata ajudam a planejar cidades mais inteligentes",
+      "link": "https://www.estadao.com.br/economia/negocios/como-os-dados-do-claro-geodata-ajudam-a-planejar-cidades-mais-inteligentes/",
+      "date": "2026-11-26T10:01:00.000Z",
       "summary": "",
       "source": "Estadão",
       "cat": "economia",
@@ -532,15 +532,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Polônia criará zona de exclusão aérea na fronteira com a Ucrânia para conter ameaças russas",
-      "link": "https://www.dw.com/pt-br/polônia-criará-zona-de-exclusão-aérea-na-fronteira-com-a-ucrânia-para-conter-ameaças-russas/a-80054184?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-25T18:41:00.000Z",
-      "summary": "Após incursões de drones e a queda de mísseis russos em seu território, governo polonês planeja criar área restrita para voos perto da fronteira e pede que aliados da Otan adotem medida semelhante.",
-      "source": "DW Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
       "title": "Bomba da 2ª Guerra força evacuação de 700 pessoas no sul da Alemanha",
       "link": "https://www.dw.com/pt-br/bomba-da-2ª-guerra-força-evacuação-de-700-pessoas-no-sul-da-alemanha/a-80053249?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-25T18:34:00.000Z",
@@ -563,15 +554,6 @@
       "link": "https://www.dw.com/pt-br/eua-anunciam-novas-tarifas-miram-embraer-e-ampliam-pressão-comercial-sobre-brasil-e-china/a-80053122?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-25T17:11:00.000Z",
       "summary": "Governo dos EUA propõe tarifa de 10% sobre aeronaves brasileiras e ameaça elevar taxas sobre açúcar. Administração Trumo acusa Brasil de práticas comerciais \"desleais\" e também mira outros países.",
-      "source": "DW Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Como o PCC e o Comando Vermelho se espalharam pelo Brasil",
-      "link": "https://www.dw.com/pt-br/como-o-pcc-e-o-comando-vermelho-se-espalharam-pelo-brasil/a-80045430?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-25T12:59:00.000Z",
-      "summary": "Nascidas nas prisões de São Paulo e do Rio de Janeiro, as duas maiores facções do país ampliaram sua atuação e hoje influenciam mercados ilegais em praticamente todas as regiões brasileiras e em rotas internacionais.",
       "source": "DW Brasil",
       "cat": "internacional",
       "type": "imprensa"
