@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-26T11:17:22.474Z",
+  "updated": "2026-11-26T12:22:50.590Z",
   "market": {
     "ibov": {
       "price": 166684.61,
       "pct": 1.58,
-      "time": "2026-11-26T11:17:15.663Z",
+      "time": "2026-11-26T12:22:45.569Z",
       "history": [
         {
           "d": "2026-10-27",
@@ -141,6 +141,141 @@
   },
   "news": [
     {
+      "title": "Ao vivo: Alckmin celebra 1º voo da Latam com avião da Embraer",
+      "link": "https://www.poder360.com.br/poder-infra/ao-vivo-alckmin-celebra-1o-voo-da-latam-com-aviao-da-embraer/",
+      "date": "2026-11-26T12:21:40.000Z",
+      "summary": "Vice-presidente vai a evento realizado na Base Aérea de Brasília",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Grupo Fictor: o que faz a empresa que tentou comprar o Banco Master e é investigada por fraude bilionária",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/26/fictor-master-fraude.ghtml",
+      "date": "2026-11-26T12:05:46.000Z",
+      "summary": "Polícia Civil de SP faz operação contra o Grupo Fictor A Polícia Civil e o Ministério Público de São Paulo fazem, nesta quinta-feira (26), uma operação contra o Grupo Fictor, conglomerado empresarial que anunciou, em novembro do ano passado, a intenção de comp",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Prévia da inflação sobe 0,22% em novembro; em 12 meses, vai a 4,64%",
+      "link": "https://www.poder360.com.br/poder-economia/previa-da-inflacao-sobe-022-em-novembro-em-12-meses-vai-a-464/",
+      "date": "2026-11-26T12:04:33.000Z",
+      "summary": "No ano (de janeiro a novembro), IPCA já acumula alta de 4,38%, segundo dados do IBGE",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lula quer Ministério da Segurança turbinado e foco em secretaria de combate ao crime organizado",
+      "link": "https://g1.globo.com/politica/blog/gerson-camarotti/post/2026/11/26/lula-quer-ministerio-da-seguranca-turbinado-e-foco-em-secretaria-de-combate-ao-crime-organizado.ghtml",
+      "date": "2026-11-26T12:03:51.000Z",
+      "summary": "Gerson Camarotti comenta criação do Ministério da Segurança Pública O presidente Luiz Inácio Lula da Silva (PT) decidiu turbinar o novo Ministério da Segurança Pública. Interlocutores do atual Ministro da Justiça, Wellington Lima e Silva, disseram que o presid",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Latam faz primeiro voo com avião da Embraer entre Guarulhos e Brasília",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/latam-faz-primeiro-voo-com-aviao-da-embraer-entre-guarulhos-e-brasilia.shtml",
+      "date": "2026-11-26T12:02:00.000Z",
+      "summary": "A Latam realizou na manhã desta quinta-feira (26) o primeiro voo oficial com um avião da Embraer. O jato E195-E2 decolou do aeroporto de Guarulhos (SP) e seguiu para a Base Aérea de Brasília. Leia mais (11/26/2026 - 09h02)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "IPCA-15 sobe 0,22% em novembro, puxado por alimentos",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/26/ipca-15-previa-da-inflacao-novembro.ghtml",
+      "date": "2026-11-26T12:00:28.000Z",
+      "summary": "Preço do tomate dispara no interior de SP após excesso de chuvas Reprodução / TV TEM Setor de serviços — que engloba bares, restaurantes, hotelaria, salões de beleza e outras atividades do tipo. Fábio Tito/g1 O Índice Nacional de Preços ao Consumidor Amplo 15 ",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Dólar abre em queda e vai abaixo de R$ 5,80, com prévia da inflação e política econômica no radar",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/26/dolar-ibovespa.ghtml",
+      "date": "2026-11-26T12:00:00.000Z",
+      "summary": "Entenda o que faz o preço do dólar subir ou cair 9 O dólar abriu a sessão desta quinta-feira (26) em queda, com recuo de 0,77% perto das 9h10, cotado a R$ 5,7718. Na mínima do dia, chegou a R$ 5,7628. Já as negociações do Ibovespa, principal índice da bolsa br",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Investimento estrangeiro atinge marca US$ 1,4 trilhão em 2025, quase metade do PIB; aplicações no exterior superam reservas",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/26/investimento-estrangeiro-atinge-marca-us-14-trilhao-em-2025-quase-metade-do-pib-aplicacoes-no-exterior-superam-reservas.ghtml",
+      "date": "2026-11-26T11:57:30.000Z",
+      "summary": "O Banco Central informou nesta quinta-feira (26) que o investimento direto no país, ou seja, o valor acumulado dos investimentos de estrangeiros em empresas e negócios no Brasil, atingiu a marca de R$ 1,41 trilhão no fim de 2025. A posição equivale a 49,3% do ",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Moraes autoriza Débora do Batom a participar de evento natalino do filho",
+      "link": "https://www.estadao.com.br/politica/moraes-autoriza-debora-do-batom-a-participar-de-evento-natalino-do-filho-nprp/",
+      "date": "2026-11-26T11:49:04.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Câmara aprova projeto que prevê alertas sonoros e luminosos em tornozeleiras de agressores de mulher",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/26/camara-projeto-alerta-tornozeleira-feminicidios.ghtml",
+      "date": "2026-11-26T11:45:48.000Z",
+      "summary": "AVISO: a reportagem a seguir contém relato de violência. Em caso de violência, ligue 180. A Central de Atendimento à Mulher funciona 24 horas. O plenário da Câmara dos Deputados aprovou nesta quarta-feira (25) o Projeto de Lei 5.542/2026, que estabelece novas ",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Em busca de um 'novo Meirelles', Lula tenta atrair Trabuco",
+      "link": "https://g1.globo.com/economia/blog/ana-flor/post/2026/11/26/em-busca-de-um-novo-meirelles-lula-tenta-atrair-trabuco.ghtml",
+      "date": "2026-11-26T11:37:17.000Z",
+      "summary": "Luiz Carlos Trabuco Reprodução/ World Economic Forum/Benedikt von Loebell Em busca de um novo “Meirelles”, o presidente Luiz Inácio Lula da Silva (PT) tenta atrair Luiz Carlos Trabuco para o ministério da Fazenda, mas deve ter dificuldade em convencer o execut",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Contas externas do Brasil têm deficit de US$ 4 bilhões em outubro",
+      "link": "https://www.poder360.com.br/poder-economia/contas-externas-do-brasil-tem-deficit-de-us-4-bilhoes-em-outubro/",
+      "date": "2026-11-26T11:34:24.000Z",
+      "summary": "O Banco Central considera o saldo da balança comercial e os serviços adquiridos por brasileiros no exterior e a renda",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "BC divulga Estatísticas do Setor Externo à imprensa",
+      "link": "https://www.bcb.gov.br/detalhenoticia/21331/nota",
+      "date": "2026-11-26T11:34:13.000Z",
+      "summary": "",
+      "source": "Banco Central",
+      "cat": "economia",
+      "type": "oficial"
+    },
+    {
+      "title": "Quem é Rafael Gois, CEO e fundador da Fictor e investigado em operação em SP",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/quem-e-rafael-gois-ceo-e-fundador-da-fictor-e-investigado-em-operacao-em-sp.shtml",
+      "date": "2026-11-26T11:33:00.000Z",
+      "summary": "Rafael Ribeiro Leite de Gois, 47, fundador e CEO da holding financeira Fictor, é investigado pela Polícia Civil e pelo Ministério Público de São Paulo em operação deflagrada nesta quinta-feira (26) sobre o grupo que controla. Leia mais (11/26/2026 - 08h33)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Nvidia orienta suspensão de envio de chips para quatro países do Sudeste Asiático",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/nvidia-orienta-suspensao-de-envio-de-chips-para-quatro-paises-do-sudeste-asiatico.shtml",
+      "date": "2026-11-26T11:32:00.000Z",
+      "summary": "A Nvidia orientou seus parceiros de fabricação a suspender o envio de servidores para quatro países do Sudeste Asiático, enquanto os EUA intensificam os controles de exportação para impedir o acesso da China ao poder computacional para inteligência artificial.",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "Seminário debate papel da educação ambiental no enfrentamento de emergências climáticas; participe",
       "link": "https://www.camara.leg.br/noticias/1322747-seminario-debate-papel-da-educacao-ambiental-no-enfrentamento-de-emergencias-climaticas-participe",
       "date": "2026-11-26T11:08:00.000Z",
@@ -159,24 +294,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Aliados defendem Alckmin no Ministério da Segurança Pública",
-      "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/11/26/alckmin-seguranca-publica.ghtml",
-      "date": "2026-11-26T11:06:01.000Z",
-      "summary": "Geraldo Alckmin. Foto: Ricardo Stuckert O vice-presidente da República, Geraldo Alckmin (PSB), é cotado para assumir o posto de ministro da Segurança Pública no quarto mandato de Lula (PT). O ministério deve ser criado em 2027 e foi uma promessa de campanha de",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Entenda o que é a Fictor, que tentou comprar o Master e é alvo de operação em SP",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/entenda-o-que-e-a-fictor-que-tentou-comprar-o-master-e-e-alvo-de-operacao-em-sp.shtml",
-      "date": "2026-11-26T11:05:00.000Z",
-      "summary": "A holding financeira Fictor, alvo de operação em São Paulo, faz parte de um conglomerado com negócios de US$ 1 bilhão em alimentos, gestão de recursos, pagamentos, energia e imóveis, além de ter sido uma das principais patrocinadoras do Palmeiras, para quem pa",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Comissão debate política nacional de proteção às mães atípicas e cuidadores familiares; participe",
       "link": "https://www.camara.leg.br/noticias/1322723-comissao-debate-politica-nacional-de-protecao-as-maes-atipicas-e-cuidadores-familiares-participe",
       "date": "2026-11-26T11:00:00.000Z",
@@ -184,33 +301,6 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Cidades de baixo carbono para mitigar efeitos de mudanças climáticas",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/claudiobernardes/2026/11/cidades-de-baixo-carbono-para-mitigar-efeitos-de-mudancas-climaticas.shtml",
-      "date": "2026-11-26T11:00:00.000Z",
-      "summary": "Cada vez mais as cidades têm sido alvo de efeitos do avanço das mudanças climáticas, que causam prejuízos não só para a infraestrutura urbana e as propriedades privadas, mas também para a saúde da população. Leia mais (11/26/2026 - 08h00)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "China avança no mercado global de carros e ameaça montadoras ocidentais",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/china-avanca-no-mercado-global-de-carros-e-ameaca-montadoras-ocidentais.shtml",
-      "date": "2026-11-26T11:00:00.000Z",
-      "summary": "É uma sequência de acontecimentos que se repetiu em diferentes partes da China, com repercussões no mundo todo: um guindaste chega a uma concessionária da BMW, arranca a placa da montadora alemã e a substitui pelo logotipo de uma marca chinesa de automóveis. L",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Escândalo de espionagem leva EUA a endurecer regras, e Nvidia barra servidores no Sudeste Asiático",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/26/escandalo-de-espionagem-leva-eua-a-endurecer-regras-e-nvidia-barra-servidores-no-sudeste-asiatico.ghtml",
-      "date": "2026-11-26T10:59:34.000Z",
-      "summary": "Trump pode ter lucrado com volta de Jensen Huang ao comando da Nvidia. O grupo de tecnologia americano Nvidia proibiu o envio de servidores que contêm seus chips de inteligência artificial para quatro países do sudeste asiático, informou o jornal Financial Tim",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
     },
     {
       "title": "Comissão debate qualidade dos serviços de energia elétrica prestados pela Energisa em Mato Grosso do Sul",
@@ -231,21 +321,12 @@
       "type": "oficial"
     },
     {
-      "title": "Em eleição espanhola, Lula inspira batalha digital da esquerda e recebe críticas da direita por suposta intervenção",
+      "title": "Como campanha de Lula inspirou até a direita na eleição da Espanha — e as críticas ao presidente por se envolver na disputa",
       "link": "https://www.bbc.com/portuguese/articles/cv0l341l4yd1o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-26T10:40:41.000Z",
       "summary": "Lula acabou se tornando personagem das eleições na Espanha em 29 de novembro, onde os favoritos são o atual premiê, Pedro Sánchez, do Partido Socialista Operário Espanhol, de esquerda, e Alberto Núñez Feijóo, do Partido Popular, de direita.",
       "source": "BBC News Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Fictor é alvo do MP por suposta fraude bilionária; Justiça bloqueia R$ 4,3 bi de 233 investigados",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/grupo-fictor-e-alvo-de-operacao-do-mp-por-suspeita-de-fraude-bilionaria/",
-      "date": "2026-11-26T10:26:21.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -262,15 +343,6 @@
       "link": "https://www.poder360.com.br/poder-sportsmkt/rival-de-infantino-promete-mandato-unico-se-vencer-eleicao-da-fifa/",
       "date": "2026-11-26T10:16:45.000Z",
       "summary": "Japonês Kozo Tashima defende mais transparência e admite aliança com francês Philippe Diallo",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Colômbia abandona iniciativa de entrar nos Brics e no banco do grupo",
-      "link": "https://www.poder360.com.br/poder-internacional/colombia-abandona-iniciativa-de-entrar-nos-brics-e-no-banco-do-grupo/",
-      "date": "2026-11-26T10:11:51.000Z",
-      "summary": "Decisão marca mudança na política externa em relação ao governo de Gustavo Petro e ocorre em contexto de reaproximação com os EUA",
       "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
@@ -294,47 +366,11 @@
       "type": "imprensa"
     },
     {
-      "title": "José Guimarães volta ao cargo de ministro após votar ajuste fiscal",
-      "link": "https://www.poder360.com.br/poder-governo/jose-guimaraes-volta-ao-cargo-de-ministro-apos-votar-ajuste-fiscal/",
-      "date": "2026-11-26T09:47:44.000Z",
-      "summary": "Ato assinado pelo presidente Lula foi publicado em edição extra do \"DOU\" na 4ª feira (25.nov)",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Governo pode multar Google por falta de transparência em anúncios",
-      "link": "https://www.poder360.com.br/poder-governo/governo-pode-multar-google-por-falta-de-transparencia-em-anuncios/",
-      "date": "2026-11-26T09:43:30.000Z",
-      "summary": "Senacon abriu processo contra big tech e fixou multa em R$ 200 mil por dia caso informações não seja disponibilizadas",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Entidades veem falta de transparência do governo Lula em ação sobre direitos humanos nas empresas",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/entidades-veem-falta-de-transparencia-do-governo-lula-em-acao-sobre-direitos-humanos-nas-empresas.shtml",
       "date": "2026-11-26T09:00:00.000Z",
       "summary": "A Aliança pelos Direitos Humanos em Cadeias Produtivas, que reúne 18 ONGs e entidades de defesa do mundo do trabalho, divulgou nota em que reclama da falta de transparência por parte do governo Lula na elaboração da Política de Direitos Humanos e Empresas. Lei",
       "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "TSE deve decidir em dezembro veto a novo mandato de deputado condenado por ligação com jogo do bicho",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/tse-deve-decidir-em-dezembro-veto-a-novo-mandato-de-deputado-condenado-por-ligacao-com-jogo-do-bicho/",
-      "date": "2026-11-26T08:30:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Investigação cita atuação do PCC em contratos com o poder público: ‘propina de 40% e lucro de 60%’",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/investigacao-cita-atuacao-do-pcc-em-contratos-com-o-poder-publico-propina-de-40-e-lucro-de-60/",
-      "date": "2026-11-26T08:30:00.000Z",
-      "summary": "",
-      "source": "Estadão",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -348,66 +384,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Por que Trump pressionou pela volta de Jensen Huang à chefia da Nvidia",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/26/por-que-trump-pressionou-pela-volta-de-jensen-huang-a-chefia-da-nvidia.ghtml",
-      "date": "2026-11-26T06:00:00.000Z",
-      "summary": "CEO da Nvidia, Jensen Huang, tem no presidente dos EUA, Donald Trump, um aliado decisivo Evan Vucci/REUTERS Pelos padrões de qualquer empresa americana comum, o antigo e agora novo diretor-presidente da Nvidia, Jensen Huang, já teria feito o suficiente para pe",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Tarifaço de Trump: nova taxa sobre açúcar brasileiro deve ter impacto 'praticamente nulo', diz analista",
-      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/26/tarifaco-de-trump-nova-taxa-sobre-acucar-brasileiro-deve-ter-impacto-praticamente-nulo-diz-analista.ghtml",
-      "date": "2026-11-26T06:00:00.000Z",
-      "summary": "EUA propõem novas tarifas contra Brasil e 14 economias O governo dos Estados Unidos propôs nesta quarta-feira (25) aumentar a tributação sobre o açúcar importado do Brasil e cobrar uma tarifa adicional de 10% sobre aeronaves brasileiras. Em relação ao açúcar, ",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "O mapa das facções e a nova dinâmica do crime no Brasil - O Assunto #1853",
-      "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/11/26/o-mapa-das-faccoes-e-a-nova-dinamica-do-crime-no-brasil-o-assunto-1853.ghtml",
-      "date": "2026-11-26T03:30:00.000Z",
-      "summary": "Nesta semana, a Agência Brasileira de Inteligência (Abin) publicou o documento Cenários do Crime Organizado no Brasil, produzido em parceria com o Fórum Brasileiro de Segurança Pública. Trata-se de um levantamento inédito sobre o panorama e os avanços das 31 m",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Ala de Valdemar admite que PL deve romper com Hugo Motta e teme 'anos de seca' na Câmara",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/ala-de-valdemar-admite-que-pl-deve-romper-com-hugo-motta-e-teme-anos-de-seca-na-camara.shtml",
       "date": "2026-11-26T03:01:00.000Z",
       "summary": "A ala do PL ligada ao presidente do partido, Valdemar Costa Neto, dá como certo o rompimento com o presidente da Câmara, Hugo Motta (Republicanos-MG). Esse grupo admite nos bastidores ter perdido o cabo de guerra contra o setor da legenda próximo a Nikolas Fer",
       "source": "Folha",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Prestações de contas de candidatos mostram repasses do Fundo Eleitoral acima dos valores recebidos por partidos",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/26/prestacoes-de-contas-de-candidatos.ghtml",
-      "date": "2026-11-26T03:00:00.000Z",
-      "summary": "Fachada do TSE Luiz Roberto/Secom/TSE As prestações de contas dos candidatos nas eleições de 2026 apresentam divergências entre os valores declarados como recursos do Fundo Especial de Financiamento de Campanha (FEFC), o Fundo Eleitoral, e as quantias distribu",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Herança: Câmara aprova projeto que prevê deserdação por 'interdição abusiva' de idosos; entenda",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/26/heranca-deserdacao-curatela-idosos-camara.ghtml",
-      "date": "2026-11-26T03:00:00.000Z",
-      "summary": "A Câmara dos Deputados aprovou nesta semana um projeto de lei que estabelece a perda do direito à herança para quem tentar interditar uma pessoa com o interesse de tomar ou desviar o patrimônio dela. De autoria do deputado Eriberto Medeiros (PSB-PE), o PL 464/",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Mega-Sena pode pagar R$ 75 milhões nesta quinta-feira; g1 transmite ao vivo",
-      "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/26/mega-sena-pode-pagar-r-75-milhoes-nesta-quinta-feira-g1-transmite-ao-vivo.ghtml",
-      "date": "2026-11-26T03:00:00.000Z",
-      "summary": "Como funciona a Mega-Sena? O concurso 3.091 da Mega-Sena pode pagar um prêmio de R$ 75 milhões para os apostadores que acertarem as seis dezenas. O sorteio ocorre às 21h desta quinta-feira (26), em São Paulo. 📱Favorite o g1 no Google e acompanhe as principais",
-      "source": "g1",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -420,6 +402,24 @@
       "type": "imprensa"
     },
     {
+      "title": "Moraes mantém preso homem que planejou atentado com bomba no aeroporto de Brasília",
+      "link": "https://www.estadao.com.br/politica/moraes-mantem-preso-o-homem-que-planejou-atentado-com-bomba-em-aeroporto-de-brasilia-nprp/",
+      "date": "2026-11-26T01:29:39.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "STF marca para 4 de dezembro o início do julgamento sobre segundo turno no Rio de Janeiro",
+      "link": "https://www.estadao.com.br/politica/stf-marca-para-4-de-dezembro-julgamento-sobre-segundo-turno-no-rio-de-janeiro-nprp/",
+      "date": "2026-11-25T23:53:33.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "Brasil tem déficit de 110 mil cisternas e de mais de 1,3 milhão de banheiros, diz Funasa",
       "link": "https://www.camara.leg.br/noticias/1323123-brasil-tem-deficit-de-110-mil-cisternas-e-de-mais-de-13-milhao-de-banheiros-diz-funasa",
       "date": "2026-11-25T23:14:00.000Z",
@@ -427,6 +427,15 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
+    },
+    {
+      "title": "Participantes do conluio no topo dos Três Poderes nunca se sentiram tão à vontade",
+      "link": "https://www.estadao.com.br/politica/william-waack/participantes-do-conluio-no-topo-dos-tres-poderes-nunca-se-sentiram-tao-a-vontade/",
+      "date": "2026-11-25T23:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
     },
     {
       "title": "ECA Ambiental: direito de crianças e adolescentes à natureza",
@@ -452,24 +461,6 @@
       "date": "2026-11-25T22:42:00.000Z",
       "summary": "Em 2014, a Comissão Nacional da Verdade identificou 8.350 indígenas mortos durante a ditadura militar e recomendou novas investigações",
       "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "CCT aprova 39 concessões e renovações para emissoras de rádio",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/25/cct-aprova-39-concessoes-e-renovacoes-para-emissoras-de-radio",
-      "date": "2026-11-25T22:24:38.000Z",
-      "summary": "Nesta quarta-feira (25), a Comissão de Ciência e Tecnologia (CCT) aprovou 39 projetos de decreto legislativo (PDLs) que tratam da concessão e da renovação de outorgas para emissoras de rádio em 13 estados. As matérias seguem para promulgação pela Presidência d",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Randolfe faz balanço de gestão no Conselho Editorial do Senado",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/25/randolfe-faz-balanco-de-gestao-no-conselho-editorial-do-senado",
-      "date": "2026-11-25T22:20:28.000Z",
-      "summary": "O senador Randolfe Rodrigues (PT-AP), em pronunciamento no Plenário nesta quarta-feira (25), fez um balanço de sua gestão à frente do Conselho Editorial do Senado. O parlamentar informou que foram publicadas mais de 150 obras e que a instituição participou de ",
-      "source": "Agência Senado",
       "cat": "politica",
       "type": "oficial"
     },
@@ -573,15 +564,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Bolsonaro segue com quadro estável e sem previsão de alta, diz boletim médico",
-      "link": "https://www.estadao.com.br/politica/bolsonaro-segue-com-quadro-estavel-e-sem-previsao-de-alta-diz-boletim-medico/",
-      "date": "2026-11-25T17:04:09.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Execuções, chibatadas, perseguição: Arábia Saudita redobra repressão a dissidentes",
       "link": "https://www.dw.com/pt-br/execuções-chibatadas-perseguição-arábia-saudita-redobra-repressão-a-dissidentes/a-80044727?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-25T15:03:00.000Z",
@@ -591,10 +573,10 @@
       "type": "imprensa"
     },
     {
-      "title": "Empresas alemãs apostam na reconstrução da Ucrânia apesar da guerra",
-      "link": "https://www.dw.com/pt-br/empresas-alemãs-apostam-na-reconstrução-da-ucrânia-apesar-da-guerra/a-80041812?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-25T14:49:00.000Z",
-      "summary": "Mais de 2 mil empresas alemãs mantêm atividades no país em meio ao conflito. Empresários também miram oportunidades em projetos bilionários de reconstrução.",
+      "title": "Como o PCC e o Comando Vermelho se espalharam pelo Brasil",
+      "link": "https://www.dw.com/pt-br/como-o-pcc-e-o-comando-vermelho-se-espalharam-pelo-brasil/a-80045430?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-25T12:59:00.000Z",
+      "summary": "Nascidas nas prisões de São Paulo e do Rio de Janeiro, as duas maiores facções do país ampliaram sua atuação e hoje influenciam mercados ilegais em praticamente todas as regiões brasileiras e em rotas internacionais.",
       "source": "DW Brasil",
       "cat": "internacional",
       "type": "imprensa"
@@ -684,15 +666,6 @@
       "title": "BC aperfeiçoa norma sobre a participação em operações no mercado aberto",
       "link": "https://www.bcb.gov.br/detalhenoticia/21326/nota",
       "date": "2026-11-19T21:14:32.000Z",
-      "summary": "",
-      "source": "Banco Central",
-      "cat": "economia",
-      "type": "oficial"
-    },
-    {
-      "title": "BC publica Pesquisa Trimestral de Condições de Crédito (PTC)",
-      "link": "https://www.bcb.gov.br/detalhenoticia/21324/nota",
-      "date": "2026-11-19T17:31:41.000Z",
       "summary": "",
       "source": "Banco Central",
       "cat": "economia",
