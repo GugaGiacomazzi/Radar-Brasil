@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-26T05:57:58.368Z",
+  "updated": "2026-11-26T07:16:50.814Z",
   "market": {
     "ibov": {
       "price": 166684.61,
       "pct": 1.58,
-      "time": "2026-11-26T05:57:50.335Z",
+      "time": "2026-11-26T07:16:44.372Z",
       "history": [
         {
           "d": "2026-10-27",
@@ -141,6 +141,78 @@
   },
   "news": [
     {
+      "title": "INSS libera 13º a 2,6 mi de segurados em novembro e dezembro; veja quem recebe",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/inss-libera-13o-a-26-mi-de-segurados-em-novembro-e-dezembro-veja-quem-recebe.shtml",
+      "date": "2026-11-26T07:00:00.000Z",
+      "summary": "O INSS (Instituto Nacional do Seguro Social) liberou o 13º a 2,6 milhões de novos aposentados e pensionistas em novembro e dezembro. Os valores começaram a ser depositados na terça-feira (24), nas contas de quem conseguiu o benefício a partir de maio deste ano",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Companhias aéreas dos EUA terão custos mais altos com tarifa sobre jatos da Embraer",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/companhias-aereas-dos-eua-terao-custos-mais-altos-com-tarifa-sobre-jatos-da-embraer.shtml",
+      "date": "2026-11-26T07:00:00.000Z",
+      "summary": "Uma proposta do governo dos Estados Unidos de criar tarifa de importação de 10% sobre aeronaves da Embraer provenientes do Brasil aumentará os custos para as companhias aéreas americanas que não têm alternativas fabricadas locamente, afirmaram analistas e exec",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Projeto usa IA para analisar carne, soja e madeira e facilitar fiscalização de exigências internacionais",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/agro/2026/11/projeto-usa-ia-para-analisar-carne-soja-e-madeira-e-facilitar-fiscalizacao-de-exigencias-internacionais.shtml",
+      "date": "2026-11-26T07:00:00.000Z",
+      "summary": "Commodities brasileiras enfrentam exigências cada vez maiores para acessar mercados internacionais, como a União Europeia, que começará a barrar a entrada de itens sem garantia de origem e conformidade ambiental a partir de 30 de dezembro. Leia mais (11/26/202",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Petrobras prevê retirar do mar 27 plataformas de petróleo até 2031; custo é de US$ 11,2 bi",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/petrobras-preve-retirar-do-mar-27-plataformas-de-petroleo-ate-2031-custo-e-de-us-112-bi.shtml",
+      "date": "2026-11-26T07:00:00.000Z",
+      "summary": "A Petrobras prevê retirar do mar 27 plataformas antigas de produção de petróleo até 2031, segundo o plano de negócios divulgado na segunda-feira (23). São nove a mais que as 18 previstas no plano anterior, um aumento de 50%. Leia mais (11/26/2026 - 04h00)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "TCU afasta multas a Dilma e auxiliares por irregularidades fiscais",
+      "link": "https://www.poder360.com.br/poder-justica/tcu-afasta-multas-a-dilma-e-auxiliares-por-irregularidades-fiscais/",
+      "date": "2026-11-26T06:48:01.000Z",
+      "summary": "Decisão não altera a rejeição das contas do governo daquele ano pelo Tribunal",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Moraes manda destruir passaportes de ex-assessor de Bolsonaro",
+      "link": "https://www.poder360.com.br/poder-justica/moraes-manda-destruir-passaportes-de-ex-assessor-de-bolsonaro/",
+      "date": "2026-11-26T06:32:29.000Z",
+      "summary": "Filipe Martins teve documentos apreendidos em investigação sobre tentativa de golpe de Estado e está preso",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Por que Trump pressionou pela volta de Jensen Huang à chefia da Nvidia",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/26/por-que-trump-pressionou-pela-volta-de-jensen-huang-a-chefia-da-nvidia.ghtml",
+      "date": "2026-11-26T06:00:00.000Z",
+      "summary": "CEO da Nvidia, Jensen Huang, tem no presidente dos EUA, Donald Trump, um aliado decisivo Evan Vucci/REUTERS Pelos padrões de qualquer empresa americana comum, o antigo e agora novo diretor-presidente da Nvidia, Jensen Huang, já teria feito o suficiente para pe",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Tarifaço de Trump: nova taxa sobre açúcar brasileiro deve ter impacto 'praticamente nulo', diz analista",
+      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/26/tarifaco-de-trump-nova-taxa-sobre-acucar-brasileiro-deve-ter-impacto-praticamente-nulo-diz-analista.ghtml",
+      "date": "2026-11-26T06:00:00.000Z",
+      "summary": "EUA propõem novas tarifas contra Brasil e 14 economias O governo dos Estados Unidos propôs nesta quarta-feira (25) aumentar a tributação sobre o açúcar importado do Brasil e cobrar uma tarifa adicional de 10% sobre aeronaves brasileiras. Em relação ao açúcar, ",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "Marinho reúne Tereza e senadores do PP em festa de aniversário",
       "link": "https://www.poder360.com.br/poder-congresso/marinho-reune-tereza-e-senadores-do-pp-em-festa-de-aniversario/",
       "date": "2026-11-26T04:03:00.000Z",
@@ -222,24 +294,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Jantar de Alckmin tem petistas e visita rápida de Gilmar Mendes",
-      "link": "https://www.poder360.com.br/poder-governo/jantar-de-alckmin-tem-petistas-e-visita-rapida-de-gilmar-mendes/",
-      "date": "2026-11-26T02:31:16.000Z",
-      "summary": "Evento foi organizado por advogados da campanha de Lula; ministro do STF permaneceu por 20 minutos no local",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Comissão eleva estimativa de receita do Orçamento de 2027 em R$ 37,1 bi",
-      "link": "https://www.poder360.com.br/poder-congresso/comissao-eleva-estimativa-de-receita-do-orcamento-de-2027-em-r-371-bi/",
-      "date": "2026-11-26T02:15:49.000Z",
-      "summary": "Texto incorpora impacto de royalties do petróleo, estreia da reforma tributária e queda na previsão do PIB de 2,5% para 1,8%",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Sem Haddad, Camilo Santana ganha força para assumir Casa Civil de Lula",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/sem-haddad-camilo-santana-ganha-forca-para-assumir-casa-civil-de-lula.shtml",
       "date": "2026-11-26T02:00:00.000Z",
@@ -264,42 +318,6 @@
       "summary": "Em negociações para a composição ministerial de seu quarto mandato, Lula (PT) tem como desafio acomodar aliados que foram derrotados nas eleições de 2026 e que seguem com seus destinos indefinidos. Leia mais (11/25/2026 - 23h00)",
       "source": "Folha",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "13º pode ser usado para quitar dívida e pagar despesas no início de 2027; veja o que fazer",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/13o-pode-ser-usado-para-quitar-divida-e-pagar-despesas-no-inicio-de-2027-veja-o-que-fazer.shtml",
-      "date": "2026-11-26T02:00:00.000Z",
-      "summary": "O brasileiro que não quer começar o ano com dívidas pode utilizar parte do 13º salário para pagar despesas de início de ano, como IPTU, IPVA, mensalidade e material escolar. Leia mais (11/25/2026 - 23h00)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Veja como investir o 13º salário com cenário de juros altos e despesas de início de ano",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/veja-como-investir-o-13o-salario-com-cenario-de-juros-altos-e-despesas-de-inicio-de-ano.shtml",
-      "date": "2026-11-26T02:00:00.000Z",
-      "summary": "O pagamento da primeira parcela do 13º, que será depositada na conta dos trabalhadores até o dia 30 de novembro, é a oportunidade de organizar as contas de início do ano e também investir no futuro, independentemente do montante -aproveitando especialmente uma",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Produtos que podem ser atingidos por novas tarifas representam 7% das exportações aos EUA",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/produtos-que-podem-ser-atingidos-por-novas-tarifas-representam-7-das-exportacoes-aos-eua.shtml",
-      "date": "2026-11-26T02:00:00.000Z",
-      "summary": "Os novos itens de comércio que podem ser taxados pelos Estados Unidos representam 7% do total das exportações do Brasil para os americanos, de acordo com dados da Comex, a base de dados sobre comércio exterior do Mdic (Ministério do Desenvolvimento, Indústria,",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Investir em PGBL até dezembro pode reduzir imposto na declaração do IR",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/investir-em-pgbl-ate-dezembro-pode-reduzir-imposto-na-declaracao-do-ir.shtml",
-      "date": "2026-11-26T02:00:00.000Z",
-      "summary": "Os aportes em planos PGBL (Plano Gerador de Benefício Livre) tiveram crescimento médio de 226,18% em dezembro, na comparação com novembro, segundo dados da Susep (Superintendência de Seguros Privados) referentes ao período de 2020 a 2025. No ano passado, as co",
-      "source": "Folha",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -447,15 +465,6 @@
       "type": "oficial"
     },
     {
-      "title": "CMN anuncia medidas para conter o endividamento das famílias",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/25/cmn-anuncia-medidas-para-conter-o-endividamento-das-familias.ghtml",
-      "date": "2026-11-25T22:10:34.000Z",
-      "summary": "Endividamento de risco segundo o BC Agência Brasil O Conselho Monetário Nacional (CMN), do qual fazem parte os Ministérios da Fazenda e do Planejamento e o Banco Central, anunciou nesta quarta-feira (25) um conjunto de medidas para conter o endividamento da po",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Diretor de Regulação do BC dará entrevista coletiva às 11 horas de quinta-feira (26/11) sobre as medidas que tratam dos riscos associados ao endividamento de famílias e empresas",
       "link": "https://www.bcb.gov.br/detalhenoticia/21332/nota",
       "date": "2026-11-25T21:55:01.000Z",
@@ -490,15 +499,6 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Secretária de Agricultura de Trump defende novas tarifas e acusa Brasil de 'práticas desleais' contra agricultores dos EUA",
-      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/25/secretaria-de-agricultura-de-trump-defende-novas-tarifas-e-acusa-brasil-de-praticas-desleais-contra-agricultores-dos-eua.ghtml",
-      "date": "2026-11-25T21:35:55.000Z",
-      "summary": "EUA propõem novas tarifas contra Brasil e 14 economias A secretária de Agricultura dos Estados Unidos, Brooke Rollins, afirmou nesta quarta-feira (25) que as tarifas adicionais que o governo de Donald Trump avalia aplicar ao Brasil buscam \"proteger os agricult",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
     },
     {
       "title": "O Adicional Contracíclico de Capital Principal relativo ao Brasil segue em 0%",
