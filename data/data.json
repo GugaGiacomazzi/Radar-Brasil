@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-27T21:35:27.052Z",
+  "updated": "2026-11-27T22:36:58.963Z",
   "market": {
     "ibov": {
       "price": 176573.34,
       "pct": -0.13,
-      "time": "2026-11-27T21:35:19.522Z",
+      "time": "2026-11-27T22:36:52.311Z",
       "history": [
         {
           "d": "2026-10-28",
@@ -145,21 +145,75 @@
   },
   "news": [
     {
+      "title": "Conta de luz: Aneel mantém bandeira tarifária verde em dezembro",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/27/conta-de-luz-aneel-mantem-bandeira-tarifaria-verde-em-dezembro.ghtml",
+      "date": "2026-11-27T22:27:55.000Z",
+      "summary": "A Agência Nacional de Energia Elétrica (Aneel) anunciou nesta sexta-feira (27) que a bandeira tarifaria de dezembro será verde. Isso quer dizer que a conta de luz não terá valor adicional. A bandeira tarifária sinaliza ao consumidor os custos reais da geração ",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Deputadas de Pernambuco recebem ameaças racistas e misóginas; Polícia Civil investiga",
+      "link": "https://www.estadao.com.br/politica/deputadas-de-pernambuco-recebem-ameacas-racistas-e-misoginas-policia-civil-investiga-nprp/",
+      "date": "2026-11-27T22:10:03.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lula sanciona lei que autoriza crédito especial de R$21 mi a aposentadoria compulsória de juízes",
+      "link": "https://www.estadao.com.br/politica/lula-sanciona-lei-que-autoriza-credito-especial-de-r21-mi-a-aposentadoria-compulsoria-de-juizes-nprp/",
+      "date": "2026-11-27T22:08:10.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Moraes autoriza Roberto Jefferson a ficar sem tornozeleira eletrônica durante internação",
+      "link": "https://www.estadao.com.br/politica/moraes-autoriza-roberto-jefferson-a-ficar-sem-tornozeleira-eletronica-durante-internacao-nprp/",
+      "date": "2026-11-27T22:06:36.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Um minueto: Lula e Trabuco terão de acertar o passo para harmonizar o governo",
+      "link": "https://www.estadao.com.br/economia/celso-ming/um-minueto-lula-e-trabuco-terao-de-acertar-o-passo-para-harmonizar-o-governo/",
+      "date": "2026-11-27T21:53:15.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Quando Boulos confrontou o Mercado",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/demetriomagnoli/2026/11/quando-boulos-confrontou-o-mercado.shtml",
+      "date": "2026-11-27T21:46:00.000Z",
+      "summary": "Chegou-me um vídeo de um encontro secreto, na madrugada, entre o ministro Guilherme Boulos e o Mercado. Boulos chegou com um boné vermelho, barba bem aparada, combativo como sempre. O papa Francisco viu a face do demônio, mas não vi a do Mercado: nas imagens, ",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Vencedores do concurso Eu e a Lei são premiados na Câmara",
+      "link": "https://www.camara.leg.br/noticias/1323889-vencedores-do-concurso-eu-e-a-lei-sao-premiados-na-camara",
+      "date": "2026-11-27T21:43:00.000Z",
+      "summary": "Concurso tem o objetivo de educar as crianças para o debate político e a democracia",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
       "title": "Ações da Petrobras caem até 3% e pressionam Bolsa",
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/10/25/6568-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post468080",
       "date": "2026-11-27T21:17:00.000Z",
       "summary": "As ações da Petrobras recuaram nesta sexta-feira (27), em meio à queda do dólar e à desvalorização do petróleo Brent no mercado internacional. Os papéis preferenciais, que dão direito à prioridade no recebimento de dividendos, encerraram o dia em baixa de 2,43",
       "source": "Folha",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Padilha será mantido à frente da Saúde no quarto mandato de Lula",
-      "link": "https://www.estadao.com.br/politica/padilha-sera-mantido-a-frente-da-saude-no-quarto-mandato-de-lula/",
-      "date": "2026-11-27T21:14:23.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -217,16 +271,7 @@
       "type": "imprensa"
     },
     {
-      "title": "Trabuco, Lula e o deserto antes da Terra Prometida",
-      "link": "https://www.estadao.com.br/economia/fernando-dantas/trabuco-lula-e-o-deserto-antes-da-terra-prometida/",
-      "date": "2026-11-27T20:34:36.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "De sex shop e loja octogenária, Black Friday lota comércios no centro de SP",
+      "title": "De sex shop a loja octogenária, Black Friday lota comércios no centro de SP",
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/de-sex-shop-e-loja-octagenaria-black-friday-lota-comercios-no-centro-de-sp.shtml",
       "date": "2026-11-27T20:30:00.000Z",
       "summary": "A Black Friday desta sexta-feira (27) movimentou o comércio de rua no centro de São Paulo e atraiu públicos variados mesmo em meio à desconfiança sobre os descontos. Leia mais (11/27/2026 - 17h30)",
@@ -244,30 +289,12 @@
       "type": "oficial"
     },
     {
-      "title": "Lula chama FHC de “morto-vivo” durante evento em hospital no Rio",
-      "link": "https://www.poder360.com.br/poder-governo/lula-chama-fhc-de-morto-vivo-durante-evento-em-hospital-no-rio/",
-      "date": "2026-11-27T20:22:12.000Z",
-      "summary": "Petista fez menção ao estado de saúde do ex-presidente, diagnosticado com Alzheimer em estágio avançado",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Como empresas de IA da China contornam sanções para obter chips dos EUA",
       "link": "https://www.dw.com/pt-br/como-empresas-de-ia-da-china-contornam-sanções-para-obter-chips-dos-eua/a-80073419?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-27T20:19:00.000Z",
       "summary": "Chips de IA de alta tecnologia são difíceis de obter na China devido a restrições impostas pelos americanos. Pequim, no entanto, recorre a data centers no Sudeste Asiático, algo que Washington também tentam impedir.",
       "source": "DW Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Dino bloqueia emendas individuais de Flávio Bolsonaro",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/dino-bloqueia-emendas-individuais-de-flavio-bolsonaro/",
-      "date": "2026-11-27T20:15:56.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -334,15 +361,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Lula decide manter Bruno Moretti no Planejamento, após anunciar Trabuco na Fazenda",
-      "link": "https://www.estadao.com.br/economia/lula-decide-manter-bruno-moretti-no-planejamento-apos-anunciar-trabuco-na-fazenda/",
-      "date": "2026-11-27T19:47:15.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Estatuto dos Cães e Gatos no Plenário",
       "link": "https://www12.senado.leg.br/noticias/infomaterias/2026/11/estatuto-dos-caes-e-gatos-no-plenario",
       "date": "2026-11-27T19:45:17.000Z",
@@ -377,15 +395,6 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Lula expõe condição de saúde de Fernando Henrique em discurso no RJ: ‘Essa pessoa não vive’",
-      "link": "https://www.estadao.com.br/politica/lula-expoe-condicao-de-saude-de-fernando-henrique-em-discurso-no-rj-essa-pessoa-nao-vive/",
-      "date": "2026-11-27T19:33:21.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
     },
     {
       "title": "Com gasto militar recorde, Alemanha aprova Orçamento para 2027",
@@ -469,33 +478,6 @@
       "type": "oficial"
     },
     {
-      "title": "Comissão aprova direito de associações rurais contestarem dispensa de compra para merenda",
-      "link": "https://www.camara.leg.br/noticias/1323754-comissao-aprova-direito-de-associacoes-rurais-contestarem-dispensa-de-compra-para-merenda",
-      "date": "2026-11-27T18:44:00.000Z",
-      "summary": "Proposta segue em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Maioria dos brasileiros quer que governo Lula mude políticas e projetos, diz pesquisa",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/maioria-dos-brasileiros-quer-que-governo-lula-mude-politicas-e-projetos-diz-pesquisa.shtml",
-      "date": "2026-11-27T18:18:00.000Z",
-      "summary": "Nove em cada dez brasileiros (91%) torcem para que o próximo mandato do presidente Lula (PT) dê certo, incluindo 85% dos eleitores que votaram em Flávio Bolsonaro (PL) no segundo turno das últimas eleições, segundo pesquisa Nexus divulgada nesta sexta-feira (2",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Meirelles defende que Trabuco anuncie medidas de ajuste fiscal logo no início da gestão",
-      "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/11/27/meirelles-defende-que-trabuco-anuncie-ajuste-fiscal-no-inicio-da-gestao-e-enfrente-eventual-resistencia-de-aliados.ghtml",
-      "date": "2026-11-27T17:55:56.000Z",
-      "summary": "Meirelles fala sobre resistência dentro do governo: Não se deixar abalar O ex-ministro da Fazenda Henrique Meirelles defendeu, em entrevista ao Estúdio i, da GloboNews, que o futuro ministro da pasta, Luiz Carlos Trabuco, anuncie as principais medidas de ajust",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Quem é Luiz Carlos Trabuco, o novo ministro da Fazenda de Lula",
       "link": "https://www.dw.com/pt-br/quem-é-luiz-carlos-trabuco-o-novo-ministro-da-fazenda-de-lula/a-80080281?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-27T17:39:00.000Z",
@@ -529,6 +511,15 @@
       "summary": "Escolha de presidente do Conselho de Administração do Bradesco para a pasta demonstra busca do governo Lula por diálogo com o mercado, avaliam entrevistados.",
       "source": "BBC News Brasil",
       "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Profissionais trans são menos de 2% na liderança; ‘onda de transfobia’ é vista como obstáculo",
+      "link": "https://www.estadao.com.br/economia/governanca/profissionais-trans-lideranca-onda-transfobia-obstaculo/",
+      "date": "2026-11-27T13:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
       "type": "imprensa"
     },
     {
