@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-27T14:51:47.491Z",
+  "updated": "2026-11-27T15:57:07.833Z",
   "market": {
     "ibov": {
-      "price": 179800.56,
-      "pct": 1.7,
-      "time": "2026-11-27T14:51:41.033Z",
+      "price": 177939.48,
+      "pct": 0.64,
+      "time": "2026-11-27T15:57:01.528Z",
       "history": [
         {
           "d": "2026-10-28",
@@ -88,7 +88,7 @@
         },
         {
           "d": "2026-11-27",
-          "c": 179722.8438
+          "c": 178040.9531
         }
       ]
     },
@@ -145,11 +145,191 @@
   },
   "news": [
     {
+      "title": "Centrais sindicais dão parabéns a Trabuco; CUT não assina a nota",
+      "link": "https://www.poder360.com.br/poder-economia/centrais-sindicais-dao-parabens-a-trabuco-cut-nao-assina-a-nota/",
+      "date": "2026-11-27T15:53:31.000Z",
+      "summary": "Entidades disseram que prioridade para o futuro ministro da Fazenda deve ser reduzir a taxa de juros",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Comissão debate financiamento do Programa Nacional de Infraestrutura Escolar",
+      "link": "https://www.camara.leg.br/noticias/1323188-comissao-debate-financiamento-do-programa-nacional-de-infraestrutura-escolar",
+      "date": "2026-11-27T15:53:00.000Z",
+      "summary": "",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Lula define Camilo Santana para comandar Casa Civil, dizem aliados",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/lula-define-camilo-santana-para-comandar-casa-civil-dizem-aliados.shtml",
+      "date": "2026-11-27T15:52:00.000Z",
+      "summary": "O presidente Lula (PT) escolheu o senador Camilo Santana (PT-CE) como novo ministro-chefe da Casa Civil, segundo disseram aliados à Folha. O órgão é responsável por coordenar o trabalho dos demais ministérios, e é considerado um dos mais importantes do Executi",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Comissão debate perseguição a ativistas pró-Palestina; participe",
+      "link": "https://www.camara.leg.br/noticias/1323179-comissao-debate-perseguicao-a-ativistas-pro-palestina-participe",
+      "date": "2026-11-27T15:50:00.000Z",
+      "summary": "O evento será interativo; envie suas perguntas",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Moraes autoriza ministro do TCU a visitar Bolsonaro no hospital",
+      "link": "https://www.poder360.com.br/poder-justica/moraes-autoriza-ministro-do-tcu-a-visitar-bolsonaro-no-hospital/",
+      "date": "2026-11-27T15:40:34.000Z",
+      "summary": "Inicialmente, Jorge Antônio Oliveira poderia visitar o ex-presidente em sua casa; com internação, defesa pediu mudança do local",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Brasileira presa na Rússia: leia na íntegra a carta de Letícia Villar ao presidente Lula",
+      "link": "https://g1.globo.com/mundo/noticia/2026/11/27/brasileira-presa-na-russia-leia-na-integra-a-carta-de-leticia-villar-ao-presidente-lula.ghtml",
+      "date": "2026-11-27T15:38:03.000Z",
+      "summary": "Letícia Villar, jogadora brasileira está presa na Rússia Reprodução/Instagram Presa na Rússia há 1 ano e 4 meses, a jogadora brasileira de futebol de areia Letícia Villar Pais, conhecida como \"Lelê\" Villar, enviou uma carta ao presidente Luiz Inácio Lula da Si",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lula busca em Trabuco conciliação de ajuste com políticas sociais, dizem aliados",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/lula-busca-em-trabuco-conciliacao-de-ajuste-com-politicas-sociais-dizem-aliados.shtml",
+      "date": "2026-11-27T15:36:00.000Z",
+      "summary": "Aliados do presidente Lula (PT) traduzem o convite ao banqueiro Luiz Carlos Trabuco, 75, como um gesto de conciliação possível entre a necessidade de ajuste fiscal e de manutenção de políticas sociais. Um auxiliar do presidente ressalta que a opção pelo presid",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Chanceler de Milei diz “se preocupar” com relação de Lula com Irã",
+      "link": "https://www.poder360.com.br/poder-internacional/chanceler-de-milei-diz-se-preocupar-com-relacao-de-lula-com-ira/",
+      "date": "2026-11-27T15:33:55.000Z",
+      "summary": "Pablo Quirno criticou encontro do petista com Masoud Pezeshkian na COP31 após tensões diplomáticas",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Mobilização para indicação de mulher negra ao STF é legítima, diz ministra de Lula",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/mobilizacao-para-indicacao-de-mulher-negra-ao-stf-e-legitima-diz-ministra-de-lula.shtml",
+      "date": "2026-11-27T15:32:00.000Z",
+      "summary": "A ministra da Igualdade Racial, Rachel Barros, disse considerar legítima a mobilização popular em prol da indicação de uma ministra negra ao STF (Supremo Tribunal Federal), mas evitou tratar o tema como uma obrigação do presidente Luiz Inácio Lula da Silva (PT",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lula defende ajuste fiscal e diz que para 'país crescer, não se pode gastar dinheiro à toa'",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/27/lula-defende-ajuste-fiscal-e-diz-que-para-pais-crescer-nao-se-pode-gastar-dinheiro-a-toa.ghtml",
+      "date": "2026-11-27T15:30:47.000Z",
+      "summary": "O presidente Luiz Inácio Lula da Silva (PT) defendeu, nesta sexta-feira (27), as mudanças econômicas que o governo pretende fazer, e afirmou que para a economia crescer \"será necessário fazer alguns ajustes\". Ao citar investimentos nas áreas de saúde e educaçã",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Fachin prorroga inquérito sobre Jaques Wagner e Vorcaro",
+      "link": "https://www.poder360.com.br/poder-justica/fachin-prorroga-inquerito-sobre-jaques-wagner-e-vorcaro/",
+      "date": "2026-11-27T15:13:19.000Z",
+      "summary": "Presidente deu 60 dias para conclusão das investigações; PF apura se senador atuou em favor do Master em troca de vantagens",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Veja em 5 gráficos os desafios de Trabuco no comando do Ministério da Fazenda",
+      "link": "https://www.estadao.com.br/economia/desafios-trabuco-fazenda-graficos/",
+      "date": "2026-11-27T15:12:33.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Caso Master: Senador pede levantamento do sigilo de relatórios sobre ministros ao STF",
+      "link": "https://www.estadao.com.br/politica/caso-master-senador-pede-levantamento-do-sigilo-de-relatorios-sobre-ministros-ao-stf-nprp/",
+      "date": "2026-11-27T15:11:56.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Sem CUT, centrais sindicais 'saúdam' nomeação de Trabuco para Fazenda",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/sem-cut-centrais-sindicais-saudam-nomeacao-de-trabuco-para-fazenda.shtml",
+      "date": "2026-11-27T15:09:00.000Z",
+      "summary": "Sem a participação da CUT, centrais sindicais divulgaram uma nota em que \"saúdam\" a escolha de Luiz Carlos Trabuco como ministro da Fazenda e desejam sucesso a ele na função. Também se colocam à disposição para dialogar com o futuro chefe da equipe econômica d",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Como Jensen Huang vai comandar a Nvidia após crise de liderança?",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/como-jensen-huang-vai-comandar-a-nvidia-apos-crise-de-lideranca.shtml",
+      "date": "2026-11-27T15:09:00.000Z",
+      "summary": "Jensen Huang prometeu ser \"um CEO melhor na segunda vez\" ao retornar ao comando da Nvidia, após 11 dias afastado. Leia mais (11/27/2026 - 12h09)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Zucco escolhe cover de Elvis Presley como secretário de governo no Rio Grande do Sul",
+      "link": "https://www.estadao.com.br/politica/zucco-escolhe-cover-de-elvis-como-secretario-de-governo-nprp/",
+      "date": "2026-11-27T15:05:35.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "PP quer testar Derrite e nomes da segurança como possíveis candidatos a prefeito de SP em 2028",
+      "link": "https://www.estadao.com.br/politica/pp-quer-testar-derrite-e-nomes-da-seguranca-como-possiveis-candidatos-a-prefeito-de-sp-em-2028/",
+      "date": "2026-11-27T15:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Black Friday: uso do PIX cresce 29% nas primeiras horas do dia em relação a 2025, aponta levantamento",
+      "link": "https://g1.globo.com/guia/guia-de-compras/black-friday-uso-do-pix-cresce-29percent-nas-primeiras-horas-do-dia-em-relacao-a-2025-aponta-levantamento.ghtml",
+      "date": "2026-11-27T14:57:26.000Z",
+      "summary": "É Black Friday ou Black Fraude? Os pagamentos realizados via PIX nas primeiras horas da Black Friday cresceram 29% em relação ao mesmo período do ano passado. O dado é de um levantamento divulgado pelo Itaú Unibanco. A pesquisa considerou as transações efetuad",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Tarcísio diz que escolha por Trabuco foi acertada: ‘Quem pode atrapalhar é o PT’",
+      "link": "https://www.estadao.com.br/economia/tarcisio-escolha-trabuco-acertada-quem-pode-atrapalhar-pt/",
+      "date": "2026-11-27T14:53:33.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "Liv Up, de marmitas congeladas, busca aporte de R$ 200 milhões e mira refeições mais baratas",
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/liv-up-de-marmitas-congeladas-busca-aporte-de-r-200-milhoes-e-mira-refeicoes-mais-baratas.shtml",
       "date": "2026-11-27T14:49:00.000Z",
       "summary": "A Liv Up pretende esquentar seu negócio de marmitas congeladas com uma nova rodada de aporte de capital. A empresa de refeições prontas e saudáveis busca um investimento da ordem de R$ 200 milhões por uma participação minoritária no negócio, apurou a Folha. Le",
       "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Trabuco na Fazenda: veja outros banqueiros que estiveram à frente do Ministério da Fazenda",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/27/trabuco-na-fazenda-veja-outros-banqueiros-que-estiveram-a-frente-do-ministerio-da-fazenda.ghtml",
+      "date": "2026-11-27T14:48:59.000Z",
+      "summary": "Trabuco na Fazenda: veja outros banqueiros que estiveram à frente do Ministério da Fazenda Reprodução O governo do presidente Luiz Inácio Lula da Silva (PT) anunciou na quinta-feira (26) que Luiz Carlos Trabuco, presidente do Conselho de Administração do Brade",
+      "source": "g1",
       "cat": "economia",
       "type": "imprensa"
     },
@@ -176,24 +356,6 @@
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/infraestrutura/2026/11/brasil-tem-a-sorte-de-ter-boas-terras-raras-mas-nao-investe-tanto-dinheiro-nisso-diz-ceo-da-viridis.shtml",
       "date": "2026-11-27T14:36:00.000Z",
       "summary": "As terras raras entraram no centro do debate geopolítico como uma espécie de petróleo do século 21, mas o frenesi que cerca o setor não deve durar muito tempo -assim como as opções de negócios. Com a sorte de ter boas minas, o Brasil poderia ser um protagonist",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Os caminhoneiros que se arriscam e ganham pouco para entregar suas compras na Black Friday: 'Querem que a gente trabalhe sem parar'",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/os-caminhoneiros-que-se-arriscam-e-ganham-pouco-para-entregar-suas-compras-na-black-friday-querem-que-a-gente-trabalhe-sem-parar.shtml",
-      "date": "2026-11-27T14:35:00.000Z",
-      "summary": "Era novembro de 2025 quando o caminhoneiro Osvino Kepka deixou uma carga de tubos e conexões da Krona no interior de São Paulo e buscou uma viagem para bancar a volta para casa, em Joinville (SC). Leia mais (11/27/2026 - 11h35)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Mulheres expressam frustração e preocupação com o retorno de Jensen Huang, CEO da Nvidia",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/mulheres-expressam-frustracao-e-preocupacao-com-o-retorno-de-jensen-huang-ceo-da-nvidia.shtml",
-      "date": "2026-11-27T14:34:00.000Z",
-      "summary": "A notícia do surpreendente retorno de Jensen Huang à Nvidia mal havia repercutido quando o presidente Donald Trump publicou uma imagem gerada por IA do cofundador da Nvidia erguendo um sutiã vermelho, cercado por agentes de segurança que o retiravam às pressas",
       "source": "Folha",
       "cat": "economia",
       "type": "imprensa"
@@ -235,15 +397,6 @@
       "type": "oficial"
     },
     {
-      "title": "Ao vivo: Lula se reúne com movimentos estudantis em Niterói",
-      "link": "https://www.poder360.com.br/poder-governo/ao-vivo-lula-se-reune-com-movimentos-estudantis-em-niteroi/",
-      "date": "2026-11-27T14:15:47.000Z",
-      "summary": "Mais cedo, o presidente esteve no Teatro Popular Oscar Niemeyer, também na cidade fluminense",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Comissão aprova exigência de comando manual de acelerador em veículos adaptados de locadoras",
       "link": "https://www.camara.leg.br/noticias/1323513-comissao-aprova-exigencia-de-comando-manual-de-acelerador-em-veiculos-adaptados-de-locadoras",
       "date": "2026-11-27T14:15:00.000Z",
@@ -251,15 +404,6 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Abit vê indicação de Trabuco à Fazenda como sinal positivo",
-      "link": "https://www.poder360.com.br/poder-economia/abit-ve-indicacao-de-trabuco-a-fazenda-como-sinal-positivo/",
-      "date": "2026-11-27T14:14:56.000Z",
-      "summary": "Associação da Indústria Têxtil defende equilíbrio das contas públicas, redução dos juros e igualdade tributária para indústria",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
     },
     {
       "title": "Lei autoriza crédito de R$ 21,5 milhões para as Justiças Federal e do Trabalho",
@@ -286,15 +430,6 @@
       "summary": "",
       "source": "Estadão",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Haddad dá parabéns a Trabuco e defende equilíbrio das contas públicas",
-      "link": "https://www.poder360.com.br/poder-governo/haddad-da-parabens-a-trabuco-e-defende-equilibrio-das-contas-publicas/",
-      "date": "2026-11-27T14:05:24.000Z",
-      "summary": "Ex-ministro da Fazenda desejou “sorte e serenidade” ao banqueiro e defendeu que política econômica siga programa de governo eleito nas urnas",
-      "source": "Poder360",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -325,111 +460,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Fachin dá mais 60 dias para PF finalizar investigação sobre Jaques Wagner no caso Master",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/fachin-da-mais-60-dias-para-pf-finalizar-investigacao-sobre-jaques-wagner-no-caso-master/",
-      "date": "2026-11-27T13:48:49.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Governo central registra superavit primário de R$ 52,3 bi em outubro",
-      "link": "https://www.poder360.com.br/poder-economia/governo-central-registra-superavit-primario-de-r-523-bilhoes-em-outubro/",
-      "date": "2026-11-27T13:45:49.000Z",
-      "summary": "Tesouro Nacional e Banco Central tiveram superavit de R$ 73,7 bilhões e Previdência Social, deficit de R$ 21,4 bilhões",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Com presença incerta no Lula 4, Moretti classifica como 'excelente' indicação de Trabuco para Fazenda",
       "link": "https://g1.globo.com/politica/noticia/2026/11/27/com-presenca-incerta-no-lula-4-moretti-classifica-como-excelente-indicacao-de-trabuco-para-a-fazenda.ghtml",
       "date": "2026-11-27T13:42:36.000Z",
       "summary": "O ministro do Planejamento e Orçamento, Bruno Moretti, classificou como “excelente” a indicação de Luiz Carlos Trabuco para o Ministério da Fazenda. Moretti ganhou protagonismo nas últimas semanas por ter sido o principal responsável pelo primeiro pacote de me",
       "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Contas do governo têm superávit de R$ 52 bilhões em outubro, melhor saldo para o mês em dez anos",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/27/contas-do-governo-tem-superavit-de-r-52-bilhoes-em-outubro-melhor-saldo-para-o-mes-em-dez-anos.ghtml",
-      "date": "2026-11-27T13:39:24.000Z",
-      "summary": "As contas do governo registraram um superávit primário de R$ 52,3 bilhões em outubro, informou Tesouro Nacional nesta sexta-feira (27). 🔎 O superávit primário ocorre quando as receitas com tributos e impostos ficam acima das despesas do governo. Se as receita",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "PIX: Banco Central vai desenvolver regras para coibir envio de mensagens intimidatórias",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/27/pix-bc-vai-desenvolver-regras-para-coibir-envio-de-mensagens-intimidatorias.ghtml",
-      "date": "2026-11-27T13:38:29.000Z",
-      "summary": "O Banco Central vai desenvolver regras para coibir o envio de mensagens intimidatórias, violentas ou ofensivas por meio do PIX. A medida, anunciada nesta sexta-feira (27), integra o conjunto de iniciativas sobre a ferramenta prevista para o próximo ano. A auto",
-      "source": "g1",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Tarcísio elogia indicação de Trabuco para Fazenda, mas diz que ele terá de lidar com radicais do PT",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/tarcisio-elogia-indicacao-de-trabuco-para-fazenda-mas-diz-que-ele-tera-de-lidar-com-radicais-do-pt.shtml",
-      "date": "2026-11-27T13:37:00.000Z",
-      "summary": "O governador de São Paulo, Tarcísio de Freitas (Republicanos), elogiou a escolha de Luiz Carlos Trabuco como ministro da Fazenda, mas disse que ele terá o desafio de lidar com o PT. Leia mais (11/27/2026 - 10h37)",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Meirelles vê semelhanças entre Trabuco na Fazenda e sua ida ao BC, e diz que novo ministro precisará de firmeza",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/meirelles-ve-semelhancas-entre-trabuco-na-fazenda-e-sua-ida-ao-bc-e-diz-que-novo-ministro-precisara-de-firmeza.shtml",
-      "date": "2026-11-27T13:32:00.000Z",
-      "summary": "Ao escolher Luiz Carlos Trabuco para o Ministério da Fazenda, o governo Lula repete um movimento conhecido dos brasileiros, o de levar um banqueiro com décadas de experiência no mercado financeiro para um posto-chave na equipe econômica de um governo de esquer",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Fachin prorroga por mais 60 dias inquérito sobre financiamento do filme Dark Horse",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/fachin-prorroga-por-mais-60-dias-inquerito-sobre-financiamento-do-filme-dark-horse/",
-      "date": "2026-11-27T13:26:40.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Haddad deseja sorte a Trabuco e defende que Fazenda mire ‘programa eleito pelas ruas’",
-      "link": "https://www.estadao.com.br/economia/haddad-trabuco-fazenda-programa-eleito-pelas-ruas/",
-      "date": "2026-11-27T13:24:31.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Alexandre de Moraes usou jatos da FAB 241 vezes desde 2023, a maioria entre Brasília e São Paulo",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/alexandre-de-moraes-usou-jatos-da-fab-241-vezes-desde-2023-a-maioria-entre-brasilia-e-sao-paulo.shtml",
-      "date": "2026-11-27T13:09:00.000Z",
-      "summary": "O ministro Alexandre de Moraes, do STF (Supremo Tribunal Federal), voou 241 vezes em aviões da FAB (Força Aérea Brasileira) entre janeiro de 2023 e outubro deste ano. Isso dá em média um voo a cada cinco dias. Leia mais (11/27/2026 - 10h09)",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Profissionais trans são menos de 2% na liderança; ‘onda de transfobia’ é vista como obstáculo",
-      "link": "https://www.estadao.com.br/economia/governanca/profissionais-trans-lideranca-onda-transfobia-obstaculo/",
-      "date": "2026-11-27T13:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Master: Fachin decide manter ex-presidente do BRB na Papudinha",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/master-fachin-decide-manter-ex-presidente-do-brb-na-cadeia/",
-      "date": "2026-11-27T12:47:47.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -457,15 +493,6 @@
       "summary": "",
       "source": "Banco Central",
       "cat": "economia",
-      "type": "oficial"
-    },
-    {
-      "title": "Motta elogia escolha de Luiz Carlos Trabuco para o Ministério da Fazenda",
-      "link": "https://www.camara.leg.br/noticias/1323682-motta-elogia-escolha-de-luiz-carlos-trabuco-para-o-ministerio-da-fazenda",
-      "date": "2026-11-27T11:00:00.000Z",
-      "summary": "Presidente da Câmara desejou êxito a Trabuco e afirmou estar à disposição para construir uma agenda econômica",
-      "source": "Agência Câmara",
-      "cat": "politica",
       "type": "oficial"
     },
     {
@@ -503,15 +530,6 @@
       "source": "BBC News Brasil",
       "cat": "internacional",
       "type": "imprensa"
-    },
-    {
-      "title": "Educadores ambientais pedem reforço de orçamento e políticas públicas",
-      "link": "https://www.camara.leg.br/noticias/1323540-educadores-ambientais-pedem-reforco-de-orcamento-e-politicas-publicas",
-      "date": "2026-11-26T22:37:00.000Z",
-      "summary": "Ministério do Meio Ambiente garantiu parceria do governo com os movimentos sociais na busca de soluções",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
     },
     {
       "title": "Brasileiros enganados vão para o front com Exército russo, diz jornal",
@@ -668,6 +686,7 @@
     }
   ],
   "errors": [
+    "Dívida/PIB (SGS 13762): HTTP 304",
     "feed CNN Brasil: HTTP 404",
     "feed CNN Brasil: HTTP 404"
   ]
