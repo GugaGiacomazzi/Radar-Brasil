@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-27T11:13:54.441Z",
+  "updated": "2026-11-27T12:19:00.634Z",
   "market": {
     "ibov": {
       "price": 176799.84,
       "pct": 6.07,
-      "time": "2026-11-27T11:13:49.314Z",
+      "time": "2026-11-27T12:18:54.558Z",
       "history": [
         {
           "d": "2026-10-28",
@@ -141,21 +141,147 @@
   },
   "news": [
     {
-      "title": "Bradesco confirma ida de Trabuco para a Fazenda",
-      "link": "https://www.poder360.com.br/poder-economia/bradesco-confirma-ida-de-trabuco-para-a-fazenda/",
-      "date": "2026-11-27T11:10:49.000Z",
-      "summary": "Banco diz que vai “informar, tempestivamente, seus acionistas e o mercado em geral sobre quaisquer desdobramentos relevantes”",
+      "title": "Dólar abre em queda de quase 4% e atinge R$ 5,52 após confirmação de Trabuco na Fazenda",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/dolar-abre-em-queda-de-quase-4-e-atinge-r-552-apos-confirmacao-de-trabuco-na-fazenda.shtml",
+      "date": "2026-11-27T12:14:00.000Z",
+      "summary": "O dólar abriu em queda de quase 4% nesta sexta-feira (27), em meio à reação positiva dos investidores à confirmação de Luiz Carlos Trabuco, presidente do conselho de administração do Bradesco, no Ministério da Fazenda do quarto governo do presidente Luiz Ináci",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Inadimplência das famílias sobe a 8,2% em outubro e renova recorde, mostra BC",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/inadimplencia-das-familias-sobe-a-82-em-outubro-e-renova-recorde-mostra-bc.shtml",
+      "date": "2026-11-27T12:13:00.000Z",
+      "summary": "A inadimplência das famílias no crédito livre, em que as condições são livremente pactuadas entre bancos e clientes, subiu a 8,2% em outubro e mais uma vez foi recorde. É o maior nível da série histórica da autoridade monetária, iniciada em março de 2011. Os d",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Gilmar recebe Cleitinho e Aécio e defende diálogo entre instituições",
+      "link": "https://www.poder360.com.br/poder-justica/gilmar-recebe-cleitinho-e-aecio-e-defende-dialogo-entre-instituicoes/",
+      "date": "2026-11-27T12:11:28.000Z",
+      "summary": "Ministro do STF desejou sucesso ao governador eleito de Minas Gerais e destacou a importância política e econômica do Estado",
       "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
     },
     {
-      "title": "102 entidades pedem rejeição de PL que flexibiliza agências reguladoras",
-      "link": "https://www.poder360.com.br/poder-economia/102-entidades-pedem-rejeicao-de-pl-que-flexibiliza-agencias-reguladoras/",
-      "date": "2026-11-27T11:10:19.000Z",
-      "summary": "Associações querem barrar projeto de lei em análise no Senado que reduz quarentena para indicados a cargos de direção",
+      "title": "Bolsas da China têm maior alta em mais de dois anos após aval do governo; Nasdaq sobe mais de 3%",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/bolsas-da-china-tem-maior-alta-em-mais-de-dois-anos-apos-aval-do-governo-nasdaq-sobe-mais-de-3.shtml",
+      "date": "2026-11-27T12:09:00.000Z",
+      "summary": "As Bolsas da China dispararam nesta sexta-feira (27), registrando a maior alta em mais de dois anos, depois que os principais formuladores de políticas do país manifestaram apoio ao enfraquecido mercado acionário. Leia mais (11/27/2026 - 09h09)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Desemprego fica em 5,1% até outubro, segundo IBGE",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/desemprego-fica-em-51-ate-outubro-segundo-ibge.shtml",
+      "date": "2026-11-27T12:03:00.000Z",
+      "summary": "A taxa de desemprego do Brasil ficou em 5,1% no trimestre até outubro, o menor patamar para esse intervalo na série histórica iniciada em 2012, afirmou o IBGE (Instituto Brasileiro de Geografia e Estatística) nesta sexta-feira (27). Leia mais (11/27/2026 - 09h",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Com escolha de Trabuco, grupo de Haddad deve ficar fora do Lula 4",
+      "link": "https://g1.globo.com/politica/blog/gerson-camarotti/post/2026/11/27/com-escolha-de-trabuco-grupo-de-haddad-deve-ficar-fora-do-lula-4.ghtml",
+      "date": "2026-11-27T12:02:27.000Z",
+      "summary": "A escolha de Luiz Carlos Trabuco isola o grupo de Fernando Haddad dentro do novo governo Lula. O ex-ministro sinalizou esta semana que não deve participar do novo mandato do presidente. Mas, havia uma expectativa de que Dario Durigan, ligado a Haddad, permanec",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Desemprego cai para 5,1% no trimestre encerrado em outubro, diz IBGE",
+      "link": "https://www.poder360.com.br/poder-economia/desemprego-cai-para-51-no-trimestre-encerrado-em-outubro-diz-ibge/",
+      "date": "2026-11-27T12:01:57.000Z",
+      "summary": "Taxa recuou 0,3 ponto percentual ante o mesmo período de 2025, quando foi de 5,4%",
       "source": "Poder360",
       "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Desemprego fica em 5,1% em outubro e iguala menor patamar da série histórica",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/27/desemprego-pnad-outubro.ghtml",
+      "date": "2026-11-27T12:00:28.000Z",
+      "summary": "A taxa de desemprego ficou em 5,1% no trimestre encerrado em outubro deste ano. Os dados são da Pesquisa Nacional por Amostra de Domicílios (PNAD) Contínua, divulgada nesta sexta-feira (27) pelo Instituto Brasileiro de Geografia e Estatística (IBGE). O resulta",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Dólar despenca na abertura e vai a R$ 5,53 com nomeação de Luiz Trabuco para a Fazenda no foco",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/27/dolar-ibovespa.ghtml",
+      "date": "2026-11-27T12:00:00.000Z",
+      "summary": "Luiz Carlos Trabuco vai ser o próximo ministro da Fazenda O dólar abriu a sessão desta sexta-feira (27) em queda, com recuo de 3,61% perto das 9h, cotado a R$ 5,5368. Já as negociações do Ibovespa, principal índice da bolsa brasileira, começam às 10h. A nomeaç",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Leia as notas de CNI, Fiesp e Febraban sobre Trabuco na Fazenda",
+      "link": "https://www.poder360.com.br/poder-economia/leia-as-notas-de-cni-fiesp-e-febraban-sobre-trabuco-na-fazenda/",
+      "date": "2026-11-27T11:59:02.000Z",
+      "summary": "Representantes da indústria e do setor financeiro elogiam a escolha de Lula e defendem equilíbrio fiscal, redução dos juros e diálogo com o setor produtivo",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Nova reforma da Previdência e ajuste fiscal 'cívico': conheça as posições de Luiz Carlos Trabuco, futuro ministro da Fazenda",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/27/nova-reforma-da-previdencia-e-ajuste-fiscal-civico-conheca-as-posicoes-de-luiz-carlos-trabuco-futuro-ministro-da-fazenda.ghtml",
+      "date": "2026-11-27T11:52:31.000Z",
+      "summary": "Luiz Carlos Trabuco vai ser o próximo ministro da Fazenda O anúncio do nome de Luiz Carlos Trabuco, presidente do Conselho de Administração do Bradesco, como ministro da Fazenda de Luiz Inácio Lula da Silva (PT) para seu quarto e último mandato surpreendeu ana",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Governo e ONS investigam causas de apagão em Roraima, Amazonas e Pará",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/27/governo-e-ons-investigam-causas-de-apagao-em-roraima-amazonas-e-para.ghtml",
+      "date": "2026-11-27T11:50:06.000Z",
+      "summary": "Apagão atinge a região Norte do país nesta quinta-feira (26) O Ministério de Minas e Energia (MME) informou que acompanha junto ao Operador Nacional do Sistema Elétrico (ONS) as investigações sobre o que causou uma falha na transmissão de energia em Roraima e ",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Inadimplência sobe para 5,1% em outubro, diz Banco Central",
+      "link": "https://www.poder360.com.br/poder-economia/inadimplencia-sobe-para-51-em-outubro-diz-banco-central/",
+      "date": "2026-11-27T11:48:41.000Z",
+      "summary": "O estoque total de crédito do Sistema Financeiro Nacional alcançou R$ 7,5 trilhões no mesmo mês",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Os caminhoneiros que se arriscam e ganham pouco para entregar suas compras na Black Friday: 'Querem que a gente trabalhe sem parar'",
+      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/27/os-caminhoneiros-que-se-arriscam-e-ganham-pouco-para-entregar-suas-compras-na-black-friday-querem-que-a-gente-trabalhe-sem-parar.ghtml",
+      "date": "2026-11-27T11:41:16.000Z",
+      "summary": "Comércio eletrônico espera aumentar as vendas em quase 25% nesta Black Friday Era novembro de 2025 quando o caminhoneiro Osvino Kepka deixou uma carga de tubos e conexões da Krona no interior de São Paulo e buscou uma viagem para bancar a volta para casa, em J",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "BC divulga Estatísticas Monetárias e de Crédito à imprensa",
+      "link": "https://www.bcb.gov.br/detalhenoticia/21338/nota",
+      "date": "2026-11-27T11:32:01.000Z",
+      "summary": "",
+      "source": "Banco Central",
+      "cat": "economia",
+      "type": "oficial"
+    },
+    {
+      "title": "Alcolumbre e Motta elogiam escolha de Trabuco e defendem diálogo entre Congresso e Fazenda",
+      "link": "https://www.estadao.com.br/economia/alcolumbre-motta-elogiam-trabuco-defendem-dialogo-congresso-fazenda/",
+      "date": "2026-11-27T11:19:13.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -168,46 +294,10 @@
       "type": "imprensa"
     },
     {
-      "title": "Dono do Leicester encerra tentativa de venda sem acordo",
-      "link": "https://www.poder360.com.br/poder-sportsmkt/dono-do-leicester-encerra-tentativa-de-venda-sem-acordo/",
-      "date": "2026-11-27T10:47:43.000Z",
-      "summary": "Time da 3ª divisão inglesa mantém apoio financeiro da King Power e terá mudança no comando executivo",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Alcolumbre deve se reunir com Lula para bater martelo sobre ministro do STF",
       "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/27/alcolumbre-deve-se-reunir-com-lula-para-bater-martelo-sobre-ministro-do-stf.ghtml",
       "date": "2026-11-27T10:43:47.000Z",
       "summary": "Presidente Luiz Inácio Lula da Silva (PT) e o presidente do Senado, Davi Alcolumbre (União-AP). Ricardo Stuckert / PR O presidente do Senado, Davi Alcolumbre (União-AP), vai se reunir nos próximos dias com o presidente Luiz Inácio Lula da Silva (PT) para bater",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Lula ignora as ruas e reedita erro de Dilma em 2015, diz Jones Manoel",
-      "link": "https://www.poder360.com.br/poder-congresso/lula-ignora-as-ruas-e-reedita-erro-de-dilma-em-2015-diz-jones-manoel/",
-      "date": "2026-11-27T10:38:48.000Z",
-      "summary": "Historiador critica escolha de Trabuco para a Fazenda e associa ajuste fiscal de Joaquim Levy ao desemprego e ao impeachment da ex-presidente",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Trabuco na Fazenda facilita aprovação de 2ª etapa do ajuste fiscal e trará mais tranquilidade para início do Lula 4",
-      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/27/trabuco-na-fazenda-facilita-aprovacao-de-2a-etapa-do-ajuste-fiscal-e-trara-mais-tranquilidade-para-inicio-do-lula-4.ghtml",
-      "date": "2026-11-27T10:37:19.000Z",
-      "summary": "A escolha do presidente do Conselho de Administração do Bradesco, Luiz Carlos Trabuco, para ser o ministro da Fazenda vai facilitar a aprovação da segunda etapa do ajuste fiscal e trará mais tranquilidade para o início do quarto mandato de Lula. A avaliação é ",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Com Trabuco, Lula amplia governo, blinda a Fazenda e mantém sob seu controle o debate sucessório",
-      "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/11/27/lula-escolha-trabuco-blinda-ministerio-fazenda.ghtml",
-      "date": "2026-11-27T10:22:15.000Z",
-      "summary": "Quem é Luiz Trabuco, escolhido como ministro da Fazenda do governo Lula 4 A escolha de Luiz Carlos Trabuco para comandar o Ministério da Fazenda tem muito mais semelhanças com o movimento que Lula (PT) fez no seu primeiro mandato, quando escolheu Henrique Meir",
       "source": "g1",
       "cat": "politica",
       "type": "imprensa"
@@ -219,15 +309,6 @@
       "summary": "Indicação de Trabuco foi classificada pela imprensa internacional como uma escolha estratégica para ajudar a tranquilizar o mercado diante da dívida pública",
       "source": "BBC News Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Bradesco diz que sucessão de Trabuco na presidência do conselho seguirá regulamentação",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/bradesco-diz-que-sucessao-de-trabuco-na-presidencia-do-conselho-seguira-regulamentacao.shtml",
-      "date": "2026-11-27T09:55:00.000Z",
-      "summary": "O Bradesco confirmou nesta sexta-feira (27) que Luiz Carlos Trabuco aceitou o convite do presidente Luiz Inácio Lula da Silva (PT) para ser ministro da Fazenda em 2027, como já havia sido anunciado pela Presidência da República na noite de quinta-feira (26). L",
-      "source": "Folha",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -294,15 +375,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Podcast explica escolha de Lula por Trabuco e o que esperar da gestão dele na Fazenda",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/podcasts/2026/11/podcast-explica-escolha-de-lula-por-trabuco-e-o-que-esperar-da-gestao-dele-na-fazenda.shtml",
-      "date": "2026-11-27T08:00:00.000Z",
-      "summary": "O presidente do Conselho de Administração do Bradesco, Luiz Carlos Trabuco, aceitou na noite desta quinta-feira (26) o convite do presidente Lula (PT) para assumir o Ministério da Fazenda no próximo mandato. Ele é o primeiro nome anunciado para o governo Lula ",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Governo Tarcísio corre para pagar emendas após insatisfação da base na Assembleia",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/governo-tarcisio-corre-para-pagar-emendas-apos-insatisfacao-da-base-na-assembleia.shtml",
       "date": "2026-11-27T07:06:00.000Z",
@@ -327,78 +399,6 @@
       "summary": "O ministro aposentado do Supremo Tribunal Federal Celso de Mello concorda com a tese de que juízes que viajam a convite de empresas privadas são suspeitos para julgar processos de interesse desses anfitriões. Leia mais (11/27/2026 - 04h02)",
       "source": "Folha",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Paulo Guedes, Haddad e Durigan: quem foram os últimos ministros da Fazenda do Brasil antes da escolha de Trabuco",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/27/paulo-guedes-haddad-e-durigan-quem-foram-os-ultimos-ministros-da-fazenda-do-brasil-antes-da-escolha-de-trabuco.ghtml",
-      "date": "2026-11-27T07:00:02.000Z",
-      "summary": "Luiz Carlos Trabuco, presidente do conselho de administração do Banco Bradesco SA, posa para foto em São Paulo, Brasil, 3 de dezembro de 2024. REUTERS/Amanda Perobelli Presidente do Conselho de Administração do Bradesco, Luiz Carlos Trabuco será o ministro da ",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Carne brasileira 'dopada'? Auditoria da própria União Europeia contraria declaração de Macron",
-      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/27/carne-brasileira-dopada-auditoria-da-propria-uniao-europeia-contraria-declaracao-de-macron.ghtml",
-      "date": "2026-11-27T07:00:01.000Z",
-      "summary": "Imagem do presidente da França, Emmanuel Macron, durante uma reunião com representantes do setor agrícola francês no Palácio do Eliseu, em 25 de novembro d e2026. Reprodução A declaração do presidente da França, Emmanuel Macron, de que a carne brasileira seria",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Lula avalia criar ministério com foco em governo digital para centralizar políticas de tecnologia",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/lula-avalia-criar-ministerio-com-foco-em-governo-digital-para-centralizar-politicas-de-tecnologia.shtml",
-      "date": "2026-11-27T07:00:00.000Z",
-      "summary": "O governo do presidente Luiz Inácio Lula da Silva (PT) avalia criar um ministério com foco em governo digital, que incorporaria funções de diferentes ministérios e secretarias do Executivo federal. Leia mais (11/27/2026 - 04h00)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "'Não acho que possamos mais coexistir com bilionários', diz escritora Naomi Klein",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/nao-acho-que-possamos-mais-coexistir-com-bilionarios-diz-escritora-naomi-klein.shtml",
-      "date": "2026-11-27T07:00:00.000Z",
-      "summary": "O capitalismo está fracassando na tarefa de atender as necessidades básicas da humanidade -ao invés disso está nos conduzindo a um precipício, com as sociedades totalmente voltadas à busca incessante por lucros. Leia mais (11/27/2026 - 04h00)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Nome de confiança da Faria Lima, Luiz Trabuco cultivou amizade com Lula à frente do Bradesco",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/27/nome-de-confianca-da-faria-lima-luiz-trabuco-cultivou-amizade-com-lula-a-frente-do-bradesco.ghtml",
-      "date": "2026-11-27T06:00:00.000Z",
-      "summary": "Trabuco é o primeiro nome confirmado da nova composição ministerial de Lula World Economic Forum/Benedikt von Loebell via BBC Natural de Marília, no interior de São Paulo, Luiz Carlos Trabuco começou a trabalhar ainda adolescente. Aos 12 anos, foi auxiliar de ",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "No dia da Black Friday, 58% dos itens pesquisados têm descontos; 33% estão mais caros; veja lista",
-      "link": "https://g1.globo.com/guia/guia-de-compras/no-dia-da-black-friday-58percent-dos-itens-pesquisados-tem-descontos-33percent-estao-mais-caros.ghtml",
-      "date": "2026-11-27T04:46:06.000Z",
-      "summary": "É Black Friday ou Black Fraude? Para checar se os preços da Black Friday, nesta sexta (27), têm descontos de verdade, o Guia de Compras pesquisou na última semana como estão os preços de 74 produtos. No dia da Black Friday, 43 itens ficaram com preços abaixo d",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Fundo de ações brasileiras sobe mais de 9% nos EUA após confirmação de Trabuco na Fazenda",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/27/ewz-sobe-apos-confirmacao-de-trabuco-na-fazenda.ghtml",
-      "date": "2026-11-27T04:19:41.000Z",
-      "summary": "Trabuco é o primeiro nome confirmado da nova composição ministerial de Lula World Economic Forum/Benedikt von Loebell via BBC O EWZ, fundo de investimento negociado nos Estados Unidos que acompanha o desempenho de ações brasileiras, registrava alta de 9,45% na",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Bonde São Paulo vai ligar polos de comércio e cultura no centro da capital",
-      "link": "https://www.estadao.com.br/economia/bonde-sao-paulo-vai-ligar-polos-de-comercio-e-cultura-no-centro-da-capital/",
-      "date": "2026-11-27T03:01:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -433,24 +433,6 @@
       "link": "https://www.bbc.com/portuguese/articles/c3n0lrq5kgd1o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-27T00:18:18.000Z",
       "summary": "Executivo chega à Fazenda em cenário de pressão sobre as contas públicas; mercado reagiu bem às expectativas de seu anúncio na pasta.",
-      "source": "BBC News Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Davi deseja “pleno êxito” a Luiz Carlos Trabuco no Ministério da Fazenda",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/26/davi-deseja-201cpleno-exito201d-a-luiz-carlos-trabuco-no-ministerio-da-fazenda",
-      "date": "2026-11-26T23:55:24.000Z",
-      "summary": "O presidente do Senado e do Congresso Nacional, Davi Alcolumbre, desejou “pleno êxito” a Luiz Carlos Trabuco, escolhido pelo presidente Luiz Inácio Lula da Silva para ocupar o Ministério da Fazenda a partir de janeiro. A indicação de Trabuco foi confirmada pel",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Trabuco aceita convite de Lula: quem é o novo ministro da Fazenda que defende ajuste fiscal e redução 'das desigualdades'",
-      "link": "https://www.bbc.com/portuguese/articles/c3gre9xxe92zo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-26T23:47:02.000Z",
-      "summary": "Presidente do Conselho de Administração do Bradesco aceita convite de Lula para integrar gabinete em movimento visto como 'pró-mercado' do Palácio",
       "source": "BBC News Brasil",
       "cat": "internacional",
       "type": "imprensa"
@@ -492,15 +474,6 @@
       "type": "oficial"
     },
     {
-      "title": "Homenagem à Academia William Shakespeare destaca importância da cultura",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/26/homenagem-a-academia-william-shakespeare-destaca-importancia-da-cultura",
-      "date": "2026-11-26T21:22:08.000Z",
-      "summary": "O Senado homenageou em sessão especial, nesta quinta-feira (26), a Academia William Shakespeare e o legado do dramaturgo inglês, cuja obra continua a influenciar a literatura, o teatro e a cultura mundial. Durante a cerimônia no Plenário, senadores e represent",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
       "title": "Brasileiros enganados vão para o front com Exército russo, diz jornal",
       "link": "https://www.dw.com/pt-br/brasileiros-enganados-vão-para-o-front-com-exército-russo-diz-jornal/a-80069430?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-26T21:07:00.000Z",
@@ -537,13 +510,13 @@
       "type": "oficial"
     },
     {
-      "title": "Relatório do Orçamento de 2027 mantém aumento de recursos a saúde e educação",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/26/relatorio-do-orcamento-de-2027-mantem-aumento-de-recursos-a-saude-e-educacao",
-      "date": "2026-11-26T19:38:51.000Z",
-      "summary": "O relatório preliminar do Orçamento de 2027 prevê R$ 272,18 bilhões para a saúde pública e R$ 246,3 bilhões para a educação, além de recursos para manter o programa Bolsa Família. O texto, aprovado pela Comissão Mista de Orçamento (CMO), define as regras para ",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
+      "title": "'Dracarys': por que as explosões do Ibama são contestadas na Justiça - depois de terem virado até meme",
+      "link": "https://www.bbc.com/portuguese/articles/c34gn28r7j4ro?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-26T18:26:09.000Z",
+      "summary": "Instituto afirma que a destruição é uma medida excepcional, prevista na legislação e adotada quando não há como retirar os equipamentos do local. Senador e Defensoria Pública no Amazonas contestam ações.",
+      "source": "BBC News Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
     },
     {
       "title": "Após 20 anos, Grécia vai deixar de ser país mais endividado da zona do euro",
@@ -679,19 +652,10 @@
       "source": "ONU News",
       "cat": "internacional",
       "type": "oficial"
-    },
-    {
-      "title": "BC aperfeiçoa norma sobre a participação em operações no mercado aberto",
-      "link": "https://www.bcb.gov.br/detalhenoticia/21326/nota",
-      "date": "2026-11-19T21:14:32.000Z",
-      "summary": "",
-      "source": "Banco Central",
-      "cat": "economia",
-      "type": "oficial"
     }
   ],
   "errors": [
-    "IPCA 12m (SGS 13522): HTTP 304",
+    "Selic (SGS 432): HTTP 304",
     "feed CNN Brasil: HTTP 404",
     "feed CNN Brasil: HTTP 404"
   ]
