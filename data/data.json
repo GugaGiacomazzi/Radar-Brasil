@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-27T05:59:31.042Z",
+  "updated": "2026-11-27T07:19:40.168Z",
   "market": {
     "ibov": {
       "price": 176799.84,
       "pct": 6.07,
-      "time": "2026-11-27T05:59:26.215Z",
+      "time": "2026-11-27T07:19:33.890Z",
       "history": [
         {
           "d": "2026-10-28",
@@ -141,6 +141,114 @@
   },
   "news": [
     {
+      "title": "Governo Tarcísio corre para pagar emendas após insatisfação da base na Assembleia",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/governo-tarcisio-corre-para-pagar-emendas-apos-insatisfacao-da-base-na-assembleia.shtml",
+      "date": "2026-11-27T07:06:00.000Z",
+      "summary": "O governo Tarcísio de Freitas (Republicanos) corre para destravar o pagamento de emendas parlamentares após um represamento milionário a um mês do fim do ano, o que gerou insatisfação na base na Assembleia Legislativa de São Paulo (Alesp). Leia mais (11/27/202",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Gleisi Hoffmann é cotada para voltar a ter cargo no Planalto após eleição de sacrifício no Paraná",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/gleisi-hoffmann-e-cotada-para-voltar-a-ter-cargo-no-planalto-apos-eleicao-de-sacrificio-no-parana.shtml",
+      "date": "2026-11-27T07:03:00.000Z",
+      "summary": "A deputada federal e ex-ministra Gleisi Hoffmann (PT) é cotada para assumir um cargo de primeiro escalão no Palácio do Planalto, próximo do presidente Luiz Inácio Lula da Silva (PT). Os postos mencionados são as secretarias de Comunicação Social, conhecida com",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Celso de Mello critica caravanas de juízes a convite de empresas",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/blogs/frederico-vasconcelos/2026/11/celso-de-mello-critica-caravanas-de-juizes-a-convite-de-empresas.shtml",
+      "date": "2026-11-27T07:02:00.000Z",
+      "summary": "O ministro aposentado do Supremo Tribunal Federal Celso de Mello concorda com a tese de que juízes que viajam a convite de empresas privadas são suspeitos para julgar processos de interesse desses anfitriões. Leia mais (11/27/2026 - 04h02)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Paulo Guedes, Haddad e Durigan: quem foram os últimos ministros da Fazenda do Brasil antes da escolha de Trabuco",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/27/paulo-guedes-haddad-e-durigan-quem-foram-os-ultimos-ministros-da-fazenda-do-brasil-antes-da-escolha-de-trabuco.ghtml",
+      "date": "2026-11-27T07:00:02.000Z",
+      "summary": "Luiz Carlos Trabuco, presidente do conselho de administração do Banco Bradesco SA, posa para foto em São Paulo, Brasil, 3 de dezembro de 2024. REUTERS/Amanda Perobelli Presidente do Conselho de Administração do Bradesco, Luiz Carlos Trabuco será o ministro da ",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Carne brasileira 'dopada'? Auditoria da própria União Europeia contraria declaração de Macron",
+      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/27/carne-brasileira-dopada-auditoria-da-propria-uniao-europeia-contraria-declaracao-de-macron.ghtml",
+      "date": "2026-11-27T07:00:01.000Z",
+      "summary": "Imagem do presidente da França, Emmanuel Macron, durante uma reunião com representantes do setor agrícola francês no Palácio do Eliseu, em 25 de novembro d e2026. Reprodução A declaração do presidente da França, Emmanuel Macron, de que a carne brasileira seria",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lula avalia criar ministério com foco em governo digital para centralizar políticas de tecnologia",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/lula-avalia-criar-ministerio-com-foco-em-governo-digital-para-centralizar-politicas-de-tecnologia.shtml",
+      "date": "2026-11-27T07:00:00.000Z",
+      "summary": "O governo do presidente Luiz Inácio Lula da Silva (PT) avalia criar um ministério com foco em governo digital, que incorporaria funções de diferentes ministérios e secretarias do Executivo federal. Leia mais (11/27/2026 - 04h00)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "'Não acho que possamos mais coexistir com bilionários', diz escritora Naomi Klein",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/nao-acho-que-possamos-mais-coexistir-com-bilionarios-diz-escritora-naomi-klein.shtml",
+      "date": "2026-11-27T07:00:00.000Z",
+      "summary": "O capitalismo está fracassando na tarefa de atender as necessidades básicas da humanidade -ao invés disso está nos conduzindo a um precipício, com as sociedades totalmente voltadas à busca incessante por lucros. Leia mais (11/27/2026 - 04h00)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Fundos de participações desafiam má fase e buscam R$ 20 bi para investir em empresas brasileiras",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/fundos-de-participacoes-desafiam-ma-fase-e-buscam-r-20-bi-para-investir-em-empresas-brasileiras.shtml",
+      "date": "2026-11-27T07:00:00.000Z",
+      "summary": "Os fundos que compram participações em empresas tentam surfar uma maré baixa para negócios e estão em busca de recursos para investimentos no Brasil e América Latina. Somados, eles podem levantar até R$ 20 bilhões em capital, segundo fontes do setor. Leia mais",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Data center de R$ 3 bi em Atibaia mobiliza órgãos federais, enquanto prefeitura nega ter recebido projeto",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/data-center-de-r-3-bi-em-atibaia-mobiliza-orgaos-federais-enquanto-prefeitura-nega-ter-recebido-projeto.shtml",
+      "date": "2026-11-27T07:00:00.000Z",
+      "summary": "Alvo de uma mobilização de moradores de Atibaia (SP), o projeto de instalação de um data center de R$ 3 bilhões na cidade já conta com um contrato de conexão à rede elétrica e com aval do governo federal para incentivo fiscal às obras que permitirão seu abaste",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Câmara aprova alertas sonoros e luminosos em tornozeleiras",
+      "link": "https://www.poder360.com.br/poder-congresso/camara-aprova-alertas-sonoros-e-luminosos-em-tornozeleiras/",
+      "date": "2026-11-27T06:55:13.000Z",
+      "summary": "Projeto de lei, que segue para o Senado, determina distância mínima de 100 metros entre vítima e agressor",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Chamado de golpista por petistas, Temer elogia Trabuco na Fazenda",
+      "link": "https://www.poder360.com.br/poder-economia/chamado-de-golpista-por-petistas-temer-elogia-trabuco-na-fazenda/",
+      "date": "2026-11-27T06:45:50.000Z",
+      "summary": "Ex-presidente afirma que o nome escolhido por Lula “é a opção certa para o Brasil”",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Nome de confiança da Faria Lima, Luiz Trabuco cultivou amizade com Lula à frente do Bradesco",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/27/nome-de-confianca-da-faria-lima-luiz-trabuco-cultivou-amizade-com-lula-a-frente-do-bradesco.ghtml",
+      "date": "2026-11-27T06:00:00.000Z",
+      "summary": "Trabuco é o primeiro nome confirmado da nova composição ministerial de Lula World Economic Forum/Benedikt von Loebell via BBC Natural de Marília, no interior de São Paulo, Luiz Carlos Trabuco começou a trabalhar ainda adolescente. Aos 12 anos, foi auxiliar de ",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "No dia da Black Friday, 58% dos itens pesquisados têm descontos; 33% estão mais caros; veja lista",
       "link": "https://g1.globo.com/guia/guia-de-compras/no-dia-da-black-friday-58percent-dos-itens-pesquisados-tem-descontos-33percent-estao-mais-caros.ghtml",
       "date": "2026-11-27T04:46:06.000Z",
@@ -168,15 +276,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Bradesco BBI eleva recomendação para ações brasileiras após escolha de Trabuco para Fazenda",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/bradesco-bbi-eleva-recomendacao-para-acoes-brasileiras-apos-escolha-de-trabuco-para-fazenda.shtml",
-      "date": "2026-11-27T03:35:00.000Z",
-      "summary": "O Bradesco BBI elevou para overweight (equivalente a compra) sua recomendação para ações de companhias brasileiras, após a oficialização da escolha de Luiz Carlos Trabuco como ministro da Fazenda do próximo governo de Luiz Inácio Lula da Silva (PT). Leia mais ",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Luiz Carlos Trabuco no Ministério da Fazenda - O Assunto #1854",
       "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/11/27/luiz-carlos-trabuco-no-ministerio-da-fazenda-o-assunto-1854.ghtml",
       "date": "2026-11-27T03:30:02.000Z",
@@ -192,15 +291,6 @@
       "summary": "Senador citou investigações envolvendo Gayer e Van Hattem para criticar atuação de ministro",
       "source": "Poder360",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Plataforma mapeia acesso a serviços e empregos em bairros brasileiros",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/plataforma-mapeia-acesso-a-servicos-e-empregos-em-bairros-brasileiros.shtml",
-      "date": "2026-11-27T03:01:00.000Z",
-      "summary": "Nova ferramenta do Instituto Mobilidade e Desenvolvimento Social (IMDS) permite que gestores públicos identifiquem, até o nível de bairros e pequenas áreas dentro dos municípios, a distância entre as moradias e equipamentos de saúde, educação e assistência soc",
-      "source": "Folha",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -231,33 +321,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Após EUA proporem taxar aviões brasileiros, Mauro Vieira oferece apoio à Embraer para buscar novos mercados",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/27/apos-eua-proporem-taxar-avioes-brasileiros-mauro-vieira-oferece-apoio-a-embraer-para-buscar-novos-mercados.ghtml",
-      "date": "2026-11-27T03:00:01.000Z",
-      "summary": "O ministro das Relações Exteriores, Mauro Vieira, se reuniu com o presidente da Embraer, Francisco Gomes Neto, nesta quinta-feira (26) e afirmou a ele que a diplomacia brasileira poderá buscar novos mercados para as exportações do setor. A promessa foi confirm",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Flávio diz que não pedirá intervenção dos EUA no Brasil",
-      "link": "https://www.poder360.com.br/poder-internacional/flavio-diz-que-nao-pedira-intervencao-dos-eua-no-brasil/",
-      "date": "2026-11-27T02:55:56.000Z",
-      "summary": "Em resposta a seguidora durante live, senador afirma que respeita a soberania brasileira e que cabe a Trump decidir se a situação do Brasil afeta os interesses norte-americanos",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Flávio chama Motta de “capacho de Lula” e pede votos para Marinho",
-      "link": "https://www.poder360.com.br/poder-congresso/flavio-chama-motta-de-capacho-de-lula-e-pede-votos-para-marinho/",
-      "date": "2026-11-27T02:41:39.000Z",
-      "summary": "Senador critica presidente da Câmara e defende candidato da oposição na disputa pelo comando da Casa Alta",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Piada no Planalto diz que Camilo Santana já é ministro da Casa Civil ‘no horário da Nova Zelândia’",
       "link": "https://www.estadao.com.br/politica/piada-no-planalto-diz-que-camilo-santana-ja-e-ministro-da-casa-civil-no-horario-da-nova-zelandia/",
       "date": "2026-11-27T02:40:19.000Z",
@@ -276,57 +339,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Lula escolheu Trabuco porque não tem ideia do que fazer com a economia, diz Flávio Bolsonaro",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/lula-escolheu-trabuco-porque-nao-tem-ideia-do-que-fazer-com-a-economia-diz-flavio-bolsonaro.shtml",
-      "date": "2026-11-27T02:37:00.000Z",
-      "summary": "O senador Flávio Bolsonaro (PL) afirmou nesta quinta-feira (26) que a escolha de Luiz Carlos Trabuco, do Bradesco, para o Ministério da Fazenda mostra que o presidente Lula (PT) não sabe como conduzir a economia. A declaração foi dada em uma live transmitida d",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "'Sereno', Trabuco é 'capaz de reduzir a tensão' com mercado, diz Lara Resende; veja a reação de outros economistas à escolha na Fazenda",
       "link": "https://www.bbc.com/portuguese/articles/cv8e014e88xgo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-27T02:31:39.000Z",
       "summary": "Escolha de presidente do Conselho de Administração do Bradesco para a pasta demonstra busca do governo Lula por diálogo com o mercado, avaliam entrevistados.",
       "source": "BBC News Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Trabuco, futuro ministro da Fazenda, sempre se esquivou de críticas ao governo Lula",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/trabuco-futuro-ministro-da-fazenda-sempre-se-esquivou-de-criticas-ao-governo-lula.shtml",
-      "date": "2026-11-27T02:10:00.000Z",
-      "summary": "O futuro ministro da Fazenda, Luiz Carlos Trabuco Cappi, que aceitou a missão de comandar a pasta nesta quinta-feira (26), sempre procurou se esquivar de críticas diretas ao governo do presidente Luiz Inácio Lula da Silva (PT). Seja em entrevistas ou conversas",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Jogo de empurra entre PF, STF e PGR ameaça travar possível investigação sobre ministros e Master",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/jogo-de-empurra-entre-pf-stf-e-pgr-ameaca-travar-possivel-investigacao-sobre-ministros-e-master.shtml",
-      "date": "2026-11-27T02:00:00.000Z",
-      "summary": "Os relatórios da Polícia Federal sobre menções a integrantes do STF (Supremo Tribunal Federal) encontradas nas investigações do caso do Banco Master se tornaram motivo para um jogo de empurra entre os órgãos envolvidos. A controvérsia ameaça comprometer o proc",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Vorcaro negociou compra de universidade, e parceiro diz ter falado com Gilmar, apontam mensagens",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/vorcaro-negociou-compra-de-universidade-e-parceiro-diz-ter-falado-com-gilmar-apontam-mensagens.shtml",
-      "date": "2026-11-27T02:00:00.000Z",
-      "summary": "O dono do Banco Master, Daniel Vorcaro, negociou em 2024 a compra de uma universidade em Brasília em parceria com o empresário José Fernando Pinto da Costa e discutiu a aquisição de uma outra instituição de ensino, no Rio de Janeiro. Leia mais (11/26/2026 - 23",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Ida de Alckmin para Segurança deve ter impacto sobre pasta da Justiça",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/ida-de-alckmin-para-seguranca-deve-ter-impacto-sobre-pasta-da-justica.shtml",
-      "date": "2026-11-27T02:00:00.000Z",
-      "summary": "A provável ida de Geraldo Alckmin para o Ministério da Segurança Pública pode ter reflexos também sobre o futuro da pasta da Justiça, da qual a nova estrutura será desmembrada. Leia mais (11/26/2026 - 23h00)",
-      "source": "Folha",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
