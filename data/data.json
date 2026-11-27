@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-27T15:57:07.833Z",
+  "updated": "2026-11-27T17:05:35.326Z",
   "market": {
     "ibov": {
-      "price": 177939.48,
-      "pct": 0.64,
-      "time": "2026-11-27T15:57:01.528Z",
+      "price": 176722.19,
+      "pct": -0.04,
+      "time": "2026-11-27T17:05:28.719Z",
       "history": [
         {
           "d": "2026-10-28",
@@ -88,7 +88,7 @@
         },
         {
           "d": "2026-11-27",
-          "c": 178040.9531
+          "c": 176694.1563
         }
       ]
     },
@@ -145,12 +145,210 @@
   },
   "news": [
     {
-      "title": "Centrais sindicais dão parabéns a Trabuco; CUT não assina a nota",
-      "link": "https://www.poder360.com.br/poder-economia/centrais-sindicais-dao-parabens-a-trabuco-cut-nao-assina-a-nota/",
-      "date": "2026-11-27T15:53:31.000Z",
-      "summary": "Entidades disseram que prioridade para o futuro ministro da Fazenda deve ser reduzir a taxa de juros",
+      "title": "Lula falará sobre democracia na posse de Milei no Mercosul",
+      "link": "https://www.poder360.com.br/poder-governo/lula-falara-sobre-democracia-em-posse-de-milei-no-mercosul/",
+      "date": "2026-11-27T17:03:11.000Z",
+      "summary": "Petista participará de cúpula que transfere presidência do bloco ao argentino, que não reconheceu resultado das eleições do Brasil",
       "source": "Poder360",
       "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Ao vivo: Lula visita hospital universitário no Rio de Janeiro",
+      "link": "https://www.poder360.com.br/poder-governo/ao-vivo-lula-visita-hospital-universitario-no-rio-de-janeiro/",
+      "date": "2026-11-27T17:00:30.000Z",
+      "summary": "Presidente conhece programa de assistência à saúde de idosos no Hospital Universitário Gaffrée e Guinle, da Unirio",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Aprovada não é cumprida: por que leis não saem do papel?",
+      "link": "https://www12.senado.leg.br/noticias/infomaterias/2026/10/aprovada-nao-e-cumprida-por-que-leis-nao-saem-do-papel",
+      "date": "2026-11-27T16:53:50.000Z",
+      "summary": "",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Ministério da Justiça tirou do ar 86 mil sites e perfis com publicidade ilegal de bets desde proibição",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/27/ministerio-da-justica-tirou-do-ar-86-mil-sites-e-perfis-com-publicidade-ilegal-de-bets-desde-proibicao.ghtml",
+      "date": "2026-11-27T16:51:19.000Z",
+      "summary": "O Ministério da Justiça retirou do ar ou determinou a remoção de 86.176 sites, páginas e perfis acusados de divulgação ilegal de plataformas de apostas online desde a proibição das bets no Brasil, há quase dois meses. Segundo o balanço do governo federal, as a",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Polícia pediu prisão de CEO da Fictor por simular faturamento bilionário; juíza negou",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/policia-pediu-prisao-de-ceo-da-fictor-por-simular-faturamento-bilionario-juiza-negou/",
+      "date": "2026-11-27T16:50:27.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Nome de Rui Costa ganha força para Minas e Energia",
+      "link": "https://www.poder360.com.br/poder-governo/nome-de-rui-costa-ganha-forca-para-minas-e-energia/",
+      "date": "2026-11-27T16:50:22.000Z",
+      "summary": "Alexandre Silveira seguirá no governo e Agricultura surge como possível destino do ministro",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Trabuco no Lula 4 deve distensionar relação de conflito com BC, dizem aliados",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/trabuco-no-lula-4-deve-distensionar-relacao-de-conflito-com-bc-dizem-aliados.shtml",
+      "date": "2026-11-27T16:50:00.000Z",
+      "summary": "O futuro ministro da Fazenda, Luiz Carlos Trabuco, deve ajudar a distensionar a relação hoje marcada por conflitos do governo Lula (PT) com o Banco Central sob a presidência de Gabriel Galípolo. Leia mais (11/27/2026 - 13h50)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Os 3 principais problemas que Trabuco terá que enfrentar na Fazenda no quarto mandato de Lula",
+      "link": "https://www.bbc.com/portuguese/articles/c95y12eme1jgo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-27T16:49:25.000Z",
+      "summary": "A trajetória das contas públicas, a insatisfação dos brasileiros com o custo de vida e o endividamento recorde e previsões desfavoráveis de crescimento estão entre as questões que deverão exigir atenção da nova equipe econômica.",
+      "source": "BBC News Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Bancos estrangeiros elogiam Trabuco e condicionam melhora fiscal à autonomia dele na Fazenda",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/bancos-estrangeiros-elogiam-trabuco-e-condicionam-melhora-fiscal-a-autonomia-dele-na-fazenda.shtml",
+      "date": "2026-11-27T16:48:00.000Z",
+      "summary": "A escolha de Luiz Carlos Trabuco Cappi, presidente do conselho de administração do Bradesco, para comandar o Ministério da Fazenda no quarto mandato do presidente Lula (PT) rendeu elogios por parte de bancos estrangeiros. Leia mais (11/27/2026 - 13h48)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Emissões de data centers dos EUA já equivalem às de países inteiros, diz estudo",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/economia-sustentavel/2026/11/emissoes-de-data-centers-dos-eua-ja-equivalem-as-de-paises-inteiros-diz-estudo.shtml",
+      "date": "2026-11-27T16:47:00.000Z",
+      "summary": "De acordo com uma nova pesquisa, os maiores data centers dos Estados Unidos são responsáveis por aproximadamente 25,7 milhões de toneladas métricas de emissões de dióxido de carbono por ano -volume que corresponde ao de nações inteiras, como a Bolívia ou a Din",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Fora do Senado em 2027, Mara Gabrilli participará de conselhos da Fiesp",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/fora-do-senado-em-2027-mara-gabrilli-participara-de-conselhos-da-fiesp.shtml",
+      "date": "2026-11-27T16:37:00.000Z",
+      "summary": "A senadora Mara Gabrilli (PSD-SP) foi convidada por Paulo Skaf, presidente da Fiesp (Federação das Indústrias do Estado de São Paulo), para integrar dois colegiados da entidade: o Conselho Superior de Comércio Exterior (Coscex) e o Conselho Superior Multidisci",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Quem é Letícia Villar, jogadora da seleção brasileira presa na Rússia que pediu ajuda a Lula",
+      "link": "https://g1.globo.com/mundo/noticia/2026/11/27/quem-e-leticia-villar-jogadora-da-selecao-brasileira-presa-na-russia-que-pediu-ajuda-a-lula.ghtml",
+      "date": "2026-11-27T16:32:08.000Z",
+      "summary": "Letícia Villar, jogadora brasileira está presa na Rússia Reprodução/Instagram Letícia Villar Pais, conhecida como \"Lelê\" Villar, é jogadora da seleção brasileira de futebol de areia, campeã mundial de clubes e uma das pioneiras da modalidade feminina no país. ",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Indicação de Trabuco derruba taxas e Tesouro Direto tem “circuit breaker”",
+      "link": "https://www.poder360.com.br/poder-economia/indicacao-de-trabuco-derruba-taxas-e-tesouro-direto-tem-circuit-breaker/",
+      "date": "2026-11-27T16:32:08.000Z",
+      "summary": "Prefixado 2032 chegou a recuar 86 pontos-base na abertura; títulos IPCA+ longos voltaram a pagar menos de 7% acima da inflação",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Veja como criar e introduzir abelhas-rainhas nas colmeias",
+      "link": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/11/27/veja-como-criar-e-introduzir-abelhas-rainhas-nas-colmeias.ghtml",
+      "date": "2026-11-27T16:31:53.000Z",
+      "summary": "Imagem ilustrativa de uma abelha. Adobe Stock O apicultor Gustavo Palermo, de Espírito Santo do Pinhal (SP), procurou o Globo Rural em busca de orientações para introduzir novas abelhas-rainhas nos enxames. Para auxiliar o produtor, a recomendação é consultar ",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Missão de Trabuco será ajustar finanças e melhorar imagem do governo Lula",
+      "link": "https://www.estadao.com.br/economia/missao-trabuco-ajustar-financas-melhorar-imagem-governo-lula/",
+      "date": "2026-11-27T16:31:47.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lula diz que 'salto alto' levou a derrota no primeiro turno da eleição",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/lula-diz-que-salto-alto-levou-a-derrota-no-primeiro-turno-da-eleicao.shtml",
+      "date": "2026-11-27T16:27:00.000Z",
+      "summary": "O presidente Lula afirmou nesta sexta-feira (27) que a derrota para o senador Flávio Bolsonaro (PL-RJ) no primeiro turno das eleições presidenciais pode ter sido provocada pelo \"salto alto\" da campanha. Leia mais (11/27/2026 - 13h27)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Sardinha de Michelle vira meme, mas não há evidência de relação entre dieta de Bolsonaro e obstrução",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/sardinha-de-michelle-vira-meme-mas-nao-ha-evidencia-de-relacao-entre-dieta-de-bolsonaro-e-obstrucao.shtml",
+      "date": "2026-11-27T16:24:00.000Z",
+      "summary": "A dieta do ex-presidente Jair Bolsonaro (PL) voltou à tona em meio a memes sobre receitas da ex-primeira-dama Michelle Bolsonaro (PL), mas não há evidência científica de que um alimento específico provoque obstruções intestinais, afirma o cirurgião Diego Adão,",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Polícia Federal faz operação para investigar fraude em concurso público na Paraíba",
+      "link": "https://www.estadao.com.br/politica/pf-faz-operacao-para-investigar-fraude-em-concurso-publico-na-paraiba-nprp/",
+      "date": "2026-11-27T16:19:49.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Era Trabuco ou Trabuco após o vazamento do convite de Lula fazer sorrir os indicadores econômicos",
+      "link": "https://www.estadao.com.br/politica/carlos-andreazza/era-trabuco-ou-trabuco-apos-o-vazamento-do-convite-de-lula-fazer-sorrir-os-indicadores-economicos/",
+      "date": "2026-11-27T16:13:10.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lula admite ajustes, mas nega corte de benefícios do ‘povo pobre’ em 1ª fala após escolha de Trabuco",
+      "link": "https://www.estadao.com.br/economia/lula-admite-ajustes-nega-corte-beneficios-primeira-fala-apos-escolha-trabuco/",
+      "date": "2026-11-27T16:10:28.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lula convida Camilo Santana para ser ministro da Casa Civil",
+      "link": "https://g1.globo.com/economia/blog/ana-flor/post/2026/11/27/lula-convida-camilo-santana-para-ser-ministro-da-casa-civil.ghtml",
+      "date": "2026-11-27T16:01:23.000Z",
+      "summary": "Lula e Camilo Santana Ricardo Stuckert /PR O presidente Luiz Inácio Lula da Silva (PT) convidou na noite desta quinta-feira (26) o senador Camilo Santana (PT-CE) para ser o ministro da Casa Civil a partir do próximo ano, no novo mandato. Segundo fontes do gove",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Golpes no WhatsApp: veja como proteger sua conta e evitar que usem seu número; VÍDEO",
+      "link": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/11/27/golpes-no-whatsapp-veja-como-proteger-sua-conta-e-evitar-que-usem-seu-numero-video.ghtml",
+      "date": "2026-11-27T16:00:00.000Z",
+      "summary": "Como proteger seu WhatsApp de golpes Golpes no WhatsApp podem envolver a criação de perfis falsos, pedidos de dinheiro e tentativas de roubar contas. Para se proteger, a recomendação é nunca compartilhar códigos recebidos por SMS e ativar a verificação em duas",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lula fala em ajustes, diz que não pode gastar dinheiro à toa, mas nega corte de benefícios",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/lula-fala-em-ajustes-diz-que-nao-pode-gastar-dinheiro-a-toa-mas-nega-corte-de-beneficios.shtml",
+      "date": "2026-11-27T15:57:00.000Z",
+      "summary": "O presidente Lula afirmou nesta sexta-feira (27) que pretende fazer ajustes nas despesas em seu novo governo e que \"não pode gastar dinheiro à toa\". Ele afirmou, porém, que não vai cortar benefícios sociais nem gastos com educação. Leia mais (11/27/2026 - 12h5",
+      "source": "Folha",
+      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -166,7 +364,7 @@
       "title": "Lula define Camilo Santana para comandar Casa Civil, dizem aliados",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/lula-define-camilo-santana-para-comandar-casa-civil-dizem-aliados.shtml",
       "date": "2026-11-27T15:52:00.000Z",
-      "summary": "O presidente Lula (PT) escolheu o senador Camilo Santana (PT-CE) como novo ministro-chefe da Casa Civil, segundo disseram aliados à Folha. O órgão é responsável por coordenar o trabalho dos demais ministérios, e é considerado um dos mais importantes do Executi",
+      "summary": "O presidente Lula (PT) escolheu o senador Camilo Santana (PT-CE) como novo ministro-chefe da Casa Civil, segundo disseram aliados à Folha. O órgão é responsável por coordenar o trabalho dos demais ministérios e é considerado um dos mais importantes do Executiv",
       "source": "Folha",
       "cat": "politica",
       "type": "imprensa"
@@ -181,65 +379,11 @@
       "type": "oficial"
     },
     {
-      "title": "Moraes autoriza ministro do TCU a visitar Bolsonaro no hospital",
-      "link": "https://www.poder360.com.br/poder-justica/moraes-autoriza-ministro-do-tcu-a-visitar-bolsonaro-no-hospital/",
-      "date": "2026-11-27T15:40:34.000Z",
-      "summary": "Inicialmente, Jorge Antônio Oliveira poderia visitar o ex-presidente em sua casa; com internação, defesa pediu mudança do local",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Brasileira presa na Rússia: leia na íntegra a carta de Letícia Villar ao presidente Lula",
+      "title": "Jogadora brasileira presa na Rússia mandou carta a Lula: 'Muitas coisas cruéis juntas'; leia a íntegra",
       "link": "https://g1.globo.com/mundo/noticia/2026/11/27/brasileira-presa-na-russia-leia-na-integra-a-carta-de-leticia-villar-ao-presidente-lula.ghtml",
       "date": "2026-11-27T15:38:03.000Z",
       "summary": "Letícia Villar, jogadora brasileira está presa na Rússia Reprodução/Instagram Presa na Rússia há 1 ano e 4 meses, a jogadora brasileira de futebol de areia Letícia Villar Pais, conhecida como \"Lelê\" Villar, enviou uma carta ao presidente Luiz Inácio Lula da Si",
       "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Lula busca em Trabuco conciliação de ajuste com políticas sociais, dizem aliados",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/lula-busca-em-trabuco-conciliacao-de-ajuste-com-politicas-sociais-dizem-aliados.shtml",
-      "date": "2026-11-27T15:36:00.000Z",
-      "summary": "Aliados do presidente Lula (PT) traduzem o convite ao banqueiro Luiz Carlos Trabuco, 75, como um gesto de conciliação possível entre a necessidade de ajuste fiscal e de manutenção de políticas sociais. Um auxiliar do presidente ressalta que a opção pelo presid",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Chanceler de Milei diz “se preocupar” com relação de Lula com Irã",
-      "link": "https://www.poder360.com.br/poder-internacional/chanceler-de-milei-diz-se-preocupar-com-relacao-de-lula-com-ira/",
-      "date": "2026-11-27T15:33:55.000Z",
-      "summary": "Pablo Quirno criticou encontro do petista com Masoud Pezeshkian na COP31 após tensões diplomáticas",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Mobilização para indicação de mulher negra ao STF é legítima, diz ministra de Lula",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/mobilizacao-para-indicacao-de-mulher-negra-ao-stf-e-legitima-diz-ministra-de-lula.shtml",
-      "date": "2026-11-27T15:32:00.000Z",
-      "summary": "A ministra da Igualdade Racial, Rachel Barros, disse considerar legítima a mobilização popular em prol da indicação de uma ministra negra ao STF (Supremo Tribunal Federal), mas evitou tratar o tema como uma obrigação do presidente Luiz Inácio Lula da Silva (PT",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Lula defende ajuste fiscal e diz que para 'país crescer, não se pode gastar dinheiro à toa'",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/27/lula-defende-ajuste-fiscal-e-diz-que-para-pais-crescer-nao-se-pode-gastar-dinheiro-a-toa.ghtml",
-      "date": "2026-11-27T15:30:47.000Z",
-      "summary": "O presidente Luiz Inácio Lula da Silva (PT) defendeu, nesta sexta-feira (27), as mudanças econômicas que o governo pretende fazer, e afirmou que para a economia crescer \"será necessário fazer alguns ajustes\". Ao citar investimentos nas áreas de saúde e educaçã",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Fachin prorroga inquérito sobre Jaques Wagner e Vorcaro",
-      "link": "https://www.poder360.com.br/poder-justica/fachin-prorroga-inquerito-sobre-jaques-wagner-e-vorcaro/",
-      "date": "2026-11-27T15:13:19.000Z",
-      "summary": "Presidente deu 60 dias para conclusão das investigações; PF apura se senador atuou em favor do Master em troca de vantagens",
-      "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -250,51 +394,6 @@
       "summary": "",
       "source": "Estadão",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Caso Master: Senador pede levantamento do sigilo de relatórios sobre ministros ao STF",
-      "link": "https://www.estadao.com.br/politica/caso-master-senador-pede-levantamento-do-sigilo-de-relatorios-sobre-ministros-ao-stf-nprp/",
-      "date": "2026-11-27T15:11:56.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Sem CUT, centrais sindicais 'saúdam' nomeação de Trabuco para Fazenda",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/sem-cut-centrais-sindicais-saudam-nomeacao-de-trabuco-para-fazenda.shtml",
-      "date": "2026-11-27T15:09:00.000Z",
-      "summary": "Sem a participação da CUT, centrais sindicais divulgaram uma nota em que \"saúdam\" a escolha de Luiz Carlos Trabuco como ministro da Fazenda e desejam sucesso a ele na função. Também se colocam à disposição para dialogar com o futuro chefe da equipe econômica d",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Como Jensen Huang vai comandar a Nvidia após crise de liderança?",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/como-jensen-huang-vai-comandar-a-nvidia-apos-crise-de-lideranca.shtml",
-      "date": "2026-11-27T15:09:00.000Z",
-      "summary": "Jensen Huang prometeu ser \"um CEO melhor na segunda vez\" ao retornar ao comando da Nvidia, após 11 dias afastado. Leia mais (11/27/2026 - 12h09)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Zucco escolhe cover de Elvis Presley como secretário de governo no Rio Grande do Sul",
-      "link": "https://www.estadao.com.br/politica/zucco-escolhe-cover-de-elvis-como-secretario-de-governo-nprp/",
-      "date": "2026-11-27T15:05:35.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "PP quer testar Derrite e nomes da segurança como possíveis candidatos a prefeito de SP em 2028",
-      "link": "https://www.estadao.com.br/politica/pp-quer-testar-derrite-e-nomes-da-seguranca-como-possiveis-candidatos-a-prefeito-de-sp-em-2028/",
-      "date": "2026-11-27T15:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -312,24 +411,6 @@
       "date": "2026-11-27T14:53:33.000Z",
       "summary": "",
       "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Liv Up, de marmitas congeladas, busca aporte de R$ 200 milhões e mira refeições mais baratas",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/liv-up-de-marmitas-congeladas-busca-aporte-de-r-200-milhoes-e-mira-refeicoes-mais-baratas.shtml",
-      "date": "2026-11-27T14:49:00.000Z",
-      "summary": "A Liv Up pretende esquentar seu negócio de marmitas congeladas com uma nova rodada de aporte de capital. A empresa de refeições prontas e saudáveis busca um investimento da ordem de R$ 200 milhões por uma participação minoritária no negócio, apurou a Folha. Le",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Trabuco na Fazenda: veja outros banqueiros que estiveram à frente do Ministério da Fazenda",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/27/trabuco-na-fazenda-veja-outros-banqueiros-que-estiveram-a-frente-do-ministerio-da-fazenda.ghtml",
-      "date": "2026-11-27T14:48:59.000Z",
-      "summary": "Trabuco na Fazenda: veja outros banqueiros que estiveram à frente do Ministério da Fazenda Reprodução O governo do presidente Luiz Inácio Lula da Silva (PT) anunciou na quinta-feira (26) que Luiz Carlos Trabuco, presidente do Conselho de Administração do Brade",
-      "source": "g1",
       "cat": "economia",
       "type": "imprensa"
     },
@@ -352,39 +433,12 @@
       "type": "oficial"
     },
     {
-      "title": "Brasil tem a sorte de ter boas terras raras, mas não investe tanto dinheiro nisso, diz CEO da Viridis",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/infraestrutura/2026/11/brasil-tem-a-sorte-de-ter-boas-terras-raras-mas-nao-investe-tanto-dinheiro-nisso-diz-ceo-da-viridis.shtml",
-      "date": "2026-11-27T14:36:00.000Z",
-      "summary": "As terras raras entraram no centro do debate geopolítico como uma espécie de petróleo do século 21, mas o frenesi que cerca o setor não deve durar muito tempo -assim como as opções de negócios. Com a sorte de ter boas minas, o Brasil poderia ser um protagonist",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Queda de aliado expõe disputa pela sucessão de Xi Jinping na China",
       "link": "https://www.dw.com/pt-br/queda-de-aliado-expõe-disputa-pela-sucessão-de-xi-jinping-na-china/a-80072905?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-27T14:27:00.000Z",
       "summary": "Destituição de Chen Jining, considerado um possível nome para a futura liderança do país, reforça sinais de que Xi não pretende preparar sucessor e busca manter controle absoluto sobre o Partido Comunista.",
       "source": "DW Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Trabuco no Ministério da Fazenda: como reagiram parlamentares da esquerda e da direita",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/27/trabuco-no-ministerio-da-fazenda-repercussao-parlamentares.ghtml",
-      "date": "2026-11-27T14:25:41.000Z",
-      "summary": "Quem é Luiz Trabuco, escolhido como ministro da Fazenda do governo Lula 4 A escolha de Luiz Carlos Trabuco para o Ministério da Fazenda no quarto mandato do presidente Lula (PT) foi elogiada por parlamentares governistas e também da oposição, além dos presiden",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Trabuco é uma jogada de mestre. Que limites ele terá para agir, uma incógnita",
-      "link": "https://www.estadao.com.br/politica/fernando-schuler/trabuco-e-uma-jogada-de-mestre-que-limites-ele-tera-para-agir-uma-incognita/",
-      "date": "2026-11-27T14:23:07.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -406,75 +460,12 @@
       "type": "oficial"
     },
     {
-      "title": "Lei autoriza crédito de R$ 21,5 milhões para as Justiças Federal e do Trabalho",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/27/lei-autoriza-credito-de-r-21-5-milhoes-para-as-justicas-federal-e-do-trabalho",
-      "date": "2026-11-27T14:12:54.000Z",
-      "summary": "A Justiça Federal e a Justiça do Trabalho receberão R$ 21,5 milhões em crédito especial para cobrir despesas com aposentadorias compulsórias de magistrados — quando o juiz era punido disciplinarmente com a aposentadoria e passava a receber proventos proporcion",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Entidades manifestam preocupação com projeto que flexibiliza regras para indicação de dirigentes de agências reguladoras",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/27/entidades-manifestam-preocupacao-com-projeto-que-flexibiliza-regras-para-indicacao-de-dirigentes-de-agencias-reguladoras.ghtml",
-      "date": "2026-11-27T14:12:18.000Z",
-      "summary": "Representantes de diferentes setores da economia divulgaram, nessa quinta-feira (26), um manifesto alertando sobre avanço de um projeto de lei no Senado que flexibiliza as restrições à indicação de pessoas com atuação político-partidária ou eleitoral recente p",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "O que ex-ministros da Fazenda disseram sobre a escolha de Trabuco para comandar a economia",
-      "link": "https://www.estadao.com.br/economia/ex-ministros-fazenda-disseram-trabuco-comando-economia/",
-      "date": "2026-11-27T14:12:17.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "A reação da imprensa internacional à indicação de Trabuco para o Ministério da Fazenda",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/27/trabuco-repercute-mundo.ghtml",
-      "date": "2026-11-27T13:58:36.000Z",
-      "summary": "Indicação de Trabuco foi classificada pela imprensa internacional como uma escolha estratégica para ajudar a tranquilizar o mercado diante da dívida pública Anadolu via Getty Images A escolha de Luiz Carlos Trabuco Cappi, presidente do Conselho de Administraçã",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Dólar cai e bolsa sobe: a reação do mercado - e de economistas - à escolha de Trabuco para a Fazenda",
       "link": "https://www.bbc.com/portuguese/articles/cv8e014e88xgo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-27T13:53:59.000Z",
       "summary": "Escolha de presidente do Conselho de Administração do Bradesco para a pasta demonstra busca do governo Lula por diálogo com o mercado, avaliam entrevistados.",
       "source": "BBC News Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Mostra de cineasta Josias Teófilo integra programação fotográfica no MIS",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/mostra-de-cineasta-josias-teofilo-integra-programacao-fotografica-no-mis.shtml",
-      "date": "2026-11-27T13:50:00.000Z",
-      "summary": "A exposição \"Tudo que Paira\", do cineasta Josias Teófilo, fará parte da programação Nova Foto 2026, no MIS (Museu da Imagem e do Som). Leia mais (11/27/2026 - 10h50)",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Com presença incerta no Lula 4, Moretti classifica como 'excelente' indicação de Trabuco para Fazenda",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/27/com-presenca-incerta-no-lula-4-moretti-classifica-como-excelente-indicacao-de-trabuco-para-a-fazenda.ghtml",
-      "date": "2026-11-27T13:42:36.000Z",
-      "summary": "O ministro do Planejamento e Orçamento, Bruno Moretti, classificou como “excelente” a indicação de Luiz Carlos Trabuco para o Ministério da Fazenda. Moretti ganhou protagonismo nas últimas semanas por ter sido o principal responsável pelo primeiro pacote de me",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Desemprego até outubro fica em 5,1%, e taxa volta ao menor patamar da série histórica",
-      "link": "https://www.estadao.com.br/economia/ibge-pnad-desemprego-outubro-2026/",
-      "date": "2026-11-27T12:07:48.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -523,12 +514,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Nome de confiança da Faria Lima, executivo cultivou amizade com Lula à frente do Bradesco",
-      "link": "https://www.bbc.com/portuguese/articles/c3n0lrq5kgd1o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-27T00:18:18.000Z",
-      "summary": "Executivo chega à Fazenda em cenário de pressão sobre as contas públicas; mercado reagiu bem às expectativas de seu anúncio na pasta.",
-      "source": "BBC News Brasil",
-      "cat": "internacional",
+      "title": "Empresário ligado à bilhetagem do transporte de SP recebeu R$ 29 milhões da Fictor e de ex-CEO",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/empresario-ligado-a-bilhetagem-do-transporte-de-sp-recebeu-r-29-milhoes-da-fictor-e-de-ex-ceo/",
+      "date": "2026-11-26T21:18:59.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -686,7 +677,6 @@
     }
   ],
   "errors": [
-    "Dívida/PIB (SGS 13762): HTTP 304",
     "feed CNN Brasil: HTTP 404",
     "feed CNN Brasil: HTTP 404"
   ]
