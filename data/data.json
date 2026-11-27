@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-27T17:05:35.326Z",
+  "updated": "2026-11-27T18:09:22.202Z",
   "market": {
     "ibov": {
-      "price": 176722.19,
-      "pct": -0.04,
-      "time": "2026-11-27T17:05:28.719Z",
+      "price": 175945.67,
+      "pct": -0.48,
+      "time": "2026-11-27T18:09:16.438Z",
       "history": [
         {
           "d": "2026-10-28",
@@ -88,7 +88,7 @@
         },
         {
           "d": "2026-11-27",
-          "c": 176694.1563
+          "c": 176004.2813
         }
       ]
     },
@@ -145,21 +145,156 @@
   },
   "news": [
     {
-      "title": "Lula falará sobre democracia na posse de Milei no Mercosul",
-      "link": "https://www.poder360.com.br/poder-governo/lula-falara-sobre-democracia-em-posse-de-milei-no-mercosul/",
-      "date": "2026-11-27T17:03:11.000Z",
-      "summary": "Petista participará de cúpula que transfere presidência do bloco ao argentino, que não reconheceu resultado das eleições do Brasil",
+      "title": "‘Não quero receber no meu nome’: ex-sócio da Fictor pediu conta de laranja a suposto operador do CV",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/nao-quero-receber-no-meu-nome-ex-socio-da-fictor-pediu-conta-de-laranja-a-suposto-operador-do-cv/",
+      "date": "2026-11-27T17:59:10.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Integrantes do governo dizem que Lula deve confirmar Alckmin na Segurança",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/integrantes-do-governo-dizem-que-lula-deve-confirmar-alckmin-na-seguranca.shtml",
+      "date": "2026-11-27T17:59:00.000Z",
+      "summary": "Integrantes do Palácio do Planalto dizem que o vice-presidente, Geraldo Alckmin, deve ser confirmado nos próximos dias como ministro da Segurança Pública, uma das pastas que serão criadas por Luiz Inácio Lula da Silva em seu quarto mandato. Leia mais (11/27/20",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Meirelles defende que Trabuco anuncie medidas de ajuste fiscal logo no início da gestão",
+      "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/11/27/meirelles-defende-que-trabuco-anuncie-ajuste-fiscal-no-inicio-da-gestao-e-enfrente-eventual-resistencia-de-aliados.ghtml",
+      "date": "2026-11-27T17:55:56.000Z",
+      "summary": "O ex-ministro da Fazenda Henrique Meirelles no Estúdio i reprodução O ex-ministro da Fazenda Henrique Meirelles defendeu, em entrevista ao Estúdio i, da GloboNews, que o futuro ministro da pasta, Luiz Carlos Trabuco, anuncie as principais medidas de ajuste fis",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "É preciso “deixar claro onde quer chegar”, diz Meirelles sobre Trabuco",
+      "link": "https://www.poder360.com.br/poder-economia/e-preciso-deixar-claro-onde-quer-chegar-diz-meirelles-sobre-trabuco/",
+      "date": "2026-11-27T17:50:23.000Z",
+      "summary": "Ex-presidente do BC e ex-ministro da Fazenda, Meirelles afirmou que é necessário que o banqueiro mantenha o “diálogo aberto\"",
       "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
     },
     {
-      "title": "Ao vivo: Lula visita hospital universitário no Rio de Janeiro",
-      "link": "https://www.poder360.com.br/poder-governo/ao-vivo-lula-visita-hospital-universitario-no-rio-de-janeiro/",
-      "date": "2026-11-27T17:00:30.000Z",
-      "summary": "Presidente conhece programa de assistência à saúde de idosos no Hospital Universitário Gaffrée e Guinle, da Unirio",
+      "title": "Sob Lula, Exército tentou reverter tombamento de antigo DOI-Codi no RJ",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/sob-lula-exercito-tentou-reverter-tombamento-de-antigo-doi-codi-no-rj.shtml",
+      "date": "2026-11-27T17:47:00.000Z",
+      "summary": "O processo de tombamento da antiga sede do DOI-Codi no Rio de Janeiro, concluído na quinta-feira (26), sofreu resistência do Exército, atual responsável pelo imóvel, até os últimos dias de tramitação no Iphan (Instituto do Patrimônio Histórico e Artístico Naci",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Argentina aprova lei contra bets, que proíbe patrocínio no esporte",
+      "link": "https://g1.globo.com/mundo/noticia/2026/11/27/argentina-aprova-lei-contra-bets-que-proibe-patrocinio-no-esporte.ghtml",
+      "date": "2026-11-27T17:46:09.000Z",
+      "summary": "Homem segura bandeira da Argentina diante do Congresso do país em Buenos Aires em 21 de dezembro de 2023 Agustin Marcarian/REUTERS O Congresso da Argentina aprovou na noite da última quinta-feira (26) uma lei para combater a ludopatia (vício em jogos de azar),",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "B3 e 6 bancos anunciam criação de stablecoin em reais",
+      "link": "https://www.poder360.com.br/poder-economia/b3-e-6-bancos-anunciam-criacao-de-stablecoin-em-reais/",
+      "date": "2026-11-27T17:42:16.000Z",
+      "summary": "Batizada de Open BRL, moeda digital deve começar a operar no 1º trimestre de 2027",
       "source": "Poder360",
       "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Fux prorroga contrato do BRB com TJ-BA por 15 dias e abre prazo para manifestação da Caixa",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/fux-prorroga-contrato-do-brb-com-tj-ba-por-15-dias-e-abre-prazo-para-manifestacao-da-caixa.shtml",
+      "date": "2026-11-27T17:41:00.000Z",
+      "summary": "O ministro Luiz Fux, do STF (Supremo Tribunal Federal), prorrogou o contrato do BRB (Banco de Brasília) com o TJ-BA (Tribunal de Justiça da Bahia) por mais 15 dias. Em decisão anterior, o magistrado havia determinado o encerramento do acordo entre o banco e o ",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Quem é Luiz Carlos Trabuco, o novo ministro da Fazenda de Lula",
+      "link": "https://www.dw.com/pt-br/quem-é-luiz-carlos-trabuco-o-novo-ministro-da-fazenda-de-lula/a-80080281?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-27T17:39:00.000Z",
+      "summary": "Após 57 anos no Bradesco, Trabuco deixa o setor privado para assumir comando da economia brasileira em meio à pressão fiscal. De origem humilde e formado em filosofia, banqueiro atribuiu sua ascensão social à educação.",
+      "source": "DW Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "“Mágico” do Orçamento, Bruno Moretti, vai seguir como ministro",
+      "link": "https://www.poder360.com.br/poder-governo/magico-do-orcamento-bruno-moretti-vai-seguir-como-ministro/",
+      "date": "2026-11-27T17:38:32.000Z",
+      "summary": "Titular ganhou a confiança de Lula ao viabilizar projetos como o reajuste do Bolsa Família, além de liderar o ajuste fiscal",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "PIB da França recua pelo segundo trimestre seguido e país entra em recessão",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/pib-da-franca-recua-pelo-segundo-trimestre-seguido-e-pais-entra-em-recessao.shtml",
+      "date": "2026-11-27T17:38:00.000Z",
+      "summary": "A França entrou em leve recessão, anunciou nesta sexta-feira (27) o instituto oficial de estatísticas Insee, o que fragiliza as previsões de crescimento de um governo já sob pressão para conter os gastos e sanear as combalidas contas públicas. Leia mais (11/27",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Manutenção de Moretti no Ministério do Planejamento é vista como praticamente certa, em um aceno de Lula ao PT",
+      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/27/manutencao-de-moretti-no-ministerio-do-planejamento-e-vista-como-praticamente-certa-em-um-aceno-de-lula-ao-pt.ghtml",
+      "date": "2026-11-27T17:30:48.000Z",
+      "summary": "O ministro do Planegerjamento, Bruno Moretti, conquistou o presidente Lula. O petista já gostava de Moretti quando o técnico estava na Casa Civil. Gostou da gestão dele quando assumiu o Planejamento após a saída de Simone Tebet (PSB). Segundo aliados, com isso",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Moraes autoriza ministro do TCU a visitar Jair Bolsonaro no hospital",
+      "link": "https://www.estadao.com.br/politica/moraes-autoriza-ministro-do-tcu-a-visitar-jair-bolsonaro-no-hospital-nprp/",
+      "date": "2026-11-27T17:25:26.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Camilo é favorito para a Casa Civil e anúncio sai na próxima semana",
+      "link": "https://www.poder360.com.br/poder-governo/camilo-e-favorito-para-a-casa-civil-e-anuncio-sai-na-proxima-semana/",
+      "date": "2026-11-27T17:22:00.000Z",
+      "summary": "Senador teve papel central na campanha de reeleição e, com Haddad fora da disputa, não há outro nome cotado para o posto",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "No dia da Black Friday, 20% dos produtos ficam mais caros em apenas 12 horas; 60% dos itens seguem com desconto",
+      "link": "https://g1.globo.com/guia/guia-de-compras/ofertas-black-friday-precos-sobem-em-12-horas-60porcento-seguem-com-desconto.ghtml",
+      "date": "2026-11-27T17:14:10.000Z",
+      "summary": "É Black Friday ou Black Fraude? Para checar se os preços da Black Friday, nesta sexta (27), têm descontos de verdade, o Guia de Compras pesquisou na última semana como estão os preços de 74 produtos. No dia da Black Friday: Na primeira pesquisa de preços, à me",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "B3 fecha acordo com bancos para criar stablecoin em reais",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/b3-fecha-acordo-com-bancos-para-criar-stablecoin-em-reais.shtml",
+      "date": "2026-11-27T17:14:00.000Z",
+      "summary": "A B3 anunciou nesta sexta-feira (27) acordo com Bradesco, BTG Pactual, Itaú Unibanco, Safra, Santander e XP para desenvolver uma stablecoin referenciada em reais e uma infraestrutura compartilhada para a utilização do ativo digital no mercado financeiro brasil",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Pluxee e Petrobras integram grupo sobre segurança alimentar de trabalhadores na ONU",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/pluxee-e-petrobras-integram-grupo-sobre-seguranca-alimentar-de-trabalhadores-na-onu.shtml",
+      "date": "2026-11-27T17:06:00.000Z",
+      "summary": "A Rede Brasil do Pacto Global da ONU (Organização das Nações Unidas) lançou nesta semana, em Genebra, um grupo de trabalho sobre segurança alimentar e nutricional de trabalhadores. Leia mais (11/27/2026 - 14h06)",
+      "source": "Folha",
+      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -181,57 +316,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Polícia pediu prisão de CEO da Fictor por simular faturamento bilionário; juíza negou",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/policia-pediu-prisao-de-ceo-da-fictor-por-simular-faturamento-bilionario-juiza-negou/",
-      "date": "2026-11-27T16:50:27.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Nome de Rui Costa ganha força para Minas e Energia",
-      "link": "https://www.poder360.com.br/poder-governo/nome-de-rui-costa-ganha-forca-para-minas-e-energia/",
-      "date": "2026-11-27T16:50:22.000Z",
-      "summary": "Alexandre Silveira seguirá no governo e Agricultura surge como possível destino do ministro",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Trabuco no Lula 4 deve distensionar relação de conflito com BC, dizem aliados",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/trabuco-no-lula-4-deve-distensionar-relacao-de-conflito-com-bc-dizem-aliados.shtml",
-      "date": "2026-11-27T16:50:00.000Z",
-      "summary": "O futuro ministro da Fazenda, Luiz Carlos Trabuco, deve ajudar a distensionar a relação hoje marcada por conflitos do governo Lula (PT) com o Banco Central sob a presidência de Gabriel Galípolo. Leia mais (11/27/2026 - 13h50)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Os 3 principais problemas que Trabuco terá que enfrentar na Fazenda no quarto mandato de Lula",
       "link": "https://www.bbc.com/portuguese/articles/c95y12eme1jgo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-27T16:49:25.000Z",
       "summary": "A trajetória das contas públicas, a insatisfação dos brasileiros com o custo de vida e o endividamento recorde e previsões desfavoráveis de crescimento estão entre as questões que deverão exigir atenção da nova equipe econômica.",
       "source": "BBC News Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Bancos estrangeiros elogiam Trabuco e condicionam melhora fiscal à autonomia dele na Fazenda",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/bancos-estrangeiros-elogiam-trabuco-e-condicionam-melhora-fiscal-a-autonomia-dele-na-fazenda.shtml",
-      "date": "2026-11-27T16:48:00.000Z",
-      "summary": "A escolha de Luiz Carlos Trabuco Cappi, presidente do conselho de administração do Bradesco, para comandar o Ministério da Fazenda no quarto mandato do presidente Lula (PT) rendeu elogios por parte de bancos estrangeiros. Leia mais (11/27/2026 - 13h48)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Emissões de data centers dos EUA já equivalem às de países inteiros, diz estudo",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/economia-sustentavel/2026/11/emissoes-de-data-centers-dos-eua-ja-equivalem-as-de-paises-inteiros-diz-estudo.shtml",
-      "date": "2026-11-27T16:47:00.000Z",
-      "summary": "De acordo com uma nova pesquisa, os maiores data centers dos Estados Unidos são responsáveis por aproximadamente 25,7 milhões de toneladas métricas de emissões de dióxido de carbono por ano -volume que corresponde ao de nações inteiras, como a Bolívia ou a Din",
-      "source": "Folha",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -253,24 +343,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Indicação de Trabuco derruba taxas e Tesouro Direto tem “circuit breaker”",
-      "link": "https://www.poder360.com.br/poder-economia/indicacao-de-trabuco-derruba-taxas-e-tesouro-direto-tem-circuit-breaker/",
-      "date": "2026-11-27T16:32:08.000Z",
-      "summary": "Prefixado 2032 chegou a recuar 86 pontos-base na abertura; títulos IPCA+ longos voltaram a pagar menos de 7% acima da inflação",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Veja como criar e introduzir abelhas-rainhas nas colmeias",
-      "link": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/11/27/veja-como-criar-e-introduzir-abelhas-rainhas-nas-colmeias.ghtml",
-      "date": "2026-11-27T16:31:53.000Z",
-      "summary": "Imagem ilustrativa de uma abelha. Adobe Stock O apicultor Gustavo Palermo, de Espírito Santo do Pinhal (SP), procurou o Globo Rural em busca de orientações para introduzir novas abelhas-rainhas nos enxames. Para auxiliar o produtor, a recomendação é consultar ",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Missão de Trabuco será ajustar finanças e melhorar imagem do governo Lula",
       "link": "https://www.estadao.com.br/economia/missao-trabuco-ajustar-financas-melhorar-imagem-governo-lula/",
       "date": "2026-11-27T16:31:47.000Z",
@@ -289,65 +361,11 @@
       "type": "imprensa"
     },
     {
-      "title": "Sardinha de Michelle vira meme, mas não há evidência de relação entre dieta de Bolsonaro e obstrução",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/sardinha-de-michelle-vira-meme-mas-nao-ha-evidencia-de-relacao-entre-dieta-de-bolsonaro-e-obstrucao.shtml",
-      "date": "2026-11-27T16:24:00.000Z",
-      "summary": "A dieta do ex-presidente Jair Bolsonaro (PL) voltou à tona em meio a memes sobre receitas da ex-primeira-dama Michelle Bolsonaro (PL), mas não há evidência científica de que um alimento específico provoque obstruções intestinais, afirma o cirurgião Diego Adão,",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Polícia Federal faz operação para investigar fraude em concurso público na Paraíba",
-      "link": "https://www.estadao.com.br/politica/pf-faz-operacao-para-investigar-fraude-em-concurso-publico-na-paraiba-nprp/",
-      "date": "2026-11-27T16:19:49.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Era Trabuco ou Trabuco após o vazamento do convite de Lula fazer sorrir os indicadores econômicos",
-      "link": "https://www.estadao.com.br/politica/carlos-andreazza/era-trabuco-ou-trabuco-apos-o-vazamento-do-convite-de-lula-fazer-sorrir-os-indicadores-economicos/",
-      "date": "2026-11-27T16:13:10.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Lula admite ajustes, mas nega corte de benefícios do ‘povo pobre’ em 1ª fala após escolha de Trabuco",
       "link": "https://www.estadao.com.br/economia/lula-admite-ajustes-nega-corte-beneficios-primeira-fala-apos-escolha-trabuco/",
       "date": "2026-11-27T16:10:28.000Z",
       "summary": "",
       "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Lula convida Camilo Santana para ser ministro da Casa Civil",
-      "link": "https://g1.globo.com/economia/blog/ana-flor/post/2026/11/27/lula-convida-camilo-santana-para-ser-ministro-da-casa-civil.ghtml",
-      "date": "2026-11-27T16:01:23.000Z",
-      "summary": "Lula e Camilo Santana Ricardo Stuckert /PR O presidente Luiz Inácio Lula da Silva (PT) convidou na noite desta quinta-feira (26) o senador Camilo Santana (PT-CE) para ser o ministro da Casa Civil a partir do próximo ano, no novo mandato. Segundo fontes do gove",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Golpes no WhatsApp: veja como proteger sua conta e evitar que usem seu número; VÍDEO",
-      "link": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/11/27/golpes-no-whatsapp-veja-como-proteger-sua-conta-e-evitar-que-usem-seu-numero-video.ghtml",
-      "date": "2026-11-27T16:00:00.000Z",
-      "summary": "Como proteger seu WhatsApp de golpes Golpes no WhatsApp podem envolver a criação de perfis falsos, pedidos de dinheiro e tentativas de roubar contas. Para se proteger, a recomendação é nunca compartilhar códigos recebidos por SMS e ativar a verificação em duas",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Lula fala em ajustes, diz que não pode gastar dinheiro à toa, mas nega corte de benefícios",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/lula-fala-em-ajustes-diz-que-nao-pode-gastar-dinheiro-a-toa-mas-nega-corte-de-beneficios.shtml",
-      "date": "2026-11-27T15:57:00.000Z",
-      "summary": "O presidente Lula afirmou nesta sexta-feira (27) que pretende fazer ajustes nas despesas em seu novo governo e que \"não pode gastar dinheiro à toa\". Ele afirmou, porém, que não vai cortar benefícios sociais nem gastos com educação. Leia mais (11/27/2026 - 12h5",
-      "source": "Folha",
       "cat": "economia",
       "type": "imprensa"
     },
@@ -361,15 +379,6 @@
       "type": "oficial"
     },
     {
-      "title": "Lula define Camilo Santana para comandar Casa Civil, dizem aliados",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/lula-define-camilo-santana-para-comandar-casa-civil-dizem-aliados.shtml",
-      "date": "2026-11-27T15:52:00.000Z",
-      "summary": "O presidente Lula (PT) escolheu o senador Camilo Santana (PT-CE) como novo ministro-chefe da Casa Civil, segundo disseram aliados à Folha. O órgão é responsável por coordenar o trabalho dos demais ministérios e é considerado um dos mais importantes do Executiv",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Comissão debate perseguição a ativistas pró-Palestina; participe",
       "link": "https://www.camara.leg.br/noticias/1323179-comissao-debate-perseguicao-a-ativistas-pro-palestina-participe",
       "date": "2026-11-27T15:50:00.000Z",
@@ -377,15 +386,6 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Jogadora brasileira presa na Rússia mandou carta a Lula: 'Muitas coisas cruéis juntas'; leia a íntegra",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/27/brasileira-presa-na-russia-leia-na-integra-a-carta-de-leticia-villar-ao-presidente-lula.ghtml",
-      "date": "2026-11-27T15:38:03.000Z",
-      "summary": "Letícia Villar, jogadora brasileira está presa na Rússia Reprodução/Instagram Presa na Rússia há 1 ano e 4 meses, a jogadora brasileira de futebol de areia Letícia Villar Pais, conhecida como \"Lelê\" Villar, enviou uma carta ao presidente Luiz Inácio Lula da Si",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
     },
     {
       "title": "Veja em 5 gráficos os desafios de Trabuco no comando do Ministério da Fazenda",
@@ -397,12 +397,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Black Friday: uso do PIX cresce 29% nas primeiras horas do dia em relação a 2025, aponta levantamento",
-      "link": "https://g1.globo.com/guia/guia-de-compras/black-friday-uso-do-pix-cresce-29percent-nas-primeiras-horas-do-dia-em-relacao-a-2025-aponta-levantamento.ghtml",
-      "date": "2026-11-27T14:57:26.000Z",
-      "summary": "É Black Friday ou Black Fraude? Os pagamentos realizados via PIX nas primeiras horas da Black Friday cresceram 29% em relação ao mesmo período do ano passado. O dado é de um levantamento divulgado pelo Itaú Unibanco. A pesquisa considerou as transações efetuad",
-      "source": "g1",
-      "cat": "economia",
+      "title": "PP quer testar Derrite e nomes da segurança como possíveis candidatos a prefeito de SP em 2028",
+      "link": "https://www.estadao.com.br/politica/pp-quer-testar-derrite-e-nomes-da-seguranca-como-possiveis-candidatos-a-prefeito-de-sp-em-2028/",
+      "date": "2026-11-27T15:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -413,15 +413,6 @@
       "source": "Estadão",
       "cat": "economia",
       "type": "imprensa"
-    },
-    {
-      "title": "Sancionada lei que atualiza ECA para garantir educação básica obrigatória",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/27/sancionada-lei-que-atualiza-eca-para-garantir-educacao-basica-obrigatoria",
-      "date": "2026-11-27T14:43:00.000Z",
-      "summary": "O Estatuto da Criança e do Adolescente (ECA) passa a prever expressamente a oferta obrigatória e gratuita da educação básica dos 4 aos 17 anos de idade, além de assegurar o acesso gratuito a jovens e adultos que não tiveram a oportunidade de estudar na idade a",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
     },
     {
       "title": "Comissão debate aumento da violência sexual contra crianças e adolescentes",
@@ -514,15 +505,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Empresário ligado à bilhetagem do transporte de SP recebeu R$ 29 milhões da Fictor e de ex-CEO",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/empresario-ligado-a-bilhetagem-do-transporte-de-sp-recebeu-r-29-milhoes-da-fictor-e-de-ex-ceo/",
-      "date": "2026-11-26T21:18:59.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Brasileiros enganados vão para o front com Exército russo, diz jornal",
       "link": "https://www.dw.com/pt-br/brasileiros-enganados-vão-para-o-front-com-exército-russo-diz-jornal/a-80069430?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-26T21:07:00.000Z",
@@ -538,6 +520,15 @@
       "summary": "Descontentamento com o custo de vida, em especial da moradia, contrasta com bons resultados da economia espanhola e deve ser fator decisivo na eleição antecipada convocada pelo premiê Pedro Sánchez.",
       "source": "DW Brasil",
       "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Bastidores: ‘Empoderado’, Lula prepara xeque-mate em Alcolumbre com indicação de mulher para o STF",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/bastidores-empoderado-lula-prepara-xeque-mate-em-alcolumbre-com-indicacao-de-mulher-para-o-stf/",
+      "date": "2026-11-26T19:25:03.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -563,15 +554,6 @@
       "link": "https://www.dw.com/pt-br/fuga-exílio-ou-exfiltração-o-que-aconteceu-com-flávio-bolsonaro/a-80034386?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-26T14:37:00.000Z",
       "summary": "Um mês após a saída do senador do Brasil, circunstâncias da viagem aos Estados Unidos permanecem obscuras. Especialistas analisam a fuga de Flávio e discutem os limites da narrativa de perseguição política.",
-      "source": "DW Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Coreia do Norte freia envio de novos soldados para guerra na Ucrânia",
-      "link": "https://www.dw.com/pt-br/coreia-do-norte-freia-envio-de-novos-soldados-para-guerra-na-ucrânia/a-80041003?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-26T12:22:00.000Z",
-      "summary": "Analistas avaliam que Pyongyang está limitando envio de soldados para servir na frente ucraniana. Mas regime mantém apoio à Rússia com armas e munições, enquanto busca equilibrar suas relações com Moscou e Pequim.",
       "source": "DW Brasil",
       "cat": "internacional",
       "type": "imprensa"
