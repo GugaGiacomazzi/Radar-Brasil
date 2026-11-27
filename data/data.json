@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-27T20:33:08.263Z",
+  "updated": "2026-11-27T21:35:27.052Z",
   "market": {
     "ibov": {
-      "price": 176896.44,
-      "pct": 0.05,
-      "time": "2026-11-27T20:33:01.751Z",
+      "price": 176573.34,
+      "pct": -0.13,
+      "time": "2026-11-27T21:35:19.522Z",
       "history": [
         {
           "d": "2026-10-28",
@@ -88,7 +88,7 @@
         },
         {
           "d": "2026-11-27",
-          "c": 176820.375
+          "c": 176573.3438
         }
       ]
     },
@@ -145,7 +145,88 @@
   },
   "news": [
     {
-      "title": "De sex shop e loja octagenária, Black Friday lota comércios no centro de SP",
+      "title": "Ações da Petrobras caem até 3% e pressionam Bolsa",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/10/25/6568-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post468080",
+      "date": "2026-11-27T21:17:00.000Z",
+      "summary": "As ações da Petrobras recuaram nesta sexta-feira (27), em meio à queda do dólar e à desvalorização do petróleo Brent no mercado internacional. Os papéis preferenciais, que dão direito à prioridade no recebimento de dividendos, encerraram o dia em baixa de 2,43",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Padilha será mantido à frente da Saúde no quarto mandato de Lula",
+      "link": "https://www.estadao.com.br/politica/padilha-sera-mantido-a-frente-da-saude-no-quarto-mandato-de-lula/",
+      "date": "2026-11-27T21:14:23.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Marinha testa habilidades de militares em campeonato de drones",
+      "link": "https://www.poder360.com.br/poder-brasil/marinha-testa-habilidades-de-militares-em-campeonato-de-drones/",
+      "date": "2026-11-27T21:12:24.000Z",
+      "summary": "Competição reúne operadores em provas de pilotagem e promove debates sobre o uso desses equipamentos em conflitos",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "PGR opina contra obrigar governo Lula a avalizar empréstimo para salvar BRB",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/pgr-opina-contra-obrigar-governo-lula-a-avalizar-emprestimo-para-salvar-brb.shtml",
+      "date": "2026-11-27T21:10:00.000Z",
+      "summary": "O procurador-geral da República, Paulo Gonet, enviou ao STF (Supremo Tribunal Federal) na quinta-feira (26) um parecer contrário ao pedido do Governo do Distrito Federal para obrigar a União a dar aval a um empréstimo para socorrer o BRB (Banco de Brasília). L",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Quem tem mais dinheiro consegue investir melhor?",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/blogs/de-grao-em-grao/2026/11/quem-tem-mais-dinheiro-consegue-investir-melhor.shtml",
+      "date": "2026-11-27T21:00:00.000Z",
+      "summary": "Existe uma crença de que investidores com patrimônios elevados conseguem obter rentabilidades superiores às dos pequenos investidores. Afinal, eles têm acesso a produtos exclusivos, recebem ofertas diferenciadas e podem investir milhões em oportunidades inaces",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Crise de inadimplência no agro deve contribuir para enfraquecimento do PIB em 2027",
+      "link": "https://www.estadao.com.br/economia/agronegocios/crise-de-inadimplencia-no-agro-deve-contribuir-para-enfraquecimento-do-pib-em-2027/",
+      "date": "2026-11-27T21:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Desfigurada aos 15 anos: as vidas devastadas por uma década de conflito em Camarões",
+      "link": "https://www.bbc.com/portuguese/articles/cjlydlky7wl7o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-27T20:51:08.000Z",
+      "summary": "Mais de meio milhão de pessoas fugiram de suas casas desde que grupos separatistas passaram a reivindicar a independência das regiões anglófonas de Camarões",
+      "source": "BBC News Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Trump declara apoio ao Iraque no combate ao contrabando de petróleo",
+      "link": "https://www.poder360.com.br/poder-internacional/trump-declara-apoio-ao-iraque-no-combate-ao-contrabando-de-petroleo/",
+      "date": "2026-11-27T20:42:19.000Z",
+      "summary": "Premiê Ali al-Zaidi também foi elogiado por ampliar o controle estatal sobre armas e combater a corrupção",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Trabuco, Lula e o deserto antes da Terra Prometida",
+      "link": "https://www.estadao.com.br/economia/fernando-dantas/trabuco-lula-e-o-deserto-antes-da-terra-prometida/",
+      "date": "2026-11-27T20:34:36.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "De sex shop e loja octogenária, Black Friday lota comércios no centro de SP",
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/de-sex-shop-e-loja-octagenaria-black-friday-lota-comercios-no-centro-de-sp.shtml",
       "date": "2026-11-27T20:30:00.000Z",
       "summary": "A Black Friday desta sexta-feira (27) movimentou o comércio de rua no centro de São Paulo e atraiu públicos variados mesmo em meio à desconfiança sobre os descontos. Leia mais (11/27/2026 - 17h30)",
@@ -181,6 +262,15 @@
       "type": "imprensa"
     },
     {
+      "title": "Dino bloqueia emendas individuais de Flávio Bolsonaro",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/dino-bloqueia-emendas-individuais-de-flavio-bolsonaro/",
+      "date": "2026-11-27T20:15:56.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "Mulheres cientistas recebem homenagem no Senado e pedem apoio à pesquisa",
       "link": "https://www12.senado.leg.br/noticias/materias/2026/11/27/mulheres-cientistas-recebem-homenagem-no-senado-e-pedem-apoio-a-pesquisa",
       "date": "2026-11-27T20:13:18.000Z",
@@ -188,33 +278,6 @@
       "source": "Agência Senado",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Fachin mantém prisão de Paulo Henrique Costa, ex-BRB",
-      "link": "https://www.poder360.com.br/poder-justica/fachin-mantem-prisao-de-paulo-henrique-costa-ex-brb/",
-      "date": "2026-11-27T20:12:13.000Z",
-      "summary": "Presidente do Supremo considerou que o ex-presidente do Banco de Brasília não atende aos requisitos para migrar para domiciliar",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Dólar fecha em queda de 4% aos R$ 5,515 após anúncio de Trabuco",
-      "link": "https://www.poder360.com.br/poder-economia/dolar-fecha-em-queda-de-4-aos-r-5515-apos-anuncio-de-trabuco/",
-      "date": "2026-11-27T20:12:05.000Z",
-      "summary": "A expectativa dos investidores é que a política fiscal do governo se torne mais crível com o novo ministro da Fazenda",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Trump diz que CEO da Nvidia fará “trabalho melhor” após retorno",
-      "link": "https://www.poder360.com.br/poder-internacional/trump-diz-que-ceo-da-nvidia-fara-trabalho-melhor-apos-retorno/",
-      "date": "2026-11-27T20:09:38.000Z",
-      "summary": "Presidente dos EUA elogiou Jensen Huang e afirmou que volta do executivo ao comando da empresa é positiva",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
     },
     {
       "title": "Lula define tripé do quarto mandato e, depois de Trabuco, anunciará Camilo e Alckmin",
@@ -241,15 +304,6 @@
       "summary": "O presidente Donald Trump afirma que a pobreza nos EUA vive uma baixa recorde, o que tem sido questionado. A DW analisa como governos e organizações globais monitoram a pobreza e suas diferentes metodologias.",
       "source": "DW Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Papel higiênico e videogames são destaque em vendas na Black Friday",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/papel-higienico-e-videogames-sao-destaque-em-vendas-na-black-friday.shtml",
-      "date": "2026-11-27T19:56:00.000Z",
-      "summary": "As primeiras 12 horas desta sexta-feira (27) de promoções parecem já cravar um mote: a Black Friday de 2026 está sendo a do papel higiênico e a do videogame. Leia mais (11/27/2026 - 16h56)",
-      "source": "Folha",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -289,15 +343,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Netanyahu não será convidado para posse de Lula, mas Planalto tem plano para evitar crise com Israel",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/netanyahu-nao-sera-convidado-para-posse-de-lula-mas-planalto-tem-plano-para-evitar-crise-com-israel/",
-      "date": "2026-11-27T19:46:06.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Estatuto dos Cães e Gatos no Plenário",
       "link": "https://www12.senado.leg.br/noticias/infomaterias/2026/11/estatuto-dos-caes-e-gatos-no-plenario",
       "date": "2026-11-27T19:45:17.000Z",
@@ -313,24 +358,6 @@
       "summary": "Norse Atlantic é a última baixa entre companhias aéreas afetadas pela alta de preços causada pela guerra no Irã, que já tinha afetado duramente a Spirit Airlines e a airBaltic.",
       "source": "DW Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Próxima aposta da Kalshi são microsseguros para pequenas empresas",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/proxima-aposta-da-kalshi-sao-microsseguros-para-pequenas-empresas.shtml",
-      "date": "2026-11-27T19:39:00.000Z",
-      "summary": "Izzy Sarrafzadeh está se preparando para pagar alguns milhares de dólares para se proteger do risco de novas tarifas sobre importações indianas, que poderiam custar mais de US$ 60 mil à sua startup, sediada em Nova York. Leia mais (11/27/2026 - 16h39)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Fux prorroga por 15 dias contrato do BRB com tribunal da Bahia e evita nova crise no banco",
-      "link": "https://www.estadao.com.br/economia/fux-prorroga-por-15-dias-contrato-do-brb-com-tribunal-da-bahia-e-evita-nova-crise-no-banco/",
-      "date": "2026-11-27T19:37:32.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -350,15 +377,6 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Binance faz parceria com a IWF para identificar pagamentos por material de abuso infantil",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/binance-faz-parceria-com-a-iwf-para-identificar-pagamentos-por-material-de-abuso-infantil.shtml",
-      "date": "2026-11-27T19:36:00.000Z",
-      "summary": "A Binance, maior plataforma de negociação de criptomoedas do mundo, firmou uma parceria com a IWF (Internet Watch Foundation), organização britânica de combate à exploração sexual infantil na internet, para ajudar a identificar pessoas que usam a plataforma pa",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
     },
     {
       "title": "Lula expõe condição de saúde de Fernando Henrique em discurso no RJ: ‘Essa pessoa não vive’",
@@ -391,7 +409,7 @@
       "title": "Dino suspende tramitação de emendas de Flávio Bolsonaro para 2027 e pede ao Senado explicações sobre atuação do senador",
       "link": "https://g1.globo.com/politica/noticia/2026/11/27/dino-suspende-tramitacao-de-emendas-de-flavio-bolsonaro-para-2027-ministro-pediu-que-senado-explique-atuacao-do-senador-de-fora-do-pais.ghtml",
       "date": "2026-11-27T19:27:37.000Z",
-      "summary": "O ministro Flávio Dino, do Superior Tribunal Federal (STF), determinou a suspensão da tramitação de emendas do senador Flávio Bolsonaro (PL-RJ) para o orçamento de 2027. O ministro também pediu ao Senado Federal para esclarecer as condições em que o senador, d",
+      "summary": "O ministro Flávio Dino, do Supremo Tribunal Federal (STF), determinou a suspensão da tramitação de emendas do senador Flávio Bolsonaro (PL-RJ) para o orçamento de 2027. O ministro também pediu ao Senado Federal para esclarecer as condições em que o senador, de",
       "source": "g1",
       "cat": "politica",
       "type": "imprensa"
@@ -409,7 +427,7 @@
       "title": "Brasileira transforma teatro em cenário de sonhos na Semana de Arte em Miami",
       "link": "https://g1.globo.com/economia/especial-publicitario/bradesco-bank-us/noticia/2026/11/27/brasileira-transforma-teatro-em-cenario-de-sonhos-na-semana-de-arte-em-miami.ghtml",
       "date": "2026-11-27T19:08:10.000Z",
-      "summary": "Ambiente criado pela artista brasileira Flávia Junqueira nos EUA. Divulgação Balões espalhados pelo chão e suspensos no teto, fumaça que invade o ambiente, música com referências a parques de diversões e uma atmosfera que parece transportar o visitante para de",
+      "summary": "Balões espalhados pelo chão e suspensos no teto, fumaça que invade o ambiente, música com referências a parques de diversões e uma atmosfera que parece transportar o visitante para dentro de um sonho. É essa a proposta da artista brasileira Flávia Junqueira pa",
       "source": "g1",
       "cat": "economia",
       "type": "imprensa"
@@ -469,15 +487,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Emendas à LDO de 2027 tentam proteger programas e mudar a meta fiscal",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/27/emendas-a-ldo-de-2027-tentam-proteger-programas-e-mudar-a-meta-fiscal",
-      "date": "2026-11-27T18:06:03.000Z",
-      "summary": "O projeto da Lei de Diretrizes Orçamentárias (LDO) de 2027 recebeu 1.504 emendas de deputados e senadores. Muitas delas tentam proteger programas específicos de cortes orçamentários. Do total, 246 se referem ao Anexo de Prioridades e Metas. Com as emendas, vár",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
       "title": "Meirelles defende que Trabuco anuncie medidas de ajuste fiscal logo no início da gestão",
       "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/11/27/meirelles-defende-que-trabuco-anuncie-ajuste-fiscal-no-inicio-da-gestao-e-enfrente-eventual-resistencia-de-aliados.ghtml",
       "date": "2026-11-27T17:55:56.000Z",
@@ -505,15 +514,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Missão de Trabuco será ajustar finanças e melhorar imagem do governo Lula",
-      "link": "https://www.estadao.com.br/economia/missao-trabuco-ajustar-financas-melhorar-imagem-governo-lula/",
-      "date": "2026-11-27T16:31:47.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Queda de aliado expõe disputa pela sucessão de Xi Jinping na China",
       "link": "https://www.dw.com/pt-br/queda-de-aliado-expõe-disputa-pela-sucessão-de-xi-jinping-na-china/a-80072905?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-27T14:27:00.000Z",
@@ -532,13 +532,13 @@
       "type": "imprensa"
     },
     {
-      "title": "Oposição a Lula virou suco e o cargo de líder do grupo está vago; quem se habilita?",
-      "link": "https://www.estadao.com.br/politica/francisco-leali/oposicao-a-lula-virou-suco-e-o-cargo-de-lider-do-grupo-esta-vago-quem-se-habilita/",
-      "date": "2026-11-27T12:30:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
+      "title": "Na ONU, Angola reafirma compromisso com reconciliação nacional e direitos humanos",
+      "link": "https://news.un.org/feed/view/pt/story/2026/11/1855027",
+      "date": "2026-11-27T12:00:00.000Z",
+      "summary": "Comitê contra a Tortura da ONU revela preocupação com relatos de uso excessivo e letal da força policial durante manifestações; delegação angolana revela criação de mecanismos de memória para honrar vítimas dos antigos conflitos políticos.",
+      "source": "ONU News",
+      "cat": "internacional",
+      "type": "oficial"
     },
     {
       "title": "Efeitos do El Niño agravam e aumentam pontos críticos da fome no mundo",
@@ -586,24 +586,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Bonde São Paulo vai ligar polos de comércio e cultura no centro da capital",
-      "link": "https://www.estadao.com.br/economia/bonde-sao-paulo-vai-ligar-polos-de-comercio-e-cultura-no-centro-da-capital/",
-      "date": "2026-11-27T03:01:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "'Dracarys': por que as explosões do Ibama são contestadas na Justiça - depois de terem virado até meme",
-      "link": "https://www.bbc.com/portuguese/articles/c34gn28r7j4ro?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-26T18:26:09.000Z",
-      "summary": "Instituto afirma que a destruição é uma medida excepcional, prevista na legislação e adotada quando não há como retirar os equipamentos do local. Senador e Defensoria Pública no Amazonas contestam ações.",
-      "source": "BBC News Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
       "title": "Os cabo-verdianos abraçaram a ideia do desenvolvimento, diz chefe da ONU no país",
       "link": "https://news.un.org/feed/view/pt/story/2026/11/1855012",
       "date": "2026-11-26T12:00:00.000Z",
@@ -638,6 +620,15 @@
       "source": "Banco Central",
       "cat": "economia",
       "type": "oficial"
+    },
+    {
+      "title": "XP e Rico oferecem condições especiais em cartões e outros para Black Friday",
+      "link": "https://www.estadao.com.br/economia/xp-e-rico-oferecem-condicoes-especiais-em-cartoes-e-outros-para-black-friday/",
+      "date": "2026-11-25T21:28:08.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
     },
     {
       "title": "O Adicional Contracíclico de Capital Principal relativo ao Brasil segue em 0%",
@@ -680,15 +671,6 @@
       "link": "https://news.un.org/feed/view/pt/story/2026/11/1854996",
       "date": "2026-11-24T12:00:00.000Z",
       "summary": "Uso crescente da inteligência artificial em campos de batalha foi tema de debate no Conselho de Segurança; chefe das Nações Unidas disse que algoritmos estão influenciando, cada vez mais, as decisões de vida ou morte; ele alertou que integração da IA ​​com sis",
-      "source": "ONU News",
-      "cat": "internacional",
-      "type": "oficial"
-    },
-    {
-      "title": "Países se unem para conter males causados por produtos químicos",
-      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854991",
-      "date": "2026-11-24T12:00:00.000Z",
-      "summary": "Primeira Conferência Internacional do Quadro Global sobre o tema reuniu mais de 1,2 mil participantes em Genebra; governos ressaltaram preocupações com disruptores endócrinos, poluentes farmacêuticos e substância nocivas em produtos eletrônicos; impactos de sa",
       "source": "ONU News",
       "cat": "internacional",
       "type": "oficial"
