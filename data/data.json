@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-27T22:36:58.963Z",
+  "updated": "2026-11-27T23:33:22.772Z",
   "market": {
     "ibov": {
       "price": 176573.34,
       "pct": -0.13,
-      "time": "2026-11-27T22:36:52.311Z",
+      "time": "2026-11-27T23:33:14.612Z",
       "history": [
         {
           "d": "2026-10-28",
@@ -145,39 +145,120 @@
   },
   "news": [
     {
+      "title": "BTG Pactual monta fundo de R$ 1,5 bi para compra de consignados do BRB",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/btg-pactual-monta-fundo-de-r15-bi-para-compra-de-consignados-do-brb.shtml",
+      "date": "2026-11-27T23:25:00.000Z",
+      "summary": "O BTG Pactual afirmou nesta sexta-feira (27) que criou um fundo com recursos de até R$ 1,5 bilhão para comprar créditos consignados originados pelo BRB (Banco de Brasília) junto a servidores públicos do Distrito Federal. Leia mais (11/27/2026 - 20h25)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Conta de luz: Aneel mantém bandeira tarifária verde para dezembro",
+      "link": "https://www.estadao.com.br/economia/conta-de-luz-aneel-mantem-bandeira-tarifaria-verde-para-dezembro/",
+      "date": "2026-11-27T23:19:36.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Ferramenta gratuita reúne mudanças para MEIs",
+      "link": "https://www.poder360.com.br/poder-empreendedor/ferramenta-gratuita-reune-mudancas-para-meis/",
+      "date": "2026-11-27T23:15:31.000Z",
+      "summary": "Plataforma apresenta 11 medidas sobre faturamento, impostos e dívidas; consulta orienta cada tipo de negócio",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Conta de luz continuará com bandeira tarifária verde em dezembro",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/conta-de-luz-continuara-com-bandeira-tarifaria-verde-em-dezembro.shtml",
+      "date": "2026-11-27T23:15:00.000Z",
+      "summary": "A Aneel (Agência Nacional de Energia Elétrica) informou nesta sexta-feira (27), que a bandeira tarifária continuará verde em dezembro. Assim, não haverá custo extra na conta de luz. Leia mais (11/27/2026 - 20h15)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Indústria farmacêutica defende limitar importação direta de medicamentos",
+      "link": "https://www.poder360.com.br/poder-saude/industria-farmaceutica-defende-limitar-importacao-direta-de-medicamentos/",
+      "date": "2026-11-27T23:14:32.000Z",
+      "summary": "Interfarma quer que compra de remédio no exterior por paciente seja válida só em casos excepcionais; Anvisa revisa regras em consulta pública",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Principal plataforma de computação em nuvem da Força Aérea dos EUA sofreu ataque hacker, diz agência",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/tec/2026/11/principal-plataforma-de-computacao-em-nuvem-da-forca-aerea-dos-eua-sofreu-ataque-hacker-diz-agencia.shtml",
+      "date": "2026-11-27T23:00:00.000Z",
+      "summary": "Hackers invadiram a principal plataforma de computação em nuvem da Força Aérea dos Estados Unidos, segundo informaram à Reuters três pessoas a par do assunto. O episódio pode comprometer uma vasta quantidade de dados confidenciais de natureza tática, de pessoa",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Missão tenta se juntar a outros partidos em ação no STF contra regra das sobras eleitorais",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/missao-tenta-se-juntar-a-outros-partidos-em-acao-no-stf-contra-regra-das-sobras-eleitorais.shtml",
+      "date": "2026-11-27T22:57:00.000Z",
+      "summary": "O Partido Missão pediu ao Supremo Tribunal Federal para entrar como amicus curiae em uma ADI (Ação Direta de Inconstitucionalidade) em que o PDT e o Solidariedade contestam o modelo de distribuição das sobras eleitorais. Leia mais (11/27/2026 - 19h57)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Governo de São Paulo exclui 149 mercadorias da substituição tributária do ICMS",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/governo-de-sao-paulo-exclui-149-mercadorias-da-substituicao-tributaria-do-icms.shtml",
+      "date": "2026-11-27T22:54:00.000Z",
+      "summary": "O Governo de São Paulo retirará 149 mercadorias do regime de substituição tributária do ICMS (Imposto sobre Circulação de Mercadorias e Serviços) a partir de abril de 2027. Leia mais (11/27/2026 - 19h54)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "PGR se opõe a obrigar governo federal a dar aval a empréstimo para salvar BRB",
+      "link": "https://www.estadao.com.br/economia/pgr-se-opoe-a-obrigacao-do-governo-federal-de-avalizar-emprestimo-ao-brb/",
+      "date": "2026-11-27T22:50:24.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Conta de luz terá bandeira verde pelo 3º mês seguido em dezembro",
+      "link": "https://www.poder360.com.br/poder-energia/conta-de-luz-tera-bandeira-verde-pelo-3o-mes-seguido-em-dezembro/",
+      "date": "2026-11-27T22:48:15.000Z",
+      "summary": "Aneel mantém tarifa sem cobrança adicional em novembro; decisão indica condições hidrológicas favoráveis à geração de energia",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Aécio critica Lula por chamar FHC de “morto-vivo”",
+      "link": "https://www.poder360.com.br/poder-partidos-politicos/aecio-critica-lula-por-chamar-fhc-de-morto-vivo/",
+      "date": "2026-11-27T22:39:39.000Z",
+      "summary": "Presidente do PSDB classifica declaração como “lamentável” e diz que idosos em condições semelhantes merecem respeito",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "BTG cria fundo de investimentos para comprar até R$ 1,5 bilhão em créditos consignados do BRB",
+      "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/27/btg-cria-fundo-de-investimento-para-comprar-ate-r-15-bilhao-em-creditos-consignados-do-brb.ghtml",
+      "date": "2026-11-27T22:33:08.000Z",
+      "summary": "Foto de 19 de novembro de 2025 mostra a fachada do prédio do Banco de Brasília (BRB) Joédson Alves/Agência Brasil O banco BTG Pactual informou nesta sexta-feira (27) que constituiu um fundo de investimentos para comprar até R$ 1,5 bilhão em créditos consignado",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "Conta de luz: Aneel mantém bandeira tarifária verde em dezembro",
       "link": "https://g1.globo.com/economia/noticia/2026/11/27/conta-de-luz-aneel-mantem-bandeira-tarifaria-verde-em-dezembro.ghtml",
       "date": "2026-11-27T22:27:55.000Z",
       "summary": "A Agência Nacional de Energia Elétrica (Aneel) anunciou nesta sexta-feira (27) que a bandeira tarifaria de dezembro será verde. Isso quer dizer que a conta de luz não terá valor adicional. A bandeira tarifária sinaliza ao consumidor os custos reais da geração ",
       "source": "g1",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Deputadas de Pernambuco recebem ameaças racistas e misóginas; Polícia Civil investiga",
-      "link": "https://www.estadao.com.br/politica/deputadas-de-pernambuco-recebem-ameacas-racistas-e-misoginas-policia-civil-investiga-nprp/",
-      "date": "2026-11-27T22:10:03.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Lula sanciona lei que autoriza crédito especial de R$21 mi a aposentadoria compulsória de juízes",
-      "link": "https://www.estadao.com.br/politica/lula-sanciona-lei-que-autoriza-credito-especial-de-r21-mi-a-aposentadoria-compulsoria-de-juizes-nprp/",
-      "date": "2026-11-27T22:08:10.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Moraes autoriza Roberto Jefferson a ficar sem tornozeleira eletrônica durante internação",
-      "link": "https://www.estadao.com.br/politica/moraes-autoriza-roberto-jefferson-a-ficar-sem-tornozeleira-eletronica-durante-internacao-nprp/",
-      "date": "2026-11-27T22:06:36.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -208,39 +289,12 @@
       "type": "oficial"
     },
     {
-      "title": "Ações da Petrobras caem até 3% e pressionam Bolsa",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/10/25/6568-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post468080",
-      "date": "2026-11-27T21:17:00.000Z",
-      "summary": "As ações da Petrobras recuaram nesta sexta-feira (27), em meio à queda do dólar e à desvalorização do petróleo Brent no mercado internacional. Os papéis preferenciais, que dão direito à prioridade no recebimento de dividendos, encerraram o dia em baixa de 2,43",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Marinha testa habilidades de militares em campeonato de drones",
-      "link": "https://www.poder360.com.br/poder-brasil/marinha-testa-habilidades-de-militares-em-campeonato-de-drones/",
-      "date": "2026-11-27T21:12:24.000Z",
-      "summary": "Competição reúne operadores em provas de pilotagem e promove debates sobre o uso desses equipamentos em conflitos",
-      "source": "Poder360",
+      "title": "Padilha será mantido à frente da Saúde no quarto mandato de Lula",
+      "link": "https://www.estadao.com.br/politica/padilha-sera-mantido-a-frente-da-saude-no-quarto-mandato-de-lula/",
+      "date": "2026-11-27T21:14:23.000Z",
+      "summary": "",
+      "source": "Estadão",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "PGR opina contra obrigar governo Lula a avalizar empréstimo para salvar BRB",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/pgr-opina-contra-obrigar-governo-lula-a-avalizar-emprestimo-para-salvar-brb.shtml",
-      "date": "2026-11-27T21:10:00.000Z",
-      "summary": "O procurador-geral da República, Paulo Gonet, enviou ao STF (Supremo Tribunal Federal) na quinta-feira (26) um parecer contrário ao pedido do Governo do Distrito Federal para obrigar a União a dar aval a um empréstimo para socorrer o BRB (Banco de Brasília). L",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Quem tem mais dinheiro consegue investir melhor?",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/blogs/de-grao-em-grao/2026/11/quem-tem-mais-dinheiro-consegue-investir-melhor.shtml",
-      "date": "2026-11-27T21:00:00.000Z",
-      "summary": "Existe uma crença de que investidores com patrimônios elevados conseguem obter rentabilidades superiores às dos pequenos investidores. Afinal, eles têm acesso a produtos exclusivos, recebem ofertas diferenciadas e podem investir milhões em oportunidades inaces",
-      "source": "Folha",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -259,24 +313,6 @@
       "summary": "Mais de meio milhão de pessoas fugiram de suas casas desde que grupos separatistas passaram a reivindicar a independência das regiões anglófonas de Camarões",
       "source": "BBC News Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Trump declara apoio ao Iraque no combate ao contrabando de petróleo",
-      "link": "https://www.poder360.com.br/poder-internacional/trump-declara-apoio-ao-iraque-no-combate-ao-contrabando-de-petroleo/",
-      "date": "2026-11-27T20:42:19.000Z",
-      "summary": "Premiê Ali al-Zaidi também foi elogiado por ampliar o controle estatal sobre armas e combater a corrupção",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "De sex shop a loja octogenária, Black Friday lota comércios no centro de SP",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/de-sex-shop-e-loja-octagenaria-black-friday-lota-comercios-no-centro-de-sp.shtml",
-      "date": "2026-11-27T20:30:00.000Z",
-      "summary": "A Black Friday desta sexta-feira (27) movimentou o comércio de rua no centro de São Paulo e atraiu públicos variados mesmo em meio à desconfiança sobre os descontos. Leia mais (11/27/2026 - 17h30)",
-      "source": "Folha",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -337,7 +373,7 @@
       "title": "Ao falar para idosos, Lula cita estado de saúde de FHC: 'Está com demência, um morto-vivo'",
       "link": "https://g1.globo.com/politica/noticia/2026/11/27/ao-falar-para-idosos-lula-cita-estado-de-saude-de-fhc-esta-com-demencia-um-morto-vivo.ghtml",
       "date": "2026-11-27T19:55:03.000Z",
-      "summary": "O presidente Luiz Inácio Lula da Silva (PT) afirmou nesta sexta-feira (27) que visitou o ex-presidente Fernando Henrique Cardoso recentemente e que o ex-presidente está \"com demência, um morto-vivo\". FHC foi diagnosticado com Alzheimer em fase avançada. \"Eu fu",
+      "summary": "Lula comenta saúde de FHC e chama de 'morto-vivo' O presidente Luiz Inácio Lula da Silva (PT) afirmou nesta sexta-feira (27) que visitou o ex-presidente Fernando Henrique Cardoso recentemente e que o ex-presidente está \"com demência, um morto-vivo\". FHC foi di",
       "source": "g1",
       "cat": "politica",
       "type": "imprensa"
@@ -424,15 +460,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Lula chama FHC de 'morto-vivo' durante evento em hospital que atende a idosos",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/lula-chama-fhc-de-morto-vivo-em-evento-no-rio.shtml",
-      "date": "2026-11-27T19:14:00.000Z",
-      "summary": "O presidente Lula afirmou nesta sexta-feira (27) que o ex-presidente Fernando Henrique Cardoso \"é um morto-vivo\". O ex-mandatário tem doença de Alzheimer em estágio avançado e está sob cuidados permanentes. Leia mais (11/27/2026 - 16h14)",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Brasileira transforma teatro em cenário de sonhos na Semana de Arte em Miami",
       "link": "https://g1.globo.com/economia/especial-publicitario/bradesco-bank-us/noticia/2026/11/27/brasileira-transforma-teatro-em-cenario-de-sonhos-na-semana-de-arte-em-miami.ghtml",
       "date": "2026-11-27T19:08:10.000Z",
@@ -478,6 +505,15 @@
       "type": "oficial"
     },
     {
+      "title": "Moraes autoriza a transferência do cumprimento de pena de Mauro Cid para Niterói, no RJ",
+      "link": "https://www.estadao.com.br/politica/moraes-autoriza-a-transferencia-do-cumprimento-de-pena-de-mauro-cid-para-niteroi-no-rj-nprp/",
+      "date": "2026-11-27T18:43:48.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "Quem é Luiz Carlos Trabuco, o novo ministro da Fazenda de Lula",
       "link": "https://www.dw.com/pt-br/quem-é-luiz-carlos-trabuco-o-novo-ministro-da-fazenda-de-lula/a-80080281?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-27T17:39:00.000Z",
@@ -514,12 +550,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Profissionais trans são menos de 2% na liderança; ‘onda de transfobia’ é vista como obstáculo",
-      "link": "https://www.estadao.com.br/economia/governanca/profissionais-trans-lideranca-onda-transfobia-obstaculo/",
-      "date": "2026-11-27T13:00:00.000Z",
+      "title": "Master: Fachin decide manter ex-presidente do BRB na Papudinha",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/master-fachin-decide-manter-ex-presidente-do-brb-na-cadeia/",
+      "date": "2026-11-27T12:47:47.000Z",
       "summary": "",
       "source": "Estadão",
-      "cat": "economia",
+      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -611,15 +647,6 @@
       "source": "Banco Central",
       "cat": "economia",
       "type": "oficial"
-    },
-    {
-      "title": "XP e Rico oferecem condições especiais em cartões e outros para Black Friday",
-      "link": "https://www.estadao.com.br/economia/xp-e-rico-oferecem-condicoes-especiais-em-cartoes-e-outros-para-black-friday/",
-      "date": "2026-11-25T21:28:08.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
     },
     {
       "title": "O Adicional Contracíclico de Capital Principal relativo ao Brasil segue em 0%",
