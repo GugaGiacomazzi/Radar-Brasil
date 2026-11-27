@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-27T18:09:22.202Z",
+  "updated": "2026-11-27T19:23:05.112Z",
   "market": {
     "ibov": {
-      "price": 175945.67,
-      "pct": -0.48,
-      "time": "2026-11-27T18:09:16.438Z",
+      "price": 177043.81,
+      "pct": 0.14,
+      "time": "2026-11-27T19:22:56.355Z",
       "history": [
         {
           "d": "2026-10-28",
@@ -88,7 +88,7 @@
         },
         {
           "d": "2026-11-27",
-          "c": 176004.2813
+          "c": 176975.6563
         }
       ]
     },
@@ -145,6 +145,159 @@
   },
   "news": [
     {
+      "title": "Ministério multa BRB em R$ 14,6 mi por descumprir regras de oferta de crédito",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/ministerio-multa-brb-em-r-146-mi-por-descumprir-regras-de-oferta-de-credito.shtml",
+      "date": "2026-11-27T19:17:00.000Z",
+      "summary": "A Senacon (Secretaria Nacional do Consumidor), ligada ao Ministério da Justiça e Segurança Pública, determinou a aplicação de uma multa ao BRB (Banco de Brasília) no valor de R$ 14,66 milhões por violações ao código de defesa do consumidor, incluindo o descump",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Moraes autoriza Mauro Cid a cumprir pena no RJ",
+      "link": "https://www.poder360.com.br/poder-justica/moraes-autoriza-mauro-cid-a-cumprir-pena-no-rj/",
+      "date": "2026-11-27T19:14:39.000Z",
+      "summary": "Ministro considerou que não há “qualquer indício de risco à execução da pena”; tenente-coronel foi condenado a 2 anos de prisão",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lula chama FHC de 'morto-vivo' em evento no Rio",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/lula-chama-fhc-de-morto-vivo-em-evento-no-rio.shtml",
+      "date": "2026-11-27T19:14:00.000Z",
+      "summary": "O presidente Lula afirmou nesta sexta-feira (27) que o ex-presidente Fernando Henrique Cardoso \"é um morto-vivo\". O ex-mandatário tem doença de Alzheimer em estágio avançado e está sob cuidados permanentes de cuidadores. Leia mais (11/27/2026 - 16h14)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Brasileira transforma teatro em cenário de sonhos na Semana de Arte em Miami",
+      "link": "https://g1.globo.com/economia/especial-publicitario/bradesco-bank-us/noticia/2026/11/27/brasileira-transforma-teatro-em-cenario-de-sonhos-na-semana-de-arte-em-miami.ghtml",
+      "date": "2026-11-27T19:08:10.000Z",
+      "summary": "Ambiente criado pela artista brasileira Flávia Junqueira nos EUA. Divulgação Balões espalhados pelo chão e suspensos no teto, fumaça que invade o ambiente, música com referências a parques de diversões e uma atmosfera que parece transportar o visitante para de",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Comissão debate mortandade de peixes em rios no sul do Pará",
+      "link": "https://www.camara.leg.br/noticias/1323205-comissao-debate-mortandade-de-peixes-em-rios-no-sul-do-para",
+      "date": "2026-11-27T18:53:00.000Z",
+      "summary": "Audiência pública nesta terça-feira (1º) discutirá causas da contaminação e impactos sobre comunidades da região",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Comissão aprova gratuidade de 20 minutos em áreas de embarque de aeroportos",
+      "link": "https://www.camara.leg.br/noticias/1323758-comissao-aprova-gratuidade-de-20-minutos-em-areas-de-embarque-de-aeroportos",
+      "date": "2026-11-27T18:51:00.000Z",
+      "summary": "Proposta segue em análise na Câmara",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Durigan deixa agenda fiscal para 2027 com promessa de superávit e revisão de gastos",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/27/durigan-deixa-agenda-fiscal-para-2027.ghtml",
+      "date": "2026-11-27T18:50:34.000Z",
+      "summary": "O ministro da Fazenda, Dario Durigan, nega que razão para a alta de recuperações judiciais seja somente as taxas de juros EPA-Shutterstock Luiz Carlos Trabuco, presidente do conselho do Bradesco, aceitou o convite do presidente da República, Luiz Inácio Lula d",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Comissão aprova criação de corredores exclusivos para motos e regras para circulação entre faixas",
+      "link": "https://www.camara.leg.br/noticias/1323756-comissao-aprova-criacao-de-corredores-exclusivos-para-motos-e-regras-para-circulacao-entre-faixas",
+      "date": "2026-11-27T18:47:00.000Z",
+      "summary": "O projeto segue em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Comissão aprova direito de associações rurais contestarem dispensa de compra para merenda",
+      "link": "https://www.camara.leg.br/noticias/1323754-comissao-aprova-direito-de-associacoes-rurais-contestarem-dispensa-de-compra-para-merenda",
+      "date": "2026-11-27T18:44:00.000Z",
+      "summary": "Proposta segue em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Moraes autoriza a transferência do cumprimento de pena de Mauro Cid para Niterói, no RJ",
+      "link": "https://www.estadao.com.br/politica/moraes-autoriza-a-transferencia-do-cumprimento-de-pena-de-mauro-cid-para-niteroi-no-rj-nprp/",
+      "date": "2026-11-27T18:43:48.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Comissão aprova gratuidade de até 30 minutos para veículos em área de embarque e desembarque dos aeroportos",
+      "link": "https://www.camara.leg.br/noticias/1323760-comissao-aprova-gratuidade-de-ate-30-minutos-para-veiculos-em-area-de-embarque-e-desembarque-dos-aeroportos",
+      "date": "2026-11-27T18:40:00.000Z",
+      "summary": "Proposta segue em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Lula acerta permanência de Bruno Moretti no Ministério do Planejamento, dizem aliados",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/lula-acerta-permanencia-de-bruno-moretti-no-ministerio-do-planejamento-dizem-aliados.shtml",
+      "date": "2026-11-27T18:40:00.000Z",
+      "summary": "O presidente Luiz Inácio Lula da Silva (PT) acertou a permanência de Bruno Moretti no comando do Ministério do Planejamento em seu quarto mandato, segundo aliados do petista. Leia mais (11/27/2026 - 15h40)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Comissão debate riscos de aposentados e pensionistas em face da portabilidade digital",
+      "link": "https://www.camara.leg.br/noticias/1323174-comissao-debate-riscos-de-aposentados-e-pensionistas-em-face-da-portabilidade-digital",
+      "date": "2026-11-27T18:39:00.000Z",
+      "summary": "",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Brasil reelege Lula, mas 60% querem mudanças no governo",
+      "link": "https://www.poder360.com.br/poder-governo/brasil-reelege-lula-mas-60-querem-mudancas-no-governo/",
+      "date": "2026-11-27T18:19:40.000Z",
+      "summary": "Só 11% defendem manter as políticas atuais; mesmo assim, 91% torcem para que o 4º mandato dê certo",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Maioria dos brasileiros quer que governo Lula mude políticas e projetos, diz pesquisa",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/maioria-dos-brasileiros-quer-que-governo-lula-mude-politicas-e-projetos-diz-pesquisa.shtml",
+      "date": "2026-11-27T18:18:00.000Z",
+      "summary": "Nove em cada dez brasileiros (91%) torcem para que o próximo mandato do presidente Lula (PT) dê certo, incluindo 85% dos eleitores que votaram em Flávio Bolsonaro (PL) no segundo turno das últimas eleições, segundo pesquisa Nexus divulgada nesta sexta-feira (2",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Famílias chinesas pagam dívidas e reduzem gastos com consumo",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/familias-chinesas-pagam-dividas-e-reduzem-gastos-com-consumo.shtml",
+      "date": "2026-11-27T18:18:00.000Z",
+      "summary": "As famílias chinesas estão reduzindo suas dívidas no ritmo mais acelerado em décadas, reforçando as preocupações com as pressões deflacionárias e a confiança dos consumidores na segunda maior economia do mundo. Leia mais (11/27/2026 - 15h18)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Emendas à LDO de 2027 tentam proteger programas e mudar a meta fiscal",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/27/emendas-a-ldo-de-2027-tentam-proteger-programas-e-mudar-a-meta-fiscal",
+      "date": "2026-11-27T18:06:03.000Z",
+      "summary": "O projeto da Lei de Diretrizes Orçamentárias (LDO) de 2027 recebeu 1.504 emendas de deputados e senadores. Muitas delas tentam proteger programas específicos de cortes orçamentários. Do total, 246 se referem ao Anexo de Prioridades e Metas. Com as emendas, vár",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
       "title": "‘Não quero receber no meu nome’: ex-sócio da Fictor pediu conta de laranja a suposto operador do CV",
       "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/nao-quero-receber-no-meu-nome-ex-socio-da-fictor-pediu-conta-de-laranja-a-suposto-operador-do-cv/",
       "date": "2026-11-27T17:59:10.000Z",
@@ -166,7 +319,7 @@
       "title": "Meirelles defende que Trabuco anuncie medidas de ajuste fiscal logo no início da gestão",
       "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/11/27/meirelles-defende-que-trabuco-anuncie-ajuste-fiscal-no-inicio-da-gestao-e-enfrente-eventual-resistencia-de-aliados.ghtml",
       "date": "2026-11-27T17:55:56.000Z",
-      "summary": "O ex-ministro da Fazenda Henrique Meirelles no Estúdio i reprodução O ex-ministro da Fazenda Henrique Meirelles defendeu, em entrevista ao Estúdio i, da GloboNews, que o futuro ministro da pasta, Luiz Carlos Trabuco, anuncie as principais medidas de ajuste fis",
+      "summary": "Meirelles fala sobre resistência dentro do governo: Não se deixar abalar O ex-ministro da Fazenda Henrique Meirelles defendeu, em entrevista ao Estúdio i, da GloboNews, que o futuro ministro da pasta, Luiz Carlos Trabuco, anuncie as principais medidas de ajust",
       "source": "g1",
       "cat": "politica",
       "type": "imprensa"
@@ -226,24 +379,6 @@
       "type": "imprensa"
     },
     {
-      "title": "“Mágico” do Orçamento, Bruno Moretti, vai seguir como ministro",
-      "link": "https://www.poder360.com.br/poder-governo/magico-do-orcamento-bruno-moretti-vai-seguir-como-ministro/",
-      "date": "2026-11-27T17:38:32.000Z",
-      "summary": "Titular ganhou a confiança de Lula ao viabilizar projetos como o reajuste do Bolsa Família, além de liderar o ajuste fiscal",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "PIB da França recua pelo segundo trimestre seguido e país entra em recessão",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/pib-da-franca-recua-pelo-segundo-trimestre-seguido-e-pais-entra-em-recessao.shtml",
-      "date": "2026-11-27T17:38:00.000Z",
-      "summary": "A França entrou em leve recessão, anunciou nesta sexta-feira (27) o instituto oficial de estatísticas Insee, o que fragiliza as previsões de crescimento de um governo já sob pressão para conter os gastos e sanear as combalidas contas públicas. Leia mais (11/27",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Manutenção de Moretti no Ministério do Planejamento é vista como praticamente certa, em um aceno de Lula ao PT",
       "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/27/manutencao-de-moretti-no-ministerio-do-planejamento-e-vista-como-praticamente-certa-em-um-aceno-de-lula-ao-pt.ghtml",
       "date": "2026-11-27T17:30:48.000Z",
@@ -259,42 +394,6 @@
       "summary": "",
       "source": "Estadão",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Camilo é favorito para a Casa Civil e anúncio sai na próxima semana",
-      "link": "https://www.poder360.com.br/poder-governo/camilo-e-favorito-para-a-casa-civil-e-anuncio-sai-na-proxima-semana/",
-      "date": "2026-11-27T17:22:00.000Z",
-      "summary": "Senador teve papel central na campanha de reeleição e, com Haddad fora da disputa, não há outro nome cotado para o posto",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "No dia da Black Friday, 20% dos produtos ficam mais caros em apenas 12 horas; 60% dos itens seguem com desconto",
-      "link": "https://g1.globo.com/guia/guia-de-compras/ofertas-black-friday-precos-sobem-em-12-horas-60porcento-seguem-com-desconto.ghtml",
-      "date": "2026-11-27T17:14:10.000Z",
-      "summary": "É Black Friday ou Black Fraude? Para checar se os preços da Black Friday, nesta sexta (27), têm descontos de verdade, o Guia de Compras pesquisou na última semana como estão os preços de 74 produtos. No dia da Black Friday: Na primeira pesquisa de preços, à me",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "B3 fecha acordo com bancos para criar stablecoin em reais",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/b3-fecha-acordo-com-bancos-para-criar-stablecoin-em-reais.shtml",
-      "date": "2026-11-27T17:14:00.000Z",
-      "summary": "A B3 anunciou nesta sexta-feira (27) acordo com Bradesco, BTG Pactual, Itaú Unibanco, Safra, Santander e XP para desenvolver uma stablecoin referenciada em reais e uma infraestrutura compartilhada para a utilização do ativo digital no mercado financeiro brasil",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Pluxee e Petrobras integram grupo sobre segurança alimentar de trabalhadores na ONU",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/pluxee-e-petrobras-integram-grupo-sobre-seguranca-alimentar-de-trabalhadores-na-onu.shtml",
-      "date": "2026-11-27T17:06:00.000Z",
-      "summary": "A Rede Brasil do Pacto Global da ONU (Organização das Nações Unidas) lançou nesta semana, em Genebra, um grupo de trabalho sobre segurança alimentar e nutricional de trabalhadores. Leia mais (11/27/2026 - 14h06)",
-      "source": "Folha",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -325,39 +424,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Fora do Senado em 2027, Mara Gabrilli participará de conselhos da Fiesp",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/fora-do-senado-em-2027-mara-gabrilli-participara-de-conselhos-da-fiesp.shtml",
-      "date": "2026-11-27T16:37:00.000Z",
-      "summary": "A senadora Mara Gabrilli (PSD-SP) foi convidada por Paulo Skaf, presidente da Fiesp (Federação das Indústrias do Estado de São Paulo), para integrar dois colegiados da entidade: o Conselho Superior de Comércio Exterior (Coscex) e o Conselho Superior Multidisci",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Quem é Letícia Villar, jogadora da seleção brasileira presa na Rússia que pediu ajuda a Lula",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/27/quem-e-leticia-villar-jogadora-da-selecao-brasileira-presa-na-russia-que-pediu-ajuda-a-lula.ghtml",
-      "date": "2026-11-27T16:32:08.000Z",
-      "summary": "Letícia Villar, jogadora brasileira está presa na Rússia Reprodução/Instagram Letícia Villar Pais, conhecida como \"Lelê\" Villar, é jogadora da seleção brasileira de futebol de areia, campeã mundial de clubes e uma das pioneiras da modalidade feminina no país. ",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Missão de Trabuco será ajustar finanças e melhorar imagem do governo Lula",
       "link": "https://www.estadao.com.br/economia/missao-trabuco-ajustar-financas-melhorar-imagem-governo-lula/",
       "date": "2026-11-27T16:31:47.000Z",
       "summary": "",
       "source": "Estadão",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Lula diz que 'salto alto' levou a derrota no primeiro turno da eleição",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/lula-diz-que-salto-alto-levou-a-derrota-no-primeiro-turno-da-eleicao.shtml",
-      "date": "2026-11-27T16:27:00.000Z",
-      "summary": "O presidente Lula afirmou nesta sexta-feira (27) que a derrota para o senador Flávio Bolsonaro (PL-RJ) no primeiro turno das eleições presidenciais pode ter sido provocada pelo \"salto alto\" da campanha. Leia mais (11/27/2026 - 13h27)",
-      "source": "Folha",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -370,24 +442,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Comissão debate financiamento do Programa Nacional de Infraestrutura Escolar",
-      "link": "https://www.camara.leg.br/noticias/1323188-comissao-debate-financiamento-do-programa-nacional-de-infraestrutura-escolar",
-      "date": "2026-11-27T15:53:00.000Z",
-      "summary": "",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Comissão debate perseguição a ativistas pró-Palestina; participe",
-      "link": "https://www.camara.leg.br/noticias/1323179-comissao-debate-perseguicao-a-ativistas-pro-palestina-participe",
-      "date": "2026-11-27T15:50:00.000Z",
-      "summary": "O evento será interativo; envie suas perguntas",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
       "title": "Veja em 5 gráficos os desafios de Trabuco no comando do Ministério da Fazenda",
       "link": "https://www.estadao.com.br/economia/desafios-trabuco-fazenda-graficos/",
       "date": "2026-11-27T15:12:33.000Z",
@@ -395,33 +449,6 @@
       "source": "Estadão",
       "cat": "economia",
       "type": "imprensa"
-    },
-    {
-      "title": "PP quer testar Derrite e nomes da segurança como possíveis candidatos a prefeito de SP em 2028",
-      "link": "https://www.estadao.com.br/politica/pp-quer-testar-derrite-e-nomes-da-seguranca-como-possiveis-candidatos-a-prefeito-de-sp-em-2028/",
-      "date": "2026-11-27T15:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Tarcísio diz que escolha por Trabuco foi acertada: ‘Quem pode atrapalhar é o PT’",
-      "link": "https://www.estadao.com.br/economia/tarcisio-escolha-trabuco-acertada-quem-pode-atrapalhar-pt/",
-      "date": "2026-11-27T14:53:33.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Comissão debate aumento da violência sexual contra crianças e adolescentes",
-      "link": "https://www.camara.leg.br/noticias/1323193-comissao-debate-aumento-da-violencia-sexual-contra-criancas-e-adolescentes",
-      "date": "2026-11-27T14:43:00.000Z",
-      "summary": "",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
     },
     {
       "title": "Queda de aliado expõe disputa pela sucessão de Xi Jinping na China",
@@ -433,24 +460,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Comissão aprova diretriz para estimular telefonia móvel na área rural",
-      "link": "https://www.camara.leg.br/noticias/1323328-comissao-aprova-diretriz-para-estimular-telefonia-movel-na-area-rural",
-      "date": "2026-11-27T14:19:00.000Z",
-      "summary": "O projeto continua em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Comissão aprova exigência de comando manual de acelerador em veículos adaptados de locadoras",
-      "link": "https://www.camara.leg.br/noticias/1323513-comissao-aprova-exigencia-de-comando-manual-de-acelerador-em-veiculos-adaptados-de-locadoras",
-      "date": "2026-11-27T14:15:00.000Z",
-      "summary": "Proposta segue em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
       "title": "Dólar cai e bolsa sobe: a reação do mercado - e de economistas - à escolha de Trabuco para a Fazenda",
       "link": "https://www.bbc.com/portuguese/articles/cv8e014e88xgo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-27T13:53:59.000Z",
@@ -460,12 +469,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Projeto estabelece normas de segurança para trabalhadores da saúde e da educação",
-      "link": "https://www.camara.leg.br/noticias/1312313-projeto-estabelece-normas-de-seguranca-para-trabalhadores-da-saude-e-da-educacao",
+      "title": "Efeitos do El Niño agravam e aumentam pontos críticos da fome no mundo",
+      "link": "https://news.un.org/feed/view/pt/story/2026/11/1855021",
       "date": "2026-11-27T12:00:00.000Z",
-      "summary": "Texto em análise na Câmara prevê prevenção à violência e ao assédio, canais de denúncia e proteção contra retaliações funcionais em unidades públicas e privadas",
-      "source": "Agência Câmara",
-      "cat": "politica",
+      "summary": "Em novo estudo, FAO e WFP revelam que fenômeno climático e conflitos elevaram para 16 pontos críticos de fome no mundo; 1,8 milhão de moçambicanos sob risco agudo; potencial agrícola do Brasil é citado como vantagem, mas país corre riscos com atual El Niño.",
+      "source": "ONU News",
+      "cat": "internacional",
       "type": "oficial"
     },
     {
@@ -502,6 +511,15 @@
       "summary": "Como o avanço do comércio eletrônico vem transformando para pior a rotina dos motoristas de carga no Brasil",
       "source": "BBC News Brasil",
       "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Bonde São Paulo vai ligar polos de comércio e cultura no centro da capital",
+      "link": "https://www.estadao.com.br/economia/bonde-sao-paulo-vai-ligar-polos-de-comercio-e-cultura-no-centro-da-capital/",
+      "date": "2026-11-27T03:01:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -644,15 +662,6 @@
       "link": "https://news.un.org/feed/view/pt/story/2026/11/1854991",
       "date": "2026-11-24T12:00:00.000Z",
       "summary": "Primeira Conferência Internacional do Quadro Global sobre o tema reuniu mais de 1,2 mil participantes em Genebra; governos ressaltaram preocupações com disruptores endócrinos, poluentes farmacêuticos e substância nocivas em produtos eletrônicos; impactos de sa",
-      "source": "ONU News",
-      "cat": "internacional",
-      "type": "oficial"
-    },
-    {
-      "title": "Falhas tecnológicas e ataques cibernéticos reforçam apelo por IA mais segura",
-      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854985",
-      "date": "2026-11-23T12:00:00.000Z",
-      "summary": "Cúpula da ONU sobre Segurança em Inteligência Artificial busca soluções para que todos os países consigam gerenciar riscos; líder das Nações Unidas defendeu criação de estrutura multilateral com supervisão independente.&nbsp;",
       "source": "ONU News",
       "cat": "internacional",
       "type": "oficial"
