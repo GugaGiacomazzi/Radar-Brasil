@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-27T02:29:52.377Z",
+  "updated": "2026-11-27T03:39:01.071Z",
   "market": {
     "ibov": {
       "price": 176799.84,
       "pct": 6.07,
-      "time": "2026-11-27T02:29:47.100Z",
+      "time": "2026-11-27T03:38:54.724Z",
       "history": [
         {
           "d": "2026-10-28",
@@ -84,7 +84,7 @@
         },
         {
           "d": "2026-11-26",
-          "c": 176799.8438
+          "c": 176800
         }
       ]
     },
@@ -141,6 +141,141 @@
   },
   "news": [
     {
+      "title": "“Que moral Moraes tem para julgar alguém?”, pergunta Flávio em live",
+      "link": "https://www.poder360.com.br/poder-congresso/que-moral-moraes-tem-para-julgar-alguem-pergunta-flavio-em-live/",
+      "date": "2026-11-27T03:27:44.000Z",
+      "summary": "Senador citou investigações envolvendo Gayer e Van Hattem para criticar atuação de ministro",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Plataforma mapeia acesso a serviços e empregos em bairros brasileiros",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/plataforma-mapeia-acesso-a-servicos-e-empregos-em-bairros-brasileiros.shtml",
+      "date": "2026-11-27T03:01:00.000Z",
+      "summary": "Nova ferramenta do Instituto Mobilidade e Desenvolvimento Social (IMDS) permite que gestores públicos identifiquem, até o nível de bairros e pequenas áreas dentro dos municípios, a distância entre as moradias e equipamentos de saúde, educação e assistência soc",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Bonde São Paulo vai ligar polos de comércio e cultura no centro da capital",
+      "link": "https://www.estadao.com.br/economia/bonde-sao-paulo-vai-ligar-polos-de-comercio-e-cultura-no-centro-da-capital/",
+      "date": "2026-11-27T03:01:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Relatório do Senado retira redução de prazo para dirigentes de partidos assumirem estatais",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/27/relatorio-do-senado-retira-reducao-de-prazo-para-dirigentes-de-partidos-assumirem-estatais.ghtml",
+      "date": "2026-11-27T03:00:02.000Z",
+      "summary": "A senadora Eliziane Gama (PSD-MA) publicou nesta quarta-feira (25) relatório em que retira qualquer mudança na Lei das Estatais de um projeto aprovado pela Câmara em dezembro de 2022. Os deputados propuseram, na ocasião, que indicados para diretoria e presidên",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Após atuar como porta-voz da economia na campanha, futuro de Durigan no governo Lula 4 é incerto",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/27/apos-atuar-como-porta-voz-da-economia-na-campanha-futuro-de-durigan-no-governo-lula-4-e-incerto.ghtml",
+      "date": "2026-11-27T03:00:02.000Z",
+      "summary": "O ministro Dario Durigan em entrevista ao g1 Reprodução/TV Globo O anúncio de Luiz Carlos Trabuco para o Ministério da Fazenda deixou em aberto o destino de Dario Durigan no próximo governo do presidente Luiz Inácio Lula da Silva (PT). Após a confirmação do no",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Após EUA proporem taxar aviões brasileiros, Mauro Vieira oferece apoio à Embraer para buscar novos mercados",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/27/apos-eua-proporem-taxar-avioes-brasileiros-mauro-vieira-oferece-apoio-a-embraer-para-buscar-novos-mercados.ghtml",
+      "date": "2026-11-27T03:00:01.000Z",
+      "summary": "O ministro das Relações Exteriores, Mauro Vieira, se reuniu com o presidente da Embraer, Francisco Gomes Neto, nesta quinta-feira (26) e afirmou a ele que a diplomacia brasileira poderá buscar novos mercados para as exportações do setor. A promessa foi confirm",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Trabuco terá ajuste fiscal, juros e resistência no PT entre desafios à frente da Fazenda",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/27/trabuco-tera-ajuste-fiscal-juros-e-resistencia-no-pt-entre-desafios-a-frente-da-fazenda.ghtml",
+      "date": "2026-11-27T03:00:01.000Z",
+      "summary": "Quem é Luiz Trabuco, escolhido como ministro da Fazenda do governo Lula 4 Escolhido pelo presidente Luiz Inácio Lula da Silva (PT) para comandar o Ministério da Fazenda, Luiz Carlos Trabuco assumirá o principal ministério da Esplanada diante de uma série de de",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Quem é Bruno Moretti, ministro de confiança de Lula que ajudou a formular o ajuste fiscal e é cotado para seguir no Planejamento",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/27/quem-e-bruno-moretti.ghtml",
+      "date": "2026-11-27T03:00:00.000Z",
+      "summary": "O ministro do Planejamento e Orçamento, Bruno Moretti. Fábio Rodrigues Pozzebom/Agência Brasil Com a confirmação de Luiz Carlos Trabuco como ministro da Fazenda do novo governo Lula, ganha força a permanência de Bruno Moretti à frente do Ministério do Planejam",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Por que Trabuco provocou euforia no mercado? Entenda o que esperar para dólar, bolsa e juros",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/27/por-que-trabuco-provocou-euforia-no-mercado-entenda-o-que-esperar-para-dolar-bolsa-e-juros.ghtml",
+      "date": "2026-11-27T03:00:00.000Z",
+      "summary": "Luiz Carlos Trabuco vai ser o próximo ministro da Fazenda O motivo do grande otimismo do mercado financeiro tem nome e sobrenome: Luiz Carlos Trabuco. Nesta quinta-feira (26), o presidente do conselho de administração do Bradesco, de 75 anos, foi a Brasília e ",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Flávio diz que não pedirá intervenção dos EUA no Brasil",
+      "link": "https://www.poder360.com.br/poder-internacional/flavio-diz-que-nao-pedira-intervencao-dos-eua-no-brasil/",
+      "date": "2026-11-27T02:55:56.000Z",
+      "summary": "Em resposta a seguidora durante live, senador afirma que respeita a soberania brasileira e que cabe a Trump decidir se a situação do Brasil afeta os interesses norte-americanos",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Flávio chama Motta de “capacho de Lula” e pede votos para Marinho",
+      "link": "https://www.poder360.com.br/poder-congresso/flavio-chama-motta-de-capacho-de-lula-e-pede-votos-para-marinho/",
+      "date": "2026-11-27T02:41:39.000Z",
+      "summary": "Senador critica presidente da Câmara e defende candidato da oposição na disputa pelo comando da Casa Alta",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Piada no Planalto diz que Camilo Santana já é ministro da Casa Civil ‘no horário da Nova Zelândia’",
+      "link": "https://www.estadao.com.br/politica/piada-no-planalto-diz-que-camilo-santana-ja-e-ministro-da-casa-civil-no-horario-da-nova-zelandia/",
+      "date": "2026-11-27T02:40:19.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lula escolheu Trabuco porque não tem ideia do que fazer com a economia, diz Flávio Bolsonaro",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/lula-escolheu-trabuco-porque-nao-tem-ideia-do-que-fazer-com-a-economia-diz-flavio-bolsonaro.shtml",
+      "date": "2026-11-27T02:37:00.000Z",
+      "summary": "O senador Flávio Bolsonaro (PL) afirmou nesta quinta-feira (26) que a escolha de Luiz Carlos Trabuco, do Bradesco, para o Ministério da Fazenda mostra que o presidente Lula (PT) não sabe como conduzir a economia. A declaração foi dada em uma live transmitida d",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lula escolheu Trabuco porque não tem ideia do que fazer com a economia, diz Flávio Bolsonaro",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/lula-escolheu-trabuco-porque-nao-tem-ideia-do-que-fazer-com-a-economia-diz-flavio-bolsonaro.shtml",
+      "date": "2026-11-27T02:37:00.000Z",
+      "summary": "O senador Flávio Bolsonaro (PL) afirmou nesta quinta-feira (26) que a escolha de Luiz Carlos Trabuco, do Bradesco, para o Ministério da Fazenda mostra que o presidente Lula (PT) não sabe como conduzir a economia. A declaração foi dada em uma live transmitida d",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "'Sereno', Trabuco é 'capaz de reduzir a tensão' com mercado, diz Lara Resende; veja a reação de outros economistas à escolha na Fazenda",
+      "link": "https://www.bbc.com/portuguese/articles/cv8e014e88xgo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-27T02:31:39.000Z",
+      "summary": "Escolha de presidente do Conselho de Administração do Bradesco para a pasta demonstra busca do governo Lula por diálogo com o mercado, avaliam entrevistados.",
+      "source": "BBC News Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
       "title": "Trabuco, futuro ministro da Fazenda, sempre se esquivou de críticas ao governo Lula",
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/trabuco-futuro-ministro-da-fazenda-sempre-se-esquivou-de-criticas-ao-governo-lula.shtml",
       "date": "2026-11-27T02:10:00.000Z",
@@ -186,64 +321,10 @@
       "type": "imprensa"
     },
     {
-      "title": "Folha apresenta calendário de 2027 e oportunidades de parcerias para mercado publicitário",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/folha-apresenta-calendario-de-2027-e-oportunidades-de-parcerias-para-mercado-publicitario.shtml",
-      "date": "2026-11-27T02:00:00.000Z",
-      "summary": "A Folha realiza nesta sexta (27) o Folha Day, evento dedicado ao mercado publicitário. No encontro, o jornal apresentará seu calendário de oportunidades para 2027, com projetos e iniciativas editoriais. Leia mais (11/26/2026 - 23h00)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Veja dez desafios para Luiz Carlos Trabuco na Fazenda do governo Lula 4",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/veja-dez-desafios-para-luiz-carlos-trabuco-na-fazenda-do-governo-lula-4.shtml",
-      "date": "2026-11-27T02:00:00.000Z",
-      "summary": "O próximo ministro da Fazenda do governo Lula (PT), Luiz Carlos Trabuco Cappi, terá na questão fiscal seu maior desafio no curto prazo: encontrar um equilíbrio entre o desejo de expansão dos gastos do presidente e um ajuste que contenha o ritmo de crescimento ",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Bradesco, de Trabuco, tem 3º maior juro dentre os 5 bancões",
       "link": "https://www.poder360.com.br/poder-economia/bradesco-de-trabuco-tem-3o-maior-juro-dentre-os-5-bancoes/",
       "date": "2026-11-27T01:45:44.000Z",
       "summary": "Entre 31 instituições financeiras, banco do futuro ministro da Fazenda está em 8º lugar no ranking das maiores taxas de juros",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "'Sereno', Trabuco é 'capaz de reduzir a tensão' com mercado, diz Lara Resende; veja a reação de outros economistas à escolha na Fazenda",
-      "link": "https://www.bbc.com/portuguese/articles/cv8e014e88xgo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-27T01:43:42.000Z",
-      "summary": "Escolha de presidente do Conselho de Administração do Bradesco para a pasta é vista com bons olhos pelo mercado",
-      "source": "BBC News Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Flávio critica Lula após convite a Trabuco para a Fazenda",
-      "link": "https://www.poder360.com.br/poder-congresso/flavio-critica-lula-apos-convite-a-trabuco-para-a-fazenda/",
-      "date": "2026-11-27T01:38:44.000Z",
-      "summary": "Senador diz que presidente “não tem a menor ideia” do que fazer na economia e afirma que banqueiro precisa de “100% de autonomia”",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "PSD quer manter Agricultura, retomar Pesca e ficar com Cidades no Lula 4",
-      "link": "https://www.poder360.com.br/partidos-politicos/psd-quer-manter-agricultura-retomar-pesca-e-ficar-com-cidades-no-lula-4/",
-      "date": "2026-11-27T01:38:00.000Z",
-      "summary": "Partido de Kassab pretende preservar espaço na Esplanada no 4º mandato de Lula; MDB também disputa o comando do Ministério das Cidades",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Políticos e setor financeiro reagem à escolha de Trabuco para a Fazenda",
-      "link": "https://www.poder360.com.br/poder-governo/politicos-e-setor-financeiro-reagem-a-escolha-de-trabuco-para-a-fazenda/",
-      "date": "2026-11-27T01:31:52.000Z",
-      "summary": "Presidente do Conselho de Administração do Bradesco assumirá a pasta em janeiro de 2027 a convite de Lula",
       "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
@@ -258,24 +339,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Mourão diz que Cleitinho é pragmático ao se aproximar de Lula, mas que sua posição não é a do Republicanos",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/mourao-diz-que-cleitinho-e-pragmatico-ao-se-aproximar-de-lula-mas-que-sua-posicao-nao-e-a-do-republicanos.shtml",
-      "date": "2026-11-27T01:00:00.000Z",
-      "summary": "O senador Hamilton Mourão (Republicanos-RS) afirmou que o governador eleito de Minas Gerais, Cleitinho Azevedo, seu colega de partido, agiu de forma pragmática ao se reunir com o presidente Lula (PT) nesta quinta-feira (26). Leia mais (11/26/2026 - 22h00)",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "‘Argentina para brasileiros’: quais as razões do fracasso de um país que tinha tudo para brilhar?",
-      "link": "https://www.estadao.com.br/economia/fabio-giambiagi/argentina-para-brasileiros-quais-as-razoes-do-fracasso-de-um-pais-que-tinha-tudo-para-brilhar/",
-      "date": "2026-11-27T01:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Nome de confiança da Faria Lima, executivo cultivou amizade com Lula à frente do Bradesco",
       "link": "https://www.bbc.com/portuguese/articles/c3n0lrq5kgd1o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-27T00:18:18.000Z",
@@ -285,29 +348,11 @@
       "type": "imprensa"
     },
     {
-      "title": "'Um país caminha bem quando conduzido com seriedade e ética', diz Durigan após anuncio de Trabuco na Fazenda",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/26/um-pais-caminha-bem-quando-conduzido-com-seriedade-e-etica-diz-durigan-apos-anuncio-de-trabuco-na-fazenda.ghtml",
-      "date": "2026-11-27T00:09:17.000Z",
-      "summary": "Governo Lula confirma Trabuco como ministro da Fazenda; Alcolumbre elogia escolha Após o governo do presidente Luiz Inácio Lula da Silva (PT) confirmar Luiz Carlos Trabuco como futuro ministro da Fazenda, o atual titular da pasta, Dario Durigan, afirmou nesta ",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Trabuco na Fazenda: Como empresários e executivos reagiram à escolha do novo ministro",
       "link": "https://www.estadao.com.br/economia/negocios/trabuco-na-fazenda-como-empresarios-e-economistas-reagiram-a-escolha-do-novo-ministro/",
       "date": "2026-11-27T00:06:05.000Z",
       "summary": "",
       "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Mega-Sena 3091 acumula e prêmio vai a R$ 82 milhões; confira os números sorteados",
-      "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/26/mega-sena-concurso-3091-confira-os-numeros-sorteados.ghtml",
-      "date": "2026-11-27T00:04:53.000Z",
-      "summary": "Como funciona a Mega-Sena? O sorteio do concurso 3.091 da Mega-Sena foi realizado na noite desta quinta-feira (26), em São Paulo. O prêmio para as apostas que acertassem as seis dezenas era de R$ 72,4 milhões. No entanto, ninguém levou a faixa principal e o va",
-      "source": "g1",
       "cat": "economia",
       "type": "imprensa"
     },
@@ -321,30 +366,12 @@
       "type": "oficial"
     },
     {
-      "title": "Zambelli pede que STF anule condenação por ataque hacker ao sistema no CNJ",
-      "link": "https://www.estadao.com.br/politica/zambelli-pede-que-stf-anule-condenacao-por-ataque-hacker-ao-sistema-no-cnj-nprp/",
-      "date": "2026-11-26T23:54:21.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Trabuco aceita convite de Lula: quem é o novo ministro da Fazenda que defende ajuste fiscal e redução 'das desigualdades'",
       "link": "https://www.bbc.com/portuguese/articles/c3gre9xxe92zo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-26T23:47:02.000Z",
       "summary": "Presidente do Conselho de Administração do Bradesco aceita convite de Lula para integrar gabinete em movimento visto como 'pró-mercado' do Palácio",
       "source": "BBC News Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Alcolumbre elogia escolha de Trabuco para o Ministério da Fazenda; Motta fala em construção de uma agenda econômica",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/26/alcolumbre-elogia-escolha-de-trabuco-para-o-ministerio-da-fazenda-e-destaca-habilidade-de-dialogo.ghtml",
-      "date": "2026-11-26T23:21:11.000Z",
-      "summary": "Presidente do Senado, Davi Alcolumbre (União-AP), conduz sessão de votação de destaques ao ajuste fiscal Waldemir Barreto/Agência Senado O presidente do Senado, Davi Alcolumbre (União-AP), disse nesta quinta-feira (26) ter recebido com muito otimismo a escolha",
-      "source": "g1",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -357,29 +384,11 @@
       "type": "imprensa"
     },
     {
-      "title": "Ipsos: preocupação com inflação cresce no Brasil e chega a 29%; 52% avaliam que o país está no rumo certo",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/26/ipsos-preocupacao-inflacao.ghtml",
-      "date": "2026-11-26T23:11:36.000Z",
-      "summary": "Pesquisa Ipsos divulgada nesta quinta-feira (26) aponta um avanço na preocupação dos brasileiros com a inflação. O indicador subiu 4 pontos percentuais em novembro e atingiu 29%, fazendo com que a apreensão com o custo de vida entrasse para o grupo das quatro ",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "CNJ dá 15 dias para tribunais de Justiça apresentarem esclarecimentos sobre contratos com o BRB",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/cnj-da-15-dias-para-tribunais-de-justica-apresentarem-esclarecimentos-sobre-contratos-com-o-brb/",
-      "date": "2026-11-26T23:09:13.000Z",
+      "title": "Jair Bolsonaro tem melhora, mas ainda sem previsão de sair da UTI, informa hospital",
+      "link": "https://www.estadao.com.br/politica/jair-bolsonaro-tem-melhora-mas-ainda-sem-previsao-de-sair-da-uti-informa-hospital-nprp/",
+      "date": "2026-11-26T23:06:00.000Z",
       "summary": "",
       "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Governo Lula anuncia Luiz Trabuco para Ministério da Fazenda",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/26/governo-lula-anuncia-luiz-trabuco-para-ministerio-da-fazenda.ghtml",
-      "date": "2026-11-26T23:05:51.000Z",
-      "summary": "Trabuco aceita convite de Lula para assumir Ministério da Fazenda O governo do presidente Luiz Inácio Lula da Silva (PT) anunciou nesta quinta-feira (26) que Luiz Carlos Trabuco, presidente do Conselho de Administração do Bradesco, irá assumir o Ministério da ",
-      "source": "g1",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -400,15 +409,6 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Brasil rebate Macron após fala sobre carne 'dopada' e acusa França de protecionismo",
-      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/26/governo-lula-acusa-franca-de-disseminar-desinformacao.ghtml",
-      "date": "2026-11-26T22:20:46.000Z",
-      "summary": "Presidente da França, Emmanuel Macron, em coletiva de imprensa no Catar em 21 de outubro de 2026. REUTERS/Benoit Tessier/Pool O governo brasileiro criticou, nesta quinta-feira (26), as declarações do presidente da França, Emmanuel Macron, que chamou a carne br",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
     },
     {
       "title": "Comissão aprova projeto que obriga concessionárias de energia a orientar sobre riscos em eventos climáticos",
