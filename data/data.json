@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-27T10:02:22.344Z",
+  "updated": "2026-11-27T11:13:54.441Z",
   "market": {
     "ibov": {
       "price": 176799.84,
       "pct": 6.07,
-      "time": "2026-11-27T10:02:13.318Z",
+      "time": "2026-11-27T11:13:49.314Z",
       "history": [
         {
           "d": "2026-10-28",
@@ -141,8 +141,89 @@
   },
   "news": [
     {
+      "title": "Bradesco confirma ida de Trabuco para a Fazenda",
+      "link": "https://www.poder360.com.br/poder-economia/bradesco-confirma-ida-de-trabuco-para-a-fazenda/",
+      "date": "2026-11-27T11:10:49.000Z",
+      "summary": "Banco diz que vai “informar, tempestivamente, seus acionistas e o mercado em geral sobre quaisquer desdobramentos relevantes”",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "102 entidades pedem rejeição de PL que flexibiliza agências reguladoras",
+      "link": "https://www.poder360.com.br/poder-economia/102-entidades-pedem-rejeicao-de-pl-que-flexibiliza-agencias-reguladoras/",
+      "date": "2026-11-27T11:10:19.000Z",
+      "summary": "Associações querem barrar projeto de lei em análise no Senado que reduz quarentena para indicados a cargos de direção",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Meirelles: Trabuco deve evitar embates públicos e dialogar diretamente com seus críticos",
+      "link": "https://www.estadao.com.br/economia/meirelles-trabuco-evitar-embates-publicos-dialogar-criticos/",
+      "date": "2026-11-27T10:59:26.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Dono do Leicester encerra tentativa de venda sem acordo",
+      "link": "https://www.poder360.com.br/poder-sportsmkt/dono-do-leicester-encerra-tentativa-de-venda-sem-acordo/",
+      "date": "2026-11-27T10:47:43.000Z",
+      "summary": "Time da 3ª divisão inglesa mantém apoio financeiro da King Power e terá mudança no comando executivo",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Alcolumbre deve se reunir com Lula para bater martelo sobre ministro do STF",
+      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/27/alcolumbre-deve-se-reunir-com-lula-para-bater-martelo-sobre-ministro-do-stf.ghtml",
+      "date": "2026-11-27T10:43:47.000Z",
+      "summary": "Presidente Luiz Inácio Lula da Silva (PT) e o presidente do Senado, Davi Alcolumbre (União-AP). Ricardo Stuckert / PR O presidente do Senado, Davi Alcolumbre (União-AP), vai se reunir nos próximos dias com o presidente Luiz Inácio Lula da Silva (PT) para bater",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lula ignora as ruas e reedita erro de Dilma em 2015, diz Jones Manoel",
+      "link": "https://www.poder360.com.br/poder-congresso/lula-ignora-as-ruas-e-reedita-erro-de-dilma-em-2015-diz-jones-manoel/",
+      "date": "2026-11-27T10:38:48.000Z",
+      "summary": "Historiador critica escolha de Trabuco para a Fazenda e associa ajuste fiscal de Joaquim Levy ao desemprego e ao impeachment da ex-presidente",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Trabuco na Fazenda facilita aprovação de 2ª etapa do ajuste fiscal e trará mais tranquilidade para início do Lula 4",
+      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/27/trabuco-na-fazenda-facilita-aprovacao-de-2a-etapa-do-ajuste-fiscal-e-trara-mais-tranquilidade-para-inicio-do-lula-4.ghtml",
+      "date": "2026-11-27T10:37:19.000Z",
+      "summary": "A escolha do presidente do Conselho de Administração do Bradesco, Luiz Carlos Trabuco, para ser o ministro da Fazenda vai facilitar a aprovação da segunda etapa do ajuste fiscal e trará mais tranquilidade para o início do quarto mandato de Lula. A avaliação é ",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Com Trabuco, Lula amplia governo, blinda a Fazenda e mantém sob seu controle o debate sucessório",
+      "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/11/27/lula-escolha-trabuco-blinda-ministerio-fazenda.ghtml",
+      "date": "2026-11-27T10:22:15.000Z",
+      "summary": "Quem é Luiz Trabuco, escolhido como ministro da Fazenda do governo Lula 4 A escolha de Luiz Carlos Trabuco para comandar o Ministério da Fazenda tem muito mais semelhanças com o movimento que Lula (PT) fez no seu primeiro mandato, quando escolheu Henrique Meir",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "A reação da imprensa internacional à indicação de Trabuco para o Ministério da Fazenda",
+      "link": "https://www.bbc.com/portuguese/articles/cw20x68drd43o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-27T10:21:42.000Z",
+      "summary": "Indicação de Trabuco foi classificada pela imprensa internacional como uma escolha estratégica para ajudar a tranquilizar o mercado diante da dívida pública",
+      "source": "BBC News Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
       "title": "Bradesco diz que sucessão de Trabuco na presidência do conselho seguirá regulamentação",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/bradesco-diz-que-sucessao-de-trabuco-na-presidencia-do-conselho-seguira-regulamentacao.shtml",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/bradesco-diz-que-sucessao-de-trabuco-na-presidencia-do-conselho-seguira-regulamentacao.shtml",
       "date": "2026-11-27T09:55:00.000Z",
       "summary": "O Bradesco confirmou nesta sexta-feira (27) que Luiz Carlos Trabuco aceitou o convite do presidente Luiz Inácio Lula da Silva (PT) para ser ministro da Fazenda em 2027, como já havia sido anunciado pela Presidência da República na noite de quinta-feira (26). L",
       "source": "Folha",
@@ -159,48 +240,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Não terá 3º turno comigo no comando do Senado, diz Tereza Cristina",
-      "link": "https://www.poder360.com.br/poder-congresso/nao-tera-3o-turno-comigo-no-comando-do-senado-diz-tereza-cristina/",
-      "date": "2026-11-27T09:35:29.000Z",
-      "summary": "Senadora disse que Marinho pode ser um aliado e que impeachment de ministro do STF não é pauta principal",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Os caminhoneiros que se arriscam e ganham pouco para entregar suas compras na Black Friday",
       "link": "https://www.bbc.com/portuguese/articles/cm4gnjx14j7lo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-27T09:34:55.000Z",
       "summary": "Como o avanço do comércio eletrônico vem transformando para pior a rotina dos motoristas de carga no Brasil",
       "source": "BBC News Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Agenda de Lula: leia os compromissos do presidente nesta 6ª feira",
-      "link": "https://www.poder360.com.br/poder-governo/agenda-de-lula-leia-os-compromissos-do-presidente-nesta-6a-feira-7/",
-      "date": "2026-11-27T09:15:59.000Z",
-      "summary": "Presidente encontra estudantes em Niterói e visita hospital universitário no Rio antes de retornar a Brasília",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Governo Lula: leia a agenda de ministros do governo nesta 6ª feira",
-      "link": "https://www.poder360.com.br/poder-governo/governo-lula-leia-a-agenda-de-ministros-do-governo-nesta-6a-feira-17/",
-      "date": "2026-11-27T09:15:46.000Z",
-      "summary": "Reuniões internas, encontro com empresário e eventos de educação, cultura e igualdade racial marcam o dia",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "PIB da França cai 0,2% no 3º trimestre de 2026",
-      "link": "https://www.poder360.com.br/poder-internacional/pib-da-franca-cai-02-no-3o-trimestre-de-2026/",
-      "date": "2026-11-27T09:02:11.000Z",
-      "summary": "Consumo das famílias teve aumento ligeiro e gastos do governo desaceleraram; exportações recuaram 1,6%",
-      "source": "Poder360",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -348,39 +393,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Luiz Carlos Trabuco no Ministério da Fazenda - O Assunto #1854",
-      "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/11/27/luiz-carlos-trabuco-no-ministerio-da-fazenda-o-assunto-1854.ghtml",
-      "date": "2026-11-27T03:30:02.000Z",
-      "summary": "No início da noite desta quinta-feira (26), Luiz Carlos Trabuco disse sim ao presidente Lula e será o ministro da Fazenda no quarto mandato do petista. Presidente do Conselho de Administração do Bradesco, Trabuco é visto pelo mercado financeiro como um nome ca",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Bonde São Paulo vai ligar polos de comércio e cultura no centro da capital",
       "link": "https://www.estadao.com.br/economia/bonde-sao-paulo-vai-ligar-polos-de-comercio-e-cultura-no-centro-da-capital/",
       "date": "2026-11-27T03:01:00.000Z",
       "summary": "",
       "source": "Estadão",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Relatório do Senado retira redução de prazo para dirigentes de partidos assumirem estatais",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/27/relatorio-do-senado-retira-reducao-de-prazo-para-dirigentes-de-partidos-assumirem-estatais.ghtml",
-      "date": "2026-11-27T03:00:02.000Z",
-      "summary": "A senadora Eliziane Gama (PSD-MA) publicou nesta quarta-feira (25) relatório em que retira qualquer mudança na Lei das Estatais de um projeto aprovado pela Câmara em dezembro de 2022. Os deputados propuseram, na ocasião, que indicados para diretoria e presidên",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Após atuar como porta-voz da economia na campanha, futuro de Durigan no governo Lula 4 é incerto",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/27/apos-atuar-como-porta-voz-da-economia-na-campanha-futuro-de-durigan-no-governo-lula-4-e-incerto.ghtml",
-      "date": "2026-11-27T03:00:02.000Z",
-      "summary": "O ministro Dario Durigan em entrevista ao g1 Reprodução/TV Globo O anúncio de Luiz Carlos Trabuco para o Ministério da Fazenda deixou em aberto o destino de Dario Durigan no próximo governo do presidente Luiz Inácio Lula da Silva (PT). Após a confirmação do no",
-      "source": "g1",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -435,15 +453,6 @@
       "summary": "Presidente do Conselho de Administração do Bradesco aceita convite de Lula para integrar gabinete em movimento visto como 'pró-mercado' do Palácio",
       "source": "BBC News Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Lula dá choque de credibilidade na economia com a indicação de Luiz Carlos Trabuco para a Fazenda",
-      "link": "https://www.estadao.com.br/economia/alvaro-gribel/lula-da-choque-de-credibilidade-na-economia-com-a-indicacao-de-luiz-carlos-trabuco-para-a-fazenda/",
-      "date": "2026-11-26T23:13:27.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -535,15 +544,6 @@
       "source": "Agência Senado",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "'Dracarys': por que as explosões do Ibama são contestadas na Justiça - depois de terem virado até meme",
-      "link": "https://www.bbc.com/portuguese/articles/c34gn28r7j4ro?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-26T18:26:09.000Z",
-      "summary": "Instituto afirma que a destruição é uma medida excepcional, prevista na legislação e adotada quando não há como retirar os equipamentos do local. Senador e Defensoria Pública no Amazonas contestam ações.",
-      "source": "BBC News Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
     },
     {
       "title": "Após 20 anos, Grécia vai deixar de ser país mais endividado da zona do euro",
@@ -691,6 +691,7 @@
     }
   ],
   "errors": [
+    "IPCA 12m (SGS 13522): HTTP 304",
     "feed CNN Brasil: HTTP 404",
     "feed CNN Brasil: HTTP 404"
   ]
