@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-27T03:39:01.071Z",
+  "updated": "2026-11-27T04:46:25.450Z",
   "market": {
     "ibov": {
       "price": 176799.84,
       "pct": 6.07,
-      "time": "2026-11-27T03:38:54.724Z",
+      "time": "2026-11-27T04:46:20.015Z",
       "history": [
         {
           "d": "2026-10-28",
@@ -141,6 +141,33 @@
   },
   "news": [
     {
+      "title": "Fundo de ações brasileiras sobe mais de 9% nos EUA após confirmação de Trabuco na Fazenda",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/27/ewz-sobe-apos-confirmacao-de-trabuco-na-fazenda.ghtml",
+      "date": "2026-11-27T04:19:41.000Z",
+      "summary": "Trabuco é o primeiro nome confirmado da nova composição ministerial de Lula World Economic Forum/Benedikt von Loebell via BBC O EWZ, fundo de investimento negociado nos Estados Unidos que acompanha o desempenho de ações brasileiras, registrava alta de 9,45% na",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Inflação de Tóquio vai a 2,9%, maior alta em 16 meses",
+      "link": "https://www.poder360.com.br/poder-economia/inflacao-de-toquio-vai-a-29-maior-alta-em-16-meses/",
+      "date": "2026-11-27T03:39:41.000Z",
+      "summary": "Indicador básico acumula 3 meses acima da meta de 2% do Banco do Japão",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Bradesco BBI eleva recomendação para ações brasileiras após escolha de Trabuco para Fazenda",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/bradesco-bbi-eleva-recomendacao-para-acoes-brasileiras-apos-escolha-de-trabuco-para-fazenda.shtml",
+      "date": "2026-11-27T03:35:00.000Z",
+      "summary": "O Bradesco BBI elevou para overweight (equivalente a compra) sua recomendação para ações de companhias brasileiras, após a oficialização da escolha de Luiz Carlos Trabuco como ministro da Fazenda do próximo governo de Luiz Inácio Lula da Silva (PT). Leia mais ",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "“Que moral Moraes tem para julgar alguém?”, pergunta Flávio em live",
       "link": "https://www.poder360.com.br/poder-congresso/que-moral-moraes-tem-para-julgar-alguem-pergunta-flavio-em-live/",
       "date": "2026-11-27T03:27:44.000Z",
@@ -213,15 +240,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Por que Trabuco provocou euforia no mercado? Entenda o que esperar para dólar, bolsa e juros",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/27/por-que-trabuco-provocou-euforia-no-mercado-entenda-o-que-esperar-para-dolar-bolsa-e-juros.ghtml",
-      "date": "2026-11-27T03:00:00.000Z",
-      "summary": "Luiz Carlos Trabuco vai ser o próximo ministro da Fazenda O motivo do grande otimismo do mercado financeiro tem nome e sobrenome: Luiz Carlos Trabuco. Nesta quinta-feira (26), o presidente do conselho de administração do Bradesco, de 75 anos, foi a Brasília e ",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Flávio diz que não pedirá intervenção dos EUA no Brasil",
       "link": "https://www.poder360.com.br/poder-internacional/flavio-diz-que-nao-pedira-intervencao-dos-eua-no-brasil/",
       "date": "2026-11-27T02:55:56.000Z",
@@ -285,15 +303,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Antes de aceitar convite de Lula, Trabuco hesitou entre mais tempo com a família e o Ministério da Fazenda",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/antes-de-aceitar-convite-de-lula-trabuco-hesitava-entre-mais-tempo-com-a-familia-e-o-ministerio-da-fazenda.shtml",
-      "date": "2026-11-27T02:07:00.000Z",
-      "summary": "Luiz Carlos Trabuco estava dividido antes de aceitar o convite do presidente Luiz Inácio Lula da Silva (PT) para comandar o ministério da Fazenda no quarto mandato do petista. A escolha teve um caráter também espiritual. Leia mais (11/26/2026 - 23h07)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Jogo de empurra entre PF, STF e PGR ameaça travar possível investigação sobre ministros e Master",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/jogo-de-empurra-entre-pf-stf-e-pgr-ameaca-travar-possivel-investigacao-sobre-ministros-e-master.shtml",
       "date": "2026-11-27T02:00:00.000Z",
@@ -321,15 +330,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Bradesco, de Trabuco, tem 3º maior juro dentre os 5 bancões",
-      "link": "https://www.poder360.com.br/poder-economia/bradesco-de-trabuco-tem-3o-maior-juro-dentre-os-5-bancoes/",
-      "date": "2026-11-27T01:45:44.000Z",
-      "summary": "Entre 31 instituições financeiras, banco do futuro ministro da Fazenda está em 8º lugar no ranking das maiores taxas de juros",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "STF mantém restrições para concessão de porte de arma a guardas municipais",
       "link": "https://www.estadao.com.br/politica/stf-mantem-restricoes-para-concessao-de-porte-de-arma-a-guarda-municipais-nprp/",
       "date": "2026-11-27T01:11:18.000Z",
@@ -339,21 +339,21 @@
       "type": "imprensa"
     },
     {
+      "title": "Agricultura e Itamaraty dizem que fala de Macron sobre carne ‘dopada’ dissemina desinformação",
+      "link": "https://www.estadao.com.br/economia/agricultura-e-itamaraty-dizem-que-fala-de-macron-sobre-carne-dopada-dissemina-desinformacao/",
+      "date": "2026-11-27T00:38:38.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "Nome de confiança da Faria Lima, executivo cultivou amizade com Lula à frente do Bradesco",
       "link": "https://www.bbc.com/portuguese/articles/c3n0lrq5kgd1o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-27T00:18:18.000Z",
       "summary": "Executivo chega à Fazenda em cenário de pressão sobre as contas públicas; mercado reagiu bem às expectativas de seu anúncio na pasta.",
       "source": "BBC News Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Trabuco na Fazenda: Como empresários e executivos reagiram à escolha do novo ministro",
-      "link": "https://www.estadao.com.br/economia/negocios/trabuco-na-fazenda-como-empresarios-e-economistas-reagiram-a-escolha-do-novo-ministro/",
-      "date": "2026-11-27T00:06:05.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
