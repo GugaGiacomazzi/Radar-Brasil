@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-27T12:19:00.634Z",
+  "updated": "2026-11-27T13:44:41.850Z",
   "market": {
     "ibov": {
-      "price": 176799.84,
-      "pct": 6.07,
-      "time": "2026-11-27T12:18:54.558Z",
+      "price": 182638.52,
+      "pct": 3.3,
+      "time": "2026-11-27T13:44:36.928Z",
       "history": [
         {
           "d": "2026-10-28",
@@ -85,6 +85,10 @@
         {
           "d": "2026-11-26",
           "c": 176800
+        },
+        {
+          "d": "2026-11-27",
+          "c": 182638.5156
         }
       ]
     },
@@ -141,130 +145,238 @@
   },
   "news": [
     {
-      "title": "Dólar abre em queda de quase 4% e atinge R$ 5,52 após confirmação de Trabuco na Fazenda",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/dolar-abre-em-queda-de-quase-4-e-atinge-r-552-apos-confirmacao-de-trabuco-na-fazenda.shtml",
-      "date": "2026-11-27T12:14:00.000Z",
-      "summary": "O dólar abriu em queda de quase 4% nesta sexta-feira (27), em meio à reação positiva dos investidores à confirmação de Luiz Carlos Trabuco, presidente do conselho de administração do Bradesco, no Ministério da Fazenda do quarto governo do presidente Luiz Ináci",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Inadimplência das famílias sobe a 8,2% em outubro e renova recorde, mostra BC",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/inadimplencia-das-familias-sobe-a-82-em-outubro-e-renova-recorde-mostra-bc.shtml",
-      "date": "2026-11-27T12:13:00.000Z",
-      "summary": "A inadimplência das famílias no crédito livre, em que as condições são livremente pactuadas entre bancos e clientes, subiu a 8,2% em outubro e mais uma vez foi recorde. É o maior nível da série histórica da autoridade monetária, iniciada em março de 2011. Os d",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Gilmar recebe Cleitinho e Aécio e defende diálogo entre instituições",
-      "link": "https://www.poder360.com.br/poder-justica/gilmar-recebe-cleitinho-e-aecio-e-defende-dialogo-entre-instituicoes/",
-      "date": "2026-11-27T12:11:28.000Z",
-      "summary": "Ministro do STF desejou sucesso ao governador eleito de Minas Gerais e destacou a importância política e econômica do Estado",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Bolsas da China têm maior alta em mais de dois anos após aval do governo; Nasdaq sobe mais de 3%",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/bolsas-da-china-tem-maior-alta-em-mais-de-dois-anos-apos-aval-do-governo-nasdaq-sobe-mais-de-3.shtml",
-      "date": "2026-11-27T12:09:00.000Z",
-      "summary": "As Bolsas da China dispararam nesta sexta-feira (27), registrando a maior alta em mais de dois anos, depois que os principais formuladores de políticas do país manifestaram apoio ao enfraquecido mercado acionário. Leia mais (11/27/2026 - 09h09)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Desemprego fica em 5,1% até outubro, segundo IBGE",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/desemprego-fica-em-51-ate-outubro-segundo-ibge.shtml",
-      "date": "2026-11-27T12:03:00.000Z",
-      "summary": "A taxa de desemprego do Brasil ficou em 5,1% no trimestre até outubro, o menor patamar para esse intervalo na série histórica iniciada em 2012, afirmou o IBGE (Instituto Brasileiro de Geografia e Estatística) nesta sexta-feira (27). Leia mais (11/27/2026 - 09h",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Com escolha de Trabuco, grupo de Haddad deve ficar fora do Lula 4",
-      "link": "https://g1.globo.com/politica/blog/gerson-camarotti/post/2026/11/27/com-escolha-de-trabuco-grupo-de-haddad-deve-ficar-fora-do-lula-4.ghtml",
-      "date": "2026-11-27T12:02:27.000Z",
-      "summary": "A escolha de Luiz Carlos Trabuco isola o grupo de Fernando Haddad dentro do novo governo Lula. O ex-ministro sinalizou esta semana que não deve participar do novo mandato do presidente. Mas, havia uma expectativa de que Dario Durigan, ligado a Haddad, permanec",
+      "title": "Contas do governo têm superávit de R$ 52 bilhões em outubro, melhor saldo para o mês em dez anos",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/27/contas-do-governo-tem-superavit-de-r-52-bilhoes-em-outubro-melhor-saldo-para-o-mes-em-dez-anos.ghtml",
+      "date": "2026-11-27T13:39:24.000Z",
+      "summary": "As contas do governo registraram um superávit primário de R$ 52,3 bilhões em outubro, informou Tesouro Nacional nesta sexta-feira (27). 🔎 O superávit primário ocorre quando as receitas com tributos e impostos ficam acima das despesas do governo. Se as receita",
       "source": "g1",
       "cat": "politica",
       "type": "imprensa"
     },
     {
-      "title": "Desemprego cai para 5,1% no trimestre encerrado em outubro, diz IBGE",
-      "link": "https://www.poder360.com.br/poder-economia/desemprego-cai-para-51-no-trimestre-encerrado-em-outubro-diz-ibge/",
-      "date": "2026-11-27T12:01:57.000Z",
-      "summary": "Taxa recuou 0,3 ponto percentual ante o mesmo período de 2025, quando foi de 5,4%",
+      "title": "PIX: BC vai desenvolver regras para coibir envio de mensagens intimidatórias",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/27/pix-bc-vai-desenvolver-regras-para-coibir-envio-de-mensagens-intimidatorias.ghtml",
+      "date": "2026-11-27T13:38:29.000Z",
+      "summary": "O Banco Central vai desenvolver regras para coibir o envio de mensagens intimidatórias, violentas ou ofensivas por meio do PIX. A medida, anunciada nesta sexta-feira (27), integra o conjunto de iniciativas sobre a ferramenta prevista para o próximo ano. A auto",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Tarcísio elogia indicação de Trabuco para Fazenda, mas diz que ele terá de lidar com radicais do PT",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/tarcisio-elogia-indicacao-de-trabuco-para-fazenda-mas-diz-que-ele-tera-de-lidar-com-radicais-do-pt.shtml",
+      "date": "2026-11-27T13:37:00.000Z",
+      "summary": "O governador de São Paulo, Tarcísio de Freitas (Republicanos), elogiou a escolha de Luiz Carlos Trabuco como ministro da Fazenda, mas disse que ele terá o desafio de lidar com o PT. Leia mais (11/27/2026 - 10h37)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Michelle cita melhora de Bolsonaro: “Já conseguiu evacuar”",
+      "link": "https://www.poder360.com.br/poder-gente/michelle-cita-melhora-de-bolsonaro-ja-conseguiu-evacuar/",
+      "date": "2026-11-27T13:35:59.000Z",
+      "summary": "Ex-primeira-dama diz que ex-presidente \"fez a própria barba\", tomou banho e fará fisioterapia; agradeceu Padre Kelmon",
       "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
     },
     {
-      "title": "Desemprego fica em 5,1% em outubro e iguala menor patamar da série histórica",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/27/desemprego-pnad-outubro.ghtml",
-      "date": "2026-11-27T12:00:28.000Z",
-      "summary": "A taxa de desemprego ficou em 5,1% no trimestre encerrado em outubro deste ano. Os dados são da Pesquisa Nacional por Amostra de Domicílios (PNAD) Contínua, divulgada nesta sexta-feira (27) pelo Instituto Brasileiro de Geografia e Estatística (IBGE). O resulta",
+      "title": "Fachin prorroga por mais 60 dias inquérito sobre financiamento do filme Dark Horse",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/fachin-prorroga-por-mais-60-dias-inquerito-sobre-financiamento-do-filme-dark-horse/",
+      "date": "2026-11-27T13:26:40.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Haddad deseja sorte a Trabuco e defende que Fazenda mire ‘programa eleito pelas ruas’",
+      "link": "https://www.estadao.com.br/economia/haddad-trabuco-fazenda-programa-eleito-pelas-ruas/",
+      "date": "2026-11-27T13:24:31.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Confiança de serviços no Brasil atinge nível mais baixo em 5 anos e meio, mostra FGV",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/confianca-de-servicos-no-brasil-atinge-nivel-mais-baixo-em-5-anos-e-meio-mostra-fgv.shtml",
+      "date": "2026-11-27T13:23:00.000Z",
+      "summary": "A confiança do setor de serviços do Brasil recuou em novembro e atingiu o nível mais baixo em cinco anos e meio, pressionada por uma forte piora das expectativas, mostraram os dados divulgados pela FGV (Fundação Getulio Vargas) nesta sexta-feira (27). Leia mai",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Raízen avalia venda de sua divisão de distribuição de combustíveis",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/27/raizen-avalia-venda-de-sua-divisao-de-distribuicao-de-combustiveis.ghtml",
+      "date": "2026-11-27T13:20:24.000Z",
+      "summary": "Logo da Raízen Divulgação A Raízen avalia a venda de sua divisão de distribuição de combustíveis como parte de um plano mais amplo de desinvestimento, afirmou o acionista fundador Rubens Ometto à Reuters na manhã de sexta-feira (27). \"É uma das alternativas qu",
       "source": "g1",
       "cat": "economia",
       "type": "imprensa"
     },
     {
-      "title": "Dólar despenca na abertura e vai a R$ 5,53 com nomeação de Luiz Trabuco para a Fazenda no foco",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/27/dolar-ibovespa.ghtml",
+      "title": "Dólar cai e bolsa sobe: a reação do mercado - e de economistas - à escolha de Trabuco para a Fazenda",
+      "link": "https://www.bbc.com/portuguese/articles/cv8e014e88xgo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-27T13:19:37.000Z",
+      "summary": "Escolha de presidente do Conselho de Administração do Bradesco para a pasta demonstra busca do governo Lula por diálogo com o mercado, avaliam entrevistados.",
+      "source": "BBC News Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Bolsa sobe 3,76% após confirmação de Trabuco na Fazenda",
+      "link": "https://www.poder360.com.br/poder-economia/bolsa-sobe-376-apos-confirmacao-de-trabuco-na-fazenda/",
+      "date": "2026-11-27T13:14:40.000Z",
+      "summary": "Investidores esperam maior responsabilidade fiscal do governo e possível afrouxamento da política monetária",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Banco Central terá mais condições de voltar a reduzir juros mais rapidamente com Trabuco na Fazenda",
+      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/27/banco-central-tera-mais-condicoes-de-voltar-a-reduzir-juros-mais-rapidamente-com-trabuco-na-fazenda.ghtml",
+      "date": "2026-11-27T13:12:37.000Z",
+      "summary": "Febraban elogia escolha de Trabuco para a Fazenda A decisão de Luiz Carlos Trabuco de aceitar o convite para assumir o Ministério da Fazenda no Lula 4 vai criar condições para que o Banco Central (BC) volte a reduzir a taxa de juros mais rapidamente. Até então",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "STF mantém restrições para porte de armas de guardas municipais",
+      "link": "https://www.poder360.com.br/poder-justica/stf-mantem-restricoes-para-porte-de-armas-de-guardas-municipais/",
+      "date": "2026-11-27T13:10:01.000Z",
+      "summary": "Por maioria, os ministros rejeitaram pedido para ampliar o uso do armamento, que continua restrito à formação dos policiais",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Tributária, 6x1 e tarifaço impulsionam salário de lobistas no Brasil",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/tributaria-6x1-e-tarifaco-impulsionam-salario-de-lobistas-no-brasil.shtml",
+      "date": "2026-11-27T13:10:00.000Z",
+      "summary": "O cenário global desenhado nos últimos anos, com tarifaço aplicado pelo presidente dos EUA, Donald Trump, somado às questões próprias do Brasil, como a reforma tributária, o fim da escala 6x1, o fim da 'taxa das blusinhas' e a MP (medida provisória) das bets, ",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Alexandre de Moraes usou jatos da FAB 241 vezes desde 2023, a maioria entre Brasília e São Paulo",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/alexandre-de-moraes-usou-jatos-da-fab-241-vezes-desde-2023-a-maioria-entre-brasilia-e-sao-paulo.shtml",
+      "date": "2026-11-27T13:09:00.000Z",
+      "summary": "O ministro Alexandre de Moraes, do STF (Supremo Tribunal Federal), voou 241 vezes em aviões da FAB (Força Aérea Brasileira) entre janeiro de 2023 e outubro deste ano. Isso dá em média um voo a cada cinco dias. Leia mais (11/27/2026 - 10h09)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Coordenador da campanha de Marinho sugere revezamento com Tereza na presidência do Senado",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/coordenador-da-campanha-de-marinho-sugere-revezamento-com-tereza-na-presidencia-do-senado.shtml",
+      "date": "2026-11-27T13:08:00.000Z",
+      "summary": "Coordenador da campanha de Rogério Marinho (PL-RN) à presidência do Senado, Efraim Filho (PL-PB) diz que um revezamento no comando da Casa com Tereza Cristina (PP-MS) pode ser a chave para um acordo entre os dois bolsonaristas. Leia mais (11/27/2026 - 10h08)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "'INSS do Reino Unido' tem site retirado do ar após 'incidente cibernético'",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/tec/2026/11/inss-do-reino-unido-tem-site-retirado-do-ar-apos-incidente-cibernetico.shtml",
+      "date": "2026-11-27T13:07:00.000Z",
+      "summary": "O Departamento de Trabalho e Pensões do Reino Unido informou nesta sexta-feira (27) que retirou alguns serviços do ar após um \"incidente cibernético\", em meio ao aumento de ataques e ameaças cibernéticas em todo o mundo. Leia mais (11/27/2026 - 10h07)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Fachin prorroga inquérito sobre 'Dark Horse' por 60 dias",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/27/fachin-prorroga-inquerito-sobre-dark-horse-por-60-dias.ghtml",
+      "date": "2026-11-27T13:02:46.000Z",
+      "summary": "Fachin prorroga inquérito sobre 'Dark Horse' por 60 dias O presidente do Supremo Tribunal Federal (STF), ministro Edson Fachin, prorrogou por 60 dias o prazo para que a Polícia Federal conclua as investigações sobre o financiamento do filme \"Dark Horse\", cineb",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Dólar despenca 4,11% para R$ 5,51 após confirmação de Trabuco na Fazenda",
+      "link": "https://www.poder360.com.br/poder-economia/dolar-despenca-411-para-r-551-apos-confirmacao-de-trabuco-na-fazenda/",
+      "date": "2026-11-27T13:00:55.000Z",
+      "summary": "Investidores esperam maior responsabilidade fiscal do governo e retomada do ciclo de corte de juros pelo BC",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Famílias destinam R$ 284 por mês, em média, ao pagamento de empréstimo, mostra IBGE",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/27/familias-gasto-mensal-pagamento-emprestimos-ibge.ghtml",
+      "date": "2026-11-27T13:00:46.000Z",
+      "summary": "Imagem mostra consumidora calculando dívidas Reprodução/EPTV As famílias brasileiras destinaram, em média, R$ 284,10 por mês ao pagamento de empréstimos em 2024 e 2025, segundo a Pesquisa de Orçamentos Familiares (POF), do Instituto Brasileiro de Geografia e E",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Trabuco na Fazenda tem cenário muito mais favorável que Levy em 2015",
+      "link": "https://www.estadao.com.br/politica/silvio-cascione/trabuco-na-fazenda-tem-cenario-muito-mais-favoravel-que-levy-em-2015/",
+      "date": "2026-11-27T13:00:38.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Casa, comida e transporte são dois terços do consumo das famílias, aponta IBGE",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/casa-comida-e-transporte-sao-dois-tercos-do-consumo-das-familias-aponta-ibge.shtml",
+      "date": "2026-11-27T13:00:00.000Z",
+      "summary": "Em 2024 e 2025, as famílias brasileiras gastaram, em média, R$ 7.977,43 por mês. No mesmo período, o rendimento e a variação patrimonial -que incluem, por exemplo, venda de bens, empréstimos e heranças- somaram R$ 9.255,53. Leia mais (11/27/2026 - 10h00)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "A explosão dos ataques cibernéticos: a vulnerabilidade de uma sociedade cada vez mais digital",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/a-explosao-dos-ataques-ciberneticos-a-vulnerabilidade-de-uma-sociedade-cada-vez-mais-digital/",
+      "date": "2026-11-27T13:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Profissionais trans são menos de 2% na liderança; ‘onda de transfobia’ é vista como obstáculo",
+      "link": "https://www.estadao.com.br/economia/governanca/profissionais-trans-lideranca-onda-transfobia-obstaculo/",
+      "date": "2026-11-27T13:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Master: Fachin decide manter ex-presidente do BRB na Papudinha",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/master-fachin-decide-manter-ex-presidente-do-brb-na-cadeia/",
+      "date": "2026-11-27T12:47:47.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Desemprego até outubro fica em 5,1%, e taxa volta ao menor patamar da série histórica",
+      "link": "https://www.estadao.com.br/economia/ibge-pnad-desemprego-outubro-2026/",
+      "date": "2026-11-27T12:07:48.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Projeto estabelece normas de segurança para trabalhadores da saúde e da educação",
+      "link": "https://www.camara.leg.br/noticias/1312313-projeto-estabelece-normas-de-seguranca-para-trabalhadores-da-saude-e-da-educacao",
       "date": "2026-11-27T12:00:00.000Z",
-      "summary": "Luiz Carlos Trabuco vai ser o próximo ministro da Fazenda O dólar abriu a sessão desta sexta-feira (27) em queda, com recuo de 3,61% perto das 9h, cotado a R$ 5,5368. Já as negociações do Ibovespa, principal índice da bolsa brasileira, começam às 10h. A nomeaç",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Leia as notas de CNI, Fiesp e Febraban sobre Trabuco na Fazenda",
-      "link": "https://www.poder360.com.br/poder-economia/leia-as-notas-de-cni-fiesp-e-febraban-sobre-trabuco-na-fazenda/",
-      "date": "2026-11-27T11:59:02.000Z",
-      "summary": "Representantes da indústria e do setor financeiro elogiam a escolha de Lula e defendem equilíbrio fiscal, redução dos juros e diálogo com o setor produtivo",
-      "source": "Poder360",
+      "summary": "Texto em análise na Câmara prevê prevenção à violência e ao assédio, canais de denúncia e proteção contra retaliações funcionais em unidades públicas e privadas",
+      "source": "Agência Câmara",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Nova reforma da Previdência e ajuste fiscal 'cívico': conheça as posições de Luiz Carlos Trabuco, futuro ministro da Fazenda",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/27/nova-reforma-da-previdencia-e-ajuste-fiscal-civico-conheca-as-posicoes-de-luiz-carlos-trabuco-futuro-ministro-da-fazenda.ghtml",
-      "date": "2026-11-27T11:52:31.000Z",
-      "summary": "Luiz Carlos Trabuco vai ser o próximo ministro da Fazenda O anúncio do nome de Luiz Carlos Trabuco, presidente do Conselho de Administração do Bradesco, como ministro da Fazenda de Luiz Inácio Lula da Silva (PT) para seu quarto e último mandato surpreendeu ana",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Governo e ONS investigam causas de apagão em Roraima, Amazonas e Pará",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/27/governo-e-ons-investigam-causas-de-apagao-em-roraima-amazonas-e-para.ghtml",
-      "date": "2026-11-27T11:50:06.000Z",
-      "summary": "Apagão atinge a região Norte do país nesta quinta-feira (26) O Ministério de Minas e Energia (MME) informou que acompanha junto ao Operador Nacional do Sistema Elétrico (ONS) as investigações sobre o que causou uma falha na transmissão de energia em Roraima e ",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Inadimplência sobe para 5,1% em outubro, diz Banco Central",
-      "link": "https://www.poder360.com.br/poder-economia/inadimplencia-sobe-para-51-em-outubro-diz-banco-central/",
-      "date": "2026-11-27T11:48:41.000Z",
-      "summary": "O estoque total de crédito do Sistema Financeiro Nacional alcançou R$ 7,5 trilhões no mesmo mês",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Os caminhoneiros que se arriscam e ganham pouco para entregar suas compras na Black Friday: 'Querem que a gente trabalhe sem parar'",
-      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/27/os-caminhoneiros-que-se-arriscam-e-ganham-pouco-para-entregar-suas-compras-na-black-friday-querem-que-a-gente-trabalhe-sem-parar.ghtml",
-      "date": "2026-11-27T11:41:16.000Z",
-      "summary": "Comércio eletrônico espera aumentar as vendas em quase 25% nesta Black Friday Era novembro de 2025 quando o caminhoneiro Osvino Kepka deixou uma carga de tubos e conexões da Krona no interior de São Paulo e buscou uma viagem para bancar a volta para casa, em J",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
+      "type": "oficial"
     },
     {
       "title": "BC divulga Estatísticas Monetárias e de Crédito à imprensa",
@@ -282,24 +394,6 @@
       "summary": "",
       "source": "Estadão",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Meirelles: Trabuco deve evitar embates públicos e dialogar diretamente com seus críticos",
-      "link": "https://www.estadao.com.br/economia/meirelles-trabuco-evitar-embates-publicos-dialogar-criticos/",
-      "date": "2026-11-27T10:59:26.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Alcolumbre deve se reunir com Lula para bater martelo sobre ministro do STF",
-      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/27/alcolumbre-deve-se-reunir-com-lula-para-bater-martelo-sobre-ministro-do-stf.ghtml",
-      "date": "2026-11-27T10:43:47.000Z",
-      "summary": "Presidente Luiz Inácio Lula da Silva (PT) e o presidente do Senado, Davi Alcolumbre (União-AP). Ricardo Stuckert / PR O presidente do Senado, Davi Alcolumbre (União-AP), vai se reunir nos próximos dias com o presidente Luiz Inácio Lula da Silva (PT) para bater",
-      "source": "g1",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -330,102 +424,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Um mês após a fuga para os EUA, Flávio Bolsonaro recebe salário integral sem constar nenhuma falta",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/um-mes-apos-a-fuga-para-os-eua-flavio-bolsonaro-recebe-salario-integral-sem-constar-nenhuma-falta/",
-      "date": "2026-11-27T08:30:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Bastidores: como o sim de Trabuco a Lula pegou o entorno do banqueiro de surpresa",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/bastidores-como-o-sim-de-trabuco-a-lula-pegou-o-entorno-do-banqueiro-de-surpresa/",
-      "date": "2026-11-27T08:30:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Taxista filho do traficante Marcinho VP assume negócios paralelos de bet investigada pela PF",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/taxista-filho-do-traficante-marcinho-vp-assume-negocios-paralelos-de-bet-investigada-pela-pf/",
-      "date": "2026-11-27T08:30:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "O desafio de Trabuco à frente do Ministério da Fazenda, segundo economistas",
-      "link": "https://www.estadao.com.br/economia/o-desafio-de-trabuco-a-frente-do-ministerio-da-fazenda-segundo-economistas/",
-      "date": "2026-11-27T08:30:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Podcast explica escolha de Lula por Trabuco e o que esperar da gestão dele na Fazenda",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/podcasts/2026/11/podcast-explica-escolha-de-lula-por-trabuco-e-o-que-esperar-da-gestao-dele-na-fazenda.shtml",
       "date": "2026-11-27T08:00:00.000Z",
       "summary": "O presidente do Conselho de Administração do Bradesco, Luiz Carlos Trabuco, aceitou na noite desta quinta-feira (26) o convite do presidente Lula (PT) para assumir o Ministério da Fazenda no próximo mandato. Ele é o primeiro nome anunciado para o governo Lula ",
       "source": "Folha",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Governo Tarcísio corre para pagar emendas após insatisfação da base na Assembleia",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/governo-tarcisio-corre-para-pagar-emendas-apos-insatisfacao-da-base-na-assembleia.shtml",
-      "date": "2026-11-27T07:06:00.000Z",
-      "summary": "O governo Tarcísio de Freitas (Republicanos) corre para destravar o pagamento de emendas parlamentares após um represamento milionário a um mês do fim do ano, o que gerou insatisfação na base na Assembleia Legislativa de São Paulo (Alesp). Leia mais (11/27/202",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Gleisi Hoffmann é cotada para voltar a ter cargo no Planalto após eleição de sacrifício no Paraná",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/gleisi-hoffmann-e-cotada-para-voltar-a-ter-cargo-no-planalto-apos-eleicao-de-sacrificio-no-parana.shtml",
-      "date": "2026-11-27T07:03:00.000Z",
-      "summary": "A deputada federal e ex-ministra Gleisi Hoffmann (PT) é cotada para assumir um cargo de primeiro escalão no Palácio do Planalto, próximo do presidente Luiz Inácio Lula da Silva (PT). Os postos mencionados são as secretarias de Comunicação Social, conhecida com",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Celso de Mello critica caravanas de juízes a convite de empresas",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/blogs/frederico-vasconcelos/2026/11/celso-de-mello-critica-caravanas-de-juizes-a-convite-de-empresas.shtml",
-      "date": "2026-11-27T07:02:00.000Z",
-      "summary": "O ministro aposentado do Supremo Tribunal Federal Celso de Mello concorda com a tese de que juízes que viajam a convite de empresas privadas são suspeitos para julgar processos de interesse desses anfitriões. Leia mais (11/27/2026 - 04h02)",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Piada no Planalto diz que Camilo Santana já é ministro da Casa Civil ‘no horário da Nova Zelândia’",
-      "link": "https://www.estadao.com.br/politica/piada-no-planalto-diz-que-camilo-santana-ja-e-ministro-da-casa-civil-no-horario-da-nova-zelandia/",
-      "date": "2026-11-27T02:40:19.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "'Sereno', Trabuco é 'capaz de reduzir a tensão' com mercado, diz Lara Resende; veja a reação de outros economistas à escolha na Fazenda",
-      "link": "https://www.bbc.com/portuguese/articles/cv8e014e88xgo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-27T02:31:39.000Z",
-      "summary": "Escolha de presidente do Conselho de Administração do Bradesco para a pasta demonstra busca do governo Lula por diálogo com o mercado, avaliam entrevistados.",
-      "source": "BBC News Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Agricultura e Itamaraty dizem que fala de Macron sobre carne ‘dopada’ dissemina desinformação",
-      "link": "https://www.estadao.com.br/economia/agricultura-e-itamaraty-dizem-que-fala-de-macron-sobre-carne-dopada-dissemina-desinformacao/",
-      "date": "2026-11-27T00:38:38.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -499,15 +503,6 @@
       "source": "DW Brasil",
       "cat": "internacional",
       "type": "imprensa"
-    },
-    {
-      "title": "Comissão aprova projeto que destina à PF e ao Exército recursos arrecadados com taxas e multas",
-      "link": "https://www.camara.leg.br/noticias/1323397-comissao-aprova-projeto-que-destina-a-pf-e-ao-exercito-recursos-arrecadados-com-taxas-e-multas",
-      "date": "2026-11-26T20:03:00.000Z",
-      "summary": "Projeto ainda será analisado pela Comissão de Constituição e Justiça da Câmara",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
     },
     {
       "title": "'Dracarys': por que as explosões do Ibama são contestadas na Justiça - depois de terem virado até meme",
@@ -655,7 +650,6 @@
     }
   ],
   "errors": [
-    "Selic (SGS 432): HTTP 304",
     "feed CNN Brasil: HTTP 404",
     "feed CNN Brasil: HTTP 404"
   ]
