@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-27T08:42:22.706Z",
+  "updated": "2026-11-27T10:02:22.344Z",
   "market": {
     "ibov": {
       "price": 176799.84,
       "pct": 6.07,
-      "time": "2026-11-27T08:42:18.857Z",
+      "time": "2026-11-27T10:02:13.318Z",
       "history": [
         {
           "d": "2026-10-28",
@@ -141,6 +141,105 @@
   },
   "news": [
     {
+      "title": "Bradesco diz que sucessão de Trabuco na presidência do conselho seguirá regulamentação",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/bradesco-diz-que-sucessao-de-trabuco-na-presidencia-do-conselho-seguira-regulamentacao.shtml",
+      "date": "2026-11-27T09:55:00.000Z",
+      "summary": "O Bradesco confirmou nesta sexta-feira (27) que Luiz Carlos Trabuco aceitou o convite do presidente Luiz Inácio Lula da Silva (PT) para ser ministro da Fazenda em 2027, como já havia sido anunciado pela Presidência da República na noite de quinta-feira (26). L",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Como a imigração transformou a Espanha na última década e passou a ser tema fundamental das eleições",
+      "link": "https://www.bbc.com/portuguese/articles/cj62p7w0n2zgo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-27T09:50:53.000Z",
+      "summary": "Com quase 50 milhões de habitantes e mais mortes que nascimentos, a Espanha chega às eleições de 29 de novembro em pleno debate sobre a imigração.",
+      "source": "BBC News Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Não terá 3º turno comigo no comando do Senado, diz Tereza Cristina",
+      "link": "https://www.poder360.com.br/poder-congresso/nao-tera-3o-turno-comigo-no-comando-do-senado-diz-tereza-cristina/",
+      "date": "2026-11-27T09:35:29.000Z",
+      "summary": "Senadora disse que Marinho pode ser um aliado e que impeachment de ministro do STF não é pauta principal",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Os caminhoneiros que se arriscam e ganham pouco para entregar suas compras na Black Friday",
+      "link": "https://www.bbc.com/portuguese/articles/cm4gnjx14j7lo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-27T09:34:55.000Z",
+      "summary": "Como o avanço do comércio eletrônico vem transformando para pior a rotina dos motoristas de carga no Brasil",
+      "source": "BBC News Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Agenda de Lula: leia os compromissos do presidente nesta 6ª feira",
+      "link": "https://www.poder360.com.br/poder-governo/agenda-de-lula-leia-os-compromissos-do-presidente-nesta-6a-feira-7/",
+      "date": "2026-11-27T09:15:59.000Z",
+      "summary": "Presidente encontra estudantes em Niterói e visita hospital universitário no Rio antes de retornar a Brasília",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Governo Lula: leia a agenda de ministros do governo nesta 6ª feira",
+      "link": "https://www.poder360.com.br/poder-governo/governo-lula-leia-a-agenda-de-ministros-do-governo-nesta-6a-feira-17/",
+      "date": "2026-11-27T09:15:46.000Z",
+      "summary": "Reuniões internas, encontro com empresário e eventos de educação, cultura e igualdade racial marcam o dia",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "PIB da França cai 0,2% no 3º trimestre de 2026",
+      "link": "https://www.poder360.com.br/poder-internacional/pib-da-franca-cai-02-no-3o-trimestre-de-2026/",
+      "date": "2026-11-27T09:02:11.000Z",
+      "summary": "Consumo das famílias teve aumento ligeiro e gastos do governo desaceleraram; exportações recuaram 1,6%",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Um mês após a fuga para os EUA, Flávio Bolsonaro recebe salário integral sem constar nenhuma falta",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/um-mes-apos-a-fuga-para-os-eua-flavio-bolsonaro-recebe-salario-integral-sem-constar-nenhuma-falta/",
+      "date": "2026-11-27T08:30:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Bastidores: como o sim de Trabuco a Lula pegou o entorno do banqueiro de surpresa",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/bastidores-como-o-sim-de-trabuco-a-lula-pegou-o-entorno-do-banqueiro-de-surpresa/",
+      "date": "2026-11-27T08:30:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Taxista filho do traficante Marcinho VP assume negócios paralelos de bet investigada pela PF",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/taxista-filho-do-traficante-marcinho-vp-assume-negocios-paralelos-de-bet-investigada-pela-pf/",
+      "date": "2026-11-27T08:30:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "O desafio de Trabuco à frente do Ministério da Fazenda, segundo economistas",
+      "link": "https://www.estadao.com.br/economia/o-desafio-de-trabuco-a-frente-do-ministerio-da-fazenda-segundo-economistas/",
+      "date": "2026-11-27T08:30:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "Podcast explica escolha de Lula por Trabuco e o que esperar da gestão dele na Fazenda",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/podcasts/2026/11/podcast-explica-escolha-de-lula-por-trabuco-e-o-que-esperar-da-gestao-dele-na-fazenda.shtml",
       "date": "2026-11-27T08:00:00.000Z",
@@ -222,33 +321,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Fundos de participações desafiam má fase e buscam R$ 20 bi para investir em empresas brasileiras",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/fundos-de-participacoes-desafiam-ma-fase-e-buscam-r-20-bi-para-investir-em-empresas-brasileiras.shtml",
-      "date": "2026-11-27T07:00:00.000Z",
-      "summary": "Os fundos que compram participações em empresas tentam surfar uma maré baixa para negócios e estão em busca de recursos para investimentos no Brasil e América Latina. Somados, eles podem levantar até R$ 20 bilhões em capital, segundo fontes do setor. Leia mais",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Câmara aprova alertas sonoros e luminosos em tornozeleiras",
-      "link": "https://www.poder360.com.br/poder-congresso/camara-aprova-alertas-sonoros-e-luminosos-em-tornozeleiras/",
-      "date": "2026-11-27T06:55:13.000Z",
-      "summary": "Projeto de lei, que segue para o Senado, determina distância mínima de 100 metros entre vítima e agressor",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Chamado de golpista por petistas, Temer elogia Trabuco na Fazenda",
-      "link": "https://www.poder360.com.br/poder-economia/chamado-de-golpista-por-petistas-temer-elogia-trabuco-na-fazenda/",
-      "date": "2026-11-27T06:45:50.000Z",
-      "summary": "Ex-presidente afirma que o nome escolhido por Lula “é a opção certa para o Brasil”",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Nome de confiança da Faria Lima, Luiz Trabuco cultivou amizade com Lula à frente do Bradesco",
       "link": "https://g1.globo.com/economia/noticia/2026/11/27/nome-de-confianca-da-faria-lima-luiz-trabuco-cultivou-amizade-com-lula-a-frente-do-bradesco.ghtml",
       "date": "2026-11-27T06:00:00.000Z",
@@ -276,29 +348,11 @@
       "type": "imprensa"
     },
     {
-      "title": "Inflação de Tóquio vai a 2,9%, maior alta em 16 meses",
-      "link": "https://www.poder360.com.br/poder-economia/inflacao-de-toquio-vai-a-29-maior-alta-em-16-meses/",
-      "date": "2026-11-27T03:39:41.000Z",
-      "summary": "Indicador básico acumula 3 meses acima da meta de 2% do Banco do Japão",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Luiz Carlos Trabuco no Ministério da Fazenda - O Assunto #1854",
       "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/11/27/luiz-carlos-trabuco-no-ministerio-da-fazenda-o-assunto-1854.ghtml",
       "date": "2026-11-27T03:30:02.000Z",
       "summary": "No início da noite desta quinta-feira (26), Luiz Carlos Trabuco disse sim ao presidente Lula e será o ministro da Fazenda no quarto mandato do petista. Presidente do Conselho de Administração do Bradesco, Trabuco é visto pelo mercado financeiro como um nome ca",
       "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "“Que moral Moraes tem para julgar alguém?”, pergunta Flávio em live",
-      "link": "https://www.poder360.com.br/poder-congresso/que-moral-moraes-tem-para-julgar-alguem-pergunta-flavio-em-live/",
-      "date": "2026-11-27T03:27:44.000Z",
-      "summary": "Senador citou investigações envolvendo Gayer e Van Hattem para criticar atuação de ministro",
-      "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -348,15 +402,6 @@
       "type": "imprensa"
     },
     {
-      "title": "STF mantém restrições para concessão de porte de arma a guardas municipais",
-      "link": "https://www.estadao.com.br/politica/stf-mantem-restricoes-para-concessao-de-porte-de-arma-a-guarda-municipais-nprp/",
-      "date": "2026-11-27T01:11:18.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Agricultura e Itamaraty dizem que fala de Macron sobre carne ‘dopada’ dissemina desinformação",
       "link": "https://www.estadao.com.br/economia/agricultura-e-itamaraty-dizem-que-fala-de-macron-sobre-carne-dopada-dissemina-desinformacao/",
       "date": "2026-11-27T00:38:38.000Z",
@@ -402,24 +447,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Jair Bolsonaro tem melhora, mas ainda sem previsão de sair da UTI, informa hospital",
-      "link": "https://www.estadao.com.br/politica/jair-bolsonaro-tem-melhora-mas-ainda-sem-previsao-de-sair-da-uti-informa-hospital-nprp/",
-      "date": "2026-11-26T23:06:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Deputados governistas falam em ‘preocupação’ com nome de Trabuco para assumir Ministério da Fazenda",
-      "link": "https://www.estadao.com.br/politica/deputados-governistas-falam-em-preocupacao-com-anuncio-trabuco-para-assumir-ministerio-da-fazenda/",
-      "date": "2026-11-26T22:53:43.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Educadores ambientais pedem reforço de orçamento e políticas públicas",
       "link": "https://www.camara.leg.br/noticias/1323540-educadores-ambientais-pedem-reforco-de-orcamento-e-politicas-publicas",
       "date": "2026-11-26T22:37:00.000Z",
@@ -445,15 +472,6 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Trabuco aceita convite e será ministro da Fazenda do governo Lula 4",
-      "link": "https://www.estadao.com.br/economia/trabuco-ministro-fazenda-lula-4/",
-      "date": "2026-11-26T21:53:26.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
     },
     {
       "title": "Comissão aprova divulgação de benefícios e pagamentos de empresas a profissionais de saúde",
@@ -600,15 +618,6 @@
       "type": "oficial"
     },
     {
-      "title": "'Não acho que possamos mais coexistir com bilionários', diz escritora Naomi Klein",
-      "link": "https://www.bbc.com/portuguese/articles/c60md8pz90pko?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-25T20:36:29.000Z",
-      "summary": "Escritora canadense crítica do capitalismo acredita que o mundo precisa de uma economia 'que vá muito além da busca pelo lucro e que comece por atender às necessidades mais básicas das pessoas'.",
-      "source": "BBC News Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
       "title": "Bomba da 2ª Guerra força evacuação de 700 pessoas no sul da Alemanha",
       "link": "https://www.dw.com/pt-br/bomba-da-2ª-guerra-força-evacuação-de-700-pessoas-no-sul-da-alemanha/a-80053249?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-25T18:34:00.000Z",
@@ -643,15 +652,6 @@
       "source": "ONU News",
       "cat": "internacional",
       "type": "oficial"
-    },
-    {
-      "title": "Julgamento de Van Hattem no STF é o primeiro round da guerra entre Senado e Supremo em 2027?",
-      "link": "https://www.bbc.com/portuguese/articles/cqdr13l5e830o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-25T08:44:53.000Z",
-      "summary": "Caso o STF aceite a denúncia da PGR, deputado, eleito neste ano senador pelo Novo, será réu por calúnia e injúria. Mas especialistas alertam para possível retaliação da corte contra parlamentares críticos ao Supremo.",
-      "source": "BBC News Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
     },
     {
       "title": "Líder da ONU pede mais ação para impedir futuro com robôs assassinos",
