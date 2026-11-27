@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-27T19:23:05.112Z",
+  "updated": "2026-11-27T20:33:08.263Z",
   "market": {
     "ibov": {
-      "price": 177043.81,
-      "pct": 0.14,
-      "time": "2026-11-27T19:22:56.355Z",
+      "price": 176896.44,
+      "pct": 0.05,
+      "time": "2026-11-27T20:33:01.751Z",
       "history": [
         {
           "d": "2026-10-28",
@@ -88,7 +88,7 @@
         },
         {
           "d": "2026-11-27",
-          "c": 176975.6563
+          "c": 176820.375
         }
       ]
     },
@@ -145,28 +145,262 @@
   },
   "news": [
     {
-      "title": "Ministério multa BRB em R$ 14,6 mi por descumprir regras de oferta de crédito",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/ministerio-multa-brb-em-r-146-mi-por-descumprir-regras-de-oferta-de-credito.shtml",
-      "date": "2026-11-27T19:17:00.000Z",
-      "summary": "A Senacon (Secretaria Nacional do Consumidor), ligada ao Ministério da Justiça e Segurança Pública, determinou a aplicação de uma multa ao BRB (Banco de Brasília) no valor de R$ 14,66 milhões por violações ao código de defesa do consumidor, incluindo o descump",
+      "title": "De sex shop e loja octagenária, Black Friday lota comércios no centro de SP",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/de-sex-shop-e-loja-octagenaria-black-friday-lota-comercios-no-centro-de-sp.shtml",
+      "date": "2026-11-27T20:30:00.000Z",
+      "summary": "A Black Friday desta sexta-feira (27) movimentou o comércio de rua no centro de São Paulo e atraiu públicos variados mesmo em meio à desconfiança sobre os descontos. Leia mais (11/27/2026 - 17h30)",
       "source": "Folha",
       "cat": "economia",
       "type": "imprensa"
     },
     {
-      "title": "Moraes autoriza Mauro Cid a cumprir pena no RJ",
-      "link": "https://www.poder360.com.br/poder-justica/moraes-autoriza-mauro-cid-a-cumprir-pena-no-rj/",
-      "date": "2026-11-27T19:14:39.000Z",
-      "summary": "Ministro considerou que não há “qualquer indício de risco à execução da pena”; tenente-coronel foi condenado a 2 anos de prisão",
+      "title": "Projeto prevê proteção contra ofertas abusivas de crédito para idosos",
+      "link": "https://www.camara.leg.br/noticias/1311429-projeto-preve-protecao-contra-ofertas-abusivas-de-credito-para-idosos",
+      "date": "2026-11-27T20:25:00.000Z",
+      "summary": "O texto está em análise na Câmara dos Deputados",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Lula chama FHC de “morto-vivo” durante evento em hospital no Rio",
+      "link": "https://www.poder360.com.br/poder-governo/lula-chama-fhc-de-morto-vivo-durante-evento-em-hospital-no-rio/",
+      "date": "2026-11-27T20:22:12.000Z",
+      "summary": "Petista fez menção ao estado de saúde do ex-presidente, diagnosticado com Alzheimer em estágio avançado",
       "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
     },
     {
-      "title": "Lula chama FHC de 'morto-vivo' em evento no Rio",
+      "title": "Como empresas de IA da China contornam sanções para obter chips dos EUA",
+      "link": "https://www.dw.com/pt-br/como-empresas-de-ia-da-china-contornam-sanções-para-obter-chips-dos-eua/a-80073419?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-27T20:19:00.000Z",
+      "summary": "Chips de IA de alta tecnologia são difíceis de obter na China devido a restrições impostas pelos americanos. Pequim, no entanto, recorre a data centers no Sudeste Asiático, algo que Washington também tentam impedir.",
+      "source": "DW Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Mulheres cientistas recebem homenagem no Senado e pedem apoio à pesquisa",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/27/mulheres-cientistas-recebem-homenagem-no-senado-e-pedem-apoio-a-pesquisa",
+      "date": "2026-11-27T20:13:18.000Z",
+      "summary": "O Senado homenageou as mulheres cientistas brasileiras, na tarde desta sexta-feira (27), em uma sessão especial que reconheceu a contribuição delas para a produção de conhecimento, a inovação e o desenvolvimento do país. A sessão foi pedida e presidida pela se",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Fachin mantém prisão de Paulo Henrique Costa, ex-BRB",
+      "link": "https://www.poder360.com.br/poder-justica/fachin-mantem-prisao-de-paulo-henrique-costa-ex-brb/",
+      "date": "2026-11-27T20:12:13.000Z",
+      "summary": "Presidente do Supremo considerou que o ex-presidente do Banco de Brasília não atende aos requisitos para migrar para domiciliar",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Dólar fecha em queda de 4% aos R$ 5,515 após anúncio de Trabuco",
+      "link": "https://www.poder360.com.br/poder-economia/dolar-fecha-em-queda-de-4-aos-r-5515-apos-anuncio-de-trabuco/",
+      "date": "2026-11-27T20:12:05.000Z",
+      "summary": "A expectativa dos investidores é que a política fiscal do governo se torne mais crível com o novo ministro da Fazenda",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Trump diz que CEO da Nvidia fará “trabalho melhor” após retorno",
+      "link": "https://www.poder360.com.br/poder-internacional/trump-diz-que-ceo-da-nvidia-fara-trabalho-melhor-apos-retorno/",
+      "date": "2026-11-27T20:09:38.000Z",
+      "summary": "Presidente dos EUA elogiou Jensen Huang e afirmou que volta do executivo ao comando da empresa é positiva",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lula define tripé do quarto mandato e, depois de Trabuco, anunciará Camilo e Alckmin",
+      "link": "https://www.estadao.com.br/politica/lula-define-tripe-do-quarto-mandato-e-depois-de-trabuco-anunciara-camilo-e-alckmin/",
+      "date": "2026-11-27T20:07:34.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Bolsonaro melhora e tem 'funcionamento intestinal espontâneo', diz DF Star",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/11/bolsonaro-melhora-e-tem-funcionamento-intestinal-espontaneo-diz-df-star.shtml",
+      "date": "2026-11-27T20:05:00.000Z",
+      "summary": "Internado em Brasília, o ex-presidente Jair Bolsonaro (PL), 71, teve mais um dia de melhora e voltou a ter funcionamento intestinal espontâneo, segundo boletim médico divulgado na tarde desta sexta-feira (27) pelo hospital DF Star. Não há, no entanto, previsão",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "O que significa ser pobre e como a pobreza é medida?",
+      "link": "https://www.dw.com/pt-br/o-que-significa-ser-pobre-e-como-a-pobreza-é-medida/a-80076347?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-27T20:01:00.000Z",
+      "summary": "O presidente Donald Trump afirma que a pobreza nos EUA vive uma baixa recorde, o que tem sido questionado. A DW analisa como governos e organizações globais monitoram a pobreza e suas diferentes metodologias.",
+      "source": "DW Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Papel higiênico e videogames são destaque em vendas na Black Friday",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/papel-higienico-e-videogames-sao-destaque-em-vendas-na-black-friday.shtml",
+      "date": "2026-11-27T19:56:00.000Z",
+      "summary": "As primeiras 12 horas desta sexta-feira (27) de promoções parecem já cravar um mote: a Black Friday de 2026 está sendo a do papel higiênico e a do videogame. Leia mais (11/27/2026 - 16h56)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Ao falar para idosos, Lula cita estado de saúde de FHC: 'Está com demência, um morto-vivo'",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/27/ao-falar-para-idosos-lula-cita-estado-de-saude-de-fhc-esta-com-demencia-um-morto-vivo.ghtml",
+      "date": "2026-11-27T19:55:03.000Z",
+      "summary": "O presidente Luiz Inácio Lula da Silva (PT) afirmou nesta sexta-feira (27) que visitou o ex-presidente Fernando Henrique Cardoso recentemente e que o ex-presidente está \"com demência, um morto-vivo\". FHC foi diagnosticado com Alzheimer em fase avançada. \"Eu fu",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "#NÃOÉBEMASSIM: STF não proibiu pacientes de irem à Justiça por remédios fora da lista do SUS, mas impôs condições para liberação",
+      "link": "https://g1.globo.com/fato-ou-fake/noticia/2026/11/27/naoebemassim-stf-nao-proibiu-pacientes-de-irem-a-justica-por-remedios-fora-da-lista-do-sus-mas-impos-condicoes-para-liberacao.ghtml",
+      "date": "2026-11-27T19:48:02.000Z",
+      "summary": "Decisão do STF não proibe obtenção de medicamentos, mas faz restrições g1 Circulam nas redes sociais publicações alegando que o Supremo Tribunal Federal (STF) proibiu pacientes de recorrerem à Justiça para conseguir medicamentos fora da lista do Sistema Único ",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "OpenAI processa Apple e acusa empresa de roubar segredos comerciais e bloquear fornecedores",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/27/open-ai-apple-ia-segredo-processo.ghtml",
+      "date": "2026-11-27T19:47:43.000Z",
+      "summary": "OpenAI. Reprodução/Fantástico A OpenAI processou a Apple nesta sexta-feira (27), acusando a fabricante do iPhone de roubar segredos comerciais e dificultar seu acesso a fornecedores de equipamentos. A ação ocorre depois que a Apple também levou a desenvolvedor",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lula decide manter Bruno Moretti no Planejamento, após anunciar Trabuco na Fazenda",
+      "link": "https://www.estadao.com.br/economia/lula-decide-manter-bruno-moretti-no-planejamento-apos-anunciar-trabuco-na-fazenda/",
+      "date": "2026-11-27T19:47:15.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Netanyahu não será convidado para posse de Lula, mas Planalto tem plano para evitar crise com Israel",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/netanyahu-nao-sera-convidado-para-posse-de-lula-mas-planalto-tem-plano-para-evitar-crise-com-israel/",
+      "date": "2026-11-27T19:46:06.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Estatuto dos Cães e Gatos no Plenário",
+      "link": "https://www12.senado.leg.br/noticias/infomaterias/2026/11/estatuto-dos-caes-e-gatos-no-plenario",
+      "date": "2026-11-27T19:45:17.000Z",
+      "summary": "",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Companhia aérea norueguesa vai à falência em meio à alta de combustíveis",
+      "link": "https://www.dw.com/pt-br/companhia-aérea-norueguesa-vai-à-falência-em-meio-à-alta-de-combustíveis/a-80080661?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-27T19:42:00.000Z",
+      "summary": "Norse Atlantic é a última baixa entre companhias aéreas afetadas pela alta de preços causada pela guerra no Irã, que já tinha afetado duramente a Spirit Airlines e a airBaltic.",
+      "source": "DW Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Próxima aposta da Kalshi são microsseguros para pequenas empresas",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/proxima-aposta-da-kalshi-sao-microsseguros-para-pequenas-empresas.shtml",
+      "date": "2026-11-27T19:39:00.000Z",
+      "summary": "Izzy Sarrafzadeh está se preparando para pagar alguns milhares de dólares para se proteger do risco de novas tarifas sobre importações indianas, que poderiam custar mais de US$ 60 mil à sua startup, sediada em Nova York. Leia mais (11/27/2026 - 16h39)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Fux prorroga por 15 dias contrato do BRB com tribunal da Bahia e evita nova crise no banco",
+      "link": "https://www.estadao.com.br/economia/fux-prorroga-por-15-dias-contrato-do-brb-com-tribunal-da-bahia-e-evita-nova-crise-no-banco/",
+      "date": "2026-11-27T19:37:32.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Pesquisa do Senado sobre violência contra a mulher ganha prêmio de design",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/27/pesquisa-do-senado-sobre-violencia-contra-a-mulher-ganha-premio-de-design",
+      "date": "2026-11-27T19:36:11.000Z",
+      "summary": "A 11ª edição da Pesquisa Nacional de Violência contra a Mulher, realizada pelo Instituto DataSenado e pelo Observatório da Mulher contra a Violência (também vinculado ao Senado), foi premiada pelo Design for a Better World Award na categoria design gráfico. A ",
+      "source": "Agência Senado",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Seminário debaterá atuação da Comissão da Amazônia em defesa dos povos originários e tradicionais",
+      "link": "https://www.camara.leg.br/noticias/1323195-seminario-debatera-atuacao-da-comissao-da-amazonia-em-defesa-dos-povos-originarios-e-tradicionais",
+      "date": "2026-11-27T19:36:00.000Z",
+      "summary": "Evento vai apresentar balanço de atividades da comissão neste ano",
+      "source": "Agência Câmara",
+      "cat": "politica",
+      "type": "oficial"
+    },
+    {
+      "title": "Binance faz parceria com a IWF para identificar pagamentos por material de abuso infantil",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/binance-faz-parceria-com-a-iwf-para-identificar-pagamentos-por-material-de-abuso-infantil.shtml",
+      "date": "2026-11-27T19:36:00.000Z",
+      "summary": "A Binance, maior plataforma de negociação de criptomoedas do mundo, firmou uma parceria com a IWF (Internet Watch Foundation), organização britânica de combate à exploração sexual infantil na internet, para ajudar a identificar pessoas que usam a plataforma pa",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lula expõe condição de saúde de Fernando Henrique em discurso no RJ: ‘Essa pessoa não vive’",
+      "link": "https://www.estadao.com.br/politica/lula-expoe-condicao-de-saude-de-fernando-henrique-em-discurso-no-rj-essa-pessoa-nao-vive/",
+      "date": "2026-11-27T19:33:21.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Com gasto militar recorde, Alemanha aprova Orçamento para 2027",
+      "link": "https://www.dw.com/pt-br/com-gasto-militar-recorde-alemanha-aprova-orçamento-para-2027/a-80081771?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-27T19:33:00.000Z",
+      "summary": "Governo Merz amplia investimentos em defesa e infraestrutura, enquanto congela benefícios sociais e reduz repasses à previdência para financiar novo pacote de gastos. Endividamente será segundo maior desde o pós-guerra.",
+      "source": "DW Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Dino determina suspensão imediata das emendas individuais de Flávio Bolsonaro",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/dino-determina-suspensao-imediata-das-emendas-individuais-de-flavio-bolsonaro.shtml",
+      "date": "2026-11-27T19:30:00.000Z",
+      "summary": "O ministro Flávio Dino, do STF (Supremo Tribunal Federal), determinou nesta sexta-feira (27) a suspensão imediata das emendas individuais de autoria do senador Flávio Bolsonaro (PL-RJ) ao PLOA (Projeto de Lei Orçamentária Anual) de 2027. Leia mais (11/27/2026 ",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Dino suspende tramitação de emendas de Flávio Bolsonaro para 2027 e pede ao Senado explicações sobre atuação do senador",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/27/dino-suspende-tramitacao-de-emendas-de-flavio-bolsonaro-para-2027-ministro-pediu-que-senado-explique-atuacao-do-senador-de-fora-do-pais.ghtml",
+      "date": "2026-11-27T19:27:37.000Z",
+      "summary": "O ministro Flávio Dino, do Superior Tribunal Federal (STF), determinou a suspensão da tramitação de emendas do senador Flávio Bolsonaro (PL-RJ) para o orçamento de 2027. O ministro também pediu ao Senado Federal para esclarecer as condições em que o senador, d",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lula chama FHC de 'morto-vivo' durante evento em hospital que atende a idosos",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/lula-chama-fhc-de-morto-vivo-em-evento-no-rio.shtml",
       "date": "2026-11-27T19:14:00.000Z",
-      "summary": "O presidente Lula afirmou nesta sexta-feira (27) que o ex-presidente Fernando Henrique Cardoso \"é um morto-vivo\". O ex-mandatário tem doença de Alzheimer em estágio avançado e está sob cuidados permanentes de cuidadores. Leia mais (11/27/2026 - 16h14)",
+      "summary": "O presidente Lula afirmou nesta sexta-feira (27) que o ex-presidente Fernando Henrique Cardoso \"é um morto-vivo\". O ex-mandatário tem doença de Alzheimer em estágio avançado e está sob cuidados permanentes. Leia mais (11/27/2026 - 16h14)",
       "source": "Folha",
       "cat": "politica",
       "type": "imprensa"
@@ -199,7 +433,7 @@
       "type": "oficial"
     },
     {
-      "title": "Durigan deixa agenda fiscal para 2027 com promessa de superávit e revisão de gastos",
+      "title": "Do fim dos supersalários à previdência de militares: o que Durigan pensou para 2027 e agora deixa para Trabuco",
       "link": "https://g1.globo.com/economia/noticia/2026/11/27/durigan-deixa-agenda-fiscal-para-2027.ghtml",
       "date": "2026-11-27T18:50:34.000Z",
       "summary": "O ministro da Fazenda, Dario Durigan, nega que razão para a alta de recuperações judiciais seja somente as taxas de juros EPA-Shutterstock Luiz Carlos Trabuco, presidente do conselho do Bradesco, aceitou o convite do presidente da República, Luiz Inácio Lula d",
@@ -226,66 +460,12 @@
       "type": "oficial"
     },
     {
-      "title": "Moraes autoriza a transferência do cumprimento de pena de Mauro Cid para Niterói, no RJ",
-      "link": "https://www.estadao.com.br/politica/moraes-autoriza-a-transferencia-do-cumprimento-de-pena-de-mauro-cid-para-niteroi-no-rj-nprp/",
-      "date": "2026-11-27T18:43:48.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Comissão aprova gratuidade de até 30 minutos para veículos em área de embarque e desembarque dos aeroportos",
-      "link": "https://www.camara.leg.br/noticias/1323760-comissao-aprova-gratuidade-de-ate-30-minutos-para-veiculos-em-area-de-embarque-e-desembarque-dos-aeroportos",
-      "date": "2026-11-27T18:40:00.000Z",
-      "summary": "Proposta segue em análise na Câmara dos Deputados",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Lula acerta permanência de Bruno Moretti no Ministério do Planejamento, dizem aliados",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/lula-acerta-permanencia-de-bruno-moretti-no-ministerio-do-planejamento-dizem-aliados.shtml",
-      "date": "2026-11-27T18:40:00.000Z",
-      "summary": "O presidente Luiz Inácio Lula da Silva (PT) acertou a permanência de Bruno Moretti no comando do Ministério do Planejamento em seu quarto mandato, segundo aliados do petista. Leia mais (11/27/2026 - 15h40)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Comissão debate riscos de aposentados e pensionistas em face da portabilidade digital",
-      "link": "https://www.camara.leg.br/noticias/1323174-comissao-debate-riscos-de-aposentados-e-pensionistas-em-face-da-portabilidade-digital",
-      "date": "2026-11-27T18:39:00.000Z",
-      "summary": "",
-      "source": "Agência Câmara",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Brasil reelege Lula, mas 60% querem mudanças no governo",
-      "link": "https://www.poder360.com.br/poder-governo/brasil-reelege-lula-mas-60-querem-mudancas-no-governo/",
-      "date": "2026-11-27T18:19:40.000Z",
-      "summary": "Só 11% defendem manter as políticas atuais; mesmo assim, 91% torcem para que o 4º mandato dê certo",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Maioria dos brasileiros quer que governo Lula mude políticas e projetos, diz pesquisa",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/maioria-dos-brasileiros-quer-que-governo-lula-mude-politicas-e-projetos-diz-pesquisa.shtml",
       "date": "2026-11-27T18:18:00.000Z",
       "summary": "Nove em cada dez brasileiros (91%) torcem para que o próximo mandato do presidente Lula (PT) dê certo, incluindo 85% dos eleitores que votaram em Flávio Bolsonaro (PL) no segundo turno das últimas eleições, segundo pesquisa Nexus divulgada nesta sexta-feira (2",
       "source": "Folha",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Famílias chinesas pagam dívidas e reduzem gastos com consumo",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/familias-chinesas-pagam-dividas-e-reduzem-gastos-com-consumo.shtml",
-      "date": "2026-11-27T18:18:00.000Z",
-      "summary": "As famílias chinesas estão reduzindo suas dívidas no ritmo mais acelerado em décadas, reforçando as preocupações com as pressões deflacionárias e a confiança dos consumidores na segunda maior economia do mundo. Leia mais (11/27/2026 - 15h18)",
-      "source": "Folha",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -298,74 +478,11 @@
       "type": "oficial"
     },
     {
-      "title": "‘Não quero receber no meu nome’: ex-sócio da Fictor pediu conta de laranja a suposto operador do CV",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/nao-quero-receber-no-meu-nome-ex-socio-da-fictor-pediu-conta-de-laranja-a-suposto-operador-do-cv/",
-      "date": "2026-11-27T17:59:10.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Integrantes do governo dizem que Lula deve confirmar Alckmin na Segurança",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/integrantes-do-governo-dizem-que-lula-deve-confirmar-alckmin-na-seguranca.shtml",
-      "date": "2026-11-27T17:59:00.000Z",
-      "summary": "Integrantes do Palácio do Planalto dizem que o vice-presidente, Geraldo Alckmin, deve ser confirmado nos próximos dias como ministro da Segurança Pública, uma das pastas que serão criadas por Luiz Inácio Lula da Silva em seu quarto mandato. Leia mais (11/27/20",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Meirelles defende que Trabuco anuncie medidas de ajuste fiscal logo no início da gestão",
       "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/11/27/meirelles-defende-que-trabuco-anuncie-ajuste-fiscal-no-inicio-da-gestao-e-enfrente-eventual-resistencia-de-aliados.ghtml",
       "date": "2026-11-27T17:55:56.000Z",
       "summary": "Meirelles fala sobre resistência dentro do governo: Não se deixar abalar O ex-ministro da Fazenda Henrique Meirelles defendeu, em entrevista ao Estúdio i, da GloboNews, que o futuro ministro da pasta, Luiz Carlos Trabuco, anuncie as principais medidas de ajust",
       "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "É preciso “deixar claro onde quer chegar”, diz Meirelles sobre Trabuco",
-      "link": "https://www.poder360.com.br/poder-economia/e-preciso-deixar-claro-onde-quer-chegar-diz-meirelles-sobre-trabuco/",
-      "date": "2026-11-27T17:50:23.000Z",
-      "summary": "Ex-presidente do BC e ex-ministro da Fazenda, Meirelles afirmou que é necessário que o banqueiro mantenha o “diálogo aberto\"",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Sob Lula, Exército tentou reverter tombamento de antigo DOI-Codi no RJ",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/sob-lula-exercito-tentou-reverter-tombamento-de-antigo-doi-codi-no-rj.shtml",
-      "date": "2026-11-27T17:47:00.000Z",
-      "summary": "O processo de tombamento da antiga sede do DOI-Codi no Rio de Janeiro, concluído na quinta-feira (26), sofreu resistência do Exército, atual responsável pelo imóvel, até os últimos dias de tramitação no Iphan (Instituto do Patrimônio Histórico e Artístico Naci",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Argentina aprova lei contra bets, que proíbe patrocínio no esporte",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/27/argentina-aprova-lei-contra-bets-que-proibe-patrocinio-no-esporte.ghtml",
-      "date": "2026-11-27T17:46:09.000Z",
-      "summary": "Homem segura bandeira da Argentina diante do Congresso do país em Buenos Aires em 21 de dezembro de 2023 Agustin Marcarian/REUTERS O Congresso da Argentina aprovou na noite da última quinta-feira (26) uma lei para combater a ludopatia (vício em jogos de azar),",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "B3 e 6 bancos anunciam criação de stablecoin em reais",
-      "link": "https://www.poder360.com.br/poder-economia/b3-e-6-bancos-anunciam-criacao-de-stablecoin-em-reais/",
-      "date": "2026-11-27T17:42:16.000Z",
-      "summary": "Batizada de Open BRL, moeda digital deve começar a operar no 1º trimestre de 2027",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Fux prorroga contrato do BRB com TJ-BA por 15 dias e abre prazo para manifestação da Caixa",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/fux-prorroga-contrato-do-brb-com-tj-ba-por-15-dias-e-abre-prazo-para-manifestacao-da-caixa.shtml",
-      "date": "2026-11-27T17:41:00.000Z",
-      "summary": "O ministro Luiz Fux, do STF (Supremo Tribunal Federal), prorrogou o contrato do BRB (Banco de Brasília) com o TJ-BA (Tribunal de Justiça da Bahia) por mais 15 dias. Em decisão anterior, o magistrado havia determinado o encerramento do acordo entre o banco e o ",
-      "source": "Folha",
       "cat": "economia",
       "type": "imprensa"
     },
@@ -376,42 +493,6 @@
       "summary": "Após 57 anos no Bradesco, Trabuco deixa o setor privado para assumir comando da economia brasileira em meio à pressão fiscal. De origem humilde e formado em filosofia, banqueiro atribuiu sua ascensão social à educação.",
       "source": "DW Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Manutenção de Moretti no Ministério do Planejamento é vista como praticamente certa, em um aceno de Lula ao PT",
-      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/27/manutencao-de-moretti-no-ministerio-do-planejamento-e-vista-como-praticamente-certa-em-um-aceno-de-lula-ao-pt.ghtml",
-      "date": "2026-11-27T17:30:48.000Z",
-      "summary": "O ministro do Planegerjamento, Bruno Moretti, conquistou o presidente Lula. O petista já gostava de Moretti quando o técnico estava na Casa Civil. Gostou da gestão dele quando assumiu o Planejamento após a saída de Simone Tebet (PSB). Segundo aliados, com isso",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Moraes autoriza ministro do TCU a visitar Jair Bolsonaro no hospital",
-      "link": "https://www.estadao.com.br/politica/moraes-autoriza-ministro-do-tcu-a-visitar-jair-bolsonaro-no-hospital-nprp/",
-      "date": "2026-11-27T17:25:26.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Aprovada não é cumprida: por que leis não saem do papel?",
-      "link": "https://www12.senado.leg.br/noticias/infomaterias/2026/10/aprovada-nao-e-cumprida-por-que-leis-nao-saem-do-papel",
-      "date": "2026-11-27T16:53:50.000Z",
-      "summary": "",
-      "source": "Agência Senado",
-      "cat": "politica",
-      "type": "oficial"
-    },
-    {
-      "title": "Ministério da Justiça tirou do ar 86 mil sites e perfis com publicidade ilegal de bets desde proibição",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/27/ministerio-da-justica-tirou-do-ar-86-mil-sites-e-perfis-com-publicidade-ilegal-de-bets-desde-proibicao.ghtml",
-      "date": "2026-11-27T16:51:19.000Z",
-      "summary": "O Ministério da Justiça retirou do ar ou determinou a remoção de 86.176 sites, páginas e perfis acusados de divulgação ilegal de plataformas de apostas online desde a proibição das bets no Brasil, há quase dois meses. Segundo o balanço do governo federal, as a",
-      "source": "g1",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -433,24 +514,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Lula admite ajustes, mas nega corte de benefícios do ‘povo pobre’ em 1ª fala após escolha de Trabuco",
-      "link": "https://www.estadao.com.br/economia/lula-admite-ajustes-nega-corte-beneficios-primeira-fala-apos-escolha-trabuco/",
-      "date": "2026-11-27T16:10:28.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Veja em 5 gráficos os desafios de Trabuco no comando do Ministério da Fazenda",
-      "link": "https://www.estadao.com.br/economia/desafios-trabuco-fazenda-graficos/",
-      "date": "2026-11-27T15:12:33.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Queda de aliado expõe disputa pela sucessão de Xi Jinping na China",
       "link": "https://www.dw.com/pt-br/queda-de-aliado-expõe-disputa-pela-sucessão-de-xi-jinping-na-china/a-80072905?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-27T14:27:00.000Z",
@@ -466,6 +529,15 @@
       "summary": "Escolha de presidente do Conselho de Administração do Bradesco para a pasta demonstra busca do governo Lula por diálogo com o mercado, avaliam entrevistados.",
       "source": "BBC News Brasil",
       "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Oposição a Lula virou suco e o cargo de líder do grupo está vago; quem se habilita?",
+      "link": "https://www.estadao.com.br/politica/francisco-leali/oposicao-a-lula-virou-suco-e-o-cargo-de-lider-do-grupo-esta-vago-quem-se-habilita/",
+      "date": "2026-11-27T12:30:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -523,56 +595,11 @@
       "type": "imprensa"
     },
     {
-      "title": "Brasileiros enganados vão para o front com Exército russo, diz jornal",
-      "link": "https://www.dw.com/pt-br/brasileiros-enganados-vão-para-o-front-com-exército-russo-diz-jornal/a-80069430?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-26T21:07:00.000Z",
-      "summary": "Recrutadores fazem falsas promessas de trabalho e roubam salários dos recrutas, segundo reportagem do jornal \"New York Times\". Baixas militares têm forçado dois lados da guerra na Ucrânia a buscarem reforço estrangeiro.",
-      "source": "DW Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Custo de vida e migração dominam campanha eleitoral na Espanha",
-      "link": "https://www.dw.com/pt-br/custo-de-vida-e-migração-dominam-campanha-eleitoral-na-espanha/a-80052698?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-26T20:17:00.000Z",
-      "summary": "Descontentamento com o custo de vida, em especial da moradia, contrasta com bons resultados da economia espanhola e deve ser fator decisivo na eleição antecipada convocada pelo premiê Pedro Sánchez.",
-      "source": "DW Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Bastidores: ‘Empoderado’, Lula prepara xeque-mate em Alcolumbre com indicação de mulher para o STF",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/bastidores-empoderado-lula-prepara-xeque-mate-em-alcolumbre-com-indicacao-de-mulher-para-o-stf/",
-      "date": "2026-11-26T19:25:03.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "'Dracarys': por que as explosões do Ibama são contestadas na Justiça - depois de terem virado até meme",
       "link": "https://www.bbc.com/portuguese/articles/c34gn28r7j4ro?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-26T18:26:09.000Z",
       "summary": "Instituto afirma que a destruição é uma medida excepcional, prevista na legislação e adotada quando não há como retirar os equipamentos do local. Senador e Defensoria Pública no Amazonas contestam ações.",
       "source": "BBC News Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Após 20 anos, Grécia vai deixar de ser país mais endividado da zona do euro",
-      "link": "https://www.dw.com/pt-br/após-20-anos-grécia-vai-deixar-de-ser-país-mais-endividado-da-zona-do-euro/a-80062995?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-26T15:53:00.000Z",
-      "summary": "Embalada pelo crescimento econômico, Grécia reduz drasticamente sua dívida pública e quer até mesmo acelerar pagamentos. Já a Itália deverá retomar posto de país mais endividado que ocupava em 2006.",
-      "source": "DW Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Fuga, exílio ou exfiltração: o que aconteceu com Flávio Bolsonaro?",
-      "link": "https://www.dw.com/pt-br/fuga-exílio-ou-exfiltração-o-que-aconteceu-com-flávio-bolsonaro/a-80034386?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-26T14:37:00.000Z",
-      "summary": "Um mês após a saída do senador do Brasil, circunstâncias da viagem aos Estados Unidos permanecem obscuras. Especialistas analisam a fuga de Flávio e discutem os limites da narrativa de perseguição política.",
-      "source": "DW Brasil",
       "cat": "internacional",
       "type": "imprensa"
     },
