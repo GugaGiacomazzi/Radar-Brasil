@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-27T04:46:25.450Z",
+  "updated": "2026-11-27T05:59:31.042Z",
   "market": {
     "ibov": {
       "price": 176799.84,
       "pct": 6.07,
-      "time": "2026-11-27T04:46:20.015Z",
+      "time": "2026-11-27T05:59:26.215Z",
       "history": [
         {
           "d": "2026-10-28",
@@ -141,6 +141,15 @@
   },
   "news": [
     {
+      "title": "No dia da Black Friday, 58% dos itens pesquisados têm descontos; 33% estão mais caros; veja lista",
+      "link": "https://g1.globo.com/guia/guia-de-compras/no-dia-da-black-friday-58percent-dos-itens-pesquisados-tem-descontos-33percent-estao-mais-caros.ghtml",
+      "date": "2026-11-27T04:46:06.000Z",
+      "summary": "É Black Friday ou Black Fraude? Para checar se os preços da Black Friday, nesta sexta (27), têm descontos de verdade, o Guia de Compras pesquisou na última semana como estão os preços de 74 produtos. No dia da Black Friday, 43 itens ficaram com preços abaixo d",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "Fundo de ações brasileiras sobe mais de 9% nos EUA após confirmação de Trabuco na Fazenda",
       "link": "https://g1.globo.com/economia/noticia/2026/11/27/ewz-sobe-apos-confirmacao-de-trabuco-na-fazenda.ghtml",
       "date": "2026-11-27T04:19:41.000Z",
@@ -165,6 +174,15 @@
       "summary": "O Bradesco BBI elevou para overweight (equivalente a compra) sua recomendação para ações de companhias brasileiras, após a oficialização da escolha de Luiz Carlos Trabuco como ministro da Fazenda do próximo governo de Luiz Inácio Lula da Silva (PT). Leia mais ",
       "source": "Folha",
       "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Luiz Carlos Trabuco no Ministério da Fazenda - O Assunto #1854",
+      "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/11/27/luiz-carlos-trabuco-no-ministerio-da-fazenda-o-assunto-1854.ghtml",
+      "date": "2026-11-27T03:30:02.000Z",
+      "summary": "No início da noite desta quinta-feira (26), Luiz Carlos Trabuco disse sim ao presidente Lula e será o ministro da Fazenda no quarto mandato do petista. Presidente do Conselho de Administração do Bradesco, Trabuco é visto pelo mercado financeiro como um nome ca",
+      "source": "g1",
+      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -217,24 +235,6 @@
       "link": "https://g1.globo.com/politica/noticia/2026/11/27/apos-eua-proporem-taxar-avioes-brasileiros-mauro-vieira-oferece-apoio-a-embraer-para-buscar-novos-mercados.ghtml",
       "date": "2026-11-27T03:00:01.000Z",
       "summary": "O ministro das Relações Exteriores, Mauro Vieira, se reuniu com o presidente da Embraer, Francisco Gomes Neto, nesta quinta-feira (26) e afirmou a ele que a diplomacia brasileira poderá buscar novos mercados para as exportações do setor. A promessa foi confirm",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Trabuco terá ajuste fiscal, juros e resistência no PT entre desafios à frente da Fazenda",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/27/trabuco-tera-ajuste-fiscal-juros-e-resistencia-no-pt-entre-desafios-a-frente-da-fazenda.ghtml",
-      "date": "2026-11-27T03:00:01.000Z",
-      "summary": "Quem é Luiz Trabuco, escolhido como ministro da Fazenda do governo Lula 4 Escolhido pelo presidente Luiz Inácio Lula da Silva (PT) para comandar o Ministério da Fazenda, Luiz Carlos Trabuco assumirá o principal ministério da Esplanada diante de uma série de de",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Quem é Bruno Moretti, ministro de confiança de Lula que ajudou a formular o ajuste fiscal e é cotado para seguir no Planejamento",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/27/quem-e-bruno-moretti.ghtml",
-      "date": "2026-11-27T03:00:00.000Z",
-      "summary": "O ministro do Planejamento e Orçamento, Bruno Moretti. Fábio Rodrigues Pozzebom/Agência Brasil Com a confirmação de Luiz Carlos Trabuco como ministro da Fazenda do novo governo Lula, ganha força a permanência de Bruno Moretti à frente do Ministério do Planejam",
       "source": "g1",
       "cat": "politica",
       "type": "imprensa"
