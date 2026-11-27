@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-27T07:19:40.168Z",
+  "updated": "2026-11-27T08:42:22.706Z",
   "market": {
     "ibov": {
       "price": 176799.84,
       "pct": 6.07,
-      "time": "2026-11-27T07:19:33.890Z",
+      "time": "2026-11-27T08:42:18.857Z",
       "history": [
         {
           "d": "2026-10-28",
@@ -141,6 +141,24 @@
   },
   "news": [
     {
+      "title": "Podcast explica escolha de Lula por Trabuco e o que esperar da gestão dele na Fazenda",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/podcasts/2026/11/podcast-explica-escolha-de-lula-por-trabuco-e-o-que-esperar-da-gestao-dele-na-fazenda.shtml",
+      "date": "2026-11-27T08:00:00.000Z",
+      "summary": "O presidente do Conselho de Administração do Bradesco, Luiz Carlos Trabuco, aceitou na noite desta quinta-feira (26) o convite do presidente Lula (PT) para assumir o Ministério da Fazenda no próximo mandato. Ele é o primeiro nome anunciado para o governo Lula ",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Podcast explica escolha de Lula por Trabuco e o que esperar da gestão dele na Fazenda",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/podcasts/2026/11/podcast-explica-escolha-de-lula-por-trabuco-e-o-que-esperar-da-gestao-dele-na-fazenda.shtml",
+      "date": "2026-11-27T08:00:00.000Z",
+      "summary": "O presidente do Conselho de Administração do Bradesco, Luiz Carlos Trabuco, aceitou na noite desta quinta-feira (26) o convite do presidente Lula (PT) para assumir o Ministério da Fazenda no próximo mandato. Ele é o primeiro nome anunciado para o governo Lula ",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "Governo Tarcísio corre para pagar emendas após insatisfação da base na Assembleia",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/governo-tarcisio-corre-para-pagar-emendas-apos-insatisfacao-da-base-na-assembleia.shtml",
       "date": "2026-11-27T07:06:00.000Z",
@@ -208,15 +226,6 @@
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/fundos-de-participacoes-desafiam-ma-fase-e-buscam-r-20-bi-para-investir-em-empresas-brasileiras.shtml",
       "date": "2026-11-27T07:00:00.000Z",
       "summary": "Os fundos que compram participações em empresas tentam surfar uma maré baixa para negócios e estão em busca de recursos para investimentos no Brasil e América Latina. Somados, eles podem levantar até R$ 20 bilhões em capital, segundo fontes do setor. Leia mais",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Data center de R$ 3 bi em Atibaia mobiliza órgãos federais, enquanto prefeitura nega ter recebido projeto",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/data-center-de-r-3-bi-em-atibaia-mobiliza-orgaos-federais-enquanto-prefeitura-nega-ter-recebido-projeto.shtml",
-      "date": "2026-11-27T07:00:00.000Z",
-      "summary": "Alvo de uma mobilização de moradores de Atibaia (SP), o projeto de instalação de um data center de R$ 3 bilhões na cidade já conta com um contrato de conexão à rede elétrica e com aval do governo federal para incentivo fiscal às obras que permitirão seu abaste",
       "source": "Folha",
       "cat": "economia",
       "type": "imprensa"
@@ -326,15 +335,6 @@
       "date": "2026-11-27T02:40:19.000Z",
       "summary": "",
       "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Lula escolheu Trabuco porque não tem ideia do que fazer com a economia, diz Flávio Bolsonaro",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/lula-escolheu-trabuco-porque-nao-tem-ideia-do-que-fazer-com-a-economia-diz-flavio-bolsonaro.shtml",
-      "date": "2026-11-27T02:37:00.000Z",
-      "summary": "O senador Flávio Bolsonaro (PL) afirmou nesta quinta-feira (26) que a escolha de Luiz Carlos Trabuco, do Bradesco, para o Ministério da Fazenda mostra que o presidente Lula (PT) não sabe como conduzir a economia. A declaração foi dada em uma live transmitida d",
-      "source": "Folha",
       "cat": "politica",
       "type": "imprensa"
     },
