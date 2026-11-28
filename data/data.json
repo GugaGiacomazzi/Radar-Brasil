@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-28T01:57:46.158Z",
+  "updated": "2026-11-28T02:52:36.768Z",
   "market": {
     "ibov": {
       "price": 176573.34,
       "pct": -0.13,
-      "time": "2026-11-28T01:57:41.961Z",
+      "time": "2026-11-28T02:52:31.660Z",
       "history": [
         {
           "d": "2026-10-29",
@@ -141,6 +141,78 @@
   },
   "news": [
     {
+      "title": "Lula acumula atritos na base um mês após virada histórica, mas mantém voto de confiança",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/lula-acumula-atritos-na-base-um-mes-apos-virada-historica-mas-mantem-voto-de-confianca.shtml",
+      "date": "2026-11-28T02:00:00.000Z",
+      "summary": "Após uma virada histórica que empolgou a esquerda na eleição, o presidente Lula (PT) acumulou ao longo de um mês atritos em sua base aliada, que se dividiu entre fornecer um voto de confiança ao petista pelas medidas e nomeações de seu próximo governo e as crí",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Kassio atendeu a 68% dos pedidos de Flávio no TSE, e Estela Aranha, a 67% dos de Lula",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/kassio-atendeu-a-68-dos-pedidos-de-flavio-no-tse-e-estela-aranha-a-67-dos-de-lula.shtml",
+      "date": "2026-11-28T02:00:00.000Z",
+      "summary": "O presidente do TSE (Tribunal Superior Eleitoral), Kassio Nunes Marques, atendeu a 68% dos pedidos da campanha de Flávio Bolsonaro (PL) e a 25% dos da campanha de Lula (PT) nas representações que decidiu na disputa presidencial. Leia mais (11/27/2026 - 23h00)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Flávio Bolsonaro tenta ditar ritmo da direita 1 mês após fuga aos EUA, mas vê liderança abalada",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/flavio-bolsonaro-tenta-ditar-ritmo-da-direita-1-mes-apos-fuga-aos-eua-mas-ve-lideranca-abalada.shtml",
+      "date": "2026-11-28T02:00:00.000Z",
+      "summary": "O senador Flávio Bolsonaro (PL-RJ) completa neste sábado (28) um mês longe do Brasil. Nesse período nos Estados Unidos, o candidato derrotado à Presidência segue tentando ditar o ritmo da direita, mas aliados reconhecem que a sua influência sobre a oposição di",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Elogio de Haddad a Trabuco ecoa mensagem de banqueiro para petista em 2022",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/elogio-de-haddad-a-trabuco-ecoa-mensagem-de-banqueiro-para-petista-em-2022.shtml",
+      "date": "2026-11-28T02:00:00.000Z",
+      "summary": "A mensagem de Fernando Haddad (PT) parabenizando o futuro titular da Fazenda, Luiz Carlos Trabuco, se assemelha à que foi divulgada pelo banqueiro felicitando o petista quando ele foi anunciado para o mesmo cargo, há quatro anos. Leia mais (11/27/2026 - 23h00)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Iguatemi, 1º shopping do Brasil, chega aos 60 visto como exemplo em operação de marcas de luxo",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/iguatemi-1o-shopping-do-brasil-chega-aos-60-visto-como-exemplo-em-operacao-de-marcas-de-luxo.shtml",
+      "date": "2026-11-28T02:00:00.000Z",
+      "summary": "Aberto ao público em 28 de novembro de 1966, o Shopping Iguatemi acabou se popularizando como um símbolo do desenvolvimento urbano e imobiliário em São Paulo. O empreendimento nasceu numa região formada por chácaras e ruas estreitas, que floresceu a partir do ",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "B3 quer usar criptoativo atrelado ao real em operações com ações; entenda",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/b3-quer-usar-criptoativo-atrelado-ao-real-em-operacoes-com-acoes-entenda.shtml",
+      "date": "2026-11-28T02:00:00.000Z",
+      "summary": "A B3 anunciou nesta sexta-feira (27), em parceria com Bradesco, BTG Pactual, Itaú Unibanco, Safra, Santander e XP, o desenvolvimento de um criptoativo atrelado ao real. Leia mais (11/27/2026 - 23h00)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "'Desafio do setor não é falta de demanda, é baixar custo da moradia', diz Eduardo Fischer, CEO da MRV",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/desafio-do-setor-nao-e-falta-de-demanda-e-baixar-custo-da-moradia-diz-eduardo-fischer-ceo-da-mrv.shtml",
+      "date": "2026-11-28T02:00:00.000Z",
+      "summary": "Depois de experimentar novos negócios, da locação residencial no Brasil aos empreendimentos nos Estados Unidos, a MRV&amp;Co decidiu voltar às origens. A maior incorporadora de habitação popular do país está reduzindo a exposição a operações que se mostraram m",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Cool, República revive com retrofit, econômicos novos e prédios icônicos",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/cool-republica-revive-com-retrofit-economicos-novos-e-predios-iconicos.shtml",
+      "date": "2026-11-28T02:00:00.000Z",
+      "summary": "Copan; Casa do Porco, Jazz B, galeria Metrópole e Sesc 24 de Maio; edifícios Eiffel, Itália e Louvre; Bar Brahma, galeria do Rock e Ponto Chic. Ou, para não despertar ressentimentos: praça da República; Ipiranga x São João, viaduto do Chá, ladeira da Memória e",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "Novo Levy ou novo Meirelles? As considerações das redes sobre o futuro ministro da Fazenda",
       "link": "https://www.estadao.com.br/politica/sergio-denicoli/novo-levy-ou-novo-meirelles-as-consideracoes-das-redes-sobre-o-futuro-ministro-da-fazenda/",
       "date": "2026-11-28T01:29:57.000Z",
@@ -177,38 +249,11 @@
       "type": "imprensa"
     },
     {
-      "title": "Fachin ordena devolução de R$ 316 mi ao BRB por carteiras de crédito compradas do Master",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/fachin-ordena-devolucao-de-r-316-mi-ao-brb-por-carteiras-de-credito-compradas-do-master.shtml",
-      "date": "2026-11-28T00:18:00.000Z",
-      "summary": "O presidente do STF (Supremo Tribunal Federal), ministro Edson Fachin, autorizou nesta sexta-feira (27) a devolução de R$ 316,4 milhões ao BRB (Banco de Brasília) pela liquidante do Banco Master, referentes a carteiras de crédito adquiridas do banco de Vorcaro",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Fachin autoriza liquidante do Master a repassar R$ 316 milhões ao BRB",
       "link": "https://www.estadao.com.br/economia/fachin-autoriza-liquidante-do-master-a-repassar-r-316-milhoes-ao-brb/",
       "date": "2026-11-27T23:52:29.000Z",
       "summary": "",
       "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Após 'efeito Trabuco', Lula inicia recalibragem do discurso do ajuste fiscal",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/adriana-fernandes/2026/11/apos-efeito-trabuco-lula-inicia-recalibragem-do-discurso-do-ajuste-fiscal.shtml",
-      "date": "2026-11-27T23:40:00.000Z",
-      "summary": "A indicação de Luiz Trabuco para o Ministério da Fazenda no Lula 4 já valeu na largada R$ 0,30 na cotação do dólar. O \"efeito Trabuco\" é muita coisa para o curto período de três dias, entre a quarta (25), quando a Folha revelou que Lula havia feito o convite, ",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "BTG Pactual monta fundo de R$ 1,5 bi para compra de consignados do BRB",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/btg-pactual-monta-fundo-de-r15-bi-para-compra-de-consignados-do-brb.shtml",
-      "date": "2026-11-27T23:25:00.000Z",
-      "summary": "O BTG Pactual afirmou nesta sexta-feira (27) que criou um fundo com recursos de até R$ 1,5 bilhão para comprar créditos consignados originados pelo BRB (Banco de Brasília) junto a servidores públicos do Distrito Federal. Leia mais (11/27/2026 - 20h25)",
-      "source": "Folha",
       "cat": "economia",
       "type": "imprensa"
     },
@@ -231,29 +276,11 @@
       "type": "imprensa"
     },
     {
-      "title": "Conta de luz continuará com bandeira tarifária verde em dezembro",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/conta-de-luz-continuara-com-bandeira-tarifaria-verde-em-dezembro.shtml",
-      "date": "2026-11-27T23:15:00.000Z",
-      "summary": "A Aneel (Agência Nacional de Energia Elétrica) informou nesta sexta-feira (27), que a bandeira tarifária continuará verde em dezembro. Assim, não haverá custo extra na conta de luz. Leia mais (11/27/2026 - 20h15)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Indústria farmacêutica defende limitar importação direta de medicamentos",
       "link": "https://www.poder360.com.br/poder-saude/industria-farmaceutica-defende-limitar-importacao-direta-de-medicamentos/",
       "date": "2026-11-27T23:14:32.000Z",
       "summary": "Interfarma quer que compra de remédio no exterior por paciente seja válida só em casos excepcionais; Anvisa revisa regras em consulta pública",
       "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Missão tenta se juntar a outros partidos em ação no STF contra regra das sobras eleitorais",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/missao-tenta-se-juntar-a-outros-partidos-em-acao-no-stf-contra-regra-das-sobras-eleitorais.shtml",
-      "date": "2026-11-27T22:57:00.000Z",
-      "summary": "O Partido Missão pediu ao Supremo Tribunal Federal para entrar como amicus curiae em uma ADI (Ação Direta de Inconstitucionalidade) em que o PDT e o Solidariedade contestam o modelo de distribuição das sobras eleitorais. Leia mais (11/27/2026 - 19h57)",
-      "source": "Folha",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -267,10 +294,10 @@
       "type": "imprensa"
     },
     {
-      "title": "Aécio critica Lula por chamar FHC de “morto-vivo”",
-      "link": "https://www.poder360.com.br/poder-partidos-politicos/aecio-critica-lula-por-chamar-fhc-de-morto-vivo/",
+      "title": "PSDB e Fundação FHC criticam Lula por chamar ex-presidente de “morto-vivo”",
+      "link": "https://www.poder360.com.br/poder-partidos-politicos/psdb-e-fundacao-fhc-criticam-lula-por-chamar-ex-presidente-de-morto-vivo/",
       "date": "2026-11-27T22:39:39.000Z",
-      "summary": "Presidente do PSDB classifica declaração como “lamentável” e diz que idosos em condições semelhantes merecem respeito",
+      "summary": "Presidente do partido classifica declaração como “lamentável” e diz que idosos em condições semelhantes merecem respeito",
       "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
@@ -299,15 +326,6 @@
       "date": "2026-11-27T22:08:10.000Z",
       "summary": "",
       "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Quando Boulos confrontou o Mercado",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/demetriomagnoli/2026/11/quando-boulos-confrontou-o-mercado.shtml",
-      "date": "2026-11-27T21:46:00.000Z",
-      "summary": "Chegou-me um vídeo de um encontro secreto, na madrugada, entre o ministro Guilherme Boulos e o Mercado. Boulos chegou com um boné vermelho, barba bem aparada, combativo como sempre. O papa Francisco viu a face do demônio, mas não vi a do Mercado: nas imagens, ",
-      "source": "Folha",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -364,15 +382,6 @@
       "source": "Agência Senado",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Bolsonaro melhora e tem 'funcionamento intestinal espontâneo', diz DF Star",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/11/bolsonaro-melhora-e-tem-funcionamento-intestinal-espontaneo-diz-df-star.shtml",
-      "date": "2026-11-27T20:05:00.000Z",
-      "summary": "Internado em Brasília, o ex-presidente Jair Bolsonaro (PL), 71, teve mais um dia de melhora e voltou a ter funcionamento intestinal espontâneo, segundo boletim médico divulgado na tarde desta sexta-feira (27) pelo hospital DF Star. Não há, no entanto, previsão",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
     },
     {
       "title": "O que significa ser pobre e como a pobreza é medida?",
@@ -453,15 +462,6 @@
       "summary": "Governo Merz amplia investimentos em defesa e infraestrutura, enquanto congela benefícios sociais e reduz repasses à previdência para financiar novo pacote de gastos. Endividamente será segundo maior desde o pós-guerra.",
       "source": "DW Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Dino determina suspensão imediata das emendas individuais de Flávio Bolsonaro",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/dino-determina-suspensao-imediata-das-emendas-individuais-de-flavio-bolsonaro.shtml",
-      "date": "2026-11-27T19:30:00.000Z",
-      "summary": "O ministro Flávio Dino, do STF (Supremo Tribunal Federal), determinou nesta sexta-feira (27) a suspensão imediata das emendas individuais de autoria do senador Flávio Bolsonaro (PL-RJ) ao PLOA (Projeto de Lei Orçamentária Anual) de 2027. Leia mais (11/27/2026 ",
-      "source": "Folha",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
