@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-28T05:56:20.256Z",
+  "updated": "2026-11-28T07:07:37.984Z",
   "market": {
     "ibov": {
       "price": 176573.34,
       "pct": -0.13,
-      "time": "2026-11-28T05:56:13.749Z",
+      "time": "2026-11-28T07:07:33.311Z",
       "history": [
         {
           "d": "2026-10-29",
@@ -141,6 +141,69 @@
   },
   "news": [
     {
+      "title": "Governo avalia transferir Abin para Ministério da Justiça em Lula 4",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/governo-avalia-transferir-abin-para-ministerio-da-justica-em-lula-4.shtml",
+      "date": "2026-11-28T07:03:00.000Z",
+      "summary": "O governo federal avalia transferir a Abin (Agência Brasileira de Inteligência) da Casa Civil para o Ministério da Justiça em meio às discussões sobre a criação do Ministério da Segurança Pública. Leia mais (11/28/2026 - 04h03)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Data centers gigantes invadem bairros residenciais no Japão e provocam revolta de moradores",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/28/data-centers-gigantes-invadem-bairros-residenciais-no-japao-e-provocam-revolta-de-moradores.ghtml",
+      "date": "2026-11-28T07:00:01.000Z",
+      "summary": "Susumu Goto olha pela janela de sua casa com data centers refletindo no vidro Issei Kato / REUTERS Até alguns anos atrás, a casa de Susumu Goto em Kashiwa, a nordeste de Tóquio, tinha vista para um campo gramado onde os vizinhos jogavam beisebol e futebol. Hoj",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "'Carne dopada': por que Macron implica tanto com o agro brasileiro?",
+      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/28/carne-dopada-por-que-macron-implica-tanto-com-o-agro-brasileiro.ghtml",
+      "date": "2026-11-28T07:00:00.000Z",
+      "summary": "Imagem do presidente da França, Emmanuel Macron, durante uma reunião com representantes do setor agrícola francês no Palácio do Eliseu, em 25 de novembro d e2026. Reprodução Repercutiu nesta semana uma declaração do presidente da França, Emmanuel Macron, de qu",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Data centers usam recursos brasileiros sem contribuir para desenvolvimento do país, diz Nina da Hora",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/data-centers-usam-recursos-brasileiros-sem-contribuir-para-desenvolvimento-do-pais-diz-nina-da-hora.shtml",
+      "date": "2026-11-28T07:00:00.000Z",
+      "summary": "A política de atração de data centers para o Brasil corre o risco de aprofundar a dependência tecnológica do país ao oferecer às multinacionais água, energia e território sem garantir o desenvolvimento de tecnologias nacionais, afirma a cientista da computação",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Racismo algorítmico é falha estrutural, não técnica, afirmam pesquisadoras",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/racismo-algoritmico-e-falha-estrutural-nao-tecnica-afirmam-pesquisadoras.shtml",
+      "date": "2026-11-28T07:00:00.000Z",
+      "summary": "Fotos de pessoas brancas em resultados de buscadores de imagem, filtros que clareiam a cor da pele e equívocos em sistemas de reconhecimento facial que apontam pessoas negras como suspeitas sem evidências não são apenas erros pontuais das plataformas, mas cons",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Entenda as limitações impostas pelo BC para reduzir endividamento com crédito",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/entenda-as-limitacoes-impostas-pelo-bc-para-reduzir-endividamento-com-credito.shtml",
+      "date": "2026-11-28T07:00:00.000Z",
+      "summary": "O Banco Central anunciou na quarta-feira (25) medidas para, segundo a instituição, reduzir o endividamento. Parte dass novas regras entra em vigor em 1º de julho de 2027; a outra parte, em 1º de novembro. Leia mais (11/28/2026 - 04h00)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Banco dos EUA é fechado na maior quebra em mais de dois anos",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/28/banco-dos-eua-e-fechado-na-maior-quebra-em-mais-de-dois-anos.ghtml",
+      "date": "2026-11-28T06:08:45.000Z",
+      "summary": "Logotipo do OCC, regulador bancário dos EUA, em imagem ilustrativa de 24 de outubro de 2026. Dado Ruvic/Reuters O United Fidelity Bank, com sede em Evansville, no estado de Indiana, foi fechado pelos reguladores americanos nesta sexta-feira (27). Com US$ 5,9 b",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "Jornalista transformou pipoca em cappuccino, sorvete e milk-shake; negócio inusitado já tem 52 lojas",
       "link": "https://g1.globo.com/empreendedorismo/pegn/noticia/2026/11/28/pipoca-cappuccino-sorvete-e-milk-shake-negocio-rede.ghtml",
       "date": "2026-11-28T05:00:00.000Z",
@@ -165,15 +228,6 @@
       "summary": "A Fundação Fernando Henrique Cardoso lamentou na noite desta sexta-feira (27) a declaração do presidente Lula (PT), que chamou o ex-presidente de \"morto-vivo\" durante um evento no Rio de Janeiro. A entidade contestou o relato de Lula de que teria visitado FHC ",
       "source": "Folha",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "IA vira economista e produz profusão de estudos, mas erra e ainda não iguala humanos em boas ideias",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/ia-vira-economista-e-produz-profusao-de-estudos-mas-erra-e-ainda-nao-iguala-humanos-em-boas-ideias.shtml",
-      "date": "2026-11-28T03:30:00.000Z",
-      "summary": "Em 1930, John Maynard Keynes previu que o acúmulo de capital e o avanço tecnológico permitiriam que as gerações futuras levassem uma vida de conforto e lazer. Keynes talvez não tenha imaginado os efeitos que o capital acumulado e o progresso tecnológico teriam",
-      "source": "Folha",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -213,24 +267,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Peso de grupo que inclui arroz e feijão nos gastos com alimentação cai quase pela metade em duas décadas",
-      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/28/ibge-gastos-com-alimentacao.ghtml",
-      "date": "2026-11-28T03:00:00.000Z",
-      "summary": "Segundo o IBGE, o grupo que inclui arroz e feijão perdeu espaço nos gastos com comida em casa, enquanto a parcela dos alimentos preparados quase dobrou em duas décadas. Reprodução O grupo de alimentos que inclui arroz e feijão perdeu quase metade de sua partic",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Saúde pesa mais no consumo das famílias do Sudeste; educação tem maior fatia no Nordeste",
-      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/28/saude-educacao-gastos-familias-sudeste-nordeste-ibge.ghtml",
-      "date": "2026-11-28T03:00:00.000Z",
-      "summary": "Contas para pagar. Reprodução/TV Globo A saúde ocupava uma fatia maior do consumo das famílias no Sudeste do que em qualquer outra região do país em 2024 e 2025, segundo dados da Pesquisa de Orçamentos Familiares (POF). De cada R$ 100 destinados a bens e servi",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Lula acumula atritos na base um mês após virada histórica, mas mantém voto de confiança",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/lula-acumula-atritos-na-base-um-mes-apos-virada-historica-mas-mantem-voto-de-confianca.shtml",
       "date": "2026-11-28T02:00:00.000Z",
@@ -246,33 +282,6 @@
       "summary": "O presidente do TSE (Tribunal Superior Eleitoral), Kassio Nunes Marques, atendeu a 68% dos pedidos da campanha de Flávio Bolsonaro (PL) e a 25% dos da campanha de Lula (PT) nas representações que decidiu na disputa presidencial. Leia mais (11/27/2026 - 23h00)",
       "source": "Folha",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Flávio Bolsonaro tenta ditar ritmo da direita 1 mês após fuga aos EUA, mas vê liderança abalada",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/flavio-bolsonaro-tenta-ditar-ritmo-da-direita-1-mes-apos-fuga-aos-eua-mas-ve-lideranca-abalada.shtml",
-      "date": "2026-11-28T02:00:00.000Z",
-      "summary": "O senador Flávio Bolsonaro (PL-RJ) completa neste sábado (28) um mês longe do Brasil. Nesse período nos Estados Unidos, o candidato derrotado à Presidência segue tentando ditar o ritmo da direita, mas aliados reconhecem que a sua influência sobre a oposição di",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Iguatemi, 1º shopping do Brasil, chega aos 60 visto como exemplo em operação de marcas de luxo",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/iguatemi-1o-shopping-do-brasil-chega-aos-60-visto-como-exemplo-em-operacao-de-marcas-de-luxo.shtml",
-      "date": "2026-11-28T02:00:00.000Z",
-      "summary": "Aberto ao público em 28 de novembro de 1966, o Shopping Iguatemi acabou se popularizando como um símbolo do desenvolvimento urbano e imobiliário em São Paulo. O empreendimento nasceu numa região formada por chácaras e ruas estreitas, que floresceu a partir do ",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "B3 quer usar criptoativo atrelado ao real em operações com ações; entenda",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/b3-quer-usar-criptoativo-atrelado-ao-real-em-operacoes-com-acoes-entenda.shtml",
-      "date": "2026-11-28T02:00:00.000Z",
-      "summary": "A B3 anunciou nesta sexta-feira (27), em parceria com Bradesco, BTG Pactual, Itaú Unibanco, Safra, Santander e XP, o desenvolvimento de um criptoativo atrelado ao real. Leia mais (11/27/2026 - 23h00)",
-      "source": "Folha",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -354,15 +363,6 @@
       "summary": "Aneel mantém tarifa sem cobrança adicional em novembro; decisão indica condições hidrológicas favoráveis à geração de energia",
       "source": "Poder360",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "BTG cria fundo de investimentos para comprar até R$ 1,5 bilhão em créditos consignados do BRB",
-      "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/27/btg-cria-fundo-de-investimento-para-comprar-ate-r-15-bilhao-em-creditos-consignados-do-brb.ghtml",
-      "date": "2026-11-27T22:33:08.000Z",
-      "summary": "Foto de 19 de novembro de 2025 mostra a fachada do prédio do Banco de Brasília (BRB) Joédson Alves/Agência Brasil O banco BTG Pactual informou nesta sexta-feira (27) que constituiu um fundo de investimentos para comprar até R$ 1,5 bilhão em créditos consignado",
-      "source": "g1",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
