@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-28T18:44:05.009Z",
+  "updated": "2026-11-28T19:50:01.503Z",
   "market": {
     "ibov": {
       "price": 176573.34,
       "pct": -0.13,
-      "time": "2026-11-28T18:44:00.174Z",
+      "time": "2026-11-28T19:49:55.686Z",
       "history": [
         {
           "d": "2026-10-29",
@@ -141,6 +141,60 @@
   },
   "news": [
     {
+      "title": "Black Friday movimenta R$ 5,4 bi em compras online, alta de 3% em relação a 2025",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/black-friday-movimenta-r-54-bi-em-compras-online-alta-de-3-em-relacao-a-2025.shtml",
+      "date": "2026-11-28T19:33:00.000Z",
+      "summary": "A Black Friday desta sexta-feira (27) movimentou mais de R$ 5,4 bilhões em compras online, um avanço de 3% em relação ao faturamento registrado na mesma data de 2025. As promoções geraram 10,5 milhões de pedidos, 10,5% a mais do que no ano passado. Leia mais (",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Shopping Iguatemi atravessa seis décadas e expõe mudança social em SP",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/shopping-iguatemi-atravessa-seis-decadas-e-expoe-mudanca-social-em-sp.shtml",
+      "date": "2026-11-28T19:22:00.000Z",
+      "summary": "A inauguração do Shopping Center Iguatemi, em 1966, coincide com um dos processos de renovação urbana da cidade de São Paulo e mudou a vida da vizinhança. O maior empreendimento da América Latina foi construído muito perto da minha casa. Leia mais (11/28/2026 ",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Em nova derrota para Milei, corte internacional rejeita pedido para barrar extração de petróleo nas Malvinas",
+      "link": "https://www.bbc.com/portuguese/articles/cm62pnnvpd30o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-28T19:21:12.000Z",
+      "summary": "Na quarta-feira, Argentina já havia perdido para Gana disputa para presidir órgão da ONU sobre turismo; Brasil apoiou candidatura ganense e festejou o resultado.",
+      "source": "BBC News Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Javier Milei diz não ter interesse em ser convidado para a cerimônia de posse de Lula",
+      "link": "https://g1.globo.com/mundo/noticia/2026/11/28/javier-milei-diz-nao-ter-interesse-em-ser-convidado-para-a-cerimonia-de-posse-de-lula.ghtml",
+      "date": "2026-11-28T19:15:51.000Z",
+      "summary": "O presidente da Argentina, Javier Milei, discursa durante a inauguração da exposição “Belgrano, a revolução das ideias”, no Museu da Casa Rosada, em Buenos Aires, em 14 de novembro de 2026. Presidência da Argentina. O presidente da Argentina, Javier Milei, afi",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Presidente do PL diz que vai se reunir com Lula na terça-feira",
+      "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/11/28/encontro-presidente-pl-valdemar-lula.ghtml",
+      "date": "2026-11-28T19:06:54.000Z",
+      "summary": "O presidente do PL, Valdemar Costa Neto, disse ao blog neste sábado (28) que vai se reunir com o presidente Luiz Inácio Lula da Silva (PT) na próxima terça-feira (1º), às 16h, no Palácio do Planalto. O encontro foi solicitado pelo próprio Valdemar, que disse q",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Kim propõe plebiscito para aumento de salário de deputados e senadores",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/kim-propoe-plebiscito-para-aumento-de-salario-de-deputados-e-senadores.shtml",
+      "date": "2026-11-28T18:52:00.000Z",
+      "summary": "O deputado federal Kim Kataguiri (Missão-SP) apresentou um projeto de lei que condiciona aumentos salariais e de benefícios de deputados federais e senadores à aprovação da população em plebiscito. Leia mais (11/28/2026 - 15h52)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "STJ pode barrar diplomação de deputado condenado por corrupção",
       "link": "https://www.poder360.com.br/poder-justica/stj-pode-barrar-diplomacao-de-deputado-condenado-por-corrupcao/",
       "date": "2026-11-28T18:36:11.000Z",
@@ -186,12 +240,30 @@
       "type": "imprensa"
     },
     {
+      "title": "Lula anuncia Alckmin na Segurança na próxima semana",
+      "link": "https://www.poder360.com.br/poder-governo/lula-deve-anunciar-alckmin-na-seguranca-na-proxima-semana/",
+      "date": "2026-11-28T18:04:51.000Z",
+      "summary": "Expectativa é que o anúncio seja feito antes da viagem do presidente ao Uruguai, para a cúpula do Mercosul",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "Ex-ouvidor da polícia em gestões tucanas de SP apoia Alckmin para Segurança",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/ex-ouvidor-da-policia-em-gestoes-tucanas-de-sp-apoia-alckmin-para-seguranca.shtml",
       "date": "2026-11-28T18:00:00.000Z",
       "summary": "Ex-ouvidor das polícias de São Paulo durante governos tucanos, o sociólogo Benedito Mariano aprova a ida do vice-presidente Geraldo Alckmin para um novo Ministério da Segurança. Leia mais (11/28/2026 - 15h00)",
       "source": "Folha",
       "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Sanções e bloqueio dos EUA fazem moeda iraniana cair para 3 milhões por dólar e atingir mínima histórica",
+      "link": "https://g1.globo.com/mundo/noticia/2026/11/28/sancoes-e-bloqueio-dos-eua-fazem-moeda-iraniana-cair-para-3-milhoes-por-dolar-e-atingir-minima-historica.ghtml",
+      "date": "2026-11-28T17:46:23.000Z",
+      "summary": "Irã exibe arsenal militar em exposição em Teerã A moeda do Irã atingiu uma mínima recorde neste sábado (28), aproximando-se da marca de 3 milhões de riais por dólar. A desvalorização ocorre em meio ao avanço da inflação e ao endurecimento das sanções impostas ",
+      "source": "g1",
+      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -222,24 +294,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Lula diz que moscas da Granja do Torto são “bolsonaristas”",
-      "link": "https://www.poder360.com.br/poder-governo/lula-diz-que-moscas-da-granja-do-torto-sao-bolsonaristas/",
-      "date": "2026-11-28T16:49:23.000Z",
-      "summary": "Presidente reclamou dos insetos que estavam incomodando durante live com Janones e Leonardo Barchini neste sábado",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Por que Lula escolheu Trabuco?",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/celso-rocha-de-barros/2026/11/por-que-lula-escolheu-trabuco.shtml",
-      "date": "2026-11-28T16:19:00.000Z",
-      "summary": "Se você é de esquerda e ficou meio atordoado com a nomeação de Luiz Carlos Trabuco para o Ministério da Fazenda, eu te entendo. Leia mais (11/28/2026 - 13h19)",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Lula diz que não convidaria Levy para Fazenda e afirma que Trabuco é sério e de confiança",
       "link": "https://www.estadao.com.br/politica/lula-diz-que-nao-convidaria-levy-para-fazenda-e-afirma-que-trabuco-e-serio-e-de-confianca/",
       "date": "2026-11-28T16:07:50.000Z",
@@ -264,24 +318,6 @@
       "summary": "Saiba como a indicação de Trabuco para o Ministério da Fazenda foi recebida na política O presidente Luiz Inácio Lula da Silva (PT) afirmou neste sábado que Luiz Carlos Trabuco, presidente do Conselho de Administração do Bradesco e escolhido para o Ministério ",
       "source": "g1",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Lula diz que escolheu Trabuco para gerar confiança e que não vai trabalhar contra o povo pobre",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/lula-diz-que-escolheu-trabuco-para-gerar-confianca-e-que-nao-vai-trabalhar-contra-o-povo-pobre.shtml",
-      "date": "2026-11-28T15:54:00.000Z",
-      "summary": "O presidente Lula (PT) disse neste sábado (28) que escolheu Luiz Carlos Trabuco para assumir o Ministério da Fazenda para gerar confiança e afirmou que o banqueiro não irá trabalhar contra a população mais pobre. Leia mais (11/28/2026 - 12h54)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Aeroportos impulsionam receita com aluguel de áreas da União para megaigreja, hotéis e escola",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/infraestrutura/2026/11/aeroportos-impulsionam-receita-com-aluguel-de-areas-da-uniao-para-megaigreja-hoteis-e-escola.shtml",
-      "date": "2026-11-28T15:30:00.000Z",
-      "summary": "Concessionárias de aeroportos passaram a obter novas fontes de receita com o aluguel de áreas ociosas para marcas de varejo, uma megaigreja de 30 mil metros quadrados, um hospital, uma escola bilíngue, hotéis e galpões logísticos, entre outros empreendimentos.",
-      "source": "Folha",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -330,15 +366,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Por que Alcolumbre tem pressa para acabar com a quarentena nas agências reguladoras",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/por-que-alcolumbre-tem-pressa-para-acabar-com-a-quarentena-nas-agencias-reguladoras/",
-      "date": "2026-11-28T15:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Se em 40 anos o Brasil cresceu menos que outros países, algo deve mudar, diz David Feffer, da Suzano",
       "link": "https://www.estadao.com.br/economia/negocios/entrevista-david-feffer-suzano-crescimento-brasil/",
       "date": "2026-11-28T15:00:00.000Z",
@@ -375,15 +402,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Lula se desculpa por fala sobre estado de saúde de FHC: 'Cometi uma gafe muito ruim'",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/28/lula-se-desculpa-por-fala-sobre-fhc-cometi-uma-gafe-muito-ruim.ghtml",
-      "date": "2026-11-28T14:27:47.000Z",
-      "summary": "Lula se desculpa por fala sobre estado de saúde de FHC: 'Cometi uma gafe muito ruim' O presidente Luiz Inácio Lula da Silva (PT) pediu desculpas, neste sábado (28), por uma declaração dada sobre o estado de saúde do ex-presidente Fernando Henrique Cardoso. Dur",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Lula está cometendo o mesmo erro de Dilma em 2015, diz Jones Manoel",
       "link": "https://www.bbc.com/portuguese/articles/cmp3e7ke9epzo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-28T13:31:27.000Z",
@@ -402,30 +420,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Tribunal internacional barra tentativa da Argentina de impedir exploração de petróleo nas Ilhas Malvinas",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/28/argentina-perde-tentativa-de-barrar-exploracao-de-petroleo-nas-ilhas-malvinas.ghtml",
-      "date": "2026-11-28T12:29:08.000Z",
-      "summary": "Ilhas Malvinas pertencem ao Reino Unido, mas é disputada pela Argentina. Países se envolveram em uma guerra pelo domínio territorial da região. Ricardo Mazalan / AP Photo/Ricardo Mazalan A tentativa da Argentina de bloquear temporariamente a exploração de petr",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Sánchez tenta mobilizar eleitores para barrar ultradireita na Espanha",
       "link": "https://www.dw.com/pt-br/sánchez-tenta-mobilizar-eleitores-para-barrar-ultradireita-na-espanha/a-80084584?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-28T11:49:00.000Z",
       "summary": "No último dia da campanha, socialista conclama espanhóis a votar para impedir possível coalizão com a extrema direita em eleição crucial para o equilíbrio de poder na UE. Conservadores tentam virar o voto da esquerda.",
       "source": "DW Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Fundação FHC lamenta declaração de Lula, que chamou ex-presidente de 'morto-vivo'",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/28/fundacao-fhc-lamenta-fala-de-lula-que-chamou-ex-presidente-de-morto-vivo.ghtml",
-      "date": "2026-11-28T11:08:48.000Z",
-      "summary": "Lula comenta saúde de FHC e chama de 'morto-vivo' A Fundação Fernando Henrique Cardoso (FHC) publicou uma nota em que lamenta a declaração do presidente Luiz Inácio Lula da Silva (PT) sobre o estado de saúde do ex-presidente. Nessa sexta-feira (27), durante um",
-      "source": "g1",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -436,15 +436,6 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Desfigurada aos 15 anos: as vidas devastadas por uma década de conflito em Camarões",
-      "link": "https://www.bbc.com/portuguese/articles/cjlydlky7wl7o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-27T20:51:08.000Z",
-      "summary": "Mais de meio milhão de pessoas fugiram de suas casas desde que grupos separatistas passaram a reivindicar a independência das regiões anglófonas de Camarões",
-      "source": "BBC News Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
     },
     {
       "title": "Projeto prevê proteção contra ofertas abusivas de crédito para idosos",
@@ -543,6 +534,15 @@
       "summary": "A trajetória das contas públicas, a insatisfação dos brasileiros com o custo de vida e o endividamento recorde e previsões desfavoráveis de crescimento estão entre as questões que deverão exigir atenção da nova equipe econômica.",
       "source": "BBC News Brasil",
       "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Caso Master: Senador pede levantamento do sigilo de relatórios sobre ministros ao STF",
+      "link": "https://www.estadao.com.br/politica/caso-master-senador-pede-levantamento-do-sigilo-de-relatorios-sobre-ministros-ao-stf-nprp/",
+      "date": "2026-11-27T15:11:56.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
       "type": "imprensa"
     },
     {
