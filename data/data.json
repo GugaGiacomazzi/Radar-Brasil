@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-28T00:31:23.981Z",
+  "updated": "2026-11-28T01:57:46.158Z",
   "market": {
     "ibov": {
       "price": 176573.34,
       "pct": -0.13,
-      "time": "2026-11-28T00:31:18.475Z",
+      "time": "2026-11-28T01:57:41.961Z",
       "history": [
         {
           "d": "2026-10-29",
@@ -141,21 +141,48 @@
   },
   "news": [
     {
-      "title": "Fachin ordena devolução de R$ 316 mi ao BRB por carteiras de crédito compradas do Master",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/fachin-ordena-devolucao-de-r-316-mi-ao-brb-por-carteiras-de-credito-compradas-do-master.shtml",
-      "date": "2026-11-28T00:18:00.000Z",
-      "summary": "O presidente do STF (Supremo Tribunal Federal), ministro Edson Fachin, autorizou nesta sexta-feira (27) a devolução de R$ 316,4 milhões ao BRB (Banco de Brasília) referentes às carteiras de crédito adquiridas do Banco Master. Leia mais (11/27/2026 - 21h18)",
-      "source": "Folha",
+      "title": "Novo Levy ou novo Meirelles? As considerações das redes sobre o futuro ministro da Fazenda",
+      "link": "https://www.estadao.com.br/politica/sergio-denicoli/novo-levy-ou-novo-meirelles-as-consideracoes-das-redes-sobre-o-futuro-ministro-da-fazenda/",
+      "date": "2026-11-28T01:29:57.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Câmara do Rio dará medalha à deputada Índia Armelau, que incentivou a demissão de ‘petistas’",
+      "link": "https://www.estadao.com.br/politica/camara-do-rio-dara-medalha-a-deputada-india-armelau-que-incentivou-a-demissao-de-petistas-nprp/",
+      "date": "2026-11-28T01:19:30.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Manifesto em Paris propõe discutir os limites do poder dos bilionários nas sociedades democráticas",
+      "link": "https://www.estadao.com.br/economia/fabio-gallo/manifesto-em-paris-propoe-discutir-os-limites-do-poder-dos-bilionarios-nas-sociedades-democraticas/",
+      "date": "2026-11-28T01:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
       "cat": "economia",
       "type": "imprensa"
     },
     {
-      "title": "Câmara aprova projeto que estabelece protocolo contra discriminação racial em escolas e faculdades",
-      "link": "https://www.estadao.com.br/politica/camara-aprova-projeto-que-estabelece-protocolo-contra-discriminacao-racial-em-escolas-e-faculdades-nprp/",
-      "date": "2026-11-28T00:07:19.000Z",
+      "title": "‘Pretinho básico’ nunca sai de moda: não se faz transição energética com demonização do petróleo",
+      "link": "https://www.estadao.com.br/economia/adriano-pires/pretinho-basico-nunca-sai-de-moda-nao-se-faz-transicao-energetica-com-demonizacao-do-petroleo/",
+      "date": "2026-11-28T01:00:00.000Z",
       "summary": "",
       "source": "Estadão",
-      "cat": "politica",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Fachin ordena devolução de R$ 316 mi ao BRB por carteiras de crédito compradas do Master",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/fachin-ordena-devolucao-de-r-316-mi-ao-brb-por-carteiras-de-credito-compradas-do-master.shtml",
+      "date": "2026-11-28T00:18:00.000Z",
+      "summary": "O presidente do STF (Supremo Tribunal Federal), ministro Edson Fachin, autorizou nesta sexta-feira (27) a devolução de R$ 316,4 milhões ao BRB (Banco de Brasília) pela liquidante do Banco Master, referentes a carteiras de crédito adquiridas do banco de Vorcaro",
+      "source": "Folha",
+      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -231,15 +258,6 @@
       "type": "imprensa"
     },
     {
-      "title": "PGR se opõe a obrigar governo federal a dar aval a empréstimo para salvar BRB",
-      "link": "https://www.estadao.com.br/economia/pgr-se-opoe-a-obrigacao-do-governo-federal-de-avalizar-emprestimo-ao-brb/",
-      "date": "2026-11-27T22:50:24.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Conta de luz terá bandeira verde pelo 3º mês seguido em dezembro",
       "link": "https://www.poder360.com.br/poder-energia/conta-de-luz-tera-bandeira-verde-pelo-3o-mes-seguido-em-dezembro/",
       "date": "2026-11-27T22:48:15.000Z",
@@ -276,6 +294,15 @@
       "type": "imprensa"
     },
     {
+      "title": "Lula sanciona lei que autoriza crédito especial de R$21 mi a aposentadoria compulsória de juízes",
+      "link": "https://www.estadao.com.br/politica/lula-sanciona-lei-que-autoriza-credito-especial-de-r21-mi-a-aposentadoria-compulsoria-de-juizes-nprp/",
+      "date": "2026-11-27T22:08:10.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "Quando Boulos confrontou o Mercado",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/demetriomagnoli/2026/11/quando-boulos-confrontou-o-mercado.shtml",
       "date": "2026-11-27T21:46:00.000Z",
@@ -300,15 +327,6 @@
       "summary": "",
       "source": "Estadão",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Crise de inadimplência no agro deve contribuir para enfraquecimento do PIB em 2027",
-      "link": "https://www.estadao.com.br/economia/agronegocios/crise-de-inadimplencia-no-agro-deve-contribuir-para-enfraquecimento-do-pib-em-2027/",
-      "date": "2026-11-27T21:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -346,15 +364,6 @@
       "source": "Agência Senado",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Lula define tripé do quarto mandato e, depois de Trabuco, anunciará Camilo e Alckmin",
-      "link": "https://www.estadao.com.br/politica/lula-define-tripe-do-quarto-mandato-e-depois-de-trabuco-anunciara-camilo-e-alckmin/",
-      "date": "2026-11-27T20:07:34.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
     },
     {
       "title": "Bolsonaro melhora e tem 'funcionamento intestinal espontâneo', diz DF Star",
@@ -508,15 +517,6 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Moraes autoriza a transferência do cumprimento de pena de Mauro Cid para Niterói, no RJ",
-      "link": "https://www.estadao.com.br/politica/moraes-autoriza-a-transferencia-do-cumprimento-de-pena-de-mauro-cid-para-niteroi-no-rj-nprp/",
-      "date": "2026-11-27T18:43:48.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
     },
     {
       "title": "Quem é Luiz Carlos Trabuco, o novo ministro da Fazenda de Lula",
@@ -692,7 +692,6 @@
   ],
   "errors": [
     "feed CNN Brasil: HTTP 404",
-    "feed CNN Brasil: HTTP 404",
-    "feed Planalto (governo): HTTP 429"
+    "feed CNN Brasil: HTTP 404"
   ]
 }
