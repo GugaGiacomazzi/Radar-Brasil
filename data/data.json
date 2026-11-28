@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-28T11:29:17.618Z",
+  "updated": "2026-11-28T12:31:38.277Z",
   "market": {
     "ibov": {
       "price": 176573.34,
       "pct": -0.13,
-      "time": "2026-11-28T11:29:12.033Z",
+      "time": "2026-11-28T12:31:31.229Z",
       "history": [
         {
           "d": "2026-10-29",
@@ -141,6 +141,60 @@
   },
   "news": [
     {
+      "title": "Carlos Bolsonaro usa foto de internação anterior de Jair em vídeo de IA",
+      "link": "https://www.poder360.com.br/poder-brasil/carlos-bolsonaro-usa-foto-de-internacao-anterior-de-jair-em-video-de-ia/",
+      "date": "2026-11-28T12:21:54.000Z",
+      "summary": "O filho do ex-presidente publicou o vídeo nas redes sociais e citou \"perseverança” ao comentar recuperação do pai",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Associação de tribunais de contas lança guia para ajudar estados e municípios a cumprirem plano de educação",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/associacao-de-tribunais-de-contas-lanca-guia-para-ajudar-estados-e-municipios-a-cumprirem-plano-de-educacao.shtml",
+      "date": "2026-11-28T12:20:00.000Z",
+      "summary": "A Associação dos Membros dos Tribunais de Contas do Brasil (Atricon) lançou na última quinta-feira (26) duas iniciativas para ajudar estados e municípios a cumprir obrigações na área educacional. Leia mais (11/28/2026 - 09h20)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Regras do jogo e o sentido da Constituição",
+      "link": "https://www.estadao.com.br/politica/fernando-schuler/regras-do-jogo-e-o-sentido-da-constituicao/",
+      "date": "2026-11-28T12:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Sánchez tenta mobilizar eleitores para barrar ultradireita na Espanha",
+      "link": "https://www.dw.com/pt-br/sánchez-tenta-mobilizar-eleitores-para-barrar-ultradireita-na-espanha/a-80084584?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-28T11:49:00.000Z",
+      "summary": "No último dia da campanha, socialista conclama espanhóis a votar para impedir possível coalizão com a extrema direita em eleição crucial para o equilíbrio de poder na UE. Conservadores tentam virar o voto da esquerda.",
+      "source": "DW Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "SP oferece livros gratuitos para ensinar como funcionam os impostos",
+      "link": "https://www.poder360.com.br/poder-cultura/sp-oferece-livros-gratuitos-para-ensinar-como-funcionam-os-impostos/",
+      "date": "2026-11-28T11:30:36.000Z",
+      "summary": "Acervo digital reúne cartilhas e histórias em quadrinhos sobre arrecadação, orçamento e gastos públicos; materiais são destinados a crianças e adultos",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Fala de Lula sobre FHC foi repugnante e, sobretudo, ingrata",
+      "link": "https://www.estadao.com.br/politica/fabiano-lana/fala-de-lula-sobre-fhc-foi-repugnante-e-sobretudo-ingrata/",
+      "date": "2026-11-28T11:20:56.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "Taiwan realiza eleições locais sob críticas da China",
       "link": "https://www.poder360.com.br/poder-internacional/taiwan-realiza-eleicoes-locais-sob-criticas-da-china/",
       "date": "2026-11-28T11:13:21.000Z",
@@ -177,15 +231,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Projeto fixa em 15 anos prazo de vigência para patentes de medicamentos",
-      "link": "https://www.poder360.com.br/poder-congresso/projeto-fixa-em-15-anos-prazo-de-vigencia-para-patentes-de-medicamentos/",
-      "date": "2026-11-28T10:50:59.000Z",
-      "summary": "A proposta altera a Lei de Propriedade Industrial e foi apresentada pelo deputado Clodoaldo Magalhães (PV-PE)",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Nas escolas, 1 em cada 8 meninos admite ter criado nudes com IA; alunas e professoras são as vítimas",
       "link": "https://g1.globo.com/educacao/noticia/2026/11/28/safernet-estudo-deepfake-escola.ghtml",
       "date": "2026-11-28T10:42:35.000Z",
@@ -201,15 +246,6 @@
       "summary": "Autodeclarado comunista radical, Jones Manoel critica ajuste nas contas feito por governo Lula e faz alerta sobre risco de repetir \"erros\" do governo de Dilma Rousseff.",
       "source": "BBC News Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Comissão da Câmara aprova regras de enfrentamento ao bullying",
-      "link": "https://www.poder360.com.br/poder-congresso/comissao-da-camara-aprova-regras-de-enfrentamento-ao-bullying/",
-      "date": "2026-11-28T10:20:54.000Z",
-      "summary": "O projeto segue em análise na Câmara dos Deputados; texto autoriza a adoção de medidas não punitivas aos autores da violência",
-      "source": "Poder360",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -357,24 +393,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Lula acumula atritos na base um mês após virada histórica, mas mantém voto de confiança",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/lula-acumula-atritos-na-base-um-mes-apos-virada-historica-mas-mantem-voto-de-confianca.shtml",
-      "date": "2026-11-28T02:00:00.000Z",
-      "summary": "Após uma virada histórica que empolgou a esquerda na eleição, o presidente Lula (PT) acumulou ao longo de um mês atritos em sua base aliada, que se dividiu entre fornecer um voto de confiança ao petista pelas medidas e nomeações de seu próximo governo e as crí",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Novo Levy ou novo Meirelles? As considerações das redes sobre o futuro ministro da Fazenda",
-      "link": "https://www.estadao.com.br/politica/sergio-denicoli/novo-levy-ou-novo-meirelles-as-consideracoes-das-redes-sobre-o-futuro-ministro-da-fazenda/",
-      "date": "2026-11-28T01:29:57.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Manifesto em Paris propõe discutir os limites do poder dos bilionários nas sociedades democráticas",
       "link": "https://www.estadao.com.br/economia/fabio-gallo/manifesto-em-paris-propoe-discutir-os-limites-do-poder-dos-bilionarios-nas-sociedades-democraticas/",
       "date": "2026-11-28T01:00:00.000Z",
@@ -483,15 +501,6 @@
       "type": "oficial"
     },
     {
-      "title": "Lula expõe condição de saúde de Fernando Henrique em discurso no RJ: ‘Essa pessoa não vive’",
-      "link": "https://www.estadao.com.br/politica/lula-expoe-condicao-de-saude-de-fernando-henrique-em-discurso-no-rj-essa-pessoa-nao-vive/",
-      "date": "2026-11-27T19:33:21.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Com gasto militar recorde, Alemanha aprova Orçamento para 2027",
       "link": "https://www.dw.com/pt-br/com-gasto-militar-recorde-alemanha-aprova-orçamento-para-2027/a-80081771?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-27T19:33:00.000Z",
@@ -542,15 +551,6 @@
       "date": "2026-11-27T16:49:25.000Z",
       "summary": "A trajetória das contas públicas, a insatisfação dos brasileiros com o custo de vida e o endividamento recorde e previsões desfavoráveis de crescimento estão entre as questões que deverão exigir atenção da nova equipe econômica.",
       "source": "BBC News Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Queda de aliado expõe disputa pela sucessão de Xi Jinping na China",
-      "link": "https://www.dw.com/pt-br/queda-de-aliado-expõe-disputa-pela-sucessão-de-xi-jinping-na-china/a-80072905?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-27T14:27:00.000Z",
-      "summary": "Destituição de Chen Jining, considerado um possível nome para a futura liderança do país, reforça sinais de que Xi não pretende preparar sucessor e busca manter controle absoluto sobre o Partido Comunista.",
-      "source": "DW Brasil",
       "cat": "internacional",
       "type": "imprensa"
     },
