@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-28T02:52:36.768Z",
+  "updated": "2026-11-28T03:52:55.907Z",
   "market": {
     "ibov": {
       "price": 176573.34,
       "pct": -0.13,
-      "time": "2026-11-28T02:52:31.660Z",
+      "time": "2026-11-28T03:52:52.126Z",
       "history": [
         {
           "d": "2026-10-29",
@@ -84,7 +84,7 @@
         },
         {
           "d": "2026-11-27",
-          "c": 176573.3438
+          "c": 176573
         }
       ]
     },
@@ -140,6 +140,69 @@
     ]
   },
   "news": [
+    {
+      "title": "IA vira economista e produz profusão de estudos, mas erra e ainda não iguala humanos em boas ideias",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/ia-vira-economista-e-produz-profusao-de-estudos-mas-erra-e-ainda-nao-iguala-humanos-em-boas-ideias.shtml",
+      "date": "2026-11-28T03:30:00.000Z",
+      "summary": "Em 1930, John Maynard Keynes previu que o acúmulo de capital e o avanço tecnológico permitiriam que as gerações futuras levassem uma vida de conforto e lazer. Keynes talvez não tenha imaginado os efeitos que o capital acumulado e o progresso tecnológico teriam",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Fachin libera R$ 316 milhões da liquidação do Master ao BRB",
+      "link": "https://www.poder360.com.br/poder-justica/fachin-libera-r-316-milhoes-do-master-ao-brb/",
+      "date": "2026-11-28T03:10:42.000Z",
+      "summary": "Decisão autoriza retomada de repasses de carteiras de crédito sem disputa de titularidade; ministro mantém bloqueados valores de operações contestadas",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Fios clandestinos terão prazo para ser regularizados; entenda regras aprovadas pelo Congresso sobre compartilhamento de postes",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/28/fios-clandestinos-terao-prazo-para-ser-regularizados-entenda-regras-aprovadas-pelo-congresso-sobre-compartilhamento-de-postes.ghtml",
+      "date": "2026-11-28T03:00:00.000Z",
+      "summary": "O Congresso Nacional concluiu neste mês a análise de um projeto de lei que redefine as regras para o compartilhamento dos postes. A proposta estabelece novas normas de fiscalização, cria mecanismos para regularizar instalações clandestinas e busca dar mais pre",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Nas escolas, 1 em cada 8 meninos admite ter criado nudes com IA; alunas e professoras são as vítimas",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/28/safernet-estudo-deepfake-escola.ghtml",
+      "date": "2026-11-28T03:00:00.000Z",
+      "summary": "Um levantamento inédito divulgado nesta semana pela ONG SaferNet Brasil mostra que 12,4% dos meninos adolescentes ouvidos (um em cada oito) admitem já ter criado ao menos um deepfake sexual. ➡️ Deepfake é uma manipulação que permite alterar um vídeo ou foto de",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Ministério da Segurança Pública não é inédito no Brasil; veja como era e o que especialistas esperam do novo órgão",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/28/ministerio-da-seguranca-publica-nao-e-inedito-no-brasil-veja-como-era-e-o-que-especialistas-esperam-do-novo-orgao.ghtml",
+      "date": "2026-11-28T03:00:00.000Z",
+      "summary": "A promulgação da PEC da Segurança Pública, aprovada pelo Senado Federal, passo que abrirá caminho para o presidente Luiz Inácio Lula da Silva (PT) criar o Ministério da Segurança Pública, é aguardada para os próximos dias. Lula deve criar o novo ministério por",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Peso de grupo que inclui arroz e feijão nos gastos com alimentação cai quase pela metade em duas décadas",
+      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/28/ibge-gastos-com-alimentacao.ghtml",
+      "date": "2026-11-28T03:00:00.000Z",
+      "summary": "Segundo o IBGE, o grupo que inclui arroz e feijão perdeu espaço nos gastos com comida em casa, enquanto a parcela dos alimentos preparados quase dobrou em duas décadas. Reprodução O grupo de alimentos que inclui arroz e feijão perdeu quase metade de sua partic",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Saúde pesa mais no consumo das famílias do Sudeste; educação tem maior fatia no Nordeste",
+      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/28/saude-educacao-gastos-familias-sudeste-nordeste-ibge.ghtml",
+      "date": "2026-11-28T03:00:00.000Z",
+      "summary": "Contas para pagar. Reprodução/TV Globo A saúde ocupava uma fatia maior do consumo das famílias no Sudeste do que em qualquer outra região do país em 2024 e 2025, segundo dados da Pesquisa de Orçamentos Familiares (POF). De cada R$ 100 destinados a bens e servi",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
     {
       "title": "Lula acumula atritos na base um mês após virada histórica, mas mantém voto de confiança",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/lula-acumula-atritos-na-base-um-mes-apos-virada-historica-mas-mantem-voto-de-confianca.shtml",
@@ -199,15 +262,6 @@
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/desafio-do-setor-nao-e-falta-de-demanda-e-baixar-custo-da-moradia-diz-eduardo-fischer-ceo-da-mrv.shtml",
       "date": "2026-11-28T02:00:00.000Z",
       "summary": "Depois de experimentar novos negócios, da locação residencial no Brasil aos empreendimentos nos Estados Unidos, a MRV&amp;Co decidiu voltar às origens. A maior incorporadora de habitação popular do país está reduzindo a exposição a operações que se mostraram m",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Cool, República revive com retrofit, econômicos novos e prédios icônicos",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/cool-republica-revive-com-retrofit-economicos-novos-e-predios-iconicos.shtml",
-      "date": "2026-11-28T02:00:00.000Z",
-      "summary": "Copan; Casa do Porco, Jazz B, galeria Metrópole e Sesc 24 de Maio; edifícios Eiffel, Itália e Louvre; Bar Brahma, galeria do Rock e Ponto Chic. Ou, para não despertar ressentimentos: praça da República; Ipiranga x São João, viaduto do Chá, ladeira da Memória e",
       "source": "Folha",
       "cat": "economia",
       "type": "imprensa"
@@ -289,15 +343,6 @@
       "link": "https://www.poder360.com.br/poder-energia/conta-de-luz-tera-bandeira-verde-pelo-3o-mes-seguido-em-dezembro/",
       "date": "2026-11-27T22:48:15.000Z",
       "summary": "Aneel mantém tarifa sem cobrança adicional em novembro; decisão indica condições hidrológicas favoráveis à geração de energia",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "PSDB e Fundação FHC criticam Lula por chamar ex-presidente de “morto-vivo”",
-      "link": "https://www.poder360.com.br/poder-partidos-politicos/psdb-e-fundacao-fhc-criticam-lula-por-chamar-ex-presidente-de-morto-vivo/",
-      "date": "2026-11-27T22:39:39.000Z",
-      "summary": "Presidente do partido classifica declaração como “lamentável” e diz que idosos em condições semelhantes merecem respeito",
       "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
@@ -402,24 +447,6 @@
       "type": "imprensa"
     },
     {
-      "title": "#NÃOÉBEMASSIM: STF não proibiu pacientes de irem à Justiça por remédios fora da lista do SUS, mas impôs condições para liberação",
-      "link": "https://g1.globo.com/fato-ou-fake/noticia/2026/11/27/naoebemassim-stf-nao-proibiu-pacientes-de-irem-a-justica-por-remedios-fora-da-lista-do-sus-mas-impos-condicoes-para-liberacao.ghtml",
-      "date": "2026-11-27T19:48:02.000Z",
-      "summary": "Decisão do STF não proibe obtenção de medicamentos, mas faz restrições g1 Circulam nas redes sociais publicações alegando que o Supremo Tribunal Federal (STF) proibiu pacientes de recorrerem à Justiça para conseguir medicamentos fora da lista do Sistema Único ",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "OpenAI processa Apple e acusa empresa de roubar segredos comerciais e bloquear fornecedores",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/27/open-ai-apple-ia-segredo-processo.ghtml",
-      "date": "2026-11-27T19:47:43.000Z",
-      "summary": "OpenAI. Reprodução/Fantástico A OpenAI processou a Apple nesta sexta-feira (27), acusando a fabricante do iPhone de roubar segredos comerciais e dificultar seu acesso a fornecedores de equipamentos. A ação ocorre depois que a Apple também levou a desenvolvedor",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Estatuto dos Cães e Gatos no Plenário",
       "link": "https://www12.senado.leg.br/noticias/infomaterias/2026/11/estatuto-dos-caes-e-gatos-no-plenario",
       "date": "2026-11-27T19:45:17.000Z",
@@ -465,24 +492,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Dino suspende tramitação de emendas de Flávio Bolsonaro para 2027 e pede ao Senado explicações sobre atuação do senador",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/27/dino-suspende-tramitacao-de-emendas-de-flavio-bolsonaro-para-2027-ministro-pediu-que-senado-explique-atuacao-do-senador-de-fora-do-pais.ghtml",
-      "date": "2026-11-27T19:27:37.000Z",
-      "summary": "O ministro Flávio Dino, do Supremo Tribunal Federal (STF), determinou a suspensão da tramitação de emendas do senador Flávio Bolsonaro (PL-RJ) para o orçamento de 2027. O ministro também pediu ao Senado Federal para esclarecer as condições em que o senador, de",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Brasileira transforma teatro em cenário de sonhos na Semana de Arte em Miami",
-      "link": "https://g1.globo.com/economia/especial-publicitario/bradesco-bank-us/noticia/2026/11/27/brasileira-transforma-teatro-em-cenario-de-sonhos-na-semana-de-arte-em-miami.ghtml",
-      "date": "2026-11-27T19:08:10.000Z",
-      "summary": "Balões espalhados pelo chão e suspensos no teto, fumaça que invade o ambiente, música com referências a parques de diversões e uma atmosfera que parece transportar o visitante para dentro de um sonho. É essa a proposta da artista brasileira Flávia Junqueira pa",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Comissão debate mortandade de peixes em rios no sul do Pará",
       "link": "https://www.camara.leg.br/noticias/1323205-comissao-debate-mortandade-de-peixes-em-rios-no-sul-do-para",
       "date": "2026-11-27T18:53:00.000Z",
@@ -499,15 +508,6 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Do fim dos supersalários à previdência de militares: o que Durigan pensou para 2027 e agora deixa para Trabuco",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/27/durigan-deixa-agenda-fiscal-para-2027.ghtml",
-      "date": "2026-11-27T18:50:34.000Z",
-      "summary": "O ministro da Fazenda, Dario Durigan, nega que razão para a alta de recuperações judiciais seja somente as taxas de juros EPA-Shutterstock Luiz Carlos Trabuco, presidente do conselho do Bradesco, aceitou o convite do presidente da República, Luiz Inácio Lula d",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
     },
     {
       "title": "Comissão aprova criação de corredores exclusivos para motos e regras para circulação entre faixas",
@@ -691,6 +691,7 @@
     }
   ],
   "errors": [
+    "Selic (SGS 432): fetch failed",
     "feed CNN Brasil: HTTP 404",
     "feed CNN Brasil: HTTP 404"
   ]
