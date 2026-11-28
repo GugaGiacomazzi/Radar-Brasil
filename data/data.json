@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-28T14:45:41.430Z",
+  "updated": "2026-11-28T15:43:32.806Z",
   "market": {
     "ibov": {
       "price": 176573.34,
       "pct": -0.13,
-      "time": "2026-11-28T14:45:33.930Z",
+      "time": "2026-11-28T15:43:26.166Z",
       "history": [
         {
           "d": "2026-10-29",
@@ -141,11 +141,209 @@
   },
   "news": [
     {
+      "title": "“Precisava trazer um top”, disse Lula sobre Trabuco",
+      "link": "https://www.poder360.com.br/poder-governo/precisava-trazer-um-top-disse-lula-sobre-trabuco/",
+      "date": "2026-11-28T15:39:56.000Z",
+      "summary": "Presidente disse ter pedido ao futuro ministro da Fazenda que ele dedicasse 4 anos da sua vida ao Brasil: \"Ele aceitou\"",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Ministro diz estudar ampliar Pé-de-Meia para estudantes de até 29 anos",
+      "link": "https://www.poder360.com.br/poder-governo/ministro-anuncia-estudo-para-ampliar-pe-de-meia-ate-29-anos/",
+      "date": "2026-11-28T15:32:53.000Z",
+      "summary": "Benefício atualmente é só para quem tem até 24 anos; anúncio foi feito pelo ministro da Educação, Leonardo Barchini, em live com Lula",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Aeroportos impulsionam receita com aluguel de áreas da União para megaigreja, hotéis e escola",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/infraestrutura/2026/11/aeroportos-impulsionam-receita-com-aluguel-de-areas-da-uniao-para-megaigreja-hoteis-e-escola.shtml",
+      "date": "2026-11-28T15:30:00.000Z",
+      "summary": "Concessionárias de aeroportos passaram a obter novas fontes de receita com o aluguel de áreas ociosas para marcas de varejo, uma megaigreja de 30 mil metros quadrados, um hospital, uma escola bilíngue, hotéis e galpões logísticos, entre outros empreendimentos.",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Renan Santos compara bolsonaristas a “bárbaros” e rejeita aliança",
+      "link": "https://www.poder360.com.br/poder-eleicoes/renan-santos-compara-bolsonaristas-a-barbaros-e-rejeita-alianca/",
+      "date": "2026-11-28T15:25:45.000Z",
+      "summary": "Integrante do MBL afirmou que quem se une ao movimento de oposição acaba traído e destruído; falou em evento em São Paulo",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Venda de carros elétricos dispara na Alemanha",
+      "link": "https://www.dw.com/pt-br/venda-de-carros-elétricos-dispara-na-alemanha/a-80086671?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-28T15:25:00.000Z",
+      "summary": "Associação prevê que novas vendas de veículos elétricos no país deve cruzar marca de 1 milhão em 2027, enquanto mercado carros com motor a combustão perdem espaço.",
+      "source": "DW Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Nomeação de Trabuco comprova estelionato de Lula, diz Renan Santos",
+      "link": "https://www.poder360.com.br/poder-governo/nomeacao-de-trabuco-comprova-estelionato-de-lula-diz-renan-santos/",
+      "date": "2026-11-28T15:23:06.000Z",
+      "summary": "Segundo ele, a desvinculação de gastos com saúde, educação e emendas foi criticada pelo governo na época da campanha",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Depois da Black Friday, 48% dos produtos seguem com desconto; 43% ficaram mais caros",
+      "link": "https://g1.globo.com/guia/guia-de-compras/depois-da-black-friday-48percent-dos-produtos-seguem-com-desconto-43percent-ficaram-mais-caros.ghtml",
+      "date": "2026-11-28T15:19:34.000Z",
+      "summary": "Black Friday: vale checar ofertas na IA? Ferramentas falham em quase metade dos testes Um dia depois da Black Friday, 36 dos 74 produtos monitorados pelo Guia de Compras do g1 seguem com descontos (48% do total), e outros 32 ficaram mais caros (43% do total). ",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Argentina fracassa ao barrar exploração de petróleo nas Ilhas Malvinas",
+      "link": "https://www.dw.com/pt-br/argentina-fracassa-ao-barrar-exploração-de-petróleo-nas-ilhas-malvinas/a-80086282?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-28T15:14:00.000Z",
+      "summary": "Governo de Javier Milei tentou impedir iniciativa britânica e israelense após reforçar reivindicação de soberania sobre o território disputado com o Reino Unido. \"Esta decisão não é a palavra final\", afirma Buenos Aires.",
+      "source": "DW Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Na nova 'economia feminina' da China, mulheres transformam homens em entretenimento",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/na-nova-economia-feminina-da-china-mulheres-transformam-homens-em-entretenimento.shtml",
+      "date": "2026-11-28T15:12:00.000Z",
+      "summary": "Dançarinos musculosos e sem camisa arrancam seus roupões diante de plateias lotadas. Atores fantasiados em parques temáticos são beliscados, puxados e fotografados por centenas de mulheres. Homens jovens e fortes sobem montanhas às pressas carregando turistas ",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Associação de Alzheimer reage à fala de Lula sobre FHC e diz que 'uma pessoa com demência vive'",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/11/associacao-de-alzheimer-reage-a-fala-de-lula-sobre-fhc-e-que-diz-que-uma-pessoa-com-demencia-vive.shtml",
+      "date": "2026-11-28T15:07:00.000Z",
+      "summary": "A ABRAz (Associação Brasileira de Alzheimer e Condições Relacionadas) divulgou neste sábado (28) uma carta aberta contra a fala do presidente Lula (PT), que chamou o ex-presidente Fernando Henrique Cardoso de \"morto-vivo\" ao comentar a doença dele. Leia mais (",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "O Trabalho Está Desaparecendo Ou Só Se Reinventando Com a Inteligência Artificial?",
+      "link": "https://www.estadao.com.br/economia/gestao-e-negocios/o-trabalho-esta-desaparecendo-ou-so-se-reinventando-com-a-inteligencia-artificial/",
+      "date": "2026-11-28T15:06:35.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Ministro da Educação diz que Pé-de-Meia Universitário começa em março",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/28/ministro-da-educacao-diz-que-pe-de-meia-universitario-comeca-em-marco.ghtml",
+      "date": "2026-11-28T15:01:40.000Z",
+      "summary": "O ministro da Educação, Leonardo Barchini, afirmou neste sábado (28) que o programa Pé-de-Meia Universitário vai começar em março, por estudantes de universidades públicas inscritos no Cadastro Único para Programas Sociais do governo federal (CadÚnico). 🔎O Ca",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lula contém turbulência do mercado com indicação de Trabuco e reduz pressão sobre formação de governo",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/lula-contem-turbulencia-do-mercado-com-indicacao-de-trabuco-e-reduz-pressao-sobre-formacao-de-governo.shtml",
+      "date": "2026-11-28T15:00:00.000Z",
+      "summary": "O anúncio do banqueiro Luiz Carlos Trabuco como ministro da Fazenda conteve a turbulência no mercado financeiro verificada desde a reeleição do presidente Lula (PT) e reduziu a pressão sobre o petista na formação de seu novo governo. Leia mais (11/28/2026 - 12",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Três Poderes: Trabuco é o vencedor da semana e Haddad, o perdedor",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/tres-poderes-trabuco-e-o-vencedor-da-semana-e-haddad-o-perdedor.shtml",
+      "date": "2026-11-28T15:00:00.000Z",
+      "summary": "Vencedor da semana: o banqueiro Luiz Carlos Trabuco, cuja indicação para ministro da Fazenda foi recebida com euforia pelo mercado e dá fôlego a Lula para fazer ajustes na economia. Leia mais (11/28/2026 - 12h00)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Por que Alcolumbre tem pressa para acabar com a quarentena nas agências reguladoras",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/por-que-alcolumbre-tem-pressa-para-acabar-com-a-quarentena-nas-agencias-reguladoras/",
+      "date": "2026-11-28T15:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "IA será como a eletricidade, mas a transição no emprego será dolorosa, diz David Feffer, da Suzano",
+      "link": "https://www.estadao.com.br/economia/negocios/entrevista-david-feffer-presidente-conselho-suzano-ia-emprego-dignidade/",
+      "date": "2026-11-28T15:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Se em 40 anos o Brasil cresceu menos que outros países, algo deve mudar, diz David Feffer, da Suzano",
+      "link": "https://www.estadao.com.br/economia/negocios/entrevista-david-feffer-suzano-crescimento-brasil/",
+      "date": "2026-11-28T15:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Juiz condena Tuta, liderança do PCC, a 18 anos de prisão por lavagem de dinheiro com imóveis",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/juiz-condena-tuta-lideranca-do-pcc-a-18-anos-de-prisao-por-lavagem-de-dinheiro-com-imoveis/",
+      "date": "2026-11-28T14:53:13.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lula pede desculpas por chamar FHC de morto-vivo: ‘Prometo nunca mais cometer uma gafe dessas’",
+      "link": "https://www.estadao.com.br/politica/lula-pede-desculpas-por-chamar-fhc-de-morto-vivo-prometo-nunca-mais-cometer-uma-gafe-dessas/",
+      "date": "2026-11-28T14:48:40.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lula pede desculpas e diz que chamar FHC de morto-vivo foi 'gafe muito ruim'",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/lula-pede-desculpas-e-diz-que-chamar-fhc-de-morto-vivo-foi-gafe-muito-ruim.shtml",
+      "date": "2026-11-28T14:47:00.000Z",
+      "summary": "O presidente Lula (PT) pediu desculpas neste sábado (28) por ter dito que o ex-presidente Fernando Henrique Cardoso, que tem doença de Alzheimer em estágio avançado, é \"um morto-vivo\". Leia mais (11/28/2026 - 11h47)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Número 2 da Fazenda vai comandar transição com Trabuco e discutir agenda além do ajuste fiscal",
+      "link": "https://www.estadao.com.br/economia/numero-2-da-fazenda-vai-comandar-transicao-com-trabuco-e-discutir-agenda-alem-do-ajuste-fiscal/",
+      "date": "2026-11-28T14:46:16.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "Lula se desculpa por fala sobre estado de saúde de FHC: 'Cometi uma gafe muito ruim'",
       "link": "https://g1.globo.com/politica/noticia/2026/11/28/lula-se-desculpa-por-fala-sobre-fhc-cometi-uma-gafe-muito-ruim.ghtml",
       "date": "2026-11-28T14:27:47.000Z",
-      "summary": "O presidente Luiz Inácio Lula da Silva (PT) pediu desculpas, neste sábado (28), por uma declaração dada sobre o estado de saúde do ex-presidente Fernando Henrique Cardoso. \"Foi uma falha minha e eu quero pedir desculpas, Paulo Henrique, a você e à sua família,",
+      "summary": "Lula se desculpa por fala sobre estado de saúde de FHC: 'Cometi uma gafe muito ruim' O presidente Luiz Inácio Lula da Silva (PT) pediu desculpas, neste sábado (28), por uma declaração dada sobre o estado de saúde do ex-presidente Fernando Henrique Cardoso. Dur",
       "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Fundação FHC contesta Lula e diz que último encontro com o ex-presidente aconteceu em 2024",
+      "link": "https://www.estadao.com.br/politica/fundacao-fhc-contesta-lula-e-diz-que-ultimo-encontro-com-o-ex-presidente-foi-em-2024/",
+      "date": "2026-11-28T14:26:45.000Z",
+      "summary": "Fundação FHC contesta relato de Lula sobre visita recente a Fernando Henrique Cardoso e afirma que o último encontro entre os dois ocorreu em 2024.",
+      "source": "Estadão",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -159,15 +357,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Supremo marca julgamento de súmula de Gilmar Mendes que propõe barrar “pautas-bomba” do Congresso",
-      "link": "https://www.estadao.com.br/economia/supremo-marca-julgamento-de-sumula-de-gilmar-mendes-que-propoe-barrar-pautas-bomba-do-congresso/",
-      "date": "2026-11-28T14:00:49.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Cúpula do PT aposta em Lula para conter fogo amigo contra Trabuco, mas teme Congresso hostil em 2027",
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/cupula-do-pt-aposta-em-lula-para-conter-fogo-amigo-contra-trabuco-mas-teme-congresso-hostil-em-2027.shtml",
       "date": "2026-11-28T14:00:00.000Z",
@@ -177,57 +366,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Governo publica portaria que renova auxílio ao diesel",
-      "link": "https://www.poder360.com.br/poder-economia/governo-publica-portaria-que-renova-auxilio-ao-diesel/",
-      "date": "2026-11-28T13:50:38.000Z",
-      "summary": "Medida foi instituída para conter alta dos preços no Brasil depois do início da guerra no Irã",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Campanha termina com direita favorita para governar a Espanha",
-      "link": "https://www.poder360.com.br/poder-internacional/campanha-termina-com-direita-favorita-para-governar-a-espanha/",
-      "date": "2026-11-28T13:34:16.000Z",
-      "summary": "PP e Vox somam maioria para tirar Pedro Sanchéz do poder; crise habitacional antecipou a eleição após derrota de decretos no Congresso",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Lula está cometendo o mesmo erro de Dilma em 2015, diz Jones Manoel",
       "link": "https://www.bbc.com/portuguese/articles/cmp3e7ke9epzo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-28T13:31:27.000Z",
       "summary": "Autodeclarado comunista radical, Jones Manoel critica ajuste nas contas feito por governo Lula e faz alerta sobre risco de repetir \"erros\" do governo de Dilma Rousseff.",
       "source": "BBC News Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Lula não sinalizará tão cedo a quem deixará seu lugar",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/dora-kramer/2026/11/lula-nao-sinalizara-tao-cedo-a-quem-deixara-seu-lugar.shtml",
-      "date": "2026-11-28T13:30:00.000Z",
-      "summary": "Dezembro vai chegando e, com ele, a definição da face que Luiz Inácio da Silva (PT) pretende dar ao derradeiro mandato, crucial para sua biografia e para o país que legará à história. O primeiro acorde, com Luiz Carlos Trabuco na Fazenda, sinaliza afinação na ",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Estou certo que trabalho de Trabuco será exitoso, diz Gilmar",
-      "link": "https://www.poder360.com.br/poder-justica/estou-certo-que-trabalho-de-trabuco-sera-exitoso-diz-gilmar/",
-      "date": "2026-11-28T13:29:54.000Z",
-      "summary": "Ministro afirma que o banqueiro é “muito respeitado pelo mercado” e tem preocupação com a responsabilidade social",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "STF marca análise de proposta de Gilmar para barrar pautas-bomba",
-      "link": "https://www.poder360.com.br/poder-justica/stf-marca-analise-de-proposta-de-gilmar-para-barrar-pautas-bomba/",
-      "date": "2026-11-28T13:04:15.000Z",
-      "summary": "Julgamento será no plenário virtual e começa em 11 de dezembro; regras apresentadas pelo ministro são defendidas pelo governo",
-      "source": "Poder360",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -249,39 +393,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Associação de tribunais de contas lança guia para ajudar estados e municípios a cumprirem plano de educação",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/associacao-de-tribunais-de-contas-lanca-guia-para-ajudar-estados-e-municipios-a-cumprirem-plano-de-educacao.shtml",
-      "date": "2026-11-28T12:20:00.000Z",
-      "summary": "A Associação dos Membros dos Tribunais de Contas do Brasil (Atricon) lançou na última quinta-feira (26) duas iniciativas para ajudar estados e municípios a cumprir obrigações na área educacional. Leia mais (11/28/2026 - 09h20)",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Regras do jogo e o sentido da Constituição",
-      "link": "https://www.estadao.com.br/politica/fernando-schuler/regras-do-jogo-e-o-sentido-da-constituicao/",
-      "date": "2026-11-28T12:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Sánchez tenta mobilizar eleitores para barrar ultradireita na Espanha",
       "link": "https://www.dw.com/pt-br/sánchez-tenta-mobilizar-eleitores-para-barrar-ultradireita-na-espanha/a-80084584?maca=bra-rss-br-all-1030-xml-mrss",
       "date": "2026-11-28T11:49:00.000Z",
       "summary": "No último dia da campanha, socialista conclama espanhóis a votar para impedir possível coalizão com a extrema direita em eleição crucial para o equilíbrio de poder na UE. Conservadores tentam virar o voto da esquerda.",
       "source": "DW Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Fala de Lula sobre FHC foi repugnante e, sobretudo, ingrata",
-      "link": "https://www.estadao.com.br/politica/fabiano-lana/fala-de-lula-sobre-fhc-foi-repugnante-e-sobretudo-ingrata/",
-      "date": "2026-11-28T11:20:56.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -294,15 +411,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Herdeiros da Armani avaliam comprar participação na grife em operação de venda de ações, diz agência",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/herdeiros-da-armani-avaliam-comprar-participacao-na-grife-em-operacao-de-venda-de-acoes-diz-agencia.shtml",
-      "date": "2026-11-28T11:00:00.000Z",
-      "summary": "Os herdeiros do estilista Giorgio Armani, que morreu em setembro de 2025 aos 91 anos, estão considerando comprar uma fatia da empresa que leva seu sobrenome, disseram fontes à agência Reuters. Uma participação de 15% da empresa está à venda conforme Armani ped",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Nas escolas, 1 em cada 8 meninos admite ter criado nudes com IA; alunas e professoras são as vítimas",
       "link": "https://g1.globo.com/educacao/noticia/2026/11/28/safernet-estudo-deepfake-escola.ghtml",
       "date": "2026-11-28T10:42:35.000Z",
@@ -312,101 +420,11 @@
       "type": "imprensa"
     },
     {
-      "title": "Bradesco, sob Trabuco, levou banco privado à favela, lembra fundador do G10 Favelas",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/bradesco-sob-trabuco-levou-banco-privado-a-favela-lembra-fundador-do-g10-favelas.shtml",
-      "date": "2026-11-28T10:00:00.000Z",
-      "summary": "Há cerca de um mês, Gilson Rodrigues, fundador do G10 Favelas, encontrou-se com o presidente do conselho do Bradesco, Luiz Carlos Trabuco Cappi. Para ele, é uma surpresa que agora o banqueiro tenha sido anunciado para o Ministério da Fazenda, já que, à época, ",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Posse de Lula deve ter controle de ônibus na chegada ao DF",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/posse-de-lula-deve-ter-controle-de-onibus-na-chegada-ao-df.shtml",
-      "date": "2026-11-28T09:00:00.000Z",
-      "summary": "O PT já recebeu a inscrição de cerca de 1.200 ônibus de militantes interessados em comparecer à quarta posse do presidente Luiz Inácio Lula da Silva, em 5 de janeiro. Leia mais (11/28/2026 - 06h00)",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Bastidores: Governo Lula vê Macron ‘jogar pra plateia’ ao dizer que carne brasileira é ‘dopada’",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/bastidores-governo-lula-ve-macron-jogar-pra-plateia-ao-dizer-que-carne-brasileira-e-dopada/",
-      "date": "2026-11-28T08:30:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Gasto de campanhas com redes sociais cresce 490%, mas fica atrás de santinhos e cabos eleitorais",
-      "link": "https://www.estadao.com.br/politica/gasto-de-campanhas-com-redes-sociais-cresce-490-mas-fica-atras-de-santinhos-e-cabos-eleitorais/",
-      "date": "2026-11-28T08:30:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Setor imobiliário reivindica adiamento da reforma tributária: ‘É inaplicável neste momento’",
-      "link": "https://www.estadao.com.br/economia/negocios/setor-imobiliario-reivindica-adiamento-da-reforma-tributaria-e-inaplicavel-neste-momento/",
-      "date": "2026-11-28T08:30:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Reforma tributária muda dinâmica do mercado imobiliário, pode pressionar margens e encarecer imóveis",
-      "link": "https://www.estadao.com.br/economia/negocios/reforma-tributaria-muda-dinamica-do-mercado-imobiliario-pode-pressionar-margens-e-encarecer-imoveis/",
-      "date": "2026-11-28T08:30:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Café raro com árvores de 11 metros e sabor de chá-verde é estudado na Amazônia; conheça",
       "link": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/11/28/cafe-raro-com-arvores-de-11-metros-e-sabor-de-cha-verde-e-estudado-na-amazonia-conheca.ghtml",
       "date": "2026-11-28T08:00:00.000Z",
       "summary": "Você conhece o café libérica? Uma espécie rara de café, com frutos grandes e casca grossa, tem chamado a atenção de pesquisadores no Nordeste do Pará. As árvores podem alcançar 11 metros de altura, com troncos de até 60 centímetros de diâmetro. (veja reportage",
       "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Os 3 principais problemas que Trabuco terá que enfrentar na Fazenda no quarto mandato de Lula",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/28/os-3-principais-problemas-que-trabuco-tera-que-enfrentar-na-fazenda-no-quarto-mandato-de-lula.ghtml",
-      "date": "2026-11-28T08:00:00.000Z",
-      "summary": "Andréia Sadi: com Trabuco, Lula blinda Fazenda e controla debate sobre sucessão eleitoral Escolhido para assumir o Ministério da Fazenda no quarto mandato do presidente Luiz Inácio Lula da Silva (PT), Luiz Carlos Trabuco Cappi terá pela frente uma série de des",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Governo avalia transferir Abin para Ministério da Justiça em Lula 4",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/governo-avalia-transferir-abin-para-ministerio-da-justica-em-lula-4.shtml",
-      "date": "2026-11-28T07:03:00.000Z",
-      "summary": "O governo federal avalia transferir a Abin (Agência Brasileira de Inteligência) da Casa Civil para o Ministério da Justiça em meio às discussões sobre a criação do Ministério da Segurança Pública. Leia mais (11/28/2026 - 04h03)",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Fios clandestinos terão prazo para ser regularizados; entenda regras aprovadas pelo Congresso sobre compartilhamento de postes",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/28/fios-clandestinos-terao-prazo-para-ser-regularizados-entenda-regras-aprovadas-pelo-congresso-sobre-compartilhamento-de-postes.ghtml",
-      "date": "2026-11-28T03:00:00.000Z",
-      "summary": "O Congresso Nacional concluiu neste mês a análise de um projeto de lei que redefine as regras para o compartilhamento dos postes. A proposta estabelece novas normas de fiscalização, cria mecanismos para regularizar instalações clandestinas e busca dar mais pre",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Conta de luz: Aneel mantém bandeira tarifária verde para dezembro",
-      "link": "https://www.estadao.com.br/economia/conta-de-luz-aneel-mantem-bandeira-tarifaria-verde-para-dezembro/",
-      "date": "2026-11-27T23:19:36.000Z",
-      "summary": "",
-      "source": "Estadão",
       "cat": "economia",
       "type": "imprensa"
     },
@@ -501,15 +519,6 @@
       "type": "oficial"
     },
     {
-      "title": "Com gasto militar recorde, Alemanha aprova Orçamento para 2027",
-      "link": "https://www.dw.com/pt-br/com-gasto-militar-recorde-alemanha-aprova-orçamento-para-2027/a-80081771?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-27T19:33:00.000Z",
-      "summary": "Governo Merz amplia investimentos em defesa e infraestrutura, enquanto congela benefícios sociais e reduz repasses à previdência para financiar novo pacote de gastos. Endividamente será segundo maior desde o pós-guerra.",
-      "source": "DW Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
       "title": "Comissão debate mortandade de peixes em rios no sul do Pará",
       "link": "https://www.camara.leg.br/noticias/1323205-comissao-debate-mortandade-de-peixes-em-rios-no-sul-do-para",
       "date": "2026-11-27T18:53:00.000Z",
@@ -535,15 +544,6 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Quem é Luiz Carlos Trabuco, o novo ministro da Fazenda de Lula",
-      "link": "https://www.dw.com/pt-br/quem-é-luiz-carlos-trabuco-o-novo-ministro-da-fazenda-de-lula/a-80080281?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-27T17:39:00.000Z",
-      "summary": "Após 57 anos no Bradesco, Trabuco deixa o setor privado para assumir comando da economia brasileira em meio à pressão fiscal. De origem humilde e formado em filosofia, banqueiro atribuiu sua ascensão social à educação.",
-      "source": "DW Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
     },
     {
       "title": "Os 3 principais problemas que Trabuco terá que enfrentar na Fazenda no quarto mandato de Lula",
