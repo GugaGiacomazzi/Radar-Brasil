@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-28T08:25:30.085Z",
+  "updated": "2026-11-28T09:32:27.247Z",
   "market": {
     "ibov": {
       "price": 176573.34,
       "pct": -0.13,
-      "time": "2026-11-28T08:25:24.287Z",
+      "time": "2026-11-28T09:32:15.755Z",
       "history": [
         {
           "d": "2026-10-29",
@@ -141,12 +141,84 @@
   },
   "news": [
     {
-      "title": "Nova sede do Governo de SP integra circuito histórico da capital",
-      "link": "https://www.poder360.com.br/poder-infra/nova-sede-do-governo-de-sp-integra-circuito-historico-da-capital/",
-      "date": "2026-11-28T08:10:47.000Z",
-      "summary": "Cerca de 100 equipamentos culturais e marcos urbanos irão rodear o futuro Centro Administrativo do Estado",
+      "title": "Infra em 1 Minuto: Petrobras dá sinais incertos para acionistas",
+      "link": "https://www.poder360.com.br/poder-infra/infra-em-1-minuto-petrobras-da-sinais-incertos-para-acionistas/",
+      "date": "2026-11-28T09:00:38.000Z",
+      "summary": "Pedro Rodrigues, do CBIE, questiona a motivação dos investimentos da estatal e critica a possível sobreposição de interesses políticos aos dos acionistas",
       "source": "Poder360",
       "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Posse de Lula deve ter controle de ônibus na chegada ao DF",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/posse-de-lula-deve-ter-controle-de-onibus-na-chegada-ao-df.shtml",
+      "date": "2026-11-28T09:00:00.000Z",
+      "summary": "O PT já recebeu a inscrição de cerca de 1.200 ônibus de militantes interessados em comparecer à quarta posse do presidente Luiz Inácio Lula da Silva, em 5 de janeiro. Leia mais (11/28/2026 - 06h00)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lula busca acomodar aliados derrotados nas eleições de 2026",
+      "link": "https://www.poder360.com.br/poder-governo/lula-busca-acomodar-aliados-derrotados-nas-eleicoes-de-2026/",
+      "date": "2026-11-28T08:58:53.000Z",
+      "summary": "Tebet, Gleisi e João Campos estão entre os políticos que podem ganhar espaço no próximo governo",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Trabuco na Fazenda e novo tarifaço de Trump: Por Que Isso Importa?",
+      "link": "https://www.poder360.com.br/poder-economia/trabuco-na-fazenda-e-novo-tarifaco-de-trump-por-que-isso-importa/",
+      "date": "2026-11-28T08:58:34.000Z",
+      "summary": "Podcast do Poder360 analisa os temas políticos da semana que se encerra e traz o que haverá de mais importante na semana que começa",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Centrão mira ministérios estratégicos e manter influência em Lula 4",
+      "link": "https://www.poder360.com.br/poder-governo/centrao-mira-ministerios-estrategicos-e-quer-manter-influencia-em-lula-4/",
+      "date": "2026-11-28T08:58:17.000Z",
+      "summary": "PSD quer Agricultura, Pesca e Cidades; União Brasil busca Turismo e Integração; Republicanos mira Portos e Aeroportos e Indústria",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Bastidores: Governo Lula vê Macron ‘jogar pra plateia’ ao dizer que carne brasileira é ‘dopada’",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/bastidores-governo-lula-ve-macron-jogar-pra-plateia-ao-dizer-que-carne-brasileira-e-dopada/",
+      "date": "2026-11-28T08:30:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Gasto de campanhas com redes sociais cresce 490%, mas fica atrás de santinhos e cabos eleitorais",
+      "link": "https://www.estadao.com.br/politica/gasto-de-campanhas-com-redes-sociais-cresce-490-mas-fica-atras-de-santinhos-e-cabos-eleitorais/",
+      "date": "2026-11-28T08:30:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Setor imobiliário reivindica adiamento da reforma tributária: ‘É inaplicável neste momento’",
+      "link": "https://www.estadao.com.br/economia/negocios/setor-imobiliario-reivindica-adiamento-da-reforma-tributaria-e-inaplicavel-neste-momento/",
+      "date": "2026-11-28T08:30:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Reforma tributária muda dinâmica do mercado imobiliário, pode pressionar margens e encarecer imóveis",
+      "link": "https://www.estadao.com.br/economia/negocios/reforma-tributaria-muda-dinamica-do-mercado-imobiliario-pode-pressionar-margens-e-encarecer-imoveis/",
+      "date": "2026-11-28T08:30:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -240,15 +312,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Fachin libera R$ 316 milhões da liquidação do Master ao BRB",
-      "link": "https://www.poder360.com.br/poder-justica/fachin-libera-r-316-milhoes-do-master-ao-brb/",
-      "date": "2026-11-28T03:10:42.000Z",
-      "summary": "Decisão autoriza retomada de repasses de carteiras de crédito sem disputa de titularidade; ministro mantém bloqueados valores de operações contestadas",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Fios clandestinos terão prazo para ser regularizados; entenda regras aprovadas pelo Congresso sobre compartilhamento de postes",
       "link": "https://g1.globo.com/politica/noticia/2026/11/28/fios-clandestinos-terao-prazo-para-ser-regularizados-entenda-regras-aprovadas-pelo-congresso-sobre-compartilhamento-de-postes.ghtml",
       "date": "2026-11-28T03:00:00.000Z",
@@ -285,27 +348,9 @@
       "type": "imprensa"
     },
     {
-      "title": "Kassio atendeu a 68% dos pedidos de Flávio no TSE, e Estela Aranha, a 67% dos de Lula",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/kassio-atendeu-a-68-dos-pedidos-de-flavio-no-tse-e-estela-aranha-a-67-dos-de-lula.shtml",
-      "date": "2026-11-28T02:00:00.000Z",
-      "summary": "O presidente do TSE (Tribunal Superior Eleitoral), Kassio Nunes Marques, atendeu a 68% dos pedidos da campanha de Flávio Bolsonaro (PL) e a 25% dos da campanha de Lula (PT) nas representações que decidiu na disputa presidencial. Leia mais (11/27/2026 - 23h00)",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Novo Levy ou novo Meirelles? As considerações das redes sobre o futuro ministro da Fazenda",
       "link": "https://www.estadao.com.br/politica/sergio-denicoli/novo-levy-ou-novo-meirelles-as-consideracoes-das-redes-sobre-o-futuro-ministro-da-fazenda/",
       "date": "2026-11-28T01:29:57.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Câmara do Rio dará medalha à deputada Índia Armelau, que incentivou a demissão de ‘petistas’",
-      "link": "https://www.estadao.com.br/politica/camara-do-rio-dara-medalha-a-deputada-india-armelau-que-incentivou-a-demissao-de-petistas-nprp/",
-      "date": "2026-11-28T01:19:30.000Z",
       "summary": "",
       "source": "Estadão",
       "cat": "politica",
@@ -330,42 +375,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Fachin autoriza liquidante do Master a repassar R$ 316 milhões ao BRB",
-      "link": "https://www.estadao.com.br/economia/fachin-autoriza-liquidante-do-master-a-repassar-r-316-milhoes-ao-brb/",
-      "date": "2026-11-27T23:52:29.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Conta de luz: Aneel mantém bandeira tarifária verde para dezembro",
-      "link": "https://www.estadao.com.br/economia/conta-de-luz-aneel-mantem-bandeira-tarifaria-verde-para-dezembro/",
-      "date": "2026-11-27T23:19:36.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Ferramenta gratuita reúne mudanças para MEIs",
-      "link": "https://www.poder360.com.br/poder-empreendedor/ferramenta-gratuita-reune-mudancas-para-meis/",
-      "date": "2026-11-27T23:15:31.000Z",
-      "summary": "Plataforma apresenta 11 medidas sobre faturamento, impostos e dívidas; consulta orienta cada tipo de negócio",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Indústria farmacêutica defende limitar importação direta de medicamentos",
-      "link": "https://www.poder360.com.br/poder-saude/industria-farmaceutica-defende-limitar-importacao-direta-de-medicamentos/",
-      "date": "2026-11-27T23:14:32.000Z",
-      "summary": "Interfarma quer que compra de remédio no exterior por paciente seja válida só em casos excepcionais; Anvisa revisa regras em consulta pública",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Vencedores do concurso Eu e a Lei são premiados na Câmara",
       "link": "https://www.camara.leg.br/noticias/1323889-vencedores-do-concurso-eu-e-a-lei-sao-premiados-na-camara",
       "date": "2026-11-27T21:43:00.000Z",
@@ -373,15 +382,6 @@
       "source": "Agência Câmara",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Padilha será mantido à frente da Saúde no quarto mandato de Lula",
-      "link": "https://www.estadao.com.br/politica/padilha-sera-mantido-a-frente-da-saude-no-quarto-mandato-de-lula/",
-      "date": "2026-11-27T21:14:23.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
     },
     {
       "title": "Desfigurada aos 15 anos: as vidas devastadas por uma década de conflito em Camarões",
@@ -691,6 +691,7 @@
     }
   ],
   "errors": [
+    "Selic (SGS 432): HTTP 304",
     "feed CNN Brasil: HTTP 404",
     "feed CNN Brasil: HTTP 404"
   ]
