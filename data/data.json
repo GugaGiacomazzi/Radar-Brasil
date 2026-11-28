@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-28T15:43:32.806Z",
+  "updated": "2026-11-28T16:45:02.010Z",
   "market": {
     "ibov": {
       "price": 176573.34,
       "pct": -0.13,
-      "time": "2026-11-28T15:43:26.166Z",
+      "time": "2026-11-28T16:44:55.129Z",
       "history": [
         {
           "d": "2026-10-29",
@@ -141,7 +141,79 @@
   },
   "news": [
     {
-      "title": "“Precisava trazer um top”, disse Lula sobre Trabuco",
+      "title": "Cleitinho não ia dar certo como artista, brinca Lula",
+      "link": "https://www.poder360.com.br/poder-governo/cleitinho-nao-ia-dar-certo-como-artista-brinca-lula/",
+      "date": "2026-11-28T16:23:48.000Z",
+      "summary": "Presidente elogiou a trajetória do governador eleito de MInas e fez piada com a tentativa de seguir carreira artística",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Por que Lula escolheu Trabuco?",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/celso-rocha-de-barros/2026/11/por-que-lula-escolheu-trabuco.shtml",
+      "date": "2026-11-28T16:19:00.000Z",
+      "summary": "Se você é de esquerda e ficou meio atordoado com a nomeação de Luiz Carlos Trabuco para o Ministério da Fazenda, eu te entendo. Leia mais (11/28/2026 - 13h19)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lula diz que não convidaria Levy para Fazenda e afirma que Trabuco é sério e de confiança",
+      "link": "https://www.estadao.com.br/politica/lula-diz-que-nao-convidaria-levy-para-fazenda-e-afirma-que-trabuco-e-serio-e-de-confianca/",
+      "date": "2026-11-28T16:07:50.000Z",
+      "summary": "Lula defende a escolha de Luiz Carlos Trabuco Cappi para o Ministério da Fazenda, elogia Haddad e Mantega e afirma que não convidaria Joaquim Levy.",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Tribunal rejeita pedido da Argentina para suspender atividades petrolíferas perto das Malvinas",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/tribunal-rejeita-pedido-da-argentina-para-suspender-atividades-petroliferas-perto-das-malvinas.shtml",
+      "date": "2026-11-28T16:02:00.000Z",
+      "summary": "Um tribunal internacional rejeitou, neste sábado (28), o pedido da Argentina de medidas cautelares para suspender as perfurações de petróleo autorizadas pelo Reino Unido nas proximidades das Ilhas Malvinas. Leia mais (11/28/2026 - 13h02)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "'Preciso trazer um top', diz Lula sobre escolha de Trabuco para Fazenda",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/28/preciso-trazer-um-top-diz-lula-sobre-escolha-de-trabuco-para-fazenda.ghtml",
+      "date": "2026-11-28T15:58:04.000Z",
+      "summary": "Saiba como a indicação de Trabuco para o Ministério da Fazenda foi recebida na política O presidente Luiz Inácio Lula da Silva (PT) afirmou neste sábado que Luiz Carlos Trabuco, presidente do Conselho de Administração do Bradesco e escolhido para o Ministério ",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Cleitinho é 'figura especial' e 'fenômeno na política' de MG, diz Lula",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/11/cleitinho-e-figura-especial-e-fenomeno-na-politica-de-mg-diz-lula.shtml",
+      "date": "2026-11-28T15:57:00.000Z",
+      "summary": "O presidente Lula (PT) fez elogios neste sábado (28) ao senador e governador eleito de Minas Gerais, Cleitinho (Republicanos). Leia mais (11/28/2026 - 12h57)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lula diz que escolheu Trabuco para gerar confiança e que não vai trabalhar contra o povo pobre",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/lula-diz-que-escolheu-trabuco-para-gerar-confianca-e-que-nao-vai-trabalhar-contra-o-povo-pobre.shtml",
+      "date": "2026-11-28T15:54:00.000Z",
+      "summary": "O presidente Lula (PT) disse neste sábado (28) que escolheu Luiz Carlos Trabuco para assumir o Ministério da Fazenda para gerar confiança e afirmou que o banqueiro não irá trabalhar contra a população mais pobre. Leia mais (11/28/2026 - 12h54)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Veja quem são os ministros escolhidos por Lula para o novo governo",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/veja-quem-sao-os-ministros-escolhidos-por-lula-para-o-novo-governo.shtml",
+      "date": "2026-11-28T15:44:00.000Z",
+      "summary": "Depois de garantir o quarto mandato presidencial com virada inédita no segundo turno, o presidente Lula (PT) tem discutido mudanças no primeiro escalão do governo. Leia mais (11/28/2026 - 12h44)",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "“Precisava trazer um top”, diz Lula sobre Trabuco",
       "link": "https://www.poder360.com.br/poder-governo/precisava-trazer-um-top-disse-lula-sobre-trabuco/",
       "date": "2026-11-28T15:39:56.000Z",
       "summary": "Presidente disse ter pedido ao futuro ministro da Fazenda que ele dedicasse 4 anos da sua vida ao Brasil: \"Ele aceitou\"",
@@ -183,15 +255,6 @@
       "summary": "Associação prevê que novas vendas de veículos elétricos no país deve cruzar marca de 1 milhão em 2027, enquanto mercado carros com motor a combustão perdem espaço.",
       "source": "DW Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Nomeação de Trabuco comprova estelionato de Lula, diz Renan Santos",
-      "link": "https://www.poder360.com.br/poder-governo/nomeacao-de-trabuco-comprova-estelionato-de-lula-diz-renan-santos/",
-      "date": "2026-11-28T15:23:06.000Z",
-      "summary": "Segundo ele, a desvinculação de gastos com saúde, educação e emendas foi criticada pelo governo na época da campanha",
-      "source": "Poder360",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -249,39 +312,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Lula contém turbulência do mercado com indicação de Trabuco e reduz pressão sobre formação de governo",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/lula-contem-turbulencia-do-mercado-com-indicacao-de-trabuco-e-reduz-pressao-sobre-formacao-de-governo.shtml",
-      "date": "2026-11-28T15:00:00.000Z",
-      "summary": "O anúncio do banqueiro Luiz Carlos Trabuco como ministro da Fazenda conteve a turbulência no mercado financeiro verificada desde a reeleição do presidente Lula (PT) e reduziu a pressão sobre o petista na formação de seu novo governo. Leia mais (11/28/2026 - 12",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Três Poderes: Trabuco é o vencedor da semana e Haddad, o perdedor",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/tres-poderes-trabuco-e-o-vencedor-da-semana-e-haddad-o-perdedor.shtml",
-      "date": "2026-11-28T15:00:00.000Z",
-      "summary": "Vencedor da semana: o banqueiro Luiz Carlos Trabuco, cuja indicação para ministro da Fazenda foi recebida com euforia pelo mercado e dá fôlego a Lula para fazer ajustes na economia. Leia mais (11/28/2026 - 12h00)",
-      "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Por que Alcolumbre tem pressa para acabar com a quarentena nas agências reguladoras",
       "link": "https://www.estadao.com.br/politica/coluna-do-estadao/por-que-alcolumbre-tem-pressa-para-acabar-com-a-quarentena-nas-agencias-reguladoras/",
       "date": "2026-11-28T15:00:00.000Z",
       "summary": "",
       "source": "Estadão",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "IA será como a eletricidade, mas a transição no emprego será dolorosa, diz David Feffer, da Suzano",
-      "link": "https://www.estadao.com.br/economia/negocios/entrevista-david-feffer-presidente-conselho-suzano-ia-emprego-dignidade/",
-      "date": "2026-11-28T15:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -294,12 +330,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Juiz condena Tuta, liderança do PCC, a 18 anos de prisão por lavagem de dinheiro com imóveis",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/juiz-condena-tuta-lideranca-do-pcc-a-18-anos-de-prisao-por-lavagem-de-dinheiro-com-imoveis/",
-      "date": "2026-11-28T14:53:13.000Z",
+      "title": "IA será como a eletricidade, mas a transição no emprego será dolorosa, diz David Feffer, da Suzano",
+      "link": "https://www.estadao.com.br/economia/negocios/entrevista-david-feffer-presidente-conselho-suzano-ia-emprego-dignidade/",
+      "date": "2026-11-28T15:00:00.000Z",
       "summary": "",
       "source": "Estadão",
-      "cat": "politica",
+      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -308,15 +344,6 @@
       "date": "2026-11-28T14:48:40.000Z",
       "summary": "",
       "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Lula pede desculpas e diz que chamar FHC de morto-vivo foi 'gafe muito ruim'",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/lula-pede-desculpas-e-diz-que-chamar-fhc-de-morto-vivo-foi-gafe-muito-ruim.shtml",
-      "date": "2026-11-28T14:47:00.000Z",
-      "summary": "O presidente Lula (PT) pediu desculpas neste sábado (28) por ter dito que o ex-presidente Fernando Henrique Cardoso, que tem doença de Alzheimer em estágio avançado, é \"um morto-vivo\". Leia mais (11/28/2026 - 11h47)",
-      "source": "Folha",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -336,33 +363,6 @@
       "summary": "Lula se desculpa por fala sobre estado de saúde de FHC: 'Cometi uma gafe muito ruim' O presidente Luiz Inácio Lula da Silva (PT) pediu desculpas, neste sábado (28), por uma declaração dada sobre o estado de saúde do ex-presidente Fernando Henrique Cardoso. Dur",
       "source": "g1",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Fundação FHC contesta Lula e diz que último encontro com o ex-presidente aconteceu em 2024",
-      "link": "https://www.estadao.com.br/politica/fundacao-fhc-contesta-lula-e-diz-que-ultimo-encontro-com-o-ex-presidente-foi-em-2024/",
-      "date": "2026-11-28T14:26:45.000Z",
-      "summary": "Fundação FHC contesta relato de Lula sobre visita recente a Fernando Henrique Cardoso e afirma que o último encontro entre os dois ocorreu em 2024.",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Governo federal renova subvenção ao diesel por mais 30 dias com custo de até R$ 10,5 bi",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/governo-federal-renova-subvencao-ao-diesel-por-mais-30-dias-com-custo-de-ate-r-105-bi.shtml",
-      "date": "2026-11-28T14:14:00.000Z",
-      "summary": "O governo federal prorrogou por mais 30 dias a subvenção de R$ 2,12 paga por litro de diesel comercializado no país. Leia mais (11/28/2026 - 11h14)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Cúpula do PT aposta em Lula para conter fogo amigo contra Trabuco, mas teme Congresso hostil em 2027",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/cupula-do-pt-aposta-em-lula-para-conter-fogo-amigo-contra-trabuco-mas-teme-congresso-hostil-em-2027.shtml",
-      "date": "2026-11-28T14:00:00.000Z",
-      "summary": "Lideranças do PT apostam na autoridade do presidente Luiz Inácio Lula da Silva para conter o fogo-amigo contra Luiz Carlos Trabuco, escolhido ministro da Fazenda no próximo mandato. Nos bastidores, porém, há receio de que a resistência petista se some a uma op",
-      "source": "Folha",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -411,21 +411,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Nas escolas, 1 em cada 8 meninos admite ter criado nudes com IA; alunas e professoras são as vítimas",
-      "link": "https://g1.globo.com/educacao/noticia/2026/11/28/safernet-estudo-deepfake-escola.ghtml",
-      "date": "2026-11-28T10:42:35.000Z",
-      "summary": "Um levantamento inédito divulgado nesta semana pela ONG SaferNet Brasil mostra que 12,4% dos meninos adolescentes ouvidos (um em cada oito) admitem já ter criado ao menos um deepfake sexual. ➡️ Deepfake é uma manipulação que permite alterar um vídeo ou foto de",
-      "source": "g1",
+      "title": "Câmara aprova projeto que estabelece protocolo contra discriminação racial em escolas e faculdades",
+      "link": "https://www.estadao.com.br/politica/camara-aprova-projeto-que-estabelece-protocolo-contra-discriminacao-racial-em-escolas-e-faculdades-nprp/",
+      "date": "2026-11-28T00:07:19.000Z",
+      "summary": "",
+      "source": "Estadão",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Café raro com árvores de 11 metros e sabor de chá-verde é estudado na Amazônia; conheça",
-      "link": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/11/28/cafe-raro-com-arvores-de-11-metros-e-sabor-de-cha-verde-e-estudado-na-amazonia-conheca.ghtml",
-      "date": "2026-11-28T08:00:00.000Z",
-      "summary": "Você conhece o café libérica? Uma espécie rara de café, com frutos grandes e casca grossa, tem chamado a atenção de pesquisadores no Nordeste do Pará. As árvores podem alcançar 11 metros de altura, com troncos de até 60 centímetros de diâmetro. (veja reportage",
-      "source": "g1",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
