@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-28T10:33:37.487Z",
+  "updated": "2026-11-28T11:29:17.618Z",
   "market": {
     "ibov": {
       "price": 176573.34,
       "pct": -0.13,
-      "time": "2026-11-28T10:33:30.042Z",
+      "time": "2026-11-28T11:29:12.033Z",
       "history": [
         {
           "d": "2026-10-29",
@@ -141,6 +141,60 @@
   },
   "news": [
     {
+      "title": "Taiwan realiza eleições locais sob críticas da China",
+      "link": "https://www.poder360.com.br/poder-internacional/taiwan-realiza-eleicoes-locais-sob-criticas-da-china/",
+      "date": "2026-11-28T11:13:21.000Z",
+      "summary": "Ministério da Defesa taiwanês disse que cerca de 30 missões aéreas foram realizadas por aviões de guerra chineses",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Fundação FHC lamenta declaração de Lula, que chamou ex-presidente de 'morto-vivo'",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/28/fundacao-fhc-lamenta-fala-de-lula-que-chamou-ex-presidente-de-morto-vivo.ghtml",
+      "date": "2026-11-28T11:08:48.000Z",
+      "summary": "Lula comenta saúde de FHC e chama de 'morto-vivo' A Fundação Fernando Henrique Cardoso (FHC) publicou uma nota em que lamenta a declaração do presidente Luiz Inácio Lula da Silva (PT) sobre o estado de saúde do ex-presidente. Nessa sexta-feira (27), durante um",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Mineradoras chinesas pedem mais proteção para investimentos no exterior",
+      "link": "https://www.poder360.com.br/poder-china/mineradoras-chinesas-pedem-mais-protecao-para-investimentos-no-exterior/",
+      "date": "2026-11-28T11:00:59.000Z",
+      "summary": "Tensões geopolíticas e regras mais duras elevam custos e dificultam viabilidade de projetos estrangeiros",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Herdeiros da Armani avaliam comprar participação na grife em operação de venda de ações, diz agência",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/herdeiros-da-armani-avaliam-comprar-participacao-na-grife-em-operacao-de-venda-de-acoes-diz-agencia.shtml",
+      "date": "2026-11-28T11:00:00.000Z",
+      "summary": "Os herdeiros do estilista Giorgio Armani, que morreu em setembro de 2025 aos 91 anos, estão considerando comprar uma fatia da empresa que leva seu sobrenome, disseram fontes à agência Reuters. Uma participação de 15% da empresa está à venda conforme Armani ped",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Projeto fixa em 15 anos prazo de vigência para patentes de medicamentos",
+      "link": "https://www.poder360.com.br/poder-congresso/projeto-fixa-em-15-anos-prazo-de-vigencia-para-patentes-de-medicamentos/",
+      "date": "2026-11-28T10:50:59.000Z",
+      "summary": "A proposta altera a Lei de Propriedade Industrial e foi apresentada pelo deputado Clodoaldo Magalhães (PV-PE)",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Nas escolas, 1 em cada 8 meninos admite ter criado nudes com IA; alunas e professoras são as vítimas",
+      "link": "https://g1.globo.com/educacao/noticia/2026/11/28/safernet-estudo-deepfake-escola.ghtml",
+      "date": "2026-11-28T10:42:35.000Z",
+      "summary": "Um levantamento inédito divulgado nesta semana pela ONG SaferNet Brasil mostra que 12,4% dos meninos adolescentes ouvidos (um em cada oito) admitem já ter criado ao menos um deepfake sexual. ➡️ Deepfake é uma manipulação que permite alterar um vídeo ou foto de",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "Lula está cometendo o mesmo erro de Dilma em 2015, diz Jones Manoel",
       "link": "https://www.bbc.com/portuguese/articles/cmp3e7ke9epzo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-28T10:21:53.000Z",
@@ -150,28 +204,10 @@
       "type": "imprensa"
     },
     {
-      "title": "Comissão aprova regras de enfrentamento ao bullying",
-      "link": "https://www.poder360.com.br/?p=2651521",
+      "title": "Comissão da Câmara aprova regras de enfrentamento ao bullying",
+      "link": "https://www.poder360.com.br/poder-congresso/comissao-da-camara-aprova-regras-de-enfrentamento-ao-bullying/",
       "date": "2026-11-28T10:20:54.000Z",
       "summary": "O projeto segue em análise na Câmara dos Deputados; texto autoriza a adoção de medidas não punitivas aos autores da violência",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Financiamento federal à mídia pública volta ao debate nos EUA",
-      "link": "https://www.poder360.com.br/brasil/financiamento-federal-a-midia-publica-volta-ao-debate-nos-eua/",
-      "date": "2026-11-28T10:00:10.000Z",
-      "summary": "Democratas no Congresso discutem retomar modelo descontinuado por Donald Trump ou criar alternativa para o cenário midiático",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Ameaça de Trump causa incerteza no mercado brasileiro de data centers",
-      "link": "https://www.poder360.com.br/poder-economia/ameaca-de-trump-causa-incerteza-no-mercado-brasileiro-de-data-centers/",
-      "date": "2026-11-28T10:00:01.000Z",
-      "summary": "Republicano afirmou que irá taxar empresas norte-americanas que construírem data centers no exterior; setor diz que ainda é cedo para avaliar impacto",
       "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
@@ -183,15 +219,6 @@
       "summary": "Há cerca de um mês, Gilson Rodrigues, fundador do G10 Favelas, encontrou-se com o presidente do conselho do Bradesco, Luiz Carlos Trabuco Cappi. Para ele, é uma surpresa que agora o banqueiro tenha sido anunciado para o Ministério da Fazenda, já que, à época, ",
       "source": "Folha",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Flávio manda Dino “tirar a veste de militante” após suspensão de emendas",
-      "link": "https://www.poder360.com.br/poder-justica/flavio-manda-dino-tirar-a-veste-de-militante-apos-suspensao-de-emendas/",
-      "date": "2026-11-28T09:46:11.000Z",
-      "summary": "Dos EUA, senador reagiu à decisão de ministro do STF, estar no pleno exercício do seu mandato e afirmou que vai “notificar” Fachin",
-      "source": "Poder360",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -303,15 +330,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Entenda as limitações impostas pelo BC para reduzir endividamento com crédito",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/entenda-as-limitacoes-impostas-pelo-bc-para-reduzir-endividamento-com-credito.shtml",
-      "date": "2026-11-28T07:00:00.000Z",
-      "summary": "O Banco Central anunciou na quarta-feira (25) medidas para, segundo a instituição, reduzir o endividamento. Parte dass novas regras entra em vigor em 1º de julho de 2027; a outra parte, em 1º de novembro. Leia mais (11/28/2026 - 04h00)",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Fundação FHC lamenta fala de Lula que chamou ex-presidente de 'morto-vivo'",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/fundacao-fhc-lamenta-fala-de-lula-que-chamou-ex-presidente-de-morto-vivo.shtml",
       "date": "2026-11-28T04:19:00.000Z",
@@ -325,15 +343,6 @@
       "link": "https://g1.globo.com/politica/noticia/2026/11/28/fios-clandestinos-terao-prazo-para-ser-regularizados-entenda-regras-aprovadas-pelo-congresso-sobre-compartilhamento-de-postes.ghtml",
       "date": "2026-11-28T03:00:00.000Z",
       "summary": "O Congresso Nacional concluiu neste mês a análise de um projeto de lei que redefine as regras para o compartilhamento dos postes. A proposta estabelece novas normas de fiscalização, cria mecanismos para regularizar instalações clandestinas e busca dar mais pre",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Nas escolas, 1 em cada 8 meninos admite ter criado nudes com IA; alunas e professoras são as vítimas",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/28/safernet-estudo-deepfake-escola.ghtml",
-      "date": "2026-11-28T03:00:00.000Z",
-      "summary": "Um levantamento inédito divulgado nesta semana pela ONG SaferNet Brasil mostra que 12,4% dos meninos adolescentes ouvidos (um em cada oito) admitem já ter criado ao menos um deepfake sexual. ➡️ Deepfake é uma manipulação que permite alterar um vídeo ou foto de",
       "source": "g1",
       "cat": "politica",
       "type": "imprensa"
@@ -435,15 +444,6 @@
       "summary": "O presidente Donald Trump afirma que a pobreza nos EUA vive uma baixa recorde, o que tem sido questionado. A DW analisa como governos e organizações globais monitoram a pobreza e suas diferentes metodologias.",
       "source": "DW Brasil",
       "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Ao falar para idosos, Lula cita estado de saúde de FHC: 'Está com demência, um morto-vivo'",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/27/ao-falar-para-idosos-lula-cita-estado-de-saude-de-fhc-esta-com-demencia-um-morto-vivo.ghtml",
-      "date": "2026-11-27T19:55:03.000Z",
-      "summary": "Lula comenta saúde de FHC e chama de 'morto-vivo' O presidente Luiz Inácio Lula da Silva (PT) afirmou nesta sexta-feira (27) que visitou o ex-presidente Fernando Henrique Cardoso recentemente e que o ex-presidente está \"com demência, um morto-vivo\". FHC foi di",
-      "source": "g1",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
