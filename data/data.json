@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-28T16:45:02.010Z",
+  "updated": "2026-11-28T17:41:17.630Z",
   "market": {
     "ibov": {
       "price": 176573.34,
       "pct": -0.13,
-      "time": "2026-11-28T16:44:55.129Z",
+      "time": "2026-11-28T17:41:11.047Z",
       "history": [
         {
           "d": "2026-10-29",
@@ -141,6 +141,42 @@
   },
   "news": [
     {
+      "title": "Novo ativismo digital de esquerda agita a política alemã",
+      "link": "https://www.dw.com/pt-br/novo-ativismo-digital-de-esquerda-agita-a-política-alemã/a-80086910?maca=bra-rss-br-all-1030-xml-mrss",
+      "date": "2026-11-28T17:19:00.000Z",
+      "summary": "Grupo The Goodforces quer promover uma guinada à esquerda nas eleições alemãs de 2029, inspirado nos democratas americanos Zohran Mamdani e Bernie Sanders. Mas, será mesmo possível transformar o cenário político do país?",
+      "source": "DW Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Ministro da Educação diz estudar ampliação do Pé-de-Meia para alunos de até 29 anos da EJA",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/11/ministro-da-educacao-diz-estudar-ampliacao-do-pe-de-meia-para-alunos-de-ate-29-anos-da-eja.shtml",
+      "date": "2026-11-28T17:07:00.000Z",
+      "summary": "O ministro da Educação, Leonardo Barchini, afirmou neste sábado (28) que ampliará, a partir da segunda metade de 2027, os contemplados pelo Pé-de-Meia na EJA (Educação de Jovens e Adultos) para 29 anos de idade. Hoje, o benefício é concedido a alunos entre 19 ",
+      "source": "Folha",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Brasil tem maior carga tributária e juro real da América Latina",
+      "link": "https://www.poder360.com.br/poder-economia/brasil-tem-maior-carga-tributaria-e-juro-real-da-america-latina/",
+      "date": "2026-11-28T17:00:57.000Z",
+      "summary": "País também tem a 2ª maior dívida pública da região; combinação de indicadores pressiona investimentos e limita espaço fiscal",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Lula diz que moscas da Granja do Torto são “bolsonaristas”",
+      "link": "https://www.poder360.com.br/poder-governo/lula-diz-que-moscas-da-granja-do-torto-sao-bolsonaristas/",
+      "date": "2026-11-28T16:49:23.000Z",
+      "summary": "Presidente reclamou dos insetos que estavam incomodando durante live com Janones e Leonardo Barchini neste sábado",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "Cleitinho não ia dar certo como artista, brinca Lula",
       "link": "https://www.poder360.com.br/poder-governo/cleitinho-nao-ia-dar-certo-como-artista-brinca-lula/",
       "date": "2026-11-28T16:23:48.000Z",
@@ -222,30 +258,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Ministro diz estudar ampliar Pé-de-Meia para estudantes de até 29 anos",
-      "link": "https://www.poder360.com.br/poder-governo/ministro-anuncia-estudo-para-ampliar-pe-de-meia-ate-29-anos/",
-      "date": "2026-11-28T15:32:53.000Z",
-      "summary": "Benefício atualmente é só para quem tem até 24 anos; anúncio foi feito pelo ministro da Educação, Leonardo Barchini, em live com Lula",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Aeroportos impulsionam receita com aluguel de áreas da União para megaigreja, hotéis e escola",
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/infraestrutura/2026/11/aeroportos-impulsionam-receita-com-aluguel-de-areas-da-uniao-para-megaigreja-hoteis-e-escola.shtml",
       "date": "2026-11-28T15:30:00.000Z",
       "summary": "Concessionárias de aeroportos passaram a obter novas fontes de receita com o aluguel de áreas ociosas para marcas de varejo, uma megaigreja de 30 mil metros quadrados, um hospital, uma escola bilíngue, hotéis e galpões logísticos, entre outros empreendimentos.",
       "source": "Folha",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Renan Santos compara bolsonaristas a “bárbaros” e rejeita aliança",
-      "link": "https://www.poder360.com.br/poder-eleicoes/renan-santos-compara-bolsonaristas-a-barbaros-e-rejeita-alianca/",
-      "date": "2026-11-28T15:25:45.000Z",
-      "summary": "Integrante do MBL afirmou que quem se une ao movimento de oposição acaba traído e destruído; falou em evento em São Paulo",
-      "source": "Poder360",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -282,15 +300,6 @@
       "summary": "Dançarinos musculosos e sem camisa arrancam seus roupões diante de plateias lotadas. Atores fantasiados em parques temáticos são beliscados, puxados e fotografados por centenas de mulheres. Homens jovens e fortes sobem montanhas às pressas carregando turistas ",
       "source": "Folha",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Associação de Alzheimer reage à fala de Lula sobre FHC e diz que 'uma pessoa com demência vive'",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/11/associacao-de-alzheimer-reage-a-fala-de-lula-sobre-fhc-e-que-diz-que-uma-pessoa-com-demencia-vive.shtml",
-      "date": "2026-11-28T15:07:00.000Z",
-      "summary": "A ABRAz (Associação Brasileira de Alzheimer e Condições Relacionadas) divulgou neste sábado (28) uma carta aberta contra a fala do presidente Lula (PT), que chamou o ex-presidente Fernando Henrique Cardoso de \"morto-vivo\" ao comentar a doença dele. Leia mais (",
-      "source": "Folha",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -481,15 +490,6 @@
       "source": "Agência Senado",
       "cat": "politica",
       "type": "oficial"
-    },
-    {
-      "title": "Companhia aérea norueguesa vai à falência em meio à alta de combustíveis",
-      "link": "https://www.dw.com/pt-br/companhia-aérea-norueguesa-vai-à-falência-em-meio-à-alta-de-combustíveis/a-80080661?maca=bra-rss-br-all-1030-xml-mrss",
-      "date": "2026-11-27T19:42:00.000Z",
-      "summary": "Norse Atlantic é a última baixa entre companhias aéreas afetadas pela alta de preços causada pela guerra no Irã, que já tinha afetado duramente a Spirit Airlines e a airBaltic.",
-      "source": "DW Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
     },
     {
       "title": "Pesquisa do Senado sobre violência contra a mulher ganha prêmio de design",
