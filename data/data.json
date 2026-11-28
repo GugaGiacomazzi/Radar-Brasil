@@ -1,15 +1,11 @@
 {
-  "updated": "2026-11-27T23:33:22.772Z",
+  "updated": "2026-11-28T00:31:23.981Z",
   "market": {
     "ibov": {
       "price": 176573.34,
       "pct": -0.13,
-      "time": "2026-11-27T23:33:14.612Z",
+      "time": "2026-11-28T00:31:18.475Z",
       "history": [
-        {
-          "d": "2026-10-28",
-          "c": 171006
-        },
         {
           "d": "2026-10-29",
           "c": 169186
@@ -145,6 +141,42 @@
   },
   "news": [
     {
+      "title": "Fachin ordena devolução de R$ 316 mi ao BRB por carteiras de crédito compradas do Master",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/fachin-ordena-devolucao-de-r-316-mi-ao-brb-por-carteiras-de-credito-compradas-do-master.shtml",
+      "date": "2026-11-28T00:18:00.000Z",
+      "summary": "O presidente do STF (Supremo Tribunal Federal), ministro Edson Fachin, autorizou nesta sexta-feira (27) a devolução de R$ 316,4 milhões ao BRB (Banco de Brasília) referentes às carteiras de crédito adquiridas do Banco Master. Leia mais (11/27/2026 - 21h18)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Câmara aprova projeto que estabelece protocolo contra discriminação racial em escolas e faculdades",
+      "link": "https://www.estadao.com.br/politica/camara-aprova-projeto-que-estabelece-protocolo-contra-discriminacao-racial-em-escolas-e-faculdades-nprp/",
+      "date": "2026-11-28T00:07:19.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Fachin autoriza liquidante do Master a repassar R$ 316 milhões ao BRB",
+      "link": "https://www.estadao.com.br/economia/fachin-autoriza-liquidante-do-master-a-repassar-r-316-milhoes-ao-brb/",
+      "date": "2026-11-27T23:52:29.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Após 'efeito Trabuco', Lula inicia recalibragem do discurso do ajuste fiscal",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/adriana-fernandes/2026/11/apos-efeito-trabuco-lula-inicia-recalibragem-do-discurso-do-ajuste-fiscal.shtml",
+      "date": "2026-11-27T23:40:00.000Z",
+      "summary": "A indicação de Luiz Trabuco para o Ministério da Fazenda no Lula 4 já valeu na largada R$ 0,30 na cotação do dólar. O \"efeito Trabuco\" é muita coisa para o curto período de três dias, entre a quarta (25), quando a Folha revelou que Lula havia feito o convite, ",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "BTG Pactual monta fundo de R$ 1,5 bi para compra de consignados do BRB",
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/btg-pactual-monta-fundo-de-r15-bi-para-compra-de-consignados-do-brb.shtml",
       "date": "2026-11-27T23:25:00.000Z",
@@ -190,30 +222,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Principal plataforma de computação em nuvem da Força Aérea dos EUA sofreu ataque hacker, diz agência",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/tec/2026/11/principal-plataforma-de-computacao-em-nuvem-da-forca-aerea-dos-eua-sofreu-ataque-hacker-diz-agencia.shtml",
-      "date": "2026-11-27T23:00:00.000Z",
-      "summary": "Hackers invadiram a principal plataforma de computação em nuvem da Força Aérea dos Estados Unidos, segundo informaram à Reuters três pessoas a par do assunto. O episódio pode comprometer uma vasta quantidade de dados confidenciais de natureza tática, de pessoa",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Missão tenta se juntar a outros partidos em ação no STF contra regra das sobras eleitorais",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/missao-tenta-se-juntar-a-outros-partidos-em-acao-no-stf-contra-regra-das-sobras-eleitorais.shtml",
       "date": "2026-11-27T22:57:00.000Z",
       "summary": "O Partido Missão pediu ao Supremo Tribunal Federal para entrar como amicus curiae em uma ADI (Ação Direta de Inconstitucionalidade) em que o PDT e o Solidariedade contestam o modelo de distribuição das sobras eleitorais. Leia mais (11/27/2026 - 19h57)",
       "source": "Folha",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Governo de São Paulo exclui 149 mercadorias da substituição tributária do ICMS",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/governo-de-sao-paulo-exclui-149-mercadorias-da-substituicao-tributaria-do-icms.shtml",
-      "date": "2026-11-27T22:54:00.000Z",
-      "summary": "O Governo de São Paulo retirará 149 mercadorias do regime de substituição tributária do ICMS (Imposto sobre Circulação de Mercadorias e Serviços) a partir de abril de 2027. Leia mais (11/27/2026 - 19h54)",
-      "source": "Folha",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -258,15 +272,6 @@
       "date": "2026-11-27T22:27:55.000Z",
       "summary": "A Agência Nacional de Energia Elétrica (Aneel) anunciou nesta sexta-feira (27) que a bandeira tarifaria de dezembro será verde. Isso quer dizer que a conta de luz não terá valor adicional. A bandeira tarifária sinaliza ao consumidor os custos reais da geração ",
       "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Um minueto: Lula e Trabuco terão de acertar o passo para harmonizar o governo",
-      "link": "https://www.estadao.com.br/economia/celso-ming/um-minueto-lula-e-trabuco-terao-de-acertar-o-passo-para-harmonizar-o-governo/",
-      "date": "2026-11-27T21:53:15.000Z",
-      "summary": "",
-      "source": "Estadão",
       "cat": "economia",
       "type": "imprensa"
     },
@@ -550,15 +555,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Master: Fachin decide manter ex-presidente do BRB na Papudinha",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/master-fachin-decide-manter-ex-presidente-do-brb-na-cadeia/",
-      "date": "2026-11-27T12:47:47.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "Na ONU, Angola reafirma compromisso com reconciliação nacional e direitos humanos",
       "link": "https://news.un.org/feed/view/pt/story/2026/11/1855027",
       "date": "2026-11-27T12:00:00.000Z",
@@ -696,6 +692,7 @@
   ],
   "errors": [
     "feed CNN Brasil: HTTP 404",
-    "feed CNN Brasil: HTTP 404"
+    "feed CNN Brasil: HTTP 404",
+    "feed Planalto (governo): HTTP 429"
   ]
 }
