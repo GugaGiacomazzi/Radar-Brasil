@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-28T04:56:23.109Z",
+  "updated": "2026-11-28T05:56:20.256Z",
   "market": {
     "ibov": {
       "price": 176573.34,
       "pct": -0.13,
-      "time": "2026-11-28T04:56:17.160Z",
+      "time": "2026-11-28T05:56:13.749Z",
       "history": [
         {
           "d": "2026-10-29",
@@ -140,6 +140,15 @@
     ]
   },
   "news": [
+    {
+      "title": "Jornalista transformou pipoca em cappuccino, sorvete e milk-shake; negócio inusitado já tem 52 lojas",
+      "link": "https://g1.globo.com/empreendedorismo/pegn/noticia/2026/11/28/pipoca-cappuccino-sorvete-e-milk-shake-negocio-rede.ghtml",
+      "date": "2026-11-28T05:00:00.000Z",
+      "summary": "Ela criou sabores inusitados de pipoca, abriu franquias e chegou a 52 lojas pelo Brasil O que começou como um agrado para clientes de um buffet acabou se tornando o principal negócio da empresária Elaine Moura. Em Goiânia (GO), ela transformou uma pipoca artes",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
     {
       "title": "Proteja o que tem valor",
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/flavio-augusto/2026/11/proteja-o-que-tem-valor.shtml",
@@ -352,15 +361,6 @@
       "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/27/btg-cria-fundo-de-investimento-para-comprar-ate-r-15-bilhao-em-creditos-consignados-do-brb.ghtml",
       "date": "2026-11-27T22:33:08.000Z",
       "summary": "Foto de 19 de novembro de 2025 mostra a fachada do prédio do Banco de Brasília (BRB) Joédson Alves/Agência Brasil O banco BTG Pactual informou nesta sexta-feira (27) que constituiu um fundo de investimentos para comprar até R$ 1,5 bilhão em créditos consignado",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Conta de luz: Aneel mantém bandeira tarifária verde em dezembro",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/27/conta-de-luz-aneel-mantem-bandeira-tarifaria-verde-em-dezembro.ghtml",
-      "date": "2026-11-27T22:27:55.000Z",
-      "summary": "A Agência Nacional de Energia Elétrica (Aneel) anunciou nesta sexta-feira (27) que a bandeira tarifaria de dezembro será verde. Isso quer dizer que a conta de luz não terá valor adicional. A bandeira tarifária sinaliza ao consumidor os custos reais da geração ",
       "source": "g1",
       "cat": "economia",
       "type": "imprensa"
