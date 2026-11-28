@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-28T07:07:37.984Z",
+  "updated": "2026-11-28T08:25:30.085Z",
   "market": {
     "ibov": {
       "price": 176573.34,
       "pct": -0.13,
-      "time": "2026-11-28T07:07:33.311Z",
+      "time": "2026-11-28T08:25:24.287Z",
       "history": [
         {
           "d": "2026-10-29",
@@ -141,6 +141,33 @@
   },
   "news": [
     {
+      "title": "Nova sede do Governo de SP integra circuito histórico da capital",
+      "link": "https://www.poder360.com.br/poder-infra/nova-sede-do-governo-de-sp-integra-circuito-historico-da-capital/",
+      "date": "2026-11-28T08:10:47.000Z",
+      "summary": "Cerca de 100 equipamentos culturais e marcos urbanos irão rodear o futuro Centro Administrativo do Estado",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Café raro com árvores de 11 metros e sabor de chá-verde é estudado na Amazônia; conheça",
+      "link": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/11/28/cafe-raro-com-arvores-de-11-metros-e-sabor-de-cha-verde-e-estudado-na-amazonia-conheca.ghtml",
+      "date": "2026-11-28T08:00:00.000Z",
+      "summary": "Você conhece o café libérica? Uma espécie rara de café, com frutos grandes e casca grossa, tem chamado a atenção de pesquisadores no Nordeste do Pará. As árvores podem alcançar 11 metros de altura, com troncos de até 60 centímetros de diâmetro. (veja reportage",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Os 3 principais problemas que Trabuco terá que enfrentar na Fazenda no quarto mandato de Lula",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/28/os-3-principais-problemas-que-trabuco-tera-que-enfrentar-na-fazenda-no-quarto-mandato-de-lula.ghtml",
+      "date": "2026-11-28T08:00:00.000Z",
+      "summary": "Andréia Sadi: com Trabuco, Lula blinda Fazenda e controla debate sobre sucessão eleitoral Escolhido para assumir o Ministério da Fazenda no quarto mandato do presidente Luiz Inácio Lula da Silva (PT), Luiz Carlos Trabuco Cappi terá pela frente uma série de des",
+      "source": "g1",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
       "title": "Governo avalia transferir Abin para Ministério da Justiça em Lula 4",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/governo-avalia-transferir-abin-para-ministerio-da-justica-em-lula-4.shtml",
       "date": "2026-11-28T07:03:00.000Z",
@@ -191,24 +218,6 @@
       "date": "2026-11-28T07:00:00.000Z",
       "summary": "O Banco Central anunciou na quarta-feira (25) medidas para, segundo a instituição, reduzir o endividamento. Parte dass novas regras entra em vigor em 1º de julho de 2027; a outra parte, em 1º de novembro. Leia mais (11/28/2026 - 04h00)",
       "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Banco dos EUA é fechado na maior quebra em mais de dois anos",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/28/banco-dos-eua-e-fechado-na-maior-quebra-em-mais-de-dois-anos.ghtml",
-      "date": "2026-11-28T06:08:45.000Z",
-      "summary": "Logotipo do OCC, regulador bancário dos EUA, em imagem ilustrativa de 24 de outubro de 2026. Dado Ruvic/Reuters O United Fidelity Bank, com sede em Evansville, no estado de Indiana, foi fechado pelos reguladores americanos nesta sexta-feira (27). Com US$ 5,9 b",
-      "source": "g1",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Jornalista transformou pipoca em cappuccino, sorvete e milk-shake; negócio inusitado já tem 52 lojas",
-      "link": "https://g1.globo.com/empreendedorismo/pegn/noticia/2026/11/28/pipoca-cappuccino-sorvete-e-milk-shake-negocio-rede.ghtml",
-      "date": "2026-11-28T05:00:00.000Z",
-      "summary": "Ela criou sabores inusitados de pipoca, abriu franquias e chegou a 52 lojas pelo Brasil O que começou como um agrado para clientes de um buffet acabou se tornando o principal negócio da empresária Elaine Moura. Em Goiânia (GO), ela transformou uma pipoca artes",
-      "source": "g1",
       "cat": "economia",
       "type": "imprensa"
     },
@@ -352,15 +361,6 @@
       "link": "https://www.poder360.com.br/poder-saude/industria-farmaceutica-defende-limitar-importacao-direta-de-medicamentos/",
       "date": "2026-11-27T23:14:32.000Z",
       "summary": "Interfarma quer que compra de remédio no exterior por paciente seja válida só em casos excepcionais; Anvisa revisa regras em consulta pública",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Conta de luz terá bandeira verde pelo 3º mês seguido em dezembro",
-      "link": "https://www.poder360.com.br/poder-energia/conta-de-luz-tera-bandeira-verde-pelo-3o-mes-seguido-em-dezembro/",
-      "date": "2026-11-27T22:48:15.000Z",
-      "summary": "Aneel mantém tarifa sem cobrança adicional em novembro; decisão indica condições hidrológicas favoráveis à geração de energia",
       "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
