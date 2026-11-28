@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-28T19:50:01.503Z",
+  "updated": "2026-11-28T20:44:22.244Z",
   "market": {
     "ibov": {
       "price": 176573.34,
       "pct": -0.13,
-      "time": "2026-11-28T19:49:55.686Z",
+      "time": "2026-11-28T20:44:18.207Z",
       "history": [
         {
           "d": "2026-10-29",
@@ -141,6 +141,69 @@
   },
   "news": [
     {
+      "title": "Gilmar enaltece FHC depois de Lula chamá-lo de “morto-vivo”",
+      "link": "https://www.poder360.com.br/poder-justica/gilmar-enaltece-fhc-depois-de-lula-chama-lo-de-morto-vivo/",
+      "date": "2026-11-28T20:29:36.000Z",
+      "summary": "Ministro do STF não citou a declaração nem o nome do petista, que pediu desculpas neste sábado (28.nov) pela \"gafe\"",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Alckmin na Segurança Pública é boa escolha, diz Tarso Genro",
+      "link": "https://www.poder360.com.br/poder-governo/alckmin-na-seguranca-publica-e-boa-escolha-diz-tarso-genro/",
+      "date": "2026-11-28T20:21:52.000Z",
+      "summary": "Para ex-ministro da Justiça, vice-presidente é \"gestor experiente, pessoa de muita responsabilidade e honestidade\"",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "É preciso levar a China a sério no agro",
+      "link": "https://www.estadao.com.br/economia/marcos-jank/e-preciso-levar-a-china-a-serio-no-agro/",
+      "date": "2026-11-28T20:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Da química de Trabuco com Lula dependerá a saúde econômica do Brasil",
+      "link": "https://www.estadao.com.br/economia/gustavo-hb-franco/da-quimica-de-trabuco-com-lula-dependera-a-saude-economica-do-brasil/",
+      "date": "2026-11-28T20:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Estados Unidos: Chegou a hora do grande ajuste nos mercados financeiros?",
+      "link": "https://www.estadao.com.br/economia/jose-roberto-mendonca-de-barros/estados-unidos-chegou-hora-do-ajuste/",
+      "date": "2026-11-28T20:00:00.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "'O patriarcado está de acordo com a forma como Deus fez o mundo', diz à BBC pastor americano contra o voto feminino",
+      "link": "https://www.bbc.com/portuguese/articles/cq4gnz3epz83o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-28T19:59:39.000Z",
+      "summary": "O movimento para revogar o direito ao voto das mulheres ganhou força entre cristãos extremamente conservadores, nos Estados Unidos e em outros países, incluindo o Brasil.",
+      "source": "BBC News Brasil",
+      "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Milei diz não ter interesse em ser convidado para posse de Lula",
+      "link": "https://www.poder360.com.br/poder-internacional/milei-diz-nao-ter-interesse-em-ser-convidado-para-posse-de-lula/",
+      "date": "2026-11-28T19:56:41.000Z",
+      "summary": "Presidente argentino volta a criticar o petista, mas afirma que as relações comerciais entre Brasil e Argentina estão intactas",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "Black Friday movimenta R$ 5,4 bi em compras online, alta de 3% em relação a 2025",
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/black-friday-movimenta-r-54-bi-em-compras-online-alta-de-3-em-relacao-a-2025.shtml",
       "date": "2026-11-28T19:33:00.000Z",
@@ -213,39 +276,12 @@
       "type": "imprensa"
     },
     {
-      "title": "Gilmar Mendes defende modernização nas relações de trabalho",
-      "link": "https://www.poder360.com.br/poder-justica/gilmar-mendes-defende-modernizacao-nas-relacoes-de-trabalho/",
-      "date": "2026-11-28T18:28:14.000Z",
-      "summary": "Em palestra para juízes do trabalho, ministro lembrou que o STF já reconheceu a “licitude da terceirização” e disse que a pejotização “não é um conceito jurídico de contornos fechados”",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
       "title": "EUA liquidam United Fidelity Bank, maior quebra bancária do país desde 2024",
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/eua-liquidam-united-fidelity-bank-maior-quebra-bancaria-do-pais-desde-2024.shtml",
       "date": "2026-11-28T18:20:00.000Z",
       "summary": "Órgãos reguladores dos Estados Unidos fecharam o United Fidelity Bank nesta sexta-feira (27), na maior quebra bancária do país em mais de dois anos. O First Citizens Bank comprará os ativos da instituição. Leia mais (11/28/2026 - 15h20)",
       "source": "Folha",
       "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "TJ do Maranhão inicia rescisão com BRB por falta de balanços e mais cortes estudam romper contratos",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/tj-do-maranhao-inicia-rescisao-com-brb-por-falta-de-balancos-e-mais-cortes-estudam-romper-contratos/",
-      "date": "2026-11-28T18:14:51.000Z",
-      "summary": "Tribunal de Justiça maranhense transferiu R$ 2,8 bilhões em depósitos judiciais ao banco e agora aponta descumprimentos contratuais e atrasos no pagamento de alvarás; Estadão procurou o BRB, que ainda não se manifestou.",
-      "source": "Estadão",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Lula anuncia Alckmin na Segurança na próxima semana",
-      "link": "https://www.poder360.com.br/poder-governo/lula-deve-anunciar-alckmin-na-seguranca-na-proxima-semana/",
-      "date": "2026-11-28T18:04:51.000Z",
-      "summary": "Expectativa é que o anúncio seja feito antes da viagem do presidente ao Uruguai, para a cúpula do Mercosul",
-      "source": "Poder360",
-      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -281,15 +317,6 @@
       "date": "2026-11-28T17:07:00.000Z",
       "summary": "O ministro da Educação, Leonardo Barchini, afirmou neste sábado (28) que ampliará, a partir da segunda metade de 2027, os contemplados pelo Pé-de-Meia na EJA (Educação de Jovens e Adultos) para 29 anos de idade. Hoje, o benefício é concedido a alunos entre 19 ",
       "source": "Folha",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Brasil tem maior carga tributária e juro real da América Latina",
-      "link": "https://www.poder360.com.br/poder-economia/brasil-tem-maior-carga-tributaria-e-juro-real-da-america-latina/",
-      "date": "2026-11-28T17:00:57.000Z",
-      "summary": "País também tem a 2ª maior dívida pública da região; combinação de indicadores pressiona investimentos e limita espaço fiscal",
-      "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
     },
@@ -348,15 +375,6 @@
       "type": "imprensa"
     },
     {
-      "title": "O Trabalho Está Desaparecendo Ou Só Se Reinventando Com a Inteligência Artificial?",
-      "link": "https://www.estadao.com.br/economia/gestao-e-negocios/o-trabalho-esta-desaparecendo-ou-so-se-reinventando-com-a-inteligencia-artificial/",
-      "date": "2026-11-28T15:06:35.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Ministro da Educação diz que Pé-de-Meia Universitário começa em março",
       "link": "https://g1.globo.com/politica/noticia/2026/11/28/ministro-da-educacao-diz-que-pe-de-meia-universitario-comeca-em-marco.ghtml",
       "date": "2026-11-28T15:01:40.000Z",
@@ -375,30 +393,12 @@
       "type": "imprensa"
     },
     {
-      "title": "IA será como a eletricidade, mas a transição no emprego será dolorosa, diz David Feffer, da Suzano",
-      "link": "https://www.estadao.com.br/economia/negocios/entrevista-david-feffer-presidente-conselho-suzano-ia-emprego-dignidade/",
-      "date": "2026-11-28T15:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Lula pede desculpas por chamar FHC de morto-vivo: ‘Prometo nunca mais cometer uma gafe dessas’",
       "link": "https://www.estadao.com.br/politica/lula-pede-desculpas-por-chamar-fhc-de-morto-vivo-prometo-nunca-mais-cometer-uma-gafe-dessas/",
       "date": "2026-11-28T14:48:40.000Z",
       "summary": "",
       "source": "Estadão",
       "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Número 2 da Fazenda vai comandar transição com Trabuco e discutir agenda além do ajuste fiscal",
-      "link": "https://www.estadao.com.br/economia/numero-2-da-fazenda-vai-comandar-transicao-com-trabuco-e-discutir-agenda-alem-do-ajuste-fiscal/",
-      "date": "2026-11-28T14:46:16.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
       "type": "imprensa"
     },
     {
@@ -426,6 +426,15 @@
       "summary": "No último dia da campanha, socialista conclama espanhóis a votar para impedir possível coalizão com a extrema direita em eleição crucial para o equilíbrio de poder na UE. Conservadores tentam virar o voto da esquerda.",
       "source": "DW Brasil",
       "cat": "internacional",
+      "type": "imprensa"
+    },
+    {
+      "title": "Câmara do Rio dará medalha à deputada Índia Armelau, que incentivou a demissão de ‘petistas’",
+      "link": "https://www.estadao.com.br/politica/camara-do-rio-dara-medalha-a-deputada-india-armelau-que-incentivou-a-demissao-de-petistas-nprp/",
+      "date": "2026-11-28T01:19:30.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "politica",
       "type": "imprensa"
     },
     {
@@ -586,15 +595,6 @@
       "link": "https://www.bbc.com/portuguese/articles/cw20x68drd43o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-27T10:21:42.000Z",
       "summary": "Indicação de Trabuco foi classificada pela imprensa internacional como uma escolha estratégica para ajudar a tranquilizar o mercado diante da dívida pública",
-      "source": "BBC News Brasil",
-      "cat": "internacional",
-      "type": "imprensa"
-    },
-    {
-      "title": "Os caminhoneiros que se arriscam e ganham pouco para entregar suas compras na Black Friday",
-      "link": "https://www.bbc.com/portuguese/articles/cm4gnjx14j7lo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-27T09:34:55.000Z",
-      "summary": "Como o avanço do comércio eletrônico vem transformando para pior a rotina dos motoristas de carga no Brasil",
       "source": "BBC News Brasil",
       "cat": "internacional",
       "type": "imprensa"
