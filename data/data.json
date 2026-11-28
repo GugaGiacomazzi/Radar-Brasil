@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-28T13:46:27.742Z",
+  "updated": "2026-11-28T14:45:41.430Z",
   "market": {
     "ibov": {
       "price": 176573.34,
       "pct": -0.13,
-      "time": "2026-11-28T13:46:20.370Z",
+      "time": "2026-11-28T14:45:33.930Z",
       "history": [
         {
           "d": "2026-10-29",
@@ -141,6 +141,51 @@
   },
   "news": [
     {
+      "title": "Lula se desculpa por fala sobre estado de saúde de FHC: 'Cometi uma gafe muito ruim'",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/28/lula-se-desculpa-por-fala-sobre-fhc-cometi-uma-gafe-muito-ruim.ghtml",
+      "date": "2026-11-28T14:27:47.000Z",
+      "summary": "O presidente Luiz Inácio Lula da Silva (PT) pediu desculpas, neste sábado (28), por uma declaração dada sobre o estado de saúde do ex-presidente Fernando Henrique Cardoso. \"Foi uma falha minha e eu quero pedir desculpas, Paulo Henrique, a você e à sua família,",
+      "source": "g1",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
+      "title": "Governo federal renova subvenção ao diesel por mais 30 dias com custo de até R$ 10,5 bi",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/governo-federal-renova-subvencao-ao-diesel-por-mais-30-dias-com-custo-de-ate-r-105-bi.shtml",
+      "date": "2026-11-28T14:14:00.000Z",
+      "summary": "O governo federal prorrogou por mais 30 dias a subvenção de R$ 2,12 paga por litro de diesel comercializado no país. Leia mais (11/28/2026 - 11h14)",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Supremo marca julgamento de súmula de Gilmar Mendes que propõe barrar “pautas-bomba” do Congresso",
+      "link": "https://www.estadao.com.br/economia/supremo-marca-julgamento-de-sumula-de-gilmar-mendes-que-propoe-barrar-pautas-bomba-do-congresso/",
+      "date": "2026-11-28T14:00:49.000Z",
+      "summary": "",
+      "source": "Estadão",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Cúpula do PT aposta em Lula para conter fogo amigo contra Trabuco, mas teme Congresso hostil em 2027",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/cupula-do-pt-aposta-em-lula-para-conter-fogo-amigo-contra-trabuco-mas-teme-congresso-hostil-em-2027.shtml",
+      "date": "2026-11-28T14:00:00.000Z",
+      "summary": "Lideranças do PT apostam na autoridade do presidente Luiz Inácio Lula da Silva para conter o fogo-amigo contra Luiz Carlos Trabuco, escolhido ministro da Fazenda no próximo mandato. Nos bastidores, porém, há receio de que a resistência petista se some a uma op",
+      "source": "Folha",
+      "cat": "economia",
+      "type": "imprensa"
+    },
+    {
+      "title": "Governo publica portaria que renova auxílio ao diesel",
+      "link": "https://www.poder360.com.br/poder-economia/governo-publica-portaria-que-renova-auxilio-ao-diesel/",
+      "date": "2026-11-28T13:50:38.000Z",
+      "summary": "Medida foi instituída para conter alta dos preços no Brasil depois do início da guerra no Irã",
+      "source": "Poder360",
+      "cat": "politica",
+      "type": "imprensa"
+    },
+    {
       "title": "Campanha termina com direita favorita para governar a Espanha",
       "link": "https://www.poder360.com.br/poder-internacional/campanha-termina-com-direita-favorita-para-governar-a-espanha/",
       "date": "2026-11-28T13:34:16.000Z",
@@ -181,15 +226,6 @@
       "link": "https://www.poder360.com.br/poder-justica/stf-marca-analise-de-proposta-de-gilmar-para-barrar-pautas-bomba/",
       "date": "2026-11-28T13:04:15.000Z",
       "summary": "Julgamento será no plenário virtual e começa em 11 de dezembro; regras apresentadas pelo ministro são defendidas pelo governo",
-      "source": "Poder360",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Dívida dos MEIs disparou 142% desde a posse de Lula",
-      "link": "https://www.poder360.com.br/poder-economia/divida-dos-meis-disparou-142-desde-a-posse-de-lula/",
-      "date": "2026-11-28T13:00:47.000Z",
-      "summary": "Juro alto e dificuldade para se manter com alta de CNPJs atrapalharam a organização dos microempreendedores; governo dará perdão a partir de 2027",
       "source": "Poder360",
       "cat": "politica",
       "type": "imprensa"
@@ -357,24 +393,6 @@
       "type": "imprensa"
     },
     {
-      "title": "Data centers usam recursos brasileiros sem contribuir para desenvolvimento do país, diz Nina da Hora",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/data-centers-usam-recursos-brasileiros-sem-contribuir-para-desenvolvimento-do-pais-diz-nina-da-hora.shtml",
-      "date": "2026-11-28T07:00:00.000Z",
-      "summary": "A política de atração de data centers para o Brasil corre o risco de aprofundar a dependência tecnológica do país ao oferecer às multinacionais água, energia e território sem garantir o desenvolvimento de tecnologias nacionais, afirma a cientista da computação",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "Racismo algorítmico é falha estrutural, não técnica, afirmam pesquisadoras",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/racismo-algoritmico-e-falha-estrutural-nao-tecnica-afirmam-pesquisadoras.shtml",
-      "date": "2026-11-28T07:00:00.000Z",
-      "summary": "Fotos de pessoas brancas em resultados de buscadores de imagem, filtros que clareiam a cor da pele e equívocos em sistemas de reconhecimento facial que apontam pessoas negras como suspeitas sem evidências não são apenas erros pontuais das plataformas, mas cons",
-      "source": "Folha",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
       "title": "Fios clandestinos terão prazo para ser regularizados; entenda regras aprovadas pelo Congresso sobre compartilhamento de postes",
       "link": "https://g1.globo.com/politica/noticia/2026/11/28/fios-clandestinos-terao-prazo-para-ser-regularizados-entenda-regras-aprovadas-pelo-congresso-sobre-compartilhamento-de-postes.ghtml",
       "date": "2026-11-28T03:00:00.000Z",
@@ -384,27 +402,9 @@
       "type": "imprensa"
     },
     {
-      "title": "Ministério da Segurança Pública não é inédito no Brasil; veja como era e o que especialistas esperam do novo órgão",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/28/ministerio-da-seguranca-publica-nao-e-inedito-no-brasil-veja-como-era-e-o-que-especialistas-esperam-do-novo-orgao.ghtml",
-      "date": "2026-11-28T03:00:00.000Z",
-      "summary": "A promulgação da PEC da Segurança Pública, aprovada pelo Senado Federal, passo que abrirá caminho para o presidente Luiz Inácio Lula da Silva (PT) criar o Ministério da Segurança Pública, é aguardada para os próximos dias. Lula deve criar o novo ministério por",
-      "source": "g1",
-      "cat": "politica",
-      "type": "imprensa"
-    },
-    {
-      "title": "Manifesto em Paris propõe discutir os limites do poder dos bilionários nas sociedades democráticas",
-      "link": "https://www.estadao.com.br/economia/fabio-gallo/manifesto-em-paris-propoe-discutir-os-limites-do-poder-dos-bilionarios-nas-sociedades-democraticas/",
-      "date": "2026-11-28T01:00:00.000Z",
-      "summary": "",
-      "source": "Estadão",
-      "cat": "economia",
-      "type": "imprensa"
-    },
-    {
-      "title": "‘Pretinho básico’ nunca sai de moda: não se faz transição energética com demonização do petróleo",
-      "link": "https://www.estadao.com.br/economia/adriano-pires/pretinho-basico-nunca-sai-de-moda-nao-se-faz-transicao-energetica-com-demonizacao-do-petroleo/",
-      "date": "2026-11-28T01:00:00.000Z",
+      "title": "Conta de luz: Aneel mantém bandeira tarifária verde para dezembro",
+      "link": "https://www.estadao.com.br/economia/conta-de-luz-aneel-mantem-bandeira-tarifaria-verde-para-dezembro/",
+      "date": "2026-11-27T23:19:36.000Z",
       "summary": "",
       "source": "Estadão",
       "cat": "economia",
